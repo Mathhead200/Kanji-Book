@@ -1,0 +1,235 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2067083   24 retainer       : 反臣, 叛臣, 外臣, 寵臣, 義臣, 賢臣, 老臣, 嬖臣, 武臣, 幕臣, ...
+0.0569664    2 rebellious     : 反臣, 叛臣
+0.0555675    8 vassal         : 重臣, 幕臣, 陪臣, 臣下, 讒臣, 近臣, 権臣, 家臣
+0.0395158    5 courtier       : 佞臣, 廷臣, 侍臣, 権臣, 朝臣
+0.0280868    6 subject        : 臣籍, 臣下, 奸臣, 姦臣, 忠臣, 臣民
+0.0265436    2 loyal          : 義臣, 忠臣
+0.0260593    1 immediate      : 直臣
+0.0259433    1 shogun         : 直臣
+0.0256180    1 follower       : 直臣
+0.0249427    3 traitor        : 乱臣, 佞臣, 賊臣
+0.0213882    3 treacherous    : 逆臣, 奸臣, 姦臣
+0.0213411    1 strategist     : 謀臣
+0.0208567    1 tactician      : 謀臣
+0.0201263    1 schemer        : 謀臣
+0.0180060    3 servant        : 臣下, 君臣, 臣
+0.0167460    2 favored        : 嬖臣, 寵臣
+0.0163339    2 disloyal       : 奸臣, 姦臣
+0.0140678    1 foreign        : 外臣
+0.0140048    1 shogunate      : 幕臣
+0.0123289    2 attendant      : 侍臣, 近臣
+0.0121039    1 powerful       : 権臣
+0.0117914    1 wise           : 賢臣
+0.0113794    1 able           : 賢臣
+0.0108636    2 vassalage      : 臣服, 臣従
+0.0106489    1 crowd          : 群臣
+0.0102615    2 master         : 臣節, 君臣
+0.0101658    1 varlet         : 臣
+0.0098936    1 insurrectionist: 賊臣
+0.0094529    1 number         : 群臣
+0.0092869    2 old            : 老臣, 旧臣
+0.0092335    1 libelous       : 讒臣
+0.0092335    1 slanderous     : 讒臣
+0.0091678    1 statesman      : 重臣
+0.0091279    1 minister       : 大臣
+0.0088841    1 large          : 群臣
+0.0086063    1 nobleman       : 大臣
+0.0082195    1 captive        : 臣
+0.0080434    1 slave          : 臣
+0.0078770    1 noble          : 大臣
+0.0075553    1 crafty         : 佞臣
+0.0074159    1 residence      : 大臣
+0.0074018    2 one            : 群臣, 臣節
+0.0073443    1 rebel          : 賊臣
+0.0072848    1 senior         : 重臣
+0.0070522    1 envoy          : 使臣
+0.0069321    1 influential    : 権臣
+0.0069122    1 meritorious    : 功臣
+0.0068984    1 key            : 老臣
+0.0067091    1 loyalty        : 臣節
+0.0066315    1 chief          : 重臣
+0.0066263    1 government     : 大臣
+0.0062427    1 rear           : 陪臣
+0.0060871    1 status         : 臣籍
+0.0058144    1 ruler          : 君臣
+0.0057131    1 military       : 武臣
+0.0045022    1 citizen        : 臣民
+0.0042292    1 surviving      : 遺臣
+0.0036417    1 serving        : 臣事
+0.0036132    1 national       : 臣民
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2067083   24 retainer
+	retainer WORD[ 1,   1]: 0.0237932 反臣
+	retainer WORD[ 1,   2]: 0.0237930 叛臣
+	retainer WORD[ 1,   3]: 0.0155779 外臣
+	retainer WORD[ 1,   4]: 0.0130848 寵臣
+	retainer WORD[ 1,   5]: 0.0124222 義臣
+	retainer WORD[ 1,   6]: 0.0120786 賢臣
+	retainer WORD[ 1,   7]: 0.0073223 老臣
+	retainer WORD[ 1,   8]: 0.0069586 嬖臣
+	retainer WORD[ 1,   9]: 0.0069006 武臣
+	retainer WORD[ 1,  10]: 0.0066551 幕臣
+	retainer WORD[ 1,  11]: 0.0066395 陪臣
+	retainer WORD[ 1,  12]: 0.0062245 臣下
+	retainer WORD[ 1,  13]: 0.0060643 讒臣
+	retainer WORD[ 1,  14]: 0.0059025 権臣
+	retainer WORD[ 1,  15]: 0.0058855 功臣
+	retainer WORD[ 1,  16]: 0.0058259 旧臣
+	retainer WORD[ 1,  17]: 0.0058095 逆臣
+	retainer WORD[ 1,  18]: 0.0057171 奸臣
+	retainer WORD[ 1,  19]: 0.0057171 姦臣
+	retainer WORD[ 1,  20]: 0.0056944 家臣
+	retainer WORD[ 1,  21]: 0.0041624 忠臣
+	retainer WORD[ 1,  22]: 0.0039533 臣事
+	retainer WORD[ 1,  23]: 0.0035582 臣
+	retainer WORD[ 1,  24]: 0.0034097 遺臣
+TOKEN[ 2]: 0.0569664    2 rebellious
+	rebellious WORD[ 2,   1]: 0.0284833 反臣
+	rebellious WORD[ 2,   2]: 0.0284831 叛臣
+TOKEN[ 3]: 0.0555675    8 vassal
+	vassal WORD[ 3,   1]: 0.0080354 重臣
+	vassal WORD[ 3,   2]: 0.0073409 幕臣
+	vassal WORD[ 3,   3]: 0.0073237 陪臣
+	vassal WORD[ 3,   4]: 0.0068658 臣下
+	vassal WORD[ 3,   5]: 0.0066891 讒臣
+	vassal WORD[ 3,   6]: 0.0065208 近臣
+	vassal WORD[ 3,   7]: 0.0065106 権臣
+	vassal WORD[ 3,   8]: 0.0062811 家臣
+TOKEN[ 4]: 0.0395158    5 courtier
+	courtier WORD[ 4,   1]: 0.0081755 佞臣
+	courtier WORD[ 4,   2]: 0.0080659 廷臣
+	courtier WORD[ 4,   3]: 0.0076320 侍臣
+	courtier WORD[ 4,   4]: 0.0073211 権臣
+	courtier WORD[ 4,   5]: 0.0041607 朝臣
+TOKEN[ 5]: 0.0280868    6 subject
+	subject WORD[ 5,   1]: 0.0054707 臣籍
+	subject WORD[ 5,   2]: 0.0054612 臣下
+	subject WORD[ 5,   3]: 0.0050160 奸臣
+	subject WORD[ 5,   4]: 0.0050160 姦臣
+	subject WORD[ 5,   5]: 0.0036520 忠臣
+	subject WORD[ 5,   6]: 0.0034710 臣民
+TOKEN[ 6]: 0.0265436    2 loyal
+	loyal WORD[ 6,   1]: 0.0158929 義臣
+	loyal WORD[ 6,   2]: 0.0106507 忠臣
+TOKEN[ 7]: 0.0260593    1 immediate
+	immediate WORD[ 7,   1]: 0.0260593 直臣
+TOKEN[ 8]: 0.0259433    1 shogun
+	shogun WORD[ 8,   1]: 0.0259433 直臣
+TOKEN[ 9]: 0.0256180    1 follower
+	follower WORD[ 9,   1]: 0.0256180 直臣
+TOKEN[10]: 0.0249427    3 traitor
+	traitor WORD[10,   1]: 0.0089170 乱臣
+	traitor WORD[10,   2]: 0.0080701 佞臣
+	traitor WORD[10,   3]: 0.0079556 賊臣
+TOKEN[11]: 0.0213882    3 treacherous
+	treacherous WORD[11,   1]: 0.0072058 逆臣
+	treacherous WORD[11,   2]: 0.0070912 奸臣
+	treacherous WORD[11,   3]: 0.0070912 姦臣
+TOKEN[12]: 0.0213411    1 strategist
+	strategist WORD[12,   1]: 0.0213411 謀臣
+TOKEN[13]: 0.0208567    1 tactician
+	tactician WORD[13,   1]: 0.0208567 謀臣
+TOKEN[14]: 0.0201263    1 schemer
+	schemer WORD[14,   1]: 0.0201263 謀臣
+TOKEN[15]: 0.0180060    3 servant
+	servant WORD[15,   1]: 0.0058410 臣下
+	servant WORD[15,   2]: 0.0054872 君臣
+	servant WORD[15,   3]: 0.0033389 臣
+TOKEN[16]: 0.0167460    2 favored
+	favored WORD[16,   1]: 0.0086311 嬖臣
+	favored WORD[16,   2]: 0.0081148 寵臣
+TOKEN[17]: 0.0163339    2 disloyal
+	disloyal WORD[17,   1]: 0.0081670 奸臣
+	disloyal WORD[17,   2]: 0.0081670 姦臣
+TOKEN[18]: 0.0140678    1 foreign
+	foreign WORD[18,   1]: 0.0140678 外臣
+TOKEN[19]: 0.0140048    1 shogunate
+	shogunate WORD[19,   1]: 0.0140048 幕臣
+TOKEN[20]: 0.0123289    2 attendant
+	attendant WORD[20,   1]: 0.0062878 侍臣
+	attendant WORD[20,   2]: 0.0060411 近臣
+TOKEN[21]: 0.0121039    1 powerful
+	powerful WORD[21,   1]: 0.0121039 権臣
+TOKEN[22]: 0.0117914    1 wise
+	wise WORD[22,   1]: 0.0117914 賢臣
+TOKEN[23]: 0.0113794    1 able
+	able WORD[23,   1]: 0.0113794 賢臣
+TOKEN[24]: 0.0108636    2 vassalage
+	vassalage WORD[24,   1]: 0.0054333 臣服
+	vassalage WORD[24,   2]: 0.0054303 臣従
+TOKEN[25]: 0.0106489    1 crowd
+	crowd WORD[25,   1]: 0.0106489 群臣
+TOKEN[26]: 0.0102615    2 master
+	master WORD[26,   1]: 0.0052972 臣節
+	master WORD[26,   2]: 0.0049643 君臣
+TOKEN[27]: 0.0101658    1 varlet
+	varlet WORD[27,   1]: 0.0050829 臣
+TOKEN[28]: 0.0098936    1 insurrectionist
+	insurrectionist WORD[28,   1]: 0.0098936 賊臣
+TOKEN[29]: 0.0094529    1 number
+	number WORD[29,   1]: 0.0094529 群臣
+TOKEN[30]: 0.0092869    2 old
+	old WORD[30,   1]: 0.0051720 老臣
+	old WORD[30,   2]: 0.0041150 旧臣
+TOKEN[31]: 0.0092335    1 libelous
+	libelous WORD[31,   1]: 0.0092335 讒臣
+TOKEN[32]: 0.0092335    1 slanderous
+	slanderous WORD[32,   1]: 0.0092335 讒臣
+TOKEN[33]: 0.0091678    1 statesman
+	statesman WORD[33,   1]: 0.0091678 重臣
+TOKEN[34]: 0.0091279    1 minister
+	minister WORD[34,   1]: 0.0045639 大臣
+TOKEN[35]: 0.0088841    1 large
+	large WORD[35,   1]: 0.0088841 群臣
+TOKEN[36]: 0.0086063    1 nobleman
+	nobleman WORD[36,   1]: 0.0043032 大臣
+TOKEN[37]: 0.0082195    1 captive
+	captive WORD[37,   1]: 0.0041098 臣
+TOKEN[38]: 0.0080434    1 slave
+	slave WORD[38,   1]: 0.0040217 臣
+TOKEN[39]: 0.0078770    1 noble
+	noble WORD[39,   1]: 0.0039385 大臣
+TOKEN[40]: 0.0075553    1 crafty
+	crafty WORD[40,   1]: 0.0075553 佞臣
+TOKEN[41]: 0.0074159    1 residence
+	residence WORD[41,   1]: 0.0037080 大臣
+TOKEN[42]: 0.0074018    2 one
+	one WORD[42,   1]: 0.0048704 群臣
+	one WORD[42,   2]: 0.0025315 臣節
+TOKEN[43]: 0.0073443    1 rebel
+	rebel WORD[43,   1]: 0.0073443 賊臣
+TOKEN[44]: 0.0072848    1 senior
+	senior WORD[44,   1]: 0.0072848 重臣
+TOKEN[45]: 0.0070522    1 envoy
+	envoy WORD[45,   1]: 0.0070522 使臣
+TOKEN[46]: 0.0069321    1 influential
+	influential WORD[46,   1]: 0.0069321 権臣
+TOKEN[47]: 0.0069122    1 meritorious
+	meritorious WORD[47,   1]: 0.0069122 功臣
+TOKEN[48]: 0.0068984    1 key
+	key WORD[48,   1]: 0.0068984 老臣
+TOKEN[49]: 0.0067091    1 loyalty
+	loyalty WORD[49,   1]: 0.0067091 臣節
+TOKEN[50]: 0.0066315    1 chief
+	chief WORD[50,   1]: 0.0066315 重臣
+TOKEN[51]: 0.0066263    1 government
+	government WORD[51,   1]: 0.0033132 大臣
+TOKEN[52]: 0.0062427    1 rear
+	rear WORD[52,   1]: 0.0062427 陪臣
+TOKEN[53]: 0.0060871    1 status
+	status WORD[53,   1]: 0.0060871 臣籍
+TOKEN[54]: 0.0058144    1 ruler
+	ruler WORD[54,   1]: 0.0058144 君臣
+TOKEN[55]: 0.0057131    1 military
+	military WORD[55,   1]: 0.0057131 武臣
+TOKEN[56]: 0.0045022    1 citizen
+	citizen WORD[56,   1]: 0.0045022 臣民
+TOKEN[57]: 0.0042292    1 surviving
+	surviving WORD[57,   1]: 0.0042292 遺臣
+TOKEN[58]: 0.0036417    1 serving
+	serving WORD[58,   1]: 0.0036417 臣事
+TOKEN[59]: 0.0036132    1 national
+	national WORD[59,   1]: 0.0036132 臣民

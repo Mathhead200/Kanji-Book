@@ -1,0 +1,834 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0689028   24 retainer       : 反臣, 叛臣, 外臣, 寵臣, 義臣, 賢臣, 老臣, 嬖臣, 武臣, 幕臣, ...
+0.0314580    9 lying          : 伏臥, 偃臥, 臥位, 仰臥, 坐臥, 座臥, 平臥, 側臥, 横臥
+0.0243886    1 maternity      : 臨採
+0.0229562    7 bed            : 臥す, 臥所, 起き臥し, 平臥, 臥せる, 病臥, 臥床
+0.0200978    1 sick           : 臨採
+0.0199194    1 filling        : 臨採
+0.0190847    1 substitute     : 臨採
+0.0190015    1 teacher        : 臨採
+0.0189888    2 rebellious     : 反臣, 叛臣
+0.0188409    8 visit          : 照臨, 台臨, 臨御, 来臨, 光臨, 臨場, 臨幸, 親臨
+0.0185225    8 vassal         : 重臣, 幕臣, 陪臣, 臣下, 讒臣, 近臣, 権臣, 家臣
+0.0157709    1 leave          : 臨採
+0.0131719    5 courtier       : 佞臣, 廷臣, 侍臣, 権臣, 朝臣
+0.0123109    2 someone        : 臨採, 側臥
+0.0117605    5 face           : 偃臥, 伏臥, 倒れ臥す, 仰臥, 臨む
+0.0108122    3 calligraphy    : 意臨, 背臨, 形臨
+0.0104181    4 daily          : 起臥, 坐臥, 座臥, 起き臥し
+0.0103864    2 unrecognized   : 臥龍, 臥竜
+0.0094884    9 one            : 群臣, 帰臥, 臣節, 臥す, 伏臥, 側臥, 仰臥, 横臥, 臨終
+0.0093623    6 subject        : 臣籍, 臣下, 奸臣, 姦臣, 忠臣, 臣民
+0.0091259    2 looking        : 照臨, 背臨
+0.0090808    4 person         : 照臨, 臥龍, 臥竜, 降臨
+0.0088479    2 loyal          : 義臣, 忠臣
+0.0086864    1 immediate      : 直臣
+0.0086478    1 shogun         : 直臣
+0.0085393    1 follower       : 直臣
+0.0083142    3 traitor        : 乱臣, 佞臣, 賊臣
+0.0081765    1 heavens        : 照臨
+0.0077473    2 genius         : 臥龍, 臥竜
+0.0075889    3 model          : 背臨, 形臨, 意臨
+0.0074549    2 exceptional    : 臥龍, 臥竜
+0.0072449    1 decubitus      : 臥位
+0.0071933    2 lie            : 臥せる, 臥す
+0.0071522    2 dragon         : 臥龍, 臥竜
+0.0071294    3 treacherous    : 逆臣, 奸臣, 姦臣
+0.0071137    1 strategist     : 謀臣
+0.0069522    1 tactician      : 謀臣
+0.0069431    1 stole          : 臥具
+0.0069209    2 hidden         : 臥龍, 臥竜
+0.0068830    2 sleeping       : 添い臥し, 側臥
+0.0068172    4 presence       : 臨在, 来臨, 臨席, 臨場
+0.0067088    1 schemer        : 謀臣
+0.0065859    2 brigand        : 野臥, 野臥せり
+0.0065269    4 life           : 坐臥, 座臥, 起き臥し, 起臥
+0.0062971    2 robber         : 野臥, 野臥せり
+0.0062682    1 bedding        : 臥具
+0.0060020    3 servant        : 臣下, 君臣, 臣
+0.0058186    1 empress        : 台臨
+0.0056708    2 tired          : 草臥れる, 待ち草臥れる
+0.0056356    1 fall           : 倒れ臥す
+0.0055820    2 favored        : 嬖臣, 寵臣
+0.0055455    1 prince         : 台臨
+0.0054446    2 disloyal       : 奸臣, 姦臣
+0.0052874    1 crown          : 台臨
+0.0051334    1 monk           : 臥具
+0.0046916    2 take           : 臥す, 臨む
+0.0046893    1 foreign        : 外臣
+0.0046683    1 shogunate      : 幕臣
+0.0044855    2 sitting        : 坐臥, 座臥
+0.0044609    1 thankless      : 草臥れ儲け
+0.0041981    3 attendance     : 来臨, 臨席, 臨場
+0.0041096    2 attendant      : 侍臣, 近臣
+0.0040346    1 powerful       : 権臣
+0.0039305    1 wise           : 賢臣
+0.0038898    1 bedchamber     : 臥所
+0.0038808    2 ill            : 平臥, 病臥
+0.0037931    1 able           : 賢臣
+0.0036448    3 death          : 臨死, 臨終, 臨む
+0.0036212    2 vassalage      : 臣服, 臣従
+0.0035872    1 itinerant      : 野臥
+0.0035829    1 position       : 臥位
+0.0035496    1 crowd          : 群臣
+0.0035402    2 noble          : 大臣, 親臨
+0.0034917    1 body           : 臥位
+0.0034603    2 government     : 帰臥, 大臣
+0.0034205    2 master         : 臣節, 君臣
+0.0033886    1 varlet         : 臣
+0.0033588    3 emperor        : 臨御, 臨幸, 親臨
+0.0033558    1 become         : 草臥れる
+0.0033350    1 flat           : 倒れ臥す
+0.0032979    1 insurrectionist: 賊臣
+0.0032930    1 ascetic        : 野臥
+0.0032530    1 bedroom        : 臥所
+0.0032385    1 hermit         : 野臥
+0.0032050    1 airport        : 臨空
+0.0031510    1 number         : 群臣
+0.0030956    2 old            : 老臣, 旧臣
+0.0030778    1 libelous       : 讒臣
+0.0030778    1 slanderous     : 讒臣
+0.0030639    1 task           : 草臥れ儲け
+0.0030559    1 statesman      : 重臣
+0.0030426    1 minister       : 大臣
+0.0030148    1 wandering      : 野臥
+0.0029614    1 large          : 群臣
+0.0028973    1 effort         : 草臥れ儲け
+0.0028766    1 waste          : 草臥れ儲け
+0.0028688    1 nobleman       : 大臣
+0.0028464    2 going          : 起き臥し, 起臥
+0.0027480    1 sticking       : 意臨
+0.0027423    1 awake          : 起き臥し
+0.0027398    1 captive        : 臣
+0.0027304    1 soldier        : 野臥
+0.0026811    1 slave          : 臣
+0.0026021    1 asleep         : 起き臥し
+0.0025566    1 samurai        : 野臥
+0.0025184    1 crafty         : 佞臣
+0.0025052    1 fortune        : 野臥
+0.0024870    1 laid           : 平臥
+0.0024720    1 residence      : 大臣
+0.0024481    1 rebel          : 賊臣
+0.0024479    1 prostrate      : 伏臥
+0.0024408    1 priest         : 野臥
+0.0024332    2 arrival        : 光臨, 降臨
+0.0024283    1 senior         : 重臣
+0.0024181    1 battered       : 草臥れる
+0.0024114    1 supine         : 仰臥
+0.0023507    1 envoy          : 使臣
+0.0023168    2 side           : 側臥, 横臥
+0.0023107    1 influential    : 権臣
+0.0023041    1 meritorious    : 功臣
+0.0023007    1 rising         : 起き臥し
+0.0022995    1 key            : 老臣
+0.0022364    1 loyalty        : 臣節
+0.0022259    2 coming         : 来臨, 再臨
+0.0022105    1 chief          : 重臣
+0.0022063    2 special        : 臨調, 臨時
+0.0021608    1 retire         : 臥せる
+0.0021152    1 mountain       : 野臥
+0.0020885    1 month          : 臨月
+0.0020809    1 rear           : 陪臣
+0.0020625    2 go             : 臥せる, 臨む
+0.0020530    1 waiting        : 待ち草臥れる
+0.0020290    1 status         : 臣籍
+0.0019670    1 criticality    : 臨界
+0.0019381    1 ruler          : 君臣
+0.0019237    1 harbour        : 臨港
+0.0019237    1 harbor         : 臨港
+0.0019044    1 military       : 武臣
+0.0018652    1 exhausted      : 草臥れる
+0.0018652    1 weary          : 草臥れる
+0.0018457    1 physiology     : 臨床
+0.0018204    1 fed            : 草臥れる
+0.0018200    1 illness        : 臥せる
+0.0017746    1 clinical       : 臨床
+0.0017666    1 waking         : 起臥
+0.0017570    1 facing         : 臨港
+0.0017241    1 pathology      : 臨床
+0.0017195    1 upward         : 仰臥
+0.0016850    1 interim        : 臨時
+0.0016849    1 expedient      : 臨機
+0.0016529    1 ad             : 臨機
+0.0016528    1 coastal        : 臨海
+0.0016528    1 maritime       : 臨海
+0.0016489    1 confined       : 臥床
+0.0016132    1 action         : 臨戦
+0.0016026    1 provisional    : 臨時
+0.0016024    1 seaside        : 臨海
+0.0015817    1 nuclear        : 臨界
+0.0015734    1 time           : 起き臥し
+0.0015634    1 deathbed       : 臨終
+0.0015456    1 native         : 帰臥
+0.0015407    1 battle         : 臨戦
+0.0015315    1 council        : 臨調
+0.0015297    1 second         : 再臨
+0.0015007    1 citizen        : 臣民
+0.0014742    1 next           : 側臥
+0.0014603    1 childbirth     : 臨月
+0.0014603    1 pregnancy      : 臨月
+0.0014582    1 sleep          : 起臥
+0.0014251    1 adjacent       : 臨空
+0.0014097    1 surviving      : 遺臣
+0.0013971    1 back           : 仰臥
+0.0013934    1 grow           : 草臥れる
+0.0013904    1 region         : 帰臥
+0.0013893    1 commission     : 臨調
+0.0013790    1 worn           : 草臥れる
+0.0013588    1 live           : 帰臥
+0.0013554    1 job            : 帰臥
+0.0013437    1 raid           : 臨検
+0.0013436    1 boundary       : 臨界
+0.0013436    1 mass           : 臨界
+0.0013375    1 return         : 帰臥
+0.0013292    1 critical       : 臨界
+0.0013246    1 temperature    : 臨界
+0.0013202    1 site           : 臨空
+0.0013092    1 rest           : 安臥
+0.0013076    1 extraordinary  : 臨時
+0.0013025    1 confrontation  : 臨み
+0.0012997    1 hour           : 臨終
+0.0012957    1 occasion       : 臨機
+0.0012920    1 investigation  : 臨検
+0.0012828    1 living         : 起臥
+0.0012610    1 quiet          : 安臥
+0.0012551    1 extra          : 臨時
+0.0012506    1 participate    : 臨む
+0.0012474    1 official       : 帰臥
+0.0012434    1 final          : 臨月
+0.0012421    1 crisis         : 臨む
+0.0012412    1 use            : 草臥れる
+0.0012351    1 inspection     : 臨検
+0.0012298    1 copy           : 臨書
+0.0012273    1 dying          : 臨終
+0.0012139    1 serving        : 臣事
+0.0012055    1 overlook       : 臨む
+0.0012044    1 national       : 臣民
+0.0011931    1 attend         : 臨む
+0.0011923    1 temporary      : 臨時
+0.0011816    1 challenge      : 臨み
+0.0011722    1 pressure       : 臨界
+0.0011702    1 call           : 光臨
+0.0011667    1 due            : 臨月
+0.0011122    1 function       : 臨む
+0.0010728    1 appear         : 臨む
+0.0010123    1 issue          : 臨む
+0.0010088    1 join           : 臨む
+0.0010060    1 state          : 臨界
+0.0009987    1 deal           : 臨む
+0.0009924    1 meet           : 臨む
+0.0009880    1 writing        : 臨書
+0.0009803    1 descent        : 降臨
+0.0009121    1 point          : 臨界
+0.0009054    1 present        : 臨む
+0.0008978    1 court          : 臨む
+0.0008953    1 situation      : 臨む
+0.0008898    1 front          : 臨む
+0.0008358    1 important      : 降臨
+0.0008268    1 earth          : 降臨
+0.0008064    1 look           : 臨む
+0.0007936    1 god            : 降臨
+0.0007899    1 part           : 臨む
+0.0007561    1 country        : 君臨
+0.0007418    1 appearance     : 降臨
+0.0007267    1 place          : 臨む
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0689028   24 retainer
+	retainer WORD[ 1,   1]: 0.0079311 反臣
+	retainer WORD[ 1,   2]: 0.0079310 叛臣
+	retainer WORD[ 1,   3]: 0.0051926 外臣
+	retainer WORD[ 1,   4]: 0.0043616 寵臣
+	retainer WORD[ 1,   5]: 0.0041407 義臣
+	retainer WORD[ 1,   6]: 0.0040262 賢臣
+	retainer WORD[ 1,   7]: 0.0024408 老臣
+	retainer WORD[ 1,   8]: 0.0023195 嬖臣
+	retainer WORD[ 1,   9]: 0.0023002 武臣
+	retainer WORD[ 1,  10]: 0.0022184 幕臣
+	retainer WORD[ 1,  11]: 0.0022132 陪臣
+	retainer WORD[ 1,  12]: 0.0020748 臣下
+	retainer WORD[ 1,  13]: 0.0020214 讒臣
+	retainer WORD[ 1,  14]: 0.0019675 権臣
+	retainer WORD[ 1,  15]: 0.0019618 功臣
+	retainer WORD[ 1,  16]: 0.0019420 旧臣
+	retainer WORD[ 1,  17]: 0.0019365 逆臣
+	retainer WORD[ 1,  18]: 0.0019057 奸臣
+	retainer WORD[ 1,  19]: 0.0019057 姦臣
+	retainer WORD[ 1,  20]: 0.0018981 家臣
+	retainer WORD[ 1,  21]: 0.0013875 忠臣
+	retainer WORD[ 1,  22]: 0.0013178 臣事
+	retainer WORD[ 1,  23]: 0.0011861 臣
+	retainer WORD[ 1,  24]: 0.0011366 遺臣
+TOKEN[ 2]: 0.0314580    9 lying
+	lying WORD[ 2,   1]: 0.0060865 伏臥
+	lying WORD[ 2,   2]: 0.0055823 偃臥
+	lying WORD[ 2,   3]: 0.0047721 臥位
+	lying WORD[ 2,   4]: 0.0047651 仰臥
+	lying WORD[ 2,   5]: 0.0024907 坐臥
+	lying WORD[ 2,   6]: 0.0024907 座臥
+	lying WORD[ 2,   7]: 0.0020613 平臥
+	lying WORD[ 2,   8]: 0.0017175 側臥
+	lying WORD[ 2,   9]: 0.0014917 横臥
+TOKEN[ 3]: 0.0243886    1 maternity
+	maternity WORD[ 3,   1]: 0.0243886 臨採
+TOKEN[ 4]: 0.0229562    7 bed
+	bed WORD[ 4,   1]: 0.0036967 臥す
+	bed WORD[ 4,   2]: 0.0026579 臥所
+	bed WORD[ 4,   3]: 0.0022267 起き臥し
+	bed WORD[ 4,   4]: 0.0018740 平臥
+	bed WORD[ 4,   5]: 0.0018490 臥せる
+	bed WORD[ 4,   6]: 0.0018355 病臥
+	bed WORD[ 4,   7]: 0.0014231 臥床
+TOKEN[ 5]: 0.0200978    1 sick
+	sick WORD[ 5,   1]: 0.0200978 臨採
+TOKEN[ 6]: 0.0199194    1 filling
+	filling WORD[ 6,   1]: 0.0199194 臨採
+TOKEN[ 7]: 0.0190847    1 substitute
+	substitute WORD[ 7,   1]: 0.0190847 臨採
+TOKEN[ 8]: 0.0190015    1 teacher
+	teacher WORD[ 8,   1]: 0.0190015 臨採
+TOKEN[ 9]: 0.0189888    2 rebellious
+	rebellious WORD[ 9,   1]: 0.0094944 反臣
+	rebellious WORD[ 9,   2]: 0.0094944 叛臣
+TOKEN[10]: 0.0188409    8 visit
+	visit WORD[10,   1]: 0.0068009 照臨
+	visit WORD[10,   2]: 0.0046300 台臨
+	visit WORD[10,   3]: 0.0015385 臨御
+	visit WORD[10,   4]: 0.0015353 来臨
+	visit WORD[10,   5]: 0.0012582 光臨
+	visit WORD[10,   6]: 0.0011219 臨場
+	visit WORD[10,   7]: 0.0011219 臨幸
+	visit WORD[10,   8]: 0.0008343 親臨
+TOKEN[11]: 0.0185225    8 vassal
+	vassal WORD[11,   1]: 0.0026785 重臣
+	vassal WORD[11,   2]: 0.0024470 幕臣
+	vassal WORD[11,   3]: 0.0024412 陪臣
+	vassal WORD[11,   4]: 0.0022886 臣下
+	vassal WORD[11,   5]: 0.0022297 讒臣
+	vassal WORD[11,   6]: 0.0021736 近臣
+	vassal WORD[11,   7]: 0.0021702 権臣
+	vassal WORD[11,   8]: 0.0020937 家臣
+TOKEN[12]: 0.0157709    1 leave
+	leave WORD[12,   1]: 0.0157709 臨採
+TOKEN[13]: 0.0131719    5 courtier
+	courtier WORD[13,   1]: 0.0027252 佞臣
+	courtier WORD[13,   2]: 0.0026886 廷臣
+	courtier WORD[13,   3]: 0.0025440 侍臣
+	courtier WORD[13,   4]: 0.0024404 権臣
+	courtier WORD[13,   5]: 0.0013869 朝臣
+TOKEN[14]: 0.0123109    2 someone
+	someone WORD[14,   1]: 0.0113363 臨採
+	someone WORD[14,   2]: 0.0009746 側臥
+TOKEN[15]: 0.0117605    5 face
+	face WORD[15,   1]: 0.0040959 偃臥
+	face WORD[15,   2]: 0.0029772 伏臥
+	face WORD[15,   3]: 0.0027133 倒れ臥す
+	face WORD[15,   4]: 0.0011654 仰臥
+	face WORD[15,   5]: 0.0008087 臨む
+TOKEN[16]: 0.0108122    3 calligraphy
+	calligraphy WORD[16,   1]: 0.0054002 意臨
+	calligraphy WORD[16,   2]: 0.0027090 背臨
+	calligraphy WORD[16,   3]: 0.0027030 形臨
+TOKEN[17]: 0.0104181    4 daily
+	daily WORD[17,   1]: 0.0030912 起臥
+	daily WORD[17,   2]: 0.0024560 坐臥
+	daily WORD[17,   3]: 0.0024560 座臥
+	daily WORD[17,   4]: 0.0024150 起き臥し
+TOKEN[18]: 0.0103864    2 unrecognized
+	unrecognized WORD[18,   1]: 0.0069020 臥龍
+	unrecognized WORD[18,   2]: 0.0034844 臥竜
+TOKEN[19]: 0.0094884    9 one
+	one WORD[19,   1]: 0.0016235 群臣
+	one WORD[19,   2]: 0.0012682 帰臥
+	one WORD[19,   3]: 0.0008438 臣節
+	one WORD[19,   4]: 0.0008224 臥す
+	one WORD[19,   5]: 0.0008207 伏臥
+	one WORD[19,   6]: 0.0006948 側臥
+	one WORD[19,   7]: 0.0006425 仰臥
+	one WORD[19,   8]: 0.0006034 横臥
+	one WORD[19,   9]: 0.0005242 臨終
+TOKEN[20]: 0.0093623    6 subject
+	subject WORD[20,   1]: 0.0018236 臣籍
+	subject WORD[20,   2]: 0.0018204 臣下
+	subject WORD[20,   3]: 0.0016720 奸臣
+	subject WORD[20,   4]: 0.0016720 姦臣
+	subject WORD[20,   5]: 0.0012173 忠臣
+	subject WORD[20,   6]: 0.0011570 臣民
+TOKEN[21]: 0.0091259    2 looking
+	looking WORD[21,   1]: 0.0068182 照臨
+	looking WORD[21,   2]: 0.0023078 背臨
+TOKEN[22]: 0.0090808    4 person
+	person WORD[22,   1]: 0.0044377 照臨
+	person WORD[22,   2]: 0.0027375 臥龍
+	person WORD[22,   3]: 0.0013820 臥竜
+	person WORD[22,   4]: 0.0005235 降臨
+TOKEN[23]: 0.0088479    2 loyal
+	loyal WORD[23,   1]: 0.0052976 義臣
+	loyal WORD[23,   2]: 0.0035502 忠臣
+TOKEN[24]: 0.0086864    1 immediate
+	immediate WORD[24,   1]: 0.0086864 直臣
+TOKEN[25]: 0.0086478    1 shogun
+	shogun WORD[25,   1]: 0.0086478 直臣
+TOKEN[26]: 0.0085393    1 follower
+	follower WORD[26,   1]: 0.0085393 直臣
+TOKEN[27]: 0.0083142    3 traitor
+	traitor WORD[27,   1]: 0.0029723 乱臣
+	traitor WORD[27,   2]: 0.0026900 佞臣
+	traitor WORD[27,   3]: 0.0026519 賊臣
+TOKEN[28]: 0.0081765    1 heavens
+	heavens WORD[28,   1]: 0.0081765 照臨
+TOKEN[29]: 0.0077473    2 genius
+	genius WORD[29,   1]: 0.0051482 臥龍
+	genius WORD[29,   2]: 0.0025991 臥竜
+TOKEN[30]: 0.0075889    3 model
+	model WORD[30,   1]: 0.0025343 背臨
+	model WORD[30,   2]: 0.0025286 形臨
+	model WORD[30,   3]: 0.0025260 意臨
+TOKEN[31]: 0.0074549    2 exceptional
+	exceptional WORD[31,   1]: 0.0049539 臥龍
+	exceptional WORD[31,   2]: 0.0025010 臥竜
+TOKEN[32]: 0.0072449    1 decubitus
+	decubitus WORD[32,   1]: 0.0072449 臥位
+TOKEN[33]: 0.0071933    2 lie
+	lie WORD[33,   1]: 0.0017988 臥せる
+	lie WORD[33,   2]: 0.0017982 臥す
+TOKEN[34]: 0.0071522    2 dragon
+	dragon WORD[34,   1]: 0.0047528 臥龍
+	dragon WORD[34,   2]: 0.0023994 臥竜
+TOKEN[35]: 0.0071294    3 treacherous
+	treacherous WORD[35,   1]: 0.0024019 逆臣
+	treacherous WORD[35,   2]: 0.0023637 奸臣
+	treacherous WORD[35,   3]: 0.0023637 姦臣
+TOKEN[36]: 0.0071137    1 strategist
+	strategist WORD[36,   1]: 0.0071137 謀臣
+TOKEN[37]: 0.0069522    1 tactician
+	tactician WORD[37,   1]: 0.0069522 謀臣
+TOKEN[38]: 0.0069431    1 stole
+	stole WORD[38,   1]: 0.0069431 臥具
+TOKEN[39]: 0.0069209    2 hidden
+	hidden WORD[39,   1]: 0.0045991 臥龍
+	hidden WORD[39,   2]: 0.0023218 臥竜
+TOKEN[40]: 0.0068830    2 sleeping
+	sleeping WORD[40,   1]: 0.0052027 添い臥し
+	sleeping WORD[40,   2]: 0.0016802 側臥
+TOKEN[41]: 0.0068172    4 presence
+	presence WORD[41,   1]: 0.0026832 臨在
+	presence WORD[41,   2]: 0.0016794 来臨
+	presence WORD[41,   3]: 0.0012273 臨席
+	presence WORD[41,   4]: 0.0012273 臨場
+TOKEN[42]: 0.0067088    1 schemer
+	schemer WORD[42,   1]: 0.0067088 謀臣
+TOKEN[43]: 0.0065859    2 brigand
+	brigand WORD[43,   1]: 0.0032930 野臥
+	brigand WORD[43,   2]: 0.0032930 野臥せり
+TOKEN[44]: 0.0065269    4 life
+	life WORD[44,   1]: 0.0018067 坐臥
+	life WORD[44,   2]: 0.0018067 座臥
+	life WORD[44,   3]: 0.0017765 起き臥し
+	life WORD[44,   4]: 0.0011370 起臥
+TOKEN[45]: 0.0062971    2 robber
+	robber WORD[45,   1]: 0.0031485 野臥
+	robber WORD[45,   2]: 0.0031485 野臥せり
+TOKEN[46]: 0.0062682    1 bedding
+	bedding WORD[46,   1]: 0.0062682 臥具
+TOKEN[47]: 0.0060020    3 servant
+	servant WORD[47,   1]: 0.0019470 臣下
+	servant WORD[47,   2]: 0.0018291 君臣
+	servant WORD[47,   3]: 0.0011130 臣
+TOKEN[48]: 0.0058186    1 empress
+	empress WORD[48,   1]: 0.0058186 台臨
+TOKEN[49]: 0.0056708    2 tired
+	tired WORD[49,   1]: 0.0034153 草臥れる
+	tired WORD[49,   2]: 0.0022556 待ち草臥れる
+TOKEN[50]: 0.0056356    1 fall
+	fall WORD[50,   1]: 0.0056356 倒れ臥す
+TOKEN[51]: 0.0055820    2 favored
+	favored WORD[51,   1]: 0.0028770 嬖臣
+	favored WORD[51,   2]: 0.0027049 寵臣
+TOKEN[52]: 0.0055455    1 prince
+	prince WORD[52,   1]: 0.0055455 台臨
+TOKEN[53]: 0.0054446    2 disloyal
+	disloyal WORD[53,   1]: 0.0027223 奸臣
+	disloyal WORD[53,   2]: 0.0027223 姦臣
+TOKEN[54]: 0.0052874    1 crown
+	crown WORD[54,   1]: 0.0052874 台臨
+TOKEN[55]: 0.0051334    1 monk
+	monk WORD[55,   1]: 0.0051334 臥具
+TOKEN[56]: 0.0046916    2 take
+	take WORD[56,   1]: 0.0013245 臥す
+	take WORD[56,   2]: 0.0007180 臨む
+TOKEN[57]: 0.0046893    1 foreign
+	foreign WORD[57,   1]: 0.0046893 外臣
+TOKEN[58]: 0.0046683    1 shogunate
+	shogunate WORD[58,   1]: 0.0046683 幕臣
+TOKEN[59]: 0.0044855    2 sitting
+	sitting WORD[59,   1]: 0.0022427 坐臥
+	sitting WORD[59,   2]: 0.0022427 座臥
+TOKEN[60]: 0.0044609    1 thankless
+	thankless WORD[60,   1]: 0.0044609 草臥れ儲け
+TOKEN[61]: 0.0041981    3 attendance
+	attendance WORD[61,   1]: 0.0017055 来臨
+	attendance WORD[61,   2]: 0.0012463 臨席
+	attendance WORD[61,   3]: 0.0012463 臨場
+TOKEN[62]: 0.0041096    2 attendant
+	attendant WORD[62,   1]: 0.0020959 侍臣
+	attendant WORD[62,   2]: 0.0020137 近臣
+TOKEN[63]: 0.0040346    1 powerful
+	powerful WORD[63,   1]: 0.0040346 権臣
+TOKEN[64]: 0.0039305    1 wise
+	wise WORD[64,   1]: 0.0039305 賢臣
+TOKEN[65]: 0.0038898    1 bedchamber
+	bedchamber WORD[65,   1]: 0.0038898 臥所
+TOKEN[66]: 0.0038808    2 ill
+	ill WORD[66,   1]: 0.0019605 平臥
+	ill WORD[66,   2]: 0.0019202 病臥
+TOKEN[67]: 0.0037931    1 able
+	able WORD[67,   1]: 0.0037931 賢臣
+TOKEN[68]: 0.0036448    3 death
+	death WORD[68,   1]: 0.0019128 臨死
+	death WORD[68,   2]: 0.0009360 臨終
+	death WORD[68,   3]: 0.0007961 臨む
+TOKEN[69]: 0.0036212    2 vassalage
+	vassalage WORD[69,   1]: 0.0018111 臣服
+	vassalage WORD[69,   2]: 0.0018101 臣従
+TOKEN[70]: 0.0035872    1 itinerant
+	itinerant WORD[70,   1]: 0.0035872 野臥
+TOKEN[71]: 0.0035829    1 position
+	position WORD[71,   1]: 0.0035829 臥位
+TOKEN[72]: 0.0035496    1 crowd
+	crowd WORD[72,   1]: 0.0035496 群臣
+TOKEN[73]: 0.0035402    2 noble
+	noble WORD[73,   1]: 0.0013128 大臣
+	noble WORD[73,   2]: 0.0009146 親臨
+TOKEN[74]: 0.0034917    1 body
+	body WORD[74,   1]: 0.0034917 臥位
+TOKEN[75]: 0.0034603    2 government
+	government WORD[75,   1]: 0.0012515 帰臥
+	government WORD[75,   2]: 0.0011044 大臣
+TOKEN[76]: 0.0034205    2 master
+	master WORD[76,   1]: 0.0017657 臣節
+	master WORD[76,   2]: 0.0016548 君臣
+TOKEN[77]: 0.0033886    1 varlet
+	varlet WORD[77,   1]: 0.0016943 臣
+TOKEN[78]: 0.0033588    3 emperor
+	emperor WORD[78,   1]: 0.0014787 臨御
+	emperor WORD[78,   2]: 0.0010783 臨幸
+	emperor WORD[78,   3]: 0.0008019 親臨
+TOKEN[79]: 0.0033558    1 become
+	become WORD[79,   1]: 0.0033558 草臥れる
+TOKEN[80]: 0.0033350    1 flat
+	flat WORD[80,   1]: 0.0033350 倒れ臥す
+TOKEN[81]: 0.0032979    1 insurrectionist
+	insurrectionist WORD[81,   1]: 0.0032979 賊臣
+TOKEN[82]: 0.0032930    1 ascetic
+	ascetic WORD[82,   1]: 0.0032930 野臥
+TOKEN[83]: 0.0032530    1 bedroom
+	bedroom WORD[83,   1]: 0.0032530 臥所
+TOKEN[84]: 0.0032385    1 hermit
+	hermit WORD[84,   1]: 0.0032385 野臥
+TOKEN[85]: 0.0032050    1 airport
+	airport WORD[85,   1]: 0.0032050 臨空
+TOKEN[86]: 0.0031510    1 number
+	number WORD[86,   1]: 0.0031510 群臣
+TOKEN[87]: 0.0030956    2 old
+	old WORD[87,   1]: 0.0017240 老臣
+	old WORD[87,   2]: 0.0013717 旧臣
+TOKEN[88]: 0.0030778    1 libelous
+	libelous WORD[88,   1]: 0.0030778 讒臣
+TOKEN[89]: 0.0030778    1 slanderous
+	slanderous WORD[89,   1]: 0.0030778 讒臣
+TOKEN[90]: 0.0030639    1 task
+	task WORD[90,   1]: 0.0030639 草臥れ儲け
+TOKEN[91]: 0.0030559    1 statesman
+	statesman WORD[91,   1]: 0.0030559 重臣
+TOKEN[92]: 0.0030426    1 minister
+	minister WORD[92,   1]: 0.0015213 大臣
+TOKEN[93]: 0.0030148    1 wandering
+	wandering WORD[93,   1]: 0.0030148 野臥
+TOKEN[94]: 0.0029614    1 large
+	large WORD[94,   1]: 0.0029614 群臣
+TOKEN[95]: 0.0028973    1 effort
+	effort WORD[95,   1]: 0.0028973 草臥れ儲け
+TOKEN[96]: 0.0028766    1 waste
+	waste WORD[96,   1]: 0.0028766 草臥れ儲け
+TOKEN[97]: 0.0028688    1 nobleman
+	nobleman WORD[97,   1]: 0.0014344 大臣
+TOKEN[98]: 0.0028464    2 going
+	going WORD[98,   1]: 0.0017356 起き臥し
+	going WORD[98,   2]: 0.0011108 起臥
+TOKEN[99]: 0.0027480    1 sticking
+	sticking WORD[99,   1]: 0.0027480 意臨
+TOKEN[100]: 0.0027423    1 awake
+	awake WORD[100,   1]: 0.0027423 起き臥し
+TOKEN[101]: 0.0027398    1 captive
+	captive WORD[101,   1]: 0.0013699 臣
+TOKEN[102]: 0.0027304    1 soldier
+	soldier WORD[102,   1]: 0.0027304 野臥
+TOKEN[103]: 0.0026811    1 slave
+	slave WORD[103,   1]: 0.0013406 臣
+TOKEN[104]: 0.0026021    1 asleep
+	asleep WORD[104,   1]: 0.0026021 起き臥し
+TOKEN[105]: 0.0025566    1 samurai
+	samurai WORD[105,   1]: 0.0025566 野臥
+TOKEN[106]: 0.0025184    1 crafty
+	crafty WORD[106,   1]: 0.0025184 佞臣
+TOKEN[107]: 0.0025052    1 fortune
+	fortune WORD[107,   1]: 0.0025052 野臥
+TOKEN[108]: 0.0024870    1 laid
+	laid WORD[108,   1]: 0.0024870 平臥
+TOKEN[109]: 0.0024720    1 residence
+	residence WORD[109,   1]: 0.0012360 大臣
+TOKEN[110]: 0.0024481    1 rebel
+	rebel WORD[110,   1]: 0.0024481 賊臣
+TOKEN[111]: 0.0024479    1 prostrate
+	prostrate WORD[111,   1]: 0.0024479 伏臥
+TOKEN[112]: 0.0024408    1 priest
+	priest WORD[112,   1]: 0.0024408 野臥
+TOKEN[113]: 0.0024332    2 arrival
+	arrival WORD[113,   1]: 0.0014857 光臨
+	arrival WORD[113,   2]: 0.0009474 降臨
+TOKEN[114]: 0.0024283    1 senior
+	senior WORD[114,   1]: 0.0024283 重臣
+TOKEN[115]: 0.0024181    1 battered
+	battered WORD[115,   1]: 0.0024181 草臥れる
+TOKEN[116]: 0.0024114    1 supine
+	supine WORD[116,   1]: 0.0024114 仰臥
+TOKEN[117]: 0.0023507    1 envoy
+	envoy WORD[117,   1]: 0.0023507 使臣
+TOKEN[118]: 0.0023168    2 side
+	side WORD[118,   1]: 0.0012399 側臥
+	side WORD[118,   2]: 0.0010769 横臥
+TOKEN[119]: 0.0023107    1 influential
+	influential WORD[119,   1]: 0.0023107 権臣
+TOKEN[120]: 0.0023041    1 meritorious
+	meritorious WORD[120,   1]: 0.0023041 功臣
+TOKEN[121]: 0.0023007    1 rising
+	rising WORD[121,   1]: 0.0023007 起き臥し
+TOKEN[122]: 0.0022995    1 key
+	key WORD[122,   1]: 0.0022995 老臣
+TOKEN[123]: 0.0022364    1 loyalty
+	loyalty WORD[123,   1]: 0.0022364 臣節
+TOKEN[124]: 0.0022259    2 coming
+	coming WORD[124,   1]: 0.0014567 来臨
+	coming WORD[124,   2]: 0.0007692 再臨
+TOKEN[125]: 0.0022105    1 chief
+	chief WORD[125,   1]: 0.0022105 重臣
+TOKEN[126]: 0.0022063    2 special
+	special WORD[126,   1]: 0.0011032 臨調
+	special WORD[126,   2]: 0.0011031 臨時
+TOKEN[127]: 0.0021608    1 retire
+	retire WORD[127,   1]: 0.0021608 臥せる
+TOKEN[128]: 0.0021152    1 mountain
+	mountain WORD[128,   1]: 0.0021152 野臥
+TOKEN[129]: 0.0020885    1 month
+	month WORD[129,   1]: 0.0020885 臨月
+TOKEN[130]: 0.0020809    1 rear
+	rear WORD[130,   1]: 0.0020809 陪臣
+TOKEN[131]: 0.0020625    2 go
+	go WORD[131,   1]: 0.0013376 臥せる
+	go WORD[131,   2]: 0.0007249 臨む
+TOKEN[132]: 0.0020530    1 waiting
+	waiting WORD[132,   1]: 0.0020530 待ち草臥れる
+TOKEN[133]: 0.0020290    1 status
+	status WORD[133,   1]: 0.0020290 臣籍
+TOKEN[134]: 0.0019670    1 criticality
+	criticality WORD[134,   1]: 0.0019670 臨界
+TOKEN[135]: 0.0019381    1 ruler
+	ruler WORD[135,   1]: 0.0019381 君臣
+TOKEN[136]: 0.0019237    1 harbour
+	harbour WORD[136,   1]: 0.0019237 臨港
+TOKEN[137]: 0.0019237    1 harbor
+	harbor WORD[137,   1]: 0.0019237 臨港
+TOKEN[138]: 0.0019044    1 military
+	military WORD[138,   1]: 0.0019044 武臣
+TOKEN[139]: 0.0018652    1 exhausted
+	exhausted WORD[139,   1]: 0.0018652 草臥れる
+TOKEN[140]: 0.0018652    1 weary
+	weary WORD[140,   1]: 0.0018652 草臥れる
+TOKEN[141]: 0.0018457    1 physiology
+	physiology WORD[141,   1]: 0.0018457 臨床
+TOKEN[142]: 0.0018204    1 fed
+	fed WORD[142,   1]: 0.0018204 草臥れる
+TOKEN[143]: 0.0018200    1 illness
+	illness WORD[143,   1]: 0.0018200 臥せる
+TOKEN[144]: 0.0017746    1 clinical
+	clinical WORD[144,   1]: 0.0017746 臨床
+TOKEN[145]: 0.0017666    1 waking
+	waking WORD[145,   1]: 0.0017666 起臥
+TOKEN[146]: 0.0017570    1 facing
+	facing WORD[146,   1]: 0.0017570 臨港
+TOKEN[147]: 0.0017241    1 pathology
+	pathology WORD[147,   1]: 0.0017241 臨床
+TOKEN[148]: 0.0017195    1 upward
+	upward WORD[148,   1]: 0.0017195 仰臥
+TOKEN[149]: 0.0016850    1 interim
+	interim WORD[149,   1]: 0.0016850 臨時
+TOKEN[150]: 0.0016849    1 expedient
+	expedient WORD[150,   1]: 0.0016849 臨機
+TOKEN[151]: 0.0016529    1 ad
+	ad WORD[151,   1]: 0.0016529 臨機
+TOKEN[152]: 0.0016528    1 coastal
+	coastal WORD[152,   1]: 0.0016528 臨海
+TOKEN[153]: 0.0016528    1 maritime
+	maritime WORD[153,   1]: 0.0016528 臨海
+TOKEN[154]: 0.0016489    1 confined
+	confined WORD[154,   1]: 0.0016489 臥床
+TOKEN[155]: 0.0016132    1 action
+	action WORD[155,   1]: 0.0016132 臨戦
+TOKEN[156]: 0.0016026    1 provisional
+	provisional WORD[156,   1]: 0.0016026 臨時
+TOKEN[157]: 0.0016024    1 seaside
+	seaside WORD[157,   1]: 0.0016024 臨海
+TOKEN[158]: 0.0015817    1 nuclear
+	nuclear WORD[158,   1]: 0.0015817 臨界
+TOKEN[159]: 0.0015734    1 time
+	time WORD[159,   1]: 0.0015734 起き臥し
+TOKEN[160]: 0.0015634    1 deathbed
+	deathbed WORD[160,   1]: 0.0015634 臨終
+TOKEN[161]: 0.0015456    1 native
+	native WORD[161,   1]: 0.0015456 帰臥
+TOKEN[162]: 0.0015407    1 battle
+	battle WORD[162,   1]: 0.0015407 臨戦
+TOKEN[163]: 0.0015315    1 council
+	council WORD[163,   1]: 0.0015315 臨調
+TOKEN[164]: 0.0015297    1 second
+	second WORD[164,   1]: 0.0015297 再臨
+TOKEN[165]: 0.0015007    1 citizen
+	citizen WORD[165,   1]: 0.0015007 臣民
+TOKEN[166]: 0.0014742    1 next
+	next WORD[166,   1]: 0.0014742 側臥
+TOKEN[167]: 0.0014603    1 childbirth
+	childbirth WORD[167,   1]: 0.0014603 臨月
+TOKEN[168]: 0.0014603    1 pregnancy
+	pregnancy WORD[168,   1]: 0.0014603 臨月
+TOKEN[169]: 0.0014582    1 sleep
+	sleep WORD[169,   1]: 0.0014582 起臥
+TOKEN[170]: 0.0014251    1 adjacent
+	adjacent WORD[170,   1]: 0.0014251 臨空
+TOKEN[171]: 0.0014097    1 surviving
+	surviving WORD[171,   1]: 0.0014097 遺臣
+TOKEN[172]: 0.0013971    1 back
+	back WORD[172,   1]: 0.0013971 仰臥
+TOKEN[173]: 0.0013934    1 grow
+	grow WORD[173,   1]: 0.0013934 草臥れる
+TOKEN[174]: 0.0013904    1 region
+	region WORD[174,   1]: 0.0013904 帰臥
+TOKEN[175]: 0.0013893    1 commission
+	commission WORD[175,   1]: 0.0013893 臨調
+TOKEN[176]: 0.0013790    1 worn
+	worn WORD[176,   1]: 0.0013790 草臥れる
+TOKEN[177]: 0.0013588    1 live
+	live WORD[177,   1]: 0.0013588 帰臥
+TOKEN[178]: 0.0013554    1 job
+	job WORD[178,   1]: 0.0013554 帰臥
+TOKEN[179]: 0.0013437    1 raid
+	raid WORD[179,   1]: 0.0013437 臨検
+TOKEN[180]: 0.0013436    1 boundary
+	boundary WORD[180,   1]: 0.0013436 臨界
+TOKEN[181]: 0.0013436    1 mass
+	mass WORD[181,   1]: 0.0013436 臨界
+TOKEN[182]: 0.0013375    1 return
+	return WORD[182,   1]: 0.0013375 帰臥
+TOKEN[183]: 0.0013292    1 critical
+	critical WORD[183,   1]: 0.0013292 臨界
+TOKEN[184]: 0.0013246    1 temperature
+	temperature WORD[184,   1]: 0.0013246 臨界
+TOKEN[185]: 0.0013202    1 site
+	site WORD[185,   1]: 0.0013202 臨空
+TOKEN[186]: 0.0013092    1 rest
+	rest WORD[186,   1]: 0.0013092 安臥
+TOKEN[187]: 0.0013076    1 extraordinary
+	extraordinary WORD[187,   1]: 0.0013076 臨時
+TOKEN[188]: 0.0013025    1 confrontation
+	confrontation WORD[188,   1]: 0.0013025 臨み
+TOKEN[189]: 0.0012997    1 hour
+	hour WORD[189,   1]: 0.0012997 臨終
+TOKEN[190]: 0.0012957    1 occasion
+	occasion WORD[190,   1]: 0.0012957 臨機
+TOKEN[191]: 0.0012920    1 investigation
+	investigation WORD[191,   1]: 0.0012920 臨検
+TOKEN[192]: 0.0012828    1 living
+	living WORD[192,   1]: 0.0012828 起臥
+TOKEN[193]: 0.0012610    1 quiet
+	quiet WORD[193,   1]: 0.0012610 安臥
+TOKEN[194]: 0.0012551    1 extra
+	extra WORD[194,   1]: 0.0012551 臨時
+TOKEN[195]: 0.0012506    1 participate
+	participate WORD[195,   1]: 0.0012506 臨む
+TOKEN[196]: 0.0012474    1 official
+	official WORD[196,   1]: 0.0012474 帰臥
+TOKEN[197]: 0.0012434    1 final
+	final WORD[197,   1]: 0.0012434 臨月
+TOKEN[198]: 0.0012421    1 crisis
+	crisis WORD[198,   1]: 0.0012421 臨む
+TOKEN[199]: 0.0012412    1 use
+	use WORD[199,   1]: 0.0012412 草臥れる
+TOKEN[200]: 0.0012351    1 inspection
+	inspection WORD[200,   1]: 0.0012351 臨検
+TOKEN[201]: 0.0012298    1 copy
+	copy WORD[201,   1]: 0.0012298 臨書
+TOKEN[202]: 0.0012273    1 dying
+	dying WORD[202,   1]: 0.0012273 臨終
+TOKEN[203]: 0.0012139    1 serving
+	serving WORD[203,   1]: 0.0012139 臣事
+TOKEN[204]: 0.0012055    1 overlook
+	overlook WORD[204,   1]: 0.0012055 臨む
+TOKEN[205]: 0.0012044    1 national
+	national WORD[205,   1]: 0.0012044 臣民
+TOKEN[206]: 0.0011931    1 attend
+	attend WORD[206,   1]: 0.0011931 臨む
+TOKEN[207]: 0.0011923    1 temporary
+	temporary WORD[207,   1]: 0.0011923 臨時
+TOKEN[208]: 0.0011816    1 challenge
+	challenge WORD[208,   1]: 0.0011816 臨み
+TOKEN[209]: 0.0011722    1 pressure
+	pressure WORD[209,   1]: 0.0011722 臨界
+TOKEN[210]: 0.0011702    1 call
+	call WORD[210,   1]: 0.0011702 光臨
+TOKEN[211]: 0.0011667    1 due
+	due WORD[211,   1]: 0.0011667 臨月
+TOKEN[212]: 0.0011122    1 function
+	function WORD[212,   1]: 0.0011122 臨む
+TOKEN[213]: 0.0010728    1 appear
+	appear WORD[213,   1]: 0.0010728 臨む
+TOKEN[214]: 0.0010123    1 issue
+	issue WORD[214,   1]: 0.0010123 臨む
+TOKEN[215]: 0.0010088    1 join
+	join WORD[215,   1]: 0.0010088 臨む
+TOKEN[216]: 0.0010060    1 state
+	state WORD[216,   1]: 0.0010060 臨界
+TOKEN[217]: 0.0009987    1 deal
+	deal WORD[217,   1]: 0.0009987 臨む
+TOKEN[218]: 0.0009924    1 meet
+	meet WORD[218,   1]: 0.0009924 臨む
+TOKEN[219]: 0.0009880    1 writing
+	writing WORD[219,   1]: 0.0009880 臨書
+TOKEN[220]: 0.0009803    1 descent
+	descent WORD[220,   1]: 0.0009803 降臨
+TOKEN[221]: 0.0009121    1 point
+	point WORD[221,   1]: 0.0009121 臨界
+TOKEN[222]: 0.0009054    1 present
+	present WORD[222,   1]: 0.0009054 臨む
+TOKEN[223]: 0.0008978    1 court
+	court WORD[223,   1]: 0.0008978 臨む
+TOKEN[224]: 0.0008953    1 situation
+	situation WORD[224,   1]: 0.0008953 臨む
+TOKEN[225]: 0.0008898    1 front
+	front WORD[225,   1]: 0.0008898 臨む
+TOKEN[226]: 0.0008358    1 important
+	important WORD[226,   1]: 0.0008358 降臨
+TOKEN[227]: 0.0008268    1 earth
+	earth WORD[227,   1]: 0.0008268 降臨
+TOKEN[228]: 0.0008064    1 look
+	look WORD[228,   1]: 0.0008064 臨む
+TOKEN[229]: 0.0007936    1 god
+	god WORD[229,   1]: 0.0007936 降臨
+TOKEN[230]: 0.0007899    1 part
+	part WORD[230,   1]: 0.0007899 臨む
+TOKEN[231]: 0.0007561    1 country
+	country WORD[231,   1]: 0.0007561 君臨
+TOKEN[232]: 0.0007418    1 appearance
+	appearance WORD[232,   1]: 0.0007418 降臨
+TOKEN[233]: 0.0007267    1 place
+	place WORD[233,   1]: 0.0007267 臨む

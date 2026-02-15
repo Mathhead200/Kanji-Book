@@ -1,0 +1,214 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1976793    1 psychosis      : 躁鬱病
+0.1854643    1 bipolar        : 躁鬱病
+0.1747753    2 manic          : 躁鬱病, 躁鬱
+0.1410681    9 depression     : 躁鬱病, 抑鬱, 気鬱, 憂鬱, 沈鬱, 躁鬱, 鬱病, 鬱, 鬱結
+0.1309922    1 disorder       : 躁鬱病
+0.0206314    1 stasis         : 鬱滞
+0.0180869    2 congestion     : 鬱滞, 鬱血
+0.0174906    1 stagnation     : 鬱滞
+0.0107489    7 melancholy     : 鬱々, 鬱鬱, 陰鬱, 暗鬱, 憂鬱, 沈鬱, 鬱気
+0.0095558    7 gloomy         : 鬱然, 鬱々, 鬱鬱, 陰鬱, 鬱陶しい, 鬱屈, 鬱気
+0.0063493    4 gloom          : 気鬱, 暗鬱, 憂鬱, 沈鬱
+0.0043045    2 mope           : 鬱ぎ込む, 鬱ぐ
+0.0041849    2 pessimistic    : 鬱々, 鬱鬱
+0.0041372    2 dejection      : 抑鬱, 憂鬱
+0.0035146    3 low            : 鬱ぎ込む, 鬱ぐ, 鬱
+0.0035009    3 mood           : 鬱然, 躁鬱, 鬱陶しい
+0.0030854    2 depressed      : 陰鬱, 鬱ぐ
+0.0030297    2 vegetation     : 鬱然, 鬱
+0.0026740    1 blues          : 鬱ぎ込む
+0.0026675    2 dense          : 鬱然, 鬱蒼
+0.0024684    1 irrepressible  : 鬱勃
+0.0023492    2 luxuriant      : 鬱, 鬱蒼
+0.0023076    1 brood          : 鬱ぎ込む
+0.0022825    2 thick          : 鬱然, 鬱蒼
+0.0022398    1 Curcuma        : 鬱金
+0.0022398    1 turmeric       : 鬱金
+0.0022177    2 frustration    : 鬱憤, 鬱積
+0.0020197    1 dismal         : 陰鬱
+0.0018531    1 despondency    : 憂鬱
+0.0018523    2 anger          : 鬱憤, 鬱積
+0.0017876    1 prominent      : 鬱然
+0.0017515    1 ambition       : 鬱勃
+0.0017413    1 dreary         : 陰鬱
+0.0016357    1 enthusiasm     : 鬱勃
+0.0016032    1 burning        : 鬱勃
+0.0016020    1 mental         : 気鬱
+0.0015602    1 energy         : 鬱勃
+0.0014807    1 desire         : 鬱勃
+0.0014480    1 popular        : 鬱然
+0.0013473    1 engorgement    : 鬱血
+0.0013090    1 buildup        : 鬱積
+0.0012168    1 discontent     : 鬱積
+0.0012012    1 depressing     : 鬱陶しい
+0.0011630    1 bitterness     : 鬱憤
+0.0011628    1 oppression     : 鬱結
+0.0011332    1 irritating     : 鬱陶しい
+0.0011310    1 feel           : 鬱ぐ
+0.0010981    1 swing          : 躁鬱
+0.0010949    1 cloudy         : 鬱陶しい
+0.0010821    1 accumulation   : 鬱積
+0.0010763    1 troublesome    : 鬱陶しい
+0.0010409    1 resentment     : 鬱憤
+0.0010322    1 suppression    : 鬱積
+0.0010095    1 grudge         : 鬱憤
+0.0008715    1 weather        : 鬱陶しい
+0.0008337    1 blood          : 鬱血
+0.0008155    1 heavy          : 鬱陶しい
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1976793    1 psychosis
+	psychosis WORD[ 1,   1]: 0.1976793 躁鬱病
+TOKEN[ 2]: 0.1854643    1 bipolar
+	bipolar WORD[ 2,   1]: 0.1854643 躁鬱病
+TOKEN[ 3]: 0.1747753    2 manic
+	manic WORD[ 3,   1]: 0.1732492 躁鬱病
+	manic WORD[ 3,   2]: 0.0015260 躁鬱
+TOKEN[ 4]: 0.1410681    9 depression
+	depression WORD[ 4,   1]: 0.1305962 躁鬱病
+	depression WORD[ 4,   2]: 0.0020623 抑鬱
+	depression WORD[ 4,   3]: 0.0016295 気鬱
+	depression WORD[ 4,   4]: 0.0014812 憂鬱
+	depression WORD[ 4,   5]: 0.0011869 沈鬱
+	depression WORD[ 4,   6]: 0.0011503 躁鬱
+	depression WORD[ 4,   7]: 0.0009878 鬱病
+	depression WORD[ 4,   8]: 0.0009872 鬱
+	depression WORD[ 4,   9]: 0.0009868 鬱結
+TOKEN[ 5]: 0.1309922    1 disorder
+	disorder WORD[ 5,   1]: 0.1309922 躁鬱病
+TOKEN[ 6]: 0.0206314    1 stasis
+	stasis WORD[ 6,   1]: 0.0206314 鬱滞
+TOKEN[ 7]: 0.0180869    2 congestion
+	congestion WORD[ 7,   1]: 0.0169782 鬱滞
+	congestion WORD[ 7,   2]: 0.0011088 鬱血
+TOKEN[ 8]: 0.0174906    1 stagnation
+	stagnation WORD[ 8,   1]: 0.0174906 鬱滞
+TOKEN[ 9]: 0.0107489    7 melancholy
+	melancholy WORD[ 9,   1]: 0.0017252 鬱々
+	melancholy WORD[ 9,   2]: 0.0017252 鬱鬱
+	melancholy WORD[ 9,   3]: 0.0016974 陰鬱
+	melancholy WORD[ 9,   4]: 0.0016944 暗鬱
+	melancholy WORD[ 9,   5]: 0.0015833 憂鬱
+	melancholy WORD[ 9,   6]: 0.0012687 沈鬱
+	melancholy WORD[ 9,   7]: 0.0010548 鬱気
+TOKEN[10]: 0.0095558    7 gloomy
+	gloomy WORD[10,   1]: 0.0016561 鬱然
+	gloomy WORD[10,   2]: 0.0016396 鬱々
+	gloomy WORD[10,   3]: 0.0016396 鬱鬱
+	gloomy WORD[10,   4]: 0.0016132 陰鬱
+	gloomy WORD[10,   5]: 0.0010026 鬱陶しい
+	gloomy WORD[10,   6]: 0.0010024 鬱屈
+	gloomy WORD[10,   7]: 0.0010024 鬱気
+TOKEN[11]: 0.0063493    4 gloom
+	gloom WORD[11,   1]: 0.0017587 気鬱
+	gloom WORD[11,   2]: 0.0017109 暗鬱
+	gloom WORD[11,   3]: 0.0015987 憂鬱
+	gloom WORD[11,   4]: 0.0012810 沈鬱
+TOKEN[12]: 0.0043045    2 mope
+	mope WORD[12,   1]: 0.0025390 鬱ぎ込む
+	mope WORD[12,   2]: 0.0017655 鬱ぐ
+TOKEN[13]: 0.0041849    2 pessimistic
+	pessimistic WORD[13,   1]: 0.0020924 鬱々
+	pessimistic WORD[13,   2]: 0.0020924 鬱鬱
+TOKEN[14]: 0.0041372    2 dejection
+	dejection WORD[14,   1]: 0.0024078 抑鬱
+	dejection WORD[14,   2]: 0.0017294 憂鬱
+TOKEN[15]: 0.0035146    3 low
+	low WORD[15,   1]: 0.0015980 鬱ぎ込む
+	low WORD[15,   2]: 0.0011111 鬱ぐ
+	low WORD[15,   3]: 0.0008055 鬱
+TOKEN[16]: 0.0035009    3 mood
+	mood WORD[16,   1]: 0.0015149 鬱然
+	mood WORD[16,   2]: 0.0010690 躁鬱
+	mood WORD[16,   3]: 0.0009171 鬱陶しい
+TOKEN[17]: 0.0030854    2 depressed
+	depressed WORD[17,   1]: 0.0016610 陰鬱
+	depressed WORD[17,   2]: 0.0014244 鬱ぐ
+TOKEN[18]: 0.0030297    2 vegetation
+	vegetation WORD[18,   1]: 0.0018870 鬱然
+	vegetation WORD[18,   2]: 0.0011427 鬱
+TOKEN[19]: 0.0026740    1 blues
+	blues WORD[19,   1]: 0.0026740 鬱ぎ込む
+TOKEN[20]: 0.0026675    2 dense
+	dense WORD[20,   1]: 0.0016616 鬱然
+	dense WORD[20,   2]: 0.0010058 鬱蒼
+TOKEN[21]: 0.0024684    1 irrepressible
+	irrepressible WORD[21,   1]: 0.0024684 鬱勃
+TOKEN[22]: 0.0023492    2 luxuriant
+	luxuriant WORD[22,   1]: 0.0011749 鬱
+	luxuriant WORD[22,   2]: 0.0011744 鬱蒼
+TOKEN[23]: 0.0023076    1 brood
+	brood WORD[23,   1]: 0.0023076 鬱ぎ込む
+TOKEN[24]: 0.0022825    2 thick
+	thick WORD[24,   1]: 0.0014219 鬱然
+	thick WORD[24,   2]: 0.0008607 鬱蒼
+TOKEN[25]: 0.0022398    1 Curcuma
+	Curcuma WORD[25,   1]: 0.0022398 鬱金
+TOKEN[26]: 0.0022398    1 turmeric
+	turmeric WORD[26,   1]: 0.0022398 鬱金
+TOKEN[27]: 0.0022177    2 frustration
+	frustration WORD[27,   1]: 0.0011090 鬱憤
+	frustration WORD[27,   2]: 0.0011088 鬱積
+TOKEN[28]: 0.0020197    1 dismal
+	dismal WORD[28,   1]: 0.0020197 陰鬱
+TOKEN[29]: 0.0018531    1 despondency
+	despondency WORD[29,   1]: 0.0018531 憂鬱
+TOKEN[30]: 0.0018523    2 anger
+	anger WORD[30,   1]: 0.0009262 鬱憤
+	anger WORD[30,   2]: 0.0009260 鬱積
+TOKEN[31]: 0.0017876    1 prominent
+	prominent WORD[31,   1]: 0.0017876 鬱然
+TOKEN[32]: 0.0017515    1 ambition
+	ambition WORD[32,   1]: 0.0017515 鬱勃
+TOKEN[33]: 0.0017413    1 dreary
+	dreary WORD[33,   1]: 0.0017413 陰鬱
+TOKEN[34]: 0.0016357    1 enthusiasm
+	enthusiasm WORD[34,   1]: 0.0016357 鬱勃
+TOKEN[35]: 0.0016032    1 burning
+	burning WORD[35,   1]: 0.0016032 鬱勃
+TOKEN[36]: 0.0016020    1 mental
+	mental WORD[36,   1]: 0.0016020 気鬱
+TOKEN[37]: 0.0015602    1 energy
+	energy WORD[37,   1]: 0.0015602 鬱勃
+TOKEN[38]: 0.0014807    1 desire
+	desire WORD[38,   1]: 0.0014807 鬱勃
+TOKEN[39]: 0.0014480    1 popular
+	popular WORD[39,   1]: 0.0014480 鬱然
+TOKEN[40]: 0.0013473    1 engorgement
+	engorgement WORD[40,   1]: 0.0013473 鬱血
+TOKEN[41]: 0.0013090    1 buildup
+	buildup WORD[41,   1]: 0.0013090 鬱積
+TOKEN[42]: 0.0012168    1 discontent
+	discontent WORD[42,   1]: 0.0012168 鬱積
+TOKEN[43]: 0.0012012    1 depressing
+	depressing WORD[43,   1]: 0.0012012 鬱陶しい
+TOKEN[44]: 0.0011630    1 bitterness
+	bitterness WORD[44,   1]: 0.0011630 鬱憤
+TOKEN[45]: 0.0011628    1 oppression
+	oppression WORD[45,   1]: 0.0011628 鬱結
+TOKEN[46]: 0.0011332    1 irritating
+	irritating WORD[46,   1]: 0.0011332 鬱陶しい
+TOKEN[47]: 0.0011310    1 feel
+	feel WORD[47,   1]: 0.0011310 鬱ぐ
+TOKEN[48]: 0.0010981    1 swing
+	swing WORD[48,   1]: 0.0010981 躁鬱
+TOKEN[49]: 0.0010949    1 cloudy
+	cloudy WORD[49,   1]: 0.0010949 鬱陶しい
+TOKEN[50]: 0.0010821    1 accumulation
+	accumulation WORD[50,   1]: 0.0010821 鬱積
+TOKEN[51]: 0.0010763    1 troublesome
+	troublesome WORD[51,   1]: 0.0010763 鬱陶しい
+TOKEN[52]: 0.0010409    1 resentment
+	resentment WORD[52,   1]: 0.0010409 鬱憤
+TOKEN[53]: 0.0010322    1 suppression
+	suppression WORD[53,   1]: 0.0010322 鬱積
+TOKEN[54]: 0.0010095    1 grudge
+	grudge WORD[54,   1]: 0.0010095 鬱憤
+TOKEN[55]: 0.0008715    1 weather
+	weather WORD[55,   1]: 0.0008715 鬱陶しい
+TOKEN[56]: 0.0008337    1 blood
+	blood WORD[56,   1]: 0.0008337 鬱血
+TOKEN[57]: 0.0008155    1 heavy
+	heavy WORD[57,   1]: 0.0008155 鬱陶しい

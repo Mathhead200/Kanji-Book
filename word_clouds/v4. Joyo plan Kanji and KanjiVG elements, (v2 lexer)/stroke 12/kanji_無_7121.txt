@@ -1,0 +1,2438 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0587820    3 force          : 無理くり, 無理やり, 無理矢理
+0.0527051    1 sleeveless     : 袖無し
+0.0313879   10 one            : 無理くり, 仕方無い, 無縁, 無けりゃ, 無駄食い, 無けなし, 術無い, 無理やり, 無理矢理, 無きゃ
+0.0248205    1 haori          : 袖無し
+0.0215442    1 garment        : 袖無し
+0.0214857    1 unmarried      : 無妻
+0.0138081    7 absence        : 無有, 有る無し, 無断, 無届, 無届け, 無実, 有無
+0.0131432    2 nonexistence   : 無有, 有無
+0.0130925    1 fearlessness   : 無畏
+0.0110903    1 preaching      : 無畏
+0.0109745    2 confidence     : 無畏, 無くなる
+0.0104419    3 presence       : 無有, 有る無し, 有無
+0.0096257    2 existence      : 無有, 有無
+0.0092203    1 single         : 無妻
+0.0087790    1 wife           : 無妻
+0.0085787    6 useless        : 甲斐無い, 仕方無い, 無駄死に, 無益, 腑甲斐無い, 無用
+0.0078541    2 pointless      : 甲斐無い, 仕方無い
+0.0077872    1 man            : 無妻
+0.0075381    1 unslacking     : 弛み無い
+0.0067998    1 unceasing      : 弛み無い
+0.0064276    1 changeable     : 定め無い
+0.0063893    1 heavens        : 南無三宝
+0.0063093    3 Buddha         : 南無三宝, 無縁, 南無阿弥陀仏
+0.0061142   10 unreasonable   : 無闇矢鱈, 無代, 無体, 無道, 無理, 無暗, 無闇, 無法, 無茶苦茶, 無茶
+0.0060595    2 nameless       : 名無し, 無名
+0.0060449    2 transient      : 定め無い, 敢え無い
+0.0058772    2 uncertain      : 定め無い, 覚束無い
+0.0058698    1 namelessness   : 名無し
+0.0057828    5 good           : 南無三宝, 仕方無い, つつが無い, 恙無い, 無事
+0.0056142    2 worthless      : 甲斐無い, 腑甲斐無い
+0.0051817    2 long           : 程無く, 無音
+0.0051029    2 reason         : 故無い, 無駄足
+0.0049757    7 absurd         : 無闇矢鱈, 無代, 無体, 無暗, 無闇, 無茶苦茶, 無茶
+0.0042726   11 free           : 無碍, 無礙, 無賃, つつが無い, 恙無い, 無料, 無慾, 無欲, 無心, 無償, ...
+0.0041526    1 unintentional  : 無意
+0.0040529    7 rash           : 無闇矢鱈, 無考え, 無暗, 無闇, 無謀, 無鉄砲, 無茶
+0.0040103    6 thoughtless    : 無闇矢鱈, 無考え, 心無い, 無暗, 無闇, 無謀
+0.0039876    7 reckless       : 無闇矢鱈, 無暗, 無闇, 無謀, 無鉄砲, 無茶苦茶, 無茶
+0.0039359    5 immoderate     : 無闇矢鱈, 無理, 無暗, 無闇, 無茶
+0.0033192    7 miserable      : 無慚, 敢え無い, 無惨, 無慙, 無残, 情け無い, 情無い
+0.0033107    5 infinite       : 限り無い, 無辺, 底無し, 無量, 無限
+0.0031633    6 nothing        : 仕方無い, 絶無, 台無し, 無縁, 無, 皆無
+0.0031233    3 indiscreet     : 無闇矢鱈, 無暗, 無闇
+0.0031081    5 excessive      : 無闇矢鱈, 無理, 無暗, 無闇, 無茶
+0.0028937    3 indiscriminate : 無闇矢鱈, 無暗, 無闇
+0.0028663    1 name           : 名無し
+0.0027917    5 pitiful        : 無慚, 腑甲斐無い, 無惨, 無慙, 無残
+0.0027715    4 way            : 無い無い, 仕方無い, 無駄食い, 無理
+0.0027708    5 tragic         : 無慚, 敢え無い, 無惨, 無慙, 無残
+0.0027574    3 intangible     : 無代, 無体, 無形
+0.0027062    4 vain           : 無駄死に, 味気無い, 無駄骨, 無益
+0.0026568    5 cruel          : 無慚, 心無い, 無惨, 無慙, 無残
+0.0026111    4 ruthless       : 無慚, 無惨, 無慙, 無残
+0.0025806    4 merciless      : 無慚, 無惨, 無慙, 無残
+0.0024832    4 atrocious      : 無慚, 無惨, 無慙, 無残
+0.0024705    3 chance         : 無い無い, 台無し, 無理
+0.0024632    4 precept        : 無慚, 無惨, 無慙, 無残
+0.0024104    4 horrible       : 無慚, 無惨, 無慙, 無残
+0.0023966    4 unparalleled   : 無比, 無二, 並び無い, 無双
+0.0023760    4 matchless      : 無二, 無敵, 無類, 無双
+0.0023695    4 flawless       : 無傷, 無疵, 無欠, 無缺
+0.0023522    5 waste          : 無駄づかい, 無駄使い, 無駄遣い, 無駄食い, 無駄
+0.0023107    2 broke          : 文無し, 無一文
+0.0022515    1 hair           : 無駄毛
+0.0022275    2 incorporeal    : 無代, 無体
+0.0022232    2 perfect        : 無傷, 無疵
+0.0022151    7 person         : 仕方無い, 人で無し, 無宿, 無能, 無学, 無縁, 無塩
+0.0021690    3 something      : 有る無し, 無くなす, 無くす
+0.0021652    3 secure         : 揺ぎ無い, 揺るぎ無い, 無難
+0.0021567    2 unshakeable    : 揺ぎ無い, 揺るぎ無い
+0.0021452    4 shame          : 無慚, 無惨, 無慙, 無残
+0.0021408    2 penniless      : 文無し, 無一文
+0.0021305    5 innocence      : 無智, 無知, 無実, 無心, 無罪
+0.0021150    2 preposterous   : 無代, 無体
+0.0020812    2 unwavering     : 揺ぎ無い, 揺るぎ無い
+0.0020711    3 solid          : 揺ぎ無い, 揺るぎ無い, 無地
+0.0020604    3 naught         : 無みする, 絶無, 無
+0.0020421    1 delusion       : 無癡
+0.0020322    1 cleaning       : 無い無い
+0.0020137    3 spotless       : 無傷, 無疵, 無垢
+0.0019911    3 faultless      : 無傷, 無疵, 無難
+0.0019847    2 unavoidable    : 仕方無い, 詮無い
+0.0019577    4 religious      : 無慚, 無惨, 無慙, 無残
+0.0019518    3 choice         : 仕方無い, 術無い, 無難
+0.0019472    4 safe           : 無風, つつが無い, 恙無い, 無難
+0.0019392    4 money          : 無銭, 無駄づかい, 無駄使い, 無駄遣い
+0.0019199    4 breaking       : 無慚, 無惨, 無慙, 無残
+0.0018765    1 sixth          : 水無月
+0.0018603    1 unwanted       : 無駄毛
+0.0018533    3 peerless       : 無比, 無二, 無双
+0.0018479    2 dying          : 仕方無い, 無駄死に
+0.0018249    3 nil            : 絶無, 無, 皆無
+0.0018147    2 uncovered      : 無帽, 無蓋
+0.0018010    1 superfluous    : 無駄毛
+0.0017645    3 help           : 仕方無い, 詮無い, 無人
+0.0017622    2 steady         : 揺ぎ無い, 揺るぎ無い
+0.0017548    1 unmarked       : 無標
+0.0017293    1 fig            : 無花果
+0.0017126    4 shameful       : 腑甲斐無い, 見っとも無い, 情け無い, 情無い
+0.0016552    2 unlimited      : 限り無い, 無期
+0.0016550    2 month          : 水無月, 神無月
+0.0016462    1 soapberry      : 無患子
+0.0016408    4 health         : つつが無い, 恙無い, 無病, 無事
+0.0016389    3 notice         : 無断, 無届, 無届け
+0.0016142    2 boorish        : 無骨, 無粋
+0.0015814    1 reasonable     : 無理からぬ
+0.0015444    2 unrelated      : 無縁, 無用
+0.0015436    4 time           : 無駄づかい, 無駄使い, 無駄遣い, 無音
+0.0015434    2 unhurt         : 無傷, 無疵
+0.0015434    2 unblemished    : 無傷, 無疵
+0.0015434    2 unharmed       : 無傷, 無疵
+0.0015434    2 unscathed      : 無傷, 無疵
+0.0015434    2 undamaged      : 無傷, 無疵
+0.0015434    2 uninjured      : 無傷, 無疵
+0.0015349    2 unreported     : 無届, 無届け
+0.0015316    2 firm           : 揺ぎ無い, 揺るぎ無い
+0.0015210    3 helpless       : 無告, 無援, 頼り無い
+0.0015201    3 lack           : 無断, 無人, 無策
+0.0015184    1 unbearable     : 仕方無い
+0.0015120    3 disinterested  : 無慾, 無欲, 無私
+0.0015034    2 nought         : 絶無, 無
+0.0014839    2 unwounded      : 無傷, 無疵
+0.0014802    2 insipid        : 味気無い, 無味
+0.0014767    3 quiet          : 無風, 無口, 無事
+0.0014750    1 nullification  : 無化
+0.0014428    3 indefinite     : 有耶無耶, 無期, 頼り無い
+0.0014403    2 boundless      : 限り無い, 無辺
+0.0014386    2 unarmed        : 無腰, 無手
+0.0014351    3 rank           : 無段, 無位, 無冠
+0.0014181    3 innocent       : 無辜, 無邪気, 無垢
+0.0014030    3 unselfish      : 無慾, 無欲, 無私
+0.0013922    4 charge         : 無賃, 無料, 無実, 無償
+0.0013637    3 ignorance      : 無明, 無智, 無知
+0.0013548    1 unleaded       : 無鉛
+0.0013522    2 unregistered   : 無届, 無届け
+0.0013485    1 anuria         : 無尿
+0.0013376    1 resort         : 仕方無く
+0.0013258    1 natural        : 無理からぬ
+0.0013234    1 insufficient   : 仕方無い
+0.0013215    1 unstinting     : 惜しみ無い
+0.0013214    1 stint          : 惜しみ無く
+0.0013211    2 unsigned       : 無銘, 無名
+0.0013204    2 unfigured      : 無文, 無地
+0.0013196    2 wireless       : 無電, 無線
+0.0013188    4 vague          : 有耶無耶, 頼り無い, 心許無い, 覚束無い
+0.0013165    1 prying         : 苦無
+0.0013148    2 calendar       : 水無月, 神無月
+0.0013067    1 unsweetened    : 無糖
+0.0013067    1 sugarless      : 無糖
+0.0013061    1 unbiasedness   : 無偏
+0.0013035    2 unequaled      : 無類, 並び無い
+0.0013026    1 stepless       : 無段
+0.0013026    1 unranked       : 無段
+0.0012998    2 tasteless      : 無味, 心無い
+0.0012984    1 inevitable     : 仕方無い
+0.0012970    3 pathetic       : 腑甲斐無い, 情け無い, 情無い
+0.0012711    1 petrol         : 無鉛
+0.0012557    2 silence        : 無言, 無音
+0.0012517    2 unpossessed    : 無主, 無い
+0.0012517    2 unowned        : 無主, 無い
+0.0012468    2 infinitude     : 無窮, 無限
+0.0012427    2 uncouth        : 無様, 無骨
+0.0012366    2 unadulterated  : 無雑, 無垢
+0.0012337    1 hopeless       : 仕方無い
+0.0012337    1 awful          : 仕方無い
+0.0012315    2 harmless       : 無毒, 無害
+0.0012183    2 zero           : 無くなる, 無
+0.0012170    1 death          : 無駄死に
+0.0012155    2 pure           : 無垢, 無雑
+0.0012132    2 gem            : 無傷, 無疵
+0.0012127    1 troublesome    : 仕方無い
+0.0012074    2 futile         : 無益, 無用
+0.0012064    1 annoying       : 仕方無い
+0.0011818    1 hairless       : 無毛
+0.0011782    1 objectivity    : 無偏
+0.0011773    3 end            : 限り無く, 術無い, 敢え無い
+0.0011759    1 asexual        : 無性
+0.0011715    2 unbecoming     : 似気無い, 見っとも無い
+0.0011707    2 wasted         : 無駄骨, 台無し
+0.0011604    1 gasoline       : 無鉛
+0.0011565    2 clumsy         : 無様, 無骨
+0.0011511    2 disappointing  : 腑甲斐無い, 敢え無い
+0.0011504    2 dull           : 味気無い, 無味
+0.0011471    3 business       : 無届, 無届け, 無用
+0.0011423    2 silent         : 無声, 無口
+0.0011280    1 annihilation   : 無化
+0.0011278    2 ennui          : 無聊, 無事
+0.0011166    2 gutless        : 腑甲斐無い, だらし無い
+0.0011157    1 dan            : 無段
+0.0011023    1 untalkative    : 無口
+0.0010946    1 priceless      : 無価
+0.0010764    1 digging        : 苦無
+0.0010744    2 position       : 無役, 無色
+0.0010715    2 idle           : 無駄話, 無駄口
+0.0010624    2 unjustifiable  : 無理, 無名
+0.0010615    2 obstructive    : 無念, 無心
+0.0010609    2 insentient     : 無情, 無心
+0.0010599    1 taciturn       : 無口
+0.0010599    1 reticent       : 無口
+0.0010559    2 inhuman        : 無道, 人で無し
+0.0010556    1 discourtesy    : 無礼
+0.0010556    1 insolence      : 無礼
+0.0010547    2 failure        : 無傷, 無疵
+0.0010537    1 inelegant      : 無粋
+0.0010537    1 unromantic     : 無粋
+0.0010388    1 generous       : 惜しみ無い
+0.0010317    2 marriage       : 無届, 無届け
+0.0010284    1 meaningless    : 無駄死に
+0.0010272    2 outrageous     : 無道, 無法
+0.0010131    1 tactless       : 無粋
+0.0010127    1 tool           : 苦無
+0.0010053    1 effort         : 無駄骨
+0.0010043    2 reputation     : 無傷, 無疵
+0.0010026    2 blunt          : 素っ気無い, 無躾
+0.0010016    1 eating         : 無駄食い
+0.0009961    2 untidy         : 無様, だらし無い
+0.0009928    2 talent         : 無才, 無芸
+0.0009918    2 record         : 無傷, 無疵
+0.0009896    2 incompetent    : 無力, 無能
+0.0009882    2 inanimate      : 無情, 無心
+0.0009881    2 title          : 無題, 無官
+0.0009861    1 impoliteness   : 無礼
+0.0009817    2 none           : 無二, 皆無
+0.0009795    1 farming        : 苦無
+0.0009782    3 unreliable     : 頼り無い, 心許無い, 覚束無い
+0.0009683    2 eternity       : 無窮, 無限
+0.0009625    2 condition      : 無傷, 無疵
+0.0009625    1 endless        : 限り無い
+0.0009611    2 defeat         : 無傷, 無疵
+0.0009561    2 accident       : つつが無い, 恙無い
+0.0009454    1 rudeness       : 無礼
+0.0009365    2 unique         : 並び無い, 無い
+0.0009267    1 throwing       : 苦無
+0.0009217    1 feeling        : 仕方無い
+0.0009199    1 continuous     : 無段
+0.0009193    2 performance    : 無傷, 無疵
+0.0009164    2 stupidity      : 無智, 無知
+0.0009156    2 headlong       : 無鉄砲, 遮二無二
+0.0009149    2 idleness       : 無駄, 無為
+0.0009083    2 avarice        : 無慾, 無欲
+0.0009064    2 spoilt         : 台無し, 形無し
+0.0009057    1 stand          : 仕方無い
+0.0009049    2 feeble         : 力無い, だらし無い
+0.0008937    1 rose           : 無窮花
+0.0008893    2 living         : 無駄飯, 無駄食い
+0.0008889    1 last           : 仕方無く
+0.0008804    2 talk           : 無駄話, 無駄口
+0.0008775    2 lunar          : 水無月, 神無月
+0.0008736    2 impossible     : 無理, 無い
+0.0008695    2 nonexistent    : 無い, 皆無
+0.0008640    1 use            : 仕方無い
+0.0008531    1 martial        : 無段
+0.0008507    2 leave          : 無届, 無届け
+0.0008503    2 spoiled        : 台無し, 形無し
+0.0008500    1 wearisome      : 味気無い
+0.0008321    2 plain          : 無文, 無地
+0.0008258    1 irksome        : 味気無い
+0.0008248    1 loafing        : 無駄食い
+0.0008248    1 titleless      : 無題
+0.0008242    1 anhydrous      : 無水
+0.0008242    1 unbranded      : 無印
+0.0008242    1 unlabeled      : 無印
+0.0008240    1 achromatic     : 無色
+0.0008240    1 colorless      : 無色
+0.0008240    1 homelessness   : 無宿
+0.0008238    1 endlessness    : 無終
+0.0008233    1 guiltless      : 無辜
+0.0008233    1 blameless      : 無辜
+0.0008231    1 bloodless      : 無血
+0.0008231    1 unpolished     : 無粋
+0.0008231    1 Sapindus       : 無患子
+0.0008227    1 nonsalaried    : 無給
+0.0008212    2 dry            : 無味, 水無川
+0.0008193    1 unpatterned    : 無文
+0.0008193    1 avidya         : 無明
+0.0008193    1 infallibility  : 無謬
+0.0008193    1 inerrancy      : 無謬
+0.0008180    1 nonpoisonous   : 無毒
+0.0008180    1 nontoxic       : 無毒
+0.0008180    1 undefeatable   : 無敵
+0.0008156    2 deplorable     : 情け無い, 情無い
+0.0008102    1 permission     : 無断
+0.0008023    1 role           : 無役
+0.0007988    1 knavish        : 無頼
+0.0007988    1 villainous     : 無頼
+0.0007968    2 occupation     : 無職, 無業
+0.0007947    1 Amitabha       : 南無阿弥陀仏
+0.0007895    2 undependable   : 頼り無い, 心許無い
+0.0007875    2 ruined         : 台無し, 形無し
+0.0007748    2 hazy           : 有耶無耶, 覚束無い
+0.0007743    1 amen           : 南無
+0.0007739    1 untitled       : 無題
+0.0007731    1 homeless       : 無宿
+0.0007687    1 windless       : 無風
+0.0007674    1 unbeatable     : 無敵
+0.0007672    1 painless       : 無痛
+0.0007581    1 contact        : 無音
+0.0007568    2 pitiable       : 情け無い, 情無い
+0.0007523    2 work           : 無理, だらし無い
+0.0007504    2 tree           : 無患子, 無花果
+0.0007490    1 unpresentable  : 無様
+0.0007490    1 ungraceful     : 無様
+0.0007437    1 post           : 無役
+0.0007221    1 neutral        : 無色
+0.0007214    1 moonless       : 無月
+0.0007180    1 uninteresting  : 無味
+0.0007180    1 illiteracy     : 無筆
+0.0007173    2 lose           : 無くなす, 無くす
+0.0007169    1 invincible     : 無敵
+0.0007168    1 Gregorian      : 水無月
+0.0007153    2 dream          : 無理, 無くなる
+0.0007152    1 feckless       : 腑甲斐無い
+0.0007152    1 pluckless      : 腑甲斐無い
+0.0007152    1 spiritless     : 腑甲斐無い
+0.0007092    1 impermanence   : 無常
+0.0007092    1 transiency     : 無常
+0.0007092    1 mutability     : 無常
+0.0007057    1 impartial      : 無色
+0.0007006    1 unrivaled      : 無敵
+0.0007006    1 June           : 水無月
+0.0006993    2 uneasy         : 頼り無い, 心許無い
+0.0006986    1 false          : 無実
+0.0006911    1 heedless       : 無考え
+0.0006901    1 curt           : 素っ気無い
+0.0006836    1 brusque        : 無骨
+0.0006817    1 chatter        : 無駄口
+0.0006772    1 electoral      : 無風
+0.0006767    1 incomparable   : 無二
+0.0006753    1 wretched       : 味気無い
+0.0006746    2 life           : 無駄食い, 無期
+0.0006723    1 unworthy       : 似気無い
+0.0006633    1 wasteful       : 無駄食い
+0.0006571    1 immoral        : 無道
+0.0006556    1 fruitless      : 無駄骨
+0.0006554    1 domicile       : 無籍
+0.0006553    1 spineless      : 腑甲斐無い
+0.0006551    1 inconsiderate  : 心無い
+0.0006550    1 absolute       : 無水
+0.0006506    1 lost           : 無くなる
+0.0006488    2 unclear        : 心許無い, 覚束無い
+0.0006454    2 loss           : 術無い, 形無し
+0.0006420    1 registered     : 無籍
+0.0006405    1 unpaid         : 無給
+0.0006314    1 boredom        : 無聊
+0.0006308    2 indistinct     : 心許無い, 覚束無い
+0.0006298    1 bottomless     : 底無し
+0.0006283    1 paltry         : 無けなし
+0.0006280    1 hard           : 無理
+0.0006255    1 July           : 水無月
+0.0006209    1 errand         : 無駄足
+0.0006183    1 numerical      : 無勢
+0.0006156    1 shameless      : 無恥
+0.0006156    1 rustic         : 無骨
+0.0006130    1 inferiority    : 無勢
+0.0006074    1 uncertainty    : 無常
+0.0006040    1 immortality    : 無窮
+0.0006039    1 supreme        : 無上
+0.0006032    1 topped         : 水無月
+0.0005975    1 need           : 無銭
+0.0005969    1 removed        : 無宿
+0.0005959    1 seasonal       : 無季
+0.0005926    1 timid          : 腑甲斐無い
+0.0005919    1 disregard      : 無みする
+0.0005899    1 usage          : 無月
+0.0005898    1 Ficus          : 無花果
+0.0005890    1 powerlessness  : 無力
+0.0005890    1 helplessness   : 無力
+0.0005890    1 inestimable    : 無量
+0.0005890    1 immeasurable   : 無量
+0.0005888    1 causeless      : 無名
+0.0005888    1 inefficiency   : 無能
+0.0005886    1 unrealistic    : 無茶苦茶
+0.0005885    1 noiseless      : 無声
+0.0005885    1 voiceless      : 無声
+0.0005881    1 numberless     : 無数
+0.0005880    1 inexhaustibility: 無尽
+0.0005880    1 shorthandedness: 無人
+0.0005880    1 unmanned       : 無人
+0.0005880    1 insubstantiality: 無実
+0.0005880    1 patternless    : 無地
+0.0005879    1 nonsexual      : 無性
+0.0005879    1 agamic         : 無性
+0.0005879    1 sexless        : 無性
+0.0005879    1 genderless     : 無性
+0.0005879    1 unscented      : 無臭
+0.0005879    1 odorless       : 無臭
+0.0005875    1 infinity       : 無限
+0.0005875    1 ceaselessness  : 無間
+0.0005875    1 incessancy     : 無間
+0.0005875    1 unsupported    : 無稽
+0.0005875    1 immaterial     : 無形
+0.0005872    1 aseptic        : 無菌
+0.0005872    1 inorganic      : 無機
+0.0005871    1 uncrowned      : 無冠
+0.0005867    1 smokeless      : 無煙
+0.0005867    1 unsupporting   : 無援
+0.0005866    1 making         : 無音
+0.0005855    1 independent    : 無頼
+0.0005831    1 mowing         : 無双
+0.0005798    1 gossip         : 無駄話
+0.0005786    1 signature      : 無銘
+0.0005772    1 blossom        : 無駄花
+0.0005760    1 poetic         : 無月
+0.0005752    1 awkward        : 無様
+0.0005743    1 tame           : 腑甲斐無い
+0.0005724    1 eaten          : 水無月
+0.0005643    1 go             : 無段
+0.0005639    1 peaceful       : 無風
+0.0005634    1 blank          : 無想
+0.0005622    1 Indian         : 無患子
+0.0005622    1 inoffensive    : 無難
+0.0005622    1 innocuous      : 無難
+0.0005576    1 ignore         : 無みする
+0.0005576    1 stable         : 無風
+0.0005531    1 undecided      : 有耶無耶
+0.0005526    1 gratuitous     : 無料
+0.0005526    1 forcible       : 無理
+0.0005524    1 lawlessness    : 無法
+0.0005522    1 foolhardy      : 無鉄砲
+0.0005522    1 uselessness    : 無駄
+0.0005522    1 pointlessness  : 無駄
+0.0005522    1 futility       : 無駄
+0.0005517    1 unattended     : 無人
+0.0005517    1 guiltlessness  : 無実
+0.0005516    1 wicked         : 無道
+0.0005515    1 temperature    : 無熱
+0.0005514    1 selfless       : 無私
+0.0005510    1 immaculate     : 無垢
+0.0005505    1 unsalted       : 無塩
+0.0005493    1 unrefined      : 無骨
+0.0005480    1 arroyo         : 水無川
+0.0005480    1 wadi           : 水無川
+0.0005477    1 register       : 無宿
+0.0005461    1 normal         : 無熱
+0.0005446    1 pottery        : 無文
+0.0005432    1 perforce       : 止む無く
+0.0005365    1 fish           : 無塩
+0.0005352    1 highest        : 無上
+0.0005351    1 hail           : 南無
+0.0005312    1 funds          : 無手
+0.0005311    1 unauthorized   : 無用
+0.0005311    1 unnamed        : 無名
+0.0005311    1 impulsive      : 無謀
+0.0005311    1 lawless        : 無法
+0.0005311    1 undefeated     : 無敗
+0.0005311    1 mortification  : 無念
+0.0005309    1 senseless      : 無茶苦茶
+0.0005308    1 property       : 無産
+0.0005304    1 uninhabited    : 無人
+0.0005304    1 coldheartedness: 無情
+0.0005301    1 muteness       : 無言
+0.0005300    1 ineffective    : 無効
+0.0005300    1 unavailable    : 無効
+0.0005296    1 selflessness   : 無我
+0.0005293    1 unconnected    : 無縁
+0.0005288    1 fool           : 無駄足
+0.0005268    1 inaction       : 無事
+0.0005266    1 Sharon         : 無窮花
+0.0005212    1 tiny           : 無けなし
+0.0005179    1 produce        : 無駄花
+0.0005160    1 incapacity     : 無能
+0.0005154    1 countless      : 無数
+0.0005154    1 heartlessness  : 無情
+0.0005151    1 unsettled      : 有耶無耶
+0.0005148    1 unspoiled      : 無垢
+0.0005146    1 uneducated     : 無学
+0.0005142    1 irrelevant     : 無縁
+0.0005141    1 ungrateful     : 人で無し
+0.0005071    1 passable       : 無難
+0.0005048    1 distant        : 無始
+0.0005045    1 unnatural      : 無理
+0.0005043    1 outrage        : 無法
+0.0005037    1 innumerable    : 無数
+0.0005037    1 insincerity    : 無実
+0.0005036    1 tenth          : 神無月
+0.0005036    1 jobless        : 無職
+0.0005032    1 unfounded      : 無稽
+0.0005031    1 unmixed        : 無垢
+0.0005029    1 nonstop        : 無休
+0.0004980    1 Hibiscus       : 無窮花
+0.0004949    1 irrational     : 無理
+0.0004947    1 forbidden      : 無用
+0.0004947    1 unjust         : 無法
+0.0004947    1 dividend       : 無配
+0.0004947    1 incompetence   : 無能
+0.0004940    1 calm           : 無風
+0.0004934    1 illiterate     : 無学
+0.0004931    1 seat           : 無風
+0.0004927    1 fleeting       : 敢え無い
+0.0004923    1 poor           : 無徳
+0.0004921    1 sloth          : 無精
+0.0004918    1 best           : 無上
+0.0004866    1 injustice      : 無法
+0.0004866    1 chagrin        : 無念
+0.0004865    1 nonsensical    : 無茶苦茶
+0.0004864    1 unvoiced       : 無声
+0.0004860    1 cruelty        : 無情
+0.0004859    1 unemployed     : 無職
+0.0004856    1 invalid        : 無効
+0.0004853    1 sterile        : 無菌
+0.0004853    1 championship   : 無冠
+0.0004849    1 inactivity     : 無為
+0.0004833    1 Butsu          : 南無阿弥陀仏
+0.0004816    1 unacceptable   : 無し
+0.0004796    1 needless       : 無用
+0.0004796    1 anonymous      : 無名
+0.0004789    1 sky            : 無月
+0.0004786    1 option         : 止む無く
+0.0004783    1 nirvana        : 無学
+0.0004780    1 surviving      : 無縁
+0.0004753    1 subject        : 無題
+0.0004734    1 necessity      : 止む無く
+0.0004729    1 hardness       : 無情
+0.0004728    1 past           : 無始
+0.0004724    1 keeping        : 似気無い
+0.0004718    1 impolite       : 無躾
+0.0004718    1 saved          : 無縁
+0.0004711    1 priest         : 無住
+0.0004704    1 fruit          : 無駄花
+0.0004704    1 visit          : 無駄足
+0.0004679    1 ability        : 無才
+0.0004679    1 inability      : 無能
+0.0004671    1 guilty         : 無罪
+0.0004669    1 abstract       : 無形
+0.0004666    1 ignorant       : 無学
+0.0004653    1 sweet          : 水無月
+0.0004630    1 unsatisfactory : 無し
+0.0004619    1 void           : 無効
+0.0004619    1 limitless      : 無限
+0.0004585    1 compulsory     : 無理
+0.0004578    1 deserted       : 無人
+0.0004578    1 pester         : 無心
+0.0004541    1 unnecessary    : 無用
+0.0004535    1 flower         : 無駄花
+0.0004532    1 groundless     : 無根
+0.0004498    1 short          : 素っ気無い
+0.0004498    1 alright        : 無し
+0.0004498    1 forsaken       : 頼り無い
+0.0004495    1 improper       : 見っとも無い
+0.0004490    1 office         : 無官
+0.0004461    1 accusation     : 無実
+0.0004438    1 cold           : 素っ気無い
+0.0004432    1 freedom        : 無念
+0.0004431    1 ridiculous     : 無茶
+0.0004420    1 acceptable     : 無難
+0.0004415    1 indolence      : 無精
+0.0004415    1 laziness       : 無精
+0.0004405    1 second         : 無二
+0.0004377    1 adequate       : 無難
+0.0004371    1 safety         : 無事
+0.0004361    1 clothes        : 無文
+0.0004342    1 undisciplined  : だらし無い
+0.0004332    1 open           : 無蓋
+0.0004331    1 insolent       : 無躾
+0.0004316    1 nihility       : 虚無
+0.0004315    1 obscure        : 無名
+0.0004315    1 mad            : 無謀
+0.0004300    1 purity         : 無塩
+0.0004280    1 nonsense       : 無稽
+0.0004271    1 disgraceful    : 見っとも無い
+0.0004268    1 Edo            : 無宿
+0.0004263    1 amount         : 無けなし
+0.0004254    1 imprisonment   : 無期
+0.0004230    1 doctrine       : 無我
+0.0004227    1 indifferent    : 無縁
+0.0004225    1 deep           : 底無し
+0.0004223    1 temple         : 無住
+0.0004199    1 indecent       : 見っとも無い
+0.0004197    1 rude           : 無躾
+0.0004193    1 fact           : 無実
+0.0004193    1 cash           : 無心
+0.0004190    1 state          : 無風
+0.0004184    1 naive          : 無塩
+0.0004176    1 communication  : 無線
+0.0004176    1 radio          : 無線
+0.0004158    1 unknown        : 無名
+0.0004149    1 hell           : 無間
+0.0004142    1 little         : 無けなし
+0.0004137    1 sad            : 敢え無い
+0.0004130    1 spiritual      : 無形
+0.0004121    1 flaw           : 無難
+0.0004118    1 mind           : 無想
+0.0004118    1 abolish        : 無くす
+0.0004118    1 eradicate      : 無くす
+0.0004091    1 possess        : 無我
+0.0004074    1 holiday        : 無休
+0.0004068    1 impudent       : 無躾
+0.0004049    1 nothingness    : 虚無
+0.0004049    1 Korean         : 無窮花
+0.0004023    1 unable         : 無縁
+0.0004016    1 compensation   : 無償
+0.0003993    1 brute          : 人で無し
+0.0003992    1 regret         : 無念
+0.0003977    1 excess         : 無茶苦茶
+0.0003973    1 reward         : 無償
+0.0003970    1 satisfactory   : 無難
+0.0003956    1 moral          : 無形
+0.0003953    1 forced         : 無理
+0.0003952    1 exhausted      : 無くなる
+0.0003951    1 coming         : 台無し
+0.0003947    1 substance      : 無実
+0.0003921    1 association    : 無尽
+0.0003913    1 incident       : 無事
+0.0003912    1 confusion      : 無茶苦茶
+0.0003903    1 exist          : 無きゃ
+0.0003900    1 disorder       : 無茶苦茶
+0.0003888    1 beast          : 人で無し
+0.0003877    1 unsure         : 心許無い
+0.0003850    1 going          : 無駄足
+0.0003850    1 security       : 無事
+0.0003840    1 mutual         : 無尽
+0.0003824    1 rebirth        : 南無阿弥陀仏
+0.0003823    1 set            : 無みする
+0.0003819    1 monster        : 人で無し
+0.0003816    1 enemy          : 無双
+0.0003814    1 scheme         : 無謀
+0.0003810    1 forlorn        : 頼り無い
+0.0003806    1 family         : 無宿
+0.0003801    1 deceased       : 無縁
+0.0003795    1 try            : 無理
+0.0003789    1 erratic        : 心許無い
+0.0003789    1 untrustworthy  : 心許無い
+0.0003787    1 policy         : 無策
+0.0003785    1 nonchalant     : さり気無い
+0.0003784    1 sloppy         : だらし無い
+0.0003774    1 major          : 無冠
+0.0003755    1 period         : 無宿
+0.0003755    1 reduced        : 無くなる
+0.0003737    1 result         : 敢え無い
+0.0003706    1 speaking       : 無言
+0.0003691    1 occur          : 無くなる
+0.0003664    1 cranny         : 隈無く
+0.0003660    1 raw            : 無塩
+0.0003653    1 luggage        : 無くなる
+0.0003652    1 eliminate      : 無くす
+0.0003651    1 slack          : だらし無い
+0.0003650    1 famous         : 無名
+0.0003623    1 Chinese        : 無患子
+0.0003601    1 rice           : 水無月
+0.0003600    1 peace          : 無事
+0.0003600    1 rid            : 無くす
+0.0003593    1 extreme        : 無茶
+0.0003559    1 worried        : 頼り無い
+0.0003536    1 shaky          : 覚束無い
+0.0003526    1 wrong          : 無法
+0.0003511    1 common         : 無花果
+0.0003491    1 mixed          : 無茶苦茶
+0.0003487    1 pay            : 無償
+0.0003480    1 foreign        : 無縁
+0.0003474    1 disappear      : 無くなる
+0.0003473    1 kimono         : 無垢
+0.0003445    1 unconcerned    : さり気無い
+0.0003423    1 fresh          : 無塩
+0.0003395    1 salt           : 無塩
+0.0003391    1 casual         : さり気無い
+0.0003383    1 nervous        : 心許無い
+0.0003363    1 insecure       : 覚束無い
+0.0003363    1 unpromising    : 覚束無い
+0.0003324    1 advance        : 無断
+0.0003293    1 missing        : 無くなる
+0.0003283    1 nook           : 隈無く
+0.0003249    1 course         : 無論
+0.0003246    1 doubtful       : 覚束無い
+0.0003242    1 impatient      : 心許無い
+0.0003234    1 prayer         : 南無阿弥陀仏
+0.0003176    1 river          : 水無川
+0.0003175    1 yes            : 有無
+0.0003160    1 cloth          : 無垢
+0.0003132    1 unsteady       : 覚束無い
+0.0003128    1 pain           : 無くなる
+0.0003126    1 happen         : 無い
+0.0003124    1 color          : 無地
+0.0003118    1 careless       : だらし無い
+0.0003118    1 loose          : だらし無い
+0.0003110    1 anxious        : 心許無い
+0.0003109    1 remove         : 無くす
+0.0003065    1 faltering      : 覚束無い
+0.0003043    1 heart          : 無情
+0.0003040    1 refusal        : 有無
+0.0002996    1 sound          : 無病
+0.0002959    1 anxiety        : 心許無い
+0.0002903    1 woman          : 無塩
+0.0002850    1 weak           : だらし無い
+0.0002784    1 made           : 無垢
+0.0002740    1 manner         : さり気無い
+0.0002718    1 rush           : 遮二無二
+0.0002595    1 consent        : 有無
+0.0002543    1 run            : 無くなる
+0.0002537    1 appearance     : だらし無い
+0.0002198    1 someone        : 無心
+0.0002163    1 used           : 無くなる
+0.0002043    1 face           : 形無し
+0.0001789    1 Japanese       : 寿限無
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0587820    3 force
+	force WORD[ 1,   1]: 0.0581588 無理くり
+	force WORD[ 1,   2]: 0.0003116 無理やり
+	force WORD[ 1,   3]: 0.0003116 無理矢理
+TOKEN[ 2]: 0.0527051    1 sleeveless
+	sleeveless WORD[ 2,   1]: 0.0527051 袖無し
+TOKEN[ 3]: 0.0313879   10 one
+	one WORD[ 3,   1]: 0.0292936 無理くり
+	one WORD[ 3,   2]: 0.0004485 仕方無い
+	one WORD[ 3,   3]: 0.0003127 無縁
+	one WORD[ 3,   4]: 0.0002720 無けりゃ
+	one WORD[ 3,   5]: 0.0002198 無駄食い
+	one WORD[ 3,   6]: 0.0002026 無けなし
+	one WORD[ 3,   7]: 0.0001889 術無い
+	one WORD[ 3,   8]: 0.0001569 無理やり
+	one WORD[ 3,   9]: 0.0001569 無理矢理
+	one WORD[ 3,  10]: 0.0001360 無きゃ
+TOKEN[ 4]: 0.0248205    1 haori
+	haori WORD[ 4,   1]: 0.0248205 袖無し
+TOKEN[ 5]: 0.0215442    1 garment
+	garment WORD[ 5,   1]: 0.0215442 袖無し
+TOKEN[ 6]: 0.0214857    1 unmarried
+	unmarried WORD[ 6,   1]: 0.0214857 無妻
+TOKEN[ 7]: 0.0138081    7 absence
+	absence WORD[ 7,   1]: 0.0097130 無有
+	absence WORD[ 7,   2]: 0.0014863 有る無し
+	absence WORD[ 7,   3]: 0.0008071 無断
+	absence WORD[ 7,   4]: 0.0005608 無届
+	absence WORD[ 7,   5]: 0.0005608 無届け
+	absence WORD[ 7,   6]: 0.0004032 無実
+	absence WORD[ 7,   7]: 0.0002768 有無
+TOKEN[ 8]: 0.0131432    2 nonexistence
+	nonexistence WORD[ 8,   1]: 0.0127790 無有
+	nonexistence WORD[ 8,   2]: 0.0003642 有無
+TOKEN[ 9]: 0.0130925    1 fearlessness
+	fearlessness WORD[ 9,   1]: 0.0130925 無畏
+TOKEN[10]: 0.0110903    1 preaching
+	preaching WORD[10,   1]: 0.0110903 無畏
+TOKEN[11]: 0.0109745    2 confidence
+	confidence WORD[11,   1]: 0.0105859 無畏
+	confidence WORD[11,   2]: 0.0003886 無くなる
+TOKEN[12]: 0.0104419    3 presence
+	presence WORD[12,   1]: 0.0088376 無有
+	presence WORD[12,   2]: 0.0013524 有る無し
+	presence WORD[12,   3]: 0.0002519 有無
+TOKEN[13]: 0.0096257    2 existence
+	existence WORD[13,   1]: 0.0093590 無有
+	existence WORD[13,   2]: 0.0002667 有無
+TOKEN[14]: 0.0092203    1 single
+	single WORD[14,   1]: 0.0092203 無妻
+TOKEN[15]: 0.0087790    1 wife
+	wife WORD[15,   1]: 0.0087790 無妻
+TOKEN[16]: 0.0085787    6 useless
+	useless WORD[16,   1]: 0.0050766 甲斐無い
+	useless WORD[16,   2]: 0.0011414 仕方無い
+	useless WORD[16,   3]: 0.0008672 無駄死に
+	useless WORD[16,   4]: 0.0005566 無益
+	useless WORD[16,   5]: 0.0005376 腑甲斐無い
+	useless WORD[16,   6]: 0.0003992 無用
+TOKEN[17]: 0.0078541    2 pointless
+	pointless WORD[17,   1]: 0.0064124 甲斐無い
+	pointless WORD[17,   2]: 0.0014417 仕方無い
+TOKEN[18]: 0.0077872    1 man
+	man WORD[18,   1]: 0.0077872 無妻
+TOKEN[19]: 0.0075381    1 unslacking
+	unslacking WORD[19,   1]: 0.0075381 弛み無い
+TOKEN[20]: 0.0067998    1 unceasing
+	unceasing WORD[20,   1]: 0.0067998 弛み無い
+TOKEN[21]: 0.0064276    1 changeable
+	changeable WORD[21,   1]: 0.0064276 定め無い
+TOKEN[22]: 0.0063893    1 heavens
+	heavens WORD[22,   1]: 0.0063893 南無三宝
+TOKEN[23]: 0.0063093    3 Buddha
+	Buddha WORD[23,   1]: 0.0051027 南無三宝
+	Buddha WORD[23,   2]: 0.0006425 無縁
+	Buddha WORD[23,   3]: 0.0005641 南無阿弥陀仏
+TOKEN[24]: 0.0061142   10 unreasonable
+	unreasonable WORD[24,   1]: 0.0016631 無闇矢鱈
+	unreasonable WORD[24,   2]: 0.0005402 無代
+	unreasonable WORD[24,   3]: 0.0005368 無体
+	unreasonable WORD[24,   4]: 0.0005206 無道
+	unreasonable WORD[24,   5]: 0.0003857 無理
+	unreasonable WORD[24,   6]: 0.0003856 無暗
+	unreasonable WORD[24,   7]: 0.0003856 無闇
+	unreasonable WORD[24,   8]: 0.0003856 無法
+	unreasonable WORD[24,   9]: 0.0003855 無茶苦茶
+	unreasonable WORD[24,  10]: 0.0003854 無茶
+TOKEN[25]: 0.0060595    2 nameless
+	nameless WORD[25,   1]: 0.0055071 名無し
+	nameless WORD[25,   2]: 0.0005524 無名
+TOKEN[26]: 0.0060449    2 transient
+	transient WORD[26,   1]: 0.0055707 定め無い
+	transient WORD[26,   2]: 0.0004742 敢え無い
+TOKEN[27]: 0.0058772    2 uncertain
+	uncertain WORD[27,   1]: 0.0055707 定め無い
+	uncertain WORD[27,   2]: 0.0003065 覚束無い
+TOKEN[28]: 0.0058698    1 namelessness
+	namelessness WORD[28,   1]: 0.0058698 名無し
+TOKEN[29]: 0.0057828    5 good
+	good WORD[29,   1]: 0.0041315 南無三宝
+	good WORD[29,   2]: 0.0007463 仕方無い
+	good WORD[29,   3]: 0.0003280 つつが無い
+	good WORD[29,   4]: 0.0003280 恙無い
+	good WORD[29,   5]: 0.0002489 無事
+TOKEN[30]: 0.0056142    2 worthless
+	worthless WORD[30,   1]: 0.0050766 甲斐無い
+	worthless WORD[30,   2]: 0.0005376 腑甲斐無い
+TOKEN[31]: 0.0051817    2 long
+	long WORD[31,   1]: 0.0039525 程無く
+	long WORD[31,   2]: 0.0006146 無音
+TOKEN[32]: 0.0051029    2 reason
+	reason WORD[32,   1]: 0.0046003 故無い
+	reason WORD[32,   2]: 0.0005026 無駄足
+TOKEN[33]: 0.0049757    7 absurd
+	absurd WORD[33,   1]: 0.0017160 無闇矢鱈
+	absurd WORD[33,   2]: 0.0005573 無代
+	absurd WORD[33,   3]: 0.0005539 無体
+	absurd WORD[33,   4]: 0.0003978 無暗
+	absurd WORD[33,   5]: 0.0003978 無闇
+	absurd WORD[33,   6]: 0.0003977 無茶苦茶
+	absurd WORD[33,   7]: 0.0003977 無茶
+TOKEN[34]: 0.0042726   11 free
+	free WORD[34,   1]: 0.0004706 無碍
+	free WORD[34,   2]: 0.0004706 無礙
+	free WORD[34,   3]: 0.0004675 無賃
+	free WORD[34,   4]: 0.0004230 つつが無い
+	free WORD[34,   5]: 0.0004230 恙無い
+	free WORD[34,   6]: 0.0003367 無料
+	free WORD[34,   7]: 0.0003366 無慾
+	free WORD[34,   8]: 0.0003366 無欲
+	free WORD[34,   9]: 0.0003362 無心
+	free WORD[34,  10]: 0.0003361 無償
+	free WORD[34,  11]: 0.0003354 無塩
+TOKEN[35]: 0.0041526    1 unintentional
+	unintentional WORD[35,   1]: 0.0041526 無意
+TOKEN[36]: 0.0040529    7 rash
+	rash WORD[36,   1]: 0.0016323 無闇矢鱈
+	rash WORD[36,   2]: 0.0005286 無考え
+	rash WORD[36,   3]: 0.0003784 無暗
+	rash WORD[36,   4]: 0.0003784 無闇
+	rash WORD[36,   5]: 0.0003784 無謀
+	rash WORD[36,   6]: 0.0003783 無鉄砲
+	rash WORD[36,   7]: 0.0003783 無茶
+TOKEN[37]: 0.0040103    6 thoughtless
+	thoughtless WORD[37,   1]: 0.0017479 無闇矢鱈
+	thoughtless WORD[37,   2]: 0.0005661 無考え
+	thoughtless WORD[37,   3]: 0.0004806 心無い
+	thoughtless WORD[37,   4]: 0.0004052 無暗
+	thoughtless WORD[37,   5]: 0.0004052 無闇
+	thoughtless WORD[37,   6]: 0.0004052 無謀
+TOKEN[38]: 0.0039876    7 reckless
+	reckless WORD[38,   1]: 0.0016679 無闇矢鱈
+	reckless WORD[38,   2]: 0.0003867 無暗
+	reckless WORD[38,   3]: 0.0003867 無闇
+	reckless WORD[38,   4]: 0.0003867 無謀
+	reckless WORD[38,   5]: 0.0003866 無鉄砲
+	reckless WORD[38,   6]: 0.0003866 無茶苦茶
+	reckless WORD[38,   7]: 0.0003866 無茶
+TOKEN[39]: 0.0039359    5 immoderate
+	immoderate WORD[39,   1]: 0.0020421 無闇矢鱈
+	immoderate WORD[39,   2]: 0.0004736 無理
+	immoderate WORD[39,   3]: 0.0004734 無暗
+	immoderate WORD[39,   4]: 0.0004734 無闇
+	immoderate WORD[39,   5]: 0.0004733 無茶
+TOKEN[40]: 0.0033192    7 miserable
+	miserable WORD[40,   1]: 0.0010027 無慚
+	miserable WORD[40,   2]: 0.0004316 敢え無い
+	miserable WORD[40,   3]: 0.0003972 無惨
+	miserable WORD[40,   4]: 0.0003972 無慙
+	miserable WORD[40,   5]: 0.0003972 無残
+	miserable WORD[40,   6]: 0.0003467 情け無い
+	miserable WORD[40,   7]: 0.0003467 情無い
+TOKEN[41]: 0.0033107    5 infinite
+	infinite WORD[41,   1]: 0.0010313 限り無い
+	infinite WORD[41,   2]: 0.0006772 無辺
+	infinite WORD[41,   3]: 0.0006298 底無し
+	infinite WORD[41,   4]: 0.0004868 無量
+	infinite WORD[41,   5]: 0.0004856 無限
+TOKEN[42]: 0.0031633    6 nothing
+	nothing WORD[42,   1]: 0.0010295 仕方無い
+	nothing WORD[42,   2]: 0.0004493 絶無
+	nothing WORD[42,   3]: 0.0004466 台無し
+	nothing WORD[42,   4]: 0.0003588 無縁
+	nothing WORD[42,   5]: 0.0003121 無
+	nothing WORD[42,   6]: 0.0002548 皆無
+TOKEN[43]: 0.0031233    3 indiscreet
+	indiscreet WORD[43,   1]: 0.0021339 無闇矢鱈
+	indiscreet WORD[43,   2]: 0.0004947 無暗
+	indiscreet WORD[43,   3]: 0.0004947 無闇
+TOKEN[44]: 0.0031081    5 excessive
+	excessive WORD[44,   1]: 0.0016126 無闇矢鱈
+	excessive WORD[44,   2]: 0.0003740 無理
+	excessive WORD[44,   3]: 0.0003739 無暗
+	excessive WORD[44,   4]: 0.0003739 無闇
+	excessive WORD[44,   5]: 0.0003737 無茶
+TOKEN[45]: 0.0028937    3 indiscriminate
+	indiscriminate WORD[45,   1]: 0.0019770 無闇矢鱈
+	indiscriminate WORD[45,   2]: 0.0004583 無暗
+	indiscriminate WORD[45,   3]: 0.0004583 無闇
+TOKEN[46]: 0.0028663    1 name
+	name WORD[46,   1]: 0.0028663 名無し
+TOKEN[47]: 0.0027917    5 pitiful
+	pitiful WORD[47,   1]: 0.0010254 無慚
+	pitiful WORD[47,   2]: 0.0005479 腑甲斐無い
+	pitiful WORD[47,   3]: 0.0004062 無惨
+	pitiful WORD[47,   4]: 0.0004062 無慙
+	pitiful WORD[47,   5]: 0.0004062 無残
+TOKEN[48]: 0.0027715    4 way
+	way WORD[48,   1]: 0.0013654 無い無い
+	way WORD[48,   2]: 0.0007642 仕方無い
+	way WORD[48,   3]: 0.0003745 無駄食い
+	way WORD[48,   4]: 0.0002674 無理
+TOKEN[49]: 0.0027708    5 tragic
+	tragic WORD[49,   1]: 0.0010580 無慚
+	tragic WORD[49,   2]: 0.0004555 敢え無い
+	tragic WORD[49,   3]: 0.0004191 無惨
+	tragic WORD[49,   4]: 0.0004191 無慙
+	tragic WORD[49,   5]: 0.0004191 無残
+TOKEN[50]: 0.0027574    3 intangible
+	intangible WORD[50,   1]: 0.0007440 無代
+	intangible WORD[50,   2]: 0.0007394 無体
+	intangible WORD[50,   3]: 0.0005299 無形
+TOKEN[51]: 0.0027062    4 vain
+	vain WORD[51,   1]: 0.0008950 無駄死に
+	vain WORD[51,   2]: 0.0006594 味気無い
+	vain WORD[51,   3]: 0.0005773 無駄骨
+	vain WORD[51,   4]: 0.0005745 無益
+TOKEN[52]: 0.0026568    5 cruel
+	cruel WORD[52,   1]: 0.0009992 無慚
+	cruel WORD[52,   2]: 0.0004702 心無い
+	cruel WORD[52,   3]: 0.0003958 無惨
+	cruel WORD[52,   4]: 0.0003958 無慙
+	cruel WORD[52,   5]: 0.0003958 無残
+TOKEN[53]: 0.0026111    4 ruthless
+	ruthless WORD[53,   1]: 0.0011932 無慚
+	ruthless WORD[53,   2]: 0.0004726 無惨
+	ruthless WORD[53,   3]: 0.0004726 無慙
+	ruthless WORD[53,   4]: 0.0004726 無残
+TOKEN[54]: 0.0025806    4 merciless
+	merciless WORD[54,   1]: 0.0011792 無慚
+	merciless WORD[54,   2]: 0.0004671 無惨
+	merciless WORD[54,   3]: 0.0004671 無慙
+	merciless WORD[54,   4]: 0.0004671 無残
+TOKEN[55]: 0.0024832    4 atrocious
+	atrocious WORD[55,   1]: 0.0011347 無慚
+	atrocious WORD[55,   2]: 0.0004495 無惨
+	atrocious WORD[55,   3]: 0.0004495 無慙
+	atrocious WORD[55,   4]: 0.0004495 無残
+TOKEN[56]: 0.0024705    3 chance
+	chance WORD[56,   1]: 0.0017173 無い無い
+	chance WORD[56,   2]: 0.0004169 台無し
+	chance WORD[56,   3]: 0.0003363 無理
+TOKEN[57]: 0.0024632    4 precept
+	precept WORD[57,   1]: 0.0011256 無慚
+	precept WORD[57,   2]: 0.0004459 無惨
+	precept WORD[57,   3]: 0.0004459 無慙
+	precept WORD[57,   4]: 0.0004459 無残
+TOKEN[58]: 0.0024104    4 horrible
+	horrible WORD[58,   1]: 0.0011015 無慚
+	horrible WORD[58,   2]: 0.0004363 無惨
+	horrible WORD[58,   3]: 0.0004363 無慙
+	horrible WORD[58,   4]: 0.0004363 無残
+TOKEN[59]: 0.0023966    4 unparalleled
+	unparalleled WORD[59,   1]: 0.0006319 無比
+	unparalleled WORD[59,   2]: 0.0006315 無二
+	unparalleled WORD[59,   3]: 0.0005979 並び無い
+	unparalleled WORD[59,   4]: 0.0005353 無双
+TOKEN[60]: 0.0023760    4 matchless
+	matchless WORD[60,   1]: 0.0006261 無二
+	matchless WORD[60,   2]: 0.0006255 無敵
+	matchless WORD[60,   3]: 0.0005936 無類
+	matchless WORD[60,   4]: 0.0005307 無双
+TOKEN[61]: 0.0023695    4 flawless
+	flawless WORD[61,   1]: 0.0006911 無傷
+	flawless WORD[61,   2]: 0.0006911 無疵
+	flawless WORD[61,   3]: 0.0004936 無欠
+	flawless WORD[61,   4]: 0.0004936 無缺
+TOKEN[62]: 0.0023522    5 waste
+	waste WORD[62,   1]: 0.0004990 無駄づかい
+	waste WORD[62,   2]: 0.0004990 無駄使い
+	waste WORD[62,   3]: 0.0004990 無駄遣い
+	waste WORD[62,   4]: 0.0004990 無駄食い
+	waste WORD[62,   5]: 0.0003561 無駄
+TOKEN[63]: 0.0023107    2 broke
+	broke WORD[63,   1]: 0.0018177 文無し
+	broke WORD[63,   2]: 0.0004930 無一文
+TOKEN[64]: 0.0022515    1 hair
+	hair WORD[64,   1]: 0.0022515 無駄毛
+TOKEN[65]: 0.0022275    2 incorporeal
+	incorporeal WORD[65,   1]: 0.0007440 無代
+	incorporeal WORD[65,   2]: 0.0007394 無体
+TOKEN[66]: 0.0022232    2 perfect
+	perfect WORD[66,   1]: 0.0011116 無傷
+	perfect WORD[66,   2]: 0.0011116 無疵
+TOKEN[67]: 0.0022151    7 person
+	person WORD[67,   1]: 0.0006264 仕方無い
+	person WORD[67,   2]: 0.0004079 人で無し
+	person WORD[67,   3]: 0.0003066 無宿
+	person WORD[67,   4]: 0.0002191 無能
+	person WORD[67,   5]: 0.0002185 無学
+	person WORD[67,   6]: 0.0002183 無縁
+	person WORD[67,   7]: 0.0002183 無塩
+TOKEN[68]: 0.0021690    3 something
+	something WORD[68,   1]: 0.0016771 有る無し
+	something WORD[68,   2]: 0.0002938 無くなす
+	something WORD[68,   3]: 0.0001981 無くす
+TOKEN[69]: 0.0021652    3 secure
+	secure WORD[69,   1]: 0.0008850 揺ぎ無い
+	secure WORD[69,   2]: 0.0008850 揺るぎ無い
+	secure WORD[69,   3]: 0.0003952 無難
+TOKEN[70]: 0.0021567    2 unshakeable
+	unshakeable WORD[70,   1]: 0.0010784 揺ぎ無い
+	unshakeable WORD[70,   2]: 0.0010784 揺るぎ無い
+TOKEN[71]: 0.0021452    4 shame
+	shame WORD[71,   1]: 0.0009803 無慚
+	shame WORD[71,   2]: 0.0003883 無惨
+	shame WORD[71,   3]: 0.0003883 無慙
+	shame WORD[71,   4]: 0.0003883 無残
+TOKEN[72]: 0.0021408    2 penniless
+	penniless WORD[72,   1]: 0.0016841 文無し
+	penniless WORD[72,   2]: 0.0004567 無一文
+TOKEN[73]: 0.0021305    5 innocence
+	innocence WORD[73,   1]: 0.0004264 無智
+	innocence WORD[73,   2]: 0.0004264 無知
+	innocence WORD[73,   3]: 0.0004260 無実
+	innocence WORD[73,   4]: 0.0004260 無心
+	innocence WORD[73,   5]: 0.0004258 無罪
+TOKEN[74]: 0.0021150    2 preposterous
+	preposterous WORD[74,   1]: 0.0007065 無代
+	preposterous WORD[74,   2]: 0.0007021 無体
+TOKEN[75]: 0.0020812    2 unwavering
+	unwavering WORD[75,   1]: 0.0010406 揺ぎ無い
+	unwavering WORD[75,   2]: 0.0010406 揺るぎ無い
+TOKEN[76]: 0.0020711    3 solid
+	solid WORD[76,   1]: 0.0008395 揺ぎ無い
+	solid WORD[76,   2]: 0.0008395 揺るぎ無い
+	solid WORD[76,   3]: 0.0003921 無地
+TOKEN[77]: 0.0020604    3 naught
+	naught WORD[77,   1]: 0.0006305 無みする
+	naught WORD[77,   2]: 0.0005985 絶無
+	naught WORD[77,   3]: 0.0004157 無
+TOKEN[78]: 0.0020421    1 delusion
+	delusion WORD[78,   1]: 0.0020421 無癡
+TOKEN[79]: 0.0020322    1 cleaning
+	cleaning WORD[79,   1]: 0.0020322 無い無い
+TOKEN[80]: 0.0020137    3 spotless
+	spotless WORD[80,   1]: 0.0007420 無傷
+	spotless WORD[80,   2]: 0.0007420 無疵
+	spotless WORD[80,   3]: 0.0005298 無垢
+TOKEN[81]: 0.0019911    3 faultless
+	faultless WORD[81,   1]: 0.0007420 無傷
+	faultless WORD[81,   2]: 0.0007420 無疵
+	faultless WORD[81,   3]: 0.0005071 無難
+TOKEN[82]: 0.0019847    2 unavoidable
+	unavoidable WORD[82,   1]: 0.0013712 仕方無い
+	unavoidable WORD[82,   2]: 0.0006135 詮無い
+TOKEN[83]: 0.0019577    4 religious
+	religious WORD[83,   1]: 0.0008946 無慚
+	religious WORD[83,   2]: 0.0003544 無惨
+	religious WORD[83,   3]: 0.0003544 無慙
+	religious WORD[83,   4]: 0.0003544 無残
+TOKEN[84]: 0.0019518    3 choice
+	choice WORD[84,   1]: 0.0011120 仕方無い
+	choice WORD[84,   2]: 0.0004684 術無い
+	choice WORD[84,   3]: 0.0003714 無難
+TOKEN[85]: 0.0019472    4 safe
+	safe WORD[85,   1]: 0.0005576 無風
+	safe WORD[85,   2]: 0.0005035 つつが無い
+	safe WORD[85,   3]: 0.0005035 恙無い
+	safe WORD[85,   4]: 0.0003826 無難
+TOKEN[86]: 0.0019392    4 money
+	money WORD[86,   1]: 0.0007757 無銭
+	money WORD[86,   2]: 0.0003879 無駄づかい
+	money WORD[86,   3]: 0.0003879 無駄使い
+	money WORD[86,   4]: 0.0003879 無駄遣い
+TOKEN[87]: 0.0019199    4 breaking
+	breaking WORD[87,   1]: 0.0008773 無慚
+	breaking WORD[87,   2]: 0.0003475 無惨
+	breaking WORD[87,   3]: 0.0003475 無慙
+	breaking WORD[87,   4]: 0.0003475 無残
+TOKEN[88]: 0.0018765    1 sixth
+	sixth WORD[88,   1]: 0.0018765 水無月
+TOKEN[89]: 0.0018603    1 unwanted
+	unwanted WORD[89,   1]: 0.0018603 無駄毛
+TOKEN[90]: 0.0018533    3 peerless
+	peerless WORD[90,   1]: 0.0006510 無比
+	peerless WORD[90,   2]: 0.0006507 無二
+	peerless WORD[90,   3]: 0.0005515 無双
+TOKEN[91]: 0.0018479    2 dying
+	dying WORD[91,   1]: 0.0010501 仕方無い
+	dying WORD[91,   2]: 0.0007979 無駄死に
+TOKEN[92]: 0.0018249    3 nil
+	nil WORD[92,   1]: 0.0006173 絶無
+	nil WORD[92,   2]: 0.0004288 無
+	nil WORD[92,   3]: 0.0003500 皆無
+TOKEN[93]: 0.0018147    2 uncovered
+	uncovered WORD[93,   1]: 0.0011618 無帽
+	uncovered WORD[93,   2]: 0.0006529 無蓋
+TOKEN[94]: 0.0018010    1 superfluous
+	superfluous WORD[94,   1]: 0.0018010 無駄毛
+TOKEN[95]: 0.0017645    3 help
+	help WORD[95,   1]: 0.0009821 仕方無い
+	help WORD[95,   2]: 0.0004394 詮無い
+	help WORD[95,   3]: 0.0003431 無人
+TOKEN[96]: 0.0017622    2 steady
+	steady WORD[96,   1]: 0.0008811 揺ぎ無い
+	steady WORD[96,   2]: 0.0008811 揺るぎ無い
+TOKEN[97]: 0.0017548    1 unmarked
+	unmarked WORD[97,   1]: 0.0017548 無標
+TOKEN[98]: 0.0017293    1 fig
+	fig WORD[98,   1]: 0.0017293 無花果
+TOKEN[99]: 0.0017126    4 shameful
+	shameful WORD[99,   1]: 0.0005653 腑甲斐無い
+	shameful WORD[99,   2]: 0.0004155 見っとも無い
+	shameful WORD[99,   3]: 0.0003659 情け無い
+	shameful WORD[99,   4]: 0.0003659 情無い
+TOKEN[100]: 0.0016552    2 unlimited
+	unlimited WORD[100,   1]: 0.0011256 限り無い
+	unlimited WORD[100,   2]: 0.0005297 無期
+TOKEN[101]: 0.0016550    2 month
+	month WORD[101,   1]: 0.0013026 水無月
+	month WORD[101,   2]: 0.0003524 神無月
+TOKEN[102]: 0.0016462    1 soapberry
+	soapberry WORD[102,   1]: 0.0016462 無患子
+TOKEN[103]: 0.0016408    4 health
+	health WORD[103,   1]: 0.0004616 つつが無い
+	health WORD[103,   2]: 0.0004616 恙無い
+	health WORD[103,   3]: 0.0003673 無病
+	health WORD[103,   4]: 0.0003503 無事
+TOKEN[104]: 0.0016389    3 notice
+	notice WORD[104,   1]: 0.0006858 無断
+	notice WORD[104,   2]: 0.0004766 無届
+	notice WORD[104,   3]: 0.0004766 無届け
+TOKEN[105]: 0.0016142    2 boorish
+	boorish WORD[105,   1]: 0.0006706 無骨
+	boorish WORD[105,   2]: 0.0004718 無粋
+TOKEN[106]: 0.0015814    1 reasonable
+	reasonable WORD[106,   1]: 0.0015814 無理からぬ
+TOKEN[107]: 0.0015444    2 unrelated
+	unrelated WORD[107,   1]: 0.0010284 無縁
+	unrelated WORD[107,   2]: 0.0005160 無用
+TOKEN[108]: 0.0015436    4 time
+	time WORD[108,   1]: 0.0003490 無駄づかい
+	time WORD[108,   2]: 0.0003490 無駄使い
+	time WORD[108,   3]: 0.0003490 無駄遣い
+	time WORD[108,   4]: 0.0002483 無音
+TOKEN[109]: 0.0015434    2 unhurt
+	unhurt WORD[109,   1]: 0.0007717 無傷
+	unhurt WORD[109,   2]: 0.0007717 無疵
+TOKEN[110]: 0.0015434    2 unblemished
+	unblemished WORD[110,   1]: 0.0007717 無傷
+	unblemished WORD[110,   2]: 0.0007717 無疵
+TOKEN[111]: 0.0015434    2 unharmed
+	unharmed WORD[111,   1]: 0.0007717 無傷
+	unharmed WORD[111,   2]: 0.0007717 無疵
+TOKEN[112]: 0.0015434    2 unscathed
+	unscathed WORD[112,   1]: 0.0007717 無傷
+	unscathed WORD[112,   2]: 0.0007717 無疵
+TOKEN[113]: 0.0015434    2 undamaged
+	undamaged WORD[113,   1]: 0.0007717 無傷
+	undamaged WORD[113,   2]: 0.0007717 無疵
+TOKEN[114]: 0.0015434    2 uninjured
+	uninjured WORD[114,   1]: 0.0007717 無傷
+	uninjured WORD[114,   2]: 0.0007717 無疵
+TOKEN[115]: 0.0015349    2 unreported
+	unreported WORD[115,   1]: 0.0007674 無届
+	unreported WORD[115,   2]: 0.0007674 無届け
+TOKEN[116]: 0.0015316    2 firm
+	firm WORD[116,   1]: 0.0007658 揺ぎ無い
+	firm WORD[116,   2]: 0.0007658 揺るぎ無い
+TOKEN[117]: 0.0015210    3 helpless
+	helpless WORD[117,   1]: 0.0006828 無告
+	helpless WORD[117,   2]: 0.0004613 無援
+	helpless WORD[117,   3]: 0.0003769 頼り無い
+TOKEN[118]: 0.0015201    3 lack
+	lack WORD[118,   1]: 0.0007605 無断
+	lack WORD[118,   2]: 0.0003799 無人
+	lack WORD[118,   3]: 0.0003797 無策
+TOKEN[119]: 0.0015184    1 unbearable
+	unbearable WORD[119,   1]: 0.0015184 仕方無い
+TOKEN[120]: 0.0015120    3 disinterested
+	disinterested WORD[120,   1]: 0.0005043 無慾
+	disinterested WORD[120,   2]: 0.0005043 無欲
+	disinterested WORD[120,   3]: 0.0005034 無私
+TOKEN[121]: 0.0015034    2 nought
+	nought WORD[121,   1]: 0.0006292 絶無
+	nought WORD[121,   2]: 0.0004371 無
+TOKEN[122]: 0.0014839    2 unwounded
+	unwounded WORD[122,   1]: 0.0007420 無傷
+	unwounded WORD[122,   2]: 0.0007420 無疵
+TOKEN[123]: 0.0014802    2 insipid
+	insipid WORD[123,   1]: 0.0007918 味気無い
+	insipid WORD[123,   2]: 0.0006884 無味
+TOKEN[124]: 0.0014767    3 quiet
+	quiet WORD[124,   1]: 0.0004734 無風
+	quiet WORD[124,   2]: 0.0003394 無口
+	quiet WORD[124,   3]: 0.0003244 無事
+TOKEN[125]: 0.0014750    1 nullification
+	nullification WORD[125,   1]: 0.0014750 無化
+TOKEN[126]: 0.0014428    3 indefinite
+	indefinite WORD[126,   1]: 0.0005612 有耶無耶
+	indefinite WORD[126,   2]: 0.0004853 無期
+	indefinite WORD[126,   3]: 0.0003963 頼り無い
+TOKEN[127]: 0.0014403    2 boundless
+	boundless WORD[127,   1]: 0.0008695 限り無い
+	boundless WORD[127,   2]: 0.0005709 無辺
+TOKEN[128]: 0.0014386    2 unarmed
+	unarmed WORD[128,   1]: 0.0007218 無腰
+	unarmed WORD[128,   2]: 0.0007168 無手
+TOKEN[129]: 0.0014351    3 rank
+	rank WORD[129,   1]: 0.0006897 無段
+	rank WORD[129,   2]: 0.0004346 無位
+	rank WORD[129,   3]: 0.0003109 無冠
+TOKEN[130]: 0.0014181    3 innocent
+	innocent WORD[130,   1]: 0.0005842 無辜
+	innocent WORD[130,   2]: 0.0004172 無邪気
+	innocent WORD[130,   3]: 0.0004167 無垢
+TOKEN[131]: 0.0014030    3 unselfish
+	unselfish WORD[131,   1]: 0.0004679 無慾
+	unselfish WORD[131,   2]: 0.0004679 無欲
+	unselfish WORD[131,   3]: 0.0004671 無私
+TOKEN[132]: 0.0013922    4 charge
+	charge WORD[132,   1]: 0.0004408 無賃
+	charge WORD[132,   2]: 0.0003175 無料
+	charge WORD[132,   3]: 0.0003170 無実
+	charge WORD[132,   4]: 0.0003169 無償
+TOKEN[133]: 0.0013637    3 ignorance
+	ignorance WORD[133,   1]: 0.0005596 無明
+	ignorance WORD[133,   2]: 0.0004020 無智
+	ignorance WORD[133,   3]: 0.0004020 無知
+TOKEN[134]: 0.0013548    1 unleaded
+	unleaded WORD[134,   1]: 0.0013548 無鉛
+TOKEN[135]: 0.0013522    2 unregistered
+	unregistered WORD[135,   1]: 0.0006761 無届
+	unregistered WORD[135,   2]: 0.0006761 無届け
+TOKEN[136]: 0.0013485    1 anuria
+	anuria WORD[136,   1]: 0.0013485 無尿
+TOKEN[137]: 0.0013376    1 resort
+	resort WORD[137,   1]: 0.0013376 仕方無く
+TOKEN[138]: 0.0013258    1 natural
+	natural WORD[138,   1]: 0.0013258 無理からぬ
+TOKEN[139]: 0.0013234    1 insufficient
+	insufficient WORD[139,   1]: 0.0013234 仕方無い
+TOKEN[140]: 0.0013215    1 unstinting
+	unstinting WORD[140,   1]: 0.0013215 惜しみ無い
+TOKEN[141]: 0.0013214    1 stint
+	stint WORD[141,   1]: 0.0013214 惜しみ無く
+TOKEN[142]: 0.0013211    2 unsigned
+	unsigned WORD[142,   1]: 0.0007687 無銘
+	unsigned WORD[142,   2]: 0.0005524 無名
+TOKEN[143]: 0.0013204    2 unfigured
+	unfigured WORD[143,   1]: 0.0007687 無文
+	unfigured WORD[143,   2]: 0.0005517 無地
+TOKEN[144]: 0.0013196    2 wireless
+	wireless WORD[144,   1]: 0.0007674 無電
+	wireless WORD[144,   2]: 0.0005522 無線
+TOKEN[145]: 0.0013188    4 vague
+	vague WORD[145,   1]: 0.0004447 有耶無耶
+	vague WORD[145,   2]: 0.0003140 頼り無い
+	vague WORD[145,   3]: 0.0002897 心許無い
+	vague WORD[145,   4]: 0.0002704 覚束無い
+TOKEN[146]: 0.0013165    1 prying
+	prying WORD[146,   1]: 0.0013165 苦無
+TOKEN[147]: 0.0013148    2 calendar
+	calendar WORD[147,   1]: 0.0009353 水無月
+	calendar WORD[147,   2]: 0.0003795 神無月
+TOKEN[148]: 0.0013067    1 unsweetened
+	unsweetened WORD[148,   1]: 0.0013067 無糖
+TOKEN[149]: 0.0013067    1 sugarless
+	sugarless WORD[149,   1]: 0.0013067 無糖
+TOKEN[150]: 0.0013061    1 unbiasedness
+	unbiasedness WORD[150,   1]: 0.0013061 無偏
+TOKEN[151]: 0.0013035    2 unequaled
+	unequaled WORD[151,   1]: 0.0006522 無類
+	unequaled WORD[151,   2]: 0.0006513 並び無い
+TOKEN[152]: 0.0013026    1 stepless
+	stepless WORD[152,   1]: 0.0013026 無段
+TOKEN[153]: 0.0013026    1 unranked
+	unranked WORD[153,   1]: 0.0013026 無段
+TOKEN[154]: 0.0012998    2 tasteless
+	tasteless WORD[154,   1]: 0.0007017 無味
+	tasteless WORD[154,   2]: 0.0005980 心無い
+TOKEN[155]: 0.0012984    1 inevitable
+	inevitable WORD[155,   1]: 0.0012984 仕方無い
+TOKEN[156]: 0.0012970    3 pathetic
+	pathetic WORD[156,   1]: 0.0005653 腑甲斐無い
+	pathetic WORD[156,   2]: 0.0003659 情け無い
+	pathetic WORD[156,   3]: 0.0003659 情無い
+TOKEN[157]: 0.0012711    1 petrol
+	petrol WORD[157,   1]: 0.0012711 無鉛
+TOKEN[158]: 0.0012557    2 silence
+	silence WORD[158,   1]: 0.0004190 無言
+	silence WORD[158,   2]: 0.0004184 無音
+TOKEN[159]: 0.0012517    2 unpossessed
+	unpossessed WORD[159,   1]: 0.0007730 無主
+	unpossessed WORD[159,   2]: 0.0004787 無い
+TOKEN[160]: 0.0012517    2 unowned
+	unowned WORD[160,   1]: 0.0007730 無主
+	unowned WORD[160,   2]: 0.0004787 無い
+TOKEN[161]: 0.0012468    2 infinitude
+	infinitude WORD[161,   1]: 0.0006957 無窮
+	infinitude WORD[161,   2]: 0.0005512 無限
+TOKEN[162]: 0.0012427    2 uncouth
+	uncouth WORD[162,   1]: 0.0006215 無様
+	uncouth WORD[162,   2]: 0.0006213 無骨
+TOKEN[163]: 0.0012366    2 unadulterated
+	unadulterated WORD[163,   1]: 0.0007219 無雑
+	unadulterated WORD[163,   2]: 0.0005148 無垢
+TOKEN[164]: 0.0012337    1 hopeless
+	hopeless WORD[164,   1]: 0.0012337 仕方無い
+TOKEN[165]: 0.0012337    1 awful
+	awful WORD[165,   1]: 0.0012337 仕方無い
+TOKEN[166]: 0.0012315    2 harmless
+	harmless WORD[166,   1]: 0.0007169 無毒
+	harmless WORD[166,   2]: 0.0005146 無害
+TOKEN[167]: 0.0012183    2 zero
+	zero WORD[167,   1]: 0.0004072 無くなる
+	zero WORD[167,   2]: 0.0004056 無
+TOKEN[168]: 0.0012170    1 death
+	death WORD[168,   1]: 0.0012170 無駄死に
+TOKEN[169]: 0.0012155    2 pure
+	pure WORD[169,   1]: 0.0007145 無垢
+	pure WORD[169,   2]: 0.0005010 無雑
+TOKEN[170]: 0.0012132    2 gem
+	gem WORD[170,   1]: 0.0006066 無傷
+	gem WORD[170,   2]: 0.0006066 無疵
+TOKEN[171]: 0.0012127    1 troublesome
+	troublesome WORD[171,   1]: 0.0012127 仕方無い
+TOKEN[172]: 0.0012074    2 futile
+	futile WORD[172,   1]: 0.0007031 無益
+	futile WORD[172,   2]: 0.0005043 無用
+TOKEN[173]: 0.0012064    1 annoying
+	annoying WORD[173,   1]: 0.0012064 仕方無い
+TOKEN[174]: 0.0011818    1 hairless
+	hairless WORD[174,   1]: 0.0011818 無毛
+TOKEN[175]: 0.0011782    1 objectivity
+	objectivity WORD[175,   1]: 0.0011782 無偏
+TOKEN[176]: 0.0011773    3 end
+	end WORD[176,   1]: 0.0005660 限り無く
+	end WORD[176,   2]: 0.0003216 術無い
+	end WORD[176,   3]: 0.0002897 敢え無い
+TOKEN[177]: 0.0011759    1 asexual
+	asexual WORD[177,   1]: 0.0011759 無性
+TOKEN[178]: 0.0011715    2 unbecoming
+	unbecoming WORD[178,   1]: 0.0006723 似気無い
+	unbecoming WORD[178,   2]: 0.0004991 見っとも無い
+TOKEN[179]: 0.0011707    2 wasted
+	wasted WORD[179,   1]: 0.0006210 無駄骨
+	wasted WORD[179,   2]: 0.0005497 台無し
+TOKEN[180]: 0.0011604    1 gasoline
+	gasoline WORD[180,   1]: 0.0011604 無鉛
+TOKEN[181]: 0.0011565    2 clumsy
+	clumsy WORD[181,   1]: 0.0005783 無様
+	clumsy WORD[181,   2]: 0.0005781 無骨
+TOKEN[182]: 0.0011511    2 disappointing
+	disappointing WORD[182,   1]: 0.0006375 腑甲斐無い
+	disappointing WORD[182,   2]: 0.0005136 敢え無い
+TOKEN[183]: 0.0011504    2 dull
+	dull WORD[183,   1]: 0.0006154 味気無い
+	dull WORD[183,   2]: 0.0005350 無味
+TOKEN[184]: 0.0011471    3 business
+	business WORD[184,   1]: 0.0004217 無届
+	business WORD[184,   2]: 0.0004217 無届け
+	business WORD[184,   3]: 0.0003036 無用
+TOKEN[185]: 0.0011423    2 silent
+	silent WORD[185,   1]: 0.0003812 無声
+	silent WORD[185,   2]: 0.0003805 無口
+TOKEN[186]: 0.0011280    1 annihilation
+	annihilation WORD[186,   1]: 0.0011280 無化
+TOKEN[187]: 0.0011278    2 ennui
+	ennui WORD[187,   1]: 0.0006637 無聊
+	ennui WORD[187,   2]: 0.0004641 無事
+TOKEN[188]: 0.0011166    2 gutless
+	gutless WORD[188,   1]: 0.0006948 腑甲斐無い
+	gutless WORD[188,   2]: 0.0004218 だらし無い
+TOKEN[189]: 0.0011157    1 dan
+	dan WORD[189,   1]: 0.0011157 無段
+TOKEN[190]: 0.0011023    1 untalkative
+	untalkative WORD[190,   1]: 0.0005512 無口
+TOKEN[191]: 0.0010946    1 priceless
+	priceless WORD[191,   1]: 0.0010946 無価
+TOKEN[192]: 0.0010764    1 digging
+	digging WORD[192,   1]: 0.0010764 苦無
+TOKEN[193]: 0.0010744    2 position
+	position WORD[193,   1]: 0.0006669 無役
+	position WORD[193,   2]: 0.0004075 無色
+TOKEN[194]: 0.0010715    2 idle
+	idle WORD[194,   1]: 0.0005357 無駄話
+	idle WORD[194,   2]: 0.0005357 無駄口
+TOKEN[195]: 0.0010624    2 unjustifiable
+	unjustifiable WORD[195,   1]: 0.0005313 無理
+	unjustifiable WORD[195,   2]: 0.0005311 無名
+TOKEN[196]: 0.0010615    2 obstructive
+	obstructive WORD[196,   1]: 0.0005311 無念
+	obstructive WORD[196,   2]: 0.0005304 無心
+TOKEN[197]: 0.0010609    2 insentient
+	insentient WORD[197,   1]: 0.0005304 無情
+	insentient WORD[197,   2]: 0.0005304 無心
+TOKEN[198]: 0.0010599    1 taciturn
+	taciturn WORD[198,   1]: 0.0005299 無口
+TOKEN[199]: 0.0010599    1 reticent
+	reticent WORD[199,   1]: 0.0005299 無口
+TOKEN[200]: 0.0010559    2 inhuman
+	inhuman WORD[200,   1]: 0.0006250 無道
+	inhuman WORD[200,   2]: 0.0004309 人で無し
+TOKEN[201]: 0.0010556    1 discourtesy
+	discourtesy WORD[201,   1]: 0.0005278 無礼
+TOKEN[202]: 0.0010556    1 insolence
+	insolence WORD[202,   1]: 0.0005278 無礼
+TOKEN[203]: 0.0010547    2 failure
+	failure WORD[203,   1]: 0.0005274 無傷
+	failure WORD[203,   2]: 0.0005274 無疵
+TOKEN[204]: 0.0010537    1 inelegant
+	inelegant WORD[204,   1]: 0.0005268 無粋
+TOKEN[205]: 0.0010537    1 unromantic
+	unromantic WORD[205,   1]: 0.0005268 無粋
+TOKEN[206]: 0.0010388    1 generous
+	generous WORD[206,   1]: 0.0010388 惜しみ無い
+TOKEN[207]: 0.0010317    2 marriage
+	marriage WORD[207,   1]: 0.0005159 無届
+	marriage WORD[207,   2]: 0.0005159 無届け
+TOKEN[208]: 0.0010284    1 meaningless
+	meaningless WORD[208,   1]: 0.0010284 無駄死に
+TOKEN[209]: 0.0010272    2 outrageous
+	outrageous WORD[209,   1]: 0.0005901 無道
+	outrageous WORD[209,   2]: 0.0004371 無法
+TOKEN[210]: 0.0010131    1 tactless
+	tactless WORD[210,   1]: 0.0005065 無粋
+TOKEN[211]: 0.0010127    1 tool
+	tool WORD[211,   1]: 0.0010127 苦無
+TOKEN[212]: 0.0010053    1 effort
+	effort WORD[212,   1]: 0.0010053 無駄骨
+TOKEN[213]: 0.0010043    2 reputation
+	reputation WORD[213,   1]: 0.0005021 無傷
+	reputation WORD[213,   2]: 0.0005021 無疵
+TOKEN[214]: 0.0010026    2 blunt
+	blunt WORD[214,   1]: 0.0006060 素っ気無い
+	blunt WORD[214,   2]: 0.0003965 無躾
+TOKEN[215]: 0.0010016    1 eating
+	eating WORD[215,   1]: 0.0010016 無駄食い
+TOKEN[216]: 0.0009961    2 untidy
+	untidy WORD[216,   1]: 0.0006215 無様
+	untidy WORD[216,   2]: 0.0003747 だらし無い
+TOKEN[217]: 0.0009928    2 talent
+	talent WORD[217,   1]: 0.0004966 無才
+	talent WORD[217,   2]: 0.0004963 無芸
+TOKEN[218]: 0.0009918    2 record
+	record WORD[218,   1]: 0.0004959 無傷
+	record WORD[218,   2]: 0.0004959 無疵
+TOKEN[219]: 0.0009896    2 incompetent
+	incompetent WORD[219,   1]: 0.0004949 無力
+	incompetent WORD[219,   2]: 0.0004947 無能
+TOKEN[220]: 0.0009882    2 inanimate
+	inanimate WORD[220,   1]: 0.0004941 無情
+	inanimate WORD[220,   2]: 0.0004941 無心
+TOKEN[221]: 0.0009881    2 title
+	title WORD[221,   1]: 0.0004948 無題
+	title WORD[221,   2]: 0.0004933 無官
+TOKEN[222]: 0.0009861    1 impoliteness
+	impoliteness WORD[222,   1]: 0.0004931 無礼
+TOKEN[223]: 0.0009817    2 none
+	none WORD[223,   1]: 0.0006507 無二
+	none WORD[223,   2]: 0.0003311 皆無
+TOKEN[224]: 0.0009795    1 farming
+	farming WORD[224,   1]: 0.0009795 苦無
+TOKEN[225]: 0.0009782    3 unreliable
+	unreliable WORD[225,   1]: 0.0003514 頼り無い
+	unreliable WORD[225,   2]: 0.0003242 心許無い
+	unreliable WORD[225,   3]: 0.0003026 覚束無い
+TOKEN[226]: 0.0009683    2 eternity
+	eternity WORD[226,   1]: 0.0005402 無窮
+	eternity WORD[226,   2]: 0.0004280 無限
+TOKEN[227]: 0.0009625    2 condition
+	condition WORD[227,   1]: 0.0004813 無傷
+	condition WORD[227,   2]: 0.0004813 無疵
+TOKEN[228]: 0.0009625    1 endless
+	endless WORD[228,   1]: 0.0009625 限り無い
+TOKEN[229]: 0.0009611    2 defeat
+	defeat WORD[229,   1]: 0.0004806 無傷
+	defeat WORD[229,   2]: 0.0004806 無疵
+TOKEN[230]: 0.0009561    2 accident
+	accident WORD[230,   1]: 0.0004780 つつが無い
+	accident WORD[230,   2]: 0.0004780 恙無い
+TOKEN[231]: 0.0009454    1 rudeness
+	rudeness WORD[231,   1]: 0.0004727 無礼
+TOKEN[232]: 0.0009365    2 unique
+	unique WORD[232,   1]: 0.0005648 並び無い
+	unique WORD[232,   2]: 0.0003717 無い
+TOKEN[233]: 0.0009267    1 throwing
+	throwing WORD[233,   1]: 0.0009267 苦無
+TOKEN[234]: 0.0009217    1 feeling
+	feeling WORD[234,   1]: 0.0009217 仕方無い
+TOKEN[235]: 0.0009199    1 continuous
+	continuous WORD[235,   1]: 0.0009199 無段
+TOKEN[236]: 0.0009193    2 performance
+	performance WORD[236,   1]: 0.0004597 無傷
+	performance WORD[236,   2]: 0.0004597 無疵
+TOKEN[237]: 0.0009164    2 stupidity
+	stupidity WORD[237,   1]: 0.0004582 無智
+	stupidity WORD[237,   2]: 0.0004582 無知
+TOKEN[238]: 0.0009156    2 headlong
+	headlong WORD[238,   1]: 0.0005159 無鉄砲
+	headlong WORD[238,   2]: 0.0003998 遮二無二
+TOKEN[239]: 0.0009149    2 idleness
+	idleness WORD[239,   1]: 0.0004582 無駄
+	idleness WORD[239,   2]: 0.0004567 無為
+TOKEN[240]: 0.0009083    2 avarice
+	avarice WORD[240,   1]: 0.0004541 無慾
+	avarice WORD[240,   2]: 0.0004541 無欲
+TOKEN[241]: 0.0009064    2 spoilt
+	spoilt WORD[241,   1]: 0.0005741 台無し
+	spoilt WORD[241,   2]: 0.0003323 形無し
+TOKEN[242]: 0.0009057    1 stand
+	stand WORD[242,   1]: 0.0009057 仕方無い
+TOKEN[243]: 0.0009049    2 feeble
+	feeble WORD[243,   1]: 0.0005476 力無い
+	feeble WORD[243,   2]: 0.0003573 だらし無い
+TOKEN[244]: 0.0008937    1 rose
+	rose WORD[244,   1]: 0.0008937 無窮花
+TOKEN[245]: 0.0008893    2 living
+	living WORD[245,   1]: 0.0004447 無駄飯
+	living WORD[245,   2]: 0.0004446 無駄食い
+TOKEN[246]: 0.0008889    1 last
+	last WORD[246,   1]: 0.0008889 仕方無く
+TOKEN[247]: 0.0008804    2 talk
+	talk WORD[247,   1]: 0.0004402 無駄話
+	talk WORD[247,   2]: 0.0004402 無駄口
+TOKEN[248]: 0.0008775    2 lunar
+	lunar WORD[248,   1]: 0.0004844 水無月
+	lunar WORD[248,   2]: 0.0003931 神無月
+TOKEN[249]: 0.0008736    2 impossible
+	impossible WORD[249,   1]: 0.0004681 無理
+	impossible WORD[249,   2]: 0.0004055 無い
+TOKEN[250]: 0.0008695    2 nonexistent
+	nonexistent WORD[250,   1]: 0.0004787 無い
+	nonexistent WORD[250,   2]: 0.0003908 皆無
+TOKEN[251]: 0.0008640    1 use
+	use WORD[251,   1]: 0.0008640 仕方無い
+TOKEN[252]: 0.0008531    1 martial
+	martial WORD[252,   1]: 0.0008531 無段
+TOKEN[253]: 0.0008507    2 leave
+	leave WORD[253,   1]: 0.0004253 無届
+	leave WORD[253,   2]: 0.0004253 無届け
+TOKEN[254]: 0.0008503    2 spoiled
+	spoiled WORD[254,   1]: 0.0005385 台無し
+	spoiled WORD[254,   2]: 0.0003117 形無し
+TOKEN[255]: 0.0008500    1 wearisome
+	wearisome WORD[255,   1]: 0.0008500 味気無い
+TOKEN[256]: 0.0008321    2 plain
+	plain WORD[256,   1]: 0.0004844 無文
+	plain WORD[256,   2]: 0.0003477 無地
+TOKEN[257]: 0.0008258    1 irksome
+	irksome WORD[257,   1]: 0.0008258 味気無い
+TOKEN[258]: 0.0008248    1 loafing
+	loafing WORD[258,   1]: 0.0008248 無駄食い
+TOKEN[259]: 0.0008248    1 titleless
+	titleless WORD[259,   1]: 0.0008248 無題
+TOKEN[260]: 0.0008242    1 anhydrous
+	anhydrous WORD[260,   1]: 0.0008242 無水
+TOKEN[261]: 0.0008242    1 unbranded
+	unbranded WORD[261,   1]: 0.0008242 無印
+TOKEN[262]: 0.0008242    1 unlabeled
+	unlabeled WORD[262,   1]: 0.0008242 無印
+TOKEN[263]: 0.0008240    1 achromatic
+	achromatic WORD[263,   1]: 0.0008240 無色
+TOKEN[264]: 0.0008240    1 colorless
+	colorless WORD[264,   1]: 0.0008240 無色
+TOKEN[265]: 0.0008240    1 homelessness
+	homelessness WORD[265,   1]: 0.0008240 無宿
+TOKEN[266]: 0.0008238    1 endlessness
+	endlessness WORD[266,   1]: 0.0008238 無終
+TOKEN[267]: 0.0008233    1 guiltless
+	guiltless WORD[267,   1]: 0.0008233 無辜
+TOKEN[268]: 0.0008233    1 blameless
+	blameless WORD[268,   1]: 0.0008233 無辜
+TOKEN[269]: 0.0008231    1 bloodless
+	bloodless WORD[269,   1]: 0.0008231 無血
+TOKEN[270]: 0.0008231    1 unpolished
+	unpolished WORD[270,   1]: 0.0004116 無粋
+TOKEN[271]: 0.0008231    1 Sapindus
+	Sapindus WORD[271,   1]: 0.0008231 無患子
+TOKEN[272]: 0.0008227    1 nonsalaried
+	nonsalaried WORD[272,   1]: 0.0008227 無給
+TOKEN[273]: 0.0008212    2 dry
+	dry WORD[273,   1]: 0.0004794 無味
+	dry WORD[273,   2]: 0.0003418 水無川
+TOKEN[274]: 0.0008193    1 unpatterned
+	unpatterned WORD[274,   1]: 0.0008193 無文
+TOKEN[275]: 0.0008193    1 avidya
+	avidya WORD[275,   1]: 0.0008193 無明
+TOKEN[276]: 0.0008193    1 infallibility
+	infallibility WORD[276,   1]: 0.0008193 無謬
+TOKEN[277]: 0.0008193    1 inerrancy
+	inerrancy WORD[277,   1]: 0.0008193 無謬
+TOKEN[278]: 0.0008180    1 nonpoisonous
+	nonpoisonous WORD[278,   1]: 0.0008180 無毒
+TOKEN[279]: 0.0008180    1 nontoxic
+	nontoxic WORD[279,   1]: 0.0008180 無毒
+TOKEN[280]: 0.0008180    1 undefeatable
+	undefeatable WORD[280,   1]: 0.0008180 無敵
+TOKEN[281]: 0.0008156    2 deplorable
+	deplorable WORD[281,   1]: 0.0004078 情け無い
+	deplorable WORD[281,   2]: 0.0004078 情無い
+TOKEN[282]: 0.0008102    1 permission
+	permission WORD[282,   1]: 0.0008102 無断
+TOKEN[283]: 0.0008023    1 role
+	role WORD[283,   1]: 0.0008023 無役
+TOKEN[284]: 0.0007988    1 knavish
+	knavish WORD[284,   1]: 0.0007988 無頼
+TOKEN[285]: 0.0007988    1 villainous
+	villainous WORD[285,   1]: 0.0007988 無頼
+TOKEN[286]: 0.0007968    2 occupation
+	occupation WORD[286,   1]: 0.0003987 無職
+	occupation WORD[286,   2]: 0.0003982 無業
+TOKEN[287]: 0.0007947    1 Amitabha
+	Amitabha WORD[287,   1]: 0.0007947 南無阿弥陀仏
+TOKEN[288]: 0.0007895    2 undependable
+	undependable WORD[288,   1]: 0.0004106 頼り無い
+	undependable WORD[288,   2]: 0.0003789 心許無い
+TOKEN[289]: 0.0007875    2 ruined
+	ruined WORD[289,   1]: 0.0004988 台無し
+	ruined WORD[289,   2]: 0.0002887 形無し
+TOKEN[290]: 0.0007748    2 hazy
+	hazy WORD[290,   1]: 0.0004818 有耶無耶
+	hazy WORD[290,   2]: 0.0002930 覚束無い
+TOKEN[291]: 0.0007743    1 amen
+	amen WORD[291,   1]: 0.0007743 南無
+TOKEN[292]: 0.0007739    1 untitled
+	untitled WORD[292,   1]: 0.0007739 無題
+TOKEN[293]: 0.0007731    1 homeless
+	homeless WORD[293,   1]: 0.0007731 無宿
+TOKEN[294]: 0.0007687    1 windless
+	windless WORD[294,   1]: 0.0007687 無風
+TOKEN[295]: 0.0007674    1 unbeatable
+	unbeatable WORD[295,   1]: 0.0007674 無敵
+TOKEN[296]: 0.0007672    1 painless
+	painless WORD[296,   1]: 0.0007672 無痛
+TOKEN[297]: 0.0007581    1 contact
+	contact WORD[297,   1]: 0.0003791 無音
+TOKEN[298]: 0.0007568    2 pitiable
+	pitiable WORD[298,   1]: 0.0003784 情け無い
+	pitiable WORD[298,   2]: 0.0003784 情無い
+TOKEN[299]: 0.0007523    2 work
+	work WORD[299,   1]: 0.0005341 無理
+	work WORD[299,   2]: 0.0002182 だらし無い
+TOKEN[300]: 0.0007504    2 tree
+	tree WORD[300,   1]: 0.0004129 無患子
+	tree WORD[300,   2]: 0.0003376 無花果
+TOKEN[301]: 0.0007490    1 unpresentable
+	unpresentable WORD[301,   1]: 0.0007490 無様
+TOKEN[302]: 0.0007490    1 ungraceful
+	ungraceful WORD[302,   1]: 0.0007490 無様
+TOKEN[303]: 0.0007437    1 post
+	post WORD[303,   1]: 0.0007437 無役
+TOKEN[304]: 0.0007221    1 neutral
+	neutral WORD[304,   1]: 0.0007221 無色
+TOKEN[305]: 0.0007214    1 moonless
+	moonless WORD[305,   1]: 0.0007214 無月
+TOKEN[306]: 0.0007180    1 uninteresting
+	uninteresting WORD[306,   1]: 0.0007180 無味
+TOKEN[307]: 0.0007180    1 illiteracy
+	illiteracy WORD[307,   1]: 0.0007180 無筆
+TOKEN[308]: 0.0007173    2 lose
+	lose WORD[308,   1]: 0.0004285 無くなす
+	lose WORD[308,   2]: 0.0002889 無くす
+TOKEN[309]: 0.0007169    1 invincible
+	invincible WORD[309,   1]: 0.0007169 無敵
+TOKEN[310]: 0.0007168    1 Gregorian
+	Gregorian WORD[310,   1]: 0.0007168 水無月
+TOKEN[311]: 0.0007153    2 dream
+	dream WORD[311,   1]: 0.0003825 無理
+	dream WORD[311,   2]: 0.0003327 無くなる
+TOKEN[312]: 0.0007152    1 feckless
+	feckless WORD[312,   1]: 0.0007152 腑甲斐無い
+TOKEN[313]: 0.0007152    1 pluckless
+	pluckless WORD[313,   1]: 0.0007152 腑甲斐無い
+TOKEN[314]: 0.0007152    1 spiritless
+	spiritless WORD[314,   1]: 0.0007152 腑甲斐無い
+TOKEN[315]: 0.0007092    1 impermanence
+	impermanence WORD[315,   1]: 0.0007092 無常
+TOKEN[316]: 0.0007092    1 transiency
+	transiency WORD[316,   1]: 0.0007092 無常
+TOKEN[317]: 0.0007092    1 mutability
+	mutability WORD[317,   1]: 0.0007092 無常
+TOKEN[318]: 0.0007057    1 impartial
+	impartial WORD[318,   1]: 0.0007057 無色
+TOKEN[319]: 0.0007006    1 unrivaled
+	unrivaled WORD[319,   1]: 0.0007006 無敵
+TOKEN[320]: 0.0007006    1 June
+	June WORD[320,   1]: 0.0007006 水無月
+TOKEN[321]: 0.0006993    2 uneasy
+	uneasy WORD[321,   1]: 0.0003637 頼り無い
+	uneasy WORD[321,   2]: 0.0003356 心許無い
+TOKEN[322]: 0.0006986    1 false
+	false WORD[322,   1]: 0.0006986 無実
+TOKEN[323]: 0.0006911    1 heedless
+	heedless WORD[323,   1]: 0.0006911 無考え
+TOKEN[324]: 0.0006901    1 curt
+	curt WORD[324,   1]: 0.0006901 素っ気無い
+TOKEN[325]: 0.0006836    1 brusque
+	brusque WORD[325,   1]: 0.0006836 無骨
+TOKEN[326]: 0.0006817    1 chatter
+	chatter WORD[326,   1]: 0.0006817 無駄口
+TOKEN[327]: 0.0006772    1 electoral
+	electoral WORD[327,   1]: 0.0006772 無風
+TOKEN[328]: 0.0006767    1 incomparable
+	incomparable WORD[328,   1]: 0.0006767 無二
+TOKEN[329]: 0.0006753    1 wretched
+	wretched WORD[329,   1]: 0.0006753 味気無い
+TOKEN[330]: 0.0006746    2 life
+	life WORD[330,   1]: 0.0003941 無駄食い
+	life WORD[330,   2]: 0.0002805 無期
+TOKEN[331]: 0.0006723    1 unworthy
+	unworthy WORD[331,   1]: 0.0006723 似気無い
+TOKEN[332]: 0.0006633    1 wasteful
+	wasteful WORD[332,   1]: 0.0006633 無駄食い
+TOKEN[333]: 0.0006571    1 immoral
+	immoral WORD[333,   1]: 0.0006571 無道
+TOKEN[334]: 0.0006556    1 fruitless
+	fruitless WORD[334,   1]: 0.0006556 無駄骨
+TOKEN[335]: 0.0006554    1 domicile
+	domicile WORD[335,   1]: 0.0006554 無籍
+TOKEN[336]: 0.0006553    1 spineless
+	spineless WORD[336,   1]: 0.0006553 腑甲斐無い
+TOKEN[337]: 0.0006551    1 inconsiderate
+	inconsiderate WORD[337,   1]: 0.0006551 心無い
+TOKEN[338]: 0.0006550    1 absolute
+	absolute WORD[338,   1]: 0.0006550 無水
+TOKEN[339]: 0.0006506    1 lost
+	lost WORD[339,   1]: 0.0006506 無くなる
+TOKEN[340]: 0.0006488    2 unclear
+	unclear WORD[340,   1]: 0.0003356 心許無い
+	unclear WORD[340,   2]: 0.0003132 覚束無い
+TOKEN[341]: 0.0006454    2 loss
+	loss WORD[341,   1]: 0.0004043 術無い
+	loss WORD[341,   2]: 0.0002411 形無し
+TOKEN[342]: 0.0006420    1 registered
+	registered WORD[342,   1]: 0.0006420 無籍
+TOKEN[343]: 0.0006405    1 unpaid
+	unpaid WORD[343,   1]: 0.0006405 無給
+TOKEN[344]: 0.0006314    1 boredom
+	boredom WORD[344,   1]: 0.0006314 無聊
+TOKEN[345]: 0.0006308    2 indistinct
+	indistinct WORD[345,   1]: 0.0003262 心許無い
+	indistinct WORD[345,   2]: 0.0003045 覚束無い
+TOKEN[346]: 0.0006298    1 bottomless
+	bottomless WORD[346,   1]: 0.0006298 底無し
+TOKEN[347]: 0.0006283    1 paltry
+	paltry WORD[347,   1]: 0.0006283 無けなし
+TOKEN[348]: 0.0006280    1 hard
+	hard WORD[348,   1]: 0.0006280 無理
+TOKEN[349]: 0.0006255    1 July
+	July WORD[349,   1]: 0.0006255 水無月
+TOKEN[350]: 0.0006209    1 errand
+	errand WORD[350,   1]: 0.0006209 無駄足
+TOKEN[351]: 0.0006183    1 numerical
+	numerical WORD[351,   1]: 0.0006183 無勢
+TOKEN[352]: 0.0006156    1 shameless
+	shameless WORD[352,   1]: 0.0006156 無恥
+TOKEN[353]: 0.0006156    1 rustic
+	rustic WORD[353,   1]: 0.0006156 無骨
+TOKEN[354]: 0.0006130    1 inferiority
+	inferiority WORD[354,   1]: 0.0006130 無勢
+TOKEN[355]: 0.0006074    1 uncertainty
+	uncertainty WORD[355,   1]: 0.0006074 無常
+TOKEN[356]: 0.0006040    1 immortality
+	immortality WORD[356,   1]: 0.0006040 無窮
+TOKEN[357]: 0.0006039    1 supreme
+	supreme WORD[357,   1]: 0.0006039 無上
+TOKEN[358]: 0.0006032    1 topped
+	topped WORD[358,   1]: 0.0006032 水無月
+TOKEN[359]: 0.0005975    1 need
+	need WORD[359,   1]: 0.0005975 無銭
+TOKEN[360]: 0.0005969    1 removed
+	removed WORD[360,   1]: 0.0005969 無宿
+TOKEN[361]: 0.0005959    1 seasonal
+	seasonal WORD[361,   1]: 0.0005959 無季
+TOKEN[362]: 0.0005926    1 timid
+	timid WORD[362,   1]: 0.0005926 腑甲斐無い
+TOKEN[363]: 0.0005919    1 disregard
+	disregard WORD[363,   1]: 0.0005919 無みする
+TOKEN[364]: 0.0005899    1 usage
+	usage WORD[364,   1]: 0.0005899 無月
+TOKEN[365]: 0.0005898    1 Ficus
+	Ficus WORD[365,   1]: 0.0005898 無花果
+TOKEN[366]: 0.0005890    1 powerlessness
+	powerlessness WORD[366,   1]: 0.0005890 無力
+TOKEN[367]: 0.0005890    1 helplessness
+	helplessness WORD[367,   1]: 0.0005890 無力
+TOKEN[368]: 0.0005890    1 inestimable
+	inestimable WORD[368,   1]: 0.0005890 無量
+TOKEN[369]: 0.0005890    1 immeasurable
+	immeasurable WORD[369,   1]: 0.0005890 無量
+TOKEN[370]: 0.0005888    1 causeless
+	causeless WORD[370,   1]: 0.0005888 無名
+TOKEN[371]: 0.0005888    1 inefficiency
+	inefficiency WORD[371,   1]: 0.0005888 無能
+TOKEN[372]: 0.0005886    1 unrealistic
+	unrealistic WORD[372,   1]: 0.0005886 無茶苦茶
+TOKEN[373]: 0.0005885    1 noiseless
+	noiseless WORD[373,   1]: 0.0005885 無声
+TOKEN[374]: 0.0005885    1 voiceless
+	voiceless WORD[374,   1]: 0.0005885 無声
+TOKEN[375]: 0.0005881    1 numberless
+	numberless WORD[375,   1]: 0.0005881 無数
+TOKEN[376]: 0.0005880    1 inexhaustibility
+	inexhaustibility WORD[376,   1]: 0.0005880 無尽
+TOKEN[377]: 0.0005880    1 shorthandedness
+	shorthandedness WORD[377,   1]: 0.0005880 無人
+TOKEN[378]: 0.0005880    1 unmanned
+	unmanned WORD[378,   1]: 0.0005880 無人
+TOKEN[379]: 0.0005880    1 insubstantiality
+	insubstantiality WORD[379,   1]: 0.0005880 無実
+TOKEN[380]: 0.0005880    1 patternless
+	patternless WORD[380,   1]: 0.0005880 無地
+TOKEN[381]: 0.0005879    1 nonsexual
+	nonsexual WORD[381,   1]: 0.0005879 無性
+TOKEN[382]: 0.0005879    1 agamic
+	agamic WORD[382,   1]: 0.0005879 無性
+TOKEN[383]: 0.0005879    1 sexless
+	sexless WORD[383,   1]: 0.0005879 無性
+TOKEN[384]: 0.0005879    1 genderless
+	genderless WORD[384,   1]: 0.0005879 無性
+TOKEN[385]: 0.0005879    1 unscented
+	unscented WORD[385,   1]: 0.0005879 無臭
+TOKEN[386]: 0.0005879    1 odorless
+	odorless WORD[386,   1]: 0.0005879 無臭
+TOKEN[387]: 0.0005875    1 infinity
+	infinity WORD[387,   1]: 0.0005875 無限
+TOKEN[388]: 0.0005875    1 ceaselessness
+	ceaselessness WORD[388,   1]: 0.0005875 無間
+TOKEN[389]: 0.0005875    1 incessancy
+	incessancy WORD[389,   1]: 0.0005875 無間
+TOKEN[390]: 0.0005875    1 unsupported
+	unsupported WORD[390,   1]: 0.0005875 無稽
+TOKEN[391]: 0.0005875    1 immaterial
+	immaterial WORD[391,   1]: 0.0005875 無形
+TOKEN[392]: 0.0005872    1 aseptic
+	aseptic WORD[392,   1]: 0.0005872 無菌
+TOKEN[393]: 0.0005872    1 inorganic
+	inorganic WORD[393,   1]: 0.0005872 無機
+TOKEN[394]: 0.0005871    1 uncrowned
+	uncrowned WORD[394,   1]: 0.0005871 無冠
+TOKEN[395]: 0.0005867    1 smokeless
+	smokeless WORD[395,   1]: 0.0005867 無煙
+TOKEN[396]: 0.0005867    1 unsupporting
+	unsupporting WORD[396,   1]: 0.0005867 無援
+TOKEN[397]: 0.0005866    1 making
+	making WORD[397,   1]: 0.0002933 無音
+TOKEN[398]: 0.0005855    1 independent
+	independent WORD[398,   1]: 0.0005855 無頼
+TOKEN[399]: 0.0005831    1 mowing
+	mowing WORD[399,   1]: 0.0005831 無双
+TOKEN[400]: 0.0005798    1 gossip
+	gossip WORD[400,   1]: 0.0005798 無駄話
+TOKEN[401]: 0.0005786    1 signature
+	signature WORD[401,   1]: 0.0005786 無銘
+TOKEN[402]: 0.0005772    1 blossom
+	blossom WORD[402,   1]: 0.0005772 無駄花
+TOKEN[403]: 0.0005760    1 poetic
+	poetic WORD[403,   1]: 0.0005760 無月
+TOKEN[404]: 0.0005752    1 awkward
+	awkward WORD[404,   1]: 0.0005752 無様
+TOKEN[405]: 0.0005743    1 tame
+	tame WORD[405,   1]: 0.0005743 腑甲斐無い
+TOKEN[406]: 0.0005724    1 eaten
+	eaten WORD[406,   1]: 0.0005724 水無月
+TOKEN[407]: 0.0005643    1 go
+	go WORD[407,   1]: 0.0005643 無段
+TOKEN[408]: 0.0005639    1 peaceful
+	peaceful WORD[408,   1]: 0.0005639 無風
+TOKEN[409]: 0.0005634    1 blank
+	blank WORD[409,   1]: 0.0005634 無想
+TOKEN[410]: 0.0005622    1 Indian
+	Indian WORD[410,   1]: 0.0005622 無患子
+TOKEN[411]: 0.0005622    1 inoffensive
+	inoffensive WORD[411,   1]: 0.0005622 無難
+TOKEN[412]: 0.0005622    1 innocuous
+	innocuous WORD[412,   1]: 0.0005622 無難
+TOKEN[413]: 0.0005576    1 ignore
+	ignore WORD[413,   1]: 0.0005576 無みする
+TOKEN[414]: 0.0005576    1 stable
+	stable WORD[414,   1]: 0.0005576 無風
+TOKEN[415]: 0.0005531    1 undecided
+	undecided WORD[415,   1]: 0.0005531 有耶無耶
+TOKEN[416]: 0.0005526    1 gratuitous
+	gratuitous WORD[416,   1]: 0.0005526 無料
+TOKEN[417]: 0.0005526    1 forcible
+	forcible WORD[417,   1]: 0.0005526 無理
+TOKEN[418]: 0.0005524    1 lawlessness
+	lawlessness WORD[418,   1]: 0.0005524 無法
+TOKEN[419]: 0.0005522    1 foolhardy
+	foolhardy WORD[419,   1]: 0.0005522 無鉄砲
+TOKEN[420]: 0.0005522    1 uselessness
+	uselessness WORD[420,   1]: 0.0005522 無駄
+TOKEN[421]: 0.0005522    1 pointlessness
+	pointlessness WORD[421,   1]: 0.0005522 無駄
+TOKEN[422]: 0.0005522    1 futility
+	futility WORD[422,   1]: 0.0005522 無駄
+TOKEN[423]: 0.0005517    1 unattended
+	unattended WORD[423,   1]: 0.0005517 無人
+TOKEN[424]: 0.0005517    1 guiltlessness
+	guiltlessness WORD[424,   1]: 0.0005517 無実
+TOKEN[425]: 0.0005516    1 wicked
+	wicked WORD[425,   1]: 0.0005516 無道
+TOKEN[426]: 0.0005515    1 temperature
+	temperature WORD[426,   1]: 0.0005515 無熱
+TOKEN[427]: 0.0005514    1 selfless
+	selfless WORD[427,   1]: 0.0005514 無私
+TOKEN[428]: 0.0005510    1 immaculate
+	immaculate WORD[428,   1]: 0.0005510 無垢
+TOKEN[429]: 0.0005505    1 unsalted
+	unsalted WORD[429,   1]: 0.0005505 無塩
+TOKEN[430]: 0.0005493    1 unrefined
+	unrefined WORD[430,   1]: 0.0005493 無骨
+TOKEN[431]: 0.0005480    1 arroyo
+	arroyo WORD[431,   1]: 0.0005480 水無川
+TOKEN[432]: 0.0005480    1 wadi
+	wadi WORD[432,   1]: 0.0005480 水無川
+TOKEN[433]: 0.0005477    1 register
+	register WORD[433,   1]: 0.0005477 無宿
+TOKEN[434]: 0.0005461    1 normal
+	normal WORD[434,   1]: 0.0005461 無熱
+TOKEN[435]: 0.0005446    1 pottery
+	pottery WORD[435,   1]: 0.0005446 無文
+TOKEN[436]: 0.0005432    1 perforce
+	perforce WORD[436,   1]: 0.0005432 止む無く
+TOKEN[437]: 0.0005365    1 fish
+	fish WORD[437,   1]: 0.0005365 無塩
+TOKEN[438]: 0.0005352    1 highest
+	highest WORD[438,   1]: 0.0005352 無上
+TOKEN[439]: 0.0005351    1 hail
+	hail WORD[439,   1]: 0.0005351 南無
+TOKEN[440]: 0.0005312    1 funds
+	funds WORD[440,   1]: 0.0005312 無手
+TOKEN[441]: 0.0005311    1 unauthorized
+	unauthorized WORD[441,   1]: 0.0005311 無用
+TOKEN[442]: 0.0005311    1 unnamed
+	unnamed WORD[442,   1]: 0.0005311 無名
+TOKEN[443]: 0.0005311    1 impulsive
+	impulsive WORD[443,   1]: 0.0005311 無謀
+TOKEN[444]: 0.0005311    1 lawless
+	lawless WORD[444,   1]: 0.0005311 無法
+TOKEN[445]: 0.0005311    1 undefeated
+	undefeated WORD[445,   1]: 0.0005311 無敗
+TOKEN[446]: 0.0005311    1 mortification
+	mortification WORD[446,   1]: 0.0005311 無念
+TOKEN[447]: 0.0005309    1 senseless
+	senseless WORD[447,   1]: 0.0005309 無茶苦茶
+TOKEN[448]: 0.0005308    1 property
+	property WORD[448,   1]: 0.0005308 無産
+TOKEN[449]: 0.0005304    1 uninhabited
+	uninhabited WORD[449,   1]: 0.0005304 無人
+TOKEN[450]: 0.0005304    1 coldheartedness
+	coldheartedness WORD[450,   1]: 0.0005304 無情
+TOKEN[451]: 0.0005301    1 muteness
+	muteness WORD[451,   1]: 0.0005301 無言
+TOKEN[452]: 0.0005300    1 ineffective
+	ineffective WORD[452,   1]: 0.0005300 無効
+TOKEN[453]: 0.0005300    1 unavailable
+	unavailable WORD[453,   1]: 0.0005300 無効
+TOKEN[454]: 0.0005296    1 selflessness
+	selflessness WORD[454,   1]: 0.0005296 無我
+TOKEN[455]: 0.0005293    1 unconnected
+	unconnected WORD[455,   1]: 0.0005293 無縁
+TOKEN[456]: 0.0005288    1 fool
+	fool WORD[456,   1]: 0.0005288 無駄足
+TOKEN[457]: 0.0005268    1 inaction
+	inaction WORD[457,   1]: 0.0005268 無事
+TOKEN[458]: 0.0005266    1 Sharon
+	Sharon WORD[458,   1]: 0.0005266 無窮花
+TOKEN[459]: 0.0005212    1 tiny
+	tiny WORD[459,   1]: 0.0005212 無けなし
+TOKEN[460]: 0.0005179    1 produce
+	produce WORD[460,   1]: 0.0005179 無駄花
+TOKEN[461]: 0.0005160    1 incapacity
+	incapacity WORD[461,   1]: 0.0005160 無能
+TOKEN[462]: 0.0005154    1 countless
+	countless WORD[462,   1]: 0.0005154 無数
+TOKEN[463]: 0.0005154    1 heartlessness
+	heartlessness WORD[463,   1]: 0.0005154 無情
+TOKEN[464]: 0.0005151    1 unsettled
+	unsettled WORD[464,   1]: 0.0005151 有耶無耶
+TOKEN[465]: 0.0005148    1 unspoiled
+	unspoiled WORD[465,   1]: 0.0005148 無垢
+TOKEN[466]: 0.0005146    1 uneducated
+	uneducated WORD[466,   1]: 0.0005146 無学
+TOKEN[467]: 0.0005142    1 irrelevant
+	irrelevant WORD[467,   1]: 0.0005142 無縁
+TOKEN[468]: 0.0005141    1 ungrateful
+	ungrateful WORD[468,   1]: 0.0005141 人で無し
+TOKEN[469]: 0.0005071    1 passable
+	passable WORD[469,   1]: 0.0005071 無難
+TOKEN[470]: 0.0005048    1 distant
+	distant WORD[470,   1]: 0.0005048 無始
+TOKEN[471]: 0.0005045    1 unnatural
+	unnatural WORD[471,   1]: 0.0005045 無理
+TOKEN[472]: 0.0005043    1 outrage
+	outrage WORD[472,   1]: 0.0005043 無法
+TOKEN[473]: 0.0005037    1 innumerable
+	innumerable WORD[473,   1]: 0.0005037 無数
+TOKEN[474]: 0.0005037    1 insincerity
+	insincerity WORD[474,   1]: 0.0005037 無実
+TOKEN[475]: 0.0005036    1 tenth
+	tenth WORD[475,   1]: 0.0005036 神無月
+TOKEN[476]: 0.0005036    1 jobless
+	jobless WORD[476,   1]: 0.0005036 無職
+TOKEN[477]: 0.0005032    1 unfounded
+	unfounded WORD[477,   1]: 0.0005032 無稽
+TOKEN[478]: 0.0005031    1 unmixed
+	unmixed WORD[478,   1]: 0.0005031 無垢
+TOKEN[479]: 0.0005029    1 nonstop
+	nonstop WORD[479,   1]: 0.0005029 無休
+TOKEN[480]: 0.0004980    1 Hibiscus
+	Hibiscus WORD[480,   1]: 0.0004980 無窮花
+TOKEN[481]: 0.0004949    1 irrational
+	irrational WORD[481,   1]: 0.0004949 無理
+TOKEN[482]: 0.0004947    1 forbidden
+	forbidden WORD[482,   1]: 0.0004947 無用
+TOKEN[483]: 0.0004947    1 unjust
+	unjust WORD[483,   1]: 0.0004947 無法
+TOKEN[484]: 0.0004947    1 dividend
+	dividend WORD[484,   1]: 0.0004947 無配
+TOKEN[485]: 0.0004947    1 incompetence
+	incompetence WORD[485,   1]: 0.0004947 無能
+TOKEN[486]: 0.0004940    1 calm
+	calm WORD[486,   1]: 0.0004940 無風
+TOKEN[487]: 0.0004934    1 illiterate
+	illiterate WORD[487,   1]: 0.0004934 無学
+TOKEN[488]: 0.0004931    1 seat
+	seat WORD[488,   1]: 0.0004931 無風
+TOKEN[489]: 0.0004927    1 fleeting
+	fleeting WORD[489,   1]: 0.0004927 敢え無い
+TOKEN[490]: 0.0004923    1 poor
+	poor WORD[490,   1]: 0.0004923 無徳
+TOKEN[491]: 0.0004921    1 sloth
+	sloth WORD[491,   1]: 0.0004921 無精
+TOKEN[492]: 0.0004918    1 best
+	best WORD[492,   1]: 0.0004918 無上
+TOKEN[493]: 0.0004866    1 injustice
+	injustice WORD[493,   1]: 0.0004866 無法
+TOKEN[494]: 0.0004866    1 chagrin
+	chagrin WORD[494,   1]: 0.0004866 無念
+TOKEN[495]: 0.0004865    1 nonsensical
+	nonsensical WORD[495,   1]: 0.0004865 無茶苦茶
+TOKEN[496]: 0.0004864    1 unvoiced
+	unvoiced WORD[496,   1]: 0.0004864 無声
+TOKEN[497]: 0.0004860    1 cruelty
+	cruelty WORD[497,   1]: 0.0004860 無情
+TOKEN[498]: 0.0004859    1 unemployed
+	unemployed WORD[498,   1]: 0.0004859 無職
+TOKEN[499]: 0.0004856    1 invalid
+	invalid WORD[499,   1]: 0.0004856 無効
+TOKEN[500]: 0.0004853    1 sterile
+	sterile WORD[500,   1]: 0.0004853 無菌
+TOKEN[501]: 0.0004853    1 championship
+	championship WORD[501,   1]: 0.0004853 無冠
+TOKEN[502]: 0.0004849    1 inactivity
+	inactivity WORD[502,   1]: 0.0004849 無為
+TOKEN[503]: 0.0004833    1 Butsu
+	Butsu WORD[503,   1]: 0.0004833 南無阿弥陀仏
+TOKEN[504]: 0.0004816    1 unacceptable
+	unacceptable WORD[504,   1]: 0.0004816 無し
+TOKEN[505]: 0.0004796    1 needless
+	needless WORD[505,   1]: 0.0004796 無用
+TOKEN[506]: 0.0004796    1 anonymous
+	anonymous WORD[506,   1]: 0.0004796 無名
+TOKEN[507]: 0.0004789    1 sky
+	sky WORD[507,   1]: 0.0004789 無月
+TOKEN[508]: 0.0004786    1 option
+	option WORD[508,   1]: 0.0004786 止む無く
+TOKEN[509]: 0.0004783    1 nirvana
+	nirvana WORD[509,   1]: 0.0004783 無学
+TOKEN[510]: 0.0004780    1 surviving
+	surviving WORD[510,   1]: 0.0004780 無縁
+TOKEN[511]: 0.0004753    1 subject
+	subject WORD[511,   1]: 0.0004753 無題
+TOKEN[512]: 0.0004734    1 necessity
+	necessity WORD[512,   1]: 0.0004734 止む無く
+TOKEN[513]: 0.0004729    1 hardness
+	hardness WORD[513,   1]: 0.0004729 無情
+TOKEN[514]: 0.0004728    1 past
+	past WORD[514,   1]: 0.0004728 無始
+TOKEN[515]: 0.0004724    1 keeping
+	keeping WORD[515,   1]: 0.0004724 似気無い
+TOKEN[516]: 0.0004718    1 impolite
+	impolite WORD[516,   1]: 0.0004718 無躾
+TOKEN[517]: 0.0004718    1 saved
+	saved WORD[517,   1]: 0.0004718 無縁
+TOKEN[518]: 0.0004711    1 priest
+	priest WORD[518,   1]: 0.0004711 無住
+TOKEN[519]: 0.0004704    1 fruit
+	fruit WORD[519,   1]: 0.0004704 無駄花
+TOKEN[520]: 0.0004704    1 visit
+	visit WORD[520,   1]: 0.0004704 無駄足
+TOKEN[521]: 0.0004679    1 ability
+	ability WORD[521,   1]: 0.0004679 無才
+TOKEN[522]: 0.0004679    1 inability
+	inability WORD[522,   1]: 0.0004679 無能
+TOKEN[523]: 0.0004671    1 guilty
+	guilty WORD[523,   1]: 0.0004671 無罪
+TOKEN[524]: 0.0004669    1 abstract
+	abstract WORD[524,   1]: 0.0004669 無形
+TOKEN[525]: 0.0004666    1 ignorant
+	ignorant WORD[525,   1]: 0.0004666 無学
+TOKEN[526]: 0.0004653    1 sweet
+	sweet WORD[526,   1]: 0.0004653 水無月
+TOKEN[527]: 0.0004630    1 unsatisfactory
+	unsatisfactory WORD[527,   1]: 0.0004630 無し
+TOKEN[528]: 0.0004619    1 void
+	void WORD[528,   1]: 0.0004619 無効
+TOKEN[529]: 0.0004619    1 limitless
+	limitless WORD[529,   1]: 0.0004619 無限
+TOKEN[530]: 0.0004585    1 compulsory
+	compulsory WORD[530,   1]: 0.0004585 無理
+TOKEN[531]: 0.0004578    1 deserted
+	deserted WORD[531,   1]: 0.0004578 無人
+TOKEN[532]: 0.0004578    1 pester
+	pester WORD[532,   1]: 0.0004578 無心
+TOKEN[533]: 0.0004541    1 unnecessary
+	unnecessary WORD[533,   1]: 0.0004541 無用
+TOKEN[534]: 0.0004535    1 flower
+	flower WORD[534,   1]: 0.0004535 無駄花
+TOKEN[535]: 0.0004532    1 groundless
+	groundless WORD[535,   1]: 0.0004532 無根
+TOKEN[536]: 0.0004498    1 short
+	short WORD[536,   1]: 0.0004498 素っ気無い
+TOKEN[537]: 0.0004498    1 alright
+	alright WORD[537,   1]: 0.0004498 無し
+TOKEN[538]: 0.0004498    1 forsaken
+	forsaken WORD[538,   1]: 0.0004498 頼り無い
+TOKEN[539]: 0.0004495    1 improper
+	improper WORD[539,   1]: 0.0004495 見っとも無い
+TOKEN[540]: 0.0004490    1 office
+	office WORD[540,   1]: 0.0004490 無官
+TOKEN[541]: 0.0004461    1 accusation
+	accusation WORD[541,   1]: 0.0004461 無実
+TOKEN[542]: 0.0004438    1 cold
+	cold WORD[542,   1]: 0.0004438 素っ気無い
+TOKEN[543]: 0.0004432    1 freedom
+	freedom WORD[543,   1]: 0.0004432 無念
+TOKEN[544]: 0.0004431    1 ridiculous
+	ridiculous WORD[544,   1]: 0.0004431 無茶
+TOKEN[545]: 0.0004420    1 acceptable
+	acceptable WORD[545,   1]: 0.0004420 無難
+TOKEN[546]: 0.0004415    1 indolence
+	indolence WORD[546,   1]: 0.0004415 無精
+TOKEN[547]: 0.0004415    1 laziness
+	laziness WORD[547,   1]: 0.0004415 無精
+TOKEN[548]: 0.0004405    1 second
+	second WORD[548,   1]: 0.0004405 無二
+TOKEN[549]: 0.0004377    1 adequate
+	adequate WORD[549,   1]: 0.0004377 無難
+TOKEN[550]: 0.0004371    1 safety
+	safety WORD[550,   1]: 0.0004371 無事
+TOKEN[551]: 0.0004361    1 clothes
+	clothes WORD[551,   1]: 0.0004361 無文
+TOKEN[552]: 0.0004342    1 undisciplined
+	undisciplined WORD[552,   1]: 0.0004342 だらし無い
+TOKEN[553]: 0.0004332    1 open
+	open WORD[553,   1]: 0.0004332 無蓋
+TOKEN[554]: 0.0004331    1 insolent
+	insolent WORD[554,   1]: 0.0004331 無躾
+TOKEN[555]: 0.0004316    1 nihility
+	nihility WORD[555,   1]: 0.0004316 虚無
+TOKEN[556]: 0.0004315    1 obscure
+	obscure WORD[556,   1]: 0.0004315 無名
+TOKEN[557]: 0.0004315    1 mad
+	mad WORD[557,   1]: 0.0004315 無謀
+TOKEN[558]: 0.0004300    1 purity
+	purity WORD[558,   1]: 0.0004300 無塩
+TOKEN[559]: 0.0004280    1 nonsense
+	nonsense WORD[559,   1]: 0.0004280 無稽
+TOKEN[560]: 0.0004271    1 disgraceful
+	disgraceful WORD[560,   1]: 0.0004271 見っとも無い
+TOKEN[561]: 0.0004268    1 Edo
+	Edo WORD[561,   1]: 0.0004268 無宿
+TOKEN[562]: 0.0004263    1 amount
+	amount WORD[562,   1]: 0.0004263 無けなし
+TOKEN[563]: 0.0004254    1 imprisonment
+	imprisonment WORD[563,   1]: 0.0004254 無期
+TOKEN[564]: 0.0004230    1 doctrine
+	doctrine WORD[564,   1]: 0.0004230 無我
+TOKEN[565]: 0.0004227    1 indifferent
+	indifferent WORD[565,   1]: 0.0004227 無縁
+TOKEN[566]: 0.0004225    1 deep
+	deep WORD[566,   1]: 0.0004225 底無し
+TOKEN[567]: 0.0004223    1 temple
+	temple WORD[567,   1]: 0.0004223 無住
+TOKEN[568]: 0.0004199    1 indecent
+	indecent WORD[568,   1]: 0.0004199 見っとも無い
+TOKEN[569]: 0.0004197    1 rude
+	rude WORD[569,   1]: 0.0004197 無躾
+TOKEN[570]: 0.0004193    1 fact
+	fact WORD[570,   1]: 0.0004193 無実
+TOKEN[571]: 0.0004193    1 cash
+	cash WORD[571,   1]: 0.0004193 無心
+TOKEN[572]: 0.0004190    1 state
+	state WORD[572,   1]: 0.0004190 無風
+TOKEN[573]: 0.0004184    1 naive
+	naive WORD[573,   1]: 0.0004184 無塩
+TOKEN[574]: 0.0004176    1 communication
+	communication WORD[574,   1]: 0.0004176 無線
+TOKEN[575]: 0.0004176    1 radio
+	radio WORD[575,   1]: 0.0004176 無線
+TOKEN[576]: 0.0004158    1 unknown
+	unknown WORD[576,   1]: 0.0004158 無名
+TOKEN[577]: 0.0004149    1 hell
+	hell WORD[577,   1]: 0.0004149 無間
+TOKEN[578]: 0.0004142    1 little
+	little WORD[578,   1]: 0.0004142 無けなし
+TOKEN[579]: 0.0004137    1 sad
+	sad WORD[579,   1]: 0.0004137 敢え無い
+TOKEN[580]: 0.0004130    1 spiritual
+	spiritual WORD[580,   1]: 0.0004130 無形
+TOKEN[581]: 0.0004121    1 flaw
+	flaw WORD[581,   1]: 0.0004121 無難
+TOKEN[582]: 0.0004118    1 mind
+	mind WORD[582,   1]: 0.0004118 無想
+TOKEN[583]: 0.0004118    1 abolish
+	abolish WORD[583,   1]: 0.0004118 無くす
+TOKEN[584]: 0.0004118    1 eradicate
+	eradicate WORD[584,   1]: 0.0004118 無くす
+TOKEN[585]: 0.0004091    1 possess
+	possess WORD[585,   1]: 0.0004091 無我
+TOKEN[586]: 0.0004074    1 holiday
+	holiday WORD[586,   1]: 0.0004074 無休
+TOKEN[587]: 0.0004068    1 impudent
+	impudent WORD[587,   1]: 0.0004068 無躾
+TOKEN[588]: 0.0004049    1 nothingness
+	nothingness WORD[588,   1]: 0.0004049 虚無
+TOKEN[589]: 0.0004049    1 Korean
+	Korean WORD[589,   1]: 0.0004049 無窮花
+TOKEN[590]: 0.0004023    1 unable
+	unable WORD[590,   1]: 0.0004023 無縁
+TOKEN[591]: 0.0004016    1 compensation
+	compensation WORD[591,   1]: 0.0004016 無償
+TOKEN[592]: 0.0003993    1 brute
+	brute WORD[592,   1]: 0.0003993 人で無し
+TOKEN[593]: 0.0003992    1 regret
+	regret WORD[593,   1]: 0.0003992 無念
+TOKEN[594]: 0.0003977    1 excess
+	excess WORD[594,   1]: 0.0003977 無茶苦茶
+TOKEN[595]: 0.0003973    1 reward
+	reward WORD[595,   1]: 0.0003973 無償
+TOKEN[596]: 0.0003970    1 satisfactory
+	satisfactory WORD[596,   1]: 0.0003970 無難
+TOKEN[597]: 0.0003956    1 moral
+	moral WORD[597,   1]: 0.0003956 無形
+TOKEN[598]: 0.0003953    1 forced
+	forced WORD[598,   1]: 0.0003953 無理
+TOKEN[599]: 0.0003952    1 exhausted
+	exhausted WORD[599,   1]: 0.0003952 無くなる
+TOKEN[600]: 0.0003951    1 coming
+	coming WORD[600,   1]: 0.0003951 台無し
+TOKEN[601]: 0.0003947    1 substance
+	substance WORD[601,   1]: 0.0003947 無実
+TOKEN[602]: 0.0003921    1 association
+	association WORD[602,   1]: 0.0003921 無尽
+TOKEN[603]: 0.0003913    1 incident
+	incident WORD[603,   1]: 0.0003913 無事
+TOKEN[604]: 0.0003912    1 confusion
+	confusion WORD[604,   1]: 0.0003912 無茶苦茶
+TOKEN[605]: 0.0003903    1 exist
+	exist WORD[605,   1]: 0.0003903 無きゃ
+TOKEN[606]: 0.0003900    1 disorder
+	disorder WORD[606,   1]: 0.0003900 無茶苦茶
+TOKEN[607]: 0.0003888    1 beast
+	beast WORD[607,   1]: 0.0003888 人で無し
+TOKEN[608]: 0.0003877    1 unsure
+	unsure WORD[608,   1]: 0.0003877 心許無い
+TOKEN[609]: 0.0003850    1 going
+	going WORD[609,   1]: 0.0003850 無駄足
+TOKEN[610]: 0.0003850    1 security
+	security WORD[610,   1]: 0.0003850 無事
+TOKEN[611]: 0.0003840    1 mutual
+	mutual WORD[611,   1]: 0.0003840 無尽
+TOKEN[612]: 0.0003824    1 rebirth
+	rebirth WORD[612,   1]: 0.0003824 南無阿弥陀仏
+TOKEN[613]: 0.0003823    1 set
+	set WORD[613,   1]: 0.0003823 無みする
+TOKEN[614]: 0.0003819    1 monster
+	monster WORD[614,   1]: 0.0003819 人で無し
+TOKEN[615]: 0.0003816    1 enemy
+	enemy WORD[615,   1]: 0.0003816 無双
+TOKEN[616]: 0.0003814    1 scheme
+	scheme WORD[616,   1]: 0.0003814 無謀
+TOKEN[617]: 0.0003810    1 forlorn
+	forlorn WORD[617,   1]: 0.0003810 頼り無い
+TOKEN[618]: 0.0003806    1 family
+	family WORD[618,   1]: 0.0003806 無宿
+TOKEN[619]: 0.0003801    1 deceased
+	deceased WORD[619,   1]: 0.0003801 無縁
+TOKEN[620]: 0.0003795    1 try
+	try WORD[620,   1]: 0.0003795 無理
+TOKEN[621]: 0.0003789    1 erratic
+	erratic WORD[621,   1]: 0.0003789 心許無い
+TOKEN[622]: 0.0003789    1 untrustworthy
+	untrustworthy WORD[622,   1]: 0.0003789 心許無い
+TOKEN[623]: 0.0003787    1 policy
+	policy WORD[623,   1]: 0.0003787 無策
+TOKEN[624]: 0.0003785    1 nonchalant
+	nonchalant WORD[624,   1]: 0.0003785 さり気無い
+TOKEN[625]: 0.0003784    1 sloppy
+	sloppy WORD[625,   1]: 0.0003784 だらし無い
+TOKEN[626]: 0.0003774    1 major
+	major WORD[626,   1]: 0.0003774 無冠
+TOKEN[627]: 0.0003755    1 period
+	period WORD[627,   1]: 0.0003755 無宿
+TOKEN[628]: 0.0003755    1 reduced
+	reduced WORD[628,   1]: 0.0003755 無くなる
+TOKEN[629]: 0.0003737    1 result
+	result WORD[629,   1]: 0.0003737 敢え無い
+TOKEN[630]: 0.0003706    1 speaking
+	speaking WORD[630,   1]: 0.0003706 無言
+TOKEN[631]: 0.0003691    1 occur
+	occur WORD[631,   1]: 0.0003691 無くなる
+TOKEN[632]: 0.0003664    1 cranny
+	cranny WORD[632,   1]: 0.0003664 隈無く
+TOKEN[633]: 0.0003660    1 raw
+	raw WORD[633,   1]: 0.0003660 無塩
+TOKEN[634]: 0.0003653    1 luggage
+	luggage WORD[634,   1]: 0.0003653 無くなる
+TOKEN[635]: 0.0003652    1 eliminate
+	eliminate WORD[635,   1]: 0.0003652 無くす
+TOKEN[636]: 0.0003651    1 slack
+	slack WORD[636,   1]: 0.0003651 だらし無い
+TOKEN[637]: 0.0003650    1 famous
+	famous WORD[637,   1]: 0.0003650 無名
+TOKEN[638]: 0.0003623    1 Chinese
+	Chinese WORD[638,   1]: 0.0003623 無患子
+TOKEN[639]: 0.0003601    1 rice
+	rice WORD[639,   1]: 0.0003601 水無月
+TOKEN[640]: 0.0003600    1 peace
+	peace WORD[640,   1]: 0.0003600 無事
+TOKEN[641]: 0.0003600    1 rid
+	rid WORD[641,   1]: 0.0003600 無くす
+TOKEN[642]: 0.0003593    1 extreme
+	extreme WORD[642,   1]: 0.0003593 無茶
+TOKEN[643]: 0.0003559    1 worried
+	worried WORD[643,   1]: 0.0003559 頼り無い
+TOKEN[644]: 0.0003536    1 shaky
+	shaky WORD[644,   1]: 0.0003536 覚束無い
+TOKEN[645]: 0.0003526    1 wrong
+	wrong WORD[645,   1]: 0.0003526 無法
+TOKEN[646]: 0.0003511    1 common
+	common WORD[646,   1]: 0.0003511 無花果
+TOKEN[647]: 0.0003491    1 mixed
+	mixed WORD[647,   1]: 0.0003491 無茶苦茶
+TOKEN[648]: 0.0003487    1 pay
+	pay WORD[648,   1]: 0.0003487 無償
+TOKEN[649]: 0.0003480    1 foreign
+	foreign WORD[649,   1]: 0.0003480 無縁
+TOKEN[650]: 0.0003474    1 disappear
+	disappear WORD[650,   1]: 0.0003474 無くなる
+TOKEN[651]: 0.0003473    1 kimono
+	kimono WORD[651,   1]: 0.0003473 無垢
+TOKEN[652]: 0.0003445    1 unconcerned
+	unconcerned WORD[652,   1]: 0.0003445 さり気無い
+TOKEN[653]: 0.0003423    1 fresh
+	fresh WORD[653,   1]: 0.0003423 無塩
+TOKEN[654]: 0.0003395    1 salt
+	salt WORD[654,   1]: 0.0003395 無塩
+TOKEN[655]: 0.0003391    1 casual
+	casual WORD[655,   1]: 0.0003391 さり気無い
+TOKEN[656]: 0.0003383    1 nervous
+	nervous WORD[656,   1]: 0.0003383 心許無い
+TOKEN[657]: 0.0003363    1 insecure
+	insecure WORD[657,   1]: 0.0003363 覚束無い
+TOKEN[658]: 0.0003363    1 unpromising
+	unpromising WORD[658,   1]: 0.0003363 覚束無い
+TOKEN[659]: 0.0003324    1 advance
+	advance WORD[659,   1]: 0.0003324 無断
+TOKEN[660]: 0.0003293    1 missing
+	missing WORD[660,   1]: 0.0003293 無くなる
+TOKEN[661]: 0.0003283    1 nook
+	nook WORD[661,   1]: 0.0003283 隈無く
+TOKEN[662]: 0.0003249    1 course
+	course WORD[662,   1]: 0.0003249 無論
+TOKEN[663]: 0.0003246    1 doubtful
+	doubtful WORD[663,   1]: 0.0003246 覚束無い
+TOKEN[664]: 0.0003242    1 impatient
+	impatient WORD[664,   1]: 0.0003242 心許無い
+TOKEN[665]: 0.0003234    1 prayer
+	prayer WORD[665,   1]: 0.0003234 南無阿弥陀仏
+TOKEN[666]: 0.0003176    1 river
+	river WORD[666,   1]: 0.0003176 水無川
+TOKEN[667]: 0.0003175    1 yes
+	yes WORD[667,   1]: 0.0003175 有無
+TOKEN[668]: 0.0003160    1 cloth
+	cloth WORD[668,   1]: 0.0003160 無垢
+TOKEN[669]: 0.0003132    1 unsteady
+	unsteady WORD[669,   1]: 0.0003132 覚束無い
+TOKEN[670]: 0.0003128    1 pain
+	pain WORD[670,   1]: 0.0003128 無くなる
+TOKEN[671]: 0.0003126    1 happen
+	happen WORD[671,   1]: 0.0003126 無い
+TOKEN[672]: 0.0003124    1 color
+	color WORD[672,   1]: 0.0003124 無地
+TOKEN[673]: 0.0003118    1 careless
+	careless WORD[673,   1]: 0.0003118 だらし無い
+TOKEN[674]: 0.0003118    1 loose
+	loose WORD[674,   1]: 0.0003118 だらし無い
+TOKEN[675]: 0.0003110    1 anxious
+	anxious WORD[675,   1]: 0.0003110 心許無い
+TOKEN[676]: 0.0003109    1 remove
+	remove WORD[676,   1]: 0.0003109 無くす
+TOKEN[677]: 0.0003065    1 faltering
+	faltering WORD[677,   1]: 0.0003065 覚束無い
+TOKEN[678]: 0.0003043    1 heart
+	heart WORD[678,   1]: 0.0003043 無情
+TOKEN[679]: 0.0003040    1 refusal
+	refusal WORD[679,   1]: 0.0003040 有無
+TOKEN[680]: 0.0002996    1 sound
+	sound WORD[680,   1]: 0.0002996 無病
+TOKEN[681]: 0.0002959    1 anxiety
+	anxiety WORD[681,   1]: 0.0002959 心許無い
+TOKEN[682]: 0.0002903    1 woman
+	woman WORD[682,   1]: 0.0002903 無塩
+TOKEN[683]: 0.0002850    1 weak
+	weak WORD[683,   1]: 0.0002850 だらし無い
+TOKEN[684]: 0.0002784    1 made
+	made WORD[684,   1]: 0.0002784 無垢
+TOKEN[685]: 0.0002740    1 manner
+	manner WORD[685,   1]: 0.0002740 さり気無い
+TOKEN[686]: 0.0002718    1 rush
+	rush WORD[686,   1]: 0.0002718 遮二無二
+TOKEN[687]: 0.0002595    1 consent
+	consent WORD[687,   1]: 0.0002595 有無
+TOKEN[688]: 0.0002543    1 run
+	run WORD[688,   1]: 0.0002543 無くなる
+TOKEN[689]: 0.0002537    1 appearance
+	appearance WORD[689,   1]: 0.0002537 だらし無い
+TOKEN[690]: 0.0002198    1 someone
+	someone WORD[690,   1]: 0.0002198 無心
+TOKEN[691]: 0.0002163    1 used
+	used WORD[691,   1]: 0.0002163 無くなる
+TOKEN[692]: 0.0002043    1 face
+	face WORD[692,   1]: 0.0002043 形無し
+TOKEN[693]: 0.0001789    1 Japanese
+	Japanese WORD[693,   1]: 0.0001789 寿限無

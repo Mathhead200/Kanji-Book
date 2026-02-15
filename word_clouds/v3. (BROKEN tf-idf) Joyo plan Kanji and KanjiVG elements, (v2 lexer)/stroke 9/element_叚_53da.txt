@@ -1,0 +1,565 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0678097    3 reed           : 葭戸, 葭簀, 葭
+0.0648469   10 shrimp         : 鰕, 兜蝦, 小蝦, 芝蝦, 桜蝦, 車蝦, 糠蝦, 醤蝦, 蝦蛄, 蝦
+0.0520192    3 crayfish       : 鰕, 蝦蟹, 蝦
+0.0511797    5 prawn          : 鰕, 車蝦, 芝蝦, 小蝦, 蝦
+0.0460085    3 lobster        : 鰕, 小蝦, 蝦
+0.0276118    8 mist           : 夏霞, 夕霞, 烟霞, 煙霞, 花霞, 霞網, 霞, 朝霞
+0.0263578    1 sliding        : 葭戸
+0.0251808    1 summer         : 夏霞
+0.0246165    1 screen         : 葭簀
+0.0232154    7 leisure        : 余暇, 暇々, 暇暇, 閑暇, 寸暇, 暇人, 暇
+0.0225915    5 haze           : 夏霞, 春霞, 雲霞, 霞, 朝霞
+0.0222291    7 time           : 暇, 手間暇, 余暇, 暇つぶし, 暇潰し, 暇取る, 暇人
+0.0218925    1 door           : 葭戸
+0.0184478    4 flaw           : 瑕瑾, 瑕釁, 瑕疵, 瑕
+0.0175618    4 defect         : 瑕瑾, 瑕釁, 瑕疵, 瑕
+0.0168605    1 Phragmites     : 葭
+0.0149790    3 scratch        : 瑕, 瑕瑾, 瑕釁
+0.0147684    3 nick           : 瑕瑾, 瑕釁, 瑕
+0.0131064    3 chip           : 瑕瑾, 瑕釁, 瑕
+0.0127119    3 disgrace       : 瑕瑾, 瑕釁, 瑕
+0.0122545    3 fault          : 瑕瑾, 瑕釁, 瑕疵
+0.0116338    1 Vitis          : 蝦蔓
+0.0110277    2 common         : 葭, 霞草
+0.0106651    5 leave          : 請暇, 賜暇, 暇乞, 暇乞い, 暇
+0.0091731    1 grapevine      : 蝦蔓
+0.0091713    2 shame          : 瑕瑾, 瑕釁
+0.0085403    4 species        : 蝦蔓, 蝦根, 蝦蛄, 沖醤蝦
+0.0083118    2 toad           : 蝦蟆, 蝦蟇
+0.0078952    3 absence        : 請暇, 賜暇, 休暇
+0.0077369    1 tadpole        : 兜蝦
+0.0064879    4 one            : 暇, 暇々, 暇暇, 瑕
+0.0064042    2 furlough       : 賜暇, 休暇
+0.0063827    1 hurt           : 瑕
+0.0062899    1 shield         : 兜蝦
+0.0059821    1 evening        : 夕霞
+0.0059048    3 free           : 寸暇, 暇人, 暇
+0.0055698    2 vacation       : 請暇, 暇
+0.0054434    1 request        : 請暇
+0.0053134    2 mysid          : 糠蝦, 醤蝦
+0.0052911    1 kuruma         : 車蝦
+0.0050277    3 government     : 霞が関, 霞ケ関, 霞ヶ関
+0.0049383    1 breath         : 霞草
+0.0049164    1 effort         : 手間暇
+0.0048918    2 opossum        : 糠蝦, 醤蝦
+0.0048561    2 saying         : 暇乞, 暇乞い
+0.0048293    3 work           : 暇乞, 暇乞い, 休暇
+0.0047006    2 spare          : 余暇, 暇
+0.0046377    1 trouble        : 手間暇
+0.0044992    1 mantis         : 蝦蛄
+0.0044595    2 killing        : 暇つぶし, 暇潰し
+0.0043511    6 Japanese       : 車蝦, 蝦蟆, 蝦蟇, 霞が関, 霞ケ関, 霞ヶ関
+0.0040531    4 Japan          : 蝦夷, 霞が関, 霞ケ関, 霞ヶ関
+0.0040094    2 waste          : 暇つぶし, 暇潰し
+0.0039518    2 holiday        : 暇, 休暇
+0.0037731    1 gash           : 瑕
+0.0037294    1 Gypsophila     : 霞草
+0.0037294    1 gypsophila     : 霞草
+0.0037294    1 soaproot       : 霞草
+0.0036868    1 dishonor       : 瑕
+0.0035694    1 breeze         : 夕霞
+0.0034454    1 stain          : 瑕
+0.0034454    1 bruise         : 瑕
+0.0032979    1 scar           : 瑕
+0.0031842    1 weakness       : 瑕
+0.0031842    1 scrape         : 瑕
+0.0031637    1 emotional      : 瑕
+0.0030908    1 clasp          : 蝦蟇口
+0.0030541    1 crack          : 瑕
+0.0029648    1 injury         : 瑕
+0.0029279    1 springtime     : 春霞
+0.0029268    1 wound          : 瑕
+0.0029098    1 loafer         : 暇人
+0.0028875    1 purse          : 蝦蟇口
+0.0028545    1 reputation     : 瑕
+0.0028329    1 idler          : 暇人
+0.0027913    2 day            : 暇, 休暇
+0.0027172    1 weak           : 瑕
+0.0027042    3 bureaucracy    : 霞が関, 霞ケ関, 霞ヶ関
+0.0026925    1 inactive       : 暇
+0.0026423    1 minute         : 寸暇
+0.0026393    1 Stomatopoda    : 蝦蛄
+0.0026393    1 squilla        : 蝦蛄
+0.0025838    3 ministry       : 霞が関, 霞ケ関, 霞ヶ関
+0.0025811    1 coin           : 蝦蟇口
+0.0025106    1 Calanthe       : 蝦根
+0.0024652    1 person         : 暇人
+0.0024038    1 metal          : 蝦蟇口
+0.0023812    1 discolor       : 蝦根
+0.0023755    1 spouse         : 暇
+0.0023349    2 landscape      : 烟霞, 煙霞
+0.0023197    1 firing         : 暇
+0.0022955    1 crustacean     : 蝦蛄
+0.0022798    1 cut            : 瑕
+0.0022070    2 hazy           : 花霞, 霞む
+0.0021969    1 baby           : 霞草
+0.0021912    1 moment         : 寸暇
+0.0021568    1 take           : 暇取る
+0.0021221    1 point          : 瑕
+0.0021091    1 slow           : 暇
+0.0020427    2 smoke          : 烟霞, 煙霞
+0.0020341    1 lot            : 暇人
+0.0019389    3 district       : 霞が関, 霞ケ関, 霞ヶ関
+0.0019309    1 leaving        : 暇
+0.0019207    1 job            : 暇
+0.0018961    1 orchid         : 蝦根
+0.0018954    2 dim            : 霞目, 霞む
+0.0018522    1 northern       : 蝦夷
+0.0018444    2 view           : 烟霞, 煙霞
+0.0018408    1 drove          : 雲霞
+0.0018290    1 tiger          : 車蝦
+0.0018188    2 natural        : 烟霞, 煙霞
+0.0017769    1 marine         : 蝦蛄
+0.0017699    1 Caridea        : 小蝦
+0.0017528    2 sight          : 雲霞, 霞
+0.0017151    1 crab           : 蝦蛄
+0.0016969    1 Euphausiacea   : 沖醤蝦
+0.0016870    1 business       : 暇
+0.0016079    2 small          : 小蝦, 霞網
+0.0015376    1 afar           : 花霞
+0.0014147    1 throng         : 雲霞
+0.0013508    1 swarm          : 雲霞
+0.0013236    1 blindness      : 霞目
+0.0013200    1 something      : 暇
+0.0013168    1 swamp          : 蝦蟹
+0.0013158    1 curtain        : 花霞
+0.0013019    1 flee           : 雲霞
+0.0012950    1 someone        : 暇
+0.0012816    1 eyesight       : 霞目
+0.0012712    1 order          : 蝦蛄
+0.0012635    1 taro           : 蝦芋
+0.0012454    1 mesh           : 霞網
+0.0012411    1 cherry         : 花霞
+0.0011973    1 partial        : 霞目
+0.0011931    1 morning        : 朝霞
+0.0010360    1 net            : 霞網
+0.0010278    1 white          : 花霞
+0.0010215    1 become         : 霞む
+0.0009762    1 fine           : 霞網
+0.0009734    1 dimness        : 霞
+0.0009705    1 variety        : 蝦芋
+0.0009259    1 blurry         : 霞む
+0.0009194    1 wind           : 雲霞
+0.0009145    1 run            : 雲霞
+0.0008764    1 misty          : 霞む
+0.0008556    1 red            : 蝦蟹
+0.0007935    1 people         : 雲霞
+0.0007477    1 family         : 沖醤蝦
+0.0007205    1 glow           : 朝霞
+0.0006350    1 grow           : 霞む
+0.0005623    1 spring         : 霞
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0678097    3 reed
+	reed WORD[ 1,   1]: 0.0275384 葭戸
+	reed WORD[ 1,   2]: 0.0275379 葭簀
+	reed WORD[ 1,   3]: 0.0127335 葭
+TOKEN[ 2]: 0.0648469   10 shrimp
+	shrimp WORD[ 2,   1]: 0.0372596 鰕
+	shrimp WORD[ 2,   2]: 0.0116859 兜蝦
+	shrimp WORD[ 2,   3]: 0.0024700 小蝦
+	shrimp WORD[ 2,   4]: 0.0019753 芝蝦
+	shrimp WORD[ 2,   5]: 0.0019375 桜蝦
+	shrimp WORD[ 2,   6]: 0.0018949 車蝦
+	shrimp WORD[ 2,   7]: 0.0017887 糠蝦
+	shrimp WORD[ 2,   8]: 0.0017887 醤蝦
+	shrimp WORD[ 2,   9]: 0.0017769 蝦蛄
+	shrimp WORD[ 2,  10]: 0.0011347 蝦
+TOKEN[ 3]: 0.0520192    3 crayfish
+	crayfish WORD[ 3,   1]: 0.0463703 鰕
+	crayfish WORD[ 3,   2]: 0.0028244 蝦蟹
+	crayfish WORD[ 3,   3]: 0.0014122 蝦
+TOKEN[ 4]: 0.0511797    5 prawn
+	prawn WORD[ 4,   1]: 0.0409836 鰕
+	prawn WORD[ 4,   2]: 0.0041686 車蝦
+	prawn WORD[ 4,   3]: 0.0021727 芝蝦
+	prawn WORD[ 4,   4]: 0.0013584 小蝦
+	prawn WORD[ 4,   5]: 0.0012482 蝦
+TOKEN[ 5]: 0.0460085    3 lobster
+	lobster WORD[ 5,   1]: 0.0420531 鰕
+	lobster WORD[ 5,   2]: 0.0013939 小蝦
+	lobster WORD[ 5,   3]: 0.0012807 蝦
+TOKEN[ 6]: 0.0276118    8 mist
+	mist WORD[ 6,   1]: 0.0154037 夏霞
+	mist WORD[ 6,   2]: 0.0035068 夕霞
+	mist WORD[ 6,   3]: 0.0023251 烟霞
+	mist WORD[ 6,   4]: 0.0023251 煙霞
+	mist WORD[ 6,   5]: 0.0013974 花霞
+	mist WORD[ 6,   6]: 0.0011923 霞網
+	mist WORD[ 6,   7]: 0.0007605 霞
+	mist WORD[ 6,   8]: 0.0007009 朝霞
+TOKEN[ 7]: 0.0263578    1 sliding
+	sliding WORD[ 7,   1]: 0.0263578 葭戸
+TOKEN[ 8]: 0.0251808    1 summer
+	summer WORD[ 8,   1]: 0.0251808 夏霞
+TOKEN[ 9]: 0.0246165    1 screen
+	screen WORD[ 9,   1]: 0.0246165 葭簀
+TOKEN[10]: 0.0232154    7 leisure
+	leisure WORD[10,   1]: 0.0054176 余暇
+	leisure WORD[10,   2]: 0.0035739 暇々
+	leisure WORD[10,   3]: 0.0035739 暇暇
+	leisure WORD[10,   4]: 0.0029541 閑暇
+	leisure WORD[10,   5]: 0.0028072 寸暇
+	leisure WORD[10,   6]: 0.0024444 暇人
+	leisure WORD[10,   7]: 0.0024444 暇
+TOKEN[11]: 0.0225915    5 haze
+	haze WORD[11,   1]: 0.0168789 夏霞
+	haze WORD[11,   2]: 0.0027661 春霞
+	haze WORD[11,   3]: 0.0013451 雲霞
+	haze WORD[11,   4]: 0.0008333 霞
+	haze WORD[11,   5]: 0.0007681 朝霞
+TOKEN[12]: 0.0222291    7 time
+	time WORD[12,   1]: 0.0069210 暇
+	time WORD[12,   2]: 0.0032955 手間暇
+	time WORD[12,   3]: 0.0030679 余暇
+	time WORD[12,   4]: 0.0027685 暇つぶし
+	time WORD[12,   5]: 0.0027685 暇潰し
+	time WORD[12,   6]: 0.0020235 暇取る
+	time WORD[12,   7]: 0.0013842 暇人
+TOKEN[13]: 0.0218925    1 door
+	door WORD[13,   1]: 0.0218925 葭戸
+TOKEN[14]: 0.0184478    4 flaw
+	flaw WORD[14,   1]: 0.0051049 瑕瑾
+	flaw WORD[14,   2]: 0.0051049 瑕釁
+	flaw WORD[14,   3]: 0.0049004 瑕疵
+	flaw WORD[14,   4]: 0.0033376 瑕
+TOKEN[15]: 0.0175618    4 defect
+	defect WORD[15,   1]: 0.0048598 瑕瑾
+	defect WORD[15,   2]: 0.0048597 瑕釁
+	defect WORD[15,   3]: 0.0046650 瑕疵
+	defect WORD[15,   4]: 0.0031773 瑕
+TOKEN[16]: 0.0168605    1 Phragmites
+	Phragmites WORD[16,   1]: 0.0168605 葭
+TOKEN[17]: 0.0149790    3 scratch
+	scratch WORD[17,   1]: 0.0059216 瑕
+	scratch WORD[17,   2]: 0.0045287 瑕瑾
+	scratch WORD[17,   3]: 0.0045287 瑕釁
+TOKEN[18]: 0.0147684    3 nick
+	nick WORD[18,   1]: 0.0055650 瑕瑾
+	nick WORD[18,   2]: 0.0055650 瑕釁
+	nick WORD[18,   3]: 0.0036384 瑕
+TOKEN[19]: 0.0131064    3 chip
+	chip WORD[19,   1]: 0.0049387 瑕瑾
+	chip WORD[19,   2]: 0.0049387 瑕釁
+	chip WORD[19,   3]: 0.0032289 瑕
+TOKEN[20]: 0.0127119    3 disgrace
+	disgrace WORD[20,   1]: 0.0047901 瑕瑾
+	disgrace WORD[20,   2]: 0.0047901 瑕釁
+	disgrace WORD[20,   3]: 0.0031317 瑕
+TOKEN[21]: 0.0122545    3 fault
+	fault WORD[21,   1]: 0.0041401 瑕瑾
+	fault WORD[21,   2]: 0.0041401 瑕釁
+	fault WORD[21,   3]: 0.0039743 瑕疵
+TOKEN[22]: 0.0116338    1 Vitis
+	Vitis WORD[22,   1]: 0.0116338 蝦蔓
+TOKEN[23]: 0.0110277    2 common
+	common WORD[23,   1]: 0.0091296 葭
+	common WORD[23,   2]: 0.0018982 霞草
+TOKEN[24]: 0.0106651    5 leave
+	leave WORD[24,   1]: 0.0023578 請暇
+	leave WORD[24,   2]: 0.0022878 賜暇
+	leave WORD[24,   3]: 0.0021102 暇乞
+	leave WORD[24,   4]: 0.0021102 暇乞い
+	leave WORD[24,   5]: 0.0017990 暇
+TOKEN[25]: 0.0091731    1 grapevine
+	grapevine WORD[25,   1]: 0.0091731 蝦蔓
+TOKEN[26]: 0.0091713    2 shame
+	shame WORD[26,   1]: 0.0045857 瑕瑾
+	shame WORD[26,   2]: 0.0045857 瑕釁
+TOKEN[27]: 0.0085403    4 species
+	species WORD[27,   1]: 0.0053300 蝦蔓
+	species WORD[27,   2]: 0.0012237 蝦根
+	species WORD[27,   3]: 0.0012092 蝦蛄
+	species WORD[27,   4]: 0.0007774 沖醤蝦
+TOKEN[28]: 0.0083118    2 toad
+	toad WORD[28,   1]: 0.0042119 蝦蟆
+	toad WORD[28,   2]: 0.0040999 蝦蟇
+TOKEN[29]: 0.0078952    3 absence
+	absence WORD[29,   1]: 0.0030722 請暇
+	absence WORD[29,   2]: 0.0029810 賜暇
+	absence WORD[29,   3]: 0.0018420 休暇
+TOKEN[30]: 0.0077369    1 tadpole
+	tadpole WORD[30,   1]: 0.0077369 兜蝦
+TOKEN[31]: 0.0064879    4 one
+	one WORD[31,   1]: 0.0026864 暇
+	one WORD[31,   2]: 0.0013093 暇々
+	one WORD[31,   3]: 0.0013093 暇暇
+	one WORD[31,   4]: 0.0011829 瑕
+TOKEN[32]: 0.0064042    2 furlough
+	furlough WORD[32,   1]: 0.0039584 賜暇
+	furlough WORD[32,   2]: 0.0024458 休暇
+TOKEN[33]: 0.0063827    1 hurt
+	hurt WORD[33,   1]: 0.0063827 瑕
+TOKEN[34]: 0.0062899    1 shield
+	shield WORD[34,   1]: 0.0062899 兜蝦
+TOKEN[35]: 0.0059821    1 evening
+	evening WORD[35,   1]: 0.0059821 夕霞
+TOKEN[36]: 0.0059048    3 free
+	free WORD[36,   1]: 0.0021538 寸暇
+	free WORD[36,   2]: 0.0018755 暇人
+	free WORD[36,   3]: 0.0018755 暇
+TOKEN[37]: 0.0055698    2 vacation
+	vacation WORD[37,   1]: 0.0031592 請暇
+	vacation WORD[37,   2]: 0.0024105 暇
+TOKEN[38]: 0.0054434    1 request
+	request WORD[38,   1]: 0.0054434 請暇
+TOKEN[39]: 0.0053134    2 mysid
+	mysid WORD[39,   1]: 0.0026567 糠蝦
+	mysid WORD[39,   2]: 0.0026567 醤蝦
+TOKEN[40]: 0.0052911    1 kuruma
+	kuruma WORD[40,   1]: 0.0052911 車蝦
+TOKEN[41]: 0.0050277    3 government
+	government WORD[41,   1]: 0.0016759 霞が関
+	government WORD[41,   2]: 0.0016759 霞ケ関
+	government WORD[41,   3]: 0.0016759 霞ヶ関
+TOKEN[42]: 0.0049383    1 breath
+	breath WORD[42,   1]: 0.0049383 霞草
+TOKEN[43]: 0.0049164    1 effort
+	effort WORD[43,   1]: 0.0049164 手間暇
+TOKEN[44]: 0.0048918    2 opossum
+	opossum WORD[44,   1]: 0.0024459 糠蝦
+	opossum WORD[44,   2]: 0.0024459 醤蝦
+TOKEN[45]: 0.0048561    2 saying
+	saying WORD[45,   1]: 0.0024280 暇乞
+	saying WORD[45,   2]: 0.0024280 暇乞い
+TOKEN[46]: 0.0048293    3 work
+	work WORD[46,   1]: 0.0018088 暇乞
+	work WORD[46,   2]: 0.0018088 暇乞い
+	work WORD[46,   3]: 0.0012117 休暇
+TOKEN[47]: 0.0047006    2 spare
+	spare WORD[47,   1]: 0.0024709 余暇
+	spare WORD[47,   2]: 0.0022297 暇
+TOKEN[48]: 0.0046377    1 trouble
+	trouble WORD[48,   1]: 0.0046377 手間暇
+TOKEN[49]: 0.0044992    1 mantis
+	mantis WORD[49,   1]: 0.0044992 蝦蛄
+TOKEN[50]: 0.0044595    2 killing
+	killing WORD[50,   1]: 0.0022298 暇つぶし
+	killing WORD[50,   2]: 0.0022298 暇潰し
+TOKEN[51]: 0.0043511    6 Japanese
+	Japanese WORD[51,   1]: 0.0010676 車蝦
+	Japanese WORD[51,   2]: 0.0010436 蝦蟆
+	Japanese WORD[51,   3]: 0.0010158 蝦蟇
+	Japanese WORD[51,   4]: 0.0004081 霞が関
+	Japanese WORD[51,   5]: 0.0004081 霞ケ関
+	Japanese WORD[51,   6]: 0.0004081 霞ヶ関
+TOKEN[52]: 0.0040531    4 Japan
+	Japan WORD[52,   1]: 0.0012425 蝦夷
+	Japan WORD[52,   2]: 0.0009369 霞が関
+	Japan WORD[52,   3]: 0.0009369 霞ケ関
+	Japan WORD[52,   4]: 0.0009369 霞ヶ関
+TOKEN[53]: 0.0040094    2 waste
+	waste WORD[53,   1]: 0.0020047 暇つぶし
+	waste WORD[53,   2]: 0.0020047 暇潰し
+TOKEN[54]: 0.0039518    2 holiday
+	holiday WORD[54,   1]: 0.0022130 暇
+	holiday WORD[54,   2]: 0.0017389 休暇
+TOKEN[55]: 0.0037731    1 gash
+	gash WORD[55,   1]: 0.0037731 瑕
+TOKEN[56]: 0.0037294    1 Gypsophila
+	Gypsophila WORD[56,   1]: 0.0037294 霞草
+TOKEN[57]: 0.0037294    1 gypsophila
+	gypsophila WORD[57,   1]: 0.0037294 霞草
+TOKEN[58]: 0.0037294    1 soaproot
+	soaproot WORD[58,   1]: 0.0037294 霞草
+TOKEN[59]: 0.0036868    1 dishonor
+	dishonor WORD[59,   1]: 0.0036868 瑕
+TOKEN[60]: 0.0035694    1 breeze
+	breeze WORD[60,   1]: 0.0035694 夕霞
+TOKEN[61]: 0.0034454    1 stain
+	stain WORD[61,   1]: 0.0034454 瑕
+TOKEN[62]: 0.0034454    1 bruise
+	bruise WORD[62,   1]: 0.0034454 瑕
+TOKEN[63]: 0.0032979    1 scar
+	scar WORD[63,   1]: 0.0032979 瑕
+TOKEN[64]: 0.0031842    1 weakness
+	weakness WORD[64,   1]: 0.0031842 瑕
+TOKEN[65]: 0.0031842    1 scrape
+	scrape WORD[65,   1]: 0.0031842 瑕
+TOKEN[66]: 0.0031637    1 emotional
+	emotional WORD[66,   1]: 0.0031637 瑕
+TOKEN[67]: 0.0030908    1 clasp
+	clasp WORD[67,   1]: 0.0030908 蝦蟇口
+TOKEN[68]: 0.0030541    1 crack
+	crack WORD[68,   1]: 0.0030541 瑕
+TOKEN[69]: 0.0029648    1 injury
+	injury WORD[69,   1]: 0.0029648 瑕
+TOKEN[70]: 0.0029279    1 springtime
+	springtime WORD[70,   1]: 0.0029279 春霞
+TOKEN[71]: 0.0029268    1 wound
+	wound WORD[71,   1]: 0.0029268 瑕
+TOKEN[72]: 0.0029098    1 loafer
+	loafer WORD[72,   1]: 0.0029098 暇人
+TOKEN[73]: 0.0028875    1 purse
+	purse WORD[73,   1]: 0.0028875 蝦蟇口
+TOKEN[74]: 0.0028545    1 reputation
+	reputation WORD[74,   1]: 0.0028545 瑕
+TOKEN[75]: 0.0028329    1 idler
+	idler WORD[75,   1]: 0.0028329 暇人
+TOKEN[76]: 0.0027913    2 day
+	day WORD[76,   1]: 0.0015631 暇
+	day WORD[76,   2]: 0.0012282 休暇
+TOKEN[77]: 0.0027172    1 weak
+	weak WORD[77,   1]: 0.0027172 瑕
+TOKEN[78]: 0.0027042    3 bureaucracy
+	bureaucracy WORD[78,   1]: 0.0009014 霞が関
+	bureaucracy WORD[78,   2]: 0.0009014 霞ケ関
+	bureaucracy WORD[78,   3]: 0.0009014 霞ヶ関
+TOKEN[79]: 0.0026925    1 inactive
+	inactive WORD[79,   1]: 0.0026925 暇
+TOKEN[80]: 0.0026423    1 minute
+	minute WORD[80,   1]: 0.0026423 寸暇
+TOKEN[81]: 0.0026393    1 Stomatopoda
+	Stomatopoda WORD[81,   1]: 0.0026393 蝦蛄
+TOKEN[82]: 0.0026393    1 squilla
+	squilla WORD[82,   1]: 0.0026393 蝦蛄
+TOKEN[83]: 0.0025838    3 ministry
+	ministry WORD[83,   1]: 0.0008613 霞が関
+	ministry WORD[83,   2]: 0.0008613 霞ケ関
+	ministry WORD[83,   3]: 0.0008613 霞ヶ関
+TOKEN[84]: 0.0025811    1 coin
+	coin WORD[84,   1]: 0.0025811 蝦蟇口
+TOKEN[85]: 0.0025106    1 Calanthe
+	Calanthe WORD[85,   1]: 0.0025106 蝦根
+TOKEN[86]: 0.0024652    1 person
+	person WORD[86,   1]: 0.0024652 暇人
+TOKEN[87]: 0.0024038    1 metal
+	metal WORD[87,   1]: 0.0024038 蝦蟇口
+TOKEN[88]: 0.0023812    1 discolor
+	discolor WORD[88,   1]: 0.0023812 蝦根
+TOKEN[89]: 0.0023755    1 spouse
+	spouse WORD[89,   1]: 0.0023755 暇
+TOKEN[90]: 0.0023349    2 landscape
+	landscape WORD[90,   1]: 0.0011675 烟霞
+	landscape WORD[90,   2]: 0.0011675 煙霞
+TOKEN[91]: 0.0023197    1 firing
+	firing WORD[91,   1]: 0.0023197 暇
+TOKEN[92]: 0.0022955    1 crustacean
+	crustacean WORD[92,   1]: 0.0022955 蝦蛄
+TOKEN[93]: 0.0022798    1 cut
+	cut WORD[93,   1]: 0.0022798 瑕
+TOKEN[94]: 0.0022070    2 hazy
+	hazy WORD[94,   1]: 0.0014292 花霞
+	hazy WORD[94,   2]: 0.0007778 霞む
+TOKEN[95]: 0.0021969    1 baby
+	baby WORD[95,   1]: 0.0021969 霞草
+TOKEN[96]: 0.0021912    1 moment
+	moment WORD[96,   1]: 0.0021912 寸暇
+TOKEN[97]: 0.0021568    1 take
+	take WORD[97,   1]: 0.0021568 暇取る
+TOKEN[98]: 0.0021221    1 point
+	point WORD[98,   1]: 0.0021221 瑕
+TOKEN[99]: 0.0021091    1 slow
+	slow WORD[99,   1]: 0.0021091 暇
+TOKEN[100]: 0.0020427    2 smoke
+	smoke WORD[100,   1]: 0.0010214 烟霞
+	smoke WORD[100,   2]: 0.0010214 煙霞
+TOKEN[101]: 0.0020341    1 lot
+	lot WORD[101,   1]: 0.0020341 暇人
+TOKEN[102]: 0.0019389    3 district
+	district WORD[102,   1]: 0.0006463 霞が関
+	district WORD[102,   2]: 0.0006463 霞ケ関
+	district WORD[102,   3]: 0.0006463 霞ヶ関
+TOKEN[103]: 0.0019309    1 leaving
+	leaving WORD[103,   1]: 0.0019309 暇
+TOKEN[104]: 0.0019207    1 job
+	job WORD[104,   1]: 0.0019207 暇
+TOKEN[105]: 0.0018961    1 orchid
+	orchid WORD[105,   1]: 0.0018961 蝦根
+TOKEN[106]: 0.0018954    2 dim
+	dim WORD[106,   1]: 0.0011572 霞目
+	dim WORD[106,   2]: 0.0007381 霞む
+TOKEN[107]: 0.0018522    1 northern
+	northern WORD[107,   1]: 0.0018522 蝦夷
+TOKEN[108]: 0.0018444    2 view
+	view WORD[108,   1]: 0.0009222 烟霞
+	view WORD[108,   2]: 0.0009222 煙霞
+TOKEN[109]: 0.0018408    1 drove
+	drove WORD[109,   1]: 0.0018408 雲霞
+TOKEN[110]: 0.0018290    1 tiger
+	tiger WORD[110,   1]: 0.0018290 車蝦
+TOKEN[111]: 0.0018188    2 natural
+	natural WORD[111,   1]: 0.0009094 烟霞
+	natural WORD[111,   2]: 0.0009094 煙霞
+TOKEN[112]: 0.0017769    1 marine
+	marine WORD[112,   1]: 0.0017769 蝦蛄
+TOKEN[113]: 0.0017699    1 Caridea
+	Caridea WORD[113,   1]: 0.0017699 小蝦
+TOKEN[114]: 0.0017528    2 sight
+	sight WORD[114,   1]: 0.0010823 雲霞
+	sight WORD[114,   2]: 0.0006705 霞
+TOKEN[115]: 0.0017151    1 crab
+	crab WORD[115,   1]: 0.0017151 蝦蛄
+TOKEN[116]: 0.0016969    1 Euphausiacea
+	Euphausiacea WORD[116,   1]: 0.0016969 沖醤蝦
+TOKEN[117]: 0.0016870    1 business
+	business WORD[117,   1]: 0.0016870 暇
+TOKEN[118]: 0.0016079    2 small
+	small WORD[118,   1]: 0.0008377 小蝦
+	small WORD[118,   2]: 0.0007702 霞網
+TOKEN[119]: 0.0015376    1 afar
+	afar WORD[119,   1]: 0.0015376 花霞
+TOKEN[120]: 0.0014147    1 throng
+	throng WORD[120,   1]: 0.0014147 雲霞
+TOKEN[121]: 0.0013508    1 swarm
+	swarm WORD[121,   1]: 0.0013508 雲霞
+TOKEN[122]: 0.0013236    1 blindness
+	blindness WORD[122,   1]: 0.0013236 霞目
+TOKEN[123]: 0.0013200    1 something
+	something WORD[123,   1]: 0.0013200 暇
+TOKEN[124]: 0.0013168    1 swamp
+	swamp WORD[124,   1]: 0.0013168 蝦蟹
+TOKEN[125]: 0.0013158    1 curtain
+	curtain WORD[125,   1]: 0.0013158 花霞
+TOKEN[126]: 0.0013019    1 flee
+	flee WORD[126,   1]: 0.0013019 雲霞
+TOKEN[127]: 0.0012950    1 someone
+	someone WORD[127,   1]: 0.0012950 暇
+TOKEN[128]: 0.0012816    1 eyesight
+	eyesight WORD[128,   1]: 0.0012816 霞目
+TOKEN[129]: 0.0012712    1 order
+	order WORD[129,   1]: 0.0012712 蝦蛄
+TOKEN[130]: 0.0012635    1 taro
+	taro WORD[130,   1]: 0.0012635 蝦芋
+TOKEN[131]: 0.0012454    1 mesh
+	mesh WORD[131,   1]: 0.0012454 霞網
+TOKEN[132]: 0.0012411    1 cherry
+	cherry WORD[132,   1]: 0.0012411 花霞
+TOKEN[133]: 0.0011973    1 partial
+	partial WORD[133,   1]: 0.0011973 霞目
+TOKEN[134]: 0.0011931    1 morning
+	morning WORD[134,   1]: 0.0011931 朝霞
+TOKEN[135]: 0.0010360    1 net
+	net WORD[135,   1]: 0.0010360 霞網
+TOKEN[136]: 0.0010278    1 white
+	white WORD[136,   1]: 0.0010278 花霞
+TOKEN[137]: 0.0010215    1 become
+	become WORD[137,   1]: 0.0010215 霞む
+TOKEN[138]: 0.0009762    1 fine
+	fine WORD[138,   1]: 0.0009762 霞網
+TOKEN[139]: 0.0009734    1 dimness
+	dimness WORD[139,   1]: 0.0009734 霞
+TOKEN[140]: 0.0009705    1 variety
+	variety WORD[140,   1]: 0.0009705 蝦芋
+TOKEN[141]: 0.0009259    1 blurry
+	blurry WORD[141,   1]: 0.0009259 霞む
+TOKEN[142]: 0.0009194    1 wind
+	wind WORD[142,   1]: 0.0009194 雲霞
+TOKEN[143]: 0.0009145    1 run
+	run WORD[143,   1]: 0.0009145 雲霞
+TOKEN[144]: 0.0008764    1 misty
+	misty WORD[144,   1]: 0.0008764 霞む
+TOKEN[145]: 0.0008556    1 red
+	red WORD[145,   1]: 0.0008556 蝦蟹
+TOKEN[146]: 0.0007935    1 people
+	people WORD[146,   1]: 0.0007935 雲霞
+TOKEN[147]: 0.0007477    1 family
+	family WORD[147,   1]: 0.0007477 沖醤蝦
+TOKEN[148]: 0.0007205    1 glow
+	glow WORD[148,   1]: 0.0007205 朝霞
+TOKEN[149]: 0.0006350    1 grow
+	grow WORD[149,   1]: 0.0006350 霞む
+TOKEN[150]: 0.0005623    1 spring
+	spring WORD[150,   1]: 0.0005623 霞

@@ -1,0 +1,348 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0895207    2 profusion      : 撩乱, 繚乱
+0.0809533    2 blooming       : 撩乱, 繚乱
+0.0517482    2 great          : 撩乱, 繚乱
+0.0448057    1 Troglodytes    : 鷦鷯
+0.0404175    1 wren           : 鷦鷯
+0.0350268    2 Khitan         : 西遼, 遼
+0.0302981   11 treatment      : 受療, 施療, 療病, 物療, 療養, 療法, 療治, 治療, 診療, 加療, ...
+0.0277764    2 evident        : 瞭然, 明瞭
+0.0265204    1 empire         : 西遼
+0.0258879    1 winter         : 鷦鷯
+0.0249222    3 consort        : 僚機, 僚船, 僚艦
+0.0248847    2 obvious        : 瞭然, 明瞭
+0.0213915    8 medical        : 受療, 療病, 医療, 療養, 治療, 施療, 診療, 加療
+0.0201416    1 bonfire        : 庭燎
+0.0195420    1 Asian          : 西遼
+0.0190339    2 clear          : 瞭然, 明瞭
+0.0165942    1 grounds        : 庭燎
+0.0159627    2 madam          : ご寮人, 御寮人
+0.0158678    1 articulate     : 明瞭
+0.0147304   10 dormitory      : 寮棟, 退寮, 寮長, 全寮, 寮舎, 寮歌, 寮費, 寮, 入寮, 学寮
+0.0146466    1 garden         : 庭燎
+0.0142291    2 system         : 大炊寮, 寮
+0.0133526    1 imperial       : 庭燎
+0.0131477    1 distinct       : 明瞭
+0.0128367    2 mistress       : ご寮人, 御寮人
+0.0120931    4 cure           : 療病, 療法, 療治, 治療
+0.0112992    1 ablaze         : 燎原
+0.0106309    2 ship           : 僚船, 僚艦
+0.0104282    2 colleague      : 僚友, 同僚
+0.0104007    1 plain          : 明瞭
+0.0091363    3 therapy        : 療法, 療治, 治療
+0.0086526    1 remote         : 遼遠
+0.0083977    1 plane          : 僚機
+0.0083877    1 agricultural   : 燎原
+0.0083820    1 staff          : 幕僚
+0.0080769    1 Empire         : 遼
+0.0076818    1 Manchurian     : 遼
+0.0073387    1 burning        : 燎原
+0.0072358    2 official       : 属僚, 官僚
+0.0068261    1 one            : 庭燎
+0.0066017    1 setting        : 燎原
+0.0062161    1 subordinate    : 属僚
+0.0059227    1 field          : 燎原
+0.0057868    3 dorm           : 寮監, 寮父, 寮母
+0.0056206    1 comrade        : 僚友
+0.0056106    1 dynasty        : 遼
+0.0054812    2 remedy         : 療法, 治療
+0.0054784    1 petty          : 下僚
+0.0052467    1 physiotherapy  : 物療
+0.0051673    3 care           : 治療, 診療, 医療
+0.0049612    1 bureaucrat     : 官僚
+0.0046708    2 housefather    : 寮監, 寮父
+0.0043122    1 officer        : 幕僚
+0.0042494    1 bureaucracy    : 官僚
+0.0041206    1 associate      : 同僚
+0.0037104    2 government     : 官僚, 寮
+0.0036977    2 housemother    : 寮監, 寮母
+0.0035465    1 cabinet        : 閣僚
+0.0033395    1 physical       : 物療
+0.0033252    1 recuperation   : 療養
+0.0032578    1 disabled       : 療育
+0.0029034    1 gratuitous     : 施療
+0.0028520    1 education      : 療育
+0.0026455    2 hostel         : 寮, 学寮
+0.0025099    1 diagnosis      : 診療
+0.0025046    1 housemaster    : 寮監
+0.0023399    1 support        : 療育
+0.0020701    1 advisor        : 寮監
+0.0019488    1 hall           : 寮棟
+0.0018438    2 moving         : 退寮, 入寮
+0.0017693    1 free           : 施療
+0.0017687    1 resident       : 寮監
+0.0017546    2 room           : 茶寮, 寮
+0.0016311    1 parent         : 寮監
+0.0016152    1 villa          : 寮
+0.0015946    1 building       : 寮棟
+0.0015885    1 bureau         : 寮
+0.0015764    1 ministry       : 寮
+0.0015709    1 father         : 寮父
+0.0015176    2 boarding       : 寮費, 寮生
+0.0014008    1 department     : 寮
+0.0011085    2 student        : 寮生, 学寮
+0.0010474    1 boarder        : 寮生
+0.0010008    1 hut            : 茶寮
+0.0008962    1 mother         : 寮母
+0.0008848    1 coffee         : 茶寮
+0.0008657    1 superintendent : 寮長
+0.0007954    1 restaurant     : 茶寮
+0.0007938    1 song           : 寮歌
+0.0007432    1 lodging        : 寮費
+0.0007369    1 shop           : 茶寮
+0.0006371    1 leader         : 寮長
+0.0005646    1 charge         : 寮費
+0.0005598    1 factory        : 学寮
+0.0004300    1 whole          : 全寮
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0895207    2 profusion
+	profusion WORD[ 1,   1]: 0.0447603 撩乱
+	profusion WORD[ 1,   2]: 0.0447603 繚乱
+TOKEN[ 2]: 0.0809533    2 blooming
+	blooming WORD[ 2,   1]: 0.0404767 撩乱
+	blooming WORD[ 2,   2]: 0.0404767 繚乱
+TOKEN[ 3]: 0.0517482    2 great
+	great WORD[ 3,   1]: 0.0258741 撩乱
+	great WORD[ 3,   2]: 0.0258741 繚乱
+TOKEN[ 4]: 0.0448057    1 Troglodytes
+	Troglodytes WORD[ 4,   1]: 0.0448057 鷦鷯
+TOKEN[ 5]: 0.0404175    1 wren
+	wren WORD[ 5,   1]: 0.0404175 鷦鷯
+TOKEN[ 6]: 0.0350268    2 Khitan
+	Khitan WORD[ 6,   1]: 0.0265204 西遼
+	Khitan WORD[ 6,   2]: 0.0085064 遼
+TOKEN[ 7]: 0.0302981   11 treatment
+	treatment WORD[ 7,   1]: 0.0042864 受療
+	treatment WORD[ 7,   2]: 0.0039301 施療
+	treatment WORD[ 7,   3]: 0.0035548 療病
+	treatment WORD[ 7,   4]: 0.0033317 物療
+	treatment WORD[ 7,   5]: 0.0025920 療養
+	treatment WORD[ 7,   6]: 0.0025919 療法
+	treatment WORD[ 7,   7]: 0.0025914 療治
+	treatment WORD[ 7,   8]: 0.0020314 治療
+	treatment WORD[ 7,   9]: 0.0019283 診療
+	treatment WORD[ 7,  10]: 0.0017877 加療
+	treatment WORD[ 7,  11]: 0.0016724 医療
+TOKEN[ 8]: 0.0277764    2 evident
+	evident WORD[ 8,   1]: 0.0142080 瞭然
+	evident WORD[ 8,   2]: 0.0135684 明瞭
+TOKEN[ 9]: 0.0265204    1 empire
+	empire WORD[ 9,   1]: 0.0265204 西遼
+TOKEN[10]: 0.0258879    1 winter
+	winter WORD[10,   1]: 0.0258879 鷦鷯
+TOKEN[11]: 0.0249222    3 consort
+	consort WORD[11,   1]: 0.0094757 僚機
+	consort WORD[11,   2]: 0.0077244 僚船
+	consort WORD[11,   3]: 0.0077222 僚艦
+TOKEN[12]: 0.0248847    2 obvious
+	obvious WORD[12,   1]: 0.0127289 瞭然
+	obvious WORD[12,   2]: 0.0121558 明瞭
+TOKEN[13]: 0.0213915    8 medical
+	medical WORD[13,   1]: 0.0042666 受療
+	medical WORD[13,   2]: 0.0035384 療病
+	medical WORD[13,   3]: 0.0033294 医療
+	medical WORD[13,   4]: 0.0025801 療養
+	medical WORD[13,   5]: 0.0020220 治療
+	medical WORD[13,   6]: 0.0019560 施療
+	medical WORD[13,   7]: 0.0019194 診療
+	medical WORD[13,   8]: 0.0017795 加療
+TOKEN[14]: 0.0201416    1 bonfire
+	bonfire WORD[14,   1]: 0.0201416 庭燎
+TOKEN[15]: 0.0195420    1 Asian
+	Asian WORD[15,   1]: 0.0195420 西遼
+TOKEN[16]: 0.0190339    2 clear
+	clear WORD[16,   1]: 0.0097361 瞭然
+	clear WORD[16,   2]: 0.0092978 明瞭
+TOKEN[17]: 0.0165942    1 grounds
+	grounds WORD[17,   1]: 0.0165942 庭燎
+TOKEN[18]: 0.0159627    2 madam
+	madam WORD[18,   1]: 0.0079815 ご寮人
+	madam WORD[18,   2]: 0.0079812 御寮人
+TOKEN[19]: 0.0158678    1 articulate
+	articulate WORD[19,   1]: 0.0158678 明瞭
+TOKEN[20]: 0.0147304   10 dormitory
+	dormitory WORD[20,   1]: 0.0045660 寮棟
+	dormitory WORD[20,   2]: 0.0017134 退寮
+	dormitory WORD[20,   3]: 0.0015657 寮長
+	dormitory WORD[20,   4]: 0.0011891 全寮
+	dormitory WORD[20,   5]: 0.0010736 寮舎
+	dormitory WORD[20,   6]: 0.0010734 寮歌
+	dormitory WORD[20,   7]: 0.0007829 寮費
+	dormitory WORD[20,   8]: 0.0007826 寮
+	dormitory WORD[20,   9]: 0.0006587 入寮
+	dormitory WORD[20,  10]: 0.0005425 学寮
+TOKEN[21]: 0.0146466    1 garden
+	garden WORD[21,   1]: 0.0146466 庭燎
+TOKEN[22]: 0.0142291    2 system
+	system WORD[22,   1]: 0.0130916 大炊寮
+	system WORD[22,   2]: 0.0005687 寮
+TOKEN[23]: 0.0133526    1 imperial
+	imperial WORD[23,   1]: 0.0133526 庭燎
+TOKEN[24]: 0.0131477    1 distinct
+	distinct WORD[24,   1]: 0.0131477 明瞭
+TOKEN[25]: 0.0128367    2 mistress
+	mistress WORD[25,   1]: 0.0064184 ご寮人
+	mistress WORD[25,   2]: 0.0064182 御寮人
+TOKEN[26]: 0.0120931    4 cure
+	cure WORD[26,   1]: 0.0039917 療病
+	cure WORD[26,   2]: 0.0029105 療法
+	cure WORD[26,   3]: 0.0029099 療治
+	cure WORD[26,   4]: 0.0022810 治療
+TOKEN[27]: 0.0112992    1 ablaze
+	ablaze WORD[27,   1]: 0.0112992 燎原
+TOKEN[28]: 0.0106309    2 ship
+	ship WORD[28,   1]: 0.0053162 僚船
+	ship WORD[28,   2]: 0.0053147 僚艦
+TOKEN[29]: 0.0104282    2 colleague
+	colleague WORD[29,   1]: 0.0057787 僚友
+	colleague WORD[29,   2]: 0.0046495 同僚
+TOKEN[30]: 0.0104007    1 plain
+	plain WORD[30,   1]: 0.0104007 明瞭
+TOKEN[31]: 0.0091363    3 therapy
+	therapy WORD[31,   1]: 0.0032822 療法
+	therapy WORD[31,   2]: 0.0032816 療治
+	therapy WORD[31,   3]: 0.0025724 治療
+TOKEN[32]: 0.0086526    1 remote
+	remote WORD[32,   1]: 0.0086526 遼遠
+TOKEN[33]: 0.0083977    1 plane
+	plane WORD[33,   1]: 0.0083977 僚機
+TOKEN[34]: 0.0083877    1 agricultural
+	agricultural WORD[34,   1]: 0.0083877 燎原
+TOKEN[35]: 0.0083820    1 staff
+	staff WORD[35,   1]: 0.0083820 幕僚
+TOKEN[36]: 0.0080769    1 Empire
+	Empire WORD[36,   1]: 0.0080769 遼
+TOKEN[37]: 0.0076818    1 Manchurian
+	Manchurian WORD[37,   1]: 0.0076818 遼
+TOKEN[38]: 0.0073387    1 burning
+	burning WORD[38,   1]: 0.0073387 燎原
+TOKEN[39]: 0.0072358    2 official
+	official WORD[39,   1]: 0.0046353 属僚
+	official WORD[39,   2]: 0.0026005 官僚
+TOKEN[40]: 0.0068261    1 one
+	one WORD[40,   1]: 0.0068261 庭燎
+TOKEN[41]: 0.0066017    1 setting
+	setting WORD[41,   1]: 0.0066017 燎原
+TOKEN[42]: 0.0062161    1 subordinate
+	subordinate WORD[42,   1]: 0.0062161 属僚
+TOKEN[43]: 0.0059227    1 field
+	field WORD[43,   1]: 0.0059227 燎原
+TOKEN[44]: 0.0057868    3 dorm
+	dorm WORD[44,   1]: 0.0022593 寮監
+	dorm WORD[44,   2]: 0.0022315 寮父
+	dorm WORD[44,   3]: 0.0012959 寮母
+TOKEN[45]: 0.0056206    1 comrade
+	comrade WORD[45,   1]: 0.0056206 僚友
+TOKEN[46]: 0.0056106    1 dynasty
+	dynasty WORD[46,   1]: 0.0056106 遼
+TOKEN[47]: 0.0054812    2 remedy
+	remedy WORD[47,   1]: 0.0030729 療法
+	remedy WORD[47,   2]: 0.0024083 治療
+TOKEN[48]: 0.0054784    1 petty
+	petty WORD[48,   1]: 0.0054784 下僚
+TOKEN[49]: 0.0052467    1 physiotherapy
+	physiotherapy WORD[49,   1]: 0.0052467 物療
+TOKEN[50]: 0.0051673    3 care
+	care WORD[50,   1]: 0.0018637 治療
+	care WORD[50,   2]: 0.0017691 診療
+	care WORD[50,   3]: 0.0015344 医療
+TOKEN[51]: 0.0049612    1 bureaucrat
+	bureaucrat WORD[51,   1]: 0.0049612 官僚
+TOKEN[52]: 0.0046708    2 housefather
+	housefather WORD[52,   1]: 0.0023499 寮監
+	housefather WORD[52,   2]: 0.0023210 寮父
+TOKEN[53]: 0.0043122    1 officer
+	officer WORD[53,   1]: 0.0043122 幕僚
+TOKEN[54]: 0.0042494    1 bureaucracy
+	bureaucracy WORD[54,   1]: 0.0042494 官僚
+TOKEN[55]: 0.0041206    1 associate
+	associate WORD[55,   1]: 0.0041206 同僚
+TOKEN[56]: 0.0037104    2 government
+	government WORD[56,   1]: 0.0026091 官僚
+	government WORD[56,   2]: 0.0005506 寮
+TOKEN[57]: 0.0036977    2 housemother
+	housemother WORD[57,   1]: 0.0023499 寮監
+	housemother WORD[57,   2]: 0.0013479 寮母
+TOKEN[58]: 0.0035465    1 cabinet
+	cabinet WORD[58,   1]: 0.0035465 閣僚
+TOKEN[59]: 0.0033395    1 physical
+	physical WORD[59,   1]: 0.0033395 物療
+TOKEN[60]: 0.0033252    1 recuperation
+	recuperation WORD[60,   1]: 0.0033252 療養
+TOKEN[61]: 0.0032578    1 disabled
+	disabled WORD[61,   1]: 0.0032578 療育
+TOKEN[62]: 0.0029034    1 gratuitous
+	gratuitous WORD[62,   1]: 0.0029034 施療
+TOKEN[63]: 0.0028520    1 education
+	education WORD[63,   1]: 0.0028520 療育
+TOKEN[64]: 0.0026455    2 hostel
+	hostel WORD[64,   1]: 0.0009823 寮
+	hostel WORD[64,   2]: 0.0006809 学寮
+TOKEN[65]: 0.0025099    1 diagnosis
+	diagnosis WORD[65,   1]: 0.0025099 診療
+TOKEN[66]: 0.0025046    1 housemaster
+	housemaster WORD[66,   1]: 0.0025046 寮監
+TOKEN[67]: 0.0023399    1 support
+	support WORD[67,   1]: 0.0023399 療育
+TOKEN[68]: 0.0020701    1 advisor
+	advisor WORD[68,   1]: 0.0020701 寮監
+TOKEN[69]: 0.0019488    1 hall
+	hall WORD[69,   1]: 0.0019488 寮棟
+TOKEN[70]: 0.0018438    2 moving
+	moving WORD[70,   1]: 0.0013318 退寮
+	moving WORD[70,   2]: 0.0005120 入寮
+TOKEN[71]: 0.0017693    1 free
+	free WORD[71,   1]: 0.0017693 施療
+TOKEN[72]: 0.0017687    1 resident
+	resident WORD[72,   1]: 0.0017687 寮監
+TOKEN[73]: 0.0017546    2 room
+	room WORD[73,   1]: 0.0006674 茶寮
+	room WORD[73,   2]: 0.0005436 寮
+TOKEN[74]: 0.0016311    1 parent
+	parent WORD[74,   1]: 0.0016311 寮監
+TOKEN[75]: 0.0016152    1 villa
+	villa WORD[75,   1]: 0.0008076 寮
+TOKEN[76]: 0.0015946    1 building
+	building WORD[76,   1]: 0.0015946 寮棟
+TOKEN[77]: 0.0015885    1 bureau
+	bureau WORD[77,   1]: 0.0007942 寮
+TOKEN[78]: 0.0015764    1 ministry
+	ministry WORD[78,   1]: 0.0007882 寮
+TOKEN[79]: 0.0015709    1 father
+	father WORD[79,   1]: 0.0015709 寮父
+TOKEN[80]: 0.0015176    2 boarding
+	boarding WORD[80,   1]: 0.0007588 寮費
+	boarding WORD[80,   2]: 0.0007587 寮生
+TOKEN[81]: 0.0014008    1 department
+	department WORD[81,   1]: 0.0007004 寮
+TOKEN[82]: 0.0011085    2 student
+	student WORD[82,   1]: 0.0006548 寮生
+	student WORD[82,   2]: 0.0004537 学寮
+TOKEN[83]: 0.0010474    1 boarder
+	boarder WORD[83,   1]: 0.0010474 寮生
+TOKEN[84]: 0.0010008    1 hut
+	hut WORD[84,   1]: 0.0010008 茶寮
+TOKEN[85]: 0.0008962    1 mother
+	mother WORD[85,   1]: 0.0008962 寮母
+TOKEN[86]: 0.0008848    1 coffee
+	coffee WORD[86,   1]: 0.0008848 茶寮
+TOKEN[87]: 0.0008657    1 superintendent
+	superintendent WORD[87,   1]: 0.0008657 寮長
+TOKEN[88]: 0.0007954    1 restaurant
+	restaurant WORD[88,   1]: 0.0007954 茶寮
+TOKEN[89]: 0.0007938    1 song
+	song WORD[89,   1]: 0.0007938 寮歌
+TOKEN[90]: 0.0007432    1 lodging
+	lodging WORD[90,   1]: 0.0007432 寮費
+TOKEN[91]: 0.0007369    1 shop
+	shop WORD[91,   1]: 0.0007369 茶寮
+TOKEN[92]: 0.0006371    1 leader
+	leader WORD[92,   1]: 0.0006371 寮長
+TOKEN[93]: 0.0005646    1 charge
+	charge WORD[93,   1]: 0.0005646 寮費
+TOKEN[94]: 0.0005598    1 factory
+	factory WORD[94,   1]: 0.0005598 学寮
+TOKEN[95]: 0.0004300    1 whole
+	whole WORD[95,   1]: 0.0004300 全寮

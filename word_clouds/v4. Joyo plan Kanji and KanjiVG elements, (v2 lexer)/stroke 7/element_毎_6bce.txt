@@ -1,0 +1,2511 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0415458    1 strawberry     : 莓
+0.0255039    2 guidance       : 訓誨, 教誨
+0.0230625    6 contempt       : 侮日, 侮る, 侮り, 侮蔑, 侮辱, 軽侮
+0.0228104    1 explaining     : 訓誨
+0.0226404    1 Fragaria       : 莓
+0.0211601    2 giving         : 訓誨, 教誨
+0.0210442    1 x              : 莓
+0.0150710    3 garden         : 莓, 梅園, 海鰻
+0.0133696    8 regret         : 悔いる, 悔し涙, 悔し泣き, 後悔, 悔む, 悔やむ, 悔い, 悔恨
+0.0128276    8 repentance     : 懺悔, 後悔, 悔い改め, 悔改め, 悔い, 悔悛, 悔悟, 悔恨
+0.0117762    4 month          : 毎月, 晦, 晦日, 梅月
+0.0111513    4 day            : 晦, 大晦, 晦日, 毎日
+0.0108882    4 scorn          : 侮る, 侮り, 侮蔑, 軽侮
+0.0105058    5 quick          : 慧敏, 敏しょう, 敏捷, 敏, 機敏
+0.0102347    3 last           : 晦, 大晦, 晦日
+0.0102085   18 plum           : しだれ梅, 枝垂れ梅, 梅肉, 白梅, 寒梅, 梅暦, 梅花, 梅園, 梅酢, 老梅, ...
+0.0100716    4 vexation       : 悔しまぎれ, 悔し紛れ, 悔し涙, 悔し泣き
+0.0099340    1 sentiment      : 侮日
+0.0092597    4 winter         : 毎冬, 金梅, 寒梅, 黄梅
+0.0084545    5 time           : 毎次, 毎々, 毎毎, 毎度, 毎回
+0.0082956    1 chaplain       : 教誨
+0.0082660    1 minute         : 毎分
+0.0082011    8 apricot        : 実梅, しだれ梅, 枝垂れ梅, 野梅, 白梅, 梅園, 紅梅, 梅
+0.0079700    2 spring         : 毎春, 梅暦
+0.0078768    1 admonishment   : 教誨
+0.0078643    2 Eve            : 大晦, 大晦日
+0.0077274    1 exhortation    : 教誨
+0.0076612    5 clever         : 慧敏, 敏い, 敏, 機敏, 鋭敏
+0.0073540    5 Japan          : 侮日, 梅雨, 海保, 東海, 海将
+0.0071128    2 insult         : 侮言, 侮辱
+0.0068626    4 repent         : 悔む, 悔やむ, 悔い改める, 悔改める
+0.0066347    1 something      : 侮
+0.0066257    1 scolding       : 教誨
+0.0065609   10 ume            : 実梅, 落梅, 梅酒, 梅園, 梅林, 梅漬, 梅漬け, 梅干, 梅干し, 梅
+0.0064930    1 equivocal      : 晦渋
+0.0062073    1 dissemble      : 晦ます
+0.0061253    2 disdain        : 侮る, 侮蔑
+0.0060750    5 smart          : 敏しょう, 敏捷, 敏い, 敏, 機敏
+0.0059998   86 sea            : 海深, 海葬, 海っ縁, 海葱, 海幸, 海境, 海界, 降海, 縁海, 海砂, ...
+0.0058761    2 light          : 侮, 侮る
+0.0057005    1 issue          : 毎号
+0.0056669    1 abscond        : 晦ます
+0.0056047    4 alert          : 敏しょう, 敏捷, 敏感, 機敏
+0.0055041    1 summer         : 毎夏
+0.0055012   18 Japanese       : 実梅, しだれ梅, 枝垂れ梅, 野梅, 白梅, 梅園, 団扇海老, 臘梅, 蝋梅, 蠟梅, ...
+0.0054843    2 weeping        : しだれ梅, 枝垂れ梅
+0.0054412    1 ambiguous      : 晦渋
+0.0054069    5 dolphin        : 海豚漁, 鎌海豚, 斑海豚, 真海豚, 海豚
+0.0052308    3 remorse        : 後悔, 悔悟, 悔恨
+0.0052076    4 agile          : 敏しょう, 敏捷, 俊敏, 敏
+0.0051807    2 evening        : 毎夕, 毎夜
+0.0051744    1 weekend        : 毎
+0.0051388    2 year           : 大晦, 毎年
+0.0050724    1 obscure        : 晦渋
+0.0050447    1 intellect      : 慧敏
+0.0050399    4 nimble         : 敏しょう, 敏捷, 俊敏, 敏
+0.0048729    1 number         : 毎号
+0.0048069    2 slight         : 侮蔑, 侮辱
+0.0047704    2 spite          : 悔しまぎれ, 悔し紛れ
+0.0047555    4 prosperity     : 繁昌, 繁盛, 繁華, 繁栄
+0.0047038    2 frustration    : 悔しまぎれ, 悔し紛れ
+0.0046050   14 shrimp         : 白海老, 甘海老, 虎海老, 茹で海老, 赤海老, 海蛍, 剥き海老, 小海老, 芝海老, 桜海老, ...
+0.0044864    1 conceal        : 晦ます
+0.0044390   12 species        : 恵胡海苔, 金梅, 海蘭, 荒び海苔, 海茸, 鶏冠海苔, 紫海苔, 蜘蛛海星, 海松貝, 海羊歯, ...
+0.0044116    1 deceive        : 晦ます
+0.0043945    1 darkness       : 晦冥
+0.0043224    2 busyness       : 繁多, 繁劇
+0.0042526    1 hide           : 晦ます
+0.0042420    1 fool           : 晦ます
+0.0041287    3 thriving       : 繁昌, 繁盛, 繁栄
+0.0040654    1 made           : 侮
+0.0040644    3 flourishing    : 繁昌, 繁盛, 繁栄
+0.0040228    1 incognito      : 韜晦
+0.0040092    3 prompt         : 敏しょう, 敏捷, 機敏
+0.0039340    1 chickweed      : 繁縷
+0.0039340    1 Stellaria      : 繁縷
+0.0039340    1 stitchwort     : 繁縷
+0.0038192    2 penitent       : 悔い改める, 悔改める
+0.0037660    2 night          : 毎夜, 毎晩
+0.0037653    2 quickness      : 敏速, 敏活
+0.0036890   11 rainy          : 梅雨空, 戻り梅雨, 入梅, 梅雨入り, 梅雨, 走り梅雨, 梅雨晴れ, 梅雨寒, 空梅雨, 梅雨時, ...
+0.0036133    2 complexity     : 繁簡, 繁
+0.0035753    5 Prunus         : しだれ梅, 枝垂れ梅, 梅桃, 庭梅, 梅
+0.0035245    3 sensitive      : 敏い, 敏感, 鋭敏
+0.0035237    1 algae          : 恵胡海苔
+0.0035197    2 contrition     : 悔悛, 悔恨
+0.0033047    2 bitter         : 悔し涙, 悔しい
+0.0032940    1 despise        : 侮る
+0.0032775    1 strict         : 韜晦
+0.0032556    2 mourn          : 悔む, 悔やむ
+0.0031936    6 red            : 恵胡海苔, 茹で海老, 鶏冠海苔, 紅梅, 赤海老, 甘海老
+0.0031926    2 extreme        : 繁多, 繁劇
+0.0031709    1 affront        : 侮辱
+0.0031205    1 status         : 韜晦
+0.0031075    2 lament         : 悔む, 悔やむ
+0.0031074    2 condolence     : 悔み, 悔やみ
+0.0030865   12 season         : 梅雨空, 戻り梅雨, 入梅, 梅雨時, 梅雨入り, 梅雨, 走り梅雨, 梅雨晴れ, 梅雨寒, 空梅雨, ...
+0.0030636    1 meal           : 毎食
+0.0030370    1 brown          : 栗梅
+0.0029879    1 continued      : 毎度
+0.0029846    2 sorry          : 悔む, 悔やむ
+0.0029842    1 term           : 毎期
+0.0028880    6 deep           : 栗梅, 海溝, 遠海, 深海, 海山, 海原
+0.0028257    2 thinking       : 敏しょう, 敏捷
+0.0027612    1 thank          : 毎度
+0.0026722    1 week           : 毎週
+0.0026426    1 patronage      : 毎度
+0.0026186    1 chagrin        : 悔し涙
+0.0026072    3 sharp          : 敏い, 敏, 鋭敏
+0.0025866    1 color          : 栗梅
+0.0024602    2 staring        : 繁々, 繁繁
+0.0024534    1 cumbersome     : 繁雑
+0.0024230    1 hour           : 毎時
+0.0023064    3 velvet         : 白海老, 虎海老, 赤海老
+0.0022754    2 business       : 繁閑, 繁忙
+0.0022398    1 intricate      : 繁雑
+0.0022398    1 vexatious      : 繁雑
+0.0022135    1 inertness      : 不敏
+0.0021652    1 autumn         : 毎秋
+0.0021425    1 morning        : 毎朝
+0.0021085    1 hold           : 侮る
+0.0021059    1 crying         : 悔し泣き
+0.0020975    2 astute         : 機敏, 鋭敏
+0.0020619    1 alacrity       : 敏活
+0.0020393    1 snapper        : 梅色
+0.0020393    1 look           : 侮る
+0.0020248    1 court          : 侮辱
+0.0019979    1 simplicity     : 繁簡
+0.0019830    1 agility        : 敏速
+0.0019821    1 slack          : 繁閑
+0.0019736    1 second         : 毎秒
+0.0019658    1 round          : 毎回
+0.0019133    1 fusilier       : 梅色
+0.0018944    1 complex        : 繁雑
+0.0018861    1 lata           : 白海老
+0.0018840    1 complicated    : 繁雑
+0.0018840    1 troublesome    : 繁雑
+0.0018541    1 penitence      : 懺悔
+0.0018466    1 confused       : 繁雑
+0.0018408    1 fall           : 毎秋
+0.0018031    1 dullness       : 不敏
+0.0018002    1 rankness       : 繁茂
+0.0017916    1 make           : 侮る
+0.0017591    1 inability      : 不敏
+0.0017578    2 keen           : 俊敏, 鋭敏
+0.0017231    1 stupidity      : 不敏
+0.0017104    1 acute          : 鋭敏
+0.0017042    2 shrewd         : 機敏, 鋭敏
+0.0017025    1 harbor         : 海口
+0.0016928    1 injustice      : 悔しい
+0.0016928    1 vexed          : 悔しい
+0.0016825    1 discernment    : 明敏
+0.0016399    1 yellowtail     : 梅色
+0.0016180    4 Chinese        : 繁, 庭梅, 梅, 海棠
+0.0016103    1 disappointed   : 悔しい
+0.0016092    1 discerning     : 敏い
+0.0016048    1 confession     : 懺悔
+0.0015944    1 regrettable    : 悔しい
+0.0015859    1 character      : 繁
+0.0015642    1 intelligence   : 明敏
+0.0015356    1 press          : 繁閑
+0.0015105    1 humiliation    : 悔しい
+0.0014854    4 blue           : 梅色, 碧海, 滄海, 蒼海
+0.0014678    1 annoying       : 悔しい
+0.0014396    1 competence     : 敏腕
+0.0014325    1 incessant      : 頻繁
+0.0014302    1 propagation    : 繁殖
+0.0014300    1 lack           : 不敏
+0.0014239    1 activity       : 敏速
+0.0014170    1 luxuriate      : 繁る
+0.0014170    1 unsimplified   : 繁
+0.0014169    1 coppice        : 繁み
+0.0014167   13 dried          : 梅肉, 梅干, 梅干し, 海鼠子, 乾し海苔, 乾海苔, 干し海苔, 干海苔, 海苔, 海参, ...
+0.0014154    1 luxuriant      : 繁茂
+0.0014115    1 promontory     : 海角
+0.0013941   11 marine         : 海雪, 海幸, 海生, 布海苔, 海産, 海蝕, 海食, 海獣, 海兵, 海草, ...
+0.0013841    1 susceptible    : 敏感
+0.0013763    1 multiplication : 繁殖
+0.0013679   18 seaweed        : 紫海苔, 海松, 焼き海苔, 焼海苔, 海雲, 海蘊, 乾し海苔, 乾海苔, 干し海苔, 干海苔, ...
+0.0013548    1 reproduction   : 繁殖
+0.0013505    2 broad          : 白海老, 樹海
+0.0013345    1 talent         : 不敏
+0.0013131    1 failure        : 悔しい
+0.0013092    2 bush           : 繁み, 庭梅
+0.0012995    1 frequent       : 頻繁
+0.0012969    1 one            : 韜晦
+0.0012965    1 bustle         : 繁華
+0.0012956    1 cape           : 海角
+0.0012828    1 headland       : 海角
+0.0012622    1 blossom        : 梅花
+0.0012594    1 breeding       : 繁殖
+0.0012586   10 edible         : 荒び海苔, 鶏冠海苔, 紫海苔, 海雲, 海蘊, 乾し海苔, 乾海苔, 干し海苔, 干海苔, 海苔
+0.0012500    1 capability     : 敏腕
+0.0012482    1 brushwood      : 繁み
+0.0012145    1 luxurious      : 繁る
+0.0012003    1 rampant        : 繁る
+0.0012003    1 frequency      : 繁
+0.0011999    1 ear            : 敏い
+0.0011978    1 canny          : 機敏
+0.0011792    1 hunting        : 海豚漁
+0.0011756    1 busy           : 繁忙
+0.0011486    1 growth         : 繁茂
+0.0011393    2 fishing        : 海豚漁, 海釣り
+0.0011376    1 lunar          : 梅月
+0.0011369    1 thicket        : 繁み
+0.0011353    3 praecox        : 臘梅, 蝋梅, 蠟梅
+0.0011353    3 allspice       : 臘梅, 蝋梅, 蠟梅
+0.0011353    3 Chimonanthus   : 臘梅, 蝋梅, 蠟梅
+0.0011094    1 design         : 梅花
+0.0010786    1 aware          : 敏感
+0.0010728    1 pressure       : 繁忙
+0.0010596    1 orchard        : 梅園
+0.0010545    1 increase       : 繁殖
+0.0010355    5 lobster        : 団扇海老, 茹で海老, 藜海老, 小海老, 海老
+0.0010249    1 splash         : 繁吹
+0.0010249    1 spray          : 繁吹
+0.0010077   17 ocean          : 海砂, 海盆, 海魚, 海区, 海溝, 海気, 遠海, 海神, 外海, 深海, ...
+0.0009732    1 growing        : 繁り
+0.0009487    1 nervousness    : 過敏
+0.0009298    2 Jasminum       : 金梅, 黄梅
+0.0009106    1 leaf           : 繁る
+0.0009005    1 skill          : 敏腕
+0.0008973    2 jasmine        : 金梅, 黄梅
+0.0008887    4 world          : 海境, 海界, 海坂, 四海
+0.0008870    1 fallen         : 落梅
+0.0008718    1 ability        : 敏腕
+0.0008703    1 grow           : 繁る
+0.0008703    1 thick          : 繁り
+0.0008687    7 prawn          : 茹で海老, 赤海老, 甘海老, 車海老, 芝海老, 小海老, 海老
+0.0008613    1 trouble        : 繁
+0.0008355    3 tree           : 老梅, 寒梅, 紅梅
+0.0008264    2 white          : 白梅, 海葱
+0.0008046    1 full           : 繁る
+0.0007879    2 sand           : 海砂, 団扇海老
+0.0007660    2 cherry         : 梅桃, 庭梅
+0.0007632    1 harbinger      : 梅暦
+0.0007607    1 Trollius       : 金梅
+0.0007607    1 globeflower    : 金梅
+0.0007570    1 traditional    : 繁
+0.0007198    1 entrance       : 海口
+0.0007175    1 overcast       : 梅雨空
+0.0006999    1 fifth          : 梅月
+0.0006973    4 japonica       : 海蘭, 庭梅, 海羊歯, 海石榴
+0.0006921    1 fourth         : 梅月
+0.0006870    1 depth          : 海深
+0.0006865    3 weather        : 戻り梅雨, 走り梅雨, 梅雨寒
+0.0006219    7 seaside        : 海っ縁, 海パン, 臨海, 海浜, 海べ, 海辺, 海沿い
+0.0006196    4 laver          : 荒び海苔, 海苔, 甘海苔, 青海苔
+0.0005759    2 silk           : 梅花, 海気
+0.0005754    2 fabric         : 梅花, 大海
+0.0005618    3 boundary       : 海境, 海界, 海坂
+0.0005614    2 wild           : 野梅, 岩海苔
+0.0005565    2 Porphyra       : 荒び海苔, 海苔
+0.0005557    1 fan            : 団扇海老
+0.0005537    2 lion           : 海驢, 海馬
+0.0005517    1 grove          : 梅林
+0.0005384    1 tora           : 虎海老
+0.0005355    1 pulp           : 梅肉
+0.0005270    1 snow           : 海雪
+0.0005209    1 toadflax       : 海蘭
+0.0005209    1 Linaria        : 海蘭
+0.0005191    1 sky            : 梅雨空
+0.0005131    3 men            : 海境, 海界, 海坂
+0.0005034    4 god            : 海境, 海界, 海坂, 海神
+0.0004996    3 star           : 海羊歯, 蜘蛛海星, 海星
+0.0004851    7 nori           : もみ海苔, 揉み海苔, 海苔, 青海苔, 海苔巻, 海苔巻き, 岩海苔
+0.0004651    4 northern       : 甘海老, 海馬, 北海, 海星
+0.0004637    6 maritime       : 海禁, 海関, 海国, 臨海, 海事, 海運
+0.0004538    2 alt            : 西海道, 南海道
+0.0004538    1 condition      : 塩梅
+0.0004484    4 common         : 海烏, 真海豚, 海石榴, 海鰻
+0.0004427    2 Mirounga       : 象海豹, 海象
+0.0004321    2 alga           : 鶏冠海苔, 布海苔
+0.0004113    1 piddock        : 海茸
+0.0004097    1 cormorant      : 海鵜
+0.0004008    2 unripe         : 梅酒, 青梅
+0.0004006    2 crayfish       : 団扇海老, 海老
+0.0003966    1 state          : 塩梅
+0.0003909    2 fresh          : 梅漬, 梅漬け
+0.0003900    2 elephant       : 象海豹, 海象
+0.0003824    3 diver          : 海士, 海人, 海女
+0.0003663    4 seal           : 象海豹, 海豹, 海象, 海驢
+0.0003623    1 Nanking        : 梅桃
+0.0003598    1 fruit          : 落梅
+0.0003593    3 region         : 西海道, 南海道, 東海
+0.0003573    1 regression     : 海退
+0.0003544    1 Urginea        : 海葱
+0.0003530    1 purple         : 荒び海苔
+0.0003450    2 echinoderm     : 蜘蛛海星, 海星
+0.0003442    5 land           : 海陸風, 陸海空軍, 海陸, 陸海, 海峡
+0.0003368    1 downy          : 梅桃
+0.0003356    1 Ophiuroidea    : 蜘蛛海星
+0.0003350    1 winterberry    : 梅擬き
+0.0003350    1 liqueur        : 梅酒
+0.0003350    1 brandy         : 梅酒
+0.0003260    1 syphilis       : 梅毒
+0.0003258    2 salted         : 梅酢, 海鼠腸
+0.0003239    1 unstable       : 走り梅雨
+0.0003196    5 beach          : 海砂, 海浜, 海岸, 海べ, 海辺
+0.0003182    1 transgression  : 海進
+0.0003149    1 brittle        : 蜘蛛海星
+0.0003104    1 old            : 老梅
+0.0003046    1 clam           : 海松貝
+0.0003031    2 entering       : 入梅, 梅雨入り
+0.0003001    1 burial         : 海葬
+0.0002966    6 coast          : 海堡, 沿海, 海岸, 海べ, 海辺, 海沿い
+0.0002966    1 adjustment     : 塩梅
+0.0002952    1 May            : 走り梅雨
+0.0002944    4 coastal        : 海防, 沿海, 臨海, 近海
+0.0002877    1 Malus          : 海棠
+0.0002873    1 murrelet       : 海雀
+0.0002842    2 fisherman      : 海士, 海人
+0.0002835    1 preceding      : 走り梅雨
+0.0002825    1 whiskered      : 赤海老
+0.0002763    1 decoration     : 茹で海老
+0.0002730    3 name           : 西海道, 南海道, 東海
+0.0002726    1 seasoning      : 塩梅
+0.0002691    2 beginning      : 入梅, 梅雨入り
+0.0002680    1 dealing        : 塩梅
+0.0002644    1 sunny          : 梅雨晴れ
+0.0002604    3 breeze         : 海陸風, 海気, 海風
+0.0002589    3 used           : 茹で海老, 布海苔, 海老錠
+0.0002580    1 spell          : 梅雨晴れ
+0.0002578    1 assignment     : 塩梅
+0.0002571    4 navy           : 陸海軍, 海曹, 陸海, 海軍
+0.0002570    1 flavour        : 塩梅
+0.0002508    1 boiled         : 茹で海老
+0.0002505    1 flavor         : 塩梅
+0.0002505    1 handling       : 塩梅
+0.0002494    1 tidal          : 海嘯
+0.0002483    1 apple          : 海棠
+0.0002479    1 murre          : 海烏
+0.0002479    1 guillemot      : 海烏
+0.0002479    1 Uria           : 海烏
+0.0002468    1 physical       : 塩梅
+0.0002427    1 liquor         : 梅酒
+0.0002419    1 health         : 塩梅
+0.0002417    2 grilled        : もみ海苔, 揉み海苔
+0.0002400    2 order          : 蜘蛛海星, 海牛
+0.0002395    1 onion          : 海葱
+0.0002381    1 arrangement    : 塩梅
+0.0002356    2 urchin         : 紫海胆, 海胆
+0.0002344    1 added          : 梅酒
+0.0002316    1 return         : 戻り梅雨
+0.0002307    2 eel            : 海蛇, 海鰻
+0.0002306    1 juice          : 梅酢
+0.0002275    1 cool           : 梅雨寒
+0.0002256    1 vinegar        : 梅酢
+0.0002256    2 green          : 海松, 青海苔
+0.0002241    1 taste          : 塩梅
+0.0002236    1 Phalacrocorax  : 海鵜
+0.0002226    1 downstream     : 降海
+0.0002206    1 funori         : 布海苔
+0.0002178    1 clear          : 戻り梅雨
+0.0002129    2 male           : 海士, 海人
+0.0002117    1 chub           : 海鱮
+0.0002093    2 Maritime       : 海自, 海将
+0.0002085    1 sugar          : 梅酒
+0.0002084    1 comatulid      : 海羊歯
+0.0002081    1 June           : 梅雨
+0.0002075    1 situation      : 塩梅
+0.0002028    2 dictionary     : 辞海, 言海
+0.0002015    2 strait         : 海門, 海峡
+0.0001972    1 gaper          : 海松貝
+0.0001942    2 sponge         : 海松, 海綿
+0.0001927    1 dry            : 空梅雨
+0.0001890    1 swimming       : 降海
+0.0001878    1 period         : 戻り梅雨
+0.0001832    2 mammal         : 海獣, 海牛
+0.0001786    2 egg            : 海ほおずき, 海酸漿
+0.0001784    1 Enhydra        : 海獺
+0.0001756    1 pantropical    : 斑海豚
+0.0001749    1 Delphinus      : 真海豚
+0.0001728    1 shelled        : 剥き海老
+0.0001722    1 feather        : 海羊歯
+0.0001702    2 channel        : 海門, 海峡
+0.0001701    1 glue           : 布海苔
+0.0001677    1 plateau        : 海台
+0.0001643    3 officer        : 海曹, 海佐, 海尉
+0.0001640    1 bore           : 海嘯
+0.0001629    1 otter          : 海獺
+0.0001628    1 crab           : 海棠
+0.0001618    1 walrus         : 海象
+0.0001618    1 Odobenus       : 海象
+0.0001615    1 Asian          : 梅雨
+0.0001611    2 rolled         : 海苔巻, 海苔巻き
+0.0001600    3 rumbling       : 海嘯, 海鳴, 海鳴り
+0.0001597    1 encyclopedic   : 辞海
+0.0001585    1 conger         : 海鰻
+0.0001585    1 search         : 探梅
+0.0001580    2 submarine      : 海嶺, 海底
+0.0001576    1 seaward        : 海側
+0.0001576    1 firefly        : 海蛍
+0.0001569    1 crinoid        : 海百合
+0.0001568    1 basin          : 海盆
+0.0001554    3 gulf           : 入り海, 入海, 内海
+0.0001549    2 starfish       : 鬼海星, 海星
+0.0001546    1 wet            : 梅雨時
+0.0001509    1 sirenian       : 海牛
+0.0001509    1 Sirenia        : 海牛
+0.0001500    3 inlet          : 入り海, 入海, 内海
+0.0001488    1 Ming           : 海禁
+0.0001474    1 Maine          : 甘海老
+0.0001445    1 early          : 梅雨
+0.0001436    1 cowfish        : 海雀
+0.0001426    4 seashore       : 海浜, 海べ, 海辺, 海沿い
+0.0001415    3 noise          : 海嘯, 海鳴, 海鳴り
+0.0001405    1 bondage        : 海老責め
+0.0001387    1 removed        : 剥き海老
+0.0001381    1 spotted        : 斑海豚
+0.0001366    1 torture        : 海老責め
+0.0001354    1 seed           : 海蛍
+0.0001343    2 air            : 陸海空軍, 海気
+0.0001341    3 bay            : 入り海, 入海, 内海
+0.0001340    1 fish           : 海魚
+0.0001338    1 rain           : 梅雨
+0.0001336    1 kuruma         : 車海老
+0.0001330    1 mirage         : 海市
+0.0001324    2 capsule        : 海ほおずき, 海酸漿
+0.0001324    2 gastropod      : 海ほおずき, 海酸漿
+0.0001320    1 borealis       : 甘海老
+0.0001308    1 tied           : 海老責め
+0.0001306    1 fog            : 海霧
+0.0001302    1 shorts         : 海パン
+0.0001296    1 victim         : 海老責め
+0.0001288    1 entrails       : 海鼠腸
+0.0001285    2 army           : 陸海軍, 陸海
+0.0001275    2 slug           : 海参, 熬海鼠
+0.0001270    1 bound          : 海老責め
+0.0001255    1 breakwater     : 海堡
+0.0001248    2 whelk          : 海ほおずき, 海酸漿
+0.0001244    1 rice           : 赤海老
+0.0001202    2 creek          : 入り海, 入海
+0.0001198    2 ascidian       : 海鞘, 老海鼠
+0.0001175    1 aquatic        : 海牛
+0.0001170    2 forgiveness    : 海恕, 海容
+0.0001166    1 neck           : 海老責め
+0.0001162    2 expanse        : 碧海, 樹海
+0.0001161    1 touch          : 海老責め
+0.0001160    2 erosion        : 海蝕, 海食
+0.0001160    1 ban            : 海禁
+0.0001159    1 sector         : 海区
+0.0001158    1 pink           : 甘海老
+0.0001139    1 edition        : 辞海
+0.0001132    2 cucumber       : 海鼠腸, 海鼠
+0.0001130    1 battery        : 海堡
+0.0001125    2 seven          : 七つの海, 四海
+0.0001119    2 squirt         : 海鞘, 老海鼠
+0.0001117    1 rope           : 海老責め
+0.0001108    1 recent         : 辞海
+0.0001106    1 going          : 探梅
+0.0001104    1 eagre          : 海嘯
+0.0001103    1 Gloiopeltis    : 布海苔
+0.0001102    1 end            : 梅雨明け
+0.0001090    1 arms           : 海老責め
+0.0001083    1 system         : 梅
+0.0001070    1 flowering      : 海棠
+0.0001066    2 defense        : 海防, 海将
+0.0001043    1 cow            : 海牛
+0.0001036    1 snake          : 海蛇
+0.0001034    2 warm           : 温海, 暖海
+0.0001015    2 side           : 海側, 東海
+0.0000995    1 sizing         : 布海苔
+0.0000993    1 ridge          : 海嶺
+0.0000989    1 customs        : 海関
+0.0000977    3 turtle         : 海がめ, 海ガメ, 海亀
+0.0000974    2 inland         : 縁海, 内海
+0.0000958    2 sailor         : 海員, 海兵
+0.0000947    1 rise           : 海膨
+0.0000939    2 baked          : 焼き海苔, 焼海苔
+0.0000937    1 salt           : 海塩
+0.0000928    1 tsunami        : 海嘯
+0.0000904    1 mines          : 掃海
+0.0000894    1 sweet          : 甘海老
+0.0000869    2 case           : 海ほおずき, 海酸漿
+0.0000866    1 felty          : 海松
+0.0000866    1 Codium         : 海松
+0.0000855    2 whole          : 海内, 四海
+0.0000854    1 ice            : 海氷
+0.0000842    2 rank           : 海佐, 海尉
+0.0000833    1 stag           : 海松
+0.0000830    2 plant          : 布海苔, 海草
+0.0000813    1 Camellia       : 海石榴
+0.0000809    1 fleece         : 海松
+0.0000803    1 icy            : 氷海
+0.0000790    1 trepang        : 海鼠腸
+0.0000770    1 people         : 人海
+0.0000763    1 indebtedness   : 海山
+0.0000763    2 oceanic        : 海鳴, 海鳴り
+0.0000762    1 use            : 海パン
+0.0000754    1 ancient        : 海雀
+0.0000746    1 seaport        : 海港
+0.0000744    2 route          : 海道, 海路
+0.0000734    1 beaver         : 海狸
+0.0000734    1 corrugated     : 海鼠板
+0.0000732    2 roll           : 海苔巻, 海苔巻き
+0.0000726    1 padlock        : 海老錠
+0.0000725    1 inshore        : 沿海
+0.0000725    1 epicontinental : 縁海
+0.0000725    1 epeiric        : 縁海
+0.0000721    1 eared          : 海驢
+0.0000721    1 Zalophus       : 海驢
+0.0000719    1 oyster         : 海松
+0.0000718    1 ama            : 海女
+0.0000718    1 seascape       : 海景
+0.0000714    1 produced       : 海石榴
+0.0000707    2 island         : 北海道, 海南
+0.0000706    1 forked         : 海松
+0.0000706    1 fragile        : 海松
+0.0000700    1 genus          : 布海苔
+0.0000699    2 southern       : 南海, 海南
+0.0000679    1 Calanthe       : 海老根
+0.0000677    1 California     : 海驢
+0.0000676    1 frozen         : 氷海
+0.0000675    1 Enteromorpha   : 青海苔
+0.0000672    1 wave           : 海嘯
+0.0000670    1 immense        : 海山
+0.0000670    1 shipwreck      : 海難
+0.0000663    1 maroon         : 海老茶
+0.0000662    1 Larus          : 海猫
+0.0000658    1 trench         : 海溝
+0.0000656    1 Neptune        : 海神
+0.0000656    1 Poseidon       : 海神
+0.0000647    1 seaman         : 海員
+0.0000647    1 gull           : 海猫
+0.0000634    1 Siberian       : 海棠
+0.0000618    2 large          : 人海, 大海
+0.0000617    1 thief          : 海松
+0.0000604    1 generosity     : 海恕
+0.0000601    1 muddy          : 泥海
+0.0000598    1 discolor       : 海老根
+0.0000595    1 naval          : 海戦
+0.0000592    1 product        : 海産
+0.0000591    1 magnanimity    : 海恕
+0.0000587    1 atmosphere     : 海気
+0.0000583    1 marginal       : 縁海
+0.0000582    1 orchid         : 海老根
+0.0000579    1 bent           : 海老腰
+0.0000571    1 surrounded     : 環海
+0.0000566    1 stormy         : 荒海
+0.0000566    1 territorial    : 領海
+0.0000565    1 average        : 海損
+0.0000562    1 petty          : 海曹
+0.0000561    1 curved         : 海老錠
+0.0000552    1 sheet          : 海鼠板
+0.0000546    1 chart          : 海図
+0.0000543    1 port           : 海港
+0.0000542    2 level          : 海面, 海抜
+0.0000536    1 nation         : 海国
+0.0000535    1 defence        : 海防
+0.0000534    1 realm          : 苦海
+0.0000533    1 worm           : 海蛇
+0.0000518    1 leafage        : 樹海
+0.0000516    1 suffering      : 苦海
+0.0000515    1 tea            : 海石榴
+0.0000515    1 accident       : 海難
+0.0000513    1 lock           : 海老錠
+0.0000513    1 disaster       : 海難
+0.0000512    2 bird           : 海鳥, 海燕
+0.0000509    2 surface        : 海面, 海上
+0.0000503    1 distant        : 絶海
+0.0000502    1 surrounding    : 環海
+0.0000502    1 tiger          : 車海老
+0.0000499    1 dead           : 海松
+0.0000499    2 animal         : 海産, 海豹
+0.0000498    1 iron           : 海鼠板
+0.0000482    1 Shanghai       : 上海
+0.0000476    1 dragging       : 掃海
+0.0000475    1 shore          : 沿海
+0.0000474    1 crowd          : 人海
+0.0000473    1 human          : 苦海
+0.0000469    1 undersea       : 海底
+0.0000468    1 love           : 海山
+0.0000468    1 buccaneer      : 海賊
+0.0000468    1 freebooter     : 海賊
+0.0000466    1 damage         : 海損
+0.0000462    1 man            : 海松
+0.0000462    1 gate           : 海老錠
+0.0000462    1 jellyfish      : 海月
+0.0000459    1 administrative : 北海道
+0.0000455    1 battle         : 海戦
+0.0000454    1 petrel         : 海燕
+0.0000454    1 Hydrobatidae   : 海燕
+0.0000454    1 coastland      : 海沿い
+0.0000454    1 loss           : 海損
+0.0000448    1 Caridea        : 小海老
+0.0000439    1 Asteroidea     : 海星
+0.0000439    1 asteroid       : 海星
+0.0000439    1 Asterias       : 海星
+0.0000438    1 flower         : 海棠
+0.0000438    1 earless        : 海豹
+0.0000431    1 country        : 海内
+0.0000428    1 woodland       : 樹海
+0.0000426    1 type           : 海気
+0.0000423    1 opening        : 海開き
+0.0000423    1 goods          : 海気
+0.0000423    1 nautical       : 海里
+0.0000422    1 pirate         : 海賊
+0.0000418    2 small          : 小海老, 海豚
+0.0000416    1 shape          : 海老錠
+0.0000414    1 rough          : 荒海
+0.0000412    1 age            : 海老腰
+0.0000404    1 cruise         : 航海
+0.0000402    1 mile           : 海里
+0.0000399    1 international  : 公海
+0.0000394    1 female         : 海女
+0.0000393    1 toothed        : 海豚
+0.0000392    1 highway        : 東海道
+0.0000391    1 unit           : 北海道
+0.0000390    1 water          : 碧海
+0.0000390    1 navigation     : 航海
+0.0000384    1 lichen         : 岩海苔
+0.0000371    1 abundant       : 樹海
+0.0000371    1 Red            : 紅海
+0.0000371    1 voyage         : 航海
+0.0000369    1 south          : 東海
+0.0000368    1 sweeping       : 掃海
+0.0000362    1 Korean         : 東海
+0.0000361    1 crossing       : 渡海
+0.0000353    1 adjacent       : 近海
+0.0000352    1 sailing        : 航海
+0.0000349    1 dense          : 樹海
+0.0000345    1 robber         : 海賊
+0.0000339    1 taro           : 海老芋
+0.0000332    1 transportation : 海運
+0.0000323    1 seasoned       : 海胆
+0.0000313    1 lake           : 内海
+0.0000303    1 passage        : 航海
+0.0000299    1 shallow        : 浅海
+0.0000298    1 storm          : 海燕
+0.0000289    1 height         : 海抜
+0.0000280    1 current        : 海流
+0.0000279    1 open           : 外海
+0.0000278    1 foreign        : 海外
+0.0000275    1 variety        : 海老芋
+0.0000271    1 class          : 海星
+0.0000267    1 bottom         : 海底
+0.0000262    1 province       : 淡海
+0.0000255    1 pattern        : 大海
+0.0000251    1 true           : 海豹
+0.0000244    1 area           : 海域
+0.0000244    1 high           : 公海
+0.0000241    1 former         : 淡海
+0.0000237    1 two            : 海峡
+0.0000210    1 family         : 海燕
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0415458    1 strawberry
+	strawberry WORD[ 1,   1]: 0.0415458 莓
+TOKEN[ 2]: 0.0255039    2 guidance
+	guidance WORD[ 2,   1]: 0.0191986 訓誨
+	guidance WORD[ 2,   2]: 0.0063053 教誨
+TOKEN[ 3]: 0.0230625    6 contempt
+	contempt WORD[ 3,   1]: 0.0098471 侮日
+	contempt WORD[ 3,   2]: 0.0029483 侮る
+	contempt WORD[ 3,   3]: 0.0029483 侮り
+	contempt WORD[ 3,   4]: 0.0026327 侮蔑
+	contempt WORD[ 3,   5]: 0.0026295 侮辱
+	contempt WORD[ 3,   6]: 0.0020566 軽侮
+TOKEN[ 4]: 0.0228104    1 explaining
+	explaining WORD[ 4,   1]: 0.0228104 訓誨
+TOKEN[ 5]: 0.0226404    1 Fragaria
+	Fragaria WORD[ 5,   1]: 0.0226404 莓
+TOKEN[ 6]: 0.0211601    2 giving
+	giving WORD[ 6,   1]: 0.0159287 訓誨
+	giving WORD[ 6,   2]: 0.0052314 教誨
+TOKEN[ 7]: 0.0210442    1 x
+	x WORD[ 7,   1]: 0.0210442 莓
+TOKEN[ 8]: 0.0150710    3 garden
+	garden WORD[ 8,   1]: 0.0147696 莓
+	garden WORD[ 8,   2]: 0.0002511 梅園
+	garden WORD[ 8,   3]: 0.0000251 海鰻
+TOKEN[ 9]: 0.0133696    8 regret
+	regret WORD[ 9,   1]: 0.0021907 悔いる
+	regret WORD[ 9,   2]: 0.0021484 悔し涙
+	regret WORD[ 9,   3]: 0.0021484 悔し泣き
+	regret WORD[ 9,   4]: 0.0014014 後悔
+	regret WORD[ 9,   5]: 0.0013889 悔む
+	regret WORD[ 9,   6]: 0.0013889 悔やむ
+	regret WORD[ 9,   7]: 0.0013801 悔い
+	regret WORD[ 9,   8]: 0.0013229 悔恨
+TOKEN[10]: 0.0128276    8 repentance
+	repentance WORD[10,   1]: 0.0016813 懺悔
+	repentance WORD[10,   2]: 0.0016424 後悔
+	repentance WORD[10,   3]: 0.0016175 悔い改め
+	repentance WORD[10,   4]: 0.0016175 悔改め
+	repentance WORD[10,   5]: 0.0016175 悔い
+	repentance WORD[10,   6]: 0.0015505 悔悛
+	repentance WORD[10,   7]: 0.0015504 悔悟
+	repentance WORD[10,   8]: 0.0015504 悔恨
+TOKEN[11]: 0.0117762    4 month
+	month WORD[11,   1]: 0.0038940 毎月
+	month WORD[11,   2]: 0.0038399 晦
+	month WORD[11,   3]: 0.0030224 晦日
+	month WORD[11,   4]: 0.0010198 梅月
+TOKEN[12]: 0.0111513    4 day
+	day WORD[12,   1]: 0.0034999 晦
+	day WORD[12,   2]: 0.0031219 大晦
+	day WORD[12,   3]: 0.0027548 晦日
+	day WORD[12,   4]: 0.0017746 毎日
+TOKEN[13]: 0.0108882    4 scorn
+	scorn WORD[13,   1]: 0.0030325 侮る
+	scorn WORD[13,   2]: 0.0030325 侮り
+	scorn WORD[13,   3]: 0.0027079 侮蔑
+	scorn WORD[13,   4]: 0.0021153 軽侮
+TOKEN[14]: 0.0105058    5 quick
+	quick WORD[14,   1]: 0.0037632 慧敏
+	quick WORD[14,   2]: 0.0026371 敏しょう
+	quick WORD[14,   3]: 0.0026371 敏捷
+	quick WORD[14,   4]: 0.0007499 敏
+	quick WORD[14,   5]: 0.0007185 機敏
+TOKEN[15]: 0.0102347    3 last
+	last WORD[15,   1]: 0.0038202 晦
+	last WORD[15,   2]: 0.0034076 大晦
+	last WORD[15,   3]: 0.0030069 晦日
+TOKEN[16]: 0.0102085   18 plum
+	plum WORD[16,   1]: 0.0013711 しだれ梅
+	plum WORD[16,   2]: 0.0013711 枝垂れ梅
+	plum WORD[16,   3]: 0.0009432 梅肉
+	plum WORD[16,   4]: 0.0008697 白梅
+	plum WORD[16,   5]: 0.0006739 寒梅
+	plum WORD[16,   6]: 0.0006507 梅暦
+	plum WORD[16,   7]: 0.0006183 梅花
+	plum WORD[16,   8]: 0.0006023 梅園
+	plum WORD[16,   9]: 0.0004594 梅酢
+	plum WORD[16,  10]: 0.0004588 老梅
+	plum WORD[16,  11]: 0.0002733 梅
+	plum WORD[16,  12]: 0.0002611 梅林
+	plum WORD[16,  13]: 0.0002340 紅梅
+	plum WORD[16,  14]: 0.0002297 梅酒
+	plum WORD[16,  15]: 0.0001624 探梅
+	plum WORD[16,  16]: 0.0001379 青梅
+	plum WORD[16,  17]: 0.0001367 梅干
+	plum WORD[16,  18]: 0.0001367 梅干し
+TOKEN[17]: 0.0100716    4 vexation
+	vexation WORD[17,   1]: 0.0025179 悔しまぎれ
+	vexation WORD[17,   2]: 0.0025179 悔し紛れ
+	vexation WORD[17,   3]: 0.0025179 悔し涙
+	vexation WORD[17,   4]: 0.0025179 悔し泣き
+TOKEN[18]: 0.0099340    1 sentiment
+	sentiment WORD[18,   1]: 0.0099340 侮日
+TOKEN[19]: 0.0092597    4 winter
+	winter WORD[19,   1]: 0.0084432 毎冬
+	winter WORD[19,   2]: 0.0004395 金梅
+	winter WORD[19,   3]: 0.0001893 寒梅
+	winter WORD[19,   4]: 0.0001877 黄梅
+TOKEN[20]: 0.0084545    5 time
+	time WORD[20,   1]: 0.0022467 毎次
+	time WORD[20,   2]: 0.0015521 毎々
+	time WORD[20,   3]: 0.0015521 毎毎
+	time WORD[20,   4]: 0.0015520 毎度
+	time WORD[20,   5]: 0.0015517 毎回
+TOKEN[21]: 0.0082956    1 chaplain
+	chaplain WORD[21,   1]: 0.0082956 教誨
+TOKEN[22]: 0.0082660    1 minute
+	minute WORD[22,   1]: 0.0082660 毎分
+TOKEN[23]: 0.0082011    8 apricot
+	apricot WORD[23,   1]: 0.0032131 実梅
+	apricot WORD[23,   2]: 0.0015170 しだれ梅
+	apricot WORD[23,   3]: 0.0015169 枝垂れ梅
+	apricot WORD[23,   4]: 0.0007297 野梅
+	apricot WORD[23,   5]: 0.0004811 白梅
+	apricot WORD[23,   6]: 0.0003332 梅園
+	apricot WORD[23,   7]: 0.0002589 紅梅
+	apricot WORD[23,   8]: 0.0001512 梅
+TOKEN[24]: 0.0079700    2 spring
+	spring WORD[24,   1]: 0.0074839 毎春
+	spring WORD[24,   2]: 0.0004861 梅暦
+TOKEN[25]: 0.0078768    1 admonishment
+	admonishment WORD[25,   1]: 0.0078768 教誨
+TOKEN[26]: 0.0078643    2 Eve
+	Eve WORD[26,   1]: 0.0048576 大晦
+	Eve WORD[26,   2]: 0.0030067 大晦日
+TOKEN[27]: 0.0077274    1 exhortation
+	exhortation WORD[27,   1]: 0.0077274 教誨
+TOKEN[28]: 0.0076612    5 clever
+	clever WORD[28,   1]: 0.0040746 慧敏
+	clever WORD[28,   2]: 0.0012645 敏い
+	clever WORD[28,   3]: 0.0008119 敏
+	clever WORD[28,   4]: 0.0007780 機敏
+	clever WORD[28,   5]: 0.0007322 鋭敏
+TOKEN[29]: 0.0073540    5 Japan
+	Japan WORD[29,   1]: 0.0070650 侮日
+	Japan WORD[29,   2]: 0.0001214 梅雨
+	Japan WORD[29,   3]: 0.0000717 海保
+	Japan WORD[29,   4]: 0.0000560 東海
+	Japan WORD[29,   5]: 0.0000398 海将
+TOKEN[30]: 0.0071128    2 insult
+	insult WORD[30,   1]: 0.0041751 侮言
+	insult WORD[30,   2]: 0.0029377 侮辱
+TOKEN[31]: 0.0068626    4 repent
+	repent WORD[31,   1]: 0.0017211 悔む
+	repent WORD[31,   2]: 0.0017211 悔やむ
+	repent WORD[31,   3]: 0.0017102 悔い改める
+	repent WORD[31,   4]: 0.0017102 悔改める
+TOKEN[32]: 0.0066347    1 something
+	something WORD[32,   1]: 0.0066347 侮
+TOKEN[33]: 0.0066257    1 scolding
+	scolding WORD[33,   1]: 0.0066257 教誨
+TOKEN[34]: 0.0065609   10 ume
+	ume WORD[34,   1]: 0.0033662 実梅
+	ume WORD[34,   2]: 0.0010028 落梅
+	ume WORD[34,   3]: 0.0005325 梅酒
+	ume WORD[34,   4]: 0.0003491 梅園
+	ume WORD[34,   5]: 0.0003026 梅林
+	ume WORD[34,   6]: 0.0002662 梅漬
+	ume WORD[34,   7]: 0.0002662 梅漬け
+	ume WORD[34,   8]: 0.0001584 梅干
+	ume WORD[34,   9]: 0.0001584 梅干し
+	ume WORD[34,  10]: 0.0001584 梅
+TOKEN[35]: 0.0064930    1 equivocal
+	equivocal WORD[35,   1]: 0.0064930 晦渋
+TOKEN[36]: 0.0062073    1 dissemble
+	dissemble WORD[36,   1]: 0.0062073 晦ます
+TOKEN[37]: 0.0061253    2 disdain
+	disdain WORD[37,   1]: 0.0032358 侮る
+	disdain WORD[37,   2]: 0.0028894 侮蔑
+TOKEN[38]: 0.0060750    5 smart
+	smart WORD[38,   1]: 0.0015190 敏しょう
+	smart WORD[38,   2]: 0.0015190 敏捷
+	smart WORD[38,   3]: 0.0013454 敏い
+	smart WORD[38,   4]: 0.0008639 敏
+	smart WORD[38,   5]: 0.0008278 機敏
+TOKEN[39]: 0.0059998   86 sea
+	sea WORD[39,   1]: 0.0005032 海深
+	sea WORD[39,   2]: 0.0002345 海葬
+	sea WORD[39,   3]: 0.0001865 海っ縁
+	sea WORD[39,   4]: 0.0001825 海葱
+	sea WORD[39,   5]: 0.0001815 海幸
+	sea WORD[39,   6]: 0.0001712 海境
+	sea WORD[39,   7]: 0.0001712 海界
+	sea WORD[39,   8]: 0.0001498 降海
+	sea WORD[39,   9]: 0.0001494 縁海
+	sea WORD[39,  10]: 0.0001441 海砂
+	sea WORD[39,  11]: 0.0001320 海陸風
+	sea WORD[39,  12]: 0.0001297 海鱮
+	sea WORD[39,  13]: 0.0001032 海蛍
+	sea WORD[39,  14]: 0.0000978 海遊び
+	sea WORD[39,  15]: 0.0000977 海霧
+	sea WORD[39,  16]: 0.0000976 紫海胆
+	sea WORD[39,  17]: 0.0000895 海釣り
+	sea WORD[39,  18]: 0.0000861 陸海空軍
+	sea WORD[39,  19]: 0.0000834 海塩
+	sea WORD[39,  20]: 0.0000821 海難
+	sea WORD[39,  21]: 0.0000819 海気
+	sea WORD[39,  22]: 0.0000811 海坂
+	sea WORD[39,  23]: 0.0000808 海百合
+	sea WORD[39,  24]: 0.0000743 海驢
+	sea WORD[39,  25]: 0.0000742 荒海
+	sea WORD[39,  26]: 0.0000738 海陸
+	sea WORD[39,  27]: 0.0000730 海馬
+	sea WORD[39,  28]: 0.0000724 海氷
+	sea WORD[39,  29]: 0.0000720 海神
+	sea WORD[39,  30]: 0.0000541 温海
+	sea WORD[39,  31]: 0.0000531 深海
+	sea WORD[39,  32]: 0.0000490 海獺
+	sea WORD[39,  33]: 0.0000483 氷海
+	sea WORD[39,  34]: 0.0000483 海面
+	sea WORD[39,  35]: 0.0000482 海上
+	sea WORD[39,  36]: 0.0000475 海松
+	sea WORD[39,  37]: 0.0000468 碧海
+	sea WORD[39,  38]: 0.0000467 海胆
+	sea WORD[39,  39]: 0.0000436 滄海
+	sea WORD[39,  40]: 0.0000436 蒼海
+	sea WORD[39,  41]: 0.0000436 泥海
+	sea WORD[39,  42]: 0.0000418 人海
+	sea WORD[39,  43]: 0.0000410 海損
+	sea WORD[39,  44]: 0.0000410 海図
+	sea WORD[39,  45]: 0.0000407 海鼠腸
+	sea WORD[39,  46]: 0.0000400 苦海
+	sea WORD[39,  47]: 0.0000394 雲海
+	sea WORD[39,  48]: 0.0000389 海蛇
+	sea WORD[39,  49]: 0.0000389 海道
+	sea WORD[39,  50]: 0.0000389 海牛
+	sea WORD[39,  51]: 0.0000384 環海
+	sea WORD[39,  52]: 0.0000374 海参
+	sea WORD[39,  53]: 0.0000374 熬海鼠
+	sea WORD[39,  54]: 0.0000373 遠海
+	sea WORD[39,  55]: 0.0000357 陸海
+	sea WORD[39,  56]: 0.0000329 海鞘
+	sea WORD[39,  57]: 0.0000329 老海鼠
+	sea WORD[39,  58]: 0.0000328 北海
+	sea WORD[39,  59]: 0.0000298 南海
+	sea WORD[39,  60]: 0.0000298 海鼠
+	sea WORD[39,  61]: 0.0000289 渡海
+	sea WORD[39,  62]: 0.0000279 暖海
+	sea WORD[39,  63]: 0.0000272 外海
+	sea WORD[39,  64]: 0.0000272 掃海
+	sea WORD[39,  65]: 0.0000266 樹海
+	sea WORD[39,  66]: 0.0000255 航海
+	sea WORD[39,  67]: 0.0000241 海路
+	sea WORD[39,  68]: 0.0000241 海洋
+	sea WORD[39,  69]: 0.0000241 海抜
+	sea WORD[39,  70]: 0.0000241 海南
+	sea WORD[39,  71]: 0.0000241 海中
+	sea WORD[39,  72]: 0.0000241 海賊
+	sea WORD[39,  73]: 0.0000241 海星
+	sea WORD[39,  74]: 0.0000236 大海
+	sea WORD[39,  75]: 0.0000234 海山
+	sea WORD[39,  76]: 0.0000234 海鳴
+	sea WORD[39,  77]: 0.0000234 海鳴り
+	sea WORD[39,  78]: 0.0000234 海鳥
+	sea WORD[39,  79]: 0.0000234 海がめ
+	sea WORD[39,  80]: 0.0000234 海ガメ
+	sea WORD[39,  81]: 0.0000234 海亀
+	sea WORD[39,  82]: 0.0000234 海風
+	sea WORD[39,  83]: 0.0000234 海
+	sea WORD[39,  84]: 0.0000234 海原
+	sea WORD[39,  85]: 0.0000233 内海
+	sea WORD[39,  86]: 0.0000225 浅海
+TOKEN[40]: 0.0058761    2 light
+	light WORD[40,   1]: 0.0039348 侮
+	light WORD[40,   2]: 0.0019414 侮る
+TOKEN[41]: 0.0057005    1 issue
+	issue WORD[41,   1]: 0.0057005 毎号
+TOKEN[42]: 0.0056669    1 abscond
+	abscond WORD[42,   1]: 0.0056669 晦ます
+TOKEN[43]: 0.0056047    4 alert
+	alert WORD[43,   1]: 0.0017283 敏しょう
+	alert WORD[43,   2]: 0.0017282 敏捷
+	alert WORD[43,   3]: 0.0012064 敏感
+	alert WORD[43,   4]: 0.0009418 機敏
+TOKEN[44]: 0.0055041    1 summer
+	summer WORD[44,   1]: 0.0055041 毎夏
+TOKEN[45]: 0.0055012   18 Japanese
+	Japanese WORD[45,   1]: 0.0016471 実梅
+	Japanese WORD[45,   2]: 0.0007776 しだれ梅
+	Japanese WORD[45,   3]: 0.0007776 枝垂れ梅
+	Japanese WORD[45,   4]: 0.0003741 野梅
+	Japanese WORD[45,   5]: 0.0002466 白梅
+	Japanese WORD[45,   6]: 0.0001708 梅園
+	Japanese WORD[45,   7]: 0.0001677 団扇海老
+	Japanese WORD[45,   8]: 0.0001631 臘梅
+	Japanese WORD[45,   9]: 0.0001631 蝋梅
+	Japanese WORD[45,  10]: 0.0001631 蠟梅
+	Japanese WORD[45,  11]: 0.0001550 梅
+	Japanese WORD[45,  12]: 0.0001420 藜海老
+	Japanese WORD[45,  13]: 0.0001327 紅梅
+	Japanese WORD[45,  14]: 0.0001303 梅擬き
+	Japanese WORD[45,  15]: 0.0001303 梅酒
+	Japanese WORD[45,  16]: 0.0000964 海鵜
+	Japanese WORD[45,  17]: 0.0000296 車海老
+	Japanese WORD[45,  18]: 0.0000171 海鰻
+TOKEN[46]: 0.0054843    2 weeping
+	weeping WORD[46,   1]: 0.0027421 しだれ梅
+	weeping WORD[46,   2]: 0.0027421 枝垂れ梅
+TOKEN[47]: 0.0054412    1 ambiguous
+	ambiguous WORD[47,   1]: 0.0054412 晦渋
+TOKEN[48]: 0.0054069    5 dolphin
+	dolphin WORD[48,   1]: 0.0031493 海豚漁
+	dolphin WORD[48,   2]: 0.0019255 鎌海豚
+	dolphin WORD[48,   3]: 0.0001476 斑海豚
+	dolphin WORD[48,   4]: 0.0001470 真海豚
+	dolphin WORD[48,   5]: 0.0000377 海豚
+TOKEN[49]: 0.0052308    3 remorse
+	remorse WORD[49,   1]: 0.0018112 後悔
+	remorse WORD[49,   2]: 0.0017098 悔悟
+	remorse WORD[49,   3]: 0.0017098 悔恨
+TOKEN[50]: 0.0052076    4 agile
+	agile WORD[50,   1]: 0.0016548 敏しょう
+	agile WORD[50,   2]: 0.0016548 敏捷
+	agile WORD[50,   3]: 0.0009568 俊敏
+	agile WORD[50,   4]: 0.0009411 敏
+TOKEN[51]: 0.0051807    2 evening
+	evening WORD[51,   1]: 0.0030637 毎夕
+	evening WORD[51,   2]: 0.0021171 毎夜
+TOKEN[52]: 0.0051744    1 weekend
+	weekend WORD[52,   1]: 0.0025872 毎
+TOKEN[53]: 0.0051388    2 year
+	year WORD[53,   1]: 0.0032764 大晦
+	year WORD[53,   2]: 0.0018624 毎年
+TOKEN[54]: 0.0050724    1 obscure
+	obscure WORD[54,   1]: 0.0050724 晦渋
+TOKEN[55]: 0.0050447    1 intellect
+	intellect WORD[55,   1]: 0.0050447 慧敏
+TOKEN[56]: 0.0050399    4 nimble
+	nimble WORD[56,   1]: 0.0016015 敏しょう
+	nimble WORD[56,   2]: 0.0016015 敏捷
+	nimble WORD[56,   3]: 0.0009260 俊敏
+	nimble WORD[56,   4]: 0.0009108 敏
+TOKEN[57]: 0.0048729    1 number
+	number WORD[57,   1]: 0.0048729 毎号
+TOKEN[58]: 0.0048069    2 slight
+	slight WORD[58,   1]: 0.0024049 侮蔑
+	slight WORD[58,   2]: 0.0024019 侮辱
+TOKEN[59]: 0.0047704    2 spite
+	spite WORD[59,   1]: 0.0023852 悔しまぎれ
+	spite WORD[59,   2]: 0.0023852 悔し紛れ
+TOKEN[60]: 0.0047555    4 prosperity
+	prosperity WORD[60,   1]: 0.0011890 繁昌
+	prosperity WORD[60,   2]: 0.0011890 繁盛
+	prosperity WORD[60,   3]: 0.0011888 繁華
+	prosperity WORD[60,   4]: 0.0011888 繁栄
+TOKEN[61]: 0.0047038    2 frustration
+	frustration WORD[61,   1]: 0.0023519 悔しまぎれ
+	frustration WORD[61,   2]: 0.0023519 悔し紛れ
+TOKEN[62]: 0.0046050   14 shrimp
+	shrimp WORD[62,   1]: 0.0013584 白海老
+	shrimp WORD[62,   2]: 0.0004246 甘海老
+	shrimp WORD[62,   3]: 0.0003638 虎海老
+	shrimp WORD[62,   4]: 0.0002875 茹で海老
+	shrimp WORD[62,   5]: 0.0001909 赤海老
+	shrimp WORD[62,   6]: 0.0001354 海蛍
+	shrimp WORD[62,   7]: 0.0001294 剥き海老
+	shrimp WORD[62,   8]: 0.0000672 小海老
+	shrimp WORD[62,   9]: 0.0000537 芝海老
+	shrimp WORD[62,  10]: 0.0000527 桜海老
+	shrimp WORD[62,  11]: 0.0000523 海老錠
+	shrimp WORD[62,  12]: 0.0000515 車海老
+	shrimp WORD[62,  13]: 0.0000484 干し海老
+	shrimp WORD[62,  14]: 0.0000308 海老
+TOKEN[63]: 0.0044864    1 conceal
+	conceal WORD[63,   1]: 0.0044864 晦ます
+TOKEN[64]: 0.0044390   12 species
+	species WORD[64,   1]: 0.0024244 恵胡海苔
+	species WORD[64,   2]: 0.0003860 金梅
+	species WORD[64,   3]: 0.0002643 海蘭
+	species WORD[64,   4]: 0.0002570 荒び海苔
+	species WORD[64,   5]: 0.0002087 海茸
+	species WORD[64,   6]: 0.0002050 鶏冠海苔
+	species WORD[64,   7]: 0.0001780 紫海苔
+	species WORD[64,   8]: 0.0001703 蜘蛛海星
+	species WORD[64,   9]: 0.0001067 海松貝
+	species WORD[64,  10]: 0.0001057 海羊歯
+	species WORD[64,  11]: 0.0000962 紫海胆
+	species WORD[64,  12]: 0.0000367 海老根
+TOKEN[65]: 0.0044116    1 deceive
+	deceive WORD[65,   1]: 0.0044116 晦ます
+TOKEN[66]: 0.0043945    1 darkness
+	darkness WORD[66,   1]: 0.0043945 晦冥
+TOKEN[67]: 0.0043224    2 busyness
+	busyness WORD[67,   1]: 0.0021624 繁多
+	busyness WORD[67,   2]: 0.0021600 繁劇
+TOKEN[68]: 0.0042526    1 hide
+	hide WORD[68,   1]: 0.0042526 晦ます
+TOKEN[69]: 0.0042420    1 fool
+	fool WORD[69,   1]: 0.0042420 晦ます
+TOKEN[70]: 0.0041287    3 thriving
+	thriving WORD[70,   1]: 0.0013763 繁昌
+	thriving WORD[70,   2]: 0.0013763 繁盛
+	thriving WORD[70,   3]: 0.0013761 繁栄
+TOKEN[71]: 0.0040654    1 made
+	made WORD[71,   1]: 0.0040654 侮
+TOKEN[72]: 0.0040644    3 flourishing
+	flourishing WORD[72,   1]: 0.0013549 繁昌
+	flourishing WORD[72,   2]: 0.0013549 繁盛
+	flourishing WORD[72,   3]: 0.0013547 繁栄
+TOKEN[73]: 0.0040228    1 incognito
+	incognito WORD[73,   1]: 0.0040228 韜晦
+TOKEN[74]: 0.0040092    3 prompt
+	prompt WORD[74,   1]: 0.0015754 敏しょう
+	prompt WORD[74,   2]: 0.0015754 敏捷
+	prompt WORD[74,   3]: 0.0008585 機敏
+TOKEN[75]: 0.0039340    1 chickweed
+	chickweed WORD[75,   1]: 0.0039340 繁縷
+TOKEN[76]: 0.0039340    1 Stellaria
+	Stellaria WORD[76,   1]: 0.0039340 繁縷
+TOKEN[77]: 0.0039340    1 stitchwort
+	stitchwort WORD[77,   1]: 0.0039340 繁縷
+TOKEN[78]: 0.0038192    2 penitent
+	penitent WORD[78,   1]: 0.0019096 悔い改める
+	penitent WORD[78,   2]: 0.0019096 悔改める
+TOKEN[79]: 0.0037660    2 night
+	night WORD[79,   1]: 0.0018833 毎夜
+	night WORD[79,   2]: 0.0018827 毎晩
+TOKEN[80]: 0.0037653    2 quickness
+	quickness WORD[80,   1]: 0.0018829 敏速
+	quickness WORD[80,   2]: 0.0018824 敏活
+TOKEN[81]: 0.0036890   11 rainy
+	rainy WORD[81,   1]: 0.0006395 梅雨空
+	rainy WORD[81,   2]: 0.0005905 戻り梅雨
+	rainy WORD[81,   3]: 0.0003673 入梅
+	rainy WORD[81,   4]: 0.0003482 梅雨入り
+	rainy WORD[81,   5]: 0.0003482 梅雨
+	rainy WORD[81,   6]: 0.0002850 走り梅雨
+	rainy WORD[81,   7]: 0.0002630 梅雨晴れ
+	rainy WORD[81,   8]: 0.0002630 梅雨寒
+	rainy WORD[81,   9]: 0.0002360 空梅雨
+	rainy WORD[81,  10]: 0.0001741 梅雨時
+	rainy WORD[81,  11]: 0.0001741 梅雨明け
+TOKEN[82]: 0.0036133    2 complexity
+	complexity WORD[82,   1]: 0.0022897 繁簡
+	complexity WORD[82,   2]: 0.0013236 繁
+TOKEN[83]: 0.0035753    5 Prunus
+	Prunus WORD[83,   1]: 0.0014332 しだれ梅
+	Prunus WORD[83,   2]: 0.0014331 枝垂れ梅
+	Prunus WORD[83,   3]: 0.0002963 梅桃
+	Prunus WORD[83,   4]: 0.0002699 庭梅
+	Prunus WORD[83,   5]: 0.0001428 梅
+TOKEN[84]: 0.0035245    3 sensitive
+	sensitive WORD[84,   1]: 0.0014889 敏い
+	sensitive WORD[84,   2]: 0.0011734 敏感
+	sensitive WORD[84,   3]: 0.0008621 鋭敏
+TOKEN[85]: 0.0035237    1 algae
+	algae WORD[85,   1]: 0.0035237 恵胡海苔
+TOKEN[86]: 0.0035197    2 contrition
+	contrition WORD[86,   1]: 0.0017599 悔悛
+	contrition WORD[86,   2]: 0.0017598 悔恨
+TOKEN[87]: 0.0033047    2 bitter
+	bitter WORD[87,   1]: 0.0020072 悔し涙
+	bitter WORD[87,   2]: 0.0012975 悔しい
+TOKEN[88]: 0.0032940    1 despise
+	despise WORD[88,   1]: 0.0032940 侮る
+TOKEN[89]: 0.0032775    1 strict
+	strict WORD[89,   1]: 0.0032775 韜晦
+TOKEN[90]: 0.0032556    2 mourn
+	mourn WORD[90,   1]: 0.0016278 悔む
+	mourn WORD[90,   2]: 0.0016278 悔やむ
+TOKEN[91]: 0.0031936    6 red
+	red WORD[91,   1]: 0.0023886 恵胡海苔
+	red WORD[91,   2]: 0.0002127 茹で海老
+	red WORD[91,   3]: 0.0002019 鶏冠海苔
+	red WORD[91,   4]: 0.0001706 紅梅
+	red WORD[91,   5]: 0.0001413 赤海老
+	red WORD[91,   6]: 0.0000785 甘海老
+TOKEN[92]: 0.0031926    2 extreme
+	extreme WORD[92,   1]: 0.0015972 繁多
+	extreme WORD[92,   2]: 0.0015954 繁劇
+TOKEN[93]: 0.0031709    1 affront
+	affront WORD[93,   1]: 0.0031709 侮辱
+TOKEN[94]: 0.0031205    1 status
+	status WORD[94,   1]: 0.0031205 韜晦
+TOKEN[95]: 0.0031075    2 lament
+	lament WORD[95,   1]: 0.0015537 悔む
+	lament WORD[95,   2]: 0.0015537 悔やむ
+TOKEN[96]: 0.0031074    2 condolence
+	condolence WORD[96,   1]: 0.0015537 悔み
+	condolence WORD[96,   2]: 0.0015537 悔やみ
+TOKEN[97]: 0.0030865   12 season
+	season WORD[97,   1]: 0.0005039 梅雨空
+	season WORD[97,   2]: 0.0004653 戻り梅雨
+	season WORD[97,   3]: 0.0002894 入梅
+	season WORD[97,   4]: 0.0002744 梅雨時
+	season WORD[97,   5]: 0.0002744 梅雨入り
+	season WORD[97,   6]: 0.0002744 梅雨
+	season WORD[97,   7]: 0.0002245 走り梅雨
+	season WORD[97,   8]: 0.0002072 梅雨晴れ
+	season WORD[97,   9]: 0.0002072 梅雨寒
+	season WORD[97,  10]: 0.0001860 空梅雨
+	season WORD[97,  11]: 0.0001372 梅雨明け
+	season WORD[97,  12]: 0.0000426 海開き
+TOKEN[98]: 0.0030636    1 meal
+	meal WORD[98,   1]: 0.0030636 毎食
+TOKEN[99]: 0.0030370    1 brown
+	brown WORD[99,   1]: 0.0030370 栗梅
+TOKEN[100]: 0.0029879    1 continued
+	continued WORD[100,   1]: 0.0029879 毎度
+TOKEN[101]: 0.0029846    2 sorry
+	sorry WORD[101,   1]: 0.0014923 悔む
+	sorry WORD[101,   2]: 0.0014923 悔やむ
+TOKEN[102]: 0.0029842    1 term
+	term WORD[102,   1]: 0.0029842 毎期
+TOKEN[103]: 0.0028880    6 deep
+	deep WORD[103,   1]: 0.0026995 栗梅
+	deep WORD[103,   2]: 0.0000441 海溝
+	deep WORD[103,   3]: 0.0000402 遠海
+	deep WORD[103,   4]: 0.0000286 深海
+	deep WORD[103,   5]: 0.0000252 海山
+	deep WORD[103,   6]: 0.0000252 海原
+TOKEN[104]: 0.0028257    2 thinking
+	thinking WORD[104,   1]: 0.0014129 敏しょう
+	thinking WORD[104,   2]: 0.0014129 敏捷
+TOKEN[105]: 0.0027612    1 thank
+	thank WORD[105,   1]: 0.0027612 毎度
+TOKEN[106]: 0.0026722    1 week
+	week WORD[106,   1]: 0.0026722 毎週
+TOKEN[107]: 0.0026426    1 patronage
+	patronage WORD[107,   1]: 0.0026426 毎度
+TOKEN[108]: 0.0026186    1 chagrin
+	chagrin WORD[108,   1]: 0.0026186 悔し涙
+TOKEN[109]: 0.0026072    3 sharp
+	sharp WORD[109,   1]: 0.0011738 敏い
+	sharp WORD[109,   2]: 0.0007537 敏
+	sharp WORD[109,   3]: 0.0006797 鋭敏
+TOKEN[110]: 0.0025866    1 color
+	color WORD[110,   1]: 0.0025866 栗梅
+TOKEN[111]: 0.0024602    2 staring
+	staring WORD[111,   1]: 0.0012301 繁々
+	staring WORD[111,   2]: 0.0012301 繁繁
+TOKEN[112]: 0.0024534    1 cumbersome
+	cumbersome WORD[112,   1]: 0.0024534 繁雑
+TOKEN[113]: 0.0024230    1 hour
+	hour WORD[113,   1]: 0.0024230 毎時
+TOKEN[114]: 0.0023064    3 velvet
+	velvet WORD[114,   1]: 0.0008188 白海老
+	velvet WORD[114,   2]: 0.0004386 虎海老
+	velvet WORD[114,   3]: 0.0002302 赤海老
+TOKEN[115]: 0.0022754    2 business
+	business WORD[115,   1]: 0.0013472 繁閑
+	business WORD[115,   2]: 0.0009282 繁忙
+TOKEN[116]: 0.0022398    1 intricate
+	intricate WORD[116,   1]: 0.0022398 繁雑
+TOKEN[117]: 0.0022398    1 vexatious
+	vexatious WORD[117,   1]: 0.0022398 繁雑
+TOKEN[118]: 0.0022135    1 inertness
+	inertness WORD[118,   1]: 0.0022135 不敏
+TOKEN[119]: 0.0021652    1 autumn
+	autumn WORD[119,   1]: 0.0021652 毎秋
+TOKEN[120]: 0.0021425    1 morning
+	morning WORD[120,   1]: 0.0021425 毎朝
+TOKEN[121]: 0.0021085    1 hold
+	hold WORD[121,   1]: 0.0021085 侮る
+TOKEN[122]: 0.0021059    1 crying
+	crying WORD[122,   1]: 0.0021059 悔し泣き
+TOKEN[123]: 0.0020975    2 astute
+	astute WORD[123,   1]: 0.0010805 機敏
+	astute WORD[123,   2]: 0.0010170 鋭敏
+TOKEN[124]: 0.0020619    1 alacrity
+	alacrity WORD[124,   1]: 0.0020619 敏活
+TOKEN[125]: 0.0020393    1 snapper
+	snapper WORD[125,   1]: 0.0020393 梅色
+TOKEN[126]: 0.0020393    1 look
+	look WORD[126,   1]: 0.0020393 侮る
+TOKEN[127]: 0.0020248    1 court
+	court WORD[127,   1]: 0.0020248 侮辱
+TOKEN[128]: 0.0019979    1 simplicity
+	simplicity WORD[128,   1]: 0.0019979 繁簡
+TOKEN[129]: 0.0019830    1 agility
+	agility WORD[129,   1]: 0.0019830 敏速
+TOKEN[130]: 0.0019821    1 slack
+	slack WORD[130,   1]: 0.0019821 繁閑
+TOKEN[131]: 0.0019736    1 second
+	second WORD[131,   1]: 0.0019736 毎秒
+TOKEN[132]: 0.0019658    1 round
+	round WORD[132,   1]: 0.0019658 毎回
+TOKEN[133]: 0.0019133    1 fusilier
+	fusilier WORD[133,   1]: 0.0019133 梅色
+TOKEN[134]: 0.0018944    1 complex
+	complex WORD[134,   1]: 0.0018944 繁雑
+TOKEN[135]: 0.0018861    1 lata
+	lata WORD[135,   1]: 0.0009431 白海老
+TOKEN[136]: 0.0018840    1 complicated
+	complicated WORD[136,   1]: 0.0018840 繁雑
+TOKEN[137]: 0.0018840    1 troublesome
+	troublesome WORD[137,   1]: 0.0018840 繁雑
+TOKEN[138]: 0.0018541    1 penitence
+	penitence WORD[138,   1]: 0.0018541 懺悔
+TOKEN[139]: 0.0018466    1 confused
+	confused WORD[139,   1]: 0.0018466 繁雑
+TOKEN[140]: 0.0018408    1 fall
+	fall WORD[140,   1]: 0.0018408 毎秋
+TOKEN[141]: 0.0018031    1 dullness
+	dullness WORD[141,   1]: 0.0018031 不敏
+TOKEN[142]: 0.0018002    1 rankness
+	rankness WORD[142,   1]: 0.0018002 繁茂
+TOKEN[143]: 0.0017916    1 make
+	make WORD[143,   1]: 0.0017916 侮る
+TOKEN[144]: 0.0017591    1 inability
+	inability WORD[144,   1]: 0.0017591 不敏
+TOKEN[145]: 0.0017578    2 keen
+	keen WORD[145,   1]: 0.0009315 俊敏
+	keen WORD[145,   2]: 0.0008263 鋭敏
+TOKEN[146]: 0.0017231    1 stupidity
+	stupidity WORD[146,   1]: 0.0017231 不敏
+TOKEN[147]: 0.0017104    1 acute
+	acute WORD[147,   1]: 0.0017104 鋭敏
+TOKEN[148]: 0.0017042    2 shrewd
+	shrewd WORD[148,   1]: 0.0008779 機敏
+	shrewd WORD[148,   2]: 0.0008263 鋭敏
+TOKEN[149]: 0.0017025    1 harbor
+	harbor WORD[149,   1]: 0.0017025 海口
+TOKEN[150]: 0.0016928    1 injustice
+	injustice WORD[150,   1]: 0.0016928 悔しい
+TOKEN[151]: 0.0016928    1 vexed
+	vexed WORD[151,   1]: 0.0016928 悔しい
+TOKEN[152]: 0.0016825    1 discernment
+	discernment WORD[152,   1]: 0.0016825 明敏
+TOKEN[153]: 0.0016399    1 yellowtail
+	yellowtail WORD[153,   1]: 0.0016399 梅色
+TOKEN[154]: 0.0016180    4 Chinese
+	Chinese WORD[154,   1]: 0.0013294 繁
+	Chinese WORD[154,   2]: 0.0001658 庭梅
+	Chinese WORD[154,   3]: 0.0000877 梅
+	Chinese WORD[154,   4]: 0.0000351 海棠
+TOKEN[155]: 0.0016103    1 disappointed
+	disappointed WORD[155,   1]: 0.0016103 悔しい
+TOKEN[156]: 0.0016092    1 discerning
+	discerning WORD[156,   1]: 0.0016092 敏い
+TOKEN[157]: 0.0016048    1 confession
+	confession WORD[157,   1]: 0.0016048 懺悔
+TOKEN[158]: 0.0015944    1 regrettable
+	regrettable WORD[158,   1]: 0.0015944 悔しい
+TOKEN[159]: 0.0015859    1 character
+	character WORD[159,   1]: 0.0015859 繁
+TOKEN[160]: 0.0015642    1 intelligence
+	intelligence WORD[160,   1]: 0.0015642 明敏
+TOKEN[161]: 0.0015356    1 press
+	press WORD[161,   1]: 0.0015356 繁閑
+TOKEN[162]: 0.0015105    1 humiliation
+	humiliation WORD[162,   1]: 0.0015105 悔しい
+TOKEN[163]: 0.0014854    4 blue
+	blue WORD[163,   1]: 0.0011831 梅色
+	blue WORD[163,   2]: 0.0001055 碧海
+	blue WORD[163,   3]: 0.0000984 滄海
+	blue WORD[163,   4]: 0.0000984 蒼海
+TOKEN[164]: 0.0014678    1 annoying
+	annoying WORD[164,   1]: 0.0014678 悔しい
+TOKEN[165]: 0.0014396    1 competence
+	competence WORD[165,   1]: 0.0014396 敏腕
+TOKEN[166]: 0.0014325    1 incessant
+	incessant WORD[166,   1]: 0.0014325 頻繁
+TOKEN[167]: 0.0014302    1 propagation
+	propagation WORD[167,   1]: 0.0014302 繁殖
+TOKEN[168]: 0.0014300    1 lack
+	lack WORD[168,   1]: 0.0014300 不敏
+TOKEN[169]: 0.0014239    1 activity
+	activity WORD[169,   1]: 0.0014239 敏速
+TOKEN[170]: 0.0014170    1 luxuriate
+	luxuriate WORD[170,   1]: 0.0014170 繁る
+TOKEN[171]: 0.0014170    1 unsimplified
+	unsimplified WORD[171,   1]: 0.0014170 繁
+TOKEN[172]: 0.0014169    1 coppice
+	coppice WORD[172,   1]: 0.0014169 繁み
+TOKEN[173]: 0.0014167   13 dried
+	dried WORD[173,   1]: 0.0003823 梅肉
+	dried WORD[173,   2]: 0.0002216 梅干
+	dried WORD[173,   3]: 0.0002216 梅干し
+	dried WORD[173,   4]: 0.0001781 海鼠子
+	dried WORD[173,   5]: 0.0000511 乾し海苔
+	dried WORD[173,   6]: 0.0000511 乾海苔
+	dried WORD[173,   7]: 0.0000511 干し海苔
+	dried WORD[173,   8]: 0.0000511 干海苔
+	dried WORD[173,   9]: 0.0000481 海苔
+	dried WORD[173,  10]: 0.0000404 海参
+	dried WORD[173,  11]: 0.0000404 熬海鼠
+	dried WORD[173,  12]: 0.0000400 青海苔
+	dried WORD[173,  13]: 0.0000398 干し海老
+TOKEN[174]: 0.0014154    1 luxuriant
+	luxuriant WORD[174,   1]: 0.0014154 繁茂
+TOKEN[175]: 0.0014115    1 promontory
+	promontory WORD[175,   1]: 0.0014115 海角
+TOKEN[176]: 0.0013941   11 marine
+	marine WORD[176,   1]: 0.0007216 海雪
+	marine WORD[176,   2]: 0.0001308 海幸
+	marine WORD[176,   3]: 0.0001088 海生
+	marine WORD[176,   4]: 0.0000819 布海苔
+	marine WORD[176,   5]: 0.0000695 海産
+	marine WORD[176,   6]: 0.0000591 海蝕
+	marine WORD[176,   7]: 0.0000591 海食
+	marine WORD[176,   8]: 0.0000591 海獣
+	marine WORD[176,   9]: 0.0000348 海兵
+	marine WORD[176,  10]: 0.0000348 海草
+	marine WORD[176,  11]: 0.0000347 海運
+TOKEN[177]: 0.0013841    1 susceptible
+	susceptible WORD[177,   1]: 0.0013841 敏感
+TOKEN[178]: 0.0013763    1 multiplication
+	multiplication WORD[178,   1]: 0.0013763 繁殖
+TOKEN[179]: 0.0013679   18 seaweed
+	seaweed WORD[179,   1]: 0.0002244 紫海苔
+	seaweed WORD[179,   2]: 0.0001181 海松
+	seaweed WORD[179,   3]: 0.0000862 焼き海苔
+	seaweed WORD[179,   4]: 0.0000862 焼海苔
+	seaweed WORD[179,   5]: 0.0000648 海雲
+	seaweed WORD[179,   6]: 0.0000600 海蘊
+	seaweed WORD[179,   7]: 0.0000588 乾し海苔
+	seaweed WORD[179,   8]: 0.0000588 乾海苔
+	seaweed WORD[179,   9]: 0.0000588 干し海苔
+	seaweed WORD[179,  10]: 0.0000588 干海苔
+	seaweed WORD[179,  11]: 0.0000554 海苔
+	seaweed WORD[179,  12]: 0.0000509 海士
+	seaweed WORD[179,  13]: 0.0000463 海髪
+	seaweed WORD[179,  14]: 0.0000460 青海苔
+	seaweed WORD[179,  15]: 0.0000459 海人
+	seaweed WORD[179,  16]: 0.0000459 海女
+	seaweed WORD[179,  17]: 0.0000300 海藻
+	seaweed WORD[179,  18]: 0.0000300 海草
+TOKEN[180]: 0.0013548    1 reproduction
+	reproduction WORD[180,   1]: 0.0013548 繁殖
+TOKEN[181]: 0.0013505    2 broad
+	broad WORD[181,   1]: 0.0006583 白海老
+	broad WORD[181,   2]: 0.0000339 樹海
+TOKEN[182]: 0.0013345    1 talent
+	talent WORD[182,   1]: 0.0013345 不敏
+TOKEN[183]: 0.0013131    1 failure
+	failure WORD[183,   1]: 0.0013131 悔しい
+TOKEN[184]: 0.0013092    2 bush
+	bush WORD[184,   1]: 0.0010479 繁み
+	bush WORD[184,   2]: 0.0002613 庭梅
+TOKEN[185]: 0.0012995    1 frequent
+	frequent WORD[185,   1]: 0.0012995 頻繁
+TOKEN[186]: 0.0012969    1 one
+	one WORD[186,   1]: 0.0012969 韜晦
+TOKEN[187]: 0.0012965    1 bustle
+	bustle WORD[187,   1]: 0.0012965 繁華
+TOKEN[188]: 0.0012956    1 cape
+	cape WORD[188,   1]: 0.0012956 海角
+TOKEN[189]: 0.0012828    1 headland
+	headland WORD[189,   1]: 0.0012828 海角
+TOKEN[190]: 0.0012622    1 blossom
+	blossom WORD[190,   1]: 0.0006311 梅花
+TOKEN[191]: 0.0012594    1 breeding
+	breeding WORD[191,   1]: 0.0012594 繁殖
+TOKEN[192]: 0.0012586   10 edible
+	edible WORD[192,   1]: 0.0003337 荒び海苔
+	edible WORD[192,   2]: 0.0002661 鶏冠海苔
+	edible WORD[192,   3]: 0.0002311 紫海苔
+	edible WORD[192,   4]: 0.0000667 海雲
+	edible WORD[192,   5]: 0.0000618 海蘊
+	edible WORD[192,   6]: 0.0000606 乾し海苔
+	edible WORD[192,   7]: 0.0000606 乾海苔
+	edible WORD[192,   8]: 0.0000606 干し海苔
+	edible WORD[192,   9]: 0.0000606 干海苔
+	edible WORD[192,  10]: 0.0000570 海苔
+TOKEN[193]: 0.0012500    1 capability
+	capability WORD[193,   1]: 0.0012500 敏腕
+TOKEN[194]: 0.0012482    1 brushwood
+	brushwood WORD[194,   1]: 0.0012482 繁み
+TOKEN[195]: 0.0012145    1 luxurious
+	luxurious WORD[195,   1]: 0.0012145 繁る
+TOKEN[196]: 0.0012003    1 rampant
+	rampant WORD[196,   1]: 0.0012003 繁る
+TOKEN[197]: 0.0012003    1 frequency
+	frequency WORD[197,   1]: 0.0012003 繁
+TOKEN[198]: 0.0011999    1 ear
+	ear WORD[198,   1]: 0.0011999 敏い
+TOKEN[199]: 0.0011978    1 canny
+	canny WORD[199,   1]: 0.0011978 機敏
+TOKEN[200]: 0.0011792    1 hunting
+	hunting WORD[200,   1]: 0.0011792 海豚漁
+TOKEN[201]: 0.0011756    1 busy
+	busy WORD[201,   1]: 0.0011756 繁忙
+TOKEN[202]: 0.0011486    1 growth
+	growth WORD[202,   1]: 0.0011486 繁茂
+TOKEN[203]: 0.0011393    2 fishing
+	fishing WORD[203,   1]: 0.0010426 海豚漁
+	fishing WORD[203,   2]: 0.0000967 海釣り
+TOKEN[204]: 0.0011376    1 lunar
+	lunar WORD[204,   1]: 0.0011376 梅月
+TOKEN[205]: 0.0011369    1 thicket
+	thicket WORD[205,   1]: 0.0011369 繁み
+TOKEN[206]: 0.0011353    3 praecox
+	praecox WORD[206,   1]: 0.0003784 臘梅
+	praecox WORD[206,   2]: 0.0003784 蝋梅
+	praecox WORD[206,   3]: 0.0003784 蠟梅
+TOKEN[207]: 0.0011353    3 allspice
+	allspice WORD[207,   1]: 0.0003784 臘梅
+	allspice WORD[207,   2]: 0.0003784 蝋梅
+	allspice WORD[207,   3]: 0.0003784 蠟梅
+TOKEN[208]: 0.0011353    3 Chimonanthus
+	Chimonanthus WORD[208,   1]: 0.0003784 臘梅
+	Chimonanthus WORD[208,   2]: 0.0003784 蝋梅
+	Chimonanthus WORD[208,   3]: 0.0003784 蠟梅
+TOKEN[209]: 0.0011094    1 design
+	design WORD[209,   1]: 0.0005547 梅花
+TOKEN[210]: 0.0010786    1 aware
+	aware WORD[210,   1]: 0.0010786 敏感
+TOKEN[211]: 0.0010728    1 pressure
+	pressure WORD[211,   1]: 0.0010728 繁忙
+TOKEN[212]: 0.0010596    1 orchard
+	orchard WORD[212,   1]: 0.0010596 梅園
+TOKEN[213]: 0.0010545    1 increase
+	increase WORD[213,   1]: 0.0010545 繁殖
+TOKEN[214]: 0.0010355    5 lobster
+	lobster WORD[214,   1]: 0.0003390 団扇海老
+	lobster WORD[214,   2]: 0.0003345 茹で海老
+	lobster WORD[214,   3]: 0.0002871 藜海老
+	lobster WORD[214,   4]: 0.0000391 小海老
+	lobster WORD[214,   5]: 0.0000359 海老
+TOKEN[215]: 0.0010249    1 splash
+	splash WORD[215,   1]: 0.0010249 繁吹
+TOKEN[216]: 0.0010249    1 spray
+	spray WORD[216,   1]: 0.0010249 繁吹
+TOKEN[217]: 0.0010077   17 ocean
+	ocean WORD[217,   1]: 0.0001860 海砂
+	ocean WORD[217,   2]: 0.0001431 海盆
+	ocean WORD[217,   3]: 0.0000974 海魚
+	ocean WORD[217,   4]: 0.0000958 海区
+	ocean WORD[217,   5]: 0.0000529 海溝
+	ocean WORD[217,   6]: 0.0000529 海気
+	ocean WORD[217,   7]: 0.0000482 遠海
+	ocean WORD[217,   8]: 0.0000465 海神
+	ocean WORD[217,   9]: 0.0000351 外海
+	ocean WORD[217,  10]: 0.0000343 深海
+	ocean WORD[217,  11]: 0.0000312 海流
+	ocean WORD[217,  12]: 0.0000312 海洋
+	ocean WORD[217,  13]: 0.0000311 海底
+	ocean WORD[217,  14]: 0.0000311 海域
+	ocean WORD[217,  15]: 0.0000305 大海
+	ocean WORD[217,  16]: 0.0000302 海
+	ocean WORD[217,  17]: 0.0000301 海原
+TOKEN[218]: 0.0009732    1 growing
+	growing WORD[218,   1]: 0.0009732 繁り
+TOKEN[219]: 0.0009487    1 nervousness
+	nervousness WORD[219,   1]: 0.0009487 過敏
+TOKEN[220]: 0.0009298    2 Jasminum
+	Jasminum WORD[220,   1]: 0.0006515 金梅
+	Jasminum WORD[220,   2]: 0.0002783 黄梅
+TOKEN[221]: 0.0009106    1 leaf
+	leaf WORD[221,   1]: 0.0009106 繁る
+TOKEN[222]: 0.0009005    1 skill
+	skill WORD[222,   1]: 0.0009005 敏腕
+TOKEN[223]: 0.0008973    2 jasmine
+	jasmine WORD[223,   1]: 0.0006287 金梅
+	jasmine WORD[223,   2]: 0.0002686 黄梅
+TOKEN[224]: 0.0008887    4 world
+	world WORD[224,   1]: 0.0003428 海境
+	world WORD[224,   2]: 0.0003428 海界
+	world WORD[224,   3]: 0.0001625 海坂
+	world WORD[224,   4]: 0.0000405 四海
+TOKEN[225]: 0.0008870    1 fallen
+	fallen WORD[225,   1]: 0.0008870 落梅
+TOKEN[226]: 0.0008718    1 ability
+	ability WORD[226,   1]: 0.0008718 敏腕
+TOKEN[227]: 0.0008703    1 grow
+	grow WORD[227,   1]: 0.0008703 繁る
+TOKEN[228]: 0.0008703    1 thick
+	thick WORD[228,   1]: 0.0008703 繁り
+TOKEN[229]: 0.0008687    7 prawn
+	prawn WORD[229,   1]: 0.0003100 茹で海老
+	prawn WORD[229,   2]: 0.0002059 赤海老
+	prawn WORD[229,   3]: 0.0001144 甘海老
+	prawn WORD[229,   4]: 0.0001111 車海老
+	prawn WORD[229,   5]: 0.0000579 芝海老
+	prawn WORD[229,   6]: 0.0000362 小海老
+	prawn WORD[229,   7]: 0.0000333 海老
+TOKEN[230]: 0.0008613    1 trouble
+	trouble WORD[230,   1]: 0.0008613 繁
+TOKEN[231]: 0.0008355    3 tree
+	tree WORD[231,   1]: 0.0003356 老梅
+	tree WORD[231,   2]: 0.0003287 寒梅
+	tree WORD[231,   3]: 0.0001712 紅梅
+TOKEN[232]: 0.0008264    2 white
+	white WORD[232,   1]: 0.0006459 白梅
+	white WORD[232,   2]: 0.0001805 海葱
+TOKEN[233]: 0.0008046    1 full
+	full WORD[233,   1]: 0.0008046 繁る
+TOKEN[234]: 0.0007879    2 sand
+	sand WORD[234,   1]: 0.0005205 海砂
+	sand WORD[234,   2]: 0.0002673 団扇海老
+TOKEN[235]: 0.0007660    2 cherry
+	cherry WORD[235,   1]: 0.0005263 梅桃
+	cherry WORD[235,   2]: 0.0002397 庭梅
+TOKEN[236]: 0.0007632    1 harbinger
+	harbinger WORD[236,   1]: 0.0007632 梅暦
+TOKEN[237]: 0.0007607    1 Trollius
+	Trollius WORD[237,   1]: 0.0007607 金梅
+TOKEN[238]: 0.0007607    1 globeflower
+	globeflower WORD[238,   1]: 0.0007607 金梅
+TOKEN[239]: 0.0007570    1 traditional
+	traditional WORD[239,   1]: 0.0007570 繁
+TOKEN[240]: 0.0007198    1 entrance
+	entrance WORD[240,   1]: 0.0007198 海口
+TOKEN[241]: 0.0007175    1 overcast
+	overcast WORD[241,   1]: 0.0007175 梅雨空
+TOKEN[242]: 0.0006999    1 fifth
+	fifth WORD[242,   1]: 0.0006999 梅月
+TOKEN[243]: 0.0006973    4 japonica
+	japonica WORD[243,   1]: 0.0003010 海蘭
+	japonica WORD[243,   2]: 0.0002176 庭梅
+	japonica WORD[243,   3]: 0.0001204 海羊歯
+	japonica WORD[243,   4]: 0.0000584 海石榴
+TOKEN[244]: 0.0006921    1 fourth
+	fourth WORD[244,   1]: 0.0006921 梅月
+TOKEN[245]: 0.0006870    1 depth
+	depth WORD[245,   1]: 0.0006870 海深
+TOKEN[246]: 0.0006865    3 weather
+	weather WORD[246,   1]: 0.0002404 戻り梅雨
+	weather WORD[246,   2]: 0.0002320 走り梅雨
+	weather WORD[246,   3]: 0.0002141 梅雨寒
+TOKEN[247]: 0.0006219    7 seaside
+	seaside WORD[247,   1]: 0.0002951 海っ縁
+	seaside WORD[247,   2]: 0.0001210 海パン
+	seaside WORD[247,   3]: 0.0000566 臨海
+	seaside WORD[247,   4]: 0.0000382 海浜
+	seaside WORD[247,   5]: 0.0000370 海べ
+	seaside WORD[247,   6]: 0.0000370 海辺
+	seaside WORD[247,   7]: 0.0000370 海沿い
+TOKEN[248]: 0.0006196    4 laver
+	laver WORD[248,   1]: 0.0004256 荒び海苔
+	laver WORD[248,   2]: 0.0000728 海苔
+	laver WORD[248,   3]: 0.0000607 甘海苔
+	laver WORD[248,   4]: 0.0000604 青海苔
+TOKEN[249]: 0.0005759    2 silk
+	silk WORD[249,   1]: 0.0002646 梅花
+	silk WORD[249,   2]: 0.0000467 海気
+TOKEN[250]: 0.0005754    2 fabric
+	fabric WORD[250,   1]: 0.0002738 梅花
+	fabric WORD[250,   2]: 0.0000279 大海
+TOKEN[251]: 0.0005618    3 boundary
+	boundary WORD[251,   1]: 0.0002271 海境
+	boundary WORD[251,   2]: 0.0002271 海界
+	boundary WORD[251,   3]: 0.0001076 海坂
+TOKEN[252]: 0.0005614    2 wild
+	wild WORD[252,   1]: 0.0005364 野梅
+	wild WORD[252,   2]: 0.0000250 岩海苔
+TOKEN[253]: 0.0005565    2 Porphyra
+	Porphyra WORD[253,   1]: 0.0004752 荒び海苔
+	Porphyra WORD[253,   2]: 0.0000812 海苔
+TOKEN[254]: 0.0005557    1 fan
+	fan WORD[254,   1]: 0.0005557 団扇海老
+TOKEN[255]: 0.0005537    2 lion
+	lion WORD[255,   1]: 0.0001123 海驢
+	lion WORD[255,   2]: 0.0001103 海馬
+TOKEN[256]: 0.0005517    1 grove
+	grove WORD[256,   1]: 0.0005517 梅林
+TOKEN[257]: 0.0005384    1 tora
+	tora WORD[257,   1]: 0.0005384 虎海老
+TOKEN[258]: 0.0005355    1 pulp
+	pulp WORD[258,   1]: 0.0005355 梅肉
+TOKEN[259]: 0.0005270    1 snow
+	snow WORD[259,   1]: 0.0005270 海雪
+TOKEN[260]: 0.0005209    1 toadflax
+	toadflax WORD[260,   1]: 0.0005209 海蘭
+TOKEN[261]: 0.0005209    1 Linaria
+	Linaria WORD[261,   1]: 0.0005209 海蘭
+TOKEN[262]: 0.0005191    1 sky
+	sky WORD[262,   1]: 0.0005191 梅雨空
+TOKEN[263]: 0.0005131    3 men
+	men WORD[263,   1]: 0.0002074 海境
+	men WORD[263,   2]: 0.0002074 海界
+	men WORD[263,   3]: 0.0000983 海坂
+TOKEN[264]: 0.0005034    4 god
+	god WORD[264,   1]: 0.0001875 海境
+	god WORD[264,   2]: 0.0001875 海界
+	god WORD[264,   3]: 0.0000889 海坂
+	god WORD[264,   4]: 0.0000395 海神
+TOKEN[265]: 0.0004996    3 star
+	star WORD[265,   1]: 0.0002605 海羊歯
+	star WORD[265,   2]: 0.0002098 蜘蛛海星
+	star WORD[265,   3]: 0.0000293 海星
+TOKEN[266]: 0.0004851    7 nori
+	nori WORD[266,   1]: 0.0001265 もみ海苔
+	nori WORD[266,   2]: 0.0001265 揉み海苔
+	nori WORD[266,   3]: 0.0000624 海苔
+	nori WORD[266,   4]: 0.0000518 青海苔
+	nori WORD[266,   5]: 0.0000428 海苔巻
+	nori WORD[266,   6]: 0.0000428 海苔巻き
+	nori WORD[266,   7]: 0.0000323 岩海苔
+TOKEN[267]: 0.0004651    4 northern
+	northern WORD[267,   1]: 0.0002063 甘海老
+	northern WORD[267,   2]: 0.0000465 海馬
+	northern WORD[267,   3]: 0.0000419 北海
+	northern WORD[267,   4]: 0.0000308 海星
+TOKEN[268]: 0.0004637    6 maritime
+	maritime WORD[268,   1]: 0.0001386 海禁
+	maritime WORD[268,   2]: 0.0001212 海関
+	maritime WORD[268,   3]: 0.0000669 海国
+	maritime WORD[268,   4]: 0.0000584 臨海
+	maritime WORD[268,   5]: 0.0000393 海事
+	maritime WORD[268,   6]: 0.0000393 海運
+TOKEN[269]: 0.0004538    2 alt
+	alt WORD[269,   1]: 0.0002269 西海道
+	alt WORD[269,   2]: 0.0002269 南海道
+TOKEN[270]: 0.0004538    1 condition
+	condition WORD[270,   1]: 0.0002269 塩梅
+TOKEN[271]: 0.0004484    4 common
+	common WORD[271,   1]: 0.0002587 海烏
+	common WORD[271,   2]: 0.0000912 真海豚
+	common WORD[271,   3]: 0.0000527 海石榴
+	common WORD[271,   4]: 0.0000229 海鰻
+TOKEN[272]: 0.0004427    2 Mirounga
+	Mirounga WORD[272,   1]: 0.0002909 象海豹
+	Mirounga WORD[272,   2]: 0.0000759 海象
+TOKEN[273]: 0.0004321    2 alga
+	alga WORD[273,   1]: 0.0003394 鶏冠海苔
+	alga WORD[273,   2]: 0.0000927 布海苔
+TOKEN[274]: 0.0004113    1 piddock
+	piddock WORD[274,   1]: 0.0004113 海茸
+TOKEN[275]: 0.0004097    1 cormorant
+	cormorant WORD[275,   1]: 0.0004097 海鵜
+TOKEN[276]: 0.0004008    2 unripe
+	unripe WORD[276,   1]: 0.0002504 梅酒
+	unripe WORD[276,   2]: 0.0001504 青梅
+TOKEN[277]: 0.0004006    2 crayfish
+	crayfish WORD[277,   1]: 0.0003623 団扇海老
+	crayfish WORD[277,   2]: 0.0000384 海老
+TOKEN[278]: 0.0003966    1 state
+	state WORD[278,   1]: 0.0001983 塩梅
+TOKEN[279]: 0.0003909    2 fresh
+	fresh WORD[279,   1]: 0.0001954 梅漬
+	fresh WORD[279,   2]: 0.0001954 梅漬け
+TOKEN[280]: 0.0003900    2 elephant
+	elephant WORD[280,   1]: 0.0002562 象海豹
+	elephant WORD[280,   2]: 0.0000669 海象
+TOKEN[281]: 0.0003824    3 diver
+	diver WORD[281,   1]: 0.0000682 海士
+	diver WORD[281,   2]: 0.0000615 海人
+	diver WORD[281,   3]: 0.0000615 海女
+TOKEN[282]: 0.0003663    4 seal
+	seal WORD[282,   1]: 0.0001799 象海豹
+	seal WORD[282,   2]: 0.0000508 海豹
+	seal WORD[282,   3]: 0.0000469 海象
+	seal WORD[282,   4]: 0.0000418 海驢
+TOKEN[283]: 0.0003623    1 Nanking
+	Nanking WORD[283,   1]: 0.0003623 梅桃
+TOKEN[284]: 0.0003598    1 fruit
+	fruit WORD[284,   1]: 0.0003598 落梅
+TOKEN[285]: 0.0003593    3 region
+	region WORD[285,   1]: 0.0001470 西海道
+	region WORD[285,   2]: 0.0001470 南海道
+	region WORD[285,   3]: 0.0000654 東海
+TOKEN[286]: 0.0003573    1 regression
+	regression WORD[286,   1]: 0.0003573 海退
+TOKEN[287]: 0.0003544    1 Urginea
+	Urginea WORD[287,   1]: 0.0003544 海葱
+TOKEN[288]: 0.0003530    1 purple
+	purple WORD[288,   1]: 0.0003530 荒び海苔
+TOKEN[289]: 0.0003450    2 echinoderm
+	echinoderm WORD[289,   1]: 0.0003028 蜘蛛海星
+	echinoderm WORD[289,   2]: 0.0000422 海星
+TOKEN[290]: 0.0003442    5 land
+	land WORD[290,   1]: 0.0001292 海陸風
+	land WORD[290,   2]: 0.0000843 陸海空軍
+	land WORD[290,   3]: 0.0000722 海陸
+	land WORD[290,   4]: 0.0000349 陸海
+	land WORD[290,   5]: 0.0000236 海峡
+TOKEN[291]: 0.0003368    1 downy
+	downy WORD[291,   1]: 0.0003368 梅桃
+TOKEN[292]: 0.0003356    1 Ophiuroidea
+	Ophiuroidea WORD[292,   1]: 0.0003356 蜘蛛海星
+TOKEN[293]: 0.0003350    1 winterberry
+	winterberry WORD[293,   1]: 0.0003350 梅擬き
+TOKEN[294]: 0.0003350    1 liqueur
+	liqueur WORD[294,   1]: 0.0003350 梅酒
+TOKEN[295]: 0.0003350    1 brandy
+	brandy WORD[295,   1]: 0.0003350 梅酒
+TOKEN[296]: 0.0003260    1 syphilis
+	syphilis WORD[296,   1]: 0.0003260 梅毒
+TOKEN[297]: 0.0003258    2 salted
+	salted WORD[297,   1]: 0.0002213 梅酢
+	salted WORD[297,   2]: 0.0001044 海鼠腸
+TOKEN[298]: 0.0003239    1 unstable
+	unstable WORD[298,   1]: 0.0003239 走り梅雨
+TOKEN[299]: 0.0003196    5 beach
+	beach WORD[299,   1]: 0.0001926 海砂
+	beach WORD[299,   2]: 0.0000323 海浜
+	beach WORD[299,   3]: 0.0000322 海岸
+	beach WORD[299,   4]: 0.0000313 海べ
+	beach WORD[299,   5]: 0.0000313 海辺
+TOKEN[300]: 0.0003182    1 transgression
+	transgression WORD[300,   1]: 0.0003182 海進
+TOKEN[301]: 0.0003149    1 brittle
+	brittle WORD[301,   1]: 0.0003149 蜘蛛海星
+TOKEN[302]: 0.0003104    1 old
+	old WORD[302,   1]: 0.0003104 老梅
+TOKEN[303]: 0.0003046    1 clam
+	clam WORD[303,   1]: 0.0003046 海松貝
+TOKEN[304]: 0.0003031    2 entering
+	entering WORD[304,   1]: 0.0001556 入梅
+	entering WORD[304,   2]: 0.0001475 梅雨入り
+TOKEN[305]: 0.0003001    1 burial
+	burial WORD[305,   1]: 0.0003001 海葬
+TOKEN[306]: 0.0002966    6 coast
+	coast WORD[306,   1]: 0.0001081 海堡
+	coast WORD[306,   2]: 0.0000535 沿海
+	coast WORD[306,   3]: 0.0000345 海岸
+	coast WORD[306,   4]: 0.0000335 海べ
+	coast WORD[306,   5]: 0.0000335 海辺
+	coast WORD[306,   6]: 0.0000335 海沿い
+TOKEN[307]: 0.0002966    1 adjustment
+	adjustment WORD[307,   1]: 0.0001483 塩梅
+TOKEN[308]: 0.0002952    1 May
+	May WORD[308,   1]: 0.0002952 走り梅雨
+TOKEN[309]: 0.0002944    4 coastal
+	coastal WORD[309,   1]: 0.0001340 海防
+	coastal WORD[309,   2]: 0.0000610 沿海
+	coastal WORD[309,   3]: 0.0000584 臨海
+	coastal WORD[309,   4]: 0.0000410 近海
+TOKEN[310]: 0.0002877    1 Malus
+	Malus WORD[310,   1]: 0.0002877 海棠
+TOKEN[311]: 0.0002873    1 murrelet
+	murrelet WORD[311,   1]: 0.0002873 海雀
+TOKEN[312]: 0.0002842    2 fisherman
+	fisherman WORD[312,   1]: 0.0000604 海士
+	fisherman WORD[312,   2]: 0.0000545 海人
+TOKEN[313]: 0.0002835    1 preceding
+	preceding WORD[313,   1]: 0.0002835 走り梅雨
+TOKEN[314]: 0.0002825    1 whiskered
+	whiskered WORD[314,   1]: 0.0002825 赤海老
+TOKEN[315]: 0.0002763    1 decoration
+	decoration WORD[315,   1]: 0.0002763 茹で海老
+TOKEN[316]: 0.0002730    3 name
+	name WORD[316,   1]: 0.0001228 西海道
+	name WORD[316,   2]: 0.0001228 南海道
+	name WORD[316,   3]: 0.0000273 東海
+TOKEN[317]: 0.0002726    1 seasoning
+	seasoning WORD[317,   1]: 0.0001363 塩梅
+TOKEN[318]: 0.0002691    2 beginning
+	beginning WORD[318,   1]: 0.0001381 入梅
+	beginning WORD[318,   2]: 0.0001309 梅雨入り
+TOKEN[319]: 0.0002680    1 dealing
+	dealing WORD[319,   1]: 0.0001340 塩梅
+TOKEN[320]: 0.0002644    1 sunny
+	sunny WORD[320,   1]: 0.0002644 梅雨晴れ
+TOKEN[321]: 0.0002604    3 breeze
+	breeze WORD[321,   1]: 0.0001751 海陸風
+	breeze WORD[321,   2]: 0.0000543 海気
+	breeze WORD[321,   3]: 0.0000310 海風
+TOKEN[322]: 0.0002589    3 used
+	used WORD[322,   1]: 0.0001796 茹で海老
+	used WORD[322,   2]: 0.0000466 布海苔
+	used WORD[322,   3]: 0.0000327 海老錠
+TOKEN[323]: 0.0002580    1 spell
+	spell WORD[323,   1]: 0.0002580 梅雨晴れ
+TOKEN[324]: 0.0002578    1 assignment
+	assignment WORD[324,   1]: 0.0001289 塩梅
+TOKEN[325]: 0.0002571    4 navy
+	navy WORD[325,   1]: 0.0001074 陸海軍
+	navy WORD[325,   2]: 0.0000609 海曹
+	navy WORD[325,   3]: 0.0000530 陸海
+	navy WORD[325,   4]: 0.0000358 海軍
+TOKEN[326]: 0.0002570    1 flavour
+	flavour WORD[326,   1]: 0.0001285 塩梅
+TOKEN[327]: 0.0002508    1 boiled
+	boiled WORD[327,   1]: 0.0002508 茹で海老
+TOKEN[328]: 0.0002505    1 flavor
+	flavor WORD[328,   1]: 0.0001253 塩梅
+TOKEN[329]: 0.0002505    1 handling
+	handling WORD[329,   1]: 0.0001253 塩梅
+TOKEN[330]: 0.0002494    1 tidal
+	tidal WORD[330,   1]: 0.0001247 海嘯
+TOKEN[331]: 0.0002483    1 apple
+	apple WORD[331,   1]: 0.0002483 海棠
+TOKEN[332]: 0.0002479    1 murre
+	murre WORD[332,   1]: 0.0002479 海烏
+TOKEN[333]: 0.0002479    1 guillemot
+	guillemot WORD[333,   1]: 0.0002479 海烏
+TOKEN[334]: 0.0002479    1 Uria
+	Uria WORD[334,   1]: 0.0002479 海烏
+TOKEN[335]: 0.0002468    1 physical
+	physical WORD[335,   1]: 0.0001234 塩梅
+TOKEN[336]: 0.0002427    1 liquor
+	liquor WORD[336,   1]: 0.0002427 梅酒
+TOKEN[337]: 0.0002419    1 health
+	health WORD[337,   1]: 0.0001210 塩梅
+TOKEN[338]: 0.0002417    2 grilled
+	grilled WORD[338,   1]: 0.0001208 もみ海苔
+	grilled WORD[338,   2]: 0.0001208 揉み海苔
+TOKEN[339]: 0.0002400    2 order
+	order WORD[339,   1]: 0.0001656 蜘蛛海星
+	order WORD[339,   2]: 0.0000372 海牛
+TOKEN[340]: 0.0002395    1 onion
+	onion WORD[340,   1]: 0.0002395 海葱
+TOKEN[341]: 0.0002381    1 arrangement
+	arrangement WORD[341,   1]: 0.0001190 塩梅
+TOKEN[342]: 0.0002356    2 urchin
+	urchin WORD[342,   1]: 0.0001594 紫海胆
+	urchin WORD[342,   2]: 0.0000762 海胆
+TOKEN[343]: 0.0002344    1 added
+	added WORD[343,   1]: 0.0002344 梅酒
+TOKEN[344]: 0.0002316    1 return
+	return WORD[344,   1]: 0.0002316 戻り梅雨
+TOKEN[345]: 0.0002307    2 eel
+	eel WORD[345,   1]: 0.0001067 海蛇
+	eel WORD[345,   2]: 0.0000620 海鰻
+TOKEN[346]: 0.0002306    1 juice
+	juice WORD[346,   1]: 0.0002306 梅酢
+TOKEN[347]: 0.0002275    1 cool
+	cool WORD[347,   1]: 0.0002275 梅雨寒
+TOKEN[348]: 0.0002256    1 vinegar
+	vinegar WORD[348,   1]: 0.0002256 梅酢
+TOKEN[349]: 0.0002256    2 green
+	green WORD[349,   1]: 0.0001484 海松
+	green WORD[349,   2]: 0.0000771 青海苔
+TOKEN[350]: 0.0002241    1 taste
+	taste WORD[350,   1]: 0.0001120 塩梅
+TOKEN[351]: 0.0002236    1 Phalacrocorax
+	Phalacrocorax WORD[351,   1]: 0.0002236 海鵜
+TOKEN[352]: 0.0002226    1 downstream
+	downstream WORD[352,   1]: 0.0002226 降海
+TOKEN[353]: 0.0002206    1 funori
+	funori WORD[353,   1]: 0.0002206 布海苔
+TOKEN[354]: 0.0002178    1 clear
+	clear WORD[354,   1]: 0.0002178 戻り梅雨
+TOKEN[355]: 0.0002129    2 male
+	male WORD[355,   1]: 0.0000452 海士
+	male WORD[355,   2]: 0.0000408 海人
+TOKEN[356]: 0.0002117    1 chub
+	chub WORD[356,   1]: 0.0002117 海鱮
+TOKEN[357]: 0.0002093    2 Maritime
+	Maritime WORD[357,   1]: 0.0001346 海自
+	Maritime WORD[357,   2]: 0.0000747 海将
+TOKEN[358]: 0.0002085    1 sugar
+	sugar WORD[358,   1]: 0.0002085 梅酒
+TOKEN[359]: 0.0002084    1 comatulid
+	comatulid WORD[359,   1]: 0.0002084 海羊歯
+TOKEN[360]: 0.0002081    1 June
+	June WORD[360,   1]: 0.0002081 梅雨
+TOKEN[361]: 0.0002075    1 situation
+	situation WORD[361,   1]: 0.0001038 塩梅
+TOKEN[362]: 0.0002028    2 dictionary
+	dictionary WORD[362,   1]: 0.0001014 辞海
+	dictionary WORD[362,   2]: 0.0001014 言海
+TOKEN[363]: 0.0002015    2 strait
+	strait WORD[363,   1]: 0.0001622 海門
+	strait WORD[363,   2]: 0.0000393 海峡
+TOKEN[364]: 0.0001972    1 gaper
+	gaper WORD[364,   1]: 0.0001972 海松貝
+TOKEN[365]: 0.0001942    2 sponge
+	sponge WORD[365,   1]: 0.0001390 海松
+	sponge WORD[365,   2]: 0.0000553 海綿
+TOKEN[366]: 0.0001927    1 dry
+	dry WORD[366,   1]: 0.0001927 空梅雨
+TOKEN[367]: 0.0001890    1 swimming
+	swimming WORD[367,   1]: 0.0001890 降海
+TOKEN[368]: 0.0001878    1 period
+	period WORD[368,   1]: 0.0001878 戻り梅雨
+TOKEN[369]: 0.0001832    2 mammal
+	mammal WORD[369,   1]: 0.0000632 海獣
+	mammal WORD[369,   2]: 0.0000600 海牛
+TOKEN[370]: 0.0001786    2 egg
+	egg WORD[370,   1]: 0.0000893 海ほおずき
+	egg WORD[370,   2]: 0.0000893 海酸漿
+TOKEN[371]: 0.0001784    1 Enhydra
+	Enhydra WORD[371,   1]: 0.0000892 海獺
+TOKEN[372]: 0.0001756    1 pantropical
+	pantropical WORD[372,   1]: 0.0001756 斑海豚
+TOKEN[373]: 0.0001749    1 Delphinus
+	Delphinus WORD[373,   1]: 0.0001749 真海豚
+TOKEN[374]: 0.0001728    1 shelled
+	shelled WORD[374,   1]: 0.0001728 剥き海老
+TOKEN[375]: 0.0001722    1 feather
+	feather WORD[375,   1]: 0.0001722 海羊歯
+TOKEN[376]: 0.0001702    2 channel
+	channel WORD[376,   1]: 0.0001370 海門
+	channel WORD[376,   2]: 0.0000332 海峡
+TOKEN[377]: 0.0001701    1 glue
+	glue WORD[377,   1]: 0.0001701 布海苔
+TOKEN[378]: 0.0001677    1 plateau
+	plateau WORD[378,   1]: 0.0001677 海台
+TOKEN[379]: 0.0001643    3 officer
+	officer WORD[379,   1]: 0.0000548 海曹
+	officer WORD[379,   2]: 0.0000548 海佐
+	officer WORD[379,   3]: 0.0000547 海尉
+TOKEN[380]: 0.0001640    1 bore
+	bore WORD[380,   1]: 0.0000820 海嘯
+TOKEN[381]: 0.0001629    1 otter
+	otter WORD[381,   1]: 0.0000814 海獺
+TOKEN[382]: 0.0001628    1 crab
+	crab WORD[382,   1]: 0.0001628 海棠
+TOKEN[383]: 0.0001618    1 walrus
+	walrus WORD[383,   1]: 0.0000809 海象
+TOKEN[384]: 0.0001618    1 Odobenus
+	Odobenus WORD[384,   1]: 0.0000809 海象
+TOKEN[385]: 0.0001615    1 Asian
+	Asian WORD[385,   1]: 0.0001615 梅雨
+TOKEN[386]: 0.0001611    2 rolled
+	rolled WORD[386,   1]: 0.0000806 海苔巻
+	rolled WORD[386,   2]: 0.0000806 海苔巻き
+TOKEN[387]: 0.0001600    3 rumbling
+	rumbling WORD[387,   1]: 0.0000439 海嘯
+	rumbling WORD[387,   2]: 0.0000361 海鳴
+	rumbling WORD[387,   3]: 0.0000361 海鳴り
+TOKEN[388]: 0.0001597    1 encyclopedic
+	encyclopedic WORD[388,   1]: 0.0001597 辞海
+TOKEN[389]: 0.0001585    1 conger
+	conger WORD[389,   1]: 0.0000792 海鰻
+TOKEN[390]: 0.0001585    1 search
+	search WORD[390,   1]: 0.0001585 探梅
+TOKEN[391]: 0.0001580    2 submarine
+	submarine WORD[391,   1]: 0.0001193 海嶺
+	submarine WORD[391,   2]: 0.0000387 海底
+TOKEN[392]: 0.0001576    1 seaward
+	seaward WORD[392,   1]: 0.0001576 海側
+TOKEN[393]: 0.0001576    1 firefly
+	firefly WORD[393,   1]: 0.0001576 海蛍
+TOKEN[394]: 0.0001569    1 crinoid
+	crinoid WORD[394,   1]: 0.0001569 海百合
+TOKEN[395]: 0.0001568    1 basin
+	basin WORD[395,   1]: 0.0001568 海盆
+TOKEN[396]: 0.0001554    3 gulf
+	gulf WORD[396,   1]: 0.0000592 入り海
+	gulf WORD[396,   2]: 0.0000592 入海
+	gulf WORD[396,   3]: 0.0000369 内海
+TOKEN[397]: 0.0001549    2 starfish
+	starfish WORD[397,   1]: 0.0001138 鬼海星
+	starfish WORD[397,   2]: 0.0000410 海星
+TOKEN[398]: 0.0001546    1 wet
+	wet WORD[398,   1]: 0.0001546 梅雨時
+TOKEN[399]: 0.0001509    1 sirenian
+	sirenian WORD[399,   1]: 0.0000755 海牛
+TOKEN[400]: 0.0001509    1 Sirenia
+	Sirenia WORD[400,   1]: 0.0000755 海牛
+TOKEN[401]: 0.0001500    3 inlet
+	inlet WORD[401,   1]: 0.0000572 入り海
+	inlet WORD[401,   2]: 0.0000572 入海
+	inlet WORD[401,   3]: 0.0000356 内海
+TOKEN[402]: 0.0001488    1 Ming
+	Ming WORD[402,   1]: 0.0001488 海禁
+TOKEN[403]: 0.0001474    1 Maine
+	Maine WORD[403,   1]: 0.0001474 甘海老
+TOKEN[404]: 0.0001445    1 early
+	early WORD[404,   1]: 0.0001445 梅雨
+TOKEN[405]: 0.0001436    1 cowfish
+	cowfish WORD[405,   1]: 0.0001436 海雀
+TOKEN[406]: 0.0001426    4 seashore
+	seashore WORD[406,   1]: 0.0000365 海浜
+	seashore WORD[406,   2]: 0.0000354 海べ
+	seashore WORD[406,   3]: 0.0000354 海辺
+	seashore WORD[406,   4]: 0.0000354 海沿い
+TOKEN[407]: 0.0001415    3 noise
+	noise WORD[407,   1]: 0.0000388 海嘯
+	noise WORD[407,   2]: 0.0000319 海鳴
+	noise WORD[407,   3]: 0.0000319 海鳴り
+TOKEN[408]: 0.0001405    1 bondage
+	bondage WORD[408,   1]: 0.0001405 海老責め
+TOKEN[409]: 0.0001387    1 removed
+	removed WORD[409,   1]: 0.0001387 剥き海老
+TOKEN[410]: 0.0001381    1 spotted
+	spotted WORD[410,   1]: 0.0001381 斑海豚
+TOKEN[411]: 0.0001366    1 torture
+	torture WORD[411,   1]: 0.0001366 海老責め
+TOKEN[412]: 0.0001354    1 seed
+	seed WORD[412,   1]: 0.0001354 海蛍
+TOKEN[413]: 0.0001343    2 air
+	air WORD[413,   1]: 0.0000911 陸海空軍
+	air WORD[413,   2]: 0.0000433 海気
+TOKEN[414]: 0.0001341    3 bay
+	bay WORD[414,   1]: 0.0000511 入り海
+	bay WORD[414,   2]: 0.0000511 入海
+	bay WORD[414,   3]: 0.0000318 内海
+TOKEN[415]: 0.0001340    1 fish
+	fish WORD[415,   1]: 0.0001340 海魚
+TOKEN[416]: 0.0001338    1 rain
+	rain WORD[416,   1]: 0.0001338 梅雨
+TOKEN[417]: 0.0001336    1 kuruma
+	kuruma WORD[417,   1]: 0.0001336 車海老
+TOKEN[418]: 0.0001330    1 mirage
+	mirage WORD[418,   1]: 0.0001330 海市
+TOKEN[419]: 0.0001324    2 capsule
+	capsule WORD[419,   1]: 0.0000662 海ほおずき
+	capsule WORD[419,   2]: 0.0000662 海酸漿
+TOKEN[420]: 0.0001324    2 gastropod
+	gastropod WORD[420,   1]: 0.0000662 海ほおずき
+	gastropod WORD[420,   2]: 0.0000662 海酸漿
+TOKEN[421]: 0.0001320    1 borealis
+	borealis WORD[421,   1]: 0.0001320 甘海老
+TOKEN[422]: 0.0001308    1 tied
+	tied WORD[422,   1]: 0.0001308 海老責め
+TOKEN[423]: 0.0001306    1 fog
+	fog WORD[423,   1]: 0.0001306 海霧
+TOKEN[424]: 0.0001302    1 shorts
+	shorts WORD[424,   1]: 0.0001302 海パン
+TOKEN[425]: 0.0001296    1 victim
+	victim WORD[425,   1]: 0.0001296 海老責め
+TOKEN[426]: 0.0001288    1 entrails
+	entrails WORD[426,   1]: 0.0001288 海鼠腸
+TOKEN[427]: 0.0001285    2 army
+	army WORD[427,   1]: 0.0000860 陸海軍
+	army WORD[427,   2]: 0.0000425 陸海
+TOKEN[428]: 0.0001275    2 slug
+	slug WORD[428,   1]: 0.0000637 海参
+	slug WORD[428,   2]: 0.0000637 熬海鼠
+TOKEN[429]: 0.0001270    1 bound
+	bound WORD[429,   1]: 0.0001270 海老責め
+TOKEN[430]: 0.0001255    1 breakwater
+	breakwater WORD[430,   1]: 0.0001255 海堡
+TOKEN[431]: 0.0001248    2 whelk
+	whelk WORD[431,   1]: 0.0000624 海ほおずき
+	whelk WORD[431,   2]: 0.0000624 海酸漿
+TOKEN[432]: 0.0001244    1 rice
+	rice WORD[432,   1]: 0.0001244 赤海老
+TOKEN[433]: 0.0001202    2 creek
+	creek WORD[433,   1]: 0.0000601 入り海
+	creek WORD[433,   2]: 0.0000601 入海
+TOKEN[434]: 0.0001198    2 ascidian
+	ascidian WORD[434,   1]: 0.0000599 海鞘
+	ascidian WORD[434,   2]: 0.0000599 老海鼠
+TOKEN[435]: 0.0001175    1 aquatic
+	aquatic WORD[435,   1]: 0.0000587 海牛
+TOKEN[436]: 0.0001170    2 forgiveness
+	forgiveness WORD[436,   1]: 0.0000609 海恕
+	forgiveness WORD[436,   2]: 0.0000561 海容
+TOKEN[437]: 0.0001166    1 neck
+	neck WORD[437,   1]: 0.0001166 海老責め
+TOKEN[438]: 0.0001162    2 expanse
+	expanse WORD[438,   1]: 0.0000741 碧海
+	expanse WORD[438,   2]: 0.0000422 樹海
+TOKEN[439]: 0.0001161    1 touch
+	touch WORD[439,   1]: 0.0001161 海老責め
+TOKEN[440]: 0.0001160    2 erosion
+	erosion WORD[440,   1]: 0.0000580 海蝕
+	erosion WORD[440,   2]: 0.0000580 海食
+TOKEN[441]: 0.0001160    1 ban
+	ban WORD[441,   1]: 0.0001160 海禁
+TOKEN[442]: 0.0001159    1 sector
+	sector WORD[442,   1]: 0.0001159 海区
+TOKEN[443]: 0.0001158    1 pink
+	pink WORD[443,   1]: 0.0001158 甘海老
+TOKEN[444]: 0.0001139    1 edition
+	edition WORD[444,   1]: 0.0001139 辞海
+TOKEN[445]: 0.0001132    2 cucumber
+	cucumber WORD[445,   1]: 0.0000653 海鼠腸
+	cucumber WORD[445,   2]: 0.0000479 海鼠
+TOKEN[446]: 0.0001130    1 battery
+	battery WORD[446,   1]: 0.0001130 海堡
+TOKEN[447]: 0.0001125    2 seven
+	seven WORD[447,   1]: 0.0000587 七つの海
+	seven WORD[447,   2]: 0.0000538 四海
+TOKEN[448]: 0.0001119    2 squirt
+	squirt WORD[448,   1]: 0.0000559 海鞘
+	squirt WORD[448,   2]: 0.0000559 老海鼠
+TOKEN[449]: 0.0001117    1 rope
+	rope WORD[449,   1]: 0.0001117 海老責め
+TOKEN[450]: 0.0001108    1 recent
+	recent WORD[450,   1]: 0.0001108 辞海
+TOKEN[451]: 0.0001106    1 going
+	going WORD[451,   1]: 0.0001106 探梅
+TOKEN[452]: 0.0001104    1 eagre
+	eagre WORD[452,   1]: 0.0000552 海嘯
+TOKEN[453]: 0.0001103    1 Gloiopeltis
+	Gloiopeltis WORD[453,   1]: 0.0001103 布海苔
+TOKEN[454]: 0.0001102    1 end
+	end WORD[454,   1]: 0.0001102 梅雨明け
+TOKEN[455]: 0.0001090    1 arms
+	arms WORD[455,   1]: 0.0001090 海老責め
+TOKEN[456]: 0.0001083    1 system
+	system WORD[456,   1]: 0.0001083 梅
+TOKEN[457]: 0.0001070    1 flowering
+	flowering WORD[457,   1]: 0.0001070 海棠
+TOKEN[458]: 0.0001066    2 defense
+	defense WORD[458,   1]: 0.0000534 海防
+	defense WORD[458,   2]: 0.0000532 海将
+TOKEN[459]: 0.0001043    1 cow
+	cow WORD[459,   1]: 0.0000521 海牛
+TOKEN[460]: 0.0001036    1 snake
+	snake WORD[460,   1]: 0.0001036 海蛇
+TOKEN[461]: 0.0001034    2 warm
+	warm WORD[461,   1]: 0.0000682 温海
+	warm WORD[461,   2]: 0.0000352 暖海
+TOKEN[462]: 0.0001015    2 side
+	side WORD[462,   1]: 0.0000749 海側
+	side WORD[462,   2]: 0.0000266 東海
+TOKEN[463]: 0.0000995    1 sizing
+	sizing WORD[463,   1]: 0.0000995 布海苔
+TOKEN[464]: 0.0000993    1 ridge
+	ridge WORD[464,   1]: 0.0000993 海嶺
+TOKEN[465]: 0.0000989    1 customs
+	customs WORD[465,   1]: 0.0000989 海関
+TOKEN[466]: 0.0000977    3 turtle
+	turtle WORD[466,   1]: 0.0000326 海がめ
+	turtle WORD[466,   2]: 0.0000326 海ガメ
+	turtle WORD[466,   3]: 0.0000326 海亀
+TOKEN[467]: 0.0000974    2 inland
+	inland WORD[467,   1]: 0.0000600 縁海
+	inland WORD[467,   2]: 0.0000374 内海
+TOKEN[468]: 0.0000958    2 sailor
+	sailor WORD[468,   1]: 0.0000603 海員
+	sailor WORD[468,   2]: 0.0000356 海兵
+TOKEN[469]: 0.0000947    1 rise
+	rise WORD[469,   1]: 0.0000947 海膨
+TOKEN[470]: 0.0000939    2 baked
+	baked WORD[470,   1]: 0.0000469 焼き海苔
+	baked WORD[470,   2]: 0.0000469 焼海苔
+TOKEN[471]: 0.0000937    1 salt
+	salt WORD[471,   1]: 0.0000937 海塩
+TOKEN[472]: 0.0000928    1 tsunami
+	tsunami WORD[472,   1]: 0.0000464 海嘯
+TOKEN[473]: 0.0000904    1 mines
+	mines WORD[473,   1]: 0.0000904 掃海
+TOKEN[474]: 0.0000894    1 sweet
+	sweet WORD[474,   1]: 0.0000894 甘海老
+TOKEN[475]: 0.0000869    2 case
+	case WORD[475,   1]: 0.0000435 海ほおずき
+	case WORD[475,   2]: 0.0000435 海酸漿
+TOKEN[476]: 0.0000866    1 felty
+	felty WORD[476,   1]: 0.0000866 海松
+TOKEN[477]: 0.0000866    1 Codium
+	Codium WORD[477,   1]: 0.0000866 海松
+TOKEN[478]: 0.0000855    2 whole
+	whole WORD[478,   1]: 0.0000431 海内
+	whole WORD[478,   2]: 0.0000424 四海
+TOKEN[479]: 0.0000854    1 ice
+	ice WORD[479,   1]: 0.0000854 海氷
+TOKEN[480]: 0.0000842    2 rank
+	rank WORD[480,   1]: 0.0000421 海佐
+	rank WORD[480,   2]: 0.0000421 海尉
+TOKEN[481]: 0.0000833    1 stag
+	stag WORD[481,   1]: 0.0000833 海松
+TOKEN[482]: 0.0000830    2 plant
+	plant WORD[482,   1]: 0.0000583 布海苔
+	plant WORD[482,   2]: 0.0000248 海草
+TOKEN[483]: 0.0000813    1 Camellia
+	Camellia WORD[483,   1]: 0.0000813 海石榴
+TOKEN[484]: 0.0000809    1 fleece
+	fleece WORD[484,   1]: 0.0000809 海松
+TOKEN[485]: 0.0000803    1 icy
+	icy WORD[485,   1]: 0.0000803 氷海
+TOKEN[486]: 0.0000790    1 trepang
+	trepang WORD[486,   1]: 0.0000790 海鼠腸
+TOKEN[487]: 0.0000770    1 people
+	people WORD[487,   1]: 0.0000770 人海
+TOKEN[488]: 0.0000763    1 indebtedness
+	indebtedness WORD[488,   1]: 0.0000382 海山
+TOKEN[489]: 0.0000763    2 oceanic
+	oceanic WORD[489,   1]: 0.0000382 海鳴
+	oceanic WORD[489,   2]: 0.0000382 海鳴り
+TOKEN[490]: 0.0000762    1 use
+	use WORD[490,   1]: 0.0000762 海パン
+TOKEN[491]: 0.0000754    1 ancient
+	ancient WORD[491,   1]: 0.0000754 海雀
+TOKEN[492]: 0.0000746    1 seaport
+	seaport WORD[492,   1]: 0.0000746 海港
+TOKEN[493]: 0.0000744    2 route
+	route WORD[493,   1]: 0.0000459 海道
+	route WORD[493,   2]: 0.0000285 海路
+TOKEN[494]: 0.0000734    1 beaver
+	beaver WORD[494,   1]: 0.0000734 海狸
+TOKEN[495]: 0.0000734    1 corrugated
+	corrugated WORD[495,   1]: 0.0000734 海鼠板
+TOKEN[496]: 0.0000732    2 roll
+	roll WORD[496,   1]: 0.0000366 海苔巻
+	roll WORD[496,   2]: 0.0000366 海苔巻き
+TOKEN[497]: 0.0000726    1 padlock
+	padlock WORD[497,   1]: 0.0000726 海老錠
+TOKEN[498]: 0.0000725    1 inshore
+	inshore WORD[498,   1]: 0.0000725 沿海
+TOKEN[499]: 0.0000725    1 epicontinental
+	epicontinental WORD[499,   1]: 0.0000725 縁海
+TOKEN[500]: 0.0000725    1 epeiric
+	epeiric WORD[500,   1]: 0.0000725 縁海
+TOKEN[501]: 0.0000721    1 eared
+	eared WORD[501,   1]: 0.0000721 海驢
+TOKEN[502]: 0.0000721    1 Zalophus
+	Zalophus WORD[502,   1]: 0.0000721 海驢
+TOKEN[503]: 0.0000719    1 oyster
+	oyster WORD[503,   1]: 0.0000719 海松
+TOKEN[504]: 0.0000718    1 ama
+	ama WORD[504,   1]: 0.0000718 海女
+TOKEN[505]: 0.0000718    1 seascape
+	seascape WORD[505,   1]: 0.0000718 海景
+TOKEN[506]: 0.0000714    1 produced
+	produced WORD[506,   1]: 0.0000714 海石榴
+TOKEN[507]: 0.0000707    2 island
+	island WORD[507,   1]: 0.0000408 北海道
+	island WORD[507,   2]: 0.0000300 海南
+TOKEN[508]: 0.0000706    1 forked
+	forked WORD[508,   1]: 0.0000706 海松
+TOKEN[509]: 0.0000706    1 fragile
+	fragile WORD[509,   1]: 0.0000706 海松
+TOKEN[510]: 0.0000700    1 genus
+	genus WORD[510,   1]: 0.0000700 布海苔
+TOKEN[511]: 0.0000699    2 southern
+	southern WORD[511,   1]: 0.0000386 南海
+	southern WORD[511,   2]: 0.0000312 海南
+TOKEN[512]: 0.0000679    1 Calanthe
+	Calanthe WORD[512,   1]: 0.0000679 海老根
+TOKEN[513]: 0.0000677    1 California
+	California WORD[513,   1]: 0.0000677 海驢
+TOKEN[514]: 0.0000676    1 frozen
+	frozen WORD[514,   1]: 0.0000676 氷海
+TOKEN[515]: 0.0000675    1 Enteromorpha
+	Enteromorpha WORD[515,   1]: 0.0000675 青海苔
+TOKEN[516]: 0.0000672    1 wave
+	wave WORD[516,   1]: 0.0000336 海嘯
+TOKEN[517]: 0.0000670    1 immense
+	immense WORD[517,   1]: 0.0000335 海山
+TOKEN[518]: 0.0000670    1 shipwreck
+	shipwreck WORD[518,   1]: 0.0000670 海難
+TOKEN[519]: 0.0000663    1 maroon
+	maroon WORD[519,   1]: 0.0000663 海老茶
+TOKEN[520]: 0.0000662    1 Larus
+	Larus WORD[520,   1]: 0.0000662 海猫
+TOKEN[521]: 0.0000658    1 trench
+	trench WORD[521,   1]: 0.0000658 海溝
+TOKEN[522]: 0.0000656    1 Neptune
+	Neptune WORD[522,   1]: 0.0000656 海神
+TOKEN[523]: 0.0000656    1 Poseidon
+	Poseidon WORD[523,   1]: 0.0000656 海神
+TOKEN[524]: 0.0000647    1 seaman
+	seaman WORD[524,   1]: 0.0000647 海員
+TOKEN[525]: 0.0000647    1 gull
+	gull WORD[525,   1]: 0.0000647 海猫
+TOKEN[526]: 0.0000634    1 Siberian
+	Siberian WORD[526,   1]: 0.0000634 海棠
+TOKEN[527]: 0.0000618    2 large
+	large WORD[527,   1]: 0.0000395 人海
+	large WORD[527,   2]: 0.0000223 大海
+TOKEN[528]: 0.0000617    1 thief
+	thief WORD[528,   1]: 0.0000617 海松
+TOKEN[529]: 0.0000604    1 generosity
+	generosity WORD[529,   1]: 0.0000604 海恕
+TOKEN[530]: 0.0000601    1 muddy
+	muddy WORD[530,   1]: 0.0000601 泥海
+TOKEN[531]: 0.0000598    1 discolor
+	discolor WORD[531,   1]: 0.0000598 海老根
+TOKEN[532]: 0.0000595    1 naval
+	naval WORD[532,   1]: 0.0000595 海戦
+TOKEN[533]: 0.0000592    1 product
+	product WORD[533,   1]: 0.0000592 海産
+TOKEN[534]: 0.0000591    1 magnanimity
+	magnanimity WORD[534,   1]: 0.0000591 海恕
+TOKEN[535]: 0.0000587    1 atmosphere
+	atmosphere WORD[535,   1]: 0.0000587 海気
+TOKEN[536]: 0.0000583    1 marginal
+	marginal WORD[536,   1]: 0.0000583 縁海
+TOKEN[537]: 0.0000582    1 orchid
+	orchid WORD[537,   1]: 0.0000582 海老根
+TOKEN[538]: 0.0000579    1 bent
+	bent WORD[538,   1]: 0.0000579 海老腰
+TOKEN[539]: 0.0000571    1 surrounded
+	surrounded WORD[539,   1]: 0.0000571 環海
+TOKEN[540]: 0.0000566    1 stormy
+	stormy WORD[540,   1]: 0.0000566 荒海
+TOKEN[541]: 0.0000566    1 territorial
+	territorial WORD[541,   1]: 0.0000566 領海
+TOKEN[542]: 0.0000565    1 average
+	average WORD[542,   1]: 0.0000565 海損
+TOKEN[543]: 0.0000562    1 petty
+	petty WORD[543,   1]: 0.0000562 海曹
+TOKEN[544]: 0.0000561    1 curved
+	curved WORD[544,   1]: 0.0000561 海老錠
+TOKEN[545]: 0.0000552    1 sheet
+	sheet WORD[545,   1]: 0.0000552 海鼠板
+TOKEN[546]: 0.0000546    1 chart
+	chart WORD[546,   1]: 0.0000546 海図
+TOKEN[547]: 0.0000543    1 port
+	port WORD[547,   1]: 0.0000543 海港
+TOKEN[548]: 0.0000542    2 level
+	level WORD[548,   1]: 0.0000271 海面
+	level WORD[548,   2]: 0.0000271 海抜
+TOKEN[549]: 0.0000536    1 nation
+	nation WORD[549,   1]: 0.0000536 海国
+TOKEN[550]: 0.0000535    1 defence
+	defence WORD[550,   1]: 0.0000535 海防
+TOKEN[551]: 0.0000534    1 realm
+	realm WORD[551,   1]: 0.0000534 苦海
+TOKEN[552]: 0.0000533    1 worm
+	worm WORD[552,   1]: 0.0000533 海蛇
+TOKEN[553]: 0.0000518    1 leafage
+	leafage WORD[553,   1]: 0.0000518 樹海
+TOKEN[554]: 0.0000516    1 suffering
+	suffering WORD[554,   1]: 0.0000516 苦海
+TOKEN[555]: 0.0000515    1 tea
+	tea WORD[555,   1]: 0.0000515 海石榴
+TOKEN[556]: 0.0000515    1 accident
+	accident WORD[556,   1]: 0.0000515 海難
+TOKEN[557]: 0.0000513    1 lock
+	lock WORD[557,   1]: 0.0000513 海老錠
+TOKEN[558]: 0.0000513    1 disaster
+	disaster WORD[558,   1]: 0.0000513 海難
+TOKEN[559]: 0.0000512    2 bird
+	bird WORD[559,   1]: 0.0000256 海鳥
+	bird WORD[559,   2]: 0.0000256 海燕
+TOKEN[560]: 0.0000509    2 surface
+	surface WORD[560,   1]: 0.0000255 海面
+	surface WORD[560,   2]: 0.0000254 海上
+TOKEN[561]: 0.0000503    1 distant
+	distant WORD[561,   1]: 0.0000503 絶海
+TOKEN[562]: 0.0000502    1 surrounding
+	surrounding WORD[562,   1]: 0.0000502 環海
+TOKEN[563]: 0.0000502    1 tiger
+	tiger WORD[563,   1]: 0.0000502 車海老
+TOKEN[564]: 0.0000499    1 dead
+	dead WORD[564,   1]: 0.0000499 海松
+TOKEN[565]: 0.0000499    2 animal
+	animal WORD[565,   1]: 0.0000258 海産
+	animal WORD[565,   2]: 0.0000241 海豹
+TOKEN[566]: 0.0000498    1 iron
+	iron WORD[566,   1]: 0.0000498 海鼠板
+TOKEN[567]: 0.0000482    1 Shanghai
+	Shanghai WORD[567,   1]: 0.0000482 上海
+TOKEN[568]: 0.0000476    1 dragging
+	dragging WORD[568,   1]: 0.0000476 掃海
+TOKEN[569]: 0.0000475    1 shore
+	shore WORD[569,   1]: 0.0000475 沿海
+TOKEN[570]: 0.0000474    1 crowd
+	crowd WORD[570,   1]: 0.0000474 人海
+TOKEN[571]: 0.0000473    1 human
+	human WORD[571,   1]: 0.0000473 苦海
+TOKEN[572]: 0.0000469    1 undersea
+	undersea WORD[572,   1]: 0.0000469 海底
+TOKEN[573]: 0.0000468    1 love
+	love WORD[573,   1]: 0.0000234 海山
+TOKEN[574]: 0.0000468    1 buccaneer
+	buccaneer WORD[574,   1]: 0.0000468 海賊
+TOKEN[575]: 0.0000468    1 freebooter
+	freebooter WORD[575,   1]: 0.0000468 海賊
+TOKEN[576]: 0.0000466    1 damage
+	damage WORD[576,   1]: 0.0000466 海損
+TOKEN[577]: 0.0000462    1 man
+	man WORD[577,   1]: 0.0000462 海松
+TOKEN[578]: 0.0000462    1 gate
+	gate WORD[578,   1]: 0.0000462 海老錠
+TOKEN[579]: 0.0000462    1 jellyfish
+	jellyfish WORD[579,   1]: 0.0000462 海月
+TOKEN[580]: 0.0000459    1 administrative
+	administrative WORD[580,   1]: 0.0000459 北海道
+TOKEN[581]: 0.0000455    1 battle
+	battle WORD[581,   1]: 0.0000455 海戦
+TOKEN[582]: 0.0000454    1 petrel
+	petrel WORD[582,   1]: 0.0000454 海燕
+TOKEN[583]: 0.0000454    1 Hydrobatidae
+	Hydrobatidae WORD[583,   1]: 0.0000454 海燕
+TOKEN[584]: 0.0000454    1 coastland
+	coastland WORD[584,   1]: 0.0000454 海沿い
+TOKEN[585]: 0.0000454    1 loss
+	loss WORD[585,   1]: 0.0000454 海損
+TOKEN[586]: 0.0000448    1 Caridea
+	Caridea WORD[586,   1]: 0.0000448 小海老
+TOKEN[587]: 0.0000439    1 Asteroidea
+	Asteroidea WORD[587,   1]: 0.0000439 海星
+TOKEN[588]: 0.0000439    1 asteroid
+	asteroid WORD[588,   1]: 0.0000439 海星
+TOKEN[589]: 0.0000439    1 Asterias
+	Asterias WORD[589,   1]: 0.0000439 海星
+TOKEN[590]: 0.0000438    1 flower
+	flower WORD[590,   1]: 0.0000438 海棠
+TOKEN[591]: 0.0000438    1 earless
+	earless WORD[591,   1]: 0.0000438 海豹
+TOKEN[592]: 0.0000431    1 country
+	country WORD[592,   1]: 0.0000431 海内
+TOKEN[593]: 0.0000428    1 woodland
+	woodland WORD[593,   1]: 0.0000428 樹海
+TOKEN[594]: 0.0000426    1 type
+	type WORD[594,   1]: 0.0000426 海気
+TOKEN[595]: 0.0000423    1 opening
+	opening WORD[595,   1]: 0.0000423 海開き
+TOKEN[596]: 0.0000423    1 goods
+	goods WORD[596,   1]: 0.0000423 海気
+TOKEN[597]: 0.0000423    1 nautical
+	nautical WORD[597,   1]: 0.0000423 海里
+TOKEN[598]: 0.0000422    1 pirate
+	pirate WORD[598,   1]: 0.0000422 海賊
+TOKEN[599]: 0.0000418    2 small
+	small WORD[599,   1]: 0.0000220 小海老
+	small WORD[599,   2]: 0.0000198 海豚
+TOKEN[600]: 0.0000416    1 shape
+	shape WORD[600,   1]: 0.0000416 海老錠
+TOKEN[601]: 0.0000414    1 rough
+	rough WORD[601,   1]: 0.0000414 荒海
+TOKEN[602]: 0.0000412    1 age
+	age WORD[602,   1]: 0.0000412 海老腰
+TOKEN[603]: 0.0000404    1 cruise
+	cruise WORD[603,   1]: 0.0000404 航海
+TOKEN[604]: 0.0000402    1 mile
+	mile WORD[604,   1]: 0.0000402 海里
+TOKEN[605]: 0.0000399    1 international
+	international WORD[605,   1]: 0.0000399 公海
+TOKEN[606]: 0.0000394    1 female
+	female WORD[606,   1]: 0.0000394 海女
+TOKEN[607]: 0.0000393    1 toothed
+	toothed WORD[607,   1]: 0.0000393 海豚
+TOKEN[608]: 0.0000392    1 highway
+	highway WORD[608,   1]: 0.0000392 東海道
+TOKEN[609]: 0.0000391    1 unit
+	unit WORD[609,   1]: 0.0000391 北海道
+TOKEN[610]: 0.0000390    1 water
+	water WORD[610,   1]: 0.0000390 碧海
+TOKEN[611]: 0.0000390    1 navigation
+	navigation WORD[611,   1]: 0.0000390 航海
+TOKEN[612]: 0.0000384    1 lichen
+	lichen WORD[612,   1]: 0.0000384 岩海苔
+TOKEN[613]: 0.0000371    1 abundant
+	abundant WORD[613,   1]: 0.0000371 樹海
+TOKEN[614]: 0.0000371    1 Red
+	Red WORD[614,   1]: 0.0000371 紅海
+TOKEN[615]: 0.0000371    1 voyage
+	voyage WORD[615,   1]: 0.0000371 航海
+TOKEN[616]: 0.0000369    1 south
+	south WORD[616,   1]: 0.0000369 東海
+TOKEN[617]: 0.0000368    1 sweeping
+	sweeping WORD[617,   1]: 0.0000368 掃海
+TOKEN[618]: 0.0000362    1 Korean
+	Korean WORD[618,   1]: 0.0000362 東海
+TOKEN[619]: 0.0000361    1 crossing
+	crossing WORD[619,   1]: 0.0000361 渡海
+TOKEN[620]: 0.0000353    1 adjacent
+	adjacent WORD[620,   1]: 0.0000353 近海
+TOKEN[621]: 0.0000352    1 sailing
+	sailing WORD[621,   1]: 0.0000352 航海
+TOKEN[622]: 0.0000349    1 dense
+	dense WORD[622,   1]: 0.0000349 樹海
+TOKEN[623]: 0.0000345    1 robber
+	robber WORD[623,   1]: 0.0000345 海賊
+TOKEN[624]: 0.0000339    1 taro
+	taro WORD[624,   1]: 0.0000339 海老芋
+TOKEN[625]: 0.0000332    1 transportation
+	transportation WORD[625,   1]: 0.0000332 海運
+TOKEN[626]: 0.0000323    1 seasoned
+	seasoned WORD[626,   1]: 0.0000323 海胆
+TOKEN[627]: 0.0000313    1 lake
+	lake WORD[627,   1]: 0.0000313 内海
+TOKEN[628]: 0.0000303    1 passage
+	passage WORD[628,   1]: 0.0000303 航海
+TOKEN[629]: 0.0000299    1 shallow
+	shallow WORD[629,   1]: 0.0000299 浅海
+TOKEN[630]: 0.0000298    1 storm
+	storm WORD[630,   1]: 0.0000298 海燕
+TOKEN[631]: 0.0000289    1 height
+	height WORD[631,   1]: 0.0000289 海抜
+TOKEN[632]: 0.0000280    1 current
+	current WORD[632,   1]: 0.0000280 海流
+TOKEN[633]: 0.0000279    1 open
+	open WORD[633,   1]: 0.0000279 外海
+TOKEN[634]: 0.0000278    1 foreign
+	foreign WORD[634,   1]: 0.0000278 海外
+TOKEN[635]: 0.0000275    1 variety
+	variety WORD[635,   1]: 0.0000275 海老芋
+TOKEN[636]: 0.0000271    1 class
+	class WORD[636,   1]: 0.0000271 海星
+TOKEN[637]: 0.0000267    1 bottom
+	bottom WORD[637,   1]: 0.0000267 海底
+TOKEN[638]: 0.0000262    1 province
+	province WORD[638,   1]: 0.0000262 淡海
+TOKEN[639]: 0.0000255    1 pattern
+	pattern WORD[639,   1]: 0.0000255 大海
+TOKEN[640]: 0.0000251    1 true
+	true WORD[640,   1]: 0.0000251 海豹
+TOKEN[641]: 0.0000244    1 area
+	area WORD[641,   1]: 0.0000244 海域
+TOKEN[642]: 0.0000244    1 high
+	high WORD[642,   1]: 0.0000244 公海
+TOKEN[643]: 0.0000241    1 former
+	former WORD[643,   1]: 0.0000241 淡海
+TOKEN[644]: 0.0000237    1 two
+	two WORD[644,   1]: 0.0000237 海峡
+TOKEN[645]: 0.0000210    1 family
+	family WORD[645,   1]: 0.0000210 海燕

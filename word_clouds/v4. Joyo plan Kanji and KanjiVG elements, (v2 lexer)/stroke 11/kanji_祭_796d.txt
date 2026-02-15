@@ -1,0 +1,542 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.4093853   50 festival       : 祭官, 本祭り, 船祭, 秋祭り, 村祭り, 裸祭, 裸祭り, 港祭り, 奇祭, 本祭, ...
+0.1586503    1 official       : 祭官
+0.1560065    4 main           : 本祭り, 本祭, 宵祭, 宵祭り
+0.0714995    3 day            : 本祭り, 本祭, 祭日
+0.0088802    4 revelry        : お祭りさわぎ, お祭り騒ぎ, お祭騒ぎ, 御祭り騒ぎ
+0.0082396    4 merrymaking    : お祭りさわぎ, お祭り騒ぎ, お祭騒ぎ, 御祭り騒ぎ
+0.0071974    5 August         : ねぶた祭り, 七夕祭, 七夕祭り, 星祭, 星祭り
+0.0066676    1 burnt          : 燔祭
+0.0065259    4 religious      : 燔祭, 祭礼, 祭禮, 祭祀
+0.0060094    1 sacrifice      : 燔祭
+0.0059147    2 offering       : 燔祭, 血祭り
+0.0053027    4 Star           : 七夕祭, 七夕祭り, 星祭, 星祭り
+0.0051025    4 July           : 七夕祭, 七夕祭り, 星祭, 星祭り
+0.0049812    1 animal         : 燔祭
+0.0044417    2 May            : 葵祭, 葵祭り
+0.0037502    6 ritual         : 祭具, 火祭, 火祭り, 祭事, 祭儀, 祭祀
+0.0035993    2 naked          : 裸祭, 裸祭り
+0.0035561    3 music          : 祭りばやし, 祭り囃子, 祭囃子
+0.0033691    1 port           : 港祭り
+0.0028682    4 Bon            : 霊祭, 霊祭り, 魂祭, 魂祭り
+0.0027946    2 autumn         : 秋祭り, 村祭り
+0.0025853    5 ceremony       : 霊祭, 霊祭り, 魂祭, 魂祭り, 祭場
+0.0023365    3 Shrine         : 火祭, 火祭り, 祭主
+0.0023309    2 go             : 裸祭, 裸祭り
+0.0023013    4 night          : 夜祭, 夜祭り, 宵祭, 宵祭り
+0.0021043    1 portable       : 船祭
+0.0021000    2 fire           : 火祭, 火祭り
+0.0020974    1 anniversary    : 年祭
+0.0019623    1 carried        : 船祭
+0.0019614    3 priest         : 祭主, 祭司, 司祭
+0.0018727    2 holiday        : 祝祭日, 祭日
+0.0017584    1 acolyte        : 侍祭
+0.0017420    3 March          : ひな祭り, 雛祭, 雛祭り
+0.0017395    1 fish           : 獺祭
+0.0017197    1 boat           : 船祭
+0.0017106    2 eve            : 宵祭, 宵祭り
+0.0016214    1 obnoxious      : 祭り込む
+0.0016189    2 national       : 祝祭日, 祭日
+0.0015765    2 Ainu           : 熊祭, 熊祭り
+0.0015066    2 recurring      : 陰祭, 陰祭り
+0.0014744    1 spring         : 春祭り
+0.0014681    3 place          : 祭り込む, 陰祭, 陰祭り
+0.0014656    2 absence        : 火祭, 火祭り
+0.0014449    1 fall           : 秋祭り
+0.0013313    1 compose        : 獺祭
+0.0013286    1 killing        : 血祭り
+0.0012996    2 worship        : 祭り上げる, 祭る
+0.0012947    1 lining         : 獺祭
+0.0012772    2 galore         : 祭り, 祭
+0.0012305    1 odd            : 奇祭
+0.0012280    2 pitchfork      : 祭り, 祭
+0.0012228    1 composition    : 獺祭
+0.0012228    1 reference      : 獺祭
+0.0012167    1 literary       : 獺祭
+0.0011931    2 harassment     : 祭り, 祭
+0.0011672    1 harvest        : 村祭り
+0.0011660    2 flaming        : 祭り, 祭
+0.0011533    1 strange        : 奇祭
+0.0011439    2 mob            : 祭り, 祭
+0.0011398    1 rid            : 祭り込む
+0.0011319    1 poetry         : 獺祭
+0.0011319    1 bank           : 獺祭
+0.0011223    2 minor          : 陰祭, 陰祭り
+0.0011222    1 village        : 村祭り
+0.0011090    2 mania          : 祭り, 祭
+0.0010806    2 April          : 花祭, 花祭り
+0.0010765    1 snow           : 雪祭り
+0.0010643    1 catch          : 獺祭
+0.0010501    2 frenzy         : 祭り, 祭
+0.0010344    1 river          : 獺祭
+0.0010263    2 birthday       : 花祭, 花祭り
+0.0010243    2 equipment      : 祭器, 祭具
+0.0010175    2 feast          : 祭り, 祭
+0.0009988    1 ancient        : 獺祭
+0.0009951    1 upstairs       : 祭り上げる
+0.0009894    2 small          : 宵祭, 宵祭り
+0.0009839    1 number         : 獺祭
+0.0009600    1 hierurgy       : 聖祭
+0.0009511    1 making         : 獺祭
+0.0009385    1 order          : 獺祭
+0.0009013    1 people         : 獺祭
+0.0009002    1 deacon         : 助祭
+0.0008943    1 post           : 祭り込む
+0.0008932    2 year           : 陰祭, 陰祭り
+0.0008855    1 head           : 祭主
+0.0008345    2 blossom        : 桜祭, 桜祭り
+0.0007917    2 summer         : 夏祭, 夏祭り
+0.0007800    2 Buddha         : 花祭, 花祭り
+0.0007628    1 annual         : 例祭
+0.0007590    2 cherry         : 桜祭, 桜祭り
+0.0007538    1 menstruation   : 血祭り
+0.0007491    1 church         : 祭政
+0.0007199    1 deify          : 祭る
+0.0007175    1 rite           : 聖祭
+0.0007144    1 kick           : 祭り上げる
+0.0007054    1 sacred         : 祭り上げる
+0.0006905    1 regular        : 例祭
+0.0006870    1 Christian      : 祭服
+0.0006725    1 enshrine       : 祭る
+0.0006557    1 mass           : 聖祭
+0.0006485    2 used           : 祭器, 祭具
+0.0006450    1 soldier        : 血祭り
+0.0006326    1 site           : 祭場
+0.0006034    1 person         : 祭り込む
+0.0005851    1 raise          : 血祭り
+0.0005759    1 battle         : 血祭り
+0.0005714    1 Shinto         : 祭服
+0.0005659    1 pastor         : 司祭
+0.0005658    1 hold           : 祭り上げる
+0.0005629    1 blood          : 血祭り
+0.0005615    1 position       : 祭り上げる
+0.0005608    1 set            : 祭り上げる
+0.0005581    1 high           : 祭り上げる
+0.0005545    1 enemy          : 血祭り
+0.0005499    1 pray           : 祭る
+0.0005377    1 worn           : 祭服
+0.0005180    1 start          : 血祭り
+0.0004914    1 laity          : 祭文
+0.0004820    1 state          : 祭政
+0.0004585    1 sanctuary      : 祭殿
+0.0004474    1 implement      : 祭具
+0.0004369    1 minister       : 司祭
+0.0004197    1 altar          : 祭壇
+0.0004081    1 ceremonial     : 葬祭
+0.0004007    1 grand          : 大祭
+0.0003636    1 address        : 祭文
+0.0003596    1 deity          : 祭神
+0.0003350    1 emperor        : 親祭
+0.0003322    1 spread         : 祭文
+0.0003286    1 song           : 祭文
+0.0003234    1 service        : 祭祀
+0.0003181    1 type           : 祭文
+0.0003088    1 shrine         : 祭殿
+0.0002946    1 mountain       : 祭文
+0.0002896    1 era            : 祭文
+0.0002725    1 school         : 学祭
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.4093853   50 festival
+	festival WORD[ 1,   1]: 0.1795125 祭官
+	festival WORD[ 1,   2]: 0.1720424 本祭り
+	festival WORD[ 1,   3]: 0.0036122 船祭
+	festival WORD[ 1,   4]: 0.0034148 秋祭り
+	festival WORD[ 1,   5]: 0.0033005 村祭り
+	festival WORD[ 1,   6]: 0.0031912 裸祭
+	festival WORD[ 1,   7]: 0.0031912 裸祭り
+	festival WORD[ 1,   8]: 0.0029254 港祭り
+	festival WORD[ 1,   9]: 0.0022652 奇祭
+	festival WORD[ 1,  10]: 0.0021302 本祭
+	festival WORD[ 1,  11]: 0.0019900 宵祭
+	festival WORD[ 1,  12]: 0.0019900 宵祭り
+	festival WORD[ 1,  13]: 0.0017074 春祭り
+	festival WORD[ 1,  14]: 0.0015373 お祭りさわぎ
+	festival WORD[ 1,  15]: 0.0015373 お祭り騒ぎ
+	festival WORD[ 1,  16]: 0.0015373 お祭騒ぎ
+	festival WORD[ 1,  17]: 0.0015373 御祭り騒ぎ
+	festival WORD[ 1,  18]: 0.0013391 例祭
+	festival WORD[ 1,  19]: 0.0012678 火祭
+	festival WORD[ 1,  20]: 0.0012678 火祭り
+	festival WORD[ 1,  21]: 0.0012359 祭りばやし
+	festival WORD[ 1,  22]: 0.0012359 祭り囃子
+	festival WORD[ 1,  23]: 0.0012359 祭囃子
+	festival WORD[ 1,  24]: 0.0011776 雪祭り
+	festival WORD[ 1,  25]: 0.0010433 陰祭
+	festival WORD[ 1,  26]: 0.0010433 陰祭り
+	festival WORD[ 1,  27]: 0.0006662 夜祭
+	festival WORD[ 1,  28]: 0.0006662 夜祭り
+	festival WORD[ 1,  29]: 0.0005766 霊祭
+	festival WORD[ 1,  30]: 0.0005766 霊祭り
+	festival WORD[ 1,  31]: 0.0005766 魂祭
+	festival WORD[ 1,  32]: 0.0005766 魂祭り
+	festival WORD[ 1,  33]: 0.0005590 祭日
+	festival WORD[ 1,  34]: 0.0005590 祭事
+	festival WORD[ 1,  35]: 0.0005335 熊祭
+	festival WORD[ 1,  36]: 0.0005335 熊祭り
+	festival WORD[ 1,  37]: 0.0004550 祭り
+	festival WORD[ 1,  38]: 0.0004224 花祭
+	festival WORD[ 1,  39]: 0.0004224 花祭り
+	festival WORD[ 1,  40]: 0.0004063 夏祭
+	festival WORD[ 1,  41]: 0.0004063 夏祭り
+	festival WORD[ 1,  42]: 0.0003725 大祭
+	festival WORD[ 1,  43]: 0.0003536 桜祭
+	festival WORD[ 1,  44]: 0.0003536 桜祭り
+	festival WORD[ 1,  45]: 0.0003526 祭礼
+	festival WORD[ 1,  46]: 0.0003526 祭禮
+	festival WORD[ 1,  47]: 0.0003525 祭典
+	festival WORD[ 1,  48]: 0.0003525 祭祀
+	festival WORD[ 1,  49]: 0.0003524 祭
+	festival WORD[ 1,  50]: 0.0003379 学祭
+TOKEN[ 2]: 0.1586503    1 official
+	official WORD[ 2,   1]: 0.1586503 祭官
+TOKEN[ 3]: 0.1560065    4 main
+	main WORD[ 3,   1]: 0.1529336 本祭り
+	main WORD[ 3,   2]: 0.0018936 本祭
+	main WORD[ 3,   3]: 0.0005897 宵祭
+	main WORD[ 3,   4]: 0.0005897 宵祭り
+TOKEN[ 4]: 0.0714995    3 day
+	day WORD[ 4,   1]: 0.0701745 本祭り
+	day WORD[ 4,   2]: 0.0008689 本祭
+	day WORD[ 4,   3]: 0.0004560 祭日
+TOKEN[ 5]: 0.0088802    4 revelry
+	revelry WORD[ 5,   1]: 0.0022201 お祭りさわぎ
+	revelry WORD[ 5,   2]: 0.0022201 お祭り騒ぎ
+	revelry WORD[ 5,   3]: 0.0022201 お祭騒ぎ
+	revelry WORD[ 5,   4]: 0.0022200 御祭り騒ぎ
+TOKEN[ 6]: 0.0082396    4 merrymaking
+	merrymaking WORD[ 6,   1]: 0.0020599 お祭りさわぎ
+	merrymaking WORD[ 6,   2]: 0.0020599 お祭り騒ぎ
+	merrymaking WORD[ 6,   3]: 0.0020599 お祭騒ぎ
+	merrymaking WORD[ 6,   4]: 0.0020599 御祭り騒ぎ
+TOKEN[ 7]: 0.0071974    5 August
+	August WORD[ 7,   1]: 0.0021359 ねぶた祭り
+	August WORD[ 7,   2]: 0.0017047 七夕祭
+	August WORD[ 7,   3]: 0.0017047 七夕祭り
+	August WORD[ 7,   4]: 0.0008260 星祭
+	August WORD[ 7,   5]: 0.0008260 星祭り
+TOKEN[ 8]: 0.0066676    1 burnt
+	burnt WORD[ 8,   1]: 0.0066676 燔祭
+TOKEN[ 9]: 0.0065259    4 religious
+	religious WORD[ 9,   1]: 0.0054507 燔祭
+	religious WORD[ 9,   2]: 0.0003584 祭礼
+	religious WORD[ 9,   3]: 0.0003584 祭禮
+	religious WORD[ 9,   4]: 0.0003583 祭祀
+TOKEN[10]: 0.0060094    1 sacrifice
+	sacrifice WORD[10,   1]: 0.0060094 燔祭
+TOKEN[11]: 0.0059147    2 offering
+	offering WORD[11,   1]: 0.0053211 燔祭
+	offering WORD[11,   2]: 0.0005936 血祭り
+TOKEN[12]: 0.0053027    4 Star
+	Star WORD[12,   1]: 0.0017860 七夕祭
+	Star WORD[12,   2]: 0.0017860 七夕祭り
+	Star WORD[12,   3]: 0.0008654 星祭
+	Star WORD[12,   4]: 0.0008654 星祭り
+TOKEN[13]: 0.0051025    4 July
+	July WORD[13,   1]: 0.0017186 七夕祭
+	July WORD[13,   2]: 0.0017186 七夕祭り
+	July WORD[13,   3]: 0.0008327 星祭
+	July WORD[13,   4]: 0.0008327 星祭り
+TOKEN[14]: 0.0049812    1 animal
+	animal WORD[14,   1]: 0.0049812 燔祭
+TOKEN[15]: 0.0044417    2 May
+	May WORD[15,   1]: 0.0022208 葵祭
+	May WORD[15,   2]: 0.0022208 葵祭り
+TOKEN[16]: 0.0037502    6 ritual
+	ritual WORD[16,   1]: 0.0007678 祭具
+	ritual WORD[16,   2]: 0.0006905 火祭
+	ritual WORD[16,   3]: 0.0006905 火祭り
+	ritual WORD[16,   4]: 0.0006089 祭事
+	ritual WORD[16,   5]: 0.0006085 祭儀
+	ritual WORD[16,   6]: 0.0003839 祭祀
+TOKEN[17]: 0.0035993    2 naked
+	naked WORD[17,   1]: 0.0017997 裸祭
+	naked WORD[17,   2]: 0.0017996 裸祭り
+TOKEN[18]: 0.0035561    3 music
+	music WORD[18,   1]: 0.0011854 祭りばやし
+	music WORD[18,   2]: 0.0011854 祭り囃子
+	music WORD[18,   3]: 0.0011854 祭囃子
+TOKEN[19]: 0.0033691    1 port
+	port WORD[19,   1]: 0.0033691 港祭り
+TOKEN[20]: 0.0028682    4 Bon
+	Bon WORD[20,   1]: 0.0007170 霊祭
+	Bon WORD[20,   2]: 0.0007170 霊祭り
+	Bon WORD[20,   3]: 0.0007170 魂祭
+	Bon WORD[20,   4]: 0.0007170 魂祭り
+TOKEN[21]: 0.0027946    2 autumn
+	autumn WORD[21,   1]: 0.0016995 秋祭り
+	autumn WORD[21,   2]: 0.0010951 村祭り
+TOKEN[22]: 0.0025853    5 ceremony
+	ceremony WORD[22,   1]: 0.0005203 霊祭
+	ceremony WORD[22,   2]: 0.0005203 霊祭り
+	ceremony WORD[22,   3]: 0.0005203 魂祭
+	ceremony WORD[22,   4]: 0.0005203 魂祭り
+	ceremony WORD[22,   5]: 0.0005043 祭場
+TOKEN[23]: 0.0023365    3 Shrine
+	Shrine WORD[23,   1]: 0.0008108 火祭
+	Shrine WORD[23,   2]: 0.0008108 火祭り
+	Shrine WORD[23,   3]: 0.0007150 祭主
+TOKEN[24]: 0.0023309    2 go
+	go WORD[24,   1]: 0.0011655 裸祭
+	go WORD[24,   2]: 0.0011655 裸祭り
+TOKEN[25]: 0.0023013    4 night
+	night WORD[25,   1]: 0.0005766 夜祭
+	night WORD[25,   2]: 0.0005766 夜祭り
+	night WORD[25,   3]: 0.0005741 宵祭
+	night WORD[25,   4]: 0.0005741 宵祭り
+TOKEN[26]: 0.0021043    1 portable
+	portable WORD[26,   1]: 0.0021043 船祭
+TOKEN[27]: 0.0021000    2 fire
+	fire WORD[27,   1]: 0.0010500 火祭
+	fire WORD[27,   2]: 0.0010500 火祭り
+TOKEN[28]: 0.0020974    1 anniversary
+	anniversary WORD[28,   1]: 0.0020974 年祭
+TOKEN[29]: 0.0019623    1 carried
+	carried WORD[29,   1]: 0.0019623 船祭
+TOKEN[30]: 0.0019614    3 priest
+	priest WORD[30,   1]: 0.0010777 祭主
+	priest WORD[30,   2]: 0.0005388 祭司
+	priest WORD[30,   3]: 0.0003448 司祭
+TOKEN[31]: 0.0018727    2 holiday
+	holiday WORD[31,   1]: 0.0012187 祝祭日
+	holiday WORD[31,   2]: 0.0006540 祭日
+TOKEN[32]: 0.0017584    1 acolyte
+	acolyte WORD[32,   1]: 0.0017584 侍祭
+TOKEN[33]: 0.0017420    3 March
+	March WORD[33,   1]: 0.0005807 ひな祭り
+	March WORD[33,   2]: 0.0005807 雛祭
+	March WORD[33,   3]: 0.0005807 雛祭り
+TOKEN[34]: 0.0017395    1 fish
+	fish WORD[34,   1]: 0.0017395 獺祭
+TOKEN[35]: 0.0017197    1 boat
+	boat WORD[35,   1]: 0.0017197 船祭
+TOKEN[36]: 0.0017106    2 eve
+	eve WORD[36,   1]: 0.0008553 宵祭
+	eve WORD[36,   2]: 0.0008553 宵祭り
+TOKEN[37]: 0.0016214    1 obnoxious
+	obnoxious WORD[37,   1]: 0.0016214 祭り込む
+TOKEN[38]: 0.0016189    2 national
+	national WORD[38,   1]: 0.0010536 祝祭日
+	national WORD[38,   2]: 0.0005654 祭日
+TOKEN[39]: 0.0015765    2 Ainu
+	Ainu WORD[39,   1]: 0.0007883 熊祭
+	Ainu WORD[39,   2]: 0.0007883 熊祭り
+TOKEN[40]: 0.0015066    2 recurring
+	recurring WORD[40,   1]: 0.0007533 陰祭
+	recurring WORD[40,   2]: 0.0007533 陰祭り
+TOKEN[41]: 0.0014744    1 spring
+	spring WORD[41,   1]: 0.0014744 春祭り
+TOKEN[42]: 0.0014681    3 place
+	place WORD[42,   1]: 0.0007042 祭り込む
+	place WORD[42,   2]: 0.0003820 陰祭
+	place WORD[42,   3]: 0.0003820 陰祭り
+TOKEN[43]: 0.0014656    2 absence
+	absence WORD[43,   1]: 0.0007328 火祭
+	absence WORD[43,   2]: 0.0007328 火祭り
+TOKEN[44]: 0.0014449    1 fall
+	fall WORD[44,   1]: 0.0014449 秋祭り
+TOKEN[45]: 0.0013313    1 compose
+	compose WORD[45,   1]: 0.0013313 獺祭
+TOKEN[46]: 0.0013286    1 killing
+	killing WORD[46,   1]: 0.0013286 血祭り
+TOKEN[47]: 0.0012996    2 worship
+	worship WORD[47,   1]: 0.0007755 祭り上げる
+	worship WORD[47,   2]: 0.0005241 祭る
+TOKEN[48]: 0.0012947    1 lining
+	lining WORD[48,   1]: 0.0012947 獺祭
+TOKEN[49]: 0.0012772    2 galore
+	galore WORD[49,   1]: 0.0007198 祭り
+	galore WORD[49,   2]: 0.0005574 祭
+TOKEN[50]: 0.0012305    1 odd
+	odd WORD[50,   1]: 0.0012305 奇祭
+TOKEN[51]: 0.0012280    2 pitchfork
+	pitchfork WORD[51,   1]: 0.0006921 祭り
+	pitchfork WORD[51,   2]: 0.0005360 祭
+TOKEN[52]: 0.0012228    1 composition
+	composition WORD[52,   1]: 0.0012228 獺祭
+TOKEN[53]: 0.0012228    1 reference
+	reference WORD[53,   1]: 0.0012228 獺祭
+TOKEN[54]: 0.0012167    1 literary
+	literary WORD[54,   1]: 0.0012167 獺祭
+TOKEN[55]: 0.0011931    2 harassment
+	harassment WORD[55,   1]: 0.0006724 祭り
+	harassment WORD[55,   2]: 0.0005207 祭
+TOKEN[56]: 0.0011672    1 harvest
+	harvest WORD[56,   1]: 0.0011672 村祭り
+TOKEN[57]: 0.0011660    2 flaming
+	flaming WORD[57,   1]: 0.0006571 祭り
+	flaming WORD[57,   2]: 0.0005089 祭
+TOKEN[58]: 0.0011533    1 strange
+	strange WORD[58,   1]: 0.0011533 奇祭
+TOKEN[59]: 0.0011439    2 mob
+	mob WORD[59,   1]: 0.0006447 祭り
+	mob WORD[59,   2]: 0.0004992 祭
+TOKEN[60]: 0.0011398    1 rid
+	rid WORD[60,   1]: 0.0011398 祭り込む
+TOKEN[61]: 0.0011319    1 poetry
+	poetry WORD[61,   1]: 0.0011319 獺祭
+TOKEN[62]: 0.0011319    1 bank
+	bank WORD[62,   1]: 0.0011319 獺祭
+TOKEN[63]: 0.0011223    2 minor
+	minor WORD[63,   1]: 0.0005611 陰祭
+	minor WORD[63,   2]: 0.0005611 陰祭り
+TOKEN[64]: 0.0011222    1 village
+	village WORD[64,   1]: 0.0011222 村祭り
+TOKEN[65]: 0.0011090    2 mania
+	mania WORD[65,   1]: 0.0006250 祭り
+	mania WORD[65,   2]: 0.0004840 祭
+TOKEN[66]: 0.0010806    2 April
+	April WORD[66,   1]: 0.0005403 花祭
+	April WORD[66,   2]: 0.0005403 花祭り
+TOKEN[67]: 0.0010765    1 snow
+	snow WORD[67,   1]: 0.0010765 雪祭り
+TOKEN[68]: 0.0010643    1 catch
+	catch WORD[68,   1]: 0.0010643 獺祭
+TOKEN[69]: 0.0010501    2 frenzy
+	frenzy WORD[69,   1]: 0.0005918 祭り
+	frenzy WORD[69,   2]: 0.0004583 祭
+TOKEN[70]: 0.0010344    1 river
+	river WORD[70,   1]: 0.0010344 獺祭
+TOKEN[71]: 0.0010263    2 birthday
+	birthday WORD[71,   1]: 0.0005132 花祭
+	birthday WORD[71,   2]: 0.0005132 花祭り
+TOKEN[72]: 0.0010243    2 equipment
+	equipment WORD[72,   1]: 0.0006281 祭器
+	equipment WORD[72,   2]: 0.0003962 祭具
+TOKEN[73]: 0.0010175    2 feast
+	feast WORD[73,   1]: 0.0005734 祭り
+	feast WORD[73,   2]: 0.0004441 祭
+TOKEN[74]: 0.0009988    1 ancient
+	ancient WORD[74,   1]: 0.0009988 獺祭
+TOKEN[75]: 0.0009951    1 upstairs
+	upstairs WORD[75,   1]: 0.0009951 祭り上げる
+TOKEN[76]: 0.0009894    2 small
+	small WORD[76,   1]: 0.0004947 宵祭
+	small WORD[76,   2]: 0.0004947 宵祭り
+TOKEN[77]: 0.0009839    1 number
+	number WORD[77,   1]: 0.0009839 獺祭
+TOKEN[78]: 0.0009600    1 hierurgy
+	hierurgy WORD[78,   1]: 0.0009600 聖祭
+TOKEN[79]: 0.0009511    1 making
+	making WORD[79,   1]: 0.0009511 獺祭
+TOKEN[80]: 0.0009385    1 order
+	order WORD[80,   1]: 0.0009385 獺祭
+TOKEN[81]: 0.0009013    1 people
+	people WORD[81,   1]: 0.0009013 獺祭
+TOKEN[82]: 0.0009002    1 deacon
+	deacon WORD[82,   1]: 0.0009002 助祭
+TOKEN[83]: 0.0008943    1 post
+	post WORD[83,   1]: 0.0008943 祭り込む
+TOKEN[84]: 0.0008932    2 year
+	year WORD[84,   1]: 0.0004466 陰祭
+	year WORD[84,   2]: 0.0004466 陰祭り
+TOKEN[85]: 0.0008855    1 head
+	head WORD[85,   1]: 0.0008855 祭主
+TOKEN[86]: 0.0008345    2 blossom
+	blossom WORD[86,   1]: 0.0004172 桜祭
+	blossom WORD[86,   2]: 0.0004172 桜祭り
+TOKEN[87]: 0.0007917    2 summer
+	summer WORD[87,   1]: 0.0003958 夏祭
+	summer WORD[87,   2]: 0.0003958 夏祭り
+TOKEN[88]: 0.0007800    2 Buddha
+	Buddha WORD[88,   1]: 0.0003900 花祭
+	Buddha WORD[88,   2]: 0.0003900 花祭り
+TOKEN[89]: 0.0007628    1 annual
+	annual WORD[89,   1]: 0.0007628 例祭
+TOKEN[90]: 0.0007590    2 cherry
+	cherry WORD[90,   1]: 0.0003795 桜祭
+	cherry WORD[90,   2]: 0.0003795 桜祭り
+TOKEN[91]: 0.0007538    1 menstruation
+	menstruation WORD[91,   1]: 0.0007538 血祭り
+TOKEN[92]: 0.0007491    1 church
+	church WORD[92,   1]: 0.0007491 祭政
+TOKEN[93]: 0.0007199    1 deify
+	deify WORD[93,   1]: 0.0007199 祭る
+TOKEN[94]: 0.0007175    1 rite
+	rite WORD[94,   1]: 0.0007175 聖祭
+TOKEN[95]: 0.0007144    1 kick
+	kick WORD[95,   1]: 0.0007144 祭り上げる
+TOKEN[96]: 0.0007054    1 sacred
+	sacred WORD[96,   1]: 0.0007054 祭り上げる
+TOKEN[97]: 0.0006905    1 regular
+	regular WORD[97,   1]: 0.0006905 例祭
+TOKEN[98]: 0.0006870    1 Christian
+	Christian WORD[98,   1]: 0.0006870 祭服
+TOKEN[99]: 0.0006725    1 enshrine
+	enshrine WORD[99,   1]: 0.0006725 祭る
+TOKEN[100]: 0.0006557    1 mass
+	mass WORD[100,   1]: 0.0006557 聖祭
+TOKEN[101]: 0.0006485    2 used
+	used WORD[101,   1]: 0.0003977 祭器
+	used WORD[101,   2]: 0.0002509 祭具
+TOKEN[102]: 0.0006450    1 soldier
+	soldier WORD[102,   1]: 0.0006450 血祭り
+TOKEN[103]: 0.0006326    1 site
+	site WORD[103,   1]: 0.0006326 祭場
+TOKEN[104]: 0.0006034    1 person
+	person WORD[104,   1]: 0.0006034 祭り込む
+TOKEN[105]: 0.0005851    1 raise
+	raise WORD[105,   1]: 0.0005851 血祭り
+TOKEN[106]: 0.0005759    1 battle
+	battle WORD[106,   1]: 0.0005759 血祭り
+TOKEN[107]: 0.0005714    1 Shinto
+	Shinto WORD[107,   1]: 0.0005714 祭服
+TOKEN[108]: 0.0005659    1 pastor
+	pastor WORD[108,   1]: 0.0005659 司祭
+TOKEN[109]: 0.0005658    1 hold
+	hold WORD[109,   1]: 0.0005658 祭り上げる
+TOKEN[110]: 0.0005629    1 blood
+	blood WORD[110,   1]: 0.0005629 血祭り
+TOKEN[111]: 0.0005615    1 position
+	position WORD[111,   1]: 0.0005615 祭り上げる
+TOKEN[112]: 0.0005608    1 set
+	set WORD[112,   1]: 0.0005608 祭り上げる
+TOKEN[113]: 0.0005581    1 high
+	high WORD[113,   1]: 0.0005581 祭り上げる
+TOKEN[114]: 0.0005545    1 enemy
+	enemy WORD[114,   1]: 0.0005545 血祭り
+TOKEN[115]: 0.0005499    1 pray
+	pray WORD[115,   1]: 0.0005499 祭る
+TOKEN[116]: 0.0005377    1 worn
+	worn WORD[116,   1]: 0.0005377 祭服
+TOKEN[117]: 0.0005180    1 start
+	start WORD[117,   1]: 0.0005180 血祭り
+TOKEN[118]: 0.0004914    1 laity
+	laity WORD[118,   1]: 0.0004914 祭文
+TOKEN[119]: 0.0004820    1 state
+	state WORD[119,   1]: 0.0004820 祭政
+TOKEN[120]: 0.0004585    1 sanctuary
+	sanctuary WORD[120,   1]: 0.0004585 祭殿
+TOKEN[121]: 0.0004474    1 implement
+	implement WORD[121,   1]: 0.0004474 祭具
+TOKEN[122]: 0.0004369    1 minister
+	minister WORD[122,   1]: 0.0004369 司祭
+TOKEN[123]: 0.0004197    1 altar
+	altar WORD[123,   1]: 0.0004197 祭壇
+TOKEN[124]: 0.0004081    1 ceremonial
+	ceremonial WORD[124,   1]: 0.0004081 葬祭
+TOKEN[125]: 0.0004007    1 grand
+	grand WORD[125,   1]: 0.0004007 大祭
+TOKEN[126]: 0.0003636    1 address
+	address WORD[126,   1]: 0.0003636 祭文
+TOKEN[127]: 0.0003596    1 deity
+	deity WORD[127,   1]: 0.0003596 祭神
+TOKEN[128]: 0.0003350    1 emperor
+	emperor WORD[128,   1]: 0.0003350 親祭
+TOKEN[129]: 0.0003322    1 spread
+	spread WORD[129,   1]: 0.0003322 祭文
+TOKEN[130]: 0.0003286    1 song
+	song WORD[130,   1]: 0.0003286 祭文
+TOKEN[131]: 0.0003234    1 service
+	service WORD[131,   1]: 0.0003234 祭祀
+TOKEN[132]: 0.0003181    1 type
+	type WORD[132,   1]: 0.0003181 祭文
+TOKEN[133]: 0.0003088    1 shrine
+	shrine WORD[133,   1]: 0.0003088 祭殿
+TOKEN[134]: 0.0002946    1 mountain
+	mountain WORD[134,   1]: 0.0002946 祭文
+TOKEN[135]: 0.0002896    1 era
+	era WORD[135,   1]: 0.0002896 祭文
+TOKEN[136]: 0.0002725    1 school
+	school WORD[136,   1]: 0.0002725 学祭

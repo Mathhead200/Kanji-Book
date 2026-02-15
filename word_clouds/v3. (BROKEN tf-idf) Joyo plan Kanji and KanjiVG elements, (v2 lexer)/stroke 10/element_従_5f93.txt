@@ -1,0 +1,796 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0737490   12 cousin         : 従兄弟違い, 二従兄弟, 従弟, 従姉, 又従兄, 又従兄弟, 又従姉妹, 再従兄弟, 従妹, 従兄, ...
+0.0440033    1 concatenation  : 縦続
+0.0413489    1 removed        : 従兄弟違い
+0.0402885    1 cascade        : 縦続
+0.0383022   16 vertical       : 縦框, 縦幅, 縦組み, 縦型, 縦軸, 縦書, 縦書き, 縦線, 縦棒, 縦長, ...
+0.0363938    1 parent         : 従兄弟違い
+0.0292134    2 connection     : 縦続, 縦軸
+0.0168132    4 longitudinal   : 縦巻き, 縦型, 縦波, 縦走
+0.0139802    6 second         : 二従兄弟, 又従兄, 又従兄弟, 又従姉妹, 再従兄弟, 随従
+0.0137418    1 stile          : 縦框
+0.0137418    1 doorpost       : 縦框
+0.0132592    1 doorjamb       : 縦框
+0.0112674    3 subordinate    : 従文, 従, 従い
+0.0106584    1 curling        : 縦巻き
+0.0103603    1 boiled         : 従兄弟煮
+0.0091975    3 obedience      : 黙従, 盲従, 服従
+0.0091720    3 writing        : 縦書, 縦書き, 縦長
+0.0089512    5 line           : 縦線, 縦読み, 縦列, 縦棒, 縦軸
+0.0085957    1 element        : 縦框
+0.0085801    1 frame          : 縦框
+0.0084066    1 window         : 縦框
+0.0081587    1 winding        : 縦巻き
+0.0080686    3 follow         : 従う, つき従う, 付き従う
+0.0077552    1 door           : 縦框
+0.0073954    1 left           : 縦框
+0.0073196    1 reading        : 縦読み
+0.0070617    1 right          : 縦框
+0.0069288    3 obey           : つき従う, 付き従う, 従う
+0.0066054    4 following      : 追従, 聴従, 随従, 従事
+0.0065013    2 length         : 縦幅, 縦横
+0.0064624    3 accompany      : つき従う, 付き従う, 従う
+0.0064543    3 servant        : 従者, 主従, 従僕
+0.0062043    2 cleave         : つき従う, 付き従う
+0.0061444    1 incidental     : 従
+0.0059986    4 male           : 従弟, 従僕, 従兄, 従兄弟
+0.0059110    1 appurtenance   : 従物
+0.0058414    1 hair           : 縦巻き
+0.0057709    1 acquiescence   : 黙従
+0.0055838    2 servile        : 追従, 屈従
+0.0054042    4 music          : 縦線, 縦ノリ, 縦乗り, 縦棒
+0.0051847    2 flatter        : つき従う, 付き従う
+0.0051478    3 column         : 縦陣, 縦隊, 縦列
+0.0051410    1 junior         : 従
+0.0050344    1 secondary      : 従
+0.0049604    3 submission     : 服従, 忍従, 屈従
+0.0047778    3 female         : 従姉, 従妹, 従姉妹
+0.0047547    2 attendant      : 従者, 従僕
+0.0047088    2 younger        : 従弟, 従妹
+0.0046728    1 reveal         : 縦読み
+0.0046002    5 one            : 縦抱き, 縦横, 縦ノリ, 縦乗り, 扈従
+0.0045736    1 clause         : 従文
+0.0045428    2 upright        : 縦抱き, 縦棒
+0.0044671    2 join           : つき従う, 付き従う
+0.0043549    1 passive        : 黙従
+0.0042685    1 accessory      : 従物
+0.0042312    2 follower       : 従者, 随従
+0.0041796    1 hidden         : 縦読み
+0.0041671    1 servility      : 追従
+0.0041671    1 emulation      : 追従
+0.0040402    1 message        : 縦読み
+0.0040017    1 infant         : 縦抱き
+0.0038956    1 text           : 縦読み
+0.0038372    2 according      : 従量, 類従
+0.0037100    1 mediastinum    : 縦隔
+0.0036794    1 written        : 縦読み
+0.0034783    1 typesetting    : 縦組み
+0.0034575    1 adherence      : 追従
+0.0034343    1 word           : 縦読み
+0.0034320    2 resignation    : 服従, 忍従
+0.0034053    1 compliance     : 追従
+0.0033993    1 arms           : 縦抱き
+0.0033864    2 older          : 従姉, 従兄
+0.0033846    2 lengthwise     : 縦割り, 縦横
+0.0033815    3 shaft          : 縦坑, 縦軸, 縦穴
+0.0033776    1 sail           : 縦帆
+0.0033632    1 valet          : 従者
+0.0033543    1 first          : 縦読み
+0.0033524    1 holding        : 縦抱き
+0.0033208    1 complicity     : 従犯
+0.0033197    1 docile         : 従順
+0.0032924    1 character      : 縦読み
+0.0032479    1 accomplice     : 従犯
+0.0032346    1 ripsaw         : 縦びき
+0.0032120    1 height         : 縦幅
+0.0031611    1 submissive     : 従順
+0.0031542    1 arbitrary      : 縦
+0.0031015    2 bar            : 縦線, 縦棒
+0.0030734    1 meek           : 従順
+0.0029926    1 chamberlain    : 侍従
+0.0029726    1 thing          : 従物
+0.0029564    2 beat           : 縦ノリ, 縦乗り
+0.0029480    1 underling      : 従卒
+0.0029387    1 subjugate      : 従える
+0.0028782    2 moving         : 縦ノリ, 縦乗り
+0.0028771    1 obedient       : 従順
+0.0028769    2 someone        : 従える, 追従
+0.0028416    1 selfish        : 縦
+0.0028113    1 type           : 類従
+0.0026382    1 measured       : 従量
+0.0025799    1 gentle         : 従順
+0.0025696    1 conquer        : 従える
+0.0025693    1 opinion        : 追従
+0.0025373    1 sorted         : 類従
+0.0024938    1 subdue         : 従える
+0.0024715    1 tranquil       : 従容
+0.0024389    1 charging       : 従量
+0.0023780    1 previous       : 従前
+0.0023731    1 slavery        : 隷従
+0.0023550    1 working        : 専従
+0.0023533    1 employer       : 主従
+0.0023448    1 supposing      : 縦令
+0.0023306    1 traversing     : 縦走
+0.0023249    2 body           : 縦ノリ, 縦乗り
+0.0023071    1 grain          : 縦目
+0.0022979    2 direction      : 縦走, 縦横
+0.0022868    2 pit            : 縦坑, 縦穴
+0.0022274    1 crosswise      : 縦横
+0.0022079    1 usage          : 従量
+0.0021983    1 wave           : 縦波
+0.0021901    1 retainer       : 主従
+0.0021473    3 running        : 縦断, 縦走, 縦貫
+0.0021267    1 composed       : 従容
+0.0020700    1 former         : 従前
+0.0020613    1 subservience   : 屈従
+0.0020600    1 lord           : 主従
+0.0020266    1 breadth        : 縦横
+0.0019843    1 calm           : 従容
+0.0019757    1 vassalage      : 臣従
+0.0019722    1 employee       : 主従
+0.0019704    1 looseness      : 放縦
+0.0019377    1 cardinal       : 縦横
+0.0019292    1 subordination  : 従属
+0.0018588    1 width          : 縦横
+0.0018584    2 work           : 従事, 従う
+0.0018503    2 striped        : 縦じま, 縦縞
+0.0018035    1 go             : 従う
+0.0017880    1 master         : 主従
+0.0017833    1 dissolution    : 放縦
+0.0017458    1 rate           : 従量
+0.0017379    1 paper          : 縦目
+0.0017310    1 horizontal     : 縦横
+0.0017272    1 blind          : 盲従
+0.0017080    1 granny         : 縦結び
+0.0017002    1 handling       : 操縦
+0.0016720    1 dependency     : 従属
+0.0016641    1 collection     : 類従
+0.0016522    1 engaging       : 従事
+0.0016400    1 fiddle         : 随従
+0.0016279    1 abide          : 従う
+0.0016224    2 fabric         : 縦じま, 縦縞
+0.0015945    1 conform        : 従う
+0.0015541    1 profession     : 従事
+0.0015538    1 accordance     : 従い
+0.0015479    1 observe        : 従う
+0.0015336    1 orientation    : 縦長
+0.0015310    1 waiting        : 陪従
+0.0015144    1 license        : 放縦
+0.0014837    1 portrait       : 縦長
+0.0014738    1 four           : 縦横
+0.0014608    1 advice         : 聴従
+0.0014603    1 conventional   : 従来
+0.0014458    1 cutting        : 縦断
+0.0014386    1 engage         : 従う
+0.0014265    1 alliance       : 合従
+0.0014195    1 knot           : 縦結び
+0.0013929    1 take           : 従える
+0.0013798    1 involved       : 従事
+0.0013762    1 custom         : 従う
+0.0013615    1 yield          : 従う
+0.0013564    1 mine           : 縦坑
+0.0013500    1 campaign       : 従軍
+0.0013451    1 mountain       : 縦走
+0.0013354    1 serve          : 従う
+0.0013200    1 attendance     : 扈従
+0.0012959    1 employment     : 従業
+0.0012873    1 serving        : 従軍
+0.0012839    1 usual          : 従来
+0.0012532    1 superior       : 扈従
+0.0012453    1 piloting       : 操縦
+0.0012031    1 lead           : 随従
+0.0011943    1 rule           : 従う
+0.0011897    1 traversal      : 縦貫
+0.0011830    1 sign           : 従う
+0.0011738    1 river          : 従う
+0.0011715    1 dynasty        : 合従
+0.0011570    1 file           : 縦列
+0.0011313    1 recorder       : 縦笛
+0.0011288    1 war            : 従軍
+0.0011028    1 military       : 従軍
+0.0011011    1 spindle        : 縦軸
+0.0010620    1 law            : 従う
+0.0010609    1 service        : 従軍
+0.0010503    1 traditional    : 従来
+0.0010489    1 taking         : 従軍
+0.0010365    1 pitching       : 縦揺れ
+0.0010264    1 style          : 縦長
+0.0010251    1 part           : 従軍
+0.0010105    1 dividing       : 縦割り
+0.0010084    1 steering       : 操縦
+0.0010066    1 splitting      : 縦割り
+0.0009887    1 shaking        : 縦揺れ
+0.0009880    1 manipulation   : 操縦
+0.0009846    1 warp           : 縦糸
+0.0009815    1 weaving        : 縦糸
+0.0009761    1 axis           : 縦軸
+0.0009740    1 order          : 従う
+0.0009551    1 flute          : 縦笛
+0.0009129    1 ridge          : 縦走
+0.0008948    1 climbing       : 縦走
+0.0008945    1 stem           : 縦棒
+0.0008739    1 pitch          : 縦揺れ
+0.0008637    1 earthquake     : 縦揺れ
+0.0008608    1 split          : 縦割り
+0.0008494    1 aircraft       : 縦揺れ
+0.0008403    1 succession     : 縦走
+0.0008198    1 inspection     : 縦覧
+0.0008073    1 range          : 縦走
+0.0007964    1 division       : 縦割り
+0.0007928    1 flying         : 操縦
+0.0007869    1 note           : 縦棒
+0.0007868    1 several        : 縦走
+0.0007802    1 past           : 縦軸
+0.0007725    1 walking        : 縦走
+0.0007715    1 operation      : 操縦
+0.0007613    1 management     : 操縦
+0.0007372    1 person         : 従う
+0.0007365    1 present        : 縦軸
+0.0007224    1 ship           : 縦揺れ
+0.0007011    1 matter         : 縦令
+0.0006886    1 control        : 操縦
+0.0005897    1 people         : 操縦
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0737490   12 cousin
+	cousin WORD[ 1,   1]: 0.0426138 従兄弟違い
+	cousin WORD[ 1,   2]: 0.0076196 二従兄弟
+	cousin WORD[ 1,   3]: 0.0028886 従弟
+	cousin WORD[ 1,   4]: 0.0028876 従姉
+	cousin WORD[ 1,   5]: 0.0028341 又従兄
+	cousin WORD[ 1,   6]: 0.0028341 又従兄弟
+	cousin WORD[ 1,   7]: 0.0028341 又従姉妹
+	cousin WORD[ 1,   8]: 0.0027597 再従兄弟
+	cousin WORD[ 1,   9]: 0.0024080 従妹
+	cousin WORD[ 1,  10]: 0.0013565 従兄
+	cousin WORD[ 1,  11]: 0.0013565 従兄弟
+	cousin WORD[ 1,  12]: 0.0013565 従姉妹
+TOKEN[ 2]: 0.0440033    1 concatenation
+	concatenation WORD[ 2,   1]: 0.0440033 縦続
+TOKEN[ 3]: 0.0413489    1 removed
+	removed WORD[ 3,   1]: 0.0413489 従兄弟違い
+TOKEN[ 4]: 0.0402885    1 cascade
+	cascade WORD[ 4,   1]: 0.0402885 縦続
+TOKEN[ 5]: 0.0383022   16 vertical
+	vertical WORD[ 5,   1]: 0.0092383 縦框
+	vertical WORD[ 5,   2]: 0.0034490 縦幅
+	vertical WORD[ 5,   3]: 0.0029047 縦組み
+	vertical WORD[ 5,   4]: 0.0028066 縦型
+	vertical WORD[ 5,   5]: 0.0026503 縦軸
+	vertical WORD[ 5,   6]: 0.0025925 縦書
+	vertical WORD[ 5,   7]: 0.0025925 縦書き
+	vertical WORD[ 5,   8]: 0.0024119 縦線
+	vertical WORD[ 5,   9]: 0.0017674 縦棒
+	vertical WORD[ 5,  10]: 0.0013469 縦長
+	vertical WORD[ 5,  11]: 0.0013057 縦列
+	vertical WORD[ 5,  12]: 0.0008841 縦割り
+	vertical WORD[ 5,  13]: 0.0008838 縦揺れ
+	vertical WORD[ 5,  14]: 0.0008835 縦じま
+	vertical WORD[ 5,  15]: 0.0008834 縦縞
+	vertical WORD[ 5,  16]: 0.0008509 縦横
+TOKEN[ 6]: 0.0363938    1 parent
+	parent WORD[ 6,   1]: 0.0363938 従兄弟違い
+TOKEN[ 7]: 0.0292134    2 connection
+	connection WORD[ 7,   1]: 0.0284157 縦続
+	connection WORD[ 7,   2]: 0.0007977 縦軸
+TOKEN[ 8]: 0.0168132    4 longitudinal
+	longitudinal WORD[ 8,   1]: 0.0093604 縦巻き
+	longitudinal WORD[ 8,   2]: 0.0034462 縦型
+	longitudinal WORD[ 8,   3]: 0.0029616 縦波
+	longitudinal WORD[ 8,   4]: 0.0010449 縦走
+TOKEN[ 9]: 0.0139802    6 second
+	second WORD[ 9,   1]: 0.0052030 二従兄弟
+	second WORD[ 9,   2]: 0.0019352 又従兄
+	second WORD[ 9,   3]: 0.0019352 又従兄弟
+	second WORD[ 9,   4]: 0.0019352 又従姉妹
+	second WORD[ 9,   5]: 0.0018844 再従兄弟
+	second WORD[ 9,   6]: 0.0010872 随従
+TOKEN[10]: 0.0137418    1 stile
+	stile WORD[10,   1]: 0.0137418 縦框
+TOKEN[11]: 0.0137418    1 doorpost
+	doorpost WORD[11,   1]: 0.0137418 縦框
+TOKEN[12]: 0.0132592    1 doorjamb
+	doorjamb WORD[12,   1]: 0.0132592 縦框
+TOKEN[13]: 0.0112674    3 subordinate
+	subordinate WORD[13,   1]: 0.0044921 従文
+	subordinate WORD[13,   2]: 0.0026714 従
+	subordinate WORD[13,   3]: 0.0014325 従い
+TOKEN[14]: 0.0106584    1 curling
+	curling WORD[14,   1]: 0.0106584 縦巻き
+TOKEN[15]: 0.0103603    1 boiled
+	boiled WORD[15,   1]: 0.0103603 従兄弟煮
+TOKEN[16]: 0.0091975    3 obedience
+	obedience WORD[16,   1]: 0.0048754 黙従
+	obedience WORD[16,   2]: 0.0022321 盲従
+	obedience WORD[16,   3]: 0.0020900 服従
+TOKEN[17]: 0.0091720    3 writing
+	writing WORD[17,   1]: 0.0040588 縦書
+	writing WORD[17,   2]: 0.0040588 縦書き
+	writing WORD[17,   3]: 0.0010543 縦長
+TOKEN[18]: 0.0089512    5 line
+	line WORD[18,   1]: 0.0035125 縦線
+	line WORD[18,   2]: 0.0032011 縦読み
+	line WORD[18,   3]: 0.0009508 縦列
+	line WORD[18,   4]: 0.0006435 縦棒
+	line WORD[18,   5]: 0.0006433 縦軸
+TOKEN[19]: 0.0085957    1 element
+	element WORD[19,   1]: 0.0085957 縦框
+TOKEN[20]: 0.0085801    1 frame
+	frame WORD[20,   1]: 0.0085801 縦框
+TOKEN[21]: 0.0084066    1 window
+	window WORD[21,   1]: 0.0084066 縦框
+TOKEN[22]: 0.0081587    1 winding
+	winding WORD[22,   1]: 0.0081587 縦巻き
+TOKEN[23]: 0.0080686    3 follow
+	follow WORD[23,   1]: 0.0037578 従う
+	follow WORD[23,   2]: 0.0021554 つき従う
+	follow WORD[23,   3]: 0.0021554 付き従う
+TOKEN[24]: 0.0077552    1 door
+	door WORD[24,   1]: 0.0077552 縦框
+TOKEN[25]: 0.0073954    1 left
+	left WORD[25,   1]: 0.0073954 縦框
+TOKEN[26]: 0.0073196    1 reading
+	reading WORD[26,   1]: 0.0073196 縦読み
+TOKEN[27]: 0.0070617    1 right
+	right WORD[27,   1]: 0.0070617 縦框
+TOKEN[28]: 0.0069288    3 obey
+	obey WORD[28,   1]: 0.0026844 つき従う
+	obey WORD[28,   2]: 0.0026844 付き従う
+	obey WORD[28,   3]: 0.0015600 従う
+TOKEN[29]: 0.0066054    4 following
+	following WORD[29,   1]: 0.0013446 追従
+	following WORD[29,   2]: 0.0013429 聴従
+	following WORD[29,   3]: 0.0012951 随従
+	following WORD[29,   4]: 0.0012780 従事
+TOKEN[30]: 0.0065013    2 length
+	length WORD[30,   1]: 0.0032722 縦幅
+	length WORD[30,   2]: 0.0016146 縦横
+TOKEN[31]: 0.0064624    3 accompany
+	accompany WORD[31,   1]: 0.0025037 つき従う
+	accompany WORD[31,   2]: 0.0025037 付き従う
+	accompany WORD[31,   3]: 0.0014550 従う
+TOKEN[32]: 0.0064543    3 servant
+	servant WORD[32,   1]: 0.0024163 従者
+	servant WORD[32,   2]: 0.0020232 主従
+	servant WORD[32,   3]: 0.0020148 従僕
+TOKEN[33]: 0.0062043    2 cleave
+	cleave WORD[33,   1]: 0.0031022 つき従う
+	cleave WORD[33,   2]: 0.0031021 付き従う
+TOKEN[34]: 0.0061444    1 incidental
+	incidental WORD[34,   1]: 0.0030722 従
+TOKEN[35]: 0.0059986    4 male
+	male WORD[35,   1]: 0.0021633 従弟
+	male WORD[35,   2]: 0.0018034 従僕
+	male WORD[35,   3]: 0.0010159 従兄
+	male WORD[35,   4]: 0.0010159 従兄弟
+TOKEN[36]: 0.0059110    1 appurtenance
+	appurtenance WORD[36,   1]: 0.0059110 従物
+TOKEN[37]: 0.0058414    1 hair
+	hair WORD[37,   1]: 0.0058414 縦巻き
+TOKEN[38]: 0.0057709    1 acquiescence
+	acquiescence WORD[38,   1]: 0.0057709 黙従
+TOKEN[39]: 0.0055838    2 servile
+	servile WORD[39,   1]: 0.0019251 追従
+	servile WORD[39,   2]: 0.0017336 屈従
+TOKEN[40]: 0.0054042    4 music
+	music WORD[40,   1]: 0.0020127 縦線
+	music WORD[40,   2]: 0.0013270 縦ノリ
+	music WORD[40,   3]: 0.0013270 縦乗り
+	music WORD[40,   4]: 0.0007374 縦棒
+TOKEN[41]: 0.0051847    2 flatter
+	flatter WORD[41,   1]: 0.0025924 つき従う
+	flatter WORD[41,   2]: 0.0025923 付き従う
+TOKEN[42]: 0.0051478    3 column
+	column WORD[42,   1]: 0.0025321 縦陣
+	column WORD[42,   2]: 0.0013579 縦隊
+	column WORD[42,   3]: 0.0012578 縦列
+TOKEN[43]: 0.0051410    1 junior
+	junior WORD[43,   1]: 0.0025705 従
+TOKEN[44]: 0.0050344    1 secondary
+	secondary WORD[44,   1]: 0.0025172 従
+TOKEN[45]: 0.0049604    3 submission
+	submission WORD[45,   1]: 0.0018216 服従
+	submission WORD[45,   2]: 0.0017070 忍従
+	submission WORD[45,   3]: 0.0014318 屈従
+TOKEN[46]: 0.0047778    3 female
+	female WORD[46,   1]: 0.0020740 従姉
+	female WORD[46,   2]: 0.0017295 従妹
+	female WORD[46,   3]: 0.0009743 従姉妹
+TOKEN[47]: 0.0047547    2 attendant
+	attendant WORD[47,   1]: 0.0025928 従者
+	attendant WORD[47,   2]: 0.0021620 従僕
+TOKEN[48]: 0.0047088    2 younger
+	younger WORD[48,   1]: 0.0025680 従弟
+	younger WORD[48,   2]: 0.0021407 従妹
+TOKEN[49]: 0.0046728    1 reveal
+	reveal WORD[49,   1]: 0.0046728 縦読み
+TOKEN[50]: 0.0046002    5 one
+	one WORD[50,   1]: 0.0014833 縦抱き
+	one WORD[50,   2]: 0.0006705 縦横
+	one WORD[50,   3]: 0.0006265 縦ノリ
+	one WORD[50,   4]: 0.0006265 縦乗り
+	one WORD[50,   5]: 0.0005230 扈従
+TOKEN[51]: 0.0045736    1 clause
+	clause WORD[51,   1]: 0.0045736 従文
+TOKEN[52]: 0.0045428    2 upright
+	upright WORD[52,   1]: 0.0036792 縦抱き
+	upright WORD[52,   2]: 0.0008636 縦棒
+TOKEN[53]: 0.0044671    2 join
+	join WORD[53,   1]: 0.0022336 つき従う
+	join WORD[53,   2]: 0.0022335 付き従う
+TOKEN[54]: 0.0043549    1 passive
+	passive WORD[54,   1]: 0.0043549 黙従
+TOKEN[55]: 0.0042685    1 accessory
+	accessory WORD[55,   1]: 0.0042685 従物
+TOKEN[56]: 0.0042312    2 follower
+	follower WORD[56,   1]: 0.0027275 従者
+	follower WORD[56,   2]: 0.0015037 随従
+TOKEN[57]: 0.0041796    1 hidden
+	hidden WORD[57,   1]: 0.0041796 縦読み
+TOKEN[58]: 0.0041671    1 servility
+	servility WORD[58,   1]: 0.0020836 追従
+TOKEN[59]: 0.0041671    1 emulation
+	emulation WORD[59,   1]: 0.0020836 追従
+TOKEN[60]: 0.0040402    1 message
+	message WORD[60,   1]: 0.0040402 縦読み
+TOKEN[61]: 0.0040017    1 infant
+	infant WORD[61,   1]: 0.0040017 縦抱き
+TOKEN[62]: 0.0038956    1 text
+	text WORD[62,   1]: 0.0038956 縦読み
+TOKEN[63]: 0.0038372    2 according
+	according WORD[63,   1]: 0.0020462 従量
+	according WORD[63,   2]: 0.0017910 類従
+TOKEN[64]: 0.0037100    1 mediastinum
+	mediastinum WORD[64,   1]: 0.0037100 縦隔
+TOKEN[65]: 0.0036794    1 written
+	written WORD[65,   1]: 0.0036794 縦読み
+TOKEN[66]: 0.0034783    1 typesetting
+	typesetting WORD[66,   1]: 0.0034783 縦組み
+TOKEN[67]: 0.0034575    1 adherence
+	adherence WORD[67,   1]: 0.0017288 追従
+TOKEN[68]: 0.0034343    1 word
+	word WORD[68,   1]: 0.0034343 縦読み
+TOKEN[69]: 0.0034320    2 resignation
+	resignation WORD[69,   1]: 0.0017718 服従
+	resignation WORD[69,   2]: 0.0016603 忍従
+TOKEN[70]: 0.0034053    1 compliance
+	compliance WORD[70,   1]: 0.0017026 追従
+TOKEN[71]: 0.0033993    1 arms
+	arms WORD[71,   1]: 0.0033993 縦抱き
+TOKEN[72]: 0.0033864    2 older
+	older WORD[72,   1]: 0.0023040 従姉
+	older WORD[72,   2]: 0.0010824 従兄
+TOKEN[73]: 0.0033846    2 lengthwise
+	lengthwise WORD[73,   1]: 0.0011572 縦割り
+	lengthwise WORD[73,   2]: 0.0011137 縦横
+TOKEN[74]: 0.0033815    3 shaft
+	shaft WORD[74,   1]: 0.0014625 縦坑
+	shaft WORD[74,   2]: 0.0009598 縦軸
+	shaft WORD[74,   3]: 0.0009592 縦穴
+TOKEN[75]: 0.0033776    1 sail
+	sail WORD[75,   1]: 0.0033776 縦帆
+TOKEN[76]: 0.0033632    1 valet
+	valet WORD[76,   1]: 0.0033632 従者
+TOKEN[77]: 0.0033543    1 first
+	first WORD[77,   1]: 0.0033543 縦読み
+TOKEN[78]: 0.0033524    1 holding
+	holding WORD[78,   1]: 0.0033524 縦抱き
+TOKEN[79]: 0.0033208    1 complicity
+	complicity WORD[79,   1]: 0.0033208 従犯
+TOKEN[80]: 0.0033197    1 docile
+	docile WORD[80,   1]: 0.0033197 従順
+TOKEN[81]: 0.0032924    1 character
+	character WORD[81,   1]: 0.0032924 縦読み
+TOKEN[82]: 0.0032479    1 accomplice
+	accomplice WORD[82,   1]: 0.0032479 従犯
+TOKEN[83]: 0.0032346    1 ripsaw
+	ripsaw WORD[83,   1]: 0.0032346 縦びき
+TOKEN[84]: 0.0032120    1 height
+	height WORD[84,   1]: 0.0032120 縦幅
+TOKEN[85]: 0.0031611    1 submissive
+	submissive WORD[85,   1]: 0.0031611 従順
+TOKEN[86]: 0.0031542    1 arbitrary
+	arbitrary WORD[86,   1]: 0.0010514 縦
+TOKEN[87]: 0.0031015    2 bar
+	bar WORD[87,   1]: 0.0022699 縦線
+	bar WORD[87,   2]: 0.0008317 縦棒
+TOKEN[88]: 0.0030734    1 meek
+	meek WORD[88,   1]: 0.0030734 従順
+TOKEN[89]: 0.0029926    1 chamberlain
+	chamberlain WORD[89,   1]: 0.0029926 侍従
+TOKEN[90]: 0.0029726    1 thing
+	thing WORD[90,   1]: 0.0029726 従物
+TOKEN[91]: 0.0029564    2 beat
+	beat WORD[91,   1]: 0.0014782 縦ノリ
+	beat WORD[91,   2]: 0.0014782 縦乗り
+TOKEN[92]: 0.0029480    1 underling
+	underling WORD[92,   1]: 0.0029480 従卒
+TOKEN[93]: 0.0029387    1 subjugate
+	subjugate WORD[93,   1]: 0.0029387 従える
+TOKEN[94]: 0.0028782    2 moving
+	moving WORD[94,   1]: 0.0014391 縦ノリ
+	moving WORD[94,   2]: 0.0014391 縦乗り
+TOKEN[95]: 0.0028771    1 obedient
+	obedient WORD[95,   1]: 0.0028771 従順
+TOKEN[96]: 0.0028769    2 someone
+	someone WORD[96,   1]: 0.0012226 従える
+	someone WORD[96,   2]: 0.0008271 追従
+TOKEN[97]: 0.0028416    1 selfish
+	selfish WORD[97,   1]: 0.0009472 縦
+TOKEN[98]: 0.0028113    1 type
+	type WORD[98,   1]: 0.0028113 類従
+TOKEN[99]: 0.0026382    1 measured
+	measured WORD[99,   1]: 0.0026382 従量
+TOKEN[100]: 0.0025799    1 gentle
+	gentle WORD[100,   1]: 0.0025799 従順
+TOKEN[101]: 0.0025696    1 conquer
+	conquer WORD[101,   1]: 0.0025696 従える
+TOKEN[102]: 0.0025693    1 opinion
+	opinion WORD[102,   1]: 0.0012846 追従
+TOKEN[103]: 0.0025373    1 sorted
+	sorted WORD[103,   1]: 0.0025373 類従
+TOKEN[104]: 0.0024938    1 subdue
+	subdue WORD[104,   1]: 0.0024938 従える
+TOKEN[105]: 0.0024715    1 tranquil
+	tranquil WORD[105,   1]: 0.0024715 従容
+TOKEN[106]: 0.0024389    1 charging
+	charging WORD[106,   1]: 0.0024389 従量
+TOKEN[107]: 0.0023780    1 previous
+	previous WORD[107,   1]: 0.0023780 従前
+TOKEN[108]: 0.0023731    1 slavery
+	slavery WORD[108,   1]: 0.0023731 隷従
+TOKEN[109]: 0.0023550    1 working
+	working WORD[109,   1]: 0.0023550 専従
+TOKEN[110]: 0.0023533    1 employer
+	employer WORD[110,   1]: 0.0023533 主従
+TOKEN[111]: 0.0023448    1 supposing
+	supposing WORD[111,   1]: 0.0023448 縦令
+TOKEN[112]: 0.0023306    1 traversing
+	traversing WORD[112,   1]: 0.0023306 縦走
+TOKEN[113]: 0.0023249    2 body
+	body WORD[113,   1]: 0.0011625 縦ノリ
+	body WORD[113,   2]: 0.0011625 縦乗り
+TOKEN[114]: 0.0023071    1 grain
+	grain WORD[114,   1]: 0.0023071 縦目
+TOKEN[115]: 0.0022979    2 direction
+	direction WORD[115,   1]: 0.0007660 縦走
+	direction WORD[115,   2]: 0.0007659 縦横
+TOKEN[116]: 0.0022868    2 pit
+	pit WORD[116,   1]: 0.0013810 縦坑
+	pit WORD[116,   2]: 0.0009057 縦穴
+TOKEN[117]: 0.0022274    1 crosswise
+	crosswise WORD[117,   1]: 0.0011137 縦横
+TOKEN[118]: 0.0022079    1 usage
+	usage WORD[118,   1]: 0.0022079 従量
+TOKEN[119]: 0.0021983    1 wave
+	wave WORD[119,   1]: 0.0021983 縦波
+TOKEN[120]: 0.0021901    1 retainer
+	retainer WORD[120,   1]: 0.0021901 主従
+TOKEN[121]: 0.0021473    3 running
+	running WORD[121,   1]: 0.0007158 縦断
+	running WORD[121,   2]: 0.0007158 縦走
+	running WORD[121,   3]: 0.0007157 縦貫
+TOKEN[122]: 0.0021267    1 composed
+	composed WORD[122,   1]: 0.0021267 従容
+TOKEN[123]: 0.0020700    1 former
+	former WORD[123,   1]: 0.0020700 従前
+TOKEN[124]: 0.0020613    1 subservience
+	subservience WORD[124,   1]: 0.0020613 屈従
+TOKEN[125]: 0.0020600    1 lord
+	lord WORD[125,   1]: 0.0020600 主従
+TOKEN[126]: 0.0020266    1 breadth
+	breadth WORD[126,   1]: 0.0010133 縦横
+TOKEN[127]: 0.0019843    1 calm
+	calm WORD[127,   1]: 0.0019843 従容
+TOKEN[128]: 0.0019757    1 vassalage
+	vassalage WORD[128,   1]: 0.0019757 臣従
+TOKEN[129]: 0.0019722    1 employee
+	employee WORD[129,   1]: 0.0019722 主従
+TOKEN[130]: 0.0019704    1 looseness
+	looseness WORD[130,   1]: 0.0019704 放縦
+TOKEN[131]: 0.0019377    1 cardinal
+	cardinal WORD[131,   1]: 0.0009688 縦横
+TOKEN[132]: 0.0019292    1 subordination
+	subordination WORD[132,   1]: 0.0019292 従属
+TOKEN[133]: 0.0018588    1 width
+	width WORD[133,   1]: 0.0009294 縦横
+TOKEN[134]: 0.0018584    2 work
+	work WORD[134,   1]: 0.0009361 従事
+	work WORD[134,   2]: 0.0009223 従う
+TOKEN[135]: 0.0018503    2 striped
+	striped WORD[135,   1]: 0.0009252 縦じま
+	striped WORD[135,   2]: 0.0009252 縦縞
+TOKEN[136]: 0.0018035    1 go
+	go WORD[136,   1]: 0.0018035 従う
+TOKEN[137]: 0.0017880    1 master
+	master WORD[137,   1]: 0.0017880 主従
+TOKEN[138]: 0.0017833    1 dissolution
+	dissolution WORD[138,   1]: 0.0017833 放縦
+TOKEN[139]: 0.0017458    1 rate
+	rate WORD[139,   1]: 0.0017458 従量
+TOKEN[140]: 0.0017379    1 paper
+	paper WORD[140,   1]: 0.0017379 縦目
+TOKEN[141]: 0.0017310    1 horizontal
+	horizontal WORD[141,   1]: 0.0008655 縦横
+TOKEN[142]: 0.0017272    1 blind
+	blind WORD[142,   1]: 0.0017272 盲従
+TOKEN[143]: 0.0017080    1 granny
+	granny WORD[143,   1]: 0.0017080 縦結び
+TOKEN[144]: 0.0017002    1 handling
+	handling WORD[144,   1]: 0.0017002 操縦
+TOKEN[145]: 0.0016720    1 dependency
+	dependency WORD[145,   1]: 0.0016720 従属
+TOKEN[146]: 0.0016641    1 collection
+	collection WORD[146,   1]: 0.0016641 類従
+TOKEN[147]: 0.0016522    1 engaging
+	engaging WORD[147,   1]: 0.0016522 従事
+TOKEN[148]: 0.0016400    1 fiddle
+	fiddle WORD[148,   1]: 0.0016400 随従
+TOKEN[149]: 0.0016279    1 abide
+	abide WORD[149,   1]: 0.0016279 従う
+TOKEN[150]: 0.0016224    2 fabric
+	fabric WORD[150,   1]: 0.0008112 縦じま
+	fabric WORD[150,   2]: 0.0008112 縦縞
+TOKEN[151]: 0.0015945    1 conform
+	conform WORD[151,   1]: 0.0015945 従う
+TOKEN[152]: 0.0015541    1 profession
+	profession WORD[152,   1]: 0.0015541 従事
+TOKEN[153]: 0.0015538    1 accordance
+	accordance WORD[153,   1]: 0.0015538 従い
+TOKEN[154]: 0.0015479    1 observe
+	observe WORD[154,   1]: 0.0015479 従う
+TOKEN[155]: 0.0015336    1 orientation
+	orientation WORD[155,   1]: 0.0015336 縦長
+TOKEN[156]: 0.0015310    1 waiting
+	waiting WORD[156,   1]: 0.0015310 陪従
+TOKEN[157]: 0.0015144    1 license
+	license WORD[157,   1]: 0.0015144 放縦
+TOKEN[158]: 0.0014837    1 portrait
+	portrait WORD[158,   1]: 0.0014837 縦長
+TOKEN[159]: 0.0014738    1 four
+	four WORD[159,   1]: 0.0007369 縦横
+TOKEN[160]: 0.0014608    1 advice
+	advice WORD[160,   1]: 0.0014608 聴従
+TOKEN[161]: 0.0014603    1 conventional
+	conventional WORD[161,   1]: 0.0014603 従来
+TOKEN[162]: 0.0014458    1 cutting
+	cutting WORD[162,   1]: 0.0014458 縦断
+TOKEN[163]: 0.0014386    1 engage
+	engage WORD[163,   1]: 0.0014386 従う
+TOKEN[164]: 0.0014265    1 alliance
+	alliance WORD[164,   1]: 0.0014265 合従
+TOKEN[165]: 0.0014195    1 knot
+	knot WORD[165,   1]: 0.0014195 縦結び
+TOKEN[166]: 0.0013929    1 take
+	take WORD[166,   1]: 0.0013929 従える
+TOKEN[167]: 0.0013798    1 involved
+	involved WORD[167,   1]: 0.0013798 従事
+TOKEN[168]: 0.0013762    1 custom
+	custom WORD[168,   1]: 0.0013762 従う
+TOKEN[169]: 0.0013615    1 yield
+	yield WORD[169,   1]: 0.0013615 従う
+TOKEN[170]: 0.0013564    1 mine
+	mine WORD[170,   1]: 0.0013564 縦坑
+TOKEN[171]: 0.0013500    1 campaign
+	campaign WORD[171,   1]: 0.0013500 従軍
+TOKEN[172]: 0.0013451    1 mountain
+	mountain WORD[172,   1]: 0.0013451 縦走
+TOKEN[173]: 0.0013354    1 serve
+	serve WORD[173,   1]: 0.0013354 従う
+TOKEN[174]: 0.0013200    1 attendance
+	attendance WORD[174,   1]: 0.0013200 扈従
+TOKEN[175]: 0.0012959    1 employment
+	employment WORD[175,   1]: 0.0012959 従業
+TOKEN[176]: 0.0012873    1 serving
+	serving WORD[176,   1]: 0.0012873 従軍
+TOKEN[177]: 0.0012839    1 usual
+	usual WORD[177,   1]: 0.0012839 従来
+TOKEN[178]: 0.0012532    1 superior
+	superior WORD[178,   1]: 0.0012532 扈従
+TOKEN[179]: 0.0012453    1 piloting
+	piloting WORD[179,   1]: 0.0012453 操縦
+TOKEN[180]: 0.0012031    1 lead
+	lead WORD[180,   1]: 0.0012031 随従
+TOKEN[181]: 0.0011943    1 rule
+	rule WORD[181,   1]: 0.0011943 従う
+TOKEN[182]: 0.0011897    1 traversal
+	traversal WORD[182,   1]: 0.0011897 縦貫
+TOKEN[183]: 0.0011830    1 sign
+	sign WORD[183,   1]: 0.0011830 従う
+TOKEN[184]: 0.0011738    1 river
+	river WORD[184,   1]: 0.0011738 従う
+TOKEN[185]: 0.0011715    1 dynasty
+	dynasty WORD[185,   1]: 0.0011715 合従
+TOKEN[186]: 0.0011570    1 file
+	file WORD[186,   1]: 0.0011570 縦列
+TOKEN[187]: 0.0011313    1 recorder
+	recorder WORD[187,   1]: 0.0011313 縦笛
+TOKEN[188]: 0.0011288    1 war
+	war WORD[188,   1]: 0.0011288 従軍
+TOKEN[189]: 0.0011028    1 military
+	military WORD[189,   1]: 0.0011028 従軍
+TOKEN[190]: 0.0011011    1 spindle
+	spindle WORD[190,   1]: 0.0011011 縦軸
+TOKEN[191]: 0.0010620    1 law
+	law WORD[191,   1]: 0.0010620 従う
+TOKEN[192]: 0.0010609    1 service
+	service WORD[192,   1]: 0.0010609 従軍
+TOKEN[193]: 0.0010503    1 traditional
+	traditional WORD[193,   1]: 0.0010503 従来
+TOKEN[194]: 0.0010489    1 taking
+	taking WORD[194,   1]: 0.0010489 従軍
+TOKEN[195]: 0.0010365    1 pitching
+	pitching WORD[195,   1]: 0.0010365 縦揺れ
+TOKEN[196]: 0.0010264    1 style
+	style WORD[196,   1]: 0.0010264 縦長
+TOKEN[197]: 0.0010251    1 part
+	part WORD[197,   1]: 0.0010251 従軍
+TOKEN[198]: 0.0010105    1 dividing
+	dividing WORD[198,   1]: 0.0010105 縦割り
+TOKEN[199]: 0.0010084    1 steering
+	steering WORD[199,   1]: 0.0010084 操縦
+TOKEN[200]: 0.0010066    1 splitting
+	splitting WORD[200,   1]: 0.0010066 縦割り
+TOKEN[201]: 0.0009887    1 shaking
+	shaking WORD[201,   1]: 0.0009887 縦揺れ
+TOKEN[202]: 0.0009880    1 manipulation
+	manipulation WORD[202,   1]: 0.0009880 操縦
+TOKEN[203]: 0.0009846    1 warp
+	warp WORD[203,   1]: 0.0009846 縦糸
+TOKEN[204]: 0.0009815    1 weaving
+	weaving WORD[204,   1]: 0.0009815 縦糸
+TOKEN[205]: 0.0009761    1 axis
+	axis WORD[205,   1]: 0.0009761 縦軸
+TOKEN[206]: 0.0009740    1 order
+	order WORD[206,   1]: 0.0009740 従う
+TOKEN[207]: 0.0009551    1 flute
+	flute WORD[207,   1]: 0.0009551 縦笛
+TOKEN[208]: 0.0009129    1 ridge
+	ridge WORD[208,   1]: 0.0009129 縦走
+TOKEN[209]: 0.0008948    1 climbing
+	climbing WORD[209,   1]: 0.0008948 縦走
+TOKEN[210]: 0.0008945    1 stem
+	stem WORD[210,   1]: 0.0008945 縦棒
+TOKEN[211]: 0.0008739    1 pitch
+	pitch WORD[211,   1]: 0.0008739 縦揺れ
+TOKEN[212]: 0.0008637    1 earthquake
+	earthquake WORD[212,   1]: 0.0008637 縦揺れ
+TOKEN[213]: 0.0008608    1 split
+	split WORD[213,   1]: 0.0008608 縦割り
+TOKEN[214]: 0.0008494    1 aircraft
+	aircraft WORD[214,   1]: 0.0008494 縦揺れ
+TOKEN[215]: 0.0008403    1 succession
+	succession WORD[215,   1]: 0.0008403 縦走
+TOKEN[216]: 0.0008198    1 inspection
+	inspection WORD[216,   1]: 0.0008198 縦覧
+TOKEN[217]: 0.0008073    1 range
+	range WORD[217,   1]: 0.0008073 縦走
+TOKEN[218]: 0.0007964    1 division
+	division WORD[218,   1]: 0.0007964 縦割り
+TOKEN[219]: 0.0007928    1 flying
+	flying WORD[219,   1]: 0.0007928 操縦
+TOKEN[220]: 0.0007869    1 note
+	note WORD[220,   1]: 0.0007869 縦棒
+TOKEN[221]: 0.0007868    1 several
+	several WORD[221,   1]: 0.0007868 縦走
+TOKEN[222]: 0.0007802    1 past
+	past WORD[222,   1]: 0.0007802 縦軸
+TOKEN[223]: 0.0007725    1 walking
+	walking WORD[223,   1]: 0.0007725 縦走
+TOKEN[224]: 0.0007715    1 operation
+	operation WORD[224,   1]: 0.0007715 操縦
+TOKEN[225]: 0.0007613    1 management
+	management WORD[225,   1]: 0.0007613 操縦
+TOKEN[226]: 0.0007372    1 person
+	person WORD[226,   1]: 0.0007372 従う
+TOKEN[227]: 0.0007365    1 present
+	present WORD[227,   1]: 0.0007365 縦軸
+TOKEN[228]: 0.0007224    1 ship
+	ship WORD[228,   1]: 0.0007224 縦揺れ
+TOKEN[229]: 0.0007011    1 matter
+	matter WORD[229,   1]: 0.0007011 縦令
+TOKEN[230]: 0.0006886    1 control
+	control WORD[230,   1]: 0.0006886 操縦
+TOKEN[231]: 0.0005897    1 people
+	people WORD[231,   1]: 0.0005897 操縦

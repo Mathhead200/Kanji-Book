@@ -1,0 +1,951 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0887150   27 music          : 式楽, 清楽, 女楽, 管弦楽, 俗楽, 正楽, 楽才, 管楽, 唐楽, 楽箏, ...
+0.0351293    2 enjoyable      : 楽事, 楽しい
+0.0317692    1 ceremonial     : 式楽
+0.0316574    4 pleasant       : 楽事, 楽ちん, 楽チン, 楽しい
+0.0262427    4 song           : 神楽歌, 楽府, 楽舞, 唐楽
+0.0260395    3 performance    : 太神楽, 伎楽, 奏楽
+0.0244614    7 dance          : 太神楽, 神楽殿, 女楽, 楽舞, 唐楽, 田楽, 舞楽
+0.0227766    1 matter         : 楽事
+0.0193683    2 century        : 清楽, 明楽
+0.0190928    1 juggling       : 太神楽
+0.0177467    1 cultivar       : 太神楽
+0.0175179    1 Camellia       : 太神楽
+0.0174507    5 Japan          : 清楽, 明楽, 散楽, 猿楽, 申楽
+0.0170196    3 early          : 清楽, 明楽, 古楽
+0.0169592    1 lion           : 太神楽
+0.0155250    4 Chinese        : 清楽, 唐楽, 楽府, 明楽
+0.0145758    8 Japanese       : 太神楽, 催馬楽, 邦楽, 独楽鼠, 楽天, 貝独楽, 文楽, 雅楽
+0.0138994    1 grand          : 太神楽
+0.0136567    2 type           : 太神楽, 楽箏
+0.0135011   14 pleasure       : 快楽, 放楽, 法楽, 逸楽, 哀楽, 愉楽, 楽しむ, 楽しみ, 娯楽, 行楽, ...
+0.0125870    1 japonica       : 太神楽
+0.0105163    9 musical        : 楽界, 楽典, 楽節, 楽音, 奏楽, 楽曲, 楽器, 楽壇, 楽劇
+0.0102694    6 court          : 正楽, 女楽, 催馬楽, 俗楽, 舞楽, 雅楽
+0.0085597    6 amusement      : 遊楽, 放楽, 法楽, 道楽, 楽しみ, 娯楽
+0.0084521    5 musician       : 楽聖, 楽人, 楽匠, 楽士, 楽師
+0.0077096    1 Lonicera       : 鶯神楽
+0.0075511    2 folk           : 楽府, 催馬楽
+0.0074498    5 comfortable    : 楽ちん, 楽チン, 楽寝, 気楽, 楽
+0.0074125    1 honeysuckle    : 鶯神楽
+0.0069651    3 genre          : 楽府, 催馬楽, 伎楽
+0.0067633    3 spinning       : 独楽回し, 貝独楽, 独楽
+0.0065640    4 pastime        : 放楽, 法楽, 道楽, 娯楽
+0.0061821    3 fooling        : 散楽, 猿楽, 申楽
+0.0061707    4 easy           : 楽勝, 楽ちん, 楽チン, 楽
+0.0061386    1 orchestral     : 管弦楽
+0.0061376    4 dancing        : 楽舞, 独楽鼠, 神楽, 田楽
+0.0061271    3 raku           : 楽焼, 楽焼き, 楽
+0.0055701    4 popular        : 俗楽, 散楽, 猿楽, 申楽
+0.0051285    3 entertainment  : 法楽, 放楽, 娯楽
+0.0049698    2 bandsman       : 楽員, 楽士
+0.0049557    3 top            : 独楽回し, 貝独楽, 独楽
+0.0045148    3 pottery        : 楽焼, 楽焼き, 楽
+0.0043632    2 comfy          : 楽ちん, 楽チン
+0.0042712    3 paradise       : 楽土, 極楽, 楽園
+0.0042314    2 glazed         : 楽焼, 楽焼き
+0.0041847    1 tantric        : 勝楽
+0.0041696    1 species        : 鶯神楽
+0.0040991    3 simple         : 楽ちん, 楽チン, 楽
+0.0040364    3 hobby          : 道楽, 楽しみ, 娯楽
+0.0040146    2 deity          : 勝楽, 法楽
+0.0037344    3 form           : 散楽, 猿楽, 申楽
+0.0036985    1 hall           : 神楽殿
+0.0036222    3 ancient        : 楽箏, 唐楽, 古楽
+0.0036013    1 sacred         : 神楽殿
+0.0035945    2 peace          : 和楽, 楽
+0.0035843    2 ware           : 楽焼, 楽焼き
+0.0035497    2 world          : 楽界, 楽壇
+0.0034816    3 used           : 楽箏, 楽焼, 楽焼き
+0.0034782    1 talent         : 楽才
+0.0033953    2 fired          : 楽焼, 楽焼き
+0.0033799    2 free           : 楽座, 法楽
+0.0032860    1 tournament     : 楽日
+0.0032431    1 stage          : 神楽殿
+0.0031294    2 earthenware    : 楽焼, 楽焼き
+0.0030375    2 style          : 楽府, 唐楽
+0.0030119    1 shrine         : 神楽殿
+0.0029627    2 doodle         : 楽書, 楽書き
+0.0029528    3 ease           : 気楽, 楽, 安楽
+0.0029466    1 wind           : 管楽
+0.0028620    1 responsible    : 楽府
+0.0028133    1 conglomerate   : 楽天
+0.0027059    2 celebrated     : 楽聖, 楽匠
+0.0026386    1 koto           : 楽箏
+0.0026317    3 enjoyment      : 楽しみ, 享楽, 歓楽
+0.0025823    2 scrawl         : 楽書, 楽書き
+0.0025823    2 scribble       : 楽書, 楽書き
+0.0025656    2 lead           : 楽焼, 楽焼き
+0.0025512    1 profligacy     : 道楽
+0.0025512    1 indulging      : 道楽
+0.0025512    1 prodigality    : 道楽
+0.0025342    1 composed       : 楽府
+0.0025161    1 sole           : 楽座
+0.0024682    1 phrase         : 楽句
+0.0024328    1 lesser         : 神楽蝙蝠
+0.0024312    2 low            : 楽焼, 楽焼き
+0.0024133    2 ceremony       : 楽焼, 楽焼き
+0.0023818    1 last           : 楽日
+0.0023606    1 bat            : 神楽蝙蝠
+0.0023585    2 orchestra      : 楽隊, 楽団
+0.0023521    2 comfort        : 楽, 安楽
+0.0023396    3 fun            : 楽しむ, 楽しい, 歓楽
+0.0023230    1 Buddhist       : 勝楽
+0.0023190    1 singing        : 楽舞
+0.0023089    1 dynasty        : 楽府
+0.0023089    1 poetry         : 楽府
+0.0022999    2 tea            : 楽焼, 楽焼き
+0.0022791    1 harmony        : 和楽
+0.0022461    2 string         : 弦楽, 絃楽
+0.0022161    1 sitting        : 楽座
+0.0022152    1 debauchery     : 道楽
+0.0021896    2 sorority       : 俱楽部, 倶楽部
+0.0021896    2 clubhouse      : 俱楽部, 倶楽部
+0.0021821    1 day            : 楽日
+0.0021745    3 play           : 楽勝, 能楽, 楽劇
+0.0021568    1 enjoying       : 偕楽
+0.0021184    1 office         : 楽府
+0.0020471    1 dissipation    : 道楽
+0.0020408    1 government     : 楽府
+0.0020261    2 band           : 楽隊, 楽団
+0.0020161    1 cattle         : 伯楽
+0.0019699    1 favorite       : 道楽
+0.0019699    1 open           : 楽座
+0.0019610    2 fraternity     : 俱楽部, 倶楽部
+0.0019444    1 ground         : 楽座
+0.0018779    1 information    : 楽天
+0.0018278    1 pious          : 法楽
+0.0017748    1 masked         : 伎楽
+0.0017709    1 gambling       : 道楽
+0.0017640    1 part           : 楽部
+0.0017614    1 loose          : 道楽
+0.0017541    1 bandmaster     : 楽長
+0.0017313    1 relaxation     : 楽
+0.0016963    1 way            : 楽座
+0.0016943    1 Mus            : 独楽鼠
+0.0016472    1 etiquette      : 礼楽
+0.0016457    1 compositional  : 楽典
+0.0016457    1 melodic        : 楽想
+0.0016422    1 cakewalk       : 楽勝
+0.0016422    1 walkover       : 楽勝
+0.0016422    1 peasy          : 楽勝
+0.0016422    1 Eden           : 楽園
+0.0016367    1 alcohol        : 道楽
+0.0016346    2 traditional    : 神楽, 邦楽
+0.0016143    2 master         : 楽聖, 楽師
+0.0015759    1 admission      : 法楽
+0.0015418    2 club           : 俱楽部, 倶楽部
+0.0015317    1 happiness      : 楽
+0.0015070    1 pouring        : 灰神楽
+0.0014981    1 rice           : 田楽
+0.0014904    1 relief         : 楽
+0.0014818    1 optimism       : 楽観
+0.0014659    1 living         : 道楽
+0.0014571    1 coated         : 田楽
+0.0014498    1 conductor      : 楽長
+0.0014488    1 mouse          : 独楽鼠
+0.0014327    1 ashes          : 灰神楽
+0.0014320    1 Amitabha       : 極楽
+0.0014265    1 place          : 楽所
+0.0014105    1 grammar        : 楽典
+0.0013940    1 motif          : 楽想
+0.0013818    1 sleep          : 楽寝
+0.0013549    1 Indian         : 唐楽
+0.0013527    1 rest           : 楽寝
+0.0013381    1 optimistic     : 楽観
+0.0013187    1 relaxed        : 楽髪
+0.0013015    1 trouble        : 楽
+0.0012722    1 cloud          : 灰神楽
+0.0012661    1 pursuit        : 逸楽
+0.0012538    1 based          : 唐楽
+0.0012446    1 theme          : 楽想
+0.0012071    1 opposed        : 俗楽
+0.0012044    2 good           : 伯楽, 楽しむ
+0.0011911    1 Buddha         : 法楽
+0.0011854    1 baked          : 田楽
+0.0011850    1 room           : 楽屋
+0.0011747    1 European       : 洋楽
+0.0011685    1 rapid          : 楽髪
+0.0011597    1 park           : 楽勝
+0.0011536    1 cook           : 田楽
+0.0011479    1 growth         : 楽髪
+0.0011150    1 idle           : 逸楽
+0.0011110    1 tofu           : 田楽
+0.0010991    1 ritual         : 田楽
+0.0010911    1 earth          : 極楽
+0.0010880    1 puppet         : 文楽
+0.0010768    1 section        : 楽節
+0.0010766    1 trader         : 伯楽
+0.0010753    1 sides          : 田楽
+0.0010728    1 passage        : 楽節
+0.0010633    1 Shinto         : 神楽
+0.0010630    1 picnic         : 行楽
+0.0010610    1 grief          : 哀楽
+0.0010497    1 common         : 俗楽
+0.0010393    1 life           : 法楽
+0.0010348    1 manner         : 田楽
+0.0010262    1 note           : 楽音
+0.0010245    1 victory        : 楽勝
+0.0010224    1 walk           : 楽勝
+0.0010107    1 subject        : 楽想
+0.0010100    1 fire           : 灰神楽
+0.0010090    1 festival       : 田楽
+0.0010043    1 turning        : 田楽
+0.0010033    1 delightful     : 楽しい
+0.0010030    1 freeing        : 快楽
+0.0009983    1 theater        : 文楽
+0.0009802    1 training       : 楽所
+0.0009760    1 enjoy          : 楽しむ
+0.0009605    1 instrumental   : 器楽
+0.0009589    1 backstage      : 楽屋
+0.0009534    1 people         : 俗楽
+0.0009488    1 judge          : 伯楽
+0.0009327    2 one            : 楽髪, 田楽
+0.0009241    1 vocal          : 声楽
+0.0009100    1 diversion      : 楽しみ
+0.0009089    1 excursion      : 行楽
+0.0009089    1 outing         : 行楽
+0.0009058    1 earthly        : 快楽
+0.0009024    1 recreation     : 娯楽
+0.0008998    1 shell          : 貝独楽
+0.0008971    1 anticipation   : 楽しみ
+0.0008958    1 view           : 楽観
+0.0008884    1 opera          : 楽劇
+0.0008855    1 happy          : 楽しい
+0.0008827    1 water          : 灰神楽
+0.0008755    1 hair           : 楽髪
+0.0008732    1 use            : 田楽
+0.0008661    1 junk           : 我楽多
+0.0008497    1 carefree       : 気楽
+0.0008472    1 inside         : 楽屋
+0.0008420    1 odds           : 我楽多
+0.0008395    1 easygoing      : 気楽
+0.0008368    1 child          : 楽勝
+0.0008297    1 gray           : 聚楽
+0.0008187    1 grey           : 聚楽
+0.0008182    1 trash          : 我楽多
+0.0008149    1 supreme        : 快楽
+0.0008091    1 delight        : 悦楽
+0.0008025    1 rubbish        : 我楽多
+0.0008001    1 era            : 楽所
+0.0007988    1 tune           : 楽曲
+0.0007984    1 taking         : 楽観
+0.0007886    1 dressing       : 楽屋
+0.0007778    1 fish           : 田楽
+0.0007644    1 covering       : 聚楽
+0.0007634    1 score          : 楽譜
+0.0007589    1 garbage        : 我楽多
+0.0007461    1 horse          : 伯楽
+0.0007354    1 sheet          : 楽譜
+0.0007337    1 composition    : 楽曲
+0.0007296    1 looking        : 楽しみ
+0.0007290    1 joy            : 悦楽
+0.0007180    1 trip           : 行楽
+0.0007163    1 material       : 聚楽
+0.0007134    1 made           : 貝独楽
+0.0007122    1 pain           : 苦楽
+0.0007104    1 movement       : 楽章
+0.0006981    1 instrument     : 楽器
+0.0006744    1 wall           : 聚楽
+0.0006581    1 something      : 田楽
+0.0006368    1 military       : 軍楽
+0.0006151    1 look           : 楽しむ
+0.0006118    1 green          : 楽屋
+0.0005500    1 going          : 行楽
+0.0005477    1 take           : 楽しむ
+0.0005400    1 time           : 楽しむ
+0.0005348    1 great          : 神楽蝙蝠
+0.0005293    1 old            : 雅楽
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0887150   27 music
+	music WORD[ 1,   1]: 0.0276733 式楽
+	music WORD[ 1,   2]: 0.0142657 清楽
+	music WORD[ 1,   3]: 0.0057773 女楽
+	music WORD[ 1,   4]: 0.0034920 管弦楽
+	music WORD[ 1,   5]: 0.0034341 俗楽
+	music WORD[ 1,   6]: 0.0034330 正楽
+	music WORD[ 1,   7]: 0.0032818 楽才
+	music WORD[ 1,   8]: 0.0032776 管楽
+	music WORD[ 1,   9]: 0.0022568 唐楽
+	music WORD[ 1,  10]: 0.0021255 楽箏
+	music WORD[ 1,  11]: 0.0020772 弦楽
+	music WORD[ 1,  12]: 0.0020772 絃楽
+	music WORD[ 1,  13]: 0.0019196 催馬楽
+	music WORD[ 1,  14]: 0.0018448 洋楽
+	music WORD[ 1,  15]: 0.0017141 邦楽
+	music WORD[ 1,  16]: 0.0013362 明楽
+	music WORD[ 1,  17]: 0.0012861 礼楽
+	music WORD[ 1,  18]: 0.0009980 神楽
+	music WORD[ 1,  19]: 0.0009678 田楽
+	music WORD[ 1,  20]: 0.0008524 舞楽
+	music WORD[ 1,  21]: 0.0007082 声楽
+	music WORD[ 1,  22]: 0.0006706 古楽
+	music WORD[ 1,  23]: 0.0006662 軍楽
+	music WORD[ 1,  24]: 0.0006503 器楽
+	music WORD[ 1,  25]: 0.0006492 楽譜
+	music WORD[ 1,  26]: 0.0006491 雅楽
+	music WORD[ 1,  27]: 0.0006309 音楽
+TOKEN[ 2]: 0.0351293    2 enjoyable
+	enjoyable WORD[ 2,   1]: 0.0340897 楽事
+	enjoyable WORD[ 2,   2]: 0.0010396 楽しい
+TOKEN[ 3]: 0.0317692    1 ceremonial
+	ceremonial WORD[ 3,   1]: 0.0317692 式楽
+TOKEN[ 4]: 0.0316574    4 pleasant
+	pleasant WORD[ 4,   1]: 0.0277300 楽事
+	pleasant WORD[ 4,   2]: 0.0015409 楽ちん
+	pleasant WORD[ 4,   3]: 0.0015409 楽チン
+	pleasant WORD[ 4,   4]: 0.0008456 楽しい
+TOKEN[ 5]: 0.0262427    4 song
+	song WORD[ 5,   1]: 0.0209468 神楽歌
+	song WORD[ 5,   2]: 0.0021449 楽府
+	song WORD[ 5,   3]: 0.0020547 楽舞
+	song WORD[ 5,   4]: 0.0010964 唐楽
+TOKEN[ 6]: 0.0260395    3 performance
+	performance WORD[ 6,   1]: 0.0243484 太神楽
+	performance WORD[ 6,   2]: 0.0009918 伎楽
+	performance WORD[ 6,   3]: 0.0006993 奏楽
+TOKEN[ 7]: 0.0244614    7 dance
+	dance WORD[ 7,   1]: 0.0128222 太神楽
+	dance WORD[ 7,   2]: 0.0034119 神楽殿
+	dance WORD[ 7,   3]: 0.0029888 女楽
+	dance WORD[ 7,   4]: 0.0021879 楽舞
+	dance WORD[ 7,   5]: 0.0011675 唐楽
+	dance WORD[ 7,   6]: 0.0010013 田楽
+	dance WORD[ 7,   7]: 0.0008819 舞楽
+TOKEN[ 8]: 0.0227766    1 matter
+	matter WORD[ 8,   1]: 0.0227766 楽事
+TOKEN[ 9]: 0.0193683    2 century
+	century WORD[ 9,   1]: 0.0177096 清楽
+	century WORD[ 9,   2]: 0.0016587 明楽
+TOKEN[10]: 0.0190928    1 juggling
+	juggling WORD[10,   1]: 0.0190928 太神楽
+TOKEN[11]: 0.0177467    1 cultivar
+	cultivar WORD[11,   1]: 0.0177467 太神楽
+TOKEN[12]: 0.0175179    1 Camellia
+	Camellia WORD[12,   1]: 0.0175179 太神楽
+TOKEN[13]: 0.0174507    5 Japan
+	Japan WORD[13,   1]: 0.0125372 清楽
+	Japan WORD[13,   2]: 0.0011743 明楽
+	Japan WORD[13,   3]: 0.0009348 散楽
+	Japan WORD[13,   4]: 0.0009348 猿楽
+	Japan WORD[13,   5]: 0.0009348 申楽
+TOKEN[14]: 0.0170196    3 early
+	early WORD[14,   1]: 0.0149207 清楽
+	early WORD[14,   2]: 0.0013975 明楽
+	early WORD[14,   3]: 0.0007014 古楽
+TOKEN[15]: 0.0169592    1 lion
+	lion WORD[15,   1]: 0.0169592 太神楽
+TOKEN[16]: 0.0155250    4 Chinese
+	Chinese WORD[16,   1]: 0.0110372 清楽
+	Chinese WORD[16,   2]: 0.0017461 唐楽
+	Chinese WORD[16,   3]: 0.0017079 楽府
+	Chinese WORD[16,   4]: 0.0010338 明楽
+TOKEN[17]: 0.0145758    8 Japanese
+	Japanese WORD[17,   1]: 0.0084713 太神楽
+	Japanese WORD[17,   2]: 0.0013122 催馬楽
+	Japanese WORD[17,   3]: 0.0011717 邦楽
+	Japanese WORD[17,   4]: 0.0007304 独楽鼠
+	Japanese WORD[17,   5]: 0.0006386 楽天
+	Japanese WORD[17,   6]: 0.0005852 貝独楽
+	Japanese WORD[17,   7]: 0.0005840 文楽
+	Japanese WORD[17,   8]: 0.0004437 雅楽
+TOKEN[18]: 0.0138994    1 grand
+	grand WORD[18,   1]: 0.0138994 太神楽
+TOKEN[19]: 0.0136567    2 type
+	type WORD[19,   1]: 0.0116573 太神楽
+	type WORD[19,   2]: 0.0019994 楽箏
+TOKEN[20]: 0.0135011   14 pleasure
+	pleasure WORD[20,   1]: 0.0014188 快楽
+	pleasure WORD[20,   2]: 0.0013879 放楽
+	pleasure WORD[20,   3]: 0.0013879 法楽
+	pleasure WORD[20,   4]: 0.0010953 逸楽
+	pleasure WORD[20,   5]: 0.0010874 哀楽
+	pleasure WORD[20,   6]: 0.0010869 愉楽
+	pleasure WORD[20,   7]: 0.0008143 楽しむ
+	pleasure WORD[20,   8]: 0.0008142 楽しみ
+	pleasure WORD[20,   9]: 0.0007590 娯楽
+	pleasure WORD[20,  10]: 0.0007518 行楽
+	pleasure WORD[20,  11]: 0.0007444 苦楽
+	pleasure WORD[20,  12]: 0.0007347 享楽
+	pleasure WORD[20,  13]: 0.0007278 歓楽
+	pleasure WORD[20,  14]: 0.0006907 悦楽
+TOKEN[21]: 0.0125870    1 japonica
+	japonica WORD[21,   1]: 0.0125870 太神楽
+TOKEN[22]: 0.0105163    9 musical
+	musical WORD[22,   1]: 0.0035905 楽界
+	musical WORD[22,   2]: 0.0010966 楽典
+	musical WORD[22,   3]: 0.0010965 楽節
+	musical WORD[22,   4]: 0.0010964 楽音
+	musical WORD[22,   5]: 0.0007823 奏楽
+	musical WORD[22,   6]: 0.0007136 楽曲
+	musical WORD[22,   7]: 0.0007136 楽器
+	musical WORD[22,   8]: 0.0007134 楽壇
+	musical WORD[22,   9]: 0.0007134 楽劇
+TOKEN[23]: 0.0102694    6 court
+	court WORD[23,   1]: 0.0032381 正楽
+	court WORD[23,   2]: 0.0027247 女楽
+	court WORD[23,   3]: 0.0018106 催馬楽
+	court WORD[23,   4]: 0.0010797 俗楽
+	court WORD[23,   5]: 0.0008040 舞楽
+	court WORD[23,   6]: 0.0006123 雅楽
+TOKEN[24]: 0.0085597    6 amusement
+	amusement WORD[24,   1]: 0.0016517 遊楽
+	amusement WORD[24,   2]: 0.0015759 放楽
+	amusement WORD[24,   3]: 0.0015759 法楽
+	amusement WORD[24,   4]: 0.0009850 道楽
+	amusement WORD[24,   5]: 0.0009245 楽しみ
+	amusement WORD[24,   6]: 0.0008618 娯楽
+TOKEN[25]: 0.0084521    5 musician
+	musician WORD[25,   1]: 0.0026827 楽聖
+	musician WORD[25,   2]: 0.0013413 楽人
+	musician WORD[25,   3]: 0.0013413 楽匠
+	musician WORD[25,   4]: 0.0008727 楽士
+	musician WORD[25,   5]: 0.0008727 楽師
+TOKEN[26]: 0.0077096    1 Lonicera
+	Lonicera WORD[26,   1]: 0.0077096 鶯神楽
+TOKEN[27]: 0.0075511    2 folk
+	folk WORD[27,   1]: 0.0052628 楽府
+	folk WORD[27,   2]: 0.0022882 催馬楽
+TOKEN[28]: 0.0074498    5 comfortable
+	comfortable WORD[28,   1]: 0.0016753 楽ちん
+	comfortable WORD[28,   2]: 0.0016753 楽チン
+	comfortable WORD[28,   3]: 0.0016247 楽寝
+	comfortable WORD[28,   4]: 0.0008301 気楽
+	comfortable WORD[28,   5]: 0.0008222 楽
+TOKEN[29]: 0.0074125    1 honeysuckle
+	honeysuckle WORD[29,   1]: 0.0074125 鶯神楽
+TOKEN[30]: 0.0069651    3 genre
+	genre WORD[30,   1]: 0.0029933 楽府
+	genre WORD[30,   2]: 0.0026029 催馬楽
+	genre WORD[30,   3]: 0.0013690 伎楽
+TOKEN[31]: 0.0067633    3 spinning
+	spinning WORD[31,   1]: 0.0048457 独楽回し
+	spinning WORD[31,   2]: 0.0010731 貝独楽
+	spinning WORD[31,   3]: 0.0008445 独楽
+TOKEN[32]: 0.0065640    4 pastime
+	pastime WORD[32,   1]: 0.0017288 放楽
+	pastime WORD[32,   2]: 0.0017288 法楽
+	pastime WORD[32,   3]: 0.0010805 道楽
+	pastime WORD[32,   4]: 0.0009454 娯楽
+TOKEN[33]: 0.0061821    3 fooling
+	fooling WORD[33,   1]: 0.0015455 散楽
+	fooling WORD[33,   2]: 0.0015455 猿楽
+	fooling WORD[33,   3]: 0.0015455 申楽
+TOKEN[34]: 0.0061707    4 easy
+	easy WORD[34,   1]: 0.0019837 楽勝
+	easy WORD[34,   2]: 0.0014044 楽ちん
+	easy WORD[34,   3]: 0.0014044 楽チン
+	easy WORD[34,   4]: 0.0006892 楽
+TOKEN[35]: 0.0061386    1 orchestral
+	orchestral WORD[35,   1]: 0.0061386 管弦楽
+TOKEN[36]: 0.0061376    4 dancing
+	dancing WORD[36,   1]: 0.0025207 楽舞
+	dancing WORD[36,   2]: 0.0012736 独楽鼠
+	dancing WORD[36,   3]: 0.0011897 神楽
+	dancing WORD[36,   4]: 0.0011536 田楽
+TOKEN[37]: 0.0061271    3 raku
+	raku WORD[37,   1]: 0.0020342 楽焼
+	raku WORD[37,   2]: 0.0020342 楽焼き
+	raku WORD[37,   3]: 0.0010294 楽
+TOKEN[38]: 0.0055701    4 popular
+	popular WORD[38,   1]: 0.0011809 俗楽
+	popular WORD[38,   2]: 0.0010973 散楽
+	popular WORD[38,   3]: 0.0010973 猿楽
+	popular WORD[38,   4]: 0.0010973 申楽
+TOKEN[39]: 0.0051285    3 entertainment
+	entertainment WORD[39,   1]: 0.0028918 法楽
+	entertainment WORD[39,   2]: 0.0014459 放楽
+	entertainment WORD[39,   3]: 0.0007907 娯楽
+TOKEN[40]: 0.0049698    2 bandsman
+	bandsman WORD[40,   1]: 0.0038991 楽員
+	bandsman WORD[40,   2]: 0.0010706 楽士
+TOKEN[41]: 0.0049557    3 top
+	top WORD[41,   1]: 0.0035506 独楽回し
+	top WORD[41,   2]: 0.0007863 貝独楽
+	top WORD[41,   3]: 0.0006188 独楽
+TOKEN[42]: 0.0045148    3 pottery
+	pottery WORD[42,   1]: 0.0014989 楽焼
+	pottery WORD[42,   2]: 0.0014989 楽焼き
+	pottery WORD[42,   3]: 0.0007585 楽
+TOKEN[43]: 0.0043632    2 comfy
+	comfy WORD[43,   1]: 0.0021816 楽ちん
+	comfy WORD[43,   2]: 0.0021816 楽チン
+TOKEN[44]: 0.0042712    3 paradise
+	paradise WORD[44,   1]: 0.0016740 楽土
+	paradise WORD[44,   2]: 0.0013782 極楽
+	paradise WORD[44,   3]: 0.0012190 楽園
+TOKEN[45]: 0.0042314    2 glazed
+	glazed WORD[45,   1]: 0.0021157 楽焼
+	glazed WORD[45,   2]: 0.0021157 楽焼き
+TOKEN[46]: 0.0041847    1 tantric
+	tantric WORD[46,   1]: 0.0041847 勝楽
+TOKEN[47]: 0.0041696    1 species
+	species WORD[47,   1]: 0.0041696 鶯神楽
+TOKEN[48]: 0.0040991    3 simple
+	simple WORD[48,   1]: 0.0013749 楽ちん
+	simple WORD[48,   2]: 0.0013749 楽チン
+	simple WORD[48,   3]: 0.0006747 楽
+TOKEN[49]: 0.0040364    3 hobby
+	hobby WORD[49,   1]: 0.0010584 道楽
+	hobby WORD[49,   2]: 0.0009935 楽しみ
+	hobby WORD[49,   3]: 0.0009261 娯楽
+TOKEN[50]: 0.0040146    2 deity
+	deity WORD[50,   1]: 0.0026985 勝楽
+	deity WORD[50,   2]: 0.0013161 法楽
+TOKEN[51]: 0.0037344    3 form
+	form WORD[51,   1]: 0.0009336 散楽
+	form WORD[51,   2]: 0.0009336 猿楽
+	form WORD[51,   3]: 0.0009336 申楽
+TOKEN[52]: 0.0036985    1 hall
+	hall WORD[52,   1]: 0.0036985 神楽殿
+TOKEN[53]: 0.0036222    3 ancient
+	ancient WORD[53,   1]: 0.0019618 楽箏
+	ancient WORD[53,   2]: 0.0010415 唐楽
+	ancient WORD[53,   3]: 0.0006189 古楽
+TOKEN[54]: 0.0036013    1 sacred
+	sacred WORD[54,   1]: 0.0036013 神楽殿
+TOKEN[55]: 0.0035945    2 peace
+	peace WORD[55,   1]: 0.0010656 和楽
+	peace WORD[55,   2]: 0.0007316 楽
+TOKEN[56]: 0.0035843    2 ware
+	ware WORD[56,   1]: 0.0017921 楽焼
+	ware WORD[56,   2]: 0.0017921 楽焼き
+TOKEN[57]: 0.0035497    2 world
+	world WORD[57,   1]: 0.0029613 楽界
+	world WORD[57,   2]: 0.0005884 楽壇
+TOKEN[58]: 0.0034816    3 used
+	used WORD[58,   1]: 0.0015775 楽箏
+	used WORD[58,   2]: 0.0009520 楽焼
+	used WORD[58,   3]: 0.0009520 楽焼き
+TOKEN[59]: 0.0034782    1 talent
+	talent WORD[59,   1]: 0.0034782 楽才
+TOKEN[60]: 0.0033953    2 fired
+	fired WORD[60,   1]: 0.0016977 楽焼
+	fired WORD[60,   2]: 0.0016977 楽焼き
+TOKEN[61]: 0.0033799    2 free
+	free WORD[61,   1]: 0.0021362 楽座
+	free WORD[61,   2]: 0.0012437 法楽
+TOKEN[62]: 0.0032860    1 tournament
+	tournament WORD[62,   1]: 0.0016430 楽日
+TOKEN[63]: 0.0032431    1 stage
+	stage WORD[63,   1]: 0.0032431 神楽殿
+TOKEN[64]: 0.0031294    2 earthenware
+	earthenware WORD[64,   1]: 0.0015647 楽焼
+	earthenware WORD[64,   2]: 0.0015647 楽焼き
+TOKEN[65]: 0.0030375    2 style
+	style WORD[65,   1]: 0.0020100 楽府
+	style WORD[65,   2]: 0.0010275 唐楽
+TOKEN[66]: 0.0030119    1 shrine
+	shrine WORD[66,   1]: 0.0030119 神楽殿
+TOKEN[67]: 0.0029627    2 doodle
+	doodle WORD[67,   1]: 0.0014814 楽書
+	doodle WORD[67,   2]: 0.0014814 楽書き
+TOKEN[68]: 0.0029528    3 ease
+	ease WORD[68,   1]: 0.0007589 気楽
+	ease WORD[68,   2]: 0.0007516 楽
+	ease WORD[68,   3]: 0.0006906 安楽
+TOKEN[69]: 0.0029466    1 wind
+	wind WORD[69,   1]: 0.0029466 管楽
+TOKEN[70]: 0.0028620    1 responsible
+	responsible WORD[70,   1]: 0.0028620 楽府
+TOKEN[71]: 0.0028133    1 conglomerate
+	conglomerate WORD[71,   1]: 0.0014067 楽天
+TOKEN[72]: 0.0027059    2 celebrated
+	celebrated WORD[72,   1]: 0.0013529 楽聖
+	celebrated WORD[72,   2]: 0.0013529 楽匠
+TOKEN[73]: 0.0026386    1 koto
+	koto WORD[73,   1]: 0.0026386 楽箏
+TOKEN[74]: 0.0026317    3 enjoyment
+	enjoyment WORD[74,   1]: 0.0009412 楽しみ
+	enjoyment WORD[74,   2]: 0.0008493 享楽
+	enjoyment WORD[74,   3]: 0.0008412 歓楽
+TOKEN[75]: 0.0025823    2 scrawl
+	scrawl WORD[75,   1]: 0.0012912 楽書
+	scrawl WORD[75,   2]: 0.0012912 楽書き
+TOKEN[76]: 0.0025823    2 scribble
+	scribble WORD[76,   1]: 0.0012912 楽書
+	scribble WORD[76,   2]: 0.0012912 楽書き
+TOKEN[77]: 0.0025656    2 lead
+	lead WORD[77,   1]: 0.0012828 楽焼
+	lead WORD[77,   2]: 0.0012828 楽焼き
+TOKEN[78]: 0.0025512    1 profligacy
+	profligacy WORD[78,   1]: 0.0012756 道楽
+TOKEN[79]: 0.0025512    1 indulging
+	indulging WORD[79,   1]: 0.0012756 道楽
+TOKEN[80]: 0.0025512    1 prodigality
+	prodigality WORD[80,   1]: 0.0012756 道楽
+TOKEN[81]: 0.0025342    1 composed
+	composed WORD[81,   1]: 0.0025342 楽府
+TOKEN[82]: 0.0025161    1 sole
+	sole WORD[82,   1]: 0.0025161 楽座
+TOKEN[83]: 0.0024682    1 phrase
+	phrase WORD[83,   1]: 0.0024682 楽句
+TOKEN[84]: 0.0024328    1 lesser
+	lesser WORD[84,   1]: 0.0024328 神楽蝙蝠
+TOKEN[85]: 0.0024312    2 low
+	low WORD[85,   1]: 0.0012156 楽焼
+	low WORD[85,   2]: 0.0012156 楽焼き
+TOKEN[86]: 0.0024133    2 ceremony
+	ceremony WORD[86,   1]: 0.0012067 楽焼
+	ceremony WORD[86,   2]: 0.0012067 楽焼き
+TOKEN[87]: 0.0023818    1 last
+	last WORD[87,   1]: 0.0011909 楽日
+TOKEN[88]: 0.0023606    1 bat
+	bat WORD[88,   1]: 0.0023606 神楽蝙蝠
+TOKEN[89]: 0.0023585    2 orchestra
+	orchestra WORD[89,   1]: 0.0014289 楽隊
+	orchestra WORD[89,   2]: 0.0009296 楽団
+TOKEN[90]: 0.0023521    2 comfort
+	comfort WORD[90,   1]: 0.0008058 楽
+	comfort WORD[90,   2]: 0.0007404 安楽
+TOKEN[91]: 0.0023396    3 fun
+	fun WORD[91,   1]: 0.0008085 楽しむ
+	fun WORD[91,   2]: 0.0008085 楽しい
+	fun WORD[91,   3]: 0.0007226 歓楽
+TOKEN[92]: 0.0023230    1 Buddhist
+	Buddhist WORD[92,   1]: 0.0023230 勝楽
+TOKEN[93]: 0.0023190    1 singing
+	singing WORD[93,   1]: 0.0023190 楽舞
+TOKEN[94]: 0.0023089    1 dynasty
+	dynasty WORD[94,   1]: 0.0023089 楽府
+TOKEN[95]: 0.0023089    1 poetry
+	poetry WORD[95,   1]: 0.0023089 楽府
+TOKEN[96]: 0.0022999    2 tea
+	tea WORD[96,   1]: 0.0011499 楽焼
+	tea WORD[96,   2]: 0.0011499 楽焼き
+TOKEN[97]: 0.0022791    1 harmony
+	harmony WORD[97,   1]: 0.0011395 和楽
+TOKEN[98]: 0.0022461    2 string
+	string WORD[98,   1]: 0.0011231 弦楽
+	string WORD[98,   2]: 0.0011231 絃楽
+TOKEN[99]: 0.0022161    1 sitting
+	sitting WORD[99,   1]: 0.0022161 楽座
+TOKEN[100]: 0.0022152    1 debauchery
+	debauchery WORD[100,   1]: 0.0011076 道楽
+TOKEN[101]: 0.0021896    2 sorority
+	sorority WORD[101,   1]: 0.0010948 俱楽部
+	sorority WORD[101,   2]: 0.0010948 倶楽部
+TOKEN[102]: 0.0021896    2 clubhouse
+	clubhouse WORD[102,   1]: 0.0010948 俱楽部
+	clubhouse WORD[102,   2]: 0.0010948 倶楽部
+TOKEN[103]: 0.0021821    1 day
+	day WORD[103,   1]: 0.0010911 楽日
+TOKEN[104]: 0.0021745    3 play
+	play WORD[104,   1]: 0.0008539 楽勝
+	play WORD[104,   2]: 0.0007271 能楽
+	play WORD[104,   3]: 0.0005934 楽劇
+TOKEN[105]: 0.0021568    1 enjoying
+	enjoying WORD[105,   1]: 0.0021568 偕楽
+TOKEN[106]: 0.0021184    1 office
+	office WORD[106,   1]: 0.0021184 楽府
+TOKEN[107]: 0.0020471    1 dissipation
+	dissipation WORD[107,   1]: 0.0010236 道楽
+TOKEN[108]: 0.0020408    1 government
+	government WORD[108,   1]: 0.0020408 楽府
+TOKEN[109]: 0.0020261    2 band
+	band WORD[109,   1]: 0.0012275 楽隊
+	band WORD[109,   2]: 0.0007986 楽団
+TOKEN[110]: 0.0020161    1 cattle
+	cattle WORD[110,   1]: 0.0020161 伯楽
+TOKEN[111]: 0.0019699    1 favorite
+	favorite WORD[111,   1]: 0.0009850 道楽
+TOKEN[112]: 0.0019699    1 open
+	open WORD[112,   1]: 0.0019699 楽座
+TOKEN[113]: 0.0019610    2 fraternity
+	fraternity WORD[113,   1]: 0.0009805 俱楽部
+	fraternity WORD[113,   2]: 0.0009805 倶楽部
+TOKEN[114]: 0.0019444    1 ground
+	ground WORD[114,   1]: 0.0019444 楽座
+TOKEN[115]: 0.0018779    1 information
+	information WORD[115,   1]: 0.0009390 楽天
+TOKEN[116]: 0.0018278    1 pious
+	pious WORD[116,   1]: 0.0018278 法楽
+TOKEN[117]: 0.0017748    1 masked
+	masked WORD[117,   1]: 0.0017748 伎楽
+TOKEN[118]: 0.0017709    1 gambling
+	gambling WORD[118,   1]: 0.0008855 道楽
+TOKEN[119]: 0.0017640    1 part
+	part WORD[119,   1]: 0.0017640 楽部
+TOKEN[120]: 0.0017614    1 loose
+	loose WORD[120,   1]: 0.0008807 道楽
+TOKEN[121]: 0.0017541    1 bandmaster
+	bandmaster WORD[121,   1]: 0.0017541 楽長
+TOKEN[122]: 0.0017313    1 relaxation
+	relaxation WORD[122,   1]: 0.0008656 楽
+TOKEN[123]: 0.0016963    1 way
+	way WORD[123,   1]: 0.0016963 楽座
+TOKEN[124]: 0.0016943    1 Mus
+	Mus WORD[124,   1]: 0.0016943 独楽鼠
+TOKEN[125]: 0.0016472    1 etiquette
+	etiquette WORD[125,   1]: 0.0016472 礼楽
+TOKEN[126]: 0.0016457    1 compositional
+	compositional WORD[126,   1]: 0.0016457 楽典
+TOKEN[127]: 0.0016457    1 melodic
+	melodic WORD[127,   1]: 0.0016457 楽想
+TOKEN[128]: 0.0016422    1 cakewalk
+	cakewalk WORD[128,   1]: 0.0016422 楽勝
+TOKEN[129]: 0.0016422    1 walkover
+	walkover WORD[129,   1]: 0.0016422 楽勝
+TOKEN[130]: 0.0016422    1 peasy
+	peasy WORD[130,   1]: 0.0016422 楽勝
+TOKEN[131]: 0.0016422    1 Eden
+	Eden WORD[131,   1]: 0.0016422 楽園
+TOKEN[132]: 0.0016367    1 alcohol
+	alcohol WORD[132,   1]: 0.0008183 道楽
+TOKEN[133]: 0.0016346    2 traditional
+	traditional WORD[133,   1]: 0.0008794 神楽
+	traditional WORD[133,   2]: 0.0007552 邦楽
+TOKEN[134]: 0.0016143    2 master
+	master WORD[134,   1]: 0.0009780 楽聖
+	master WORD[134,   2]: 0.0006363 楽師
+TOKEN[135]: 0.0015759    1 admission
+	admission WORD[135,   1]: 0.0015759 法楽
+TOKEN[136]: 0.0015418    2 club
+	club WORD[136,   1]: 0.0007709 俱楽部
+	club WORD[136,   2]: 0.0007709 倶楽部
+TOKEN[137]: 0.0015317    1 happiness
+	happiness WORD[137,   1]: 0.0007659 楽
+TOKEN[138]: 0.0015070    1 pouring
+	pouring WORD[138,   1]: 0.0015070 灰神楽
+TOKEN[139]: 0.0014981    1 rice
+	rice WORD[139,   1]: 0.0014981 田楽
+TOKEN[140]: 0.0014904    1 relief
+	relief WORD[140,   1]: 0.0007452 楽
+TOKEN[141]: 0.0014818    1 optimism
+	optimism WORD[141,   1]: 0.0014818 楽観
+TOKEN[142]: 0.0014659    1 living
+	living WORD[142,   1]: 0.0007329 道楽
+TOKEN[143]: 0.0014571    1 coated
+	coated WORD[143,   1]: 0.0014571 田楽
+TOKEN[144]: 0.0014498    1 conductor
+	conductor WORD[144,   1]: 0.0014498 楽長
+TOKEN[145]: 0.0014488    1 mouse
+	mouse WORD[145,   1]: 0.0014488 独楽鼠
+TOKEN[146]: 0.0014327    1 ashes
+	ashes WORD[146,   1]: 0.0014327 灰神楽
+TOKEN[147]: 0.0014320    1 Amitabha
+	Amitabha WORD[147,   1]: 0.0014320 極楽
+TOKEN[148]: 0.0014265    1 place
+	place WORD[148,   1]: 0.0014265 楽所
+TOKEN[149]: 0.0014105    1 grammar
+	grammar WORD[149,   1]: 0.0014105 楽典
+TOKEN[150]: 0.0013940    1 motif
+	motif WORD[150,   1]: 0.0013940 楽想
+TOKEN[151]: 0.0013818    1 sleep
+	sleep WORD[151,   1]: 0.0013818 楽寝
+TOKEN[152]: 0.0013549    1 Indian
+	Indian WORD[152,   1]: 0.0013549 唐楽
+TOKEN[153]: 0.0013527    1 rest
+	rest WORD[153,   1]: 0.0013527 楽寝
+TOKEN[154]: 0.0013381    1 optimistic
+	optimistic WORD[154,   1]: 0.0013381 楽観
+TOKEN[155]: 0.0013187    1 relaxed
+	relaxed WORD[155,   1]: 0.0013187 楽髪
+TOKEN[156]: 0.0013015    1 trouble
+	trouble WORD[156,   1]: 0.0006508 楽
+TOKEN[157]: 0.0012722    1 cloud
+	cloud WORD[157,   1]: 0.0012722 灰神楽
+TOKEN[158]: 0.0012661    1 pursuit
+	pursuit WORD[158,   1]: 0.0012661 逸楽
+TOKEN[159]: 0.0012538    1 based
+	based WORD[159,   1]: 0.0012538 唐楽
+TOKEN[160]: 0.0012446    1 theme
+	theme WORD[160,   1]: 0.0012446 楽想
+TOKEN[161]: 0.0012071    1 opposed
+	opposed WORD[161,   1]: 0.0012071 俗楽
+TOKEN[162]: 0.0012044    2 good
+	good WORD[162,   1]: 0.0006386 伯楽
+	good WORD[162,   2]: 0.0005658 楽しむ
+TOKEN[163]: 0.0011911    1 Buddha
+	Buddha WORD[163,   1]: 0.0011911 法楽
+TOKEN[164]: 0.0011854    1 baked
+	baked WORD[164,   1]: 0.0011854 田楽
+TOKEN[165]: 0.0011850    1 room
+	room WORD[165,   1]: 0.0011850 楽屋
+TOKEN[166]: 0.0011747    1 European
+	European WORD[166,   1]: 0.0011747 洋楽
+TOKEN[167]: 0.0011685    1 rapid
+	rapid WORD[167,   1]: 0.0011685 楽髪
+TOKEN[168]: 0.0011597    1 park
+	park WORD[168,   1]: 0.0011597 楽勝
+TOKEN[169]: 0.0011536    1 cook
+	cook WORD[169,   1]: 0.0011536 田楽
+TOKEN[170]: 0.0011479    1 growth
+	growth WORD[170,   1]: 0.0011479 楽髪
+TOKEN[171]: 0.0011150    1 idle
+	idle WORD[171,   1]: 0.0011150 逸楽
+TOKEN[172]: 0.0011110    1 tofu
+	tofu WORD[172,   1]: 0.0011110 田楽
+TOKEN[173]: 0.0010991    1 ritual
+	ritual WORD[173,   1]: 0.0010991 田楽
+TOKEN[174]: 0.0010911    1 earth
+	earth WORD[174,   1]: 0.0010911 極楽
+TOKEN[175]: 0.0010880    1 puppet
+	puppet WORD[175,   1]: 0.0010880 文楽
+TOKEN[176]: 0.0010768    1 section
+	section WORD[176,   1]: 0.0010768 楽節
+TOKEN[177]: 0.0010766    1 trader
+	trader WORD[177,   1]: 0.0010766 伯楽
+TOKEN[178]: 0.0010753    1 sides
+	sides WORD[178,   1]: 0.0010753 田楽
+TOKEN[179]: 0.0010728    1 passage
+	passage WORD[179,   1]: 0.0010728 楽節
+TOKEN[180]: 0.0010633    1 Shinto
+	Shinto WORD[180,   1]: 0.0010633 神楽
+TOKEN[181]: 0.0010630    1 picnic
+	picnic WORD[181,   1]: 0.0010630 行楽
+TOKEN[182]: 0.0010610    1 grief
+	grief WORD[182,   1]: 0.0010610 哀楽
+TOKEN[183]: 0.0010497    1 common
+	common WORD[183,   1]: 0.0010497 俗楽
+TOKEN[184]: 0.0010393    1 life
+	life WORD[184,   1]: 0.0010393 法楽
+TOKEN[185]: 0.0010348    1 manner
+	manner WORD[185,   1]: 0.0010348 田楽
+TOKEN[186]: 0.0010262    1 note
+	note WORD[186,   1]: 0.0010262 楽音
+TOKEN[187]: 0.0010245    1 victory
+	victory WORD[187,   1]: 0.0010245 楽勝
+TOKEN[188]: 0.0010224    1 walk
+	walk WORD[188,   1]: 0.0010224 楽勝
+TOKEN[189]: 0.0010107    1 subject
+	subject WORD[189,   1]: 0.0010107 楽想
+TOKEN[190]: 0.0010100    1 fire
+	fire WORD[190,   1]: 0.0010100 灰神楽
+TOKEN[191]: 0.0010090    1 festival
+	festival WORD[191,   1]: 0.0010090 田楽
+TOKEN[192]: 0.0010043    1 turning
+	turning WORD[192,   1]: 0.0010043 田楽
+TOKEN[193]: 0.0010033    1 delightful
+	delightful WORD[193,   1]: 0.0010033 楽しい
+TOKEN[194]: 0.0010030    1 freeing
+	freeing WORD[194,   1]: 0.0010030 快楽
+TOKEN[195]: 0.0009983    1 theater
+	theater WORD[195,   1]: 0.0009983 文楽
+TOKEN[196]: 0.0009802    1 training
+	training WORD[196,   1]: 0.0009802 楽所
+TOKEN[197]: 0.0009760    1 enjoy
+	enjoy WORD[197,   1]: 0.0009760 楽しむ
+TOKEN[198]: 0.0009605    1 instrumental
+	instrumental WORD[198,   1]: 0.0009605 器楽
+TOKEN[199]: 0.0009589    1 backstage
+	backstage WORD[199,   1]: 0.0009589 楽屋
+TOKEN[200]: 0.0009534    1 people
+	people WORD[200,   1]: 0.0009534 俗楽
+TOKEN[201]: 0.0009488    1 judge
+	judge WORD[201,   1]: 0.0009488 伯楽
+TOKEN[202]: 0.0009327    2 one
+	one WORD[202,   1]: 0.0004794 楽髪
+	one WORD[202,   2]: 0.0004533 田楽
+TOKEN[203]: 0.0009241    1 vocal
+	vocal WORD[203,   1]: 0.0009241 声楽
+TOKEN[204]: 0.0009100    1 diversion
+	diversion WORD[204,   1]: 0.0009100 楽しみ
+TOKEN[205]: 0.0009089    1 excursion
+	excursion WORD[205,   1]: 0.0009089 行楽
+TOKEN[206]: 0.0009089    1 outing
+	outing WORD[206,   1]: 0.0009089 行楽
+TOKEN[207]: 0.0009058    1 earthly
+	earthly WORD[207,   1]: 0.0009058 快楽
+TOKEN[208]: 0.0009024    1 recreation
+	recreation WORD[208,   1]: 0.0009024 娯楽
+TOKEN[209]: 0.0008998    1 shell
+	shell WORD[209,   1]: 0.0008998 貝独楽
+TOKEN[210]: 0.0008971    1 anticipation
+	anticipation WORD[210,   1]: 0.0008971 楽しみ
+TOKEN[211]: 0.0008958    1 view
+	view WORD[211,   1]: 0.0008958 楽観
+TOKEN[212]: 0.0008884    1 opera
+	opera WORD[212,   1]: 0.0008884 楽劇
+TOKEN[213]: 0.0008855    1 happy
+	happy WORD[213,   1]: 0.0008855 楽しい
+TOKEN[214]: 0.0008827    1 water
+	water WORD[214,   1]: 0.0008827 灰神楽
+TOKEN[215]: 0.0008755    1 hair
+	hair WORD[215,   1]: 0.0008755 楽髪
+TOKEN[216]: 0.0008732    1 use
+	use WORD[216,   1]: 0.0008732 田楽
+TOKEN[217]: 0.0008661    1 junk
+	junk WORD[217,   1]: 0.0008661 我楽多
+TOKEN[218]: 0.0008497    1 carefree
+	carefree WORD[218,   1]: 0.0008497 気楽
+TOKEN[219]: 0.0008472    1 inside
+	inside WORD[219,   1]: 0.0008472 楽屋
+TOKEN[220]: 0.0008420    1 odds
+	odds WORD[220,   1]: 0.0008420 我楽多
+TOKEN[221]: 0.0008395    1 easygoing
+	easygoing WORD[221,   1]: 0.0008395 気楽
+TOKEN[222]: 0.0008368    1 child
+	child WORD[222,   1]: 0.0008368 楽勝
+TOKEN[223]: 0.0008297    1 gray
+	gray WORD[223,   1]: 0.0008297 聚楽
+TOKEN[224]: 0.0008187    1 grey
+	grey WORD[224,   1]: 0.0008187 聚楽
+TOKEN[225]: 0.0008182    1 trash
+	trash WORD[225,   1]: 0.0008182 我楽多
+TOKEN[226]: 0.0008149    1 supreme
+	supreme WORD[226,   1]: 0.0008149 快楽
+TOKEN[227]: 0.0008091    1 delight
+	delight WORD[227,   1]: 0.0008091 悦楽
+TOKEN[228]: 0.0008025    1 rubbish
+	rubbish WORD[228,   1]: 0.0008025 我楽多
+TOKEN[229]: 0.0008001    1 era
+	era WORD[229,   1]: 0.0008001 楽所
+TOKEN[230]: 0.0007988    1 tune
+	tune WORD[230,   1]: 0.0007988 楽曲
+TOKEN[231]: 0.0007984    1 taking
+	taking WORD[231,   1]: 0.0007984 楽観
+TOKEN[232]: 0.0007886    1 dressing
+	dressing WORD[232,   1]: 0.0007886 楽屋
+TOKEN[233]: 0.0007778    1 fish
+	fish WORD[233,   1]: 0.0007778 田楽
+TOKEN[234]: 0.0007644    1 covering
+	covering WORD[234,   1]: 0.0007644 聚楽
+TOKEN[235]: 0.0007634    1 score
+	score WORD[235,   1]: 0.0007634 楽譜
+TOKEN[236]: 0.0007589    1 garbage
+	garbage WORD[236,   1]: 0.0007589 我楽多
+TOKEN[237]: 0.0007461    1 horse
+	horse WORD[237,   1]: 0.0007461 伯楽
+TOKEN[238]: 0.0007354    1 sheet
+	sheet WORD[238,   1]: 0.0007354 楽譜
+TOKEN[239]: 0.0007337    1 composition
+	composition WORD[239,   1]: 0.0007337 楽曲
+TOKEN[240]: 0.0007296    1 looking
+	looking WORD[240,   1]: 0.0007296 楽しみ
+TOKEN[241]: 0.0007290    1 joy
+	joy WORD[241,   1]: 0.0007290 悦楽
+TOKEN[242]: 0.0007180    1 trip
+	trip WORD[242,   1]: 0.0007180 行楽
+TOKEN[243]: 0.0007163    1 material
+	material WORD[243,   1]: 0.0007163 聚楽
+TOKEN[244]: 0.0007134    1 made
+	made WORD[244,   1]: 0.0007134 貝独楽
+TOKEN[245]: 0.0007122    1 pain
+	pain WORD[245,   1]: 0.0007122 苦楽
+TOKEN[246]: 0.0007104    1 movement
+	movement WORD[246,   1]: 0.0007104 楽章
+TOKEN[247]: 0.0006981    1 instrument
+	instrument WORD[247,   1]: 0.0006981 楽器
+TOKEN[248]: 0.0006744    1 wall
+	wall WORD[248,   1]: 0.0006744 聚楽
+TOKEN[249]: 0.0006581    1 something
+	something WORD[249,   1]: 0.0006581 田楽
+TOKEN[250]: 0.0006368    1 military
+	military WORD[250,   1]: 0.0006368 軍楽
+TOKEN[251]: 0.0006151    1 look
+	look WORD[251,   1]: 0.0006151 楽しむ
+TOKEN[252]: 0.0006118    1 green
+	green WORD[252,   1]: 0.0006118 楽屋
+TOKEN[253]: 0.0005500    1 going
+	going WORD[253,   1]: 0.0005500 行楽
+TOKEN[254]: 0.0005477    1 take
+	take WORD[254,   1]: 0.0005477 楽しむ
+TOKEN[255]: 0.0005400    1 time
+	time WORD[255,   1]: 0.0005400 楽しむ
+TOKEN[256]: 0.0005348    1 great
+	great WORD[256,   1]: 0.0005348 神楽蝙蝠
+TOKEN[257]: 0.0005293    1 old
+	old WORD[257,   1]: 0.0005293 雅楽

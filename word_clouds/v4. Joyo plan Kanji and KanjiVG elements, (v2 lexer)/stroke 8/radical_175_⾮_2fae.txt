@@ -1,0 +1,430 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0597645    1 lean           : 靠れる
+0.0532558    2 stomach        : 靠れる, 食靠れ
+0.0481405    3 heavy          : 靠れる, 食靠れ, 非道い
+0.0389655    1 digested       : 靠れる
+0.0375648    1 undigested     : 食靠れ
+0.0351776    1 recline        : 靠れる
+0.0318417    1 ungrammatical  : 非文
+0.0300743    1 conquer        : 靡かす
+0.0298462    1 seduce         : 靡かす
+0.0270168    1 lie            : 靠れる
+0.0237471    1 sitting        : 食靠れ
+0.0234005    1 obscenity      : 淫靡
+0.0233694    1 win            : 靡かす
+0.0214410    1 impurity       : 淫靡
+0.0203244    1 sentence       : 非文
+0.0194965    1 swaying        : 風靡
+0.0180900    1 conquering     : 風靡
+0.0175576    1 overwhelming   : 風靡
+0.0175247    1 swayed         : 靡く
+0.0169864    1 pretender      : 似非者
+0.0165035    1 impostor       : 似非者
+0.0160841    1 flutter        : 靡く
+0.0158607    1 sweeping       : 風靡
+0.0152762    1 obey           : 靡く
+0.0151929    3 sham           : 似非者, 似而非, 似非
+0.0145249    1 fraud          : 似非者
+0.0135607    1 yield          : 靡く
+0.0134018    1 bend           : 靡く
+0.0130660    1 counterfeit    : 似非者
+0.0128965    1 wave           : 靡く
+0.0127614    1 bow            : 靡く
+0.0117363    1 world          : 風靡
+0.0110292    1 decay          : 萎靡
+0.0106686    1 one            : 食靠れ
+0.0099264    1 decline        : 萎靡
+0.0054088    1 calumny        : 非毀
+0.0052437    1 libel          : 非毀
+0.0050610    1 defamation     : 非毀
+0.0048445    2 inhuman        : 人非人, 非道
+0.0046899    1 slander        : 非毀
+0.0042563    3 error          : 前非, 先非, 非
+0.0040902    2 untimely       : 非命, 非業
+0.0038308    2 misdeed        : 前非, 先非
+0.0037341    2 unnatural      : 非命, 非業
+0.0036876    1 fiend          : 人非人
+0.0036049    2 judicial       : 非違, 検非違使
+0.0035104    2 sin            : 前非, 先非
+0.0031975    1 brute          : 人非人
+0.0031139    1 beast          : 人非人
+0.0029903    2 police         : 非違, 検非違使
+0.0029796    2 unjust         : 非道, 非道い
+0.0029690    1 nonaqueous     : 非水
+0.0028412    2 chief          : 非違, 検非違使
+0.0028325    2 unreasonable   : 非理, 非道い
+0.0028266    1 war            : 非戦
+0.0027965    2 past           : 前非, 先非
+0.0027896    2 pretended      : 似而非, 似非
+0.0025458    2 wrong          : 理非, 是非
+0.0025123    2 remarkable     : 非凡, 非常
+0.0024749    2 censure        : 非難, 非議
+0.0023945    1 powerless      : 非力
+0.0023831    2 cruel          : 非道い, 非情
+0.0023811    1 illegality     : 非違
+0.0023751    2 terrible       : 非道い, 非常
+0.0023535    2 extraordinary  : 非凡, 非常
+0.0023400    1 inordinate     : 非望
+0.0022972    2 bad            : 非運, 非道い
+0.0022483    2 unusual        : 非凡, 非常
+0.0022384    1 impoliteness   : 非礼
+0.0022263    1 incapacity     : 非才
+0.0021604    2 extreme        : 非道い, 非常
+0.0021590    2 criticism      : 非難, 非議
+0.0021540    2 mock           : 似而非, 似非
+0.0021445    1 incompetent    : 非力
+0.0021445    1 illogical      : 非理
+0.0021345    1 incompetence   : 非才
+0.0021090    2 severe         : 非道い, 非常
+0.0020742    2 death          : 非命, 非業
+0.0020539    1 renunciation   : 非戦
+0.0020401    1 caste          : 非人
+0.0020066    1 helpless       : 非力
+0.0019510    1 employed       : 非職
+0.0018406    1 ambition       : 非望
+0.0017663    2 false          : 似而非, 似非
+0.0017660    1 insensate      : 非情
+0.0017554    1 unmarried      : 非婚
+0.0016782    1 choice         : 非婚
+0.0016726    1 misfortune     : 非運
+0.0016415    1 disadvantageous: 非
+0.0016411    1 lack           : 非才
+0.0016331    1 person         : 人非人
+0.0016009    1 prodigious     : 非凡
+0.0015930    1 insentient     : 非情
+0.0015918    1 delinquency    : 非行
+0.0015539    1 exorbitant     : 非道い
+0.0015477    1 unfeeling      : 非情
+0.0015477    1 callous        : 非情
+0.0015413    1 duty           : 非番
+0.0015115    1 misconduct     : 非行
+0.0014901    1 fortune        : 非運
+0.0014839    1 inanimate      : 非情
+0.0014741    1 holding        : 非職
+0.0014654    1 heartless      : 非道い
+0.0014432    1 ability        : 非才
+0.0014253    1 unfavorable    : 非
+0.0014071    1 post           : 非職
+0.0013453    1 reproach       : 非難
+0.0013408    1 system         : 非人
+0.0013348    1 unfair         : 非道い
+0.0013265    1 uncommon       : 非凡
+0.0013220    1 group          : 非人
+0.0013161    1 outrageous     : 非道い
+0.0013069    1 rank           : 非人
+0.0012995    1 awful          : 非道い
+0.0012414    1 emergency      : 非常
+0.0012340    1 Japan          : 非人
+0.0011864    1 blame          : 非難
+0.0011785    1 harsh          : 非道い
+0.0011579    1 intense        : 非道い
+0.0011396    1 violent        : 非道い
+0.0011259    1 excessive      : 非道い
+0.0011192    1 rare           : 非凡
+0.0010870    1 fault          : 非
+0.0010393    1 mistake        : 非
+0.0010189    1 much           : 非道く
+0.0010051    1 attack         : 非難
+0.0009641    1 strong         : 非道い
+0.0009579    1 fail           : 是非
+0.0009453    1 hard           : 非道い
+0.0008437    1 great          : 非常
+0.0008167    1 going          : 非
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0597645    1 lean
+	lean WORD[ 1,   1]: 0.0597645 靠れる
+TOKEN[ 2]: 0.0532558    2 stomach
+	stomach WORD[ 2,   1]: 0.0285797 靠れる
+	stomach WORD[ 2,   2]: 0.0246761 食靠れ
+TOKEN[ 3]: 0.0481405    3 heavy
+	heavy WORD[ 3,   1]: 0.0253151 靠れる
+	heavy WORD[ 3,   2]: 0.0218575 食靠れ
+	heavy WORD[ 3,   3]: 0.0009679 非道い
+TOKEN[ 4]: 0.0389655    1 digested
+	digested WORD[ 4,   1]: 0.0389655 靠れる
+TOKEN[ 5]: 0.0375648    1 undigested
+	undigested WORD[ 5,   1]: 0.0375648 食靠れ
+TOKEN[ 6]: 0.0351776    1 recline
+	recline WORD[ 6,   1]: 0.0351776 靠れる
+TOKEN[ 7]: 0.0318417    1 ungrammatical
+	ungrammatical WORD[ 7,   1]: 0.0318417 非文
+TOKEN[ 8]: 0.0300743    1 conquer
+	conquer WORD[ 8,   1]: 0.0300743 靡かす
+TOKEN[ 9]: 0.0298462    1 seduce
+	seduce WORD[ 9,   1]: 0.0298462 靡かす
+TOKEN[10]: 0.0270168    1 lie
+	lie WORD[10,   1]: 0.0270168 靠れる
+TOKEN[11]: 0.0237471    1 sitting
+	sitting WORD[11,   1]: 0.0237471 食靠れ
+TOKEN[12]: 0.0234005    1 obscenity
+	obscenity WORD[12,   1]: 0.0234005 淫靡
+TOKEN[13]: 0.0233694    1 win
+	win WORD[13,   1]: 0.0233694 靡かす
+TOKEN[14]: 0.0214410    1 impurity
+	impurity WORD[14,   1]: 0.0214410 淫靡
+TOKEN[15]: 0.0203244    1 sentence
+	sentence WORD[15,   1]: 0.0203244 非文
+TOKEN[16]: 0.0194965    1 swaying
+	swaying WORD[16,   1]: 0.0194965 風靡
+TOKEN[17]: 0.0180900    1 conquering
+	conquering WORD[17,   1]: 0.0180900 風靡
+TOKEN[18]: 0.0175576    1 overwhelming
+	overwhelming WORD[18,   1]: 0.0175576 風靡
+TOKEN[19]: 0.0175247    1 swayed
+	swayed WORD[19,   1]: 0.0175247 靡く
+TOKEN[20]: 0.0169864    1 pretender
+	pretender WORD[20,   1]: 0.0169864 似非者
+TOKEN[21]: 0.0165035    1 impostor
+	impostor WORD[21,   1]: 0.0165035 似非者
+TOKEN[22]: 0.0160841    1 flutter
+	flutter WORD[22,   1]: 0.0160841 靡く
+TOKEN[23]: 0.0158607    1 sweeping
+	sweeping WORD[23,   1]: 0.0158607 風靡
+TOKEN[24]: 0.0152762    1 obey
+	obey WORD[24,   1]: 0.0152762 靡く
+TOKEN[25]: 0.0151929    3 sham
+	sham WORD[25,   1]: 0.0131211 似非者
+	sham WORD[25,   2]: 0.0010359 似而非
+	sham WORD[25,   3]: 0.0010359 似非
+TOKEN[26]: 0.0145249    1 fraud
+	fraud WORD[26,   1]: 0.0145249 似非者
+TOKEN[27]: 0.0135607    1 yield
+	yield WORD[27,   1]: 0.0135607 靡く
+TOKEN[28]: 0.0134018    1 bend
+	bend WORD[28,   1]: 0.0134018 靡く
+TOKEN[29]: 0.0130660    1 counterfeit
+	counterfeit WORD[29,   1]: 0.0130660 似非者
+TOKEN[30]: 0.0128965    1 wave
+	wave WORD[30,   1]: 0.0128965 靡く
+TOKEN[31]: 0.0127614    1 bow
+	bow WORD[31,   1]: 0.0127614 靡く
+TOKEN[32]: 0.0117363    1 world
+	world WORD[32,   1]: 0.0117363 風靡
+TOKEN[33]: 0.0110292    1 decay
+	decay WORD[33,   1]: 0.0110292 萎靡
+TOKEN[34]: 0.0106686    1 one
+	one WORD[34,   1]: 0.0106686 食靠れ
+TOKEN[35]: 0.0099264    1 decline
+	decline WORD[35,   1]: 0.0099264 萎靡
+TOKEN[36]: 0.0054088    1 calumny
+	calumny WORD[36,   1]: 0.0054088 非毀
+TOKEN[37]: 0.0052437    1 libel
+	libel WORD[37,   1]: 0.0052437 非毀
+TOKEN[38]: 0.0050610    1 defamation
+	defamation WORD[38,   1]: 0.0050610 非毀
+TOKEN[39]: 0.0048445    2 inhuman
+	inhuman WORD[39,   1]: 0.0034505 人非人
+	inhuman WORD[39,   2]: 0.0013940 非道
+TOKEN[40]: 0.0046899    1 slander
+	slander WORD[40,   1]: 0.0046899 非毀
+TOKEN[41]: 0.0042563    3 error
+	error WORD[41,   1]: 0.0015659 前非
+	error WORD[41,   2]: 0.0015658 先非
+	error WORD[41,   3]: 0.0011246 非
+TOKEN[42]: 0.0040902    2 untimely
+	untimely WORD[42,   1]: 0.0024346 非命
+	untimely WORD[42,   2]: 0.0016557 非業
+TOKEN[43]: 0.0038308    2 misdeed
+	misdeed WORD[43,   1]: 0.0019154 前非
+	misdeed WORD[43,   2]: 0.0019154 先非
+TOKEN[44]: 0.0037341    2 unnatural
+	unnatural WORD[44,   1]: 0.0022226 非命
+	unnatural WORD[44,   2]: 0.0015115 非業
+TOKEN[45]: 0.0036876    1 fiend
+	fiend WORD[45,   1]: 0.0036876 人非人
+TOKEN[46]: 0.0036049    2 judicial
+	judicial WORD[46,   1]: 0.0019252 非違
+	judicial WORD[46,   2]: 0.0016797 検非違使
+TOKEN[47]: 0.0035104    2 sin
+	sin WORD[47,   1]: 0.0017552 前非
+	sin WORD[47,   2]: 0.0017552 先非
+TOKEN[48]: 0.0031975    1 brute
+	brute WORD[48,   1]: 0.0031975 人非人
+TOKEN[49]: 0.0031139    1 beast
+	beast WORD[49,   1]: 0.0031139 人非人
+TOKEN[50]: 0.0029903    2 police
+	police WORD[50,   1]: 0.0015970 非違
+	police WORD[50,   2]: 0.0013933 検非違使
+TOKEN[51]: 0.0029796    2 unjust
+	unjust WORD[51,   1]: 0.0014898 非道
+	unjust WORD[51,   2]: 0.0014898 非道い
+TOKEN[52]: 0.0029690    1 nonaqueous
+	nonaqueous WORD[52,   1]: 0.0029690 非水
+TOKEN[53]: 0.0028412    2 chief
+	chief WORD[53,   1]: 0.0015173 非違
+	chief WORD[53,   2]: 0.0013238 検非違使
+TOKEN[54]: 0.0028325    2 unreasonable
+	unreasonable WORD[54,   1]: 0.0016714 非理
+	unreasonable WORD[54,   2]: 0.0011611 非道い
+TOKEN[55]: 0.0028266    1 war
+	war WORD[55,   1]: 0.0028266 非戦
+TOKEN[56]: 0.0027965    2 past
+	past WORD[56,   1]: 0.0013983 前非
+	past WORD[56,   2]: 0.0013982 先非
+TOKEN[57]: 0.0027896    2 pretended
+	pretended WORD[57,   1]: 0.0013948 似而非
+	pretended WORD[57,   2]: 0.0013948 似非
+TOKEN[58]: 0.0025458    2 wrong
+	wrong WORD[58,   1]: 0.0016382 理非
+	wrong WORD[58,   2]: 0.0009076 是非
+TOKEN[59]: 0.0025123    2 remarkable
+	remarkable WORD[59,   1]: 0.0012593 非凡
+	remarkable WORD[59,   2]: 0.0012530 非常
+TOKEN[60]: 0.0024749    2 censure
+	censure WORD[60,   1]: 0.0012411 非難
+	censure WORD[60,   2]: 0.0012338 非議
+TOKEN[61]: 0.0023945    1 powerless
+	powerless WORD[61,   1]: 0.0023945 非力
+TOKEN[62]: 0.0023831    2 cruel
+	cruel WORD[62,   1]: 0.0011939 非道い
+	cruel WORD[62,   2]: 0.0011892 非情
+TOKEN[63]: 0.0023811    1 illegality
+	illegality WORD[63,   1]: 0.0023811 非違
+TOKEN[64]: 0.0023751    2 terrible
+	terrible WORD[64,   1]: 0.0011899 非道い
+	terrible WORD[64,   2]: 0.0011852 非常
+TOKEN[65]: 0.0023535    2 extraordinary
+	extraordinary WORD[65,   1]: 0.0011797 非凡
+	extraordinary WORD[65,   2]: 0.0011738 非常
+TOKEN[66]: 0.0023400    1 inordinate
+	inordinate WORD[66,   1]: 0.0023400 非望
+TOKEN[67]: 0.0022972    2 bad
+	bad WORD[67,   1]: 0.0013527 非運
+	bad WORD[67,   2]: 0.0009445 非道い
+TOKEN[68]: 0.0022483    2 unusual
+	unusual WORD[68,   1]: 0.0011269 非凡
+	unusual WORD[68,   2]: 0.0011214 非常
+TOKEN[69]: 0.0022384    1 impoliteness
+	impoliteness WORD[69,   1]: 0.0022384 非礼
+TOKEN[70]: 0.0022263    1 incapacity
+	incapacity WORD[70,   1]: 0.0022263 非才
+TOKEN[71]: 0.0021604    2 extreme
+	extreme WORD[71,   1]: 0.0010824 非道い
+	extreme WORD[71,   2]: 0.0010781 非常
+TOKEN[72]: 0.0021590    2 criticism
+	criticism WORD[72,   1]: 0.0010827 非難
+	criticism WORD[72,   2]: 0.0010763 非議
+TOKEN[73]: 0.0021540    2 mock
+	mock WORD[73,   1]: 0.0010770 似而非
+	mock WORD[73,   2]: 0.0010770 似非
+TOKEN[74]: 0.0021445    1 incompetent
+	incompetent WORD[74,   1]: 0.0021445 非力
+TOKEN[75]: 0.0021445    1 illogical
+	illogical WORD[75,   1]: 0.0021445 非理
+TOKEN[76]: 0.0021345    1 incompetence
+	incompetence WORD[76,   1]: 0.0021345 非才
+TOKEN[77]: 0.0021090    2 severe
+	severe WORD[77,   1]: 0.0010566 非道い
+	severe WORD[77,   2]: 0.0010524 非常
+TOKEN[78]: 0.0020742    2 death
+	death WORD[78,   1]: 0.0012346 非命
+	death WORD[78,   2]: 0.0008396 非業
+TOKEN[79]: 0.0020539    1 renunciation
+	renunciation WORD[79,   1]: 0.0020539 非戦
+TOKEN[80]: 0.0020401    1 caste
+	caste WORD[80,   1]: 0.0020401 非人
+TOKEN[81]: 0.0020066    1 helpless
+	helpless WORD[81,   1]: 0.0020066 非力
+TOKEN[82]: 0.0019510    1 employed
+	employed WORD[82,   1]: 0.0019510 非職
+TOKEN[83]: 0.0018406    1 ambition
+	ambition WORD[83,   1]: 0.0018406 非望
+TOKEN[84]: 0.0017663    2 false
+	false WORD[84,   1]: 0.0008831 似而非
+	false WORD[84,   2]: 0.0008831 似非
+TOKEN[85]: 0.0017660    1 insensate
+	insensate WORD[85,   1]: 0.0017660 非情
+TOKEN[86]: 0.0017554    1 unmarried
+	unmarried WORD[86,   1]: 0.0017554 非婚
+TOKEN[87]: 0.0016782    1 choice
+	choice WORD[87,   1]: 0.0016782 非婚
+TOKEN[88]: 0.0016726    1 misfortune
+	misfortune WORD[88,   1]: 0.0016726 非運
+TOKEN[89]: 0.0016415    1 disadvantageous
+	disadvantageous WORD[89,   1]: 0.0016415 非
+TOKEN[90]: 0.0016411    1 lack
+	lack WORD[90,   1]: 0.0016411 非才
+TOKEN[91]: 0.0016331    1 person
+	person WORD[91,   1]: 0.0016331 人非人
+TOKEN[92]: 0.0016009    1 prodigious
+	prodigious WORD[92,   1]: 0.0016009 非凡
+TOKEN[93]: 0.0015930    1 insentient
+	insentient WORD[93,   1]: 0.0015930 非情
+TOKEN[94]: 0.0015918    1 delinquency
+	delinquency WORD[94,   1]: 0.0015918 非行
+TOKEN[95]: 0.0015539    1 exorbitant
+	exorbitant WORD[95,   1]: 0.0015539 非道い
+TOKEN[96]: 0.0015477    1 unfeeling
+	unfeeling WORD[96,   1]: 0.0015477 非情
+TOKEN[97]: 0.0015477    1 callous
+	callous WORD[97,   1]: 0.0015477 非情
+TOKEN[98]: 0.0015413    1 duty
+	duty WORD[98,   1]: 0.0015413 非番
+TOKEN[99]: 0.0015115    1 misconduct
+	misconduct WORD[99,   1]: 0.0015115 非行
+TOKEN[100]: 0.0014901    1 fortune
+	fortune WORD[100,   1]: 0.0014901 非運
+TOKEN[101]: 0.0014839    1 inanimate
+	inanimate WORD[101,   1]: 0.0014839 非情
+TOKEN[102]: 0.0014741    1 holding
+	holding WORD[102,   1]: 0.0014741 非職
+TOKEN[103]: 0.0014654    1 heartless
+	heartless WORD[103,   1]: 0.0014654 非道い
+TOKEN[104]: 0.0014432    1 ability
+	ability WORD[104,   1]: 0.0014432 非才
+TOKEN[105]: 0.0014253    1 unfavorable
+	unfavorable WORD[105,   1]: 0.0014253 非
+TOKEN[106]: 0.0014071    1 post
+	post WORD[106,   1]: 0.0014071 非職
+TOKEN[107]: 0.0013453    1 reproach
+	reproach WORD[107,   1]: 0.0013453 非難
+TOKEN[108]: 0.0013408    1 system
+	system WORD[108,   1]: 0.0013408 非人
+TOKEN[109]: 0.0013348    1 unfair
+	unfair WORD[109,   1]: 0.0013348 非道い
+TOKEN[110]: 0.0013265    1 uncommon
+	uncommon WORD[110,   1]: 0.0013265 非凡
+TOKEN[111]: 0.0013220    1 group
+	group WORD[111,   1]: 0.0013220 非人
+TOKEN[112]: 0.0013161    1 outrageous
+	outrageous WORD[112,   1]: 0.0013161 非道い
+TOKEN[113]: 0.0013069    1 rank
+	rank WORD[113,   1]: 0.0013069 非人
+TOKEN[114]: 0.0012995    1 awful
+	awful WORD[114,   1]: 0.0012995 非道い
+TOKEN[115]: 0.0012414    1 emergency
+	emergency WORD[115,   1]: 0.0012414 非常
+TOKEN[116]: 0.0012340    1 Japan
+	Japan WORD[116,   1]: 0.0012340 非人
+TOKEN[117]: 0.0011864    1 blame
+	blame WORD[117,   1]: 0.0011864 非難
+TOKEN[118]: 0.0011785    1 harsh
+	harsh WORD[118,   1]: 0.0011785 非道い
+TOKEN[119]: 0.0011579    1 intense
+	intense WORD[119,   1]: 0.0011579 非道い
+TOKEN[120]: 0.0011396    1 violent
+	violent WORD[120,   1]: 0.0011396 非道い
+TOKEN[121]: 0.0011259    1 excessive
+	excessive WORD[121,   1]: 0.0011259 非道い
+TOKEN[122]: 0.0011192    1 rare
+	rare WORD[122,   1]: 0.0011192 非凡
+TOKEN[123]: 0.0010870    1 fault
+	fault WORD[123,   1]: 0.0010870 非
+TOKEN[124]: 0.0010393    1 mistake
+	mistake WORD[124,   1]: 0.0010393 非
+TOKEN[125]: 0.0010189    1 much
+	much WORD[125,   1]: 0.0010189 非道く
+TOKEN[126]: 0.0010051    1 attack
+	attack WORD[126,   1]: 0.0010051 非難
+TOKEN[127]: 0.0009641    1 strong
+	strong WORD[127,   1]: 0.0009641 非道い
+TOKEN[128]: 0.0009579    1 fail
+	fail WORD[128,   1]: 0.0009579 是非
+TOKEN[129]: 0.0009453    1 hard
+	hard WORD[129,   1]: 0.0009453 非道い
+TOKEN[130]: 0.0008437    1 great
+	great WORD[130,   1]: 0.0008437 非常
+TOKEN[131]: 0.0008167    1 going
+	going WORD[131,   1]: 0.0008167 非

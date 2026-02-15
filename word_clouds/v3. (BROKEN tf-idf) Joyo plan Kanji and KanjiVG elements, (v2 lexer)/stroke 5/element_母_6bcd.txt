@@ -1,0 +1,835 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0741276    5 strawberry     : 莓, 苺畑, 蛇苺, 苺, 野苺
+0.0603200    3 thumb          : 拇指, 拇印, 母指
+0.0455493    2 kindergarten   : 保姆, 保母
+0.0408282    2 teacher        : 保姆, 保母
+0.0392605    2 pollex         : 拇指, 母指
+0.0392184    2 worker         : 保姆, 保母
+0.0328500    3 Fragaria       : 莓, 野苺, 苺
+0.0317745    2 guidance       : 訓誨, 教誨
+0.0309704    3 Rubus          : 梶苺, 冬苺, 木苺
+0.0298563    1 Pseudotsuga    : 栂椹
+0.0295665    3 raspberry      : 梶苺, 冬苺, 木苺
+0.0287806    1 explaining     : 訓誨
+0.0279989    1 Douglas        : 栂椹
+0.0265510    3 giving         : 訓誨, 教誨, 母体
+0.0257976    1 print          : 拇印
+0.0257334    2 x              : 莓, 苺
+0.0247725    1 fir            : 栂椹
+0.0201428    2 garden         : 莓, 苺
+0.0180459   39 mother         : 母液, 亡母, 母父, 尊母, 母樹, 実母, 母刀自, 養母, 母熊, 母ザル, ...
+0.0176910    1 japonica       : 栂椹
+0.0156891    3 species        : 梶苺, 冬苺, 栂
+0.0126382    3 last           : 晦, 大晦, 晦日
+0.0121704    2 Japanese       : 栂椹, 栂
+0.0111216    3 day            : 晦, 大晦, 晦日
+0.0102095    1 admonishment   : 教誨
+0.0100344    1 exhortation    : 教誨
+0.0100035    2 Eve            : 大晦, 大晦日
+0.0098863    1 chaplain       : 教誨
+0.0082589    2 month          : 晦, 晦日
+0.0082128    1 dissemble      : 晦ます
+0.0079421    1 scolding       : 教誨
+0.0079090    1 equivocal      : 晦渋
+0.0070003    1 abscond        : 晦ます
+0.0068776    1 ambiguous      : 晦渋
+0.0064199    1 obscure        : 晦渋
+0.0062271    1 patch          : 苺畑
+0.0058427    1 conceal        : 晦ます
+0.0056542    1 deceive        : 晦ます
+0.0055683    1 darkness       : 晦冥
+0.0055053    1 hide           : 晦ます
+0.0051496    1 incognito      : 韜晦
+0.0051325    1 fool           : 晦ます
+0.0047109    1 field          : 苺畑
+0.0044181    1 breastfeeding  : 完母
+0.0042201    1 strict         : 韜晦
+0.0040850    1 year           : 大晦
+0.0038003    1 status         : 韜晦
+0.0036331    1 liquor         : 母液
+0.0032045    1 exclusive      : 完母
+0.0029591    4 base           : 母材, 母岩, 母胎, 母体
+0.0028698    1 rock           : 母岩
+0.0027638    1 Duchesnea      : 蛇苺
+0.0026425    1 Phyllodoce     : 栂桜
+0.0026425    1 heath          : 栂桜
+0.0025761    5 parent         : 母材, 母岩, 母体, 母胎, 母語
+0.0025663    1 godmother      : 教母
+0.0023378    7 one            : 韜晦, 生母, 母国, 母衣, 継父母, 愚母, 実母
+0.0022509    1 metal          : 母材
+0.0021812    1 mock           : 蛇苺
+0.0021185    1 sponsor        : 教母
+0.0017896    1 false          : 蛇苺
+0.0015737    1 religious      : 教母
+0.0015016    1 welding        : 母材
+0.0014506    2 deceased       : 亡母, 王母
+0.0014244    2 adoptive       : 養父母, 養母
+0.0014041    1 mountain       : 栂桜
+0.0013707    1 tree           : 母樹
+0.0013687    1 genus          : 木苺
+0.0012755    2 yeast          : 酒母, 酵母
+0.0012715    1 plant          : 木苺
+0.0012510    4 maternal       : 母権, 母系, 母物, 母方
+0.0012473    1 Synodontidae   : 狗母魚
+0.0012113    1 Tsuga          : 栂
+0.0012055    2 father         : 母父, 父母
+0.0011948    2 monkey         : 母ザル, 母猿
+0.0011921    1 planet         : 母星
+0.0011307    1 wild           : 野苺
+0.0011299    1 construction   : 母材
+0.0011218    1 material       : 母材
+0.0010741    1 hemlock        : 栂
+0.0010557    1 fritillary     : 貝母
+0.0010557    1 Fritillaria    : 貝母
+0.0010187    1 conifer        : 栂
+0.0009685    1 nettle         : 赤水母
+0.0009601    2 grandmother    : 王母, 祖母
+0.0009416    1 aurelia        : 水水母
+0.0009416    1 Aurelia        : 水水母
+0.0009204    2 native         : 栂, 母語
+0.0009160    2 manor          : 母家, 母屋
+0.0009020    1 seed           : 母樹
+0.0008834    1 cow            : 母牛
+0.0008690    2 empress        : 国母, 母后
+0.0008457    3 roof           : 母屋, 入り母屋, 入母屋
+0.0008361    3 family         : 狗母魚, 母系, 母方
+0.0008178    1 Ctenophora     : 櫛水母
+0.0007932    3 home           : 母星, 母港, 母国
+0.0007693    1 southern       : 栂
+0.0007401    1 gangue         : 母岩
+0.0007144    1 northern       : 赤水母
+0.0007128    2 central        : 母家, 母屋
+0.0007094    2 dowager        : 母后, 国母
+0.0007046    1 purlin         : 母屋
+0.0007025    2 grandaunt      : 大伯母, 大叔母
+0.0006780    1 generating     : 母線
+0.0006701    1 nevus          : 母斑
+0.0006471    1 phylum         : 櫛水母
+0.0006459    2 ship           : 母船, 母艦
+0.0006438    1 comb           : 櫛水母
+0.0006285    1 toe            : 母趾
+0.0006284    1 birthmark      : 母斑
+0.0006117    2 main           : 母家, 母屋
+0.0005994    2 building       : 母家, 母屋
+0.0005905    2 country        : 母岩, 母国
+0.0005861    1 sea            : 赤水母
+0.0005826    2 hipped         : 入り母屋, 入母屋
+0.0005820    2 room           : 母家, 母屋
+0.0005798    1 host           : 母岩
+0.0005657    1 starter        : 酒母
+0.0005571    2 line           : 母線, 母系
+0.0005509    3 birth          : 生母, 母体, 実母
+0.0005497    1 fish           : 狗母魚
+0.0005486    1 mash           : 酒母
+0.0005406    1 structural     : 母屋
+0.0005383    1 statistical    : 母数
+0.0005305    1 bear           : 母熊
+0.0005178    1 beam           : 母屋
+0.0005145    2 foster         : 養母, 義母
+0.0005143    1 architecture   : 母屋
+0.0005136    1 pearl          : 母貝
+0.0005136    1 oyster         : 母貝
+0.0005052    1 parameter      : 母数
+0.0004975    1 Japan          : 栂
+0.0004961    1 cloth          : 母衣
+0.0004948    1 animal         : 櫛水母
+0.0004853    2 matrix         : 母型, 字母
+0.0004821    4 Chinese        : 西王母, 声母, 字母, 韻母
+0.0004647    2 body           : 母体, 母胎
+0.0004584    1 bird           : 母鳥
+0.0004570    2 biological     : 生母, 実母
+0.0004547    1 wall           : 母岩
+0.0004515    1 housemother    : 寮母
+0.0004428    1 bus            : 母線
+0.0004357    1 hallex         : 母趾
+0.0004356    1 dorm           : 寮母
+0.0004286    2 basis          : 母胎, 母体
+0.0004237    1 awning         : 母衣
+0.0004110    2 printing       : 母型, 字母
+0.0003923    2 aunt           : 伯母, 叔母
+0.0003915    1 convertible    : 母衣
+0.0003836    1 traditional    : 母屋
+0.0003819    1 canvas         : 母衣
+0.0003651    1 canopy         : 母衣
+0.0003633    1 stepmother     : 継母
+0.0003610    2 side           : 母系, 母方
+0.0003600    1 hood           : 母衣
+0.0003515    1 cape           : 母衣
+0.0003510    1 affectionate   : 慈母
+0.0003509    2 syllable       : 声母, 韻母
+0.0003490    1 depot          : 母船
+0.0003310    1 mica           : 雲母
+0.0003259    2 initial        : 声母, 字母
+0.0003253    1 isinglass      : 雲母
+0.0003252    1 helmet         : 母衣
+0.0003216    1 motherhood     : 母性
+0.0003214    1 thumbprint     : 母印
+0.0003182    1 Mary           : 聖母
+0.0003117    1 protect        : 母衣
+0.0002947    1 language       : 母語
+0.0002946    1 uterus         : 母胎
+0.0002924    1 port           : 母港
+0.0002878    1 covering       : 母衣
+0.0002852    1 alma           : 母校
+0.0002838    1 holy           : 聖母
+0.0002777    1 womb           : 母胎
+0.0002773    1 goddess        : 西王母
+0.0002639    1 homeland       : 母国
+0.0002639    1 mater          : 母校
+0.0002617    2 old            : 老母, 小母
+0.0002611    1 denominator    : 分母
+0.0002567    1 battle         : 母衣
+0.0002550    1 back           : 母衣
+0.0002469    1 character      : 字母
+0.0002464    1 mutual         : 頼母子
+0.0002463    1 carrier        : 空母
+0.0002447    1 association    : 頼母子
+0.0002444    1 big            : 母趾
+0.0002396    1 wise           : 賢母
+0.0002378    1 aircraft       : 空母
+0.0002370    1 maternity      : 母性
+0.0002358    1 aged           : 老母
+0.0002333    1 top            : 母衣
+0.0002322    1 nucleus        : 母体
+0.0002312    1 uncle          : 母方
+0.0002307    2 part           : 声母, 韻母
+0.0002259    1 vowel          : 母音
+0.0002259    1 story          : 母物
+0.0002245    1 hopeful        : 頼母しい
+0.0002240    1 grandfather    : 母方
+0.0002219    1 reassuring     : 頼母しい
+0.0002175    1 dependable     : 頼母しい
+0.0002173    1 love           : 母物
+0.0002168    1 pregnant       : 母体
+0.0002157    1 syllabic       : 字母
+0.0002151    1 pram           : 乳母車
+0.0002151    1 perambulator   : 乳母車
+0.0002106    1 great          : 母趾
+0.0002092    1 trustworthy    : 頼母しい
+0.0002076    1 ancient        : 西王母
+0.0001977    1 reliable       : 頼母しい
+0.0001943    1 alphabet       : 字母
+0.0001930    1 milk           : 母乳
+0.0001925    1 daughter       : 母娘
+0.0001895    1 promising      : 頼母しい
+0.0001894    1 tongue         : 母語
+0.0001867    1 jellyfish      : 水母
+0.0001859    1 used           : 母衣
+0.0001817    1 house          : 母家
+0.0001789    1 organization   : 母体
+0.0001756    1 consonant      : 字母
+0.0001748    1 representative : 字母
+0.0001592    1 nurse          : 乳母
+0.0001558    1 nursing        : 乳母
+0.0001454    1 real           : 実母
+0.0001444    1 carriage       : 乳母車
+0.0001444    1 lady           : 小母
+0.0001420    1 child          : 母子
+0.0001405    1 person         : 聖母
+0.0001396    1 wet            : 乳母
+0.0001374    1 step           : 義母
+0.0001356    1 natural        : 実母
+0.0001351    1 letter         : 字母
+0.0001295    1 final          : 韻母
+0.0001267    1 baby           : 乳母車
+0.0001250    1 type           : 字母
+0.0001183    1 different      : 異母
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0741276    5 strawberry
+	strawberry WORD[ 1,   1]: 0.0514053 莓
+	strawberry WORD[ 1,   2]: 0.0140593 苺畑
+	strawberry WORD[ 1,   3]: 0.0047814 蛇苺
+	strawberry WORD[ 1,   4]: 0.0023377 苺
+	strawberry WORD[ 1,   5]: 0.0015439 野苺
+TOKEN[ 2]: 0.0603200    3 thumb
+	thumb WORD[ 2,   1]: 0.0301489 拇指
+	thumb WORD[ 2,   2]: 0.0300064 拇印
+	thumb WORD[ 2,   3]: 0.0001648 母指
+TOKEN[ 3]: 0.0455493    2 kindergarten
+	kindergarten WORD[ 3,   1]: 0.0453332 保姆
+	kindergarten WORD[ 3,   2]: 0.0002161 保母
+TOKEN[ 4]: 0.0408282    2 teacher
+	teacher WORD[ 4,   1]: 0.0406345 保姆
+	teacher WORD[ 4,   2]: 0.0001937 保母
+TOKEN[ 5]: 0.0392605    2 pollex
+	pollex WORD[ 5,   1]: 0.0390471 拇指
+	pollex WORD[ 5,   2]: 0.0002134 母指
+TOKEN[ 6]: 0.0392184    2 worker
+	worker WORD[ 6,   1]: 0.0390323 保姆
+	worker WORD[ 6,   2]: 0.0001861 保母
+TOKEN[ 7]: 0.0328500    3 Fragaria
+	Fragaria WORD[ 7,   1]: 0.0297139 莓
+	Fragaria WORD[ 7,   2]: 0.0017848 野苺
+	Fragaria WORD[ 7,   3]: 0.0013513 苺
+TOKEN[ 8]: 0.0317745    2 guidance
+	guidance WORD[ 8,   1]: 0.0239189 訓誨
+	guidance WORD[ 8,   2]: 0.0078556 教誨
+TOKEN[ 9]: 0.0309704    3 Rubus
+	Rubus WORD[ 9,   1]: 0.0136841 梶苺
+	Rubus WORD[ 9,   2]: 0.0132827 冬苺
+	Rubus WORD[ 9,   3]: 0.0040037 木苺
+TOKEN[10]: 0.0298563    1 Pseudotsuga
+	Pseudotsuga WORD[10,   1]: 0.0298563 栂椹
+TOKEN[11]: 0.0295665    3 raspberry
+	raspberry WORD[11,   1]: 0.0139665 梶苺
+	raspberry WORD[11,   2]: 0.0135569 冬苺
+	raspberry WORD[11,   3]: 0.0020431 木苺
+TOKEN[12]: 0.0287806    1 explaining
+	explaining WORD[12,   1]: 0.0287806 訓誨
+TOKEN[13]: 0.0279989    1 Douglas
+	Douglas WORD[13,   1]: 0.0279989 栂椹
+TOKEN[14]: 0.0265510    3 giving
+	giving WORD[14,   1]: 0.0198526 訓誨
+	giving WORD[14,   2]: 0.0065201 教誨
+	giving WORD[14,   3]: 0.0001784 母体
+TOKEN[15]: 0.0257976    1 print
+	print WORD[15,   1]: 0.0257976 拇印
+TOKEN[16]: 0.0257334    2 x
+	x WORD[16,   1]: 0.0246141 莓
+	x WORD[16,   2]: 0.0011193 苺
+TOKEN[17]: 0.0247725    1 fir
+	fir WORD[17,   1]: 0.0247725 栂椹
+TOKEN[18]: 0.0201428    2 garden
+	garden WORD[18,   1]: 0.0192667 莓
+	garden WORD[18,   2]: 0.0008762 苺
+TOKEN[19]: 0.0180459   39 mother
+	mother WORD[19,   1]: 0.0031661 母液
+	mother WORD[19,   2]: 0.0014222 亡母
+	mother WORD[19,   3]: 0.0010009 母父
+	mother WORD[19,   4]: 0.0009953 尊母
+	mother WORD[19,   5]: 0.0008377 母樹
+	mother WORD[19,   6]: 0.0006079 実母
+	mother WORD[19,   7]: 0.0005572 母刀自
+	mother WORD[19,   8]: 0.0005555 養母
+	mother WORD[19,   9]: 0.0005544 母熊
+	mother WORD[19,  10]: 0.0005468 母ザル
+	mother WORD[19,  11]: 0.0005468 母猿
+	mother WORD[19,  12]: 0.0005124 母星
+	mother WORD[19,  13]: 0.0004997 母鳥
+	mother WORD[19,  14]: 0.0004881 母岩
+	mother WORD[19,  15]: 0.0004779 生母
+	mother WORD[19,  16]: 0.0004091 老母
+	mother WORD[19,  17]: 0.0002869 義母
+	mother WORD[19,  18]: 0.0002799 寮母
+	mother WORD[19,  19]: 0.0002760 慈母
+	mother WORD[19,  20]: 0.0002703 母船
+	mother WORD[19,  21]: 0.0002700 母系
+	mother WORD[19,  22]: 0.0002675 母堂
+	mother WORD[19,  23]: 0.0002603 母者
+	mother WORD[19,  24]: 0.0002462 同母
+	mother WORD[19,  25]: 0.0002389 聖母
+	mother WORD[19,  26]: 0.0002267 賢母
+	mother WORD[19,  27]: 0.0002231 愚母
+	mother WORD[19,  28]: 0.0001881 母乳
+	mother WORD[19,  29]: 0.0001881 母体
+	mother WORD[19,  30]: 0.0001881 母語
+	mother WORD[19,  31]: 0.0001880 母艦
+	mother WORD[19,  32]: 0.0001770 母娘
+	mother WORD[19,  33]: 0.0001770 母子
+	mother WORD[19,  34]: 0.0001770 母方
+	mother WORD[19,  35]: 0.0001770 母親
+	mother WORD[19,  36]: 0.0001596 父母
+	mother WORD[19,  37]: 0.0001375 母
+	mother WORD[19,  38]: 0.0001333 乳母
+	mother WORD[19,  39]: 0.0001315 異母
+TOKEN[20]: 0.0176910    1 japonica
+	japonica WORD[20,   1]: 0.0176910 栂椹
+TOKEN[21]: 0.0156891    3 species
+	species WORD[21,   1]: 0.0076956 梶苺
+	species WORD[21,   2]: 0.0074699 冬苺
+	species WORD[21,   3]: 0.0005235 栂
+TOKEN[22]: 0.0126382    3 last
+	last WORD[22,   1]: 0.0047173 晦
+	last WORD[22,   2]: 0.0042079 大晦
+	last WORD[22,   3]: 0.0037130 晦日
+TOKEN[23]: 0.0121704    2 Japanese
+	Japanese WORD[23,   1]: 0.0117370 栂椹
+	Japanese WORD[23,   2]: 0.0004334 栂
+TOKEN[24]: 0.0111216    3 day
+	day WORD[24,   1]: 0.0041512 晦
+	day WORD[24,   2]: 0.0037029 大晦
+	day WORD[24,   3]: 0.0032675 晦日
+TOKEN[25]: 0.0102095    1 admonishment
+	admonishment WORD[25,   1]: 0.0102095 教誨
+TOKEN[26]: 0.0100344    1 exhortation
+	exhortation WORD[26,   1]: 0.0100344 教誨
+TOKEN[27]: 0.0100035    2 Eve
+	Eve WORD[27,   1]: 0.0061789 大晦
+	Eve WORD[27,   2]: 0.0038246 大晦日
+TOKEN[28]: 0.0098863    1 chaplain
+	chaplain WORD[28,   1]: 0.0098863 教誨
+TOKEN[29]: 0.0082589    2 month
+	month WORD[29,   1]: 0.0046214 晦
+	month WORD[29,   2]: 0.0036375 晦日
+TOKEN[30]: 0.0082128    1 dissemble
+	dissemble WORD[30,   1]: 0.0082128 晦ます
+TOKEN[31]: 0.0079421    1 scolding
+	scolding WORD[31,   1]: 0.0079421 教誨
+TOKEN[32]: 0.0079090    1 equivocal
+	equivocal WORD[32,   1]: 0.0079090 晦渋
+TOKEN[33]: 0.0070003    1 abscond
+	abscond WORD[33,   1]: 0.0070003 晦ます
+TOKEN[34]: 0.0068776    1 ambiguous
+	ambiguous WORD[34,   1]: 0.0068776 晦渋
+TOKEN[35]: 0.0064199    1 obscure
+	obscure WORD[35,   1]: 0.0064199 晦渋
+TOKEN[36]: 0.0062271    1 patch
+	patch WORD[36,   1]: 0.0062271 苺畑
+TOKEN[37]: 0.0058427    1 conceal
+	conceal WORD[37,   1]: 0.0058427 晦ます
+TOKEN[38]: 0.0056542    1 deceive
+	deceive WORD[38,   1]: 0.0056542 晦ます
+TOKEN[39]: 0.0055683    1 darkness
+	darkness WORD[39,   1]: 0.0055683 晦冥
+TOKEN[40]: 0.0055053    1 hide
+	hide WORD[40,   1]: 0.0055053 晦ます
+TOKEN[41]: 0.0051496    1 incognito
+	incognito WORD[41,   1]: 0.0051496 韜晦
+TOKEN[42]: 0.0051325    1 fool
+	fool WORD[42,   1]: 0.0051325 晦ます
+TOKEN[43]: 0.0047109    1 field
+	field WORD[43,   1]: 0.0047109 苺畑
+TOKEN[44]: 0.0044181    1 breastfeeding
+	breastfeeding WORD[44,   1]: 0.0044181 完母
+TOKEN[45]: 0.0042201    1 strict
+	strict WORD[45,   1]: 0.0042201 韜晦
+TOKEN[46]: 0.0040850    1 year
+	year WORD[46,   1]: 0.0040850 大晦
+TOKEN[47]: 0.0038003    1 status
+	status WORD[47,   1]: 0.0038003 韜晦
+TOKEN[48]: 0.0036331    1 liquor
+	liquor WORD[48,   1]: 0.0036331 母液
+TOKEN[49]: 0.0032045    1 exclusive
+	exclusive WORD[49,   1]: 0.0032045 完母
+TOKEN[50]: 0.0029591    4 base
+	base WORD[50,   1]: 0.0021516 母材
+	base WORD[50,   2]: 0.0004448 母岩
+	base WORD[50,   3]: 0.0001913 母胎
+	base WORD[50,   4]: 0.0001714 母体
+TOKEN[51]: 0.0028698    1 rock
+	rock WORD[51,   1]: 0.0028698 母岩
+TOKEN[52]: 0.0027638    1 Duchesnea
+	Duchesnea WORD[52,   1]: 0.0027638 蛇苺
+TOKEN[53]: 0.0026425    1 Phyllodoce
+	Phyllodoce WORD[53,   1]: 0.0026425 栂桜
+TOKEN[54]: 0.0026425    1 heath
+	heath WORD[54,   1]: 0.0026425 栂桜
+TOKEN[55]: 0.0025761    5 parent
+	parent WORD[55,   1]: 0.0012450 母材
+	parent WORD[55,   2]: 0.0005147 母岩
+	parent WORD[55,   3]: 0.0003967 母体
+	parent WORD[55,   4]: 0.0002214 母胎
+	parent WORD[55,   5]: 0.0001983 母語
+TOKEN[56]: 0.0025663    1 godmother
+	godmother WORD[56,   1]: 0.0025663 教母
+TOKEN[57]: 0.0023378    7 one
+	one WORD[57,   1]: 0.0016002 韜晦
+	one WORD[57,   2]: 0.0002042 生母
+	one WORD[57,   3]: 0.0001607 母国
+	one WORD[57,   4]: 0.0001163 母衣
+	one WORD[57,   5]: 0.0000962 継父母
+	one WORD[57,   6]: 0.0000953 愚母
+	one WORD[57,   7]: 0.0000649 実母
+TOKEN[58]: 0.0022509    1 metal
+	metal WORD[58,   1]: 0.0022509 母材
+TOKEN[59]: 0.0021812    1 mock
+	mock WORD[59,   1]: 0.0021812 蛇苺
+TOKEN[60]: 0.0021185    1 sponsor
+	sponsor WORD[60,   1]: 0.0021185 教母
+TOKEN[61]: 0.0017896    1 false
+	false WORD[61,   1]: 0.0017896 蛇苺
+TOKEN[62]: 0.0015737    1 religious
+	religious WORD[62,   1]: 0.0015737 教母
+TOKEN[63]: 0.0015016    1 welding
+	welding WORD[63,   1]: 0.0015016 母材
+TOKEN[64]: 0.0014506    2 deceased
+	deceased WORD[64,   1]: 0.0007689 亡母
+	deceased WORD[64,   2]: 0.0006818 王母
+TOKEN[65]: 0.0014244    2 adoptive
+	adoptive WORD[65,   1]: 0.0010250 養父母
+	adoptive WORD[65,   2]: 0.0003994 養母
+TOKEN[66]: 0.0014041    1 mountain
+	mountain WORD[66,   1]: 0.0014041 栂桜
+TOKEN[67]: 0.0013707    1 tree
+	tree WORD[67,   1]: 0.0013707 母樹
+TOKEN[68]: 0.0013687    1 genus
+	genus WORD[68,   1]: 0.0013687 木苺
+TOKEN[69]: 0.0012755    2 yeast
+	yeast WORD[69,   1]: 0.0010242 酒母
+	yeast WORD[69,   2]: 0.0002514 酵母
+TOKEN[70]: 0.0012715    1 plant
+	plant WORD[70,   1]: 0.0012715 木苺
+TOKEN[71]: 0.0012510    4 maternal
+	maternal WORD[71,   1]: 0.0003468 母権
+	maternal WORD[71,   2]: 0.0003468 母系
+	maternal WORD[71,   3]: 0.0003301 母物
+	maternal WORD[71,   4]: 0.0002274 母方
+TOKEN[72]: 0.0012473    1 Synodontidae
+	Synodontidae WORD[72,   1]: 0.0012473 狗母魚
+TOKEN[73]: 0.0012113    1 Tsuga
+	Tsuga WORD[73,   1]: 0.0012113 栂
+TOKEN[74]: 0.0012055    2 father
+	father WORD[74,   1]: 0.0010397 母父
+	father WORD[74,   2]: 0.0001657 父母
+TOKEN[75]: 0.0011948    2 monkey
+	monkey WORD[75,   1]: 0.0005974 母ザル
+	monkey WORD[75,   2]: 0.0005974 母猿
+TOKEN[76]: 0.0011921    1 planet
+	planet WORD[76,   1]: 0.0011921 母星
+TOKEN[77]: 0.0011307    1 wild
+	wild WORD[77,   1]: 0.0011307 野苺
+TOKEN[78]: 0.0011299    1 construction
+	construction WORD[78,   1]: 0.0011299 母材
+TOKEN[79]: 0.0011218    1 material
+	material WORD[79,   1]: 0.0011218 母材
+TOKEN[80]: 0.0010741    1 hemlock
+	hemlock WORD[80,   1]: 0.0010741 栂
+TOKEN[81]: 0.0010557    1 fritillary
+	fritillary WORD[81,   1]: 0.0010557 貝母
+TOKEN[82]: 0.0010557    1 Fritillaria
+	Fritillaria WORD[82,   1]: 0.0010557 貝母
+TOKEN[83]: 0.0010187    1 conifer
+	conifer WORD[83,   1]: 0.0010187 栂
+TOKEN[84]: 0.0009685    1 nettle
+	nettle WORD[84,   1]: 0.0009685 赤水母
+TOKEN[85]: 0.0009601    2 grandmother
+	grandmother WORD[85,   1]: 0.0007701 王母
+	grandmother WORD[85,   2]: 0.0001899 祖母
+TOKEN[86]: 0.0009416    1 aurelia
+	aurelia WORD[86,   1]: 0.0009416 水水母
+TOKEN[87]: 0.0009416    1 Aurelia
+	Aurelia WORD[87,   1]: 0.0009416 水水母
+TOKEN[88]: 0.0009204    2 native
+	native WORD[88,   1]: 0.0007273 栂
+	native WORD[88,   2]: 0.0001931 母語
+TOKEN[89]: 0.0009160    2 manor
+	manor WORD[89,   1]: 0.0003053 母家
+	manor WORD[89,   2]: 0.0003053 母屋
+TOKEN[90]: 0.0009020    1 seed
+	seed WORD[90,   1]: 0.0009020 母樹
+TOKEN[91]: 0.0008834    1 cow
+	cow WORD[91,   1]: 0.0008834 母牛
+TOKEN[92]: 0.0008690    2 empress
+	empress WORD[92,   1]: 0.0005474 国母
+	empress WORD[92,   2]: 0.0003216 母后
+TOKEN[93]: 0.0008457    3 roof
+	roof WORD[93,   1]: 0.0002202 母屋
+	roof WORD[93,   2]: 0.0002026 入り母屋
+	roof WORD[93,   3]: 0.0002026 入母屋
+TOKEN[94]: 0.0008361    3 family
+	family WORD[94,   1]: 0.0005185 狗母魚
+	family WORD[94,   2]: 0.0001919 母系
+	family WORD[94,   3]: 0.0001258 母方
+TOKEN[95]: 0.0008178    1 Ctenophora
+	Ctenophora WORD[95,   1]: 0.0008178 櫛水母
+TOKEN[96]: 0.0007932    3 home
+	home WORD[96,   1]: 0.0004188 母星
+	home WORD[96,   2]: 0.0002207 母港
+	home WORD[96,   3]: 0.0001537 母国
+TOKEN[97]: 0.0007693    1 southern
+	southern WORD[97,   1]: 0.0007693 栂
+TOKEN[98]: 0.0007401    1 gangue
+	gangue WORD[98,   1]: 0.0007401 母岩
+TOKEN[99]: 0.0007144    1 northern
+	northern WORD[99,   1]: 0.0007144 赤水母
+TOKEN[100]: 0.0007128    2 central
+	central WORD[100,   1]: 0.0002376 母家
+	central WORD[100,   2]: 0.0002376 母屋
+TOKEN[101]: 0.0007094    2 dowager
+	dowager WORD[101,   1]: 0.0003832 母后
+	dowager WORD[101,   2]: 0.0003261 国母
+TOKEN[102]: 0.0007046    1 purlin
+	purlin WORD[102,   1]: 0.0003523 母屋
+TOKEN[103]: 0.0007025    2 grandaunt
+	grandaunt WORD[103,   1]: 0.0003513 大伯母
+	grandaunt WORD[103,   2]: 0.0003513 大叔母
+TOKEN[104]: 0.0006780    1 generating
+	generating WORD[104,   1]: 0.0006780 母線
+TOKEN[105]: 0.0006701    1 nevus
+	nevus WORD[105,   1]: 0.0006701 母斑
+TOKEN[106]: 0.0006471    1 phylum
+	phylum WORD[106,   1]: 0.0006471 櫛水母
+TOKEN[107]: 0.0006459    2 ship
+	ship WORD[107,   1]: 0.0004792 母船
+	ship WORD[107,   2]: 0.0001667 母艦
+TOKEN[108]: 0.0006438    1 comb
+	comb WORD[108,   1]: 0.0006438 櫛水母
+TOKEN[109]: 0.0006285    1 toe
+	toe WORD[109,   1]: 0.0006285 母趾
+TOKEN[110]: 0.0006284    1 birthmark
+	birthmark WORD[110,   1]: 0.0006284 母斑
+TOKEN[111]: 0.0006117    2 main
+	main WORD[111,   1]: 0.0002039 母家
+	main WORD[111,   2]: 0.0002039 母屋
+TOKEN[112]: 0.0005994    2 building
+	building WORD[112,   1]: 0.0001998 母家
+	building WORD[112,   2]: 0.0001998 母屋
+TOKEN[113]: 0.0005905    2 country
+	country WORD[113,   1]: 0.0004263 母岩
+	country WORD[113,   2]: 0.0001642 母国
+TOKEN[114]: 0.0005861    1 sea
+	sea WORD[114,   1]: 0.0005861 赤水母
+TOKEN[115]: 0.0005826    2 hipped
+	hipped WORD[115,   1]: 0.0002913 入り母屋
+	hipped WORD[115,   2]: 0.0002913 入母屋
+TOKEN[116]: 0.0005820    2 room
+	room WORD[116,   1]: 0.0001940 母家
+	room WORD[116,   2]: 0.0001940 母屋
+TOKEN[117]: 0.0005798    1 host
+	host WORD[117,   1]: 0.0005798 母岩
+TOKEN[118]: 0.0005657    1 starter
+	starter WORD[118,   1]: 0.0005657 酒母
+TOKEN[119]: 0.0005571    2 line
+	line WORD[119,   1]: 0.0003440 母線
+	line WORD[119,   2]: 0.0002132 母系
+TOKEN[120]: 0.0005509    3 birth
+	birth WORD[120,   1]: 0.0002273 生母
+	birth WORD[120,   2]: 0.0001789 母体
+	birth WORD[120,   3]: 0.0001446 実母
+TOKEN[121]: 0.0005497    1 fish
+	fish WORD[121,   1]: 0.0005497 狗母魚
+TOKEN[122]: 0.0005486    1 mash
+	mash WORD[122,   1]: 0.0005486 酒母
+TOKEN[123]: 0.0005406    1 structural
+	structural WORD[123,   1]: 0.0002703 母屋
+TOKEN[124]: 0.0005383    1 statistical
+	statistical WORD[124,   1]: 0.0005383 母数
+TOKEN[125]: 0.0005305    1 bear
+	bear WORD[125,   1]: 0.0005305 母熊
+TOKEN[126]: 0.0005178    1 beam
+	beam WORD[126,   1]: 0.0002589 母屋
+TOKEN[127]: 0.0005145    2 foster
+	foster WORD[127,   1]: 0.0003393 養母
+	foster WORD[127,   2]: 0.0001752 義母
+TOKEN[128]: 0.0005143    1 architecture
+	architecture WORD[128,   1]: 0.0002571 母屋
+TOKEN[129]: 0.0005136    1 pearl
+	pearl WORD[129,   1]: 0.0005136 母貝
+TOKEN[130]: 0.0005136    1 oyster
+	oyster WORD[130,   1]: 0.0005136 母貝
+TOKEN[131]: 0.0005052    1 parameter
+	parameter WORD[131,   1]: 0.0005052 母数
+TOKEN[132]: 0.0004975    1 Japan
+	Japan WORD[132,   1]: 0.0004975 栂
+TOKEN[133]: 0.0004961    1 cloth
+	cloth WORD[133,   1]: 0.0004961 母衣
+TOKEN[134]: 0.0004948    1 animal
+	animal WORD[134,   1]: 0.0004948 櫛水母
+TOKEN[135]: 0.0004853    2 matrix
+	matrix WORD[135,   1]: 0.0003105 母型
+	matrix WORD[135,   2]: 0.0001748 字母
+TOKEN[136]: 0.0004821    4 Chinese
+	Chinese WORD[136,   1]: 0.0001695 西王母
+	Chinese WORD[136,   2]: 0.0001101 声母
+	Chinese WORD[136,   3]: 0.0001084 字母
+	Chinese WORD[136,   4]: 0.0000941 韻母
+TOKEN[137]: 0.0004647    2 body
+	body WORD[137,   1]: 0.0002982 母体
+	body WORD[137,   2]: 0.0001665 母胎
+TOKEN[138]: 0.0004584    1 bird
+	bird WORD[138,   1]: 0.0004584 母鳥
+TOKEN[139]: 0.0004570    2 biological
+	biological WORD[139,   1]: 0.0002793 生母
+	biological WORD[139,   2]: 0.0001777 実母
+TOKEN[140]: 0.0004547    1 wall
+	wall WORD[140,   1]: 0.0004547 母岩
+TOKEN[141]: 0.0004515    1 housemother
+	housemother WORD[141,   1]: 0.0004515 寮母
+TOKEN[142]: 0.0004428    1 bus
+	bus WORD[142,   1]: 0.0004428 母線
+TOKEN[143]: 0.0004357    1 hallex
+	hallex WORD[143,   1]: 0.0004357 母趾
+TOKEN[144]: 0.0004356    1 dorm
+	dorm WORD[144,   1]: 0.0004356 寮母
+TOKEN[145]: 0.0004286    2 basis
+	basis WORD[145,   1]: 0.0002261 母胎
+	basis WORD[145,   2]: 0.0002025 母体
+TOKEN[146]: 0.0004237    1 awning
+	awning WORD[146,   1]: 0.0004237 母衣
+TOKEN[147]: 0.0004110    2 printing
+	printing WORD[147,   1]: 0.0002629 母型
+	printing WORD[147,   2]: 0.0001480 字母
+TOKEN[148]: 0.0003923    2 aunt
+	aunt WORD[148,   1]: 0.0001962 伯母
+	aunt WORD[148,   2]: 0.0001962 叔母
+TOKEN[149]: 0.0003915    1 convertible
+	convertible WORD[149,   1]: 0.0003915 母衣
+TOKEN[150]: 0.0003836    1 traditional
+	traditional WORD[150,   1]: 0.0001918 母屋
+TOKEN[151]: 0.0003819    1 canvas
+	canvas WORD[151,   1]: 0.0003819 母衣
+TOKEN[152]: 0.0003651    1 canopy
+	canopy WORD[152,   1]: 0.0003651 母衣
+TOKEN[153]: 0.0003633    1 stepmother
+	stepmother WORD[153,   1]: 0.0003633 継母
+TOKEN[154]: 0.0003610    2 side
+	side WORD[154,   1]: 0.0002181 母系
+	side WORD[154,   2]: 0.0001429 母方
+TOKEN[155]: 0.0003600    1 hood
+	hood WORD[155,   1]: 0.0003600 母衣
+TOKEN[156]: 0.0003515    1 cape
+	cape WORD[156,   1]: 0.0003515 母衣
+TOKEN[157]: 0.0003510    1 affectionate
+	affectionate WORD[157,   1]: 0.0003510 慈母
+TOKEN[158]: 0.0003509    2 syllable
+	syllable WORD[158,   1]: 0.0001892 声母
+	syllable WORD[158,   2]: 0.0001617 韻母
+TOKEN[159]: 0.0003490    1 depot
+	depot WORD[159,   1]: 0.0003490 母船
+TOKEN[160]: 0.0003310    1 mica
+	mica WORD[160,   1]: 0.0003310 雲母
+TOKEN[161]: 0.0003259    2 initial
+	initial WORD[161,   1]: 0.0001642 声母
+	initial WORD[161,   2]: 0.0001617 字母
+TOKEN[162]: 0.0003253    1 isinglass
+	isinglass WORD[162,   1]: 0.0003253 雲母
+TOKEN[163]: 0.0003252    1 helmet
+	helmet WORD[163,   1]: 0.0003252 母衣
+TOKEN[164]: 0.0003216    1 motherhood
+	motherhood WORD[164,   1]: 0.0003216 母性
+TOKEN[165]: 0.0003214    1 thumbprint
+	thumbprint WORD[165,   1]: 0.0003214 母印
+TOKEN[166]: 0.0003182    1 Mary
+	Mary WORD[166,   1]: 0.0003182 聖母
+TOKEN[167]: 0.0003117    1 protect
+	protect WORD[167,   1]: 0.0003117 母衣
+TOKEN[168]: 0.0002947    1 language
+	language WORD[168,   1]: 0.0002947 母語
+TOKEN[169]: 0.0002946    1 uterus
+	uterus WORD[169,   1]: 0.0002946 母胎
+TOKEN[170]: 0.0002924    1 port
+	port WORD[170,   1]: 0.0002924 母港
+TOKEN[171]: 0.0002878    1 covering
+	covering WORD[171,   1]: 0.0002878 母衣
+TOKEN[172]: 0.0002852    1 alma
+	alma WORD[172,   1]: 0.0002852 母校
+TOKEN[173]: 0.0002838    1 holy
+	holy WORD[173,   1]: 0.0002838 聖母
+TOKEN[174]: 0.0002777    1 womb
+	womb WORD[174,   1]: 0.0002777 母胎
+TOKEN[175]: 0.0002773    1 goddess
+	goddess WORD[175,   1]: 0.0002773 西王母
+TOKEN[176]: 0.0002639    1 homeland
+	homeland WORD[176,   1]: 0.0002639 母国
+TOKEN[177]: 0.0002639    1 mater
+	mater WORD[177,   1]: 0.0002639 母校
+TOKEN[178]: 0.0002617    2 old
+	old WORD[178,   1]: 0.0001570 老母
+	old WORD[178,   2]: 0.0001047 小母
+TOKEN[179]: 0.0002611    1 denominator
+	denominator WORD[179,   1]: 0.0002611 分母
+TOKEN[180]: 0.0002567    1 battle
+	battle WORD[180,   1]: 0.0002567 母衣
+TOKEN[181]: 0.0002550    1 back
+	back WORD[181,   1]: 0.0002550 母衣
+TOKEN[182]: 0.0002469    1 character
+	character WORD[182,   1]: 0.0002469 字母
+TOKEN[183]: 0.0002464    1 mutual
+	mutual WORD[183,   1]: 0.0002464 頼母子
+TOKEN[184]: 0.0002463    1 carrier
+	carrier WORD[184,   1]: 0.0002463 空母
+TOKEN[185]: 0.0002447    1 association
+	association WORD[185,   1]: 0.0002447 頼母子
+TOKEN[186]: 0.0002444    1 big
+	big WORD[186,   1]: 0.0002444 母趾
+TOKEN[187]: 0.0002396    1 wise
+	wise WORD[187,   1]: 0.0002396 賢母
+TOKEN[188]: 0.0002378    1 aircraft
+	aircraft WORD[188,   1]: 0.0002378 空母
+TOKEN[189]: 0.0002370    1 maternity
+	maternity WORD[189,   1]: 0.0002370 母性
+TOKEN[190]: 0.0002358    1 aged
+	aged WORD[190,   1]: 0.0002358 老母
+TOKEN[191]: 0.0002333    1 top
+	top WORD[191,   1]: 0.0002333 母衣
+TOKEN[192]: 0.0002322    1 nucleus
+	nucleus WORD[192,   1]: 0.0002322 母体
+TOKEN[193]: 0.0002312    1 uncle
+	uncle WORD[193,   1]: 0.0002312 母方
+TOKEN[194]: 0.0002307    2 part
+	part WORD[194,   1]: 0.0001244 声母
+	part WORD[194,   2]: 0.0001063 韻母
+TOKEN[195]: 0.0002259    1 vowel
+	vowel WORD[195,   1]: 0.0002259 母音
+TOKEN[196]: 0.0002259    1 story
+	story WORD[196,   1]: 0.0002259 母物
+TOKEN[197]: 0.0002245    1 hopeful
+	hopeful WORD[197,   1]: 0.0002245 頼母しい
+TOKEN[198]: 0.0002240    1 grandfather
+	grandfather WORD[198,   1]: 0.0002240 母方
+TOKEN[199]: 0.0002219    1 reassuring
+	reassuring WORD[199,   1]: 0.0002219 頼母しい
+TOKEN[200]: 0.0002175    1 dependable
+	dependable WORD[200,   1]: 0.0002175 頼母しい
+TOKEN[201]: 0.0002173    1 love
+	love WORD[201,   1]: 0.0002173 母物
+TOKEN[202]: 0.0002168    1 pregnant
+	pregnant WORD[202,   1]: 0.0002168 母体
+TOKEN[203]: 0.0002157    1 syllabic
+	syllabic WORD[203,   1]: 0.0002157 字母
+TOKEN[204]: 0.0002151    1 pram
+	pram WORD[204,   1]: 0.0002151 乳母車
+TOKEN[205]: 0.0002151    1 perambulator
+	perambulator WORD[205,   1]: 0.0002151 乳母車
+TOKEN[206]: 0.0002106    1 great
+	great WORD[206,   1]: 0.0002106 母趾
+TOKEN[207]: 0.0002092    1 trustworthy
+	trustworthy WORD[207,   1]: 0.0002092 頼母しい
+TOKEN[208]: 0.0002076    1 ancient
+	ancient WORD[208,   1]: 0.0002076 西王母
+TOKEN[209]: 0.0001977    1 reliable
+	reliable WORD[209,   1]: 0.0001977 頼母しい
+TOKEN[210]: 0.0001943    1 alphabet
+	alphabet WORD[210,   1]: 0.0001943 字母
+TOKEN[211]: 0.0001930    1 milk
+	milk WORD[211,   1]: 0.0001930 母乳
+TOKEN[212]: 0.0001925    1 daughter
+	daughter WORD[212,   1]: 0.0001925 母娘
+TOKEN[213]: 0.0001895    1 promising
+	promising WORD[213,   1]: 0.0001895 頼母しい
+TOKEN[214]: 0.0001894    1 tongue
+	tongue WORD[214,   1]: 0.0001894 母語
+TOKEN[215]: 0.0001867    1 jellyfish
+	jellyfish WORD[215,   1]: 0.0001867 水母
+TOKEN[216]: 0.0001859    1 used
+	used WORD[216,   1]: 0.0001859 母衣
+TOKEN[217]: 0.0001817    1 house
+	house WORD[217,   1]: 0.0001817 母家
+TOKEN[218]: 0.0001789    1 organization
+	organization WORD[218,   1]: 0.0001789 母体
+TOKEN[219]: 0.0001756    1 consonant
+	consonant WORD[219,   1]: 0.0001756 字母
+TOKEN[220]: 0.0001748    1 representative
+	representative WORD[220,   1]: 0.0001748 字母
+TOKEN[221]: 0.0001592    1 nurse
+	nurse WORD[221,   1]: 0.0001592 乳母
+TOKEN[222]: 0.0001558    1 nursing
+	nursing WORD[222,   1]: 0.0001558 乳母
+TOKEN[223]: 0.0001454    1 real
+	real WORD[223,   1]: 0.0001454 実母
+TOKEN[224]: 0.0001444    1 carriage
+	carriage WORD[224,   1]: 0.0001444 乳母車
+TOKEN[225]: 0.0001444    1 lady
+	lady WORD[225,   1]: 0.0001444 小母
+TOKEN[226]: 0.0001420    1 child
+	child WORD[226,   1]: 0.0001420 母子
+TOKEN[227]: 0.0001405    1 person
+	person WORD[227,   1]: 0.0001405 聖母
+TOKEN[228]: 0.0001396    1 wet
+	wet WORD[228,   1]: 0.0001396 乳母
+TOKEN[229]: 0.0001374    1 step
+	step WORD[229,   1]: 0.0001374 義母
+TOKEN[230]: 0.0001356    1 natural
+	natural WORD[230,   1]: 0.0001356 実母
+TOKEN[231]: 0.0001351    1 letter
+	letter WORD[231,   1]: 0.0001351 字母
+TOKEN[232]: 0.0001295    1 final
+	final WORD[232,   1]: 0.0001295 韻母
+TOKEN[233]: 0.0001267    1 baby
+	baby WORD[233,   1]: 0.0001267 乳母車
+TOKEN[234]: 0.0001250    1 type
+	type WORD[234,   1]: 0.0001250 字母
+TOKEN[235]: 0.0001183    1 different
+	different WORD[235,   1]: 0.0001183 異母

@@ -1,0 +1,617 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.6143949    1 oil            : 米油
+0.0839259   69 rice           : 有り米, すし米, 赤米, 掛米, 炒り米, 煎り米, 陳米, 洗米, 生米, 黒米, ...
+0.0292559   13 American       : 米銀, 米貨, 米誌, 米側, 米なす, 米茄子, 米式, 米紙, 米材, 米兵, ...
+0.0270393    3 stocks         : 有り米, 米株, 在米
+0.0132863   18 America        : 帰米, 米独, ラ米, 対米, 亜米利加, 北米, 米仏, 米中, 米州, 米国, ...
+0.0093908    2 eggplant       : 米なす, 米茄子
+0.0086911    4 meter          : 米突, 米, 立米, 平米
+0.0058403    1 dollar         : 米貨
+0.0051985    1 excise         : 上米
+0.0050730    2 used           : すし米, 掛米
+0.0048274    2 globe          : 米なす, 米茄子
+0.0046987    1 cedar          : 米杉
+0.0041919    1 currency       : 米貨
+0.0041888    1 commission     : 上米
+0.0040645    2 red            : 米杉, 赤米
+0.0039691    1 banking        : 米銀
+0.0038488    2 uncooked       : 生米, 白米
+0.0036078    1 tax            : 上米
+0.0034019    1 sector         : 米銀
+0.0032663    4 crushed        : 小米, 粉米, くず米, 屑米
+0.0032201    2 gauge          : 米突, 米
+0.0031461    3 polished       : 搗き米, 白米, 精米
+0.0030845    1 nisei          : 帰米
+0.0030845    1 kibei          : 帰米
+0.0030775    1 vermicelli     : 米粉
+0.0029372    2 old            : 陳米, 古米
+0.0027824    1 schooling      : 帰米
+0.0027119    2 length         : 米突, 米
+0.0027072    1 envoy          : 遣米
+0.0026863    2 sake           : 純米, 掛米
+0.0026631    2 unit           : 米突, 米
+0.0025211    1 variety        : 赤米
+0.0025171    1 bank           : 米銀
+0.0024352    2 vinegar        : 米酢, 純米
+0.0024012    1 prior          : 帰米
+0.0023787    3 tiny           : 小米, 粉米, 金米糖
+0.0023056    1 sending        : 遣米
+0.0022345    1 sent           : 帰米
+0.0021087    2 dealer         : 米問屋, 米屋
+0.0019990    2 unmilled       : 黒米, 玄米
+0.0019980    1 born           : 帰米
+0.0019491    1 husked         : お米
+0.0019217    4 South          : 米韓, 南米, 中南米, 韓米
+0.0018964    2 Japan          : 帰米, 日米
+0.0018646    3 glutinous      : もち米, 糯米, 餅米
+0.0018167    2 foreign        : 赤米, 外米
+0.0017768    1 law            : 英米法
+0.0017699    1 imperialism    : 米帝
+0.0017315    2 granary        : 米蔵, 米倉
+0.0017057    1 bought         : 掛米
+0.0016766    1 brewer         : 酒米
+0.0016710    1 Pseudotsuga    : 米松
+0.0016710    1 Douglas        : 米松
+0.0016452    1 wholesale      : 米問屋
+0.0016440    1 cracker        : 米菓
+0.0016175    2 breadwinner    : 米びつ, 米櫃
+0.0016026    2 consecrated    : 饌米, 洗米
+0.0015681    2 bin            : 米びつ, 米櫃
+0.0015617    2 unpolished     : 黒米, 玄米
+0.0015571    2 bag            : 米俵, 米袋
+0.0015510    3 crop           : 米収, 米作, 新米
+0.0015089    1 washed         : 洗米
+0.0014966    1 fir            : 米松
+0.0014942    1 journal        : 米誌
+0.0014719    1 sold           : 掛米
+0.0014673    1 Latin          : ラ米
+0.0014412    1 unrefined      : 掛米
+0.0013713    1 rent           : 掛米
+0.0013306    1 style          : 米式
+0.0013302    2 bran           : 米ぬか, 米糠
+0.0013292    2 brown          : 黒米, 玄米
+0.0013147    1 produce        : 掛米
+0.0013095    1 square         : 平米
+0.0012422    1 due            : 赤米
+0.0012117    2 offering       : 饌米, 洗米
+0.0011944    1 magazine       : 米誌
+0.0011867    1 exchange       : 掛米
+0.0011433    2 black          : 黒米, 玄米
+0.0011368    2 Russia         : 米ロ, 米露
+0.0011247    2 region         : 米どころ, 米所
+0.0011157    1 age            : 赤米
+0.0011036    1 Canadian       : 米材
+0.0010996    1 ancient        : 赤米
+0.0010761    2 harvest        : 米収, 古米
+0.0010651    2 Britain        : 米英, 英米
+0.0010401    1 god            : 供米
+0.0010380    1 money          : 米銭
+0.0010354    1 centered       : 米食
+0.0009997    2 broken         : くず米, 屑米
+0.0009904    1 cubic          : 立米
+0.0009291    1 common         : 米松
+0.0008915    2 mass           : 米州, 亜米利加
+0.0007958    1 yeast          : 純米
+0.0007909    1 diet           : 米食
+0.0007707    1 Price          : 米審
+0.0007376    2 normal         : うるち米, 粳米
+0.0007231    1 serviceman     : 米兵
+0.0007149    1 purchase       : 米銭
+0.0006929    1 production     : 米産
+0.0006741    1 washing        : 洗米
+0.0006635    2 opposed        : うるち米, 粳米
+0.0006601    1 delegation     : 米側
+0.0006577    2 land           : 米州, 亜米利加
+0.0006384    1 salt           : 米塩
+0.0006266    2 year           : 新米, 古米
+0.0006265    1 new            : 新米
+0.0006087    1 wood           : 米材
+0.0006000    1 armed          : 米軍
+0.0005942    1 pure           : 純米
+0.0005894    1 corn           : 米麦
+0.0005760    1 English        : 米語
+0.0005583    1 European       : 米欧
+0.0005553    1 birthday       : 米寿
+0.0005496    1 radical        : 米偏
+0.0005319    1 asterisk       : 米印
+0.0005272    1 life           : 米塩
+0.0005245    1 barley         : 米麦
+0.0005186    1 newcomer       : 新米
+0.0005083    1 left           : 米偏
+0.0005045    1 beginner       : 新米
+0.0004979    1 Korean         : 米朝
+0.0004966    1 newspaper      : 米紙
+0.0004929    1 soldier        : 米兵
+0.0004880    1 punctuation    : 米印
+0.0004798    1 novice         : 新米
+0.0004784    1 shop           : 米屋
+0.0004713    1 charity        : 施米
+0.0004662    1 resident       : 駐米
+0.0004631    1 made           : 純米
+0.0004529    1 press          : 米紙
+0.0004516    1 candy          : 金米糖
+0.0004402    1 visit          : 訪米
+0.0004349    1 usage          : 米印
+0.0004194    1 water          : 純米
+0.0004177    1 cultivation    : 米作り
+0.0004160    1 fist           : 米利堅
+0.0004095    1 price          : 米価
+0.0004073    1 farming        : 米作り
+0.0003811    1 position       : 米側
+0.0003788    1 sugar          : 金米糖
+0.0003780    1 covered        : 金米糖
+0.0003738    1 previous       : 古米
+0.0003734    1 given          : 施米
+0.0003733    1 similar        : 米印
+0.0003694    1 white          : 白米
+0.0003678    1 grain          : 米粒
+0.0003665    1 side           : 米側
+0.0003380    1 mark           : 米印
+0.0003360    1 first          : 新米
+0.0003209    1 going          : 渡米
+0.0002991    1 hand           : 新米
+0.0002868    1 person         : 米人
+0.0002691    1 small          : 金米糖
+0.0002360    1 Japanese       : 米印
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.6143949    1 oil
+	oil WORD[ 1,   1]: 0.6143949 米油
+TOKEN[ 2]: 0.0839259   69 rice
+	rice WORD[ 2,   1]: 0.0131255 有り米
+	rice WORD[ 2,   2]: 0.0087372 すし米
+	rice WORD[ 2,   3]: 0.0046106 赤米
+	rice WORD[ 2,   4]: 0.0036877 掛米
+	rice WORD[ 2,   5]: 0.0032441 炒り米
+	rice WORD[ 2,   6]: 0.0032440 煎り米
+	rice WORD[ 2,   7]: 0.0025207 陳米
+	rice WORD[ 2,   8]: 0.0018128 洗米
+	rice WORD[ 2,   9]: 0.0016590 生米
+	rice WORD[ 2,  10]: 0.0016319 黒米
+	rice WORD[ 2,  11]: 0.0015021 米粉
+	rice WORD[ 2,  12]: 0.0012904 純米
+	rice WORD[ 2,  13]: 0.0012478 くず米
+	rice WORD[ 2,  14]: 0.0011621 米酢
+	rice WORD[ 2,  15]: 0.0011427 搗き米
+	rice WORD[ 2,  16]: 0.0010603 玄米
+	rice WORD[ 2,  17]: 0.0010159 米問屋
+	rice WORD[ 2,  18]: 0.0009719 米銭
+	rice WORD[ 2,  19]: 0.0008618 酒米
+	rice WORD[ 2,  20]: 0.0008582 お米
+	rice WORD[ 2,  21]: 0.0008568 米こうじ
+	rice WORD[ 2,  22]: 0.0008568 米麹
+	rice WORD[ 2,  23]: 0.0008430 米俵
+	rice WORD[ 2,  24]: 0.0008397 小米
+	rice WORD[ 2,  25]: 0.0008397 粉米
+	rice WORD[ 2,  26]: 0.0007853 屑米
+	rice WORD[ 2,  27]: 0.0007715 米菓
+	rice WORD[ 2,  28]: 0.0007350 米屋
+	rice WORD[ 2,  29]: 0.0007305 うるち米
+	rice WORD[ 2,  30]: 0.0007305 粳米
+	rice WORD[ 2,  31]: 0.0006388 白米
+	rice WORD[ 2,  32]: 0.0005627 施米
+	rice WORD[ 2,  33]: 0.0005618 精米
+	rice WORD[ 2,  34]: 0.0005525 新米
+	rice WORD[ 2,  35]: 0.0005398 米蔵
+	rice WORD[ 2,  36]: 0.0005344 米作り
+	rice WORD[ 2,  37]: 0.0005341 古米
+	rice WORD[ 2,  38]: 0.0005093 糧米
+	rice WORD[ 2,  39]: 0.0005030 地米
+	rice WORD[ 2,  40]: 0.0004860 米飯
+	rice WORD[ 2,  41]: 0.0004859 米収
+	rice WORD[ 2,  42]: 0.0004859 米産
+	rice WORD[ 2,  43]: 0.0004858 米塩
+	rice WORD[ 2,  44]: 0.0004720 飯米
+	rice WORD[ 2,  45]: 0.0004532 饌米
+	rice WORD[ 2,  46]: 0.0004265 外米
+	rice WORD[ 2,  47]: 0.0004238 米偏
+	rice WORD[ 2,  48]: 0.0004238 米びつ
+	rice WORD[ 2,  49]: 0.0004238 米櫃
+	rice WORD[ 2,  50]: 0.0004238 米搗き
+	rice WORD[ 2,  51]: 0.0004068 蔵米
+	rice WORD[ 2,  52]: 0.0004060 供米
+	rice WORD[ 2,  53]: 0.0003796 米ぬか
+	rice WORD[ 2,  54]: 0.0003796 米糠
+	rice WORD[ 2,  55]: 0.0003675 米倉
+	rice WORD[ 2,  56]: 0.0003622 やみ米
+	rice WORD[ 2,  57]: 0.0003622 ヤミ米
+	rice WORD[ 2,  58]: 0.0003622 闇米
+	rice WORD[ 2,  59]: 0.0003578 もち米
+	rice WORD[ 2,  60]: 0.0003578 糯米
+	rice WORD[ 2,  61]: 0.0003578 餅米
+	rice WORD[ 2,  62]: 0.0003393 米麦
+	rice WORD[ 2,  63]: 0.0003393 米作
+	rice WORD[ 2,  64]: 0.0003393 米穀
+	rice WORD[ 2,  65]: 0.0003393 米価
+	rice WORD[ 2,  66]: 0.0002813 節米
+	rice WORD[ 2,  67]: 0.0002714 在米
+	rice WORD[ 2,  68]: 0.0002672 米袋
+	rice WORD[ 2,  69]: 0.0002672 米粒
+TOKEN[ 3]: 0.0292559   13 American
+	American WORD[ 3,   1]: 0.0093021 米銀
+	American WORD[ 3,   2]: 0.0045625 米貨
+	American WORD[ 3,   3]: 0.0027239 米誌
+	American WORD[ 3,   4]: 0.0022594 米側
+	American WORD[ 3,   5]: 0.0022501 米なす
+	American WORD[ 3,   6]: 0.0022501 米茄子
+	American WORD[ 3,   7]: 0.0018829 米式
+	American WORD[ 3,   8]: 0.0011297 米紙
+	American WORD[ 3,   9]: 0.0008088 米材
+	American WORD[ 3,  10]: 0.0005649 米兵
+	American WORD[ 3,  11]: 0.0005649 米人
+	American WORD[ 3,  12]: 0.0005649 米語
+	American WORD[ 3,  13]: 0.0003917 米利堅
+TOKEN[ 4]: 0.0270393    3 stocks
+	stocks WORD[ 4,   1]: 0.0227977 有り米
+	stocks WORD[ 4,   2]: 0.0032987 米株
+	stocks WORD[ 4,   3]: 0.0004714 在米
+TOKEN[ 5]: 0.0132863   18 America
+	America WORD[ 5,   1]: 0.0022607 帰米
+	America WORD[ 5,   2]: 0.0014447 米独
+	America WORD[ 5,   3]: 0.0013012 ラ米
+	America WORD[ 5,   4]: 0.0009445 対米
+	America WORD[ 5,   5]: 0.0007834 亜米利加
+	America WORD[ 5,   6]: 0.0005665 北米
+	America WORD[ 5,   7]: 0.0005649 米仏
+	America WORD[ 5,   8]: 0.0005649 米中
+	America WORD[ 5,   9]: 0.0005649 米州
+	America WORD[ 5,  10]: 0.0005649 米国
+	America WORD[ 5,  11]: 0.0005649 米英
+	America WORD[ 5,  12]: 0.0005177 南米
+	America WORD[ 5,  13]: 0.0004839 中米
+	America WORD[ 5,  14]: 0.0004839 中南米
+	America WORD[ 5,  15]: 0.0004695 全米
+	America WORD[ 5,  16]: 0.0004083 欧米
+	America WORD[ 5,  17]: 0.0004060 英米
+	America WORD[ 5,  18]: 0.0003917 米利堅
+TOKEN[ 6]: 0.0093908    2 eggplant
+	eggplant WORD[ 6,   1]: 0.0046954 米なす
+	eggplant WORD[ 6,   2]: 0.0046954 米茄子
+TOKEN[ 7]: 0.0086911    4 meter
+	meter WORD[ 7,   1]: 0.0030366 米突
+	meter WORD[ 7,   2]: 0.0009646 米
+	meter WORD[ 7,   3]: 0.0009189 立米
+	meter WORD[ 7,   4]: 0.0008773 平米
+TOKEN[ 8]: 0.0058403    1 dollar
+	dollar WORD[ 8,   1]: 0.0058403 米貨
+TOKEN[ 9]: 0.0051985    1 excise
+	excise WORD[ 9,   1]: 0.0025992 上米
+TOKEN[10]: 0.0050730    2 used
+	used WORD[10,   1]: 0.0041890 すし米
+	used WORD[10,   2]: 0.0008840 掛米
+TOKEN[11]: 0.0048274    2 globe
+	globe WORD[11,   1]: 0.0024137 米なす
+	globe WORD[11,   2]: 0.0024137 米茄子
+TOKEN[12]: 0.0046987    1 cedar
+	cedar WORD[12,   1]: 0.0046987 米杉
+TOKEN[13]: 0.0041919    1 currency
+	currency WORD[13,   1]: 0.0041919 米貨
+TOKEN[14]: 0.0041888    1 commission
+	commission WORD[14,   1]: 0.0020944 上米
+TOKEN[15]: 0.0040645    2 red
+	red WORD[15,   1]: 0.0030175 米杉
+	red WORD[15,   2]: 0.0010470 赤米
+TOKEN[16]: 0.0039691    1 banking
+	banking WORD[16,   1]: 0.0039691 米銀
+TOKEN[17]: 0.0038488    2 uncooked
+	uncooked WORD[17,   1]: 0.0032274 生米
+	uncooked WORD[17,   2]: 0.0006213 白米
+TOKEN[18]: 0.0036078    1 tax
+	tax WORD[18,   1]: 0.0018039 上米
+TOKEN[19]: 0.0034019    1 sector
+	sector WORD[19,   1]: 0.0034019 米銀
+TOKEN[20]: 0.0032663    4 crushed
+	crushed WORD[20,   1]: 0.0007079 小米
+	crushed WORD[20,   2]: 0.0007079 粉米
+	crushed WORD[20,   3]: 0.0007013 くず米
+	crushed WORD[20,   4]: 0.0004413 屑米
+TOKEN[21]: 0.0032201    2 gauge
+	gauge WORD[21,   1]: 0.0014182 米突
+	gauge WORD[21,   2]: 0.0004505 米
+TOKEN[22]: 0.0031461    3 polished
+	polished WORD[22,   1]: 0.0020626 搗き米
+	polished WORD[22,   2]: 0.0005765 白米
+	polished WORD[22,   3]: 0.0005070 精米
+TOKEN[23]: 0.0030845    1 nisei
+	nisei WORD[23,   1]: 0.0030845 帰米
+TOKEN[24]: 0.0030845    1 kibei
+	kibei WORD[24,   1]: 0.0030845 帰米
+TOKEN[25]: 0.0030775    1 vermicelli
+	vermicelli WORD[25,   1]: 0.0015387 米粉
+TOKEN[26]: 0.0029372    2 old
+	old WORD[26,   1]: 0.0026559 陳米
+	old WORD[26,   2]: 0.0002814 古米
+TOKEN[27]: 0.0027824    1 schooling
+	schooling WORD[27,   1]: 0.0027824 帰米
+TOKEN[28]: 0.0027119    2 length
+	length WORD[28,   1]: 0.0011943 米突
+	length WORD[28,   2]: 0.0003794 米
+TOKEN[29]: 0.0027072    1 envoy
+	envoy WORD[29,   1]: 0.0027072 遣米
+TOKEN[30]: 0.0026863    2 sake
+	sake WORD[30,   1]: 0.0015668 純米
+	sake WORD[30,   2]: 0.0011194 掛米
+TOKEN[31]: 0.0026631    2 unit
+	unit WORD[31,   1]: 0.0011729 米突
+	unit WORD[31,   2]: 0.0003726 米
+TOKEN[32]: 0.0025211    1 variety
+	variety WORD[32,   1]: 0.0025211 赤米
+TOKEN[33]: 0.0025171    1 bank
+	bank WORD[33,   1]: 0.0025171 米銀
+TOKEN[34]: 0.0024352    2 vinegar
+	vinegar WORD[34,   1]: 0.0017773 米酢
+	vinegar WORD[34,   2]: 0.0006579 純米
+TOKEN[35]: 0.0024012    1 prior
+	prior WORD[35,   1]: 0.0024012 帰米
+TOKEN[36]: 0.0023787    3 tiny
+	tiny WORD[36,   1]: 0.0006538 小米
+	tiny WORD[36,   2]: 0.0006538 粉米
+	tiny WORD[36,   3]: 0.0004171 金米糖
+TOKEN[37]: 0.0023056    1 sending
+	sending WORD[37,   1]: 0.0023056 遣米
+TOKEN[38]: 0.0022345    1 sent
+	sent WORD[38,   1]: 0.0022345 帰米
+TOKEN[39]: 0.0021087    2 dealer
+	dealer WORD[39,   1]: 0.0015485 米問屋
+	dealer WORD[39,   2]: 0.0005602 米屋
+TOKEN[40]: 0.0019990    2 unmilled
+	unmilled WORD[40,   1]: 0.0008694 黒米
+	unmilled WORD[40,   2]: 0.0005648 玄米
+TOKEN[41]: 0.0019980    1 born
+	born WORD[41,   1]: 0.0019980 帰米
+TOKEN[42]: 0.0019491    1 husked
+	husked WORD[42,   1]: 0.0019491 お米
+TOKEN[43]: 0.0019217    4 South
+	South WORD[43,   1]: 0.0005442 米韓
+	South WORD[43,   2]: 0.0004988 南米
+	South WORD[43,   3]: 0.0004662 中南米
+	South WORD[43,   4]: 0.0004124 韓米
+TOKEN[44]: 0.0018964    2 Japan
+	Japan WORD[44,   1]: 0.0015420 帰米
+	Japan WORD[44,   2]: 0.0003543 日米
+TOKEN[45]: 0.0018646    3 glutinous
+	glutinous WORD[45,   1]: 0.0006215 もち米
+	glutinous WORD[45,   2]: 0.0006215 糯米
+	glutinous WORD[45,   3]: 0.0006215 餅米
+TOKEN[46]: 0.0018167    2 foreign
+	foreign WORD[46,   1]: 0.0012422 赤米
+	foreign WORD[46,   2]: 0.0005745 外米
+TOKEN[47]: 0.0017768    1 law
+	law WORD[47,   1]: 0.0017768 英米法
+TOKEN[48]: 0.0017699    1 imperialism
+	imperialism WORD[48,   1]: 0.0017699 米帝
+TOKEN[49]: 0.0017315    2 granary
+	granary WORD[49,   1]: 0.0010302 米蔵
+	granary WORD[49,   2]: 0.0007013 米倉
+TOKEN[50]: 0.0017057    1 bought
+	bought WORD[50,   1]: 0.0017057 掛米
+TOKEN[51]: 0.0016766    1 brewer
+	brewer WORD[51,   1]: 0.0016766 酒米
+TOKEN[52]: 0.0016710    1 Pseudotsuga
+	Pseudotsuga WORD[52,   1]: 0.0016710 米松
+TOKEN[53]: 0.0016710    1 Douglas
+	Douglas WORD[53,   1]: 0.0016710 米松
+TOKEN[54]: 0.0016452    1 wholesale
+	wholesale WORD[54,   1]: 0.0016452 米問屋
+TOKEN[55]: 0.0016440    1 cracker
+	cracker WORD[55,   1]: 0.0016440 米菓
+TOKEN[56]: 0.0016175    2 breadwinner
+	breadwinner WORD[56,   1]: 0.0008087 米びつ
+	breadwinner WORD[56,   2]: 0.0008087 米櫃
+TOKEN[57]: 0.0016026    2 consecrated
+	consecrated WORD[57,   1]: 0.0008013 饌米
+	consecrated WORD[57,   2]: 0.0008013 洗米
+TOKEN[58]: 0.0015681    2 bin
+	bin WORD[58,   1]: 0.0007841 米びつ
+	bin WORD[58,   2]: 0.0007840 米櫃
+TOKEN[59]: 0.0015617    2 unpolished
+	unpolished WORD[59,   1]: 0.0006792 黒米
+	unpolished WORD[59,   2]: 0.0004412 玄米
+TOKEN[60]: 0.0015571    2 bag
+	bag WORD[60,   1]: 0.0011823 米俵
+	bag WORD[60,   2]: 0.0003748 米袋
+TOKEN[61]: 0.0015510    3 crop
+	crop WORD[61,   1]: 0.0006842 米収
+	crop WORD[61,   2]: 0.0004778 米作
+	crop WORD[61,   3]: 0.0003890 新米
+TOKEN[62]: 0.0015089    1 washed
+	washed WORD[62,   1]: 0.0015089 洗米
+TOKEN[63]: 0.0014966    1 fir
+	fir WORD[63,   1]: 0.0014966 米松
+TOKEN[64]: 0.0014942    1 journal
+	journal WORD[64,   1]: 0.0014942 米誌
+TOKEN[65]: 0.0014719    1 sold
+	sold WORD[65,   1]: 0.0014719 掛米
+TOKEN[66]: 0.0014673    1 Latin
+	Latin WORD[66,   1]: 0.0014673 ラ米
+TOKEN[67]: 0.0014412    1 unrefined
+	unrefined WORD[67,   1]: 0.0014412 掛米
+TOKEN[68]: 0.0013713    1 rent
+	rent WORD[68,   1]: 0.0013713 掛米
+TOKEN[69]: 0.0013306    1 style
+	style WORD[69,   1]: 0.0013306 米式
+TOKEN[70]: 0.0013302    2 bran
+	bran WORD[70,   1]: 0.0006651 米ぬか
+	bran WORD[70,   2]: 0.0006651 米糠
+TOKEN[71]: 0.0013292    2 brown
+	brown WORD[71,   1]: 0.0005781 黒米
+	brown WORD[71,   2]: 0.0003756 玄米
+TOKEN[72]: 0.0013147    1 produce
+	produce WORD[72,   1]: 0.0013147 掛米
+TOKEN[73]: 0.0013095    1 square
+	square WORD[73,   1]: 0.0013095 平米
+TOKEN[74]: 0.0012422    1 due
+	due WORD[74,   1]: 0.0012422 赤米
+TOKEN[75]: 0.0012117    2 offering
+	offering WORD[75,   1]: 0.0006058 饌米
+	offering WORD[75,   2]: 0.0006058 洗米
+TOKEN[76]: 0.0011944    1 magazine
+	magazine WORD[76,   1]: 0.0011944 米誌
+TOKEN[77]: 0.0011867    1 exchange
+	exchange WORD[77,   1]: 0.0011867 掛米
+TOKEN[78]: 0.0011433    2 black
+	black WORD[78,   1]: 0.0004972 黒米
+	black WORD[78,   2]: 0.0003230 玄米
+TOKEN[79]: 0.0011368    2 Russia
+	Russia WORD[79,   1]: 0.0005684 米ロ
+	Russia WORD[79,   2]: 0.0005684 米露
+TOKEN[80]: 0.0011247    2 region
+	region WORD[80,   1]: 0.0005623 米どころ
+	region WORD[80,   2]: 0.0005623 米所
+TOKEN[81]: 0.0011157    1 age
+	age WORD[81,   1]: 0.0011157 赤米
+TOKEN[82]: 0.0011036    1 Canadian
+	Canadian WORD[82,   1]: 0.0011036 米材
+TOKEN[83]: 0.0010996    1 ancient
+	ancient WORD[83,   1]: 0.0010996 赤米
+TOKEN[84]: 0.0010761    2 harvest
+	harvest WORD[84,   1]: 0.0006944 米収
+	harvest WORD[84,   2]: 0.0003816 古米
+TOKEN[85]: 0.0010651    2 Britain
+	Britain WORD[85,   1]: 0.0006197 米英
+	Britain WORD[85,   2]: 0.0004454 英米
+TOKEN[86]: 0.0010401    1 god
+	god WORD[86,   1]: 0.0005201 供米
+TOKEN[87]: 0.0010380    1 money
+	money WORD[87,   1]: 0.0010380 米銭
+TOKEN[88]: 0.0010354    1 centered
+	centered WORD[88,   1]: 0.0010354 米食
+TOKEN[89]: 0.0009997    2 broken
+	broken WORD[89,   1]: 0.0006136 くず米
+	broken WORD[89,   2]: 0.0003861 屑米
+TOKEN[90]: 0.0009904    1 cubic
+	cubic WORD[90,   1]: 0.0009904 立米
+TOKEN[91]: 0.0009291    1 common
+	common WORD[91,   1]: 0.0009291 米松
+TOKEN[92]: 0.0008915    2 mass
+	mass WORD[92,   1]: 0.0005264 米州
+	mass WORD[92,   2]: 0.0003650 亜米利加
+TOKEN[93]: 0.0007958    1 yeast
+	yeast WORD[93,   1]: 0.0007958 純米
+TOKEN[94]: 0.0007909    1 diet
+	diet WORD[94,   1]: 0.0007909 米食
+TOKEN[95]: 0.0007707    1 Price
+	Price WORD[95,   1]: 0.0007707 米審
+TOKEN[96]: 0.0007376    2 normal
+	normal WORD[96,   1]: 0.0003688 うるち米
+	normal WORD[96,   2]: 0.0003688 粳米
+TOKEN[97]: 0.0007231    1 serviceman
+	serviceman WORD[97,   1]: 0.0007231 米兵
+TOKEN[98]: 0.0007149    1 purchase
+	purchase WORD[98,   1]: 0.0007149 米銭
+TOKEN[99]: 0.0006929    1 production
+	production WORD[99,   1]: 0.0006929 米産
+TOKEN[100]: 0.0006741    1 washing
+	washing WORD[100,   1]: 0.0006741 洗米
+TOKEN[101]: 0.0006635    2 opposed
+	opposed WORD[101,   1]: 0.0003318 うるち米
+	opposed WORD[101,   2]: 0.0003318 粳米
+TOKEN[102]: 0.0006601    1 delegation
+	delegation WORD[102,   1]: 0.0006601 米側
+TOKEN[103]: 0.0006577    2 land
+	land WORD[103,   1]: 0.0003884 米州
+	land WORD[103,   2]: 0.0002693 亜米利加
+TOKEN[104]: 0.0006384    1 salt
+	salt WORD[104,   1]: 0.0006384 米塩
+TOKEN[105]: 0.0006266    2 year
+	year WORD[105,   1]: 0.0003186 新米
+	year WORD[105,   2]: 0.0003080 古米
+TOKEN[106]: 0.0006265    1 new
+	new WORD[106,   1]: 0.0006265 新米
+TOKEN[107]: 0.0006087    1 wood
+	wood WORD[107,   1]: 0.0006087 米材
+TOKEN[108]: 0.0006000    1 armed
+	armed WORD[108,   1]: 0.0006000 米軍
+TOKEN[109]: 0.0005942    1 pure
+	pure WORD[109,   1]: 0.0005942 純米
+TOKEN[110]: 0.0005894    1 corn
+	corn WORD[110,   1]: 0.0005894 米麦
+TOKEN[111]: 0.0005760    1 English
+	English WORD[111,   1]: 0.0005760 米語
+TOKEN[112]: 0.0005583    1 European
+	European WORD[112,   1]: 0.0005583 米欧
+TOKEN[113]: 0.0005553    1 birthday
+	birthday WORD[113,   1]: 0.0005553 米寿
+TOKEN[114]: 0.0005496    1 radical
+	radical WORD[114,   1]: 0.0005496 米偏
+TOKEN[115]: 0.0005319    1 asterisk
+	asterisk WORD[115,   1]: 0.0005319 米印
+TOKEN[116]: 0.0005272    1 life
+	life WORD[116,   1]: 0.0005272 米塩
+TOKEN[117]: 0.0005245    1 barley
+	barley WORD[117,   1]: 0.0005245 米麦
+TOKEN[118]: 0.0005186    1 newcomer
+	newcomer WORD[118,   1]: 0.0005186 新米
+TOKEN[119]: 0.0005083    1 left
+	left WORD[119,   1]: 0.0005083 米偏
+TOKEN[120]: 0.0005045    1 beginner
+	beginner WORD[120,   1]: 0.0005045 新米
+TOKEN[121]: 0.0004979    1 Korean
+	Korean WORD[121,   1]: 0.0004979 米朝
+TOKEN[122]: 0.0004966    1 newspaper
+	newspaper WORD[122,   1]: 0.0004966 米紙
+TOKEN[123]: 0.0004929    1 soldier
+	soldier WORD[123,   1]: 0.0004929 米兵
+TOKEN[124]: 0.0004880    1 punctuation
+	punctuation WORD[124,   1]: 0.0004880 米印
+TOKEN[125]: 0.0004798    1 novice
+	novice WORD[125,   1]: 0.0004798 新米
+TOKEN[126]: 0.0004784    1 shop
+	shop WORD[126,   1]: 0.0004784 米屋
+TOKEN[127]: 0.0004713    1 charity
+	charity WORD[127,   1]: 0.0004713 施米
+TOKEN[128]: 0.0004662    1 resident
+	resident WORD[128,   1]: 0.0004662 駐米
+TOKEN[129]: 0.0004631    1 made
+	made WORD[129,   1]: 0.0004631 純米
+TOKEN[130]: 0.0004529    1 press
+	press WORD[130,   1]: 0.0004529 米紙
+TOKEN[131]: 0.0004516    1 candy
+	candy WORD[131,   1]: 0.0004516 金米糖
+TOKEN[132]: 0.0004402    1 visit
+	visit WORD[132,   1]: 0.0004402 訪米
+TOKEN[133]: 0.0004349    1 usage
+	usage WORD[133,   1]: 0.0004349 米印
+TOKEN[134]: 0.0004194    1 water
+	water WORD[134,   1]: 0.0004194 純米
+TOKEN[135]: 0.0004177    1 cultivation
+	cultivation WORD[135,   1]: 0.0004177 米作り
+TOKEN[136]: 0.0004160    1 fist
+	fist WORD[136,   1]: 0.0004160 米利堅
+TOKEN[137]: 0.0004095    1 price
+	price WORD[137,   1]: 0.0004095 米価
+TOKEN[138]: 0.0004073    1 farming
+	farming WORD[138,   1]: 0.0004073 米作り
+TOKEN[139]: 0.0003811    1 position
+	position WORD[139,   1]: 0.0003811 米側
+TOKEN[140]: 0.0003788    1 sugar
+	sugar WORD[140,   1]: 0.0003788 金米糖
+TOKEN[141]: 0.0003780    1 covered
+	covered WORD[141,   1]: 0.0003780 金米糖
+TOKEN[142]: 0.0003738    1 previous
+	previous WORD[142,   1]: 0.0003738 古米
+TOKEN[143]: 0.0003734    1 given
+	given WORD[143,   1]: 0.0003734 施米
+TOKEN[144]: 0.0003733    1 similar
+	similar WORD[144,   1]: 0.0003733 米印
+TOKEN[145]: 0.0003694    1 white
+	white WORD[145,   1]: 0.0003694 白米
+TOKEN[146]: 0.0003678    1 grain
+	grain WORD[146,   1]: 0.0003678 米粒
+TOKEN[147]: 0.0003665    1 side
+	side WORD[147,   1]: 0.0003665 米側
+TOKEN[148]: 0.0003380    1 mark
+	mark WORD[148,   1]: 0.0003380 米印
+TOKEN[149]: 0.0003360    1 first
+	first WORD[149,   1]: 0.0003360 新米
+TOKEN[150]: 0.0003209    1 going
+	going WORD[150,   1]: 0.0003209 渡米
+TOKEN[151]: 0.0002991    1 hand
+	hand WORD[151,   1]: 0.0002991 新米
+TOKEN[152]: 0.0002868    1 person
+	person WORD[152,   1]: 0.0002868 米人
+TOKEN[153]: 0.0002691    1 small
+	small WORD[153,   1]: 0.0002691 金米糖
+TOKEN[154]: 0.0002360    1 Japanese
+	Japanese WORD[154,   1]: 0.0002360 米印

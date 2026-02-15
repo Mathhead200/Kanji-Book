@@ -1,0 +1,331 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1238729    1 consecutive    : 連勤
+0.1084955    1 holiday        : 連勤
+0.0953069    4 working        : 連勤, 外勤, 在勤, 勤学
+0.0935362    1 courteous      : 慇懃
+0.0915829    1 intimacy       : 慇懃
+0.0892060    1 days           : 連勤
+0.0868210    1 polite         : 慇懃
+0.0809809    1 friendship     : 慇懃
+0.0786015    1 civil          : 慇懃
+0.0684776    1 sexual         : 慇懃
+0.0065789   14 work           : 出勤, 内勤, 勤怠, 勤惰, 勤める, 勤め先, 勤め帰り, 通勤, 超勤, 退勤, ...
+0.0052705    4 shift          : 昼勤, 夕勤, 夜勤, 日勤
+0.0031043    6 attendance     : 勤怠, 勤惰, 精勤, 出勤, 参勤, 皆勤
+0.0029764    8 service        : 勤行, 勤める, 勤め, 忠勤, 参勤, 勤労, 勤務, 勤続
+0.0029232    4 diligence      : 勤怠, 勤惰, 勤倹, 精勤
+0.0028248    3 serve          : 勤め上げる, 勤める, 参勤
+0.0024418    4 office         : 外勤, 勤め人, 内勤, 出勤
+0.0022589    4 duty           : 勤番, 外勤, 勤め, 勤務
+0.0021303    1 toil           : 勤苦
+0.0020080    1 worker         : 勤め人
+0.0019932    1 hardship       : 勤苦
+0.0018942    2 day            : 昼勤, 日勤
+0.0018725    3 loyalty        : 勤王, 勤皇, 忠勤
+0.0018545    1 evening        : 夕勤
+0.0018450    3 absence        : 勤怠, 勤惰, 欠勤
+0.0016053    2 indolence      : 勤怠, 勤惰
+0.0015184    3 religious      : 勤行, 勤める, 勤め
+0.0014049    3 diligent       : 勤労, 勤勉, 勤しむ
+0.0011720    2 task           : 勤まる, 勤め
+0.0011613    3 leaving        : 退勤, 出退勤, 出勤
+0.0011138    2 employment     : 勤め口, 常勤
+0.0011104    2 role           : 勤まる, 勤める
+0.0010514    2 emperor        : 勤王, 勤皇
+0.0010397    3 one            : 勤め上げる, 勤まる, 参勤
+0.0009959    2 Edo            : 参勤, 勤番
+0.0009903    3 going          : 出退勤, 出勤, 参勤
+0.0009573    1 salaried       : 勤め人
+0.0009291    2 position       : 勤め口, 勤める
+0.0008664    1 frugality      : 勤倹
+0.0008618    1 fulfill        : 勤まる
+0.0008499    1 apprenticeship : 勤め上げる
+0.0008461    1 qualified      : 勤まる
+0.0008455    1 transfer       : 転勤
+0.0008265    1 job            : 転勤
+0.0008188    2 place          : 勤め口, 勤め先
+0.0007997    2 residence      : 参勤, 勤番
+0.0007063    1 outside        : 外勤
+0.0006804    1 equal          : 勤まる
+0.0006726    1 fit            : 勤まる
+0.0006558    1 able           : 勤まる
+0.0006145    1 industrious    : 勤勉
+0.0006045    1 loyal          : 忠勤
+0.0005956    1 commuting      : 通勤
+0.0005908    1 industry       : 勤倹
+0.0005683    1 relocation     : 転勤
+0.0005604    1 exertion       : 勤労
+0.0005583    1 indoor         : 内勤
+0.0005434    1 employed       : 勤める
+0.0005370    1 faithful       : 忠勤
+0.0005337    1 overtime       : 超勤
+0.0005128    1 alternating    : 参勤
+0.0005116    1 desk           : 内勤
+0.0004848    1 conduct        : 勤める
+0.0004755    1 fill           : 勤める
+0.0004581    1 night          : 夜勤
+0.0004538    1 responsibility : 勤め
+0.0004511    1 continuous     : 勤続
+0.0004454    1 time           : 勤め上げる
+0.0004355    1 turns          : 勤番
+0.0004319    1 presence       : 出勤
+0.0004317    1 lord           : 参勤
+0.0004312    1 additional     : 兼勤
+0.0004283    1 devote         : 勤しむ
+0.0003934    1 act            : 勤める
+0.0003906    1 labour         : 勤労
+0.0003869    1 labor          : 勤労
+0.0003839    1 perfect        : 皆勤
+0.0003819    1 Buddhist       : 勤め
+0.0003769    1 play           : 勤める
+0.0003748    1 post           : 兼勤
+0.0003649    1 home           : 勤め帰り
+0.0003593    1 business       : 勤め
+0.0003556    1 official       : 参勤
+0.0003255    1 taking         : 勤番
+0.0003245    1 way            : 勤め帰り
+0.0002943    1 period         : 参勤
+0.0002924    1 good           : 精勤
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1238729    1 consecutive
+	consecutive WORD[ 1,   1]: 0.1238729 連勤
+TOKEN[ 2]: 0.1084955    1 holiday
+	holiday WORD[ 2,   1]: 0.1084955 連勤
+TOKEN[ 3]: 0.0953069    4 working
+	working WORD[ 3,   1]: 0.0934052 連勤
+	working WORD[ 3,   2]: 0.0011697 外勤
+	working WORD[ 3,   3]: 0.0003732 在勤
+	working WORD[ 3,   4]: 0.0003588 勤学
+TOKEN[ 4]: 0.0935362    1 courteous
+	courteous WORD[ 4,   1]: 0.0935362 慇懃
+TOKEN[ 5]: 0.0915829    1 intimacy
+	intimacy WORD[ 5,   1]: 0.0915829 慇懃
+TOKEN[ 6]: 0.0892060    1 days
+	days WORD[ 6,   1]: 0.0892060 連勤
+TOKEN[ 7]: 0.0868210    1 polite
+	polite WORD[ 7,   1]: 0.0868210 慇懃
+TOKEN[ 8]: 0.0809809    1 friendship
+	friendship WORD[ 8,   1]: 0.0809809 慇懃
+TOKEN[ 9]: 0.0786015    1 civil
+	civil WORD[ 9,   1]: 0.0786015 慇懃
+TOKEN[10]: 0.0684776    1 sexual
+	sexual WORD[10,   1]: 0.0684776 慇懃
+TOKEN[11]: 0.0065789   14 work
+	work WORD[11,   1]: 0.0015295 出勤
+	work WORD[11,   2]: 0.0010254 内勤
+	work WORD[11,   3]: 0.0004597 勤怠
+	work WORD[11,   4]: 0.0004597 勤惰
+	work WORD[11,   5]: 0.0003284 勤める
+	work WORD[11,   6]: 0.0003284 勤め先
+	work WORD[11,   7]: 0.0003284 勤め帰り
+	work WORD[11,   8]: 0.0003242 通勤
+	work WORD[11,   9]: 0.0003236 超勤
+	work WORD[11,  10]: 0.0003156 退勤
+	work WORD[11,  11]: 0.0003059 出退勤
+	work WORD[11,  12]: 0.0002943 欠勤
+	work WORD[11,  13]: 0.0002905 勤務
+	work WORD[11,  14]: 0.0002653 勤しむ
+TOKEN[12]: 0.0052705    4 shift
+	shift WORD[12,   1]: 0.0021833 昼勤
+	shift WORD[12,   2]: 0.0020132 夕勤
+	shift WORD[12,   3]: 0.0005755 夜勤
+	shift WORD[12,   4]: 0.0004985 日勤
+TOKEN[13]: 0.0031043    6 attendance
+	attendance WORD[13,   1]: 0.0006737 勤怠
+	attendance WORD[13,   2]: 0.0006737 勤惰
+	attendance WORD[13,   3]: 0.0004579 精勤
+	attendance WORD[13,   4]: 0.0004483 出勤
+	attendance WORD[13,   5]: 0.0004425 参勤
+	attendance WORD[13,   6]: 0.0004083 皆勤
+TOKEN[14]: 0.0029764    8 service
+	service WORD[14,   1]: 0.0005356 勤行
+	service WORD[14,   2]: 0.0003722 勤める
+	service WORD[14,   3]: 0.0003722 勤め
+	service WORD[14,   4]: 0.0003666 忠勤
+	service WORD[14,   5]: 0.0003422 参勤
+	service WORD[14,   6]: 0.0003292 勤労
+	service WORD[14,   7]: 0.0003292 勤務
+	service WORD[14,   8]: 0.0003292 勤続
+TOKEN[15]: 0.0029232    4 diligence
+	diligence WORD[15,   1]: 0.0007947 勤怠
+	diligence WORD[15,   2]: 0.0007947 勤惰
+	diligence WORD[15,   3]: 0.0007938 勤倹
+	diligence WORD[15,   4]: 0.0005401 精勤
+TOKEN[16]: 0.0028248    3 serve
+	serve WORD[16,   1]: 0.0014367 勤め上げる
+	serve WORD[16,   2]: 0.0009510 勤める
+	serve WORD[16,   3]: 0.0004371 参勤
+TOKEN[17]: 0.0024418    4 office
+	office WORD[17,   1]: 0.0011058 外勤
+	office WORD[17,   2]: 0.0005795 勤め人
+	office WORD[17,   3]: 0.0003992 内勤
+	office WORD[17,   4]: 0.0003573 出勤
+TOKEN[18]: 0.0022589    4 duty
+	duty WORD[18,   1]: 0.0007843 勤番
+	duty WORD[18,   2]: 0.0006391 外勤
+	duty WORD[18,   3]: 0.0004433 勤め
+	duty WORD[18,   4]: 0.0003921 勤務
+TOKEN[19]: 0.0021303    1 toil
+	toil WORD[19,   1]: 0.0021303 勤苦
+TOKEN[20]: 0.0020080    1 worker
+	worker WORD[20,   1]: 0.0020080 勤め人
+TOKEN[21]: 0.0019932    1 hardship
+	hardship WORD[21,   1]: 0.0019932 勤苦
+TOKEN[22]: 0.0018942    2 day
+	day WORD[22,   1]: 0.0015421 昼勤
+	day WORD[22,   2]: 0.0003521 日勤
+TOKEN[23]: 0.0018725    3 loyalty
+	loyalty WORD[23,   1]: 0.0006766 勤王
+	loyalty WORD[23,   2]: 0.0006766 勤皇
+	loyalty WORD[23,   3]: 0.0005194 忠勤
+TOKEN[24]: 0.0018545    1 evening
+	evening WORD[24,   1]: 0.0018545 夕勤
+TOKEN[25]: 0.0018450    3 absence
+	absence WORD[25,   1]: 0.0006988 勤怠
+	absence WORD[25,   2]: 0.0006988 勤惰
+	absence WORD[25,   3]: 0.0004474 欠勤
+TOKEN[26]: 0.0016053    2 indolence
+	indolence WORD[26,   1]: 0.0008026 勤怠
+	indolence WORD[26,   2]: 0.0008026 勤惰
+TOKEN[27]: 0.0015184    3 religious
+	religious WORD[27,   1]: 0.0006353 勤行
+	religious WORD[27,   2]: 0.0004416 勤める
+	religious WORD[27,   3]: 0.0004415 勤め
+TOKEN[28]: 0.0014049    3 diligent
+	diligent WORD[28,   1]: 0.0004823 勤労
+	diligent WORD[28,   2]: 0.0004822 勤勉
+	diligent WORD[28,   3]: 0.0004404 勤しむ
+TOKEN[29]: 0.0011720    2 task
+	task WORD[29,   1]: 0.0007052 勤まる
+	task WORD[29,   2]: 0.0004668 勤め
+TOKEN[30]: 0.0011613    3 leaving
+	leaving WORD[30,   1]: 0.0003952 退勤
+	leaving WORD[30,   2]: 0.0003831 出退勤
+	leaving WORD[30,   3]: 0.0003830 出勤
+TOKEN[31]: 0.0011138    2 employment
+	employment WORD[31,   1]: 0.0006870 勤め口
+	employment WORD[31,   2]: 0.0004269 常勤
+TOKEN[32]: 0.0011104    2 role
+	role WORD[32,   1]: 0.0006681 勤まる
+	role WORD[32,   2]: 0.0004423 勤める
+TOKEN[33]: 0.0010514    2 emperor
+	emperor WORD[33,   1]: 0.0005257 勤王
+	emperor WORD[33,   2]: 0.0005257 勤皇
+TOKEN[34]: 0.0010397    3 one
+	one WORD[34,   1]: 0.0005762 勤め上げる
+	one WORD[34,   2]: 0.0002881 勤まる
+	one WORD[34,   3]: 0.0001753 参勤
+TOKEN[35]: 0.0009959    2 Edo
+	Edo WORD[35,   1]: 0.0006725 参勤
+	Edo WORD[35,   2]: 0.0003235 勤番
+TOKEN[36]: 0.0009903    3 going
+	going WORD[36,   1]: 0.0003316 出退勤
+	going WORD[36,   2]: 0.0003315 出勤
+	going WORD[36,   3]: 0.0003272 参勤
+TOKEN[37]: 0.0009573    1 salaried
+	salaried WORD[37,   1]: 0.0009573 勤め人
+TOKEN[38]: 0.0009291    2 position
+	position WORD[38,   1]: 0.0005591 勤め口
+	position WORD[38,   2]: 0.0003700 勤める
+TOKEN[39]: 0.0008664    1 frugality
+	frugality WORD[39,   1]: 0.0008664 勤倹
+TOKEN[40]: 0.0008618    1 fulfill
+	fulfill WORD[40,   1]: 0.0008618 勤まる
+TOKEN[41]: 0.0008499    1 apprenticeship
+	apprenticeship WORD[41,   1]: 0.0008499 勤め上げる
+TOKEN[42]: 0.0008461    1 qualified
+	qualified WORD[42,   1]: 0.0008461 勤まる
+TOKEN[43]: 0.0008455    1 transfer
+	transfer WORD[43,   1]: 0.0008455 転勤
+TOKEN[44]: 0.0008265    1 job
+	job WORD[44,   1]: 0.0008265 転勤
+TOKEN[45]: 0.0008188    2 place
+	place WORD[45,   1]: 0.0004927 勤め口
+	place WORD[45,   2]: 0.0003261 勤め先
+TOKEN[46]: 0.0007997    2 residence
+	residence WORD[46,   1]: 0.0004076 参勤
+	residence WORD[46,   2]: 0.0003921 勤番
+TOKEN[47]: 0.0007063    1 outside
+	outside WORD[47,   1]: 0.0007063 外勤
+TOKEN[48]: 0.0006804    1 equal
+	equal WORD[48,   1]: 0.0006804 勤まる
+TOKEN[49]: 0.0006726    1 fit
+	fit WORD[49,   1]: 0.0006726 勤まる
+TOKEN[50]: 0.0006558    1 able
+	able WORD[50,   1]: 0.0006558 勤まる
+TOKEN[51]: 0.0006145    1 industrious
+	industrious WORD[51,   1]: 0.0006145 勤勉
+TOKEN[52]: 0.0006045    1 loyal
+	loyal WORD[52,   1]: 0.0006045 忠勤
+TOKEN[53]: 0.0005956    1 commuting
+	commuting WORD[53,   1]: 0.0005956 通勤
+TOKEN[54]: 0.0005908    1 industry
+	industry WORD[54,   1]: 0.0005908 勤倹
+TOKEN[55]: 0.0005683    1 relocation
+	relocation WORD[55,   1]: 0.0005683 転勤
+TOKEN[56]: 0.0005604    1 exertion
+	exertion WORD[56,   1]: 0.0005604 勤労
+TOKEN[57]: 0.0005583    1 indoor
+	indoor WORD[57,   1]: 0.0005583 内勤
+TOKEN[58]: 0.0005434    1 employed
+	employed WORD[58,   1]: 0.0005434 勤める
+TOKEN[59]: 0.0005370    1 faithful
+	faithful WORD[59,   1]: 0.0005370 忠勤
+TOKEN[60]: 0.0005337    1 overtime
+	overtime WORD[60,   1]: 0.0005337 超勤
+TOKEN[61]: 0.0005128    1 alternating
+	alternating WORD[61,   1]: 0.0005128 参勤
+TOKEN[62]: 0.0005116    1 desk
+	desk WORD[62,   1]: 0.0005116 内勤
+TOKEN[63]: 0.0004848    1 conduct
+	conduct WORD[63,   1]: 0.0004848 勤める
+TOKEN[64]: 0.0004755    1 fill
+	fill WORD[64,   1]: 0.0004755 勤める
+TOKEN[65]: 0.0004581    1 night
+	night WORD[65,   1]: 0.0004581 夜勤
+TOKEN[66]: 0.0004538    1 responsibility
+	responsibility WORD[66,   1]: 0.0004538 勤め
+TOKEN[67]: 0.0004511    1 continuous
+	continuous WORD[67,   1]: 0.0004511 勤続
+TOKEN[68]: 0.0004454    1 time
+	time WORD[68,   1]: 0.0004454 勤め上げる
+TOKEN[69]: 0.0004355    1 turns
+	turns WORD[69,   1]: 0.0004355 勤番
+TOKEN[70]: 0.0004319    1 presence
+	presence WORD[70,   1]: 0.0004319 出勤
+TOKEN[71]: 0.0004317    1 lord
+	lord WORD[71,   1]: 0.0004317 参勤
+TOKEN[72]: 0.0004312    1 additional
+	additional WORD[72,   1]: 0.0004312 兼勤
+TOKEN[73]: 0.0004283    1 devote
+	devote WORD[73,   1]: 0.0004283 勤しむ
+TOKEN[74]: 0.0003934    1 act
+	act WORD[74,   1]: 0.0003934 勤める
+TOKEN[75]: 0.0003906    1 labour
+	labour WORD[75,   1]: 0.0003906 勤労
+TOKEN[76]: 0.0003869    1 labor
+	labor WORD[76,   1]: 0.0003869 勤労
+TOKEN[77]: 0.0003839    1 perfect
+	perfect WORD[77,   1]: 0.0003839 皆勤
+TOKEN[78]: 0.0003819    1 Buddhist
+	Buddhist WORD[78,   1]: 0.0003819 勤め
+TOKEN[79]: 0.0003769    1 play
+	play WORD[79,   1]: 0.0003769 勤める
+TOKEN[80]: 0.0003748    1 post
+	post WORD[80,   1]: 0.0003748 兼勤
+TOKEN[81]: 0.0003649    1 home
+	home WORD[81,   1]: 0.0003649 勤め帰り
+TOKEN[82]: 0.0003593    1 business
+	business WORD[82,   1]: 0.0003593 勤め
+TOKEN[83]: 0.0003556    1 official
+	official WORD[83,   1]: 0.0003556 参勤
+TOKEN[84]: 0.0003255    1 taking
+	taking WORD[84,   1]: 0.0003255 勤番
+TOKEN[85]: 0.0003245    1 way
+	way WORD[85,   1]: 0.0003245 勤め帰り
+TOKEN[86]: 0.0002943    1 period
+	period WORD[86,   1]: 0.0002943 参勤
+TOKEN[87]: 0.0002924    1 good
+	good WORD[87,   1]: 0.0002924 精勤

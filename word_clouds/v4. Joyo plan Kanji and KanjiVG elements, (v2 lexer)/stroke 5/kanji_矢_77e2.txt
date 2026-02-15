@@ -1,0 +1,535 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1066051    3 expect         : 矢張, 矢っ張り, 矢張り
+0.0935247    3 done           : 矢張, 矢っ張り, 矢張り
+0.0873517    3 said           : 矢張, 矢っ張り, 矢張り
+0.0870597    5 case           : 矢張, 矢立, 矢立て, 矢っ張り, 矢張り
+0.0854908    3 thought        : 矢張, 矢っ張り, 矢張り
+0.0803699    7 one            : 矢張, 矢っ張り, 矢張り, 矢種, 矢面, 矢印, 無理矢理
+0.0671183    3 end            : 矢張, 矢っ張り, 矢張り
+0.0568986   35 arrow          : 的矢, 矢竹, 矢取, 矢取り, 矢文, 矢矧, 流矢, 火矢, かぶら矢, 鏑矢, ...
+0.0198882    8 archery        : 矢取, 矢取り, 矢場, 矢庭, 矢立, 矢立て, 遠矢, 通し矢
+0.0134678    4 range          : 矢取, 矢取り, 矢場, 矢庭
+0.0125648    5 bamboo         : 矢竹, 犬矢来, 竹矢来, 矢柄, 矢来
+0.0118802    2 collector      : 矢取, 矢取り
+0.0088507    3 indiscriminate : 滅多矢鱈, 無闇矢鱈, 矢鱈
+0.0079338    1 fouling        : 犬矢来
+0.0066770    2 reckless       : 滅多矢鱈, 無闇矢鱈
+0.0065575    1 arched         : 犬矢来
+0.0059970    2 fence          : 犬矢来, 矢来
+0.0059680    2 blowgun        : 吹き矢, 吹矢
+0.0053501    1 battlefield    : 矢石
+0.0050705    5 arrowhead      : 根矢, 矢の根, 矢じり, 矢尻, 矢先
+0.0047337    6 battle         : 矢叫び, 矢来, 征矢, かぶら矢, 鏑矢, 嚆矢
+0.0047112    2 fletcher       : 矢矧, 矢作
+0.0046473    2 target         : 的矢, 矢先
+0.0046439    5 used           : 的矢, 矢筈, かぶら矢, 鏑矢, 嚆矢
+0.0046421    1 damage         : 犬矢来
+0.0045840    1 lower          : 犬矢来
+0.0042815    1 crenel         : 矢狭間
+0.0042712    1 indiscreet     : 無闇矢鱈
+0.0042046    2 shaft          : 矢竹, 矢柄
+0.0041587    1 short          : 犬矢来
+0.0041306    1 war            : 矢石
+0.0040875    1 immoderate     : 無闇矢鱈
+0.0039916    2 excessive      : 無闇矢鱈, 矢鱈
+0.0039768    1 traditional    : 犬矢来
+0.0039302    1 loophole       : 矢狭間
+0.0038072    3 dart           : 吹き矢, 吹矢, 毒矢
+0.0037532    2 maker          : 矢矧, 矢作
+0.0037512    3 quiver         : 矢筒, 矢立, 矢立て
+0.0037314    1 shooting       : 的矢
+0.0034987    1 thoughtless    : 無闇矢鱈
+0.0034348    1 absurd         : 無闇矢鱈
+0.0033289    1 unreasonable   : 無闇矢鱈
+0.0032672    1 rash           : 無闇矢鱈
+0.0032175    2 second         : 二の矢, 乙矢
+0.0031836    3 stray          : 流れ矢, 流矢, 逸れ矢
+0.0029412    1 pliers         : 矢床
+0.0029225    3 whistling      : かぶら矢, 鏑矢, 嚆矢
+0.0028690    2 blowpipe       : 吹き矢, 吹矢
+0.0028451    2 projectile     : 矢弾, 矢玉
+0.0028451    2 missile        : 矢弾, 矢玉
+0.0027595    1 nippers        : 矢床
+0.0026697    3 flying         : 矢面, 流矢, 矢先
+0.0026532    1 pincers        : 矢床
+0.0025859    2 ammunition     : 矢弾, 矢玉
+0.0025746    1 wooden         : 矢倉
+0.0025687    3 signal         : かぶら矢, 鏑矢, 嚆矢
+0.0025442    1 japonica       : 矢竹
+0.0024572    3 start          : 嚆矢, かぶら矢, 鏑矢
+0.0024296    1 enclosure      : 竹矢来
+0.0023002    2 fired          : 矢面, 乙矢
+0.0022954    2 portable       : 矢立, 矢立て
+0.0022942    1 letter         : 矢文
+0.0021706    2 firing         : 矢叫び, 矢面
+0.0021027    1 turret         : 矢倉
+0.0019830    1 scaffolding    : 矢倉
+0.0019428    2 whistle        : かぶら矢, 鏑矢
+0.0019292    1 watchtower     : 矢倉
+0.0019004    2 pattern        : 矢絣, 矢飛白
+0.0017694    1 storehouse     : 矢倉
+0.0016990    1 random         : 矢鱈
+0.0016776    1 brothel        : 矢場
+0.0016755    2 attached       : かぶら矢, 鏑矢
+0.0016647    1 fortress       : 矢倉
+0.0015714    2 made           : 矢叫び, 矢柄
+0.0014988    1 covering       : 矢場
+0.0014465    1 frame          : 矢倉
+0.0014321    1 nock           : 矢筈
+0.0014198    1 windmill       : 矢車
+0.0013936    1 volley         : 矢叫び
+0.0013423    1 stage          : 矢倉
+0.0013034    1 forked         : 矢筈
+0.0012616    1 incendiary     : 火矢
+0.0012479    1 carp           : 矢車
+0.0011826    1 tool           : 矢筈
+0.0011792    1 high           : 矢倉
+0.0011508    1 yell           : 矢叫び
+0.0011147    1 bundle         : 矢束
+0.0011053    1 decorative     : 矢車
+0.0010856    1 wheel          : 矢車
+0.0010766    1 pole           : 矢車
+0.0010619    2 fire           : 火矢, 大矢
+0.0010468    1 rocket         : 火矢
+0.0010454    1 raised         : 矢車
+0.0010383    1 length         : 矢束
+0.0010297    1 supply         : 矢種
+0.0010109    1 criticism      : 矢面
+0.0010067    1 chock          : 矢
+0.0010022    1 mallet         : 掛け矢
+0.0009929    1 curve          : 乙矢
+0.0009848    1 hanging        : 矢筈
+0.0009712    1 execution      : 矢来
+0.0009653    1 romantic       : 矢印
+0.0009542    1 subject        : 矢面
+0.0009537    1 brunt          : 矢先
+0.0009494    1 grounds        : 矢来
+0.0009204    1 thin           : 矢柄
+0.0009105    1 enemy          : 矢面
+0.0009088    1 wedge          : 矢
+0.0009061    1 sagittal       : 矢状
+0.0008973    1 step           : 二の矢
+0.0008806    1 front          : 矢面
+0.0008434    1 rough          : 矢来
+0.0008189    1 position       : 矢面
+0.0008134    1 move           : 二の矢
+0.0008112    1 symbol         : 矢印
+0.0008067    1 line           : 矢面
+0.0007876    1 weapon         : 弓矢
+0.0007508    2 person         : 矢印, 大矢
+0.0007437    1 use            : 征矢
+0.0007397    1 right          : 乙矢
+0.0007299    1 bow            : 弓矢
+0.0007238    1 certain        : 矢印
+0.0007138    1 arms           : 弓矢
+0.0007109    1 direction      : 矢印
+0.0007087    1 attention      : 矢印
+0.0007081    1 two            : 乙矢
+0.0006964    1 dawn           : 嚆矢
+0.0006896    1 moment         : 矢先
+0.0006812    1 interest       : 矢印
+0.0006801    1 attack         : 矢先
+0.0006639    1 movement       : 嚆矢
+0.0006236    1 force          : 無理矢理
+0.0005749    1 beginning      : 嚆矢
+0.0005636    1 retort         : 一矢
+0.0005564    1 point          : 矢先
+0.0005191    1 divine         : 神矢
+0.0004279    1 long           : 大矢
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1066051    3 expect
+	expect WORD[ 1,   1]: 0.1048705 矢張
+	expect WORD[ 1,   2]: 0.0008673 矢っ張り
+	expect WORD[ 1,   3]: 0.0008673 矢張り
+TOKEN[ 2]: 0.0935247    3 done
+	done WORD[ 2,   1]: 0.0920030 矢張
+	done WORD[ 2,   2]: 0.0007609 矢っ張り
+	done WORD[ 2,   3]: 0.0007609 矢張り
+TOKEN[ 3]: 0.0873517    3 said
+	said WORD[ 3,   1]: 0.0859304 矢張
+	said WORD[ 3,   2]: 0.0007107 矢っ張り
+	said WORD[ 3,   3]: 0.0007106 矢張り
+TOKEN[ 4]: 0.0870597    5 case
+	case WORD[ 4,   1]: 0.0837627 矢張
+	case WORD[ 4,   2]: 0.0009558 矢立
+	case WORD[ 4,   3]: 0.0009557 矢立て
+	case WORD[ 4,   4]: 0.0006927 矢っ張り
+	case WORD[ 4,   5]: 0.0006927 矢張り
+TOKEN[ 5]: 0.0854908    3 thought
+	thought WORD[ 5,   1]: 0.0840998 矢張
+	thought WORD[ 5,   2]: 0.0006955 矢っ張り
+	thought WORD[ 5,   3]: 0.0006955 矢張り
+TOKEN[ 6]: 0.0803699    7 one
+	one WORD[ 6,   1]: 0.0775691 矢張
+	one WORD[ 6,   2]: 0.0006415 矢っ張り
+	one WORD[ 6,   3]: 0.0006415 矢張り
+	one WORD[ 6,   4]: 0.0004425 矢種
+	one WORD[ 6,   5]: 0.0004412 矢面
+	one WORD[ 6,   6]: 0.0003199 矢印
+	one WORD[ 6,   7]: 0.0003141 無理矢理
+TOKEN[ 7]: 0.0671183    3 end
+	end WORD[ 7,   1]: 0.0660262 矢張
+	end WORD[ 7,   2]: 0.0005460 矢っ張り
+	end WORD[ 7,   3]: 0.0005460 矢張り
+TOKEN[ 8]: 0.0568986   35 arrow
+	arrow WORD[ 8,   1]: 0.0069028 的矢
+	arrow WORD[ 8,   2]: 0.0054491 矢竹
+	arrow WORD[ 8,   3]: 0.0046747 矢取
+	arrow WORD[ 8,   4]: 0.0046747 矢取り
+	arrow WORD[ 8,   5]: 0.0026718 矢文
+	arrow WORD[ 8,   6]: 0.0023622 矢矧
+	arrow WORD[ 8,   7]: 0.0018776 流矢
+	arrow WORD[ 8,   8]: 0.0016641 火矢
+	arrow WORD[ 8,   9]: 0.0016401 かぶら矢
+	arrow WORD[ 8,  10]: 0.0016401 鏑矢
+	arrow WORD[ 8,  11]: 0.0016324 矢羽
+	arrow WORD[ 8,  12]: 0.0016324 矢羽根
+	arrow WORD[ 8,  13]: 0.0010591 矢絣
+	arrow WORD[ 8,  14]: 0.0010591 矢飛白
+	arrow WORD[ 8,  15]: 0.0010546 矢筈
+	arrow WORD[ 8,  16]: 0.0010277 矢束
+	arrow WORD[ 8,  17]: 0.0010257 矢車
+	arrow WORD[ 8,  18]: 0.0010248 矢柄
+	arrow WORD[ 8,  19]: 0.0010246 矢面
+	arrow WORD[ 8,  20]: 0.0010111 大矢
+	arrow WORD[ 8,  21]: 0.0009447 二の矢
+	arrow WORD[ 8,  22]: 0.0009388 流れ矢
+	arrow WORD[ 8,  23]: 0.0009238 毒矢
+	arrow WORD[ 8,  24]: 0.0009225 遠矢
+	arrow WORD[ 8,  25]: 0.0008986 逸れ矢
+	arrow WORD[ 8,  26]: 0.0008965 征矢
+	arrow WORD[ 8,  27]: 0.0008659 乙矢
+	arrow WORD[ 8,  28]: 0.0007504 弓矢
+	arrow WORD[ 8,  29]: 0.0007448 矢作
+	arrow WORD[ 8,  30]: 0.0007428 矢印
+	arrow WORD[ 8,  31]: 0.0007425 矢先
+	arrow WORD[ 8,  32]: 0.0007413 矢
+	arrow WORD[ 8,  33]: 0.0006598 嚆矢
+	arrow WORD[ 8,  34]: 0.0005261 神矢
+	arrow WORD[ 8,  35]: 0.0004915 一矢
+TOKEN[ 9]: 0.0198882    8 archery
+	archery WORD[ 9,   1]: 0.0053872 矢取
+	archery WORD[ 9,   2]: 0.0053871 矢取り
+	archery WORD[ 9,   3]: 0.0017167 矢場
+	archery WORD[ 9,   4]: 0.0011858 矢庭
+	archery WORD[ 9,   5]: 0.0011842 矢立
+	archery WORD[ 9,   6]: 0.0011842 矢立て
+	archery WORD[ 9,   7]: 0.0010631 遠矢
+	archery WORD[ 9,   8]: 0.0010630 通し矢
+TOKEN[10]: 0.0134678    4 range
+	range WORD[10,   1]: 0.0047132 矢取
+	range WORD[10,   2]: 0.0047132 矢取り
+	range WORD[10,   3]: 0.0015020 矢場
+	range WORD[10,   4]: 0.0010374 矢庭
+TOKEN[11]: 0.0125648    5 bamboo
+	bamboo WORD[11,   1]: 0.0047519 矢竹
+	bamboo WORD[11,   2]: 0.0042809 犬矢来
+	bamboo WORD[11,   3]: 0.0018476 竹矢来
+	bamboo WORD[11,   4]: 0.0008937 矢柄
+	bamboo WORD[11,   5]: 0.0007908 矢来
+TOKEN[12]: 0.0118802    2 collector
+	collector WORD[12,   1]: 0.0059401 矢取
+	collector WORD[12,   2]: 0.0059401 矢取り
+TOKEN[13]: 0.0088507    3 indiscriminate
+	indiscriminate WORD[13,   1]: 0.0039572 滅多矢鱈
+	indiscriminate WORD[13,   2]: 0.0039571 無闇矢鱈
+	indiscriminate WORD[13,   3]: 0.0009364 矢鱈
+TOKEN[14]: 0.0079338    1 fouling
+	fouling WORD[14,   1]: 0.0079338 犬矢来
+TOKEN[15]: 0.0066770    2 reckless
+	reckless WORD[15,   1]: 0.0033385 滅多矢鱈
+	reckless WORD[15,   2]: 0.0033385 無闇矢鱈
+TOKEN[16]: 0.0065575    1 arched
+	arched WORD[16,   1]: 0.0065575 犬矢来
+TOKEN[17]: 0.0059970    2 fence
+	fence WORD[17,   1]: 0.0050619 犬矢来
+	fence WORD[17,   2]: 0.0009351 矢来
+TOKEN[18]: 0.0059680    2 blowgun
+	blowgun WORD[18,   1]: 0.0029840 吹き矢
+	blowgun WORD[18,   2]: 0.0029840 吹矢
+TOKEN[19]: 0.0053501    1 battlefield
+	battlefield WORD[19,   1]: 0.0026751 矢石
+TOKEN[20]: 0.0050705    5 arrowhead
+	arrowhead WORD[20,   1]: 0.0013962 根矢
+	arrowhead WORD[20,   2]: 0.0009205 矢の根
+	arrowhead WORD[20,   3]: 0.0009180 矢じり
+	arrowhead WORD[20,   4]: 0.0009180 矢尻
+	arrowhead WORD[20,   5]: 0.0009177 矢先
+TOKEN[21]: 0.0047337    6 battle
+	battle WORD[21,   1]: 0.0009470 矢叫び
+	battle WORD[21,   2]: 0.0008369 矢来
+	battle WORD[21,   3]: 0.0008273 征矢
+	battle WORD[21,   4]: 0.0007568 かぶら矢
+	battle WORD[21,   5]: 0.0007568 鏑矢
+	battle WORD[21,   6]: 0.0006089 嚆矢
+TOKEN[22]: 0.0047112    2 fletcher
+	fletcher WORD[22,   1]: 0.0035818 矢矧
+	fletcher WORD[22,   2]: 0.0011294 矢作
+TOKEN[23]: 0.0046473    2 target
+	target WORD[23,   1]: 0.0038245 的矢
+	target WORD[23,   2]: 0.0008228 矢先
+TOKEN[24]: 0.0046439    5 used
+	used WORD[24,   1]: 0.0023550 的矢
+	used WORD[24,   2]: 0.0007196 矢筈
+	used WORD[24,   3]: 0.0005596 かぶら矢
+	used WORD[24,   4]: 0.0005595 鏑矢
+	used WORD[24,   5]: 0.0004502 嚆矢
+TOKEN[25]: 0.0046421    1 damage
+	damage WORD[25,   1]: 0.0046421 犬矢来
+TOKEN[26]: 0.0045840    1 lower
+	lower WORD[26,   1]: 0.0045840 犬矢来
+TOKEN[27]: 0.0042815    1 crenel
+	crenel WORD[27,   1]: 0.0042815 矢狭間
+TOKEN[28]: 0.0042712    1 indiscreet
+	indiscreet WORD[28,   1]: 0.0042712 無闇矢鱈
+TOKEN[29]: 0.0042046    2 shaft
+	shaft WORD[29,   1]: 0.0030554 矢竹
+	shaft WORD[29,   2]: 0.0011493 矢柄
+TOKEN[30]: 0.0041587    1 short
+	short WORD[30,   1]: 0.0041587 犬矢来
+TOKEN[31]: 0.0041306    1 war
+	war WORD[31,   1]: 0.0020653 矢石
+TOKEN[32]: 0.0040875    1 immoderate
+	immoderate WORD[32,   1]: 0.0040875 無闇矢鱈
+TOKEN[33]: 0.0039916    2 excessive
+	excessive WORD[33,   1]: 0.0032278 無闇矢鱈
+	excessive WORD[33,   2]: 0.0007639 矢鱈
+TOKEN[34]: 0.0039768    1 traditional
+	traditional WORD[34,   1]: 0.0039768 犬矢来
+TOKEN[35]: 0.0039302    1 loophole
+	loophole WORD[35,   1]: 0.0039302 矢狭間
+TOKEN[36]: 0.0038072    3 dart
+	dart WORD[36,   1]: 0.0012955 吹き矢
+	dart WORD[36,   2]: 0.0012955 吹矢
+	dart WORD[36,   3]: 0.0012163 毒矢
+TOKEN[37]: 0.0037532    2 maker
+	maker WORD[37,   1]: 0.0028535 矢矧
+	maker WORD[37,   2]: 0.0008997 矢作
+TOKEN[38]: 0.0037512    3 quiver
+	quiver WORD[38,   1]: 0.0012505 矢筒
+	quiver WORD[38,   2]: 0.0012503 矢立
+	quiver WORD[38,   3]: 0.0012503 矢立て
+TOKEN[39]: 0.0037314    1 shooting
+	shooting WORD[39,   1]: 0.0037314 的矢
+TOKEN[40]: 0.0034987    1 thoughtless
+	thoughtless WORD[40,   1]: 0.0034987 無闇矢鱈
+TOKEN[41]: 0.0034348    1 absurd
+	absurd WORD[41,   1]: 0.0034348 無闇矢鱈
+TOKEN[42]: 0.0033289    1 unreasonable
+	unreasonable WORD[42,   1]: 0.0033289 無闇矢鱈
+TOKEN[43]: 0.0032672    1 rash
+	rash WORD[43,   1]: 0.0032672 無闇矢鱈
+TOKEN[44]: 0.0032175    2 second
+	second WORD[44,   1]: 0.0024646 二の矢
+	second WORD[44,   2]: 0.0007529 乙矢
+TOKEN[45]: 0.0031836    3 stray
+	stray WORD[45,   1]: 0.0010766 流れ矢
+	stray WORD[45,   2]: 0.0010766 流矢
+	stray WORD[45,   3]: 0.0010305 逸れ矢
+TOKEN[46]: 0.0029412    1 pliers
+	pliers WORD[46,   1]: 0.0029412 矢床
+TOKEN[47]: 0.0029225    3 whistling
+	whistling WORD[47,   1]: 0.0010421 かぶら矢
+	whistling WORD[47,   2]: 0.0010420 鏑矢
+	whistling WORD[47,   3]: 0.0008384 嚆矢
+TOKEN[48]: 0.0028690    2 blowpipe
+	blowpipe WORD[48,   1]: 0.0014345 吹き矢
+	blowpipe WORD[48,   2]: 0.0014345 吹矢
+TOKEN[49]: 0.0028451    2 projectile
+	projectile WORD[49,   1]: 0.0014226 矢弾
+	projectile WORD[49,   2]: 0.0014225 矢玉
+TOKEN[50]: 0.0028451    2 missile
+	missile WORD[50,   1]: 0.0014226 矢弾
+	missile WORD[50,   2]: 0.0014225 矢玉
+TOKEN[51]: 0.0027595    1 nippers
+	nippers WORD[51,   1]: 0.0027595 矢床
+TOKEN[52]: 0.0026697    3 flying
+	flying WORD[52,   1]: 0.0010109 矢面
+	flying WORD[52,   2]: 0.0009262 流矢
+	flying WORD[52,   3]: 0.0007326 矢先
+TOKEN[53]: 0.0026532    1 pincers
+	pincers WORD[53,   1]: 0.0026532 矢床
+TOKEN[54]: 0.0025859    2 ammunition
+	ammunition WORD[54,   1]: 0.0012929 矢弾
+	ammunition WORD[54,   2]: 0.0012929 矢玉
+TOKEN[55]: 0.0025746    1 wooden
+	wooden WORD[55,   1]: 0.0012873 矢倉
+TOKEN[56]: 0.0025687    3 signal
+	signal WORD[56,   1]: 0.0009159 かぶら矢
+	signal WORD[56,   2]: 0.0009159 鏑矢
+	signal WORD[56,   3]: 0.0007369 嚆矢
+TOKEN[57]: 0.0025442    1 japonica
+	japonica WORD[57,   1]: 0.0025442 矢竹
+TOKEN[58]: 0.0024572    3 start
+	start WORD[58,   1]: 0.0010956 嚆矢
+	start WORD[58,   2]: 0.0006808 かぶら矢
+	start WORD[58,   3]: 0.0006808 鏑矢
+TOKEN[59]: 0.0024296    1 enclosure
+	enclosure WORD[59,   1]: 0.0024296 竹矢来
+TOKEN[60]: 0.0023002    2 fired
+	fired WORD[60,   1]: 0.0012467 矢面
+	fired WORD[60,   2]: 0.0010535 乙矢
+TOKEN[61]: 0.0022954    2 portable
+	portable WORD[61,   1]: 0.0011477 矢立
+	portable WORD[61,   2]: 0.0011477 矢立て
+TOKEN[62]: 0.0022942    1 letter
+	letter WORD[62,   1]: 0.0022942 矢文
+TOKEN[63]: 0.0021706    2 firing
+	firing WORD[63,   1]: 0.0010862 矢叫び
+	firing WORD[63,   2]: 0.0010845 矢面
+TOKEN[64]: 0.0021027    1 turret
+	turret WORD[64,   1]: 0.0010513 矢倉
+TOKEN[65]: 0.0019830    1 scaffolding
+	scaffolding WORD[65,   1]: 0.0009915 矢倉
+TOKEN[66]: 0.0019428    2 whistle
+	whistle WORD[66,   1]: 0.0009714 かぶら矢
+	whistle WORD[66,   2]: 0.0009714 鏑矢
+TOKEN[67]: 0.0019292    1 watchtower
+	watchtower WORD[67,   1]: 0.0009646 矢倉
+TOKEN[68]: 0.0019004    2 pattern
+	pattern WORD[68,   1]: 0.0009502 矢絣
+	pattern WORD[68,   2]: 0.0009502 矢飛白
+TOKEN[69]: 0.0017694    1 storehouse
+	storehouse WORD[69,   1]: 0.0008847 矢倉
+TOKEN[70]: 0.0016990    1 random
+	random WORD[70,   1]: 0.0016990 矢鱈
+TOKEN[71]: 0.0016776    1 brothel
+	brothel WORD[71,   1]: 0.0008388 矢場
+TOKEN[72]: 0.0016755    2 attached
+	attached WORD[72,   1]: 0.0008377 かぶら矢
+	attached WORD[72,   2]: 0.0008377 鏑矢
+TOKEN[73]: 0.0016647    1 fortress
+	fortress WORD[73,   1]: 0.0008324 矢倉
+TOKEN[74]: 0.0015714    2 made
+	made WORD[74,   1]: 0.0007862 矢叫び
+	made WORD[74,   2]: 0.0007852 矢柄
+TOKEN[75]: 0.0014988    1 covering
+	covering WORD[75,   1]: 0.0007494 矢場
+TOKEN[76]: 0.0014465    1 frame
+	frame WORD[76,   1]: 0.0007232 矢倉
+TOKEN[77]: 0.0014321    1 nock
+	nock WORD[77,   1]: 0.0014321 矢筈
+TOKEN[78]: 0.0014198    1 windmill
+	windmill WORD[78,   1]: 0.0014198 矢車
+TOKEN[79]: 0.0013936    1 volley
+	volley WORD[79,   1]: 0.0013936 矢叫び
+TOKEN[80]: 0.0013423    1 stage
+	stage WORD[80,   1]: 0.0006711 矢倉
+TOKEN[81]: 0.0013034    1 forked
+	forked WORD[81,   1]: 0.0013034 矢筈
+TOKEN[82]: 0.0012616    1 incendiary
+	incendiary WORD[82,   1]: 0.0012616 火矢
+TOKEN[83]: 0.0012479    1 carp
+	carp WORD[83,   1]: 0.0012479 矢車
+TOKEN[84]: 0.0011826    1 tool
+	tool WORD[84,   1]: 0.0011826 矢筈
+TOKEN[85]: 0.0011792    1 high
+	high WORD[85,   1]: 0.0005896 矢倉
+TOKEN[86]: 0.0011508    1 yell
+	yell WORD[86,   1]: 0.0011508 矢叫び
+TOKEN[87]: 0.0011147    1 bundle
+	bundle WORD[87,   1]: 0.0011147 矢束
+TOKEN[88]: 0.0011053    1 decorative
+	decorative WORD[88,   1]: 0.0011053 矢車
+TOKEN[89]: 0.0010856    1 wheel
+	wheel WORD[89,   1]: 0.0010856 矢車
+TOKEN[90]: 0.0010766    1 pole
+	pole WORD[90,   1]: 0.0010766 矢車
+TOKEN[91]: 0.0010619    2 fire
+	fire WORD[91,   1]: 0.0006605 火矢
+	fire WORD[91,   2]: 0.0004014 大矢
+TOKEN[92]: 0.0010468    1 rocket
+	rocket WORD[92,   1]: 0.0010468 火矢
+TOKEN[93]: 0.0010454    1 raised
+	raised WORD[93,   1]: 0.0010454 矢車
+TOKEN[94]: 0.0010383    1 length
+	length WORD[94,   1]: 0.0010383 矢束
+TOKEN[95]: 0.0010297    1 supply
+	supply WORD[95,   1]: 0.0010297 矢種
+TOKEN[96]: 0.0010109    1 criticism
+	criticism WORD[96,   1]: 0.0010109 矢面
+TOKEN[97]: 0.0010067    1 chock
+	chock WORD[97,   1]: 0.0010067 矢
+TOKEN[98]: 0.0010022    1 mallet
+	mallet WORD[98,   1]: 0.0010022 掛け矢
+TOKEN[99]: 0.0009929    1 curve
+	curve WORD[99,   1]: 0.0009929 乙矢
+TOKEN[100]: 0.0009848    1 hanging
+	hanging WORD[100,   1]: 0.0009848 矢筈
+TOKEN[101]: 0.0009712    1 execution
+	execution WORD[101,   1]: 0.0009712 矢来
+TOKEN[102]: 0.0009653    1 romantic
+	romantic WORD[102,   1]: 0.0009653 矢印
+TOKEN[103]: 0.0009542    1 subject
+	subject WORD[103,   1]: 0.0009542 矢面
+TOKEN[104]: 0.0009537    1 brunt
+	brunt WORD[104,   1]: 0.0009537 矢先
+TOKEN[105]: 0.0009494    1 grounds
+	grounds WORD[105,   1]: 0.0009494 矢来
+TOKEN[106]: 0.0009204    1 thin
+	thin WORD[106,   1]: 0.0009204 矢柄
+TOKEN[107]: 0.0009105    1 enemy
+	enemy WORD[107,   1]: 0.0009105 矢面
+TOKEN[108]: 0.0009088    1 wedge
+	wedge WORD[108,   1]: 0.0009088 矢
+TOKEN[109]: 0.0009061    1 sagittal
+	sagittal WORD[109,   1]: 0.0009061 矢状
+TOKEN[110]: 0.0008973    1 step
+	step WORD[110,   1]: 0.0008973 二の矢
+TOKEN[111]: 0.0008806    1 front
+	front WORD[111,   1]: 0.0008806 矢面
+TOKEN[112]: 0.0008434    1 rough
+	rough WORD[112,   1]: 0.0008434 矢来
+TOKEN[113]: 0.0008189    1 position
+	position WORD[113,   1]: 0.0008189 矢面
+TOKEN[114]: 0.0008134    1 move
+	move WORD[114,   1]: 0.0008134 二の矢
+TOKEN[115]: 0.0008112    1 symbol
+	symbol WORD[115,   1]: 0.0008112 矢印
+TOKEN[116]: 0.0008067    1 line
+	line WORD[116,   1]: 0.0008067 矢面
+TOKEN[117]: 0.0007876    1 weapon
+	weapon WORD[117,   1]: 0.0007876 弓矢
+TOKEN[118]: 0.0007508    2 person
+	person WORD[118,   1]: 0.0004467 矢印
+	person WORD[118,   2]: 0.0003040 大矢
+TOKEN[119]: 0.0007437    1 use
+	use WORD[119,   1]: 0.0007437 征矢
+TOKEN[120]: 0.0007397    1 right
+	right WORD[120,   1]: 0.0007397 乙矢
+TOKEN[121]: 0.0007299    1 bow
+	bow WORD[121,   1]: 0.0007299 弓矢
+TOKEN[122]: 0.0007238    1 certain
+	certain WORD[122,   1]: 0.0007238 矢印
+TOKEN[123]: 0.0007138    1 arms
+	arms WORD[123,   1]: 0.0007138 弓矢
+TOKEN[124]: 0.0007109    1 direction
+	direction WORD[124,   1]: 0.0007109 矢印
+TOKEN[125]: 0.0007087    1 attention
+	attention WORD[125,   1]: 0.0007087 矢印
+TOKEN[126]: 0.0007081    1 two
+	two WORD[126,   1]: 0.0007081 乙矢
+TOKEN[127]: 0.0006964    1 dawn
+	dawn WORD[127,   1]: 0.0006964 嚆矢
+TOKEN[128]: 0.0006896    1 moment
+	moment WORD[128,   1]: 0.0006896 矢先
+TOKEN[129]: 0.0006812    1 interest
+	interest WORD[129,   1]: 0.0006812 矢印
+TOKEN[130]: 0.0006801    1 attack
+	attack WORD[130,   1]: 0.0006801 矢先
+TOKEN[131]: 0.0006639    1 movement
+	movement WORD[131,   1]: 0.0006639 嚆矢
+TOKEN[132]: 0.0006236    1 force
+	force WORD[132,   1]: 0.0006236 無理矢理
+TOKEN[133]: 0.0005749    1 beginning
+	beginning WORD[133,   1]: 0.0005749 嚆矢
+TOKEN[134]: 0.0005636    1 retort
+	retort WORD[134,   1]: 0.0005636 一矢
+TOKEN[135]: 0.0005564    1 point
+	point WORD[135,   1]: 0.0005564 矢先
+TOKEN[136]: 0.0005191    1 divine
+	divine WORD[136,   1]: 0.0005191 神矢
+TOKEN[137]: 0.0004279    1 long
+	long WORD[137,   1]: 0.0004279 大矢

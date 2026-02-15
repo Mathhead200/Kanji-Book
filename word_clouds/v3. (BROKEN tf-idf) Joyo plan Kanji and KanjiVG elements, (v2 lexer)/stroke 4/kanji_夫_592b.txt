@@ -1,0 +1,561 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1245135    6 married        : 密夫, 妻夫, 有夫, 間夫, 夫妻, 夫婦
+0.1200381    3 lover          : 密夫, 間夫, 情夫
+0.0840440    2 woman          : 密夫, 間夫
+0.0414572   13 husband        : 亡夫, 妻夫, 愚夫, 先夫, 夫婦, 前夫, 元夫, 有夫, 夫権, 夫君, ...
+0.0335819    6 male           : 厨夫, 夫神, 間夫, 農夫, 情夫, 炊夫
+0.0266947   13 man            : 老夫, 愚夫, 匹夫, 妻夫, 怯夫, 大丈夫, 鰥夫, 俥夫, 車夫, 夫子, ...
+0.0255048    1 itinerant      : 仁太夫
+0.0247017    5 wife           : 妻夫, 夫婦, 夫人, 入夫, 夫妻
+0.0215624    1 manager        : 仁太夫
+0.0190185    2 cook           : 厨夫, 炊夫
+0.0184864    3 Edo            : 仁太夫, 大夫, 太夫
+0.0171516    2 worker         : 厨夫, 人夫
+0.0167091    1 kitchen        : 厨夫
+0.0161805    3 period         : 仁太夫, 大夫, 太夫
+0.0149907    2 widower        : 寡夫, 鰥夫
+0.0125133    2 rickshaw       : 俥夫, 車夫
+0.0088555    3 couple         : 妻夫, 夫妻, 夫婦
+0.0077219    2 pair           : 妻夫, 夫婦
+0.0074094    2 porter         : 駅夫, 軍夫
+0.0071845    1 deity          : 夫神
+0.0071642    2 narrator       : 大夫, 太夫
+0.0068478    1 god            : 夫神
+0.0063588    2 one            : 妻夫, 夫婦
+0.0060919    2 laborer        : 役夫, 人夫
+0.0060420    2 large          : 妻夫, 夫婦
+0.0060320    2 set            : 妻夫, 夫婦
+0.0057740    2 two            : 妻夫, 夫婦
+0.0057162    3 late           : 亡夫, 先夫, 前夫
+0.0055504    2 actor          : 大夫, 太夫
+0.0054818    2 small          : 妻夫, 夫婦
+0.0053718    2 miner          : 鉱夫, 坑夫
+0.0048514    1 alright        : 大丈夫
+0.0046897    2 coward         : 怯夫, 懦夫
+0.0045388    2 timid          : 怯夫, 懦夫
+0.0045300    1 slave          : 夫役
+0.0041980    2 puller         : 俥夫, 車夫
+0.0041707    2 dedication     : 工夫, 功夫
+0.0041701    2 paramour       : 間夫, 姦夫
+0.0040818    1 woodcutter     : 樵夫
+0.0040818    1 lumberjack     : 樵夫
+0.0039979    1 logger         : 樵夫
+0.0039501    1 polyandry      : 多夫
+0.0039472    2 invention      : 工夫, 功夫
+0.0039306    1 deceased       : 亡夫
+0.0039289    1 forced         : 夫役
+0.0038949    2 courtesan      : 大夫, 太夫
+0.0038637    1 railway        : 駅夫
+0.0038242    1 employee       : 駅夫
+0.0037288    1 labour         : 夫役
+0.0037033    1 bordering      : 夫余
+0.0036937    1 labor          : 夫役
+0.0036425    2 driver         : 俥夫, 車夫
+0.0035844    2 peasant        : 農夫, 田夫
+0.0035592    2 steward        : 大夫, 太夫
+0.0035291    2 spiritual      : 工夫, 功夫
+0.0035159    2 improvement    : 工夫, 功夫
+0.0035142    3 former         : 元夫, 先夫, 前夫
+0.0034520    1 foolish        : 愚夫
+0.0034438    2 meditation     : 工夫, 功夫
+0.0032159    2 Zen            : 工夫, 功夫
+0.0032119    1 kingdom        : 夫余
+0.0031603    2 design         : 工夫, 功夫
+0.0031517    2 thinking       : 工夫, 功夫
+0.0031433    1 service        : 夫役
+0.0030517    2 fifth          : 大夫, 太夫
+0.0029917    2 idea           : 工夫, 功夫
+0.0029631    2 device         : 工夫, 功夫
+0.0028824    2 coming         : 工夫, 功夫
+0.0028492    2 lord           : 大夫, 太夫
+0.0028470    2 working        : 工夫, 功夫
+0.0027808    1 north          : 夫余
+0.0027777    2 plan           : 工夫, 功夫
+0.0027038    2 person         : 凡夫, 夫子
+0.0026835    2 role           : 大夫, 太夫
+0.0026727    2 priest         : 大夫, 太夫
+0.0026580    2 kabuki         : 大夫, 太夫
+0.0026557    1 elderly        : 老夫
+0.0026499    2 Shinto         : 大夫, 太夫
+0.0025229    2 performance    : 大夫, 太夫
+0.0024570    2 rank           : 大夫, 太夫
+0.0024020    2 female         : 大夫, 太夫
+0.0023999    2 low            : 大夫, 太夫
+0.0023856    2 court          : 大夫, 太夫
+0.0023540    2 shrine         : 大夫, 太夫
+0.0022770    2 way            : 工夫, 功夫
+0.0022524    1 robust         : 丈夫
+0.0022400    1 durable        : 丈夫
+0.0022205    1 compulsory     : 夫役
+0.0022156    1 ancient        : 夫余
+0.0021795    1 unenlightened  : 凡夫
+0.0021343    1 coolie         : 人夫
+0.0021307    1 secure         : 大丈夫
+0.0021224    2 high           : 大夫, 太夫
+0.0020973    2 head           : 大夫, 太夫
+0.0020382    1 healthy        : 丈夫
+0.0020156    1 marital        : 夫権
+0.0020153    2 school         : 大夫, 太夫
+0.0020085    1 thanks         : 大丈夫
+0.0019095    1 safe           : 大丈夫
+0.0018904    1 stoker         : 火夫
+0.0018766    1 marrying       : 入夫
+0.0018729    1 solid          : 丈夫
+0.0018704    1 sage           : 夫子
+0.0018272    1 pimp           : 妓夫
+0.0018241    1 rustic         : 匹夫
+0.0018122    1 old            : 老夫
+0.0017735    1 fear           : 大丈夫
+0.0017358    1 adulterer      : 姦夫
+0.0017275    1 figure         : 大丈夫
+0.0016885    1 fine           : 大丈夫
+0.0016740    1 herdsman       : 牧夫
+0.0016722    1 fireman        : 火夫
+0.0016473    1 coarse         : 匹夫
+0.0016415    1 farmer         : 農夫
+0.0016312    1 concerned      : 夫子
+0.0016240    1 tout           : 妓夫
+0.0015758    1 wise           : 夫子
+0.0015748    1 humble         : 匹夫
+0.0015607    1 strong         : 丈夫
+0.0015593    1 sound          : 大丈夫
+0.0015547    1 prostitute     : 間夫
+0.0015401    1 teacher        : 夫子
+0.0015118    1 puppet         : 義太夫
+0.0014992    1 right          : 大丈夫
+0.0014969    1 ordinary       : 凡夫
+0.0014847    1 Mrs            : 夫人
+0.0014255    1 madam          : 夫人
+0.0014160    1 brothel        : 妓夫
+0.0014105    1 theater        : 義太夫
+0.0014100    1 great          : 大丈夫
+0.0013755    1 construction   : 人夫
+0.0013662    1 consort        : 夫人
+0.0013611    1 master         : 夫子
+0.0012689    1 many           : 万夫
+0.0012451    1 good           : 大丈夫
+0.0011952    1 nobleman       : 夫人
+0.0011942    1 seaman         : 水夫
+0.0011279    1 sailor         : 水夫
+0.0011089    1 military       : 軍夫
+0.0010888    1 people         : 万夫
+0.0010828    1 dad            : 主夫
+0.0010716    1 type           : 義太夫
+0.0010256    1 fisherman      : 漁夫
+0.0010212    1 family         : 入夫
+0.0010152    1 valiant        : 勇夫
+0.0010140    1 warrior        : 武夫
+0.0009601    1 emperor        : 夫人
+0.0009320    1 soldier        : 武夫
+0.0008894    1 used           : 義太夫
+0.0008766    1 samurai        : 武夫
+0.0007750    1 second         : 継夫
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1245135    6 married
+	married WORD[ 1,   1]: 0.1120806 密夫
+	married WORD[ 1,   2]: 0.0028479 妻夫
+	married WORD[ 1,   3]: 0.0017093 有夫
+	married WORD[ 1,   4]: 0.0017069 間夫
+	married WORD[ 1,   5]: 0.0011103 夫妻
+	married WORD[ 1,   6]: 0.0011053 夫婦
+TOKEN[ 2]: 0.1200381    3 lover
+	lover WORD[ 2,   1]: 0.1167558 密夫
+	lover WORD[ 2,   2]: 0.0017781 間夫
+	lover WORD[ 2,   3]: 0.0015041 情夫
+TOKEN[ 3]: 0.0840440    2 woman
+	woman WORD[ 3,   1]: 0.0827832 密夫
+	woman WORD[ 3,   2]: 0.0012607 間夫
+TOKEN[ 4]: 0.0414572   13 husband
+	husband WORD[ 4,   1]: 0.0072833 亡夫
+	husband WORD[ 4,   2]: 0.0053706 妻夫
+	husband WORD[ 4,   3]: 0.0032833 愚夫
+	husband WORD[ 4,   4]: 0.0028420 先夫
+	husband WORD[ 4,   5]: 0.0020844 夫婦
+	husband WORD[ 4,   6]: 0.0017685 前夫
+	husband WORD[ 4,   7]: 0.0016730 元夫
+	husband WORD[ 4,   8]: 0.0016117 有夫
+	husband WORD[ 4,   9]: 0.0015055 夫権
+	husband WORD[ 4,  10]: 0.0015051 夫君
+	husband WORD[ 4,  11]: 0.0010469 夫妻
+	husband WORD[ 4,  12]: 0.0009208 継夫
+	husband WORD[ 4,  13]: 0.0007768 夫
+TOKEN[ 5]: 0.0335819    6 male
+	male WORD[ 5,   1]: 0.0146526 厨夫
+	male WORD[ 5,   2]: 0.0136120 夫神
+	male WORD[ 5,   3]: 0.0014857 間夫
+	male WORD[ 5,   4]: 0.0013367 農夫
+	male WORD[ 5,   5]: 0.0012567 情夫
+	male WORD[ 5,   6]: 0.0012381 炊夫
+TOKEN[ 6]: 0.0266947   13 man
+	man WORD[ 6,   1]: 0.0036628 老夫
+	man WORD[ 6,   2]: 0.0025419 愚夫
+	man WORD[ 6,   3]: 0.0023164 匹夫
+	man WORD[ 6,   4]: 0.0020789 妻夫
+	man WORD[ 6,   5]: 0.0018459 怯夫
+	man WORD[ 6,   6]: 0.0014026 大丈夫
+	man WORD[ 6,   7]: 0.0012453 鰥夫
+	man WORD[ 6,   8]: 0.0012308 俥夫
+	man WORD[ 6,   9]: 0.0012308 車夫
+	man WORD[ 6,  10]: 0.0011561 夫子
+	man WORD[ 6,  11]: 0.0010650 懦夫
+	man WORD[ 6,  12]: 0.0008068 夫婦
+	man WORD[ 6,  13]: 0.0005777 勇夫
+TOKEN[ 7]: 0.0255048    1 itinerant
+	itinerant WORD[ 7,   1]: 0.0255048 仁太夫
+TOKEN[ 8]: 0.0247017    5 wife
+	wife WORD[ 8,   1]: 0.0073846 妻夫
+	wife WORD[ 8,   2]: 0.0028661 夫婦
+	wife WORD[ 8,   3]: 0.0019211 夫人
+	wife WORD[ 8,   4]: 0.0013194 入夫
+	wife WORD[ 8,   5]: 0.0009597 夫妻
+TOKEN[ 9]: 0.0215624    1 manager
+	manager WORD[ 9,   1]: 0.0215624 仁太夫
+TOKEN[10]: 0.0190185    2 cook
+	cook WORD[10,   1]: 0.0175366 厨夫
+	cook WORD[10,   2]: 0.0014818 炊夫
+TOKEN[11]: 0.0184864    3 Edo
+	Edo WORD[11,   1]: 0.0162673 仁太夫
+	Edo WORD[11,   2]: 0.0007397 大夫
+	Edo WORD[11,   3]: 0.0007397 太夫
+TOKEN[12]: 0.0171516    2 worker
+	worker WORD[12,   1]: 0.0157253 厨夫
+	worker WORD[12,   2]: 0.0014263 人夫
+TOKEN[13]: 0.0167091    1 kitchen
+	kitchen WORD[13,   1]: 0.0167091 厨夫
+TOKEN[14]: 0.0161805    3 period
+	period WORD[14,   1]: 0.0142382 仁太夫
+	period WORD[14,   2]: 0.0006474 大夫
+	period WORD[14,   3]: 0.0006474 太夫
+TOKEN[15]: 0.0149907    2 widower
+	widower WORD[15,   1]: 0.0103727 寡夫
+	widower WORD[15,   2]: 0.0023090 鰥夫
+TOKEN[16]: 0.0125133    2 rickshaw
+	rickshaw WORD[16,   1]: 0.0062566 俥夫
+	rickshaw WORD[16,   2]: 0.0062566 車夫
+TOKEN[17]: 0.0088555    3 couple
+	couple WORD[17,   1]: 0.0027970 妻夫
+	couple WORD[17,   2]: 0.0010905 夫妻
+	couple WORD[17,   3]: 0.0010855 夫婦
+TOKEN[18]: 0.0077219    2 pair
+	pair WORD[18,   1]: 0.0027814 妻夫
+	pair WORD[18,   2]: 0.0010795 夫婦
+TOKEN[19]: 0.0074094    2 porter
+	porter WORD[19,   1]: 0.0055420 駅夫
+	porter WORD[19,   2]: 0.0018674 軍夫
+TOKEN[20]: 0.0071845    1 deity
+	deity WORD[20,   1]: 0.0071845 夫神
+TOKEN[21]: 0.0071642    2 narrator
+	narrator WORD[21,   1]: 0.0023881 大夫
+	narrator WORD[21,   2]: 0.0023881 太夫
+TOKEN[22]: 0.0068478    1 god
+	god WORD[22,   1]: 0.0068478 夫神
+TOKEN[23]: 0.0063588    2 one
+	one WORD[23,   1]: 0.0022904 妻夫
+	one WORD[23,   2]: 0.0008890 夫婦
+TOKEN[24]: 0.0060919    2 laborer
+	laborer WORD[24,   1]: 0.0043105 役夫
+	laborer WORD[24,   2]: 0.0017814 人夫
+TOKEN[25]: 0.0060420    2 large
+	large WORD[25,   1]: 0.0021763 妻夫
+	large WORD[25,   2]: 0.0008447 夫婦
+TOKEN[26]: 0.0060320    2 set
+	set WORD[26,   1]: 0.0021727 妻夫
+	set WORD[26,   2]: 0.0008433 夫婦
+TOKEN[27]: 0.0057740    2 two
+	two WORD[27,   1]: 0.0020798 妻夫
+	two WORD[27,   2]: 0.0008072 夫婦
+TOKEN[28]: 0.0057162    3 late
+	late WORD[28,   1]: 0.0035004 亡夫
+	late WORD[28,   2]: 0.0013659 先夫
+	late WORD[28,   3]: 0.0008499 前夫
+TOKEN[29]: 0.0055504    2 actor
+	actor WORD[29,   1]: 0.0018501 大夫
+	actor WORD[29,   2]: 0.0018501 太夫
+TOKEN[30]: 0.0054818    2 small
+	small WORD[30,   1]: 0.0019745 妻夫
+	small WORD[30,   2]: 0.0007664 夫婦
+TOKEN[31]: 0.0053718    2 miner
+	miner WORD[31,   1]: 0.0017906 鉱夫
+	miner WORD[31,   2]: 0.0017906 坑夫
+TOKEN[32]: 0.0048514    1 alright
+	alright WORD[32,   1]: 0.0024257 大丈夫
+TOKEN[33]: 0.0046897    2 coward
+	coward WORD[33,   1]: 0.0029739 怯夫
+	coward WORD[33,   2]: 0.0017158 懦夫
+TOKEN[34]: 0.0045388    2 timid
+	timid WORD[34,   1]: 0.0028782 怯夫
+	timid WORD[34,   2]: 0.0016606 懦夫
+TOKEN[35]: 0.0045300    1 slave
+	slave WORD[35,   1]: 0.0045300 夫役
+TOKEN[36]: 0.0041980    2 puller
+	puller WORD[36,   1]: 0.0020990 俥夫
+	puller WORD[36,   2]: 0.0020990 車夫
+TOKEN[37]: 0.0041707    2 dedication
+	dedication WORD[37,   1]: 0.0010934 工夫
+	dedication WORD[37,   2]: 0.0009919 功夫
+TOKEN[38]: 0.0041701    2 paramour
+	paramour WORD[38,   1]: 0.0023450 間夫
+	paramour WORD[38,   2]: 0.0018251 姦夫
+TOKEN[39]: 0.0040818    1 woodcutter
+	woodcutter WORD[39,   1]: 0.0040818 樵夫
+TOKEN[40]: 0.0040818    1 lumberjack
+	lumberjack WORD[40,   1]: 0.0040818 樵夫
+TOKEN[41]: 0.0039979    1 logger
+	logger WORD[41,   1]: 0.0039979 樵夫
+TOKEN[42]: 0.0039501    1 polyandry
+	polyandry WORD[42,   1]: 0.0039501 多夫
+TOKEN[43]: 0.0039472    2 invention
+	invention WORD[43,   1]: 0.0010348 工夫
+	invention WORD[43,   2]: 0.0009388 功夫
+TOKEN[44]: 0.0039306    1 deceased
+	deceased WORD[44,   1]: 0.0039306 亡夫
+TOKEN[45]: 0.0039289    1 forced
+	forced WORD[45,   1]: 0.0039289 夫役
+TOKEN[46]: 0.0038949    2 courtesan
+	courtesan WORD[46,   1]: 0.0012983 大夫
+	courtesan WORD[46,   2]: 0.0012983 太夫
+TOKEN[47]: 0.0038637    1 railway
+	railway WORD[47,   1]: 0.0038637 駅夫
+TOKEN[48]: 0.0038242    1 employee
+	employee WORD[48,   1]: 0.0038242 駅夫
+TOKEN[49]: 0.0037288    1 labour
+	labour WORD[49,   1]: 0.0037288 夫役
+TOKEN[50]: 0.0037033    1 bordering
+	bordering WORD[50,   1]: 0.0037033 夫余
+TOKEN[51]: 0.0036937    1 labor
+	labor WORD[51,   1]: 0.0036937 夫役
+TOKEN[52]: 0.0036425    2 driver
+	driver WORD[52,   1]: 0.0018212 俥夫
+	driver WORD[52,   2]: 0.0018212 車夫
+TOKEN[53]: 0.0035844    2 peasant
+	peasant WORD[53,   1]: 0.0018216 農夫
+	peasant WORD[53,   2]: 0.0017629 田夫
+TOKEN[54]: 0.0035592    2 steward
+	steward WORD[54,   1]: 0.0011864 大夫
+	steward WORD[54,   2]: 0.0011864 太夫
+TOKEN[55]: 0.0035291    2 spiritual
+	spiritual WORD[55,   1]: 0.0009252 工夫
+	spiritual WORD[55,   2]: 0.0008393 功夫
+TOKEN[56]: 0.0035159    2 improvement
+	improvement WORD[56,   1]: 0.0009217 工夫
+	improvement WORD[56,   2]: 0.0008362 功夫
+TOKEN[57]: 0.0035142    3 former
+	former WORD[57,   1]: 0.0014778 元夫
+	former WORD[57,   2]: 0.0012553 先夫
+	former WORD[57,   3]: 0.0007811 前夫
+TOKEN[58]: 0.0034520    1 foolish
+	foolish WORD[58,   1]: 0.0034520 愚夫
+TOKEN[59]: 0.0034438    2 meditation
+	meditation WORD[59,   1]: 0.0009028 工夫
+	meditation WORD[59,   2]: 0.0008190 功夫
+TOKEN[60]: 0.0032159    2 Zen
+	Zen WORD[60,   1]: 0.0008431 工夫
+	Zen WORD[60,   2]: 0.0007648 功夫
+TOKEN[61]: 0.0032119    1 kingdom
+	kingdom WORD[61,   1]: 0.0032119 夫余
+TOKEN[62]: 0.0031603    2 design
+	design WORD[62,   1]: 0.0008285 工夫
+	design WORD[62,   2]: 0.0007516 功夫
+TOKEN[63]: 0.0031517    2 thinking
+	thinking WORD[63,   1]: 0.0008263 工夫
+	thinking WORD[63,   2]: 0.0007496 功夫
+TOKEN[64]: 0.0031433    1 service
+	service WORD[64,   1]: 0.0031433 夫役
+TOKEN[65]: 0.0030517    2 fifth
+	fifth WORD[65,   1]: 0.0010172 大夫
+	fifth WORD[65,   2]: 0.0010172 太夫
+TOKEN[66]: 0.0029917    2 idea
+	idea WORD[66,   1]: 0.0007843 工夫
+	idea WORD[66,   2]: 0.0007115 功夫
+TOKEN[67]: 0.0029631    2 device
+	device WORD[67,   1]: 0.0007768 工夫
+	device WORD[67,   2]: 0.0007047 功夫
+TOKEN[68]: 0.0028824    2 coming
+	coming WORD[68,   1]: 0.0007557 工夫
+	coming WORD[68,   2]: 0.0006855 功夫
+TOKEN[69]: 0.0028492    2 lord
+	lord WORD[69,   1]: 0.0009497 大夫
+	lord WORD[69,   2]: 0.0009497 太夫
+TOKEN[70]: 0.0028470    2 working
+	working WORD[70,   1]: 0.0007464 工夫
+	working WORD[70,   2]: 0.0006771 功夫
+TOKEN[71]: 0.0027808    1 north
+	north WORD[71,   1]: 0.0027808 夫余
+TOKEN[72]: 0.0027777    2 plan
+	plan WORD[72,   1]: 0.0007282 工夫
+	plan WORD[72,   2]: 0.0006606 功夫
+TOKEN[73]: 0.0027038    2 person
+	person WORD[73,   1]: 0.0018271 凡夫
+	person WORD[73,   2]: 0.0008766 夫子
+TOKEN[74]: 0.0026835    2 role
+	role WORD[74,   1]: 0.0008945 大夫
+	role WORD[74,   2]: 0.0008945 太夫
+TOKEN[75]: 0.0026727    2 priest
+	priest WORD[75,   1]: 0.0008909 大夫
+	priest WORD[75,   2]: 0.0008909 太夫
+TOKEN[76]: 0.0026580    2 kabuki
+	kabuki WORD[76,   1]: 0.0008860 大夫
+	kabuki WORD[76,   2]: 0.0008860 太夫
+TOKEN[77]: 0.0026557    1 elderly
+	elderly WORD[77,   1]: 0.0026557 老夫
+TOKEN[78]: 0.0026499    2 Shinto
+	Shinto WORD[78,   1]: 0.0008833 大夫
+	Shinto WORD[78,   2]: 0.0008833 太夫
+TOKEN[79]: 0.0025229    2 performance
+	performance WORD[79,   1]: 0.0008410 大夫
+	performance WORD[79,   2]: 0.0008410 太夫
+TOKEN[80]: 0.0024570    2 rank
+	rank WORD[80,   1]: 0.0008190 大夫
+	rank WORD[80,   2]: 0.0008190 太夫
+TOKEN[81]: 0.0024020    2 female
+	female WORD[81,   1]: 0.0008007 大夫
+	female WORD[81,   2]: 0.0008007 太夫
+TOKEN[82]: 0.0023999    2 low
+	low WORD[82,   1]: 0.0008000 大夫
+	low WORD[82,   2]: 0.0008000 太夫
+TOKEN[83]: 0.0023856    2 court
+	court WORD[83,   1]: 0.0007952 大夫
+	court WORD[83,   2]: 0.0007952 太夫
+TOKEN[84]: 0.0023540    2 shrine
+	shrine WORD[84,   1]: 0.0007847 大夫
+	shrine WORD[84,   2]: 0.0007846 太夫
+TOKEN[85]: 0.0022770    2 way
+	way WORD[85,   1]: 0.0005969 工夫
+	way WORD[85,   2]: 0.0005415 功夫
+TOKEN[86]: 0.0022524    1 robust
+	robust WORD[86,   1]: 0.0011262 丈夫
+TOKEN[87]: 0.0022400    1 durable
+	durable WORD[87,   1]: 0.0011200 丈夫
+TOKEN[88]: 0.0022205    1 compulsory
+	compulsory WORD[88,   1]: 0.0022205 夫役
+TOKEN[89]: 0.0022156    1 ancient
+	ancient WORD[89,   1]: 0.0022156 夫余
+TOKEN[90]: 0.0021795    1 unenlightened
+	unenlightened WORD[90,   1]: 0.0021795 凡夫
+TOKEN[91]: 0.0021343    1 coolie
+	coolie WORD[91,   1]: 0.0021343 人夫
+TOKEN[92]: 0.0021307    1 secure
+	secure WORD[92,   1]: 0.0010654 大丈夫
+TOKEN[93]: 0.0021224    2 high
+	high WORD[93,   1]: 0.0007075 大夫
+	high WORD[93,   2]: 0.0007075 太夫
+TOKEN[94]: 0.0020973    2 head
+	head WORD[94,   1]: 0.0006991 大夫
+	head WORD[94,   2]: 0.0006991 太夫
+TOKEN[95]: 0.0020382    1 healthy
+	healthy WORD[95,   1]: 0.0010191 丈夫
+TOKEN[96]: 0.0020156    1 marital
+	marital WORD[96,   1]: 0.0020156 夫権
+TOKEN[97]: 0.0020153    2 school
+	school WORD[97,   1]: 0.0006718 大夫
+	school WORD[97,   2]: 0.0006718 太夫
+TOKEN[98]: 0.0020085    1 thanks
+	thanks WORD[98,   1]: 0.0010042 大丈夫
+TOKEN[99]: 0.0019095    1 safe
+	safe WORD[99,   1]: 0.0009548 大丈夫
+TOKEN[100]: 0.0018904    1 stoker
+	stoker WORD[100,   1]: 0.0018904 火夫
+TOKEN[101]: 0.0018766    1 marrying
+	marrying WORD[101,   1]: 0.0018766 入夫
+TOKEN[102]: 0.0018729    1 solid
+	solid WORD[102,   1]: 0.0009364 丈夫
+TOKEN[103]: 0.0018704    1 sage
+	sage WORD[103,   1]: 0.0018704 夫子
+TOKEN[104]: 0.0018272    1 pimp
+	pimp WORD[104,   1]: 0.0018272 妓夫
+TOKEN[105]: 0.0018241    1 rustic
+	rustic WORD[105,   1]: 0.0018241 匹夫
+TOKEN[106]: 0.0018122    1 old
+	old WORD[106,   1]: 0.0018122 老夫
+TOKEN[107]: 0.0017735    1 fear
+	fear WORD[107,   1]: 0.0008868 大丈夫
+TOKEN[108]: 0.0017358    1 adulterer
+	adulterer WORD[108,   1]: 0.0017358 姦夫
+TOKEN[109]: 0.0017275    1 figure
+	figure WORD[109,   1]: 0.0008637 大丈夫
+TOKEN[110]: 0.0016885    1 fine
+	fine WORD[110,   1]: 0.0008443 大丈夫
+TOKEN[111]: 0.0016740    1 herdsman
+	herdsman WORD[111,   1]: 0.0016740 牧夫
+TOKEN[112]: 0.0016722    1 fireman
+	fireman WORD[112,   1]: 0.0016722 火夫
+TOKEN[113]: 0.0016473    1 coarse
+	coarse WORD[113,   1]: 0.0016473 匹夫
+TOKEN[114]: 0.0016415    1 farmer
+	farmer WORD[114,   1]: 0.0016415 農夫
+TOKEN[115]: 0.0016312    1 concerned
+	concerned WORD[115,   1]: 0.0016312 夫子
+TOKEN[116]: 0.0016240    1 tout
+	tout WORD[116,   1]: 0.0016240 妓夫
+TOKEN[117]: 0.0015758    1 wise
+	wise WORD[117,   1]: 0.0015758 夫子
+TOKEN[118]: 0.0015748    1 humble
+	humble WORD[118,   1]: 0.0015748 匹夫
+TOKEN[119]: 0.0015607    1 strong
+	strong WORD[119,   1]: 0.0007804 丈夫
+TOKEN[120]: 0.0015593    1 sound
+	sound WORD[120,   1]: 0.0007796 大丈夫
+TOKEN[121]: 0.0015547    1 prostitute
+	prostitute WORD[121,   1]: 0.0015547 間夫
+TOKEN[122]: 0.0015401    1 teacher
+	teacher WORD[122,   1]: 0.0015401 夫子
+TOKEN[123]: 0.0015118    1 puppet
+	puppet WORD[123,   1]: 0.0015118 義太夫
+TOKEN[124]: 0.0014992    1 right
+	right WORD[124,   1]: 0.0007496 大丈夫
+TOKEN[125]: 0.0014969    1 ordinary
+	ordinary WORD[125,   1]: 0.0014969 凡夫
+TOKEN[126]: 0.0014847    1 Mrs
+	Mrs WORD[126,   1]: 0.0014847 夫人
+TOKEN[127]: 0.0014255    1 madam
+	madam WORD[127,   1]: 0.0014255 夫人
+TOKEN[128]: 0.0014160    1 brothel
+	brothel WORD[128,   1]: 0.0014160 妓夫
+TOKEN[129]: 0.0014105    1 theater
+	theater WORD[129,   1]: 0.0014105 義太夫
+TOKEN[130]: 0.0014100    1 great
+	great WORD[130,   1]: 0.0007050 大丈夫
+TOKEN[131]: 0.0013755    1 construction
+	construction WORD[131,   1]: 0.0013755 人夫
+TOKEN[132]: 0.0013662    1 consort
+	consort WORD[132,   1]: 0.0013662 夫人
+TOKEN[133]: 0.0013611    1 master
+	master WORD[133,   1]: 0.0013611 夫子
+TOKEN[134]: 0.0012689    1 many
+	many WORD[134,   1]: 0.0012689 万夫
+TOKEN[135]: 0.0012451    1 good
+	good WORD[135,   1]: 0.0006226 大丈夫
+TOKEN[136]: 0.0011952    1 nobleman
+	nobleman WORD[136,   1]: 0.0011952 夫人
+TOKEN[137]: 0.0011942    1 seaman
+	seaman WORD[137,   1]: 0.0011942 水夫
+TOKEN[138]: 0.0011279    1 sailor
+	sailor WORD[138,   1]: 0.0011279 水夫
+TOKEN[139]: 0.0011089    1 military
+	military WORD[139,   1]: 0.0011089 軍夫
+TOKEN[140]: 0.0010888    1 people
+	people WORD[140,   1]: 0.0010888 万夫
+TOKEN[141]: 0.0010828    1 dad
+	dad WORD[141,   1]: 0.0010828 主夫
+TOKEN[142]: 0.0010716    1 type
+	type WORD[142,   1]: 0.0010716 義太夫
+TOKEN[143]: 0.0010256    1 fisherman
+	fisherman WORD[143,   1]: 0.0010256 漁夫
+TOKEN[144]: 0.0010212    1 family
+	family WORD[144,   1]: 0.0010212 入夫
+TOKEN[145]: 0.0010152    1 valiant
+	valiant WORD[145,   1]: 0.0010152 勇夫
+TOKEN[146]: 0.0010140    1 warrior
+	warrior WORD[146,   1]: 0.0010140 武夫
+TOKEN[147]: 0.0009601    1 emperor
+	emperor WORD[147,   1]: 0.0009601 夫人
+TOKEN[148]: 0.0009320    1 soldier
+	soldier WORD[148,   1]: 0.0009320 武夫
+TOKEN[149]: 0.0008894    1 used
+	used WORD[149,   1]: 0.0008894 義太夫
+TOKEN[150]: 0.0008766    1 samurai
+	samurai WORD[150,   1]: 0.0008766 武夫
+TOKEN[151]: 0.0007750    1 second
+	second WORD[151,   1]: 0.0007750 継夫

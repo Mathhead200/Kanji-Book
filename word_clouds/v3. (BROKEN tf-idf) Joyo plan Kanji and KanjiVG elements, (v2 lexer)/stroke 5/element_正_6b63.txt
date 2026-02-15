@@ -1,0 +1,3993 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0526316    1 bread          : 麪包
+0.0349061    6 rectification  : 整風, 整流, 更正, きょう正, 矯正, 匡正
+0.0276841    3 grain          : 柾目, 正目, 正倉
+0.0273834    1 smiling        : 嫣然
+0.0239429    3 gong           : 陣鉦, 鉦鼓, 鉦
+0.0235981    1 glance         : 流眄
+0.0214536    2 birthday       : 誕プレ, 誕辰
+0.0181542    1 skewness       : 歪度
+0.0178105    2 Euonymus       : 柾, 正木
+0.0162044    1 present        : 誕プレ
+0.0160859    3 party          : 離筵, 政党, 政調
+0.0152711    1 diver          : 蜑
+0.0146632    1 flirtatious    : 流眄
+0.0144587    1 gracious       : 嫣然
+0.0143899    1 fisherman      : 蜑
+0.0143702    1 sidelong       : 流眄
+0.0123653    1 seaweed        : 蜑
+0.0111512    1 divorce        : 離筵
+0.0107895    1 beauty         : 嫣然
+0.0106053    1 male           : 蜑
+0.0098108    1 bushy          : 蚰蜒眉
+0.0097655   13 expedition     : 征西, 北征, 南征, 西征, 征東, 再征, 親征, 征途, 征戦, 長征, ...
+0.0094000    4 used           : 陣鉦, 鉦鼓, 正字, 正倉
+0.0090306    1 bib            : 涎掛け
+0.0089531    1 unexpected     : 忽焉
+0.0085265    1 sudden         : 忽焉
+0.0084875    2 drool          : 涎掛け, 涎
+0.0080213    4 distortion     : 歪み率, 歪率, 歪曲, 歪み
+0.0079394    1 demise         : 終焉
+0.0078490    5 mat            : 藁筵, 筵, 花筵, 粗筵, 荒筵
+0.0075234    5 Japanese       : 柾, 太政, 整体, 正宗, 正木
+0.0074391    1 sialorrhea     : 流涎
+0.0074391    1 hypersalivation: 流涎
+0.0073385    1 bell           : 陣鉦
+0.0070841   14 military       : 征西, 北征, 南征, 西征, 征東, 親征, 軍政, 征途, 征戦, 征衣, ...
+0.0069763    1 signal         : 陣鉦
+0.0066911    8 campaign       : 征西, 北征, 南征, 西征, 征東, 東征, 外征, 遠征
+0.0061831    1 spending       : 終焉
+0.0059577    1 nephropathy    : 腎症
+0.0055537    1 final          : 終焉
+0.0055417   39 era            : 延慶, 安政, 永延, 延暦, 延文, 延応, 延喜, 延元, 延享, 延久, ...
+0.0055318    2 factor         : 歪み率, 歪率
+0.0052561    1 autocracy      : 専政
+0.0052162    4 sinuous        : 蜒々, 蜿蜒, 延々, 延延
+0.0050624    4 serpentine     : 蜒々, 蜿蜒, 延々, 延延
+0.0050280    1 small          : 鉦鼓
+0.0048288    5 life           : 終焉, 延齢, 延命, 延びる, 延寿
+0.0047730    1 wretch         : 蚰蜒
+0.0046356    5 end            : 終焉, 引き延す, 引き延ばす, 引延す, 引延ばす
+0.0045971   17 evidence       : 物証, 罪証, 明証, 旁証, 証憑, 書証, 証跡, 傍証, 信証, 証左, ...
+0.0044664    1 death          : 終焉
+0.0044425    4 winding        : 蜒々, 蜿蜒, 延々, 延延
+0.0044100    1 skunk          : 蚰蜒
+0.0044100    1 centipede      : 蚰蜒
+0.0043987   22 political      : 政柄, 政況, 政略, 政友, 政変, 政情, 政財界, 政権, 政界, 政論, ...
+0.0042164    1 contemptible   : 蚰蜒
+0.0039515    1 irascibility   : 癇症
+0.0039515    1 peevishness    : 癇症
+0.0038479    1 louse          : 蚰蜒
+0.0038283    2 straw          : 藁筵, 筵
+0.0037689   14 one            : 終焉, 筵, 逃げ延びる, 延齢, 内証, 整容, 延び, 正報, 差し延べる, 差延べる, ...
+0.0035573   15 proof          : 確証, 明証, 弁証, 証跡, 論証, 立証, 反証, 実証, 証明, 証書, ...
+0.0035356   27 government     : 憲政, 政変, 政体, 軍政, 朝政, 太政, 新政, 庶政, 諸政, 執政, ...
+0.0034750   19 administration : 町政, 労政, 藩政, 区政, 幕政, 新政, 執政, 政所, 民政, 法政, ...
+0.0034314    1 irritability   : 癇症
+0.0033656    1 avid           : 垂涎
+0.0031619    5 going          : 蜒々, 蜿蜒, 出征, 延々, 延延
+0.0031608    2 western        : 征西, 西征
+0.0031455    3 west           : 征西, 西征, 正西
+0.0031360    1 thirst         : 垂涎
+0.0031159    1 craving        : 垂涎
+0.0029882    1 watering       : 垂涎
+0.0029752    1 envy           : 垂涎
+0.0028563    5 illness        : 難症, 軽症, 発症, 重症, 症
+0.0027572    1 temper         : 癇症
+0.0026950    5 disease        : 油症, 病症, 真症, まん延, 蔓延
+0.0026872    2 woven          : 粗筵, 荒筵
+0.0026611    1 lecture        : 講筵
+0.0025807    2 north          : 北征, 正北
+0.0025748    2 check          : 預かり証, 預り証
+0.0025508    2 nativity       : 生誕, 降誕
+0.0025001    2 hot            : 癇症, 熱延
+0.0024466    3 birth          : 誕生, 生誕, 降誕
+0.0023980    1 house          : 蚰蜒
+0.0023775    1 desire         : 垂涎
+0.0023198    8 genuine        : 正物, 真症, 正銘, 醇正, 正身, 純正, 真正, 正真
+0.0022770    1 mouth          : 垂涎
+0.0021964    2 hyperacute     : 劇症, 激症
+0.0021964    2 fulminant      : 劇症, 激症
+0.0021890    3 person         : 蚰蜒, 親征, 正身
+0.0021714   13 politics       : 政経, 政略, 政客, 民政, 政道, 法政, 政談, 政治, 政財界, 政教, ...
+0.0019885    3 warp           : 歪める, 歪む, 歪み
+0.0019715    1 ingestion      : 油症
+0.0019010    1 symptom        : 本症
+0.0018776    4 serious        : 劇症, 激症, 重症, 正面
+0.0017203    1 bulrush        : 花筵
+0.0017034    1 canonical      : 正準
+0.0016732    1 floral         : 花筵
+0.0015771   18 correct        : 正用, 正経, 正位, 正音, 端整, 正義, 正解, 正訓, 正行, 正道, ...
+0.0015701   11 extension      : 延長, 引き延し, 引き延ばし, 引延ばし, 延いては, 延び率, 延び, 展延, 外延, 延命, ...
+0.0015695    2 acute          : 劇症, 激症
+0.0015643   11 stretch        : 延びる, 延べる, 食い延ばす, 延繞, 引き延す, 引き延ばす, 引延す, 引延ばす, 延ばす, 差し延べる, ...
+0.0015535    1 exaggerated    : 荒誕
+0.0015298    2 extending      : 延泊, 圧延
+0.0015012    1 nonsense       : 荒誕
+0.0014643    5 due            : 正北, 正東, 正西, 正当, 正式
+0.0014633    4 subjugation    : 征圧, 征服, 征伐, 征討
+0.0014632    1 south          : 南征
+0.0014539    2 bend           : 歪める, 歪む
+0.0014335    1 recognition    : 荒誕
+0.0014221    9 delay          : 先延ばし, 引き延す, 引き延ばす, 引延す, 引延ばす, 遅延, 遷延, 延滞, 延引
+0.0014130    1 southern       : 南征
+0.0013747    1 northern       : 北征
+0.0013548    1 strain         : 歪み
+0.0013349    4 conquest       : 征圧, 征服, 征伐, 征討
+0.0013282    1 seat           : 筵
+0.0012396    1 regal          : 降誕
+0.0012288    2 distorted      : 歪む, 歪
+0.0012122    2 made           : 筵, 延べ竿
+0.0011990    3 east           : 征東, 正東, 東征
+0.0011978    1 pattern        : 花筵
+0.0011924    1 wild           : 荒誕
+0.0011699    1 perverted      : 歪む
+0.0011621    3 case           : 真症, 症例, 政談
+0.0011512    8 rule           : 徳政, 仁政, 親政, 院政, 圧政, 帝政, 政, 王政
+0.0011408    2 warped         : 歪む, 歪
+0.0011252    2 baggage        : 預かり証, 預り証
+0.0011249    1 stay           : 延泊
+0.0011063    1 talk           : 荒誕
+0.0011037    1 incurable      : 難症
+0.0011021    1 encephalopathy : 脳症
+0.0010977    4 procrastination: 先延ばし, 遷延, 延滞, 延引
+0.0010777    2 luggage        : 預かり証, 預り証
+0.0010561    4 token          : 徴証, 証, 証し, 延いては
+0.0010226    1 antibody       : 対症
+0.0010205    2 receipt        : 預かり証, 預り証
+0.0010195    3 corroboration  : 明証, 旁証, 傍証
+0.0010166    1 abeam          : 正横
+0.0010085    3 article        : 正物, 正身, 正銘
+0.0010064    2 room           : 講筵, 正室
+0.0010012    2 claim          : 預かり証, 預り証
+0.0009909    1 creation       : 誕生
+0.0009901    2 punitive       : 再征, 征伐
+0.0009769    1 town           : 町政
+0.0009752    7 positive       : 正値, 正極, 確証, 正負, 正数, 正号, 正
+0.0009731    1 calendar       : 正朔
+0.0009711    1 contort        : 歪む
+0.0009679    1 sensitivity    : 冷え症
+0.0009587    1 formation      : 誕生
+0.0009510    2 condition      : 発症, 症状
+0.0009487    1 beginning      : 正朔
+0.0009468    2 deposit        : 預かり証, 預り証
+0.0009373    6 postponement   : 日延べ, 繰り延べ, 繰延べ, 順延, 延発, 延期
+0.0009311    4 testimony      : 人証, 証明, 証言, 偽証
+0.0009293    8 spread         : 延べる, まん延, 蔓延, 蔓延る, 延びる, 延び, 延ばす, 延焼
+0.0008986    7 order          : 整々, 整序, 整う, 政令, 整える, 整理, 整頓
+0.0008935    4 demonstration  : 論証, 立証, 実証, 証明
+0.0008903    2 month          : 正朔, 正月
+0.0008823    2 year           : 正朔, 正月
+0.0008636    4 verify         : 証する, 証す, 聞き正す, 正す
+0.0008580    1 deformation    : 歪み
+0.0008498    1 imbalance      : 歪み
+0.0008320    4 sign           : 徴証, 証, 証し, 正号
+0.0008187    3 guarantee      : 証する, 保証, 証す
+0.0007975    2 eastern        : 征東, 東征
+0.0007943    1 participate    : 来征
+0.0007885    1 led            : 親征
+0.0007882    1 specific       : 対症
+0.0007679    5 extend         : 延びる, 延べる, 延ばす, 差し延べる, 差延べる
+0.0007594    4 rolling        : 熱延, 延べ棒, 延棒, 圧延
+0.0007421    3 misgovernment  : 弊政, 失政, 悪政
+0.0007378    5 prolongation   : 引き延し, 引き延ばし, 引延ばし, 延長, 延寿
+0.0007360    3 enlightenment  : 証果, 内証, 正覚
+0.0007321    5 situation      : 政況, 政情, 政局, 財政, 国政
+0.0007239    3 tyranny        : 暴政, 虐政, 苛政
+0.0007231    1 nature         : 病症
+0.0007226    1 harmful        : 歪み
+0.0007205    1 onset          : 発症
+0.0007145    1 remargin       : 追証
+0.0007090    3 certification  : 証紙, 認証, 証明
+0.0007058    4 postpone       : 延べる, 繰り延べる, 繰延べる, 延ばす
+0.0007012    2 war            : 来征, 出征
+0.0006848    1 outbreak       : 発症
+0.0006834    1 minor          : 軽症
+0.0006829    1 effects        : 歪み
+0.0006766    2 badge          : 証, 証し
+0.0006764    1 cold           : 冷え症
+0.0006753    1 stress         : 歪み
+0.0006726    6 truth          : 歪める, 論証, 聞き正す, 正視, 正体, 顕正
+0.0006713    3 despotism      : 虐政, 苛政, 圧政
+0.0006630    3 witness        : 人証, 証人, 証左
+0.0006611    7 meeting        : 引き延す, 引き延ばす, 引延す, 引延ばす, 政労, 延びる, 正対
+0.0006591    1 Seriola        : 平政
+0.0006582    8 true           : 正気, 正体, 正夢, 正法, 真正, 正念, 正真, 正
+0.0006537    2 view           : 歪む, 正見
+0.0006487    2 voucher        : 証票, 証憑
+0.0006479    2 emblem         : 証, 証し
+0.0006440    2 escape         : 逃げ延びる, 落ち延びる
+0.0006430    4 neat           : 整斉, 斉整, 正々, 正正
+0.0006386    2 mind           : 歪む, 正報
+0.0006373    2 prove          : 証する, 証す
+0.0006300    4 metal          : 延べ棒, 延棒, 延べ金, 延金
+0.0006181    3 longevity      : 延齢, 延年, 延寿
+0.0006067    5 policy         : 政綱, 政調, 政審, 政策, 外政
+0.0006005    1 coming         : 来征
+0.0005993    2 gratitude      : 証, 証し
+0.0005934    1 yellowtail     : 平政
+0.0005927    4 enlarge        : 引き延す, 引き延ばす, 引延す, 引延ばす
+0.0005922    4 enlargement    : 敷延, 引き延し, 引き延ばし, 引延ばし
+0.0005912    2 affection      : 証, 証し
+0.0005897    5 make           : 逃げ延びる, 延べる, 食い延ばす, 延びる, 正す
+0.0005850    1 disfigure      : 歪める
+0.0005815    3 certificate    : 証票, 証書, 証券
+0.0005809    3 power          : 政柄, 大政, 政権
+0.0005749    4 good           : 整々, 逃げ延びる, 善政, 正丁
+0.0005744    2 training       : 証果, 整枝
+0.0005729    2 crest          : 証, 証し
+0.0005670    3 bond           : 証文, 証書, 証券
+0.0005646    1 oval           : 歪
+0.0005630   13 correction     : 批正, 斧正, 補正, 訂正, 是正, 正誤, 修正, 叱正, 更正, きょう正, ...
+0.0005614    3 verification   : 実証, 証明, 検証
+0.0005602    3 contract       : 証憑, 証文, 整う
+0.0005589    2 flag           : 証, 証し
+0.0005589    2 organized      : 整斉, 斉整
+0.0005528    4 straighten     : 整容, 延びる, 延ばす, 整える
+0.0005496    1 attestation    : 認証
+0.0005485    4 path           : 正経, 正道, 正路, 正行
+0.0005442    2 symbol         : 証, 証し
+0.0005441    1 ward           : 区政
+0.0005390    2 promise        : 証する, 証す
+0.0005315    3 deferred       : 延べ払い, 延払い, 延納
+0.0005311    1 emperor        : 親征
+0.0005263    3 mark           : 証, 証し, 正鵠
+0.0005251    1 patient        : 症状
+0.0005229    2 supporting     : 旁証, 傍証
+0.0005227    4 imperial       : 朝政, 太政, 帝政, 王政
+0.0005220    1 game           : 来征
+0.0005190    2 substantiation : 立証, 実証
+0.0005185    1 irritation     : 炎症
+0.0005171    4 total          : 延べ坪, 延坪, 延べ, 延長
+0.0005110    1 legitimation   : 準正
+0.0005090    1 inflammation   : 炎症
+0.0005065    2 authentication : 公証, 認証
+0.0005048    9 regular        : 正兵, 整然, 正課, 正員, 正則, 正式, 正規, 正価, 正
+0.0005039    1 margin         : 追証
+0.0005002    2 subjugate      : 征する, 征く
+0.0004988    2 benevolent     : 徳政, 仁政
+0.0004979    3 wooden         : 歪, 延べ棒, 延棒
+0.0004967    2 conquering     : 征夷, 征服
+0.0004943    1 additional     : 追証
+0.0004934    9 right          : 正定, 正解, 正風, 正路, 正道, 正しい, 正当, 正業, 正義
+0.0004916    1 falsification  : 歪曲
+0.0004916    1 perversion     : 歪曲
+0.0004898    1 cloistered     : 院政
+0.0004884    1 second         : 再征
+0.0004864    2 departure      : 出征, 延発
+0.0004817    1 appearance     : 発症
+0.0004815    2 phases         : 庶政, 諸政
+0.0004779    4 document       : 証書, 証印, 正続, 正副
+0.0004758    2 lengthen       : 延びる, 延ばす
+0.0004750    1 falsify        : 歪める
+0.0004748    4 payment        : 延べ払い, 延払い, 延納, 延滞
+0.0004660    5 official       : 政所, 正称, 正字, 正式, 正史
+0.0004589    1 distort        : 歪める
+0.0004475    6 original       : 正本, 正篇, 正編, 正字, 正副, 正
+0.0004415    2 reschedule     : 繰り延べる, 繰延べる
+0.0004401    2 deed           : 証文, 証書
+0.0004387    1 March          : 長征
+0.0004374    2 conquer        : 征する, 征く
+0.0004361    2 become         : 延びる, 蔓延る
+0.0004361    4 righteousness  : 正経, 正路, 正道, 正義
+0.0004309    8 proper         : 端整, 正法, 正則, 端正, 正しい, 正当, 正式, 正面
+0.0004291    1 cover          : 追証
+0.0004165    2 born           : 準正, 正報
+0.0004164    2 dagger         : 延べ金, 延金
+0.0004161    4 floor          : 延べ坪, 延坪, 正坐, 正座
+0.0004114    2 inspection     : 証紙, 検証
+0.0004087    1 corrupt        : 歪める
+0.0004004    2 defer          : 繰り延べる, 繰延べる
+0.0003997    7 legal          : 政所, 正嫡, 正室, 正妻, 正当, 正式, 正規
+0.0003995    3 elongation     : 延び, 延長, 延伸
+0.0003983    2 organization   : 町政, 整理
+0.0003969    3 church         : 祭政, 政教, 正教
+0.0003969    1 crime          : 罪証
+0.0003956    3 photograph     : 引き延し, 引き延ばし, 引延ばし
+0.0003936    3 cream          : 延びる, 延び, 延ばす
+0.0003909    4 sword          : 延べ金, 延金, 正宗, 正眼
+0.0003902    4 adjustment     : 調整, 整理, 整合, 修整
+0.0003883    2 confirmation   : 認証, 確証
+0.0003873    1 dialectic      : 弁証
+0.0003864    1 economics      : 政経
+0.0003828    1 clothes        : 征衣
+0.0003817    1 chit           : 証票
+0.0003802    2 management     : 区政, 林政
+0.0003802    3 space          : 延べ坪, 延坪, 延長
+0.0003776    7 legitimate     : 正朝, 正閏, 正出, 正系, 正統, 正当, 正規
+0.0003774    1 curve          : 歪める
+0.0003771    2 infestation    : まん延, 蔓延
+0.0003758    5 put            : 延びる, 延び延び, 整える, 整う, 整頓
+0.0003756    1 regency        : 摂政
+0.0003738    2 marriage       : 準正, 整える
+0.0003736    4 wife           : 政所, 正妻, 正嫡, 正室
+0.0003693    2 rampancy       : まん延, 蔓延
+0.0003689    1 rod            : 延べ竿
+0.0003640    1 friend         : 政友
+0.0003639    2 adjournment    : 日延べ, 延期
+0.0003597    1 argumentation  : 論証
+0.0003595    1 twist          : 歪める
+0.0003594    2 guest          : 正賓, 正客
+0.0003579    2 pin            : 延べ棒, 延棒
+0.0003555    2 uniformity     : 不整, 均整
+0.0003552    2 security       : 保証, 証券
+0.0003528    5 Chinese        : 長征, 正音, 整体, 正書, 正文
+0.0003482    7 main           : 正門, 正殿, 正篇, 正編, 正嫡, 正客, 正文
+0.0003441    1 maladministration: 弊政
+0.0003440    2 sheet          : 延べ金, 延金
+0.0003419    2 proliferation  : まん延, 蔓延
+0.0003403    1 fish           : 平政
+0.0003399    1 regent         : 摂政
+0.0003398    1 documentary    : 書証
+0.0003391    3 trigonometric  : 正割, 正切, 正接
+0.0003373    2 bar            : 延べ棒, 延棒
+0.0003365    5 justice        : 法政, 弾正, 正大, 正義, 公正
+0.0003350    4 text           : 正文, 正篇, 正編, 正本
+0.0003337    1 species        : 平政
+0.0003316    2 canon          : 正経, 正典
+0.0003316    2 real           : 物証, 正身
+0.0003290    2 lack           : 間延び, 不整
+0.0003264    1 coup           : 政変
+0.0003249    3 grow           : 蔓延る, 延びる, 延ばす
+0.0003193    1 elliptical     : 歪
+0.0003179    4 system         : 郵政, 正丁, 政体, 正倉
+0.0003176    3 child          : 準正, 正嫡, 正出
+0.0003152    4 regulation     : 調整, 整理, 規整, 粛正
+0.0003149    2 prepare        : 切り整える, 整える
+0.0003124    3 direct         : 親政, 正報, 正系
+0.0003119    1 exemplification: 例証
+0.0003110    1 civil          : 民政
+0.0003108    2 widespread     : まん延, 蔓延
+0.0003107    4 upright        : 正立, 端整, 端正, 正面
+0.0003089    4 authentic      : 正文, 正伝, 真正, 正真
+0.0003081    1 historical     : 考証
+0.0003078    2 powerful       : 政所, 蔓延る
+0.0003077    1 fishing        : 延べ竿
+0.0003060    6 normal         : 正塩, 正閏, 正則, 正常, 正視, 正規
+0.0003046    5 perfect        : 至正, 正円, 醇正, 純正, 正覚
+0.0003029    4 line           : 延べ竿, 延長, 整列, 正系
+0.0003007    2 court          : 朝政, 正楽
+0.0003000    3 law            : 法政, 政談, 正法
+0.0002993    3 reach          : 延ばす, 差し延べる, 差延べる
+0.0002959    1 slovenliness   : 間延び
+0.0002934    1 new            : 新政
+0.0002931    1 arrange        : 整える
+0.0002921    1 crooked        : 歪
+0.0002882    4 opposed        : 正文, 正篇, 正編, 正室
+0.0002852    1 disproof       : 反証
+0.0002835    1 false          : 偽証
+0.0002822    1 exchange       : 証取
+0.0002805    1 theocracy      : 神政
+0.0002801    7 revision       : 斧正, 補正, 訂正, 是正, 修正, 更正, 改正
+0.0002794    3 series         : 長征, 正篇, 正編
+0.0002794    2 use            : 征矢, 正用
+0.0002781    1 sluggishness   : 間延び
+0.0002781    2 expand         : 延びる, 延ばす
+0.0002753    1 trace          : 証跡
+0.0002731    2 uniform        : 征衣, 正装
+0.0002710    2 tuning         : 整調, 調整
+0.0002691    2 alive          : 食い延ばす, 延命
+0.0002688    3 preparation    : 整え, 整備, 整地
+0.0002672    1 moratorium     : 徳政
+0.0002663    2 develop        : 延びる, 延ばす
+0.0002662    3 book           : 正続, 正篇, 正編
+0.0002656    1 radical        : 延繞
+0.0002636    1 lengthy        : 長征
+0.0002635    1 rebuttal       : 反証
+0.0002604    1 looseness      : 間延び
+0.0002603    2 internal       : 整腸, 内政
+0.0002595    3 hold           : 延ばす, 差し延べる, 差延べる
+0.0002584    2 business       : 政財界, 整える
+0.0002579    1 tyrannical     : 圧政
+0.0002576    1 irregular      : 歪
+0.0002567    1 stamp          : 証紙
+0.0002563    1 physical       : 物証
+0.0002559    1 material       : 物証
+0.0002549    3 body           : 延び, 国政, 正報
+0.0002548    5 exact          : 整除, 正々, 正正, 正確, 厳正
+0.0002531    1 illustration   : 例証
+0.0002528    1 assurance      : 保証
+0.0002525    1 overcome       : 征する
+0.0002520    2 javelin        : 差し延べる, 差延べる
+0.0002497    1 refutation     : 反証
+0.0002492    1 titled         : 政所
+0.0002471    1 warranty       : 保証
+0.0002464    1 traveling      : 征衣
+0.0002442    1 statesman      : 政客
+0.0002422    1 value          : 正値
+0.0002420    1 bourse         : 証取
+0.0002412    1 ductility      : 延性
+0.0002412    2 office         : 政所, 政庁
+0.0002411    2 state          : 祭政, 政教
+0.0002396    4 principal      : 正犯, 正篇, 正編, 正副
+0.0002396    1 getaway        : 逃げ延びる
+0.0002394    1 concentration  : 正定
+0.0002389    1 prefectural    : 県政
+0.0002384    2 smooth         : 延びる, 延ばす
+0.0002367    2 adjust         : 補整, 整える
+0.0002367    2 paint          : 延びる, 延び
+0.0002364    1 privacy        : 内証
+0.0002361    1 container      : 歪
+0.0002339    2 irregularity   : 不整, 不正
+0.0002333    1 firmness       : 間延び
+0.0002333    1 hole           : 正孔
+0.0002332    2 appropriate    : 正着, 正解
+0.0002327    1 confidentiality: 内証
+0.0002321    2 argument       : 政論, 正論
+0.0002303    1 coin           : 歪
+0.0002291    1 pledge         : 保証
+0.0002290    1 politician     : 政客
+0.0002289    1 pleasure       : 征途
+0.0002287    1 arrow          : 征矢
+0.0002283    2 growth         : 延び率, 延び
+0.0002282    3 public         : 民政, 財政, 正倉
+0.0002275    3 function       : 正割, 正切, 正接
+0.0002251    1 secant         : 正割
+0.0002250    1 maneuver       : 政略
+0.0002247    4 accurate       : 整然, 正々, 正正, 正確
+0.0002242    3 decent         : 端整, 端正, 正面
+0.0002235    1 perjury        : 偽証
+0.0002217    1 secrecy        : 内証
+0.0002216    1 widen          : 延べる
+0.0002216    2 noble          : 政所, 正室
+0.0002213    4 character      : 正音, 正字, 正気, 正体
+0.0002207    2 run            : 落ち延びる, 蔓延る
+0.0002204    1 financial      : 財政
+0.0002190    2 foreign        : 外征, 外政
+0.0002161    1 oppressive     : 圧政
+0.0002156    1 administrator  : 執政
+0.0002152    1 launch         : 長征
+0.0002142    2 period         : 政所, 藩政
+0.0002141    1 example        : 例証
+0.0002140    1 engaged        : 政客
+0.0002139    1 malleability   : 延性
+0.0002138    2 tidy           : 整える, 整然
+0.0002137    1 shogunate      : 幕政
+0.0002118    2 style          : 正書, 正風
+0.0002107    1 governor       : 執政
+0.0002101    2 thrust         : 差し延べる, 差延べる
+0.0002098    1 realization    : 内証
+0.0002085    1 fiscal         : 内証
+0.0002076    1 regime         : 圧政
+0.0002060    1 battle         : 征矢
+0.0002059    1 oarsman        : 整調
+0.0002056    1 chastisement   : 征伐
+0.0002051    1 Confucian      : 正経
+0.0002038    1 unevenness     : 不整
+0.0002030    1 shape          : 歪
+0.0002028    1 contrary       : 反証
+0.0002026    1 medulla        : 延髄
+0.0002022    1 conclusive     : 確証
+0.0002012    1 certain        : 論証
+0.0002011    1 asymmetry      : 不整
+0.0002011    2 aid            : 差し延べる, 差延べる
+0.0002008    2 actual         : 実証, 正味
+0.0002005    1 reel           : 延べ竿
+0.0002003    1 conviction     : 心証
+0.0002002    2 offer          : 差し延べる, 差延べる
+0.0002000    1 round          : 歪
+0.0001992    1 connected      : 延べ竿
+0.0001952    1 clerk          : 政所
+0.0001949    1 visa           : 査証
+0.0001949    1 passport       : 査証
+0.0001940    1 stamping       : 査証
+0.0001930    1 statesmanship  : 施政
+0.0001930    2 rice           : 歪, 正宗
+0.0001922    1 change         : 政変
+0.0001906    1 platform       : 政綱
+0.0001897    2 development    : 延び, 整備
+0.0001895    2 charge         : 政所, 正字
+0.0001893    2 treaty         : 整う, 正文
+0.0001883    1 world          : 政界
+0.0001883    1 politic        : 国政
+0.0001880    2 ready          : 整える, 整う
+0.0001879    2 hair           : 延びる, 延ばす
+0.0001870    1 junta          : 軍政
+0.0001866    1 monarchical    : 帝政
+0.0001859    1 bonesetting    : 整骨
+0.0001853    1 cipher         : 暗証
+0.0001849    1 expatiation    : 敷延
+0.0001848    1 citation       : 引証
+0.0001845    1 surgery        : 整形
+0.0001838    3 price          : 正札, 正価, 正味
+0.0001836    2 place          : 逃げ延びる, 整備
+0.0001832    1 horticulture   : 整枝
+0.0001829    1 kitchen        : 内証
+0.0001824    1 groggy         : 延びる
+0.0001815    3 part           : 正篇, 正編, 正味
+0.0001809    5 formal         : 正餐, 正則, 正装, 正式, 正規
+0.0001800    2 arrangement    : 整え, 整理
+0.0001798    2 retouching     : 修整, 修正
+0.0001797    2 confirm        : 聞き正す, 正す
+0.0001784    1 principle      : 政綱
+0.0001782    1 safe           : 逃げ延びる
+0.0001782    1 belief         : 心証
+0.0001779    2 help           : 差し延べる, 差延べる
+0.0001776    1 statecraft     : 国政
+0.0001774    2 working        : 政所, 正味
+0.0001769    1 polynomial     : 整式
+0.0001767    1 mastery        : 征服
+0.0001764    2 ascertain      : 聞き正す, 正す
+0.0001763    1 polity         : 政体
+0.0001750    2 front          : 出征, 正面
+0.0001747    1 postal         : 郵政
+0.0001741    1 verbal         : 証言
+0.0001740    1 lady           : 政所
+0.0001726    1 imperialism    : 帝政
+0.0001725    2 someone        : 政客, 問い正す
+0.0001721    4 pure           : 醇正, 正絹, 純正, 真正
+0.0001709    1 elaboration    : 敷延
+0.0001706    1 supplement     : 正続
+0.0001704    1 related        : 政所
+0.0001702    1 neck           : 延べ竿
+0.0001700    1 oar            : 整調
+0.0001698    1 password       : 暗証
+0.0001679    1 soggy          : 延びる
+0.0001679    1 definite       : 確証
+0.0001676    1 inner          : 内証
+0.0001663    1 tip            : 延べ竿
+0.0001663    3 fairness       : 中正, 正大, 公正
+0.0001660    1 correctness    : 至正
+0.0001659    1 presentation   : 挙証
+0.0001655    1 lay            : 延べる
+0.0001654    1 impression     : 心証
+0.0001654    1 misrule        : 悪政
+0.0001640    1 quotation      : 引証
+0.0001637    1 ladder         : 征
+0.0001635    1 move           : 正着
+0.0001634    1 amplification  : 敷延
+0.0001632    1 bed            : 延べる
+0.0001630    1 reins          : 大政
+0.0001626    1 welfare        : 民政
+0.0001615    1 symmetry       : 均整
+0.0001613    1 integral       : 整式
+0.0001612    1 educational    : 文政
+0.0001599    1 promotion      : 民政
+0.0001594    1 homemaking     : 家政
+0.0001587    3 lawful         : 正妻, 正しい, 正当
+0.0001586    1 forest         : 林政
+0.0001586    1 important      : 政所
+0.0001585    1 upheaval       : 政変
+0.0001583    1 prevail        : 蔓延る
+0.0001581    2 opponent       : 政敵, 正眼
+0.0001579    1 effect         : 逃げ延びる
+0.0001578    3 point          : 敷延, 正鵠, 正に
+0.0001577    1 exemplary      : 憲政
+0.0001576    1 suffrage       : 参政
+0.0001576    1 personal       : 内証
+0.0001571    1 businessman    : 政商
+0.0001570    2 tune           : 整える, 正調
+0.0001569    1 overgrown      : 蔓延る
+0.0001569    1 investigation  : 考証
+0.0001566    1 applied        : 正丁
+0.0001565    1 metropolitan   : 都政
+0.0001562    2 explanation    : 敷延, 正義
+0.0001561    3 wrong          : 正邪, 正否, 正誤
+0.0001556    1 cathode        : 正極
+0.0001555    2 systematic     : 整然, 正則
+0.0001555    1 long           : 間延び
+0.0001555    1 governance     : 行政
+0.0001540    1 prolong        : 延ばす
+0.0001535    1 middle         : 政所
+0.0001534    1 thrive         : 蔓延る
+0.0001533    1 electrode      : 正極
+0.0001524    1 labour         : 労政
+0.0001524    3 name           : 正称, 正殿, 正業
+0.0001523    1 single         : 延べ竿
+0.0001518    1 secret         : 内証
+0.0001516    1 sustain        : 延び
+0.0001516    1 strengthen     : 延ばす
+0.0001512    1 taking         : 間延び
+0.0001510    1 labor          : 労政
+0.0001503    1 seal           : 証印
+0.0001502    1 ordinance      : 政令
+0.0001502    1 ministry       : 政府
+0.0001497    1 clan           : 藩政
+0.0001497    1 bill           : 証券
+0.0001496    1 rampant        : 蔓延る
+0.0001493    1 deliberation   : 政審
+0.0001492    1 piece          : 延べ竿
+0.0001490    1 bamboo         : 延べ竿
+0.0001482    1 domain         : 藩政
+0.0001480    1 difficulty     : 征服
+0.0001480    1 sovereign      : 大政
+0.0001477    1 cut            : 切り整える
+0.0001477    1 agricultural   : 農政
+0.0001471    1 latency        : 遅延
+0.0001470    1 draft          : 出征
+0.0001466    2 specie         : 正貨, 正金
+0.0001464    2 honor          : 正賓, 正客
+0.0001460    1 posture        : 整容
+0.0001459    1 response       : 出征
+0.0001457    2 Jodo           : 正行, 正業
+0.0001451    1 general        : 政所
+0.0001445    1 aggregate      : 延べ
+0.0001444    1 dough          : 延ばす
+0.0001444    1 dilute         : 延ばす
+0.0001443    1 usage          : 正用
+0.0001438    1 elasticity     : 延びる
+0.0001436    1 liaison        : 政労
+0.0001436    3 proofreading   : 正字, 較正, 校正
+0.0001433    1 housekeeping   : 家政
+0.0001431    1 denotation     : 外延
+0.0001425    1 electron       : 正孔
+0.0001424    1 meet           : 食い延ばす
+0.0001420    1 strife         : 政争
+0.0001414    1 punishment     : 征伐
+0.0001411    1 proportion     : 均整
+0.0001411    1 justifying     : 整版
+0.0001411    1 orderliness    : 整頓
+0.0001411    1 chiropractic   : 整体
+0.0001411    1 osteopathy     : 整体
+0.0001410    1 fairing        : 整形
+0.0001403    1 strong         : 心証
+0.0001401    1 slack          : 延びる
+0.0001398    2 tops           : 正坐, 正座
+0.0001396    1 extended       : 延びる
+0.0001391    1 waking         : 延び
+0.0001384    2 handsome       : 端整, 端正
+0.0001381    1 performer      : 遠征
+0.0001378    1 study          : 考証
+0.0001378    1 skill          : 征服
+0.0001377    1 music          : 正楽
+0.0001374    2 soles          : 正坐, 正座
+0.0001372    1 preceding      : 延べ
+0.0001364    1 tour           : 遠征
+0.0001359    1 constitutional : 憲政
+0.0001359    1 span           : 延びる
+0.0001358    1 stock          : 証取
+0.0001356    2 graceful       : 端整, 端正
+0.0001354    1 exhausted      : 延びる
+0.0001354    1 voting         : 参政
+0.0001351    1 gross          : 延べ
+0.0001351    1 code           : 暗証
+0.0001351    1 finance        : 財政
+0.0001348    2 tangent        : 正切, 正接
+0.0001346    1 participation  : 参政
+0.0001344    1 disturbance    : 政変
+0.0001343    1 deadline       : 延びる
+0.0001340    2 copy           : 正本, 正副
+0.0001340    1 member         : 正員
+0.0001335    1 monarchy       : 王政
+0.0001334    1 large          : 政所
+0.0001332    1 revolution     : 政変
+0.0001331    1 reposition     : 整復
+0.0001331    1 manipulative   : 整体
+0.0001331    1 orthopedics    : 整形
+0.0001329    2 fix            : 整える, 修正
+0.0001324    1 facsimile      : 正本
+0.0001324    3 honest         : 正しい, 正面, 正直
+0.0001322    2 clear          : 敷延, 正味
+0.0001320    1 stroke         : 整調
+0.0001316    1 sports         : 遠征
+0.0001316    1 municipal      : 市政
+0.0001316    1 minus          : 正負
+0.0001312    1 coefficient    : 延び率
+0.0001305    3 amendment      : 訂正, 修正, 改正
+0.0001305    1 religion       : 政教
+0.0001303    1 domestic       : 内政
+0.0001301    1 keep           : 食い延ばす
+0.0001295    1 go             : 正着
+0.0001295    1 improve        : 延びる
+0.0001294    2 work           : 整える, 延長
+0.0001281    1 cabinet        : 政令
+0.0001278    1 later          : 順延
+0.0001271    1 retribution    : 正報
+0.0001266    1 establishment  : 政財界
+0.0001257    1 regulate       : 整える
+0.0001255    1 spreading      : 展延
+0.0001252    3 redress        : きょう正, 矯正, 匡正
+0.0001250    1 dialectics     : 正
+0.0001248    2 days           : 延びる, 正月
+0.0001247    1 tailoring      : 調整
+0.0001245    2 sound          : 延び, 正論
+0.0001243    1 regulated      : 整う
+0.0001238    1 team           : 遠征
+0.0001238    1 Japan          : 日証協
+0.0001230    1 collapse       : 延びる
+0.0001229    1 reverse        : 正逆
+0.0001226    2 net            : 正味, 正価
+0.0001225    1 diplomatic     : 外政
+0.0001215    1 balance        : 均整
+0.0001213    1 talking        : 政談
+0.0001213    1 deferment      : 延期
+0.0001211    1 time           : 間延び
+0.0001211    1 karma          : 正報
+0.0001211    1 progress       : 延びる
+0.0001209    1 governing      : 為政
+0.0001209    1 discussion     : 政談
+0.0001207    1 mountain       : 征服
+0.0001206    1 health         : 正丁
+0.0001201    1 various        : 正丁
+0.0001201    1 paper          : 証書
+0.0001196    1 research       : 政調
+0.0001192    2 kneeling       : 正坐, 正座
+0.0001187    1 commutation    : 整流
+0.0001187    1 retrenchment   : 整理
+0.0001182    2 form           : 政体, 正体
+0.0001181    1 expression     : 整式
+0.0001181    1 expansion      : 展延
+0.0001179    1 addition       : 延いては
+0.0001179    1 visit          : 遠征
+0.0001172    1 overdue        : 延滞
+0.0001157    1 conformity     : 整合
+0.0001156    1 pronunciation  : 正音
+0.0001149    1 service        : 出征
+0.0001147    1 looking        : 正視
+0.0001145    1 integer        : 整数
+0.0001144    1 credit         : 延べ
+0.0001142    1 height         : 延びる
+0.0001137    1 excellent      : 憲政
+0.0001136    1 food           : 食い延ばす
+0.0001136    1 medicine       : 整腸
+0.0001135    1 curtailment    : 整理
+0.0001131    1 increase       : 延びる
+0.0001125    1 hairdressing   : 整髪
+0.0001117    1 economy        : 家政
+0.0001116    1 salt           : 正塩
+0.0001115    1 shaping        : 整形
+0.0001115    1 smoothing      : 整形
+0.0001110    2 impartiality   : 中正, 公正
+0.0001109    1 pole           : 正極
+0.0001106    1 longer         : 延命
+0.0001106    1 thick          : 蔓延る
+0.0001104    1 fixing         : 調整
+0.0001101    1 Edo            : 藩政
+0.0001100    1 industry       : 政財界
+0.0001092    1 grass          : 延びる
+0.0001087    1 continuation   : 延長
+0.0001086    1 age            : 正丁
+0.0001084    1 thesis         : 正
+0.0001082    1 reconciliation : 調整
+0.0001081    1 word           : 正用
+0.0001078    1 consolidation  : 整理
+0.0001075    1 assemble       : 整える
+0.0001069    1 household      : 家政
+0.0001065    1 authority      : 行政
+0.0001064    1 rhythm         : 整える
+0.0001064    3 remedy         : きょう正, 矯正, 匡正
+0.0001064    1 segment        : 延長
+0.0001061    1 harmonious     : 整う
+0.0001060    1 unit           : 延べ
+0.0001060    3 traditional    : 正調, 正字, 正統
+0.0001060    1 cosmetic       : 整形
+0.0001051    1 carry          : 延び
+0.0001050    3 flaw           : きょう正, 矯正, 匡正
+0.0001045    1 pass           : 延びる
+0.0001045    1 sure           : 正す
+0.0001040    1 thin           : 延ばす
+0.0001036    1 ability        : 延び
+0.0001036    1 liquidation    : 整理
+0.0001034    1 ask            : 問い正す
+0.0001031    1 survive        : 生き延びる
+0.0001023    1 breathing      : 整える
+0.0001019    1 lose           : 延びる
+0.0001019    1 settled        : 整う
+0.0001016    1 clearance      : 整理
+0.0001015    1 date           : 順延
+0.0001011    1 rate           : 延び率
+0.0001008    1 trim           : 整然
+0.0001007    1 national       : 国政
+0.0001007    1 zero           : 正
+0.0001005    1 provision      : 整備
+0.0001001    1 massage        : 整体
+0.0001001    1 previous       : 正報
+0.0000999    2 straight       : 正視, 正面
+0.0000998    1 alignment      : 整列
+0.0000988    1 head           : 整調
+0.0000988    1 man            : 正丁
+0.0000987    1 standardization: 規整
+0.0000983    1 disposal       : 整理
+0.0000977    1 integration    : 整合
+0.0000974    2 pointing       : 正眼, 叱正
+0.0000971    2 face           : 整う, 正視
+0.0000971    1 moving         : 順延
+0.0000961    1 arrival        : 延着
+0.0000955    1 prepared       : 整う
+0.0000953    1 excess         : 正肉
+0.0000952    2 punctual       : 正々, 正正
+0.0000950    1 greater        : 正
+0.0000950    1 execution      : 整え
+0.0000950    1 center         : 正中
+0.0000945    1 forming        : 整列
+0.0000945    1 planting       : 整地
+0.0000944    3 reform         : きょう正, 矯正, 匡正
+0.0000943    2 critique       : 批正, 叱正
+0.0000943    1 maintenance    : 整備
+0.0000941    1 fat            : 正肉
+0.0000938    1 turn           : 延いては
+0.0000937    1 settle         : 整える
+0.0000937    1 rectitude      : 方正
+0.0000933    1 logical        : 正
+0.0000933    1 refined        : 整う
+0.0000931    1 buy            : 整える
+0.0000928    1 way            : 正用
+0.0000927    1 improvement    : 整備
+0.0000923    1 negative       : 正負
+0.0000923    1 plastic        : 整形
+0.0000922    2 sitting        : 正坐, 正座
+0.0000914    2 flat           : 正坐, 正座
+0.0000913    1 photography    : 修整
+0.0000912    1 thousand       : 正
+0.0000911    1 commentary     : 正文
+0.0000910    2 first          : 正月, 正妻
+0.0000899    1 length         : 延長
+0.0000897    1 included       : 正文
+0.0000895    1 supply         : 整える
+0.0000895    1 therapy        : 整体
+0.0000892    1 hand           : 延びる
+0.0000889    1 keeping        : 延命
+0.0000888    1 ten            : 正
+0.0000882    1 settlement     : 整理
+0.0000876    1 stage          : 正中
+0.0000874    1 Buddha         : 正法
+0.0000872    2 orthodox       : 正統, 正教
+0.0000871    1 property       : 延長
+0.0000867    1 deal           : 整える
+0.0000865    1 method         : 正法
+0.0000857    1 chicken        : 正肉
+0.0000856    1 circle         : 正円
+0.0000854    2 calibration    : 較正, 校正
+0.0000852    1 debt           : 整理
+0.0000851    3 fault          : きょう正, 矯正, 匡正
+0.0000850    1 location       : 正位
+0.0000848    1 row            : 整列
+0.0000846    1 soil           : 整地
+0.0000842    1 meditative     : 正業
+0.0000840    1 spirit         : 正気
+0.0000835    1 paying         : 整理
+0.0000831    2 rebirth        : 正行, 正念
+0.0000824    1 traffic        : 整形
+0.0000822    1 based          : 整体
+0.0000820    1 translation    : 正文
+0.0000817    1 pressure       : 圧延
+0.0000815    1 bad            : 悪政
+0.0000806    1 division       : 整除
+0.0000805    1 heart          : 正気
+0.0000805    2 track          : 正路, 正道
+0.0000804    1 literature     : 正文
+0.0000804    1 respectable    : 正面
+0.0000795    2 meaning        : 正字, 正義
+0.0000792    1 classical      : 正文
+0.0000790    1 construction   : 整地
+0.0000783    1 live           : 生き延びる
+0.0000782    1 polygamous     : 正妻
+0.0000782    1 skin           : 正肉
+0.0000778    1 Amitabha       : 正業
+0.0000771    2 square         : 正書, 正方
+0.0000766    2 duty           : 正路, 正道
+0.0000760    1 cutting        : 整理
+0.0000756    1 meat           : 正肉
+0.0000749    1 standing       : 整列
+0.0000742    1 interrogate    : 問い正す
+0.0000735    1 unsimplified   : 正字
+0.0000728    2 alteration     : 修正, 改正
+0.0000727    1 judicial       : 弾正
+0.0000724    2 reasonable     : 適正, 正当
+0.0000723    1 sensible       : 正面
+0.0000713    1 State          : 正殿
+0.0000711    1 ground         : 整地
+0.0000705    1 fire           : 延焼
+0.0000698    1 position       : 正位
+0.0000694    1 bullion        : 正金
+0.0000691    1 tag            : 正札
+0.0000675    1 minister       : 弾正
+0.0000673    1 sake           : 正宗
+0.0000666    2 defect         : きょう正, 矯正
+0.0000661    1 delegate       : 正使
+0.0000654    1 clarify        : 聞き正す
+0.0000647    1 judge          : 弾正
+0.0000645    1 enquire        : 問い正す
+0.0000645    2 fair           : 正論, 厳正
+0.0000643    2 answer         : 正答, 正解
+0.0000641    1 activity       : 正業
+0.0000640    1 welcoming      : 正眼
+0.0000640    1 curriculum     : 正課
+0.0000632    1 dress          : 正装
+0.0000622    1 holomorphic    : 正則
+0.0000622    1 invertible     : 正則
+0.0000620    1 saying         : 正業
+0.0000617    1 officer        : 弾正
+0.0000607    1 dynasty        : 正朝
+0.0000599    1 grill          : 問い正す
+0.0000599    1 inquire        : 問い正す
+0.0000599    1 illegitimate   : 正閏
+0.0000594    1 envoy          : 正使
+0.0000594    2 teeth          : きょう正, 矯正
+0.0000591    1 action         : 正業
+0.0000589    1 dream          : 正夢
+0.0000585    1 history        : 正史
+0.0000584    1 concubine      : 正室
+0.0000583    1 stance         : 正眼
+0.0000582    1 illegality     : 不正
+0.0000578    1 descent        : 正系
+0.0000576    1 metallic       : 正貨
+0.0000575    1 comes          : 正夢
+0.0000574    1 heir           : 正室
+0.0000574    1 successor      : 正室
+0.0000572    1 Biblical       : 正典
+0.0000555    1 explain        : 問い正す
+0.0000555    1 unfairness     : 不正
+0.0000547    1 banquet        : 正餐
+0.0000544    1 starch         : 正麩
+0.0000540    1 building       : 正殿
+0.0000538    1 dinner         : 正餐
+0.0000537    1 iniquity       : 不正
+0.0000535    1 leap           : 正閏
+0.0000528    2 full           : 正装, 正味
+0.0000524    1 pendulum       : 補正
+0.0000516    1 active         : 正員
+0.0000515    1 currency       : 正貨
+0.0000514    1 printed        : 正書
+0.0000514    1 injustice      : 不正
+0.0000514    1 warm           : 正眼
+0.0000510    1 wheat          : 正麩
+0.0000508    1 cash           : 正金
+0.0000507    1 hour           : 正時
+0.0000506    1 emmetropia     : 正視
+0.0000505    1 impropriety    : 不正
+0.0000498    1 senior         : 正使
+0.0000489    1 equitable      : 正当
+0.0000489    1 normalcy       : 正常
+0.0000488    1 orthodoxy      : 正教
+0.0000485    1 wrongdoing     : 不正
+0.0000482    1 brink          : 正に
+0.0000480    1 chief          : 正使
+0.0000476    1 justifiable    : 正当
+0.0000476    1 normality      : 正常
+0.0000475    1 block          : 正書
+0.0000474    1 question       : 問い正す
+0.0000474    1 truthful       : 正しい
+0.0000472    1 standard       : 正書
+0.0000471    1 silk           : 正絹
+0.0000469    1 midnight       : 正子
+0.0000467    1 holding        : 正眼
+0.0000461    1 paradise       : 正行
+0.0000459    1 subject        : 正課
+0.0000457    1 relationship   : 正妻
+0.0000451    1 fraud          : 不正
+0.0000448    1 verge          : 正に
+0.0000445    1 sine           : 正弦
+0.0000443    1 matrix         : 正則
+0.0000440    1 written        : 正字
+0.0000437    1 reading        : 正訓
+0.0000432    1 mindfulness    : 正念
+0.0000429    1 Taisho         : 大正
+0.0000428    1 righteous      : 正しい
+0.0000427    1 brand          : 正宗
+0.0000427    1 doubt          : 正に
+0.0000425    1 compensation   : 補正
+0.0000424    1 accuracy       : 正誤
+0.0000424    1 find           : 聞き正す
+0.0000421    1 biography      : 正伝
+0.0000419    1 update         : 修正
+0.0000416    1 autograph      : 正銘
+0.0000416    1 impartial      : 厳正
+0.0000413    1 ceremony       : 正客
+0.0000412    1 writing        : 正書
+0.0000412    1 comment        : 批正
+0.0000410    1 wine           : 正宗
+0.0000407    1 tea            : 正客
+0.0000407    1 blade          : 正宗
+0.0000406    1 chairman       : 正副
+0.0000405    1 incorrect      : 正誤
+0.0000405    1 precise        : 正確
+0.0000403    1 authorized     : 正史
+0.0000399    1 enforcement    : 粛正
+0.0000397    1 midday         : 正午
+0.0000395    1 famous         : 正宗
+0.0000391    1 negotiation    : 正札
+0.0000389    1 number         : 正数
+0.0000382    1 reasoning      : 正論
+0.0000382    1 Greek          : 正教
+0.0000380    1 offender       : 正犯
+0.0000379    1 collected      : 正倉
+0.0000378    1 candid         : 正直
+0.0000378    1 modification   : 修正
+0.0000377    1 rigid          : 厳正
+0.0000375    1 storehouse     : 正倉
+0.0000369    1 said           : 正身
+0.0000369    1 straightforward: 正直
+0.0000367    1 revealing      : 顕正
+0.0000364    1 alternate      : 正殿
+0.0000364    1 useful         : 正味
+0.0000363    1 suitable       : 適正
+0.0000363    1 region         : 正宗
+0.0000363    1 taxation       : 正倉
+0.0000362    1 noon           : 正午
+0.0000358    1 vision         : 正視
+0.0000356    1 interpretation : 正解
+0.0000355    1 mystery        : 正体
+0.0000354    1 label          : 正札
+0.0000353    1 offense        : 正犯
+0.0000352    1 phenomenon     : 正体
+0.0000350    1 reduced        : 正札
+0.0000348    1 identity       : 正体
+0.0000347    1 consciousness  : 正体
+0.0000346    1 facing         : 正視
+0.0000345    1 family         : 正嫡
+0.0000341    1 faith          : 正念
+0.0000341    1 January        : 正月
+0.0000339    1 colors         : 正体
+0.0000339    1 established    : 正規
+0.0000334    1 strict         : 厳正
+0.0000331    1 thing          : 正身
+0.0000326    1 solution       : 正解
+0.0000325    1 palace         : 正殿
+0.0000324    1 frank          : 正直
+0.0000321    1 central        : 正殿
+0.0000320    1 choice         : 正解
+0.0000315    1 something      : 問い正す
+0.0000314    1 decision       : 正解
+0.0000311    1 priest         : 僧正
+0.0000310    1 entrance       : 正門
+0.0000309    1 content        : 正味
+0.0000308    1 gate           : 正門
+0.0000304    1 cost           : 正味
+0.0000303    1 origin         : 正体
+0.0000302    1 weight         : 正味
+0.0000293    1 problem        : 正視
+0.0000293    1 soy            : 正油
+0.0000284    1 mistake        : 匡正
+0.0000280    1 base           : 正札
+0.0000279    1 amount         : 正味
+0.0000279    1 sauce          : 正油
+0.0000278    1 store          : 正倉
+0.0000273    1 temple         : 正殿
+0.0000273    1 shrine         : 正殿
+0.0000270    1 Buddhist       : 僧正
+0.0000260    1 three          : 正月
+0.0000256    1 land           : 正念
+0.0000247    1 high           : 僧正
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0526316    1 bread
+	bread WORD[ 1,   1]: 0.0526316 麪包
+TOKEN[ 2]: 0.0349061    6 rectification
+	rectification WORD[ 2,   1]: 0.0346367 整風
+	rectification WORD[ 2,   2]: 0.0001116 整流
+	rectification WORD[ 2,   3]: 0.0000401 更正
+	rectification WORD[ 2,   4]: 0.0000392 きょう正
+	rectification WORD[ 2,   5]: 0.0000392 矯正
+	rectification WORD[ 2,   6]: 0.0000392 匡正
+TOKEN[ 3]: 0.0276841    3 grain
+	grain WORD[ 3,   1]: 0.0275638 柾目
+	grain WORD[ 3,   2]: 0.0000888 正目
+	grain WORD[ 3,   3]: 0.0000316 正倉
+TOKEN[ 4]: 0.0273834    1 smiling
+	smiling WORD[ 4,   1]: 0.0273834 嫣然
+TOKEN[ 5]: 0.0239429    3 gong
+	gong WORD[ 5,   1]: 0.0092750 陣鉦
+	gong WORD[ 5,   2]: 0.0092253 鉦鼓
+	gong WORD[ 5,   3]: 0.0054426 鉦
+TOKEN[ 6]: 0.0235981    1 glance
+	glance WORD[ 6,   1]: 0.0235981 流眄
+TOKEN[ 7]: 0.0214536    2 birthday
+	birthday WORD[ 7,   1]: 0.0199394 誕プレ
+	birthday WORD[ 7,   2]: 0.0015143 誕辰
+TOKEN[ 8]: 0.0181542    1 skewness
+	skewness WORD[ 8,   1]: 0.0181542 歪度
+TOKEN[ 9]: 0.0178105    2 Euonymus
+	Euonymus WORD[ 9,   1]: 0.0177533 柾
+	Euonymus WORD[ 9,   2]: 0.0000572 正木
+TOKEN[10]: 0.0162044    1 present
+	present WORD[10,   1]: 0.0162044 誕プレ
+TOKEN[11]: 0.0160859    3 party
+	party WORD[11,   1]: 0.0158922 離筵
+	party WORD[11,   2]: 0.0000969 政党
+	party WORD[11,   3]: 0.0000969 政調
+TOKEN[12]: 0.0152711    1 diver
+	diver WORD[12,   1]: 0.0152711 蜑
+TOKEN[13]: 0.0146632    1 flirtatious
+	flirtatious WORD[13,   1]: 0.0146632 流眄
+TOKEN[14]: 0.0144587    1 gracious
+	gracious WORD[14,   1]: 0.0144587 嫣然
+TOKEN[15]: 0.0143899    1 fisherman
+	fisherman WORD[15,   1]: 0.0143899 蜑
+TOKEN[16]: 0.0143702    1 sidelong
+	sidelong WORD[16,   1]: 0.0143702 流眄
+TOKEN[17]: 0.0123653    1 seaweed
+	seaweed WORD[17,   1]: 0.0123653 蜑
+TOKEN[18]: 0.0111512    1 divorce
+	divorce WORD[18,   1]: 0.0111512 離筵
+TOKEN[19]: 0.0107895    1 beauty
+	beauty WORD[19,   1]: 0.0107895 嫣然
+TOKEN[20]: 0.0106053    1 male
+	male WORD[20,   1]: 0.0106053 蜑
+TOKEN[21]: 0.0098108    1 bushy
+	bushy WORD[21,   1]: 0.0098108 蚰蜒眉
+TOKEN[22]: 0.0097655   13 expedition
+	expedition WORD[22,   1]: 0.0022481 征西
+	expedition WORD[22,   2]: 0.0015827 北征
+	expedition WORD[22,   3]: 0.0015684 南征
+	expedition WORD[22,   4]: 0.0010191 西征
+	expedition WORD[22,   5]: 0.0006989 征東
+	expedition WORD[22,   6]: 0.0006983 再征
+	expedition WORD[22,   7]: 0.0006975 親征
+	expedition WORD[22,   8]: 0.0002626 征途
+	expedition WORD[22,   9]: 0.0002624 征戦
+	expedition WORD[22,  10]: 0.0002289 長征
+	expedition WORD[22,  11]: 0.0001810 東征
+	expedition WORD[22,  12]: 0.0001698 征伐
+	expedition WORD[22,  13]: 0.0001478 遠征
+TOKEN[23]: 0.0094000    4 used
+	used WORD[23,   1]: 0.0046855 陣鉦
+	used WORD[23,   2]: 0.0046604 鉦鼓
+	used WORD[23,   3]: 0.0000331 正字
+	used WORD[23,   4]: 0.0000210 正倉
+TOKEN[24]: 0.0090306    1 bib
+	bib WORD[24,   1]: 0.0090306 涎掛け
+TOKEN[25]: 0.0089531    1 unexpected
+	unexpected WORD[25,   1]: 0.0089531 忽焉
+TOKEN[26]: 0.0085265    1 sudden
+	sudden WORD[26,   1]: 0.0085265 忽焉
+TOKEN[27]: 0.0084875    2 drool
+	drool WORD[27,   1]: 0.0042438 涎掛け
+	drool WORD[27,   2]: 0.0042437 涎
+TOKEN[28]: 0.0080213    4 distortion
+	distortion WORD[28,   1]: 0.0033782 歪み率
+	distortion WORD[28,   2]: 0.0033782 歪率
+	distortion WORD[28,   3]: 0.0004577 歪曲
+	distortion WORD[28,   4]: 0.0004036 歪み
+TOKEN[29]: 0.0079394    1 demise
+	demise WORD[29,   1]: 0.0079394 終焉
+TOKEN[30]: 0.0078490    5 mat
+	mat WORD[30,   1]: 0.0025926 藁筵
+	mat WORD[30,   2]: 0.0014984 筵
+	mat WORD[30,   3]: 0.0014115 花筵
+	mat WORD[30,   4]: 0.0011732 粗筵
+	mat WORD[30,   5]: 0.0011732 荒筵
+TOKEN[31]: 0.0075234    5 Japanese
+	Japanese WORD[31,   1]: 0.0073145 柾
+	Japanese WORD[31,   2]: 0.0001113 太政
+	Japanese WORD[31,   3]: 0.0000505 整体
+	Japanese WORD[31,   4]: 0.0000236 正宗
+	Japanese WORD[31,   5]: 0.0000236 正木
+TOKEN[32]: 0.0074391    1 sialorrhea
+	sialorrhea WORD[32,   1]: 0.0074391 流涎
+TOKEN[33]: 0.0074391    1 hypersalivation
+	hypersalivation WORD[33,   1]: 0.0074391 流涎
+TOKEN[34]: 0.0073385    1 bell
+	bell WORD[34,   1]: 0.0073385 陣鉦
+TOKEN[35]: 0.0070841   14 military
+	military WORD[35,   1]: 0.0016165 征西
+	military WORD[35,   2]: 0.0011380 北征
+	military WORD[35,   3]: 0.0011277 南征
+	military WORD[35,   4]: 0.0007327 西征
+	military WORD[35,   5]: 0.0005025 征東
+	military WORD[35,   6]: 0.0005015 親征
+	military WORD[35,   7]: 0.0003791 軍政
+	military WORD[35,   8]: 0.0001888 征途
+	military WORD[35,   9]: 0.0001887 征戦
+	military WORD[35,  10]: 0.0001881 征衣
+	military WORD[35,  11]: 0.0001646 長征
+	military WORD[35,  12]: 0.0001301 東征
+	military WORD[35,  13]: 0.0001195 出征
+	military WORD[35,  14]: 0.0001063 遠征
+TOKEN[36]: 0.0069763    1 signal
+	signal WORD[36,   1]: 0.0069763 陣鉦
+TOKEN[37]: 0.0066911    8 campaign
+	campaign WORD[37,   1]: 0.0019789 征西
+	campaign WORD[37,   2]: 0.0013931 北征
+	campaign WORD[37,   3]: 0.0013806 南征
+	campaign WORD[37,   4]: 0.0008970 西征
+	campaign WORD[37,   5]: 0.0006152 征東
+	campaign WORD[37,   6]: 0.0001593 東征
+	campaign WORD[37,   7]: 0.0001369 外征
+	campaign WORD[37,   8]: 0.0001301 遠征
+TOKEN[38]: 0.0061831    1 spending
+	spending WORD[38,   1]: 0.0061831 終焉
+TOKEN[39]: 0.0059577    1 nephropathy
+	nephropathy WORD[39,   1]: 0.0059577 腎症
+TOKEN[40]: 0.0055537    1 final
+	final WORD[40,   1]: 0.0055537 終焉
+TOKEN[41]: 0.0055417   39 era
+	era WORD[41,   1]: 0.0004913 延慶
+	era WORD[41,   2]: 0.0002831 安政
+	era WORD[41,   3]: 0.0002457 永延
+	era WORD[41,   4]: 0.0002456 延暦
+	era WORD[41,   5]: 0.0002456 延文
+	era WORD[41,   6]: 0.0002456 延応
+	era WORD[41,   7]: 0.0002456 延喜
+	era WORD[41,   8]: 0.0002456 延元
+	era WORD[41,   9]: 0.0002456 延享
+	era WORD[41,  10]: 0.0002456 延久
+	era WORD[41,  11]: 0.0002456 天延
+	era WORD[41,  12]: 0.0002455 保延
+	era WORD[41,  13]: 0.0002454 寛延
+	era WORD[41,  14]: 0.0002454 延徳
+	era WORD[41,  15]: 0.0001857 延宝
+	era WORD[41,  16]: 0.0001538 正慶
+	era WORD[41,  17]: 0.0001225 文政
+	era WORD[41,  18]: 0.0001086 万延
+	era WORD[41,  19]: 0.0000930 寛政
+	era WORD[41,  20]: 0.0000769 正暦
+	era WORD[41,  21]: 0.0000769 正応
+	era WORD[41,  22]: 0.0000769 正嘉
+	era WORD[41,  23]: 0.0000769 正元
+	era WORD[41,  24]: 0.0000768 寛正
+	era WORD[41,  25]: 0.0000768 永正
+	era WORD[41,  26]: 0.0000768 正長
+	era WORD[41,  27]: 0.0000763 延長
+	era WORD[41,  28]: 0.0000735 天正
+	era WORD[41,  29]: 0.0000674 正保
+	era WORD[41,  30]: 0.0000554 大正
+	era WORD[41,  31]: 0.0000542 文正
+	era WORD[41,  32]: 0.0000424 正中
+	era WORD[41,  33]: 0.0000337 正安
+	era WORD[41,  34]: 0.0000337 正宗
+	era WORD[41,  35]: 0.0000337 正和
+	era WORD[41,  36]: 0.0000269 正平
+	era WORD[41,  37]: 0.0000269 正治
+	era WORD[41,  38]: 0.0000265 正徳
+	era WORD[41,  39]: 0.0000259 康正
+TOKEN[42]: 0.0055318    2 factor
+	factor WORD[42,   1]: 0.0027659 歪み率
+	factor WORD[42,   2]: 0.0027659 歪率
+TOKEN[43]: 0.0052561    1 autocracy
+	autocracy WORD[43,   1]: 0.0052561 専政
+TOKEN[44]: 0.0052162    4 sinuous
+	sinuous WORD[44,   1]: 0.0024891 蜒々
+	sinuous WORD[44,   2]: 0.0024891 蜿蜒
+	sinuous WORD[44,   3]: 0.0001190 延々
+	sinuous WORD[44,   4]: 0.0001190 延延
+TOKEN[45]: 0.0050624    4 serpentine
+	serpentine WORD[45,   1]: 0.0024157 蜒々
+	serpentine WORD[45,   2]: 0.0024157 蜿蜒
+	serpentine WORD[45,   3]: 0.0001155 延々
+	serpentine WORD[45,   4]: 0.0001155 延延
+TOKEN[46]: 0.0050280    1 small
+	small WORD[46,   1]: 0.0050280 鉦鼓
+TOKEN[47]: 0.0048288    5 life
+	life WORD[47,   1]: 0.0043103 終焉
+	life WORD[47,   2]: 0.0002328 延齢
+	life WORD[47,   3]: 0.0001331 延命
+	life WORD[47,   4]: 0.0000861 延びる
+	life WORD[47,   5]: 0.0000665 延寿
+TOKEN[48]: 0.0047730    1 wretch
+	wretch WORD[48,   1]: 0.0047730 蚰蜒
+TOKEN[49]: 0.0046356    5 end
+	end WORD[49,   1]: 0.0042814 終焉
+	end WORD[49,   2]: 0.0000886 引き延す
+	end WORD[49,   3]: 0.0000886 引き延ばす
+	end WORD[49,   4]: 0.0000886 引延す
+	end WORD[49,   5]: 0.0000886 引延ばす
+TOKEN[50]: 0.0045971   17 evidence
+	evidence WORD[50,   1]: 0.0008641 物証
+	evidence WORD[50,   2]: 0.0004632 罪証
+	evidence WORD[50,   3]: 0.0002981 明証
+	evidence WORD[50,   4]: 0.0002807 旁証
+	evidence WORD[50,   5]: 0.0002623 証憑
+	evidence WORD[50,   6]: 0.0002617 書証
+	evidence WORD[50,   7]: 0.0002617 証跡
+	evidence WORD[50,   8]: 0.0002066 傍証
+	evidence WORD[50,   9]: 0.0001667 信証
+	evidence WORD[50,  10]: 0.0001662 証左
+	evidence WORD[50,  11]: 0.0001661 証拠
+	evidence WORD[50,  12]: 0.0001661 証言
+	evidence WORD[50,  13]: 0.0001603 考証
+	evidence WORD[50,  14]: 0.0001577 偽証
+	evidence WORD[50,  15]: 0.0001524 確証
+	evidence WORD[50,  16]: 0.0001408 証
+	evidence WORD[50,  17]: 0.0001408 証し
+TOKEN[51]: 0.0044664    1 death
+	death WORD[51,   1]: 0.0044664 終焉
+TOKEN[52]: 0.0044425    4 winding
+	winding WORD[52,   1]: 0.0021199 蜒々
+	winding WORD[52,   2]: 0.0021199 蜿蜒
+	winding WORD[52,   3]: 0.0001014 延々
+	winding WORD[52,   4]: 0.0001014 延延
+TOKEN[53]: 0.0044100    1 skunk
+	skunk WORD[53,   1]: 0.0044100 蚰蜒
+TOKEN[54]: 0.0044100    1 centipede
+	centipede WORD[54,   1]: 0.0044100 蚰蜒
+TOKEN[55]: 0.0043987   22 political
+	political WORD[55,   1]: 0.0004395 政柄
+	political WORD[55,   2]: 0.0003533 政況
+	political WORD[55,   3]: 0.0003343 政略
+	political WORD[55,   4]: 0.0003343 政友
+	political WORD[55,   5]: 0.0003239 政変
+	political WORD[55,   6]: 0.0002159 政情
+	political WORD[55,   7]: 0.0002158 政財界
+	political WORD[55,   8]: 0.0002158 政権
+	political WORD[55,   9]: 0.0002158 政界
+	political WORD[55,  10]: 0.0001672 政論
+	political WORD[55,  11]: 0.0001667 政事
+	political WORD[55,  12]: 0.0001666 庶政
+	political WORD[55,  13]: 0.0001666 諸政
+	political WORD[55,  14]: 0.0001666 政綱
+	political WORD[55,  15]: 0.0001665 政見
+	political WORD[55,  16]: 0.0001080 政党
+	political WORD[55,  17]: 0.0001080 政敵
+	political WORD[55,  18]: 0.0001080 政争
+	political WORD[55,  19]: 0.0001079 政商
+	political WORD[55,  20]: 0.0001079 政策
+	political WORD[55,  21]: 0.0001079 政局
+	political WORD[55,  22]: 0.0001022 国政
+TOKEN[56]: 0.0042164    1 contemptible
+	contemptible WORD[56,   1]: 0.0042164 蚰蜒
+TOKEN[57]: 0.0039515    1 irascibility
+	irascibility WORD[57,   1]: 0.0039515 癇症
+TOKEN[58]: 0.0039515    1 peevishness
+	peevishness WORD[58,   1]: 0.0039515 癇症
+TOKEN[59]: 0.0038479    1 louse
+	louse WORD[59,   1]: 0.0038479 蚰蜒
+TOKEN[60]: 0.0038283    2 straw
+	straw WORD[60,   1]: 0.0024262 藁筵
+	straw WORD[60,   2]: 0.0014022 筵
+TOKEN[61]: 0.0037689   14 one
+	one WORD[61,   1]: 0.0024178 終焉
+	one WORD[61,   2]: 0.0005937 筵
+	one WORD[61,   3]: 0.0002164 逃げ延びる
+	one WORD[61,   4]: 0.0001306 延齢
+	one WORD[61,   5]: 0.0000741 内証
+	one WORD[61,   6]: 0.0000546 整容
+	one WORD[61,   7]: 0.0000483 延び
+	one WORD[61,   8]: 0.0000420 正報
+	one WORD[61,   9]: 0.0000412 差し延べる
+	one WORD[61,  10]: 0.0000412 差延べる
+	one WORD[61,  11]: 0.0000378 整える
+	one WORD[61,  12]: 0.0000373 延長
+	one WORD[61,  13]: 0.0000207 正眼
+	one WORD[61,  14]: 0.0000131 正体
+TOKEN[62]: 0.0035573   15 proof
+	proof WORD[62,   1]: 0.0003230 確証
+	proof WORD[62,   2]: 0.0003159 明証
+	proof WORD[62,   3]: 0.0003129 弁証
+	proof WORD[62,   4]: 0.0002774 証跡
+	proof WORD[62,   5]: 0.0002384 論証
+	proof WORD[62,   6]: 0.0002374 立証
+	proof WORD[62,   7]: 0.0002077 反証
+	proof WORD[62,   8]: 0.0001770 実証
+	proof WORD[62,   9]: 0.0001762 証明
+	proof WORD[62,  10]: 0.0001761 証書
+	proof WORD[62,  11]: 0.0001761 証左
+	proof WORD[62,  12]: 0.0001761 証拠
+	proof WORD[62,  13]: 0.0001662 挙証
+	proof WORD[62,  14]: 0.0001492 証
+	proof WORD[62,  15]: 0.0001492 証し
+TOKEN[63]: 0.0035356   27 government
+	government WORD[63,   1]: 0.0002755 憲政
+	government WORD[63,   2]: 0.0001948 政変
+	government WORD[63,   3]: 0.0001948 政体
+	government WORD[63,   4]: 0.0001832 軍政
+	government WORD[63,   5]: 0.0001585 朝政
+	government WORD[63,   6]: 0.0001523 太政
+	government WORD[63,   7]: 0.0001510 新政
+	government WORD[63,   8]: 0.0001503 庶政
+	government WORD[63,   9]: 0.0001503 諸政
+	government WORD[63,  10]: 0.0001498 執政
+	government WORD[63,  11]: 0.0001377 政所
+	government WORD[63,  12]: 0.0001353 院政
+	government WORD[63,  13]: 0.0001273 善政
+	government WORD[63,  14]: 0.0001224 民政
+	government WORD[63,  15]: 0.0001045 都政
+	government WORD[63,  16]: 0.0001031 帝政
+	government WORD[63,  17]: 0.0000984 大政
+	government WORD[63,  18]: 0.0000974 政令
+	government WORD[63,  19]: 0.0000974 政務
+	government WORD[63,  20]: 0.0000974 政府
+	government WORD[63,  21]: 0.0000974 政庁
+	government WORD[63,  22]: 0.0000974 政治
+	government WORD[63,  23]: 0.0000973 政
+	government WORD[63,  24]: 0.0000945 施政
+	government WORD[63,  25]: 0.0000945 市政
+	government WORD[63,  26]: 0.0000918 県政
+	government WORD[63,  27]: 0.0000810 悪政
+TOKEN[64]: 0.0034750   19 administration
+	administration WORD[64,   1]: 0.0003613 町政
+	administration WORD[64,   2]: 0.0003314 労政
+	administration WORD[64,   3]: 0.0002889 藩政
+	administration WORD[64,   4]: 0.0002643 区政
+	administration WORD[64,   5]: 0.0002069 幕政
+	administration WORD[64,   6]: 0.0001938 新政
+	administration WORD[64,   7]: 0.0001923 執政
+	administration WORD[64,   8]: 0.0001767 政所
+	administration WORD[64,   9]: 0.0001572 民政
+	administration WORD[64,  10]: 0.0001513 法政
+	administration WORD[64,  11]: 0.0001507 文政
+	administration WORD[64,  12]: 0.0001404 農政
+	administration WORD[64,  13]: 0.0001367 内政
+	administration WORD[64,  14]: 0.0001251 政府
+	administration WORD[64,  15]: 0.0001250 政権
+	administration WORD[64,  16]: 0.0001214 施政
+	administration WORD[64,  17]: 0.0001179 県政
+	administration WORD[64,  18]: 0.0001176 軍政
+	administration WORD[64,  19]: 0.0001163 行政
+TOKEN[65]: 0.0034314    1 irritability
+	irritability WORD[65,   1]: 0.0034314 癇症
+TOKEN[66]: 0.0033656    1 avid
+	avid WORD[66,   1]: 0.0033656 垂涎
+TOKEN[67]: 0.0031619    5 going
+	going WORD[67,   1]: 0.0014564 蜒々
+	going WORD[67,   2]: 0.0014563 蜿蜒
+	going WORD[67,   3]: 0.0001099 出征
+	going WORD[67,   4]: 0.0000697 延々
+	going WORD[67,   5]: 0.0000697 延延
+TOKEN[68]: 0.0031608    2 western
+	western WORD[68,   1]: 0.0021750 征西
+	western WORD[68,   2]: 0.0009859 西征
+TOKEN[69]: 0.0031455    3 west
+	west WORD[69,   1]: 0.0020896 征西
+	west WORD[69,   2]: 0.0009472 西征
+	west WORD[69,   3]: 0.0001087 正西
+TOKEN[70]: 0.0031360    1 thirst
+	thirst WORD[70,   1]: 0.0031360 垂涎
+TOKEN[71]: 0.0031159    1 craving
+	craving WORD[71,   1]: 0.0031159 垂涎
+TOKEN[72]: 0.0029882    1 watering
+	watering WORD[72,   1]: 0.0029882 垂涎
+TOKEN[73]: 0.0029752    1 envy
+	envy WORD[73,   1]: 0.0029752 垂涎
+TOKEN[74]: 0.0028563    5 illness
+	illness WORD[74,   1]: 0.0007643 難症
+	illness WORD[74,   2]: 0.0006682 軽症
+	illness WORD[74,   3]: 0.0005240 発症
+	illness WORD[74,   4]: 0.0004514 重症
+	illness WORD[74,   5]: 0.0004485 症
+TOKEN[75]: 0.0027572    1 temper
+	temper WORD[75,   1]: 0.0027572 癇症
+TOKEN[76]: 0.0026950    5 disease
+	disease WORD[76,   1]: 0.0011463 油症
+	disease WORD[76,   2]: 0.0006931 病症
+	disease WORD[76,   3]: 0.0006364 真症
+	disease WORD[76,   4]: 0.0001096 まん延
+	disease WORD[76,   5]: 0.0001096 蔓延
+TOKEN[77]: 0.0026872    2 woven
+	woven WORD[77,   1]: 0.0013436 粗筵
+	woven WORD[77,   2]: 0.0013436 荒筵
+TOKEN[78]: 0.0026611    1 lecture
+	lecture WORD[78,   1]: 0.0026611 講筵
+TOKEN[79]: 0.0025807    2 north
+	north WORD[79,   1]: 0.0014389 北征
+	north WORD[79,   2]: 0.0011417 正北
+TOKEN[80]: 0.0025748    2 check
+	check WORD[80,   1]: 0.0012874 預かり証
+	check WORD[80,   2]: 0.0012874 預り証
+TOKEN[81]: 0.0025508    2 nativity
+	nativity WORD[81,   1]: 0.0013112 生誕
+	nativity WORD[81,   2]: 0.0012396 降誕
+TOKEN[82]: 0.0025001    2 hot
+	hot WORD[82,   1]: 0.0022438 癇症
+	hot WORD[82,   2]: 0.0002563 熱延
+TOKEN[83]: 0.0024466    3 birth
+	birth WORD[83,   1]: 0.0008460 誕生
+	birth WORD[83,   2]: 0.0008228 生誕
+	birth WORD[83,   3]: 0.0007779 降誕
+TOKEN[84]: 0.0023980    1 house
+	house WORD[84,   1]: 0.0023980 蚰蜒
+TOKEN[85]: 0.0023775    1 desire
+	desire WORD[85,   1]: 0.0023775 垂涎
+TOKEN[86]: 0.0023198    8 genuine
+	genuine WORD[86,   1]: 0.0011888 正物
+	genuine WORD[86,   2]: 0.0008399 真症
+	genuine WORD[86,   3]: 0.0000716 正銘
+	genuine WORD[86,   4]: 0.0000670 醇正
+	genuine WORD[86,   5]: 0.0000448 正身
+	genuine WORD[86,   6]: 0.0000360 純正
+	genuine WORD[86,   7]: 0.0000359 真正
+	genuine WORD[86,   8]: 0.0000358 正真
+TOKEN[87]: 0.0022770    1 mouth
+	mouth WORD[87,   1]: 0.0022770 垂涎
+TOKEN[88]: 0.0021964    2 hyperacute
+	hyperacute WORD[88,   1]: 0.0010982 劇症
+	hyperacute WORD[88,   2]: 0.0010982 激症
+TOKEN[89]: 0.0021964    2 fulminant
+	fulminant WORD[89,   1]: 0.0010982 劇症
+	fulminant WORD[89,   2]: 0.0010982 激症
+TOKEN[90]: 0.0021890    3 person
+	person WORD[90,   1]: 0.0018034 蚰蜒
+	person WORD[90,   2]: 0.0003403 親征
+	person WORD[90,   3]: 0.0000453 正身
+TOKEN[91]: 0.0021714   13 politics
+	politics WORD[91,   1]: 0.0003628 政経
+	politics WORD[91,   2]: 0.0002045 政略
+	politics WORD[91,   3]: 0.0002035 政客
+	politics WORD[91,   4]: 0.0001660 民政
+	politics WORD[91,   5]: 0.0001621 政道
+	politics WORD[91,   6]: 0.0001598 法政
+	politics WORD[91,   7]: 0.0001321 政談
+	politics WORD[91,   8]: 0.0001320 政治
+	politics WORD[91,   9]: 0.0001320 政財界
+	politics WORD[91,  10]: 0.0001320 政教
+	politics WORD[91,  11]: 0.0001320 政界
+	politics WORD[91,  12]: 0.0001276 参政
+	politics WORD[91,  13]: 0.0001250 国政
+TOKEN[92]: 0.0019885    3 warp
+	warp WORD[92,   1]: 0.0004137 歪める
+	warp WORD[92,   2]: 0.0004137 歪む
+	warp WORD[92,   3]: 0.0003737 歪み
+TOKEN[93]: 0.0019715    1 ingestion
+	ingestion WORD[93,   1]: 0.0019715 油症
+TOKEN[94]: 0.0019010    1 symptom
+	symptom WORD[94,   1]: 0.0019010 本症
+TOKEN[95]: 0.0018776    4 serious
+	serious WORD[95,   1]: 0.0006791 劇症
+	serious WORD[95,   2]: 0.0006791 激症
+	serious WORD[95,   3]: 0.0004581 重症
+	serious WORD[95,   4]: 0.0000307 正面
+TOKEN[96]: 0.0017203    1 bulrush
+	bulrush WORD[96,   1]: 0.0017203 花筵
+TOKEN[97]: 0.0017034    1 canonical
+	canonical WORD[97,   1]: 0.0017034 正準
+TOKEN[98]: 0.0016732    1 floral
+	floral WORD[98,   1]: 0.0016732 花筵
+TOKEN[99]: 0.0015771   18 correct
+	correct WORD[99,   1]: 0.0004157 正用
+	correct WORD[99,   2]: 0.0001848 正経
+	correct WORD[99,   3]: 0.0001829 正位
+	correct WORD[99,   4]: 0.0001051 正音
+	correct WORD[99,   5]: 0.0000922 端整
+	correct WORD[99,   6]: 0.0000682 正義
+	correct WORD[99,   7]: 0.0000682 正解
+	correct WORD[99,   8]: 0.0000526 正訓
+	correct WORD[99,   9]: 0.0000419 正行
+	correct WORD[99,  10]: 0.0000419 正道
+	correct WORD[99,  11]: 0.0000419 正則
+	correct WORD[99,  12]: 0.0000419 正格
+	correct WORD[99,  13]: 0.0000351 端正
+	correct WORD[99,  14]: 0.0000347 正しい
+	correct WORD[99,  15]: 0.0000341 正答
+	correct WORD[99,  16]: 0.0000341 正誤
+	correct WORD[99,  17]: 0.0000341 正業
+	correct WORD[99,  18]: 0.0000341 正確
+TOKEN[100]: 0.0015701   11 extension
+	extension WORD[100,   1]: 0.0003875 延長
+	extension WORD[100,   2]: 0.0001298 引き延し
+	extension WORD[100,   3]: 0.0001298 引き延ばし
+	extension WORD[100,   4]: 0.0001298 引延ばし
+	extension WORD[100,   5]: 0.0001290 延いては
+	extension WORD[100,   6]: 0.0001253 延び率
+	extension WORD[100,   7]: 0.0001253 延び
+	extension WORD[100,   8]: 0.0001181 展延
+	extension WORD[100,   9]: 0.0001019 外延
+	extension WORD[100,  10]: 0.0000969 延命
+	extension WORD[100,  11]: 0.0000968 延伸
+TOKEN[101]: 0.0015695    2 acute
+	acute WORD[101,   1]: 0.0007847 劇症
+	acute WORD[101,   2]: 0.0007847 激症
+TOKEN[102]: 0.0015643   11 stretch
+	stretch WORD[102,   1]: 0.0002431 延びる
+	stretch WORD[102,   2]: 0.0001776 延べる
+	stretch WORD[102,   3]: 0.0001593 食い延ばす
+	stretch WORD[102,   4]: 0.0001519 延繞
+	stretch WORD[102,   5]: 0.0001259 引き延す
+	stretch WORD[102,   6]: 0.0001259 引き延ばす
+	stretch WORD[102,   7]: 0.0001259 引延す
+	stretch WORD[102,   8]: 0.0001259 引延ばす
+	stretch WORD[102,   9]: 0.0001215 延ばす
+	stretch WORD[102,  10]: 0.0001037 差し延べる
+	stretch WORD[102,  11]: 0.0001037 差延べる
+TOKEN[103]: 0.0015535    1 exaggerated
+	exaggerated WORD[103,   1]: 0.0015535 荒誕
+TOKEN[104]: 0.0015298    2 extending
+	extending WORD[104,   1]: 0.0014246 延泊
+	extending WORD[104,   2]: 0.0001052 圧延
+TOKEN[105]: 0.0015012    1 nonsense
+	nonsense WORD[105,   1]: 0.0015012 荒誕
+TOKEN[106]: 0.0014643    5 due
+	due WORD[106,   1]: 0.0009743 正北
+	due WORD[106,   2]: 0.0003405 正東
+	due WORD[106,   3]: 0.0000908 正西
+	due WORD[106,   4]: 0.0000294 正当
+	due WORD[106,   5]: 0.0000294 正式
+TOKEN[107]: 0.0014633    4 subjugation
+	subjugation WORD[107,   1]: 0.0008465 征圧
+	subjugation WORD[107,   2]: 0.0002056 征服
+	subjugation WORD[107,   3]: 0.0002056 征伐
+	subjugation WORD[107,   4]: 0.0002056 征討
+TOKEN[108]: 0.0014632    1 south
+	south WORD[108,   1]: 0.0014632 南征
+TOKEN[109]: 0.0014539    2 bend
+	bend WORD[109,   1]: 0.0007270 歪める
+	bend WORD[109,   2]: 0.0003635 歪む
+TOKEN[110]: 0.0014335    1 recognition
+	recognition WORD[110,   1]: 0.0014335 荒誕
+TOKEN[111]: 0.0014221    9 delay
+	delay WORD[111,   1]: 0.0005197 先延ばし
+	delay WORD[111,   2]: 0.0001247 引き延す
+	delay WORD[111,   3]: 0.0001247 引き延ばす
+	delay WORD[111,   4]: 0.0001247 引延す
+	delay WORD[111,   5]: 0.0001247 引延ばす
+	delay WORD[111,   6]: 0.0001104 遅延
+	delay WORD[111,   7]: 0.0001072 遷延
+	delay WORD[111,   8]: 0.0000931 延滞
+	delay WORD[111,   9]: 0.0000930 延引
+TOKEN[112]: 0.0014130    1 southern
+	southern WORD[112,   1]: 0.0014130 南征
+TOKEN[113]: 0.0013747    1 northern
+	northern WORD[113,   1]: 0.0013747 北征
+TOKEN[114]: 0.0013548    1 strain
+	strain WORD[114,   1]: 0.0006774 歪み
+TOKEN[115]: 0.0013349    4 conquest
+	conquest WORD[115,   1]: 0.0007722 征圧
+	conquest WORD[115,   2]: 0.0001876 征服
+	conquest WORD[115,   3]: 0.0001876 征伐
+	conquest WORD[115,   4]: 0.0001876 征討
+TOKEN[116]: 0.0013282    1 seat
+	seat WORD[116,   1]: 0.0013282 筵
+TOKEN[117]: 0.0012396    1 regal
+	regal WORD[117,   1]: 0.0012396 降誕
+TOKEN[118]: 0.0012288    2 distorted
+	distorted WORD[118,   1]: 0.0004624 歪む
+	distorted WORD[118,   2]: 0.0003041 歪
+TOKEN[119]: 0.0012122    2 made
+	made WORD[119,   1]: 0.0010834 筵
+	made WORD[119,   2]: 0.0001288 延べ竿
+TOKEN[120]: 0.0011990    3 east
+	east WORD[120,   1]: 0.0006355 征東
+	east WORD[120,   2]: 0.0003990 正東
+	east WORD[120,   3]: 0.0001646 東征
+TOKEN[121]: 0.0011978    1 pattern
+	pattern WORD[121,   1]: 0.0011978 花筵
+TOKEN[122]: 0.0011924    1 wild
+	wild WORD[122,   1]: 0.0011924 荒誕
+TOKEN[123]: 0.0011699    1 perverted
+	perverted WORD[123,   1]: 0.0005849 歪む
+TOKEN[124]: 0.0011621    3 case
+	case WORD[124,   1]: 0.0006477 真症
+	case WORD[124,   2]: 0.0004100 症例
+	case WORD[124,   3]: 0.0001043 政談
+TOKEN[125]: 0.0011512    8 rule
+	rule WORD[125,   1]: 0.0001770 徳政
+	rule WORD[125,   2]: 0.0001717 仁政
+	rule WORD[125,   3]: 0.0001717 親政
+	rule WORD[125,   4]: 0.0001539 院政
+	rule WORD[125,   5]: 0.0001523 圧政
+	rule WORD[125,   6]: 0.0001172 帝政
+	rule WORD[125,   7]: 0.0001107 政
+	rule WORD[125,   8]: 0.0000968 王政
+TOKEN[126]: 0.0011408    2 warped
+	warped WORD[126,   1]: 0.0004292 歪む
+	warped WORD[126,   2]: 0.0002823 歪
+TOKEN[127]: 0.0011252    2 baggage
+	baggage WORD[127,   1]: 0.0005626 預かり証
+	baggage WORD[127,   2]: 0.0005626 預り証
+TOKEN[128]: 0.0011249    1 stay
+	stay WORD[128,   1]: 0.0011249 延泊
+TOKEN[129]: 0.0011063    1 talk
+	talk WORD[129,   1]: 0.0011063 荒誕
+TOKEN[130]: 0.0011037    1 incurable
+	incurable WORD[130,   1]: 0.0011037 難症
+TOKEN[131]: 0.0011021    1 encephalopathy
+	encephalopathy WORD[131,   1]: 0.0011021 脳症
+TOKEN[132]: 0.0010977    4 procrastination
+	procrastination WORD[132,   1]: 0.0007016 先延ばし
+	procrastination WORD[132,   2]: 0.0001448 遷延
+	procrastination WORD[132,   3]: 0.0001256 延滞
+	procrastination WORD[132,   4]: 0.0001256 延引
+TOKEN[133]: 0.0010777    2 luggage
+	luggage WORD[133,   1]: 0.0005388 預かり証
+	luggage WORD[133,   2]: 0.0005388 預り証
+TOKEN[134]: 0.0010561    4 token
+	token WORD[134,   1]: 0.0003024 徴証
+	token WORD[134,   2]: 0.0001543 証
+	token WORD[134,   3]: 0.0001543 証し
+	token WORD[134,   4]: 0.0001364 延いては
+TOKEN[135]: 0.0010226    1 antibody
+	antibody WORD[135,   1]: 0.0010226 対症
+TOKEN[136]: 0.0010205    2 receipt
+	receipt WORD[136,   1]: 0.0005102 預かり証
+	receipt WORD[136,   2]: 0.0005102 預り証
+TOKEN[137]: 0.0010195    3 corroboration
+	corroboration WORD[137,   1]: 0.0003869 明証
+	corroboration WORD[137,   2]: 0.0003644 旁証
+	corroboration WORD[137,   3]: 0.0002682 傍証
+TOKEN[138]: 0.0010166    1 abeam
+	abeam WORD[138,   1]: 0.0010166 正横
+TOKEN[139]: 0.0010085    3 article
+	article WORD[139,   1]: 0.0009444 正物
+	article WORD[139,   2]: 0.0000356 正身
+	article WORD[139,   3]: 0.0000284 正銘
+TOKEN[140]: 0.0010064    2 room
+	room WORD[140,   1]: 0.0009659 講筵
+	room WORD[140,   2]: 0.0000405 正室
+TOKEN[141]: 0.0010012    2 claim
+	claim WORD[141,   1]: 0.0005006 預かり証
+	claim WORD[141,   2]: 0.0005006 預り証
+TOKEN[142]: 0.0009909    1 creation
+	creation WORD[142,   1]: 0.0009909 誕生
+TOKEN[143]: 0.0009901    2 punitive
+	punitive WORD[143,   1]: 0.0007964 再征
+	punitive WORD[143,   2]: 0.0001937 征伐
+TOKEN[144]: 0.0009769    1 town
+	town WORD[144,   1]: 0.0009769 町政
+TOKEN[145]: 0.0009752    7 positive
+	positive WORD[145,   1]: 0.0002870 正値
+	positive WORD[145,   2]: 0.0002340 正極
+	positive WORD[145,   3]: 0.0001564 確証
+	positive WORD[145,   4]: 0.0000973 正負
+	positive WORD[145,   5]: 0.0000532 正数
+	positive WORD[145,   6]: 0.0000532 正号
+	positive WORD[145,   7]: 0.0000313 正
+TOKEN[146]: 0.0009731    1 calendar
+	calendar WORD[146,   1]: 0.0009731 正朔
+TOKEN[147]: 0.0009711    1 contort
+	contort WORD[147,   1]: 0.0004856 歪む
+TOKEN[148]: 0.0009679    1 sensitivity
+	sensitivity WORD[148,   1]: 0.0009679 冷え症
+TOKEN[149]: 0.0009587    1 formation
+	formation WORD[149,   1]: 0.0009587 誕生
+TOKEN[150]: 0.0009510    2 condition
+	condition WORD[150,   1]: 0.0005123 発症
+	condition WORD[150,   2]: 0.0004388 症状
+TOKEN[151]: 0.0009487    1 beginning
+	beginning WORD[151,   1]: 0.0009487 正朔
+TOKEN[152]: 0.0009468    2 deposit
+	deposit WORD[152,   1]: 0.0004734 預かり証
+	deposit WORD[152,   2]: 0.0004734 預り証
+TOKEN[153]: 0.0009373    6 postponement
+	postponement WORD[153,   1]: 0.0002188 日延べ
+	postponement WORD[153,   2]: 0.0001852 繰り延べ
+	postponement WORD[153,   3]: 0.0001852 繰延べ
+	postponement WORD[153,   4]: 0.0001258 順延
+	postponement WORD[153,   5]: 0.0001111 延発
+	postponement WORD[153,   6]: 0.0001111 延期
+TOKEN[154]: 0.0009311    4 testimony
+	testimony WORD[154,   1]: 0.0003250 人証
+	testimony WORD[154,   2]: 0.0002057 証明
+	testimony WORD[154,   3]: 0.0002055 証言
+	testimony WORD[154,   4]: 0.0001950 偽証
+TOKEN[155]: 0.0009293    8 spread
+	spread WORD[155,   1]: 0.0001607 延べる
+	spread WORD[155,   2]: 0.0001209 まん延
+	spread WORD[155,   3]: 0.0001209 蔓延
+	spread WORD[155,   4]: 0.0001120 蔓延る
+	spread WORD[155,   5]: 0.0001099 延びる
+	spread WORD[155,   6]: 0.0001099 延び
+	spread WORD[155,   7]: 0.0001099 延ばす
+	spread WORD[155,   8]: 0.0000850 延焼
+TOKEN[156]: 0.0008986    7 order
+	order WORD[156,   1]: 0.0003006 整々
+	order WORD[156,   2]: 0.0001728 整序
+	order WORD[156,   3]: 0.0001376 整う
+	order WORD[156,   4]: 0.0000904 政令
+	order WORD[156,   5]: 0.0000688 整える
+	order WORD[156,   6]: 0.0000641 整理
+	order WORD[156,   7]: 0.0000641 整頓
+TOKEN[157]: 0.0008935    4 demonstration
+	demonstration WORD[157,   1]: 0.0002569 論証
+	demonstration WORD[157,   2]: 0.0002558 立証
+	demonstration WORD[157,   3]: 0.0001908 実証
+	demonstration WORD[157,   4]: 0.0001899 証明
+TOKEN[158]: 0.0008903    2 month
+	month WORD[158,   1]: 0.0008648 正朔
+	month WORD[158,   2]: 0.0000255 正月
+TOKEN[159]: 0.0008823    2 year
+	year WORD[159,   1]: 0.0008570 正朔
+	year WORD[159,   2]: 0.0000253 正月
+TOKEN[160]: 0.0008636    4 verify
+	verify WORD[160,   1]: 0.0003257 証する
+	verify WORD[160,   2]: 0.0001753 証す
+	verify WORD[160,   3]: 0.0000597 聞き正す
+	verify WORD[160,   4]: 0.0000425 正す
+TOKEN[161]: 0.0008580    1 deformation
+	deformation WORD[161,   1]: 0.0004290 歪み
+TOKEN[162]: 0.0008498    1 imbalance
+	imbalance WORD[162,   1]: 0.0004249 歪み
+TOKEN[163]: 0.0008320    4 sign
+	sign WORD[163,   1]: 0.0002435 徴証
+	sign WORD[163,   2]: 0.0001243 証
+	sign WORD[163,   3]: 0.0001243 証し
+	sign WORD[163,   4]: 0.0000914 正号
+TOKEN[164]: 0.0008187    3 guarantee
+	guarantee WORD[164,   1]: 0.0002859 証する
+	guarantee WORD[164,   2]: 0.0002249 保証
+	guarantee WORD[164,   3]: 0.0001539 証す
+TOKEN[165]: 0.0007975    2 eastern
+	eastern WORD[165,   1]: 0.0006335 征東
+	eastern WORD[165,   2]: 0.0001640 東征
+TOKEN[166]: 0.0007943    1 participate
+	participate WORD[166,   1]: 0.0007943 来征
+TOKEN[167]: 0.0007885    1 led
+	led WORD[167,   1]: 0.0007885 親征
+TOKEN[168]: 0.0007882    1 specific
+	specific WORD[168,   1]: 0.0007882 対症
+TOKEN[169]: 0.0007679    5 extend
+	extend WORD[169,   1]: 0.0002490 延びる
+	extend WORD[169,   2]: 0.0001820 延べる
+	extend WORD[169,   3]: 0.0001245 延ばす
+	extend WORD[169,   4]: 0.0001062 差し延べる
+	extend WORD[169,   5]: 0.0001062 差延べる
+TOKEN[170]: 0.0007594    4 rolling
+	rolling WORD[170,   1]: 0.0003126 熱延
+	rolling WORD[170,   2]: 0.0001782 延べ棒
+	rolling WORD[170,   3]: 0.0001782 延棒
+	rolling WORD[170,   4]: 0.0000904 圧延
+TOKEN[171]: 0.0007421    3 misgovernment
+	misgovernment WORD[171,   1]: 0.0003132 弊政
+	misgovernment WORD[171,   2]: 0.0002783 失政
+	misgovernment WORD[171,   3]: 0.0001506 悪政
+TOKEN[172]: 0.0007378    5 prolongation
+	prolongation WORD[172,   1]: 0.0001642 引き延し
+	prolongation WORD[172,   2]: 0.0001642 引き延ばし
+	prolongation WORD[172,   3]: 0.0001642 引延ばし
+	prolongation WORD[172,   4]: 0.0001226 延長
+	prolongation WORD[172,   5]: 0.0001226 延寿
+TOKEN[173]: 0.0007360    3 enlightenment
+	enlightenment WORD[173,   1]: 0.0005168 証果
+	enlightenment WORD[173,   2]: 0.0001863 内証
+	enlightenment WORD[173,   3]: 0.0000330 正覚
+TOKEN[174]: 0.0007321    5 situation
+	situation WORD[174,   1]: 0.0003334 政況
+	situation WORD[174,   2]: 0.0001019 政情
+	situation WORD[174,   3]: 0.0001018 政局
+	situation WORD[174,   4]: 0.0000985 財政
+	situation WORD[174,   5]: 0.0000965 国政
+TOKEN[175]: 0.0007239    3 tyranny
+	tyranny WORD[175,   1]: 0.0002742 暴政
+	tyranny WORD[175,   2]: 0.0002270 虐政
+	tyranny WORD[175,   3]: 0.0002227 苛政
+TOKEN[176]: 0.0007231    1 nature
+	nature WORD[176,   1]: 0.0007231 病症
+TOKEN[177]: 0.0007226    1 harmful
+	harmful WORD[177,   1]: 0.0003613 歪み
+TOKEN[178]: 0.0007205    1 onset
+	onset WORD[178,   1]: 0.0007205 発症
+TOKEN[179]: 0.0007145    1 remargin
+	remargin WORD[179,   1]: 0.0007145 追証
+TOKEN[180]: 0.0007090    3 certification
+	certification WORD[180,   1]: 0.0003005 証紙
+	certification WORD[180,   2]: 0.0002172 認証
+	certification WORD[180,   3]: 0.0001913 証明
+TOKEN[181]: 0.0007058    4 postpone
+	postpone WORD[181,   1]: 0.0002048 延べる
+	postpone WORD[181,   2]: 0.0001805 繰り延べる
+	postpone WORD[181,   3]: 0.0001805 繰延べる
+	postpone WORD[181,   4]: 0.0001401 延ばす
+TOKEN[182]: 0.0007012    2 war
+	war WORD[182,   1]: 0.0005789 来征
+	war WORD[182,   2]: 0.0001223 出征
+TOKEN[183]: 0.0006848    1 outbreak
+	outbreak WORD[183,   1]: 0.0006848 発症
+TOKEN[184]: 0.0006834    1 minor
+	minor WORD[184,   1]: 0.0006834 軽症
+TOKEN[185]: 0.0006829    1 effects
+	effects WORD[185,   1]: 0.0003414 歪み
+TOKEN[186]: 0.0006766    2 badge
+	badge WORD[186,   1]: 0.0001691 証
+	badge WORD[186,   2]: 0.0001691 証し
+TOKEN[187]: 0.0006764    1 cold
+	cold WORD[187,   1]: 0.0006764 冷え症
+TOKEN[188]: 0.0006753    1 stress
+	stress WORD[188,   1]: 0.0003376 歪み
+TOKEN[189]: 0.0006726    6 truth
+	truth WORD[189,   1]: 0.0003340 歪める
+	truth WORD[189,   2]: 0.0002053 論証
+	truth WORD[189,   3]: 0.0000437 聞き正す
+	truth WORD[189,   4]: 0.0000306 正視
+	truth WORD[189,   5]: 0.0000300 正体
+	truth WORD[189,   6]: 0.0000289 顕正
+TOKEN[190]: 0.0006713    3 despotism
+	despotism WORD[190,   1]: 0.0002289 虐政
+	despotism WORD[190,   2]: 0.0002245 苛政
+	despotism WORD[190,   3]: 0.0002178 圧政
+TOKEN[191]: 0.0006630    3 witness
+	witness WORD[191,   1]: 0.0002927 人証
+	witness WORD[191,   2]: 0.0001852 証人
+	witness WORD[191,   3]: 0.0001851 証左
+TOKEN[192]: 0.0006611    7 meeting
+	meeting WORD[192,   1]: 0.0001037 引き延す
+	meeting WORD[192,   2]: 0.0001037 引き延ばす
+	meeting WORD[192,   3]: 0.0001037 引延す
+	meeting WORD[192,   4]: 0.0001037 引延ばす
+	meeting WORD[192,   5]: 0.0001031 政労
+	meeting WORD[192,   6]: 0.0001002 延びる
+	meeting WORD[192,   7]: 0.0000430 正対
+TOKEN[193]: 0.0006591    1 Seriola
+	Seriola WORD[193,   1]: 0.0006591 平政
+TOKEN[194]: 0.0006582    8 true
+	true WORD[194,   1]: 0.0001337 正気
+	true WORD[194,   2]: 0.0000852 正体
+	true WORD[194,   3]: 0.0000515 正夢
+	true WORD[194,   4]: 0.0000448 正法
+	true WORD[194,   5]: 0.0000285 真正
+	true WORD[194,   6]: 0.0000284 正念
+	true WORD[194,   7]: 0.0000284 正真
+	true WORD[194,   8]: 0.0000264 正
+TOKEN[195]: 0.0006537    2 view
+	view WORD[195,   1]: 0.0003094 歪む
+	view WORD[195,   2]: 0.0000349 正見
+TOKEN[196]: 0.0006487    2 voucher
+	voucher WORD[196,   1]: 0.0003243 証票
+	voucher WORD[196,   2]: 0.0003243 証憑
+TOKEN[197]: 0.0006479    2 emblem
+	emblem WORD[197,   1]: 0.0001620 証
+	emblem WORD[197,   2]: 0.0001620 証し
+TOKEN[198]: 0.0006440    2 escape
+	escape WORD[198,   1]: 0.0005009 逃げ延びる
+	escape WORD[198,   2]: 0.0001431 落ち延びる
+TOKEN[199]: 0.0006430    4 neat
+	neat WORD[199,   1]: 0.0002831 整斉
+	neat WORD[199,   2]: 0.0002831 斉整
+	neat WORD[199,   3]: 0.0000384 正々
+	neat WORD[199,   4]: 0.0000384 正正
+TOKEN[200]: 0.0006386    2 mind
+	mind WORD[200,   1]: 0.0002792 歪む
+	mind WORD[200,   2]: 0.0000803 正報
+TOKEN[201]: 0.0006373    2 prove
+	prove WORD[201,   1]: 0.0003069 証する
+	prove WORD[201,   2]: 0.0001652 証す
+TOKEN[202]: 0.0006300    4 metal
+	metal WORD[202,   1]: 0.0001575 延べ棒
+	metal WORD[202,   2]: 0.0001575 延棒
+	metal WORD[202,   3]: 0.0001575 延べ金
+	metal WORD[202,   4]: 0.0001575 延金
+TOKEN[203]: 0.0006181    3 longevity
+	longevity WORD[203,   1]: 0.0003733 延齢
+	longevity WORD[203,   2]: 0.0001381 延年
+	longevity WORD[203,   3]: 0.0001067 延寿
+TOKEN[204]: 0.0006067    5 policy
+	policy WORD[204,   1]: 0.0001715 政綱
+	policy WORD[204,   2]: 0.0001112 政調
+	policy WORD[204,   3]: 0.0001111 政審
+	policy WORD[204,   4]: 0.0001111 政策
+	policy WORD[204,   5]: 0.0001018 外政
+TOKEN[205]: 0.0006005    1 coming
+	coming WORD[205,   1]: 0.0006005 来征
+TOKEN[206]: 0.0005993    2 gratitude
+	gratitude WORD[206,   1]: 0.0001498 証
+	gratitude WORD[206,   2]: 0.0001498 証し
+TOKEN[207]: 0.0005934    1 yellowtail
+	yellowtail WORD[207,   1]: 0.0005934 平政
+TOKEN[208]: 0.0005927    4 enlarge
+	enlarge WORD[208,   1]: 0.0001482 引き延す
+	enlarge WORD[208,   2]: 0.0001482 引き延ばす
+	enlarge WORD[208,   3]: 0.0001482 引延す
+	enlarge WORD[208,   4]: 0.0001482 引延ばす
+TOKEN[209]: 0.0005922    4 enlargement
+	enlargement WORD[209,   1]: 0.0001497 敷延
+	enlargement WORD[209,   2]: 0.0001475 引き延し
+	enlargement WORD[209,   3]: 0.0001475 引き延ばし
+	enlargement WORD[209,   4]: 0.0001475 引延ばし
+TOKEN[210]: 0.0005912    2 affection
+	affection WORD[210,   1]: 0.0001478 証
+	affection WORD[210,   2]: 0.0001478 証し
+TOKEN[211]: 0.0005897    5 make
+	make WORD[211,   1]: 0.0002315 逃げ延びる
+	make WORD[211,   2]: 0.0001133 延べる
+	make WORD[211,   3]: 0.0001016 食い延ばす
+	make WORD[211,   4]: 0.0000775 延びる
+	make WORD[211,   5]: 0.0000219 正す
+TOKEN[212]: 0.0005850    1 disfigure
+	disfigure WORD[212,   1]: 0.0005850 歪める
+TOKEN[213]: 0.0005815    3 certificate
+	certificate WORD[213,   1]: 0.0002565 証票
+	certificate WORD[213,   2]: 0.0001625 証書
+	certificate WORD[213,   3]: 0.0001625 証券
+TOKEN[214]: 0.0005809    3 power
+	power WORD[214,   1]: 0.0003889 政柄
+	power WORD[214,   2]: 0.0000965 大政
+	power WORD[214,   3]: 0.0000955 政権
+TOKEN[215]: 0.0005749    4 good
+	good WORD[215,   1]: 0.0002664 整々
+	good WORD[215,   2]: 0.0001162 逃げ延びる
+	good WORD[215,   3]: 0.0001046 善政
+	good WORD[215,   4]: 0.0000877 正丁
+TOKEN[216]: 0.0005744    2 training
+	training WORD[216,   1]: 0.0004542 証果
+	training WORD[216,   2]: 0.0001202 整枝
+TOKEN[217]: 0.0005729    2 crest
+	crest WORD[217,   1]: 0.0001432 証
+	crest WORD[217,   2]: 0.0001432 証し
+TOKEN[218]: 0.0005670    3 bond
+	bond WORD[218,   1]: 0.0002476 証文
+	bond WORD[218,   2]: 0.0001597 証書
+	bond WORD[218,   3]: 0.0001597 証券
+TOKEN[219]: 0.0005646    1 oval
+	oval WORD[219,   1]: 0.0005646 歪
+TOKEN[220]: 0.0005630   13 correction
+	correction WORD[220,   1]: 0.0000883 批正
+	correction WORD[220,   2]: 0.0000648 斧正
+	correction WORD[220,   3]: 0.0000458 補正
+	correction WORD[220,   4]: 0.0000399 訂正
+	correction WORD[220,   5]: 0.0000379 是正
+	correction WORD[220,   6]: 0.0000377 正誤
+	correction WORD[220,   7]: 0.0000369 修正
+	correction WORD[220,   8]: 0.0000367 叱正
+	correction WORD[220,   9]: 0.0000357 更正
+	correction WORD[220,  10]: 0.0000349 きょう正
+	correction WORD[220,  11]: 0.0000349 矯正
+	correction WORD[220,  12]: 0.0000349 匡正
+	correction WORD[220,  13]: 0.0000347 規正
+TOKEN[221]: 0.0005614    3 verification
+	verification WORD[221,   1]: 0.0001901 実証
+	verification WORD[221,   2]: 0.0001893 証明
+	verification WORD[221,   3]: 0.0001820 検証
+TOKEN[222]: 0.0005602    3 contract
+	contract WORD[222,   1]: 0.0002390 証憑
+	contract WORD[222,   2]: 0.0002348 証文
+	contract WORD[222,   3]: 0.0000863 整う
+TOKEN[223]: 0.0005589    2 flag
+	flag WORD[223,   1]: 0.0001397 証
+	flag WORD[223,   2]: 0.0001397 証し
+TOKEN[224]: 0.0005589    2 organized
+	organized WORD[224,   1]: 0.0002794 整斉
+	organized WORD[224,   2]: 0.0002794 斉整
+TOKEN[225]: 0.0005528    4 straighten
+	straighten WORD[225,   1]: 0.0001597 整容
+	straighten WORD[225,   2]: 0.0001413 延びる
+	straighten WORD[225,   3]: 0.0001412 延ばす
+	straighten WORD[225,   4]: 0.0001107 整える
+TOKEN[226]: 0.0005496    1 attestation
+	attestation WORD[226,   1]: 0.0005496 認証
+TOKEN[227]: 0.0005485    4 path
+	path WORD[227,   1]: 0.0003266 正経
+	path WORD[227,   2]: 0.0001110 正道
+	path WORD[227,   3]: 0.0000740 正路
+	path WORD[227,   4]: 0.0000370 正行
+TOKEN[228]: 0.0005442    2 symbol
+	symbol WORD[228,   1]: 0.0001360 証
+	symbol WORD[228,   2]: 0.0001360 証し
+TOKEN[229]: 0.0005441    1 ward
+	ward WORD[229,   1]: 0.0005441 区政
+TOKEN[230]: 0.0005390    2 promise
+	promise WORD[230,   1]: 0.0002595 証する
+	promise WORD[230,   2]: 0.0001397 証す
+TOKEN[231]: 0.0005315    3 deferred
+	deferred WORD[231,   1]: 0.0002102 延べ払い
+	deferred WORD[231,   2]: 0.0002102 延払い
+	deferred WORD[231,   3]: 0.0001111 延納
+TOKEN[232]: 0.0005311    1 emperor
+	emperor WORD[232,   1]: 0.0005311 親征
+TOKEN[233]: 0.0005263    3 mark
+	mark WORD[233,   1]: 0.0001205 証
+	mark WORD[233,   2]: 0.0001205 証し
+	mark WORD[233,   3]: 0.0000443 正鵠
+TOKEN[234]: 0.0005251    1 patient
+	patient WORD[234,   1]: 0.0005251 症状
+TOKEN[235]: 0.0005229    2 supporting
+	supporting WORD[235,   1]: 0.0003012 旁証
+	supporting WORD[235,   2]: 0.0002217 傍証
+TOKEN[236]: 0.0005227    4 imperial
+	imperial WORD[236,   1]: 0.0001661 朝政
+	imperial WORD[236,   2]: 0.0001596 太政
+	imperial WORD[236,   3]: 0.0001080 帝政
+	imperial WORD[236,   4]: 0.0000891 王政
+TOKEN[237]: 0.0005220    1 game
+	game WORD[237,   1]: 0.0005220 来征
+TOKEN[238]: 0.0005190    2 substantiation
+	substantiation WORD[238,   1]: 0.0002973 立証
+	substantiation WORD[238,   2]: 0.0002217 実証
+TOKEN[239]: 0.0005185    1 irritation
+	irritation WORD[239,   1]: 0.0005185 炎症
+TOKEN[240]: 0.0005171    4 total
+	total WORD[240,   1]: 0.0001609 延べ坪
+	total WORD[240,   2]: 0.0001609 延坪
+	total WORD[240,   3]: 0.0001102 延べ
+	total WORD[240,   4]: 0.0000851 延長
+TOKEN[241]: 0.0005110    1 legitimation
+	legitimation WORD[241,   1]: 0.0005110 準正
+TOKEN[242]: 0.0005090    1 inflammation
+	inflammation WORD[242,   1]: 0.0005090 炎症
+TOKEN[243]: 0.0005065    2 authentication
+	authentication WORD[243,   1]: 0.0002877 公証
+	authentication WORD[243,   2]: 0.0002188 認証
+TOKEN[244]: 0.0005048    9 regular
+	regular WORD[244,   1]: 0.0001227 正兵
+	regular WORD[244,   2]: 0.0000793 整然
+	regular WORD[244,   3]: 0.0000465 正課
+	regular WORD[244,   4]: 0.0000465 正員
+	regular WORD[244,   5]: 0.0000370 正則
+	regular WORD[244,   6]: 0.0000302 正式
+	regular WORD[244,   7]: 0.0000302 正規
+	regular WORD[244,   8]: 0.0000302 正価
+	regular WORD[244,   9]: 0.0000274 正
+TOKEN[245]: 0.0005039    1 margin
+	margin WORD[245,   1]: 0.0005039 追証
+TOKEN[246]: 0.0005002    2 subjugate
+	subjugate WORD[246,   1]: 0.0003231 征する
+	subjugate WORD[246,   2]: 0.0001771 征く
+TOKEN[247]: 0.0004988    2 benevolent
+	benevolent WORD[247,   1]: 0.0002532 徳政
+	benevolent WORD[247,   2]: 0.0002456 仁政
+TOKEN[248]: 0.0004979    3 wooden
+	wooden WORD[248,   1]: 0.0002017 歪
+	wooden WORD[248,   2]: 0.0001481 延べ棒
+	wooden WORD[248,   3]: 0.0001481 延棒
+TOKEN[249]: 0.0004967    2 conquering
+	conquering WORD[249,   1]: 0.0003012 征夷
+	conquering WORD[249,   2]: 0.0001956 征服
+TOKEN[250]: 0.0004943    1 additional
+	additional WORD[250,   1]: 0.0004943 追証
+TOKEN[251]: 0.0004934    9 right
+	right WORD[251,   1]: 0.0001693 正定
+	right WORD[251,   2]: 0.0000780 正解
+	right WORD[251,   3]: 0.0000516 正風
+	right WORD[251,   4]: 0.0000320 正路
+	right WORD[251,   5]: 0.0000320 正道
+	right WORD[251,   6]: 0.0000265 正しい
+	right WORD[251,   7]: 0.0000260 正当
+	right WORD[251,   8]: 0.0000260 正業
+	right WORD[251,   9]: 0.0000260 正義
+TOKEN[252]: 0.0004916    1 falsification
+	falsification WORD[252,   1]: 0.0004916 歪曲
+TOKEN[253]: 0.0004916    1 perversion
+	perversion WORD[253,   1]: 0.0004916 歪曲
+TOKEN[254]: 0.0004898    1 cloistered
+	cloistered WORD[254,   1]: 0.0004898 院政
+TOKEN[255]: 0.0004884    1 second
+	second WORD[255,   1]: 0.0004884 再征
+TOKEN[256]: 0.0004864    2 departure
+	departure WORD[256,   1]: 0.0002977 出征
+	departure WORD[256,   2]: 0.0001887 延発
+TOKEN[257]: 0.0004817    1 appearance
+	appearance WORD[257,   1]: 0.0004817 発症
+TOKEN[258]: 0.0004815    2 phases
+	phases WORD[258,   1]: 0.0002407 庶政
+	phases WORD[258,   2]: 0.0002407 諸政
+TOKEN[259]: 0.0004779    4 document
+	document WORD[259,   1]: 0.0001524 証書
+	document WORD[259,   2]: 0.0001523 証印
+	document WORD[259,   3]: 0.0001424 正続
+	document WORD[259,   4]: 0.0000308 正副
+TOKEN[260]: 0.0004758    2 lengthen
+	lengthen WORD[260,   1]: 0.0003172 延びる
+	lengthen WORD[260,   2]: 0.0001586 延ばす
+TOKEN[261]: 0.0004750    1 falsify
+	falsify WORD[261,   1]: 0.0004750 歪める
+TOKEN[262]: 0.0004748    4 payment
+	payment WORD[262,   1]: 0.0001553 延べ払い
+	payment WORD[262,   2]: 0.0001553 延払い
+	payment WORD[262,   3]: 0.0000821 延納
+	payment WORD[262,   4]: 0.0000821 延滞
+TOKEN[263]: 0.0004660    5 official
+	official WORD[263,   1]: 0.0002848 政所
+	official WORD[263,   2]: 0.0000848 正称
+	official WORD[263,   3]: 0.0000420 正字
+	official WORD[263,   4]: 0.0000272 正式
+	official WORD[263,   5]: 0.0000272 正史
+TOKEN[264]: 0.0004589    1 distort
+	distort WORD[264,   1]: 0.0004589 歪める
+TOKEN[265]: 0.0004475    6 original
+	original WORD[265,   1]: 0.0000951 正本
+	original WORD[265,   2]: 0.0000476 正篇
+	original WORD[265,   3]: 0.0000476 正編
+	original WORD[265,   4]: 0.0000475 正字
+	original WORD[265,   5]: 0.0000308 正副
+	original WORD[265,   6]: 0.0000280 正
+TOKEN[266]: 0.0004415    2 reschedule
+	reschedule WORD[266,   1]: 0.0002208 繰り延べる
+	reschedule WORD[266,   2]: 0.0002208 繰延べる
+TOKEN[267]: 0.0004401    2 deed
+	deed WORD[267,   1]: 0.0002675 証文
+	deed WORD[267,   2]: 0.0001726 証書
+TOKEN[268]: 0.0004387    1 March
+	March WORD[268,   1]: 0.0004387 長征
+TOKEN[269]: 0.0004374    2 conquer
+	conquer WORD[269,   1]: 0.0002825 征する
+	conquer WORD[269,   2]: 0.0001549 征く
+TOKEN[270]: 0.0004361    2 become
+	become WORD[270,   1]: 0.0002597 延びる
+	become WORD[270,   2]: 0.0001764 蔓延る
+TOKEN[271]: 0.0004361    4 righteousness
+	righteousness WORD[271,   1]: 0.0002339 正経
+	righteousness WORD[271,   2]: 0.0001060 正路
+	righteousness WORD[271,   3]: 0.0000530 正道
+	righteousness WORD[271,   4]: 0.0000432 正義
+TOKEN[272]: 0.0004309    8 proper
+	proper WORD[272,   1]: 0.0000894 端整
+	proper WORD[272,   2]: 0.0000512 正法
+	proper WORD[272,   3]: 0.0000406 正則
+	proper WORD[272,   4]: 0.0000340 端正
+	proper WORD[272,   5]: 0.0000336 正しい
+	proper WORD[272,   6]: 0.0000331 正当
+	proper WORD[272,   7]: 0.0000331 正式
+	proper WORD[272,   8]: 0.0000324 正面
+TOKEN[273]: 0.0004291    1 cover
+	cover WORD[273,   1]: 0.0004291 追証
+TOKEN[274]: 0.0004165    2 born
+	born WORD[274,   1]: 0.0003133 準正
+	born WORD[274,   2]: 0.0001032 正報
+TOKEN[275]: 0.0004164    2 dagger
+	dagger WORD[275,   1]: 0.0002082 延べ金
+	dagger WORD[275,   2]: 0.0002082 延金
+TOKEN[276]: 0.0004161    4 floor
+	floor WORD[276,   1]: 0.0001619 延べ坪
+	floor WORD[276,   2]: 0.0001619 延坪
+	floor WORD[276,   3]: 0.0000308 正坐
+	floor WORD[276,   4]: 0.0000308 正座
+TOKEN[277]: 0.0004114    2 inspection
+	inspection WORD[277,   1]: 0.0002552 証紙
+	inspection WORD[277,   2]: 0.0001562 検証
+TOKEN[278]: 0.0004087    1 corrupt
+	corrupt WORD[278,   1]: 0.0004087 歪める
+TOKEN[279]: 0.0004004    2 defer
+	defer WORD[279,   1]: 0.0002002 繰り延べる
+	defer WORD[279,   2]: 0.0002002 繰延べる
+TOKEN[280]: 0.0003997    7 legal
+	legal WORD[280,   1]: 0.0001626 政所
+	legal WORD[280,   2]: 0.0000480 正嫡
+	legal WORD[280,   3]: 0.0000480 正室
+	legal WORD[280,   4]: 0.0000479 正妻
+	legal WORD[280,   5]: 0.0000311 正当
+	legal WORD[280,   6]: 0.0000311 正式
+	legal WORD[280,   7]: 0.0000310 正規
+TOKEN[281]: 0.0003995    3 elongation
+	elongation WORD[281,   1]: 0.0001569 延び
+	elongation WORD[281,   2]: 0.0001213 延長
+	elongation WORD[281,   3]: 0.0001213 延伸
+TOKEN[282]: 0.0003983    2 organization
+	organization WORD[282,   1]: 0.0003197 町政
+	organization WORD[282,   2]: 0.0000785 整理
+TOKEN[283]: 0.0003969    3 church
+	church WORD[283,   1]: 0.0002160 祭政
+	church WORD[283,   2]: 0.0001425 政教
+	church WORD[283,   3]: 0.0000385 正教
+TOKEN[284]: 0.0003969    1 crime
+	crime WORD[284,   1]: 0.0003969 罪証
+TOKEN[285]: 0.0003956    3 photograph
+	photograph WORD[285,   1]: 0.0001319 引き延し
+	photograph WORD[285,   2]: 0.0001319 引き延ばし
+	photograph WORD[285,   3]: 0.0001319 引延ばし
+TOKEN[286]: 0.0003936    3 cream
+	cream WORD[286,   1]: 0.0001312 延びる
+	cream WORD[286,   2]: 0.0001312 延び
+	cream WORD[286,   3]: 0.0001312 延ばす
+TOKEN[287]: 0.0003909    4 sword
+	sword WORD[287,   1]: 0.0001417 延べ金
+	sword WORD[287,   2]: 0.0001417 延金
+	sword WORD[287,   3]: 0.0000661 正宗
+	sword WORD[287,   4]: 0.0000415 正眼
+TOKEN[288]: 0.0003902    4 adjustment
+	adjustment WORD[288,   1]: 0.0001007 調整
+	adjustment WORD[288,   2]: 0.0000973 整理
+	adjustment WORD[288,   3]: 0.0000972 整合
+	adjustment WORD[288,   4]: 0.0000951 修整
+TOKEN[289]: 0.0003883    2 confirmation
+	confirmation WORD[289,   1]: 0.0002149 認証
+	confirmation WORD[289,   2]: 0.0001734 確証
+TOKEN[290]: 0.0003873    1 dialectic
+	dialectic WORD[290,   1]: 0.0003873 弁証
+TOKEN[291]: 0.0003864    1 economics
+	economics WORD[291,   1]: 0.0003864 政経
+TOKEN[292]: 0.0003828    1 clothes
+	clothes WORD[292,   1]: 0.0003828 征衣
+TOKEN[293]: 0.0003817    1 chit
+	chit WORD[293,   1]: 0.0003817 証票
+TOKEN[294]: 0.0003802    2 management
+	management WORD[294,   1]: 0.0002339 区政
+	management WORD[294,   2]: 0.0001464 林政
+TOKEN[295]: 0.0003802    3 space
+	space WORD[295,   1]: 0.0001503 延べ坪
+	space WORD[295,   2]: 0.0001503 延坪
+	space WORD[295,   3]: 0.0000795 延長
+TOKEN[296]: 0.0003776    7 legitimate
+	legitimate WORD[296,   1]: 0.0000770 正朝
+	legitimate WORD[296,   2]: 0.0000608 正閏
+	legitimate WORD[296,   3]: 0.0000608 正出
+	legitimate WORD[296,   4]: 0.0000608 正系
+	legitimate WORD[296,   5]: 0.0000394 正統
+	legitimate WORD[296,   6]: 0.0000394 正当
+	legitimate WORD[296,   7]: 0.0000394 正規
+TOKEN[297]: 0.0003774    1 curve
+	curve WORD[297,   1]: 0.0003774 歪める
+TOKEN[298]: 0.0003771    2 infestation
+	infestation WORD[298,   1]: 0.0001885 まん延
+	infestation WORD[298,   2]: 0.0001885 蔓延
+TOKEN[299]: 0.0003758    5 put
+	put WORD[299,   1]: 0.0000875 延びる
+	put WORD[299,   2]: 0.0000875 延び延び
+	put WORD[299,   3]: 0.0000685 整える
+	put WORD[299,   4]: 0.0000685 整う
+	put WORD[299,   5]: 0.0000639 整頓
+TOKEN[300]: 0.0003756    1 regency
+	regency WORD[300,   1]: 0.0001878 摂政
+TOKEN[301]: 0.0003738    2 marriage
+	marriage WORD[301,   1]: 0.0002884 準正
+	marriage WORD[301,   2]: 0.0000855 整える
+TOKEN[302]: 0.0003736    4 wife
+	wife WORD[302,   1]: 0.0001509 政所
+	wife WORD[302,   2]: 0.0001335 正妻
+	wife WORD[302,   3]: 0.0000446 正嫡
+	wife WORD[302,   4]: 0.0000445 正室
+TOKEN[303]: 0.0003693    2 rampancy
+	rampancy WORD[303,   1]: 0.0001847 まん延
+	rampancy WORD[303,   2]: 0.0001847 蔓延
+TOKEN[304]: 0.0003689    1 rod
+	rod WORD[304,   1]: 0.0003689 延べ竿
+TOKEN[305]: 0.0003640    1 friend
+	friend WORD[305,   1]: 0.0003640 政友
+TOKEN[306]: 0.0003639    2 adjournment
+	adjournment WORD[306,   1]: 0.0002414 日延べ
+	adjournment WORD[306,   2]: 0.0001226 延期
+TOKEN[307]: 0.0003597    1 argumentation
+	argumentation WORD[307,   1]: 0.0003597 論証
+TOKEN[308]: 0.0003595    1 twist
+	twist WORD[308,   1]: 0.0003595 歪める
+TOKEN[309]: 0.0003594    2 guest
+	guest WORD[309,   1]: 0.0002066 正賓
+	guest WORD[309,   2]: 0.0001528 正客
+TOKEN[310]: 0.0003579    2 pin
+	pin WORD[310,   1]: 0.0001789 延べ棒
+	pin WORD[310,   2]: 0.0001789 延棒
+TOKEN[311]: 0.0003555    2 uniformity
+	uniformity WORD[311,   1]: 0.0001915 不整
+	uniformity WORD[311,   2]: 0.0001640 均整
+TOKEN[312]: 0.0003552    2 security
+	security WORD[312,   1]: 0.0001965 保証
+	security WORD[312,   2]: 0.0001587 証券
+TOKEN[313]: 0.0003528    5 Chinese
+	Chinese WORD[313,   1]: 0.0001354 長征
+	Chinese WORD[313,   2]: 0.0000690 正音
+	Chinese WORD[313,   3]: 0.0000588 整体
+	Chinese WORD[313,   4]: 0.0000346 正書
+	Chinese WORD[313,   5]: 0.0000275 正文
+TOKEN[314]: 0.0003482    7 main
+	main WORD[314,   1]: 0.0000551 正門
+	main WORD[314,   2]: 0.0000551 正殿
+	main WORD[314,   3]: 0.0000427 正篇
+	main WORD[314,   4]: 0.0000427 正編
+	main WORD[314,   5]: 0.0000426 正嫡
+	main WORD[314,   6]: 0.0000424 正客
+	main WORD[314,   7]: 0.0000338 正文
+TOKEN[315]: 0.0003441    1 maladministration
+	maladministration WORD[315,   1]: 0.0003441 弊政
+TOKEN[316]: 0.0003440    2 sheet
+	sheet WORD[316,   1]: 0.0001720 延べ金
+	sheet WORD[316,   2]: 0.0001720 延金
+TOKEN[317]: 0.0003419    2 proliferation
+	proliferation WORD[317,   1]: 0.0001710 まん延
+	proliferation WORD[317,   2]: 0.0001710 蔓延
+TOKEN[318]: 0.0003403    1 fish
+	fish WORD[318,   1]: 0.0003403 平政
+TOKEN[319]: 0.0003399    1 regent
+	regent WORD[319,   1]: 0.0001699 摂政
+TOKEN[320]: 0.0003398    1 documentary
+	documentary WORD[320,   1]: 0.0003398 書証
+TOKEN[321]: 0.0003391    3 trigonometric
+	trigonometric WORD[321,   1]: 0.0002029 正割
+	trigonometric WORD[321,   2]: 0.0000681 正切
+	trigonometric WORD[321,   3]: 0.0000681 正接
+TOKEN[322]: 0.0003373    2 bar
+	bar WORD[322,   1]: 0.0001686 延べ棒
+	bar WORD[322,   2]: 0.0001686 延棒
+TOKEN[323]: 0.0003365    5 justice
+	justice WORD[323,   1]: 0.0001579 法政
+	justice WORD[323,   2]: 0.0000675 弾正
+	justice WORD[323,   3]: 0.0000433 正大
+	justice WORD[323,   4]: 0.0000352 正義
+	justice WORD[323,   5]: 0.0000325 公正
+TOKEN[324]: 0.0003350    4 text
+	text WORD[324,   1]: 0.0000741 正文
+	text WORD[324,   2]: 0.0000467 正篇
+	text WORD[324,   3]: 0.0000467 正編
+	text WORD[324,   4]: 0.0000467 正本
+TOKEN[325]: 0.0003337    1 species
+	species WORD[325,   1]: 0.0003337 平政
+TOKEN[326]: 0.0003316    2 canon
+	canon WORD[326,   1]: 0.0002282 正経
+	canon WORD[326,   2]: 0.0001034 正典
+TOKEN[327]: 0.0003316    2 real
+	real WORD[327,   1]: 0.0002578 物証
+	real WORD[327,   2]: 0.0000738 正身
+TOKEN[328]: 0.0003290    2 lack
+	lack WORD[328,   1]: 0.0001856 間延び
+	lack WORD[328,   2]: 0.0001434 不整
+TOKEN[329]: 0.0003264    1 coup
+	coup WORD[329,   1]: 0.0003264 政変
+TOKEN[330]: 0.0003249    3 grow
+	grow WORD[330,   1]: 0.0001096 蔓延る
+	grow WORD[330,   2]: 0.0001076 延びる
+	grow WORD[330,   3]: 0.0001076 延ばす
+TOKEN[331]: 0.0003193    1 elliptical
+	elliptical WORD[331,   1]: 0.0003193 歪
+TOKEN[332]: 0.0003179    4 system
+	system WORD[332,   1]: 0.0001126 郵政
+	system WORD[332,   2]: 0.0000953 正丁
+	system WORD[332,   3]: 0.0000870 政体
+	system WORD[332,   4]: 0.0000230 正倉
+TOKEN[333]: 0.0003176    3 child
+	child WORD[333,   1]: 0.0002398 準正
+	child WORD[333,   2]: 0.0000390 正嫡
+	child WORD[333,   3]: 0.0000389 正出
+TOKEN[334]: 0.0003152    4 regulation
+	regulation WORD[334,   1]: 0.0000981 調整
+	regulation WORD[334,   2]: 0.0000947 整理
+	regulation WORD[334,   3]: 0.0000872 規整
+	regulation WORD[334,   4]: 0.0000353 粛正
+TOKEN[335]: 0.0003149    2 prepare
+	prepare WORD[335,   1]: 0.0002108 切り整える
+	prepare WORD[335,   2]: 0.0001041 整える
+TOKEN[336]: 0.0003124    3 direct
+	direct WORD[336,   1]: 0.0001721 親政
+	direct WORD[336,   2]: 0.0000940 正報
+	direct WORD[336,   3]: 0.0000463 正系
+TOKEN[337]: 0.0003119    1 exemplification
+	exemplification WORD[337,   1]: 0.0003119 例証
+TOKEN[338]: 0.0003110    1 civil
+	civil WORD[338,   1]: 0.0003110 民政
+TOKEN[339]: 0.0003108    2 widespread
+	widespread WORD[339,   1]: 0.0001554 まん延
+	widespread WORD[339,   2]: 0.0001554 蔓延
+TOKEN[340]: 0.0003107    4 upright
+	upright WORD[340,   1]: 0.0001213 正立
+	upright WORD[340,   2]: 0.0000899 端整
+	upright WORD[340,   3]: 0.0000342 端正
+	upright WORD[340,   4]: 0.0000326 正面
+TOKEN[341]: 0.0003089    4 authentic
+	authentic WORD[341,   1]: 0.0000963 正文
+	authentic WORD[341,   2]: 0.0000392 正伝
+	authentic WORD[341,   3]: 0.0000386 真正
+	authentic WORD[341,   4]: 0.0000384 正真
+TOKEN[342]: 0.0003081    1 historical
+	historical WORD[342,   1]: 0.0003081 考証
+TOKEN[343]: 0.0003078    2 powerful
+	powerful WORD[343,   1]: 0.0001810 政所
+	powerful WORD[343,   2]: 0.0001268 蔓延る
+TOKEN[344]: 0.0003077    1 fishing
+	fishing WORD[344,   1]: 0.0003077 延べ竿
+TOKEN[345]: 0.0003060    6 normal
+	normal WORD[345,   1]: 0.0001200 正塩
+	normal WORD[345,   2]: 0.0000498 正閏
+	normal WORD[345,   3]: 0.0000396 正則
+	normal WORD[345,   4]: 0.0000322 正常
+	normal WORD[345,   5]: 0.0000322 正視
+	normal WORD[345,   6]: 0.0000322 正規
+TOKEN[346]: 0.0003046    5 perfect
+	perfect WORD[346,   1]: 0.0000984 至正
+	perfect WORD[346,   2]: 0.0000853 正円
+	perfect WORD[346,   3]: 0.0000584 醇正
+	perfect WORD[346,   4]: 0.0000314 純正
+	perfect WORD[346,   5]: 0.0000312 正覚
+TOKEN[347]: 0.0003029    4 line
+	line WORD[347,   1]: 0.0001305 延べ竿
+	line WORD[347,   2]: 0.0000690 延長
+	line WORD[347,   3]: 0.0000652 整列
+	line WORD[347,   4]: 0.0000382 正系
+TOKEN[348]: 0.0003007    2 court
+	court WORD[348,   1]: 0.0001667 朝政
+	court WORD[348,   2]: 0.0001340 正楽
+TOKEN[349]: 0.0003000    3 law
+	law WORD[349,   1]: 0.0001192 法政
+	law WORD[349,   2]: 0.0000985 政談
+	law WORD[349,   3]: 0.0000411 正法
+TOKEN[350]: 0.0002993    3 reach
+	reach WORD[350,   1]: 0.0001106 延ばす
+	reach WORD[350,   2]: 0.0000944 差し延べる
+	reach WORD[350,   3]: 0.0000944 差延べる
+TOKEN[351]: 0.0002959    1 slovenliness
+	slovenliness WORD[351,   1]: 0.0002959 間延び
+TOKEN[352]: 0.0002934    1 new
+	new WORD[352,   1]: 0.0002934 新政
+TOKEN[353]: 0.0002931    1 arrange
+	arrange WORD[353,   1]: 0.0002931 整える
+TOKEN[354]: 0.0002921    1 crooked
+	crooked WORD[354,   1]: 0.0002921 歪
+TOKEN[355]: 0.0002882    4 opposed
+	opposed WORD[355,   1]: 0.0000741 正文
+	opposed WORD[355,   2]: 0.0000467 正篇
+	opposed WORD[355,   3]: 0.0000467 正編
+	opposed WORD[355,   4]: 0.0000466 正室
+TOKEN[356]: 0.0002852    1 disproof
+	disproof WORD[356,   1]: 0.0002852 反証
+TOKEN[357]: 0.0002835    1 false
+	false WORD[357,   1]: 0.0002835 偽証
+TOKEN[358]: 0.0002822    1 exchange
+	exchange WORD[358,   1]: 0.0002822 証取
+TOKEN[359]: 0.0002805    1 theocracy
+	theocracy WORD[359,   1]: 0.0002805 神政
+TOKEN[360]: 0.0002801    7 revision
+	revision WORD[360,   1]: 0.0000616 斧正
+	revision WORD[360,   2]: 0.0000435 補正
+	revision WORD[360,   3]: 0.0000380 訂正
+	revision WORD[360,   4]: 0.0000360 是正
+	revision WORD[360,   5]: 0.0000351 修正
+	revision WORD[360,   6]: 0.0000339 更正
+	revision WORD[360,   7]: 0.0000320 改正
+TOKEN[361]: 0.0002794    3 series
+	series WORD[361,   1]: 0.0001848 長征
+	series WORD[361,   2]: 0.0000473 正篇
+	series WORD[361,   3]: 0.0000473 正編
+TOKEN[362]: 0.0002794    2 use
+	use WORD[362,   1]: 0.0001764 征矢
+	use WORD[362,   2]: 0.0001030 正用
+TOKEN[363]: 0.0002781    1 sluggishness
+	sluggishness WORD[363,   1]: 0.0002781 間延び
+TOKEN[364]: 0.0002781    2 expand
+	expand WORD[364,   1]: 0.0001391 延びる
+	expand WORD[364,   2]: 0.0001390 延ばす
+TOKEN[365]: 0.0002753    1 trace
+	trace WORD[365,   1]: 0.0002753 証跡
+TOKEN[366]: 0.0002731    2 uniform
+	uniform WORD[366,   1]: 0.0002385 征衣
+	uniform WORD[366,   2]: 0.0000345 正装
+TOKEN[367]: 0.0002710    2 tuning
+	tuning WORD[367,   1]: 0.0001623 整調
+	tuning WORD[367,   2]: 0.0001087 調整
+TOKEN[368]: 0.0002691    2 alive
+	alive WORD[368,   1]: 0.0001692 食い延ばす
+	alive WORD[368,   2]: 0.0000999 延命
+TOKEN[369]: 0.0002688    3 preparation
+	preparation WORD[369,   1]: 0.0000939 整え
+	preparation WORD[369,   2]: 0.0000875 整備
+	preparation WORD[369,   3]: 0.0000875 整地
+TOKEN[370]: 0.0002672    1 moratorium
+	moratorium WORD[370,   1]: 0.0002672 徳政
+TOKEN[371]: 0.0002663    2 develop
+	develop WORD[371,   1]: 0.0001332 延びる
+	develop WORD[371,   2]: 0.0001331 延ばす
+TOKEN[372]: 0.0002662    3 book
+	book WORD[372,   1]: 0.0001138 正続
+	book WORD[372,   2]: 0.0000762 正篇
+	book WORD[372,   3]: 0.0000762 正編
+TOKEN[373]: 0.0002656    1 radical
+	radical WORD[373,   1]: 0.0002656 延繞
+TOKEN[374]: 0.0002636    1 lengthy
+	lengthy WORD[374,   1]: 0.0002636 長征
+TOKEN[375]: 0.0002635    1 rebuttal
+	rebuttal WORD[375,   1]: 0.0002635 反証
+TOKEN[376]: 0.0002604    1 looseness
+	looseness WORD[376,   1]: 0.0002604 間延び
+TOKEN[377]: 0.0002603    2 internal
+	internal WORD[377,   1]: 0.0001304 整腸
+	internal WORD[377,   2]: 0.0001299 内政
+TOKEN[378]: 0.0002595    3 hold
+	hold WORD[378,   1]: 0.0000959 延ばす
+	hold WORD[378,   2]: 0.0000818 差し延べる
+	hold WORD[378,   3]: 0.0000818 差延べる
+TOKEN[379]: 0.0002584    2 business
+	business WORD[379,   1]: 0.0001871 政財界
+	business WORD[379,   2]: 0.0000713 整える
+TOKEN[380]: 0.0002579    1 tyrannical
+	tyrannical WORD[380,   1]: 0.0002579 圧政
+TOKEN[381]: 0.0002576    1 irregular
+	irregular WORD[381,   1]: 0.0002576 歪
+TOKEN[382]: 0.0002567    1 stamp
+	stamp WORD[382,   1]: 0.0002567 証紙
+TOKEN[383]: 0.0002563    1 physical
+	physical WORD[383,   1]: 0.0002563 物証
+TOKEN[384]: 0.0002559    1 material
+	material WORD[384,   1]: 0.0002559 物証
+TOKEN[385]: 0.0002549    3 body
+	body WORD[385,   1]: 0.0000896 延び
+	body WORD[385,   2]: 0.0000873 国政
+	body WORD[385,   3]: 0.0000780 正報
+TOKEN[386]: 0.0002548    5 exact
+	exact WORD[386,   1]: 0.0001019 整除
+	exact WORD[386,   2]: 0.0000388 正々
+	exact WORD[386,   3]: 0.0000388 正正
+	exact WORD[386,   4]: 0.0000387 正確
+	exact WORD[386,   5]: 0.0000366 厳正
+TOKEN[387]: 0.0002531    1 illustration
+	illustration WORD[387,   1]: 0.0002531 例証
+TOKEN[388]: 0.0002528    1 assurance
+	assurance WORD[388,   1]: 0.0002528 保証
+TOKEN[389]: 0.0002525    1 overcome
+	overcome WORD[389,   1]: 0.0002525 征する
+TOKEN[390]: 0.0002520    2 javelin
+	javelin WORD[390,   1]: 0.0001260 差し延べる
+	javelin WORD[390,   2]: 0.0001260 差延べる
+TOKEN[391]: 0.0002497    1 refutation
+	refutation WORD[391,   1]: 0.0002497 反証
+TOKEN[392]: 0.0002492    1 titled
+	titled WORD[392,   1]: 0.0002492 政所
+TOKEN[393]: 0.0002471    1 warranty
+	warranty WORD[393,   1]: 0.0002471 保証
+TOKEN[394]: 0.0002464    1 traveling
+	traveling WORD[394,   1]: 0.0002464 征衣
+TOKEN[395]: 0.0002442    1 statesman
+	statesman WORD[395,   1]: 0.0002442 政客
+TOKEN[396]: 0.0002422    1 value
+	value WORD[396,   1]: 0.0002422 正値
+TOKEN[397]: 0.0002420    1 bourse
+	bourse WORD[397,   1]: 0.0002420 証取
+TOKEN[398]: 0.0002412    1 ductility
+	ductility WORD[398,   1]: 0.0002412 延性
+TOKEN[399]: 0.0002412    2 office
+	office WORD[399,   1]: 0.0001412 政所
+	office WORD[399,   2]: 0.0000999 政庁
+TOKEN[400]: 0.0002411    2 state
+	state WORD[400,   1]: 0.0001453 祭政
+	state WORD[400,   2]: 0.0000958 政教
+TOKEN[401]: 0.0002396    4 principal
+	principal WORD[401,   1]: 0.0001013 正犯
+	principal WORD[401,   2]: 0.0000523 正篇
+	principal WORD[401,   3]: 0.0000523 正編
+	principal WORD[401,   4]: 0.0000338 正副
+TOKEN[402]: 0.0002396    1 getaway
+	getaway WORD[402,   1]: 0.0002396 逃げ延びる
+TOKEN[403]: 0.0002394    1 concentration
+	concentration WORD[403,   1]: 0.0002394 正定
+TOKEN[404]: 0.0002389    1 prefectural
+	prefectural WORD[404,   1]: 0.0002389 県政
+TOKEN[405]: 0.0002384    2 smooth
+	smooth WORD[405,   1]: 0.0001192 延びる
+	smooth WORD[405,   2]: 0.0001192 延ばす
+TOKEN[406]: 0.0002367    2 adjust
+	adjust WORD[406,   1]: 0.0001256 補整
+	adjust WORD[406,   2]: 0.0001111 整える
+TOKEN[407]: 0.0002367    2 paint
+	paint WORD[407,   1]: 0.0001184 延びる
+	paint WORD[407,   2]: 0.0001184 延び
+TOKEN[408]: 0.0002364    1 privacy
+	privacy WORD[408,   1]: 0.0002364 内証
+TOKEN[409]: 0.0002361    1 container
+	container WORD[409,   1]: 0.0002361 歪
+TOKEN[410]: 0.0002339    2 irregularity
+	irregularity WORD[410,   1]: 0.0001851 不整
+	irregularity WORD[410,   2]: 0.0000488 不正
+TOKEN[411]: 0.0002333    1 firmness
+	firmness WORD[411,   1]: 0.0002333 間延び
+TOKEN[412]: 0.0002333    1 hole
+	hole WORD[412,   1]: 0.0002333 正孔
+TOKEN[413]: 0.0002332    2 appropriate
+	appropriate WORD[413,   1]: 0.0001986 正着
+	appropriate WORD[413,   2]: 0.0000346 正解
+TOKEN[414]: 0.0002327    1 confidentiality
+	confidentiality WORD[414,   1]: 0.0002327 内証
+TOKEN[415]: 0.0002321    2 argument
+	argument WORD[415,   1]: 0.0001720 政論
+	argument WORD[415,   2]: 0.0000600 正論
+TOKEN[416]: 0.0002303    1 coin
+	coin WORD[416,   1]: 0.0002303 歪
+TOKEN[417]: 0.0002291    1 pledge
+	pledge WORD[417,   1]: 0.0002291 保証
+TOKEN[418]: 0.0002290    1 politician
+	politician WORD[418,   1]: 0.0002290 政客
+TOKEN[419]: 0.0002289    1 pleasure
+	pleasure WORD[419,   1]: 0.0002289 征途
+TOKEN[420]: 0.0002287    1 arrow
+	arrow WORD[420,   1]: 0.0002287 征矢
+TOKEN[421]: 0.0002283    2 growth
+	growth WORD[421,   1]: 0.0001142 延び率
+	growth WORD[421,   2]: 0.0001142 延び
+TOKEN[422]: 0.0002282    3 public
+	public WORD[422,   1]: 0.0001153 民政
+	public WORD[422,   2]: 0.0000886 財政
+	public WORD[422,   3]: 0.0000243 正倉
+TOKEN[423]: 0.0002275    3 function
+	function WORD[423,   1]: 0.0001361 正割
+	function WORD[423,   2]: 0.0000457 正切
+	function WORD[423,   3]: 0.0000457 正接
+TOKEN[424]: 0.0002251    1 secant
+	secant WORD[424,   1]: 0.0002251 正割
+TOKEN[425]: 0.0002250    1 maneuver
+	maneuver WORD[425,   1]: 0.0002250 政略
+TOKEN[426]: 0.0002247    4 accurate
+	accurate WORD[426,   1]: 0.0001050 整然
+	accurate WORD[426,   2]: 0.0000399 正々
+	accurate WORD[426,   3]: 0.0000399 正正
+	accurate WORD[426,   4]: 0.0000399 正確
+TOKEN[427]: 0.0002242    3 decent
+	decent WORD[427,   1]: 0.0001065 端整
+	decent WORD[427,   2]: 0.0000405 端正
+	decent WORD[427,   3]: 0.0000386 正面
+TOKEN[428]: 0.0002235    1 perjury
+	perjury WORD[428,   1]: 0.0002235 偽証
+TOKEN[429]: 0.0002217    1 secrecy
+	secrecy WORD[429,   1]: 0.0002217 内証
+TOKEN[430]: 0.0002216    1 widen
+	widen WORD[430,   1]: 0.0002216 延べる
+TOKEN[431]: 0.0002216    2 noble
+	noble WORD[431,   1]: 0.0001711 政所
+	noble WORD[431,   2]: 0.0000505 正室
+TOKEN[432]: 0.0002213    4 character
+	character WORD[432,   1]: 0.0000786 正音
+	character WORD[432,   2]: 0.0000394 正字
+	character WORD[432,   3]: 0.0000392 正気
+	character WORD[432,   4]: 0.0000250 正体
+TOKEN[433]: 0.0002207    2 run
+	run WORD[433,   1]: 0.0001229 落ち延びる
+	run WORD[433,   2]: 0.0000978 蔓延る
+TOKEN[434]: 0.0002204    1 financial
+	financial WORD[434,   1]: 0.0002204 財政
+TOKEN[435]: 0.0002190    2 foreign
+	foreign WORD[435,   1]: 0.0001200 外征
+	foreign WORD[435,   2]: 0.0000990 外政
+TOKEN[436]: 0.0002161    1 oppressive
+	oppressive WORD[436,   1]: 0.0002161 圧政
+TOKEN[437]: 0.0002156    1 administrator
+	administrator WORD[437,   1]: 0.0002156 執政
+TOKEN[438]: 0.0002152    1 launch
+	launch WORD[438,   1]: 0.0002152 長征
+TOKEN[439]: 0.0002142    2 period
+	period WORD[439,   1]: 0.0001179 政所
+	period WORD[439,   2]: 0.0000963 藩政
+TOKEN[440]: 0.0002141    1 example
+	example WORD[440,   1]: 0.0002141 例証
+TOKEN[441]: 0.0002140    1 engaged
+	engaged WORD[441,   1]: 0.0002140 政客
+TOKEN[442]: 0.0002139    1 malleability
+	malleability WORD[442,   1]: 0.0002139 延性
+TOKEN[443]: 0.0002138    2 tidy
+	tidy WORD[443,   1]: 0.0001107 整える
+	tidy WORD[443,   2]: 0.0001031 整然
+TOKEN[444]: 0.0002137    1 shogunate
+	shogunate WORD[444,   1]: 0.0002137 幕政
+TOKEN[445]: 0.0002118    2 style
+	style WORD[445,   1]: 0.0001603 正書
+	style WORD[445,   2]: 0.0000515 正風
+TOKEN[446]: 0.0002107    1 governor
+	governor WORD[446,   1]: 0.0002107 執政
+TOKEN[447]: 0.0002101    2 thrust
+	thrust WORD[447,   1]: 0.0001051 差し延べる
+	thrust WORD[447,   2]: 0.0001051 差延べる
+TOKEN[448]: 0.0002098    1 realization
+	realization WORD[448,   1]: 0.0002098 内証
+TOKEN[449]: 0.0002085    1 fiscal
+	fiscal WORD[449,   1]: 0.0002085 内証
+TOKEN[450]: 0.0002076    1 regime
+	regime WORD[450,   1]: 0.0002076 圧政
+TOKEN[451]: 0.0002060    1 battle
+	battle WORD[451,   1]: 0.0002060 征矢
+TOKEN[452]: 0.0002059    1 oarsman
+	oarsman WORD[452,   1]: 0.0002059 整調
+TOKEN[453]: 0.0002056    1 chastisement
+	chastisement WORD[453,   1]: 0.0002056 征伐
+TOKEN[454]: 0.0002051    1 Confucian
+	Confucian WORD[454,   1]: 0.0002051 正経
+TOKEN[455]: 0.0002038    1 unevenness
+	unevenness WORD[455,   1]: 0.0002038 不整
+TOKEN[456]: 0.0002030    1 shape
+	shape WORD[456,   1]: 0.0002030 歪
+TOKEN[457]: 0.0002028    1 contrary
+	contrary WORD[457,   1]: 0.0002028 反証
+TOKEN[458]: 0.0002026    1 medulla
+	medulla WORD[458,   1]: 0.0002026 延髄
+TOKEN[459]: 0.0002022    1 conclusive
+	conclusive WORD[459,   1]: 0.0002022 確証
+TOKEN[460]: 0.0002012    1 certain
+	certain WORD[460,   1]: 0.0002012 論証
+TOKEN[461]: 0.0002011    1 asymmetry
+	asymmetry WORD[461,   1]: 0.0002011 不整
+TOKEN[462]: 0.0002011    2 aid
+	aid WORD[462,   1]: 0.0001005 差し延べる
+	aid WORD[462,   2]: 0.0001005 差延べる
+TOKEN[463]: 0.0002008    2 actual
+	actual WORD[463,   1]: 0.0001677 実証
+	actual WORD[463,   2]: 0.0000330 正味
+TOKEN[464]: 0.0002005    1 reel
+	reel WORD[464,   1]: 0.0002005 延べ竿
+TOKEN[465]: 0.0002003    1 conviction
+	conviction WORD[465,   1]: 0.0002003 心証
+TOKEN[466]: 0.0002002    2 offer
+	offer WORD[466,   1]: 0.0001001 差し延べる
+	offer WORD[466,   2]: 0.0001001 差延べる
+TOKEN[467]: 0.0002000    1 round
+	round WORD[467,   1]: 0.0002000 歪
+TOKEN[468]: 0.0001992    1 connected
+	connected WORD[468,   1]: 0.0001992 延べ竿
+TOKEN[469]: 0.0001952    1 clerk
+	clerk WORD[469,   1]: 0.0001952 政所
+TOKEN[470]: 0.0001949    1 visa
+	visa WORD[470,   1]: 0.0001949 査証
+TOKEN[471]: 0.0001949    1 passport
+	passport WORD[471,   1]: 0.0001949 査証
+TOKEN[472]: 0.0001940    1 stamping
+	stamping WORD[472,   1]: 0.0001940 査証
+TOKEN[473]: 0.0001930    1 statesmanship
+	statesmanship WORD[473,   1]: 0.0001930 施政
+TOKEN[474]: 0.0001930    2 rice
+	rice WORD[474,   1]: 0.0001647 歪
+	rice WORD[474,   2]: 0.0000282 正宗
+TOKEN[475]: 0.0001922    1 change
+	change WORD[475,   1]: 0.0001922 政変
+TOKEN[476]: 0.0001906    1 platform
+	platform WORD[476,   1]: 0.0001906 政綱
+TOKEN[477]: 0.0001897    2 development
+	development WORD[477,   1]: 0.0001096 延び
+	development WORD[477,   2]: 0.0000800 整備
+TOKEN[478]: 0.0001895    2 charge
+	charge WORD[478,   1]: 0.0001463 政所
+	charge WORD[478,   2]: 0.0000432 正字
+TOKEN[479]: 0.0001893    2 treaty
+	treaty WORD[479,   1]: 0.0001012 整う
+	treaty WORD[479,   2]: 0.0000440 正文
+TOKEN[480]: 0.0001883    1 world
+	world WORD[480,   1]: 0.0001883 政界
+TOKEN[481]: 0.0001883    1 politic
+	politic WORD[481,   1]: 0.0001883 国政
+TOKEN[482]: 0.0001880    2 ready
+	ready WORD[482,   1]: 0.0000940 整える
+	ready WORD[482,   2]: 0.0000940 整う
+TOKEN[483]: 0.0001879    2 hair
+	hair WORD[483,   1]: 0.0000939 延びる
+	hair WORD[483,   2]: 0.0000939 延ばす
+TOKEN[484]: 0.0001870    1 junta
+	junta WORD[484,   1]: 0.0001870 軍政
+TOKEN[485]: 0.0001866    1 monarchical
+	monarchical WORD[485,   1]: 0.0001866 帝政
+TOKEN[486]: 0.0001859    1 bonesetting
+	bonesetting WORD[486,   1]: 0.0001859 整骨
+TOKEN[487]: 0.0001853    1 cipher
+	cipher WORD[487,   1]: 0.0001853 暗証
+TOKEN[488]: 0.0001849    1 expatiation
+	expatiation WORD[488,   1]: 0.0001849 敷延
+TOKEN[489]: 0.0001848    1 citation
+	citation WORD[489,   1]: 0.0001848 引証
+TOKEN[490]: 0.0001845    1 surgery
+	surgery WORD[490,   1]: 0.0001845 整形
+TOKEN[491]: 0.0001838    3 price
+	price WORD[491,   1]: 0.0000783 正札
+	price WORD[491,   2]: 0.0000532 正価
+	price WORD[491,   3]: 0.0000522 正味
+TOKEN[492]: 0.0001836    2 place
+	place WORD[492,   1]: 0.0001233 逃げ延びる
+	place WORD[492,   2]: 0.0000603 整備
+TOKEN[493]: 0.0001832    1 horticulture
+	horticulture WORD[493,   1]: 0.0001832 整枝
+TOKEN[494]: 0.0001829    1 kitchen
+	kitchen WORD[494,   1]: 0.0001829 内証
+TOKEN[495]: 0.0001824    1 groggy
+	groggy WORD[495,   1]: 0.0001824 延びる
+TOKEN[496]: 0.0001815    3 part
+	part WORD[496,   1]: 0.0000783 正篇
+	part WORD[496,   2]: 0.0000783 正編
+	part WORD[496,   3]: 0.0000248 正味
+TOKEN[497]: 0.0001809    5 formal
+	formal WORD[497,   1]: 0.0000484 正餐
+	formal WORD[497,   2]: 0.0000385 正則
+	formal WORD[497,   3]: 0.0000313 正装
+	formal WORD[497,   4]: 0.0000313 正式
+	formal WORD[497,   5]: 0.0000313 正規
+TOKEN[498]: 0.0001800    2 arrangement
+	arrangement WORD[498,   1]: 0.0000932 整え
+	arrangement WORD[498,   2]: 0.0000868 整理
+TOKEN[499]: 0.0001798    2 retouching
+	retouching WORD[499,   1]: 0.0001302 修整
+	retouching WORD[499,   2]: 0.0000495 修正
+TOKEN[500]: 0.0001797    2 confirm
+	confirm WORD[500,   1]: 0.0000573 聞き正す
+	confirm WORD[500,   2]: 0.0000408 正す
+TOKEN[501]: 0.0001784    1 principle
+	principle WORD[501,   1]: 0.0001784 政綱
+TOKEN[502]: 0.0001782    1 safe
+	safe WORD[502,   1]: 0.0001782 逃げ延びる
+TOKEN[503]: 0.0001782    1 belief
+	belief WORD[503,   1]: 0.0001782 心証
+TOKEN[504]: 0.0001779    2 help
+	help WORD[504,   1]: 0.0000890 差し延べる
+	help WORD[504,   2]: 0.0000890 差延べる
+TOKEN[505]: 0.0001776    1 statecraft
+	statecraft WORD[505,   1]: 0.0001776 国政
+TOKEN[506]: 0.0001774    2 working
+	working WORD[506,   1]: 0.0001494 政所
+	working WORD[506,   2]: 0.0000280 正味
+TOKEN[507]: 0.0001769    1 polynomial
+	polynomial WORD[507,   1]: 0.0001769 整式
+TOKEN[508]: 0.0001767    1 mastery
+	mastery WORD[508,   1]: 0.0001767 征服
+TOKEN[509]: 0.0001764    2 ascertain
+	ascertain WORD[509,   1]: 0.0000562 聞き正す
+	ascertain WORD[509,   2]: 0.0000401 正す
+TOKEN[510]: 0.0001763    1 polity
+	polity WORD[510,   1]: 0.0001763 政体
+TOKEN[511]: 0.0001750    2 front
+	front WORD[511,   1]: 0.0001210 出征
+	front WORD[511,   2]: 0.0000270 正面
+TOKEN[512]: 0.0001747    1 postal
+	postal WORD[512,   1]: 0.0001747 郵政
+TOKEN[513]: 0.0001741    1 verbal
+	verbal WORD[513,   1]: 0.0001741 証言
+TOKEN[514]: 0.0001740    1 lady
+	lady WORD[514,   1]: 0.0001740 政所
+TOKEN[515]: 0.0001726    1 imperialism
+	imperialism WORD[515,   1]: 0.0001726 帝政
+TOKEN[516]: 0.0001725    2 someone
+	someone WORD[516,   1]: 0.0001107 政客
+	someone WORD[516,   2]: 0.0000618 問い正す
+TOKEN[517]: 0.0001721    4 pure
+	pure WORD[517,   1]: 0.0000591 醇正
+	pure WORD[517,   2]: 0.0000496 正絹
+	pure WORD[517,   3]: 0.0000318 純正
+	pure WORD[517,   4]: 0.0000317 真正
+TOKEN[518]: 0.0001709    1 elaboration
+	elaboration WORD[518,   1]: 0.0001709 敷延
+TOKEN[519]: 0.0001706    1 supplement
+	supplement WORD[519,   1]: 0.0001706 正続
+TOKEN[520]: 0.0001704    1 related
+	related WORD[520,   1]: 0.0001704 政所
+TOKEN[521]: 0.0001702    1 neck
+	neck WORD[521,   1]: 0.0001702 延べ竿
+TOKEN[522]: 0.0001700    1 oar
+	oar WORD[522,   1]: 0.0001700 整調
+TOKEN[523]: 0.0001698    1 password
+	password WORD[523,   1]: 0.0001698 暗証
+TOKEN[524]: 0.0001679    1 soggy
+	soggy WORD[524,   1]: 0.0001679 延びる
+TOKEN[525]: 0.0001679    1 definite
+	definite WORD[525,   1]: 0.0001679 確証
+TOKEN[526]: 0.0001676    1 inner
+	inner WORD[526,   1]: 0.0001676 内証
+TOKEN[527]: 0.0001663    1 tip
+	tip WORD[527,   1]: 0.0001663 延べ竿
+TOKEN[528]: 0.0001663    3 fairness
+	fairness WORD[528,   1]: 0.0000715 中正
+	fairness WORD[528,   2]: 0.0000541 正大
+	fairness WORD[528,   3]: 0.0000407 公正
+TOKEN[529]: 0.0001660    1 correctness
+	correctness WORD[529,   1]: 0.0001660 至正
+TOKEN[530]: 0.0001659    1 presentation
+	presentation WORD[530,   1]: 0.0001659 挙証
+TOKEN[531]: 0.0001655    1 lay
+	lay WORD[531,   1]: 0.0001655 延べる
+TOKEN[532]: 0.0001654    1 impression
+	impression WORD[532,   1]: 0.0001654 心証
+TOKEN[533]: 0.0001654    1 misrule
+	misrule WORD[533,   1]: 0.0001654 悪政
+TOKEN[534]: 0.0001640    1 quotation
+	quotation WORD[534,   1]: 0.0001640 引証
+TOKEN[535]: 0.0001637    1 ladder
+	ladder WORD[535,   1]: 0.0001637 征
+TOKEN[536]: 0.0001635    1 move
+	move WORD[536,   1]: 0.0001635 正着
+TOKEN[537]: 0.0001634    1 amplification
+	amplification WORD[537,   1]: 0.0001634 敷延
+TOKEN[538]: 0.0001632    1 bed
+	bed WORD[538,   1]: 0.0001632 延べる
+TOKEN[539]: 0.0001630    1 reins
+	reins WORD[539,   1]: 0.0001630 大政
+TOKEN[540]: 0.0001626    1 welfare
+	welfare WORD[540,   1]: 0.0001626 民政
+TOKEN[541]: 0.0001615    1 symmetry
+	symmetry WORD[541,   1]: 0.0001615 均整
+TOKEN[542]: 0.0001613    1 integral
+	integral WORD[542,   1]: 0.0001613 整式
+TOKEN[543]: 0.0001612    1 educational
+	educational WORD[543,   1]: 0.0001612 文政
+TOKEN[544]: 0.0001599    1 promotion
+	promotion WORD[544,   1]: 0.0001599 民政
+TOKEN[545]: 0.0001594    1 homemaking
+	homemaking WORD[545,   1]: 0.0001594 家政
+TOKEN[546]: 0.0001587    3 lawful
+	lawful WORD[546,   1]: 0.0000688 正妻
+	lawful WORD[546,   2]: 0.0000453 正しい
+	lawful WORD[546,   3]: 0.0000446 正当
+TOKEN[547]: 0.0001586    1 forest
+	forest WORD[547,   1]: 0.0001586 林政
+TOKEN[548]: 0.0001586    1 important
+	important WORD[548,   1]: 0.0001586 政所
+TOKEN[549]: 0.0001585    1 upheaval
+	upheaval WORD[549,   1]: 0.0001585 政変
+TOKEN[550]: 0.0001583    1 prevail
+	prevail WORD[550,   1]: 0.0001583 蔓延る
+TOKEN[551]: 0.0001581    2 opponent
+	opponent WORD[551,   1]: 0.0001116 政敵
+	opponent WORD[551,   2]: 0.0000464 正眼
+TOKEN[552]: 0.0001579    1 effect
+	effect WORD[552,   1]: 0.0001579 逃げ延びる
+TOKEN[553]: 0.0001578    3 point
+	point WORD[553,   1]: 0.0000911 敷延
+	point WORD[553,   2]: 0.0000371 正鵠
+	point WORD[553,   3]: 0.0000295 正に
+TOKEN[554]: 0.0001577    1 exemplary
+	exemplary WORD[554,   1]: 0.0001577 憲政
+TOKEN[555]: 0.0001576    1 suffrage
+	suffrage WORD[555,   1]: 0.0001576 参政
+TOKEN[556]: 0.0001576    1 personal
+	personal WORD[556,   1]: 0.0001576 内証
+TOKEN[557]: 0.0001571    1 businessman
+	businessman WORD[557,   1]: 0.0001571 政商
+TOKEN[558]: 0.0001570    2 tune
+	tune WORD[558,   1]: 0.0001014 整える
+	tune WORD[558,   2]: 0.0000556 正調
+TOKEN[559]: 0.0001569    1 overgrown
+	overgrown WORD[559,   1]: 0.0001569 蔓延る
+TOKEN[560]: 0.0001569    1 investigation
+	investigation WORD[560,   1]: 0.0001569 考証
+TOKEN[561]: 0.0001566    1 applied
+	applied WORD[561,   1]: 0.0001566 正丁
+TOKEN[562]: 0.0001565    1 metropolitan
+	metropolitan WORD[562,   1]: 0.0001565 都政
+TOKEN[563]: 0.0001562    2 explanation
+	explanation WORD[563,   1]: 0.0001236 敷延
+	explanation WORD[563,   2]: 0.0000326 正義
+TOKEN[564]: 0.0001561    3 wrong
+	wrong WORD[564,   1]: 0.0000800 正邪
+	wrong WORD[564,   2]: 0.0000462 正否
+	wrong WORD[564,   3]: 0.0000299 正誤
+TOKEN[565]: 0.0001556    1 cathode
+	cathode WORD[565,   1]: 0.0001556 正極
+TOKEN[566]: 0.0001555    2 systematic
+	systematic WORD[566,   1]: 0.0001060 整然
+	systematic WORD[566,   2]: 0.0000495 正則
+TOKEN[567]: 0.0001555    1 long
+	long WORD[567,   1]: 0.0001555 間延び
+TOKEN[568]: 0.0001555    1 governance
+	governance WORD[568,   1]: 0.0001555 行政
+TOKEN[569]: 0.0001540    1 prolong
+	prolong WORD[569,   1]: 0.0001540 延ばす
+TOKEN[570]: 0.0001535    1 middle
+	middle WORD[570,   1]: 0.0001535 政所
+TOKEN[571]: 0.0001534    1 thrive
+	thrive WORD[571,   1]: 0.0001534 蔓延る
+TOKEN[572]: 0.0001533    1 electrode
+	electrode WORD[572,   1]: 0.0001533 正極
+TOKEN[573]: 0.0001524    1 labour
+	labour WORD[573,   1]: 0.0001524 労政
+TOKEN[574]: 0.0001524    3 name
+	name WORD[574,   1]: 0.0000776 正称
+	name WORD[574,   2]: 0.0000249 正殿
+	name WORD[574,   3]: 0.0000249 正業
+TOKEN[575]: 0.0001523    1 single
+	single WORD[575,   1]: 0.0001523 延べ竿
+TOKEN[576]: 0.0001518    1 secret
+	secret WORD[576,   1]: 0.0001518 内証
+TOKEN[577]: 0.0001516    1 sustain
+	sustain WORD[577,   1]: 0.0001516 延び
+TOKEN[578]: 0.0001516    1 strengthen
+	strengthen WORD[578,   1]: 0.0001516 延ばす
+TOKEN[579]: 0.0001512    1 taking
+	taking WORD[579,   1]: 0.0001512 間延び
+TOKEN[580]: 0.0001510    1 labor
+	labor WORD[580,   1]: 0.0001510 労政
+TOKEN[581]: 0.0001503    1 seal
+	seal WORD[581,   1]: 0.0001503 証印
+TOKEN[582]: 0.0001502    1 ordinance
+	ordinance WORD[582,   1]: 0.0001502 政令
+TOKEN[583]: 0.0001502    1 ministry
+	ministry WORD[583,   1]: 0.0001502 政府
+TOKEN[584]: 0.0001497    1 clan
+	clan WORD[584,   1]: 0.0001497 藩政
+TOKEN[585]: 0.0001497    1 bill
+	bill WORD[585,   1]: 0.0001497 証券
+TOKEN[586]: 0.0001496    1 rampant
+	rampant WORD[586,   1]: 0.0001496 蔓延る
+TOKEN[587]: 0.0001493    1 deliberation
+	deliberation WORD[587,   1]: 0.0001493 政審
+TOKEN[588]: 0.0001492    1 piece
+	piece WORD[588,   1]: 0.0001492 延べ竿
+TOKEN[589]: 0.0001490    1 bamboo
+	bamboo WORD[589,   1]: 0.0001490 延べ竿
+TOKEN[590]: 0.0001482    1 domain
+	domain WORD[590,   1]: 0.0001482 藩政
+TOKEN[591]: 0.0001480    1 difficulty
+	difficulty WORD[591,   1]: 0.0001480 征服
+TOKEN[592]: 0.0001480    1 sovereign
+	sovereign WORD[592,   1]: 0.0001480 大政
+TOKEN[593]: 0.0001477    1 cut
+	cut WORD[593,   1]: 0.0001477 切り整える
+TOKEN[594]: 0.0001477    1 agricultural
+	agricultural WORD[594,   1]: 0.0001477 農政
+TOKEN[595]: 0.0001471    1 latency
+	latency WORD[595,   1]: 0.0001471 遅延
+TOKEN[596]: 0.0001470    1 draft
+	draft WORD[596,   1]: 0.0001470 出征
+TOKEN[597]: 0.0001466    2 specie
+	specie WORD[597,   1]: 0.0000734 正貨
+	specie WORD[597,   2]: 0.0000732 正金
+TOKEN[598]: 0.0001464    2 honor
+	honor WORD[598,   1]: 0.0000980 正賓
+	honor WORD[598,   2]: 0.0000483 正客
+TOKEN[599]: 0.0001460    1 posture
+	posture WORD[599,   1]: 0.0001460 整容
+TOKEN[600]: 0.0001459    1 response
+	response WORD[600,   1]: 0.0001459 出征
+TOKEN[601]: 0.0001457    2 Jodo
+	Jodo WORD[601,   1]: 0.0000554 正行
+	Jodo WORD[601,   2]: 0.0000451 正業
+TOKEN[602]: 0.0001451    1 general
+	general WORD[602,   1]: 0.0001451 政所
+TOKEN[603]: 0.0001445    1 aggregate
+	aggregate WORD[603,   1]: 0.0001445 延べ
+TOKEN[604]: 0.0001444    1 dough
+	dough WORD[604,   1]: 0.0001444 延ばす
+TOKEN[605]: 0.0001444    1 dilute
+	dilute WORD[605,   1]: 0.0001444 延ばす
+TOKEN[606]: 0.0001443    1 usage
+	usage WORD[606,   1]: 0.0001443 正用
+TOKEN[607]: 0.0001438    1 elasticity
+	elasticity WORD[607,   1]: 0.0001438 延びる
+TOKEN[608]: 0.0001436    1 liaison
+	liaison WORD[608,   1]: 0.0001436 政労
+TOKEN[609]: 0.0001436    3 proofreading
+	proofreading WORD[609,   1]: 0.0000645 正字
+	proofreading WORD[609,   2]: 0.0000395 較正
+	proofreading WORD[609,   3]: 0.0000395 校正
+TOKEN[610]: 0.0001433    1 housekeeping
+	housekeeping WORD[610,   1]: 0.0001433 家政
+TOKEN[611]: 0.0001431    1 denotation
+	denotation WORD[611,   1]: 0.0001431 外延
+TOKEN[612]: 0.0001425    1 electron
+	electron WORD[612,   1]: 0.0001425 正孔
+TOKEN[613]: 0.0001424    1 meet
+	meet WORD[613,   1]: 0.0001424 食い延ばす
+TOKEN[614]: 0.0001420    1 strife
+	strife WORD[614,   1]: 0.0001420 政争
+TOKEN[615]: 0.0001414    1 punishment
+	punishment WORD[615,   1]: 0.0001414 征伐
+TOKEN[616]: 0.0001411    1 proportion
+	proportion WORD[616,   1]: 0.0001411 均整
+TOKEN[617]: 0.0001411    1 justifying
+	justifying WORD[617,   1]: 0.0001411 整版
+TOKEN[618]: 0.0001411    1 orderliness
+	orderliness WORD[618,   1]: 0.0001411 整頓
+TOKEN[619]: 0.0001411    1 chiropractic
+	chiropractic WORD[619,   1]: 0.0001411 整体
+TOKEN[620]: 0.0001411    1 osteopathy
+	osteopathy WORD[620,   1]: 0.0001411 整体
+TOKEN[621]: 0.0001410    1 fairing
+	fairing WORD[621,   1]: 0.0001410 整形
+TOKEN[622]: 0.0001403    1 strong
+	strong WORD[622,   1]: 0.0001403 心証
+TOKEN[623]: 0.0001401    1 slack
+	slack WORD[623,   1]: 0.0001401 延びる
+TOKEN[624]: 0.0001398    2 tops
+	tops WORD[624,   1]: 0.0000466 正坐
+	tops WORD[624,   2]: 0.0000466 正座
+TOKEN[625]: 0.0001396    1 extended
+	extended WORD[625,   1]: 0.0001396 延びる
+TOKEN[626]: 0.0001391    1 waking
+	waking WORD[626,   1]: 0.0001391 延び
+TOKEN[627]: 0.0001384    2 handsome
+	handsome WORD[627,   1]: 0.0001002 端整
+	handsome WORD[627,   2]: 0.0000381 端正
+TOKEN[628]: 0.0001381    1 performer
+	performer WORD[628,   1]: 0.0001381 遠征
+TOKEN[629]: 0.0001378    1 study
+	study WORD[629,   1]: 0.0001378 考証
+TOKEN[630]: 0.0001378    1 skill
+	skill WORD[630,   1]: 0.0001378 征服
+TOKEN[631]: 0.0001377    1 music
+	music WORD[631,   1]: 0.0001377 正楽
+TOKEN[632]: 0.0001374    2 soles
+	soles WORD[632,   1]: 0.0000458 正坐
+	soles WORD[632,   2]: 0.0000458 正座
+TOKEN[633]: 0.0001372    1 preceding
+	preceding WORD[633,   1]: 0.0001372 延べ
+TOKEN[634]: 0.0001364    1 tour
+	tour WORD[634,   1]: 0.0001364 遠征
+TOKEN[635]: 0.0001359    1 constitutional
+	constitutional WORD[635,   1]: 0.0001359 憲政
+TOKEN[636]: 0.0001359    1 span
+	span WORD[636,   1]: 0.0001359 延びる
+TOKEN[637]: 0.0001358    1 stock
+	stock WORD[637,   1]: 0.0001358 証取
+TOKEN[638]: 0.0001356    2 graceful
+	graceful WORD[638,   1]: 0.0000983 端整
+	graceful WORD[638,   2]: 0.0000374 端正
+TOKEN[639]: 0.0001354    1 exhausted
+	exhausted WORD[639,   1]: 0.0001354 延びる
+TOKEN[640]: 0.0001354    1 voting
+	voting WORD[640,   1]: 0.0001354 参政
+TOKEN[641]: 0.0001351    1 gross
+	gross WORD[641,   1]: 0.0001351 延べ
+TOKEN[642]: 0.0001351    1 code
+	code WORD[642,   1]: 0.0001351 暗証
+TOKEN[643]: 0.0001351    1 finance
+	finance WORD[643,   1]: 0.0001351 財政
+TOKEN[644]: 0.0001348    2 tangent
+	tangent WORD[644,   1]: 0.0000674 正切
+	tangent WORD[644,   2]: 0.0000674 正接
+TOKEN[645]: 0.0001346    1 participation
+	participation WORD[645,   1]: 0.0001346 参政
+TOKEN[646]: 0.0001344    1 disturbance
+	disturbance WORD[646,   1]: 0.0001344 政変
+TOKEN[647]: 0.0001343    1 deadline
+	deadline WORD[647,   1]: 0.0001343 延びる
+TOKEN[648]: 0.0001340    2 copy
+	copy WORD[648,   1]: 0.0000506 正本
+	copy WORD[648,   2]: 0.0000327 正副
+TOKEN[649]: 0.0001340    1 member
+	member WORD[649,   1]: 0.0001340 正員
+TOKEN[650]: 0.0001335    1 monarchy
+	monarchy WORD[650,   1]: 0.0001335 王政
+TOKEN[651]: 0.0001334    1 large
+	large WORD[651,   1]: 0.0001334 政所
+TOKEN[652]: 0.0001332    1 revolution
+	revolution WORD[652,   1]: 0.0001332 政変
+TOKEN[653]: 0.0001331    1 reposition
+	reposition WORD[653,   1]: 0.0001331 整復
+TOKEN[654]: 0.0001331    1 manipulative
+	manipulative WORD[654,   1]: 0.0001331 整体
+TOKEN[655]: 0.0001331    1 orthopedics
+	orthopedics WORD[655,   1]: 0.0001331 整形
+TOKEN[656]: 0.0001329    2 fix
+	fix WORD[656,   1]: 0.0000987 整える
+	fix WORD[656,   2]: 0.0000342 修正
+TOKEN[657]: 0.0001324    1 facsimile
+	facsimile WORD[657,   1]: 0.0000662 正本
+TOKEN[658]: 0.0001324    3 honest
+	honest WORD[658,   1]: 0.0000340 正しい
+	honest WORD[658,   2]: 0.0000328 正面
+	honest WORD[658,   3]: 0.0000328 正直
+TOKEN[659]: 0.0001322    2 clear
+	clear WORD[659,   1]: 0.0001050 敷延
+	clear WORD[659,   2]: 0.0000272 正味
+TOKEN[660]: 0.0001320    1 stroke
+	stroke WORD[660,   1]: 0.0001320 整調
+TOKEN[661]: 0.0001316    1 sports
+	sports WORD[661,   1]: 0.0001316 遠征
+TOKEN[662]: 0.0001316    1 municipal
+	municipal WORD[662,   1]: 0.0001316 市政
+TOKEN[663]: 0.0001316    1 minus
+	minus WORD[663,   1]: 0.0001316 正負
+TOKEN[664]: 0.0001312    1 coefficient
+	coefficient WORD[664,   1]: 0.0001312 延び率
+TOKEN[665]: 0.0001305    3 amendment
+	amendment WORD[665,   1]: 0.0000472 訂正
+	amendment WORD[665,   2]: 0.0000436 修正
+	amendment WORD[665,   3]: 0.0000397 改正
+TOKEN[666]: 0.0001305    1 religion
+	religion WORD[666,   1]: 0.0001305 政教
+TOKEN[667]: 0.0001303    1 domestic
+	domestic WORD[667,   1]: 0.0001303 内政
+TOKEN[668]: 0.0001301    1 keep
+	keep WORD[668,   1]: 0.0001301 食い延ばす
+TOKEN[669]: 0.0001295    1 go
+	go WORD[669,   1]: 0.0001295 正着
+TOKEN[670]: 0.0001295    1 improve
+	improve WORD[670,   1]: 0.0001295 延びる
+TOKEN[671]: 0.0001294    2 work
+	work WORD[671,   1]: 0.0000652 整える
+	work WORD[671,   2]: 0.0000643 延長
+TOKEN[672]: 0.0001281    1 cabinet
+	cabinet WORD[672,   1]: 0.0001281 政令
+TOKEN[673]: 0.0001278    1 later
+	later WORD[673,   1]: 0.0001278 順延
+TOKEN[674]: 0.0001271    1 retribution
+	retribution WORD[674,   1]: 0.0001271 正報
+TOKEN[675]: 0.0001266    1 establishment
+	establishment WORD[675,   1]: 0.0001266 政財界
+TOKEN[676]: 0.0001257    1 regulate
+	regulate WORD[676,   1]: 0.0001257 整える
+TOKEN[677]: 0.0001255    1 spreading
+	spreading WORD[677,   1]: 0.0001255 展延
+TOKEN[678]: 0.0001252    3 redress
+	redress WORD[678,   1]: 0.0000417 きょう正
+	redress WORD[678,   2]: 0.0000417 矯正
+	redress WORD[678,   3]: 0.0000417 匡正
+TOKEN[679]: 0.0001250    1 dialectics
+	dialectics WORD[679,   1]: 0.0000417 正
+TOKEN[680]: 0.0001248    2 days
+	days WORD[680,   1]: 0.0000981 延びる
+	days WORD[680,   2]: 0.0000267 正月
+TOKEN[681]: 0.0001247    1 tailoring
+	tailoring WORD[681,   1]: 0.0001247 調整
+TOKEN[682]: 0.0001245    2 sound
+	sound WORD[682,   1]: 0.0000975 延び
+	sound WORD[682,   2]: 0.0000271 正論
+TOKEN[683]: 0.0001243    1 regulated
+	regulated WORD[683,   1]: 0.0001243 整う
+TOKEN[684]: 0.0001238    1 team
+	team WORD[684,   1]: 0.0001238 遠征
+TOKEN[685]: 0.0001238    1 Japan
+	Japan WORD[685,   1]: 0.0001238 日証協
+TOKEN[686]: 0.0001230    1 collapse
+	collapse WORD[686,   1]: 0.0001230 延びる
+TOKEN[687]: 0.0001229    1 reverse
+	reverse WORD[687,   1]: 0.0001229 正逆
+TOKEN[688]: 0.0001226    2 net
+	net WORD[688,   1]: 0.0000915 正味
+	net WORD[688,   2]: 0.0000311 正価
+TOKEN[689]: 0.0001225    1 diplomatic
+	diplomatic WORD[689,   1]: 0.0001225 外政
+TOKEN[690]: 0.0001215    1 balance
+	balance WORD[690,   1]: 0.0001215 均整
+TOKEN[691]: 0.0001213    1 talking
+	talking WORD[691,   1]: 0.0001213 政談
+TOKEN[692]: 0.0001213    1 deferment
+	deferment WORD[692,   1]: 0.0001213 延期
+TOKEN[693]: 0.0001211    1 time
+	time WORD[693,   1]: 0.0001211 間延び
+TOKEN[694]: 0.0001211    1 karma
+	karma WORD[694,   1]: 0.0001211 正報
+TOKEN[695]: 0.0001211    1 progress
+	progress WORD[695,   1]: 0.0001211 延びる
+TOKEN[696]: 0.0001209    1 governing
+	governing WORD[696,   1]: 0.0001209 為政
+TOKEN[697]: 0.0001209    1 discussion
+	discussion WORD[697,   1]: 0.0001209 政談
+TOKEN[698]: 0.0001207    1 mountain
+	mountain WORD[698,   1]: 0.0001207 征服
+TOKEN[699]: 0.0001206    1 health
+	health WORD[699,   1]: 0.0001206 正丁
+TOKEN[700]: 0.0001201    1 various
+	various WORD[700,   1]: 0.0001201 正丁
+TOKEN[701]: 0.0001201    1 paper
+	paper WORD[701,   1]: 0.0001201 証書
+TOKEN[702]: 0.0001196    1 research
+	research WORD[702,   1]: 0.0001196 政調
+TOKEN[703]: 0.0001192    2 kneeling
+	kneeling WORD[703,   1]: 0.0000397 正坐
+	kneeling WORD[703,   2]: 0.0000397 正座
+TOKEN[704]: 0.0001187    1 commutation
+	commutation WORD[704,   1]: 0.0001187 整流
+TOKEN[705]: 0.0001187    1 retrenchment
+	retrenchment WORD[705,   1]: 0.0001187 整理
+TOKEN[706]: 0.0001182    2 form
+	form WORD[706,   1]: 0.0000935 政体
+	form WORD[706,   2]: 0.0000247 正体
+TOKEN[707]: 0.0001181    1 expression
+	expression WORD[707,   1]: 0.0001181 整式
+TOKEN[708]: 0.0001181    1 expansion
+	expansion WORD[708,   1]: 0.0001181 展延
+TOKEN[709]: 0.0001179    1 addition
+	addition WORD[709,   1]: 0.0001179 延いては
+TOKEN[710]: 0.0001179    1 visit
+	visit WORD[710,   1]: 0.0001179 遠征
+TOKEN[711]: 0.0001172    1 overdue
+	overdue WORD[711,   1]: 0.0001172 延滞
+TOKEN[712]: 0.0001157    1 conformity
+	conformity WORD[712,   1]: 0.0001157 整合
+TOKEN[713]: 0.0001156    1 pronunciation
+	pronunciation WORD[713,   1]: 0.0001156 正音
+TOKEN[714]: 0.0001149    1 service
+	service WORD[714,   1]: 0.0001149 出征
+TOKEN[715]: 0.0001147    1 looking
+	looking WORD[715,   1]: 0.0001147 正視
+TOKEN[716]: 0.0001145    1 integer
+	integer WORD[716,   1]: 0.0001145 整数
+TOKEN[717]: 0.0001144    1 credit
+	credit WORD[717,   1]: 0.0001144 延べ
+TOKEN[718]: 0.0001142    1 height
+	height WORD[718,   1]: 0.0001142 延びる
+TOKEN[719]: 0.0001137    1 excellent
+	excellent WORD[719,   1]: 0.0001137 憲政
+TOKEN[720]: 0.0001136    1 food
+	food WORD[720,   1]: 0.0001136 食い延ばす
+TOKEN[721]: 0.0001136    1 medicine
+	medicine WORD[721,   1]: 0.0001136 整腸
+TOKEN[722]: 0.0001135    1 curtailment
+	curtailment WORD[722,   1]: 0.0001135 整理
+TOKEN[723]: 0.0001131    1 increase
+	increase WORD[723,   1]: 0.0001131 延びる
+TOKEN[724]: 0.0001125    1 hairdressing
+	hairdressing WORD[724,   1]: 0.0001125 整髪
+TOKEN[725]: 0.0001117    1 economy
+	economy WORD[725,   1]: 0.0001117 家政
+TOKEN[726]: 0.0001116    1 salt
+	salt WORD[726,   1]: 0.0001116 正塩
+TOKEN[727]: 0.0001115    1 shaping
+	shaping WORD[727,   1]: 0.0001115 整形
+TOKEN[728]: 0.0001115    1 smoothing
+	smoothing WORD[728,   1]: 0.0001115 整形
+TOKEN[729]: 0.0001110    2 impartiality
+	impartiality WORD[729,   1]: 0.0000708 中正
+	impartiality WORD[729,   2]: 0.0000402 公正
+TOKEN[730]: 0.0001109    1 pole
+	pole WORD[730,   1]: 0.0001109 正極
+TOKEN[731]: 0.0001106    1 longer
+	longer WORD[731,   1]: 0.0001106 延命
+TOKEN[732]: 0.0001106    1 thick
+	thick WORD[732,   1]: 0.0001106 蔓延る
+TOKEN[733]: 0.0001104    1 fixing
+	fixing WORD[733,   1]: 0.0001104 調整
+TOKEN[734]: 0.0001101    1 Edo
+	Edo WORD[734,   1]: 0.0001101 藩政
+TOKEN[735]: 0.0001100    1 industry
+	industry WORD[735,   1]: 0.0001100 政財界
+TOKEN[736]: 0.0001092    1 grass
+	grass WORD[736,   1]: 0.0001092 延びる
+TOKEN[737]: 0.0001087    1 continuation
+	continuation WORD[737,   1]: 0.0001087 延長
+TOKEN[738]: 0.0001086    1 age
+	age WORD[738,   1]: 0.0001086 正丁
+TOKEN[739]: 0.0001084    1 thesis
+	thesis WORD[739,   1]: 0.0000361 正
+TOKEN[740]: 0.0001082    1 reconciliation
+	reconciliation WORD[740,   1]: 0.0001082 調整
+TOKEN[741]: 0.0001081    1 word
+	word WORD[741,   1]: 0.0001081 正用
+TOKEN[742]: 0.0001078    1 consolidation
+	consolidation WORD[742,   1]: 0.0001078 整理
+TOKEN[743]: 0.0001075    1 assemble
+	assemble WORD[743,   1]: 0.0001075 整える
+TOKEN[744]: 0.0001069    1 household
+	household WORD[744,   1]: 0.0001069 家政
+TOKEN[745]: 0.0001065    1 authority
+	authority WORD[745,   1]: 0.0001065 行政
+TOKEN[746]: 0.0001064    1 rhythm
+	rhythm WORD[746,   1]: 0.0001064 整える
+TOKEN[747]: 0.0001064    3 remedy
+	remedy WORD[747,   1]: 0.0000355 きょう正
+	remedy WORD[747,   2]: 0.0000355 矯正
+	remedy WORD[747,   3]: 0.0000355 匡正
+TOKEN[748]: 0.0001064    1 segment
+	segment WORD[748,   1]: 0.0001064 延長
+TOKEN[749]: 0.0001061    1 harmonious
+	harmonious WORD[749,   1]: 0.0001061 整う
+TOKEN[750]: 0.0001060    1 unit
+	unit WORD[750,   1]: 0.0001060 延べ
+TOKEN[751]: 0.0001060    3 traditional
+	traditional WORD[751,   1]: 0.0000401 正調
+	traditional WORD[751,   2]: 0.0000400 正字
+	traditional WORD[751,   3]: 0.0000259 正統
+TOKEN[752]: 0.0001060    1 cosmetic
+	cosmetic WORD[752,   1]: 0.0001060 整形
+TOKEN[753]: 0.0001051    1 carry
+	carry WORD[753,   1]: 0.0001051 延び
+TOKEN[754]: 0.0001050    3 flaw
+	flaw WORD[754,   1]: 0.0000350 きょう正
+	flaw WORD[754,   2]: 0.0000350 矯正
+	flaw WORD[754,   3]: 0.0000350 匡正
+TOKEN[755]: 0.0001045    1 pass
+	pass WORD[755,   1]: 0.0001045 延びる
+TOKEN[756]: 0.0001045    1 sure
+	sure WORD[756,   1]: 0.0000348 正す
+TOKEN[757]: 0.0001040    1 thin
+	thin WORD[757,   1]: 0.0001040 延ばす
+TOKEN[758]: 0.0001036    1 ability
+	ability WORD[758,   1]: 0.0001036 延び
+TOKEN[759]: 0.0001036    1 liquidation
+	liquidation WORD[759,   1]: 0.0001036 整理
+TOKEN[760]: 0.0001034    1 ask
+	ask WORD[760,   1]: 0.0001034 問い正す
+TOKEN[761]: 0.0001031    1 survive
+	survive WORD[761,   1]: 0.0001031 生き延びる
+TOKEN[762]: 0.0001023    1 breathing
+	breathing WORD[762,   1]: 0.0001023 整える
+TOKEN[763]: 0.0001019    1 lose
+	lose WORD[763,   1]: 0.0001019 延びる
+TOKEN[764]: 0.0001019    1 settled
+	settled WORD[764,   1]: 0.0001019 整う
+TOKEN[765]: 0.0001016    1 clearance
+	clearance WORD[765,   1]: 0.0001016 整理
+TOKEN[766]: 0.0001015    1 date
+	date WORD[766,   1]: 0.0001015 順延
+TOKEN[767]: 0.0001011    1 rate
+	rate WORD[767,   1]: 0.0001011 延び率
+TOKEN[768]: 0.0001008    1 trim
+	trim WORD[768,   1]: 0.0001008 整然
+TOKEN[769]: 0.0001007    1 national
+	national WORD[769,   1]: 0.0001007 国政
+TOKEN[770]: 0.0001007    1 zero
+	zero WORD[770,   1]: 0.0000336 正
+TOKEN[771]: 0.0001005    1 provision
+	provision WORD[771,   1]: 0.0001005 整備
+TOKEN[772]: 0.0001001    1 massage
+	massage WORD[772,   1]: 0.0001001 整体
+TOKEN[773]: 0.0001001    1 previous
+	previous WORD[773,   1]: 0.0001001 正報
+TOKEN[774]: 0.0000999    2 straight
+	straight WORD[774,   1]: 0.0000338 正視
+	straight WORD[774,   2]: 0.0000331 正面
+TOKEN[775]: 0.0000998    1 alignment
+	alignment WORD[775,   1]: 0.0000998 整列
+TOKEN[776]: 0.0000988    1 head
+	head WORD[776,   1]: 0.0000988 整調
+TOKEN[777]: 0.0000988    1 man
+	man WORD[777,   1]: 0.0000988 正丁
+TOKEN[778]: 0.0000987    1 standardization
+	standardization WORD[778,   1]: 0.0000987 規整
+TOKEN[779]: 0.0000983    1 disposal
+	disposal WORD[779,   1]: 0.0000983 整理
+TOKEN[780]: 0.0000977    1 integration
+	integration WORD[780,   1]: 0.0000977 整合
+TOKEN[781]: 0.0000974    2 pointing
+	pointing WORD[781,   1]: 0.0000598 正眼
+	pointing WORD[781,   2]: 0.0000377 叱正
+TOKEN[782]: 0.0000971    2 face
+	face WORD[782,   1]: 0.0000717 整う
+	face WORD[782,   2]: 0.0000254 正視
+TOKEN[783]: 0.0000971    1 moving
+	moving WORD[783,   1]: 0.0000971 順延
+TOKEN[784]: 0.0000961    1 arrival
+	arrival WORD[784,   1]: 0.0000961 延着
+TOKEN[785]: 0.0000955    1 prepared
+	prepared WORD[785,   1]: 0.0000955 整う
+TOKEN[786]: 0.0000953    1 excess
+	excess WORD[786,   1]: 0.0000953 正肉
+TOKEN[787]: 0.0000952    2 punctual
+	punctual WORD[787,   1]: 0.0000476 正々
+	punctual WORD[787,   2]: 0.0000476 正正
+TOKEN[788]: 0.0000950    1 greater
+	greater WORD[788,   1]: 0.0000317 正
+TOKEN[789]: 0.0000950    1 execution
+	execution WORD[789,   1]: 0.0000950 整え
+TOKEN[790]: 0.0000950    1 center
+	center WORD[790,   1]: 0.0000475 正中
+TOKEN[791]: 0.0000945    1 forming
+	forming WORD[791,   1]: 0.0000945 整列
+TOKEN[792]: 0.0000945    1 planting
+	planting WORD[792,   1]: 0.0000945 整地
+TOKEN[793]: 0.0000944    3 reform
+	reform WORD[793,   1]: 0.0000315 きょう正
+	reform WORD[793,   2]: 0.0000315 矯正
+	reform WORD[793,   3]: 0.0000315 匡正
+TOKEN[794]: 0.0000943    2 critique
+	critique WORD[794,   1]: 0.0000515 批正
+	critique WORD[794,   2]: 0.0000428 叱正
+TOKEN[795]: 0.0000943    1 maintenance
+	maintenance WORD[795,   1]: 0.0000943 整備
+TOKEN[796]: 0.0000941    1 fat
+	fat WORD[796,   1]: 0.0000941 正肉
+TOKEN[797]: 0.0000938    1 turn
+	turn WORD[797,   1]: 0.0000938 延いては
+TOKEN[798]: 0.0000937    1 settle
+	settle WORD[798,   1]: 0.0000937 整える
+TOKEN[799]: 0.0000937    1 rectitude
+	rectitude WORD[799,   1]: 0.0000937 方正
+TOKEN[800]: 0.0000933    1 logical
+	logical WORD[800,   1]: 0.0000311 正
+TOKEN[801]: 0.0000933    1 refined
+	refined WORD[801,   1]: 0.0000933 整う
+TOKEN[802]: 0.0000931    1 buy
+	buy WORD[802,   1]: 0.0000931 整える
+TOKEN[803]: 0.0000928    1 way
+	way WORD[803,   1]: 0.0000928 正用
+TOKEN[804]: 0.0000927    1 improvement
+	improvement WORD[804,   1]: 0.0000927 整備
+TOKEN[805]: 0.0000923    1 negative
+	negative WORD[805,   1]: 0.0000923 正負
+TOKEN[806]: 0.0000923    1 plastic
+	plastic WORD[806,   1]: 0.0000923 整形
+TOKEN[807]: 0.0000922    2 sitting
+	sitting WORD[807,   1]: 0.0000307 正坐
+	sitting WORD[807,   2]: 0.0000307 正座
+TOKEN[808]: 0.0000914    2 flat
+	flat WORD[808,   1]: 0.0000305 正坐
+	flat WORD[808,   2]: 0.0000305 正座
+TOKEN[809]: 0.0000913    1 photography
+	photography WORD[809,   1]: 0.0000913 修整
+TOKEN[810]: 0.0000912    1 thousand
+	thousand WORD[810,   1]: 0.0000304 正
+TOKEN[811]: 0.0000911    1 commentary
+	commentary WORD[811,   1]: 0.0000455 正文
+TOKEN[812]: 0.0000910    2 first
+	first WORD[812,   1]: 0.0000509 正月
+	first WORD[812,   2]: 0.0000401 正妻
+TOKEN[813]: 0.0000899    1 length
+	length WORD[813,   1]: 0.0000899 延長
+TOKEN[814]: 0.0000897    1 included
+	included WORD[814,   1]: 0.0000448 正文
+TOKEN[815]: 0.0000895    1 supply
+	supply WORD[815,   1]: 0.0000895 整える
+TOKEN[816]: 0.0000895    1 therapy
+	therapy WORD[816,   1]: 0.0000895 整体
+TOKEN[817]: 0.0000892    1 hand
+	hand WORD[817,   1]: 0.0000892 延びる
+TOKEN[818]: 0.0000889    1 keeping
+	keeping WORD[818,   1]: 0.0000889 延命
+TOKEN[819]: 0.0000888    1 ten
+	ten WORD[819,   1]: 0.0000296 正
+TOKEN[820]: 0.0000882    1 settlement
+	settlement WORD[820,   1]: 0.0000882 整理
+TOKEN[821]: 0.0000876    1 stage
+	stage WORD[821,   1]: 0.0000438 正中
+TOKEN[822]: 0.0000874    1 Buddha
+	Buddha WORD[822,   1]: 0.0000437 正法
+TOKEN[823]: 0.0000872    2 orthodox
+	orthodox WORD[823,   1]: 0.0000436 正統
+	orthodox WORD[823,   2]: 0.0000436 正教
+TOKEN[824]: 0.0000871    1 property
+	property WORD[824,   1]: 0.0000871 延長
+TOKEN[825]: 0.0000867    1 deal
+	deal WORD[825,   1]: 0.0000867 整える
+TOKEN[826]: 0.0000865    1 method
+	method WORD[826,   1]: 0.0000433 正法
+TOKEN[827]: 0.0000857    1 chicken
+	chicken WORD[827,   1]: 0.0000857 正肉
+TOKEN[828]: 0.0000856    1 circle
+	circle WORD[828,   1]: 0.0000856 正円
+TOKEN[829]: 0.0000854    2 calibration
+	calibration WORD[829,   1]: 0.0000427 較正
+	calibration WORD[829,   2]: 0.0000427 校正
+TOKEN[830]: 0.0000852    1 debt
+	debt WORD[830,   1]: 0.0000852 整理
+TOKEN[831]: 0.0000851    3 fault
+	fault WORD[831,   1]: 0.0000284 きょう正
+	fault WORD[831,   2]: 0.0000284 矯正
+	fault WORD[831,   3]: 0.0000284 匡正
+TOKEN[832]: 0.0000850    1 location
+	location WORD[832,   1]: 0.0000850 正位
+TOKEN[833]: 0.0000848    1 row
+	row WORD[833,   1]: 0.0000848 整列
+TOKEN[834]: 0.0000846    1 soil
+	soil WORD[834,   1]: 0.0000846 整地
+TOKEN[835]: 0.0000842    1 meditative
+	meditative WORD[835,   1]: 0.0000421 正業
+TOKEN[836]: 0.0000840    1 spirit
+	spirit WORD[836,   1]: 0.0000420 正気
+TOKEN[837]: 0.0000835    1 paying
+	paying WORD[837,   1]: 0.0000835 整理
+TOKEN[838]: 0.0000831    2 rebirth
+	rebirth WORD[838,   1]: 0.0000462 正行
+	rebirth WORD[838,   2]: 0.0000369 正念
+TOKEN[839]: 0.0000824    1 traffic
+	traffic WORD[839,   1]: 0.0000824 整形
+TOKEN[840]: 0.0000822    1 based
+	based WORD[840,   1]: 0.0000822 整体
+TOKEN[841]: 0.0000820    1 translation
+	translation WORD[841,   1]: 0.0000410 正文
+TOKEN[842]: 0.0000817    1 pressure
+	pressure WORD[842,   1]: 0.0000817 圧延
+TOKEN[843]: 0.0000815    1 bad
+	bad WORD[843,   1]: 0.0000815 悪政
+TOKEN[844]: 0.0000806    1 division
+	division WORD[844,   1]: 0.0000806 整除
+TOKEN[845]: 0.0000805    1 heart
+	heart WORD[845,   1]: 0.0000403 正気
+TOKEN[846]: 0.0000805    2 track
+	track WORD[846,   1]: 0.0000402 正路
+	track WORD[846,   2]: 0.0000402 正道
+TOKEN[847]: 0.0000804    1 literature
+	literature WORD[847,   1]: 0.0000402 正文
+TOKEN[848]: 0.0000804    1 respectable
+	respectable WORD[848,   1]: 0.0000402 正面
+TOKEN[849]: 0.0000795    2 meaning
+	meaning WORD[849,   1]: 0.0000483 正字
+	meaning WORD[849,   2]: 0.0000313 正義
+TOKEN[850]: 0.0000792    1 classical
+	classical WORD[850,   1]: 0.0000396 正文
+TOKEN[851]: 0.0000790    1 construction
+	construction WORD[851,   1]: 0.0000790 整地
+TOKEN[852]: 0.0000783    1 live
+	live WORD[852,   1]: 0.0000783 生き延びる
+TOKEN[853]: 0.0000782    1 polygamous
+	polygamous WORD[853,   1]: 0.0000782 正妻
+TOKEN[854]: 0.0000782    1 skin
+	skin WORD[854,   1]: 0.0000782 正肉
+TOKEN[855]: 0.0000778    1 Amitabha
+	Amitabha WORD[855,   1]: 0.0000389 正業
+TOKEN[856]: 0.0000771    2 square
+	square WORD[856,   1]: 0.0000468 正書
+	square WORD[856,   2]: 0.0000303 正方
+TOKEN[857]: 0.0000766    2 duty
+	duty WORD[857,   1]: 0.0000383 正路
+	duty WORD[857,   2]: 0.0000383 正道
+TOKEN[858]: 0.0000760    1 cutting
+	cutting WORD[858,   1]: 0.0000760 整理
+TOKEN[859]: 0.0000756    1 meat
+	meat WORD[859,   1]: 0.0000756 正肉
+TOKEN[860]: 0.0000749    1 standing
+	standing WORD[860,   1]: 0.0000749 整列
+TOKEN[861]: 0.0000742    1 interrogate
+	interrogate WORD[861,   1]: 0.0000742 問い正す
+TOKEN[862]: 0.0000735    1 unsimplified
+	unsimplified WORD[862,   1]: 0.0000735 正字
+TOKEN[863]: 0.0000728    2 alteration
+	alteration WORD[863,   1]: 0.0000381 修正
+	alteration WORD[863,   2]: 0.0000347 改正
+TOKEN[864]: 0.0000727    1 judicial
+	judicial WORD[864,   1]: 0.0000727 弾正
+TOKEN[865]: 0.0000724    2 reasonable
+	reasonable WORD[865,   1]: 0.0000372 適正
+	reasonable WORD[865,   2]: 0.0000352 正当
+TOKEN[866]: 0.0000723    1 sensible
+	sensible WORD[866,   1]: 0.0000362 正面
+TOKEN[867]: 0.0000713    1 State
+	State WORD[867,   1]: 0.0000713 正殿
+TOKEN[868]: 0.0000711    1 ground
+	ground WORD[868,   1]: 0.0000711 整地
+TOKEN[869]: 0.0000705    1 fire
+	fire WORD[869,   1]: 0.0000705 延焼
+TOKEN[870]: 0.0000698    1 position
+	position WORD[870,   1]: 0.0000698 正位
+TOKEN[871]: 0.0000694    1 bullion
+	bullion WORD[871,   1]: 0.0000694 正金
+TOKEN[872]: 0.0000691    1 tag
+	tag WORD[872,   1]: 0.0000691 正札
+TOKEN[873]: 0.0000675    1 minister
+	minister WORD[873,   1]: 0.0000675 弾正
+TOKEN[874]: 0.0000673    1 sake
+	sake WORD[874,   1]: 0.0000673 正宗
+TOKEN[875]: 0.0000666    2 defect
+	defect WORD[875,   1]: 0.0000333 きょう正
+	defect WORD[875,   2]: 0.0000333 矯正
+TOKEN[876]: 0.0000661    1 delegate
+	delegate WORD[876,   1]: 0.0000661 正使
+TOKEN[877]: 0.0000654    1 clarify
+	clarify WORD[877,   1]: 0.0000654 聞き正す
+TOKEN[878]: 0.0000647    1 judge
+	judge WORD[878,   1]: 0.0000647 弾正
+TOKEN[879]: 0.0000645    1 enquire
+	enquire WORD[879,   1]: 0.0000645 問い正す
+TOKEN[880]: 0.0000645    2 fair
+	fair WORD[880,   1]: 0.0000332 正論
+	fair WORD[880,   2]: 0.0000313 厳正
+TOKEN[881]: 0.0000643    2 answer
+	answer WORD[881,   1]: 0.0000321 正答
+	answer WORD[881,   2]: 0.0000321 正解
+TOKEN[882]: 0.0000641    1 activity
+	activity WORD[882,   1]: 0.0000321 正業
+TOKEN[883]: 0.0000640    1 welcoming
+	welcoming WORD[883,   1]: 0.0000640 正眼
+TOKEN[884]: 0.0000640    1 curriculum
+	curriculum WORD[884,   1]: 0.0000640 正課
+TOKEN[885]: 0.0000632    1 dress
+	dress WORD[885,   1]: 0.0000632 正装
+TOKEN[886]: 0.0000622    1 holomorphic
+	holomorphic WORD[886,   1]: 0.0000622 正則
+TOKEN[887]: 0.0000622    1 invertible
+	invertible WORD[887,   1]: 0.0000622 正則
+TOKEN[888]: 0.0000620    1 saying
+	saying WORD[888,   1]: 0.0000310 正業
+TOKEN[889]: 0.0000617    1 officer
+	officer WORD[889,   1]: 0.0000617 弾正
+TOKEN[890]: 0.0000607    1 dynasty
+	dynasty WORD[890,   1]: 0.0000607 正朝
+TOKEN[891]: 0.0000599    1 grill
+	grill WORD[891,   1]: 0.0000599 問い正す
+TOKEN[892]: 0.0000599    1 inquire
+	inquire WORD[892,   1]: 0.0000599 問い正す
+TOKEN[893]: 0.0000599    1 illegitimate
+	illegitimate WORD[893,   1]: 0.0000599 正閏
+TOKEN[894]: 0.0000594    1 envoy
+	envoy WORD[894,   1]: 0.0000594 正使
+TOKEN[895]: 0.0000594    2 teeth
+	teeth WORD[895,   1]: 0.0000297 きょう正
+	teeth WORD[895,   2]: 0.0000297 矯正
+TOKEN[896]: 0.0000591    1 action
+	action WORD[896,   1]: 0.0000296 正業
+TOKEN[897]: 0.0000589    1 dream
+	dream WORD[897,   1]: 0.0000589 正夢
+TOKEN[898]: 0.0000585    1 history
+	history WORD[898,   1]: 0.0000585 正史
+TOKEN[899]: 0.0000584    1 concubine
+	concubine WORD[899,   1]: 0.0000584 正室
+TOKEN[900]: 0.0000583    1 stance
+	stance WORD[900,   1]: 0.0000583 正眼
+TOKEN[901]: 0.0000582    1 illegality
+	illegality WORD[901,   1]: 0.0000582 不正
+TOKEN[902]: 0.0000578    1 descent
+	descent WORD[902,   1]: 0.0000578 正系
+TOKEN[903]: 0.0000576    1 metallic
+	metallic WORD[903,   1]: 0.0000576 正貨
+TOKEN[904]: 0.0000575    1 comes
+	comes WORD[904,   1]: 0.0000575 正夢
+TOKEN[905]: 0.0000574    1 heir
+	heir WORD[905,   1]: 0.0000574 正室
+TOKEN[906]: 0.0000574    1 successor
+	successor WORD[906,   1]: 0.0000574 正室
+TOKEN[907]: 0.0000572    1 Biblical
+	Biblical WORD[907,   1]: 0.0000572 正典
+TOKEN[908]: 0.0000555    1 explain
+	explain WORD[908,   1]: 0.0000555 問い正す
+TOKEN[909]: 0.0000555    1 unfairness
+	unfairness WORD[909,   1]: 0.0000555 不正
+TOKEN[910]: 0.0000547    1 banquet
+	banquet WORD[910,   1]: 0.0000547 正餐
+TOKEN[911]: 0.0000544    1 starch
+	starch WORD[911,   1]: 0.0000544 正麩
+TOKEN[912]: 0.0000540    1 building
+	building WORD[912,   1]: 0.0000540 正殿
+TOKEN[913]: 0.0000538    1 dinner
+	dinner WORD[913,   1]: 0.0000538 正餐
+TOKEN[914]: 0.0000537    1 iniquity
+	iniquity WORD[914,   1]: 0.0000537 不正
+TOKEN[915]: 0.0000535    1 leap
+	leap WORD[915,   1]: 0.0000535 正閏
+TOKEN[916]: 0.0000528    2 full
+	full WORD[916,   1]: 0.0000266 正装
+	full WORD[916,   2]: 0.0000261 正味
+TOKEN[917]: 0.0000524    1 pendulum
+	pendulum WORD[917,   1]: 0.0000524 補正
+TOKEN[918]: 0.0000516    1 active
+	active WORD[918,   1]: 0.0000516 正員
+TOKEN[919]: 0.0000515    1 currency
+	currency WORD[919,   1]: 0.0000515 正貨
+TOKEN[920]: 0.0000514    1 printed
+	printed WORD[920,   1]: 0.0000514 正書
+TOKEN[921]: 0.0000514    1 injustice
+	injustice WORD[921,   1]: 0.0000514 不正
+TOKEN[922]: 0.0000514    1 warm
+	warm WORD[922,   1]: 0.0000514 正眼
+TOKEN[923]: 0.0000510    1 wheat
+	wheat WORD[923,   1]: 0.0000510 正麩
+TOKEN[924]: 0.0000508    1 cash
+	cash WORD[924,   1]: 0.0000508 正金
+TOKEN[925]: 0.0000507    1 hour
+	hour WORD[925,   1]: 0.0000507 正時
+TOKEN[926]: 0.0000506    1 emmetropia
+	emmetropia WORD[926,   1]: 0.0000506 正視
+TOKEN[927]: 0.0000505    1 impropriety
+	impropriety WORD[927,   1]: 0.0000505 不正
+TOKEN[928]: 0.0000498    1 senior
+	senior WORD[928,   1]: 0.0000498 正使
+TOKEN[929]: 0.0000489    1 equitable
+	equitable WORD[929,   1]: 0.0000489 正当
+TOKEN[930]: 0.0000489    1 normalcy
+	normalcy WORD[930,   1]: 0.0000489 正常
+TOKEN[931]: 0.0000488    1 orthodoxy
+	orthodoxy WORD[931,   1]: 0.0000488 正教
+TOKEN[932]: 0.0000485    1 wrongdoing
+	wrongdoing WORD[932,   1]: 0.0000485 不正
+TOKEN[933]: 0.0000482    1 brink
+	brink WORD[933,   1]: 0.0000482 正に
+TOKEN[934]: 0.0000480    1 chief
+	chief WORD[934,   1]: 0.0000480 正使
+TOKEN[935]: 0.0000476    1 justifiable
+	justifiable WORD[935,   1]: 0.0000476 正当
+TOKEN[936]: 0.0000476    1 normality
+	normality WORD[936,   1]: 0.0000476 正常
+TOKEN[937]: 0.0000475    1 block
+	block WORD[937,   1]: 0.0000475 正書
+TOKEN[938]: 0.0000474    1 question
+	question WORD[938,   1]: 0.0000474 問い正す
+TOKEN[939]: 0.0000474    1 truthful
+	truthful WORD[939,   1]: 0.0000474 正しい
+TOKEN[940]: 0.0000472    1 standard
+	standard WORD[940,   1]: 0.0000472 正書
+TOKEN[941]: 0.0000471    1 silk
+	silk WORD[941,   1]: 0.0000471 正絹
+TOKEN[942]: 0.0000469    1 midnight
+	midnight WORD[942,   1]: 0.0000469 正子
+TOKEN[943]: 0.0000467    1 holding
+	holding WORD[943,   1]: 0.0000467 正眼
+TOKEN[944]: 0.0000461    1 paradise
+	paradise WORD[944,   1]: 0.0000461 正行
+TOKEN[945]: 0.0000459    1 subject
+	subject WORD[945,   1]: 0.0000459 正課
+TOKEN[946]: 0.0000457    1 relationship
+	relationship WORD[946,   1]: 0.0000457 正妻
+TOKEN[947]: 0.0000451    1 fraud
+	fraud WORD[947,   1]: 0.0000451 不正
+TOKEN[948]: 0.0000448    1 verge
+	verge WORD[948,   1]: 0.0000448 正に
+TOKEN[949]: 0.0000445    1 sine
+	sine WORD[949,   1]: 0.0000445 正弦
+TOKEN[950]: 0.0000443    1 matrix
+	matrix WORD[950,   1]: 0.0000443 正則
+TOKEN[951]: 0.0000440    1 written
+	written WORD[951,   1]: 0.0000440 正字
+TOKEN[952]: 0.0000437    1 reading
+	reading WORD[952,   1]: 0.0000437 正訓
+TOKEN[953]: 0.0000432    1 mindfulness
+	mindfulness WORD[953,   1]: 0.0000432 正念
+TOKEN[954]: 0.0000429    1 Taisho
+	Taisho WORD[954,   1]: 0.0000429 大正
+TOKEN[955]: 0.0000428    1 righteous
+	righteous WORD[955,   1]: 0.0000428 正しい
+TOKEN[956]: 0.0000427    1 brand
+	brand WORD[956,   1]: 0.0000427 正宗
+TOKEN[957]: 0.0000427    1 doubt
+	doubt WORD[957,   1]: 0.0000427 正に
+TOKEN[958]: 0.0000425    1 compensation
+	compensation WORD[958,   1]: 0.0000425 補正
+TOKEN[959]: 0.0000424    1 accuracy
+	accuracy WORD[959,   1]: 0.0000424 正誤
+TOKEN[960]: 0.0000424    1 find
+	find WORD[960,   1]: 0.0000424 聞き正す
+TOKEN[961]: 0.0000421    1 biography
+	biography WORD[961,   1]: 0.0000421 正伝
+TOKEN[962]: 0.0000419    1 update
+	update WORD[962,   1]: 0.0000419 修正
+TOKEN[963]: 0.0000416    1 autograph
+	autograph WORD[963,   1]: 0.0000416 正銘
+TOKEN[964]: 0.0000416    1 impartial
+	impartial WORD[964,   1]: 0.0000416 厳正
+TOKEN[965]: 0.0000413    1 ceremony
+	ceremony WORD[965,   1]: 0.0000413 正客
+TOKEN[966]: 0.0000412    1 writing
+	writing WORD[966,   1]: 0.0000412 正書
+TOKEN[967]: 0.0000412    1 comment
+	comment WORD[967,   1]: 0.0000412 批正
+TOKEN[968]: 0.0000410    1 wine
+	wine WORD[968,   1]: 0.0000410 正宗
+TOKEN[969]: 0.0000407    1 tea
+	tea WORD[969,   1]: 0.0000407 正客
+TOKEN[970]: 0.0000407    1 blade
+	blade WORD[970,   1]: 0.0000407 正宗
+TOKEN[971]: 0.0000406    1 chairman
+	chairman WORD[971,   1]: 0.0000406 正副
+TOKEN[972]: 0.0000405    1 incorrect
+	incorrect WORD[972,   1]: 0.0000405 正誤
+TOKEN[973]: 0.0000405    1 precise
+	precise WORD[973,   1]: 0.0000405 正確
+TOKEN[974]: 0.0000403    1 authorized
+	authorized WORD[974,   1]: 0.0000403 正史
+TOKEN[975]: 0.0000399    1 enforcement
+	enforcement WORD[975,   1]: 0.0000399 粛正
+TOKEN[976]: 0.0000397    1 midday
+	midday WORD[976,   1]: 0.0000397 正午
+TOKEN[977]: 0.0000395    1 famous
+	famous WORD[977,   1]: 0.0000395 正宗
+TOKEN[978]: 0.0000391    1 negotiation
+	negotiation WORD[978,   1]: 0.0000391 正札
+TOKEN[979]: 0.0000389    1 number
+	number WORD[979,   1]: 0.0000389 正数
+TOKEN[980]: 0.0000382    1 reasoning
+	reasoning WORD[980,   1]: 0.0000382 正論
+TOKEN[981]: 0.0000382    1 Greek
+	Greek WORD[981,   1]: 0.0000382 正教
+TOKEN[982]: 0.0000380    1 offender
+	offender WORD[982,   1]: 0.0000380 正犯
+TOKEN[983]: 0.0000379    1 collected
+	collected WORD[983,   1]: 0.0000379 正倉
+TOKEN[984]: 0.0000378    1 candid
+	candid WORD[984,   1]: 0.0000378 正直
+TOKEN[985]: 0.0000378    1 modification
+	modification WORD[985,   1]: 0.0000378 修正
+TOKEN[986]: 0.0000377    1 rigid
+	rigid WORD[986,   1]: 0.0000377 厳正
+TOKEN[987]: 0.0000375    1 storehouse
+	storehouse WORD[987,   1]: 0.0000375 正倉
+TOKEN[988]: 0.0000369    1 said
+	said WORD[988,   1]: 0.0000369 正身
+TOKEN[989]: 0.0000369    1 straightforward
+	straightforward WORD[989,   1]: 0.0000369 正直
+TOKEN[990]: 0.0000367    1 revealing
+	revealing WORD[990,   1]: 0.0000367 顕正
+TOKEN[991]: 0.0000364    1 alternate
+	alternate WORD[991,   1]: 0.0000364 正殿
+TOKEN[992]: 0.0000364    1 useful
+	useful WORD[992,   1]: 0.0000364 正味
+TOKEN[993]: 0.0000363    1 suitable
+	suitable WORD[993,   1]: 0.0000363 適正
+TOKEN[994]: 0.0000363    1 region
+	region WORD[994,   1]: 0.0000363 正宗
+TOKEN[995]: 0.0000363    1 taxation
+	taxation WORD[995,   1]: 0.0000363 正倉
+TOKEN[996]: 0.0000362    1 noon
+	noon WORD[996,   1]: 0.0000362 正午
+TOKEN[997]: 0.0000358    1 vision
+	vision WORD[997,   1]: 0.0000358 正視
+TOKEN[998]: 0.0000356    1 interpretation
+	interpretation WORD[998,   1]: 0.0000356 正解
+TOKEN[999]: 0.0000355    1 mystery
+	mystery WORD[999,   1]: 0.0000355 正体
+TOKEN[1000]: 0.0000354    1 label
+	label WORD[1000,   1]: 0.0000354 正札
+TOKEN[1001]: 0.0000353    1 offense
+	offense WORD[1001,   1]: 0.0000353 正犯
+TOKEN[1002]: 0.0000352    1 phenomenon
+	phenomenon WORD[1002,   1]: 0.0000352 正体
+TOKEN[1003]: 0.0000350    1 reduced
+	reduced WORD[1003,   1]: 0.0000350 正札
+TOKEN[1004]: 0.0000348    1 identity
+	identity WORD[1004,   1]: 0.0000348 正体
+TOKEN[1005]: 0.0000347    1 consciousness
+	consciousness WORD[1005,   1]: 0.0000347 正体
+TOKEN[1006]: 0.0000346    1 facing
+	facing WORD[1006,   1]: 0.0000346 正視
+TOKEN[1007]: 0.0000345    1 family
+	family WORD[1007,   1]: 0.0000345 正嫡
+TOKEN[1008]: 0.0000341    1 faith
+	faith WORD[1008,   1]: 0.0000341 正念
+TOKEN[1009]: 0.0000341    1 January
+	January WORD[1009,   1]: 0.0000341 正月
+TOKEN[1010]: 0.0000339    1 colors
+	colors WORD[1010,   1]: 0.0000339 正体
+TOKEN[1011]: 0.0000339    1 established
+	established WORD[1011,   1]: 0.0000339 正規
+TOKEN[1012]: 0.0000334    1 strict
+	strict WORD[1012,   1]: 0.0000334 厳正
+TOKEN[1013]: 0.0000331    1 thing
+	thing WORD[1013,   1]: 0.0000331 正身
+TOKEN[1014]: 0.0000326    1 solution
+	solution WORD[1014,   1]: 0.0000326 正解
+TOKEN[1015]: 0.0000325    1 palace
+	palace WORD[1015,   1]: 0.0000325 正殿
+TOKEN[1016]: 0.0000324    1 frank
+	frank WORD[1016,   1]: 0.0000324 正直
+TOKEN[1017]: 0.0000321    1 central
+	central WORD[1017,   1]: 0.0000321 正殿
+TOKEN[1018]: 0.0000320    1 choice
+	choice WORD[1018,   1]: 0.0000320 正解
+TOKEN[1019]: 0.0000315    1 something
+	something WORD[1019,   1]: 0.0000315 問い正す
+TOKEN[1020]: 0.0000314    1 decision
+	decision WORD[1020,   1]: 0.0000314 正解
+TOKEN[1021]: 0.0000311    1 priest
+	priest WORD[1021,   1]: 0.0000311 僧正
+TOKEN[1022]: 0.0000310    1 entrance
+	entrance WORD[1022,   1]: 0.0000310 正門
+TOKEN[1023]: 0.0000309    1 content
+	content WORD[1023,   1]: 0.0000309 正味
+TOKEN[1024]: 0.0000308    1 gate
+	gate WORD[1024,   1]: 0.0000308 正門
+TOKEN[1025]: 0.0000304    1 cost
+	cost WORD[1025,   1]: 0.0000304 正味
+TOKEN[1026]: 0.0000303    1 origin
+	origin WORD[1026,   1]: 0.0000303 正体
+TOKEN[1027]: 0.0000302    1 weight
+	weight WORD[1027,   1]: 0.0000302 正味
+TOKEN[1028]: 0.0000293    1 problem
+	problem WORD[1028,   1]: 0.0000293 正視
+TOKEN[1029]: 0.0000293    1 soy
+	soy WORD[1029,   1]: 0.0000293 正油
+TOKEN[1030]: 0.0000284    1 mistake
+	mistake WORD[1030,   1]: 0.0000284 匡正
+TOKEN[1031]: 0.0000280    1 base
+	base WORD[1031,   1]: 0.0000280 正札
+TOKEN[1032]: 0.0000279    1 amount
+	amount WORD[1032,   1]: 0.0000279 正味
+TOKEN[1033]: 0.0000279    1 sauce
+	sauce WORD[1033,   1]: 0.0000279 正油
+TOKEN[1034]: 0.0000278    1 store
+	store WORD[1034,   1]: 0.0000278 正倉
+TOKEN[1035]: 0.0000273    1 temple
+	temple WORD[1035,   1]: 0.0000273 正殿
+TOKEN[1036]: 0.0000273    1 shrine
+	shrine WORD[1036,   1]: 0.0000273 正殿
+TOKEN[1037]: 0.0000270    1 Buddhist
+	Buddhist WORD[1037,   1]: 0.0000270 僧正
+TOKEN[1038]: 0.0000260    1 three
+	three WORD[1038,   1]: 0.0000260 正月
+TOKEN[1039]: 0.0000256    1 land
+	land WORD[1039,   1]: 0.0000256 正念
+TOKEN[1040]: 0.0000247    1 high
+	high WORD[1040,   1]: 0.0000247 僧正

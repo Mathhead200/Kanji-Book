@@ -1,0 +1,820 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2704463   91 rain           : 寒雨, 十雨, 糸雨, 喜雨, 雨除け, 雨続き, 雨靄, 雨混じり, 春時雨, 慈雨, ...
+0.1616419    3 winter         : 寒雨, 初時雨, 時雨
+0.1459728    1 cold           : 寒雨
+0.0319093    1 refreshing     : 十雨
+0.0268860    1 ten            : 十雨
+0.0225175    1 days           : 十雨
+0.0207738   16 shower         : 喜雨, 春時雨, 急雨, 村時雨, にわか雨, 俄雨, 驟雨, 村雨, 白雨, 通り雨, ...
+0.0165364    8 drizzle        : 糸雨, 春時雨, 微雨, ぬか雨, 糠雨, 細雨, 霧雨, 小雨
+0.0119844   20 rainy          : 梅雨空, 戻り梅雨, 梅雨入り, 梅雨, 走り梅雨, 雨ふり, 雨降り, 雨, 梅雨晴れ, 梅雨寒, ...
+0.0098677    2 spring         : 春時雨, 春雨
+0.0086274    3 welcome        : 喜雨, 恵雨, 慈雨
+0.0085828    4 spell          : 雨続き, 霖雨, 梅雨晴れ, 長雨
+0.0079849    1 precipitation  : 雨靄
+0.0078040    2 drought        : 喜雨, 慈雨
+0.0069288    8 light          : 糸雨, 微雨, 涙雨, ぬか雨, 糠雨, 霧雨, 少雨, 小雨
+0.0068674    1 fog            : 雨靄
+0.0067170   12 season         : 梅雨空, 戻り梅雨, 梅雨時, 梅雨入り, 梅雨, 走り梅雨, 梅雨晴れ, 梅雨寒, 空梅雨, 梅雨明け, ...
+0.0066813    1 mist           : 雨靄
+0.0064123    2 comes          : 喜雨, 慈雨
+0.0061506   12 weather        : 雨女, 雨男, 戻り梅雨, 走り梅雨, 梅雨寒, 晴雨, 雨曇, 雨曇り, 雨天, 雨ふり, ...
+0.0058595    2 fine           : 糸雨, 煙雨
+0.0056081    4 hail           : 雨あられ, 雨霰, 弾雨, 氷雨
+0.0053856    2 snow           : 雨混じり, 雨雪
+0.0049531    4 tarpaulin      : 雨除け, 雨覆い, 雨よけ, 雨避け
+0.0044888    8 rainfall       : 雨音, 少雨, ひと雨, 一雨, 降雨, 雨量, 雨ふり, 雨降り
+0.0041227    3 wind           : 雨混じり, 風雨, 雨風
+0.0038944    4 storm          : 暴風雨, 雨あられ, 雨霰, 雨戸
+0.0038939    5 shelter        : 雨除け, 雨よけ, 雨避け, 雨やどり, 雨宿り
+0.0038686    3 raindrop       : 雨雫, 雨滴, 雨粒
+0.0036182    4 praying        : 請雨, 祈雨, 雨ごい, 雨乞い
+0.0034646    1 boots          : 雨靴
+0.0031283    3 covering       : 雨除け, 雨よけ, 雨避け
+0.0028755    5 taking         : 雨除け, 雨よけ, 雨避け, 雨やどり, 雨宿り
+0.0028421    2 rainstorm      : 暴風雨, 風雨
+0.0027933    2 unlucky        : 雨女, 雨男
+0.0027660    3 cover          : 雨除け, 雨よけ, 雨避け
+0.0026880    2 goes           : 雨女, 雨男
+0.0026386    1 something      : 雨混じり
+0.0025430    5 fall           : 初時雨, 村時雨, 雨落ち, 時雨, 秋雨
+0.0025330    2 barrage        : 雨あられ, 雨霰
+0.0025169    4 autumn         : 初時雨, 村時雨, 時雨, 秋雨
+0.0025018    1 swift          : 雨燕
+0.0024749    1 raintight      : 防雨
+0.0024749    1 rainproof      : 防雨
+0.0024727    2 sky            : 雨空, 梅雨空
+0.0024260    2 gutter         : 雨どい, 雨樋
+0.0023674    2 exclamation    : 雨だれ, 雨垂れ
+0.0023655    1 rubbers        : 雨靴
+0.0023200    5 passing        : 村雨, 通り雨, 雨あし, 雨脚, 雨足
+0.0022887    2 Aplysia        : 雨降らし, 雨降
+0.0022819    1 woman          : 雨女
+0.0021775    1 snowfall       : 雨雪
+0.0020478    2 torrential     : 暴雨, 豪雨
+0.0020358    1 waterproof     : 雨靴
+0.0020356    1 raincoat       : 雨着
+0.0020113    3 early          : 初時雨, 梅雨, 時雨
+0.0019426    2 frog           : 雨がえる, 雨蛙
+0.0018776    1 wherever       : 雨女
+0.0018531    2 hare           : 雨降らし, 雨降
+0.0018155    1 Apodidae       : 雨燕
+0.0018050    1 preserve       : 時雨煮
+0.0017237    3 downpour       : 驟雨, 雨下, 豪雨
+0.0017203    2 late           : 初時雨, 時雨
+0.0016989    1 ginger         : 時雨煮
+0.0016971    1 overcast       : 梅雨空
+0.0016952    1 crying         : 雨雫
+0.0016524    1 rubber         : 雨靴
+0.0016117    1 man            : 雨男
+0.0015911    3 pouring        : 雨あし, 雨脚, 雨足
+0.0015474    3 eaves          : 雨だれ, 雨垂れ, 雨落ち
+0.0015269    1 Apus           : 雨燕
+0.0014846    1 protection     : 防雨
+0.0014279    2 made           : 時雨煮, 春雨
+0.0014210    2 tree           : 雨がえる, 雨蛙
+0.0014009    2 Hyla           : 雨がえる, 雨蛙
+0.0013960    1 soy            : 時雨煮
+0.0013468    3 outburst       : せみ時雨, セミ時雨, 蝉時雨
+0.0013443    1 vulgar         : 雨しょぼ
+0.0012631    2 sea            : 雨降らし, 雨降
+0.0012498    1 dance          : 雨しょぼ
+0.0012488    1 geisha         : 雨しょぼ
+0.0012252    1 first          : 初時雨
+0.0012004    2 sound          : 雨音, 雨声
+0.0011999    2 misty          : 細雨, 煙雨
+0.0011590    3 chorus         : せみ時雨, セミ時雨, 蝉時雨
+0.0011400    1 sudden         : 驟雨
+0.0011110    2 break          : 雨止み, 雨間
+0.0010867    2 species        : 雨降らし, 雨降
+0.0010866    2 cool           : 涼雨, 梅雨寒
+0.0010842    2 night          : 夜雨, 雨夜
+0.0010610    2 dripping       : 雨だれ, 雨垂れ
+0.0010504    2 threatening    : 雨空, 雨気
+0.0010031    3 singing        : せみ時雨, セミ時雨, 蝉時雨
+0.0010015    2 threat         : 雨もよい, 雨催い
+0.0009935    2 freezing       : 雨氷, 氷雨
+0.0009869    3 heavy          : 多雨, 豪雨, 大雨
+0.0009768    2 exposed        : 雨ざらし, 雨曝し
+0.0009740    1 bird           : 雨燕
+0.0009286    2 clear          : 戻り梅雨, 晴雨
+0.0009022    3 wet            : 梅雨時, 雨ふり, 雨降り
+0.0008949    1 condoling      : 涙雨
+0.0008163    1 starch         : 春雨
+0.0008009    2 japonica       : 雨がえる, 雨蛙
+0.0007948    2 mark           : 雨だれ, 雨垂れ
+0.0007927    1 yellowish      : 雨竜
+0.0007849    1 watering       : 如雨露
+0.0007547    1 family         : 雨燕
+0.0007503    1 beast          : 雨竜
+0.0007462    2 solar          : 穀雨, 雨水
+0.0007254    1 unstable       : 走り梅雨
+0.0007174    1 mythical       : 雨竜
+0.0006658    2 point          : 雨だれ, 雨垂れ
+0.0006656    2 term           : 穀雨, 雨水
+0.0006615    1 tail           : 雨竜
+0.0006609    1 preceding      : 走り梅雨
+0.0006570    1 dragon         : 雨竜
+0.0006393    1 sadness        : 涙雨
+0.0006265    1 May            : 走り梅雨
+0.0006180    2 leak           : 雨もり, 雨漏り
+0.0006121    1 sunny          : 梅雨晴れ
+0.0005953    1 sleet          : 氷雨
+0.0005904    1 thunderstorm   : 雷雨
+0.0005788    1 damages        : 淫雨
+0.0005679    1 skin           : 雨竜
+0.0005546    1 dew            : 雨露
+0.0005516    1 blessed        : 慈雨
+0.0005508    1 green          : 雨竜
+0.0005393    1 beneficial     : 慈雨
+0.0005369    1 continuous     : 地雨
+0.0005347    1 evening        : 暮雨
+0.0005314    2 Japanese       : 雨がえる, 雨蛙
+0.0005275    2 amount         : 少雨, 雨量
+0.0005231    1 return         : 戻り梅雨
+0.0005173    1 red            : 雨竜
+0.0005085    1 April          : 穀雨
+0.0005079    1 falling        : 涙雨
+0.0005011    2 roof           : 雨もり, 雨漏り
+0.0004933    1 seasonable     : 時雨
+0.0004737    1 umbrella       : 雨傘
+0.0004568    1 hat            : 雨笠
+0.0004566    1 cloudburst     : 豪雨
+0.0004435    1 waiting        : 雨止み
+0.0004427    1 grain          : 穀雨
+0.0004351    1 dry            : 空梅雨
+0.0004194    1 June           : 梅雨
+0.0004068    1 sprinkling     : 如雨露
+0.0004065    1 radical        : 雨冠
+0.0004048    1 period         : 戻り梅雨
+0.0004018    1 gentle         : 春雨
+0.0003945    1 potato         : 春雨
+0.0003806    1 water          : 雨水
+0.0003708    1 top            : 雨冠
+0.0003578    1 bean           : 春雨
+0.0003552    1 area           : 雨域
+0.0003493    1 entering       : 梅雨入り
+0.0003456    1 time           : 涙雨
+0.0003432    1 shutter        : 雨戸
+0.0003371    1 Asian          : 梅雨
+0.0003351    1 thin           : 春雨
+0.0003304    1 November       : 雨
+0.0003276    1 February       : 雨水
+0.0003172    1 place          : 雨落ち
+0.0003091    1 pot            : 如雨露
+0.0003050    1 fifth          : 雨月
+0.0003031    1 beginning      : 梅雨入り
+0.0003013    1 gear           : 雨具
+0.0002897    1 sliding        : 雨戸
+0.0002841    1 harvest        : 雨月
+0.0002820    1 forest         : 雨林
+0.0002750    1 driving        : 雨風
+0.0002733    1 cloud          : 雨雲
+0.0002635    1 moon           : 雨月
+0.0002633    1 suit           : 雨
+0.0002610    1 unable         : 雨月
+0.0002518    1 end            : 梅雨明け
+0.0002489    1 see            : 雨月
+0.0002485    1 lunar          : 雨月
+0.0002338    1 Japan          : 梅雨
+0.0002277    1 small          : 少雨
+0.0002247    1 month          : 雨月
+0.0001972    1 day            : 雨
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2704463   91 rain
+	rain WORD[ 1,   1]: 0.1532532 寒雨
+	rain WORD[ 1,   2]: 0.0234963 十雨
+	rain WORD[ 1,   3]: 0.0105818 糸雨
+	rain WORD[ 1,   4]: 0.0104859 喜雨
+	rain WORD[ 1,   5]: 0.0056916 雨除け
+	rain WORD[ 1,   6]: 0.0053463 雨続き
+	rain WORD[ 1,   7]: 0.0053076 雨靄
+	rain WORD[ 1,   8]: 0.0037952 雨混じり
+	rain WORD[ 1,   9]: 0.0034238 春時雨
+	rain WORD[ 1,  10]: 0.0015638 慈雨
+	rain WORD[ 1,  11]: 0.0014222 涙雨
+	rain WORD[ 1,  12]: 0.0013413 初時雨
+	rain WORD[ 1,  13]: 0.0013410 恵雨
+	rain WORD[ 1,  14]: 0.0013171 雨女
+	rain WORD[ 1,  15]: 0.0013111 防雨
+	rain WORD[ 1,  16]: 0.0011751 雨よけ
+	rain WORD[ 1,  17]: 0.0011751 雨避け
+	rain WORD[ 1,  18]: 0.0011484 請雨
+	rain WORD[ 1,  19]: 0.0011436 急雨
+	rain WORD[ 1,  20]: 0.0009412 雨男
+	rain WORD[ 1,  21]: 0.0009293 夜雨
+	rain WORD[ 1,  22]: 0.0009190 暴雨
+	rain WORD[ 1,  23]: 0.0008730 雨あられ
+	rain WORD[ 1,  24]: 0.0008730 雨霰
+	rain WORD[ 1,  25]: 0.0008566 にわか雨
+	rain WORD[ 1,  26]: 0.0008566 俄雨
+	rain WORD[ 1,  27]: 0.0008508 雨どい
+	rain WORD[ 1,  28]: 0.0008508 雨樋
+	rain WORD[ 1,  29]: 0.0008310 雨後
+	rain WORD[ 1,  30]: 0.0008017 雨雪
+	rain WORD[ 1,  31]: 0.0007868 雨気
+	rain WORD[ 1,  32]: 0.0007834 雨止み
+	rain WORD[ 1,  33]: 0.0007832 緑雨
+	rain WORD[ 1,  34]: 0.0007663 祈雨
+	rain WORD[ 1,  35]: 0.0006686 氷雨
+	rain WORD[ 1,  36]: 0.0005722 雨竜
+	rain WORD[ 1,  37]: 0.0005540 時雨
+	rain WORD[ 1,  38]: 0.0005455 豪雨
+	rain WORD[ 1,  39]: 0.0005189 冷雨
+	rain WORD[ 1,  40]: 0.0005186 霖雨
+	rain WORD[ 1,  41]: 0.0005183 涼雨
+	rain WORD[ 1,  42]: 0.0004980 暮雨
+	rain WORD[ 1,  43]: 0.0004806 微雨
+	rain WORD[ 1,  44]: 0.0004791 雨風
+	rain WORD[ 1,  45]: 0.0004789 雨水
+	rain WORD[ 1,  46]: 0.0004752 秋雨
+	rain WORD[ 1,  47]: 0.0004731 白雨
+	rain WORD[ 1,  48]: 0.0004675 ぬか雨
+	rain WORD[ 1,  49]: 0.0004675 糠雨
+	rain WORD[ 1,  50]: 0.0004562 通り雨
+	rain WORD[ 1,  51]: 0.0004474 多雨
+	rain WORD[ 1,  52]: 0.0004329 細雨
+	rain WORD[ 1,  53]: 0.0004257 地雨
+	rain WORD[ 1,  54]: 0.0004168 雨露
+	rain WORD[ 1,  55]: 0.0004149 霧雨
+	rain WORD[ 1,  56]: 0.0004075 雨氷
+	rain WORD[ 1,  57]: 0.0003964 淫雨
+	rain WORD[ 1,  58]: 0.0003948 雨声
+	rain WORD[ 1,  59]: 0.0003942 煙雨
+	rain WORD[ 1,  60]: 0.0003935 雨もよい
+	rain WORD[ 1,  61]: 0.0003935 雨催い
+	rain WORD[ 1,  62]: 0.0003934 雨空
+	rain WORD[ 1,  63]: 0.0003934 雨ざらし
+	rain WORD[ 1,  64]: 0.0003934 雨曝し
+	rain WORD[ 1,  65]: 0.0003934 雨ごい
+	rain WORD[ 1,  66]: 0.0003934 雨乞い
+	rain WORD[ 1,  67]: 0.0003933 雨笠
+	rain WORD[ 1,  68]: 0.0003933 雨あし
+	rain WORD[ 1,  69]: 0.0003933 雨脚
+	rain WORD[ 1,  70]: 0.0003933 雨足
+	rain WORD[ 1,  71]: 0.0003933 雨間
+	rain WORD[ 1,  72]: 0.0003919 雨冠
+	rain WORD[ 1,  73]: 0.0003918 雨あがり
+	rain WORD[ 1,  74]: 0.0003918 雨上がり
+	rain WORD[ 1,  75]: 0.0003918 雨上り
+	rain WORD[ 1,  76]: 0.0003909 穀雨
+	rain WORD[ 1,  77]: 0.0003383 風雨
+	rain WORD[ 1,  78]: 0.0003300 春雨
+	rain WORD[ 1,  79]: 0.0003130 長雨
+	rain WORD[ 1,  80]: 0.0003015 梅雨
+	rain WORD[ 1,  81]: 0.0002757 五月雨
+	rain WORD[ 1,  82]: 0.0002710 小雨
+	rain WORD[ 1,  83]: 0.0002700 降雨
+	rain WORD[ 1,  84]: 0.0002497 大雨
+	rain WORD[ 1,  85]: 0.0002478 雨林
+	rain WORD[ 1,  86]: 0.0002452 雨月
+	rain WORD[ 1,  87]: 0.0002395 雨
+	rain WORD[ 1,  88]: 0.0002394 雨やどり
+	rain WORD[ 1,  89]: 0.0002394 雨宿り
+	rain WORD[ 1,  90]: 0.0002394 雨雲
+	rain WORD[ 1,  91]: 0.0002394 雨具
+TOKEN[ 2]: 0.1616419    3 winter
+	winter WORD[ 2,   1]: 0.1599528 寒雨
+	winter WORD[ 2,   2]: 0.0013999 初時雨
+	winter WORD[ 2,   3]: 0.0002891 時雨
+TOKEN[ 3]: 0.1459728    1 cold
+	cold WORD[ 3,   1]: 0.1459728 寒雨
+TOKEN[ 4]: 0.0319093    1 refreshing
+	refreshing WORD[ 4,   1]: 0.0319093 十雨
+TOKEN[ 5]: 0.0268860    1 ten
+	ten WORD[ 5,   1]: 0.0268860 十雨
+TOKEN[ 6]: 0.0225175    1 days
+	days WORD[ 6,   1]: 0.0225175 十雨
+TOKEN[ 7]: 0.0207738   16 shower
+	shower WORD[ 7,   1]: 0.0065598 喜雨
+	shower WORD[ 7,   2]: 0.0042837 春時雨
+	shower WORD[ 7,   3]: 0.0014308 急雨
+	shower WORD[ 7,   4]: 0.0012558 村時雨
+	shower WORD[ 7,   5]: 0.0010718 にわか雨
+	shower WORD[ 7,   6]: 0.0010717 俄雨
+	shower WORD[ 7,   7]: 0.0006471 驟雨
+	shower WORD[ 7,   8]: 0.0006279 村雨
+	shower WORD[ 7,   9]: 0.0005919 白雨
+	shower WORD[ 7,  10]: 0.0005708 通り雨
+	shower WORD[ 7,  11]: 0.0004921 雨あし
+	shower WORD[ 7,  12]: 0.0004921 雨脚
+	shower WORD[ 7,  13]: 0.0004921 雨足
+	shower WORD[ 7,  14]: 0.0004198 ひと雨
+	shower WORD[ 7,  15]: 0.0004198 一雨
+	shower WORD[ 7,  16]: 0.0003466 時雨
+TOKEN[ 8]: 0.0165364    8 drizzle
+	drizzle WORD[ 8,   1]: 0.0077777 糸雨
+	drizzle WORD[ 8,   2]: 0.0050330 春時雨
+	drizzle WORD[ 8,   3]: 0.0007065 微雨
+	drizzle WORD[ 8,   4]: 0.0006873 ぬか雨
+	drizzle WORD[ 8,   5]: 0.0006873 糠雨
+	drizzle WORD[ 8,   6]: 0.0006364 細雨
+	drizzle WORD[ 8,   7]: 0.0006098 霧雨
+	drizzle WORD[ 8,   8]: 0.0003984 小雨
+TOKEN[ 9]: 0.0119844   20 rainy
+	rainy WORD[ 9,   1]: 0.0014123 梅雨空
+	rainy WORD[ 9,   2]: 0.0013042 戻り梅雨
+	rainy WORD[ 9,   3]: 0.0007690 梅雨入り
+	rainy WORD[ 9,   4]: 0.0007690 梅雨
+	rainy WORD[ 9,   5]: 0.0006294 走り梅雨
+	rainy WORD[ 9,   6]: 0.0006110 雨ふり
+	rainy WORD[ 9,   7]: 0.0006110 雨降り
+	rainy WORD[ 9,   8]: 0.0006110 雨
+	rainy WORD[ 9,   9]: 0.0005809 梅雨晴れ
+	rainy WORD[ 9,  10]: 0.0005809 梅雨寒
+	rainy WORD[ 9,  11]: 0.0005617 晴雨
+	rainy WORD[ 9,  12]: 0.0005213 空梅雨
+	rainy WORD[ 9,  13]: 0.0005077 雨域
+	rainy WORD[ 9,  14]: 0.0005017 雨空
+	rainy WORD[ 9,  15]: 0.0003845 梅雨時
+	rainy WORD[ 9,  16]: 0.0003845 梅雨明け
+	rainy WORD[ 9,  17]: 0.0003147 雨天
+	rainy WORD[ 9,  18]: 0.0003122 雨季
+	rainy WORD[ 9,  19]: 0.0003122 雨期
+	rainy WORD[ 9,  20]: 0.0003054 雨夜
+TOKEN[10]: 0.0098677    2 spring
+	spring WORD[10,   1]: 0.0095605 春時雨
+	spring WORD[10,   2]: 0.0003071 春雨
+TOKEN[11]: 0.0086274    3 welcome
+	welcome WORD[11,   1]: 0.0064851 喜雨
+	welcome WORD[11,   2]: 0.0016587 恵雨
+	welcome WORD[11,   3]: 0.0004836 慈雨
+TOKEN[12]: 0.0085828    4 spell
+	spell WORD[12,   1]: 0.0069175 雨続き
+	spell WORD[12,   2]: 0.0006710 霖雨
+	spell WORD[12,   3]: 0.0005893 梅雨晴れ
+	spell WORD[12,   4]: 0.0004050 長雨
+TOKEN[13]: 0.0079849    1 precipitation
+	precipitation WORD[13,   1]: 0.0079849 雨靄
+TOKEN[14]: 0.0078040    2 drought
+	drought WORD[14,   1]: 0.0072624 喜雨
+	drought WORD[14,   2]: 0.0005415 慈雨
+TOKEN[15]: 0.0069288    8 light
+	light WORD[15,   1]: 0.0045000 糸雨
+	light WORD[15,   2]: 0.0004088 微雨
+	light WORD[15,   3]: 0.0004032 涙雨
+	light WORD[15,   4]: 0.0003976 ぬか雨
+	light WORD[15,   5]: 0.0003976 糠雨
+	light WORD[15,   6]: 0.0003528 霧雨
+	light WORD[15,   7]: 0.0002381 少雨
+	light WORD[15,   8]: 0.0002305 小雨
+TOKEN[16]: 0.0068674    1 fog
+	fog WORD[16,   1]: 0.0068674 雨靄
+TOKEN[17]: 0.0067170   12 season
+	season WORD[17,   1]: 0.0011368 梅雨空
+	season WORD[17,   2]: 0.0010498 戻り梅雨
+	season WORD[17,   3]: 0.0006190 梅雨時
+	season WORD[17,   4]: 0.0006190 梅雨入り
+	season WORD[17,   5]: 0.0006190 梅雨
+	season WORD[17,   6]: 0.0005066 走り梅雨
+	season WORD[17,   7]: 0.0004676 梅雨晴れ
+	season WORD[17,   8]: 0.0004676 梅雨寒
+	season WORD[17,   9]: 0.0004196 空梅雨
+	season WORD[17,  10]: 0.0003095 梅雨明け
+	season WORD[17,  11]: 0.0002513 雨季
+	season WORD[17,  12]: 0.0002513 雨期
+TOKEN[18]: 0.0066813    1 mist
+	mist WORD[18,   1]: 0.0066813 雨靄
+TOKEN[19]: 0.0064123    2 comes
+	comes WORD[19,   1]: 0.0059674 喜雨
+	comes WORD[19,   2]: 0.0004450 慈雨
+TOKEN[20]: 0.0061506   12 weather
+	weather WORD[20,   1]: 0.0013704 雨女
+	weather WORD[20,   2]: 0.0009794 雨男
+	weather WORD[20,   3]: 0.0005320 戻り梅雨
+	weather WORD[20,   4]: 0.0005135 走り梅雨
+	weather WORD[20,   5]: 0.0004739 梅雨寒
+	weather WORD[20,   6]: 0.0004583 晴雨
+	weather WORD[20,   7]: 0.0004093 雨曇
+	weather WORD[20,   8]: 0.0004093 雨曇り
+	weather WORD[20,   9]: 0.0002568 雨天
+	weather WORD[20,  10]: 0.0002492 雨ふり
+	weather WORD[20,  11]: 0.0002492 雨降り
+	weather WORD[20,  12]: 0.0002492 雨
+TOKEN[21]: 0.0058595    2 fine
+	fine WORD[21,   1]: 0.0054532 糸雨
+	fine WORD[21,   2]: 0.0004063 煙雨
+TOKEN[22]: 0.0056081    4 hail
+	hail WORD[22,   1]: 0.0022960 雨あられ
+	hail WORD[22,   2]: 0.0022960 雨霰
+	hail WORD[22,   3]: 0.0005765 弾雨
+	hail WORD[22,   4]: 0.0004396 氷雨
+TOKEN[23]: 0.0053856    2 snow
+	snow WORD[23,   1]: 0.0037860 雨混じり
+	snow WORD[23,   2]: 0.0007998 雨雪
+TOKEN[24]: 0.0049531    4 tarpaulin
+	tarpaulin WORD[24,   1]: 0.0030570 雨除け
+	tarpaulin WORD[24,   2]: 0.0006338 雨覆い
+	tarpaulin WORD[24,   3]: 0.0006312 雨よけ
+	tarpaulin WORD[24,   4]: 0.0006312 雨避け
+TOKEN[25]: 0.0044888    8 rainfall
+	rainfall WORD[25,   1]: 0.0012570 雨音
+	rainfall WORD[25,   2]: 0.0008123 少雨
+	rainfall WORD[25,   3]: 0.0004867 ひと雨
+	rainfall WORD[25,   4]: 0.0004867 一雨
+	rainfall WORD[25,   5]: 0.0003917 降雨
+	rainfall WORD[25,   6]: 0.0003594 雨量
+	rainfall WORD[25,   7]: 0.0003475 雨ふり
+	rainfall WORD[25,   8]: 0.0003475 雨降り
+TOKEN[26]: 0.0041227    3 wind
+	wind WORD[26,   1]: 0.0035780 雨混じり
+	wind WORD[26,   2]: 0.0003189 風雨
+	wind WORD[26,   3]: 0.0002258 雨風
+TOKEN[27]: 0.0038944    4 storm
+	storm WORD[27,   1]: 0.0016073 暴風雨
+	storm WORD[27,   2]: 0.0010057 雨あられ
+	storm WORD[27,   3]: 0.0010057 雨霰
+	storm WORD[27,   4]: 0.0002758 雨戸
+TOKEN[28]: 0.0038939    5 shelter
+	shelter WORD[28,   1]: 0.0023382 雨除け
+	shelter WORD[28,   2]: 0.0004828 雨よけ
+	shelter WORD[28,   3]: 0.0004828 雨避け
+	shelter WORD[28,   4]: 0.0002951 雨やどり
+	shelter WORD[28,   5]: 0.0002951 雨宿り
+TOKEN[29]: 0.0038686    3 raindrop
+	raindrop WORD[29,   1]: 0.0024928 雨雫
+	raindrop WORD[29,   2]: 0.0006996 雨滴
+	raindrop WORD[29,   3]: 0.0006762 雨粒
+TOKEN[30]: 0.0036182    4 praying
+	praying WORD[30,   1]: 0.0015382 請雨
+	praying WORD[30,   2]: 0.0010263 祈雨
+	praying WORD[30,   3]: 0.0005269 雨ごい
+	praying WORD[30,   4]: 0.0005269 雨乞い
+TOKEN[31]: 0.0034646    1 boots
+	boots WORD[31,   1]: 0.0034646 雨靴
+TOKEN[32]: 0.0031283    3 covering
+	covering WORD[32,   1]: 0.0022140 雨除け
+	covering WORD[32,   2]: 0.0004571 雨よけ
+	covering WORD[32,   3]: 0.0004571 雨避け
+TOKEN[33]: 0.0028755    5 taking
+	taking WORD[33,   1]: 0.0017267 雨除け
+	taking WORD[33,   2]: 0.0003565 雨よけ
+	taking WORD[33,   3]: 0.0003565 雨避け
+	taking WORD[33,   4]: 0.0002179 雨やどり
+	taking WORD[33,   5]: 0.0002179 雨宿り
+TOKEN[34]: 0.0028421    2 rainstorm
+	rainstorm WORD[34,   1]: 0.0022875 暴風雨
+	rainstorm WORD[34,   2]: 0.0005545 風雨
+TOKEN[35]: 0.0027933    2 unlucky
+	unlucky WORD[35,   1]: 0.0016291 雨女
+	unlucky WORD[35,   2]: 0.0011642 雨男
+TOKEN[36]: 0.0027660    3 cover
+	cover WORD[36,   1]: 0.0019577 雨除け
+	cover WORD[36,   2]: 0.0004042 雨よけ
+	cover WORD[36,   3]: 0.0004042 雨避け
+TOKEN[37]: 0.0026880    2 goes
+	goes WORD[37,   1]: 0.0015677 雨女
+	goes WORD[37,   2]: 0.0011204 雨男
+TOKEN[38]: 0.0026386    1 something
+	something WORD[38,   1]: 0.0026386 雨混じり
+TOKEN[39]: 0.0025430    5 fall
+	fall WORD[39,   1]: 0.0012399 初時雨
+	fall WORD[39,   2]: 0.0004639 村時雨
+	fall WORD[39,   3]: 0.0003636 雨落ち
+	fall WORD[39,   4]: 0.0002561 時雨
+	fall WORD[39,   5]: 0.0002196 秋雨
+TOKEN[40]: 0.0025330    2 barrage
+	barrage WORD[40,   1]: 0.0012665 雨あられ
+	barrage WORD[40,   2]: 0.0012665 雨霰
+TOKEN[41]: 0.0025169    4 autumn
+	autumn WORD[41,   1]: 0.0014318 初時雨
+	autumn WORD[41,   2]: 0.0005357 村時雨
+	autumn WORD[41,   3]: 0.0002957 時雨
+	autumn WORD[41,   4]: 0.0002536 秋雨
+TOKEN[42]: 0.0025018    1 swift
+	swift WORD[42,   1]: 0.0025018 雨燕
+TOKEN[43]: 0.0024749    1 raintight
+	raintight WORD[43,   1]: 0.0024749 防雨
+TOKEN[44]: 0.0024749    1 rainproof
+	rainproof WORD[44,   1]: 0.0024749 防雨
+TOKEN[45]: 0.0024727    2 sky
+	sky WORD[45,   1]: 0.0012757 雨空
+	sky WORD[45,   2]: 0.0011970 梅雨空
+TOKEN[46]: 0.0024260    2 gutter
+	gutter WORD[46,   1]: 0.0012130 雨どい
+	gutter WORD[46,   2]: 0.0012130 雨樋
+TOKEN[47]: 0.0023674    2 exclamation
+	exclamation WORD[47,   1]: 0.0011837 雨だれ
+	exclamation WORD[47,   2]: 0.0011837 雨垂れ
+TOKEN[48]: 0.0023655    1 rubbers
+	rubbers WORD[48,   1]: 0.0023655 雨靴
+TOKEN[49]: 0.0023200    5 passing
+	passing WORD[49,   1]: 0.0005445 村雨
+	passing WORD[49,   2]: 0.0004951 通り雨
+	passing WORD[49,   3]: 0.0004268 雨あし
+	passing WORD[49,   4]: 0.0004268 雨脚
+	passing WORD[49,   5]: 0.0004268 雨足
+TOKEN[50]: 0.0022887    2 Aplysia
+	Aplysia WORD[50,   1]: 0.0018771 雨降らし
+	Aplysia WORD[50,   2]: 0.0004116 雨降
+TOKEN[51]: 0.0022819    1 woman
+	woman WORD[51,   1]: 0.0022819 雨女
+TOKEN[52]: 0.0021775    1 snowfall
+	snowfall WORD[52,   1]: 0.0010888 雨雪
+TOKEN[53]: 0.0020478    2 torrential
+	torrential WORD[53,   1]: 0.0015791 暴雨
+	torrential WORD[53,   2]: 0.0004687 豪雨
+TOKEN[54]: 0.0020358    1 waterproof
+	waterproof WORD[54,   1]: 0.0020358 雨靴
+TOKEN[55]: 0.0020356    1 raincoat
+	raincoat WORD[55,   1]: 0.0020356 雨着
+TOKEN[56]: 0.0020113    3 early
+	early WORD[56,   1]: 0.0014052 初時雨
+	early WORD[56,   2]: 0.0003158 梅雨
+	early WORD[56,   3]: 0.0002902 時雨
+TOKEN[57]: 0.0019426    2 frog
+	frog WORD[57,   1]: 0.0009713 雨がえる
+	frog WORD[57,   2]: 0.0009713 雨蛙
+TOKEN[58]: 0.0018776    1 wherever
+	wherever WORD[58,   1]: 0.0018776 雨女
+TOKEN[59]: 0.0018531    2 hare
+	hare WORD[59,   1]: 0.0015199 雨降らし
+	hare WORD[59,   2]: 0.0003332 雨降
+TOKEN[60]: 0.0018155    1 Apodidae
+	Apodidae WORD[60,   1]: 0.0018155 雨燕
+TOKEN[61]: 0.0018050    1 preserve
+	preserve WORD[61,   1]: 0.0018050 時雨煮
+TOKEN[62]: 0.0017237    3 downpour
+	downpour WORD[62,   1]: 0.0007503 驟雨
+	downpour WORD[62,   2]: 0.0005777 雨下
+	downpour WORD[62,   3]: 0.0003957 豪雨
+TOKEN[63]: 0.0017203    2 late
+	late WORD[63,   1]: 0.0014258 初時雨
+	late WORD[63,   2]: 0.0002945 時雨
+TOKEN[64]: 0.0016989    1 ginger
+	ginger WORD[64,   1]: 0.0016989 時雨煮
+TOKEN[65]: 0.0016971    1 overcast
+	overcast WORD[65,   1]: 0.0016971 梅雨空
+TOKEN[66]: 0.0016952    1 crying
+	crying WORD[66,   1]: 0.0016952 雨雫
+TOKEN[67]: 0.0016524    1 rubber
+	rubber WORD[67,   1]: 0.0016524 雨靴
+TOKEN[68]: 0.0016117    1 man
+	man WORD[68,   1]: 0.0016117 雨男
+TOKEN[69]: 0.0015911    3 pouring
+	pouring WORD[69,   1]: 0.0005304 雨あし
+	pouring WORD[69,   2]: 0.0005304 雨脚
+	pouring WORD[69,   3]: 0.0005304 雨足
+TOKEN[70]: 0.0015474    3 eaves
+	eaves WORD[70,   1]: 0.0005158 雨だれ
+	eaves WORD[70,   2]: 0.0005158 雨垂れ
+	eaves WORD[70,   3]: 0.0005157 雨落ち
+TOKEN[71]: 0.0015269    1 Apus
+	Apus WORD[71,   1]: 0.0015269 雨燕
+TOKEN[72]: 0.0014846    1 protection
+	protection WORD[72,   1]: 0.0014846 防雨
+TOKEN[73]: 0.0014279    2 made
+	made WORD[73,   1]: 0.0011439 時雨煮
+	made WORD[73,   2]: 0.0002840 春雨
+TOKEN[74]: 0.0014210    2 tree
+	tree WORD[74,   1]: 0.0007105 雨がえる
+	tree WORD[74,   2]: 0.0007105 雨蛙
+TOKEN[75]: 0.0014009    2 Hyla
+	Hyla WORD[75,   1]: 0.0007004 雨がえる
+	Hyla WORD[75,   2]: 0.0007004 雨蛙
+TOKEN[76]: 0.0013960    1 soy
+	soy WORD[76,   1]: 0.0013960 時雨煮
+TOKEN[77]: 0.0013468    3 outburst
+	outburst WORD[77,   1]: 0.0004489 せみ時雨
+	outburst WORD[77,   2]: 0.0004489 セミ時雨
+	outburst WORD[77,   3]: 0.0004489 蝉時雨
+TOKEN[78]: 0.0013443    1 vulgar
+	vulgar WORD[78,   1]: 0.0013443 雨しょぼ
+TOKEN[79]: 0.0012631    2 sea
+	sea WORD[79,   1]: 0.0010359 雨降らし
+	sea WORD[79,   2]: 0.0002271 雨降
+TOKEN[80]: 0.0012498    1 dance
+	dance WORD[80,   1]: 0.0012498 雨しょぼ
+TOKEN[81]: 0.0012488    1 geisha
+	geisha WORD[81,   1]: 0.0012488 雨しょぼ
+TOKEN[82]: 0.0012252    1 first
+	first WORD[82,   1]: 0.0012252 初時雨
+TOKEN[83]: 0.0012004    2 sound
+	sound WORD[83,   1]: 0.0008247 雨音
+	sound WORD[83,   2]: 0.0003758 雨声
+TOKEN[84]: 0.0011999    2 misty
+	misty WORD[84,   1]: 0.0006280 細雨
+	misty WORD[84,   2]: 0.0005719 煙雨
+TOKEN[85]: 0.0011590    3 chorus
+	chorus WORD[85,   1]: 0.0003863 せみ時雨
+	chorus WORD[85,   2]: 0.0003863 セミ時雨
+	chorus WORD[85,   3]: 0.0003863 蝉時雨
+TOKEN[86]: 0.0011400    1 sudden
+	sudden WORD[86,   1]: 0.0011400 驟雨
+TOKEN[87]: 0.0011110    2 break
+	break WORD[87,   1]: 0.0007396 雨止み
+	break WORD[87,   2]: 0.0003713 雨間
+TOKEN[88]: 0.0010867    2 species
+	species WORD[88,   1]: 0.0008913 雨降らし
+	species WORD[88,   2]: 0.0001954 雨降
+TOKEN[89]: 0.0010866    2 cool
+	cool WORD[89,   1]: 0.0005784 涼雨
+	cool WORD[89,   2]: 0.0005083 梅雨寒
+TOKEN[90]: 0.0010842    2 night
+	night WORD[90,   1]: 0.0008621 夜雨
+	night WORD[90,   2]: 0.0002221 雨夜
+TOKEN[91]: 0.0010610    2 dripping
+	dripping WORD[91,   1]: 0.0005305 雨だれ
+	dripping WORD[91,   2]: 0.0005305 雨垂れ
+TOKEN[92]: 0.0010504    2 threatening
+	threatening WORD[92,   1]: 0.0005252 雨空
+	threatening WORD[92,   2]: 0.0005252 雨気
+TOKEN[93]: 0.0010031    3 singing
+	singing WORD[93,   1]: 0.0003344 せみ時雨
+	singing WORD[93,   2]: 0.0003344 セミ時雨
+	singing WORD[93,   3]: 0.0003344 蝉時雨
+TOKEN[94]: 0.0010015    2 threat
+	threat WORD[94,   1]: 0.0005008 雨もよい
+	threat WORD[94,   2]: 0.0005008 雨催い
+TOKEN[95]: 0.0009935    2 freezing
+	freezing WORD[95,   1]: 0.0005458 雨氷
+	freezing WORD[95,   2]: 0.0004478 氷雨
+TOKEN[96]: 0.0009869    3 heavy
+	heavy WORD[96,   1]: 0.0004552 多雨
+	heavy WORD[96,   2]: 0.0002776 豪雨
+	heavy WORD[96,   3]: 0.0002541 大雨
+TOKEN[97]: 0.0009768    2 exposed
+	exposed WORD[97,   1]: 0.0004884 雨ざらし
+	exposed WORD[97,   2]: 0.0004884 雨曝し
+TOKEN[98]: 0.0009740    1 bird
+	bird WORD[98,   1]: 0.0009740 雨燕
+TOKEN[99]: 0.0009286    2 clear
+	clear WORD[99,   1]: 0.0004989 戻り梅雨
+	clear WORD[99,   2]: 0.0004297 晴雨
+TOKEN[100]: 0.0009022    3 wet
+	wet WORD[100,   1]: 0.0003485 梅雨時
+	wet WORD[100,   2]: 0.0002769 雨ふり
+	wet WORD[100,   3]: 0.0002769 雨降り
+TOKEN[101]: 0.0008949    1 condoling
+	condoling WORD[101,   1]: 0.0008949 涙雨
+TOKEN[102]: 0.0008163    1 starch
+	starch WORD[102,   1]: 0.0008163 春雨
+TOKEN[103]: 0.0008009    2 japonica
+	japonica WORD[103,   1]: 0.0004005 雨がえる
+	japonica WORD[103,   2]: 0.0004005 雨蛙
+TOKEN[104]: 0.0007948    2 mark
+	mark WORD[104,   1]: 0.0003974 雨だれ
+	mark WORD[104,   2]: 0.0003974 雨垂れ
+TOKEN[105]: 0.0007927    1 yellowish
+	yellowish WORD[105,   1]: 0.0007927 雨竜
+TOKEN[106]: 0.0007849    1 watering
+	watering WORD[106,   1]: 0.0007849 如雨露
+TOKEN[107]: 0.0007547    1 family
+	family WORD[107,   1]: 0.0007547 雨燕
+TOKEN[108]: 0.0007503    1 beast
+	beast WORD[108,   1]: 0.0007503 雨竜
+TOKEN[109]: 0.0007462    2 solar
+	solar WORD[109,   1]: 0.0004628 穀雨
+	solar WORD[109,   2]: 0.0002834 雨水
+TOKEN[110]: 0.0007254    1 unstable
+	unstable WORD[110,   1]: 0.0007254 走り梅雨
+TOKEN[111]: 0.0007174    1 mythical
+	mythical WORD[111,   1]: 0.0007174 雨竜
+TOKEN[112]: 0.0006658    2 point
+	point WORD[112,   1]: 0.0003329 雨だれ
+	point WORD[112,   2]: 0.0003329 雨垂れ
+TOKEN[113]: 0.0006656    2 term
+	term WORD[113,   1]: 0.0004128 穀雨
+	term WORD[113,   2]: 0.0002528 雨水
+TOKEN[114]: 0.0006615    1 tail
+	tail WORD[114,   1]: 0.0006615 雨竜
+TOKEN[115]: 0.0006609    1 preceding
+	preceding WORD[115,   1]: 0.0006609 走り梅雨
+TOKEN[116]: 0.0006570    1 dragon
+	dragon WORD[116,   1]: 0.0006570 雨竜
+TOKEN[117]: 0.0006393    1 sadness
+	sadness WORD[117,   1]: 0.0006393 涙雨
+TOKEN[118]: 0.0006265    1 May
+	May WORD[118,   1]: 0.0006265 走り梅雨
+TOKEN[119]: 0.0006180    2 leak
+	leak WORD[119,   1]: 0.0003090 雨もり
+	leak WORD[119,   2]: 0.0003090 雨漏り
+TOKEN[120]: 0.0006121    1 sunny
+	sunny WORD[120,   1]: 0.0006121 梅雨晴れ
+TOKEN[121]: 0.0005953    1 sleet
+	sleet WORD[121,   1]: 0.0005953 氷雨
+TOKEN[122]: 0.0005904    1 thunderstorm
+	thunderstorm WORD[122,   1]: 0.0005904 雷雨
+TOKEN[123]: 0.0005788    1 damages
+	damages WORD[123,   1]: 0.0005788 淫雨
+TOKEN[124]: 0.0005679    1 skin
+	skin WORD[124,   1]: 0.0005679 雨竜
+TOKEN[125]: 0.0005546    1 dew
+	dew WORD[125,   1]: 0.0005546 雨露
+TOKEN[126]: 0.0005516    1 blessed
+	blessed WORD[126,   1]: 0.0005516 慈雨
+TOKEN[127]: 0.0005508    1 green
+	green WORD[127,   1]: 0.0005508 雨竜
+TOKEN[128]: 0.0005393    1 beneficial
+	beneficial WORD[128,   1]: 0.0005393 慈雨
+TOKEN[129]: 0.0005369    1 continuous
+	continuous WORD[129,   1]: 0.0005369 地雨
+TOKEN[130]: 0.0005347    1 evening
+	evening WORD[130,   1]: 0.0005347 暮雨
+TOKEN[131]: 0.0005314    2 Japanese
+	Japanese WORD[131,   1]: 0.0002657 雨がえる
+	Japanese WORD[131,   2]: 0.0002657 雨蛙
+TOKEN[132]: 0.0005275    2 amount
+	amount WORD[132,   1]: 0.0002798 少雨
+	amount WORD[132,   2]: 0.0002476 雨量
+TOKEN[133]: 0.0005231    1 return
+	return WORD[133,   1]: 0.0005231 戻り梅雨
+TOKEN[134]: 0.0005173    1 red
+	red WORD[134,   1]: 0.0005173 雨竜
+TOKEN[135]: 0.0005085    1 April
+	April WORD[135,   1]: 0.0005085 穀雨
+TOKEN[136]: 0.0005079    1 falling
+	falling WORD[136,   1]: 0.0005079 涙雨
+TOKEN[137]: 0.0005011    2 roof
+	roof WORD[137,   1]: 0.0002505 雨もり
+	roof WORD[137,   2]: 0.0002505 雨漏り
+TOKEN[138]: 0.0004933    1 seasonable
+	seasonable WORD[138,   1]: 0.0004933 時雨
+TOKEN[139]: 0.0004737    1 umbrella
+	umbrella WORD[139,   1]: 0.0004737 雨傘
+TOKEN[140]: 0.0004568    1 hat
+	hat WORD[140,   1]: 0.0004568 雨笠
+TOKEN[141]: 0.0004566    1 cloudburst
+	cloudburst WORD[141,   1]: 0.0004566 豪雨
+TOKEN[142]: 0.0004435    1 waiting
+	waiting WORD[142,   1]: 0.0004435 雨止み
+TOKEN[143]: 0.0004427    1 grain
+	grain WORD[143,   1]: 0.0004427 穀雨
+TOKEN[144]: 0.0004351    1 dry
+	dry WORD[144,   1]: 0.0004351 空梅雨
+TOKEN[145]: 0.0004194    1 June
+	June WORD[145,   1]: 0.0004194 梅雨
+TOKEN[146]: 0.0004068    1 sprinkling
+	sprinkling WORD[146,   1]: 0.0004068 如雨露
+TOKEN[147]: 0.0004065    1 radical
+	radical WORD[147,   1]: 0.0004065 雨冠
+TOKEN[148]: 0.0004048    1 period
+	period WORD[148,   1]: 0.0004048 戻り梅雨
+TOKEN[149]: 0.0004018    1 gentle
+	gentle WORD[149,   1]: 0.0004018 春雨
+TOKEN[150]: 0.0003945    1 potato
+	potato WORD[150,   1]: 0.0003945 春雨
+TOKEN[151]: 0.0003806    1 water
+	water WORD[151,   1]: 0.0003806 雨水
+TOKEN[152]: 0.0003708    1 top
+	top WORD[152,   1]: 0.0003708 雨冠
+TOKEN[153]: 0.0003578    1 bean
+	bean WORD[153,   1]: 0.0003578 春雨
+TOKEN[154]: 0.0003552    1 area
+	area WORD[154,   1]: 0.0003552 雨域
+TOKEN[155]: 0.0003493    1 entering
+	entering WORD[155,   1]: 0.0003493 梅雨入り
+TOKEN[156]: 0.0003456    1 time
+	time WORD[156,   1]: 0.0003456 涙雨
+TOKEN[157]: 0.0003432    1 shutter
+	shutter WORD[157,   1]: 0.0003432 雨戸
+TOKEN[158]: 0.0003371    1 Asian
+	Asian WORD[158,   1]: 0.0003371 梅雨
+TOKEN[159]: 0.0003351    1 thin
+	thin WORD[159,   1]: 0.0003351 春雨
+TOKEN[160]: 0.0003304    1 November
+	November WORD[160,   1]: 0.0003304 雨
+TOKEN[161]: 0.0003276    1 February
+	February WORD[161,   1]: 0.0003276 雨水
+TOKEN[162]: 0.0003172    1 place
+	place WORD[162,   1]: 0.0003172 雨落ち
+TOKEN[163]: 0.0003091    1 pot
+	pot WORD[163,   1]: 0.0003091 如雨露
+TOKEN[164]: 0.0003050    1 fifth
+	fifth WORD[164,   1]: 0.0003050 雨月
+TOKEN[165]: 0.0003031    1 beginning
+	beginning WORD[165,   1]: 0.0003031 梅雨入り
+TOKEN[166]: 0.0003013    1 gear
+	gear WORD[166,   1]: 0.0003013 雨具
+TOKEN[167]: 0.0002897    1 sliding
+	sliding WORD[167,   1]: 0.0002897 雨戸
+TOKEN[168]: 0.0002841    1 harvest
+	harvest WORD[168,   1]: 0.0002841 雨月
+TOKEN[169]: 0.0002820    1 forest
+	forest WORD[169,   1]: 0.0002820 雨林
+TOKEN[170]: 0.0002750    1 driving
+	driving WORD[170,   1]: 0.0002750 雨風
+TOKEN[171]: 0.0002733    1 cloud
+	cloud WORD[171,   1]: 0.0002733 雨雲
+TOKEN[172]: 0.0002635    1 moon
+	moon WORD[172,   1]: 0.0002635 雨月
+TOKEN[173]: 0.0002633    1 suit
+	suit WORD[173,   1]: 0.0002633 雨
+TOKEN[174]: 0.0002610    1 unable
+	unable WORD[174,   1]: 0.0002610 雨月
+TOKEN[175]: 0.0002518    1 end
+	end WORD[175,   1]: 0.0002518 梅雨明け
+TOKEN[176]: 0.0002489    1 see
+	see WORD[176,   1]: 0.0002489 雨月
+TOKEN[177]: 0.0002485    1 lunar
+	lunar WORD[177,   1]: 0.0002485 雨月
+TOKEN[178]: 0.0002338    1 Japan
+	Japan WORD[178,   1]: 0.0002338 梅雨
+TOKEN[179]: 0.0002277    1 small
+	small WORD[179,   1]: 0.0002277 少雨
+TOKEN[180]: 0.0002247    1 month
+	month WORD[180,   1]: 0.0002247 雨月
+TOKEN[181]: 0.0001972    1 day
+	day WORD[181,   1]: 0.0001972 雨

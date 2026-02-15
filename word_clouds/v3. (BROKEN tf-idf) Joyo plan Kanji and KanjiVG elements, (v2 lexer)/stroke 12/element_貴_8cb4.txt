@@ -1,0 +1,1395 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0350288    1 stare          : 瞶める
+0.0349625    1 gaze           : 瞶める
+0.0346453    1 fix            : 瞶める
+0.0309308    1 watch          : 瞶める
+0.0265778    1 hard           : 瞶める
+0.0253522    2 paper          : 貴紙, 貴誌
+0.0248191    2 look           : 瞶める, 貴ぶ
+0.0235312    1 plural         : 貴方方
+0.0234372    3 orphan         : 遺孤, 遺子, 遺児
+0.0211538   17 one            : 瞶める, 伯父貴, 叔父貴, 潰れる, 遺業, 遺嘱, 遺烈, 飲み潰す, 遺戒, 遺誡, ...
+0.0198022   11 deceased       : 遺芳, 遺灰, 遺訓, 遺愛, 遺筆, 遺髪, 遺品, 遺族, 遺児, 遺志, ...
+0.0188193    3 chest          : 鎧櫃, 唐櫃, 櫃
+0.0172870    1 Judaism        : 聖櫃
+0.0168407    1 tabernacle     : 聖櫃
+0.0145558    1 autograph      : 遺芳
+0.0138198    3 rice           : 櫃, 飯櫃, 米櫃
+0.0137395    1 funerary       : 石櫃
+0.0131849    2 journal        : 貴紙, 貴誌
+0.0128688    1 urn            : 石櫃
+0.0116210    1 helmet         : 鎧櫃
+0.0110771    2 magazine       : 貴紙, 貴誌
+0.0105207    1 memory         : 遺芳
+0.0103477    2 container      : 飯櫃, 櫃
+0.0097118    1 storage        : 鎧櫃
+0.0096870    1 suit           : 鎧櫃
+0.0096578    2 stone          : 石櫃, 貴石
+0.0094465    1 unmarried      : 貴嬢
+0.0088385    2 wooden         : 飯櫃, 櫃
+0.0087632    2 round          : 飯櫃, 櫃
+0.0085771    2 uncle          : 伯父貴, 叔父貴
+0.0079336    9 crush          : ひねり潰す, 捻り潰す, ぶっ潰す, 打っ潰す, 踏み潰す, 握り潰す, 潰す, 圧し潰す, 押し潰す
+0.0079252    1 made           : 石櫃
+0.0077108    9 remains        : 遺灰, 遺骨, 遺文, 遺骸, 遺物, 遺体, 遺跡, 遺蹟, 遺構
+0.0076898    2 pinch          : ひねり潰す, 捻り潰す
+0.0070402    1 breadwinner    : 米櫃
+0.0069250    2 parent         : 伯父貴, 叔父貴
+0.0067530    1 bin            : 米櫃
+0.0067415    1 coffer         : 櫃
+0.0066043    1 Botrytis       : 貴腐
+0.0065193    8 noble          : 貴腐, 尊貴, 貴紳, 貴賓, 貴い, 高貴, 貴族, 貴種
+0.0059321    1 grinding       : 擂潰
+0.0058978    2 shop           : 貴店, 潰す
+0.0055777    3 testament      : 遺告, 遺言, 遺書
+0.0055460    4 drink          : 酔い潰す, 酔い潰れる, 飲み潰す, 飲み潰れる
+0.0054654    1 store          : 貴店
+0.0054312    8 collapse       : 潰れる, 潰える, 丸潰れ, 崩潰, 倒潰, 潰れ, 決潰, 潰乱
+0.0054188    1 cinerea        : 貴腐
+0.0051810    1 lidded         : 櫃
+0.0050903    1 vestigial      : 遺残
+0.0050647    1 tub            : 櫃
+0.0049125    1 rot            : 貴腐
+0.0043550    1 remnant        : 遺残
+0.0043217    2 search         : しらみ潰し, 虱潰し
+0.0042717    1 persistence    : 遺残
+0.0042536    1 infection      : 貴腐
+0.0041529    8 left           : 遺賢, 遺訓, 遺業, 遺筆, 遺る, 遺品, 遺児, 遺書
+0.0039580    3 older          : 伯父貴, 兄貴, 姉貴
+0.0037324    4 someone        : 目潰し, 酔い潰す, 飲み潰す, 遺す
+0.0036043    1 younger        : 叔父貴
+0.0034052    1 cremation      : 遺灰
+0.0033839    2 ashes          : 遺灰, 遺骨
+0.0033195    4 dying          : 遺嘱, 遺命, 遺言, 遺志
+0.0032873    5 death          : 遺嘱, 乗り潰す, 遺業, 遺す, 遺留
+0.0032122    2 crushed        : 潰し餡, 潰れる
+0.0032113    2 paint          : 塗り潰す, 塗潰す
+0.0032071    4 smash          : ぶっ潰す, 打っ潰す, 潰す, 叩き潰す
+0.0030599    5 posthumous     : 遺詠, 遺著, 遺書, 遺作, 遺稿
+0.0030478    6 dead           : 酔い潰れる, 飲み潰れる, 潰れる, 遺体, 遺書, 遺骨
+0.0030275    4 bequest        : 遺愛, 遺留, 遺贈, 遺産
+0.0028644    1 historic       : 遺址
+0.0028322    2 lost           : 潰れる, 遺品
+0.0028016    2 crushing       : 圧潰, 握り潰し
+0.0026807    3 wish           : 遺嘱, 遺言, 遺志
+0.0026649    4 deface         : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0026256    4 dissipate      : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0025915    4 pulverize      : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0025518    1 blind          : 目潰し
+0.0024075    2 breaking       : 圧潰, 崩潰
+0.0024016    4 last           : 遺訓, 遺戒, 遺誡, 遺言
+0.0023578    4 mash           : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0022956    3 drunk          : 酔い潰れる, 飲み潰れる, 潰れる
+0.0022914    8 person         : 遺訓, 遺墨, 尊貴, 遺書, 遺志, 遺影, 貴顕, 貴人
+0.0022545    3 home           : 貴家, 食い潰す, 貴方
+0.0022000    3 table          : 酔い潰す, 飲み潰す, 握り潰す
+0.0021958    6 letter         : 潰れ, 遺書, 貴札, 貴簡, 貴翰, 貴信
+0.0021626    4 grind          : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0021229    3 surviving      : 遺風, 遺族, 遺臣
+0.0021006    4 destruction    : 倒潰, 潰れ, 全潰, 潰滅
+0.0020694    1 paste          : 潰し餡
+0.0020462    2 wear           : 履き潰す, 潰れる
+0.0019836    3 time           : 潰す, 暇潰し, 潰れる
+0.0019653    2 contraband     : しらみ潰し, 虱潰し
+0.0019653    2 exhaustive     : しらみ潰し, 虱潰し
+0.0019631    3 ruin           : 取り潰す, 丸潰れ, 潰れ
+0.0019571    1 footwear       : 履き潰す
+0.0019464    2 scouring       : しらみ潰し, 虱潰し
+0.0019261    2 leaving        : 貴方任せ, 遺留
+0.0019253    2 family         : 遺家族, 遺族
+0.0018475    2 thwart         : 取り潰す, 潰す
+0.0018107    1 pressure       : 圧潰
+0.0018006    2 convict        : しらみ潰し, 虱潰し
+0.0017867    3 flatten        : 潰す, 圧し潰す, 押し潰す
+0.0017545    4 fortune        : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0017480    2 thorough       : しらみ潰し, 虱潰し
+0.0017275    2 caution        : 遺戒, 遺誡
+0.0017216    2 relic          : 遺愛, 遺物
+0.0017097    3 work           : 遺業, 遺著, 遺書
+0.0016589    1 historical     : 遺宝
+0.0016459    4 lose           : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0016415    2 keepsake       : 遺髪, 遺品
+0.0016335    3 fill           : 塗り潰す, 塗潰す, 塗り潰し
+0.0016277    3 precious       : 貴石, 貴い, 貴重
+0.0015850    2 epistolary     : 貴酬, 貴方
+0.0015843    1 broken         : 潰れる
+0.0015510    4 run            : すり潰す, 擂り潰す, 擂潰す, 磨り潰す
+0.0015449    2 wasted         : 飲み潰す, 潰れる
+0.0015085    3 men            : 遺賢, 貴紳, 貴君
+0.0015008    3 company        : 貴社, 潰す, 貴台
+0.0014953    2 kill           : 潰す, 握り潰す
+0.0014577    1 gleaning       : 拾遺
+0.0014446    1 carried        : 遺嘱
+0.0013561    1 eat            : 食い潰す
+0.0013521    3 break          : 潰える, 潰れ, 潰す
+0.0013515    2 corpse         : 遺骸, 遺体
+0.0013259    2 omission       : 遺漏, 遺脱
+0.0013231    3 value          : 貴ぶ, 騰貴, 貴
+0.0013223    3 complete       : 丸潰れ, 全潰, 潰滅
+0.0012975    1 addendum       : 補遺
+0.0012865    2 place          : 貴地, 貴所
+0.0012824    2 legacy         : 遺贈, 遺産
+0.0012525    1 preciousness   : 貴
+0.0012431    1 Miki           : 三貴
+0.0012129    2 memento        : 遺物, 遺品
+0.0011892    5 high           : 貴僧, 高貴, 貴賎, 貴賤, 貴人
+0.0011651    1 appendix       : 補遺
+0.0011638    1 university     : 貴学
+0.0011475    2 residence      : 貴殿, 貴方
+0.0011241    1 uncompleted    : 遺業
+0.0011206    1 sot            : 飲み潰す
+0.0011090    1 poking         : 目潰し
+0.0011038    1 ride           : 乗り潰す
+0.0010964    1 unconscious    : 酔い潰れる
+0.0010789    1 chew           : 噛み潰す
+0.0010760    2 request        : 遺言, 貴意
+0.0010602    1 supplement     : 補遺
+0.0010390    2 inheritance    : 遺伝, 遺産
+0.0010229    1 disrupt        : 取り潰す
+0.0010196    2 squash         : 圧し潰す, 押し潰す
+0.0010159    1 brushwork      : 遺墨
+0.0010119    1 deadbeat       : 穀潰し
+0.0010002    1 gem            : 貴石
+0.0009998    1 thrown         : 目潰し
+0.0009981    1 stupor         : 飲み潰れる
+0.0009756    2 waste          : 暇潰し, 潰す
+0.0009749    2 plan           : 潰える, 潰れる
+0.0009720    1 jewel          : 貴石
+0.0009678    1 drive          : 乗り潰す
+0.0009556    2 cover          : 塗り潰す, 塗潰す
+0.0009459    1 loafer         : 穀潰し
+0.0009456    1 nobility       : 貴
+0.0009406    2 honey          : 貴男, 貴女
+0.0009389    3 rank           : 貴紳, 富貴, 貴人
+0.0009313    1 car            : 乗り潰す
+0.0009209    1 idler          : 穀潰し
+0.0009205    2 fall           : 潰える, 潰れる
+0.0009180    1 opinion        : 貴見
+0.0009098    1 hinder         : 取り潰す
+0.0009021    2 body           : 遺骸, 遺体
+0.0009019    1 departed       : 遺墨
+0.0008988    1 accomplished   : 遺業
+0.0008958    1 ash            : 目潰し
+0.0008915    2 dear           : 貴男, 貴女
+0.0008822    1 bequeath       : 遺す
+0.0008799    1 horse          : 乗り潰す
+0.0008766    1 ground         : 乗り潰す
+0.0008753    1 drone          : 穀潰し
+0.0008710    1 school         : 貴校
+0.0008670    3 used           : 貴台, 貴公, 貴君
+0.0008661    1 throwing       : 目潰し
+0.0008649    2 something      : 目潰し, 丸潰れ
+0.0008587    1 parasite       : 穀潰し
+0.0008570    2 correspondence : 貴台, 貴信
+0.0008553    1 priest         : 貴僧
+0.0008509    1 lifetime       : 遺業
+0.0008493    2 face           : 丸潰れ, 潰れる
+0.0008480    1 note           : 遺書
+0.0008398    1 caving         : 崩潰
+0.0008368    1 customs        : 遺習
+0.0008324    1 hereditary     : 遺風
+0.0008188    1 throttling     : 握り潰し
+0.0008184    1 sand           : 目潰し
+0.0008175    1 item           : 遺品
+0.0008078    1 tradition      : 遺風
+0.0008065    1 wasteful       : 潰え
+0.0008017    1 shrine         : 貴社
+0.0007855    1 custom         : 遺風
+0.0007699    1 benefit        : 遺徳
+0.0007696    1 strangling     : 握り潰し
+0.0007678    1 virtue         : 遺徳
+0.0007666    1 ancient        : 遺構
+0.0007616    1 disintegration : 崩潰
+0.0007603    1 fight          : 目潰し
+0.0007556    2 aristocrat     : 貴族, 貴人
+0.0007538    1 smother        : 握り潰す
+0.0007476    1 melt           : 鋳潰す
+0.0007409    1 pigeonhole     : 握り潰す
+0.0007409    1 shelve         : 握り潰す
+0.0007404    1 equal          : 貴方
+0.0007326    1 literary       : 遺文
+0.0007306    1 nib            : 潰れる
+0.0007274    1 previous       : 遺風
+0.0007143    1 underfoot      : 踏み潰す
+0.0007046    1 child          : 遺児
+0.0007029    1 able           : 遺賢
+0.0007028    1 blotting       : 塗り潰し
+0.0006932    1 go             : 潰れる
+0.0006919    1 matter         : 貴方任せ
+0.0006917    1 shelving       : 握り潰し
+0.0006913    1 poem           : 遺詠
+0.0006869    2 valuable       : 貴い, 貴重
+0.0006833    1 trample        : 踏み潰す
+0.0006766    1 radioactive    : 崩潰
+0.0006711    1 washout        : 決潰
+0.0006696    1 song           : 遺詠
+0.0006636    1 remain         : 遺る
+0.0006625    1 bankrupt       : 潰れる
+0.0006547    1 enuresis       : 遺尿
+0.0006528    1 dream          : 潰える
+0.0006521    1 testamentary   : 遺書
+0.0006501    1 graphics       : 塗り潰し
+0.0006406    1 archaeological : 遺構
+0.0006363    1 subversion     : 潰乱
+0.0006292    1 lamentable     : 遺憾
+0.0006253    1 heredity       : 遺伝
+0.0006210    1 office         : 遺賢
+0.0006197    1 devastation    : 潰滅
+0.0006187    1 wreck          : 潰す
+0.0006184    1 decay          : 崩潰
+0.0006156    1 butcher        : 潰す
+0.0006126    1 slaughter      : 潰す
+0.0006120    1 wetting        : 遺尿
+0.0006073    1 writing        : 遺筆
+0.0006065    1 stampede       : 潰走
+0.0006064    1 style          : 貴方
+0.0006049    1 levee          : 決潰
+0.0005983    1 heritage       : 遺産
+0.0005945    1 hair           : 遺髪
+0.0005914    1 deplorable     : 遺憾
+0.0005906    1 composure      : 潰れる
+0.0005906    1 eyesight       : 潰れる
+0.0005880    1 money          : 飲み潰す
+0.0005869    1 desertion      : 遺棄
+0.0005824    1 battle         : 潰える
+0.0005808    1 cease          : 潰れる
+0.0005787    1 unsatisfactory : 遺憾
+0.0005779    1 losing         : 丸潰れ
+0.0005771    1 livestock      : 潰す
+0.0005761    1 enmity         : 遺恨
+0.0005727    1 killing        : 暇潰し
+0.0005721    1 old            : 遺習
+0.0005715    1 regrettable    : 遺憾
+0.0005675    1 ulcer          : 潰瘍
+0.0005645    1 nocturnal      : 遺精
+0.0005631    1 rupture        : 決潰
+0.0005628    1 honorific      : 貴台
+0.0005617    1 ejaculation    : 遺精
+0.0005617    1 involuntary    : 遺精
+0.0005592    1 saw            : 潰れる
+0.0005581    1 proposal       : 握り潰す
+0.0005566    1 ruined         : 潰れる
+0.0005545    1 forgetting     : 遺留
+0.0005538    1 emission       : 遺精
+0.0005514    1 abandonment    : 遺棄
+0.0005484    1 embankment     : 決潰
+0.0005477    1 rout           : 潰走
+0.0005424    2 elder          : 姉貴, 兄貴
+0.0005400    1 remove         : 握り潰す
+0.0005345    1 genetic        : 遺伝
+0.0005310    1 building       : 潰える
+0.0005283    1 house          : 食い潰す
+0.0005278    1 annihilation   : 潰滅
+0.0005255    1 providence     : 貴方任せ
+0.0005225    1 courage        : 潰れる
+0.0005224    1 portrait       : 遺影
+0.0005197    1 dam            : 決潰
+0.0005175    1 degradation    : 潰乱
+0.0005153    1 dull           : 潰れる
+0.0005147    1 abandoned      : 遺児
+0.0005146    1 grudge         : 遺恨
+0.0005126    1 pen            : 潰れる
+0.0005106    1 printed        : 潰れ
+0.0005077    1 visual         : 貴覧
+0.0005075    1 smell          : 潰れる
+0.0005033    1 consideration  : 握り潰す
+0.0005000    1 project        : 潰れる
+0.0004998    1 shut           : 潰す
+0.0004994    1 leave          : 遺す
+0.0004932    1 depending      : 貴方任せ
+0.0004927    1 teeth          : 潰れる
+0.0004911    1 retainer       : 遺臣
+0.0004906    1 breach         : 決潰
+0.0004898    1 estate         : 遺品
+0.0004889    1 taken          : 潰れる
+0.0004884    2 standing       : 貴賎, 貴賤
+0.0004877    1 distinguished  : 貴顕
+0.0004866    1 fail           : 潰れる
+0.0004856    2 social         : 貴賎, 貴賤
+0.0004773    2 low            : 貴賎, 貴賤
+0.0004756    1 morals         : 潰乱
+0.0004732    1 foundation     : 遺構
+0.0004720    1 block          : 潰す
+0.0004702    1 suicide        : 遺書
+0.0004702    1 corruption     : 潰乱
+0.0004696    1 burst          : 決潰
+0.0004670    1 defeat         : 叩き潰す
+0.0004591    1 works          : 遺作
+0.0004583    1 close          : 潰す
+0.0004568    1 observation    : 貴覧
+0.0004555    1 ill            : 遺恨
+0.0004550    1 blow           : 潰れる
+0.0004539    1 worn           : 潰れる
+0.0004501    1 riches         : 富貴
+0.0004469    1 reply          : 貴酬
+0.0004427    1 priceless      : 貴い
+0.0004413    1 chance         : 潰れる
+0.0004396    1 property       : 遺品
+0.0004354    1 bed            : 遺尿
+0.0004309    1 sense          : 潰れる
+0.0004264    1 voice          : 潰れる
+0.0004250    1 exalted        : 貴い
+0.0004245    1 visitor        : 貴賓
+0.0004209    1 past           : 遺制
+0.0004168    1 force          : 潰す
+0.0004125    1 revere         : 貴ぶ
+0.0004100    1 side           : 握り潰し
+0.0004018    1 heart          : 潰れる
+0.0003993    1 loss           : 遺失
+0.0003967    1 esteem         : 貴ぶ
+0.0003967    1 falling        : 潰乱
+0.0003952    1 wealth         : 富貴
+0.0003894    1 war            : 遺骨
+0.0003889    1 organization   : 潰乱
+0.0003889    1 use            : 潰す
+0.0003877    1 business       : 潰す
+0.0003867    1 male           : 貴公
+0.0003825    1 everything     : 貴方任せ
+0.0003805    1 line           : 潰れ
+0.0003794    1 man            : 兄貴
+0.0003726    1 put            : 潰す
+0.0003694    1 food           : 潰す
+0.0003690    1 become         : 潰れる
+0.0003669    1 dignitary      : 貴人
+0.0003645    1 appreciation   : 騰貴
+0.0003618    1 Buddha         : 貴方任せ
+0.0003592    1 care           : 貴方任せ
+0.0003461    1 peer           : 貴族
+0.0003318    1 respect        : 貴ぶ
+0.0003301    1 prize          : 貴ぶ
+0.0003287    1 bastard        : 貴様
+0.0003276    1 bitch          : 貴様
+0.0003224    1 public         : 潰乱
+0.0003222    1 sacred         : 貴い
+0.0003190    1 main           : 三貴子
+0.0003176    1 order          : 潰乱
+0.0003122    1 honor          : 貴ぶ
+0.0003076    1 nobleman       : 貴人
+0.0003072    1 three          : 三貴子
+0.0003058    1 system         : 潰乱
+0.0002938    1 advance        : 騰貴
+0.0002889    1 rise           : 騰貴
+0.0002857    1 bank           : 貴行
+0.0002832    1 take           : 貴方任せ
+0.0002805    1 son            : 貴様
+0.0002685    1 sister         : 姉貴
+0.0002645    1 price          : 騰貴
+0.0002637    1 brother        : 兄貴
+0.0002561    1 birth          : 貴種
+0.0002514    1 senior         : 兄貴
+0.0002473    1 friend         : 姉貴
+0.0002466    1 party          : 貴信
+0.0002409    1 class          : 高貴
+0.0002350    1 country        : 貴国
+0.0002169    1 female         : 姉貴
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0350288    1 stare
+	stare WORD[ 1,   1]: 0.0350288 瞶める
+TOKEN[ 2]: 0.0349625    1 gaze
+	gaze WORD[ 2,   1]: 0.0349625 瞶める
+TOKEN[ 3]: 0.0346453    1 fix
+	fix WORD[ 3,   1]: 0.0346453 瞶める
+TOKEN[ 4]: 0.0309308    1 watch
+	watch WORD[ 4,   1]: 0.0309308 瞶める
+TOKEN[ 5]: 0.0265778    1 hard
+	hard WORD[ 5,   1]: 0.0265778 瞶める
+TOKEN[ 6]: 0.0253522    2 paper
+	paper WORD[ 6,   1]: 0.0217331 貴紙
+	paper WORD[ 6,   2]: 0.0036191 貴誌
+TOKEN[ 7]: 0.0248191    2 look
+	look WORD[ 7,   1]: 0.0245726 瞶める
+	look WORD[ 7,   2]: 0.0002465 貴ぶ
+TOKEN[ 8]: 0.0235312    1 plural
+	plural WORD[ 8,   1]: 0.0235312 貴方方
+TOKEN[ 9]: 0.0234372    3 orphan
+	orphan WORD[ 9,   1]: 0.0219192 遺孤
+	orphan WORD[ 9,   2]: 0.0009445 遺子
+	orphan WORD[ 9,   3]: 0.0005735 遺児
+TOKEN[10]: 0.0211538   17 one
+	one WORD[10,   1]: 0.0132822 瞶める
+	one WORD[10,   2]: 0.0014028 伯父貴
+	one WORD[10,   3]: 0.0014028 叔父貴
+	one WORD[10,   4]: 0.0008234 潰れる
+	one WORD[10,   5]: 0.0006172 遺業
+	one WORD[10,   6]: 0.0005986 遺嘱
+	one WORD[10,   7]: 0.0005938 遺烈
+	one WORD[10,   8]: 0.0003224 飲み潰す
+	one WORD[10,   9]: 0.0003080 遺戒
+	one WORD[10,  10]: 0.0003080 遺誡
+	one WORD[10,  11]: 0.0002486 遺す
+	one WORD[10,  12]: 0.0002169 握り潰す
+	one WORD[10,  13]: 0.0002169 握り潰し
+	one WORD[10,  14]: 0.0002058 潰す
+	one WORD[10,  15]: 0.0001884 遺品
+	one WORD[10,  16]: 0.0001045 兄貴
+	one WORD[10,  17]: 0.0001045 貴方
+TOKEN[11]: 0.0198022   11 deceased
+	deceased WORD[11,   1]: 0.0116449 遺芳
+	deceased WORD[11,   2]: 0.0026780 遺灰
+	deceased WORD[11,   3]: 0.0007810 遺訓
+	deceased WORD[11,   4]: 0.0007765 遺愛
+	deceased WORD[11,   5]: 0.0007736 遺筆
+	deceased WORD[11,   6]: 0.0007736 遺髪
+	deceased WORD[11,   7]: 0.0004769 遺品
+	deceased WORD[11,   8]: 0.0004753 遺族
+	deceased WORD[11,   9]: 0.0004748 遺児
+	deceased WORD[11,  10]: 0.0004747 遺志
+	deceased WORD[11,  11]: 0.0004728 遺影
+TOKEN[12]: 0.0188193    3 chest
+	chest WORD[12,   1]: 0.0099089 鎧櫃
+	chest WORD[12,   2]: 0.0048945 唐櫃
+	chest WORD[12,   3]: 0.0040159 櫃
+TOKEN[13]: 0.0172870    1 Judaism
+	Judaism WORD[13,   1]: 0.0172870 聖櫃
+TOKEN[14]: 0.0168407    1 tabernacle
+	tabernacle WORD[14,   1]: 0.0168407 聖櫃
+TOKEN[15]: 0.0145558    1 autograph
+	autograph WORD[15,   1]: 0.0145558 遺芳
+TOKEN[16]: 0.0138198    3 rice
+	rice WORD[16,   1]: 0.0057738 櫃
+	rice WORD[16,   2]: 0.0043326 飯櫃
+	rice WORD[16,   3]: 0.0037134 米櫃
+TOKEN[17]: 0.0137395    1 funerary
+	funerary WORD[17,   1]: 0.0137395 石櫃
+TOKEN[18]: 0.0131849    2 journal
+	journal WORD[18,   1]: 0.0113027 貴紙
+	journal WORD[18,   2]: 0.0018822 貴誌
+TOKEN[19]: 0.0128688    1 urn
+	urn WORD[19,   1]: 0.0128688 石櫃
+TOKEN[20]: 0.0116210    1 helmet
+	helmet WORD[20,   1]: 0.0116210 鎧櫃
+TOKEN[21]: 0.0110771    2 magazine
+	magazine WORD[21,   1]: 0.0094958 貴紙
+	magazine WORD[21,   2]: 0.0015813 貴誌
+TOKEN[22]: 0.0105207    1 memory
+	memory WORD[22,   1]: 0.0105207 遺芳
+TOKEN[23]: 0.0103477    2 container
+	container WORD[23,   1]: 0.0062099 飯櫃
+	container WORD[23,   2]: 0.0041378 櫃
+TOKEN[24]: 0.0097118    1 storage
+	storage WORD[24,   1]: 0.0097118 鎧櫃
+TOKEN[25]: 0.0096870    1 suit
+	suit WORD[25,   1]: 0.0096870 鎧櫃
+TOKEN[26]: 0.0096578    2 stone
+	stone WORD[26,   1]: 0.0089501 石櫃
+	stone WORD[26,   2]: 0.0007077 貴石
+TOKEN[27]: 0.0094465    1 unmarried
+	unmarried WORD[27,   1]: 0.0094465 貴嬢
+TOKEN[28]: 0.0088385    2 wooden
+	wooden WORD[28,   1]: 0.0053042 飯櫃
+	wooden WORD[28,   2]: 0.0035343 櫃
+TOKEN[29]: 0.0087632    2 round
+	round WORD[29,   1]: 0.0052590 飯櫃
+	round WORD[29,   2]: 0.0035042 櫃
+TOKEN[30]: 0.0085771    2 uncle
+	uncle WORD[30,   1]: 0.0042886 伯父貴
+	uncle WORD[30,   2]: 0.0042885 叔父貴
+TOKEN[31]: 0.0079336    9 crush
+	crush WORD[31,   1]: 0.0017505 ひねり潰す
+	crush WORD[31,   2]: 0.0017505 捻り潰す
+	crush WORD[31,   3]: 0.0009391 ぶっ潰す
+	crush WORD[31,   4]: 0.0009391 打っ潰す
+	crush WORD[31,   5]: 0.0005966 踏み潰す
+	crush WORD[31,   6]: 0.0005537 握り潰す
+	crush WORD[31,   7]: 0.0005255 潰す
+	crush WORD[31,   8]: 0.0004393 圧し潰す
+	crush WORD[31,   9]: 0.0004393 押し潰す
+TOKEN[32]: 0.0079252    1 made
+	made WORD[32,   1]: 0.0079252 石櫃
+TOKEN[33]: 0.0077108    9 remains
+	remains WORD[33,   1]: 0.0027411 遺灰
+	remains WORD[33,   2]: 0.0009715 遺骨
+	remains WORD[33,   3]: 0.0007921 遺文
+	remains WORD[33,   4]: 0.0007728 遺骸
+	remains WORD[33,   5]: 0.0004882 遺物
+	remains WORD[33,   6]: 0.0004866 遺体
+	remains WORD[33,   7]: 0.0004864 遺跡
+	remains WORD[33,   8]: 0.0004864 遺蹟
+	remains WORD[33,   9]: 0.0004858 遺構
+TOKEN[34]: 0.0076898    2 pinch
+	pinch WORD[34,   1]: 0.0038449 ひねり潰す
+	pinch WORD[34,   2]: 0.0038449 捻り潰す
+TOKEN[35]: 0.0070402    1 breadwinner
+	breadwinner WORD[35,   1]: 0.0070402 米櫃
+TOKEN[36]: 0.0069250    2 parent
+	parent WORD[36,   1]: 0.0034625 伯父貴
+	parent WORD[36,   2]: 0.0034625 叔父貴
+TOKEN[37]: 0.0067530    1 bin
+	bin WORD[37,   1]: 0.0067530 米櫃
+TOKEN[38]: 0.0067415    1 coffer
+	coffer WORD[38,   1]: 0.0067415 櫃
+TOKEN[39]: 0.0066043    1 Botrytis
+	Botrytis WORD[39,   1]: 0.0066043 貴腐
+TOKEN[40]: 0.0065193    8 noble
+	noble WORD[40,   1]: 0.0040212 貴腐
+	noble WORD[40,   2]: 0.0004744 尊貴
+	noble WORD[40,   3]: 0.0004363 貴紳
+	noble WORD[40,   4]: 0.0004144 貴賓
+	noble WORD[40,   5]: 0.0003247 貴い
+	noble WORD[40,   6]: 0.0002876 高貴
+	noble WORD[40,   7]: 0.0002805 貴族
+	noble WORD[40,   8]: 0.0002803 貴種
+TOKEN[41]: 0.0059321    1 grinding
+	grinding WORD[41,   1]: 0.0059321 擂潰
+TOKEN[42]: 0.0058978    2 shop
+	shop WORD[42,   1]: 0.0054627 貴店
+	shop WORD[42,   2]: 0.0004350 潰す
+TOKEN[43]: 0.0055777    3 testament
+	testament WORD[43,   1]: 0.0039591 遺告
+	testament WORD[43,   2]: 0.0009777 遺言
+	testament WORD[43,   3]: 0.0006409 遺書
+TOKEN[44]: 0.0055460    4 drink
+	drink WORD[44,   1]: 0.0020452 酔い潰す
+	drink WORD[44,   2]: 0.0014742 酔い潰れる
+	drink WORD[44,   3]: 0.0013510 飲み潰す
+	drink WORD[44,   4]: 0.0006756 飲み潰れる
+TOKEN[45]: 0.0054654    1 store
+	store WORD[45,   1]: 0.0054654 貴店
+TOKEN[46]: 0.0054312    8 collapse
+	collapse WORD[46,   1]: 0.0015722 潰れる
+	collapse WORD[46,   2]: 0.0006716 潰える
+	collapse WORD[46,   3]: 0.0006165 丸潰れ
+	collapse WORD[46,   4]: 0.0006024 崩潰
+	collapse WORD[46,   5]: 0.0005308 倒潰
+	collapse WORD[46,   6]: 0.0005241 潰れ
+	collapse WORD[46,   7]: 0.0004689 決潰
+	collapse WORD[46,   8]: 0.0004446 潰乱
+TOKEN[47]: 0.0054188    1 cinerea
+	cinerea WORD[47,   1]: 0.0054188 貴腐
+TOKEN[48]: 0.0051810    1 lidded
+	lidded WORD[48,   1]: 0.0051810 櫃
+TOKEN[49]: 0.0050903    1 vestigial
+	vestigial WORD[49,   1]: 0.0050903 遺残
+TOKEN[50]: 0.0050647    1 tub
+	tub WORD[50,   1]: 0.0050647 櫃
+TOKEN[51]: 0.0049125    1 rot
+	rot WORD[51,   1]: 0.0049125 貴腐
+TOKEN[52]: 0.0043550    1 remnant
+	remnant WORD[52,   1]: 0.0043550 遺残
+TOKEN[53]: 0.0043217    2 search
+	search WORD[53,   1]: 0.0021609 しらみ潰し
+	search WORD[53,   2]: 0.0021608 虱潰し
+TOKEN[54]: 0.0042717    1 persistence
+	persistence WORD[54,   1]: 0.0042717 遺残
+TOKEN[55]: 0.0042536    1 infection
+	infection WORD[55,   1]: 0.0042536 貴腐
+TOKEN[56]: 0.0041529    8 left
+	left WORD[56,   1]: 0.0006274 遺賢
+	left WORD[56,   2]: 0.0006270 遺訓
+	left WORD[56,   3]: 0.0006270 遺業
+	left WORD[56,   4]: 0.0006211 遺筆
+	left WORD[56,   5]: 0.0005052 遺る
+	left WORD[56,   6]: 0.0003829 遺品
+	left WORD[56,   7]: 0.0003812 遺児
+	left WORD[56,   8]: 0.0003812 遺書
+TOKEN[57]: 0.0039580    3 older
+	older WORD[57,   1]: 0.0032350 伯父貴
+	older WORD[57,   2]: 0.0004820 兄貴
+	older WORD[57,   3]: 0.0002410 姉貴
+TOKEN[58]: 0.0037324    4 someone
+	someone WORD[58,   1]: 0.0014951 目潰し
+	someone WORD[58,   2]: 0.0014116 酔い潰す
+	someone WORD[58,   3]: 0.0004662 飲み潰す
+	someone WORD[58,   4]: 0.0003595 遺す
+TOKEN[59]: 0.0036043    1 younger
+	younger WORD[59,   1]: 0.0036043 叔父貴
+TOKEN[60]: 0.0034052    1 cremation
+	cremation WORD[60,   1]: 0.0034052 遺灰
+TOKEN[61]: 0.0033839    2 ashes
+	ashes WORD[61,   1]: 0.0028745 遺灰
+	ashes WORD[61,   2]: 0.0005094 遺骨
+TOKEN[62]: 0.0033195    4 dying
+	dying WORD[62,   1]: 0.0014416 遺嘱
+	dying WORD[62,   2]: 0.0007370 遺命
+	dying WORD[62,   3]: 0.0006891 遺言
+	dying WORD[62,   4]: 0.0004517 遺志
+TOKEN[63]: 0.0032873    5 death
+	death WORD[63,   1]: 0.0011059 遺嘱
+	death WORD[63,   2]: 0.0008034 乗り潰す
+	death WORD[63,   3]: 0.0005700 遺業
+	death WORD[63,   4]: 0.0004592 遺す
+	death WORD[63,   5]: 0.0003488 遺留
+TOKEN[64]: 0.0032122    2 crushed
+	crushed WORD[64,   1]: 0.0026195 潰し餡
+	crushed WORD[64,   2]: 0.0005927 潰れる
+TOKEN[65]: 0.0032113    2 paint
+	paint WORD[65,   1]: 0.0016057 塗り潰す
+	paint WORD[65,   2]: 0.0016057 塗潰す
+TOKEN[66]: 0.0032071    4 smash
+	smash WORD[66,   1]: 0.0010345 ぶっ潰す
+	smash WORD[66,   2]: 0.0010345 打っ潰す
+	smash WORD[66,   3]: 0.0005788 潰す
+	smash WORD[66,   4]: 0.0005593 叩き潰す
+TOKEN[67]: 0.0030599    5 posthumous
+	posthumous WORD[67,   1]: 0.0008901 遺詠
+	posthumous WORD[67,   2]: 0.0005436 遺著
+	posthumous WORD[67,   3]: 0.0005422 遺書
+	posthumous WORD[67,   4]: 0.0005420 遺作
+	posthumous WORD[67,   5]: 0.0005419 遺稿
+TOKEN[68]: 0.0030478    6 dead
+	dead WORD[68,   1]: 0.0007430 酔い潰れる
+	dead WORD[68,   2]: 0.0006810 飲み潰れる
+	dead WORD[68,   3]: 0.0004348 潰れる
+	dead WORD[68,   4]: 0.0003967 遺体
+	dead WORD[68,   5]: 0.0003962 遺書
+	dead WORD[68,   6]: 0.0003960 遺骨
+TOKEN[69]: 0.0030275    4 bequest
+	bequest WORD[69,   1]: 0.0010665 遺愛
+	bequest WORD[69,   2]: 0.0006563 遺留
+	bequest WORD[69,   3]: 0.0006528 遺贈
+	bequest WORD[69,   4]: 0.0006520 遺産
+TOKEN[70]: 0.0028644    1 historic
+	historic WORD[70,   1]: 0.0028644 遺址
+TOKEN[71]: 0.0028322    2 lost
+	lost WORD[71,   1]: 0.0019429 潰れる
+	lost WORD[71,   2]: 0.0008893 遺品
+TOKEN[72]: 0.0028016    2 crushing
+	crushing WORD[72,   1]: 0.0022004 圧潰
+	crushing WORD[72,   2]: 0.0006012 握り潰し
+TOKEN[73]: 0.0026807    3 wish
+	wish WORD[73,   1]: 0.0014964 遺嘱
+	wish WORD[73,   2]: 0.0007153 遺言
+	wish WORD[73,   3]: 0.0004689 遺志
+TOKEN[74]: 0.0026649    4 deface
+	deface WORD[74,   1]: 0.0006662 すり潰す
+	deface WORD[74,   2]: 0.0006662 擂り潰す
+	deface WORD[74,   3]: 0.0006662 擂潰す
+	deface WORD[74,   4]: 0.0006662 磨り潰す
+TOKEN[75]: 0.0026256    4 dissipate
+	dissipate WORD[75,   1]: 0.0006564 すり潰す
+	dissipate WORD[75,   2]: 0.0006564 擂り潰す
+	dissipate WORD[75,   3]: 0.0006564 擂潰す
+	dissipate WORD[75,   4]: 0.0006564 磨り潰す
+TOKEN[76]: 0.0025915    4 pulverize
+	pulverize WORD[76,   1]: 0.0006479 すり潰す
+	pulverize WORD[76,   2]: 0.0006479 擂り潰す
+	pulverize WORD[76,   3]: 0.0006479 擂潰す
+	pulverize WORD[76,   4]: 0.0006479 磨り潰す
+TOKEN[77]: 0.0025518    1 blind
+	blind WORD[77,   1]: 0.0025518 目潰し
+TOKEN[78]: 0.0024075    2 breaking
+	breaking WORD[78,   1]: 0.0018546 圧潰
+	breaking WORD[78,   2]: 0.0005530 崩潰
+TOKEN[79]: 0.0024016    4 last
+	last WORD[79,   1]: 0.0006121 遺訓
+	last WORD[79,   2]: 0.0006110 遺戒
+	last WORD[79,   3]: 0.0006110 遺誡
+	last WORD[79,   4]: 0.0005676 遺言
+TOKEN[80]: 0.0023578    4 mash
+	mash WORD[80,   1]: 0.0005895 すり潰す
+	mash WORD[80,   2]: 0.0005895 擂り潰す
+	mash WORD[80,   3]: 0.0005895 擂潰す
+	mash WORD[80,   4]: 0.0005895 磨り潰す
+TOKEN[81]: 0.0022956    3 drunk
+	drunk WORD[81,   1]: 0.0009176 酔い潰れる
+	drunk WORD[81,   2]: 0.0008410 飲み潰れる
+	drunk WORD[81,   3]: 0.0005370 潰れる
+TOKEN[82]: 0.0022914    8 person
+	person WORD[82,   1]: 0.0004248 遺訓
+	person WORD[82,   2]: 0.0004209 遺墨
+	person WORD[82,   3]: 0.0002680 尊貴
+	person WORD[82,   4]: 0.0002582 遺書
+	person WORD[82,   5]: 0.0002582 遺志
+	person WORD[82,   6]: 0.0002572 遺影
+	person WORD[82,   7]: 0.0002459 貴顕
+	person WORD[82,   8]: 0.0001583 貴人
+TOKEN[83]: 0.0022545    3 home
+	home WORD[83,   1]: 0.0011024 貴家
+	home WORD[83,   2]: 0.0005523 食い潰す
+	home WORD[83,   3]: 0.0002000 貴方
+TOKEN[84]: 0.0022000    3 table
+	table WORD[84,   1]: 0.0010452 酔い潰す
+	table WORD[84,   2]: 0.0006904 飲み潰す
+	table WORD[84,   3]: 0.0004644 握り潰す
+TOKEN[85]: 0.0021958    6 letter
+	letter WORD[85,   1]: 0.0004284 潰れ
+	letter WORD[85,   2]: 0.0003904 遺書
+	letter WORD[85,   3]: 0.0003722 貴札
+	letter WORD[85,   4]: 0.0003708 貴簡
+	letter WORD[85,   5]: 0.0003708 貴翰
+	letter WORD[85,   6]: 0.0002632 貴信
+TOKEN[86]: 0.0021626    4 grind
+	grind WORD[86,   1]: 0.0005406 すり潰す
+	grind WORD[86,   2]: 0.0005406 擂り潰す
+	grind WORD[86,   3]: 0.0005406 擂潰す
+	grind WORD[86,   4]: 0.0005406 磨り潰す
+TOKEN[87]: 0.0021229    3 surviving
+	surviving WORD[87,   1]: 0.0009528 遺風
+	surviving WORD[87,   2]: 0.0005854 遺族
+	surviving WORD[87,   3]: 0.0005847 遺臣
+TOKEN[88]: 0.0021006    4 destruction
+	destruction WORD[88,   1]: 0.0005577 倒潰
+	destruction WORD[88,   2]: 0.0005506 潰れ
+	destruction WORD[88,   3]: 0.0005254 全潰
+	destruction WORD[88,   4]: 0.0004670 潰滅
+TOKEN[89]: 0.0020694    1 paste
+	paste WORD[89,   1]: 0.0020694 潰し餡
+TOKEN[90]: 0.0020462    2 wear
+	wear WORD[90,   1]: 0.0015718 履き潰す
+	wear WORD[90,   2]: 0.0004743 潰れる
+TOKEN[91]: 0.0019836    3 time
+	time WORD[91,   1]: 0.0009543 潰す
+	time WORD[91,   2]: 0.0007111 暇潰し
+	time WORD[91,   3]: 0.0003182 潰れる
+TOKEN[92]: 0.0019653    2 contraband
+	contraband WORD[92,   1]: 0.0009826 しらみ潰し
+	contraband WORD[92,   2]: 0.0009826 虱潰し
+TOKEN[93]: 0.0019653    2 exhaustive
+	exhaustive WORD[93,   1]: 0.0009826 しらみ潰し
+	exhaustive WORD[93,   2]: 0.0009826 虱潰し
+TOKEN[94]: 0.0019631    3 ruin
+	ruin WORD[94,   1]: 0.0008101 取り潰す
+	ruin WORD[94,   2]: 0.0006232 丸潰れ
+	ruin WORD[94,   3]: 0.0005298 潰れ
+TOKEN[95]: 0.0019571    1 footwear
+	footwear WORD[95,   1]: 0.0019571 履き潰す
+TOKEN[96]: 0.0019464    2 scouring
+	scouring WORD[96,   1]: 0.0009732 しらみ潰し
+	scouring WORD[96,   2]: 0.0009732 虱潰し
+TOKEN[97]: 0.0019261    2 leaving
+	leaving WORD[97,   1]: 0.0011119 貴方任せ
+	leaving WORD[97,   2]: 0.0008142 遺留
+TOKEN[98]: 0.0019253    2 family
+	family WORD[98,   1]: 0.0009879 遺家族
+	family WORD[98,   2]: 0.0009373 遺族
+TOKEN[99]: 0.0018475    2 thwart
+	thwart WORD[99,   1]: 0.0011172 取り潰す
+	thwart WORD[99,   2]: 0.0007303 潰す
+TOKEN[100]: 0.0018107    1 pressure
+	pressure WORD[100,   1]: 0.0018107 圧潰
+TOKEN[101]: 0.0018006    2 convict
+	convict WORD[101,   1]: 0.0009003 しらみ潰し
+	convict WORD[101,   2]: 0.0009003 虱潰し
+TOKEN[102]: 0.0017867    3 flatten
+	flatten WORD[102,   1]: 0.0006687 潰す
+	flatten WORD[102,   2]: 0.0005590 圧し潰す
+	flatten WORD[102,   3]: 0.0005590 押し潰す
+TOKEN[103]: 0.0017545    4 fortune
+	fortune WORD[103,   1]: 0.0004386 すり潰す
+	fortune WORD[103,   2]: 0.0004386 擂り潰す
+	fortune WORD[103,   3]: 0.0004386 擂潰す
+	fortune WORD[103,   4]: 0.0004386 磨り潰す
+TOKEN[104]: 0.0017480    2 thorough
+	thorough WORD[104,   1]: 0.0008740 しらみ潰し
+	thorough WORD[104,   2]: 0.0008740 虱潰し
+TOKEN[105]: 0.0017275    2 caution
+	caution WORD[105,   1]: 0.0008638 遺戒
+	caution WORD[105,   2]: 0.0008638 遺誡
+TOKEN[106]: 0.0017216    2 relic
+	relic WORD[106,   1]: 0.0010665 遺愛
+	relic WORD[106,   2]: 0.0006551 遺物
+TOKEN[107]: 0.0017097    3 work
+	work WORD[107,   1]: 0.0010628 遺業
+	work WORD[107,   2]: 0.0003239 遺著
+	work WORD[107,   3]: 0.0003230 遺書
+TOKEN[108]: 0.0016589    1 historical
+	historical WORD[108,   1]: 0.0016589 遺宝
+TOKEN[109]: 0.0016459    4 lose
+	lose WORD[109,   1]: 0.0004115 すり潰す
+	lose WORD[109,   2]: 0.0004115 擂り潰す
+	lose WORD[109,   3]: 0.0004115 擂潰す
+	lose WORD[109,   4]: 0.0004115 磨り潰す
+TOKEN[110]: 0.0016415    2 keepsake
+	keepsake WORD[110,   1]: 0.0010155 遺髪
+	keepsake WORD[110,   2]: 0.0006261 遺品
+TOKEN[111]: 0.0016335    3 fill
+	fill WORD[111,   1]: 0.0005445 塗り潰す
+	fill WORD[111,   2]: 0.0005445 塗潰す
+	fill WORD[111,   3]: 0.0005445 塗り潰し
+TOKEN[112]: 0.0016277    3 precious
+	precious WORD[112,   1]: 0.0009445 貴石
+	precious WORD[112,   2]: 0.0003665 貴い
+	precious WORD[112,   3]: 0.0003168 貴重
+TOKEN[113]: 0.0015850    2 epistolary
+	epistolary WORD[113,   1]: 0.0005761 貴酬
+	epistolary WORD[113,   2]: 0.0003363 貴方
+TOKEN[114]: 0.0015843    1 broken
+	broken WORD[114,   1]: 0.0015843 潰れる
+TOKEN[115]: 0.0015510    4 run
+	run WORD[115,   1]: 0.0003877 すり潰す
+	run WORD[115,   2]: 0.0003877 擂り潰す
+	run WORD[115,   3]: 0.0003877 擂潰す
+	run WORD[115,   4]: 0.0003877 磨り潰す
+TOKEN[116]: 0.0015449    2 wasted
+	wasted WORD[116,   1]: 0.0009428 飲み潰す
+	wasted WORD[116,   2]: 0.0006020 潰れる
+TOKEN[117]: 0.0015085    3 men
+	men WORD[117,   1]: 0.0006988 遺賢
+	men WORD[117,   2]: 0.0004053 貴紳
+	men WORD[117,   3]: 0.0004044 貴君
+TOKEN[118]: 0.0015008    3 company
+	company WORD[118,   1]: 0.0007534 貴社
+	company WORD[118,   2]: 0.0003934 潰す
+	company WORD[118,   3]: 0.0003540 貴台
+TOKEN[119]: 0.0014953    2 kill
+	kill WORD[119,   1]: 0.0009793 潰す
+	kill WORD[119,   2]: 0.0005160 握り潰す
+TOKEN[120]: 0.0014577    1 gleaning
+	gleaning WORD[120,   1]: 0.0014577 拾遺
+TOKEN[121]: 0.0014446    1 carried
+	carried WORD[121,   1]: 0.0014446 遺嘱
+TOKEN[122]: 0.0013561    1 eat
+	eat WORD[122,   1]: 0.0013561 食い潰す
+TOKEN[123]: 0.0013521    3 break
+	break WORD[123,   1]: 0.0005281 潰える
+	break WORD[123,   2]: 0.0004121 潰れ
+	break WORD[123,   3]: 0.0004119 潰す
+TOKEN[124]: 0.0013515    2 corpse
+	corpse WORD[124,   1]: 0.0008293 遺骸
+	corpse WORD[124,   2]: 0.0005222 遺体
+TOKEN[125]: 0.0013259    2 omission
+	omission WORD[125,   1]: 0.0008219 遺漏
+	omission WORD[125,   2]: 0.0005040 遺脱
+TOKEN[126]: 0.0013231    3 value
+	value WORD[126,   1]: 0.0002889 貴ぶ
+	value WORD[126,   2]: 0.0002888 騰貴
+	value WORD[126,   3]: 0.0002485 貴
+TOKEN[127]: 0.0013223    3 complete
+	complete WORD[127,   1]: 0.0005222 丸潰れ
+	complete WORD[127,   2]: 0.0004236 全潰
+	complete WORD[127,   3]: 0.0003765 潰滅
+TOKEN[128]: 0.0012975    1 addendum
+	addendum WORD[128,   1]: 0.0012975 補遺
+TOKEN[129]: 0.0012865    2 place
+	place WORD[129,   1]: 0.0009804 貴地
+	place WORD[129,   2]: 0.0003061 貴所
+TOKEN[130]: 0.0012824    2 legacy
+	legacy WORD[130,   1]: 0.0006416 遺贈
+	legacy WORD[130,   2]: 0.0006408 遺産
+TOKEN[131]: 0.0012525    1 preciousness
+	preciousness WORD[131,   1]: 0.0004175 貴
+TOKEN[132]: 0.0012431    1 Miki
+	Miki WORD[132,   1]: 0.0012431 三貴
+TOKEN[133]: 0.0012129    2 memento
+	memento WORD[133,   1]: 0.0006065 遺物
+	memento WORD[133,   2]: 0.0006064 遺品
+TOKEN[134]: 0.0011892    5 high
+	high WORD[134,   1]: 0.0003396 貴僧
+	high WORD[134,   2]: 0.0002165 高貴
+	high WORD[134,   3]: 0.0002111 貴賎
+	high WORD[134,   4]: 0.0002111 貴賤
+	high WORD[134,   5]: 0.0002110 貴人
+TOKEN[135]: 0.0011651    1 appendix
+	appendix WORD[135,   1]: 0.0011651 補遺
+TOKEN[136]: 0.0011638    1 university
+	university WORD[136,   1]: 0.0011638 貴学
+TOKEN[137]: 0.0011475    2 residence
+	residence WORD[137,   1]: 0.0004186 貴殿
+	residence WORD[137,   2]: 0.0002430 貴方
+TOKEN[138]: 0.0011241    1 uncompleted
+	uncompleted WORD[138,   1]: 0.0011241 遺業
+TOKEN[139]: 0.0011206    1 sot
+	sot WORD[139,   1]: 0.0011206 飲み潰す
+TOKEN[140]: 0.0011090    1 poking
+	poking WORD[140,   1]: 0.0011090 目潰し
+TOKEN[141]: 0.0011038    1 ride
+	ride WORD[141,   1]: 0.0011038 乗り潰す
+TOKEN[142]: 0.0010964    1 unconscious
+	unconscious WORD[142,   1]: 0.0010964 酔い潰れる
+TOKEN[143]: 0.0010789    1 chew
+	chew WORD[143,   1]: 0.0010789 噛み潰す
+TOKEN[144]: 0.0010760    2 request
+	request WORD[144,   1]: 0.0006637 遺言
+	request WORD[144,   2]: 0.0004124 貴意
+TOKEN[145]: 0.0010602    1 supplement
+	supplement WORD[145,   1]: 0.0010602 補遺
+TOKEN[146]: 0.0010390    2 inheritance
+	inheritance WORD[146,   1]: 0.0005204 遺伝
+	inheritance WORD[146,   2]: 0.0005186 遺産
+TOKEN[147]: 0.0010229    1 disrupt
+	disrupt WORD[147,   1]: 0.0010229 取り潰す
+TOKEN[148]: 0.0010196    2 squash
+	squash WORD[148,   1]: 0.0005098 圧し潰す
+	squash WORD[148,   2]: 0.0005098 押し潰す
+TOKEN[149]: 0.0010159    1 brushwork
+	brushwork WORD[149,   1]: 0.0010159 遺墨
+TOKEN[150]: 0.0010119    1 deadbeat
+	deadbeat WORD[150,   1]: 0.0010119 穀潰し
+TOKEN[151]: 0.0010002    1 gem
+	gem WORD[151,   1]: 0.0010002 貴石
+TOKEN[152]: 0.0009998    1 thrown
+	thrown WORD[152,   1]: 0.0009998 目潰し
+TOKEN[153]: 0.0009981    1 stupor
+	stupor WORD[153,   1]: 0.0009981 飲み潰れる
+TOKEN[154]: 0.0009756    2 waste
+	waste WORD[154,   1]: 0.0005149 暇潰し
+	waste WORD[154,   2]: 0.0004607 潰す
+TOKEN[155]: 0.0009749    2 plan
+	plan WORD[155,   1]: 0.0005476 潰える
+	plan WORD[155,   2]: 0.0004273 潰れる
+TOKEN[156]: 0.0009720    1 jewel
+	jewel WORD[156,   1]: 0.0009720 貴石
+TOKEN[157]: 0.0009678    1 drive
+	drive WORD[157,   1]: 0.0009678 乗り潰す
+TOKEN[158]: 0.0009556    2 cover
+	cover WORD[158,   1]: 0.0004778 塗り潰す
+	cover WORD[158,   2]: 0.0004778 塗潰す
+TOKEN[159]: 0.0009459    1 loafer
+	loafer WORD[159,   1]: 0.0009459 穀潰し
+TOKEN[160]: 0.0009456    1 nobility
+	nobility WORD[160,   1]: 0.0003152 貴
+TOKEN[161]: 0.0009406    2 honey
+	honey WORD[161,   1]: 0.0003545 貴男
+	honey WORD[161,   2]: 0.0002931 貴女
+TOKEN[162]: 0.0009389    3 rank
+	rank WORD[162,   1]: 0.0003802 貴紳
+	rank WORD[162,   2]: 0.0003144 富貴
+	rank WORD[162,   3]: 0.0002442 貴人
+TOKEN[163]: 0.0009313    1 car
+	car WORD[163,   1]: 0.0009313 乗り潰す
+TOKEN[164]: 0.0009209    1 idler
+	idler WORD[164,   1]: 0.0009209 穀潰し
+TOKEN[165]: 0.0009205    2 fall
+	fall WORD[165,   1]: 0.0005170 潰える
+	fall WORD[165,   2]: 0.0004035 潰れる
+TOKEN[166]: 0.0009180    1 opinion
+	opinion WORD[166,   1]: 0.0009180 貴見
+TOKEN[167]: 0.0009098    1 hinder
+	hinder WORD[167,   1]: 0.0009098 取り潰す
+TOKEN[168]: 0.0009021    2 body
+	body WORD[168,   1]: 0.0005535 遺骸
+	body WORD[168,   2]: 0.0003485 遺体
+TOKEN[169]: 0.0009019    1 departed
+	departed WORD[169,   1]: 0.0009019 遺墨
+TOKEN[170]: 0.0008988    1 accomplished
+	accomplished WORD[170,   1]: 0.0008988 遺業
+TOKEN[171]: 0.0008958    1 ash
+	ash WORD[171,   1]: 0.0008958 目潰し
+TOKEN[172]: 0.0008915    2 dear
+	dear WORD[172,   1]: 0.0003360 貴男
+	dear WORD[172,   2]: 0.0002778 貴女
+TOKEN[173]: 0.0008822    1 bequeath
+	bequeath WORD[173,   1]: 0.0008822 遺す
+TOKEN[174]: 0.0008799    1 horse
+	horse WORD[174,   1]: 0.0008799 乗り潰す
+TOKEN[175]: 0.0008766    1 ground
+	ground WORD[175,   1]: 0.0008766 乗り潰す
+TOKEN[176]: 0.0008753    1 drone
+	drone WORD[176,   1]: 0.0008753 穀潰し
+TOKEN[177]: 0.0008710    1 school
+	school WORD[177,   1]: 0.0008710 貴校
+TOKEN[178]: 0.0008670    3 used
+	used WORD[178,   1]: 0.0002959 貴台
+	used WORD[178,   2]: 0.0002855 貴公
+	used WORD[178,   3]: 0.0002855 貴君
+TOKEN[179]: 0.0008661    1 throwing
+	throwing WORD[179,   1]: 0.0008661 目潰し
+TOKEN[180]: 0.0008649    2 something
+	something WORD[180,   1]: 0.0005080 目潰し
+	something WORD[180,   2]: 0.0003570 丸潰れ
+TOKEN[181]: 0.0008587    1 parasite
+	parasite WORD[181,   1]: 0.0008587 穀潰し
+TOKEN[182]: 0.0008570    2 correspondence
+	correspondence WORD[182,   1]: 0.0005092 貴台
+	correspondence WORD[182,   2]: 0.0003478 貴信
+TOKEN[183]: 0.0008553    1 priest
+	priest WORD[183,   1]: 0.0008553 貴僧
+TOKEN[184]: 0.0008509    1 lifetime
+	lifetime WORD[184,   1]: 0.0008509 遺業
+TOKEN[185]: 0.0008493    2 face
+	face WORD[185,   1]: 0.0004591 丸潰れ
+	face WORD[185,   2]: 0.0003902 潰れる
+TOKEN[186]: 0.0008480    1 note
+	note WORD[186,   1]: 0.0008480 遺書
+TOKEN[187]: 0.0008398    1 caving
+	caving WORD[187,   1]: 0.0008398 崩潰
+TOKEN[188]: 0.0008368    1 customs
+	customs WORD[188,   1]: 0.0008368 遺習
+TOKEN[189]: 0.0008324    1 hereditary
+	hereditary WORD[189,   1]: 0.0008324 遺風
+TOKEN[190]: 0.0008188    1 throttling
+	throttling WORD[190,   1]: 0.0008188 握り潰し
+TOKEN[191]: 0.0008184    1 sand
+	sand WORD[191,   1]: 0.0008184 目潰し
+TOKEN[192]: 0.0008175    1 item
+	item WORD[192,   1]: 0.0008175 遺品
+TOKEN[193]: 0.0008078    1 tradition
+	tradition WORD[193,   1]: 0.0008078 遺風
+TOKEN[194]: 0.0008065    1 wasteful
+	wasteful WORD[194,   1]: 0.0008065 潰え
+TOKEN[195]: 0.0008017    1 shrine
+	shrine WORD[195,   1]: 0.0008017 貴社
+TOKEN[196]: 0.0007855    1 custom
+	custom WORD[196,   1]: 0.0007855 遺風
+TOKEN[197]: 0.0007699    1 benefit
+	benefit WORD[197,   1]: 0.0007699 遺徳
+TOKEN[198]: 0.0007696    1 strangling
+	strangling WORD[198,   1]: 0.0007696 握り潰し
+TOKEN[199]: 0.0007678    1 virtue
+	virtue WORD[199,   1]: 0.0007678 遺徳
+TOKEN[200]: 0.0007666    1 ancient
+	ancient WORD[200,   1]: 0.0007666 遺構
+TOKEN[201]: 0.0007616    1 disintegration
+	disintegration WORD[201,   1]: 0.0007616 崩潰
+TOKEN[202]: 0.0007603    1 fight
+	fight WORD[202,   1]: 0.0007603 目潰し
+TOKEN[203]: 0.0007556    2 aristocrat
+	aristocrat WORD[203,   1]: 0.0003779 貴族
+	aristocrat WORD[203,   2]: 0.0003777 貴人
+TOKEN[204]: 0.0007538    1 smother
+	smother WORD[204,   1]: 0.0007538 握り潰す
+TOKEN[205]: 0.0007476    1 melt
+	melt WORD[205,   1]: 0.0007476 鋳潰す
+TOKEN[206]: 0.0007409    1 pigeonhole
+	pigeonhole WORD[206,   1]: 0.0007409 握り潰す
+TOKEN[207]: 0.0007409    1 shelve
+	shelve WORD[207,   1]: 0.0007409 握り潰す
+TOKEN[208]: 0.0007404    1 equal
+	equal WORD[208,   1]: 0.0002468 貴方
+TOKEN[209]: 0.0007326    1 literary
+	literary WORD[209,   1]: 0.0007326 遺文
+TOKEN[210]: 0.0007306    1 nib
+	nib WORD[210,   1]: 0.0007306 潰れる
+TOKEN[211]: 0.0007274    1 previous
+	previous WORD[211,   1]: 0.0007274 遺風
+TOKEN[212]: 0.0007143    1 underfoot
+	underfoot WORD[212,   1]: 0.0007143 踏み潰す
+TOKEN[213]: 0.0007046    1 child
+	child WORD[213,   1]: 0.0007046 遺児
+TOKEN[214]: 0.0007029    1 able
+	able WORD[214,   1]: 0.0007029 遺賢
+TOKEN[215]: 0.0007028    1 blotting
+	blotting WORD[215,   1]: 0.0007028 塗り潰し
+TOKEN[216]: 0.0006932    1 go
+	go WORD[216,   1]: 0.0006932 潰れる
+TOKEN[217]: 0.0006919    1 matter
+	matter WORD[217,   1]: 0.0006919 貴方任せ
+TOKEN[218]: 0.0006917    1 shelving
+	shelving WORD[218,   1]: 0.0006917 握り潰し
+TOKEN[219]: 0.0006913    1 poem
+	poem WORD[219,   1]: 0.0006913 遺詠
+TOKEN[220]: 0.0006869    2 valuable
+	valuable WORD[220,   1]: 0.0003684 貴い
+	valuable WORD[220,   2]: 0.0003185 貴重
+TOKEN[221]: 0.0006833    1 trample
+	trample WORD[221,   1]: 0.0006833 踏み潰す
+TOKEN[222]: 0.0006766    1 radioactive
+	radioactive WORD[222,   1]: 0.0006766 崩潰
+TOKEN[223]: 0.0006711    1 washout
+	washout WORD[223,   1]: 0.0006711 決潰
+TOKEN[224]: 0.0006696    1 song
+	song WORD[224,   1]: 0.0006696 遺詠
+TOKEN[225]: 0.0006636    1 remain
+	remain WORD[225,   1]: 0.0006636 遺る
+TOKEN[226]: 0.0006625    1 bankrupt
+	bankrupt WORD[226,   1]: 0.0006625 潰れる
+TOKEN[227]: 0.0006547    1 enuresis
+	enuresis WORD[227,   1]: 0.0006547 遺尿
+TOKEN[228]: 0.0006528    1 dream
+	dream WORD[228,   1]: 0.0006528 潰える
+TOKEN[229]: 0.0006521    1 testamentary
+	testamentary WORD[229,   1]: 0.0006521 遺書
+TOKEN[230]: 0.0006501    1 graphics
+	graphics WORD[230,   1]: 0.0006501 塗り潰し
+TOKEN[231]: 0.0006406    1 archaeological
+	archaeological WORD[231,   1]: 0.0006406 遺構
+TOKEN[232]: 0.0006363    1 subversion
+	subversion WORD[232,   1]: 0.0006363 潰乱
+TOKEN[233]: 0.0006292    1 lamentable
+	lamentable WORD[233,   1]: 0.0006292 遺憾
+TOKEN[234]: 0.0006253    1 heredity
+	heredity WORD[234,   1]: 0.0006253 遺伝
+TOKEN[235]: 0.0006210    1 office
+	office WORD[235,   1]: 0.0006210 遺賢
+TOKEN[236]: 0.0006197    1 devastation
+	devastation WORD[236,   1]: 0.0006197 潰滅
+TOKEN[237]: 0.0006187    1 wreck
+	wreck WORD[237,   1]: 0.0006187 潰す
+TOKEN[238]: 0.0006184    1 decay
+	decay WORD[238,   1]: 0.0006184 崩潰
+TOKEN[239]: 0.0006156    1 butcher
+	butcher WORD[239,   1]: 0.0006156 潰す
+TOKEN[240]: 0.0006126    1 slaughter
+	slaughter WORD[240,   1]: 0.0006126 潰す
+TOKEN[241]: 0.0006120    1 wetting
+	wetting WORD[241,   1]: 0.0006120 遺尿
+TOKEN[242]: 0.0006073    1 writing
+	writing WORD[242,   1]: 0.0006073 遺筆
+TOKEN[243]: 0.0006065    1 stampede
+	stampede WORD[243,   1]: 0.0006065 潰走
+TOKEN[244]: 0.0006064    1 style
+	style WORD[244,   1]: 0.0002021 貴方
+TOKEN[245]: 0.0006049    1 levee
+	levee WORD[245,   1]: 0.0006049 決潰
+TOKEN[246]: 0.0005983    1 heritage
+	heritage WORD[246,   1]: 0.0005983 遺産
+TOKEN[247]: 0.0005945    1 hair
+	hair WORD[247,   1]: 0.0005945 遺髪
+TOKEN[248]: 0.0005914    1 deplorable
+	deplorable WORD[248,   1]: 0.0005914 遺憾
+TOKEN[249]: 0.0005906    1 composure
+	composure WORD[249,   1]: 0.0005906 潰れる
+TOKEN[250]: 0.0005906    1 eyesight
+	eyesight WORD[250,   1]: 0.0005906 潰れる
+TOKEN[251]: 0.0005880    1 money
+	money WORD[251,   1]: 0.0005880 飲み潰す
+TOKEN[252]: 0.0005869    1 desertion
+	desertion WORD[252,   1]: 0.0005869 遺棄
+TOKEN[253]: 0.0005824    1 battle
+	battle WORD[253,   1]: 0.0005824 潰える
+TOKEN[254]: 0.0005808    1 cease
+	cease WORD[254,   1]: 0.0005808 潰れる
+TOKEN[255]: 0.0005787    1 unsatisfactory
+	unsatisfactory WORD[255,   1]: 0.0005787 遺憾
+TOKEN[256]: 0.0005779    1 losing
+	losing WORD[256,   1]: 0.0005779 丸潰れ
+TOKEN[257]: 0.0005771    1 livestock
+	livestock WORD[257,   1]: 0.0005771 潰す
+TOKEN[258]: 0.0005761    1 enmity
+	enmity WORD[258,   1]: 0.0005761 遺恨
+TOKEN[259]: 0.0005727    1 killing
+	killing WORD[259,   1]: 0.0005727 暇潰し
+TOKEN[260]: 0.0005721    1 old
+	old WORD[260,   1]: 0.0005721 遺習
+TOKEN[261]: 0.0005715    1 regrettable
+	regrettable WORD[261,   1]: 0.0005715 遺憾
+TOKEN[262]: 0.0005675    1 ulcer
+	ulcer WORD[262,   1]: 0.0005675 潰瘍
+TOKEN[263]: 0.0005645    1 nocturnal
+	nocturnal WORD[263,   1]: 0.0005645 遺精
+TOKEN[264]: 0.0005631    1 rupture
+	rupture WORD[264,   1]: 0.0005631 決潰
+TOKEN[265]: 0.0005628    1 honorific
+	honorific WORD[265,   1]: 0.0005628 貴台
+TOKEN[266]: 0.0005617    1 ejaculation
+	ejaculation WORD[266,   1]: 0.0005617 遺精
+TOKEN[267]: 0.0005617    1 involuntary
+	involuntary WORD[267,   1]: 0.0005617 遺精
+TOKEN[268]: 0.0005592    1 saw
+	saw WORD[268,   1]: 0.0005592 潰れる
+TOKEN[269]: 0.0005581    1 proposal
+	proposal WORD[269,   1]: 0.0005581 握り潰す
+TOKEN[270]: 0.0005566    1 ruined
+	ruined WORD[270,   1]: 0.0005566 潰れる
+TOKEN[271]: 0.0005545    1 forgetting
+	forgetting WORD[271,   1]: 0.0005545 遺留
+TOKEN[272]: 0.0005538    1 emission
+	emission WORD[272,   1]: 0.0005538 遺精
+TOKEN[273]: 0.0005514    1 abandonment
+	abandonment WORD[273,   1]: 0.0005514 遺棄
+TOKEN[274]: 0.0005484    1 embankment
+	embankment WORD[274,   1]: 0.0005484 決潰
+TOKEN[275]: 0.0005477    1 rout
+	rout WORD[275,   1]: 0.0005477 潰走
+TOKEN[276]: 0.0005424    2 elder
+	elder WORD[276,   1]: 0.0002712 姉貴
+	elder WORD[276,   2]: 0.0002712 兄貴
+TOKEN[277]: 0.0005400    1 remove
+	remove WORD[277,   1]: 0.0005400 握り潰す
+TOKEN[278]: 0.0005345    1 genetic
+	genetic WORD[278,   1]: 0.0005345 遺伝
+TOKEN[279]: 0.0005310    1 building
+	building WORD[279,   1]: 0.0005310 潰える
+TOKEN[280]: 0.0005283    1 house
+	house WORD[280,   1]: 0.0005283 食い潰す
+TOKEN[281]: 0.0005278    1 annihilation
+	annihilation WORD[281,   1]: 0.0005278 潰滅
+TOKEN[282]: 0.0005255    1 providence
+	providence WORD[282,   1]: 0.0005255 貴方任せ
+TOKEN[283]: 0.0005225    1 courage
+	courage WORD[283,   1]: 0.0005225 潰れる
+TOKEN[284]: 0.0005224    1 portrait
+	portrait WORD[284,   1]: 0.0005224 遺影
+TOKEN[285]: 0.0005197    1 dam
+	dam WORD[285,   1]: 0.0005197 決潰
+TOKEN[286]: 0.0005175    1 degradation
+	degradation WORD[286,   1]: 0.0005175 潰乱
+TOKEN[287]: 0.0005153    1 dull
+	dull WORD[287,   1]: 0.0005153 潰れる
+TOKEN[288]: 0.0005147    1 abandoned
+	abandoned WORD[288,   1]: 0.0005147 遺児
+TOKEN[289]: 0.0005146    1 grudge
+	grudge WORD[289,   1]: 0.0005146 遺恨
+TOKEN[290]: 0.0005126    1 pen
+	pen WORD[290,   1]: 0.0005126 潰れる
+TOKEN[291]: 0.0005106    1 printed
+	printed WORD[291,   1]: 0.0005106 潰れ
+TOKEN[292]: 0.0005077    1 visual
+	visual WORD[292,   1]: 0.0005077 貴覧
+TOKEN[293]: 0.0005075    1 smell
+	smell WORD[293,   1]: 0.0005075 潰れる
+TOKEN[294]: 0.0005033    1 consideration
+	consideration WORD[294,   1]: 0.0005033 握り潰す
+TOKEN[295]: 0.0005000    1 project
+	project WORD[295,   1]: 0.0005000 潰れる
+TOKEN[296]: 0.0004998    1 shut
+	shut WORD[296,   1]: 0.0004998 潰す
+TOKEN[297]: 0.0004994    1 leave
+	leave WORD[297,   1]: 0.0004994 遺す
+TOKEN[298]: 0.0004932    1 depending
+	depending WORD[298,   1]: 0.0004932 貴方任せ
+TOKEN[299]: 0.0004927    1 teeth
+	teeth WORD[299,   1]: 0.0004927 潰れる
+TOKEN[300]: 0.0004911    1 retainer
+	retainer WORD[300,   1]: 0.0004911 遺臣
+TOKEN[301]: 0.0004906    1 breach
+	breach WORD[301,   1]: 0.0004906 決潰
+TOKEN[302]: 0.0004898    1 estate
+	estate WORD[302,   1]: 0.0004898 遺品
+TOKEN[303]: 0.0004889    1 taken
+	taken WORD[303,   1]: 0.0004889 潰れる
+TOKEN[304]: 0.0004884    2 standing
+	standing WORD[304,   1]: 0.0002442 貴賎
+	standing WORD[304,   2]: 0.0002442 貴賤
+TOKEN[305]: 0.0004877    1 distinguished
+	distinguished WORD[305,   1]: 0.0004877 貴顕
+TOKEN[306]: 0.0004866    1 fail
+	fail WORD[306,   1]: 0.0004866 潰れる
+TOKEN[307]: 0.0004856    2 social
+	social WORD[307,   1]: 0.0002428 貴賎
+	social WORD[307,   2]: 0.0002428 貴賤
+TOKEN[308]: 0.0004773    2 low
+	low WORD[308,   1]: 0.0002387 貴賎
+	low WORD[308,   2]: 0.0002387 貴賤
+TOKEN[309]: 0.0004756    1 morals
+	morals WORD[309,   1]: 0.0004756 潰乱
+TOKEN[310]: 0.0004732    1 foundation
+	foundation WORD[310,   1]: 0.0004732 遺構
+TOKEN[311]: 0.0004720    1 block
+	block WORD[311,   1]: 0.0004720 潰す
+TOKEN[312]: 0.0004702    1 suicide
+	suicide WORD[312,   1]: 0.0004702 遺書
+TOKEN[313]: 0.0004702    1 corruption
+	corruption WORD[313,   1]: 0.0004702 潰乱
+TOKEN[314]: 0.0004696    1 burst
+	burst WORD[314,   1]: 0.0004696 決潰
+TOKEN[315]: 0.0004670    1 defeat
+	defeat WORD[315,   1]: 0.0004670 叩き潰す
+TOKEN[316]: 0.0004591    1 works
+	works WORD[316,   1]: 0.0004591 遺作
+TOKEN[317]: 0.0004583    1 close
+	close WORD[317,   1]: 0.0004583 潰す
+TOKEN[318]: 0.0004568    1 observation
+	observation WORD[318,   1]: 0.0004568 貴覧
+TOKEN[319]: 0.0004555    1 ill
+	ill WORD[319,   1]: 0.0004555 遺恨
+TOKEN[320]: 0.0004550    1 blow
+	blow WORD[320,   1]: 0.0004550 潰れる
+TOKEN[321]: 0.0004539    1 worn
+	worn WORD[321,   1]: 0.0004539 潰れる
+TOKEN[322]: 0.0004501    1 riches
+	riches WORD[322,   1]: 0.0004501 富貴
+TOKEN[323]: 0.0004469    1 reply
+	reply WORD[323,   1]: 0.0004469 貴酬
+TOKEN[324]: 0.0004427    1 priceless
+	priceless WORD[324,   1]: 0.0004427 貴い
+TOKEN[325]: 0.0004413    1 chance
+	chance WORD[325,   1]: 0.0004413 潰れる
+TOKEN[326]: 0.0004396    1 property
+	property WORD[326,   1]: 0.0004396 遺品
+TOKEN[327]: 0.0004354    1 bed
+	bed WORD[327,   1]: 0.0004354 遺尿
+TOKEN[328]: 0.0004309    1 sense
+	sense WORD[328,   1]: 0.0004309 潰れる
+TOKEN[329]: 0.0004264    1 voice
+	voice WORD[329,   1]: 0.0004264 潰れる
+TOKEN[330]: 0.0004250    1 exalted
+	exalted WORD[330,   1]: 0.0004250 貴い
+TOKEN[331]: 0.0004245    1 visitor
+	visitor WORD[331,   1]: 0.0004245 貴賓
+TOKEN[332]: 0.0004209    1 past
+	past WORD[332,   1]: 0.0004209 遺制
+TOKEN[333]: 0.0004168    1 force
+	force WORD[333,   1]: 0.0004168 潰す
+TOKEN[334]: 0.0004125    1 revere
+	revere WORD[334,   1]: 0.0004125 貴ぶ
+TOKEN[335]: 0.0004100    1 side
+	side WORD[335,   1]: 0.0004100 握り潰し
+TOKEN[336]: 0.0004018    1 heart
+	heart WORD[336,   1]: 0.0004018 潰れる
+TOKEN[337]: 0.0003993    1 loss
+	loss WORD[337,   1]: 0.0003993 遺失
+TOKEN[338]: 0.0003967    1 esteem
+	esteem WORD[338,   1]: 0.0003967 貴ぶ
+TOKEN[339]: 0.0003967    1 falling
+	falling WORD[339,   1]: 0.0003967 潰乱
+TOKEN[340]: 0.0003952    1 wealth
+	wealth WORD[340,   1]: 0.0003952 富貴
+TOKEN[341]: 0.0003894    1 war
+	war WORD[341,   1]: 0.0003894 遺骨
+TOKEN[342]: 0.0003889    1 organization
+	organization WORD[342,   1]: 0.0003889 潰乱
+TOKEN[343]: 0.0003889    1 use
+	use WORD[343,   1]: 0.0003889 潰す
+TOKEN[344]: 0.0003877    1 business
+	business WORD[344,   1]: 0.0003877 潰す
+TOKEN[345]: 0.0003867    1 male
+	male WORD[345,   1]: 0.0003867 貴公
+TOKEN[346]: 0.0003825    1 everything
+	everything WORD[346,   1]: 0.0003825 貴方任せ
+TOKEN[347]: 0.0003805    1 line
+	line WORD[347,   1]: 0.0003805 潰れ
+TOKEN[348]: 0.0003794    1 man
+	man WORD[348,   1]: 0.0003794 兄貴
+TOKEN[349]: 0.0003726    1 put
+	put WORD[349,   1]: 0.0003726 潰す
+TOKEN[350]: 0.0003694    1 food
+	food WORD[350,   1]: 0.0003694 潰す
+TOKEN[351]: 0.0003690    1 become
+	become WORD[351,   1]: 0.0003690 潰れる
+TOKEN[352]: 0.0003669    1 dignitary
+	dignitary WORD[352,   1]: 0.0003669 貴人
+TOKEN[353]: 0.0003645    1 appreciation
+	appreciation WORD[353,   1]: 0.0003645 騰貴
+TOKEN[354]: 0.0003618    1 Buddha
+	Buddha WORD[354,   1]: 0.0003618 貴方任せ
+TOKEN[355]: 0.0003592    1 care
+	care WORD[355,   1]: 0.0003592 貴方任せ
+TOKEN[356]: 0.0003461    1 peer
+	peer WORD[356,   1]: 0.0003461 貴族
+TOKEN[357]: 0.0003318    1 respect
+	respect WORD[357,   1]: 0.0003318 貴ぶ
+TOKEN[358]: 0.0003301    1 prize
+	prize WORD[358,   1]: 0.0003301 貴ぶ
+TOKEN[359]: 0.0003287    1 bastard
+	bastard WORD[359,   1]: 0.0003287 貴様
+TOKEN[360]: 0.0003276    1 bitch
+	bitch WORD[360,   1]: 0.0003276 貴様
+TOKEN[361]: 0.0003224    1 public
+	public WORD[361,   1]: 0.0003224 潰乱
+TOKEN[362]: 0.0003222    1 sacred
+	sacred WORD[362,   1]: 0.0003222 貴い
+TOKEN[363]: 0.0003190    1 main
+	main WORD[363,   1]: 0.0003190 三貴子
+TOKEN[364]: 0.0003176    1 order
+	order WORD[364,   1]: 0.0003176 潰乱
+TOKEN[365]: 0.0003122    1 honor
+	honor WORD[365,   1]: 0.0003122 貴ぶ
+TOKEN[366]: 0.0003076    1 nobleman
+	nobleman WORD[366,   1]: 0.0003076 貴人
+TOKEN[367]: 0.0003072    1 three
+	three WORD[367,   1]: 0.0003072 三貴子
+TOKEN[368]: 0.0003058    1 system
+	system WORD[368,   1]: 0.0003058 潰乱
+TOKEN[369]: 0.0002938    1 advance
+	advance WORD[369,   1]: 0.0002938 騰貴
+TOKEN[370]: 0.0002889    1 rise
+	rise WORD[370,   1]: 0.0002889 騰貴
+TOKEN[371]: 0.0002857    1 bank
+	bank WORD[371,   1]: 0.0002857 貴行
+TOKEN[372]: 0.0002832    1 take
+	take WORD[372,   1]: 0.0002832 貴方任せ
+TOKEN[373]: 0.0002805    1 son
+	son WORD[373,   1]: 0.0002805 貴様
+TOKEN[374]: 0.0002685    1 sister
+	sister WORD[374,   1]: 0.0002685 姉貴
+TOKEN[375]: 0.0002645    1 price
+	price WORD[375,   1]: 0.0002645 騰貴
+TOKEN[376]: 0.0002637    1 brother
+	brother WORD[376,   1]: 0.0002637 兄貴
+TOKEN[377]: 0.0002561    1 birth
+	birth WORD[377,   1]: 0.0002561 貴種
+TOKEN[378]: 0.0002514    1 senior
+	senior WORD[378,   1]: 0.0002514 兄貴
+TOKEN[379]: 0.0002473    1 friend
+	friend WORD[379,   1]: 0.0002473 姉貴
+TOKEN[380]: 0.0002466    1 party
+	party WORD[380,   1]: 0.0002466 貴信
+TOKEN[381]: 0.0002409    1 class
+	class WORD[381,   1]: 0.0002409 高貴
+TOKEN[382]: 0.0002350    1 country
+	country WORD[382,   1]: 0.0002350 貴国
+TOKEN[383]: 0.0002169    1 female
+	female WORD[383,   1]: 0.0002169 姉貴

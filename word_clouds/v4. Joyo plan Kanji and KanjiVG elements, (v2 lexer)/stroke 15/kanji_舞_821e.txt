@@ -1,0 +1,856 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0979548    5 kabuki         : 歌舞伎芝居, 歌舞伎踊り, 女歌舞伎, 歌舞伎, 歌舞妓
+0.0801637    1 play           : 歌舞伎芝居
+0.0652207   30 dance          : 男舞, 龍舞, 舞い納める, 巫女舞, 一人舞, 曲舞, 舞い踊る, 歌舞伎踊り, 小舞, 右舞, ...
+0.0341670    1 rushing        : きりきり舞い
+0.0260660   14 dancing        : 舞姿, 舞い散る, 楽舞, 舞い立つ, 輪舞, 舞姫, 舞曲, 舞い込む, 舞, 舞い, ...
+0.0252812    2 round          : きりきり舞い, 輪舞
+0.0225202    1 fluster        : きりきり舞い
+0.0209876    2 whirling       : きりきり舞い, 舞う
+0.0196159    5 dancer         : 男舞, 舞人, 舞手, 舞姫, 舞扇
+0.0172220    1 panic          : きりきり舞い
+0.0127792    1 working        : きりきり舞い
+0.0118707    3 going          : きりきり舞い, 店仕舞, 店仕舞い
+0.0115709    8 behavior       : 歌舞伎者, 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い, 振る舞い, 振舞, 振舞い
+0.0108379    2 person         : きりきり舞い, 一人舞
+0.0107185    4 business       : 仕舞屋, 店仕舞, 店仕舞い, 仕舞う
+0.0099334    1 man            : 男舞
+0.0082262    2 early          : 男舞, 歌舞伎踊り
+0.0079404    8 someone        : 振る舞い酒, 見舞う, 振る舞う, 振舞う, 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0077984    6 treat          : 振る舞い酒, 振る舞う, 振舞う, 振る舞い, 振舞, 振舞い
+0.0072557    7 behaviour      : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い, 振る舞い, 振舞, 振舞い
+0.0071939    7 fly            : 舞い立つ, 舞い降りる, 舞う, 舞いあがる, 舞い上がる, 舞い上る, 舞上がる
+0.0070396    5 music          : 舞殿, 舞曲, 舞楽, 歌舞伎, 歌舞妓
+0.0068799    1 mask           : 男舞
+0.0066192    2 shrine         : 巫女舞, 舞殿
+0.0065730    2 female         : 男舞, 舞姫
+0.0064613    3 flutter        : 舞い散る, 舞い落ちる, 舞う
+0.0062870    5 soar           : 舞い立つ, 舞いあがる, 舞い上がる, 舞い上る, 舞上がる
+0.0061672    1 culture        : 龍舞
+0.0061144    2 period         : 男舞, 右舞
+0.0059280    1 late           : 男舞
+0.0059227    4 deportment     : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0058112    1 dragon         : 龍舞
+0.0058091    1 sake           : 振る舞い酒
+0.0058035    1 maiden         : 巫女舞
+0.0057163    4 demeanor       : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0057146    1 gone           : 仕舞屋
+0.0056901    3 clothes        : 歌舞伎者, 仕舞, 仕舞い
+0.0056051    4 high           : 舞いあがる, 舞い上がる, 舞い上る, 舞上がる
+0.0052454    3 court          : 舞殿, 右舞, 舞楽
+0.0051428    2 close          : 手仕舞う, 仕舞う
+0.0051389    1 ceremonial     : 巫女舞
+0.0050660    4 farewell       : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0050242    4 carriage       : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0049971    4 whirled        : 舞いあがる, 舞い上がる, 舞い上る, 舞上がる
+0.0049843    2 lathing        : 小舞, 木舞
+0.0048959    4 manners        : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0048837    4 ecstatic       : 舞いあがる, 舞い上がる, 舞い上る, 舞上がる
+0.0048327    4 dinner         : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0046096    2 store          : 仕舞屋, 仕舞う
+0.0045649    4 bearing        : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0045027    1 household      : 仕舞屋
+0.0044439    5 conduct        : 振る舞う, 振舞う, 振る舞い, 振舞, 振舞い
+0.0044303    4 trip           : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0044037    3 whirl          : てんてこ舞い, 天手古舞, 舞う
+0.0043710    1 liquidation    : 手仕舞い
+0.0043351    1 peculiar       : 歌舞伎者
+0.0042479    4 given          : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0041481    1 eccentric      : 歌舞伎者
+0.0041071    1 carrying       : 仕舞屋
+0.0040505    1 recitative     : 曲舞
+0.0040265    4 merry          : 舞いあがる, 舞い上がる, 舞い上る, 舞上がる
+0.0040257    1 pavilion       : 舞殿
+0.0040040    2 hall           : 舞殿, 舞台
+0.0039588    1 Chinese        : 龍舞
+0.0039293    1 clearing       : 手仕舞い
+0.0039192    3 finish         : 仕舞う, 仕舞, 仕舞い
+0.0039171    1 single         : 一人舞
+0.0038031    2 accompaniment  : 小舞, 木舞
+0.0037868    3 finishing      : 早仕舞, 早仕舞い, 総仕舞
+0.0037805    4 leave          : 立ち振る舞い, 立ち振舞, 立ち振舞い, 立振舞い
+0.0036762    1 samurai        : 歌舞伎者
+0.0036241    1 attention      : 歌舞伎者
+0.0036023    6 make           : 舞いあがる, 舞い上がる, 舞い上る, 舞上がる, 振る舞う, 振舞う
+0.0035112    2 termination    : 仕舞, 仕舞い
+0.0034870    1 polypore       : 舞茸
+0.0033162    3 activity       : てんてこ舞い, 天手古舞, 舞台
+0.0032483    2 expression     : 見舞, 見舞い
+0.0031457    3 feast          : 振る舞い, 振舞, 振舞い
+0.0031444    1 stage          : 舞台
+0.0031372    2 leaves         : 舞い散る, 舞い込む
+0.0031212    2 flurry         : てんてこ舞い, 天手古舞
+0.0030974    3 end            : 仕舞う, 仕舞, 仕舞い
+0.0030701    2 busyness       : てんてこ舞い, 天手古舞
+0.0030435    1 public         : 歌舞伎者
+0.0029814    2 bamboo         : 小舞, 木舞
+0.0029520    1 Shinto         : 舞殿
+0.0029205    2 rushed         : てんてこ舞い, 天手古舞
+0.0029064    4 traditional    : 日舞, 京舞, 歌舞伎, 歌舞妓
+0.0028968    3 banquet        : 振る舞い, 振舞, 振舞い
+0.0028963    2 short          : 小舞, 木舞
+0.0028617    2 tea            : 振る舞う, 振舞う
+0.0028366    2 singing        : 楽舞, 歌舞
+0.0027975    3 entertainment  : 振る舞い, 振舞, 振舞い
+0.0027851    2 put            : 仕舞う, 仕舞い込む
+0.0027768    1 position       : 手仕舞う
+0.0027569    1 snail          : 舞々
+0.0026915    2 plain          : 仕舞, 仕舞い
+0.0026472    3 come           : 舞い込む, 舞い戻る, 舞戻る
+0.0025136    1 dressing       : 身仕舞い
+0.0024860    1 musical        : 舞曲
+0.0024611    2 distressed     : 見舞, 見舞い
+0.0024480    1 posture        : 舞姿
+0.0024258    2 busy           : てんてこ舞い, 天手古舞
+0.0023481    1 mushroom       : 舞茸
+0.0022216    1 stow           : 仕舞い込む
+0.0022102    2 go             : 身仕舞い, 見舞う
+0.0022031    2 circle         : 輪舞, 舞う
+0.0021457    2 behave         : 振る舞う, 振舞う
+0.0021067    1 variety        : 右舞
+0.0020999    1 swoop          : 舞い降りる
+0.0020972    2 entertain      : 振る舞う, 振舞う
+0.0020952    1 hoard          : 仕舞い込む
+0.0020693    1 conclude       : 舞い納める
+0.0020657    2 apprentice     : 舞妓, 舞子
+0.0020643    1 danseuse       : 舞姫
+0.0020413    1 figure         : 舞姿
+0.0020206    1 fall           : 舞い散る
+0.0019741    2 stopping       : 店仕舞, 店仕舞い
+0.0019724    2 enquiry        : 見舞, 見舞い
+0.0019447    3 one            : 舞姿, てんてこ舞い, 天手古舞
+0.0019350    2 inquiry        : 見舞, 見舞い
+0.0019265    1 song           : 楽舞
+0.0019128    2 visiting       : 見舞, 見舞い
+0.0019023    2 sympathy       : 見舞, 見舞い
+0.0018895    1 appearance     : 舞姿
+0.0018643    2 concern        : 見舞, 見舞い
+0.0018598    1 alight         : 舞い降りる
+0.0018350    2 ill            : 見舞, 見舞い
+0.0018325    1 upon           : 舞い降りる
+0.0018263    1 tuck           : 仕舞い込む
+0.0017694    1 species        : 舞茸
+0.0017683    1 scene          : 舞台
+0.0017668    2 work           : 早仕舞, 早仕舞い
+0.0017506    2 geisha         : 舞妓, 舞子
+0.0017042    2 performance    : 演舞, 舞台
+0.0016687    2 shop           : 店仕舞, 店仕舞い
+0.0016446    1 waltz          : 円舞
+0.0015826    1 tricky         : 舞文
+0.0015718    2 time           : てんてこ舞い, 天手古舞
+0.0015711    2 happen         : 舞い込む, 仕舞う
+0.0015608    2 done           : 連れ舞, 連舞
+0.0015317    2 drink          : 振る舞う, 振舞う
+0.0015107    1 manipulation   : 舞文
+0.0015062    2 drama          : 歌舞伎, 歌舞妓
+0.0015014    2 ceremony       : 振る舞う, 振舞う
+0.0014722    1 last           : 舞い納める
+0.0014711    2 writing        : 見舞, 見舞い
+0.0014704    1 rise           : 舞い立つ
+0.0014086    2 day            : 店仕舞, 店仕舞い
+0.0013877    2 people         : 見舞, 見舞い
+0.0013871    1 shut           : 仕舞う
+0.0013544    2 wearing        : 歌舞伎, 歌舞妓
+0.0013302    1 fan            : 舞扇
+0.0013203    1 girl           : 舞姫
+0.0012934    1 clever         : 舞文
+0.0012495    2 two            : 連れ舞, 連舞
+0.0012314    1 arena          : 舞台
+0.0012306    1 console        : 見舞う
+0.0012061    2 male           : 歌舞伎, 歌舞妓
+0.0011990    1 swirl          : 舞う
+0.0011784    1 boisterous     : 乱舞
+0.0011491    1 argument       : 舞文
+0.0011273    1 law            : 舞文
+0.0011246    1 advance        : 舞文
+0.0011167    1 concert        : 舞台
+0.0011099    1 fluttering     : 舞い込む
+0.0011083    1 selling        : 総仕舞
+0.0010809    2 white          : 歌舞伎, 歌舞妓
+0.0010741    1 job            : 総仕舞
+0.0010612    2 red            : 歌舞伎, 歌舞妓
+0.0010598    2 form           : 歌舞伎, 歌舞妓
+0.0010496    1 inquire        : 見舞う
+0.0010342    1 comfort        : 見舞う
+0.0010222    1 use            : 舞文
+0.0010162    1 hospital       : 見舞う
+0.0009829    1 punch          : 見舞う
+0.0009564    1 ask            : 見舞う
+0.0009345    1 wheel          : 舞う
+0.0009136    1 health         : 見舞う
+0.0009044    1 rousing        : 鼓舞
+0.0008823    1 morale         : 鼓舞
+0.0008770    1 see            : 見舞う
+0.0008742    1 deal           : 見舞う
+0.0008643    1 political      : 舞台
+0.0008633    1 sword          : 剣舞
+0.0008373    1 strike         : 見舞う
+0.0008362    1 hit            : 見舞う
+0.0008352    1 visit          : 見舞う
+0.0008327    1 failure        : 二の舞
+0.0008300    1 attack         : 見舞う
+0.0008249    1 drop           : 舞い込む
+0.0008209    1 setting        : 舞台
+0.0008089    1 stirring       : 鼓舞
+0.0007957    1 inspiration    : 鼓舞
+0.0007730    1 snow           : 舞い込む
+0.0007661    1 Japanese       : 日舞
+0.0007596    1 story          : 舞台
+0.0007357    1 encouragement  : 鼓舞
+0.0007298    1 wind           : 舞う
+0.0007286    1 style          : 舞踏
+0.0007245    1 world          : 舞台
+0.0006956    1 raising        : 鼓舞
+0.0006772    1 meaning        : 仕舞う
+0.0006232    1 stop           : 仕舞う
+0.0006159    1 keep           : 仕舞う
+0.0006016    1 bring          : 仕舞う
+0.0005882    1 group          : 群舞
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0979548    5 kabuki
+	kabuki WORD[ 1,   1]: 0.0920202 歌舞伎芝居
+	kabuki WORD[ 1,   2]: 0.0023344 歌舞伎踊り
+	kabuki WORD[ 1,   3]: 0.0023332 女歌舞伎
+	kabuki WORD[ 1,   4]: 0.0006335 歌舞伎
+	kabuki WORD[ 1,   5]: 0.0006335 歌舞妓
+TOKEN[ 2]: 0.0801637    1 play
+	play WORD[ 2,   1]: 0.0801637 歌舞伎芝居
+TOKEN[ 3]: 0.0652207   30 dance
+	dance WORD[ 3,   1]: 0.0116717 男舞
+	dance WORD[ 3,   2]: 0.0052942 龍舞
+	dance WORD[ 3,   3]: 0.0049221 舞い納める
+	dance WORD[ 3,   4]: 0.0046315 巫女舞
+	dance WORD[ 3,   5]: 0.0038872 一人舞
+	dance WORD[ 3,   6]: 0.0027202 曲舞
+	dance WORD[ 3,   7]: 0.0025824 舞い踊る
+	dance WORD[ 3,   8]: 0.0023018 歌舞伎踊り
+	dance WORD[ 3,   9]: 0.0022161 小舞
+	dance WORD[ 3,  10]: 0.0020601 右舞
+	dance WORD[ 3,  11]: 0.0020515 楽舞
+	dance WORD[ 3,  12]: 0.0016797 舞う
+	dance WORD[ 3,  13]: 0.0012473 輪舞
+	dance WORD[ 3,  14]: 0.0012372 洋舞
+	dance WORD[ 3,  15]: 0.0011702 舞曲
+	dance WORD[ 3,  16]: 0.0011596 日舞
+	dance WORD[ 3,  17]: 0.0010360 木舞
+	dance WORD[ 3,  18]: 0.0010096 剣舞
+	dance WORD[ 3,  19]: 0.0010038 京舞
+	dance WORD[ 3,  20]: 0.0009680 演舞
+	dance WORD[ 3,  21]: 0.0009069 乱舞
+	dance WORD[ 3,  22]: 0.0008389 舞
+	dance WORD[ 3,  23]: 0.0008389 舞い
+	dance WORD[ 3,  24]: 0.0008280 舞踊
+	dance WORD[ 3,  25]: 0.0008280 舞踏
+	dance WORD[ 3,  26]: 0.0008269 舞楽
+	dance WORD[ 3,  27]: 0.0007267 連れ舞
+	dance WORD[ 3,  28]: 0.0007267 連舞
+	dance WORD[ 3,  29]: 0.0006698 仕舞
+	dance WORD[ 3,  30]: 0.0006698 仕舞い
+TOKEN[ 4]: 0.0341670    1 rushing
+	rushing WORD[ 4,   1]: 0.0341670 きりきり舞い
+TOKEN[ 5]: 0.0260660   14 dancing
+	dancing WORD[ 5,   1]: 0.0072906 舞姿
+	dancing WORD[ 5,   2]: 0.0027299 舞い散る
+	dancing WORD[ 5,   3]: 0.0023635 楽舞
+	dancing WORD[ 5,   4]: 0.0018767 舞い立つ
+	dancing WORD[ 5,   5]: 0.0014370 輪舞
+	dancing WORD[ 5,   6]: 0.0013998 舞姫
+	dancing WORD[ 5,   7]: 0.0013482 舞曲
+	dancing WORD[ 5,   8]: 0.0009668 舞い込む
+	dancing WORD[ 5,   9]: 0.0009665 舞
+	dancing WORD[ 5,  10]: 0.0009665 舞い
+	dancing WORD[ 5,  11]: 0.0009539 舞踊
+	dancing WORD[ 5,  12]: 0.0009539 舞踏
+	dancing WORD[ 5,  13]: 0.0007447 群舞
+	dancing WORD[ 5,  14]: 0.0007197 歌舞
+TOKEN[ 6]: 0.0252812    2 round
+	round WORD[ 6,   1]: 0.0241451 きりきり舞い
+	round WORD[ 6,   2]: 0.0011361 輪舞
+TOKEN[ 7]: 0.0225202    1 fluster
+	fluster WORD[ 7,   1]: 0.0225202 きりきり舞い
+TOKEN[ 8]: 0.0209876    2 whirling
+	whirling WORD[ 8,   1]: 0.0197371 きりきり舞い
+	whirling WORD[ 8,   2]: 0.0012506 舞う
+TOKEN[ 9]: 0.0196159    5 dancer
+	dancer WORD[ 9,   1]: 0.0077957 男舞
+	dancer WORD[ 9,   2]: 0.0056108 舞人
+	dancer WORD[ 9,   3]: 0.0029634 舞手
+	dancer WORD[ 9,   4]: 0.0016230 舞姫
+	dancer WORD[ 9,   5]: 0.0016230 舞扇
+TOKEN[10]: 0.0172220    1 panic
+	panic WORD[10,   1]: 0.0172220 きりきり舞い
+TOKEN[11]: 0.0127792    1 working
+	working WORD[11,   1]: 0.0127792 きりきり舞い
+TOKEN[12]: 0.0118707    3 going
+	going WORD[12,   1]: 0.0105118 きりきり舞い
+	going WORD[12,   2]: 0.0006794 店仕舞
+	going WORD[12,   3]: 0.0006794 店仕舞い
+TOKEN[13]: 0.0115709    8 behavior
+	behavior WORD[13,   1]: 0.0040317 歌舞伎者
+	behavior WORD[13,   2]: 0.0011938 立ち振る舞い
+	behavior WORD[13,   3]: 0.0011938 立ち振舞
+	behavior WORD[13,   4]: 0.0011937 立ち振舞い
+	behavior WORD[13,   5]: 0.0011937 立振舞い
+	behavior WORD[13,   6]: 0.0009214 振る舞い
+	behavior WORD[13,   7]: 0.0009214 振舞
+	behavior WORD[13,   8]: 0.0009214 振舞い
+TOKEN[14]: 0.0108379    2 person
+	person WORD[14,   1]: 0.0083803 きりきり舞い
+	person WORD[14,   2]: 0.0024577 一人舞
+TOKEN[15]: 0.0107185    4 business
+	business WORD[15,   1]: 0.0071296 仕舞屋
+	business WORD[15,   2]: 0.0015010 店仕舞
+	business WORD[15,   3]: 0.0015010 店仕舞い
+	business WORD[15,   4]: 0.0005868 仕舞う
+TOKEN[16]: 0.0099334    1 man
+	man WORD[16,   1]: 0.0099334 男舞
+TOKEN[17]: 0.0082262    2 early
+	early WORD[17,   1]: 0.0058993 男舞
+	early WORD[17,   2]: 0.0023269 歌舞伎踊り
+TOKEN[18]: 0.0079404    8 someone
+	someone WORD[18,   1]: 0.0020307 振る舞い酒
+	someone WORD[18,   2]: 0.0010948 見舞う
+	someone WORD[18,   3]: 0.0010488 振る舞う
+	someone WORD[18,   4]: 0.0010488 振舞う
+	someone WORD[18,   5]: 0.0006794 立ち振る舞い
+	someone WORD[18,   6]: 0.0006794 立ち振舞
+	someone WORD[18,   7]: 0.0006794 立ち振舞い
+	someone WORD[18,   8]: 0.0006794 立振舞い
+TOKEN[19]: 0.0077984    6 treat
+	treat WORD[19,   1]: 0.0034037 振る舞い酒
+	treat WORD[19,   2]: 0.0008789 振る舞う
+	treat WORD[19,   3]: 0.0008789 振舞う
+	treat WORD[19,   4]: 0.0008789 振る舞い
+	treat WORD[19,   5]: 0.0008789 振舞
+	treat WORD[19,   6]: 0.0008789 振舞い
+TOKEN[20]: 0.0072557    7 behaviour
+	behaviour WORD[20,   1]: 0.0011489 立ち振る舞い
+	behaviour WORD[20,   2]: 0.0011489 立ち振舞
+	behaviour WORD[20,   3]: 0.0011489 立ち振舞い
+	behaviour WORD[20,   4]: 0.0011489 立振舞い
+	behaviour WORD[20,   5]: 0.0008867 振る舞い
+	behaviour WORD[20,   6]: 0.0008867 振舞
+	behaviour WORD[20,   7]: 0.0008867 振舞い
+TOKEN[21]: 0.0071939    7 fly
+	fly WORD[21,   1]: 0.0016124 舞い立つ
+	fly WORD[21,   2]: 0.0014284 舞い降りる
+	fly WORD[21,   3]: 0.0008313 舞う
+	fly WORD[21,   4]: 0.0008305 舞いあがる
+	fly WORD[21,   5]: 0.0008305 舞い上がる
+	fly WORD[21,   6]: 0.0008305 舞い上る
+	fly WORD[21,   7]: 0.0008305 舞上がる
+TOKEN[22]: 0.0070396    5 music
+	music WORD[22,   1]: 0.0027707 舞殿
+	music WORD[22,   2]: 0.0011310 舞曲
+	music WORD[22,   3]: 0.0007992 舞楽
+	music WORD[22,   4]: 0.0006038 歌舞伎
+	music WORD[22,   5]: 0.0006038 歌舞妓
+TOKEN[23]: 0.0068799    1 mask
+	mask WORD[23,   1]: 0.0068799 男舞
+TOKEN[24]: 0.0066192    2 shrine
+	shrine WORD[24,   1]: 0.0040886 巫女舞
+	shrine WORD[24,   2]: 0.0025307 舞殿
+TOKEN[25]: 0.0065730    2 female
+	female WORD[25,   1]: 0.0054403 男舞
+	female WORD[25,   2]: 0.0011327 舞姫
+TOKEN[26]: 0.0064613    3 flutter
+	flutter WORD[26,   1]: 0.0030539 舞い散る
+	flutter WORD[26,   2]: 0.0023250 舞い落ちる
+	flutter WORD[26,   3]: 0.0010824 舞う
+TOKEN[27]: 0.0062870    5 soar
+	soar WORD[27,   1]: 0.0020544 舞い立つ
+	soar WORD[27,   2]: 0.0010582 舞いあがる
+	soar WORD[27,   3]: 0.0010582 舞い上がる
+	soar WORD[27,   4]: 0.0010582 舞い上る
+	soar WORD[27,   5]: 0.0010581 舞上がる
+TOKEN[28]: 0.0061672    1 culture
+	culture WORD[28,   1]: 0.0061672 龍舞
+TOKEN[29]: 0.0061144    2 period
+	period WORD[29,   1]: 0.0045191 男舞
+	period WORD[29,   2]: 0.0015953 右舞
+TOKEN[30]: 0.0059280    1 late
+	late WORD[30,   1]: 0.0059280 男舞
+TOKEN[31]: 0.0059227    4 deportment
+	deportment WORD[31,   1]: 0.0014807 立ち振る舞い
+	deportment WORD[31,   2]: 0.0014807 立ち振舞
+	deportment WORD[31,   3]: 0.0014807 立ち振舞い
+	deportment WORD[31,   4]: 0.0014807 立振舞い
+TOKEN[32]: 0.0058112    1 dragon
+	dragon WORD[32,   1]: 0.0058112 龍舞
+TOKEN[33]: 0.0058091    1 sake
+	sake WORD[33,   1]: 0.0058091 振る舞い酒
+TOKEN[34]: 0.0058035    1 maiden
+	maiden WORD[34,   1]: 0.0058035 巫女舞
+TOKEN[35]: 0.0057163    4 demeanor
+	demeanor WORD[35,   1]: 0.0014291 立ち振る舞い
+	demeanor WORD[35,   2]: 0.0014291 立ち振舞
+	demeanor WORD[35,   3]: 0.0014291 立ち振舞い
+	demeanor WORD[35,   4]: 0.0014291 立振舞い
+TOKEN[36]: 0.0057146    1 gone
+	gone WORD[36,   1]: 0.0057146 仕舞屋
+TOKEN[37]: 0.0056901    3 clothes
+	clothes WORD[37,   1]: 0.0032673 歌舞伎者
+	clothes WORD[37,   2]: 0.0006057 仕舞
+	clothes WORD[37,   3]: 0.0006057 仕舞い
+TOKEN[38]: 0.0056051    4 high
+	high WORD[38,   1]: 0.0014013 舞いあがる
+	high WORD[38,   2]: 0.0014013 舞い上がる
+	high WORD[38,   3]: 0.0014013 舞い上る
+	high WORD[38,   4]: 0.0014013 舞上がる
+TOKEN[39]: 0.0052454    3 court
+	court WORD[39,   1]: 0.0026134 舞殿
+	court WORD[39,   2]: 0.0018781 右舞
+	court WORD[39,   3]: 0.0007539 舞楽
+TOKEN[40]: 0.0051428    2 close
+	close WORD[40,   1]: 0.0031980 手仕舞う
+	close WORD[40,   2]: 0.0019447 仕舞う
+TOKEN[41]: 0.0051389    1 ceremonial
+	ceremonial WORD[41,   1]: 0.0051389 巫女舞
+TOKEN[42]: 0.0050660    4 farewell
+	farewell WORD[42,   1]: 0.0012665 立ち振る舞い
+	farewell WORD[42,   2]: 0.0012665 立ち振舞
+	farewell WORD[42,   3]: 0.0012665 立ち振舞い
+	farewell WORD[42,   4]: 0.0012665 立振舞い
+TOKEN[43]: 0.0050242    4 carriage
+	carriage WORD[43,   1]: 0.0012560 立ち振る舞い
+	carriage WORD[43,   2]: 0.0012560 立ち振舞
+	carriage WORD[43,   3]: 0.0012560 立ち振舞い
+	carriage WORD[43,   4]: 0.0012560 立振舞い
+TOKEN[44]: 0.0049971    4 whirled
+	whirled WORD[44,   1]: 0.0012493 舞いあがる
+	whirled WORD[44,   2]: 0.0012493 舞い上がる
+	whirled WORD[44,   3]: 0.0012493 舞い上る
+	whirled WORD[44,   4]: 0.0012493 舞上がる
+TOKEN[45]: 0.0049843    2 lathing
+	lathing WORD[45,   1]: 0.0033965 小舞
+	lathing WORD[45,   2]: 0.0015878 木舞
+TOKEN[46]: 0.0048959    4 manners
+	manners WORD[46,   1]: 0.0012240 立ち振る舞い
+	manners WORD[46,   2]: 0.0012240 立ち振舞
+	manners WORD[46,   3]: 0.0012240 立ち振舞い
+	manners WORD[46,   4]: 0.0012240 立振舞い
+TOKEN[47]: 0.0048837    4 ecstatic
+	ecstatic WORD[47,   1]: 0.0012209 舞いあがる
+	ecstatic WORD[47,   2]: 0.0012209 舞い上がる
+	ecstatic WORD[47,   3]: 0.0012209 舞い上る
+	ecstatic WORD[47,   4]: 0.0012209 舞上がる
+TOKEN[48]: 0.0048327    4 dinner
+	dinner WORD[48,   1]: 0.0012082 立ち振る舞い
+	dinner WORD[48,   2]: 0.0012082 立ち振舞
+	dinner WORD[48,   3]: 0.0012082 立ち振舞い
+	dinner WORD[48,   4]: 0.0012082 立振舞い
+TOKEN[49]: 0.0046096    2 store
+	store WORD[49,   1]: 0.0039580 仕舞屋
+	store WORD[49,   2]: 0.0006515 仕舞う
+TOKEN[50]: 0.0045649    4 bearing
+	bearing WORD[50,   1]: 0.0011412 立ち振る舞い
+	bearing WORD[50,   2]: 0.0011412 立ち振舞
+	bearing WORD[50,   3]: 0.0011412 立ち振舞い
+	bearing WORD[50,   4]: 0.0011412 立振舞い
+TOKEN[51]: 0.0045027    1 household
+	household WORD[51,   1]: 0.0045027 仕舞屋
+TOKEN[52]: 0.0044439    5 conduct
+	conduct WORD[52,   1]: 0.0008888 振る舞う
+	conduct WORD[52,   2]: 0.0008888 振舞う
+	conduct WORD[52,   3]: 0.0008888 振る舞い
+	conduct WORD[52,   4]: 0.0008888 振舞
+	conduct WORD[52,   5]: 0.0008888 振舞い
+TOKEN[53]: 0.0044303    4 trip
+	trip WORD[53,   1]: 0.0011076 立ち振る舞い
+	trip WORD[53,   2]: 0.0011076 立ち振舞
+	trip WORD[53,   3]: 0.0011076 立ち振舞い
+	trip WORD[53,   4]: 0.0011076 立振舞い
+TOKEN[54]: 0.0044037    3 whirl
+	whirl WORD[54,   1]: 0.0015908 てんてこ舞い
+	whirl WORD[54,   2]: 0.0015908 天手古舞
+	whirl WORD[54,   3]: 0.0012222 舞う
+TOKEN[55]: 0.0043710    1 liquidation
+	liquidation WORD[55,   1]: 0.0043710 手仕舞い
+TOKEN[56]: 0.0043351    1 peculiar
+	peculiar WORD[56,   1]: 0.0043351 歌舞伎者
+TOKEN[57]: 0.0042479    4 given
+	given WORD[57,   1]: 0.0010620 立ち振る舞い
+	given WORD[57,   2]: 0.0010620 立ち振舞
+	given WORD[57,   3]: 0.0010620 立ち振舞い
+	given WORD[57,   4]: 0.0010620 立振舞い
+TOKEN[58]: 0.0041481    1 eccentric
+	eccentric WORD[58,   1]: 0.0041481 歌舞伎者
+TOKEN[59]: 0.0041071    1 carrying
+	carrying WORD[59,   1]: 0.0041071 仕舞屋
+TOKEN[60]: 0.0040505    1 recitative
+	recitative WORD[60,   1]: 0.0040505 曲舞
+TOKEN[61]: 0.0040265    4 merry
+	merry WORD[61,   1]: 0.0010066 舞いあがる
+	merry WORD[61,   2]: 0.0010066 舞い上がる
+	merry WORD[61,   3]: 0.0010066 舞い上る
+	merry WORD[61,   4]: 0.0010066 舞上がる
+TOKEN[62]: 0.0040257    1 pavilion
+	pavilion WORD[62,   1]: 0.0040257 舞殿
+TOKEN[63]: 0.0040040    2 hall
+	hall WORD[63,   1]: 0.0031076 舞殿
+	hall WORD[63,   2]: 0.0008965 舞台
+TOKEN[64]: 0.0039588    1 Chinese
+	Chinese WORD[64,   1]: 0.0039588 龍舞
+TOKEN[65]: 0.0039293    1 clearing
+	clearing WORD[65,   1]: 0.0039293 手仕舞い
+TOKEN[66]: 0.0039192    3 finish
+	finish WORD[66,   1]: 0.0013065 仕舞う
+	finish WORD[66,   2]: 0.0006532 仕舞
+	finish WORD[66,   3]: 0.0006532 仕舞い
+TOKEN[67]: 0.0039171    1 single
+	single WORD[67,   1]: 0.0039171 一人舞
+TOKEN[68]: 0.0038031    2 accompaniment
+	accompaniment WORD[68,   1]: 0.0025916 小舞
+	accompaniment WORD[68,   2]: 0.0012115 木舞
+TOKEN[69]: 0.0037868    3 finishing
+	finishing WORD[69,   1]: 0.0012759 早仕舞
+	finishing WORD[69,   2]: 0.0012759 早仕舞い
+	finishing WORD[69,   3]: 0.0012350 総仕舞
+TOKEN[70]: 0.0037805    4 leave
+	leave WORD[70,   1]: 0.0009451 立ち振る舞い
+	leave WORD[70,   2]: 0.0009451 立ち振舞
+	leave WORD[70,   3]: 0.0009451 立ち振舞い
+	leave WORD[70,   4]: 0.0009451 立振舞い
+TOKEN[71]: 0.0036762    1 samurai
+	samurai WORD[71,   1]: 0.0036762 歌舞伎者
+TOKEN[72]: 0.0036241    1 attention
+	attention WORD[72,   1]: 0.0036241 歌舞伎者
+TOKEN[73]: 0.0036023    6 make
+	make WORD[73,   1]: 0.0006036 舞いあがる
+	make WORD[73,   2]: 0.0006036 舞い上がる
+	make WORD[73,   3]: 0.0006036 舞い上る
+	make WORD[73,   4]: 0.0006036 舞上がる
+	make WORD[73,   5]: 0.0005940 振る舞う
+	make WORD[73,   6]: 0.0005940 振舞う
+TOKEN[74]: 0.0035112    2 termination
+	termination WORD[74,   1]: 0.0008778 仕舞
+	termination WORD[74,   2]: 0.0008778 仕舞い
+TOKEN[75]: 0.0034870    1 polypore
+	polypore WORD[75,   1]: 0.0034870 舞茸
+TOKEN[76]: 0.0033162    3 activity
+	activity WORD[76,   1]: 0.0012030 てんてこ舞い
+	activity WORD[76,   2]: 0.0012030 天手古舞
+	activity WORD[76,   3]: 0.0009102 舞台
+TOKEN[77]: 0.0032483    2 expression
+	expression WORD[77,   1]: 0.0016241 見舞
+	expression WORD[77,   2]: 0.0016241 見舞い
+TOKEN[78]: 0.0031457    3 feast
+	feast WORD[78,   1]: 0.0010486 振る舞い
+	feast WORD[78,   2]: 0.0010486 振舞
+	feast WORD[78,   3]: 0.0010485 振舞い
+TOKEN[79]: 0.0031444    1 stage
+	stage WORD[79,   1]: 0.0031444 舞台
+TOKEN[80]: 0.0031372    2 leaves
+	leaves WORD[80,   1]: 0.0023167 舞い散る
+	leaves WORD[80,   2]: 0.0008205 舞い込む
+TOKEN[81]: 0.0031212    2 flurry
+	flurry WORD[81,   1]: 0.0015606 てんてこ舞い
+	flurry WORD[81,   2]: 0.0015606 天手古舞
+TOKEN[82]: 0.0030974    3 end
+	end WORD[82,   1]: 0.0010325 仕舞う
+	end WORD[82,   2]: 0.0005162 仕舞
+	end WORD[82,   3]: 0.0005162 仕舞い
+TOKEN[83]: 0.0030701    2 busyness
+	busyness WORD[83,   1]: 0.0015351 てんてこ舞い
+	busyness WORD[83,   2]: 0.0015351 天手古舞
+TOKEN[84]: 0.0030435    1 public
+	public WORD[84,   1]: 0.0030435 歌舞伎者
+TOKEN[85]: 0.0029814    2 bamboo
+	bamboo WORD[85,   1]: 0.0020316 小舞
+	bamboo WORD[85,   2]: 0.0009497 木舞
+TOKEN[86]: 0.0029520    1 Shinto
+	Shinto WORD[86,   1]: 0.0029520 舞殿
+TOKEN[87]: 0.0029205    2 rushed
+	rushed WORD[87,   1]: 0.0014602 てんてこ舞い
+	rushed WORD[87,   2]: 0.0014602 天手古舞
+TOKEN[88]: 0.0029064    4 traditional
+	traditional WORD[88,   1]: 0.0009875 日舞
+	traditional WORD[88,   2]: 0.0008548 京舞
+	traditional WORD[88,   3]: 0.0005320 歌舞伎
+	traditional WORD[88,   4]: 0.0005320 歌舞妓
+TOKEN[89]: 0.0028968    3 banquet
+	banquet WORD[89,   1]: 0.0009656 振る舞い
+	banquet WORD[89,   2]: 0.0009656 振舞
+	banquet WORD[89,   3]: 0.0009656 振舞い
+TOKEN[90]: 0.0028963    2 short
+	short WORD[90,   1]: 0.0019736 小舞
+	short WORD[90,   2]: 0.0009226 木舞
+TOKEN[91]: 0.0028617    2 tea
+	tea WORD[91,   1]: 0.0014308 振る舞う
+	tea WORD[91,   2]: 0.0014308 振舞う
+TOKEN[92]: 0.0028366    2 singing
+	singing WORD[92,   1]: 0.0021744 楽舞
+	singing WORD[92,   2]: 0.0006621 歌舞
+TOKEN[93]: 0.0027975    3 entertainment
+	entertainment WORD[93,   1]: 0.0009325 振る舞い
+	entertainment WORD[93,   2]: 0.0009325 振舞
+	entertainment WORD[93,   3]: 0.0009325 振舞い
+TOKEN[94]: 0.0027851    2 put
+	put WORD[94,   1]: 0.0015984 仕舞う
+	put WORD[94,   2]: 0.0011867 仕舞い込む
+TOKEN[95]: 0.0027768    1 position
+	position WORD[95,   1]: 0.0027768 手仕舞う
+TOKEN[96]: 0.0027569    1 snail
+	snail WORD[96,   1]: 0.0027569 舞々
+TOKEN[97]: 0.0026915    2 plain
+	plain WORD[97,   1]: 0.0006729 仕舞
+	plain WORD[97,   2]: 0.0006729 仕舞い
+TOKEN[98]: 0.0026472    3 come
+	come WORD[98,   1]: 0.0013234 舞い込む
+	come WORD[98,   2]: 0.0006619 舞い戻る
+	come WORD[98,   3]: 0.0006619 舞戻る
+TOKEN[99]: 0.0025136    1 dressing
+	dressing WORD[99,   1]: 0.0025136 身仕舞い
+TOKEN[100]: 0.0024860    1 musical
+	musical WORD[100,   1]: 0.0012430 舞曲
+TOKEN[101]: 0.0024611    2 distressed
+	distressed WORD[101,   1]: 0.0012306 見舞
+	distressed WORD[101,   2]: 0.0012306 見舞い
+TOKEN[102]: 0.0024480    1 posture
+	posture WORD[102,   1]: 0.0024480 舞姿
+TOKEN[103]: 0.0024258    2 busy
+	busy WORD[103,   1]: 0.0012129 てんてこ舞い
+	busy WORD[103,   2]: 0.0012129 天手古舞
+TOKEN[104]: 0.0023481    1 mushroom
+	mushroom WORD[104,   1]: 0.0023481 舞茸
+TOKEN[105]: 0.0022216    1 stow
+	stow WORD[105,   1]: 0.0022216 仕舞い込む
+TOKEN[106]: 0.0022102    2 go
+	go WORD[106,   1]: 0.0015758 身仕舞い
+	go WORD[106,   2]: 0.0006344 見舞う
+TOKEN[107]: 0.0022031    2 circle
+	circle WORD[107,   1]: 0.0013166 輪舞
+	circle WORD[107,   2]: 0.0008865 舞う
+TOKEN[108]: 0.0021457    2 behave
+	behave WORD[108,   1]: 0.0010729 振る舞う
+	behave WORD[108,   2]: 0.0010729 振舞う
+TOKEN[109]: 0.0021067    1 variety
+	variety WORD[109,   1]: 0.0021067 右舞
+TOKEN[110]: 0.0020999    1 swoop
+	swoop WORD[110,   1]: 0.0020999 舞い降りる
+TOKEN[111]: 0.0020972    2 entertain
+	entertain WORD[111,   1]: 0.0010486 振る舞う
+	entertain WORD[111,   2]: 0.0010486 振舞う
+TOKEN[112]: 0.0020952    1 hoard
+	hoard WORD[112,   1]: 0.0020952 仕舞い込む
+TOKEN[113]: 0.0020693    1 conclude
+	conclude WORD[113,   1]: 0.0020693 舞い納める
+TOKEN[114]: 0.0020657    2 apprentice
+	apprentice WORD[114,   1]: 0.0010329 舞妓
+	apprentice WORD[114,   2]: 0.0010328 舞子
+TOKEN[115]: 0.0020643    1 danseuse
+	danseuse WORD[115,   1]: 0.0020643 舞姫
+TOKEN[116]: 0.0020413    1 figure
+	figure WORD[116,   1]: 0.0020413 舞姿
+TOKEN[117]: 0.0020206    1 fall
+	fall WORD[117,   1]: 0.0020206 舞い散る
+TOKEN[118]: 0.0019741    2 stopping
+	stopping WORD[118,   1]: 0.0009871 店仕舞
+	stopping WORD[118,   2]: 0.0009870 店仕舞い
+TOKEN[119]: 0.0019724    2 enquiry
+	enquiry WORD[119,   1]: 0.0009862 見舞
+	enquiry WORD[119,   2]: 0.0009862 見舞い
+TOKEN[120]: 0.0019447    3 one
+	one WORD[120,   1]: 0.0009549 舞姿
+	one WORD[120,   2]: 0.0004949 てんてこ舞い
+	one WORD[120,   3]: 0.0004949 天手古舞
+TOKEN[121]: 0.0019350    2 inquiry
+	inquiry WORD[121,   1]: 0.0009675 見舞
+	inquiry WORD[121,   2]: 0.0009675 見舞い
+TOKEN[122]: 0.0019265    1 song
+	song WORD[122,   1]: 0.0019265 楽舞
+TOKEN[123]: 0.0019128    2 visiting
+	visiting WORD[123,   1]: 0.0009564 見舞
+	visiting WORD[123,   2]: 0.0009564 見舞い
+TOKEN[124]: 0.0019023    2 sympathy
+	sympathy WORD[124,   1]: 0.0009512 見舞
+	sympathy WORD[124,   2]: 0.0009512 見舞い
+TOKEN[125]: 0.0018895    1 appearance
+	appearance WORD[125,   1]: 0.0018895 舞姿
+TOKEN[126]: 0.0018643    2 concern
+	concern WORD[126,   1]: 0.0009321 見舞
+	concern WORD[126,   2]: 0.0009321 見舞い
+TOKEN[127]: 0.0018598    1 alight
+	alight WORD[127,   1]: 0.0018598 舞い降りる
+TOKEN[128]: 0.0018350    2 ill
+	ill WORD[128,   1]: 0.0009175 見舞
+	ill WORD[128,   2]: 0.0009175 見舞い
+TOKEN[129]: 0.0018325    1 upon
+	upon WORD[129,   1]: 0.0018325 舞い降りる
+TOKEN[130]: 0.0018263    1 tuck
+	tuck WORD[130,   1]: 0.0018263 仕舞い込む
+TOKEN[131]: 0.0017694    1 species
+	species WORD[131,   1]: 0.0017694 舞茸
+TOKEN[132]: 0.0017683    1 scene
+	scene WORD[132,   1]: 0.0017683 舞台
+TOKEN[133]: 0.0017668    2 work
+	work WORD[133,   1]: 0.0008834 早仕舞
+	work WORD[133,   2]: 0.0008834 早仕舞い
+TOKEN[134]: 0.0017506    2 geisha
+	geisha WORD[134,   1]: 0.0008753 舞妓
+	geisha WORD[134,   2]: 0.0008753 舞子
+TOKEN[135]: 0.0017042    2 performance
+	performance WORD[135,   1]: 0.0009190 演舞
+	performance WORD[135,   2]: 0.0007852 舞台
+TOKEN[136]: 0.0016687    2 shop
+	shop WORD[136,   1]: 0.0008344 店仕舞
+	shop WORD[136,   2]: 0.0008344 店仕舞い
+TOKEN[137]: 0.0016446    1 waltz
+	waltz WORD[137,   1]: 0.0016446 円舞
+TOKEN[138]: 0.0015826    1 tricky
+	tricky WORD[138,   1]: 0.0015826 舞文
+TOKEN[139]: 0.0015718    2 time
+	time WORD[139,   1]: 0.0007859 てんてこ舞い
+	time WORD[139,   2]: 0.0007859 天手古舞
+TOKEN[140]: 0.0015711    2 happen
+	happen WORD[140,   1]: 0.0008737 舞い込む
+	happen WORD[140,   2]: 0.0006974 仕舞う
+TOKEN[141]: 0.0015608    2 done
+	done WORD[141,   1]: 0.0007804 連れ舞
+	done WORD[141,   2]: 0.0007804 連舞
+TOKEN[142]: 0.0015317    2 drink
+	drink WORD[142,   1]: 0.0007659 振る舞う
+	drink WORD[142,   2]: 0.0007659 振舞う
+TOKEN[143]: 0.0015107    1 manipulation
+	manipulation WORD[143,   1]: 0.0015107 舞文
+TOKEN[144]: 0.0015062    2 drama
+	drama WORD[144,   1]: 0.0007531 歌舞伎
+	drama WORD[144,   2]: 0.0007531 歌舞妓
+TOKEN[145]: 0.0015014    2 ceremony
+	ceremony WORD[145,   1]: 0.0007507 振る舞う
+	ceremony WORD[145,   2]: 0.0007507 振舞う
+TOKEN[146]: 0.0014722    1 last
+	last WORD[146,   1]: 0.0014722 舞い納める
+TOKEN[147]: 0.0014711    2 writing
+	writing WORD[147,   1]: 0.0007355 見舞
+	writing WORD[147,   2]: 0.0007355 見舞い
+TOKEN[148]: 0.0014704    1 rise
+	rise WORD[148,   1]: 0.0014704 舞い立つ
+TOKEN[149]: 0.0014086    2 day
+	day WORD[149,   1]: 0.0007043 店仕舞
+	day WORD[149,   2]: 0.0007043 店仕舞い
+TOKEN[150]: 0.0013877    2 people
+	people WORD[150,   1]: 0.0006939 見舞
+	people WORD[150,   2]: 0.0006939 見舞い
+TOKEN[151]: 0.0013871    1 shut
+	shut WORD[151,   1]: 0.0013871 仕舞う
+TOKEN[152]: 0.0013544    2 wearing
+	wearing WORD[152,   1]: 0.0006772 歌舞伎
+	wearing WORD[152,   2]: 0.0006772 歌舞妓
+TOKEN[153]: 0.0013302    1 fan
+	fan WORD[153,   1]: 0.0013302 舞扇
+TOKEN[154]: 0.0013203    1 girl
+	girl WORD[154,   1]: 0.0013203 舞姫
+TOKEN[155]: 0.0012934    1 clever
+	clever WORD[155,   1]: 0.0012934 舞文
+TOKEN[156]: 0.0012495    2 two
+	two WORD[156,   1]: 0.0006248 連れ舞
+	two WORD[156,   2]: 0.0006248 連舞
+TOKEN[157]: 0.0012314    1 arena
+	arena WORD[157,   1]: 0.0012314 舞台
+TOKEN[158]: 0.0012306    1 console
+	console WORD[158,   1]: 0.0012306 見舞う
+TOKEN[159]: 0.0012061    2 male
+	male WORD[159,   1]: 0.0006030 歌舞伎
+	male WORD[159,   2]: 0.0006030 歌舞妓
+TOKEN[160]: 0.0011990    1 swirl
+	swirl WORD[160,   1]: 0.0011990 舞う
+TOKEN[161]: 0.0011784    1 boisterous
+	boisterous WORD[161,   1]: 0.0011784 乱舞
+TOKEN[162]: 0.0011491    1 argument
+	argument WORD[162,   1]: 0.0011491 舞文
+TOKEN[163]: 0.0011273    1 law
+	law WORD[163,   1]: 0.0011273 舞文
+TOKEN[164]: 0.0011246    1 advance
+	advance WORD[164,   1]: 0.0011246 舞文
+TOKEN[165]: 0.0011167    1 concert
+	concert WORD[165,   1]: 0.0011167 舞台
+TOKEN[166]: 0.0011099    1 fluttering
+	fluttering WORD[166,   1]: 0.0011099 舞い込む
+TOKEN[167]: 0.0011083    1 selling
+	selling WORD[167,   1]: 0.0011083 総仕舞
+TOKEN[168]: 0.0010809    2 white
+	white WORD[168,   1]: 0.0005405 歌舞伎
+	white WORD[168,   2]: 0.0005405 歌舞妓
+TOKEN[169]: 0.0010741    1 job
+	job WORD[169,   1]: 0.0010741 総仕舞
+TOKEN[170]: 0.0010612    2 red
+	red WORD[170,   1]: 0.0005306 歌舞伎
+	red WORD[170,   2]: 0.0005306 歌舞妓
+TOKEN[171]: 0.0010598    2 form
+	form WORD[171,   1]: 0.0005299 歌舞伎
+	form WORD[171,   2]: 0.0005299 歌舞妓
+TOKEN[172]: 0.0010496    1 inquire
+	inquire WORD[172,   1]: 0.0010496 見舞う
+TOKEN[173]: 0.0010342    1 comfort
+	comfort WORD[173,   1]: 0.0010342 見舞う
+TOKEN[174]: 0.0010222    1 use
+	use WORD[174,   1]: 0.0010222 舞文
+TOKEN[175]: 0.0010162    1 hospital
+	hospital WORD[175,   1]: 0.0010162 見舞う
+TOKEN[176]: 0.0009829    1 punch
+	punch WORD[176,   1]: 0.0009829 見舞う
+TOKEN[177]: 0.0009564    1 ask
+	ask WORD[177,   1]: 0.0009564 見舞う
+TOKEN[178]: 0.0009345    1 wheel
+	wheel WORD[178,   1]: 0.0009345 舞う
+TOKEN[179]: 0.0009136    1 health
+	health WORD[179,   1]: 0.0009136 見舞う
+TOKEN[180]: 0.0009044    1 rousing
+	rousing WORD[180,   1]: 0.0009044 鼓舞
+TOKEN[181]: 0.0008823    1 morale
+	morale WORD[181,   1]: 0.0008823 鼓舞
+TOKEN[182]: 0.0008770    1 see
+	see WORD[182,   1]: 0.0008770 見舞う
+TOKEN[183]: 0.0008742    1 deal
+	deal WORD[183,   1]: 0.0008742 見舞う
+TOKEN[184]: 0.0008643    1 political
+	political WORD[184,   1]: 0.0008643 舞台
+TOKEN[185]: 0.0008633    1 sword
+	sword WORD[185,   1]: 0.0008633 剣舞
+TOKEN[186]: 0.0008373    1 strike
+	strike WORD[186,   1]: 0.0008373 見舞う
+TOKEN[187]: 0.0008362    1 hit
+	hit WORD[187,   1]: 0.0008362 見舞う
+TOKEN[188]: 0.0008352    1 visit
+	visit WORD[188,   1]: 0.0008352 見舞う
+TOKEN[189]: 0.0008327    1 failure
+	failure WORD[189,   1]: 0.0008327 二の舞
+TOKEN[190]: 0.0008300    1 attack
+	attack WORD[190,   1]: 0.0008300 見舞う
+TOKEN[191]: 0.0008249    1 drop
+	drop WORD[191,   1]: 0.0008249 舞い込む
+TOKEN[192]: 0.0008209    1 setting
+	setting WORD[192,   1]: 0.0008209 舞台
+TOKEN[193]: 0.0008089    1 stirring
+	stirring WORD[193,   1]: 0.0008089 鼓舞
+TOKEN[194]: 0.0007957    1 inspiration
+	inspiration WORD[194,   1]: 0.0007957 鼓舞
+TOKEN[195]: 0.0007730    1 snow
+	snow WORD[195,   1]: 0.0007730 舞い込む
+TOKEN[196]: 0.0007661    1 Japanese
+	Japanese WORD[196,   1]: 0.0007661 日舞
+TOKEN[197]: 0.0007596    1 story
+	story WORD[197,   1]: 0.0007596 舞台
+TOKEN[198]: 0.0007357    1 encouragement
+	encouragement WORD[198,   1]: 0.0007357 鼓舞
+TOKEN[199]: 0.0007298    1 wind
+	wind WORD[199,   1]: 0.0007298 舞う
+TOKEN[200]: 0.0007286    1 style
+	style WORD[200,   1]: 0.0007286 舞踏
+TOKEN[201]: 0.0007245    1 world
+	world WORD[201,   1]: 0.0007245 舞台
+TOKEN[202]: 0.0006956    1 raising
+	raising WORD[202,   1]: 0.0006956 鼓舞
+TOKEN[203]: 0.0006772    1 meaning
+	meaning WORD[203,   1]: 0.0006772 仕舞う
+TOKEN[204]: 0.0006232    1 stop
+	stop WORD[204,   1]: 0.0006232 仕舞う
+TOKEN[205]: 0.0006159    1 keep
+	keep WORD[205,   1]: 0.0006159 仕舞う
+TOKEN[206]: 0.0006016    1 bring
+	bring WORD[206,   1]: 0.0006016 仕舞う
+TOKEN[207]: 0.0005882    1 group
+	group WORD[207,   1]: 0.0005882 群舞

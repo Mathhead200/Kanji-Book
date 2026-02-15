@@ -1,0 +1,364 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1246584   12 old            : 糞爺, 老爺, 爺婆, 爺, 親爺, 雷親父, 爺むさい, 狸親父, 老父, 祖父, ...
+0.0921413   33 father         : 亡父, 母父, 親爺, 慈父, 父子, 老父, 寮父, 実父, 厳父, 君父, ...
+0.0827541   11 man            : 糞爺, 親爺, 老爺, 雷親父, 爺むさい, 爺, 狸親父, 親父, 祖父, 岳父, ...
+0.0707972    1 elderly        : 爺や
+0.0519299    4 geezer         : 老爺, 爺, 親爺, 親父
+0.0423424    5 uncle          : 伯父貴, 叔父貴, 父方, 伯父, 叔父
+0.0390319    1 manservant     : 爺や
+0.0293949   13 one            : 親爺, 伯父貴, 叔父貴, 君父, 親父, 継父母, 愚父, 岳父, 実父, 国父, ...
+0.0272827    2 parent         : 伯父貴, 叔父貴
+0.0251943    5 older          : 伯父貴, 親爺, 父兄, 親父, 伯父
+0.0248085    1 goat           : 糞爺
+0.0160081    2 younger        : 叔父貴, 叔父
+0.0158824    1 frowzy         : 爺むさい
+0.0158824    1 doddering      : 爺むさい
+0.0156979    1 patricide      : 父殺し
+0.0155861    1 people         : 爺婆
+0.0149010    1 wizened        : 爺むさい
+0.0143269    1 seedy          : 爺むさい
+0.0113187    2 grizzly        : 親爺, 親父
+0.0109969    2 dad            : 親爺, 親父
+0.0101141    2 deceased       : 王父, 亡父
+0.0096785    2 landlord       : 親爺, 親父
+0.0096393    3 grandfather    : 王父, 父方, 祖父
+0.0095956    2 proprietor     : 親爺, 親父
+0.0094415    2 adoptive       : 養父母, 養父
+0.0087533    2 mother         : 母父, 父母
+0.0085974    1 irascible      : 雷親父
+0.0084496    2 boss           : 親爺, 親父
+0.0077638    2 restaurant     : 親爺, 親父
+0.0076285    1 violence       : 親父狩り
+0.0074747    1 patronym       : 父称
+0.0074747    1 patronymic     : 父称
+0.0073742    2 bear           : 親爺, 親父
+0.0071831    2 store          : 親爺, 親父
+0.0068676    3 paternal       : 父権, 父系, 父方
+0.0066403    1 men            : 親父狩り
+0.0062277    1 consonant      : 父音
+0.0059152    1 street         : 親父狩り
+0.0057389    3 brother        : 父兄, 伯父, 叔父
+0.0054674    1 housefather    : 寮父
+0.0052567    1 dorm           : 寮父
+0.0051390    2 daughter       : 父娘, 父子
+0.0049405    2 granduncle     : 大伯父, 大叔父
+0.0048092    1 God            : 天父
+0.0047012    1 cunning        : 狸親父
+0.0041825    2 stepfather     : 継父, 義父
+0.0033916    1 king           : 父王
+0.0033721    2 master         : 師父, 君父
+0.0032367    1 carer          : 保父
+0.0030159    2 foster         : 養父, 義父
+0.0028905    1 paternity      : 父性
+0.0027236    1 godfather      : 教父
+0.0026199    1 loving         : 慈父
+0.0025703    1 affectionate   : 慈父
+0.0025197    1 nursery        : 保父
+0.0024340    2 side           : 父系, 父方
+0.0023646    2 family         : 父系, 父方
+0.0023328    1 sponsor        : 教父
+0.0020911    1 worker         : 保父
+0.0020777    1 household      : 父権
+0.0018389    1 male           : 保父
+0.0017869    1 control        : 父権
+0.0017547    1 lord           : 君父
+0.0017220    1 reverend       : 神父
+0.0016863    1 right          : 父権
+0.0016557    1 padre          : 神父
+0.0016493    1 home           : 保父
+0.0016424    1 mister         : 小父
+0.0015539    1 line           : 父系
+0.0015481    1 school         : 保父
+0.0014987    1 head           : 父権
+0.0014842    1 wife           : 岳父
+0.0014342    1 son            : 父子
+0.0014173    1 biological     : 実父
+0.0014004    1 different      : 異父
+0.0013297    1 minister       : 神父
+0.0013162    1 fisherman      : 漁父
+0.0012741    1 mask           : 祖父
+0.0011898    1 nation         : 国父
+0.0011312    1 child          : 父子
+0.0011176    1 real           : 実父
+0.0010925    1 role           : 祖父
+0.0010645    1 natural        : 実父
+0.0010494    1 priest         : 神父
+0.0009561    1 country        : 国父
+0.0007752    1 used           : 祖父
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1246584   12 old
+	old WORD[ 1,   1]: 0.0295667 糞爺
+	old WORD[ 1,   2]: 0.0175606 老爺
+	old WORD[ 1,   3]: 0.0152603 爺婆
+	old WORD[ 1,   4]: 0.0094880 爺
+	old WORD[ 1,   5]: 0.0085654 親爺
+	old WORD[ 1,   6]: 0.0079766 雷親父
+	old WORD[ 1,   7]: 0.0073677 爺むさい
+	old WORD[ 1,   8]: 0.0030585 狸親父
+	old WORD[ 1,   9]: 0.0027122 老父
+	old WORD[ 1,  10]: 0.0017037 祖父
+	old WORD[ 1,  11]: 0.0015380 親父
+	old WORD[ 1,  12]: 0.0007619 小父
+TOKEN[ 2]: 0.0921413   33 father
+	father WORD[ 2,   1]: 0.0098006 亡父
+	father WORD[ 2,   2]: 0.0076848 母父
+	father WORD[ 2,   3]: 0.0058624 親爺
+	father WORD[ 2,   4]: 0.0042319 慈父
+	father WORD[ 2,   5]: 0.0042290 父子
+	father WORD[ 2,   6]: 0.0037126 老父
+	father WORD[ 2,   7]: 0.0037004 寮父
+	father WORD[ 2,   8]: 0.0035003 実父
+	father WORD[ 2,   9]: 0.0034806 厳父
+	father WORD[ 2,  10]: 0.0034493 君父
+	father WORD[ 2,  11]: 0.0033314 父娘
+	father WORD[ 2,  12]: 0.0033069 父王
+	father WORD[ 2,  13]: 0.0030541 養父
+	father WORD[ 2,  14]: 0.0022439 国父
+	father WORD[ 2,  15]: 0.0020259 父権
+	father WORD[ 2,  16]: 0.0020253 父系
+	father WORD[ 2,  17]: 0.0020253 父君
+	father WORD[ 2,  18]: 0.0018538 乃父
+	father WORD[ 2,  19]: 0.0018471 尊父
+	father WORD[ 2,  20]: 0.0017126 愚父
+	father WORD[ 2,  21]: 0.0016689 岳父
+	father WORD[ 2,  22]: 0.0016370 異父
+	father WORD[ 2,  23]: 0.0014085 父兄
+	father WORD[ 2,  24]: 0.0012250 父母
+	father WORD[ 2,  25]: 0.0012250 父方
+	father WORD[ 2,  26]: 0.0012250 父
+	father WORD[ 2,  27]: 0.0011655 神父
+	father WORD[ 2,  28]: 0.0011015 義父
+	father WORD[ 2,  29]: 0.0010768 家父
+	father WORD[ 2,  30]: 0.0010527 父親
+	father WORD[ 2,  31]: 0.0010527 親父
+	father WORD[ 2,  32]: 0.0010429 伯父
+	father WORD[ 2,  33]: 0.0010429 叔父
+TOKEN[ 3]: 0.0827541   11 man
+	man WORD[ 3,   1]: 0.0159632 糞爺
+	man WORD[ 3,   2]: 0.0138735 親爺
+	man WORD[ 3,   3]: 0.0094810 老爺
+	man WORD[ 3,   4]: 0.0086132 雷親父
+	man WORD[ 3,   5]: 0.0079557 爺むさい
+	man WORD[ 3,   6]: 0.0051226 爺
+	man WORD[ 3,   7]: 0.0033026 狸親父
+	man WORD[ 3,   8]: 0.0024912 親父
+	man WORD[ 3,   9]: 0.0018396 祖父
+	man WORD[ 3,  10]: 0.0013165 岳父
+	man WORD[ 3,  11]: 0.0008227 小父
+TOKEN[ 4]: 0.0707972    1 elderly
+	elderly WORD[ 4,   1]: 0.0707972 爺や
+TOKEN[ 5]: 0.0519299    4 geezer
+	geezer WORD[ 5,   1]: 0.0162117 老爺
+	geezer WORD[ 5,   2]: 0.0087592 爺
+	geezer WORD[ 5,   3]: 0.0079075 親爺
+	geezer WORD[ 5,   4]: 0.0014199 親父
+TOKEN[ 6]: 0.0423424    5 uncle
+	uncle WORD[ 6,   1]: 0.0176007 伯父貴
+	uncle WORD[ 6,   2]: 0.0176004 叔父貴
+	uncle WORD[ 6,   3]: 0.0016210 父方
+	uncle WORD[ 6,   4]: 0.0013801 伯父
+	uncle WORD[ 6,   5]: 0.0013801 叔父
+TOKEN[ 7]: 0.0390319    1 manservant
+	manservant WORD[ 7,   1]: 0.0390319 爺や
+TOKEN[ 8]: 0.0293949   13 one
+	one WORD[ 8,   1]: 0.0073799 親爺
+	one WORD[ 8,   2]: 0.0055813 伯父貴
+	one WORD[ 8,   3]: 0.0055812 叔父貴
+	one WORD[ 8,   4]: 0.0028948 君父
+	one WORD[ 8,   5]: 0.0013251 親父
+	one WORD[ 8,   6]: 0.0007257 継父母
+	one WORD[ 8,   7]: 0.0007186 愚父
+	one WORD[ 8,   8]: 0.0007003 岳父
+	one WORD[ 8,   9]: 0.0004896 実父
+	one WORD[ 8,  10]: 0.0004708 国父
+	one WORD[ 8,  11]: 0.0004518 家父
+	one WORD[ 8,  12]: 0.0004376 伯父
+	one WORD[ 8,  13]: 0.0004376 叔父
+TOKEN[ 9]: 0.0272827    2 parent
+	parent WORD[ 9,   1]: 0.0136414 伯父貴
+	parent WORD[ 9,   2]: 0.0136412 叔父貴
+TOKEN[10]: 0.0251943    5 older
+	older WORD[10,   1]: 0.0135326 伯父貴
+	older WORD[10,   2]: 0.0059645 親爺
+	older WORD[10,   3]: 0.0014330 父兄
+	older WORD[10,   4]: 0.0010710 親父
+	older WORD[10,   5]: 0.0010611 伯父
+TOKEN[11]: 0.0248085    1 goat
+	goat WORD[11,   1]: 0.0248085 糞爺
+TOKEN[12]: 0.0160081    2 younger
+	younger WORD[12,   1]: 0.0138380 叔父貴
+	younger WORD[12,   2]: 0.0010851 叔父
+TOKEN[13]: 0.0158824    1 frowzy
+	frowzy WORD[13,   1]: 0.0158824 爺むさい
+TOKEN[14]: 0.0158824    1 doddering
+	doddering WORD[14,   1]: 0.0158824 爺むさい
+TOKEN[15]: 0.0156979    1 patricide
+	patricide WORD[15,   1]: 0.0156979 父殺し
+TOKEN[16]: 0.0155861    1 people
+	people WORD[16,   1]: 0.0155861 爺婆
+TOKEN[17]: 0.0149010    1 wizened
+	wizened WORD[17,   1]: 0.0149010 爺むさい
+TOKEN[18]: 0.0143269    1 seedy
+	seedy WORD[18,   1]: 0.0143269 爺むさい
+TOKEN[19]: 0.0113187    2 grizzly
+	grizzly WORD[19,   1]: 0.0083279 親爺
+	grizzly WORD[19,   2]: 0.0014954 親父
+TOKEN[20]: 0.0109969    2 dad
+	dad WORD[20,   1]: 0.0080912 親爺
+	dad WORD[20,   2]: 0.0014529 親父
+TOKEN[21]: 0.0101141    2 deceased
+	deceased WORD[21,   1]: 0.0051154 王父
+	deceased WORD[21,   2]: 0.0049988 亡父
+TOKEN[22]: 0.0096785    2 landlord
+	landlord WORD[22,   1]: 0.0071211 親爺
+	landlord WORD[22,   2]: 0.0012787 親父
+TOKEN[23]: 0.0096393    3 grandfather
+	grandfather WORD[23,   1]: 0.0065271 王父
+	grandfather WORD[23,   2]: 0.0015945 父方
+	grandfather WORD[23,   3]: 0.0015177 祖父
+TOKEN[24]: 0.0095956    2 proprietor
+	proprietor WORD[24,   1]: 0.0070601 親爺
+	proprietor WORD[24,   2]: 0.0012677 親父
+TOKEN[25]: 0.0094415    2 adoptive
+	adoptive WORD[25,   1]: 0.0073817 養父母
+	adoptive WORD[25,   2]: 0.0020598 養父
+TOKEN[26]: 0.0087533    2 mother
+	mother WORD[26,   1]: 0.0075498 母父
+	mother WORD[26,   2]: 0.0012035 父母
+TOKEN[27]: 0.0085974    1 irascible
+	irascible WORD[27,   1]: 0.0085974 雷親父
+TOKEN[28]: 0.0084496    2 boss
+	boss WORD[28,   1]: 0.0062169 親爺
+	boss WORD[28,   2]: 0.0011163 親父
+TOKEN[29]: 0.0077638    2 restaurant
+	restaurant WORD[29,   1]: 0.0057123 親爺
+	restaurant WORD[29,   2]: 0.0010257 親父
+TOKEN[30]: 0.0076285    1 violence
+	violence WORD[30,   1]: 0.0076285 親父狩り
+TOKEN[31]: 0.0074747    1 patronym
+	patronym WORD[31,   1]: 0.0074747 父称
+TOKEN[32]: 0.0074747    1 patronymic
+	patronymic WORD[32,   1]: 0.0074747 父称
+TOKEN[33]: 0.0073742    2 bear
+	bear WORD[33,   1]: 0.0054257 親爺
+	bear WORD[33,   2]: 0.0009742 親父
+TOKEN[34]: 0.0071831    2 store
+	store WORD[34,   1]: 0.0052851 親爺
+	store WORD[34,   2]: 0.0009490 親父
+TOKEN[35]: 0.0068676    3 paternal
+	paternal WORD[35,   1]: 0.0026369 父権
+	paternal WORD[35,   2]: 0.0026362 父系
+	paternal WORD[35,   3]: 0.0015945 父方
+TOKEN[36]: 0.0066403    1 men
+	men WORD[36,   1]: 0.0066403 親父狩り
+TOKEN[37]: 0.0062277    1 consonant
+	consonant WORD[37,   1]: 0.0062277 父音
+TOKEN[38]: 0.0059152    1 street
+	street WORD[38,   1]: 0.0059152 親父狩り
+TOKEN[39]: 0.0057389    3 brother
+	brother WORD[39,   1]: 0.0014485 父兄
+	brother WORD[39,   2]: 0.0010726 伯父
+	brother WORD[39,   3]: 0.0010726 叔父
+TOKEN[40]: 0.0054674    1 housefather
+	housefather WORD[40,   1]: 0.0054674 寮父
+TOKEN[41]: 0.0052567    1 dorm
+	dorm WORD[41,   1]: 0.0052567 寮父
+TOKEN[42]: 0.0051390    2 daughter
+	daughter WORD[42,   1]: 0.0036110 父娘
+	daughter WORD[42,   2]: 0.0015280 父子
+TOKEN[43]: 0.0049405    2 granduncle
+	granduncle WORD[43,   1]: 0.0024703 大伯父
+	granduncle WORD[43,   2]: 0.0024703 大叔父
+TOKEN[44]: 0.0048092    1 God
+	God WORD[44,   1]: 0.0048092 天父
+TOKEN[45]: 0.0047012    1 cunning
+	cunning WORD[45,   1]: 0.0047012 狸親父
+TOKEN[46]: 0.0041825    2 stepfather
+	stepfather WORD[46,   1]: 0.0025550 継父
+	stepfather WORD[46,   2]: 0.0016274 義父
+TOKEN[47]: 0.0033916    1 king
+	king WORD[47,   1]: 0.0033916 父王
+TOKEN[48]: 0.0033721    2 master
+	master WORD[48,   1]: 0.0018578 師父
+	master WORD[48,   2]: 0.0015144 君父
+TOKEN[49]: 0.0032367    1 carer
+	carer WORD[49,   1]: 0.0032367 保父
+TOKEN[50]: 0.0030159    2 foster
+	foster WORD[50,   1]: 0.0017521 養父
+	foster WORD[50,   2]: 0.0012638 義父
+TOKEN[51]: 0.0028905    1 paternity
+	paternity WORD[51,   1]: 0.0028905 父性
+TOKEN[52]: 0.0027236    1 godfather
+	godfather WORD[52,   1]: 0.0027236 教父
+TOKEN[53]: 0.0026199    1 loving
+	loving WORD[53,   1]: 0.0026199 慈父
+TOKEN[54]: 0.0025703    1 affectionate
+	affectionate WORD[54,   1]: 0.0025703 慈父
+TOKEN[55]: 0.0025197    1 nursery
+	nursery WORD[55,   1]: 0.0025197 保父
+TOKEN[56]: 0.0024340    2 side
+	side WORD[56,   1]: 0.0015167 父系
+	side WORD[56,   2]: 0.0009173 父方
+TOKEN[57]: 0.0023646    2 family
+	family WORD[57,   1]: 0.0014734 父系
+	family WORD[57,   2]: 0.0008912 父方
+TOKEN[58]: 0.0023328    1 sponsor
+	sponsor WORD[58,   1]: 0.0023328 教父
+TOKEN[59]: 0.0020911    1 worker
+	worker WORD[59,   1]: 0.0020911 保父
+TOKEN[60]: 0.0020777    1 household
+	household WORD[60,   1]: 0.0020777 父権
+TOKEN[61]: 0.0018389    1 male
+	male WORD[61,   1]: 0.0018389 保父
+TOKEN[62]: 0.0017869    1 control
+	control WORD[62,   1]: 0.0017869 父権
+TOKEN[63]: 0.0017547    1 lord
+	lord WORD[63,   1]: 0.0017547 君父
+TOKEN[64]: 0.0017220    1 reverend
+	reverend WORD[64,   1]: 0.0017220 神父
+TOKEN[65]: 0.0016863    1 right
+	right WORD[65,   1]: 0.0016863 父権
+TOKEN[66]: 0.0016557    1 padre
+	padre WORD[66,   1]: 0.0016557 神父
+TOKEN[67]: 0.0016493    1 home
+	home WORD[67,   1]: 0.0016493 保父
+TOKEN[68]: 0.0016424    1 mister
+	mister WORD[68,   1]: 0.0016424 小父
+TOKEN[69]: 0.0015539    1 line
+	line WORD[69,   1]: 0.0015539 父系
+TOKEN[70]: 0.0015481    1 school
+	school WORD[70,   1]: 0.0015481 保父
+TOKEN[71]: 0.0014987    1 head
+	head WORD[71,   1]: 0.0014987 父権
+TOKEN[72]: 0.0014842    1 wife
+	wife WORD[72,   1]: 0.0014842 岳父
+TOKEN[73]: 0.0014342    1 son
+	son WORD[73,   1]: 0.0014342 父子
+TOKEN[74]: 0.0014173    1 biological
+	biological WORD[74,   1]: 0.0014173 実父
+TOKEN[75]: 0.0014004    1 different
+	different WORD[75,   1]: 0.0014004 異父
+TOKEN[76]: 0.0013297    1 minister
+	minister WORD[76,   1]: 0.0013297 神父
+TOKEN[77]: 0.0013162    1 fisherman
+	fisherman WORD[77,   1]: 0.0013162 漁父
+TOKEN[78]: 0.0012741    1 mask
+	mask WORD[78,   1]: 0.0012741 祖父
+TOKEN[79]: 0.0011898    1 nation
+	nation WORD[79,   1]: 0.0011898 国父
+TOKEN[80]: 0.0011312    1 child
+	child WORD[80,   1]: 0.0011312 父子
+TOKEN[81]: 0.0011176    1 real
+	real WORD[81,   1]: 0.0011176 実父
+TOKEN[82]: 0.0010925    1 role
+	role WORD[82,   1]: 0.0010925 祖父
+TOKEN[83]: 0.0010645    1 natural
+	natural WORD[83,   1]: 0.0010645 実父
+TOKEN[84]: 0.0010494    1 priest
+	priest WORD[84,   1]: 0.0010494 神父
+TOKEN[85]: 0.0009561    1 country
+	country WORD[85,   1]: 0.0009561 国父
+TOKEN[86]: 0.0007752    1 used
+	used WORD[86,   1]: 0.0007752 祖父

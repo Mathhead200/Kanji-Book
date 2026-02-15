@@ -1,0 +1,738 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0571037    2 toe            : 褄取, 褄取り
+0.0536973    5 dreadful       : 悽愴, 凄愴, 凄じい, 凄まじい, 凄い
+0.0481112    2 rear           : 褄取, 褄取り
+0.0471155    2 pathetic       : 悽愴, 凄愴
+0.0451382    2 pick           : 褄取, 褄取り
+0.0421607    5 gruesome       : 悽惨, 凄絶, もの凄い, 物凄い, 凄惨
+0.0407513    3 lurid          : 悽惨, 凄絶, 凄惨
+0.0395127   37 wife           : 無妻, 恋妻, 妻夫, 亡妻, 嫡妻, 旧妻, 正妻, 病妻, 幼な妻, 幼妻, ...
+0.0388494    4 amazing        : 凄技, 凄じい, 凄まじい, 凄い
+0.0379111    4 appalling      : 悽惨, 凄惨, 凄じい, 凄まじい
+0.0222430    6 living         : 群棲, 水棲, 幽棲, 同棲, 棲息, 共棲
+0.0206516    2 unmarried      : 無妻, 同棲
+0.0137595    1 skill          : 凄技
+0.0135844    1 trick          : 凄技
+0.0132733    1 segregate      : 棲み分ける
+0.0115690    1 differentiate  : 棲み分ける
+0.0103980    2 kimono         : 左褄, 褄
+0.0102574    4 life           : 水棲, 陸棲, 幽棲, 隠棲
+0.0095753    1 isolation      : 棲み分け
+0.0086956    1 loving         : 恋妻
+0.0085596    2 habitat        : 棲み分け, 棲家
+0.0078573   12 one            : 妻入, 妻入り, 群棲, 妻夫, 病妻, 嫡妻, 妻女, 本妻, 妻妾, 妻君, ...
+0.0074703    1 single         : 無妻
+0.0074646    2 man            : 無妻, 妻夫
+0.0073176    1 amphibious     : 両棲
+0.0073176    1 amphibian      : 両棲
+0.0071062    2 architectural  : 妻入, 妻入り
+0.0070885    1 animate        : 群棲
+0.0070727    2 inhabit        : 棲む, 棲まう
+0.0070418    5 terrific       : もの凄い, 物凄い, 凄じい, 凄まじい, 凄い
+0.0065722    2 hem            : 左褄, 褄
+0.0063019    2 skirt          : 左褄, 褄
+0.0059615    1 compartmentalization: 棲み分け
+0.0058773    5 terrible       : もの凄い, 物凄い, 凄じい, 凄まじい, 凄い
+0.0057122    4 staggering     : もの凄い, 物凄い, 凄じい, 凄まじい
+0.0055531    1 segregation    : 棲み分け
+0.0054951    3 traditional    : 妻入, 妻入り, 和妻
+0.0054845    1 creation       : 群棲
+0.0053757    2 bride          : 幼な妻, 幼妻
+0.0053356    4 tremendous     : もの凄い, 物凄い, 凄じい, 凄まじい
+0.0052681    4 awful          : もの凄い, 物凄い, 凄じい, 凄まじい
+0.0052119    1 growing        : 群棲
+0.0051360    1 location       : 群棲
+0.0051250    2 sides          : 妻入, 妻入り
+0.0050974    1 aquatic        : 水棲
+0.0050342    3 couple         : 同棲, 妻夫, 夫妻
+0.0049652    1 left           : 左褄
+0.0048885    2 entrance       : 妻入, 妻入り
+0.0048862    2 live           : 棲む, 棲まう
+0.0046926    1 terrestrial    : 陸棲
+0.0044040    1 cohabitation   : 同棲
+0.0043856    4 Japanese       : 妻入, 妻入り, 和妻, 吾妻
+0.0042749    2 main           : 妻入, 妻入り
+0.0042232    1 seclusion      : 幽棲
+0.0041998    2 style          : 妻入, 妻入り
+0.0040097    3 husband        : 妻夫, 通い妻, 夫妻
+0.0037972    2 frightful      : もの凄い, 物凄い
+0.0037301    1 paragenesis    : 共棲
+0.0037301    1 symbiosis      : 共棲
+0.0035644    3 gable          : 妻壁, 切り妻, 切妻
+0.0035471    2 horrific       : もの凄い, 物凄い
+0.0034587    2 fierce         : 凄烈, 凄絶
+0.0034394    1 reside         : 棲まう
+0.0032861    1 coexistence    : 共棲
+0.0032545    2 eerie          : もの凄い, 物凄い
+0.0032166    1 quiet          : 幽棲
+0.0031821    2 incredible     : もの凄い, 物凄い
+0.0030613    1 humour         : 気褄
+0.0030106    1 humor          : 気褄
+0.0029939    1 dwelling       : 棲家
+0.0029461    2 weirdness      : 凄み, 凄味
+0.0029461    2 dreadfulness   : 凄み, 凄味
+0.0029461    2 grimness       : 凄み, 凄味
+0.0029461    2 ghastliness    : 凄み, 凄味
+0.0029446    1 den            : 棲家
+0.0029237    4 legal          : 嫡妻, 本妻, 正妻, 前妻
+0.0029126    1 nest           : 棲む
+0.0028903    1 secluded       : 隠棲
+0.0028860    1 geisha         : 左褄
+0.0028328    2 stupendous     : 凄じい, 凄まじい
+0.0028328    2 shocking       : 凄じい, 凄まじい
+0.0028328    2 prodigious     : 凄じい, 凄まじい
+0.0028110    1 water          : 水棲
+0.0027800    2 house          : 棲家, 賢妻
+0.0027161    1 holding        : 左褄
+0.0027127    2 childish       : 幼な妻, 幼妻
+0.0027009    1 temper         : 気褄
+0.0025180    1 residence      : 棲家
+0.0024955    2 intimidation   : 凄み, 凄味
+0.0024708    2 extreme        : もの凄い, 物凄い
+0.0024365    1 mood           : 気褄
+0.0024221    2 menace         : 凄み, 凄味
+0.0024142    5 woman          : 老妻, 側妻, 人妻, 妻, 妻帯
+0.0023752    2 two            : 妻夫, 妻
+0.0023312    2 horrible       : 凄じい, 凄まじい
+0.0023160    2 enormous       : 凄じい, 凄まじい
+0.0023115    1 coherence      : 辻褄
+0.0022868    1 consistency    : 辻褄
+0.0022624    2 threat         : 凄み, 凄味
+0.0022305    3 former         : 旧妻, 元妻, 先妻
+0.0021700    3 married        : 妻夫, 夫妻, 人妻
+0.0021220    2 absurd         : 凄じい, 凄まじい
+0.0021219    1 virtuoso       : 凄腕
+0.0021001    3 young          : 幼な妻, 幼妻, 若妻
+0.0020344    1 resourceful    : 凄腕
+0.0019452    2 pair           : 妻夫, 妻戸
+0.0019357    1 magic          : 和妻
+0.0019142    1 legitimate     : 嫡妻
+0.0019044    2 roof           : 切り妻, 切妻
+0.0018934    3 female         : 側妻, 妻神, 妻
+0.0018848    1 wizard         : 凄腕
+0.0018586    1 smaller        : 妻
+0.0018174    1 bloody         : 凄絶
+0.0017856    1 mastery        : 凄腕
+0.0017757    2 child          : 幼な妻, 幼妻
+0.0017264    1 wall           : 妻壁
+0.0017179    1 remarkable     : 凄腕
+0.0015736    1 violent        : 凄絶
+0.0015725    1 brilliant      : 凄腕
+0.0014997    1 great          : 凄い
+0.0014648    1 technique      : 凄腕
+0.0013755    1 ability        : 凄腕
+0.0013692    3 concubine      : 側妻, 権妻, 後妻
+0.0013620    1 beautiful      : 凄艶
+0.0013448    1 intimidate     : 凄む
+0.0012111    1 threaten       : 凄む
+0.0012007    1 threatening    : 凄む
+0.0011829    2 daughter       : 妻女, 妻君
+0.0011694    3 mistress       : 側妻, 妻妾, 権妻
+0.0011643    2 espouse        : 妻せる, 妻合わせる
+0.0011549    1 sick           : 病妻
+0.0011521    2 late           : 亡妻, 先妻
+0.0011392    1 set            : 妻夫
+0.0011211    1 large          : 妻夫
+0.0011191    1 wonderful      : 凄い
+0.0011086    1 lightning      : 稲妻
+0.0010802    1 extent         : 凄い
+0.0010202    1 small          : 妻夫
+0.0010140    1 vast           : 凄い
+0.0010092    1 wise           : 賢妻
+0.0010025    1 deceased       : 亡妻
+0.0009929    2 marry          : 妻せる, 妻合わせる
+0.0009131    1 strength       : 凄い
+0.0009009    1 person         : 凄腕
+0.0006537    2 construction   : 切り妻, 切妻
+0.0005837    1 polygamous     : 正妻
+0.0005736    2 building       : 切り妻, 切妻
+0.0005731    1 es             : 妻妾
+0.0005358    1 jealousy       : 後妻
+0.0005282    1 polygyny       : 多妻
+0.0005282    1 polygamy       : 多妻
+0.0005103    1 old            : 老妻
+0.0005064    1 sleight        : 手妻
+0.0004970    1 pavilion       : 妻戸
+0.0004905    1 lawful         : 正妻
+0.0004357    1 eastern        : 吾妻
+0.0004281    1 someone        : 妻君
+0.0004098    1 kept           : 側妻
+0.0004063    1 interior       : 妻戸
+0.0003884    1 second         : 後妻
+0.0003828    1 bolt           : 稲妻
+0.0003816    1 priest         : 梵妻
+0.0003699    1 palace         : 妻戸
+0.0003609    1 servant        : 側妻
+0.0003563    1 flash          : 稲妻
+0.0003500    1 goddess        : 妻神
+0.0003476    1 Buddhist       : 梵妻
+0.0003430    1 relationship   : 正妻
+0.0003263    1 door           : 妻戸
+0.0003226    1 wooden         : 妻戸
+0.0003126    1 first          : 正妻
+0.0003064    1 home           : 妻戸
+0.0003040    1 good           : 良妻
+0.0002944    1 marrying       : 妻帯
+0.0002921    1 hand           : 手妻
+0.0002889    1 deity          : 妻神
+0.0002764    1 bad            : 悪妻
+0.0002535    1 wagon          : 吾妻
+0.0002479    1 zither         : 吾妻
+0.0002446    1 submission     : 恐妻
+0.0002311    1 perspective    : 吾妻
+0.0002279    1 marriage       : 妻帯
+0.0002246    1 beloved        : 愛妻
+0.0002170    1 spouse         : 吾妻
+0.0002091    1 new            : 新妻
+0.0002048    1 native         : 吾妻
+0.0001993    1 east           : 吾妻
+0.0001633    1 Edo            : 吾妻
+0.0001576    1 Japan          : 吾妻
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0571037    2 toe
+	toe WORD[ 1,   1]: 0.0538685 褄取
+	toe WORD[ 1,   2]: 0.0032352 褄取り
+TOKEN[ 2]: 0.0536973    5 dreadful
+	dreadful WORD[ 2,   1]: 0.0482673 悽愴
+	dreadful WORD[ 2,   2]: 0.0018573 凄愴
+	dreadful WORD[ 2,   3]: 0.0011911 凄じい
+	dreadful WORD[ 2,   4]: 0.0011911 凄まじい
+	dreadful WORD[ 2,   5]: 0.0011906 凄い
+TOKEN[ 3]: 0.0481112    2 rear
+	rear WORD[ 3,   1]: 0.0453854 褄取
+	rear WORD[ 3,   2]: 0.0027258 褄取り
+TOKEN[ 4]: 0.0471155    2 pathetic
+	pathetic WORD[ 4,   1]: 0.0453698 悽愴
+	pathetic WORD[ 4,   2]: 0.0017458 凄愴
+TOKEN[ 5]: 0.0451382    2 pick
+	pick WORD[ 5,   1]: 0.0425809 褄取
+	pick WORD[ 5,   2]: 0.0025573 褄取り
+TOKEN[ 6]: 0.0421607    5 gruesome
+	gruesome WORD[ 6,   1]: 0.0352411 悽惨
+	gruesome WORD[ 6,   2]: 0.0020969 凄絶
+	gruesome WORD[ 6,   3]: 0.0017333 もの凄い
+	gruesome WORD[ 6,   4]: 0.0017333 物凄い
+	gruesome WORD[ 6,   5]: 0.0013560 凄惨
+TOKEN[ 7]: 0.0407513    3 lurid
+	lurid WORD[ 7,   1]: 0.0371148 悽惨
+	lurid WORD[ 7,   2]: 0.0022084 凄絶
+	lurid WORD[ 7,   3]: 0.0014281 凄惨
+TOKEN[ 8]: 0.0395127   37 wife
+	wife WORD[ 8,   1]: 0.0071128 無妻
+	wife WORD[ 8,   2]: 0.0062456 恋妻
+	wife WORD[ 8,   3]: 0.0019537 妻夫
+	wife WORD[ 8,   4]: 0.0017480 亡妻
+	wife WORD[ 8,   5]: 0.0014135 嫡妻
+	wife WORD[ 8,   6]: 0.0012662 旧妻
+	wife WORD[ 8,   7]: 0.0009889 正妻
+	wife WORD[ 8,   8]: 0.0009842 病妻
+	wife WORD[ 8,   9]: 0.0009839 幼な妻
+	wife WORD[ 8,  10]: 0.0009839 幼妻
+	wife WORD[ 8,  11]: 0.0009126 元妻
+	wife WORD[ 8,  12]: 0.0008889 賢妻
+	wife WORD[ 8,  13]: 0.0006472 妻女
+	wife WORD[ 8,  14]: 0.0006459 通い妻
+	wife WORD[ 8,  15]: 0.0004288 前妻
+	wife WORD[ 8,  16]: 0.0004284 先妻
+	wife WORD[ 8,  17]: 0.0004081 妻子
+	wife WORD[ 8,  18]: 0.0004076 後妻
+	wife WORD[ 8,  19]: 0.0003872 良妻
+	wife WORD[ 8,  20]: 0.0003769 梵妻
+	wife WORD[ 8,  21]: 0.0003769 本妻
+	wife WORD[ 8,  22]: 0.0003463 内妻
+	wife WORD[ 8,  23]: 0.0003236 妻妾
+	wife WORD[ 8,  24]: 0.0003236 妻室
+	wife WORD[ 8,  25]: 0.0003234 妻君
+	wife WORD[ 8,  26]: 0.0003229 権妻
+	wife WORD[ 8,  27]: 0.0003113 荊妻
+	wife WORD[ 8,  28]: 0.0002930 悪妻
+	wife WORD[ 8,  29]: 0.0002835 若妻
+	wife WORD[ 8,  30]: 0.0002539 夫妻
+	wife WORD[ 8,  31]: 0.0002507 人妻
+	wife WORD[ 8,  32]: 0.0002365 新妻
+	wife WORD[ 8,  33]: 0.0002247 妻
+	wife WORD[ 8,  34]: 0.0002041 妻帯
+	wife WORD[ 8,  35]: 0.0002007 愚妻
+	wife WORD[ 8,  36]: 0.0001974 恐妻
+	wife WORD[ 8,  37]: 0.0001770 愛妻
+TOKEN[ 9]: 0.0388494    4 amazing
+	amazing WORD[ 9,   1]: 0.0353037 凄技
+	amazing WORD[ 9,   2]: 0.0011821 凄じい
+	amazing WORD[ 9,   3]: 0.0011821 凄まじい
+	amazing WORD[ 9,   4]: 0.0011815 凄い
+TOKEN[10]: 0.0379111    4 appalling
+	appalling WORD[10,   1]: 0.0340070 悽惨
+	appalling WORD[10,   2]: 0.0013085 凄惨
+	appalling WORD[10,   3]: 0.0012978 凄じい
+	appalling WORD[10,   4]: 0.0012978 凄まじい
+TOKEN[11]: 0.0222430    6 living
+	living WORD[11,   1]: 0.0043600 群棲
+	living WORD[11,   2]: 0.0035298 水棲
+	living WORD[11,   3]: 0.0030011 幽棲
+	living WORD[11,   4]: 0.0025304 同棲
+	living WORD[11,   5]: 0.0023185 棲息
+	living WORD[11,   6]: 0.0021432 共棲
+TOKEN[12]: 0.0206516    2 unmarried
+	unmarried WORD[12,   1]: 0.0174078 無妻
+	unmarried WORD[12,   2]: 0.0032438 同棲
+TOKEN[13]: 0.0137595    1 skill
+	skill WORD[13,   1]: 0.0137595 凄技
+TOKEN[14]: 0.0135844    1 trick
+	trick WORD[14,   1]: 0.0135844 凄技
+TOKEN[15]: 0.0132733    1 segregate
+	segregate WORD[15,   1]: 0.0132733 棲み分ける
+TOKEN[16]: 0.0115690    1 differentiate
+	differentiate WORD[16,   1]: 0.0115690 棲み分ける
+TOKEN[17]: 0.0103980    2 kimono
+	kimono WORD[17,   1]: 0.0055589 左褄
+	kimono WORD[17,   2]: 0.0048392 褄
+TOKEN[18]: 0.0102574    4 life
+	life WORD[18,   1]: 0.0031285 水棲
+	life WORD[18,   2]: 0.0027126 陸棲
+	life WORD[18,   3]: 0.0026599 幽棲
+	life WORD[18,   4]: 0.0017564 隠棲
+TOKEN[19]: 0.0095753    1 isolation
+	isolation WORD[19,   1]: 0.0095753 棲み分け
+TOKEN[20]: 0.0086956    1 loving
+	loving WORD[20,   1]: 0.0086956 恋妻
+TOKEN[21]: 0.0085596    2 habitat
+	habitat WORD[21,   1]: 0.0051960 棲み分け
+	habitat WORD[21,   2]: 0.0033636 棲家
+TOKEN[22]: 0.0078573   12 one
+	one WORD[22,   1]: 0.0010803 妻入
+	one WORD[22,   2]: 0.0010802 妻入り
+	one WORD[22,   3]: 0.0010776 群棲
+	one WORD[22,   4]: 0.0006146 妻夫
+	one WORD[22,   5]: 0.0004644 病妻
+	one WORD[22,   6]: 0.0003335 嫡妻
+	one WORD[22,   7]: 0.0003054 妻女
+	one WORD[22,   8]: 0.0001779 本妻
+	one WORD[22,   9]: 0.0001527 妻妾
+	one WORD[22,  10]: 0.0001526 妻君
+	one WORD[22,  11]: 0.0001469 荊妻
+	one WORD[22,  12]: 0.0000931 恐妻
+TOKEN[23]: 0.0074703    1 single
+	single WORD[23,   1]: 0.0074703 無妻
+TOKEN[24]: 0.0074646    2 man
+	man WORD[24,   1]: 0.0063092 無妻
+	man WORD[24,   2]: 0.0005777 妻夫
+TOKEN[25]: 0.0073176    1 amphibious
+	amphibious WORD[25,   1]: 0.0073176 両棲
+TOKEN[26]: 0.0073176    1 amphibian
+	amphibian WORD[26,   1]: 0.0073176 両棲
+TOKEN[27]: 0.0071062    2 architectural
+	architectural WORD[27,   1]: 0.0035531 妻入
+	architectural WORD[27,   2]: 0.0035531 妻入り
+TOKEN[28]: 0.0070885    1 animate
+	animate WORD[28,   1]: 0.0035443 群棲
+TOKEN[29]: 0.0070727    2 inhabit
+	inhabit WORD[29,   1]: 0.0035374 棲む
+	inhabit WORD[29,   2]: 0.0035352 棲まう
+TOKEN[30]: 0.0070418    5 terrific
+	terrific WORD[30,   1]: 0.0016273 もの凄い
+	terrific WORD[30,   2]: 0.0016272 物凄い
+	terrific WORD[30,   3]: 0.0012626 凄じい
+	terrific WORD[30,   4]: 0.0012626 凄まじい
+	terrific WORD[30,   5]: 0.0012620 凄い
+TOKEN[31]: 0.0065722    2 hem
+	hem WORD[31,   1]: 0.0035135 左褄
+	hem WORD[31,   2]: 0.0030587 褄
+TOKEN[32]: 0.0063019    2 skirt
+	skirt WORD[32,   1]: 0.0033690 左褄
+	skirt WORD[32,   2]: 0.0029328 褄
+TOKEN[33]: 0.0059615    1 compartmentalization
+	compartmentalization WORD[33,   1]: 0.0059615 棲み分け
+TOKEN[34]: 0.0058773    5 terrible
+	terrible WORD[34,   1]: 0.0013582 もの凄い
+	terrible WORD[34,   2]: 0.0013581 物凄い
+	terrible WORD[34,   3]: 0.0010538 凄じい
+	terrible WORD[34,   4]: 0.0010538 凄まじい
+	terrible WORD[34,   5]: 0.0010533 凄い
+TOKEN[35]: 0.0057122    4 staggering
+	staggering WORD[35,   1]: 0.0016083 もの凄い
+	staggering WORD[35,   2]: 0.0016082 物凄い
+	staggering WORD[35,   3]: 0.0012479 凄じい
+	staggering WORD[35,   4]: 0.0012479 凄まじい
+TOKEN[36]: 0.0055531    1 segregation
+	segregation WORD[36,   1]: 0.0055531 棲み分け
+TOKEN[37]: 0.0054951    3 traditional
+	traditional WORD[37,   1]: 0.0020321 妻入
+	traditional WORD[37,   2]: 0.0020321 妻入り
+	traditional WORD[37,   3]: 0.0014309 和妻
+TOKEN[38]: 0.0054845    1 creation
+	creation WORD[38,   1]: 0.0027423 群棲
+TOKEN[39]: 0.0053757    2 bride
+	bride WORD[39,   1]: 0.0026878 幼な妻
+	bride WORD[39,   2]: 0.0026878 幼妻
+TOKEN[40]: 0.0053356    4 tremendous
+	tremendous WORD[40,   1]: 0.0015022 もの凄い
+	tremendous WORD[40,   2]: 0.0015022 物凄い
+	tremendous WORD[40,   3]: 0.0011656 凄じい
+	tremendous WORD[40,   4]: 0.0011656 凄まじい
+TOKEN[41]: 0.0052681    4 awful
+	awful WORD[41,   1]: 0.0014832 もの凄い
+	awful WORD[41,   2]: 0.0014832 物凄い
+	awful WORD[41,   3]: 0.0011508 凄じい
+	awful WORD[41,   4]: 0.0011508 凄まじい
+TOKEN[42]: 0.0052119    1 growing
+	growing WORD[42,   1]: 0.0026060 群棲
+TOKEN[43]: 0.0051360    1 location
+	location WORD[43,   1]: 0.0025680 群棲
+TOKEN[44]: 0.0051250    2 sides
+	sides WORD[44,   1]: 0.0025625 妻入
+	sides WORD[44,   2]: 0.0025625 妻入り
+TOKEN[45]: 0.0050974    1 aquatic
+	aquatic WORD[45,   1]: 0.0050974 水棲
+TOKEN[46]: 0.0050342    3 couple
+	couple WORD[46,   1]: 0.0031718 同棲
+	couple WORD[46,   2]: 0.0007793 妻夫
+	couple WORD[46,   3]: 0.0003038 夫妻
+TOKEN[47]: 0.0049652    1 left
+	left WORD[47,   1]: 0.0049652 左褄
+TOKEN[48]: 0.0048885    2 entrance
+	entrance WORD[48,   1]: 0.0024443 妻入
+	entrance WORD[48,   2]: 0.0024442 妻入り
+TOKEN[49]: 0.0048862    2 live
+	live WORD[49,   1]: 0.0024438 棲む
+	live WORD[49,   2]: 0.0024423 棲まう
+TOKEN[50]: 0.0046926    1 terrestrial
+	terrestrial WORD[50,   1]: 0.0046926 陸棲
+TOKEN[51]: 0.0044040    1 cohabitation
+	cohabitation WORD[51,   1]: 0.0044040 同棲
+TOKEN[52]: 0.0043856    4 Japanese
+	Japanese WORD[52,   1]: 0.0015765 妻入
+	Japanese WORD[52,   2]: 0.0015765 妻入り
+	Japanese WORD[52,   3]: 0.0011101 和妻
+	Japanese WORD[52,   4]: 0.0001226 吾妻
+TOKEN[53]: 0.0042749    2 main
+	main WORD[53,   1]: 0.0021374 妻入
+	main WORD[53,   2]: 0.0021374 妻入り
+TOKEN[54]: 0.0042232    1 seclusion
+	seclusion WORD[54,   1]: 0.0042232 幽棲
+TOKEN[55]: 0.0041998    2 style
+	style WORD[55,   1]: 0.0020999 妻入
+	style WORD[55,   2]: 0.0020999 妻入り
+TOKEN[56]: 0.0040097    3 husband
+	husband WORD[56,   1]: 0.0014901 妻夫
+	husband WORD[56,   2]: 0.0007390 通い妻
+	husband WORD[56,   3]: 0.0002905 夫妻
+TOKEN[57]: 0.0037972    2 frightful
+	frightful WORD[57,   1]: 0.0018986 もの凄い
+	frightful WORD[57,   2]: 0.0018986 物凄い
+TOKEN[58]: 0.0037301    1 paragenesis
+	paragenesis WORD[58,   1]: 0.0037301 共棲
+TOKEN[59]: 0.0037301    1 symbiosis
+	symbiosis WORD[59,   1]: 0.0037301 共棲
+TOKEN[60]: 0.0035644    3 gable
+	gable WORD[60,   1]: 0.0026412 妻壁
+	gable WORD[60,   2]: 0.0004616 切り妻
+	gable WORD[60,   3]: 0.0004616 切妻
+TOKEN[61]: 0.0035471    2 horrific
+	horrific WORD[61,   1]: 0.0017736 もの凄い
+	horrific WORD[61,   2]: 0.0017735 物凄い
+TOKEN[62]: 0.0034587    2 fierce
+	fierce WORD[62,   1]: 0.0018770 凄烈
+	fierce WORD[62,   2]: 0.0015817 凄絶
+TOKEN[63]: 0.0034394    1 reside
+	reside WORD[63,   1]: 0.0034394 棲まう
+TOKEN[64]: 0.0032861    1 coexistence
+	coexistence WORD[64,   1]: 0.0032861 共棲
+TOKEN[65]: 0.0032545    2 eerie
+	eerie WORD[65,   1]: 0.0016273 もの凄い
+	eerie WORD[65,   2]: 0.0016272 物凄い
+TOKEN[66]: 0.0032166    1 quiet
+	quiet WORD[66,   1]: 0.0032166 幽棲
+TOKEN[67]: 0.0031821    2 incredible
+	incredible WORD[67,   1]: 0.0015911 もの凄い
+	incredible WORD[67,   2]: 0.0015910 物凄い
+TOKEN[68]: 0.0030613    1 humour
+	humour WORD[68,   1]: 0.0030613 気褄
+TOKEN[69]: 0.0030106    1 humor
+	humor WORD[69,   1]: 0.0030106 気褄
+TOKEN[70]: 0.0029939    1 dwelling
+	dwelling WORD[70,   1]: 0.0029939 棲家
+TOKEN[71]: 0.0029461    2 weirdness
+	weirdness WORD[71,   1]: 0.0014730 凄み
+	weirdness WORD[71,   2]: 0.0014730 凄味
+TOKEN[72]: 0.0029461    2 dreadfulness
+	dreadfulness WORD[72,   1]: 0.0014730 凄み
+	dreadfulness WORD[72,   2]: 0.0014730 凄味
+TOKEN[73]: 0.0029461    2 grimness
+	grimness WORD[73,   1]: 0.0014730 凄み
+	grimness WORD[73,   2]: 0.0014730 凄味
+TOKEN[74]: 0.0029461    2 ghastliness
+	ghastliness WORD[74,   1]: 0.0014730 凄み
+	ghastliness WORD[74,   2]: 0.0014730 凄味
+TOKEN[75]: 0.0029446    1 den
+	den WORD[75,   1]: 0.0029446 棲家
+TOKEN[76]: 0.0029237    4 legal
+	legal WORD[76,   1]: 0.0008107 嫡妻
+	legal WORD[76,   2]: 0.0004324 本妻
+	legal WORD[76,   3]: 0.0003781 正妻
+	legal WORD[76,   4]: 0.0002459 前妻
+TOKEN[77]: 0.0029126    1 nest
+	nest WORD[77,   1]: 0.0029126 棲む
+TOKEN[78]: 0.0028903    1 secluded
+	secluded WORD[78,   1]: 0.0028903 隠棲
+TOKEN[79]: 0.0028860    1 geisha
+	geisha WORD[79,   1]: 0.0028860 左褄
+TOKEN[80]: 0.0028328    2 stupendous
+	stupendous WORD[80,   1]: 0.0014164 凄じい
+	stupendous WORD[80,   2]: 0.0014164 凄まじい
+TOKEN[81]: 0.0028328    2 shocking
+	shocking WORD[81,   1]: 0.0014164 凄じい
+	shocking WORD[81,   2]: 0.0014164 凄まじい
+TOKEN[82]: 0.0028328    2 prodigious
+	prodigious WORD[82,   1]: 0.0014164 凄じい
+	prodigious WORD[82,   2]: 0.0014164 凄まじい
+TOKEN[83]: 0.0028110    1 water
+	water WORD[83,   1]: 0.0028110 水棲
+TOKEN[84]: 0.0027800    2 house
+	house WORD[84,   1]: 0.0020322 棲家
+	house WORD[84,   2]: 0.0007477 賢妻
+TOKEN[85]: 0.0027161    1 holding
+	holding WORD[85,   1]: 0.0027161 左褄
+TOKEN[86]: 0.0027127    2 childish
+	childish WORD[86,   1]: 0.0013564 幼な妻
+	childish WORD[86,   2]: 0.0013563 幼妻
+TOKEN[87]: 0.0027009    1 temper
+	temper WORD[87,   1]: 0.0027009 気褄
+TOKEN[88]: 0.0025180    1 residence
+	residence WORD[88,   1]: 0.0025180 棲家
+TOKEN[89]: 0.0024955    2 intimidation
+	intimidation WORD[89,   1]: 0.0012478 凄み
+	intimidation WORD[89,   2]: 0.0012478 凄味
+TOKEN[90]: 0.0024708    2 extreme
+	extreme WORD[90,   1]: 0.0012354 もの凄い
+	extreme WORD[90,   2]: 0.0012354 物凄い
+TOKEN[91]: 0.0024365    1 mood
+	mood WORD[91,   1]: 0.0024365 気褄
+TOKEN[92]: 0.0024221    2 menace
+	menace WORD[92,   1]: 0.0012110 凄み
+	menace WORD[92,   2]: 0.0012110 凄味
+TOKEN[93]: 0.0024142    5 woman
+	woman WORD[93,   1]: 0.0005444 老妻
+	woman WORD[93,   2]: 0.0002898 側妻
+	woman WORD[93,   3]: 0.0002197 人妻
+	woman WORD[93,   4]: 0.0001969 妻
+	woman WORD[93,   5]: 0.0001788 妻帯
+TOKEN[94]: 0.0023752    2 two
+	two WORD[94,   1]: 0.0005836 妻夫
+	two WORD[94,   2]: 0.0002014 妻
+TOKEN[95]: 0.0023312    2 horrible
+	horrible WORD[95,   1]: 0.0011656 凄じい
+	horrible WORD[95,   2]: 0.0011656 凄まじい
+TOKEN[96]: 0.0023160    2 enormous
+	enormous WORD[96,   1]: 0.0011580 凄じい
+	enormous WORD[96,   2]: 0.0011580 凄まじい
+TOKEN[97]: 0.0023115    1 coherence
+	coherence WORD[97,   1]: 0.0023115 辻褄
+TOKEN[98]: 0.0022868    1 consistency
+	consistency WORD[98,   1]: 0.0022868 辻褄
+TOKEN[99]: 0.0022624    2 threat
+	threat WORD[99,   1]: 0.0011312 凄み
+	threat WORD[99,   2]: 0.0011312 凄味
+TOKEN[100]: 0.0022305    3 former
+	former WORD[100,   1]: 0.0011802 旧妻
+	former WORD[100,   2]: 0.0008506 元妻
+	former WORD[100,   3]: 0.0001997 先妻
+TOKEN[101]: 0.0021700    3 married
+	married WORD[101,   1]: 0.0007820 妻夫
+	married WORD[101,   2]: 0.0003049 夫妻
+	married WORD[101,   3]: 0.0003011 人妻
+TOKEN[102]: 0.0021220    2 absurd
+	absurd WORD[102,   1]: 0.0010610 凄じい
+	absurd WORD[102,   2]: 0.0010610 凄まじい
+TOKEN[103]: 0.0021219    1 virtuoso
+	virtuoso WORD[103,   1]: 0.0021219 凄腕
+TOKEN[104]: 0.0021001    3 young
+	young WORD[104,   1]: 0.0009178 幼な妻
+	young WORD[104,   2]: 0.0009178 幼妻
+	young WORD[104,   3]: 0.0002644 若妻
+TOKEN[105]: 0.0020344    1 resourceful
+	resourceful WORD[105,   1]: 0.0020344 凄腕
+TOKEN[106]: 0.0019452    2 pair
+	pair WORD[106,   1]: 0.0007715 妻夫
+	pair WORD[106,   2]: 0.0004022 妻戸
+TOKEN[107]: 0.0019357    1 magic
+	magic WORD[107,   1]: 0.0019357 和妻
+TOKEN[108]: 0.0019142    1 legitimate
+	legitimate WORD[108,   1]: 0.0009571 嫡妻
+TOKEN[109]: 0.0019044    2 roof
+	roof WORD[109,   1]: 0.0009522 切り妻
+	roof WORD[109,   2]: 0.0009522 切妻
+TOKEN[110]: 0.0018934    3 female
+	female WORD[110,   1]: 0.0003213 側妻
+	female WORD[110,   2]: 0.0002620 妻神
+	female WORD[110,   3]: 0.0002183 妻
+TOKEN[111]: 0.0018848    1 wizard
+	wizard WORD[111,   1]: 0.0018848 凄腕
+TOKEN[112]: 0.0018586    1 smaller
+	smaller WORD[112,   1]: 0.0003098 妻
+TOKEN[113]: 0.0018174    1 bloody
+	bloody WORD[113,   1]: 0.0018174 凄絶
+TOKEN[114]: 0.0017856    1 mastery
+	mastery WORD[114,   1]: 0.0017856 凄腕
+TOKEN[115]: 0.0017757    2 child
+	child WORD[115,   1]: 0.0008878 幼な妻
+	child WORD[115,   2]: 0.0008878 幼妻
+TOKEN[116]: 0.0017264    1 wall
+	wall WORD[116,   1]: 0.0017264 妻壁
+TOKEN[117]: 0.0017179    1 remarkable
+	remarkable WORD[117,   1]: 0.0017179 凄腕
+TOKEN[118]: 0.0015736    1 violent
+	violent WORD[118,   1]: 0.0015736 凄絶
+TOKEN[119]: 0.0015725    1 brilliant
+	brilliant WORD[119,   1]: 0.0015725 凄腕
+TOKEN[120]: 0.0014997    1 great
+	great WORD[120,   1]: 0.0014997 凄い
+TOKEN[121]: 0.0014648    1 technique
+	technique WORD[121,   1]: 0.0014648 凄腕
+TOKEN[122]: 0.0013755    1 ability
+	ability WORD[122,   1]: 0.0013755 凄腕
+TOKEN[123]: 0.0013692    3 concubine
+	concubine WORD[123,   1]: 0.0004267 側妻
+	concubine WORD[123,   2]: 0.0004167 権妻
+	concubine WORD[123,   3]: 0.0002630 後妻
+TOKEN[124]: 0.0013620    1 beautiful
+	beautiful WORD[124,   1]: 0.0013620 凄艶
+TOKEN[125]: 0.0013448    1 intimidate
+	intimidate WORD[125,   1]: 0.0013448 凄む
+TOKEN[126]: 0.0012111    1 threaten
+	threaten WORD[126,   1]: 0.0012111 凄む
+TOKEN[127]: 0.0012007    1 threatening
+	threatening WORD[127,   1]: 0.0012007 凄む
+TOKEN[128]: 0.0011829    2 daughter
+	daughter WORD[128,   1]: 0.0003944 妻女
+	daughter WORD[128,   2]: 0.0003942 妻君
+TOKEN[129]: 0.0011694    3 mistress
+	mistress WORD[129,   1]: 0.0003957 側妻
+	mistress WORD[129,   2]: 0.0003872 妻妾
+	mistress WORD[129,   3]: 0.0003864 権妻
+TOKEN[130]: 0.0011643    2 espouse
+	espouse WORD[130,   1]: 0.0005821 妻せる
+	espouse WORD[130,   2]: 0.0005821 妻合わせる
+TOKEN[131]: 0.0011549    1 sick
+	sick WORD[131,   1]: 0.0011549 病妻
+TOKEN[132]: 0.0011521    2 late
+	late WORD[132,   1]: 0.0009253 亡妻
+	late WORD[132,   2]: 0.0002268 先妻
+TOKEN[133]: 0.0011392    1 set
+	set WORD[133,   1]: 0.0005696 妻夫
+TOKEN[134]: 0.0011211    1 large
+	large WORD[134,   1]: 0.0005605 妻夫
+TOKEN[135]: 0.0011191    1 wonderful
+	wonderful WORD[135,   1]: 0.0011191 凄い
+TOKEN[136]: 0.0011086    1 lightning
+	lightning WORD[136,   1]: 0.0011086 稲妻
+TOKEN[137]: 0.0010802    1 extent
+	extent WORD[137,   1]: 0.0010802 凄い
+TOKEN[138]: 0.0010202    1 small
+	small WORD[138,   1]: 0.0005101 妻夫
+TOKEN[139]: 0.0010140    1 vast
+	vast WORD[139,   1]: 0.0010140 凄い
+TOKEN[140]: 0.0010092    1 wise
+	wise WORD[140,   1]: 0.0010092 賢妻
+TOKEN[141]: 0.0010025    1 deceased
+	deceased WORD[141,   1]: 0.0010025 亡妻
+TOKEN[142]: 0.0009929    2 marry
+	marry WORD[142,   1]: 0.0004965 妻せる
+	marry WORD[142,   2]: 0.0004965 妻合わせる
+TOKEN[143]: 0.0009131    1 strength
+	strength WORD[143,   1]: 0.0009131 凄い
+TOKEN[144]: 0.0009009    1 person
+	person WORD[144,   1]: 0.0009009 凄腕
+TOKEN[145]: 0.0006537    2 construction
+	construction WORD[145,   1]: 0.0003268 切り妻
+	construction WORD[145,   2]: 0.0003268 切妻
+TOKEN[146]: 0.0005837    1 polygamous
+	polygamous WORD[146,   1]: 0.0005837 正妻
+TOKEN[147]: 0.0005736    2 building
+	building WORD[147,   1]: 0.0002868 切り妻
+	building WORD[147,   2]: 0.0002868 切妻
+TOKEN[148]: 0.0005731    1 es
+	es WORD[148,   1]: 0.0005731 妻妾
+TOKEN[149]: 0.0005358    1 jealousy
+	jealousy WORD[149,   1]: 0.0002679 後妻
+TOKEN[150]: 0.0005282    1 polygyny
+	polygyny WORD[150,   1]: 0.0005282 多妻
+TOKEN[151]: 0.0005282    1 polygamy
+	polygamy WORD[151,   1]: 0.0005282 多妻
+TOKEN[152]: 0.0005103    1 old
+	old WORD[152,   1]: 0.0005103 老妻
+TOKEN[153]: 0.0005064    1 sleight
+	sleight WORD[153,   1]: 0.0005064 手妻
+TOKEN[154]: 0.0004970    1 pavilion
+	pavilion WORD[154,   1]: 0.0004970 妻戸
+TOKEN[155]: 0.0004905    1 lawful
+	lawful WORD[155,   1]: 0.0004905 正妻
+TOKEN[156]: 0.0004357    1 eastern
+	eastern WORD[156,   1]: 0.0004357 吾妻
+TOKEN[157]: 0.0004281    1 someone
+	someone WORD[157,   1]: 0.0002141 妻君
+TOKEN[158]: 0.0004098    1 kept
+	kept WORD[158,   1]: 0.0004098 側妻
+TOKEN[159]: 0.0004063    1 interior
+	interior WORD[159,   1]: 0.0004063 妻戸
+TOKEN[160]: 0.0003884    1 second
+	second WORD[160,   1]: 0.0001942 後妻
+TOKEN[161]: 0.0003828    1 bolt
+	bolt WORD[161,   1]: 0.0003828 稲妻
+TOKEN[162]: 0.0003816    1 priest
+	priest WORD[162,   1]: 0.0003816 梵妻
+TOKEN[163]: 0.0003699    1 palace
+	palace WORD[163,   1]: 0.0003699 妻戸
+TOKEN[164]: 0.0003609    1 servant
+	servant WORD[164,   1]: 0.0003609 側妻
+TOKEN[165]: 0.0003563    1 flash
+	flash WORD[165,   1]: 0.0003563 稲妻
+TOKEN[166]: 0.0003500    1 goddess
+	goddess WORD[166,   1]: 0.0003500 妻神
+TOKEN[167]: 0.0003476    1 Buddhist
+	Buddhist WORD[167,   1]: 0.0003476 梵妻
+TOKEN[168]: 0.0003430    1 relationship
+	relationship WORD[168,   1]: 0.0003430 正妻
+TOKEN[169]: 0.0003263    1 door
+	door WORD[169,   1]: 0.0003263 妻戸
+TOKEN[170]: 0.0003226    1 wooden
+	wooden WORD[170,   1]: 0.0003226 妻戸
+TOKEN[171]: 0.0003126    1 first
+	first WORD[171,   1]: 0.0003126 正妻
+TOKEN[172]: 0.0003064    1 home
+	home WORD[172,   1]: 0.0003064 妻戸
+TOKEN[173]: 0.0003040    1 good
+	good WORD[173,   1]: 0.0003040 良妻
+TOKEN[174]: 0.0002944    1 marrying
+	marrying WORD[174,   1]: 0.0002944 妻帯
+TOKEN[175]: 0.0002921    1 hand
+	hand WORD[175,   1]: 0.0002921 手妻
+TOKEN[176]: 0.0002889    1 deity
+	deity WORD[176,   1]: 0.0002889 妻神
+TOKEN[177]: 0.0002764    1 bad
+	bad WORD[177,   1]: 0.0002764 悪妻
+TOKEN[178]: 0.0002535    1 wagon
+	wagon WORD[178,   1]: 0.0002535 吾妻
+TOKEN[179]: 0.0002479    1 zither
+	zither WORD[179,   1]: 0.0002479 吾妻
+TOKEN[180]: 0.0002446    1 submission
+	submission WORD[180,   1]: 0.0002446 恐妻
+TOKEN[181]: 0.0002311    1 perspective
+	perspective WORD[181,   1]: 0.0002311 吾妻
+TOKEN[182]: 0.0002279    1 marriage
+	marriage WORD[182,   1]: 0.0002279 妻帯
+TOKEN[183]: 0.0002246    1 beloved
+	beloved WORD[183,   1]: 0.0002246 愛妻
+TOKEN[184]: 0.0002170    1 spouse
+	spouse WORD[184,   1]: 0.0002170 吾妻
+TOKEN[185]: 0.0002091    1 new
+	new WORD[185,   1]: 0.0002091 新妻
+TOKEN[186]: 0.0002048    1 native
+	native WORD[186,   1]: 0.0002048 吾妻
+TOKEN[187]: 0.0001993    1 east
+	east WORD[187,   1]: 0.0001993 吾妻
+TOKEN[188]: 0.0001633    1 Edo
+	Edo WORD[188,   1]: 0.0001633 吾妻
+TOKEN[189]: 0.0001576    1 Japan
+	Japan WORD[189,   1]: 0.0001576 吾妻

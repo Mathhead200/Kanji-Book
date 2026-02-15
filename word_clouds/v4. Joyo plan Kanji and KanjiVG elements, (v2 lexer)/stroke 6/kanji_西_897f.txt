@@ -1,0 +1,494 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1077240   28 west           : 西の丸, 征西, 西回り, 西廻り, 西壁, 西征, 西縁, 西流, 正西, 真西, ...
+0.0933590   17 western        : 西の丸, 征西, 西征, 西縁, 西回り, 西廻り, 西郊, 西軍, 西域, 西山, ...
+0.0637301    1 retired        : 西の丸
+0.0637301    1 citadel        : 西の丸
+0.0605845    1 apparent       : 西の丸
+0.0572416    1 heir           : 西の丸
+0.0567252    1 wing           : 西の丸
+0.0567252    1 shogun         : 西の丸
+0.0480004    1 castle         : 西の丸
+0.0462844    1 live           : 西の丸
+0.0419850    1 Edo            : 西の丸
+0.0324077    5 dynasty        : 西漢, 西晋, 西周, 西魏, 西戎
+0.0138566    2 expedition     : 征西, 西征
+0.0132519    2 campaign       : 征西, 西征
+0.0103412    2 military       : 征西, 西征
+0.0089374    2 sun            : 西日, 西陽
+0.0060538    1 Christianity   : 西教
+0.0057617    2 westwards      : 西回り, 西廻り
+0.0056857    1 religion       : 西教
+0.0051443    4 east           : 西回り, 西廻り, 東西, 西国
+0.0048284    2 globe          : 西回り, 西廻り
+0.0047956    2 wind           : 西風, 西
+0.0047369    2 circuit        : 西回り, 西廻り
+0.0046826    2 westering      : 西日, 西陽
+0.0042696    1 alt            : 西海道
+0.0038712    3 region         : 西海道, 西部, 関西
+0.0037574    2 watermelon     : 西瓜割り, 西瓜
+0.0037479    4 going          : 西回り, 西廻り, 西行, 西下
+0.0037417    4 westward       : 西遊, 西漸, 西行, 以西
+0.0037353    2 route          : 西回り, 西廻り
+0.0037304    3 cake           : 西伯利, 西伯利亜, 西比利亜
+0.0036734    1 Khitan         : 西遼
+0.0036734    1 empire         : 西遼
+0.0036157    2 afternoon      : 西日, 西陽
+0.0035955    2 due            : 正西, 真西
+0.0033172    1 Wei            : 西魏
+0.0032638    1 Chin           : 西晋
+0.0031495    1 Jin            : 西晋
+0.0031004    1 c              : 西周
+0.0029849    2 taking         : 西回り, 西廻り
+0.0029761    1 Midwest        : 中西部
+0.0029674    1 Tangut         : 西夏
+0.0029161    2 setting        : 西日, 西陽
+0.0028304    1 Chou           : 西周
+0.0028237    1 suburb         : 西郊
+0.0027068    1 Asian          : 西遼
+0.0026820    1 pung           : 西
+0.0026688    1 Spanish        : 西語
+0.0026484    1 Federal        : 西ドイツ
+0.0025417    1 Empire         : 西夏
+0.0024191    2 edge           : 西縁, 西端
+0.0023113    1 name           : 西海道
+0.0023017    3 Japan          : 日西, 西国, 関西
+0.0021735    3 sponge         : 西伯利, 西伯利亜, 西比利亜
+0.0021608    1 flowing        : 西流
+0.0021388    1 margin         : 西縁
+0.0021109    1 tile           : 西
+0.0020801    1 splitting      : 西瓜割り
+0.0019816    1 winning        : 西
+0.0019493    1 facing         : 西向き
+0.0019323    2 Russia         : 露西亜, 魯西亜
+0.0018484    2 India          : 西土, 西国
+0.0018357    1 civil          : 西軍
+0.0018302    2 Christian      : 西紀, 西暦
+0.0018260    1 trip           : 西遊
+0.0017725    3 bean           : 西伯利, 西伯利亜, 西比利亜
+0.0017406    3 paste          : 西伯利, 西伯利亜, 西比利亜
+0.0016923    1 army           : 西軍
+0.0016862    1 river          : 西流
+0.0016674    1 language       : 西語
+0.0016661    1 wall           : 西壁
+0.0016612    1 middle         : 中西部
+0.0016423    3 sweet          : 西伯利, 西伯利亜, 西比利亜
+0.0015793    3 area           : 西山, 西神, 西国
+0.0015697    1 hand           : 西
+0.0015287    1 thinker        : 西哲
+0.0015281    1 war            : 西軍
+0.0015030    1 mountain       : 西壁
+0.0014660    1 face           : 西壁
+0.0014182    1 game           : 西瓜割り
+0.0014113    1 Citrullus      : 西瓜
+0.0013790    1 philosopher    : 西哲
+0.0013686    3 made           : 西伯利, 西伯利亜, 西比利亜
+0.0013071    1 Shang          : 西戎
+0.0012807    1 longitude      : 西経
+0.0012407    2 bank           : 西側, 西岸
+0.0011987    1 proverb        : 西諺
+0.0011983    1 player         : 西家
+0.0011826    2 era            : 西紀, 関西
+0.0011802    1 twilight       : 西明かり
+0.0011159    1 goddess        : 西王母
+0.0011014    1 philosophy     : 西哲
+0.0010652    1 distinguished  : 西哲
+0.0009918    2 side           : 西側, 西端
+0.0009677    1 sky            : 西明かり
+0.0009597    1 evening        : 西明かり
+0.0009573    1 saying         : 西諺
+0.0009124    2 part           : 西部, 西国
+0.0009044    1 southwest      : 南西
+0.0008859    1 ranging        : 西国
+0.0008664    1 Gregorian      : 西暦
+0.0008466    1 conglomerate   : 西武
+0.0008306    1 fighter        : 西方
+0.0007994    1 ancient        : 西王母
+0.0007787    1 exit           : 西口
+0.0007631    1 ladies         : 東西
+0.0007625    1 Amitabha       : 西方
+0.0007556    1 proceeding     : 西進
+0.0007442    1 corporation    : 西友
+0.0007338    1 paradise       : 西方
+0.0007304    1 great          : 西哲
+0.0007285    1 coast          : 西岸
+0.0007195    1 please         : 東西
+0.0006880    1 pilgrimage     : 西国
+0.0006701    1 Chinese        : 西王母
+0.0006617    1 entrance       : 西口
+0.0006579    1 heading        : 西行
+0.0006450    1 capital        : 西京
+0.0006353    1 railway        : 西武
+0.0006219    1 attention      : 東西
+0.0006088    1 surrounding    : 関西
+0.0006009    1 feudal         : 関西
+0.0005866    1 sacred         : 西国
+0.0005854    1 direction      : 西方
+0.0005652    1 calendar       : 西暦
+0.0005581    1 advance        : 西漸
+0.0005549    1 match          : 西方
+0.0005428    1 city           : 西端
+0.0005345    1 half           : 関西
+0.0005170    1 leaving        : 西下
+0.0005148    1 Buddhist       : 西方
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1077240   28 west
+	west WORD[ 1,   1]: 0.0525056 西の丸
+	west WORD[ 1,   2]: 0.0084769 征西
+	west WORD[ 1,   3]: 0.0039780 西回り
+	west WORD[ 1,   4]: 0.0039780 西廻り
+	west WORD[ 1,   5]: 0.0039298 西壁
+	west WORD[ 1,   6]: 0.0038425 西征
+	west WORD[ 1,   7]: 0.0020971 西縁
+	west WORD[ 1,   8]: 0.0020087 西流
+	west WORD[ 1,   9]: 0.0019783 正西
+	west WORD[ 1,  10]: 0.0019486 真西
+	west WORD[ 1,  11]: 0.0019388 西向き
+	west WORD[ 1,  12]: 0.0019278 中西部
+	west WORD[ 1,  13]: 0.0018088 西風
+	west WORD[ 1,  14]: 0.0014219 西口
+	west WORD[ 1,  15]: 0.0014218 西側
+	west WORD[ 1,  16]: 0.0014217 西
+	west WORD[ 1,  17]: 0.0012796 西岸
+	west WORD[ 1,  18]: 0.0012494 西家
+	west WORD[ 1,  19]: 0.0012231 西下
+	west WORD[ 1,  20]: 0.0009885 西戎
+	west WORD[ 1,  21]: 0.0009872 西経
+	west WORD[ 1,  22]: 0.0007110 西山
+	west WORD[ 1,  23]: 0.0006823 東西
+	west WORD[ 1,  24]: 0.0006403 西部
+	west WORD[ 1,  25]: 0.0006402 西端
+	west WORD[ 1,  26]: 0.0006400 西進
+	west WORD[ 1,  27]: 0.0006116 西行
+	west WORD[ 1,  28]: 0.0005432 以西
+TOKEN[ 2]: 0.0933590   17 western
+	western WORD[ 2,   1]: 0.0580927 西の丸
+	western WORD[ 2,   2]: 0.0093789 征西
+	western WORD[ 2,   3]: 0.0042514 西征
+	western WORD[ 2,   4]: 0.0023202 西縁
+	western WORD[ 2,   5]: 0.0022006 西回り
+	western WORD[ 2,   6]: 0.0022006 西廻り
+	western WORD[ 2,   7]: 0.0021570 西郊
+	western WORD[ 2,   8]: 0.0019793 西軍
+	western WORD[ 2,   9]: 0.0019437 西域
+	western WORD[ 2,  10]: 0.0015734 西山
+	western WORD[ 2,  11]: 0.0014169 西方
+	western WORD[ 2,  12]: 0.0013535 西国
+	western WORD[ 2,  13]: 0.0011920 西明かり
+	western WORD[ 2,  14]: 0.0010957 西土
+	western WORD[ 2,  15]: 0.0007866 西京
+	western WORD[ 2,  16]: 0.0007084 西部
+	western WORD[ 2,  17]: 0.0007083 西端
+TOKEN[ 3]: 0.0637301    1 retired
+	retired WORD[ 3,   1]: 0.0637301 西の丸
+TOKEN[ 4]: 0.0637301    1 citadel
+	citadel WORD[ 4,   1]: 0.0637301 西の丸
+TOKEN[ 5]: 0.0605845    1 apparent
+	apparent WORD[ 5,   1]: 0.0605845 西の丸
+TOKEN[ 6]: 0.0572416    1 heir
+	heir WORD[ 6,   1]: 0.0572416 西の丸
+TOKEN[ 7]: 0.0567252    1 wing
+	wing WORD[ 7,   1]: 0.0567252 西の丸
+TOKEN[ 8]: 0.0567252    1 shogun
+	shogun WORD[ 8,   1]: 0.0567252 西の丸
+TOKEN[ 9]: 0.0480004    1 castle
+	castle WORD[ 9,   1]: 0.0480004 西の丸
+TOKEN[10]: 0.0462844    1 live
+	live WORD[10,   1]: 0.0462844 西の丸
+TOKEN[11]: 0.0419850    1 Edo
+	Edo WORD[11,   1]: 0.0419850 西の丸
+TOKEN[12]: 0.0324077    5 dynasty
+	dynasty WORD[12,   1]: 0.0206104 西漢
+	dynasty WORD[12,   2]: 0.0045343 西晋
+	dynasty WORD[12,   3]: 0.0039323 西周
+	dynasty WORD[12,   4]: 0.0024228 西魏
+	dynasty WORD[12,   5]: 0.0009080 西戎
+TOKEN[13]: 0.0138566    2 expedition
+	expedition WORD[13,   1]: 0.0095347 征西
+	expedition WORD[13,   2]: 0.0043220 西征
+TOKEN[14]: 0.0132519    2 campaign
+	campaign WORD[14,   1]: 0.0091186 征西
+	campaign WORD[14,   2]: 0.0041334 西征
+TOKEN[15]: 0.0103412    2 military
+	military WORD[15,   1]: 0.0071157 征西
+	military WORD[15,   2]: 0.0032255 西征
+TOKEN[16]: 0.0089374    2 sun
+	sun WORD[16,   1]: 0.0029791 西日
+	sun WORD[16,   2]: 0.0029791 西陽
+TOKEN[17]: 0.0060538    1 Christianity
+	Christianity WORD[17,   1]: 0.0060538 西教
+TOKEN[18]: 0.0057617    2 westwards
+	westwards WORD[18,   1]: 0.0028808 西回り
+	westwards WORD[18,   2]: 0.0028808 西廻り
+TOKEN[19]: 0.0056857    1 religion
+	religion WORD[19,   1]: 0.0056857 西教
+TOKEN[20]: 0.0051443    4 east
+	east WORD[20,   1]: 0.0019408 西回り
+	east WORD[20,   2]: 0.0019408 西廻り
+	east WORD[20,   3]: 0.0006658 東西
+	east WORD[20,   4]: 0.0005968 西国
+TOKEN[21]: 0.0048284    2 globe
+	globe WORD[21,   1]: 0.0024142 西回り
+	globe WORD[21,   2]: 0.0024142 西廻り
+TOKEN[22]: 0.0047956    2 wind
+	wind WORD[22,   1]: 0.0014281 西風
+	wind WORD[22,   2]: 0.0011225 西
+TOKEN[23]: 0.0047369    2 circuit
+	circuit WORD[23,   1]: 0.0023685 西回り
+	circuit WORD[23,   2]: 0.0023685 西廻り
+TOKEN[24]: 0.0046826    2 westering
+	westering WORD[24,   1]: 0.0015609 西日
+	westering WORD[24,   2]: 0.0015609 西陽
+TOKEN[25]: 0.0042696    1 alt
+	alt WORD[25,   1]: 0.0042696 西海道
+TOKEN[26]: 0.0038712    3 region
+	region WORD[26,   1]: 0.0027654 西海道
+	region WORD[26,   2]: 0.0005775 西部
+	region WORD[26,   3]: 0.0005282 関西
+TOKEN[27]: 0.0037574    2 watermelon
+	watermelon WORD[27,   1]: 0.0024391 西瓜割り
+	watermelon WORD[27,   2]: 0.0013184 西瓜
+TOKEN[28]: 0.0037479    4 going
+	going WORD[28,   1]: 0.0014333 西回り
+	going WORD[28,   2]: 0.0014333 西廻り
+	going WORD[28,   3]: 0.0004407 西行
+	going WORD[28,   4]: 0.0004407 西下
+TOKEN[29]: 0.0037417    4 westward
+	westward WORD[29,   1]: 0.0013131 西遊
+	westward WORD[29,   2]: 0.0008661 西漸
+	westward WORD[29,   3]: 0.0008275 西行
+	westward WORD[29,   4]: 0.0007349 以西
+TOKEN[30]: 0.0037353    2 route
+	route WORD[30,   1]: 0.0018677 西回り
+	route WORD[30,   2]: 0.0018677 西廻り
+TOKEN[31]: 0.0037304    3 cake
+	cake WORD[31,   1]: 0.0012435 西伯利
+	cake WORD[31,   2]: 0.0012435 西伯利亜
+	cake WORD[31,   3]: 0.0012435 西比利亜
+TOKEN[32]: 0.0036734    1 Khitan
+	Khitan WORD[32,   1]: 0.0036734 西遼
+TOKEN[33]: 0.0036734    1 empire
+	empire WORD[33,   1]: 0.0036734 西遼
+TOKEN[34]: 0.0036157    2 afternoon
+	afternoon WORD[34,   1]: 0.0012052 西日
+	afternoon WORD[34,   2]: 0.0012052 西陽
+TOKEN[35]: 0.0035955    2 due
+	due WORD[35,   1]: 0.0018114 正西
+	due WORD[35,   2]: 0.0017841 真西
+TOKEN[36]: 0.0033172    1 Wei
+	Wei WORD[36,   1]: 0.0033172 西魏
+TOKEN[37]: 0.0032638    1 Chin
+	Chin WORD[37,   1]: 0.0032638 西晋
+TOKEN[38]: 0.0031495    1 Jin
+	Jin WORD[38,   1]: 0.0031495 西晋
+TOKEN[39]: 0.0031004    1 c
+	c WORD[39,   1]: 0.0031004 西周
+TOKEN[40]: 0.0029849    2 taking
+	taking WORD[40,   1]: 0.0014925 西回り
+	taking WORD[40,   2]: 0.0014924 西廻り
+TOKEN[41]: 0.0029761    1 Midwest
+	Midwest WORD[41,   1]: 0.0029761 中西部
+TOKEN[42]: 0.0029674    1 Tangut
+	Tangut WORD[42,   1]: 0.0029674 西夏
+TOKEN[43]: 0.0029161    2 setting
+	setting WORD[43,   1]: 0.0009720 西日
+	setting WORD[43,   2]: 0.0009720 西陽
+TOKEN[44]: 0.0028304    1 Chou
+	Chou WORD[44,   1]: 0.0028304 西周
+TOKEN[45]: 0.0028237    1 suburb
+	suburb WORD[45,   1]: 0.0028237 西郊
+TOKEN[46]: 0.0027068    1 Asian
+	Asian WORD[46,   1]: 0.0027068 西遼
+TOKEN[47]: 0.0026820    1 pung
+	pung WORD[47,   1]: 0.0008940 西
+TOKEN[48]: 0.0026688    1 Spanish
+	Spanish WORD[48,   1]: 0.0026688 西語
+TOKEN[49]: 0.0026484    1 Federal
+	Federal WORD[49,   1]: 0.0026484 西ドイツ
+TOKEN[50]: 0.0025417    1 Empire
+	Empire WORD[50,   1]: 0.0025417 西夏
+TOKEN[51]: 0.0024191    2 edge
+	edge WORD[51,   1]: 0.0018533 西縁
+	edge WORD[51,   2]: 0.0005658 西端
+TOKEN[52]: 0.0023113    1 name
+	name WORD[52,   1]: 0.0023113 西海道
+TOKEN[53]: 0.0023017    3 Japan
+	Japan WORD[53,   1]: 0.0013776 日西
+	Japan WORD[53,   2]: 0.0004721 西国
+	Japan WORD[53,   3]: 0.0004520 関西
+TOKEN[54]: 0.0021735    3 sponge
+	sponge WORD[54,   1]: 0.0007245 西伯利
+	sponge WORD[54,   2]: 0.0007245 西伯利亜
+	sponge WORD[54,   3]: 0.0007245 西比利亜
+TOKEN[55]: 0.0021608    1 flowing
+	flowing WORD[55,   1]: 0.0021608 西流
+TOKEN[56]: 0.0021388    1 margin
+	margin WORD[56,   1]: 0.0021388 西縁
+TOKEN[57]: 0.0021109    1 tile
+	tile WORD[57,   1]: 0.0007036 西
+TOKEN[58]: 0.0020801    1 splitting
+	splitting WORD[58,   1]: 0.0020801 西瓜割り
+TOKEN[59]: 0.0019816    1 winning
+	winning WORD[59,   1]: 0.0006605 西
+TOKEN[60]: 0.0019493    1 facing
+	facing WORD[60,   1]: 0.0019493 西向き
+TOKEN[61]: 0.0019323    2 Russia
+	Russia WORD[61,   1]: 0.0009662 露西亜
+	Russia WORD[61,   2]: 0.0009662 魯西亜
+TOKEN[62]: 0.0018484    2 India
+	India WORD[62,   1]: 0.0011427 西土
+	India WORD[62,   2]: 0.0007058 西国
+TOKEN[63]: 0.0018357    1 civil
+	civil WORD[63,   1]: 0.0018357 西軍
+TOKEN[64]: 0.0018302    2 Christian
+	Christian WORD[64,   1]: 0.0011100 西紀
+	Christian WORD[64,   2]: 0.0007203 西暦
+TOKEN[65]: 0.0018260    1 trip
+	trip WORD[65,   1]: 0.0018260 西遊
+TOKEN[66]: 0.0017725    3 bean
+	bean WORD[66,   1]: 0.0005908 西伯利
+	bean WORD[66,   2]: 0.0005908 西伯利亜
+	bean WORD[66,   3]: 0.0005908 西比利亜
+TOKEN[67]: 0.0017406    3 paste
+	paste WORD[67,   1]: 0.0005802 西伯利
+	paste WORD[67,   2]: 0.0005802 西伯利亜
+	paste WORD[67,   3]: 0.0005802 西比利亜
+TOKEN[68]: 0.0016923    1 army
+	army WORD[68,   1]: 0.0016923 西軍
+TOKEN[69]: 0.0016862    1 river
+	river WORD[69,   1]: 0.0016862 西流
+TOKEN[70]: 0.0016674    1 language
+	language WORD[70,   1]: 0.0016674 西語
+TOKEN[71]: 0.0016661    1 wall
+	wall WORD[71,   1]: 0.0016661 西壁
+TOKEN[72]: 0.0016612    1 middle
+	middle WORD[72,   1]: 0.0016612 中西部
+TOKEN[73]: 0.0016423    3 sweet
+	sweet WORD[73,   1]: 0.0005474 西伯利
+	sweet WORD[73,   2]: 0.0005474 西伯利亜
+	sweet WORD[73,   3]: 0.0005474 西比利亜
+TOKEN[74]: 0.0015793    3 area
+	area WORD[74,   1]: 0.0005721 西山
+	area WORD[74,   2]: 0.0005150 西神
+	area WORD[74,   3]: 0.0004922 西国
+TOKEN[75]: 0.0015697    1 hand
+	hand WORD[75,   1]: 0.0005232 西
+TOKEN[76]: 0.0015287    1 thinker
+	thinker WORD[76,   1]: 0.0015287 西哲
+TOKEN[77]: 0.0015281    1 war
+	war WORD[77,   1]: 0.0015281 西軍
+TOKEN[78]: 0.0015030    1 mountain
+	mountain WORD[78,   1]: 0.0015030 西壁
+TOKEN[79]: 0.0014660    1 face
+	face WORD[79,   1]: 0.0014660 西壁
+TOKEN[80]: 0.0014182    1 game
+	game WORD[80,   1]: 0.0014182 西瓜割り
+TOKEN[81]: 0.0014113    1 Citrullus
+	Citrullus WORD[81,   1]: 0.0014113 西瓜
+TOKEN[82]: 0.0013790    1 philosopher
+	philosopher WORD[82,   1]: 0.0013790 西哲
+TOKEN[83]: 0.0013686    3 made
+	made WORD[83,   1]: 0.0004562 西伯利
+	made WORD[83,   2]: 0.0004562 西伯利亜
+	made WORD[83,   3]: 0.0004562 西比利亜
+TOKEN[84]: 0.0013071    1 Shang
+	Shang WORD[84,   1]: 0.0013071 西戎
+TOKEN[85]: 0.0012807    1 longitude
+	longitude WORD[85,   1]: 0.0012807 西経
+TOKEN[86]: 0.0012407    2 bank
+	bank WORD[86,   1]: 0.0006530 西側
+	bank WORD[86,   2]: 0.0005877 西岸
+TOKEN[87]: 0.0011987    1 proverb
+	proverb WORD[87,   1]: 0.0011987 西諺
+TOKEN[88]: 0.0011983    1 player
+	player WORD[88,   1]: 0.0011983 西家
+TOKEN[89]: 0.0011826    2 era
+	era WORD[89,   1]: 0.0007422 西紀
+	era WORD[89,   2]: 0.0004404 関西
+TOKEN[90]: 0.0011802    1 twilight
+	twilight WORD[90,   1]: 0.0011802 西明かり
+TOKEN[91]: 0.0011159    1 goddess
+	goddess WORD[91,   1]: 0.0011159 西王母
+TOKEN[92]: 0.0011014    1 philosophy
+	philosophy WORD[92,   1]: 0.0011014 西哲
+TOKEN[93]: 0.0010652    1 distinguished
+	distinguished WORD[93,   1]: 0.0010652 西哲
+TOKEN[94]: 0.0009918    2 side
+	side WORD[94,   1]: 0.0005219 西側
+	side WORD[94,   2]: 0.0004700 西端
+TOKEN[95]: 0.0009677    1 sky
+	sky WORD[95,   1]: 0.0009677 西明かり
+TOKEN[96]: 0.0009597    1 evening
+	evening WORD[96,   1]: 0.0009597 西明かり
+TOKEN[97]: 0.0009573    1 saying
+	saying WORD[97,   1]: 0.0009573 西諺
+TOKEN[98]: 0.0009124    2 part
+	part WORD[98,   1]: 0.0004667 西部
+	part WORD[98,   2]: 0.0004458 西国
+TOKEN[99]: 0.0009044    1 southwest
+	southwest WORD[99,   1]: 0.0009044 南西
+TOKEN[100]: 0.0008859    1 ranging
+	ranging WORD[100,   1]: 0.0008859 西国
+TOKEN[101]: 0.0008664    1 Gregorian
+	Gregorian WORD[101,   1]: 0.0008664 西暦
+TOKEN[102]: 0.0008466    1 conglomerate
+	conglomerate WORD[102,   1]: 0.0008466 西武
+TOKEN[103]: 0.0008306    1 fighter
+	fighter WORD[103,   1]: 0.0008306 西方
+TOKEN[104]: 0.0007994    1 ancient
+	ancient WORD[104,   1]: 0.0007994 西王母
+TOKEN[105]: 0.0007787    1 exit
+	exit WORD[105,   1]: 0.0007787 西口
+TOKEN[106]: 0.0007631    1 ladies
+	ladies WORD[106,   1]: 0.0007631 東西
+TOKEN[107]: 0.0007625    1 Amitabha
+	Amitabha WORD[107,   1]: 0.0007625 西方
+TOKEN[108]: 0.0007556    1 proceeding
+	proceeding WORD[108,   1]: 0.0007556 西進
+TOKEN[109]: 0.0007442    1 corporation
+	corporation WORD[109,   1]: 0.0007442 西友
+TOKEN[110]: 0.0007338    1 paradise
+	paradise WORD[110,   1]: 0.0007338 西方
+TOKEN[111]: 0.0007304    1 great
+	great WORD[111,   1]: 0.0007304 西哲
+TOKEN[112]: 0.0007285    1 coast
+	coast WORD[112,   1]: 0.0007285 西岸
+TOKEN[113]: 0.0007195    1 please
+	please WORD[113,   1]: 0.0007195 東西
+TOKEN[114]: 0.0006880    1 pilgrimage
+	pilgrimage WORD[114,   1]: 0.0006880 西国
+TOKEN[115]: 0.0006701    1 Chinese
+	Chinese WORD[115,   1]: 0.0006701 西王母
+TOKEN[116]: 0.0006617    1 entrance
+	entrance WORD[116,   1]: 0.0006617 西口
+TOKEN[117]: 0.0006579    1 heading
+	heading WORD[117,   1]: 0.0006579 西行
+TOKEN[118]: 0.0006450    1 capital
+	capital WORD[118,   1]: 0.0006450 西京
+TOKEN[119]: 0.0006353    1 railway
+	railway WORD[119,   1]: 0.0006353 西武
+TOKEN[120]: 0.0006219    1 attention
+	attention WORD[120,   1]: 0.0006219 東西
+TOKEN[121]: 0.0006088    1 surrounding
+	surrounding WORD[121,   1]: 0.0006088 関西
+TOKEN[122]: 0.0006009    1 feudal
+	feudal WORD[122,   1]: 0.0006009 関西
+TOKEN[123]: 0.0005866    1 sacred
+	sacred WORD[123,   1]: 0.0005866 西国
+TOKEN[124]: 0.0005854    1 direction
+	direction WORD[124,   1]: 0.0005854 西方
+TOKEN[125]: 0.0005652    1 calendar
+	calendar WORD[125,   1]: 0.0005652 西暦
+TOKEN[126]: 0.0005581    1 advance
+	advance WORD[126,   1]: 0.0005581 西漸
+TOKEN[127]: 0.0005549    1 match
+	match WORD[127,   1]: 0.0005549 西方
+TOKEN[128]: 0.0005428    1 city
+	city WORD[128,   1]: 0.0005428 西端
+TOKEN[129]: 0.0005345    1 half
+	half WORD[129,   1]: 0.0005345 関西
+TOKEN[130]: 0.0005170    1 leaving
+	leaving WORD[130,   1]: 0.0005170 西下
+TOKEN[131]: 0.0005148    1 Buddhist
+	Buddhist WORD[131,   1]: 0.0005148 西方

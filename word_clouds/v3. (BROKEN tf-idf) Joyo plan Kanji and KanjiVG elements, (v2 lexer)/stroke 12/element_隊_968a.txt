@@ -1,0 +1,692 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0836199    6 unit           : 解隊, 隊旗, 帰隊, 原隊, 部隊, 隊
+0.0826535    5 military       : 解隊, 隊務, 隊旗, 除隊, 軍隊
+0.0595568    1 breaking       : 解隊
+0.0306082    4 fall           : 墜ちる, 墜とす, 墜落, 失墜
+0.0197381    6 force          : 全隊, 支隊, 枝隊, 本隊, 部隊, 墜とす
+0.0129120    4 formation      : 編隊, 隊伍, 隊形, 隊列
+0.0123565    4 squad          : 分隊, 部隊, 隊, 一隊
+0.0107236    1 entire         : 全隊
+0.0104929    1 colors         : 隊旗
+0.0100935    1 flag           : 隊旗
+0.0096933    1 regimental     : 隊士
+0.0094021    4 rank           : 隊伍, 横隊, 墜とす, 隊列
+0.0092573    2 soldier        : 隊士, 兵隊
+0.0089544    3 aircraft       : 編隊, 墜落, 撃墜
+0.0086801    2 drop           : 墜ちる, 墜とす
+0.0086487    1 come           : 墜ちる
+0.0084943    5 one            : 墜とす, 墜ちる, 帰隊, 原隊, 墜死
+0.0081898    1 work           : 隊務
+0.0081021    2 lose           : 墜とす, 墜ちる
+0.0080980    2 crash          : 墜ちる, 墜落
+0.0080970    2 accepted       : 墜ちる, 墜とす
+0.0080749    1 go             : 墜ちる
+0.0078791    2 regiment       : 聯隊, 連隊
+0.0077697    2 detachment     : 支隊, 枝隊
+0.0077123    2 leave          : 墜とす, 墜ちる
+0.0077100    3 team           : 分隊, 隊員, 隊
+0.0075266    2 detached       : 支隊, 枝隊
+0.0073258    1 sink           : 墜ちる
+0.0068135    2 fleet          : 船隊, 艦隊
+0.0065586    3 line           : 隊伍, 横隊, 墜とす
+0.0057965    3 company        : 中隊, 隊, 一隊
+0.0056241    2 column         : 縦隊, 隊列
+0.0055956    2 army           : 帰隊, 本隊
+0.0054008    2 corps          : 部隊, 隊
+0.0053785    3 body           : 本隊, 墜とす, 隊
+0.0053667    2 bid            : 墜とす, 墜ちる
+0.0051985    3 party          : 部隊, 隊, 一隊
+0.0051927    2 light          : 墜とす, 墜ちる
+0.0051581    1 become         : 墜ちる
+0.0051556    2 dirt           : 墜とす, 墜ちる
+0.0050744    1 platoon        : 小隊
+0.0050524    2 gaze           : 墜とす, 墜ちる
+0.0049602    1 battalion      : 大隊
+0.0049239    2 popularity     : 墜とす, 墜ちる
+0.0047039    2 paint          : 墜とす, 墜ちる
+0.0046367    2 election       : 墜とす, 墜ちる
+0.0046344    1 decline        : 墜ちる
+0.0046319    2 judo           : 墜とす, 墜ちる
+0.0046243    1 make           : 墜とす
+0.0045987    2 castle         : 墜とす, 墜ちる
+0.0045372    2 fail           : 墜とす, 墜ちる
+0.0044711    1 troop          : 中隊
+0.0043532    1 main           : 本隊
+0.0042962    1 finish         : 墜とす
+0.0042608    2 quality        : 墜とす, 墜ちる
+0.0042313    1 abasement      : 失墜
+0.0041800    2 enemy          : 墜とす, 墜ちる
+0.0040716    1 let            : 墜とす
+0.0038272    1 array          : 隊伍
+0.0037326    1 procession     : 隊伍
+0.0036997    1 battery        : 中隊
+0.0036320    1 orchestra      : 楽隊
+0.0036229    1 give           : 墜ちる
+0.0036119    1 forfeiture     : 失墜
+0.0035009    2 money          : 墜とす, 墜ちる
+0.0034944    1 leaner         : 墜ちる
+0.0034091    1 disposition    : 隊形
+0.0033872    2 group          : 隊員, 隊
+0.0033185    1 caravan        : 隊商
+0.0032171    1 enlistment     : 入隊
+0.0031926    1 sailor         : 兵隊
+0.0031900    1 unwillingness  : 墜とす
+0.0031861    1 band           : 楽隊
+0.0031815    1 squadron       : 戦隊
+0.0031530    1 swoon          : 墜とす
+0.0030900    1 lessen         : 墜とす
+0.0030900    1 worsen         : 墜とす
+0.0030869    1 thinner        : 墜ちる
+0.0030596    1 possessing     : 墜ちる
+0.0030442    1 estimation     : 失墜
+0.0030081    1 armada         : 艦隊
+0.0030025    1 battle         : 隊形
+0.0030023    1 sinking        : 失墜
+0.0029896    1 unconscious    : 墜ちる
+0.0029896    1 deteriorate    : 墜ちる
+0.0029724    1 convince       : 墜とす
+0.0029694    1 stoop          : 墜ちる
+0.0029324    1 unsuccessful   : 墜ちる
+0.0029324    1 confess        : 墜ちる
+0.0029324    1 won            : 墜ちる
+0.0029185    1 conquer        : 墜とす
+0.0029023    1 fasting        : 墜とす
+0.0029023    1 confession     : 墜とす
+0.0028870    1 seduce         : 墜とす
+0.0028556    1 abate          : 墜ちる
+0.0028422    1 server         : 墜ちる
+0.0027967    1 applicant      : 墜とす
+0.0027939    1 stain          : 墜ちる
+0.0027758    2 someone        : 墜とす, 墜ちる
+0.0027648    1 omit           : 墜とす
+0.0027358    1 sin            : 墜とす
+0.0027358    1 dilemma        : 墜とす
+0.0027150    1 flee           : 墜ちる
+0.0026899    1 removed        : 墜ちる
+0.0026521    1 decrease       : 墜ちる
+0.0026521    1 log            : 墜ちる
+0.0026244    1 shooting       : 撃墜
+0.0026120    1 morals         : 墜ちる
+0.0026085    1 reject         : 墜とす
+0.0026058    1 dip            : 墜ちる
+0.0025997    1 exam           : 墜ちる
+0.0025937    1 ruined         : 墜ちる
+0.0025879    1 arrive         : 墜ちる
+0.0025807    1 crew           : 隊
+0.0025712    1 commanding     : 隊長
+0.0025619    1 falling        : 墜死
+0.0025574    1 shed           : 墜とす
+0.0025548    1 cave           : 墜ちる
+0.0025421    1 spend          : 墜とす
+0.0025421    1 reduce         : 墜とす
+0.0025395    1 fade           : 墜ちる
+0.0025323    1 camp           : 墜とす
+0.0025297    1 tender         : 墜ちる
+0.0025249    1 disappear      : 墜ちる
+0.0025135    1 surrender      : 墜とす
+0.0025135    1 facial         : 墜とす
+0.0024607    1 excess         : 墜ちる
+0.0024555    1 punch          : 墜とす
+0.0024518    1 pour           : 墜とす
+0.0024447    1 home           : 原隊
+0.0024419    1 collapse       : 墜ちる
+0.0024312    1 fat            : 墜ちる
+0.0024312    1 topic          : 墜ちる
+0.0024208    1 inferior       : 墜ちる
+0.0023978    1 missing        : 墜ちる
+0.0023946    1 vulgar         : 墜ちる
+0.0023915    1 shadow         : 墜ちる
+0.0023908    1 remove         : 墜とす
+0.0023817    1 medium         : 墜とす
+0.0023591    1 hell           : 墜ちる
+0.0023478    1 cast           : 墜とす
+0.0023424    1 copy           : 墜とす
+0.0023348    1 trap           : 墜ちる
+0.0023346    1 clean          : 墜とす
+0.0023246    1 conclusion     : 墜ちる
+0.0023166    1 armed          : 軍隊
+0.0023136    1 quarters       : 隊舎
+0.0023075    1 conversation   : 墜ちる
+0.0022891    1 contest        : 墜ちる
+0.0022740    1 computer       : 墜とす
+0.0022554    1 defeat         : 墜とす
+0.0022480    1 naval          : 艦隊
+0.0022286    1 production     : 墜とす
+0.0022232    1 escape         : 墜とす
+0.0022232    1 liquid         : 墜とす
+0.0022068    1 illness        : 墜ちる
+0.0022039    1 weight         : 墜とす
+0.0022000    1 sun            : 墜ちる
+0.0021989    1 deal           : 墜とす
+0.0021955    1 press          : 墜とす
+0.0021933    1 speed          : 墜ちる
+0.0021852    1 moon           : 墜ちる
+0.0021836    1 trick          : 墜ちる
+0.0021656    1 win            : 墜とす
+0.0021634    1 bill           : 墜ちる
+0.0021495    1 certain        : 墜とす
+0.0021495    1 speak          : 墜とす
+0.0021415    1 discharge      : 除隊
+0.0021222    1 lower          : 墜とす
+0.0021161    1 weather        : 墜ちる
+0.0021107    1 officer        : 隊長
+0.0020986    1 die            : 墜ちる
+0.0020835    1 death          : 墜死
+0.0020762    1 pass           : 墜ちる
+0.0020607    1 city           : 墜ちる
+0.0020574    1 course         : 墜とす
+0.0020459    1 match          : 墜とす
+0.0020388    1 move           : 墜ちる
+0.0020173    1 animal         : 墜ちる
+0.0020164    1 colour         : 墜ちる
+0.0019894    1 low            : 墜ちる
+0.0019888    1 voice          : 墜とす
+0.0019779    1 file           : 隊列
+0.0019754    1 story          : 墜とす
+0.0019754    1 gang           : 一隊
+0.0019521    1 spirit         : 墜ちる
+0.0019490    1 left           : 墜ちる
+0.0019371    1 cold           : 墜ちる
+0.0019173    1 wind           : 墜ちる
+0.0019173    1 short          : 墜ちる
+0.0018987    1 love           : 墜ちる
+0.0018745    1 room           : 墜ちる
+0.0018721    1 heart          : 墜ちる
+0.0018676    1 hair           : 墜とす
+0.0018239    1 people         : 失墜
+0.0018234    1 character      : 墜ちる
+0.0018198    1 set            : 墜ちる
+0.0017962    1 game           : 墜ちる
+0.0016986    1 end            : 墜ちる
+0.0016918    1 fish           : 墜ちる
+0.0016419    1 place          : 墜とす
+0.0016322    1 way            : 墜ちる
+0.0016166    1 water          : 墜ちる
+0.0016117    1 period         : 墜とす
+0.0015820    1 take           : 墜とす
+0.0015457    1 good           : 墜ちる
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0836199    6 unit
+	unit WORD[ 1,   1]: 0.0559259 解隊
+	unit WORD[ 1,   2]: 0.0178348 隊旗
+	unit WORD[ 1,   3]: 0.0028297 帰隊
+	unit WORD[ 1,   4]: 0.0028037 原隊
+	unit WORD[ 1,   5]: 0.0022977 部隊
+	unit WORD[ 1,   6]: 0.0019281 隊
+TOKEN[ 2]: 0.0826535    5 military
+	military WORD[ 2,   1]: 0.0517085 解隊
+	military WORD[ 2,   2]: 0.0192970 隊務
+	military WORD[ 2,   3]: 0.0082449 隊旗
+	military WORD[ 2,   4]: 0.0017426 除隊
+	military WORD[ 2,   5]: 0.0016604 軍隊
+TOKEN[ 3]: 0.0595568    1 breaking
+	breaking WORD[ 3,   1]: 0.0595568 解隊
+TOKEN[ 4]: 0.0306082    4 fall
+	fall WORD[ 4,   1]: 0.0206795 墜ちる
+	fall WORD[ 4,   2]: 0.0056456 墜とす
+	fall WORD[ 4,   3]: 0.0022111 墜落
+	fall WORD[ 4,   4]: 0.0020721 失墜
+TOKEN[ 5]: 0.0197381    6 force
+	force WORD[ 5,   1]: 0.0081218 全隊
+	force WORD[ 5,   2]: 0.0027018 支隊
+	force WORD[ 5,   3]: 0.0027018 枝隊
+	force WORD[ 5,   4]: 0.0021466 本隊
+	force WORD[ 5,   5]: 0.0021212 部隊
+	force WORD[ 5,   6]: 0.0019450 墜とす
+TOKEN[ 6]: 0.0129120    4 formation
+	formation WORD[ 6,   1]: 0.0038262 編隊
+	formation WORD[ 6,   2]: 0.0034338 隊伍
+	formation WORD[ 6,   3]: 0.0034327 隊形
+	formation WORD[ 6,   4]: 0.0022193 隊列
+TOKEN[ 7]: 0.0123565    4 squad
+	squad WORD[ 7,   1]: 0.0044569 分隊
+	squad WORD[ 7,   2]: 0.0031029 部隊
+	squad WORD[ 7,   3]: 0.0026037 隊
+	squad WORD[ 7,   4]: 0.0021931 一隊
+TOKEN[ 8]: 0.0107236    1 entire
+	entire WORD[ 8,   1]: 0.0107236 全隊
+TOKEN[ 9]: 0.0104929    1 colors
+	colors WORD[ 9,   1]: 0.0104929 隊旗
+TOKEN[10]: 0.0100935    1 flag
+	flag WORD[10,   1]: 0.0100935 隊旗
+TOKEN[11]: 0.0096933    1 regimental
+	regimental WORD[11,   1]: 0.0096933 隊士
+TOKEN[12]: 0.0094021    4 rank
+	rank WORD[12,   1]: 0.0028891 隊伍
+	rank WORD[12,   2]: 0.0026069 横隊
+	rank WORD[12,   3]: 0.0020388 墜とす
+	rank WORD[12,   4]: 0.0018673 隊列
+TOKEN[13]: 0.0092573    2 soldier
+	soldier WORD[13,   1]: 0.0066861 隊士
+	soldier WORD[13,   2]: 0.0025712 兵隊
+TOKEN[14]: 0.0089544    3 aircraft
+	aircraft WORD[14,   1]: 0.0036986 編隊
+	aircraft WORD[14,   2]: 0.0027522 墜落
+	aircraft WORD[14,   3]: 0.0025035 撃墜
+TOKEN[15]: 0.0086801    2 drop
+	drop WORD[15,   1]: 0.0065084 墜ちる
+	drop WORD[15,   2]: 0.0021717 墜とす
+TOKEN[16]: 0.0086487    1 come
+	come WORD[16,   1]: 0.0086487 墜ちる
+TOKEN[17]: 0.0084943    5 one
+	one WORD[17,   1]: 0.0028806 墜とす
+	one WORD[17,   2]: 0.0019184 墜ちる
+	one WORD[17,   3]: 0.0012896 帰隊
+	one WORD[17,   4]: 0.0012778 原隊
+	one WORD[17,   5]: 0.0011279 墜死
+TOKEN[18]: 0.0081898    1 work
+	work WORD[18,   1]: 0.0081898 隊務
+TOKEN[19]: 0.0081021    2 lose
+	lose WORD[19,   1]: 0.0060781 墜とす
+	lose WORD[19,   2]: 0.0020240 墜ちる
+TOKEN[20]: 0.0080980    2 crash
+	crash WORD[20,   1]: 0.0050993 墜ちる
+	crash WORD[20,   2]: 0.0029987 墜落
+TOKEN[21]: 0.0080970    2 accepted
+	accepted WORD[21,   1]: 0.0053962 墜ちる
+	accepted WORD[21,   2]: 0.0027008 墜とす
+TOKEN[22]: 0.0080749    1 go
+	go WORD[22,   1]: 0.0080749 墜ちる
+TOKEN[23]: 0.0078791    2 regiment
+	regiment WORD[23,   1]: 0.0039395 聯隊
+	regiment WORD[23,   2]: 0.0039395 連隊
+TOKEN[24]: 0.0077697    2 detachment
+	detachment WORD[24,   1]: 0.0038849 支隊
+	detachment WORD[24,   2]: 0.0038848 枝隊
+TOKEN[25]: 0.0077123    2 leave
+	leave WORD[25,   1]: 0.0038581 墜とす
+	leave WORD[25,   2]: 0.0038542 墜ちる
+TOKEN[26]: 0.0077100    3 team
+	team WORD[26,   1]: 0.0035556 分隊
+	team WORD[26,   2]: 0.0020772 隊員
+	team WORD[26,   3]: 0.0020772 隊
+TOKEN[27]: 0.0075266    2 detached
+	detached WORD[27,   1]: 0.0037633 支隊
+	detached WORD[27,   2]: 0.0037633 枝隊
+TOKEN[28]: 0.0073258    1 sink
+	sink WORD[28,   1]: 0.0073258 墜ちる
+TOKEN[29]: 0.0068135    2 fleet
+	fleet WORD[29,   1]: 0.0043471 船隊
+	fleet WORD[29,   2]: 0.0024663 艦隊
+TOKEN[30]: 0.0065586    3 line
+	line WORD[30,   1]: 0.0025148 隊伍
+	line WORD[30,   2]: 0.0022691 横隊
+	line WORD[30,   3]: 0.0017747 墜とす
+TOKEN[31]: 0.0057965    3 company
+	company WORD[31,   1]: 0.0027018 中隊
+	company WORD[31,   2]: 0.0016798 隊
+	company WORD[31,   3]: 0.0014149 一隊
+TOKEN[32]: 0.0056241    2 column
+	column WORD[32,   1]: 0.0034739 縦隊
+	column WORD[32,   2]: 0.0021502 隊列
+TOKEN[33]: 0.0055956    2 army
+	army WORD[33,   1]: 0.0030716 帰隊
+	army WORD[33,   2]: 0.0025240 本隊
+TOKEN[34]: 0.0054008    2 corps
+	corps WORD[34,   1]: 0.0029366 部隊
+	corps WORD[34,   2]: 0.0024642 隊
+TOKEN[35]: 0.0053785    3 body
+	body WORD[35,   1]: 0.0019663 本隊
+	body WORD[35,   2]: 0.0017817 墜とす
+	body WORD[35,   3]: 0.0016305 隊
+TOKEN[36]: 0.0053667    2 bid
+	bid WORD[36,   1]: 0.0026847 墜とす
+	bid WORD[36,   2]: 0.0026820 墜ちる
+TOKEN[37]: 0.0051985    3 party
+	party WORD[37,   1]: 0.0020419 部隊
+	party WORD[37,   2]: 0.0017134 隊
+	party WORD[37,   3]: 0.0014432 一隊
+TOKEN[38]: 0.0051927    2 light
+	light WORD[38,   1]: 0.0034630 墜とす
+	light WORD[38,   2]: 0.0017297 墜ちる
+TOKEN[39]: 0.0051581    1 become
+	become WORD[39,   1]: 0.0051581 墜ちる
+TOKEN[40]: 0.0051556    2 dirt
+	dirt WORD[40,   1]: 0.0025791 墜とす
+	dirt WORD[40,   2]: 0.0025765 墜ちる
+TOKEN[41]: 0.0050744    1 platoon
+	platoon WORD[41,   1]: 0.0050744 小隊
+TOKEN[42]: 0.0050524    2 gaze
+	gaze WORD[42,   1]: 0.0025275 墜とす
+	gaze WORD[42,   2]: 0.0025249 墜ちる
+TOKEN[43]: 0.0049602    1 battalion
+	battalion WORD[43,   1]: 0.0049602 大隊
+TOKEN[44]: 0.0049239    2 popularity
+	popularity WORD[44,   1]: 0.0024632 墜とす
+	popularity WORD[44,   2]: 0.0024607 墜ちる
+TOKEN[45]: 0.0047039    2 paint
+	paint WORD[45,   1]: 0.0023532 墜とす
+	paint WORD[45,   2]: 0.0023508 墜ちる
+TOKEN[46]: 0.0046367    2 election
+	election WORD[46,   1]: 0.0023195 墜とす
+	election WORD[46,   2]: 0.0023172 墜ちる
+TOKEN[47]: 0.0046344    1 decline
+	decline WORD[47,   1]: 0.0046344 墜ちる
+TOKEN[48]: 0.0046319    2 judo
+	judo WORD[48,   1]: 0.0023171 墜とす
+	judo WORD[48,   2]: 0.0023147 墜ちる
+TOKEN[49]: 0.0046243    1 make
+	make WORD[49,   1]: 0.0046243 墜とす
+TOKEN[50]: 0.0045987    2 castle
+	castle WORD[50,   1]: 0.0023005 墜とす
+	castle WORD[50,   2]: 0.0022982 墜ちる
+TOKEN[51]: 0.0045372    2 fail
+	fail WORD[51,   1]: 0.0022697 墜とす
+	fail WORD[51,   2]: 0.0022674 墜ちる
+TOKEN[52]: 0.0044711    1 troop
+	troop WORD[52,   1]: 0.0044711 中隊
+TOKEN[53]: 0.0043532    1 main
+	main WORD[53,   1]: 0.0043532 本隊
+TOKEN[54]: 0.0042962    1 finish
+	finish WORD[54,   1]: 0.0042962 墜とす
+TOKEN[55]: 0.0042608    2 quality
+	quality WORD[55,   1]: 0.0021315 墜とす
+	quality WORD[55,   2]: 0.0021293 墜ちる
+TOKEN[56]: 0.0042313    1 abasement
+	abasement WORD[56,   1]: 0.0042313 失墜
+TOKEN[57]: 0.0041800    2 enemy
+	enemy WORD[57,   1]: 0.0020911 墜とす
+	enemy WORD[57,   2]: 0.0020890 墜ちる
+TOKEN[58]: 0.0040716    1 let
+	let WORD[58,   1]: 0.0040716 墜とす
+TOKEN[59]: 0.0038272    1 array
+	array WORD[59,   1]: 0.0038272 隊伍
+TOKEN[60]: 0.0037326    1 procession
+	procession WORD[60,   1]: 0.0037326 隊伍
+TOKEN[61]: 0.0036997    1 battery
+	battery WORD[61,   1]: 0.0036997 中隊
+TOKEN[62]: 0.0036320    1 orchestra
+	orchestra WORD[62,   1]: 0.0036320 楽隊
+TOKEN[63]: 0.0036229    1 give
+	give WORD[63,   1]: 0.0036229 墜ちる
+TOKEN[64]: 0.0036119    1 forfeiture
+	forfeiture WORD[64,   1]: 0.0036119 失墜
+TOKEN[65]: 0.0035009    2 money
+	money WORD[65,   1]: 0.0017513 墜とす
+	money WORD[65,   2]: 0.0017496 墜ちる
+TOKEN[66]: 0.0034944    1 leaner
+	leaner WORD[66,   1]: 0.0034944 墜ちる
+TOKEN[67]: 0.0034091    1 disposition
+	disposition WORD[67,   1]: 0.0034091 隊形
+TOKEN[68]: 0.0033872    2 group
+	group WORD[68,   1]: 0.0016936 隊員
+	group WORD[68,   2]: 0.0016936 隊
+TOKEN[69]: 0.0033185    1 caravan
+	caravan WORD[69,   1]: 0.0033185 隊商
+TOKEN[70]: 0.0032171    1 enlistment
+	enlistment WORD[70,   1]: 0.0032171 入隊
+TOKEN[71]: 0.0031926    1 sailor
+	sailor WORD[71,   1]: 0.0031926 兵隊
+TOKEN[72]: 0.0031900    1 unwillingness
+	unwillingness WORD[72,   1]: 0.0031900 墜とす
+TOKEN[73]: 0.0031861    1 band
+	band WORD[73,   1]: 0.0031861 楽隊
+TOKEN[74]: 0.0031815    1 squadron
+	squadron WORD[74,   1]: 0.0031815 戦隊
+TOKEN[75]: 0.0031530    1 swoon
+	swoon WORD[75,   1]: 0.0031530 墜とす
+TOKEN[76]: 0.0030900    1 lessen
+	lessen WORD[76,   1]: 0.0030900 墜とす
+TOKEN[77]: 0.0030900    1 worsen
+	worsen WORD[77,   1]: 0.0030900 墜とす
+TOKEN[78]: 0.0030869    1 thinner
+	thinner WORD[78,   1]: 0.0030869 墜ちる
+TOKEN[79]: 0.0030596    1 possessing
+	possessing WORD[79,   1]: 0.0030596 墜ちる
+TOKEN[80]: 0.0030442    1 estimation
+	estimation WORD[80,   1]: 0.0030442 失墜
+TOKEN[81]: 0.0030081    1 armada
+	armada WORD[81,   1]: 0.0030081 艦隊
+TOKEN[82]: 0.0030025    1 battle
+	battle WORD[82,   1]: 0.0030025 隊形
+TOKEN[83]: 0.0030023    1 sinking
+	sinking WORD[83,   1]: 0.0030023 失墜
+TOKEN[84]: 0.0029896    1 unconscious
+	unconscious WORD[84,   1]: 0.0029896 墜ちる
+TOKEN[85]: 0.0029896    1 deteriorate
+	deteriorate WORD[85,   1]: 0.0029896 墜ちる
+TOKEN[86]: 0.0029724    1 convince
+	convince WORD[86,   1]: 0.0029724 墜とす
+TOKEN[87]: 0.0029694    1 stoop
+	stoop WORD[87,   1]: 0.0029694 墜ちる
+TOKEN[88]: 0.0029324    1 unsuccessful
+	unsuccessful WORD[88,   1]: 0.0029324 墜ちる
+TOKEN[89]: 0.0029324    1 confess
+	confess WORD[89,   1]: 0.0029324 墜ちる
+TOKEN[90]: 0.0029324    1 won
+	won WORD[90,   1]: 0.0029324 墜ちる
+TOKEN[91]: 0.0029185    1 conquer
+	conquer WORD[91,   1]: 0.0029185 墜とす
+TOKEN[92]: 0.0029023    1 fasting
+	fasting WORD[92,   1]: 0.0029023 墜とす
+TOKEN[93]: 0.0029023    1 confession
+	confession WORD[93,   1]: 0.0029023 墜とす
+TOKEN[94]: 0.0028870    1 seduce
+	seduce WORD[94,   1]: 0.0028870 墜とす
+TOKEN[95]: 0.0028556    1 abate
+	abate WORD[95,   1]: 0.0028556 墜ちる
+TOKEN[96]: 0.0028422    1 server
+	server WORD[96,   1]: 0.0028422 墜ちる
+TOKEN[97]: 0.0027967    1 applicant
+	applicant WORD[97,   1]: 0.0027967 墜とす
+TOKEN[98]: 0.0027939    1 stain
+	stain WORD[98,   1]: 0.0027939 墜ちる
+TOKEN[99]: 0.0027758    2 someone
+	someone WORD[99,   1]: 0.0013886 墜とす
+	someone WORD[99,   2]: 0.0013872 墜ちる
+TOKEN[100]: 0.0027648    1 omit
+	omit WORD[100,   1]: 0.0027648 墜とす
+TOKEN[101]: 0.0027358    1 sin
+	sin WORD[101,   1]: 0.0027358 墜とす
+TOKEN[102]: 0.0027358    1 dilemma
+	dilemma WORD[102,   1]: 0.0027358 墜とす
+TOKEN[103]: 0.0027150    1 flee
+	flee WORD[103,   1]: 0.0027150 墜ちる
+TOKEN[104]: 0.0026899    1 removed
+	removed WORD[104,   1]: 0.0026899 墜ちる
+TOKEN[105]: 0.0026521    1 decrease
+	decrease WORD[105,   1]: 0.0026521 墜ちる
+TOKEN[106]: 0.0026521    1 log
+	log WORD[106,   1]: 0.0026521 墜ちる
+TOKEN[107]: 0.0026244    1 shooting
+	shooting WORD[107,   1]: 0.0026244 撃墜
+TOKEN[108]: 0.0026120    1 morals
+	morals WORD[108,   1]: 0.0026120 墜ちる
+TOKEN[109]: 0.0026085    1 reject
+	reject WORD[109,   1]: 0.0026085 墜とす
+TOKEN[110]: 0.0026058    1 dip
+	dip WORD[110,   1]: 0.0026058 墜ちる
+TOKEN[111]: 0.0025997    1 exam
+	exam WORD[111,   1]: 0.0025997 墜ちる
+TOKEN[112]: 0.0025937    1 ruined
+	ruined WORD[112,   1]: 0.0025937 墜ちる
+TOKEN[113]: 0.0025879    1 arrive
+	arrive WORD[113,   1]: 0.0025879 墜ちる
+TOKEN[114]: 0.0025807    1 crew
+	crew WORD[114,   1]: 0.0025807 隊
+TOKEN[115]: 0.0025712    1 commanding
+	commanding WORD[115,   1]: 0.0025712 隊長
+TOKEN[116]: 0.0025619    1 falling
+	falling WORD[116,   1]: 0.0025619 墜死
+TOKEN[117]: 0.0025574    1 shed
+	shed WORD[117,   1]: 0.0025574 墜とす
+TOKEN[118]: 0.0025548    1 cave
+	cave WORD[118,   1]: 0.0025548 墜ちる
+TOKEN[119]: 0.0025421    1 spend
+	spend WORD[119,   1]: 0.0025421 墜とす
+TOKEN[120]: 0.0025421    1 reduce
+	reduce WORD[120,   1]: 0.0025421 墜とす
+TOKEN[121]: 0.0025395    1 fade
+	fade WORD[121,   1]: 0.0025395 墜ちる
+TOKEN[122]: 0.0025323    1 camp
+	camp WORD[122,   1]: 0.0025323 墜とす
+TOKEN[123]: 0.0025297    1 tender
+	tender WORD[123,   1]: 0.0025297 墜ちる
+TOKEN[124]: 0.0025249    1 disappear
+	disappear WORD[124,   1]: 0.0025249 墜ちる
+TOKEN[125]: 0.0025135    1 surrender
+	surrender WORD[125,   1]: 0.0025135 墜とす
+TOKEN[126]: 0.0025135    1 facial
+	facial WORD[126,   1]: 0.0025135 墜とす
+TOKEN[127]: 0.0024607    1 excess
+	excess WORD[127,   1]: 0.0024607 墜ちる
+TOKEN[128]: 0.0024555    1 punch
+	punch WORD[128,   1]: 0.0024555 墜とす
+TOKEN[129]: 0.0024518    1 pour
+	pour WORD[129,   1]: 0.0024518 墜とす
+TOKEN[130]: 0.0024447    1 home
+	home WORD[130,   1]: 0.0024447 原隊
+TOKEN[131]: 0.0024419    1 collapse
+	collapse WORD[131,   1]: 0.0024419 墜ちる
+TOKEN[132]: 0.0024312    1 fat
+	fat WORD[132,   1]: 0.0024312 墜ちる
+TOKEN[133]: 0.0024312    1 topic
+	topic WORD[133,   1]: 0.0024312 墜ちる
+TOKEN[134]: 0.0024208    1 inferior
+	inferior WORD[134,   1]: 0.0024208 墜ちる
+TOKEN[135]: 0.0023978    1 missing
+	missing WORD[135,   1]: 0.0023978 墜ちる
+TOKEN[136]: 0.0023946    1 vulgar
+	vulgar WORD[136,   1]: 0.0023946 墜ちる
+TOKEN[137]: 0.0023915    1 shadow
+	shadow WORD[137,   1]: 0.0023915 墜ちる
+TOKEN[138]: 0.0023908    1 remove
+	remove WORD[138,   1]: 0.0023908 墜とす
+TOKEN[139]: 0.0023817    1 medium
+	medium WORD[139,   1]: 0.0023817 墜とす
+TOKEN[140]: 0.0023591    1 hell
+	hell WORD[140,   1]: 0.0023591 墜ちる
+TOKEN[141]: 0.0023478    1 cast
+	cast WORD[141,   1]: 0.0023478 墜とす
+TOKEN[142]: 0.0023424    1 copy
+	copy WORD[142,   1]: 0.0023424 墜とす
+TOKEN[143]: 0.0023348    1 trap
+	trap WORD[143,   1]: 0.0023348 墜ちる
+TOKEN[144]: 0.0023346    1 clean
+	clean WORD[144,   1]: 0.0023346 墜とす
+TOKEN[145]: 0.0023246    1 conclusion
+	conclusion WORD[145,   1]: 0.0023246 墜ちる
+TOKEN[146]: 0.0023166    1 armed
+	armed WORD[146,   1]: 0.0023166 軍隊
+TOKEN[147]: 0.0023136    1 quarters
+	quarters WORD[147,   1]: 0.0023136 隊舎
+TOKEN[148]: 0.0023075    1 conversation
+	conversation WORD[148,   1]: 0.0023075 墜ちる
+TOKEN[149]: 0.0022891    1 contest
+	contest WORD[149,   1]: 0.0022891 墜ちる
+TOKEN[150]: 0.0022740    1 computer
+	computer WORD[150,   1]: 0.0022740 墜とす
+TOKEN[151]: 0.0022554    1 defeat
+	defeat WORD[151,   1]: 0.0022554 墜とす
+TOKEN[152]: 0.0022480    1 naval
+	naval WORD[152,   1]: 0.0022480 艦隊
+TOKEN[153]: 0.0022286    1 production
+	production WORD[153,   1]: 0.0022286 墜とす
+TOKEN[154]: 0.0022232    1 escape
+	escape WORD[154,   1]: 0.0022232 墜とす
+TOKEN[155]: 0.0022232    1 liquid
+	liquid WORD[155,   1]: 0.0022232 墜とす
+TOKEN[156]: 0.0022068    1 illness
+	illness WORD[156,   1]: 0.0022068 墜ちる
+TOKEN[157]: 0.0022039    1 weight
+	weight WORD[157,   1]: 0.0022039 墜とす
+TOKEN[158]: 0.0022000    1 sun
+	sun WORD[158,   1]: 0.0022000 墜ちる
+TOKEN[159]: 0.0021989    1 deal
+	deal WORD[159,   1]: 0.0021989 墜とす
+TOKEN[160]: 0.0021955    1 press
+	press WORD[160,   1]: 0.0021955 墜とす
+TOKEN[161]: 0.0021933    1 speed
+	speed WORD[161,   1]: 0.0021933 墜ちる
+TOKEN[162]: 0.0021852    1 moon
+	moon WORD[162,   1]: 0.0021852 墜ちる
+TOKEN[163]: 0.0021836    1 trick
+	trick WORD[163,   1]: 0.0021836 墜ちる
+TOKEN[164]: 0.0021656    1 win
+	win WORD[164,   1]: 0.0021656 墜とす
+TOKEN[165]: 0.0021634    1 bill
+	bill WORD[165,   1]: 0.0021634 墜ちる
+TOKEN[166]: 0.0021495    1 certain
+	certain WORD[166,   1]: 0.0021495 墜とす
+TOKEN[167]: 0.0021495    1 speak
+	speak WORD[167,   1]: 0.0021495 墜とす
+TOKEN[168]: 0.0021415    1 discharge
+	discharge WORD[168,   1]: 0.0021415 除隊
+TOKEN[169]: 0.0021222    1 lower
+	lower WORD[169,   1]: 0.0021222 墜とす
+TOKEN[170]: 0.0021161    1 weather
+	weather WORD[170,   1]: 0.0021161 墜ちる
+TOKEN[171]: 0.0021107    1 officer
+	officer WORD[171,   1]: 0.0021107 隊長
+TOKEN[172]: 0.0020986    1 die
+	die WORD[172,   1]: 0.0020986 墜ちる
+TOKEN[173]: 0.0020835    1 death
+	death WORD[173,   1]: 0.0020835 墜死
+TOKEN[174]: 0.0020762    1 pass
+	pass WORD[174,   1]: 0.0020762 墜ちる
+TOKEN[175]: 0.0020607    1 city
+	city WORD[175,   1]: 0.0020607 墜ちる
+TOKEN[176]: 0.0020574    1 course
+	course WORD[176,   1]: 0.0020574 墜とす
+TOKEN[177]: 0.0020459    1 match
+	match WORD[177,   1]: 0.0020459 墜とす
+TOKEN[178]: 0.0020388    1 move
+	move WORD[178,   1]: 0.0020388 墜ちる
+TOKEN[179]: 0.0020173    1 animal
+	animal WORD[179,   1]: 0.0020173 墜ちる
+TOKEN[180]: 0.0020164    1 colour
+	colour WORD[180,   1]: 0.0020164 墜ちる
+TOKEN[181]: 0.0019894    1 low
+	low WORD[181,   1]: 0.0019894 墜ちる
+TOKEN[182]: 0.0019888    1 voice
+	voice WORD[182,   1]: 0.0019888 墜とす
+TOKEN[183]: 0.0019779    1 file
+	file WORD[183,   1]: 0.0019779 隊列
+TOKEN[184]: 0.0019754    1 story
+	story WORD[184,   1]: 0.0019754 墜とす
+TOKEN[185]: 0.0019754    1 gang
+	gang WORD[185,   1]: 0.0019754 一隊
+TOKEN[186]: 0.0019521    1 spirit
+	spirit WORD[186,   1]: 0.0019521 墜ちる
+TOKEN[187]: 0.0019490    1 left
+	left WORD[187,   1]: 0.0019490 墜ちる
+TOKEN[188]: 0.0019371    1 cold
+	cold WORD[188,   1]: 0.0019371 墜ちる
+TOKEN[189]: 0.0019173    1 wind
+	wind WORD[189,   1]: 0.0019173 墜ちる
+TOKEN[190]: 0.0019173    1 short
+	short WORD[190,   1]: 0.0019173 墜ちる
+TOKEN[191]: 0.0018987    1 love
+	love WORD[191,   1]: 0.0018987 墜ちる
+TOKEN[192]: 0.0018745    1 room
+	room WORD[192,   1]: 0.0018745 墜ちる
+TOKEN[193]: 0.0018721    1 heart
+	heart WORD[193,   1]: 0.0018721 墜ちる
+TOKEN[194]: 0.0018676    1 hair
+	hair WORD[194,   1]: 0.0018676 墜とす
+TOKEN[195]: 0.0018239    1 people
+	people WORD[195,   1]: 0.0018239 失墜
+TOKEN[196]: 0.0018234    1 character
+	character WORD[196,   1]: 0.0018234 墜ちる
+TOKEN[197]: 0.0018198    1 set
+	set WORD[197,   1]: 0.0018198 墜ちる
+TOKEN[198]: 0.0017962    1 game
+	game WORD[198,   1]: 0.0017962 墜ちる
+TOKEN[199]: 0.0016986    1 end
+	end WORD[199,   1]: 0.0016986 墜ちる
+TOKEN[200]: 0.0016918    1 fish
+	fish WORD[200,   1]: 0.0016918 墜ちる
+TOKEN[201]: 0.0016419    1 place
+	place WORD[201,   1]: 0.0016419 墜とす
+TOKEN[202]: 0.0016322    1 way
+	way WORD[202,   1]: 0.0016322 墜ちる
+TOKEN[203]: 0.0016166    1 water
+	water WORD[203,   1]: 0.0016166 墜ちる
+TOKEN[204]: 0.0016117    1 period
+	period WORD[204,   1]: 0.0016117 墜とす
+TOKEN[205]: 0.0015820    1 take
+	take WORD[205,   1]: 0.0015820 墜とす
+TOKEN[206]: 0.0015457    1 good
+	good WORD[206,   1]: 0.0015457 墜ちる

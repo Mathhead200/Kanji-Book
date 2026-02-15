@@ -1,0 +1,408 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1083099    1 paddle         : 蹼
+0.0709417    1 uncut          : 璞
+0.0647800    1 gem            : 璞
+0.0642783    1 unpolished     : 璞
+0.0481793    1 web            : 蹼
+0.0441268    7 servant        : 老僕, 忠僕, 僮僕, 童僕, 従僕, 僕, 公僕
+0.0435108    1 blade          : 蹼
+0.0372704    4 manservant     : 奴僕, 下僕, 家僕, 僕
+0.0307745    2 unsophisticated: 質樸, 素樸
+0.0247985    1 naivete        : 樸直
+0.0243510   10 wrestling      : 大相撲, ひとり相撲, 一人相撲, 独り相撲, 女相撲, 押し相撲, 草相撲, 腕相撲, 指相撲, 相撲
+0.0233378    2 simple         : 質樸, 素樸
+0.0219328    1 simplicity     : 樸直
+0.0218302    1 honesty        : 樸直
+0.0211423    1 bark           : 樸
+0.0195959    4 male           : 僕婢, 僮僕, 童僕, 従僕
+0.0170929    1 menial         : 僕
+0.0159971    1 tree           : 樸
+0.0157605    1 honest         : 質樸
+0.0133442    3 tilting        : ひとり相撲, 一人相撲, 独り相撲
+0.0129755    1 artless        : 素樸
+0.0114508    1 naive          : 素樸
+0.0109134    2 page           : 僮僕, 童僕
+0.0093256    2 female         : 僕婢, 女相撲
+0.0089557    2 student        : 校僕, 学僕
+0.0088532    2 young          : 僮僕, 童僕
+0.0087128    3 fighting       : ひとり相撲, 一人相撲, 独り相撲
+0.0086315    2 working        : 校僕, 学僕
+0.0083681    3 oneself        : ひとり相撲, 一人相撲, 独り相撲
+0.0081979    3 performance    : ひとり相撲, 一人相撲, 独り相撲
+0.0081475    3 street         : ひとり相撲, 一人相撲, 独り相撲
+0.0080117    3 match          : ひとり相撲, 一人相撲, 独り相撲
+0.0073851    1 footman        : 奴僕
+0.0072556    1 houseboy       : 家僕
+0.0070723    3 form           : ひとり相撲, 一人相撲, 独り相撲
+0.0069681    4 wrestler       : 相撲人, 女相撲, 相撲取り, 相撲
+0.0067293    1 elderly        : 老僕
+0.0065200    1 faithful       : 忠僕
+0.0055713    1 paper          : 紙相撲
+0.0055006    1 attendant      : 従僕
+0.0046490    3 beat           : 撲つ, 撲殺, 撲る
+0.0036226    1 school         : 校僕
+0.0030583    1 professional   : 大相撲
+0.0028844    1 game           : 紙相撲
+0.0026654    2 strike         : 撲つ, 撲る
+0.0026436    1 classic        : 押し相撲
+0.0024892    1 pushing        : 押し相撲
+0.0024508    1 public         : 公僕
+0.0023877    1 stable         : 相撲部屋
+0.0022125    1 belt           : 押し相撲
+0.0022014    3 hit            : 撲る, 打撲, 撲つ
+0.0021958    2 slap           : 撲り倒す, 撲つ
+0.0021042    1 amateur        : 草相撲
+0.0018989    2 punch          : 撲る, 撲つ
+0.0018727    2 knock          : 撲り倒す, 撲つ
+0.0016180    1 way            : 押し相撲
+0.0015496    1 vaccinate      : 撲つ
+0.0014895    1 inject         : 撲つ
+0.0014041    1 transmit       : 撲つ
+0.0013710    1 clap           : 撲つ
+0.0013440    1 bang           : 撲つ
+0.0013292    1 thumb          : 指相撲
+0.0013265    1 sprinkle       : 撲つ
+0.0013159    1 impress        : 撲つ
+0.0012798    1 pilgrimage     : 撲つ
+0.0012759    1 pulse          : 撲つ
+0.0012720    1 till           : 撲つ
+0.0012682    1 tap            : 撲つ
+0.0012508    1 noon           : 撲つ
+0.0012475    1 prepare        : 撲つ
+0.0012381    1 pound          : 撲つ
+0.0012183    1 bind           : 撲つ
+0.0012183    1 engage         : 撲つ
+0.0012106    1 hammer         : 撲つ
+0.0011831    1 insert         : 撲つ
+0.0011711    1 perform        : 撲つ
+0.0011547    1 drum           : 撲つ
+0.0011447    1 gambling       : 撲つ
+0.0011209    1 deposit        : 撲つ
+0.0011190    1 tournament     : 花相撲
+0.0011091    1 cast           : 撲つ
+0.0011029    1 coat           : 撲つ
+0.0010889    1 soil           : 撲つ
+0.0010636    1 write          : 撲つ
+0.0010617    1 send           : 撲つ
+0.0010581    1 touch          : 撲つ
+0.0010427    1 criminal       : 撲つ
+0.0010209    1 visit          : 撲つ
+0.0010181    1 six            : 花相撲
+0.0010095    1 drive          : 撲つ
+0.0010059    1 major          : 花相撲
+0.0009993    1 eradication    : 撲滅
+0.0009926    1 extermination  : 撲滅
+0.0009873    1 carry          : 撲つ
+0.0009867    1 pay            : 撲つ
+0.0009714    1 mark           : 撲つ
+0.0009641    1 move           : 撲つ
+0.0009242    1 throw          : 撲つ
+0.0009153    1 sound          : 撲つ
+0.0008963    1 play           : 撲つ
+0.0008841    1 suppression    : 撲滅
+0.0008734    1 type           : 撲つ
+0.0008575    1 destruction    : 撲滅
+0.0008383    1 line           : 撲つ
+0.0008214    1 put            : 撲つ
+0.0007458    1 beating        : 打撲
+0.0007282    1 make           : 撲つ
+0.0006956    1 floor          : 撲り倒す
+0.0006429    1 brute          : 腕相撲
+0.0005993    1 blow           : 打撲
+0.0005923    1 death          : 撲殺
+0.0005493    1 arm            : 腕相撲
+0.0005493    1 Indian         : 腕相撲
+0.0005205    1 arms           : 腕相撲
+0.0005201    1 skill          : 腕相撲
+0.0005032    1 body           : 打撲
+0.0005017    1 strength       : 腕相撲
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1083099    1 paddle
+	paddle WORD[ 1,   1]: 0.1083099 蹼
+TOKEN[ 2]: 0.0709417    1 uncut
+	uncut WORD[ 2,   1]: 0.0709417 璞
+TOKEN[ 3]: 0.0647800    1 gem
+	gem WORD[ 3,   1]: 0.0647800 璞
+TOKEN[ 4]: 0.0642783    1 unpolished
+	unpolished WORD[ 4,   1]: 0.0642783 璞
+TOKEN[ 5]: 0.0481793    1 web
+	web WORD[ 5,   1]: 0.0481793 蹼
+TOKEN[ 6]: 0.0441268    7 servant
+	servant WORD[ 6,   1]: 0.0061822 老僕
+	servant WORD[ 6,   2]: 0.0055150 忠僕
+	servant WORD[ 6,   3]: 0.0054152 僮僕
+	servant WORD[ 6,   4]: 0.0054152 童僕
+	servant WORD[ 6,   5]: 0.0051263 従僕
+	servant WORD[ 6,   6]: 0.0033156 僕
+	servant WORD[ 6,   7]: 0.0032106 公僕
+TOKEN[ 7]: 0.0435108    1 blade
+	blade WORD[ 7,   1]: 0.0435108 蹼
+TOKEN[ 8]: 0.0372704    4 manservant
+	manservant WORD[ 8,   1]: 0.0071147 奴僕
+	manservant WORD[ 8,   2]: 0.0065056 下僕
+	manservant WORD[ 8,   3]: 0.0063006 家僕
+	manservant WORD[ 8,   4]: 0.0043374 僕
+TOKEN[ 9]: 0.0307745    2 unsophisticated
+	unsophisticated WORD[ 9,   1]: 0.0184122 質樸
+	unsophisticated WORD[ 9,   2]: 0.0123623 素樸
+TOKEN[10]: 0.0247985    1 naivete
+	naivete WORD[10,   1]: 0.0247985 樸直
+TOKEN[11]: 0.0243510   10 wrestling
+	wrestling WORD[11,   1]: 0.0033390 大相撲
+	wrestling WORD[11,   2]: 0.0033383 ひとり相撲
+	wrestling WORD[11,   3]: 0.0033383 一人相撲
+	wrestling WORD[11,   4]: 0.0033382 独り相撲
+	wrestling WORD[11,   5]: 0.0027134 女相撲
+	wrestling WORD[11,   6]: 0.0025327 押し相撲
+	wrestling WORD[11,   7]: 0.0019801 草相撲
+	wrestling WORD[11,   8]: 0.0018149 腕相撲
+	wrestling WORD[11,   9]: 0.0012586 指相撲
+	wrestling WORD[11,  10]: 0.0006976 相撲
+TOKEN[12]: 0.0233378    2 simple
+	simple WORD[12,   1]: 0.0139629 質樸
+	simple WORD[12,   2]: 0.0093749 素樸
+TOKEN[13]: 0.0219328    1 simplicity
+	simplicity WORD[13,   1]: 0.0219328 樸直
+TOKEN[14]: 0.0218302    1 honesty
+	honesty WORD[14,   1]: 0.0218302 樸直
+TOKEN[15]: 0.0211423    1 bark
+	bark WORD[15,   1]: 0.0211423 樸
+TOKEN[16]: 0.0195959    4 male
+	male WORD[16,   1]: 0.0053139 僕婢
+	male WORD[16,   2]: 0.0048469 僮僕
+	male WORD[16,   3]: 0.0048468 童僕
+	male WORD[16,   4]: 0.0045883 従僕
+TOKEN[17]: 0.0170929    1 menial
+	menial WORD[17,   1]: 0.0042732 僕
+TOKEN[18]: 0.0159971    1 tree
+	tree WORD[18,   1]: 0.0159971 樸
+TOKEN[19]: 0.0157605    1 honest
+	honest WORD[19,   1]: 0.0157605 質樸
+TOKEN[20]: 0.0133442    3 tilting
+	tilting WORD[20,   1]: 0.0044481 ひとり相撲
+	tilting WORD[20,   2]: 0.0044481 一人相撲
+	tilting WORD[20,   3]: 0.0044480 独り相撲
+TOKEN[21]: 0.0129755    1 artless
+	artless WORD[21,   1]: 0.0129755 素樸
+TOKEN[22]: 0.0114508    1 naive
+	naive WORD[22,   1]: 0.0114508 素樸
+TOKEN[23]: 0.0109134    2 page
+	page WORD[23,   1]: 0.0054567 僮僕
+	page WORD[23,   2]: 0.0054567 童僕
+TOKEN[24]: 0.0093256    2 female
+	female WORD[24,   1]: 0.0050962 僕婢
+	female WORD[24,   2]: 0.0042294 女相撲
+TOKEN[25]: 0.0089557    2 student
+	student WORD[25,   1]: 0.0045916 校僕
+	student WORD[25,   2]: 0.0043640 学僕
+TOKEN[26]: 0.0088532    2 young
+	young WORD[26,   1]: 0.0044266 僮僕
+	young WORD[26,   2]: 0.0044266 童僕
+TOKEN[27]: 0.0087128    3 fighting
+	fighting WORD[27,   1]: 0.0029043 ひとり相撲
+	fighting WORD[27,   2]: 0.0029043 一人相撲
+	fighting WORD[27,   3]: 0.0029043 独り相撲
+TOKEN[28]: 0.0086315    2 working
+	working WORD[28,   1]: 0.0044254 校僕
+	working WORD[28,   2]: 0.0042061 学僕
+TOKEN[29]: 0.0083681    3 oneself
+	oneself WORD[29,   1]: 0.0027894 ひとり相撲
+	oneself WORD[29,   2]: 0.0027894 一人相撲
+	oneself WORD[29,   3]: 0.0027893 独り相撲
+TOKEN[30]: 0.0081979    3 performance
+	performance WORD[30,   1]: 0.0027326 ひとり相撲
+	performance WORD[30,   2]: 0.0027326 一人相撲
+	performance WORD[30,   3]: 0.0027326 独り相撲
+TOKEN[31]: 0.0081475    3 street
+	street WORD[31,   1]: 0.0027159 ひとり相撲
+	street WORD[31,   2]: 0.0027158 一人相撲
+	street WORD[31,   3]: 0.0027158 独り相撲
+TOKEN[32]: 0.0080117    3 match
+	match WORD[32,   1]: 0.0026706 ひとり相撲
+	match WORD[32,   2]: 0.0026706 一人相撲
+	match WORD[32,   3]: 0.0026705 独り相撲
+TOKEN[33]: 0.0073851    1 footman
+	footman WORD[33,   1]: 0.0073851 奴僕
+TOKEN[34]: 0.0072556    1 houseboy
+	houseboy WORD[34,   1]: 0.0072556 家僕
+TOKEN[35]: 0.0070723    3 form
+	form WORD[35,   1]: 0.0023574 ひとり相撲
+	form WORD[35,   2]: 0.0023574 一人相撲
+	form WORD[35,   3]: 0.0023574 独り相撲
+TOKEN[36]: 0.0069681    4 wrestler
+	wrestler WORD[36,   1]: 0.0031653 相撲人
+	wrestler WORD[36,   2]: 0.0025115 女相撲
+	wrestler WORD[36,   3]: 0.0006457 相撲取り
+	wrestler WORD[36,   4]: 0.0006457 相撲
+TOKEN[37]: 0.0067293    1 elderly
+	elderly WORD[37,   1]: 0.0067293 老僕
+TOKEN[38]: 0.0065200    1 faithful
+	faithful WORD[38,   1]: 0.0065200 忠僕
+TOKEN[39]: 0.0055713    1 paper
+	paper WORD[39,   1]: 0.0055713 紙相撲
+TOKEN[40]: 0.0055006    1 attendant
+	attendant WORD[40,   1]: 0.0055006 従僕
+TOKEN[41]: 0.0046490    3 beat
+	beat WORD[41,   1]: 0.0016054 撲つ
+	beat WORD[41,   2]: 0.0007565 撲殺
+	beat WORD[41,   3]: 0.0006817 撲る
+TOKEN[42]: 0.0036226    1 school
+	school WORD[42,   1]: 0.0036226 校僕
+TOKEN[43]: 0.0030583    1 professional
+	professional WORD[43,   1]: 0.0030583 大相撲
+TOKEN[44]: 0.0028844    1 game
+	game WORD[44,   1]: 0.0028844 紙相撲
+TOKEN[45]: 0.0026654    2 strike
+	strike WORD[45,   1]: 0.0010108 撲つ
+	strike WORD[45,   2]: 0.0006438 撲る
+TOKEN[46]: 0.0026436    1 classic
+	classic WORD[46,   1]: 0.0026436 押し相撲
+TOKEN[47]: 0.0024892    1 pushing
+	pushing WORD[47,   1]: 0.0024892 押し相撲
+TOKEN[48]: 0.0024508    1 public
+	public WORD[48,   1]: 0.0024508 公僕
+TOKEN[49]: 0.0023877    1 stable
+	stable WORD[49,   1]: 0.0023877 相撲部屋
+TOKEN[50]: 0.0022125    1 belt
+	belt WORD[50,   1]: 0.0022125 押し相撲
+TOKEN[51]: 0.0022014    3 hit
+	hit WORD[51,   1]: 0.0006274 撲る
+	hit WORD[51,   2]: 0.0005889 打撲
+	hit WORD[51,   3]: 0.0004925 撲つ
+TOKEN[52]: 0.0021958    2 slap
+	slap WORD[52,   1]: 0.0008799 撲り倒す
+	slap WORD[52,   2]: 0.0006580 撲つ
+TOKEN[53]: 0.0021042    1 amateur
+	amateur WORD[53,   1]: 0.0021042 草相撲
+TOKEN[54]: 0.0018989    2 punch
+	punch WORD[54,   1]: 0.0007389 撲る
+	punch WORD[54,   2]: 0.0005800 撲つ
+TOKEN[55]: 0.0018727    2 knock
+	knock WORD[55,   1]: 0.0007504 撲り倒す
+	knock WORD[55,   2]: 0.0005612 撲つ
+TOKEN[56]: 0.0016180    1 way
+	way WORD[56,   1]: 0.0016180 押し相撲
+TOKEN[57]: 0.0015496    1 vaccinate
+	vaccinate WORD[57,   1]: 0.0007748 撲つ
+TOKEN[58]: 0.0014895    1 inject
+	inject WORD[58,   1]: 0.0007447 撲つ
+TOKEN[59]: 0.0014041    1 transmit
+	transmit WORD[59,   1]: 0.0007021 撲つ
+TOKEN[60]: 0.0013710    1 clap
+	clap WORD[60,   1]: 0.0006855 撲つ
+TOKEN[61]: 0.0013440    1 bang
+	bang WORD[61,   1]: 0.0006720 撲つ
+TOKEN[62]: 0.0013292    1 thumb
+	thumb WORD[62,   1]: 0.0013292 指相撲
+TOKEN[63]: 0.0013265    1 sprinkle
+	sprinkle WORD[63,   1]: 0.0006633 撲つ
+TOKEN[64]: 0.0013159    1 impress
+	impress WORD[64,   1]: 0.0006580 撲つ
+TOKEN[65]: 0.0012798    1 pilgrimage
+	pilgrimage WORD[65,   1]: 0.0006399 撲つ
+TOKEN[66]: 0.0012759    1 pulse
+	pulse WORD[66,   1]: 0.0006379 撲つ
+TOKEN[67]: 0.0012720    1 till
+	till WORD[67,   1]: 0.0006360 撲つ
+TOKEN[68]: 0.0012682    1 tap
+	tap WORD[68,   1]: 0.0006341 撲つ
+TOKEN[69]: 0.0012508    1 noon
+	noon WORD[69,   1]: 0.0006254 撲つ
+TOKEN[70]: 0.0012475    1 prepare
+	prepare WORD[70,   1]: 0.0006238 撲つ
+TOKEN[71]: 0.0012381    1 pound
+	pound WORD[71,   1]: 0.0006191 撲つ
+TOKEN[72]: 0.0012183    1 bind
+	bind WORD[72,   1]: 0.0006092 撲つ
+TOKEN[73]: 0.0012183    1 engage
+	engage WORD[73,   1]: 0.0006092 撲つ
+TOKEN[74]: 0.0012106    1 hammer
+	hammer WORD[74,   1]: 0.0006053 撲つ
+TOKEN[75]: 0.0011831    1 insert
+	insert WORD[75,   1]: 0.0005916 撲つ
+TOKEN[76]: 0.0011711    1 perform
+	perform WORD[76,   1]: 0.0005856 撲つ
+TOKEN[77]: 0.0011547    1 drum
+	drum WORD[77,   1]: 0.0005774 撲つ
+TOKEN[78]: 0.0011447    1 gambling
+	gambling WORD[78,   1]: 0.0005724 撲つ
+TOKEN[79]: 0.0011209    1 deposit
+	deposit WORD[79,   1]: 0.0005605 撲つ
+TOKEN[80]: 0.0011190    1 tournament
+	tournament WORD[80,   1]: 0.0011190 花相撲
+TOKEN[81]: 0.0011091    1 cast
+	cast WORD[81,   1]: 0.0005545 撲つ
+TOKEN[82]: 0.0011029    1 coat
+	coat WORD[82,   1]: 0.0005514 撲つ
+TOKEN[83]: 0.0010889    1 soil
+	soil WORD[83,   1]: 0.0005445 撲つ
+TOKEN[84]: 0.0010636    1 write
+	write WORD[84,   1]: 0.0005318 撲つ
+TOKEN[85]: 0.0010617    1 send
+	send WORD[85,   1]: 0.0005309 撲つ
+TOKEN[86]: 0.0010581    1 touch
+	touch WORD[86,   1]: 0.0005290 撲つ
+TOKEN[87]: 0.0010427    1 criminal
+	criminal WORD[87,   1]: 0.0005214 撲つ
+TOKEN[88]: 0.0010209    1 visit
+	visit WORD[88,   1]: 0.0005105 撲つ
+TOKEN[89]: 0.0010181    1 six
+	six WORD[89,   1]: 0.0010181 花相撲
+TOKEN[90]: 0.0010095    1 drive
+	drive WORD[90,   1]: 0.0005047 撲つ
+TOKEN[91]: 0.0010059    1 major
+	major WORD[91,   1]: 0.0010059 花相撲
+TOKEN[92]: 0.0009993    1 eradication
+	eradication WORD[92,   1]: 0.0009993 撲滅
+TOKEN[93]: 0.0009926    1 extermination
+	extermination WORD[93,   1]: 0.0009926 撲滅
+TOKEN[94]: 0.0009873    1 carry
+	carry WORD[94,   1]: 0.0004936 撲つ
+TOKEN[95]: 0.0009867    1 pay
+	pay WORD[95,   1]: 0.0004933 撲つ
+TOKEN[96]: 0.0009714    1 mark
+	mark WORD[96,   1]: 0.0004857 撲つ
+TOKEN[97]: 0.0009641    1 move
+	move WORD[97,   1]: 0.0004820 撲つ
+TOKEN[98]: 0.0009242    1 throw
+	throw WORD[98,   1]: 0.0004621 撲つ
+TOKEN[99]: 0.0009153    1 sound
+	sound WORD[99,   1]: 0.0004577 撲つ
+TOKEN[100]: 0.0008963    1 play
+	play WORD[100,   1]: 0.0004482 撲つ
+TOKEN[101]: 0.0008841    1 suppression
+	suppression WORD[101,   1]: 0.0008841 撲滅
+TOKEN[102]: 0.0008734    1 type
+	type WORD[102,   1]: 0.0004367 撲つ
+TOKEN[103]: 0.0008575    1 destruction
+	destruction WORD[103,   1]: 0.0008575 撲滅
+TOKEN[104]: 0.0008383    1 line
+	line WORD[104,   1]: 0.0004192 撲つ
+TOKEN[105]: 0.0008214    1 put
+	put WORD[105,   1]: 0.0004107 撲つ
+TOKEN[106]: 0.0007458    1 beating
+	beating WORD[106,   1]: 0.0007458 打撲
+TOKEN[107]: 0.0007282    1 make
+	make WORD[107,   1]: 0.0003641 撲つ
+TOKEN[108]: 0.0006956    1 floor
+	floor WORD[108,   1]: 0.0006956 撲り倒す
+TOKEN[109]: 0.0006429    1 brute
+	brute WORD[109,   1]: 0.0006429 腕相撲
+TOKEN[110]: 0.0005993    1 blow
+	blow WORD[110,   1]: 0.0005993 打撲
+TOKEN[111]: 0.0005923    1 death
+	death WORD[111,   1]: 0.0005923 撲殺
+TOKEN[112]: 0.0005493    1 arm
+	arm WORD[112,   1]: 0.0005493 腕相撲
+TOKEN[113]: 0.0005493    1 Indian
+	Indian WORD[113,   1]: 0.0005493 腕相撲
+TOKEN[114]: 0.0005205    1 arms
+	arms WORD[114,   1]: 0.0005205 腕相撲
+TOKEN[115]: 0.0005201    1 skill
+	skill WORD[115,   1]: 0.0005201 腕相撲
+TOKEN[116]: 0.0005032    1 body
+	body WORD[116,   1]: 0.0005032 打撲
+TOKEN[117]: 0.0005017    1 strength
+	strength WORD[117,   1]: 0.0005017 腕相撲

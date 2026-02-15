@@ -1,0 +1,446 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0858869   11 dirty          : 汚れ仕事, 汚れもの, 汚れ物, 小汚い, 汚い, 汚ない, 汚らわしい, 薄汚れる, 汚す, 汚し, ...
+0.0342191    2 laundry        : 汚れもの, 汚れ物
+0.0294357    7 disgrace       : 面汚し, 汚れ, 汚す, 汚し, 汚名, 汚点, 汚辱
+0.0272238    5 stain          : 油汚れ, 汚れ, 防汚, 汚す, 汚点
+0.0228531    6 foul           : 汚らわしい, 汚臭, 口汚い, 口汚ない, 汚い, 汚ない
+0.0227659    6 filthy         : 汚らわしい, 汚らしい, 汚い, 汚ない, 汚水, 薄汚い
+0.0212150    1 getting        : 汚れ落とし
+0.0202426    1 unpleasant     : 汚れ仕事
+0.0195222    1 task           : 汚れ仕事
+0.0165737    3 shame          : 面汚し, 汚れ, 汚し
+0.0159966    1 role           : 汚れ役
+0.0150122    3 corruption     : 汚れ, 汚濁, 汚職
+0.0148014    2 blot           : 汚れ, 汚点
+0.0145353    1 desecration    : 汚涜
+0.0140753    1 blasphemy      : 汚涜
+0.0139680    1 rid            : 汚れ落とし
+0.0137333    1 work           : 汚れ仕事
+0.0127677    4 greedy         : 口汚い, 口汚ない, 汚い, 汚ない
+0.0125703    1 uncleanness    : 汚れ
+0.0121289    1 uncleanliness  : 汚れ
+0.0113743    1 defilement     : 汚れ
+0.0113743    1 depravity      : 汚れ
+0.0110613    1 polluted       : 汚れる
+0.0110466    2 nasty          : 腹汚い, 汚らわしい
+0.0109479    3 underhanded    : 小汚い, 汚い, 汚ない
+0.0109329    1 impurity       : 汚れ
+0.0109274    3 dishonor       : 汚す, 汚し, 汚名
+0.0108328    2 muck           : 汚穢, 汚物
+0.0108184    1 corrupted      : 汚れる
+0.0106101    2 filth          : 汚穢, 汚物
+0.0096222    1 menstruation   : 汚れ
+0.0088677    1 pregnancy      : 汚れ
+0.0086779    4 language       : 口汚い, 口汚ない, 汚い, 汚ない
+0.0084277    2 disgusting     : 汚らわしい, 汚らしい
+0.0081989    2 dirt           : 汚穢, 汚物
+0.0079609    1 contact        : 汚れ
+0.0077426    2 soiling        : 汚し, 汚損
+0.0076403    2 disordered     : 汚い, 汚ない
+0.0075949    2 gluttonous     : 口汚い, 口汚ない
+0.0075917    3 base           : 小汚い, 汚い, 汚ない
+0.0075018    2 soil           : 汚穢, 汚す
+0.0075001    2 unclean        : 汚い, 汚ない
+0.0073409    1 eat            : 食べ汚す
+0.0071884    2 untidy         : 汚い, 汚ない
+0.0071176    1 outcast        : 汚れ役
+0.0070699    2 messy          : 汚い, 汚ない
+0.0067641    1 sample         : 口汚し
+0.0067244    2 contamination  : 汚濁, 汚染
+0.0066994    2 stingy         : 汚い, 汚ない
+0.0066975    2 abusive        : 口汚い, 口汚ない
+0.0064787    1 untouchable    : 汚らわしい
+0.0064490    2 pollution      : 汚濁, 汚染
+0.0064343    2 indecent       : 汚い, 汚ない
+0.0062762    1 villain        : 汚れ役
+0.0062500    2 handwriting    : 汚い, 汚ない
+0.0061923    1 odious         : 汚らわしい
+0.0061505    1 death          : 汚れ
+0.0060709    2 coarse         : 汚い, 汚ない
+0.0060563    1 repulsive      : 汚らわしい
+0.0060081    1 drama          : 汚れ役
+0.0058700    2 vulgar         : 汚い, 汚ない
+0.0058252    2 mean           : 汚い, 汚ない
+0.0057931    1 scandalous     : 汚行
+0.0056622    1 antifouling    : 防汚
+0.0054288    1 unfair         : 汚らわしい
+0.0053746    1 corrupt        : 汚吏
+0.0050488    2 poor           : 汚い, 汚ない
+0.0049190    1 film           : 汚れ役
+0.0048515    1 social         : 汚れ役
+0.0046549    1 conduct        : 汚行
+0.0045342    1 contaminate    : 汚す
+0.0045342    1 pollute        : 汚す
+0.0045258    1 smell          : 汚臭
+0.0044535    1 bad            : 汚名
+0.0044007    1 dingy          : 小汚い
+0.0042760    1 food           : 口汚し
+0.0042630    1 infamy         : 汚名
+0.0042449    1 defacing       : 汚損
+0.0041744    1 defile         : 汚す
+0.0041735    1 polluting      : 汚し
+0.0040868    1 whitetip       : 汚
+0.0040177    1 squalid        : 汚らしい
+0.0039133    1 mire           : 汚泥
+0.0038982    1 official       : 汚吏
+0.0038005    1 stigma         : 汚名
+0.0038004    1 resistance     : 防汚
+0.0037841    1 night          : 汚穢
+0.0037352    1 staining       : 汚損
+0.0036919    1 spoiling       : 汚損
+0.0036581    1 slime          : 汚泥
+0.0036396    1 oceanic        : 汚
+0.0036396    1 drab           : 薄汚い
+0.0035910    1 sludge         : 汚泥
+0.0035736    1 Carcharhinus   : 汚
+0.0035703    1 excrement      : 汚物
+0.0034777    1 sewage         : 汚水
+0.0034708    1 grease         : 油汚れ
+0.0034374    1 graft          : 汚濁
+0.0033679    1 dregs          : 汚泥
+0.0033440    1 insult         : 汚辱
+0.0032990    1 humiliation    : 汚辱
+0.0032694    1 chopped        : 汚し
+0.0032379    1 urine          : 汚物
+0.0032048    1 feces          : 汚物
+0.0032023    1 shellfish      : 汚し
+0.0031765    1 flaw           : 汚点
+0.0031014    1 dressed        : 汚し
+0.0030657    1 despair        : 汚泥
+0.0029020    1 shark          : 汚
+0.0028704    1 hopeless       : 汚泥
+0.0027856    1 garbage        : 汚物
+0.0027688    1 hell           : 汚泥
+0.0027247    1 reputation     : 汚名
+0.0026463    1 dust           : 汚物
+0.0026160    1 damage         : 汚損
+0.0025265    1 waste          : 汚物
+0.0024909    1 sauce          : 汚し
+0.0023425    1 looking        : 薄汚い
+0.0023086    1 situation      : 汚泥
+0.0022134    1 oil            : 油汚れ
+0.0020972    1 name           : 汚名
+0.0020742    1 fish           : 汚し
+0.0019279    1 make           : 汚す
+0.0018933    1 water          : 汚水
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0858869   11 dirty
+	dirty WORD[ 1,   1]: 0.0201267 汚れ仕事
+	dirty WORD[ 1,   2]: 0.0149405 汚れもの
+	dirty WORD[ 1,   3]: 0.0149403 汚れ物
+	dirty WORD[ 1,   4]: 0.0060972 小汚い
+	dirty WORD[ 1,   5]: 0.0059341 汚い
+	dirty WORD[ 1,   6]: 0.0059341 汚ない
+	dirty WORD[ 1,   7]: 0.0047038 汚らわしい
+	dirty WORD[ 1,   8]: 0.0044468 薄汚れる
+	dirty WORD[ 1,   9]: 0.0030308 汚す
+	dirty WORD[ 1,  10]: 0.0029678 汚し
+	dirty WORD[ 1,  11]: 0.0027647 薄汚い
+TOKEN[ 2]: 0.0342191    2 laundry
+	laundry WORD[ 2,   1]: 0.0171097 汚れもの
+	laundry WORD[ 2,   2]: 0.0171094 汚れ物
+TOKEN[ 3]: 0.0294357    7 disgrace
+	disgrace WORD[ 3,   1]: 0.0053844 面汚し
+	disgrace WORD[ 3,   2]: 0.0044073 汚れ
+	disgrace WORD[ 3,   3]: 0.0031795 汚す
+	disgrace WORD[ 3,   4]: 0.0031134 汚し
+	disgrace WORD[ 3,   5]: 0.0029893 汚名
+	disgrace WORD[ 3,   6]: 0.0029806 汚点
+	disgrace WORD[ 3,   7]: 0.0029739 汚辱
+TOKEN[ 4]: 0.0272238    5 stain
+	stain WORD[ 4,   1]: 0.0062223 油汚れ
+	stain WORD[ 4,   2]: 0.0048487 汚れ
+	stain WORD[ 4,   3]: 0.0045271 防汚
+	stain WORD[ 4,   4]: 0.0034979 汚す
+	stain WORD[ 4,   5]: 0.0032791 汚点
+TOKEN[ 5]: 0.0228531    6 foul
+	foul WORD[ 5,   1]: 0.0050515 汚らわしい
+	foul WORD[ 5,   2]: 0.0049755 汚臭
+	foul WORD[ 5,   3]: 0.0032267 口汚い
+	foul WORD[ 5,   4]: 0.0032267 口汚ない
+	foul WORD[ 5,   5]: 0.0031864 汚い
+	foul WORD[ 5,   6]: 0.0031864 汚ない
+TOKEN[ 6]: 0.0227659    6 filthy
+	filthy WORD[ 6,   1]: 0.0055758 汚らわしい
+	filthy WORD[ 6,   2]: 0.0035181 汚らしい
+	filthy WORD[ 6,   3]: 0.0035171 汚い
+	filthy WORD[ 6,   4]: 0.0035170 汚ない
+	filthy WORD[ 6,   5]: 0.0033607 汚水
+	filthy WORD[ 6,   6]: 0.0032772 薄汚い
+TOKEN[ 7]: 0.0212150    1 getting
+	getting WORD[ 7,   1]: 0.0212150 汚れ落とし
+TOKEN[ 8]: 0.0202426    1 unpleasant
+	unpleasant WORD[ 8,   1]: 0.0202426 汚れ仕事
+TOKEN[ 9]: 0.0195222    1 task
+	task WORD[ 9,   1]: 0.0195222 汚れ仕事
+TOKEN[10]: 0.0165737    3 shame
+	shame WORD[10,   1]: 0.0051546 面汚し
+	shame WORD[10,   2]: 0.0042192 汚れ
+	shame WORD[10,   3]: 0.0029806 汚し
+TOKEN[11]: 0.0159966    1 role
+	role WORD[11,   1]: 0.0159966 汚れ役
+TOKEN[12]: 0.0150122    3 corruption
+	corruption WORD[12,   1]: 0.0044812 汚れ
+	corruption WORD[12,   2]: 0.0030267 汚濁
+	corruption WORD[12,   3]: 0.0030230 汚職
+TOKEN[13]: 0.0148014    2 blot
+	blot WORD[13,   1]: 0.0055306 汚れ
+	blot WORD[13,   2]: 0.0037403 汚点
+TOKEN[14]: 0.0145353    1 desecration
+	desecration WORD[14,   1]: 0.0145353 汚涜
+TOKEN[15]: 0.0140753    1 blasphemy
+	blasphemy WORD[15,   1]: 0.0140753 汚涜
+TOKEN[16]: 0.0139680    1 rid
+	rid WORD[16,   1]: 0.0139680 汚れ落とし
+TOKEN[17]: 0.0137333    1 work
+	work WORD[17,   1]: 0.0137333 汚れ仕事
+TOKEN[18]: 0.0127677    4 greedy
+	greedy WORD[18,   1]: 0.0032120 口汚い
+	greedy WORD[18,   2]: 0.0032120 口汚ない
+	greedy WORD[18,   3]: 0.0031719 汚い
+	greedy WORD[18,   4]: 0.0031719 汚ない
+TOKEN[19]: 0.0125703    1 uncleanness
+	uncleanness WORD[19,   1]: 0.0062851 汚れ
+TOKEN[20]: 0.0121289    1 uncleanliness
+	uncleanliness WORD[20,   1]: 0.0060644 汚れ
+TOKEN[21]: 0.0113743    1 defilement
+	defilement WORD[21,   1]: 0.0056872 汚れ
+TOKEN[22]: 0.0113743    1 depravity
+	depravity WORD[22,   1]: 0.0056872 汚れ
+TOKEN[23]: 0.0110613    1 polluted
+	polluted WORD[23,   1]: 0.0055306 汚れる
+TOKEN[24]: 0.0110466    2 nasty
+	nasty WORD[24,   1]: 0.0058933 腹汚い
+	nasty WORD[24,   2]: 0.0051533 汚らわしい
+TOKEN[25]: 0.0109479    3 underhanded
+	underhanded WORD[25,   1]: 0.0037156 小汚い
+	underhanded WORD[25,   2]: 0.0036162 汚い
+	underhanded WORD[25,   3]: 0.0036161 汚ない
+TOKEN[26]: 0.0109329    1 impurity
+	impurity WORD[26,   1]: 0.0054665 汚れ
+TOKEN[27]: 0.0109274    3 dishonor
+	dishonor WORD[27,   1]: 0.0037430 汚す
+	dishonor WORD[27,   2]: 0.0036653 汚し
+	dishonor WORD[27,   3]: 0.0035191 汚名
+TOKEN[28]: 0.0108328    2 muck
+	muck WORD[28,   1]: 0.0068276 汚穢
+	muck WORD[28,   2]: 0.0040053 汚物
+TOKEN[29]: 0.0108184    1 corrupted
+	corrupted WORD[29,   1]: 0.0054092 汚れる
+TOKEN[30]: 0.0106101    2 filth
+	filth WORD[30,   1]: 0.0066872 汚穢
+	filth WORD[30,   2]: 0.0039229 汚物
+TOKEN[31]: 0.0096222    1 menstruation
+	menstruation WORD[31,   1]: 0.0048111 汚れ
+TOKEN[32]: 0.0088677    1 pregnancy
+	pregnancy WORD[32,   1]: 0.0044338 汚れ
+TOKEN[33]: 0.0086779    4 language
+	language WORD[33,   1]: 0.0021831 口汚い
+	language WORD[33,   2]: 0.0021831 口汚ない
+	language WORD[33,   3]: 0.0021559 汚い
+	language WORD[33,   4]: 0.0021558 汚ない
+TOKEN[34]: 0.0084277    2 disgusting
+	disgusting WORD[34,   1]: 0.0051673 汚らわしい
+	disgusting WORD[34,   2]: 0.0032604 汚らしい
+TOKEN[35]: 0.0081989    2 dirt
+	dirt WORD[35,   1]: 0.0051675 汚穢
+	dirt WORD[35,   2]: 0.0030314 汚物
+TOKEN[36]: 0.0079609    1 contact
+	contact WORD[36,   1]: 0.0039805 汚れ
+TOKEN[37]: 0.0077426    2 soiling
+	soiling WORD[37,   1]: 0.0039583 汚し
+	soiling WORD[37,   2]: 0.0037843 汚損
+TOKEN[38]: 0.0076403    2 disordered
+	disordered WORD[38,   1]: 0.0038202 汚い
+	disordered WORD[38,   2]: 0.0038201 汚ない
+TOKEN[39]: 0.0075949    2 gluttonous
+	gluttonous WORD[39,   1]: 0.0037975 口汚い
+	gluttonous WORD[39,   2]: 0.0037975 口汚ない
+TOKEN[40]: 0.0075917    3 base
+	base WORD[40,   1]: 0.0025765 小汚い
+	base WORD[40,   2]: 0.0025076 汚い
+	base WORD[40,   3]: 0.0025076 汚ない
+TOKEN[41]: 0.0075018    2 soil
+	soil WORD[41,   1]: 0.0046186 汚穢
+	soil WORD[41,   2]: 0.0028831 汚す
+TOKEN[42]: 0.0075001    2 unclean
+	unclean WORD[42,   1]: 0.0037501 汚い
+	unclean WORD[42,   2]: 0.0037500 汚ない
+TOKEN[43]: 0.0073409    1 eat
+	eat WORD[43,   1]: 0.0073409 食べ汚す
+TOKEN[44]: 0.0071884    2 untidy
+	untidy WORD[44,   1]: 0.0035942 汚い
+	untidy WORD[44,   2]: 0.0035942 汚ない
+TOKEN[45]: 0.0071176    1 outcast
+	outcast WORD[45,   1]: 0.0071176 汚れ役
+TOKEN[46]: 0.0070699    2 messy
+	messy WORD[46,   1]: 0.0035350 汚い
+	messy WORD[46,   2]: 0.0035349 汚ない
+TOKEN[47]: 0.0067641    1 sample
+	sample WORD[47,   1]: 0.0067641 口汚し
+TOKEN[48]: 0.0067244    2 contamination
+	contamination WORD[48,   1]: 0.0033636 汚濁
+	contamination WORD[48,   2]: 0.0033608 汚染
+TOKEN[49]: 0.0066994    2 stingy
+	stingy WORD[49,   1]: 0.0033497 汚い
+	stingy WORD[49,   2]: 0.0033497 汚ない
+TOKEN[50]: 0.0066975    2 abusive
+	abusive WORD[50,   1]: 0.0033488 口汚い
+	abusive WORD[50,   2]: 0.0033488 口汚ない
+TOKEN[51]: 0.0064787    1 untouchable
+	untouchable WORD[51,   1]: 0.0064787 汚らわしい
+TOKEN[52]: 0.0064490    2 pollution
+	pollution WORD[52,   1]: 0.0032259 汚濁
+	pollution WORD[52,   2]: 0.0032232 汚染
+TOKEN[53]: 0.0064343    2 indecent
+	indecent WORD[53,   1]: 0.0032172 汚い
+	indecent WORD[53,   2]: 0.0032171 汚ない
+TOKEN[54]: 0.0062762    1 villain
+	villain WORD[54,   1]: 0.0062762 汚れ役
+TOKEN[55]: 0.0062500    2 handwriting
+	handwriting WORD[55,   1]: 0.0031250 汚い
+	handwriting WORD[55,   2]: 0.0031250 汚ない
+TOKEN[56]: 0.0061923    1 odious
+	odious WORD[56,   1]: 0.0061923 汚らわしい
+TOKEN[57]: 0.0061505    1 death
+	death WORD[57,   1]: 0.0030753 汚れ
+TOKEN[58]: 0.0060709    2 coarse
+	coarse WORD[58,   1]: 0.0030355 汚い
+	coarse WORD[58,   2]: 0.0030355 汚ない
+TOKEN[59]: 0.0060563    1 repulsive
+	repulsive WORD[59,   1]: 0.0060563 汚らわしい
+TOKEN[60]: 0.0060081    1 drama
+	drama WORD[60,   1]: 0.0060081 汚れ役
+TOKEN[61]: 0.0058700    2 vulgar
+	vulgar WORD[61,   1]: 0.0029350 汚い
+	vulgar WORD[61,   2]: 0.0029350 汚ない
+TOKEN[62]: 0.0058252    2 mean
+	mean WORD[62,   1]: 0.0029126 汚い
+	mean WORD[62,   2]: 0.0029126 汚ない
+TOKEN[63]: 0.0057931    1 scandalous
+	scandalous WORD[63,   1]: 0.0057931 汚行
+TOKEN[64]: 0.0056622    1 antifouling
+	antifouling WORD[64,   1]: 0.0056622 防汚
+TOKEN[65]: 0.0054288    1 unfair
+	unfair WORD[65,   1]: 0.0054288 汚らわしい
+TOKEN[66]: 0.0053746    1 corrupt
+	corrupt WORD[66,   1]: 0.0053746 汚吏
+TOKEN[67]: 0.0050488    2 poor
+	poor WORD[67,   1]: 0.0025244 汚い
+	poor WORD[67,   2]: 0.0025244 汚ない
+TOKEN[68]: 0.0049190    1 film
+	film WORD[68,   1]: 0.0049190 汚れ役
+TOKEN[69]: 0.0048515    1 social
+	social WORD[69,   1]: 0.0048515 汚れ役
+TOKEN[70]: 0.0046549    1 conduct
+	conduct WORD[70,   1]: 0.0046549 汚行
+TOKEN[71]: 0.0045342    1 contaminate
+	contaminate WORD[71,   1]: 0.0045342 汚す
+TOKEN[72]: 0.0045342    1 pollute
+	pollute WORD[72,   1]: 0.0045342 汚す
+TOKEN[73]: 0.0045258    1 smell
+	smell WORD[73,   1]: 0.0045258 汚臭
+TOKEN[74]: 0.0044535    1 bad
+	bad WORD[74,   1]: 0.0044535 汚名
+TOKEN[75]: 0.0044007    1 dingy
+	dingy WORD[75,   1]: 0.0044007 小汚い
+TOKEN[76]: 0.0042760    1 food
+	food WORD[76,   1]: 0.0042760 口汚し
+TOKEN[77]: 0.0042630    1 infamy
+	infamy WORD[77,   1]: 0.0042630 汚名
+TOKEN[78]: 0.0042449    1 defacing
+	defacing WORD[78,   1]: 0.0042449 汚損
+TOKEN[79]: 0.0041744    1 defile
+	defile WORD[79,   1]: 0.0041744 汚す
+TOKEN[80]: 0.0041735    1 polluting
+	polluting WORD[80,   1]: 0.0041735 汚し
+TOKEN[81]: 0.0040868    1 whitetip
+	whitetip WORD[81,   1]: 0.0040868 汚
+TOKEN[82]: 0.0040177    1 squalid
+	squalid WORD[82,   1]: 0.0040177 汚らしい
+TOKEN[83]: 0.0039133    1 mire
+	mire WORD[83,   1]: 0.0039133 汚泥
+TOKEN[84]: 0.0038982    1 official
+	official WORD[84,   1]: 0.0038982 汚吏
+TOKEN[85]: 0.0038005    1 stigma
+	stigma WORD[85,   1]: 0.0038005 汚名
+TOKEN[86]: 0.0038004    1 resistance
+	resistance WORD[86,   1]: 0.0038004 防汚
+TOKEN[87]: 0.0037841    1 night
+	night WORD[87,   1]: 0.0037841 汚穢
+TOKEN[88]: 0.0037352    1 staining
+	staining WORD[88,   1]: 0.0037352 汚損
+TOKEN[89]: 0.0036919    1 spoiling
+	spoiling WORD[89,   1]: 0.0036919 汚損
+TOKEN[90]: 0.0036581    1 slime
+	slime WORD[90,   1]: 0.0036581 汚泥
+TOKEN[91]: 0.0036396    1 oceanic
+	oceanic WORD[91,   1]: 0.0036396 汚
+TOKEN[92]: 0.0036396    1 drab
+	drab WORD[92,   1]: 0.0036396 薄汚い
+TOKEN[93]: 0.0035910    1 sludge
+	sludge WORD[93,   1]: 0.0035910 汚泥
+TOKEN[94]: 0.0035736    1 Carcharhinus
+	Carcharhinus WORD[94,   1]: 0.0035736 汚
+TOKEN[95]: 0.0035703    1 excrement
+	excrement WORD[95,   1]: 0.0035703 汚物
+TOKEN[96]: 0.0034777    1 sewage
+	sewage WORD[96,   1]: 0.0034777 汚水
+TOKEN[97]: 0.0034708    1 grease
+	grease WORD[97,   1]: 0.0034708 油汚れ
+TOKEN[98]: 0.0034374    1 graft
+	graft WORD[98,   1]: 0.0034374 汚濁
+TOKEN[99]: 0.0033679    1 dregs
+	dregs WORD[99,   1]: 0.0033679 汚泥
+TOKEN[100]: 0.0033440    1 insult
+	insult WORD[100,   1]: 0.0033440 汚辱
+TOKEN[101]: 0.0032990    1 humiliation
+	humiliation WORD[101,   1]: 0.0032990 汚辱
+TOKEN[102]: 0.0032694    1 chopped
+	chopped WORD[102,   1]: 0.0032694 汚し
+TOKEN[103]: 0.0032379    1 urine
+	urine WORD[103,   1]: 0.0032379 汚物
+TOKEN[104]: 0.0032048    1 feces
+	feces WORD[104,   1]: 0.0032048 汚物
+TOKEN[105]: 0.0032023    1 shellfish
+	shellfish WORD[105,   1]: 0.0032023 汚し
+TOKEN[106]: 0.0031765    1 flaw
+	flaw WORD[106,   1]: 0.0031765 汚点
+TOKEN[107]: 0.0031014    1 dressed
+	dressed WORD[107,   1]: 0.0031014 汚し
+TOKEN[108]: 0.0030657    1 despair
+	despair WORD[108,   1]: 0.0030657 汚泥
+TOKEN[109]: 0.0029020    1 shark
+	shark WORD[109,   1]: 0.0029020 汚
+TOKEN[110]: 0.0028704    1 hopeless
+	hopeless WORD[110,   1]: 0.0028704 汚泥
+TOKEN[111]: 0.0027856    1 garbage
+	garbage WORD[111,   1]: 0.0027856 汚物
+TOKEN[112]: 0.0027688    1 hell
+	hell WORD[112,   1]: 0.0027688 汚泥
+TOKEN[113]: 0.0027247    1 reputation
+	reputation WORD[113,   1]: 0.0027247 汚名
+TOKEN[114]: 0.0026463    1 dust
+	dust WORD[114,   1]: 0.0026463 汚物
+TOKEN[115]: 0.0026160    1 damage
+	damage WORD[115,   1]: 0.0026160 汚損
+TOKEN[116]: 0.0025265    1 waste
+	waste WORD[116,   1]: 0.0025265 汚物
+TOKEN[117]: 0.0024909    1 sauce
+	sauce WORD[117,   1]: 0.0024909 汚し
+TOKEN[118]: 0.0023425    1 looking
+	looking WORD[118,   1]: 0.0023425 薄汚い
+TOKEN[119]: 0.0023086    1 situation
+	situation WORD[119,   1]: 0.0023086 汚泥
+TOKEN[120]: 0.0022134    1 oil
+	oil WORD[120,   1]: 0.0022134 油汚れ
+TOKEN[121]: 0.0020972    1 name
+	name WORD[121,   1]: 0.0020972 汚名
+TOKEN[122]: 0.0020742    1 fish
+	fish WORD[122,   1]: 0.0020742 汚し
+TOKEN[123]: 0.0019279    1 make
+	make WORD[123,   1]: 0.0019279 汚す
+TOKEN[124]: 0.0018933    1 water
+	water WORD[124,   1]: 0.0018933 汚水

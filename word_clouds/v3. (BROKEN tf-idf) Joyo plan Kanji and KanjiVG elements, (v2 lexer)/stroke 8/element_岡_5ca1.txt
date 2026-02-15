@@ -1,0 +1,756 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0984722   18 steel          : 鋼線, 鋼索, 鋼球, 硬鋼, 鋼製, 玉鋼, 鋼管, 鋼板, 鋼鈑, 鋼, ...
+0.0208539    6 city           : 盛岡, 福岡, 長岡京, 静岡, 靜岡, 岡山
+0.0186279    4 strong         : 強剛, 剛の者, 剛腕, 剛
+0.0182390    1 private        : 岡っ引き
+0.0177161    8 rope           : 製綱, 鋼索, もやい綱, 引き綱, 引綱, 綱手, 綱, 命綱
+0.0168372    2 ball           : 鋼球, 剛球
+0.0158747    4 strength       : 剛力, 強剛, 剛強, 剛毅
+0.0147000    4 prefecture     : 福岡, 静岡, 靜岡, 岡山
+0.0140874    2 wire           : 鋼線, 鋼索
+0.0135941    1 taker          : 岡っ引き
+0.0134618    2 secret         : 岡っ引き, 岡惚れ
+0.0128428    1 hired          : 岡っ引き
+0.0125988    1 detective      : 岡っ引き
+0.0125547    1 policeman      : 岡っ引き
+0.0119541    2 made           : 鋼製, 玉鋼
+0.0115168    2 eligible       : 綱とり, 綱取り
+0.0109918    1 thief          : 岡っ引き
+0.0101890    2 iron           : 玉鋼, 鉄鋼
+0.0101188    2 attempt        : 綱とり, 綱取り
+0.0096490    2 promotion      : 綱とり, 綱取り
+0.0093301    1 looking        : 岡目
+0.0092871    2 wrestler       : 綱とり, 綱取り
+0.0092261    2 manufacture    : 製綱, 製鋼
+0.0090273    3 cable          : 鋼索, 碇綱, 錨綱
+0.0088417    2 pipe           : 鋼管, 飯綱
+0.0086364    1 love           : 岡惚れ
+0.0086270    2 reach          : 綱とり, 綱取り
+0.0085931    3 rank           : 綱とり, 綱取り, 横綱
+0.0084215    1 Edo            : 岡っ引き
+0.0082308    1 Aves           : 鳥綱
+0.0080402    1 bearing        : 鋼球
+0.0078413    1 powerhouse     : 強剛
+0.0078269    2 hard           : 硬鋼, 剛
+0.0077724    1 sand           : 玉鋼
+0.0076329    3 mooring        : もやい綱, 綱手, 艫綱
+0.0073710    1 period         : 岡っ引き
+0.0071100    2 sturdiness     : 剛健, 剛毅
+0.0070204    1 unrequited     : 岡惚れ
+0.0069015    1 corundum       : 鋼玉
+0.0068549    1 indestructible : 金剛
+0.0067528    1 monastic       : 三綱
+0.0066097    1 overwhelming   : 強剛
+0.0065430    2 rigidity       : 剛直, 剛性
+0.0065266    2 firmness       : 剛強, 剛毅
+0.0065157    2 rigid          : 堅剛, 剛体
+0.0064073    1 envy           : 岡焼き
+0.0063799    1 illicit        : 岡惚れ
+0.0063227    1 traditional    : 玉鋼
+0.0062159    1 outsider       : 岡目
+0.0061953    1 jealousy       : 岡焼き
+0.0061853    1 use            : 玉鋼
+0.0058262    2 obstinacy      : 剛愎, 剛腹
+0.0055872    1 mountain       : 剛力
+0.0054042    2 sheet          : 鋼板, 鋼鈑
+0.0053991    2 tether         : 首綱, 命綱
+0.0053582    1 mild           : 軟鋼
+0.0052658    3 person         : 強剛, 剛の者, 剛腕
+0.0052229    1 team           : 強剛
+0.0051431    2 plate          : 鋼板, 鋼鈑
+0.0051325    1 player         : 強剛
+0.0050554    1 carrying       : 岡持ち
+0.0049771    2 anchor         : 碇綱, 錨綱
+0.0049717    2 brave          : 剛の者, 剛気
+0.0047952    2 moral          : 剛直, 綱常
+0.0047369    1 leash          : 首綱
+0.0046868    1 Japanese       : 玉鋼
+0.0046534    1 cast           : 鋳鋼
+0.0046281    1 management     : 三綱
+0.0045841    2 daring         : 剛気, 剛胆
+0.0045776    1 wooden         : 岡持ち
+0.0045247    1 box            : 岡持ち
+0.0044802    1 knoll          : 岡
+0.0044437    1 sword          : 鋼
+0.0043708    2 bold           : 剛気, 剛胆
+0.0042343    1 temple         : 三綱
+0.0041969    1 class          : 鳥綱
+0.0041244    1 side           : 岡目
+0.0041110    1 three          : 三綱
+0.0039058    1 virility       : 剛健
+0.0038054    1 bonus          : 岡
+0.0037319    1 rod            : 棒鋼
+0.0037138    1 capital        : 長岡京
+0.0036841    1 stouthearted   : 剛気
+0.0036841    1 hardihood      : 剛毅
+0.0036245    1 winner         : 岡
+0.0035910    1 hill           : 岡
+0.0035605    1 Indra          : 金剛
+0.0035605    1 thunderbolt    : 金剛
+0.0034873    1 adamantine     : 金剛
+0.0034781    1 unyielding     : 堅剛
+0.0034762    3 line           : もやい綱, 艫綱, 綱
+0.0033625    1 prowess        : 剛勇
+0.0033336    1 undaunted      : 剛気
+0.0033115    1 bristle        : 剛毛
+0.0033107    2 Buddhist       : 金剛, 僧綱
+0.0032697    1 rising         : 岡
+0.0032628    1 festoon        : 花綱
+0.0032286    1 vajra          : 金剛
+0.0031706    1 fortitude      : 剛毅
+0.0031464    1 height         : 岡
+0.0031359    2 tightrope      : 綱わたり, 綱渡り
+0.0031124    1 valiant        : 剛気
+0.0030704    1 crude          : 粗鋼
+0.0030624    1 arm            : 剛腕
+0.0030156    3 cord           : 引き綱, 引綱, 綱
+0.0029873    1 garland        : 花綱
+0.0029717    1 stubbornness   : 剛腹
+0.0029521    1 stiffness      : 剛性
+0.0029301    1 bravery        : 剛勇
+0.0029191    1 sturdy         : 剛気
+0.0029106    1 diamond        : 金剛
+0.0028954    1 integrity      : 剛直
+0.0028526    1 firm           : 堅剛
+0.0028408    1 veteran        : 剛の者
+0.0027928    4 puller         : 綱引, 綱引き, 綱曳, 綱曳き
+0.0027749    4 rickshaw       : 綱引, 綱引き, 綱曳, 綱曳き
+0.0027398    1 Japan          : 長岡京
+0.0027221    2 spirit         : 剛気, 飯綱
+0.0027208    1 vigor          : 剛健
+0.0027077    3 outline        : 綱要, 要綱, 大綱
+0.0026830    1 ground         : 岡
+0.0026611    4 tug            : 綱引, 綱引き, 綱曳, 綱曳き
+0.0026180    1 warrior        : 剛の者
+0.0025796    1 tough          : 内剛
+0.0025519    2 lanyard        : 引き綱, 引綱
+0.0025333    4 main           : 綱目, 要綱, 大綱, 綱領
+0.0024924    1 game           : 岡
+0.0024917    1 substance      : 金剛
+0.0024687    1 courage        : 剛直
+0.0024636    1 material       : 鋼材
+0.0024575    1 morals         : 綱常
+0.0024530    1 weapon         : 金剛
+0.0024261    1 symbol         : 金剛
+0.0023682    1 ecclesiastical : 僧綱
+0.0023651    2 halter         : 端綱, 鼻綱
+0.0023570    1 end            : 岡
+0.0023141    2 tow            : 引き綱, 引綱
+0.0022923    1 truth          : 金剛
+0.0022069    1 inner          : 剛毅
+0.0022008    1 intrepid       : 剛胆
+0.0021637    1 health         : 剛健
+0.0021373    1 code           : 綱常
+0.0021296    1 painter        : もやい綱
+0.0021052    1 heavy          : 剛球
+0.0020788    2 walking        : 綱わたり, 綱渡り
+0.0020573    1 dauntless      : 剛胆
+0.0020550    2 champion       : 横綱, 綱
+0.0019828    2 sash           : 引き綱, 引綱
+0.0019626    1 heart          : 内剛
+0.0018919    3 general        : 要綱, 大綱, 綱領
+0.0018735    4 war            : 綱引, 綱引き, 綱曳, 綱曳き
+0.0018607    2 act            : 綱わたり, 綱渡り
+0.0018548    1 character      : 剛毅
+0.0018370    1 stout          : 剛腕
+0.0018038    1 body           : 剛体
+0.0017999    2 bell           : 引き綱, 引綱
+0.0017539    2 grand          : 横綱, 綱
+0.0017083    1 capable        : 剛腕
+0.0016808    2 summary        : 大綱, 綱領
+0.0016433    2 funambulism    : 綱わたり, 綱渡り
+0.0015835    2 dog            : 引き綱, 引綱
+0.0015704    2 lead           : 引き綱, 引綱
+0.0015039    1 halyard        : 帆綱
+0.0014991    1 authority      : 僧綱
+0.0014657    2 treading       : 綱わたり, 綱渡り
+0.0014311    1 difficult      : 剛腕
+0.0014251    1 reins          : 手綱
+0.0014198    2 principle      : 政綱, 要綱
+0.0014059    2 balancing      : 綱わたり, 綱渡り
+0.0014051    1 braided        : 綱
+0.0013782    1 carry          : 剛腕
+0.0013711    2 risky          : 綱わたり, 綱渡り
+0.0013581    1 job            : 剛腕
+0.0013581    1 ability        : 剛腕
+0.0013287    1 ancient        : 僧綱
+0.0013276    2 platform       : 政綱, 綱領
+0.0011585    1 fundamental    : 大綱
+0.0011067    1 rigging        : 綱具
+0.0010772    1 keeper         : 飯綱
+0.0010490    1 belt           : 綱
+0.0010402    2 ice            : 綱わたり, 綱渡り
+0.0010009    2 plan           : 要綱, 綱領
+0.0009797    1 stern          : 艫綱
+0.0009711    2 thin           : 綱わたり, 綱渡り
+0.0009438    1 kept           : 飯綱
+0.0009342    1 perform        : 飯綱
+0.0009158    1 fox            : 飯綱
+0.0009129    1 safety         : 命綱
+0.0009045    1 tube           : 飯綱
+0.0008071    1 gist           : 要綱
+0.0007733    1 master         : 飯綱
+0.0007639    1 bamboo         : 飯綱
+0.0007600    1 cream          : 横綱
+0.0007492    1 bridle         : 手綱
+0.0007403    1 policy         : 政綱
+0.0007191    1 political      : 政綱
+0.0006914    1 highest        : 横綱
+0.0006848    1 crop           : 横綱
+0.0006652    1 lifeline       : 命綱
+0.0006065    1 best           : 横綱
+0.0005783    1 used           : 飯綱
+0.0005706    1 point          : 綱目
+0.0005637    1 field          : 横綱
+0.0005581    1 mission        : 綱領
+0.0005374    1 discipline     : 綱紀
+0.0005040    1 campaign       : 綱領
+0.0004815    1 statement      : 綱領
+0.0004417    1 control        : 手綱
+0.0004109    1 official       : 綱紀
+0.0004017    1 law            : 綱紀
+0.0003684    1 order          : 綱紀
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0984722   18 steel
+	steel WORD[ 1,   1]: 0.0086860 鋼線
+	steel WORD[ 1,   2]: 0.0082439 鋼索
+	steel WORD[ 1,   3]: 0.0079164 鋼球
+	steel WORD[ 1,   4]: 0.0079095 硬鋼
+	steel WORD[ 1,   5]: 0.0078311 鋼製
+	steel WORD[ 1,   6]: 0.0078176 玉鋼
+	steel WORD[ 1,   7]: 0.0076822 鋼管
+	steel WORD[ 1,   8]: 0.0052976 鋼板
+	steel WORD[ 1,   9]: 0.0052976 鋼鈑
+	steel WORD[ 1,  10]: 0.0052895 鋼
+	steel WORD[ 1,  11]: 0.0046657 軟鋼
+	steel WORD[ 1,  12]: 0.0045462 鋳鋼
+	steel WORD[ 1,  13]: 0.0034115 棒鋼
+	steel WORD[ 1,  14]: 0.0029664 鉄鋼
+	steel WORD[ 1,  15]: 0.0028168 粗鋼
+	steel WORD[ 1,  16]: 0.0027998 製鋼
+	steel WORD[ 1,  17]: 0.0026484 鋼鉄
+	steel WORD[ 1,  18]: 0.0026460 鋼材
+TOKEN[ 2]: 0.0208539    6 city
+	city WORD[ 2,   1]: 0.0041871 盛岡
+	city WORD[ 2,   2]: 0.0038828 福岡
+	city WORD[ 2,   3]: 0.0035803 長岡京
+	city WORD[ 2,   4]: 0.0031716 静岡
+	city WORD[ 2,   5]: 0.0031716 靜岡
+	city WORD[ 2,   6]: 0.0028605 岡山
+TOKEN[ 3]: 0.0186279    4 strong
+	strong WORD[ 3,   1]: 0.0139599 強剛
+	strong WORD[ 3,   2]: 0.0020701 剛の者
+	strong WORD[ 3,   3]: 0.0013335 剛腕
+	strong WORD[ 3,   4]: 0.0012643 剛
+TOKEN[ 4]: 0.0182390    1 private
+	private WORD[ 4,   1]: 0.0182390 岡っ引き
+TOKEN[ 5]: 0.0177161    8 rope
+	rope WORD[ 5,   1]: 0.0052722 製綱
+	rope WORD[ 5,   2]: 0.0040904 鋼索
+	rope WORD[ 5,   3]: 0.0017595 もやい綱
+	rope WORD[ 5,   4]: 0.0017045 引き綱
+	rope WORD[ 5,   5]: 0.0017045 引綱
+	rope WORD[ 5,   6]: 0.0016835 綱手
+	rope WORD[ 5,   7]: 0.0005343 綱
+	rope WORD[ 5,   8]: 0.0004328 命綱
+TOKEN[ 6]: 0.0168372    2 ball
+	ball WORD[ 6,   1]: 0.0146765 鋼球
+	ball WORD[ 6,   2]: 0.0021607 剛球
+TOKEN[ 7]: 0.0158747    4 strength
+	strength WORD[ 7,   1]: 0.0061518 剛力
+	strength WORD[ 7,   2]: 0.0048804 強剛
+	strength WORD[ 7,   3]: 0.0026872 剛強
+	strength WORD[ 7,   4]: 0.0021553 剛毅
+TOKEN[ 8]: 0.0147000    4 prefecture
+	prefecture WORD[ 8,   1]: 0.0043616 福岡
+	prefecture WORD[ 8,   2]: 0.0035627 静岡
+	prefecture WORD[ 8,   3]: 0.0035626 靜岡
+	prefecture WORD[ 8,   4]: 0.0032131 岡山
+TOKEN[ 9]: 0.0140874    2 wire
+	wire WORD[ 9,   1]: 0.0095536 鋼線
+	wire WORD[ 9,   2]: 0.0045337 鋼索
+TOKEN[10]: 0.0135941    1 taker
+	taker WORD[10,   1]: 0.0135941 岡っ引き
+TOKEN[11]: 0.0134618    2 secret
+	secret WORD[11,   1]: 0.0089939 岡っ引き
+	secret WORD[11,   2]: 0.0044679 岡惚れ
+TOKEN[12]: 0.0128428    1 hired
+	hired WORD[12,   1]: 0.0128428 岡っ引き
+TOKEN[13]: 0.0125988    1 detective
+	detective WORD[13,   1]: 0.0125988 岡っ引き
+TOKEN[14]: 0.0125547    1 policeman
+	policeman WORD[14,   1]: 0.0125547 岡っ引き
+TOKEN[15]: 0.0119541    2 made
+	made WORD[15,   1]: 0.0059822 鋼製
+	made WORD[15,   2]: 0.0059719 玉鋼
+TOKEN[16]: 0.0115168    2 eligible
+	eligible WORD[16,   1]: 0.0057584 綱とり
+	eligible WORD[16,   2]: 0.0057584 綱取り
+TOKEN[17]: 0.0109918    1 thief
+	thief WORD[17,   1]: 0.0109918 岡っ引き
+TOKEN[18]: 0.0101890    2 iron
+	iron WORD[18,   1]: 0.0073863 玉鋼
+	iron WORD[18,   2]: 0.0028027 鉄鋼
+TOKEN[19]: 0.0101188    2 attempt
+	attempt WORD[19,   1]: 0.0050594 綱とり
+	attempt WORD[19,   2]: 0.0050593 綱取り
+TOKEN[20]: 0.0096490    2 promotion
+	promotion WORD[20,   1]: 0.0048245 綱とり
+	promotion WORD[20,   2]: 0.0048245 綱取り
+TOKEN[21]: 0.0093301    1 looking
+	looking WORD[21,   1]: 0.0093301 岡目
+TOKEN[22]: 0.0092871    2 wrestler
+	wrestler WORD[22,   1]: 0.0046436 綱とり
+	wrestler WORD[22,   2]: 0.0046435 綱取り
+TOKEN[23]: 0.0092261    2 manufacture
+	manufacture WORD[23,   1]: 0.0060420 製綱
+	manufacture WORD[23,   2]: 0.0031841 製鋼
+TOKEN[24]: 0.0090273    3 cable
+	cable WORD[24,   1]: 0.0045960 鋼索
+	cable WORD[24,   2]: 0.0022156 碇綱
+	cable WORD[24,   3]: 0.0022156 錨綱
+TOKEN[25]: 0.0088417    2 pipe
+	pipe WORD[25,   1]: 0.0079475 鋼管
+	pipe WORD[25,   2]: 0.0004471 飯綱
+TOKEN[26]: 0.0086364    1 love
+	love WORD[26,   1]: 0.0086364 岡惚れ
+TOKEN[27]: 0.0086270    2 reach
+	reach WORD[27,   1]: 0.0043135 綱とり
+	reach WORD[27,   2]: 0.0043135 綱取り
+TOKEN[28]: 0.0085931    3 rank
+	rank WORD[28,   1]: 0.0039995 綱とり
+	rank WORD[28,   2]: 0.0039995 綱取り
+	rank WORD[28,   3]: 0.0005940 横綱
+TOKEN[29]: 0.0084215    1 Edo
+	Edo WORD[29,   1]: 0.0084215 岡っ引き
+TOKEN[30]: 0.0082308    1 Aves
+	Aves WORD[30,   1]: 0.0082308 鳥綱
+TOKEN[31]: 0.0080402    1 bearing
+	bearing WORD[31,   1]: 0.0080402 鋼球
+TOKEN[32]: 0.0078413    1 powerhouse
+	powerhouse WORD[32,   1]: 0.0078413 強剛
+TOKEN[33]: 0.0078269    2 hard
+	hard WORD[33,   1]: 0.0066256 硬鋼
+	hard WORD[33,   2]: 0.0012012 剛
+TOKEN[34]: 0.0077724    1 sand
+	sand WORD[34,   1]: 0.0077724 玉鋼
+TOKEN[35]: 0.0076329    3 mooring
+	mooring WORD[35,   1]: 0.0044637 もやい綱
+	mooring WORD[35,   2]: 0.0021354 綱手
+	mooring WORD[35,   3]: 0.0010339 艫綱
+TOKEN[36]: 0.0073710    1 period
+	period WORD[36,   1]: 0.0073710 岡っ引き
+TOKEN[37]: 0.0071100    2 sturdiness
+	sturdiness WORD[37,   1]: 0.0035553 剛健
+	sturdiness WORD[37,   2]: 0.0035547 剛毅
+TOKEN[38]: 0.0070204    1 unrequited
+	unrequited WORD[38,   1]: 0.0070204 岡惚れ
+TOKEN[39]: 0.0069015    1 corundum
+	corundum WORD[39,   1]: 0.0069015 鋼玉
+TOKEN[40]: 0.0068549    1 indestructible
+	indestructible WORD[40,   1]: 0.0068549 金剛
+TOKEN[41]: 0.0067528    1 monastic
+	monastic WORD[41,   1]: 0.0033764 三綱
+TOKEN[42]: 0.0066097    1 overwhelming
+	overwhelming WORD[42,   1]: 0.0066097 強剛
+TOKEN[43]: 0.0065430    2 rigidity
+	rigidity WORD[43,   1]: 0.0032737 剛直
+	rigidity WORD[43,   2]: 0.0032693 剛性
+TOKEN[44]: 0.0065266    2 firmness
+	firmness WORD[44,   1]: 0.0036218 剛強
+	firmness WORD[44,   2]: 0.0029048 剛毅
+TOKEN[45]: 0.0065157    2 rigid
+	rigid WORD[45,   1]: 0.0036217 堅剛
+	rigid WORD[45,   2]: 0.0028940 剛体
+TOKEN[46]: 0.0064073    1 envy
+	envy WORD[46,   1]: 0.0064073 岡焼き
+TOKEN[47]: 0.0063799    1 illicit
+	illicit WORD[47,   1]: 0.0063799 岡惚れ
+TOKEN[48]: 0.0063227    1 traditional
+	traditional WORD[48,   1]: 0.0063227 玉鋼
+TOKEN[49]: 0.0062159    1 outsider
+	outsider WORD[49,   1]: 0.0062159 岡目
+TOKEN[50]: 0.0061953    1 jealousy
+	jealousy WORD[50,   1]: 0.0061953 岡焼き
+TOKEN[51]: 0.0061853    1 use
+	use WORD[51,   1]: 0.0061853 玉鋼
+TOKEN[52]: 0.0058262    2 obstinacy
+	obstinacy WORD[52,   1]: 0.0029131 剛愎
+	obstinacy WORD[52,   2]: 0.0029131 剛腹
+TOKEN[53]: 0.0055872    1 mountain
+	mountain WORD[53,   1]: 0.0055872 剛力
+TOKEN[54]: 0.0054042    2 sheet
+	sheet WORD[54,   1]: 0.0027021 鋼板
+	sheet WORD[54,   2]: 0.0027021 鋼鈑
+TOKEN[55]: 0.0053991    2 tether
+	tether WORD[55,   1]: 0.0047925 首綱
+	tether WORD[55,   2]: 0.0006066 命綱
+TOKEN[56]: 0.0053582    1 mild
+	mild WORD[56,   1]: 0.0053582 軟鋼
+TOKEN[57]: 0.0052658    3 person
+	person WORD[57,   1]: 0.0030413 強剛
+	person WORD[57,   2]: 0.0013530 剛の者
+	person WORD[57,   3]: 0.0008716 剛腕
+TOKEN[58]: 0.0052229    1 team
+	team WORD[58,   1]: 0.0052229 強剛
+TOKEN[59]: 0.0051431    2 plate
+	plate WORD[59,   1]: 0.0025716 鋼板
+	plate WORD[59,   2]: 0.0025716 鋼鈑
+TOKEN[60]: 0.0051325    1 player
+	player WORD[60,   1]: 0.0051325 強剛
+TOKEN[61]: 0.0050554    1 carrying
+	carrying WORD[61,   1]: 0.0050554 岡持ち
+TOKEN[62]: 0.0049771    2 anchor
+	anchor WORD[62,   1]: 0.0024885 碇綱
+	anchor WORD[62,   2]: 0.0024885 錨綱
+TOKEN[63]: 0.0049717    2 brave
+	brave WORD[63,   1]: 0.0024949 剛の者
+	brave WORD[63,   2]: 0.0024767 剛気
+TOKEN[64]: 0.0047952    2 moral
+	moral WORD[64,   1]: 0.0024873 剛直
+	moral WORD[64,   2]: 0.0023079 綱常
+TOKEN[65]: 0.0047369    1 leash
+	leash WORD[65,   1]: 0.0047369 首綱
+TOKEN[66]: 0.0046868    1 Japanese
+	Japanese WORD[66,   1]: 0.0046868 玉鋼
+TOKEN[67]: 0.0046534    1 cast
+	cast WORD[67,   1]: 0.0046534 鋳鋼
+TOKEN[68]: 0.0046281    1 management
+	management WORD[68,   1]: 0.0023140 三綱
+TOKEN[69]: 0.0045841    2 daring
+	daring WORD[69,   1]: 0.0027802 剛気
+	daring WORD[69,   2]: 0.0018040 剛胆
+TOKEN[70]: 0.0045776    1 wooden
+	wooden WORD[70,   1]: 0.0045776 岡持ち
+TOKEN[71]: 0.0045247    1 box
+	box WORD[71,   1]: 0.0045247 岡持ち
+TOKEN[72]: 0.0044802    1 knoll
+	knoll WORD[72,   1]: 0.0044802 岡
+TOKEN[73]: 0.0044437    1 sword
+	sword WORD[73,   1]: 0.0044437 鋼
+TOKEN[74]: 0.0043708    2 bold
+	bold WORD[74,   1]: 0.0026508 剛気
+	bold WORD[74,   2]: 0.0017200 剛胆
+TOKEN[75]: 0.0042343    1 temple
+	temple WORD[75,   1]: 0.0021171 三綱
+TOKEN[76]: 0.0041969    1 class
+	class WORD[76,   1]: 0.0041969 鳥綱
+TOKEN[77]: 0.0041244    1 side
+	side WORD[77,   1]: 0.0041244 岡目
+TOKEN[78]: 0.0041110    1 three
+	three WORD[78,   1]: 0.0020555 三綱
+TOKEN[79]: 0.0039058    1 virility
+	virility WORD[79,   1]: 0.0039058 剛健
+TOKEN[80]: 0.0038054    1 bonus
+	bonus WORD[80,   1]: 0.0038054 岡
+TOKEN[81]: 0.0037319    1 rod
+	rod WORD[81,   1]: 0.0037319 棒鋼
+TOKEN[82]: 0.0037138    1 capital
+	capital WORD[82,   1]: 0.0037138 長岡京
+TOKEN[83]: 0.0036841    1 stouthearted
+	stouthearted WORD[83,   1]: 0.0036841 剛気
+TOKEN[84]: 0.0036841    1 hardihood
+	hardihood WORD[84,   1]: 0.0036841 剛毅
+TOKEN[85]: 0.0036245    1 winner
+	winner WORD[85,   1]: 0.0036245 岡
+TOKEN[86]: 0.0035910    1 hill
+	hill WORD[86,   1]: 0.0035910 岡
+TOKEN[87]: 0.0035605    1 Indra
+	Indra WORD[87,   1]: 0.0035605 金剛
+TOKEN[88]: 0.0035605    1 thunderbolt
+	thunderbolt WORD[88,   1]: 0.0035605 金剛
+TOKEN[89]: 0.0034873    1 adamantine
+	adamantine WORD[89,   1]: 0.0034873 金剛
+TOKEN[90]: 0.0034781    1 unyielding
+	unyielding WORD[90,   1]: 0.0034781 堅剛
+TOKEN[91]: 0.0034762    3 line
+	line WORD[91,   1]: 0.0013719 もやい綱
+	line WORD[91,   2]: 0.0012710 艫綱
+	line WORD[91,   3]: 0.0004166 綱
+TOKEN[92]: 0.0033625    1 prowess
+	prowess WORD[92,   1]: 0.0033625 剛勇
+TOKEN[93]: 0.0033336    1 undaunted
+	undaunted WORD[93,   1]: 0.0033336 剛気
+TOKEN[94]: 0.0033115    1 bristle
+	bristle WORD[94,   1]: 0.0033115 剛毛
+TOKEN[95]: 0.0033107    2 Buddhist
+	Buddhist WORD[95,   1]: 0.0020090 金剛
+	Buddhist WORD[95,   2]: 0.0013017 僧綱
+TOKEN[96]: 0.0032697    1 rising
+	rising WORD[96,   1]: 0.0032697 岡
+TOKEN[97]: 0.0032628    1 festoon
+	festoon WORD[97,   1]: 0.0032628 花綱
+TOKEN[98]: 0.0032286    1 vajra
+	vajra WORD[98,   1]: 0.0032286 金剛
+TOKEN[99]: 0.0031706    1 fortitude
+	fortitude WORD[99,   1]: 0.0031706 剛毅
+TOKEN[100]: 0.0031464    1 height
+	height WORD[100,   1]: 0.0031464 岡
+TOKEN[101]: 0.0031359    2 tightrope
+	tightrope WORD[101,   1]: 0.0015680 綱わたり
+	tightrope WORD[101,   2]: 0.0015680 綱渡り
+TOKEN[102]: 0.0031124    1 valiant
+	valiant WORD[102,   1]: 0.0031124 剛気
+TOKEN[103]: 0.0030704    1 crude
+	crude WORD[103,   1]: 0.0030704 粗鋼
+TOKEN[104]: 0.0030624    1 arm
+	arm WORD[104,   1]: 0.0030624 剛腕
+TOKEN[105]: 0.0030156    3 cord
+	cord WORD[105,   1]: 0.0009268 引き綱
+	cord WORD[105,   2]: 0.0009268 引綱
+	cord WORD[105,   3]: 0.0005810 綱
+TOKEN[106]: 0.0029873    1 garland
+	garland WORD[106,   1]: 0.0029873 花綱
+TOKEN[107]: 0.0029717    1 stubbornness
+	stubbornness WORD[107,   1]: 0.0029717 剛腹
+TOKEN[108]: 0.0029521    1 stiffness
+	stiffness WORD[108,   1]: 0.0029521 剛性
+TOKEN[109]: 0.0029301    1 bravery
+	bravery WORD[109,   1]: 0.0029301 剛勇
+TOKEN[110]: 0.0029191    1 sturdy
+	sturdy WORD[110,   1]: 0.0029191 剛気
+TOKEN[111]: 0.0029106    1 diamond
+	diamond WORD[111,   1]: 0.0029106 金剛
+TOKEN[112]: 0.0028954    1 integrity
+	integrity WORD[112,   1]: 0.0028954 剛直
+TOKEN[113]: 0.0028526    1 firm
+	firm WORD[113,   1]: 0.0028526 堅剛
+TOKEN[114]: 0.0028408    1 veteran
+	veteran WORD[114,   1]: 0.0028408 剛の者
+TOKEN[115]: 0.0027928    4 puller
+	puller WORD[115,   1]: 0.0006982 綱引
+	puller WORD[115,   2]: 0.0006982 綱引き
+	puller WORD[115,   3]: 0.0006982 綱曳
+	puller WORD[115,   4]: 0.0006982 綱曳き
+TOKEN[116]: 0.0027749    4 rickshaw
+	rickshaw WORD[116,   1]: 0.0006937 綱引
+	rickshaw WORD[116,   2]: 0.0006937 綱引き
+	rickshaw WORD[116,   3]: 0.0006937 綱曳
+	rickshaw WORD[116,   4]: 0.0006937 綱曳き
+TOKEN[117]: 0.0027398    1 Japan
+	Japan WORD[117,   1]: 0.0027398 長岡京
+TOKEN[118]: 0.0027221    2 spirit
+	spirit WORD[118,   1]: 0.0019858 剛気
+	spirit WORD[118,   2]: 0.0003682 飯綱
+TOKEN[119]: 0.0027208    1 vigor
+	vigor WORD[119,   1]: 0.0027208 剛健
+TOKEN[120]: 0.0027077    3 outline
+	outline WORD[120,   1]: 0.0008360 綱要
+	outline WORD[120,   2]: 0.0007337 要綱
+	outline WORD[120,   3]: 0.0005690 大綱
+TOKEN[121]: 0.0026830    1 ground
+	ground WORD[121,   1]: 0.0026830 岡
+TOKEN[122]: 0.0026611    4 tug
+	tug WORD[122,   1]: 0.0006653 綱引
+	tug WORD[122,   2]: 0.0006653 綱引き
+	tug WORD[122,   3]: 0.0006653 綱曳
+	tug WORD[122,   4]: 0.0006653 綱曳き
+TOKEN[123]: 0.0026180    1 warrior
+	warrior WORD[123,   1]: 0.0026180 剛の者
+TOKEN[124]: 0.0025796    1 tough
+	tough WORD[124,   1]: 0.0025796 内剛
+TOKEN[125]: 0.0025519    2 lanyard
+	lanyard WORD[125,   1]: 0.0012760 引き綱
+	lanyard WORD[125,   2]: 0.0012760 引綱
+TOKEN[126]: 0.0025333    4 main
+	main WORD[126,   1]: 0.0006532 綱目
+	main WORD[126,   2]: 0.0005736 要綱
+	main WORD[126,   3]: 0.0004448 大綱
+	main WORD[126,   4]: 0.0004168 綱領
+TOKEN[127]: 0.0024924    1 game
+	game WORD[127,   1]: 0.0024924 岡
+TOKEN[128]: 0.0024917    1 substance
+	substance WORD[128,   1]: 0.0024917 金剛
+TOKEN[129]: 0.0024687    1 courage
+	courage WORD[129,   1]: 0.0024687 剛直
+TOKEN[130]: 0.0024636    1 material
+	material WORD[130,   1]: 0.0024636 鋼材
+TOKEN[131]: 0.0024575    1 morals
+	morals WORD[131,   1]: 0.0024575 綱常
+TOKEN[132]: 0.0024530    1 weapon
+	weapon WORD[132,   1]: 0.0024530 金剛
+TOKEN[133]: 0.0024261    1 symbol
+	symbol WORD[133,   1]: 0.0024261 金剛
+TOKEN[134]: 0.0023682    1 ecclesiastical
+	ecclesiastical WORD[134,   1]: 0.0023682 僧綱
+TOKEN[135]: 0.0023651    2 halter
+	halter WORD[135,   1]: 0.0012061 端綱
+	halter WORD[135,   2]: 0.0011590 鼻綱
+TOKEN[136]: 0.0023570    1 end
+	end WORD[136,   1]: 0.0023570 岡
+TOKEN[137]: 0.0023141    2 tow
+	tow WORD[137,   1]: 0.0011570 引き綱
+	tow WORD[137,   2]: 0.0011570 引綱
+TOKEN[138]: 0.0022923    1 truth
+	truth WORD[138,   1]: 0.0022923 金剛
+TOKEN[139]: 0.0022069    1 inner
+	inner WORD[139,   1]: 0.0022069 剛毅
+TOKEN[140]: 0.0022008    1 intrepid
+	intrepid WORD[140,   1]: 0.0022008 剛胆
+TOKEN[141]: 0.0021637    1 health
+	health WORD[141,   1]: 0.0021637 剛健
+TOKEN[142]: 0.0021373    1 code
+	code WORD[142,   1]: 0.0021373 綱常
+TOKEN[143]: 0.0021296    1 painter
+	painter WORD[143,   1]: 0.0021296 もやい綱
+TOKEN[144]: 0.0021052    1 heavy
+	heavy WORD[144,   1]: 0.0021052 剛球
+TOKEN[145]: 0.0020788    2 walking
+	walking WORD[145,   1]: 0.0010394 綱わたり
+	walking WORD[145,   2]: 0.0010394 綱渡り
+TOKEN[146]: 0.0020573    1 dauntless
+	dauntless WORD[146,   1]: 0.0020573 剛胆
+TOKEN[147]: 0.0020550    2 champion
+	champion WORD[147,   1]: 0.0007869 横綱
+	champion WORD[147,   2]: 0.0006340 綱
+TOKEN[148]: 0.0019828    2 sash
+	sash WORD[148,   1]: 0.0009914 引き綱
+	sash WORD[148,   2]: 0.0009914 引綱
+TOKEN[149]: 0.0019626    1 heart
+	heart WORD[149,   1]: 0.0019626 内剛
+TOKEN[150]: 0.0018919    3 general
+	general WORD[150,   1]: 0.0005772 要綱
+	general WORD[150,   2]: 0.0004476 大綱
+	general WORD[150,   3]: 0.0004194 綱領
+TOKEN[151]: 0.0018735    4 war
+	war WORD[151,   1]: 0.0004684 綱引
+	war WORD[151,   2]: 0.0004684 綱引き
+	war WORD[151,   3]: 0.0004684 綱曳
+	war WORD[151,   4]: 0.0004684 綱曳き
+TOKEN[152]: 0.0018607    2 act
+	act WORD[152,   1]: 0.0009304 綱わたり
+	act WORD[152,   2]: 0.0009304 綱渡り
+TOKEN[153]: 0.0018548    1 character
+	character WORD[153,   1]: 0.0018548 剛毅
+TOKEN[154]: 0.0018370    1 stout
+	stout WORD[154,   1]: 0.0018370 剛腕
+TOKEN[155]: 0.0018038    1 body
+	body WORD[155,   1]: 0.0018038 剛体
+TOKEN[156]: 0.0017999    2 bell
+	bell WORD[156,   1]: 0.0008999 引き綱
+	bell WORD[156,   2]: 0.0008999 引綱
+TOKEN[157]: 0.0017539    2 grand
+	grand WORD[157,   1]: 0.0006716 横綱
+	grand WORD[157,   2]: 0.0005411 綱
+TOKEN[158]: 0.0017083    1 capable
+	capable WORD[158,   1]: 0.0017083 剛腕
+TOKEN[159]: 0.0016808    2 summary
+	summary WORD[159,   1]: 0.0005723 大綱
+	summary WORD[159,   2]: 0.0005362 綱領
+TOKEN[160]: 0.0016433    2 funambulism
+	funambulism WORD[160,   1]: 0.0008217 綱わたり
+	funambulism WORD[160,   2]: 0.0008217 綱渡り
+TOKEN[161]: 0.0015835    2 dog
+	dog WORD[161,   1]: 0.0007917 引き綱
+	dog WORD[161,   2]: 0.0007917 引綱
+TOKEN[162]: 0.0015704    2 lead
+	lead WORD[162,   1]: 0.0007852 引き綱
+	lead WORD[162,   2]: 0.0007852 引綱
+TOKEN[163]: 0.0015039    1 halyard
+	halyard WORD[163,   1]: 0.0015039 帆綱
+TOKEN[164]: 0.0014991    1 authority
+	authority WORD[164,   1]: 0.0014991 僧綱
+TOKEN[165]: 0.0014657    2 treading
+	treading WORD[165,   1]: 0.0007329 綱わたり
+	treading WORD[165,   2]: 0.0007329 綱渡り
+TOKEN[166]: 0.0014311    1 difficult
+	difficult WORD[166,   1]: 0.0014311 剛腕
+TOKEN[167]: 0.0014251    1 reins
+	reins WORD[167,   1]: 0.0014251 手綱
+TOKEN[168]: 0.0014198    2 principle
+	principle WORD[168,   1]: 0.0007700 政綱
+	principle WORD[168,   2]: 0.0006498 要綱
+TOKEN[169]: 0.0014059    2 balancing
+	balancing WORD[169,   1]: 0.0007030 綱わたり
+	balancing WORD[169,   2]: 0.0007030 綱渡り
+TOKEN[170]: 0.0014051    1 braided
+	braided WORD[170,   1]: 0.0007025 綱
+TOKEN[171]: 0.0013782    1 carry
+	carry WORD[171,   1]: 0.0013782 剛腕
+TOKEN[172]: 0.0013711    2 risky
+	risky WORD[172,   1]: 0.0006855 綱わたり
+	risky WORD[172,   2]: 0.0006855 綱渡り
+TOKEN[173]: 0.0013581    1 job
+	job WORD[173,   1]: 0.0013581 剛腕
+TOKEN[174]: 0.0013581    1 ability
+	ability WORD[174,   1]: 0.0013581 剛腕
+TOKEN[175]: 0.0013287    1 ancient
+	ancient WORD[175,   1]: 0.0013287 僧綱
+TOKEN[176]: 0.0013276    2 platform
+	platform WORD[176,   1]: 0.0008230 政綱
+	platform WORD[176,   2]: 0.0005046 綱領
+TOKEN[177]: 0.0011585    1 fundamental
+	fundamental WORD[177,   1]: 0.0005792 大綱
+TOKEN[178]: 0.0011067    1 rigging
+	rigging WORD[178,   1]: 0.0011067 綱具
+TOKEN[179]: 0.0010772    1 keeper
+	keeper WORD[179,   1]: 0.0005386 飯綱
+TOKEN[180]: 0.0010490    1 belt
+	belt WORD[180,   1]: 0.0005245 綱
+TOKEN[181]: 0.0010402    2 ice
+	ice WORD[181,   1]: 0.0005201 綱わたり
+	ice WORD[181,   2]: 0.0005201 綱渡り
+TOKEN[182]: 0.0010009    2 plan
+	plan WORD[182,   1]: 0.0005797 要綱
+	plan WORD[182,   2]: 0.0004212 綱領
+TOKEN[183]: 0.0009797    1 stern
+	stern WORD[183,   1]: 0.0009797 艫綱
+TOKEN[184]: 0.0009711    2 thin
+	thin WORD[184,   1]: 0.0004856 綱わたり
+	thin WORD[184,   2]: 0.0004856 綱渡り
+TOKEN[185]: 0.0009438    1 kept
+	kept WORD[185,   1]: 0.0004719 飯綱
+TOKEN[186]: 0.0009342    1 perform
+	perform WORD[186,   1]: 0.0004671 飯綱
+TOKEN[187]: 0.0009158    1 fox
+	fox WORD[187,   1]: 0.0004579 飯綱
+TOKEN[188]: 0.0009129    1 safety
+	safety WORD[188,   1]: 0.0009129 命綱
+TOKEN[189]: 0.0009045    1 tube
+	tube WORD[189,   1]: 0.0004522 飯綱
+TOKEN[190]: 0.0008071    1 gist
+	gist WORD[190,   1]: 0.0008071 要綱
+TOKEN[191]: 0.0007733    1 master
+	master WORD[191,   1]: 0.0003867 飯綱
+TOKEN[192]: 0.0007639    1 bamboo
+	bamboo WORD[192,   1]: 0.0003819 飯綱
+TOKEN[193]: 0.0007600    1 cream
+	cream WORD[193,   1]: 0.0007600 横綱
+TOKEN[194]: 0.0007492    1 bridle
+	bridle WORD[194,   1]: 0.0007492 手綱
+TOKEN[195]: 0.0007403    1 policy
+	policy WORD[195,   1]: 0.0007403 政綱
+TOKEN[196]: 0.0007191    1 political
+	political WORD[196,   1]: 0.0007191 政綱
+TOKEN[197]: 0.0006914    1 highest
+	highest WORD[197,   1]: 0.0006914 横綱
+TOKEN[198]: 0.0006848    1 crop
+	crop WORD[198,   1]: 0.0006848 横綱
+TOKEN[199]: 0.0006652    1 lifeline
+	lifeline WORD[199,   1]: 0.0006652 命綱
+TOKEN[200]: 0.0006065    1 best
+	best WORD[200,   1]: 0.0006065 横綱
+TOKEN[201]: 0.0005783    1 used
+	used WORD[201,   1]: 0.0002891 飯綱
+TOKEN[202]: 0.0005706    1 point
+	point WORD[202,   1]: 0.0005706 綱目
+TOKEN[203]: 0.0005637    1 field
+	field WORD[203,   1]: 0.0005637 横綱
+TOKEN[204]: 0.0005581    1 mission
+	mission WORD[204,   1]: 0.0005581 綱領
+TOKEN[205]: 0.0005374    1 discipline
+	discipline WORD[205,   1]: 0.0005374 綱紀
+TOKEN[206]: 0.0005040    1 campaign
+	campaign WORD[206,   1]: 0.0005040 綱領
+TOKEN[207]: 0.0004815    1 statement
+	statement WORD[207,   1]: 0.0004815 綱領
+TOKEN[208]: 0.0004417    1 control
+	control WORD[208,   1]: 0.0004417 手綱
+TOKEN[209]: 0.0004109    1 official
+	official WORD[209,   1]: 0.0004109 綱紀
+TOKEN[210]: 0.0004017    1 law
+	law WORD[210,   1]: 0.0004017 綱紀
+TOKEN[211]: 0.0003684    1 order
+	order WORD[211,   1]: 0.0003684 綱紀

@@ -1,0 +1,894 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0684102    3 mobile         : 写メール, 写メる, 写メ
+0.0625378    3 phone          : 写メール, 写メる, 写メ
+0.0552409    2 sent           : 写メール, 写メ
+0.0548579    1 provided       : 写メール
+0.0484113    2 attached       : 写メール, 写メ
+0.0397921    2 service        : 写メール, 寄与
+0.0176366    4 photo          : 写メる, 写メ, 写真, 激写
+0.0142211    1 dative         : 与格
+0.0123066    2 idle           : 与太話, 与太
+0.0107793    4 give           : 投げ与える, 分かち与える, 分ち与える, 与える
+0.0104163    2 apportion      : 分かち与える, 分ち与える
+0.0100982    2 talk           : 与太話, 与太
+0.0099160    3 given          : 所与, 与件, 与る
+0.0098296    4 gift           : 買い与える, 天与, 賦与, 与え
+0.0094308    1 gossip         : 与太話
+0.0093996    5 part           : 与る, 参与, 与する, 干与, 関与
+0.0093939    1 yarn           : 与太話
+0.0088731    3 conferment     : 付与, 附与, 授与
+0.0088234    4 grant          : 付与, 附与, 給与, 与える
+0.0087643    1 foolish        : 与太話
+0.0087175    2 divide         : 分かち与える, 分ち与える
+0.0086603    3 endowment      : 賦与, 付与, 附与
+0.0081349    2 share          : 分かち与える, 分ち与える
+0.0080923    3 taken          : 写メる, 写メ, 激写
+0.0078786    6 taking         : 与奪, 参与, 干与, 関与, 写メ, 激写
+0.0076933    2 nonsense       : 与太郎, 与太
+0.0076415    4 giving         : 与奪, 投与, 恵与, 供与
+0.0074625    1 case           : 与格
+0.0073140    3 take           : 写メる, 与る, 与する
+0.0072893    2 party          : 与党, 与する
+0.0068087    2 fellow         : 与太郎, 与太
+0.0065941    3 allowance      : 付与, 附与, 給与
+0.0065269    2 bestowal       : 付与, 附与
+0.0063138    3 concerned      : 与り知る, 干与, 関与
+0.0060842    4 photograph     : 写り込み, 写真, 激写, 写す
+0.0060343    3 participation  : 参与, 干与, 関与
+0.0059779    3 presentation   : 贈与, 授与, 恵与
+0.0059623    5 image          : 写り込み, 実写, 写し絵, 写像, 写り
+0.0058144    2 godsend        : 天与, 与え
+0.0057741    1 unwanted       : 写り込み
+0.0057279   13 copy           : 浄写, 写し取る, 引き写し, 引写し, 摸写, 模写, 複写, 謄写, 縮写, 写本, ...
+0.0056563    2 ruling         : 与野党, 与党
+0.0056423    2 dispensation   : 分与, 施与
+0.0053921    4 photography    : 念写, 連写, 接写, 実写
+0.0052381    1 humbug         : 与太
+0.0052307    1 postulate      : 与件
+0.0051884    2 data           : 与件, 所与
+0.0050868    1 tossing        : 投げ与える
+0.0048984    2 assignment     : 付与, 附与
+0.0048234    1 witted         : 与太郎
+0.0047879    1 ghost          : 写り込み
+0.0046870    1 unexpected     : 写り込み
+0.0046688    1 period         : 与力
+0.0045562    1 hooligan       : 与太者
+0.0044257    1 gangster       : 与太者
+0.0043693    7 tracing        : 引き写し, 引写し, 敷き写し, 透き写し, 摸写, 模写, 透写
+0.0043340    1 throwing       : 投げ与える
+0.0041714    1 irresponsible  : 与太
+0.0041586    6 transcription  : 音写, 転写, 写字, 謄写, 書写, 写本
+0.0041266    1 plundering     : 与奪
+0.0040409    1 nonsensical    : 与太
+0.0040404    1 appearance     : 写り込み
+0.0039761    1 sergeant       : 与力
+0.0039671    1 liar           : 与太郎
+0.0039460    1 government     : 与党
+0.0038783    2 power          : 与野党, 与党
+0.0038690    1 buy            : 買い与える
+0.0038604    7 picture        : ジャケ写, 実写, 写真, 写し絵, 活写, 写り, 写す
+0.0037606    1 prominent      : 与力
+0.0037114    1 impartation    : 分与
+0.0037033    1 wicked         : 与太る
+0.0037028    1 rubbish        : 与太
+0.0035062    1 idiot          : 与太
+0.0034460    1 datum          : 所与
+0.0033075    1 shooting       : 連写
+0.0032964    2 live           : 与太る, 実写
+0.0032735    1 fool           : 与太
+0.0032682    1 slow           : 与太郎
+0.0032021    1 samurai        : 与力
+0.0031993    2 supply         : 給与, 与える
+0.0031429    1 lie            : 与太郎
+0.0031113    1 police         : 与力
+0.0030175    1 heaven         : 天与
+0.0030104    1 participate    : 与る
+0.0029457    1 enjoy          : 与る
+0.0029252    1 distribute     : 分け与える
+0.0028354    2 life           : 与太る, 写し絵
+0.0028215    1 military       : 与力
+0.0028169    3 thing          : 所与, 摸写, 模写
+0.0028158    1 something      : 写り込み
+0.0028025    1 aware          : 与り知る
+0.0027509    1 blessed        : 賦与
+0.0026671    1 Edo            : 与力
+0.0026378    1 character      : 与太郎
+0.0025886    1 opposition     : 与野党
+0.0025390    1 consultant     : 参与
+0.0025317    1 almsgiving     : 施与
+0.0025192    1 allocation     : 分与
+0.0025156    1 bestowing      : 恵与
+0.0025117    1 receive        : 与る
+0.0024799    1 medication     : 投与
+0.0024716    1 furnishing     : 供与
+0.0024617    1 credit         : 与信
+0.0024561    3 hand           : 分け与える, 筆写, 手写
+0.0023557    1 know           : 与り知る
+0.0022520    1 verbatim       : 丸写し
+0.0022199    1 charity        : 施与
+0.0021826    1 adviser        : 参与
+0.0021802    1 distribution   : 分与
+0.0021714    1 sense          : 所与
+0.0021555    1 bonus          : 賞与
+0.0021313    1 afford         : 与える
+0.0021291    1 donation       : 贈与
+0.0021092    1 psychic        : 念写
+0.0020879    1 play           : 与る
+0.0020647    1 administration : 投与
+0.0020351    4 real           : 写し絵, 摸写, 模写, 実写
+0.0020259    1 provision      : 供与
+0.0020247    1 providing      : 給与
+0.0020165    1 reward         : 賞与
+0.0020152    1 entirety       : 丸写し
+0.0020115    1 wages          : 給与
+0.0019972    2 transfer       : 譲与, 転写
+0.0019859    1 bestow         : 与える
+0.0019413    2 transliteration: 音写, 転写
+0.0019188    1 contribution   : 寄与
+0.0019057    4 reproduction   : 摸写, 模写, 複写, 縮写
+0.0018679    1 prize          : 賞与
+0.0018662    1 agree          : 与する
+0.0018611    1 assign         : 与える
+0.0018603    1 salary         : 給与
+0.0018110    1 loan           : 貸与
+0.0018044    1 award          : 与える
+0.0017472    1 exclusive      : 特写
+0.0017469    1 provide        : 与える
+0.0017272    1 jacket         : ジャケ写
+0.0017260    3 projection     : 投写, 映写, 写り
+0.0017083    1 medicine       : 投与
+0.0016536    1 variable       : 与える
+0.0016461    4 transcribe     : 書き写す, 書写す, 写す, 写し取る
+0.0015674    1 magazine       : 特写
+0.0015581    1 offer          : 与える
+0.0015525    1 support        : 与する
+0.0015459    1 pay            : 給与
+0.0015235    1 status         : 与える
+0.0014451    1 score          : 写譜
+0.0014179    1 lower          : 与える
+0.0014135    1 function       : 与える
+0.0013961    2 reflect        : 写しだす, 写し出す
+0.0013885    1 pass           : 与える
+0.0013760    1 cause          : 与える
+0.0013718    3 drawing        : 実写, 写し絵, 写生
+0.0013596    1 side           : 与する
+0.0013575    1 present        : 与える
+0.0013457    1 spirit         : 念写
+0.0013437    1 record         : ジャケ写
+0.0013171    1 musical        : 写譜
+0.0012628    1 opposed        : 実写
+0.0012196    2 depiction      : 写し絵, 描写
+0.0012164    1 consecutive    : 連写
+0.0011530    1 continuous     : 連写
+0.0011278    3 mirror         : 写し絵, 写しだす, 写し出す
+0.0011046    3 description    : 描写, 写生, 活写
+0.0010978    3 describe       : 写す, 写しだす, 写し出す
+0.0010698    2 portrayal      : 描写, 写生
+0.0010628    1 rapid          : 連写
+0.0009513    2 snapshot       : 速写, 写真
+0.0009283    2 reproduce      : 写す, 写し取る
+0.0009277    1 someone        : 与える
+0.0008544    2 portray        : 写しだす, 写し出す
+0.0008405    1 repeat         : 口写し
+0.0008167    2 depict         : 写しだす, 写し出す
+0.0007610    2 duplicate      : 写す, 写し
+0.0007368    2 nature         : 写し絵, 写生
+0.0007237    1 speaking       : 口写し
+0.0007236    1 sutra          : 写経
+0.0007201    1 shadowgraph    : 写し絵
+0.0007055    1 actual         : 実写
+0.0007048    1 lifelike       : 生き写し
+0.0007047    1 similar        : 口写し
+0.0006850    1 manner         : 口写し
+0.0006818    2 text           : 伝写, 転写
+0.0006594    1 metaphorical   : 写し絵
+0.0006472    2 trace          : 写す, 写し取る
+0.0006347    2 lake           : 写しだす, 写し出す
+0.0006190    1 resemblance    : 生き写し
+0.0005970    2 project        : 写しだす, 写し出す
+0.0005889    2 screen         : 写しだす, 写し出す
+0.0005740    1 exact          : 生き写し
+0.0005737    1 photocopy      : 謄写
+0.0005699    1 duplication    : 複写
+0.0005691    2 mood           : 写しだす, 写し出す
+0.0005633    2 film           : 実写, 写す
+0.0005553    1 sketch         : 写し絵
+0.0005262    1 codex          : 写本
+0.0005170    2 times          : 写しだす, 写し出す
+0.0005113    1 book           : 写本
+0.0005055    2 show           : 写しだす, 写し出す
+0.0005048    1 mimeograph     : 謄写
+0.0004628    1 sketching      : 写生
+0.0004583    1 society        : 写し絵
+0.0004561    1 documentary    : 実写
+0.0004417    1 lively         : 活写
+0.0004410    1 preview        : 試写
+0.0004342    1 realism        : 写実
+0.0004220    1 imaginary      : 実写
+0.0004159    1 animation      : 実写
+0.0004064    1 spectacular    : 激写
+0.0004040    1 penmanship     : 書写
+0.0004016    1 miniature      : 縮写
+0.0004013    1 photographic   : 実写
+0.0003920    1 facsimile      : 写し
+0.0003888    1 transcript     : 写し
+0.0003831    1 snap           : 写真
+0.0003811    1 child          : 写し絵
+0.0003716    1 handwriting    : 書写
+0.0003715    1 reduced        : 縮写
+0.0003696    1 vivid          : 活写
+0.0003681    1 fiction        : 実写
+0.0003675    1 manuscript     : 写本
+0.0003574    1 representation : 写像
+0.0003501    1 people         : 写し絵
+0.0003491    1 imitate        : 写す
+0.0003475    1 fair           : 浄写
+0.0003469    1 map            : 写像
+0.0003450    1 printing       : 転写
+0.0003442    1 showing        : 試写
+0.0003419    1 clean          : 浄写
+0.0003337    1 scene          : 実写
+0.0003311    1 reflection     : 写り
+0.0003305    1 movie          : 写真
+0.0003270    1 harmony        : 写り
+0.0003200    1 moving         : 写真
+0.0003174    1 error          : 誤写
+0.0003107    1 subject        : 書写
+0.0003051    1 reception      : 写り
+0.0002961    1 written        : 写本
+0.0002943    1 painting       : 活写
+0.0002888    1 story          : 実写
+0.0002871    1 private        : 試写
+0.0002865    1 moment         : 激写
+0.0002789    1 writing        : 実写
+0.0002731    1 quality        : 写り
+0.0002621    1 match          : 写り
+0.0002609    1 right          : 激写
+0.0002435    1 school         : 書写
+0.0001973    1 make           : 写し取る
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0684102    3 mobile
+	mobile WORD[ 1,   1]: 0.0501672 写メール
+	mobile WORD[ 1,   2]: 0.0135810 写メる
+	mobile WORD[ 1,   3]: 0.0046620 写メ
+TOKEN[ 2]: 0.0625378    3 phone
+	phone WORD[ 2,   1]: 0.0458608 写メール
+	phone WORD[ 2,   2]: 0.0124152 写メる
+	phone WORD[ 2,   3]: 0.0042618 写メ
+TOKEN[ 3]: 0.0552409    2 sent
+	sent WORD[ 3,   1]: 0.0535811 写メール
+	sent WORD[ 3,   2]: 0.0016598 写メ
+TOKEN[ 4]: 0.0548579    1 provided
+	provided WORD[ 4,   1]: 0.0548579 写メール
+TOKEN[ 5]: 0.0484113    2 attached
+	attached WORD[ 5,   1]: 0.0469568 写メール
+	attached WORD[ 5,   2]: 0.0014546 写メ
+TOKEN[ 6]: 0.0397921    2 service
+	service WORD[ 6,   1]: 0.0384040 写メール
+	service WORD[ 6,   2]: 0.0013881 寄与
+TOKEN[ 7]: 0.0176366    4 photo
+	photo WORD[ 7,   1]: 0.0137759 写メる
+	photo WORD[ 7,   2]: 0.0031526 写メ
+	photo WORD[ 7,   3]: 0.0003603 写真
+	photo WORD[ 7,   4]: 0.0003477 激写
+TOKEN[ 8]: 0.0142211    1 dative
+	dative WORD[ 8,   1]: 0.0142211 与格
+TOKEN[ 9]: 0.0123066    2 idle
+	idle WORD[ 9,   1]: 0.0088521 与太話
+	idle WORD[ 9,   2]: 0.0034545 与太
+TOKEN[10]: 0.0107793    4 give
+	give WORD[10,   1]: 0.0032566 投げ与える
+	give WORD[10,   2]: 0.0031556 分かち与える
+	give WORD[10,   3]: 0.0031556 分ち与える
+	give WORD[10,   4]: 0.0012115 与える
+TOKEN[11]: 0.0104163    2 apportion
+	apportion WORD[11,   1]: 0.0052082 分かち与える
+	apportion WORD[11,   2]: 0.0052081 分ち与える
+TOKEN[12]: 0.0100982    2 talk
+	talk WORD[12,   1]: 0.0072636 与太話
+	talk WORD[12,   2]: 0.0028346 与太
+TOKEN[13]: 0.0099160    3 given
+	given WORD[13,   1]: 0.0045546 所与
+	given WORD[13,   2]: 0.0030417 与件
+	given WORD[13,   3]: 0.0023197 与る
+TOKEN[14]: 0.0098296    4 gift
+	gift WORD[14,   1]: 0.0035481 買い与える
+	gift WORD[14,   2]: 0.0027607 天与
+	gift WORD[14,   3]: 0.0020740 賦与
+	gift WORD[14,   4]: 0.0014468 与え
+TOKEN[15]: 0.0094308    1 gossip
+	gossip WORD[15,   1]: 0.0094308 与太話
+TOKEN[16]: 0.0093996    5 part
+	part WORD[16,   1]: 0.0039852 与る
+	part WORD[16,   2]: 0.0014016 参与
+	part WORD[16,   3]: 0.0013564 与する
+	part WORD[16,   4]: 0.0013282 干与
+	part WORD[16,   5]: 0.0013282 関与
+TOKEN[17]: 0.0093939    1 yarn
+	yarn WORD[17,   1]: 0.0093939 与太話
+TOKEN[18]: 0.0088731    3 conferment
+	conferment WORD[18,   1]: 0.0031415 付与
+	conferment WORD[18,   2]: 0.0031415 附与
+	conferment WORD[18,   3]: 0.0025900 授与
+TOKEN[19]: 0.0088234    4 grant
+	grant WORD[19,   1]: 0.0025425 付与
+	grant WORD[19,   2]: 0.0025425 附与
+	grant WORD[19,   3]: 0.0019648 給与
+	grant WORD[19,   4]: 0.0017737 与える
+TOKEN[20]: 0.0087643    1 foolish
+	foolish WORD[20,   1]: 0.0087643 与太話
+TOKEN[21]: 0.0087175    2 divide
+	divide WORD[21,   1]: 0.0043587 分かち与える
+	divide WORD[21,   2]: 0.0043587 分ち与える
+TOKEN[22]: 0.0086603    3 endowment
+	endowment WORD[22,   1]: 0.0028868 賦与
+	endowment WORD[22,   2]: 0.0028868 付与
+	endowment WORD[22,   3]: 0.0028868 附与
+TOKEN[23]: 0.0081349    2 share
+	share WORD[23,   1]: 0.0040675 分かち与える
+	share WORD[23,   2]: 0.0040674 分ち与える
+TOKEN[24]: 0.0080923    3 taken
+	taken WORD[24,   1]: 0.0063254 写メる
+	taken WORD[24,   2]: 0.0014476 写メ
+	taken WORD[24,   3]: 0.0003193 激写
+TOKEN[25]: 0.0078786    6 taking
+	taking WORD[25,   1]: 0.0022908 与奪
+	taking WORD[25,   2]: 0.0014341 参与
+	taking WORD[25,   3]: 0.0013591 干与
+	taking WORD[25,   4]: 0.0013590 関与
+	taking WORD[25,   5]: 0.0011761 写メ
+	taking WORD[25,   6]: 0.0002595 激写
+TOKEN[26]: 0.0076933    2 nonsense
+	nonsense WORD[26,   1]: 0.0038471 与太郎
+	nonsense WORD[26,   2]: 0.0038463 与太
+TOKEN[27]: 0.0076415    4 giving
+	giving WORD[27,   1]: 0.0026353 与奪
+	giving WORD[27,   2]: 0.0018212 投与
+	giving WORD[27,   3]: 0.0016065 恵与
+	giving WORD[27,   4]: 0.0015784 供与
+TOKEN[28]: 0.0074625    1 case
+	case WORD[28,   1]: 0.0074625 与格
+TOKEN[29]: 0.0073140    3 take
+	take WORD[29,   1]: 0.0043882 写メる
+	take WORD[29,   2]: 0.0017408 与る
+	take WORD[29,   3]: 0.0011850 与する
+TOKEN[30]: 0.0072893    2 party
+	party WORD[30,   1]: 0.0058869 与党
+	party WORD[30,   2]: 0.0014024 与する
+TOKEN[31]: 0.0068087    2 fellow
+	fellow WORD[31,   1]: 0.0034047 与太郎
+	fellow WORD[31,   2]: 0.0034040 与太
+TOKEN[32]: 0.0065941    3 allowance
+	allowance WORD[32,   1]: 0.0023781 付与
+	allowance WORD[32,   2]: 0.0023781 附与
+	allowance WORD[32,   3]: 0.0018378 給与
+TOKEN[33]: 0.0065269    2 bestowal
+	bestowal WORD[33,   1]: 0.0032634 付与
+	bestowal WORD[33,   2]: 0.0032634 附与
+TOKEN[34]: 0.0063138    3 concerned
+	concerned WORD[34,   1]: 0.0027059 与り知る
+	concerned WORD[34,   2]: 0.0018039 干与
+	concerned WORD[34,   3]: 0.0018039 関与
+TOKEN[35]: 0.0060842    4 photograph
+	photograph WORD[35,   1]: 0.0050379 写り込み
+	photograph WORD[35,   2]: 0.0003674 写真
+	photograph WORD[35,   3]: 0.0003546 激写
+	photograph WORD[35,   4]: 0.0003242 写す
+TOKEN[36]: 0.0060343    3 participation
+	participation WORD[36,   1]: 0.0020841 参与
+	participation WORD[36,   2]: 0.0019751 干与
+	participation WORD[36,   3]: 0.0019751 関与
+TOKEN[37]: 0.0059779    3 presentation
+	presentation WORD[37,   1]: 0.0020548 贈与
+	presentation WORD[37,   2]: 0.0020072 授与
+	presentation WORD[37,   3]: 0.0019160 恵与
+TOKEN[38]: 0.0059623    5 image
+	image WORD[38,   1]: 0.0042878 写り込み
+	image WORD[38,   2]: 0.0006301 実写
+	image WORD[38,   3]: 0.0004555 写し絵
+	image WORD[38,   4]: 0.0003127 写像
+	image WORD[38,   5]: 0.0002761 写り
+TOKEN[39]: 0.0058144    2 godsend
+	godsend WORD[39,   1]: 0.0038150 天与
+	godsend WORD[39,   2]: 0.0019994 与え
+TOKEN[40]: 0.0057741    1 unwanted
+	unwanted WORD[40,   1]: 0.0057741 写り込み
+TOKEN[41]: 0.0057279   13 copy
+	copy WORD[41,   1]: 0.0006861 浄写
+	copy WORD[41,   2]: 0.0005998 写し取る
+	copy WORD[41,   3]: 0.0005856 引き写し
+	copy WORD[41,   4]: 0.0005856 引写し
+	copy WORD[41,   5]: 0.0004419 摸写
+	copy WORD[41,   6]: 0.0004419 模写
+	copy WORD[41,   7]: 0.0004130 複写
+	copy WORD[41,   8]: 0.0003707 謄写
+	copy WORD[41,   9]: 0.0003403 縮写
+	copy WORD[41,  10]: 0.0003400 写本
+	copy WORD[41,  11]: 0.0003115 書き写す
+	copy WORD[41,  12]: 0.0003115 書写す
+	copy WORD[41,  13]: 0.0002998 写し
+TOKEN[42]: 0.0056563    2 ruling
+	ruling WORD[42,   1]: 0.0028342 与野党
+	ruling WORD[42,   2]: 0.0028221 与党
+TOKEN[43]: 0.0056423    2 dispensation
+	dispensation WORD[43,   1]: 0.0030809 分与
+	dispensation WORD[43,   2]: 0.0025614 施与
+TOKEN[44]: 0.0053921    4 photography
+	photography WORD[44,   1]: 0.0035013 念写
+	photography WORD[44,   2]: 0.0011414 連写
+	photography WORD[44,   3]: 0.0003778 接写
+	photography WORD[44,   4]: 0.0003716 実写
+TOKEN[45]: 0.0052381    1 humbug
+	humbug WORD[45,   1]: 0.0052381 与太
+TOKEN[46]: 0.0052307    1 postulate
+	postulate WORD[46,   1]: 0.0052307 与件
+TOKEN[47]: 0.0051884    2 data
+	data WORD[47,   1]: 0.0029670 与件
+	data WORD[47,   2]: 0.0022214 所与
+TOKEN[48]: 0.0050868    1 tossing
+	tossing WORD[48,   1]: 0.0050868 投げ与える
+TOKEN[49]: 0.0048984    2 assignment
+	assignment WORD[49,   1]: 0.0024492 付与
+	assignment WORD[49,   2]: 0.0024492 附与
+TOKEN[50]: 0.0048234    1 witted
+	witted WORD[50,   1]: 0.0048234 与太郎
+TOKEN[51]: 0.0047879    1 ghost
+	ghost WORD[51,   1]: 0.0047879 写り込み
+TOKEN[52]: 0.0046870    1 unexpected
+	unexpected WORD[52,   1]: 0.0046870 写り込み
+TOKEN[53]: 0.0046688    1 period
+	period WORD[53,   1]: 0.0046688 与力
+TOKEN[54]: 0.0045562    1 hooligan
+	hooligan WORD[54,   1]: 0.0045562 与太者
+TOKEN[55]: 0.0044257    1 gangster
+	gangster WORD[55,   1]: 0.0044257 与太者
+TOKEN[56]: 0.0043693    7 tracing
+	tracing WORD[56,   1]: 0.0007339 引き写し
+	tracing WORD[56,   2]: 0.0007339 引写し
+	tracing WORD[56,   3]: 0.0006650 敷き写し
+	tracing WORD[56,   4]: 0.0006644 透き写し
+	tracing WORD[56,   5]: 0.0005538 摸写
+	tracing WORD[56,   6]: 0.0005538 模写
+	tracing WORD[56,   7]: 0.0004645 透写
+TOKEN[57]: 0.0043340    1 throwing
+	throwing WORD[57,   1]: 0.0043340 投げ与える
+TOKEN[58]: 0.0041714    1 irresponsible
+	irresponsible WORD[58,   1]: 0.0041714 与太
+TOKEN[59]: 0.0041586    6 transcription
+	transcription WORD[59,   1]: 0.0012495 音写
+	transcription WORD[59,   2]: 0.0008888 転写
+	transcription WORD[59,   3]: 0.0007541 写字
+	transcription WORD[59,   4]: 0.0004463 謄写
+	transcription WORD[59,   5]: 0.0004106 書写
+	transcription WORD[59,   6]: 0.0004093 写本
+TOKEN[60]: 0.0041266    1 plundering
+	plundering WORD[60,   1]: 0.0041266 与奪
+TOKEN[61]: 0.0040409    1 nonsensical
+	nonsensical WORD[61,   1]: 0.0040409 与太
+TOKEN[62]: 0.0040404    1 appearance
+	appearance WORD[62,   1]: 0.0040404 写り込み
+TOKEN[63]: 0.0039761    1 sergeant
+	sergeant WORD[63,   1]: 0.0039761 与力
+TOKEN[64]: 0.0039671    1 liar
+	liar WORD[64,   1]: 0.0039671 与太郎
+TOKEN[65]: 0.0039460    1 government
+	government WORD[65,   1]: 0.0039460 与党
+TOKEN[66]: 0.0038783    2 power
+	power WORD[66,   1]: 0.0019433 与野党
+	power WORD[66,   2]: 0.0019350 与党
+TOKEN[67]: 0.0038690    1 buy
+	buy WORD[67,   1]: 0.0038690 買い与える
+TOKEN[68]: 0.0038604    7 picture
+	picture WORD[68,   1]: 0.0013478 ジャケ写
+	picture WORD[68,   2]: 0.0006201 実写
+	picture WORD[68,   3]: 0.0006154 写真
+	picture WORD[68,   4]: 0.0004482 写し絵
+	picture WORD[68,   5]: 0.0002856 活写
+	picture WORD[68,   6]: 0.0002717 写り
+	picture WORD[68,   7]: 0.0002715 写す
+TOKEN[69]: 0.0037606    1 prominent
+	prominent WORD[69,   1]: 0.0037606 与力
+TOKEN[70]: 0.0037114    1 impartation
+	impartation WORD[70,   1]: 0.0037114 分与
+TOKEN[71]: 0.0037033    1 wicked
+	wicked WORD[71,   1]: 0.0037033 与太る
+TOKEN[72]: 0.0037028    1 rubbish
+	rubbish WORD[72,   1]: 0.0037028 与太
+TOKEN[73]: 0.0035062    1 idiot
+	idiot WORD[73,   1]: 0.0035062 与太
+TOKEN[74]: 0.0034460    1 datum
+	datum WORD[74,   1]: 0.0034460 所与
+TOKEN[75]: 0.0033075    1 shooting
+	shooting WORD[75,   1]: 0.0033075 連写
+TOKEN[76]: 0.0032964    2 live
+	live WORD[76,   1]: 0.0029935 与太る
+	live WORD[76,   2]: 0.0003028 実写
+TOKEN[77]: 0.0032735    1 fool
+	fool WORD[77,   1]: 0.0032735 与太
+TOKEN[78]: 0.0032682    1 slow
+	slow WORD[78,   1]: 0.0032682 与太郎
+TOKEN[79]: 0.0032021    1 samurai
+	samurai WORD[79,   1]: 0.0032021 与力
+TOKEN[80]: 0.0031993    2 supply
+	supply WORD[80,   1]: 0.0016814 給与
+	supply WORD[80,   2]: 0.0015178 与える
+TOKEN[81]: 0.0031429    1 lie
+	lie WORD[81,   1]: 0.0031429 与太郎
+TOKEN[82]: 0.0031113    1 police
+	police WORD[82,   1]: 0.0031113 与力
+TOKEN[83]: 0.0030175    1 heaven
+	heaven WORD[83,   1]: 0.0030175 天与
+TOKEN[84]: 0.0030104    1 participate
+	participate WORD[84,   1]: 0.0030104 与る
+TOKEN[85]: 0.0029457    1 enjoy
+	enjoy WORD[85,   1]: 0.0029457 与る
+TOKEN[86]: 0.0029252    1 distribute
+	distribute WORD[86,   1]: 0.0029252 分け与える
+TOKEN[87]: 0.0028354    2 life
+	life WORD[87,   1]: 0.0024736 与太る
+	life WORD[87,   2]: 0.0003618 写し絵
+TOKEN[88]: 0.0028215    1 military
+	military WORD[88,   1]: 0.0028215 与力
+TOKEN[89]: 0.0028169    3 thing
+	thing WORD[89,   1]: 0.0020877 所与
+	thing WORD[89,   2]: 0.0003646 摸写
+	thing WORD[89,   3]: 0.0003646 模写
+TOKEN[90]: 0.0028158    1 something
+	something WORD[90,   1]: 0.0028158 写り込み
+TOKEN[91]: 0.0028025    1 aware
+	aware WORD[91,   1]: 0.0028025 与り知る
+TOKEN[92]: 0.0027509    1 blessed
+	blessed WORD[92,   1]: 0.0027509 賦与
+TOKEN[93]: 0.0026671    1 Edo
+	Edo WORD[93,   1]: 0.0026671 与力
+TOKEN[94]: 0.0026378    1 character
+	character WORD[94,   1]: 0.0026378 与太郎
+TOKEN[95]: 0.0025886    1 opposition
+	opposition WORD[95,   1]: 0.0025886 与野党
+TOKEN[96]: 0.0025390    1 consultant
+	consultant WORD[96,   1]: 0.0025390 参与
+TOKEN[97]: 0.0025317    1 almsgiving
+	almsgiving WORD[97,   1]: 0.0025317 施与
+TOKEN[98]: 0.0025192    1 allocation
+	allocation WORD[98,   1]: 0.0025192 分与
+TOKEN[99]: 0.0025156    1 bestowing
+	bestowing WORD[99,   1]: 0.0025156 恵与
+TOKEN[100]: 0.0025117    1 receive
+	receive WORD[100,   1]: 0.0025117 与る
+TOKEN[101]: 0.0024799    1 medication
+	medication WORD[101,   1]: 0.0024799 投与
+TOKEN[102]: 0.0024716    1 furnishing
+	furnishing WORD[102,   1]: 0.0024716 供与
+TOKEN[103]: 0.0024617    1 credit
+	credit WORD[103,   1]: 0.0024617 与信
+TOKEN[104]: 0.0024561    3 hand
+	hand WORD[104,   1]: 0.0018897 分け与える
+	hand WORD[104,   2]: 0.0003087 筆写
+	hand WORD[104,   3]: 0.0002576 手写
+TOKEN[105]: 0.0023557    1 know
+	know WORD[105,   1]: 0.0023557 与り知る
+TOKEN[106]: 0.0022520    1 verbatim
+	verbatim WORD[106,   1]: 0.0022520 丸写し
+TOKEN[107]: 0.0022199    1 charity
+	charity WORD[107,   1]: 0.0022199 施与
+TOKEN[108]: 0.0021826    1 adviser
+	adviser WORD[108,   1]: 0.0021826 参与
+TOKEN[109]: 0.0021802    1 distribution
+	distribution WORD[109,   1]: 0.0021802 分与
+TOKEN[110]: 0.0021714    1 sense
+	sense WORD[110,   1]: 0.0021714 所与
+TOKEN[111]: 0.0021555    1 bonus
+	bonus WORD[111,   1]: 0.0021555 賞与
+TOKEN[112]: 0.0021313    1 afford
+	afford WORD[112,   1]: 0.0021313 与える
+TOKEN[113]: 0.0021291    1 donation
+	donation WORD[113,   1]: 0.0021291 贈与
+TOKEN[114]: 0.0021092    1 psychic
+	psychic WORD[114,   1]: 0.0021092 念写
+TOKEN[115]: 0.0020879    1 play
+	play WORD[115,   1]: 0.0020879 与る
+TOKEN[116]: 0.0020647    1 administration
+	administration WORD[116,   1]: 0.0020647 投与
+TOKEN[117]: 0.0020351    4 real
+	real WORD[117,   1]: 0.0009091 写し絵
+	real WORD[117,   2]: 0.0004058 摸写
+	real WORD[117,   3]: 0.0004058 模写
+	real WORD[117,   4]: 0.0003144 実写
+TOKEN[118]: 0.0020259    1 provision
+	provision WORD[118,   1]: 0.0020259 供与
+TOKEN[119]: 0.0020247    1 providing
+	providing WORD[119,   1]: 0.0020247 給与
+TOKEN[120]: 0.0020165    1 reward
+	reward WORD[120,   1]: 0.0020165 賞与
+TOKEN[121]: 0.0020152    1 entirety
+	entirety WORD[121,   1]: 0.0020152 丸写し
+TOKEN[122]: 0.0020115    1 wages
+	wages WORD[122,   1]: 0.0020115 給与
+TOKEN[123]: 0.0019972    2 transfer
+	transfer WORD[123,   1]: 0.0016652 譲与
+	transfer WORD[123,   2]: 0.0003320 転写
+TOKEN[124]: 0.0019859    1 bestow
+	bestow WORD[124,   1]: 0.0019859 与える
+TOKEN[125]: 0.0019413    2 transliteration
+	transliteration WORD[125,   1]: 0.0014320 音写
+	transliteration WORD[125,   2]: 0.0005093 転写
+TOKEN[126]: 0.0019188    1 contribution
+	contribution WORD[126,   1]: 0.0019188 寄与
+TOKEN[127]: 0.0019057    4 reproduction
+	reproduction WORD[127,   1]: 0.0005144 摸写
+	reproduction WORD[127,   2]: 0.0005144 模写
+	reproduction WORD[127,   3]: 0.0004808 複写
+	reproduction WORD[127,   4]: 0.0003961 縮写
+TOKEN[128]: 0.0018679    1 prize
+	prize WORD[128,   1]: 0.0018679 賞与
+TOKEN[129]: 0.0018662    1 agree
+	agree WORD[129,   1]: 0.0018662 与する
+TOKEN[130]: 0.0018611    1 assign
+	assign WORD[130,   1]: 0.0018611 与える
+TOKEN[131]: 0.0018603    1 salary
+	salary WORD[131,   1]: 0.0018603 給与
+TOKEN[132]: 0.0018110    1 loan
+	loan WORD[132,   1]: 0.0018110 貸与
+TOKEN[133]: 0.0018044    1 award
+	award WORD[133,   1]: 0.0018044 与える
+TOKEN[134]: 0.0017472    1 exclusive
+	exclusive WORD[134,   1]: 0.0017472 特写
+TOKEN[135]: 0.0017469    1 provide
+	provide WORD[135,   1]: 0.0017469 与える
+TOKEN[136]: 0.0017272    1 jacket
+	jacket WORD[136,   1]: 0.0017272 ジャケ写
+TOKEN[137]: 0.0017260    3 projection
+	projection WORD[137,   1]: 0.0010587 投写
+	projection WORD[137,   2]: 0.0003347 映写
+	projection WORD[137,   3]: 0.0003326 写り
+TOKEN[138]: 0.0017083    1 medicine
+	medicine WORD[138,   1]: 0.0017083 投与
+TOKEN[139]: 0.0016536    1 variable
+	variable WORD[139,   1]: 0.0016536 与える
+TOKEN[140]: 0.0016461    4 transcribe
+	transcribe WORD[140,   1]: 0.0004194 書き写す
+	transcribe WORD[140,   2]: 0.0004194 書写す
+	transcribe WORD[140,   3]: 0.0004037 写す
+	transcribe WORD[140,   4]: 0.0004037 写し取る
+TOKEN[141]: 0.0015674    1 magazine
+	magazine WORD[141,   1]: 0.0015674 特写
+TOKEN[142]: 0.0015581    1 offer
+	offer WORD[142,   1]: 0.0015581 与える
+TOKEN[143]: 0.0015525    1 support
+	support WORD[143,   1]: 0.0015525 与する
+TOKEN[144]: 0.0015459    1 pay
+	pay WORD[144,   1]: 0.0015459 給与
+TOKEN[145]: 0.0015235    1 status
+	status WORD[145,   1]: 0.0015235 与える
+TOKEN[146]: 0.0014451    1 score
+	score WORD[146,   1]: 0.0014451 写譜
+TOKEN[147]: 0.0014179    1 lower
+	lower WORD[147,   1]: 0.0014179 与える
+TOKEN[148]: 0.0014135    1 function
+	function WORD[148,   1]: 0.0014135 与える
+TOKEN[149]: 0.0013961    2 reflect
+	reflect WORD[149,   1]: 0.0006980 写しだす
+	reflect WORD[149,   2]: 0.0006980 写し出す
+TOKEN[150]: 0.0013885    1 pass
+	pass WORD[150,   1]: 0.0013885 与える
+TOKEN[151]: 0.0013760    1 cause
+	cause WORD[151,   1]: 0.0013760 与える
+TOKEN[152]: 0.0013718    3 drawing
+	drawing WORD[152,   1]: 0.0006182 実写
+	drawing WORD[152,   2]: 0.0004469 写し絵
+	drawing WORD[152,   3]: 0.0003068 写生
+TOKEN[153]: 0.0013596    1 side
+	side WORD[153,   1]: 0.0013596 与する
+TOKEN[154]: 0.0013575    1 present
+	present WORD[154,   1]: 0.0013575 与える
+TOKEN[155]: 0.0013457    1 spirit
+	spirit WORD[155,   1]: 0.0013457 念写
+TOKEN[156]: 0.0013437    1 record
+	record WORD[156,   1]: 0.0013437 ジャケ写
+TOKEN[157]: 0.0013171    1 musical
+	musical WORD[157,   1]: 0.0013171 写譜
+TOKEN[158]: 0.0012628    1 opposed
+	opposed WORD[158,   1]: 0.0012628 実写
+TOKEN[159]: 0.0012196    2 depiction
+	depiction WORD[159,   1]: 0.0006663 写し絵
+	depiction WORD[159,   2]: 0.0005532 描写
+TOKEN[160]: 0.0012164    1 consecutive
+	consecutive WORD[160,   1]: 0.0012164 連写
+TOKEN[161]: 0.0011530    1 continuous
+	continuous WORD[161,   1]: 0.0011530 連写
+TOKEN[162]: 0.0011278    3 mirror
+	mirror WORD[162,   1]: 0.0005100 写し絵
+	mirror WORD[162,   2]: 0.0003089 写しだす
+	mirror WORD[162,   3]: 0.0003089 写し出す
+TOKEN[163]: 0.0011046    3 description
+	description WORD[163,   1]: 0.0004258 描写
+	description WORD[163,   2]: 0.0003521 写生
+	description WORD[163,   3]: 0.0003268 活写
+TOKEN[164]: 0.0010978    3 describe
+	describe WORD[164,   1]: 0.0003660 写す
+	describe WORD[164,   2]: 0.0003659 写しだす
+	describe WORD[164,   3]: 0.0003659 写し出す
+TOKEN[165]: 0.0010698    2 portrayal
+	portrayal WORD[165,   1]: 0.0005856 描写
+	portrayal WORD[165,   2]: 0.0004842 写生
+TOKEN[166]: 0.0010628    1 rapid
+	rapid WORD[166,   1]: 0.0010628 連写
+TOKEN[167]: 0.0009513    2 snapshot
+	snapshot WORD[167,   1]: 0.0004824 速写
+	snapshot WORD[167,   2]: 0.0004689 写真
+TOKEN[168]: 0.0009283    2 reproduce
+	reproduce WORD[168,   1]: 0.0004642 写す
+	reproduce WORD[168,   2]: 0.0004641 写し取る
+TOKEN[169]: 0.0009277    1 someone
+	someone WORD[169,   1]: 0.0009277 与える
+TOKEN[170]: 0.0008544    2 portray
+	portray WORD[170,   1]: 0.0004272 写しだす
+	portray WORD[170,   2]: 0.0004272 写し出す
+TOKEN[171]: 0.0008405    1 repeat
+	repeat WORD[171,   1]: 0.0008405 口写し
+TOKEN[172]: 0.0008167    2 depict
+	depict WORD[172,   1]: 0.0004083 写しだす
+	depict WORD[172,   2]: 0.0004083 写し出す
+TOKEN[173]: 0.0007610    2 duplicate
+	duplicate WORD[173,   1]: 0.0003806 写す
+	duplicate WORD[173,   2]: 0.0003805 写し
+TOKEN[174]: 0.0007368    2 nature
+	nature WORD[174,   1]: 0.0004369 写し絵
+	nature WORD[174,   2]: 0.0002999 写生
+TOKEN[175]: 0.0007237    1 speaking
+	speaking WORD[175,   1]: 0.0007237 口写し
+TOKEN[176]: 0.0007236    1 sutra
+	sutra WORD[176,   1]: 0.0007236 写経
+TOKEN[177]: 0.0007201    1 shadowgraph
+	shadowgraph WORD[177,   1]: 0.0007201 写し絵
+TOKEN[178]: 0.0007055    1 actual
+	actual WORD[178,   1]: 0.0007055 実写
+TOKEN[179]: 0.0007048    1 lifelike
+	lifelike WORD[179,   1]: 0.0007048 生き写し
+TOKEN[180]: 0.0007047    1 similar
+	similar WORD[180,   1]: 0.0007047 口写し
+TOKEN[181]: 0.0006850    1 manner
+	manner WORD[181,   1]: 0.0006850 口写し
+TOKEN[182]: 0.0006818    2 text
+	text WORD[182,   1]: 0.0003415 伝写
+	text WORD[182,   2]: 0.0003403 転写
+TOKEN[183]: 0.0006594    1 metaphorical
+	metaphorical WORD[183,   1]: 0.0006594 写し絵
+TOKEN[184]: 0.0006472    2 trace
+	trace WORD[184,   1]: 0.0003236 写す
+	trace WORD[184,   2]: 0.0003236 写し取る
+TOKEN[185]: 0.0006347    2 lake
+	lake WORD[185,   1]: 0.0003173 写しだす
+	lake WORD[185,   2]: 0.0003173 写し出す
+TOKEN[186]: 0.0006190    1 resemblance
+	resemblance WORD[186,   1]: 0.0006190 生き写し
+TOKEN[187]: 0.0005970    2 project
+	project WORD[187,   1]: 0.0002985 写しだす
+	project WORD[187,   2]: 0.0002985 写し出す
+TOKEN[188]: 0.0005889    2 screen
+	screen WORD[188,   1]: 0.0002945 写しだす
+	screen WORD[188,   2]: 0.0002945 写し出す
+TOKEN[189]: 0.0005740    1 exact
+	exact WORD[189,   1]: 0.0005740 生き写し
+TOKEN[190]: 0.0005737    1 photocopy
+	photocopy WORD[190,   1]: 0.0005737 謄写
+TOKEN[191]: 0.0005699    1 duplication
+	duplication WORD[191,   1]: 0.0005699 複写
+TOKEN[192]: 0.0005691    2 mood
+	mood WORD[192,   1]: 0.0002846 写しだす
+	mood WORD[192,   2]: 0.0002846 写し出す
+TOKEN[193]: 0.0005633    2 film
+	film WORD[193,   1]: 0.0003003 実写
+	film WORD[193,   2]: 0.0002630 写す
+TOKEN[194]: 0.0005553    1 sketch
+	sketch WORD[194,   1]: 0.0005553 写し絵
+TOKEN[195]: 0.0005262    1 codex
+	codex WORD[195,   1]: 0.0005262 写本
+TOKEN[196]: 0.0005170    2 times
+	times WORD[196,   1]: 0.0002585 写しだす
+	times WORD[196,   2]: 0.0002585 写し出す
+TOKEN[197]: 0.0005113    1 book
+	book WORD[197,   1]: 0.0005113 写本
+TOKEN[198]: 0.0005055    2 show
+	show WORD[198,   1]: 0.0002528 写しだす
+	show WORD[198,   2]: 0.0002528 写し出す
+TOKEN[199]: 0.0005048    1 mimeograph
+	mimeograph WORD[199,   1]: 0.0005048 謄写
+TOKEN[200]: 0.0004628    1 sketching
+	sketching WORD[200,   1]: 0.0004628 写生
+TOKEN[201]: 0.0004583    1 society
+	society WORD[201,   1]: 0.0004583 写し絵
+TOKEN[202]: 0.0004561    1 documentary
+	documentary WORD[202,   1]: 0.0004561 実写
+TOKEN[203]: 0.0004417    1 lively
+	lively WORD[203,   1]: 0.0004417 活写
+TOKEN[204]: 0.0004410    1 preview
+	preview WORD[204,   1]: 0.0004410 試写
+TOKEN[205]: 0.0004342    1 realism
+	realism WORD[205,   1]: 0.0004342 写実
+TOKEN[206]: 0.0004220    1 imaginary
+	imaginary WORD[206,   1]: 0.0004220 実写
+TOKEN[207]: 0.0004159    1 animation
+	animation WORD[207,   1]: 0.0004159 実写
+TOKEN[208]: 0.0004064    1 spectacular
+	spectacular WORD[208,   1]: 0.0004064 激写
+TOKEN[209]: 0.0004040    1 penmanship
+	penmanship WORD[209,   1]: 0.0004040 書写
+TOKEN[210]: 0.0004016    1 miniature
+	miniature WORD[210,   1]: 0.0004016 縮写
+TOKEN[211]: 0.0004013    1 photographic
+	photographic WORD[211,   1]: 0.0004013 実写
+TOKEN[212]: 0.0003920    1 facsimile
+	facsimile WORD[212,   1]: 0.0003920 写し
+TOKEN[213]: 0.0003888    1 transcript
+	transcript WORD[213,   1]: 0.0003888 写し
+TOKEN[214]: 0.0003831    1 snap
+	snap WORD[214,   1]: 0.0003831 写真
+TOKEN[215]: 0.0003811    1 child
+	child WORD[215,   1]: 0.0003811 写し絵
+TOKEN[216]: 0.0003716    1 handwriting
+	handwriting WORD[216,   1]: 0.0003716 書写
+TOKEN[217]: 0.0003715    1 reduced
+	reduced WORD[217,   1]: 0.0003715 縮写
+TOKEN[218]: 0.0003696    1 vivid
+	vivid WORD[218,   1]: 0.0003696 活写
+TOKEN[219]: 0.0003681    1 fiction
+	fiction WORD[219,   1]: 0.0003681 実写
+TOKEN[220]: 0.0003675    1 manuscript
+	manuscript WORD[220,   1]: 0.0003675 写本
+TOKEN[221]: 0.0003574    1 representation
+	representation WORD[221,   1]: 0.0003574 写像
+TOKEN[222]: 0.0003501    1 people
+	people WORD[222,   1]: 0.0003501 写し絵
+TOKEN[223]: 0.0003491    1 imitate
+	imitate WORD[223,   1]: 0.0003491 写す
+TOKEN[224]: 0.0003475    1 fair
+	fair WORD[224,   1]: 0.0003475 浄写
+TOKEN[225]: 0.0003469    1 map
+	map WORD[225,   1]: 0.0003469 写像
+TOKEN[226]: 0.0003450    1 printing
+	printing WORD[226,   1]: 0.0003450 転写
+TOKEN[227]: 0.0003442    1 showing
+	showing WORD[227,   1]: 0.0003442 試写
+TOKEN[228]: 0.0003419    1 clean
+	clean WORD[228,   1]: 0.0003419 浄写
+TOKEN[229]: 0.0003337    1 scene
+	scene WORD[229,   1]: 0.0003337 実写
+TOKEN[230]: 0.0003311    1 reflection
+	reflection WORD[230,   1]: 0.0003311 写り
+TOKEN[231]: 0.0003305    1 movie
+	movie WORD[231,   1]: 0.0003305 写真
+TOKEN[232]: 0.0003270    1 harmony
+	harmony WORD[232,   1]: 0.0003270 写り
+TOKEN[233]: 0.0003200    1 moving
+	moving WORD[233,   1]: 0.0003200 写真
+TOKEN[234]: 0.0003174    1 error
+	error WORD[234,   1]: 0.0003174 誤写
+TOKEN[235]: 0.0003107    1 subject
+	subject WORD[235,   1]: 0.0003107 書写
+TOKEN[236]: 0.0003051    1 reception
+	reception WORD[236,   1]: 0.0003051 写り
+TOKEN[237]: 0.0002961    1 written
+	written WORD[237,   1]: 0.0002961 写本
+TOKEN[238]: 0.0002943    1 painting
+	painting WORD[238,   1]: 0.0002943 活写
+TOKEN[239]: 0.0002888    1 story
+	story WORD[239,   1]: 0.0002888 実写
+TOKEN[240]: 0.0002871    1 private
+	private WORD[240,   1]: 0.0002871 試写
+TOKEN[241]: 0.0002865    1 moment
+	moment WORD[241,   1]: 0.0002865 激写
+TOKEN[242]: 0.0002789    1 writing
+	writing WORD[242,   1]: 0.0002789 実写
+TOKEN[243]: 0.0002731    1 quality
+	quality WORD[243,   1]: 0.0002731 写り
+TOKEN[244]: 0.0002621    1 match
+	match WORD[244,   1]: 0.0002621 写り
+TOKEN[245]: 0.0002609    1 right
+	right WORD[245,   1]: 0.0002609 激写
+TOKEN[246]: 0.0002435    1 school
+	school WORD[246,   1]: 0.0002435 書写
+TOKEN[247]: 0.0001973    1 make
+	make WORD[247,   1]: 0.0001973 写し取る

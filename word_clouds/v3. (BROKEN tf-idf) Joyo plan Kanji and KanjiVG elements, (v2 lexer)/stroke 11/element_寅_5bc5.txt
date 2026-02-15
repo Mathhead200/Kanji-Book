@@ -1,0 +1,520 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1495277    5 sexagenary     : 甲寅, 壬寅, 庚寅, 丙寅, 戊寅
+0.1359163    5 cycle          : 甲寅, 壬寅, 庚寅, 丙寅, 戊寅
+0.1296477    5 term           : 甲寅, 壬寅, 庚寅, 丙寅, 戊寅
+0.0615899   24 performance    : 演能, 怪演, 快演, 演舞, 力演, 名演, 熱演, 独演, 演し物, 助演, ...
+0.0431220   15 play           : 演能, 自演, 演ずる, 演じる, 演る, 続演, 上演, 出演, 主演, 再演, ...
+0.0357423    3 musical        : 演曲, 演目, 演奏
+0.0215712    1 martial        : 演武
+0.0181903    3 program        : 演曲, 演し物, 演目
+0.0158634    1 year           : 寅年
+0.0139744    2 demonstration  : 演武, 実演
+0.0118187    1 northeast      : 丑寅
+0.0096752    1 training       : 演武
+0.0093548    2 rostrum        : 演台, 演壇
+0.0088107    1 fascinating    : 怪演
+0.0087430    1 lectern        : 演台
+0.0086950    1 eerie          : 怪演
+0.0085070    2 speaker        : 演台, 演者
+0.0084330    1 zodiac         : 寅
+0.0081397    1 impressive     : 怪演
+0.0078813    1 peculiar       : 怪演
+0.0071320    1 hour           : 寅
+0.0070843    2 platform       : 演台, 演壇
+0.0066460    1 superb         : 快演
+0.0066083    2 first          : 寅, 初演
+0.0065114    1 third          : 寅
+0.0064205    1 sign           : 寅
+0.0063557    1 calendar       : 寅
+0.0062445    1 lunar          : 寅
+0.0061863    1 desk           : 演台
+0.0061094    1 substitute     : 代演
+0.0060832    4 good           : 快演, 好演, 演ずる, 演じる
+0.0060561    2 Chinese        : 寅, 演義
+0.0057919    4 perform        : 来演, 演る, 演ずる, 演じる
+0.0056484    1 month          : 寅
+0.0056207    5 show           : 演者, 続演, 実演, 出演, 競演
+0.0053268    1 standing       : 代演
+0.0048013    3 staging        : 続演, 上演, 演出
+0.0044038    4 role           : 助演, 再演, 演ずる, 演じる
+0.0042070    2 drill          : 演習, 演練
+0.0041382    4 film           : 出演, 主演, 共演, 演出
+0.0040672    3 concert        : 共演, 開演, 演目
+0.0039796    3 presentation   : 上演, 実演, 口演
+0.0035173    2 starring       : 自演, 主演
+0.0034872    2 enthusiastic   : 力演, 熱演
+0.0032788    1 solo           : 独演
+0.0032252    3 act            : 演る, 演ずる, 演じる
+0.0031250    3 production     : 演ずる, 演じる, 演出
+0.0031037    3 address        : 講演, 演題, 演説
+0.0030179    2 tour           : 名演, 巡演
+0.0029179    2 actor          : 演者, 再演
+0.0027330    1 supporting     : 助演
+0.0026442    3 part           : 主演, 演ずる, 演じる
+0.0026153    2 theatrical     : 演し物, 演目
+0.0025991    2 practice       : 演練, 演習
+0.0025269    2 appearance     : 客演, 出演
+0.0025146    2 popular        : 演義, 演歌
+0.0024832    2 theater        : 演し物, 演劇
+0.0024328    2 blunder        : 演ずる, 演じる
+0.0023980    1 popularization : 演義
+0.0023778    1 presenter      : 演者
+0.0023764    2 disgrace       : 演ずる, 演じる
+0.0023764    2 commit         : 演ずる, 演じる
+0.0023540    2 pretend        : 演ずる, 演じる
+0.0023453    2 drama          : 演劇, 演戯
+0.0023302    1 participant    : 演者
+0.0023228    1 explaining     : 演義
+0.0022659    1 simplification : 演義
+0.0022022    1 exercise       : 演習
+0.0021974    2 acting         : 共演, 演技
+0.0021825    2 father         : 演ずる, 演じる
+0.0021109    1 adaptation     : 演義
+0.0020544    2 speech         : 講演, 演説
+0.0019671    1 panel          : 演者
+0.0019096    1 performer      : 演者
+0.0017480    1 recapitulation : 再演
+0.0017363    1 historical     : 演義
+0.0017033    1 guest          : 客演
+0.0016944    1 orchestration  : 演出
+0.0016851    1 dance          : 演舞
+0.0016359    1 novel          : 演義
+0.0016348    1 troubadour     : 演歌
+0.0016254    2 put            : 演ずる, 演じる
+0.0015943    1 simple         : 演義
+0.0015737    1 history        : 演義
+0.0015599    1 seminar        : 演習
+0.0015598    1 deductive      : 演繹
+0.0015417    1 continued      : 続演
+0.0015252    1 reading        : 演義
+0.0014638    1 coming         : 来演
+0.0014539    1 opera          : 上演
+0.0014528    1 rehearsal      : 試演
+0.0014341    1 writing        : 演義
+0.0014221    1 fine           : 名演
+0.0013826    1 feature        : 演し物
+0.0013640    1 ballad         : 演歌
+0.0013237    1 deduction      : 演繹
+0.0013235    1 language       : 演義
+0.0013182    1 force          : 名演
+0.0013107    1 lecture        : 講演
+0.0013104    1 competitive    : 競演
+0.0012841    1 exhibition     : 公演
+0.0012785    1 reasoning      : 演繹
+0.0012701    1 oral           : 口演
+0.0012264    1 showing        : 再演
+0.0012163    1 calculation    : 演算
+0.0012040    1 movie          : 自演
+0.0012037    1 trial          : 試演
+0.0011975    1 sports         : 共演
+0.0011798    1 leading        : 主演
+0.0011564    1 raising        : 開演
+0.0011548    1 curtain        : 開演
+0.0011370    1 contest        : 競演
+0.0011370    1 competition    : 競演
+0.0011233    1 entertainment  : 演芸
+0.0011225    1 piece          : 演し物
+0.0011050    1 arrangement    : 演出
+0.0010723    1 stage          : 実演
+0.0010669    1 scene          : 演じる
+0.0010598    1 foreign        : 公演
+0.0010596    1 starting       : 開演
+0.0010254    1 direction      : 演出
+0.0010152    1 match          : 共演
+0.0010149    1 one            : 自演
+0.0010129    1 operation      : 演算
+0.0009994    1 organization   : 演出
+0.0009976    1 subject        : 演題
+0.0009966    1 number         : 演し物
+0.0009952    1 country        : 公演
+0.0009824    1 effect         : 演出
+0.0009818    1 event          : 演出
+0.0009105    1 military       : 演習
+0.0008988    1 public         : 公演
+0.0008929    1 end            : 終演
+0.0007205    1 make           : 演じる
+0.0006616    1 something      : 演じる
+0.0006427    1 Japanese       : 演歌
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1495277    5 sexagenary
+	sexagenary WORD[ 1,   1]: 0.0441239 甲寅
+	sexagenary WORD[ 1,   2]: 0.0380111 壬寅
+	sexagenary WORD[ 1,   3]: 0.0281588 庚寅
+	sexagenary WORD[ 1,   4]: 0.0199918 丙寅
+	sexagenary WORD[ 1,   5]: 0.0192420 戊寅
+TOKEN[ 2]: 0.1359163    5 cycle
+	cycle WORD[ 2,   1]: 0.0401073 甲寅
+	cycle WORD[ 2,   2]: 0.0345509 壬寅
+	cycle WORD[ 2,   3]: 0.0255956 庚寅
+	cycle WORD[ 2,   4]: 0.0181720 丙寅
+	cycle WORD[ 2,   5]: 0.0174905 戊寅
+TOKEN[ 3]: 0.1296477    5 term
+	term WORD[ 3,   1]: 0.0382575 甲寅
+	term WORD[ 3,   2]: 0.0329574 壬寅
+	term WORD[ 3,   3]: 0.0244151 庚寅
+	term WORD[ 3,   4]: 0.0173339 丙寅
+	term WORD[ 3,   5]: 0.0166838 戊寅
+TOKEN[ 4]: 0.0615899   24 performance
+	performance WORD[ 4,   1]: 0.0147522 演能
+	performance WORD[ 4,   2]: 0.0123267 怪演
+	performance WORD[ 4,   3]: 0.0104242 快演
+	performance WORD[ 4,   4]: 0.0015829 演舞
+	performance WORD[ 4,   5]: 0.0014836 力演
+	performance WORD[ 4,   6]: 0.0014188 名演
+	performance WORD[ 4,   7]: 0.0012588 熱演
+	performance WORD[ 4,   8]: 0.0012272 独演
+	performance WORD[ 4,   9]: 0.0011577 演し物
+	performance WORD[ 4,  10]: 0.0011092 助演
+	performance WORD[ 4,  11]: 0.0011088 上演
+	performance WORD[ 4,  12]: 0.0011082 巡演
+	performance WORD[ 4,  13]: 0.0011069 実演
+	performance WORD[ 4,  14]: 0.0011021 初演
+	performance WORD[ 4,  15]: 0.0011002 出演
+	performance WORD[ 4,  16]: 0.0010994 終演
+	performance WORD[ 4,  17]: 0.0010875 試演
+	performance WORD[ 4,  18]: 0.0010616 好演
+	performance WORD[ 4,  19]: 0.0010616 公演
+	performance WORD[ 4,  20]: 0.0010388 競演
+	performance WORD[ 4,  21]: 0.0010384 休演
+	performance WORD[ 4,  22]: 0.0009786 演奏
+	performance WORD[ 4,  23]: 0.0009784 演芸
+	performance WORD[ 4,  24]: 0.0009784 演技
+TOKEN[ 5]: 0.0431220   15 play
+	play WORD[ 5,   1]: 0.0267420 演能
+	play WORD[ 5,   2]: 0.0020056 自演
+	play WORD[ 5,   3]: 0.0017738 演ずる
+	play WORD[ 5,   4]: 0.0017738 演じる
+	play WORD[ 5,   5]: 0.0013163 演る
+	play WORD[ 5,   6]: 0.0010282 続演
+	play WORD[ 5,   7]: 0.0010049 上演
+	play WORD[ 5,   8]: 0.0009972 出演
+	play WORD[ 5,   9]: 0.0009969 主演
+	play WORD[ 5,  10]: 0.0009733 再演
+	play WORD[ 5,  11]: 0.0009416 共演
+	play WORD[ 5,  12]: 0.0009080 開演
+	play WORD[ 5,  13]: 0.0008868 演出
+	play WORD[ 5,  14]: 0.0008868 演劇
+	play WORD[ 5,  15]: 0.0008868 演戯
+TOKEN[ 6]: 0.0357423    3 musical
+	musical WORD[ 6,   1]: 0.0336298 演曲
+	musical WORD[ 6,   2]: 0.0010563 演目
+	musical WORD[ 6,   3]: 0.0010562 演奏
+TOKEN[ 7]: 0.0215712    1 martial
+	martial WORD[ 7,   1]: 0.0215712 演武
+TOKEN[ 8]: 0.0181903    3 program
+	program WORD[ 8,   1]: 0.0159967 演曲
+	program WORD[ 8,   2]: 0.0011887 演し物
+	program WORD[ 8,   3]: 0.0010049 演目
+TOKEN[ 9]: 0.0158634    1 year
+	year WORD[ 9,   1]: 0.0158634 寅年
+TOKEN[10]: 0.0139744    2 demonstration
+	demonstration WORD[10,   1]: 0.0125229 演武
+	demonstration WORD[10,   2]: 0.0014515 実演
+TOKEN[11]: 0.0118187    1 northeast
+	northeast WORD[11,   1]: 0.0118187 丑寅
+TOKEN[12]: 0.0096752    1 training
+	training WORD[12,   1]: 0.0096752 演武
+TOKEN[13]: 0.0093548    2 rostrum
+	rostrum WORD[13,   1]: 0.0078809 演台
+	rostrum WORD[13,   2]: 0.0014739 演壇
+TOKEN[14]: 0.0088107    1 fascinating
+	fascinating WORD[14,   1]: 0.0088107 怪演
+TOKEN[15]: 0.0087430    1 lectern
+	lectern WORD[15,   1]: 0.0087430 演台
+TOKEN[16]: 0.0086950    1 eerie
+	eerie WORD[16,   1]: 0.0086950 怪演
+TOKEN[17]: 0.0085070    2 speaker
+	speaker WORD[17,   1]: 0.0065352 演台
+	speaker WORD[17,   2]: 0.0019718 演者
+TOKEN[18]: 0.0084330    1 zodiac
+	zodiac WORD[18,   1]: 0.0084330 寅
+TOKEN[19]: 0.0081397    1 impressive
+	impressive WORD[19,   1]: 0.0081397 怪演
+TOKEN[20]: 0.0078813    1 peculiar
+	peculiar WORD[20,   1]: 0.0078813 怪演
+TOKEN[21]: 0.0071320    1 hour
+	hour WORD[21,   1]: 0.0071320 寅
+TOKEN[22]: 0.0070843    2 platform
+	platform WORD[22,   1]: 0.0059681 演台
+	platform WORD[22,   2]: 0.0011162 演壇
+TOKEN[23]: 0.0066460    1 superb
+	superb WORD[23,   1]: 0.0066460 快演
+TOKEN[24]: 0.0066083    2 first
+	first WORD[24,   1]: 0.0056293 寅
+	first WORD[24,   2]: 0.0009789 初演
+TOKEN[25]: 0.0065114    1 third
+	third WORD[25,   1]: 0.0065114 寅
+TOKEN[26]: 0.0064205    1 sign
+	sign WORD[26,   1]: 0.0064205 寅
+TOKEN[27]: 0.0063557    1 calendar
+	calendar WORD[27,   1]: 0.0063557 寅
+TOKEN[28]: 0.0062445    1 lunar
+	lunar WORD[28,   1]: 0.0062445 寅
+TOKEN[29]: 0.0061863    1 desk
+	desk WORD[29,   1]: 0.0061863 演台
+TOKEN[30]: 0.0061094    1 substitute
+	substitute WORD[30,   1]: 0.0061094 代演
+TOKEN[31]: 0.0060832    4 good
+	good WORD[31,   1]: 0.0038522 快演
+	good WORD[31,   2]: 0.0007846 好演
+	good WORD[31,   3]: 0.0007232 演ずる
+	good WORD[31,   4]: 0.0007232 演じる
+TOKEN[32]: 0.0060561    2 Chinese
+	Chinese WORD[32,   1]: 0.0048514 寅
+	Chinese WORD[32,   2]: 0.0012047 演義
+TOKEN[33]: 0.0057919    4 perform
+	perform WORD[33,   1]: 0.0017546 来演
+	perform WORD[33,   2]: 0.0017198 演る
+	perform WORD[33,   3]: 0.0011588 演ずる
+	perform WORD[33,   4]: 0.0011588 演じる
+TOKEN[34]: 0.0056484    1 month
+	month WORD[34,   1]: 0.0056484 寅
+TOKEN[35]: 0.0056207    5 show
+	show WORD[35,   1]: 0.0014891 演者
+	show WORD[35,   2]: 0.0010700 続演
+	show WORD[35,   3]: 0.0010441 実演
+	show WORD[35,   4]: 0.0010377 出演
+	show WORD[35,   5]: 0.0009798 競演
+TOKEN[36]: 0.0053268    1 standing
+	standing WORD[36,   1]: 0.0053268 代演
+TOKEN[37]: 0.0048013    3 staging
+	staging WORD[37,   1]: 0.0016906 続演
+	staging WORD[37,   2]: 0.0016524 上演
+	staging WORD[37,   3]: 0.0014582 演出
+TOKEN[38]: 0.0044038    4 role
+	role WORD[38,   1]: 0.0011798 助演
+	role WORD[38,   2]: 0.0011423 再演
+	role WORD[38,   3]: 0.0010408 演ずる
+	role WORD[38,   4]: 0.0010408 演じる
+TOKEN[39]: 0.0042070    2 drill
+	drill WORD[39,   1]: 0.0023251 演習
+	drill WORD[39,   2]: 0.0018819 演練
+TOKEN[40]: 0.0041382    4 film
+	film WORD[40,   1]: 0.0010796 出演
+	film WORD[40,   2]: 0.0010792 主演
+	film WORD[40,   3]: 0.0010193 共演
+	film WORD[40,   4]: 0.0009601 演出
+TOKEN[41]: 0.0040672    3 concert
+	concert WORD[41,   1]: 0.0013993 共演
+	concert WORD[41,   2]: 0.0013494 開演
+	concert WORD[41,   3]: 0.0013184 演目
+TOKEN[42]: 0.0039796    3 presentation
+	presentation WORD[42,   1]: 0.0013464 上演
+	presentation WORD[42,   2]: 0.0013441 実演
+	presentation WORD[42,   3]: 0.0012891 口演
+TOKEN[43]: 0.0035173    2 starring
+	starring WORD[43,   1]: 0.0017639 自演
+	starring WORD[43,   2]: 0.0017534 主演
+TOKEN[44]: 0.0034872    2 enthusiastic
+	enthusiastic WORD[44,   1]: 0.0018866 力演
+	enthusiastic WORD[44,   2]: 0.0016007 熱演
+TOKEN[45]: 0.0032788    1 solo
+	solo WORD[45,   1]: 0.0032788 独演
+TOKEN[46]: 0.0032252    3 act
+	act WORD[46,   1]: 0.0013739 演る
+	act WORD[46,   2]: 0.0009257 演ずる
+	act WORD[46,   3]: 0.0009257 演じる
+TOKEN[47]: 0.0031250    3 production
+	production WORD[47,   1]: 0.0010417 演ずる
+	production WORD[47,   2]: 0.0010417 演じる
+	production WORD[47,   3]: 0.0010416 演出
+TOKEN[48]: 0.0031037    3 address
+	address WORD[48,   1]: 0.0010915 講演
+	address WORD[48,   2]: 0.0010061 演題
+	address WORD[48,   3]: 0.0010061 演説
+TOKEN[49]: 0.0030179    2 tour
+	tour WORD[49,   1]: 0.0016944 名演
+	tour WORD[49,   2]: 0.0013235 巡演
+TOKEN[50]: 0.0029179    2 actor
+	actor WORD[50,   1]: 0.0017366 演者
+	actor WORD[50,   2]: 0.0011813 再演
+TOKEN[51]: 0.0027330    1 supporting
+	supporting WORD[51,   1]: 0.0027330 助演
+TOKEN[52]: 0.0026442    3 part
+	part WORD[52,   1]: 0.0009513 主演
+	part WORD[52,   2]: 0.0008464 演ずる
+	part WORD[52,   3]: 0.0008464 演じる
+TOKEN[53]: 0.0026153    2 theatrical
+	theatrical WORD[53,   1]: 0.0014172 演し物
+	theatrical WORD[53,   2]: 0.0011981 演目
+TOKEN[54]: 0.0025991    2 practice
+	practice WORD[54,   1]: 0.0016066 演練
+	practice WORD[54,   2]: 0.0009925 演習
+TOKEN[55]: 0.0025269    2 appearance
+	appearance WORD[55,   1]: 0.0014596 客演
+	appearance WORD[55,   2]: 0.0010673 出演
+TOKEN[56]: 0.0025146    2 popular
+	popular WORD[56,   1]: 0.0015506 演義
+	popular WORD[56,   2]: 0.0009640 演歌
+TOKEN[57]: 0.0024832    2 theater
+	theater WORD[57,   1]: 0.0013458 演し物
+	theater WORD[57,   2]: 0.0011374 演劇
+TOKEN[58]: 0.0024328    2 blunder
+	blunder WORD[58,   1]: 0.0012164 演ずる
+	blunder WORD[58,   2]: 0.0012164 演じる
+TOKEN[59]: 0.0023980    1 popularization
+	popularization WORD[59,   1]: 0.0023980 演義
+TOKEN[60]: 0.0023778    1 presenter
+	presenter WORD[60,   1]: 0.0023778 演者
+TOKEN[61]: 0.0023764    2 disgrace
+	disgrace WORD[61,   1]: 0.0011882 演ずる
+	disgrace WORD[61,   2]: 0.0011882 演じる
+TOKEN[62]: 0.0023764    2 commit
+	commit WORD[62,   1]: 0.0011882 演ずる
+	commit WORD[62,   2]: 0.0011882 演じる
+TOKEN[63]: 0.0023540    2 pretend
+	pretend WORD[63,   1]: 0.0011770 演ずる
+	pretend WORD[63,   2]: 0.0011770 演じる
+TOKEN[64]: 0.0023453    2 drama
+	drama WORD[64,   1]: 0.0011727 演劇
+	drama WORD[64,   2]: 0.0011726 演戯
+TOKEN[65]: 0.0023302    1 participant
+	participant WORD[65,   1]: 0.0023302 演者
+TOKEN[66]: 0.0023228    1 explaining
+	explaining WORD[66,   1]: 0.0023228 演義
+TOKEN[67]: 0.0022659    1 simplification
+	simplification WORD[67,   1]: 0.0022659 演義
+TOKEN[68]: 0.0022022    1 exercise
+	exercise WORD[68,   1]: 0.0022022 演習
+TOKEN[69]: 0.0021974    2 acting
+	acting WORD[69,   1]: 0.0011316 共演
+	acting WORD[69,   2]: 0.0010658 演技
+TOKEN[70]: 0.0021825    2 father
+	father WORD[70,   1]: 0.0010913 演ずる
+	father WORD[70,   2]: 0.0010912 演じる
+TOKEN[71]: 0.0021109    1 adaptation
+	adaptation WORD[71,   1]: 0.0021109 演義
+TOKEN[72]: 0.0020544    2 speech
+	speech WORD[72,   1]: 0.0010690 講演
+	speech WORD[72,   2]: 0.0009854 演説
+TOKEN[73]: 0.0019671    1 panel
+	panel WORD[73,   1]: 0.0019671 演者
+TOKEN[74]: 0.0019096    1 performer
+	performer WORD[74,   1]: 0.0019096 演者
+TOKEN[75]: 0.0017480    1 recapitulation
+	recapitulation WORD[75,   1]: 0.0017480 再演
+TOKEN[76]: 0.0017363    1 historical
+	historical WORD[76,   1]: 0.0017363 演義
+TOKEN[77]: 0.0017033    1 guest
+	guest WORD[77,   1]: 0.0017033 客演
+TOKEN[78]: 0.0016944    1 orchestration
+	orchestration WORD[78,   1]: 0.0016944 演出
+TOKEN[79]: 0.0016851    1 dance
+	dance WORD[79,   1]: 0.0016851 演舞
+TOKEN[80]: 0.0016359    1 novel
+	novel WORD[80,   1]: 0.0016359 演義
+TOKEN[81]: 0.0016348    1 troubadour
+	troubadour WORD[81,   1]: 0.0016348 演歌
+TOKEN[82]: 0.0016254    2 put
+	put WORD[82,   1]: 0.0008127 演ずる
+	put WORD[82,   2]: 0.0008127 演じる
+TOKEN[83]: 0.0015943    1 simple
+	simple WORD[83,   1]: 0.0015943 演義
+TOKEN[84]: 0.0015737    1 history
+	history WORD[84,   1]: 0.0015737 演義
+TOKEN[85]: 0.0015599    1 seminar
+	seminar WORD[85,   1]: 0.0015599 演習
+TOKEN[86]: 0.0015598    1 deductive
+	deductive WORD[86,   1]: 0.0015598 演繹
+TOKEN[87]: 0.0015417    1 continued
+	continued WORD[87,   1]: 0.0015417 続演
+TOKEN[88]: 0.0015252    1 reading
+	reading WORD[88,   1]: 0.0015252 演義
+TOKEN[89]: 0.0014638    1 coming
+	coming WORD[89,   1]: 0.0014638 来演
+TOKEN[90]: 0.0014539    1 opera
+	opera WORD[90,   1]: 0.0014539 上演
+TOKEN[91]: 0.0014528    1 rehearsal
+	rehearsal WORD[91,   1]: 0.0014528 試演
+TOKEN[92]: 0.0014341    1 writing
+	writing WORD[92,   1]: 0.0014341 演義
+TOKEN[93]: 0.0014221    1 fine
+	fine WORD[93,   1]: 0.0014221 名演
+TOKEN[94]: 0.0013826    1 feature
+	feature WORD[94,   1]: 0.0013826 演し物
+TOKEN[95]: 0.0013640    1 ballad
+	ballad WORD[95,   1]: 0.0013640 演歌
+TOKEN[96]: 0.0013237    1 deduction
+	deduction WORD[96,   1]: 0.0013237 演繹
+TOKEN[97]: 0.0013235    1 language
+	language WORD[97,   1]: 0.0013235 演義
+TOKEN[98]: 0.0013182    1 force
+	force WORD[98,   1]: 0.0013182 名演
+TOKEN[99]: 0.0013107    1 lecture
+	lecture WORD[99,   1]: 0.0013107 講演
+TOKEN[100]: 0.0013104    1 competitive
+	competitive WORD[100,   1]: 0.0013104 競演
+TOKEN[101]: 0.0012841    1 exhibition
+	exhibition WORD[101,   1]: 0.0012841 公演
+TOKEN[102]: 0.0012785    1 reasoning
+	reasoning WORD[102,   1]: 0.0012785 演繹
+TOKEN[103]: 0.0012701    1 oral
+	oral WORD[103,   1]: 0.0012701 口演
+TOKEN[104]: 0.0012264    1 showing
+	showing WORD[104,   1]: 0.0012264 再演
+TOKEN[105]: 0.0012163    1 calculation
+	calculation WORD[105,   1]: 0.0012163 演算
+TOKEN[106]: 0.0012040    1 movie
+	movie WORD[106,   1]: 0.0012040 自演
+TOKEN[107]: 0.0012037    1 trial
+	trial WORD[107,   1]: 0.0012037 試演
+TOKEN[108]: 0.0011975    1 sports
+	sports WORD[108,   1]: 0.0011975 共演
+TOKEN[109]: 0.0011798    1 leading
+	leading WORD[109,   1]: 0.0011798 主演
+TOKEN[110]: 0.0011564    1 raising
+	raising WORD[110,   1]: 0.0011564 開演
+TOKEN[111]: 0.0011548    1 curtain
+	curtain WORD[111,   1]: 0.0011548 開演
+TOKEN[112]: 0.0011370    1 contest
+	contest WORD[112,   1]: 0.0011370 競演
+TOKEN[113]: 0.0011370    1 competition
+	competition WORD[113,   1]: 0.0011370 競演
+TOKEN[114]: 0.0011233    1 entertainment
+	entertainment WORD[114,   1]: 0.0011233 演芸
+TOKEN[115]: 0.0011225    1 piece
+	piece WORD[115,   1]: 0.0011225 演し物
+TOKEN[116]: 0.0011050    1 arrangement
+	arrangement WORD[116,   1]: 0.0011050 演出
+TOKEN[117]: 0.0010723    1 stage
+	stage WORD[117,   1]: 0.0010723 実演
+TOKEN[118]: 0.0010669    1 scene
+	scene WORD[118,   1]: 0.0010669 演じる
+TOKEN[119]: 0.0010598    1 foreign
+	foreign WORD[119,   1]: 0.0010598 公演
+TOKEN[120]: 0.0010596    1 starting
+	starting WORD[120,   1]: 0.0010596 開演
+TOKEN[121]: 0.0010254    1 direction
+	direction WORD[121,   1]: 0.0010254 演出
+TOKEN[122]: 0.0010152    1 match
+	match WORD[122,   1]: 0.0010152 共演
+TOKEN[123]: 0.0010149    1 one
+	one WORD[123,   1]: 0.0010149 自演
+TOKEN[124]: 0.0010129    1 operation
+	operation WORD[124,   1]: 0.0010129 演算
+TOKEN[125]: 0.0009994    1 organization
+	organization WORD[125,   1]: 0.0009994 演出
+TOKEN[126]: 0.0009976    1 subject
+	subject WORD[126,   1]: 0.0009976 演題
+TOKEN[127]: 0.0009966    1 number
+	number WORD[127,   1]: 0.0009966 演し物
+TOKEN[128]: 0.0009952    1 country
+	country WORD[128,   1]: 0.0009952 公演
+TOKEN[129]: 0.0009824    1 effect
+	effect WORD[129,   1]: 0.0009824 演出
+TOKEN[130]: 0.0009818    1 event
+	event WORD[130,   1]: 0.0009818 演出
+TOKEN[131]: 0.0009105    1 military
+	military WORD[131,   1]: 0.0009105 演習
+TOKEN[132]: 0.0008988    1 public
+	public WORD[132,   1]: 0.0008988 公演
+TOKEN[133]: 0.0008929    1 end
+	end WORD[133,   1]: 0.0008929 終演
+TOKEN[134]: 0.0007205    1 make
+	make WORD[134,   1]: 0.0007205 演じる
+TOKEN[135]: 0.0006616    1 something
+	something WORD[135,   1]: 0.0006616 演じる
+TOKEN[136]: 0.0006427    1 Japanese
+	Japanese WORD[136,   1]: 0.0006427 演歌

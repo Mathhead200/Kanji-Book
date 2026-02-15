@@ -1,0 +1,601 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2414275   22 winter         : 寒雨, 寒鴉, 寒昴, 寒雀, 寒食, 寒松, 寒雷, 残寒, 寒雲, 寒暑, ...
+0.2333894   50 cold           : 寒雨, 寒鰤, 朝寒, 秋寒, 寒害, 寒夜, 酷寒, 寒雷, 寒極, 残寒, ...
+0.1976683    1 rain           : 寒雨
+0.0150593    5 midwinter      : 寒鮒, 寒雲, 寒水, 寒, 極寒
+0.0148908    2 suffering      : 苦寒, 寒苦
+0.0134544    2 bitter         : 苦寒, 酷寒
+0.0130848    3 caught         : 寒鮒, 寒鰤, 寒鯉
+0.0117801    4 year           : 苦寒, 向寒, 大寒, 寒
+0.0109164    2 carp           : 寒鮒, 寒鯉
+0.0107598    1 Pleiades       : 寒昴
+0.0105527    1 crucian        : 寒鮒
+0.0092144    3 time           : 苦寒, 大寒, 向寒
+0.0090961    1 yellowtail     : 寒鰤
+0.0088857    1 crow           : 寒鴉
+0.0081741    7 chill          : 朝寒, 秋寒, 夜寒, 悪寒, 肌寒, 寒け, 寒気
+0.0068578    1 sing           : 寒蝉
+0.0066462    6 season         : 寒鰤, 寒鯉, 梅雨寒, 寒中, 寒, 極寒
+0.0063466    2 autumn         : 寒蝉, 肌寒
+0.0058719    1 late           : 寒蝉
+0.0051741    6 weather        : 寒害, 寒天, 寒空, 梅雨寒, 春寒, 寒い
+0.0050222    1 sparrow        : 寒雀
+0.0042478    1 solstice       : 寒食
+0.0038474    1 morning        : 朝寒
+0.0037446    1 damage         : 寒害
+0.0034426    4 wintry         : 寒空, 寒々, 寒寒, 寒月
+0.0034235    2 night          : 夜寒, 寒夜
+0.0027569    3 tree           : 寒松, 寒梅, 寒桜
+0.0027389    1 pine           : 寒松
+0.0025775    1 autumnal       : 秋寒
+0.0025111    1 healing        : 寒雀
+0.0024827    3 extreme        : 寒極, 大寒, 極寒
+0.0024697    1 tasty          : 寒雀
+0.0023838    3 spring         : 残寒, 春寒, 寒明け
+0.0023438    1 day            : 寒食
+0.0023162    1 thunderstorm   : 寒雷
+0.0022918    3 air            : 秋寒, 寒け, 寒気
+0.0022248    1 frost          : 寒害
+0.0021815    1 consuming      : 寒食
+0.0021813    3 Chinese        : 寒食, 寒桜, 傷寒
+0.0020737    3 bleak          : 寒々, 寒寒, 寒々しい
+0.0020085    2 beginning      : 残寒, 寒明け
+0.0019782    1 Asarum         : 寒葵
+0.0019426    1 plum           : 寒梅
+0.0019382    1 thunder        : 寒雷
+0.0019280    3 desolate       : 寒々, 寒寒, 寒村
+0.0019006    1 touch          : 秋寒
+0.0018940    3 coldness       : 寒冷, 寒け, 寒気
+0.0018760    1 koi            : 寒鯉
+0.0018412    1 said           : 寒雀
+0.0017740    1 tradition      : 寒食
+0.0017628    1 waver          : 寒松
+0.0017407    3 solar          : 小寒, 寒露, 大寒
+0.0016537    2 species        : 寒葵, 寒桜
+0.0016086    2 heat           : 寒熱, 寒暖
+0.0015928    1 ginger         : 寒葵
+0.0015527    3 term           : 小寒, 寒露, 大寒
+0.0015507    3 intense        : 酷寒, 極寒, 厳寒
+0.0015137    1 village        : 寒村
+0.0014326    1 front          : 寒雷
+0.0014176    2 hunger         : 飢寒, 饑寒
+0.0014042    2 freezing       : 寒天, 寒剤
+0.0013990    2 landscape      : 寒々, 寒寒
+0.0013963    1 dew            : 寒露
+0.0012942    1 wild           : 寒葵
+0.0012659    1 fever          : 寒熱
+0.0012095    1 Primula        : 寒桜
+0.0012052    1 food           : 寒食
+0.0011892    1 place          : 寒極
+0.0011830    2 empty          : 寒々, 寒寒
+0.0011748    1 primrose       : 寒桜
+0.0011577    2 January        : 小寒, 大寒
+0.0011393    1 water          : 寒水
+0.0011310    2 street         : 寒々, 寒寒
+0.0011097    2 bit            : うそ寒い, 薄寒い
+0.0011015    2 shivering      : 寒け, 寒気
+0.0010470    1 region         : 寒地
+0.0010442    1 summer         : 寒暑
+0.0010200    2 room           : 寒々, 寒寒
+0.0010090    1 febrile        : 傷寒
+0.0010058    1 destitution    : 貧寒
+0.0009902    1 hot            : 寒暑
+0.0009590    1 Prunus         : 寒桜
+0.0009342    1 chilliness     : 寒冷
+0.0009130    1 typhoid        : 傷寒
+0.0009111    2 poor           : 素寒貧, 寒村
+0.0009058    1 destitute      : 素寒貧
+0.0008731    1 cherry         : 寒桜
+0.0008597    1 gelatin        : 寒天
+0.0008591    1 refrigerant    : 寒剤
+0.0008518    1 ague           : 悪寒
+0.0008121    1 marbled        : 寒竹
+0.0008033    1 alarming       : 寒心
+0.0007972    1 penniless      : 素寒貧
+0.0007937    1 person         : 寒松
+0.0007832    2 fit            : 寒け, 寒気
+0.0007821    1 deplorable     : 寒心
+0.0007675    1 frigid         : 寒帯
+0.0007492    1 rainy          : 梅雨寒
+0.0007390    1 approaching    : 向寒
+0.0007322    1 cultivar       : 寒菊
+0.0007236    1 October        : 寒露
+0.0007210    1 acute          : 傷寒
+0.0007161    1 wintering      : 避寒
+0.0007147    1 laid           : 寒卵
+0.0007041    1 manure         : 寒肥
+0.0006815    1 days           : 寒
+0.0006682    1 chrysanthemum  : 寒菊
+0.0006556    1 cool           : 梅雨寒
+0.0006517    1 spiritual      : 寒行
+0.0006331    1 exposure       : 寒晒し
+0.0006289    1 minor          : 小寒
+0.0006224    1 approach       : 向寒
+0.0006148    1 illness        : 傷寒
+0.0006133    1 warmer         : 避寒
+0.0006100    1 mixture        : 寒剤
+0.0006097    1 severe         : 酷寒
+0.0006001    1 vegetable      : 寒天
+0.0005904    1 early          : 春寒
+0.0005850    1 due            : 傷寒
+0.0005836    1 temperature    : 寒暖
+0.0005829    1 corny          : 寒い
+0.0005773    1 zone           : 寒帯
+0.0005723    1 wave           : 寒波
+0.0005630    1 moon           : 寒月
+0.0005569    1 visit          : 寒参り
+0.0005564    1 medicine       : 傷寒
+0.0005561    1 current        : 寒流
+0.0005514    1 disease        : 傷寒
+0.0005507    1 lame           : 寒い
+0.0005433    1 egg            : 寒卵
+0.0005395    1 degree         : 寒暖
+0.0005221    1 bamboo         : 寒竹
+0.0005197    1 colour         : 寒色
+0.0005163    1 traditional    : 傷寒
+0.0005119    1 color          : 寒色
+0.0005085    1 protection     : 防寒
+0.0005033    1 shrine         : 寒参り
+0.0004866    1 dreary         : 寒々しい
+0.0004829    1 uninteresting  : 寒い
+0.0004802    1 month          : 寒月
+0.0004515    1 made           : 寒餅
+0.0004293    1 resistance     : 耐寒
+0.0004198    1 dull           : 寒い
+0.0004112    1 major          : 大寒
+0.0004017    1 remote         : 寒村
+0.0003975    1 joke           : 寒い
+0.0003852    1 weak           : 寒い
+0.0003844    1 sky            : 寒空
+0.0003826    1 native         : 寒椿
+0.0003766    1 going          : 避寒
+0.0003183    1 wind           : 寒風
+0.0003110    1 plant          : 寒椿
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2414275   22 winter
+	winter WORD[ 1,   1]: 0.2063096 寒雨
+	winter WORD[ 1,   2]: 0.0071118 寒鴉
+	winter WORD[ 1,   3]: 0.0070739 寒昴
+	winter WORD[ 1,   4]: 0.0036353 寒雀
+	winter WORD[ 1,   5]: 0.0029713 寒食
+	winter WORD[ 1,   6]: 0.0025521 寒松
+	winter WORD[ 1,   7]: 0.0015428 寒雷
+	winter WORD[ 1,   8]: 0.0015382 残寒
+	winter WORD[ 1,   9]: 0.0011794 寒雲
+	winter WORD[ 1,  10]: 0.0010593 寒暑
+	winter WORD[ 1,  11]: 0.0006931 余寒
+	winter WORD[ 1,  12]: 0.0005658 向寒
+	winter WORD[ 1,  13]: 0.0005475 寒餅
+	winter WORD[ 1,  14]: 0.0005475 寒参り
+	winter WORD[ 1,  15]: 0.0005474 寒梅
+	winter WORD[ 1,  16]: 0.0005472 寒卵
+	winter WORD[ 1,  17]: 0.0005469 寒肥
+	winter WORD[ 1,  18]: 0.0005469 寒月
+	winter WORD[ 1,  19]: 0.0005468 寒行
+	winter WORD[ 1,  20]: 0.0005468 寒菊
+	winter WORD[ 1,  21]: 0.0004465 避寒
+	winter WORD[ 1,  22]: 0.0003712 寒空
+TOKEN[ 2]: 0.2333894   50 cold
+	cold WORD[ 2,   1]: 0.1882779 寒雨
+	cold WORD[ 2,   2]: 0.0059723 寒鰤
+	cold WORD[ 2,   3]: 0.0017103 朝寒
+	cold WORD[ 2,   4]: 0.0016454 秋寒
+	cold WORD[ 2,   5]: 0.0016250 寒害
+	cold WORD[ 2,   6]: 0.0016165 寒夜
+	cold WORD[ 2,   7]: 0.0015554 酷寒
+	cold WORD[ 2,   8]: 0.0014080 寒雷
+	cold WORD[ 2,   9]: 0.0014044 寒極
+	cold WORD[ 2,  10]: 0.0014038 残寒
+	cold WORD[ 2,  11]: 0.0013558 寒食
+	cold WORD[ 2,  12]: 0.0012657 夜寒
+	cold WORD[ 2,  13]: 0.0011645 寒松
+	cold WORD[ 2,  14]: 0.0011090 寒鯉
+	cold WORD[ 2,  15]: 0.0010763 寒雲
+	cold WORD[ 2,  16]: 0.0010483 寒苦
+	cold WORD[ 2,  17]: 0.0010186 寒熱
+	cold WORD[ 2,  18]: 0.0009986 寒色
+	cold WORD[ 2,  19]: 0.0009700 薄ら寒い
+	cold WORD[ 2,  20]: 0.0009667 寒暑
+	cold WORD[ 2,  21]: 0.0009590 寒地
+	cold WORD[ 2,  22]: 0.0007226 大寒
+	cold WORD[ 2,  23]: 0.0006826 寒水
+	cold WORD[ 2,  24]: 0.0006774 寒け
+	cold WORD[ 2,  25]: 0.0006774 寒気
+	cold WORD[ 2,  26]: 0.0006705 極寒
+	cold WORD[ 2,  27]: 0.0006558 冷寒
+	cold WORD[ 2,  28]: 0.0005397 小寒
+	cold WORD[ 2,  29]: 0.0005397 傷寒
+	cold WORD[ 2,  30]: 0.0005368 春寒
+	cold WORD[ 2,  31]: 0.0005007 飢寒
+	cold WORD[ 2,  32]: 0.0005007 饑寒
+	cold WORD[ 2,  33]: 0.0004997 寒露
+	cold WORD[ 2,  34]: 0.0004997 寒冷
+	cold WORD[ 2,  35]: 0.0004997 寒流
+	cold WORD[ 2,  36]: 0.0004996 寒波
+	cold WORD[ 2,  37]: 0.0004995 寒天
+	cold WORD[ 2,  38]: 0.0004994 寒中
+	cold WORD[ 2,  39]: 0.0004992 寒晒し
+	cold WORD[ 2,  40]: 0.0004868 うそ寒い
+	cold WORD[ 2,  41]: 0.0004850 薄寒い
+	cold WORD[ 2,  42]: 0.0004739 寒暖
+	cold WORD[ 2,  43]: 0.0004278 防寒
+	cold WORD[ 2,  44]: 0.0004016 肌寒い
+	cold WORD[ 2,  45]: 0.0003546 耐寒
+	cold WORD[ 2,  46]: 0.0003387 寒空
+	cold WORD[ 2,  47]: 0.0003387 寒い
+	cold WORD[ 2,  48]: 0.0003387 寒
+	cold WORD[ 2,  49]: 0.0003314 厳寒
+	cold WORD[ 2,  50]: 0.0003216 寒風
+TOKEN[ 3]: 0.1976683    1 rain
+	rain WORD[ 3,   1]: 0.1976683 寒雨
+TOKEN[ 4]: 0.0150593    5 midwinter
+	midwinter WORD[ 4,   1]: 0.0105527 寒鮒
+	midwinter WORD[ 4,   2]: 0.0017501 寒雲
+	midwinter WORD[ 4,   3]: 0.0011099 寒水
+	midwinter WORD[ 4,   4]: 0.0005507 寒
+	midwinter WORD[ 4,   5]: 0.0005452 極寒
+TOKEN[ 5]: 0.0148908    2 suffering
+	suffering WORD[ 5,   1]: 0.0135733 苦寒
+	suffering WORD[ 5,   2]: 0.0013175 寒苦
+TOKEN[ 6]: 0.0134544    2 bitter
+	bitter WORD[ 6,   1]: 0.0128381 苦寒
+	bitter WORD[ 6,   2]: 0.0006163 酷寒
+TOKEN[ 7]: 0.0130848    3 caught
+	caught WORD[ 7,   1]: 0.0080225 寒鮒
+	caught WORD[ 7,   2]: 0.0036913 寒鰤
+	caught WORD[ 7,   3]: 0.0013709 寒鯉
+TOKEN[ 8]: 0.0117801    4 year
+	year WORD[ 8,   1]: 0.0102974 苦寒
+	year WORD[ 8,   2]: 0.0004924 向寒
+	year WORD[ 8,   3]: 0.0003445 大寒
+	year WORD[ 8,   4]: 0.0003229 寒
+TOKEN[ 9]: 0.0109164    2 carp
+	carp WORD[ 9,   1]: 0.0093233 寒鮒
+	carp WORD[ 9,   2]: 0.0015931 寒鯉
+TOKEN[10]: 0.0107598    1 Pleiades
+	Pleiades WORD[10,   1]: 0.0107598 寒昴
+TOKEN[11]: 0.0105527    1 crucian
+	crucian WORD[11,   1]: 0.0105527 寒鮒
+TOKEN[12]: 0.0092144    3 time
+	time WORD[12,   1]: 0.0082661 苦寒
+	time WORD[12,   2]: 0.0005531 大寒
+	time WORD[12,   3]: 0.0003952 向寒
+TOKEN[13]: 0.0090961    1 yellowtail
+	yellowtail WORD[13,   1]: 0.0090961 寒鰤
+TOKEN[14]: 0.0088857    1 crow
+	crow WORD[14,   1]: 0.0088857 寒鴉
+TOKEN[15]: 0.0081741    7 chill
+	chill WORD[15,   1]: 0.0025095 朝寒
+	chill WORD[15,   2]: 0.0024142 秋寒
+	chill WORD[15,   3]: 0.0009285 夜寒
+	chill WORD[15,   4]: 0.0007388 悪寒
+	chill WORD[15,   5]: 0.0005892 肌寒
+	chill WORD[15,   6]: 0.0004970 寒け
+	chill WORD[15,   7]: 0.0004970 寒気
+TOKEN[16]: 0.0068578    1 sing
+	sing WORD[16,   1]: 0.0068578 寒蝉
+TOKEN[17]: 0.0066462    6 season
+	season WORD[17,   1]: 0.0032183 寒鰤
+	season WORD[17,   2]: 0.0011952 寒鯉
+	season WORD[17,   3]: 0.0006031 梅雨寒
+	season WORD[17,   4]: 0.0005383 寒中
+	season WORD[17,   5]: 0.0003650 寒
+	season WORD[17,   6]: 0.0003613 極寒
+TOKEN[18]: 0.0063466    2 autumn
+	autumn WORD[18,   1]: 0.0058965 寒蝉
+	autumn WORD[18,   2]: 0.0004501 肌寒
+TOKEN[19]: 0.0058719    1 late
+	late WORD[19,   1]: 0.0058719 寒蝉
+TOKEN[20]: 0.0051741    6 weather
+	weather WORD[20,   1]: 0.0017752 寒害
+	weather WORD[20,   2]: 0.0010913 寒天
+	weather WORD[20,   3]: 0.0007401 寒空
+	weather WORD[20,   4]: 0.0006113 梅雨寒
+	weather WORD[20,   5]: 0.0005864 春寒
+	weather WORD[20,   6]: 0.0003700 寒い
+TOKEN[21]: 0.0050222    1 sparrow
+	sparrow WORD[21,   1]: 0.0050222 寒雀
+TOKEN[22]: 0.0042478    1 solstice
+	solstice WORD[22,   1]: 0.0042478 寒食
+TOKEN[23]: 0.0038474    1 morning
+	morning WORD[23,   1]: 0.0038474 朝寒
+TOKEN[24]: 0.0037446    1 damage
+	damage WORD[24,   1]: 0.0037446 寒害
+TOKEN[25]: 0.0034426    4 wintry
+	wintry WORD[25,   1]: 0.0010455 寒空
+	wintry WORD[25,   2]: 0.0008134 寒々
+	wintry WORD[25,   3]: 0.0008134 寒寒
+	wintry WORD[25,   4]: 0.0007702 寒月
+TOKEN[26]: 0.0034235    2 night
+	night WORD[26,   1]: 0.0018491 夜寒
+	night WORD[26,   2]: 0.0015744 寒夜
+TOKEN[27]: 0.0027569    3 tree
+	tree WORD[27,   1]: 0.0011042 寒松
+	tree WORD[27,   2]: 0.0009474 寒梅
+	tree WORD[27,   3]: 0.0007053 寒桜
+TOKEN[28]: 0.0027389    1 pine
+	pine WORD[28,   1]: 0.0027389 寒松
+TOKEN[29]: 0.0025775    1 autumnal
+	autumnal WORD[29,   1]: 0.0025775 秋寒
+TOKEN[30]: 0.0025111    1 healing
+	healing WORD[30,   1]: 0.0025111 寒雀
+TOKEN[31]: 0.0024827    3 extreme
+	extreme WORD[31,   1]: 0.0016596 寒極
+	extreme WORD[31,   2]: 0.0004269 大寒
+	extreme WORD[31,   3]: 0.0003962 極寒
+TOKEN[32]: 0.0024697    1 tasty
+	tasty WORD[32,   1]: 0.0024697 寒雀
+TOKEN[33]: 0.0023838    3 spring
+	spring WORD[33,   1]: 0.0013718 残寒
+	spring WORD[33,   2]: 0.0005245 春寒
+	spring WORD[33,   3]: 0.0004875 寒明け
+TOKEN[34]: 0.0023438    1 day
+	day WORD[34,   1]: 0.0023438 寒食
+TOKEN[35]: 0.0023162    1 thunderstorm
+	thunderstorm WORD[35,   1]: 0.0023162 寒雷
+TOKEN[36]: 0.0022918    3 air
+	air WORD[36,   1]: 0.0016234 秋寒
+	air WORD[36,   2]: 0.0003342 寒け
+	air WORD[36,   3]: 0.0003342 寒気
+TOKEN[37]: 0.0022248    1 frost
+	frost WORD[37,   1]: 0.0022248 寒害
+TOKEN[38]: 0.0021815    1 consuming
+	consuming WORD[38,   1]: 0.0021815 寒食
+TOKEN[39]: 0.0021813    3 Chinese
+	Chinese WORD[39,   1]: 0.0011205 寒食
+	Chinese WORD[39,   2]: 0.0006147 寒桜
+	Chinese WORD[39,   3]: 0.0004460 傷寒
+TOKEN[40]: 0.0020737    3 bleak
+	bleak WORD[40,   1]: 0.0007847 寒々
+	bleak WORD[40,   2]: 0.0007847 寒寒
+	bleak WORD[40,   3]: 0.0005043 寒々しい
+TOKEN[41]: 0.0020085    2 beginning
+	beginning WORD[41,   1]: 0.0014819 残寒
+	beginning WORD[41,   2]: 0.0005266 寒明け
+TOKEN[42]: 0.0019782    1 Asarum
+	Asarum WORD[42,   1]: 0.0019782 寒葵
+TOKEN[43]: 0.0019426    1 plum
+	plum WORD[43,   1]: 0.0019426 寒梅
+TOKEN[44]: 0.0019382    1 thunder
+	thunder WORD[44,   1]: 0.0019382 寒雷
+TOKEN[45]: 0.0019280    3 desolate
+	desolate WORD[45,   1]: 0.0007387 寒々
+	desolate WORD[45,   2]: 0.0007387 寒寒
+	desolate WORD[45,   3]: 0.0004506 寒村
+TOKEN[46]: 0.0019006    1 touch
+	touch WORD[46,   1]: 0.0019006 秋寒
+TOKEN[47]: 0.0018940    3 coldness
+	coldness WORD[47,   1]: 0.0008040 寒冷
+	coldness WORD[47,   2]: 0.0005450 寒け
+	coldness WORD[47,   3]: 0.0005450 寒気
+TOKEN[48]: 0.0018760    1 koi
+	koi WORD[48,   1]: 0.0018760 寒鯉
+TOKEN[49]: 0.0018412    1 said
+	said WORD[49,   1]: 0.0018412 寒雀
+TOKEN[50]: 0.0017740    1 tradition
+	tradition WORD[50,   1]: 0.0017740 寒食
+TOKEN[51]: 0.0017628    1 waver
+	waver WORD[51,   1]: 0.0017628 寒松
+TOKEN[52]: 0.0017407    3 solar
+	solar WORD[52,   1]: 0.0006707 小寒
+	solar WORD[52,   2]: 0.0006210 寒露
+	solar WORD[52,   3]: 0.0004490 大寒
+TOKEN[53]: 0.0016537    2 species
+	species WORD[53,   1]: 0.0010166 寒葵
+	species WORD[53,   2]: 0.0006371 寒桜
+TOKEN[54]: 0.0016086    2 heat
+	heat WORD[54,   1]: 0.0010978 寒熱
+	heat WORD[54,   2]: 0.0005108 寒暖
+TOKEN[55]: 0.0015928    1 ginger
+	ginger WORD[55,   1]: 0.0015928 寒葵
+TOKEN[56]: 0.0015527    3 term
+	term WORD[56,   1]: 0.0005983 小寒
+	term WORD[56,   2]: 0.0005539 寒露
+	term WORD[56,   3]: 0.0004005 大寒
+TOKEN[57]: 0.0015507    3 intense
+	intense WORD[57,   1]: 0.0006784 酷寒
+	intense WORD[57,   2]: 0.0004387 極寒
+	intense WORD[57,   3]: 0.0004336 厳寒
+TOKEN[58]: 0.0015137    1 village
+	village WORD[58,   1]: 0.0015137 寒村
+TOKEN[59]: 0.0014326    1 front
+	front WORD[59,   1]: 0.0014326 寒雷
+TOKEN[60]: 0.0014176    2 hunger
+	hunger WORD[60,   1]: 0.0007088 飢寒
+	hunger WORD[60,   2]: 0.0007088 饑寒
+TOKEN[61]: 0.0014042    2 freezing
+	freezing WORD[61,   1]: 0.0007024 寒天
+	freezing WORD[61,   2]: 0.0007018 寒剤
+TOKEN[62]: 0.0013990    2 landscape
+	landscape WORD[62,   1]: 0.0006995 寒々
+	landscape WORD[62,   2]: 0.0006995 寒寒
+TOKEN[63]: 0.0013963    1 dew
+	dew WORD[63,   1]: 0.0013963 寒露
+TOKEN[64]: 0.0012942    1 wild
+	wild WORD[64,   1]: 0.0012942 寒葵
+TOKEN[65]: 0.0012659    1 fever
+	fever WORD[65,   1]: 0.0012659 寒熱
+TOKEN[66]: 0.0012095    1 Primula
+	Primula WORD[66,   1]: 0.0012095 寒桜
+TOKEN[67]: 0.0012052    1 food
+	food WORD[67,   1]: 0.0012052 寒食
+TOKEN[68]: 0.0011892    1 place
+	place WORD[68,   1]: 0.0011892 寒極
+TOKEN[69]: 0.0011830    2 empty
+	empty WORD[69,   1]: 0.0005915 寒々
+	empty WORD[69,   2]: 0.0005915 寒寒
+TOKEN[70]: 0.0011748    1 primrose
+	primrose WORD[70,   1]: 0.0011748 寒桜
+TOKEN[71]: 0.0011577    2 January
+	January WORD[71,   1]: 0.0006935 小寒
+	January WORD[71,   2]: 0.0004642 大寒
+TOKEN[72]: 0.0011393    1 water
+	water WORD[72,   1]: 0.0011393 寒水
+TOKEN[73]: 0.0011310    2 street
+	street WORD[73,   1]: 0.0005655 寒々
+	street WORD[73,   2]: 0.0005655 寒寒
+TOKEN[74]: 0.0011097    2 bit
+	bit WORD[74,   1]: 0.0005559 うそ寒い
+	bit WORD[74,   2]: 0.0005538 薄寒い
+TOKEN[75]: 0.0011015    2 shivering
+	shivering WORD[75,   1]: 0.0005508 寒け
+	shivering WORD[75,   2]: 0.0005508 寒気
+TOKEN[76]: 0.0010470    1 region
+	region WORD[76,   1]: 0.0010470 寒地
+TOKEN[77]: 0.0010442    1 summer
+	summer WORD[77,   1]: 0.0010442 寒暑
+TOKEN[78]: 0.0010200    2 room
+	room WORD[78,   1]: 0.0005100 寒々
+	room WORD[78,   2]: 0.0005100 寒寒
+TOKEN[79]: 0.0010090    1 febrile
+	febrile WORD[79,   1]: 0.0010090 傷寒
+TOKEN[80]: 0.0010058    1 destitution
+	destitution WORD[80,   1]: 0.0010058 貧寒
+TOKEN[81]: 0.0009902    1 hot
+	hot WORD[81,   1]: 0.0009902 寒暑
+TOKEN[82]: 0.0009590    1 Prunus
+	Prunus WORD[82,   1]: 0.0009590 寒桜
+TOKEN[83]: 0.0009342    1 chilliness
+	chilliness WORD[83,   1]: 0.0009342 寒冷
+TOKEN[84]: 0.0009130    1 typhoid
+	typhoid WORD[84,   1]: 0.0009130 傷寒
+TOKEN[85]: 0.0009111    2 poor
+	poor WORD[85,   1]: 0.0005693 素寒貧
+	poor WORD[85,   2]: 0.0003418 寒村
+TOKEN[86]: 0.0009058    1 destitute
+	destitute WORD[86,   1]: 0.0009058 素寒貧
+TOKEN[87]: 0.0008731    1 cherry
+	cherry WORD[87,   1]: 0.0008731 寒桜
+TOKEN[88]: 0.0008597    1 gelatin
+	gelatin WORD[88,   1]: 0.0008597 寒天
+TOKEN[89]: 0.0008591    1 refrigerant
+	refrigerant WORD[89,   1]: 0.0008591 寒剤
+TOKEN[90]: 0.0008518    1 ague
+	ague WORD[90,   1]: 0.0008518 悪寒
+TOKEN[91]: 0.0008121    1 marbled
+	marbled WORD[91,   1]: 0.0008121 寒竹
+TOKEN[92]: 0.0008033    1 alarming
+	alarming WORD[92,   1]: 0.0008033 寒心
+TOKEN[93]: 0.0007972    1 penniless
+	penniless WORD[93,   1]: 0.0007972 素寒貧
+TOKEN[94]: 0.0007937    1 person
+	person WORD[94,   1]: 0.0007937 寒松
+TOKEN[95]: 0.0007832    2 fit
+	fit WORD[95,   1]: 0.0003916 寒け
+	fit WORD[95,   2]: 0.0003916 寒気
+TOKEN[96]: 0.0007821    1 deplorable
+	deplorable WORD[96,   1]: 0.0007821 寒心
+TOKEN[97]: 0.0007675    1 frigid
+	frigid WORD[97,   1]: 0.0007675 寒帯
+TOKEN[98]: 0.0007492    1 rainy
+	rainy WORD[98,   1]: 0.0007492 梅雨寒
+TOKEN[99]: 0.0007390    1 approaching
+	approaching WORD[99,   1]: 0.0007390 向寒
+TOKEN[100]: 0.0007322    1 cultivar
+	cultivar WORD[100,   1]: 0.0007322 寒菊
+TOKEN[101]: 0.0007236    1 October
+	October WORD[101,   1]: 0.0007236 寒露
+TOKEN[102]: 0.0007210    1 acute
+	acute WORD[102,   1]: 0.0007210 傷寒
+TOKEN[103]: 0.0007161    1 wintering
+	wintering WORD[103,   1]: 0.0007161 避寒
+TOKEN[104]: 0.0007147    1 laid
+	laid WORD[104,   1]: 0.0007147 寒卵
+TOKEN[105]: 0.0007041    1 manure
+	manure WORD[105,   1]: 0.0007041 寒肥
+TOKEN[106]: 0.0006815    1 days
+	days WORD[106,   1]: 0.0003407 寒
+TOKEN[107]: 0.0006682    1 chrysanthemum
+	chrysanthemum WORD[107,   1]: 0.0006682 寒菊
+TOKEN[108]: 0.0006556    1 cool
+	cool WORD[108,   1]: 0.0006556 梅雨寒
+TOKEN[109]: 0.0006517    1 spiritual
+	spiritual WORD[109,   1]: 0.0006517 寒行
+TOKEN[110]: 0.0006331    1 exposure
+	exposure WORD[110,   1]: 0.0006331 寒晒し
+TOKEN[111]: 0.0006289    1 minor
+	minor WORD[111,   1]: 0.0006289 小寒
+TOKEN[112]: 0.0006224    1 approach
+	approach WORD[112,   1]: 0.0006224 向寒
+TOKEN[113]: 0.0006148    1 illness
+	illness WORD[113,   1]: 0.0006148 傷寒
+TOKEN[114]: 0.0006133    1 warmer
+	warmer WORD[114,   1]: 0.0006133 避寒
+TOKEN[115]: 0.0006100    1 mixture
+	mixture WORD[115,   1]: 0.0006100 寒剤
+TOKEN[116]: 0.0006097    1 severe
+	severe WORD[116,   1]: 0.0006097 酷寒
+TOKEN[117]: 0.0006001    1 vegetable
+	vegetable WORD[117,   1]: 0.0006001 寒天
+TOKEN[118]: 0.0005904    1 early
+	early WORD[118,   1]: 0.0005904 春寒
+TOKEN[119]: 0.0005850    1 due
+	due WORD[119,   1]: 0.0005850 傷寒
+TOKEN[120]: 0.0005836    1 temperature
+	temperature WORD[120,   1]: 0.0005836 寒暖
+TOKEN[121]: 0.0005829    1 corny
+	corny WORD[121,   1]: 0.0005829 寒い
+TOKEN[122]: 0.0005773    1 zone
+	zone WORD[122,   1]: 0.0005773 寒帯
+TOKEN[123]: 0.0005723    1 wave
+	wave WORD[123,   1]: 0.0005723 寒波
+TOKEN[124]: 0.0005630    1 moon
+	moon WORD[124,   1]: 0.0005630 寒月
+TOKEN[125]: 0.0005569    1 visit
+	visit WORD[125,   1]: 0.0005569 寒参り
+TOKEN[126]: 0.0005564    1 medicine
+	medicine WORD[126,   1]: 0.0005564 傷寒
+TOKEN[127]: 0.0005561    1 current
+	current WORD[127,   1]: 0.0005561 寒流
+TOKEN[128]: 0.0005514    1 disease
+	disease WORD[128,   1]: 0.0005514 傷寒
+TOKEN[129]: 0.0005507    1 lame
+	lame WORD[129,   1]: 0.0005507 寒い
+TOKEN[130]: 0.0005433    1 egg
+	egg WORD[130,   1]: 0.0005433 寒卵
+TOKEN[131]: 0.0005395    1 degree
+	degree WORD[131,   1]: 0.0005395 寒暖
+TOKEN[132]: 0.0005221    1 bamboo
+	bamboo WORD[132,   1]: 0.0005221 寒竹
+TOKEN[133]: 0.0005197    1 colour
+	colour WORD[133,   1]: 0.0005197 寒色
+TOKEN[134]: 0.0005163    1 traditional
+	traditional WORD[134,   1]: 0.0005163 傷寒
+TOKEN[135]: 0.0005119    1 color
+	color WORD[135,   1]: 0.0005119 寒色
+TOKEN[136]: 0.0005085    1 protection
+	protection WORD[136,   1]: 0.0005085 防寒
+TOKEN[137]: 0.0005033    1 shrine
+	shrine WORD[137,   1]: 0.0005033 寒参り
+TOKEN[138]: 0.0004866    1 dreary
+	dreary WORD[138,   1]: 0.0004866 寒々しい
+TOKEN[139]: 0.0004829    1 uninteresting
+	uninteresting WORD[139,   1]: 0.0004829 寒い
+TOKEN[140]: 0.0004802    1 month
+	month WORD[140,   1]: 0.0004802 寒月
+TOKEN[141]: 0.0004515    1 made
+	made WORD[141,   1]: 0.0004515 寒餅
+TOKEN[142]: 0.0004293    1 resistance
+	resistance WORD[142,   1]: 0.0004293 耐寒
+TOKEN[143]: 0.0004198    1 dull
+	dull WORD[143,   1]: 0.0004198 寒い
+TOKEN[144]: 0.0004112    1 major
+	major WORD[144,   1]: 0.0004112 大寒
+TOKEN[145]: 0.0004017    1 remote
+	remote WORD[145,   1]: 0.0004017 寒村
+TOKEN[146]: 0.0003975    1 joke
+	joke WORD[146,   1]: 0.0003975 寒い
+TOKEN[147]: 0.0003852    1 weak
+	weak WORD[147,   1]: 0.0003852 寒い
+TOKEN[148]: 0.0003844    1 sky
+	sky WORD[148,   1]: 0.0003844 寒空
+TOKEN[149]: 0.0003826    1 native
+	native WORD[149,   1]: 0.0003826 寒椿
+TOKEN[150]: 0.0003766    1 going
+	going WORD[150,   1]: 0.0003766 避寒
+TOKEN[151]: 0.0003183    1 wind
+	wind WORD[151,   1]: 0.0003183 寒風
+TOKEN[152]: 0.0003110    1 plant
+	plant WORD[152,   1]: 0.0003110 寒椿

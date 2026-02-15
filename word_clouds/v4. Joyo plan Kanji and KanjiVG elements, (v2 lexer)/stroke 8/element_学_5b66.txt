@@ -1,0 +1,1262 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2140410    1 debenture      : 学債
+0.1653348    1 bond           : 学債
+0.1510303   55 school         : 学債, 学報, 廃学, 小学, 郷学, 退学, 学びや, 夜学, 藩学, 中学, ...
+0.0232798   34 study          : 学文, 宗学, 学参, 暦学, 道学, 講学, 学協会, 座学, 学科, 学, ...
+0.0191172   25 learning       : 学文, 勧学, 講学, 座学, 学問, 洋学, 博学, 俗学, 篤学, 浅学, ...
+0.0180448   13 science        : 武学, 学文, 理学, 兵学, 実学, 軍学, 農学, 地学, 商学, 学問, ...
+0.0168986   16 academic       : 学報, 学府, 学歴, 学協会, 学的, 学界, 学会, 学風, 先学, 斯学, ...
+0.0143555    5 class          : 学活, 特学, 夜学, 見学, 学級
+0.0133950   15 university     : 廃学, 学外, 貴学, 開学, 大学, 学都, 本学, 入学, 退学, 私学, ...
+0.0126733    9 education      : 才学, 学文, 別学, 晩学, 教学, 学資, 進学, 学問, 学
+0.0117237    6 educational    : 学法, 学事, 学府, 学制, 本学, 学園
+0.0090549    1 incorporated   : 学法
+0.0084025    1 gazette        : 学報
+0.0079614    3 military       : 武学, 兵学, 軍学
+0.0077587    3 institution    : 学法, 学府, 学園
+0.0071986   12 knowledge      : 学文, 蘭学, 浅学, 雑学, 英学, 学びとる, 学び取る, 勉学, 学力, 学問, ...
+0.0066939    1 bulletin       : 学報
+0.0063015    8 scholarship    : 学文, 曲学, 学力, 学問, 学術, 学殖, 学識, 学
+0.0054591    1 defunct        : 廃学
+0.0053964    7 scholar        : 学匠, 碩学, 先学, 宿学, 後学, 学究, 学者
+0.0043614    8 student        : 学生, 同学, 学僕, 在学, 学究, 学割, 学寮, 学徒
+0.0042673    1 talent         : 才学
+0.0039474    8 college        : 全学, 学都, 転学, 大学, 進学, 私学, 在学, 学卒
+0.0037515    4 philosophy     : 道学, 理学, 心学, 哲学
+0.0036060    5 Japan          : 郷学, 学振, 洋学, 英学, 大学
+0.0032446    2 religious      : 宗学, 東学
+0.0030686    2 based          : 宋学, 気学
+0.0029528    2 discipline     : 学文, 学問
+0.0028309    1 classroom      : 座学
+0.0027818    2 society        : 学協会, 学会
+0.0026779    5 learned        : 学兄, 学僧, 学界, 学会, 学者
+0.0026659    2 branch         : 学文, 学問
+0.0025897    5 scientific     : 学理, 学界, 学会, 学名, 学識
+0.0025429    1 doctrine       : 宗学
+0.0024302    4 Chinese        : 小学, 気学, 漢学, 理学
+0.0024193    2 reference      : 学参, 後学
+0.0023364    2 dropping       : 廃学, 退学
+0.0023234    2 ancient        : 郷学, 小学
+0.0022718    4 literature     : 和学, 英学, 文学, 国学
+0.0022167    1 special        : 特学
+0.0020961    3 Confucianism   : 道学, 経学, 儒学
+0.0020434    6 one            : 廃学, 転学, 苦学, 初学, 衒学, 大学
+0.0019808    2 schoolhouse    : 学びや, 学舎
+0.0019723    2 age            : 志学, 学齢
+0.0019682    2 moral          : 道学, 心学
+0.0019656    4 subject        : 同学, 初学, 斯学, 学科
+0.0019485    3 Buddhist       : 学匠, 仏学, 心学
+0.0019147    1 philology      : 小学
+0.0018851    2 practical      : 座学, 実学
+0.0018584    1 dean           : 学監
+0.0018341    2 year           : 気学, 学年
+0.0018012    2 pursuit        : 講学, 勉学
+0.0017648    2 encouragement  : 勧学, 奨学
+0.0016930    1 needs          : 特学
+0.0016809    3 classical      : 和学, 古学, 国学
+0.0016500    1 extramural     : 学外
+0.0016243    1 astronomy      : 星学
+0.0016088    1 twelve         : 気学
+0.0015826    2 grade          : 小学, 学年
+0.0015541    1 disabled       : 特学
+0.0015481    1 unaffiliated   : 学外
+0.0015189    1 village        : 郷学
+0.0014572    3 established    : 藩学, 大学, 国学
+0.0014524    1 primary        : 小学
+0.0014286    2 physics        : 理学, 理化学
+0.0014263    3 academy        : 学会, 学園, 学院
+0.0014121    1 telling        : 気学
+0.0014020    2 tactics        : 兵学, 軍学
+0.0013947    1 book           : 学参
+0.0013656    2 training       : 座学, 大学
+0.0013652    1 elementary     : 小学
+0.0013643    2 strategy       : 兵学, 軍学
+0.0013631    1 relearn        : 学び直す
+0.0013471    1 English        : 英学
+0.0013423    1 trousers       : 学ラン
+0.0013271    2 establishment  : 開学, 本学
+0.0013221    2 uneducated     : 無学, 不学
+0.0013080    1 century        : 東学
+0.0012916    2 old            : 小学, 学閥
+0.0012766    2 erudition      : 博学, 学
+0.0012632    1 evening        : 夜学
+0.0012612    1 eight          : 小学
+0.0012456    1 jacket         : 学ラン
+0.0012022    1 principle      : 学理
+0.0011967    1 Korean         : 東学
+0.0011955    3 department     : 転学, 学科, 学部
+0.0011927    1 uniform        : 学ラン
+0.0011818    1 Zen            : 禅学
+0.0011799    2 building       : 学びや, 学舎
+0.0011687    2 culture        : 和学, 国学
+0.0011625    1 cycle          : 気学
+0.0011589    1 calendar       : 暦学
+0.0011531    1 movement       : 東学
+0.0011453    3 working        : 学僕, 苦学, 勤学
+0.0011370    2 ability        : 学力, 学才
+0.0011351    3 system         : 学制, 大学, 国学
+0.0011331    1 lecture        : 座学
+0.0011319    1 scholastic     : 学的
+0.0011288    1 desk           : 座学
+0.0011237    1 night          : 夜学
+0.0011236    1 fortune        : 気学
+0.0011199    1 Japanology     : 和学
+0.0011190    1 dentistry      : 歯学
+0.0011058    2 language       : 蘭学, 英学
+0.0010999    1 collar         : 学ラン
+0.0010999    2 chemistry      : 理化学, 化学
+0.0010983    2 Japanese       : 和学, 国学
+0.0010940    1 loose          : 学ラン
+0.0010681    1 various        : 諸学
+0.0010640    2 poetry         : 詩学, 歌学
+0.0010463    1 Buddhology     : 仏学
+0.0010431    1 foundation     : 建学
+0.0010431    2 learn          : 留学, 学ぶ
+0.0010337    3 person         : 学者, 学匠, 無学
+0.0010272    2 collect        : 学びとる, 学び取る
+0.0010091    1 town           : 学都
+0.0009917    1 bachelor       : 学士
+0.0009767    2 love           : 篤学, 好学
+0.0009681    3 course         : 退学, 学科, 学部
+0.0009597    1 traditional    : 小学
+0.0009413    1 forestry       : 林学
+0.0009245    2 gather         : 学びとる, 学び取る
+0.0009235    1 poetics        : 詩学
+0.0009227    1 schoolmate     : 同学
+0.0009204    2 period         : 蘭学, 英学
+0.0008993    1 liberal        : 学芸
+0.0008967    1 ethical        : 心学
+0.0008871    1 classmate      : 同学
+0.0008846    1 long           : 学ラン
+0.0008798    2 friend         : 学兄, 学友
+0.0008721    2 information    : 学びとる, 学び取る
+0.0008654    2 record         : 学績, 学歴
+0.0008493    1 pedantry       : 衒学
+0.0008483    1 Dutch          : 蘭学
+0.0008436    1 han            : 藩学
+0.0008289    1 name           : 学名
+0.0008232    1 Sinology       : 漢学
+0.0008150    1 dynamics       : 力学
+0.0008129    1 ethics         : 道学
+0.0008110    2 graduate       : 学卒, 学士
+0.0008012    1 Taoism         : 道学
+0.0007964    1 brush          : 学び直す
+0.0007957    1 optics         : 光学
+0.0007955    2 government     : 官学, 大学
+0.0007925    1 pharmaceutics  : 薬学
+0.0007844    1 researcher     : 学匠
+0.0007801    1 versification  : 歌学
+0.0007749    1 provincial     : 国学
+0.0007647    1 mechanics      : 力学
+0.0007618    1 renowned       : 宿学
+0.0007449    1 mater          : 学閥
+0.0007405    1 predecessor    : 先学
+0.0007373    1 blended        : 心学
+0.0007341    1 British        : 英学
+0.0007317    1 unlearned      : 不学
+0.0007168    2 degree         : 学士, 学位
+0.0007084    1 fund           : 学資
+0.0007062    1 inspector      : 視学
+0.0007008    1 jurisprudence  : 法学
+0.0007006    1 extensive      : 博学
+0.0006974    1 domain         : 藩学
+0.0006949    2 district       : 国学, 学区
+0.0006891    1 superficial    : 浅学
+0.0006886    1 Confucian      : 心学
+0.0006869    1 matriculation  : 入学
+0.0006836    1 acquire        : 英学
+0.0006708    1 clique         : 学閥
+0.0006580    1 aesthetics     : 美学
+0.0006529    1 isolation      : 英学
+0.0006527    1 illiterate     : 無学
+0.0006497    1 shallow        : 浅学
+0.0006472    1 miscellaneous  : 雑学
+0.0006373    1 pharmacy       : 薬学
+0.0006328    1 nirvana        : 無学
+0.0006300    1 achievement    : 学績
+0.0006283    1 suspension     : 停学
+0.0006275    1 fellow         : 同学
+0.0006247    1 senior         : 先学
+0.0006230    1 hereditary     : 家学
+0.0006192    1 late           : 晩学
+0.0006191    1 lesson         : 学課
+0.0006181    1 divination     : 易学
+0.0006174    1 ignorant       : 無学
+0.0006161    1 teacher        : 同学
+0.0006142    1 inferior       : 曲学
+0.0006124    2 high           : 中学, 進学
+0.0006087    1 cap            : 学帽
+0.0006068    1 theology       : 神学
+0.0006009    1 commute        : 通学
+0.0005998    1 younger        : 後学
+0.0005879    1 specific       : 留学
+0.0005855    1 popular        : 俗学
+0.0005836    1 world          : 学界
+0.0005793    1 Shinto         : 心学
+0.0005792    1 Edo            : 蘭学
+0.0005780    1 register       : 学籍
+0.0005772    1 enrollment     : 入学
+0.0005772    1 enrolment      : 入学
+0.0005658    1 binomial       : 学名
+0.0005658    1 undergraduate  : 学部
+0.0005658    1 provost        : 学長
+0.0005658    1 tutorial       : 学習
+0.0005624    1 display        : 衒学
+0.0005619    1 center         : 学府
+0.0005582    1 practice       : 禅学
+0.0005563    1 graphics       : 図学
+0.0005459    1 past           : 先学
+0.0005425    1 virtue         : 学徳
+0.0005364    1 epidemiology   : 疫学
+0.0005362    1 depth          : 学ぶ
+0.0005354    1 coeducation    : 共学
+0.0005349    1 tie            : 学閥
+0.0005320    1 future         : 後学
+0.0005318    1 divinity       : 神学
+0.0005309    1 semester       : 学期
+0.0005308    1 hostel         : 学寮
+0.0005308    1 cafeteria      : 学食
+0.0005308    1 classwork      : 学業
+0.0005294    1 commuting      : 通学
+0.0005234    1 Buddhism       : 学匠
+0.0005219    1 agriculture    : 農学
+0.0005209    1 transferring   : 転学
+0.0005188    1 physical       : 理学
+0.0005165    1 linguistics    : 語学
+0.0005142    1 whole          : 全学
+0.0005129    1 mathematics    : 数学
+0.0005112    1 enrolled       : 在学
+0.0005104    1 tuition        : 学費
+0.0005104    1 scientist      : 学者
+0.0005103    1 schoolwork     : 学業
+0.0005103    1 campus         : 学園
+0.0005025    1 first          : 初学
+0.0005008    1 Shang          : 国学
+0.0004994    1 purge          : 粛学
+0.0004977    1 admission      : 入学
+0.0004972    1 priest         : 学僧
+0.0004823    1 advancing      : 進学
+0.0004819    1 start          : 初学
+0.0004789    1 skill          : 留学
+0.0004772    1 mind           : 心学
+0.0004754    1 chancellor     : 学長
+0.0004722    1 natural        : 理学
+0.0004713    1 secondary      : 中学
+0.0004694    1 expulsion      : 退学
+0.0004683    1 earning        : 苦学
+0.0004676    1 Latin          : 学名
+0.0004586    1 engineering    : 工学
+0.0004569    1 adversity      : 苦学
+0.0004534    1 junior         : 中学
+0.0004498    1 publisher      : 学研
+0.0004496    1 institute      : 学院
+0.0004460    1 commercial     : 商学
+0.0004457    1 temple         : 学匠
+0.0004403    1 dismissal      : 退学
+0.0004364    1 factory        : 学寮
+0.0004240    1 economic       : 苦学
+0.0004229    1 dormitory      : 学寮
+0.0004228    1 law            : 法学
+0.0004200    1 president      : 学長
+0.0004142    1 entrance       : 入学
+0.0004122    1 return         : 復学
+0.0004088    1 end            : 英学
+0.0004066    1 teaching       : 自学
+0.0004006    1 review         : 見学
+0.0003996    1 discount       : 学割
+0.0003988    1 withdrawal     : 退学
+0.0003970    1 time           : 初学
+0.0003960    1 conference     : 学会
+0.0003959    1 pupil          : 学童
+0.0003956    1 work           : 学課
+0.0003946    1 great          : 碩学
+0.0003911    1 absence        : 休学
+0.0003910    1 follower       : 学徒
+0.0003907    1 observation    : 見学
+0.0003881    1 tour           : 見学
+0.0003826    1 attendance     : 就学
+0.0003821    1 harsh          : 苦学
+0.0003785    1 sect           : 学派
+0.0003750    1 earth          : 地学
+0.0003695    1 background     : 学歴
+0.0003695    1 program        : 学部
+0.0003692    1 lower          : 中学
+0.0003675    1 principal      : 学長
+0.0003667    1 entering       : 就学
+0.0003655    1 inspection     : 見学
+0.0003634    1 oneself        : 自学
+0.0003619    1 literary       : 学力
+0.0003584    1 theory         : 学説
+0.0003567    1 middle         : 中学
+0.0003547    1 trip           : 見学
+0.0003535    1 history        : 史学
+0.0003495    1 foreign        : 語学
+0.0003457    1 temporary      : 休学
+0.0003454    1 reputation     : 学名
+0.0003452    1 sitting        : 見学
+0.0003436    1 capital        : 国学
+0.0003431    1 next           : 進学
+0.0003414    1 leaving        : 退学
+0.0003395    1 stage          : 進学
+0.0003356    1 festival       : 学祭
+0.0003343    1 former         : 大学
+0.0003311    1 imperial       : 大学
+0.0003298    1 private        : 私学
+0.0003297    1 medical        : 医学
+0.0003274    1 take           : 学ぶ
+0.0003273    1 method         : 学風
+0.0003269    1 thought        : 学風
+0.0003181    1 term           : 学期
+0.0003162    1 different      : 兼学
+0.0003051    1 field          : 見学
+0.0003042    1 meeting        : 学会
+0.0002950    1 area           : 学区
+0.0002945    1 two            : 兼学
+0.0002883    1 child          : 学童
+0.0002871    1 species        : 学名
+0.0002862    1 medicine       : 医学
+0.0002833    1 going          : 進学
+0.0002610    1 way            : 苦学
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2140410    1 debenture
+	debenture WORD[ 1,   1]: 0.2140410 学債
+TOKEN[ 2]: 0.1653348    1 bond
+	bond WORD[ 2,   1]: 0.1653348 学債
+TOKEN[ 3]: 0.1510303   55 school
+	school WORD[ 3,   1]: 0.1134891 学債
+	school WORD[ 3,   2]: 0.0042835 学報
+	school WORD[ 3,   3]: 0.0039166 廃学
+	school WORD[ 3,   4]: 0.0036631 小学
+	school WORD[ 3,   5]: 0.0012007 郷学
+	school WORD[ 3,   6]: 0.0011928 退学
+	school WORD[ 3,   7]: 0.0010796 学びや
+	school WORD[ 3,   8]: 0.0010471 夜学
+	school WORD[ 3,   9]: 0.0009906 藩学
+	school WORD[ 3,  10]: 0.0009170 中学
+	school WORD[ 3,  11]: 0.0008118 学年
+	school WORD[ 3,  12]: 0.0008078 学ラン
+	school WORD[ 3,  13]: 0.0007911 建学
+	school WORD[ 3,  14]: 0.0007892 学外
+	school WORD[ 3,  15]: 0.0006127 通学
+	school WORD[ 3,  16]: 0.0005778 就学
+	school WORD[ 3,  17]: 0.0005593 国学
+	school WORD[ 3,  18]: 0.0005499 苦学
+	school WORD[ 3,  19]: 0.0005414 学区
+	school WORD[ 3,  20]: 0.0005412 学舎
+	school WORD[ 3,  21]: 0.0004775 停学
+	school WORD[ 3,  22]: 0.0004704 同学
+	school WORD[ 3,  23]: 0.0004417 視学
+	school WORD[ 3,  24]: 0.0004197 官学
+	school WORD[ 3,  25]: 0.0004173 学課
+	school WORD[ 3,  26]: 0.0004160 学齢
+	school WORD[ 3,  27]: 0.0004160 学務
+	school WORD[ 3,  28]: 0.0004160 学帽
+	school WORD[ 3,  29]: 0.0004160 学閥
+	school WORD[ 3,  30]: 0.0004159 学則
+	school WORD[ 3,  31]: 0.0004159 学窓
+	school WORD[ 3,  32]: 0.0004159 学籍
+	school WORD[ 3,  33]: 0.0004159 学績
+	school WORD[ 3,  34]: 0.0004159 学制
+	school WORD[ 3,  35]: 0.0004159 学資
+	school WORD[ 3,  36]: 0.0003903 留学
+	school WORD[ 3,  37]: 0.0003508 復学
+	school WORD[ 3,  38]: 0.0003286 入学
+	school WORD[ 3,  39]: 0.0002902 進学
+	school WORD[ 3,  40]: 0.0002890 粛学
+	school WORD[ 3,  41]: 0.0002860 私学
+	school WORD[ 3,  42]: 0.0002855 在学
+	school WORD[ 3,  43]: 0.0002728 休学
+	school WORD[ 3,  44]: 0.0002707 学校
+	school WORD[ 3,  45]: 0.0002707 学級
+	school WORD[ 3,  46]: 0.0002707 学期
+	school WORD[ 3,  47]: 0.0002706 学友
+	school WORD[ 3,  48]: 0.0002706 学風
+	school WORD[ 3,  49]: 0.0002706 学費
+	school WORD[ 3,  50]: 0.0002706 学派
+	school WORD[ 3,  51]: 0.0002706 学内
+	school WORD[ 3,  52]: 0.0002706 学童
+	school WORD[ 3,  53]: 0.0002706 学食
+	school WORD[ 3,  54]: 0.0002706 学祭
+	school WORD[ 3,  55]: 0.0002706 学園
+TOKEN[ 4]: 0.0232798   34 study
+	study WORD[ 4,   1]: 0.0022782 学文
+	study WORD[ 4,   2]: 0.0020392 宗学
+	study WORD[ 4,   3]: 0.0016502 学参
+	study WORD[ 4,   4]: 0.0011712 暦学
+	study WORD[ 4,   5]: 0.0011365 道学
+	study WORD[ 4,   6]: 0.0009798 講学
+	study WORD[ 4,   7]: 0.0009558 学協会
+	study WORD[ 4,   8]: 0.0009548 座学
+	study WORD[ 4,   9]: 0.0006539 学科
+	study WORD[ 4,  10]: 0.0006538 学
+	study WORD[ 4,  11]: 0.0006471 和学
+	study WORD[ 4,  12]: 0.0006461 蘭学
+	study WORD[ 4,  13]: 0.0006324 夜学
+	study WORD[ 4,  14]: 0.0005764 俗学
+	study WORD[ 4,  15]: 0.0005522 心学
+	study WORD[ 4,  16]: 0.0005421 初学
+	study WORD[ 4,  17]: 0.0005336 詩学
+	study WORD[ 4,  18]: 0.0005248 易学
+	study WORD[ 4,  19]: 0.0005207 英学
+	study WORD[ 4,  20]: 0.0005069 漢学
+	study WORD[ 4,  21]: 0.0004579 薬学
+	study WORD[ 4,  22]: 0.0004408 学ぶ
+	study WORD[ 4,  23]: 0.0004407 学び
+	study WORD[ 4,  24]: 0.0004313 勉学
+	study WORD[ 4,  25]: 0.0003494 奨学
+	study WORD[ 4,  26]: 0.0003455 史学
+	study WORD[ 4,  27]: 0.0003405 語学
+	study WORD[ 4,  28]: 0.0003378 国学
+	study WORD[ 4,  29]: 0.0003363 見学
+	study WORD[ 4,  30]: 0.0003363 研学
+	study WORD[ 4,  31]: 0.0003269 学問
+	study WORD[ 4,  32]: 0.0003269 学風
+	study WORD[ 4,  33]: 0.0003269 学習
+	study WORD[ 4,  34]: 0.0003269 学修
+TOKEN[ 5]: 0.0191172   25 learning
+	learning WORD[ 5,   1]: 0.0049846 学文
+	learning WORD[ 5,   2]: 0.0013011 勧学
+	learning WORD[ 5,   3]: 0.0010719 講学
+	learning WORD[ 5,   4]: 0.0010446 座学
+	learning WORD[ 5,   5]: 0.0007153 学問
+	learning WORD[ 5,   6]: 0.0007020 洋学
+	learning WORD[ 5,   7]: 0.0006459 博学
+	learning WORD[ 5,   8]: 0.0006306 俗学
+	learning WORD[ 5,   9]: 0.0006235 篤学
+	learning WORD[ 5,  10]: 0.0006012 浅学
+	learning WORD[ 5,  11]: 0.0005930 初学
+	learning WORD[ 5,  12]: 0.0005738 好学
+	learning WORD[ 5,  13]: 0.0005722 衒学
+	learning WORD[ 5,  14]: 0.0005675 教学
+	learning WORD[ 5,  15]: 0.0005497 学徳
+	learning WORD[ 5,  16]: 0.0005466 家学
+	learning WORD[ 5,  17]: 0.0004821 学び
+	learning WORD[ 5,  18]: 0.0003842 自学
+	learning WORD[ 5,  19]: 0.0003818 修学
+	learning WORD[ 5,  20]: 0.0003576 学術
+	learning WORD[ 5,  21]: 0.0003576 学殖
+	learning WORD[ 5,  22]: 0.0003576 学習
+	learning WORD[ 5,  23]: 0.0003576 学修
+	learning WORD[ 5,  24]: 0.0003576 学者
+	learning WORD[ 5,  25]: 0.0003576 学
+TOKEN[ 6]: 0.0180448   13 science
+	science WORD[ 6,   1]: 0.0090383 武学
+	science WORD[ 6,   2]: 0.0028116 学文
+	science WORD[ 6,   3]: 0.0011623 理学
+	science WORD[ 6,   4]: 0.0007618 兵学
+	science WORD[ 6,   5]: 0.0006771 実学
+	science WORD[ 6,   6]: 0.0006402 軍学
+	science WORD[ 6,   7]: 0.0004944 農学
+	science WORD[ 6,   8]: 0.0004550 地学
+	science WORD[ 6,   9]: 0.0004312 商学
+	science WORD[ 6,  10]: 0.0004034 学問
+	science WORD[ 6,  11]: 0.0004034 学術
+	science WORD[ 6,  12]: 0.0003942 科学
+	science WORD[ 6,  13]: 0.0003720 医学
+TOKEN[ 7]: 0.0168986   16 academic
+	academic WORD[ 7,   1]: 0.0062675 学報
+	academic WORD[ 7,   2]: 0.0012174 学府
+	academic WORD[ 7,   3]: 0.0011879 学歴
+	academic WORD[ 7,   4]: 0.0011576 学協会
+	academic WORD[ 7,   5]: 0.0007921 学的
+	academic WORD[ 7,   6]: 0.0007921 学界
+	academic WORD[ 7,   7]: 0.0007921 学会
+	academic WORD[ 7,   8]: 0.0007919 学風
+	academic WORD[ 7,   9]: 0.0006656 先学
+	academic WORD[ 7,  10]: 0.0006463 斯学
+	academic WORD[ 7,  11]: 0.0006085 学才
+	academic WORD[ 7,  12]: 0.0003960 学名
+	academic WORD[ 7,  13]: 0.0003959 学年
+	academic WORD[ 7,  14]: 0.0003959 学術
+	academic WORD[ 7,  15]: 0.0003959 学者
+	academic WORD[ 7,  16]: 0.0003959 学位
+TOKEN[ 8]: 0.0143555    5 class
+	class WORD[ 8,   1]: 0.0107659 学活
+	class WORD[ 8,   2]: 0.0022903 特学
+	class WORD[ 8,   3]: 0.0006342 夜学
+	class WORD[ 8,   4]: 0.0003372 見学
+	class WORD[ 8,   5]: 0.0003279 学級
+TOKEN[ 9]: 0.0133950   15 university
+	university WORD[ 9,   1]: 0.0035269 廃学
+	university WORD[ 9,   2]: 0.0021320 学外
+	university WORD[ 9,   3]: 0.0015968 貴学
+	university WORD[ 9,   4]: 0.0008449 開学
+	university WORD[ 9,   5]: 0.0008208 大学
+	university WORD[ 9,   6]: 0.0005618 学都
+	university WORD[ 9,   7]: 0.0004857 本学
+	university WORD[ 9,   8]: 0.0004438 入学
+	university WORD[ 9,   9]: 0.0004028 退学
+	university WORD[ 9,  10]: 0.0003863 私学
+	university WORD[ 9,  11]: 0.0003656 学科
+	university WORD[ 9,  12]: 0.0003655 学部
+	university WORD[ 9,  13]: 0.0003655 学長
+	university WORD[ 9,  14]: 0.0003655 学生
+	university WORD[ 9,  15]: 0.0003655 学士
+TOKEN[10]: 0.0126733    9 education
+	education WORD[10,   1]: 0.0048717 才学
+	education WORD[10,   2]: 0.0027140 学文
+	education WORD[10,   3]: 0.0019618 別学
+	education WORD[10,   4]: 0.0007128 晩学
+	education WORD[10,   5]: 0.0006180 教学
+	education WORD[10,   6]: 0.0005985 学資
+	education WORD[10,   7]: 0.0004177 進学
+	education WORD[10,   8]: 0.0003894 学問
+	education WORD[10,   9]: 0.0003894 学
+TOKEN[11]: 0.0117237    6 educational
+	educational WORD[11,   1]: 0.0078621 学法
+	educational WORD[11,   2]: 0.0013714 学事
+	educational WORD[11,   3]: 0.0007085 学府
+	educational WORD[11,   4]: 0.0007084 学制
+	educational WORD[11,   5]: 0.0006124 本学
+	educational WORD[11,   6]: 0.0004609 学園
+TOKEN[12]: 0.0090549    1 incorporated
+	incorporated WORD[12,   1]: 0.0090549 学法
+TOKEN[13]: 0.0084025    1 gazette
+	gazette WORD[13,   1]: 0.0084025 学報
+TOKEN[14]: 0.0079614    3 military
+	military WORD[14,   1]: 0.0068923 武学
+	military WORD[14,   2]: 0.0005809 兵学
+	military WORD[14,   3]: 0.0004882 軍学
+TOKEN[15]: 0.0077587    3 institution
+	institution WORD[15,   1]: 0.0067541 学法
+	institution WORD[15,   2]: 0.0006087 学府
+	institution WORD[15,   3]: 0.0003959 学園
+TOKEN[16]: 0.0071986   12 knowledge
+	knowledge WORD[16,   1]: 0.0022940 学文
+	knowledge WORD[16,   2]: 0.0006506 蘭学
+	knowledge WORD[16,   3]: 0.0005534 浅学
+	knowledge WORD[16,   4]: 0.0005380 雑学
+	knowledge WORD[16,   5]: 0.0005243 英学
+	knowledge WORD[16,   6]: 0.0004437 学びとる
+	knowledge WORD[16,   7]: 0.0004437 学び取る
+	knowledge WORD[16,   8]: 0.0004343 勉学
+	knowledge WORD[16,   9]: 0.0003292 学力
+	knowledge WORD[16,  10]: 0.0003292 学問
+	knowledge WORD[16,  11]: 0.0003292 学殖
+	knowledge WORD[16,  12]: 0.0003291 学
+TOKEN[17]: 0.0066939    1 bulletin
+	bulletin WORD[17,   1]: 0.0066939 学報
+TOKEN[18]: 0.0063015    8 scholarship
+	scholarship WORD[18,   1]: 0.0030154 学文
+	scholarship WORD[18,   2]: 0.0006901 曲学
+	scholarship WORD[18,   3]: 0.0004327 学力
+	scholarship WORD[18,   4]: 0.0004327 学問
+	scholarship WORD[18,   5]: 0.0004327 学術
+	scholarship WORD[18,   6]: 0.0004327 学殖
+	scholarship WORD[18,   7]: 0.0004327 学識
+	scholarship WORD[18,   8]: 0.0004326 学
+TOKEN[19]: 0.0054591    1 defunct
+	defunct WORD[19,   1]: 0.0054591 廃学
+TOKEN[20]: 0.0053964    7 scholar
+	scholar WORD[20,   1]: 0.0012827 学匠
+	scholar WORD[20,   2]: 0.0012183 碩学
+	scholar WORD[20,   3]: 0.0007015 先学
+	scholar WORD[20,   4]: 0.0006897 宿学
+	scholar WORD[20,   5]: 0.0006696 後学
+	scholar WORD[20,   6]: 0.0004174 学究
+	scholar WORD[20,   7]: 0.0004173 学者
+TOKEN[21]: 0.0043614    8 student
+	student WORD[21,   1]: 0.0007074 学生
+	student WORD[21,   2]: 0.0006148 同学
+	student WORD[21,   3]: 0.0005438 学僕
+	student WORD[21,   4]: 0.0003731 在学
+	student WORD[21,   5]: 0.0003538 学究
+	student WORD[21,   6]: 0.0003537 学割
+	student WORD[21,   7]: 0.0003537 学寮
+	student WORD[21,   8]: 0.0003537 学徒
+TOKEN[22]: 0.0042673    1 talent
+	talent WORD[22,   1]: 0.0042673 才学
+TOKEN[23]: 0.0039474    8 college
+	college WORD[23,   1]: 0.0006853 全学
+	college WORD[23,   2]: 0.0006266 学都
+	college WORD[23,   3]: 0.0004722 転学
+	college WORD[23,   4]: 0.0004577 大学
+	college WORD[23,   5]: 0.0004372 進学
+	college WORD[23,   6]: 0.0004308 私学
+	college WORD[23,   7]: 0.0004300 在学
+	college WORD[23,   8]: 0.0004076 学卒
+TOKEN[24]: 0.0037515    4 philosophy
+	philosophy WORD[24,   1]: 0.0014171 道学
+	philosophy WORD[24,   2]: 0.0011744 理学
+	philosophy WORD[24,   3]: 0.0006886 心学
+	philosophy WORD[24,   4]: 0.0004713 哲学
+TOKEN[25]: 0.0036060    5 Japan
+	Japan WORD[25,   1]: 0.0012551 郷学
+	Japan WORD[25,   2]: 0.0010276 学振
+	Japan WORD[25,   3]: 0.0005552 洋学
+	Japan WORD[25,   4]: 0.0004505 英学
+	Japan WORD[25,   5]: 0.0003176 大学
+TOKEN[26]: 0.0032446    2 religious
+	religious WORD[26,   1]: 0.0021279 宗学
+	religious WORD[26,   2]: 0.0011167 東学
+TOKEN[27]: 0.0030686    2 based
+	based WORD[27,   1]: 0.0018584 宋学
+	based WORD[27,   2]: 0.0012102 気学
+TOKEN[28]: 0.0029528    2 discipline
+	discipline WORD[28,   1]: 0.0025823 学文
+	discipline WORD[28,   2]: 0.0003705 学問
+TOKEN[29]: 0.0028309    1 classroom
+	classroom WORD[29,   1]: 0.0028309 座学
+TOKEN[30]: 0.0027818    2 society
+	society WORD[30,   1]: 0.0020728 学協会
+	society WORD[30,   2]: 0.0007091 学会
+TOKEN[31]: 0.0026779    5 learned
+	learned WORD[31,   1]: 0.0006794 学兄
+	learned WORD[31,   2]: 0.0006770 学僧
+	learned WORD[31,   3]: 0.0004406 学界
+	learned WORD[31,   4]: 0.0004406 学会
+	learned WORD[31,   5]: 0.0004404 学者
+TOKEN[32]: 0.0026659    2 branch
+	branch WORD[32,   1]: 0.0023314 学文
+	branch WORD[32,   2]: 0.0003345 学問
+TOKEN[33]: 0.0025897    5 scientific
+	scientific WORD[33,   1]: 0.0007189 学理
+	scientific WORD[33,   2]: 0.0004677 学界
+	scientific WORD[33,   3]: 0.0004677 学会
+	scientific WORD[33,   4]: 0.0004676 学名
+	scientific WORD[33,   5]: 0.0004676 学識
+TOKEN[34]: 0.0025429    1 doctrine
+	doctrine WORD[34,   1]: 0.0025429 宗学
+TOKEN[35]: 0.0024302    4 Chinese
+	Chinese WORD[35,   1]: 0.0008427 小学
+	Chinese WORD[35,   2]: 0.0008427 気学
+	Chinese WORD[35,   3]: 0.0003862 漢学
+	Chinese WORD[35,   4]: 0.0003587 理学
+TOKEN[36]: 0.0024193    2 reference
+	reference WORD[36,   1]: 0.0018358 学参
+	reference WORD[36,   2]: 0.0005835 後学
+TOKEN[37]: 0.0023364    2 dropping
+	dropping WORD[37,   1]: 0.0019019 廃学
+	dropping WORD[37,   2]: 0.0004344 退学
+TOKEN[38]: 0.0023234    2 ancient
+	ancient WORD[38,   1]: 0.0013181 郷学
+	ancient WORD[38,   2]: 0.0010053 小学
+TOKEN[39]: 0.0022718    4 literature
+	literature WORD[39,   1]: 0.0007594 和学
+	literature WORD[39,   2]: 0.0006111 英学
+	literature WORD[39,   3]: 0.0005048 文学
+	literature WORD[39,   4]: 0.0003965 国学
+TOKEN[40]: 0.0022167    1 special
+	special WORD[40,   1]: 0.0022167 特学
+TOKEN[41]: 0.0020961    3 Confucianism
+	Confucianism WORD[41,   1]: 0.0007586 道学
+	Confucianism WORD[41,   2]: 0.0006939 経学
+	Confucianism WORD[41,   3]: 0.0006437 儒学
+TOKEN[42]: 0.0020434    6 one
+	one WORD[42,   1]: 0.0007273 廃学
+	one WORD[42,   2]: 0.0003493 転学
+	one WORD[42,   3]: 0.0003064 苦学
+	one WORD[42,   4]: 0.0002500 初学
+	one WORD[42,   5]: 0.0002412 衒学
+	one WORD[42,   6]: 0.0001693 大学
+TOKEN[43]: 0.0019808    2 schoolhouse
+	schoolhouse WORD[43,   1]: 0.0009891 学びや
+	schoolhouse WORD[43,   2]: 0.0004958 学舎
+TOKEN[44]: 0.0019723    2 age
+	age WORD[44,   1]: 0.0015089 志学
+	age WORD[44,   2]: 0.0004634 学齢
+TOKEN[45]: 0.0019682    2 moral
+	moral WORD[45,   1]: 0.0013245 道学
+	moral WORD[45,   2]: 0.0006436 心学
+TOKEN[46]: 0.0019656    4 subject
+	subject WORD[46,   1]: 0.0005667 同学
+	subject WORD[46,   2]: 0.0005406 初学
+	subject WORD[46,   3]: 0.0005321 斯学
+	subject WORD[46,   4]: 0.0003261 学科
+TOKEN[47]: 0.0019485    3 Buddhist
+	Buddhist WORD[47,   1]: 0.0009058 学匠
+	Buddhist WORD[47,   2]: 0.0005449 仏学
+	Buddhist WORD[47,   3]: 0.0004978 心学
+TOKEN[48]: 0.0019147    1 philology
+	philology WORD[48,   1]: 0.0019147 小学
+TOKEN[49]: 0.0018851    2 practical
+	practical WORD[49,   1]: 0.0011972 座学
+	practical WORD[49,   2]: 0.0006879 実学
+TOKEN[50]: 0.0018584    1 dean
+	dean WORD[50,   1]: 0.0018584 学監
+TOKEN[51]: 0.0018341    2 year
+	year WORD[51,   1]: 0.0009722 気学
+	year WORD[51,   2]: 0.0008619 学年
+TOKEN[52]: 0.0018012    2 pursuit
+	pursuit WORD[52,   1]: 0.0012507 講学
+	pursuit WORD[52,   2]: 0.0005506 勉学
+TOKEN[53]: 0.0017648    2 encouragement
+	encouragement WORD[53,   1]: 0.0013641 勧学
+	encouragement WORD[53,   2]: 0.0004008 奨学
+TOKEN[54]: 0.0016930    1 needs
+	needs WORD[54,   1]: 0.0016930 特学
+TOKEN[55]: 0.0016809    3 classical
+	classical WORD[55,   1]: 0.0007180 和学
+	classical WORD[55,   2]: 0.0005880 古学
+	classical WORD[55,   3]: 0.0003749 国学
+TOKEN[56]: 0.0016500    1 extramural
+	extramural WORD[56,   1]: 0.0016500 学外
+TOKEN[57]: 0.0016243    1 astronomy
+	astronomy WORD[57,   1]: 0.0016243 星学
+TOKEN[58]: 0.0016088    1 twelve
+	twelve WORD[58,   1]: 0.0016088 気学
+TOKEN[59]: 0.0015826    2 grade
+	grade WORD[59,   1]: 0.0012216 小学
+	grade WORD[59,   2]: 0.0003610 学年
+TOKEN[60]: 0.0015541    1 disabled
+	disabled WORD[60,   1]: 0.0015541 特学
+TOKEN[61]: 0.0015481    1 unaffiliated
+	unaffiliated WORD[61,   1]: 0.0015481 学外
+TOKEN[62]: 0.0015189    1 village
+	village WORD[62,   1]: 0.0015189 郷学
+TOKEN[63]: 0.0014572    3 established
+	established WORD[63,   1]: 0.0006691 藩学
+	established WORD[63,   2]: 0.0004104 大学
+	established WORD[63,   3]: 0.0003777 国学
+TOKEN[64]: 0.0014524    1 primary
+	primary WORD[64,   1]: 0.0014524 小学
+TOKEN[65]: 0.0014286    2 physics
+	physics WORD[65,   1]: 0.0007143 理学
+	physics WORD[65,   2]: 0.0007143 理化学
+TOKEN[66]: 0.0014263    3 academy
+	academy WORD[66,   1]: 0.0004755 学会
+	academy WORD[66,   2]: 0.0004754 学園
+	academy WORD[66,   3]: 0.0004754 学院
+TOKEN[67]: 0.0014121    1 telling
+	telling WORD[67,   1]: 0.0014121 気学
+TOKEN[68]: 0.0014020    2 tactics
+	tactics WORD[68,   1]: 0.0007618 兵学
+	tactics WORD[68,   2]: 0.0006402 軍学
+TOKEN[69]: 0.0013947    1 book
+	book WORD[69,   1]: 0.0013947 学参
+TOKEN[70]: 0.0013656    2 training
+	training WORD[70,   1]: 0.0009864 座学
+	training WORD[70,   2]: 0.0003792 大学
+TOKEN[71]: 0.0013652    1 elementary
+	elementary WORD[71,   1]: 0.0013652 小学
+TOKEN[72]: 0.0013643    2 strategy
+	strategy WORD[72,   1]: 0.0007413 兵学
+	strategy WORD[72,   2]: 0.0006230 軍学
+TOKEN[73]: 0.0013631    1 relearn
+	relearn WORD[73,   1]: 0.0013631 学び直す
+TOKEN[74]: 0.0013471    1 English
+	English WORD[74,   1]: 0.0013471 英学
+TOKEN[75]: 0.0013423    1 trousers
+	trousers WORD[75,   1]: 0.0013423 学ラン
+TOKEN[76]: 0.0013271    2 establishment
+	establishment WORD[76,   1]: 0.0008427 開学
+	establishment WORD[76,   2]: 0.0004844 本学
+TOKEN[77]: 0.0013221    2 uneducated
+	uneducated WORD[77,   1]: 0.0006808 無学
+	uneducated WORD[77,   2]: 0.0006413 不学
+TOKEN[78]: 0.0013080    1 century
+	century WORD[78,   1]: 0.0013080 東学
+TOKEN[79]: 0.0012916    2 old
+	old WORD[79,   1]: 0.0008882 小学
+	old WORD[79,   2]: 0.0004034 学閥
+TOKEN[80]: 0.0012766    2 erudition
+	erudition WORD[80,   1]: 0.0008217 博学
+	erudition WORD[80,   2]: 0.0004549 学
+TOKEN[81]: 0.0012632    1 evening
+	evening WORD[81,   1]: 0.0012632 夜学
+TOKEN[82]: 0.0012612    1 eight
+	eight WORD[82,   1]: 0.0012612 小学
+TOKEN[83]: 0.0012456    1 jacket
+	jacket WORD[83,   1]: 0.0012456 学ラン
+TOKEN[84]: 0.0012022    1 principle
+	principle WORD[84,   1]: 0.0012022 学理
+TOKEN[85]: 0.0011967    1 Korean
+	Korean WORD[85,   1]: 0.0011967 東学
+TOKEN[86]: 0.0011955    3 department
+	department WORD[86,   1]: 0.0004385 転学
+	department WORD[86,   2]: 0.0003786 学科
+	department WORD[86,   3]: 0.0003785 学部
+TOKEN[87]: 0.0011927    1 uniform
+	uniform WORD[87,   1]: 0.0011927 学ラン
+TOKEN[88]: 0.0011818    1 Zen
+	Zen WORD[88,   1]: 0.0011818 禅学
+TOKEN[89]: 0.0011799    2 building
+	building WORD[89,   1]: 0.0005892 学びや
+	building WORD[89,   2]: 0.0002954 学舎
+TOKEN[90]: 0.0011687    2 culture
+	culture WORD[90,   1]: 0.0007679 和学
+	culture WORD[90,   2]: 0.0004009 国学
+TOKEN[91]: 0.0011625    1 cycle
+	cycle WORD[91,   1]: 0.0011625 気学
+TOKEN[92]: 0.0011589    1 calendar
+	calendar WORD[92,   1]: 0.0011589 暦学
+TOKEN[93]: 0.0011531    1 movement
+	movement WORD[93,   1]: 0.0011531 東学
+TOKEN[94]: 0.0011453    3 working
+	working WORD[94,   1]: 0.0004936 学僕
+	working WORD[94,   2]: 0.0003262 苦学
+	working WORD[94,   3]: 0.0003256 勤学
+TOKEN[95]: 0.0011370    2 ability
+	ability WORD[95,   1]: 0.0006429 学力
+	ability WORD[95,   2]: 0.0004940 学才
+TOKEN[96]: 0.0011351    3 system
+	system WORD[96,   1]: 0.0004724 学制
+	system WORD[96,   2]: 0.0003451 大学
+	system WORD[96,   3]: 0.0003176 国学
+TOKEN[97]: 0.0011331    1 lecture
+	lecture WORD[97,   1]: 0.0011331 座学
+TOKEN[98]: 0.0011319    1 scholastic
+	scholastic WORD[98,   1]: 0.0011319 学的
+TOKEN[99]: 0.0011288    1 desk
+	desk WORD[99,   1]: 0.0011288 座学
+TOKEN[100]: 0.0011237    1 night
+	night WORD[100,   1]: 0.0011237 夜学
+TOKEN[101]: 0.0011236    1 fortune
+	fortune WORD[101,   1]: 0.0011236 気学
+TOKEN[102]: 0.0011199    1 Japanology
+	Japanology WORD[102,   1]: 0.0011199 和学
+TOKEN[103]: 0.0011190    1 dentistry
+	dentistry WORD[103,   1]: 0.0011190 歯学
+TOKEN[104]: 0.0011058    2 language
+	language WORD[104,   1]: 0.0006123 蘭学
+	language WORD[104,   2]: 0.0004935 英学
+TOKEN[105]: 0.0010999    1 collar
+	collar WORD[105,   1]: 0.0010999 学ラン
+TOKEN[106]: 0.0010999    2 chemistry
+	chemistry WORD[106,   1]: 0.0006554 理化学
+	chemistry WORD[106,   2]: 0.0004445 化学
+TOKEN[107]: 0.0010983    2 Japanese
+	Japanese WORD[107,   1]: 0.0008710 和学
+	Japanese WORD[107,   2]: 0.0002274 国学
+TOKEN[108]: 0.0010940    1 loose
+	loose WORD[108,   1]: 0.0010940 学ラン
+TOKEN[109]: 0.0010681    1 various
+	various WORD[109,   1]: 0.0010681 諸学
+TOKEN[110]: 0.0010640    2 poetry
+	poetry WORD[110,   1]: 0.0005495 詩学
+	poetry WORD[110,   2]: 0.0005145 歌学
+TOKEN[111]: 0.0010463    1 Buddhology
+	Buddhology WORD[111,   1]: 0.0010463 仏学
+TOKEN[112]: 0.0010431    1 foundation
+	foundation WORD[112,   1]: 0.0010431 建学
+TOKEN[113]: 0.0010431    2 learn
+	learn WORD[113,   1]: 0.0005391 留学
+	learn WORD[113,   2]: 0.0005040 学ぶ
+TOKEN[114]: 0.0010337    3 person
+	person WORD[114,   1]: 0.0004211 学者
+	person WORD[114,   2]: 0.0003236 学匠
+	person WORD[114,   3]: 0.0002891 無学
+TOKEN[115]: 0.0010272    2 collect
+	collect WORD[115,   1]: 0.0005136 学びとる
+	collect WORD[115,   2]: 0.0005136 学び取る
+TOKEN[116]: 0.0010091    1 town
+	town WORD[116,   1]: 0.0010091 学都
+TOKEN[117]: 0.0009917    1 bachelor
+	bachelor WORD[117,   1]: 0.0009917 学士
+TOKEN[118]: 0.0009767    2 love
+	love WORD[118,   1]: 0.0005086 篤学
+	love WORD[118,   2]: 0.0004681 好学
+TOKEN[119]: 0.0009681    3 course
+	course WORD[119,   1]: 0.0003439 退学
+	course WORD[119,   2]: 0.0003121 学科
+	course WORD[119,   3]: 0.0003121 学部
+TOKEN[120]: 0.0009597    1 traditional
+	traditional WORD[120,   1]: 0.0009597 小学
+TOKEN[121]: 0.0009413    1 forestry
+	forestry WORD[121,   1]: 0.0009413 林学
+TOKEN[122]: 0.0009245    2 gather
+	gather WORD[122,   1]: 0.0004623 学びとる
+	gather WORD[122,   2]: 0.0004623 学び取る
+TOKEN[123]: 0.0009235    1 poetics
+	poetics WORD[123,   1]: 0.0009235 詩学
+TOKEN[124]: 0.0009227    1 schoolmate
+	schoolmate WORD[124,   1]: 0.0009227 同学
+TOKEN[125]: 0.0009204    2 period
+	period WORD[125,   1]: 0.0005097 蘭学
+	period WORD[125,   2]: 0.0004107 英学
+TOKEN[126]: 0.0008993    1 liberal
+	liberal WORD[126,   1]: 0.0004496 学芸
+TOKEN[127]: 0.0008967    1 ethical
+	ethical WORD[127,   1]: 0.0008967 心学
+TOKEN[128]: 0.0008871    1 classmate
+	classmate WORD[128,   1]: 0.0008871 同学
+TOKEN[129]: 0.0008846    1 long
+	long WORD[129,   1]: 0.0008846 学ラン
+TOKEN[130]: 0.0008798    2 friend
+	friend WORD[130,   1]: 0.0005338 学兄
+	friend WORD[130,   2]: 0.0003461 学友
+TOKEN[131]: 0.0008721    2 information
+	information WORD[131,   1]: 0.0004361 学びとる
+	information WORD[131,   2]: 0.0004361 学び取る
+TOKEN[132]: 0.0008654    2 record
+	record WORD[132,   1]: 0.0005243 学績
+	record WORD[132,   2]: 0.0003411 学歴
+TOKEN[133]: 0.0008493    1 pedantry
+	pedantry WORD[133,   1]: 0.0008493 衒学
+TOKEN[134]: 0.0008483    1 Dutch
+	Dutch WORD[134,   1]: 0.0008483 蘭学
+TOKEN[135]: 0.0008436    1 han
+	han WORD[135,   1]: 0.0008436 藩学
+TOKEN[136]: 0.0008289    1 name
+	name WORD[136,   1]: 0.0008289 学名
+TOKEN[137]: 0.0008232    1 Sinology
+	Sinology WORD[137,   1]: 0.0008232 漢学
+TOKEN[138]: 0.0008150    1 dynamics
+	dynamics WORD[138,   1]: 0.0008150 力学
+TOKEN[139]: 0.0008129    1 ethics
+	ethics WORD[139,   1]: 0.0008129 道学
+TOKEN[140]: 0.0008110    2 graduate
+	graduate WORD[140,   1]: 0.0004055 学卒
+	graduate WORD[140,   2]: 0.0004055 学士
+TOKEN[141]: 0.0008012    1 Taoism
+	Taoism WORD[141,   1]: 0.0008012 道学
+TOKEN[142]: 0.0007964    1 brush
+	brush WORD[142,   1]: 0.0007964 学び直す
+TOKEN[143]: 0.0007957    1 optics
+	optics WORD[143,   1]: 0.0007957 光学
+TOKEN[144]: 0.0007955    2 government
+	government WORD[144,   1]: 0.0004614 官学
+	government WORD[144,   2]: 0.0003341 大学
+TOKEN[145]: 0.0007925    1 pharmaceutics
+	pharmaceutics WORD[145,   1]: 0.0007925 薬学
+TOKEN[146]: 0.0007844    1 researcher
+	researcher WORD[146,   1]: 0.0007844 学匠
+TOKEN[147]: 0.0007801    1 versification
+	versification WORD[147,   1]: 0.0007801 歌学
+TOKEN[148]: 0.0007749    1 provincial
+	provincial WORD[148,   1]: 0.0007749 国学
+TOKEN[149]: 0.0007647    1 mechanics
+	mechanics WORD[149,   1]: 0.0007647 力学
+TOKEN[150]: 0.0007618    1 renowned
+	renowned WORD[150,   1]: 0.0007618 宿学
+TOKEN[151]: 0.0007449    1 mater
+	mater WORD[151,   1]: 0.0007449 学閥
+TOKEN[152]: 0.0007405    1 predecessor
+	predecessor WORD[152,   1]: 0.0007405 先学
+TOKEN[153]: 0.0007373    1 blended
+	blended WORD[153,   1]: 0.0007373 心学
+TOKEN[154]: 0.0007341    1 British
+	British WORD[154,   1]: 0.0007341 英学
+TOKEN[155]: 0.0007317    1 unlearned
+	unlearned WORD[155,   1]: 0.0007317 不学
+TOKEN[156]: 0.0007168    2 degree
+	degree WORD[156,   1]: 0.0003584 学士
+	degree WORD[156,   2]: 0.0003584 学位
+TOKEN[157]: 0.0007084    1 fund
+	fund WORD[157,   1]: 0.0007084 学資
+TOKEN[158]: 0.0007062    1 inspector
+	inspector WORD[158,   1]: 0.0007062 視学
+TOKEN[159]: 0.0007008    1 jurisprudence
+	jurisprudence WORD[159,   1]: 0.0007008 法学
+TOKEN[160]: 0.0007006    1 extensive
+	extensive WORD[160,   1]: 0.0007006 博学
+TOKEN[161]: 0.0006974    1 domain
+	domain WORD[161,   1]: 0.0006974 藩学
+TOKEN[162]: 0.0006949    2 district
+	district WORD[162,   1]: 0.0003531 国学
+	district WORD[162,   2]: 0.0003418 学区
+TOKEN[163]: 0.0006891    1 superficial
+	superficial WORD[163,   1]: 0.0006891 浅学
+TOKEN[164]: 0.0006886    1 Confucian
+	Confucian WORD[164,   1]: 0.0006886 心学
+TOKEN[165]: 0.0006869    1 matriculation
+	matriculation WORD[165,   1]: 0.0006869 入学
+TOKEN[166]: 0.0006836    1 acquire
+	acquire WORD[166,   1]: 0.0006836 英学
+TOKEN[167]: 0.0006708    1 clique
+	clique WORD[167,   1]: 0.0006708 学閥
+TOKEN[168]: 0.0006580    1 aesthetics
+	aesthetics WORD[168,   1]: 0.0006580 美学
+TOKEN[169]: 0.0006529    1 isolation
+	isolation WORD[169,   1]: 0.0006529 英学
+TOKEN[170]: 0.0006527    1 illiterate
+	illiterate WORD[170,   1]: 0.0006527 無学
+TOKEN[171]: 0.0006497    1 shallow
+	shallow WORD[171,   1]: 0.0006497 浅学
+TOKEN[172]: 0.0006472    1 miscellaneous
+	miscellaneous WORD[172,   1]: 0.0006472 雑学
+TOKEN[173]: 0.0006373    1 pharmacy
+	pharmacy WORD[173,   1]: 0.0006373 薬学
+TOKEN[174]: 0.0006328    1 nirvana
+	nirvana WORD[174,   1]: 0.0006328 無学
+TOKEN[175]: 0.0006300    1 achievement
+	achievement WORD[175,   1]: 0.0006300 学績
+TOKEN[176]: 0.0006283    1 suspension
+	suspension WORD[176,   1]: 0.0006283 停学
+TOKEN[177]: 0.0006275    1 fellow
+	fellow WORD[177,   1]: 0.0006275 同学
+TOKEN[178]: 0.0006247    1 senior
+	senior WORD[178,   1]: 0.0006247 先学
+TOKEN[179]: 0.0006230    1 hereditary
+	hereditary WORD[179,   1]: 0.0006230 家学
+TOKEN[180]: 0.0006192    1 late
+	late WORD[180,   1]: 0.0006192 晩学
+TOKEN[181]: 0.0006191    1 lesson
+	lesson WORD[181,   1]: 0.0006191 学課
+TOKEN[182]: 0.0006181    1 divination
+	divination WORD[182,   1]: 0.0006181 易学
+TOKEN[183]: 0.0006174    1 ignorant
+	ignorant WORD[183,   1]: 0.0006174 無学
+TOKEN[184]: 0.0006161    1 teacher
+	teacher WORD[184,   1]: 0.0006161 同学
+TOKEN[185]: 0.0006142    1 inferior
+	inferior WORD[185,   1]: 0.0006142 曲学
+TOKEN[186]: 0.0006124    2 high
+	high WORD[186,   1]: 0.0003141 中学
+	high WORD[186,   2]: 0.0002983 進学
+TOKEN[187]: 0.0006087    1 cap
+	cap WORD[187,   1]: 0.0006087 学帽
+TOKEN[188]: 0.0006068    1 theology
+	theology WORD[188,   1]: 0.0006068 神学
+TOKEN[189]: 0.0006009    1 commute
+	commute WORD[189,   1]: 0.0006009 通学
+TOKEN[190]: 0.0005998    1 younger
+	younger WORD[190,   1]: 0.0005998 後学
+TOKEN[191]: 0.0005879    1 specific
+	specific WORD[191,   1]: 0.0005879 留学
+TOKEN[192]: 0.0005855    1 popular
+	popular WORD[192,   1]: 0.0005855 俗学
+TOKEN[193]: 0.0005836    1 world
+	world WORD[193,   1]: 0.0005836 学界
+TOKEN[194]: 0.0005793    1 Shinto
+	Shinto WORD[194,   1]: 0.0005793 心学
+TOKEN[195]: 0.0005792    1 Edo
+	Edo WORD[195,   1]: 0.0005792 蘭学
+TOKEN[196]: 0.0005780    1 register
+	register WORD[196,   1]: 0.0005780 学籍
+TOKEN[197]: 0.0005772    1 enrollment
+	enrollment WORD[197,   1]: 0.0005772 入学
+TOKEN[198]: 0.0005772    1 enrolment
+	enrolment WORD[198,   1]: 0.0005772 入学
+TOKEN[199]: 0.0005658    1 binomial
+	binomial WORD[199,   1]: 0.0005658 学名
+TOKEN[200]: 0.0005658    1 undergraduate
+	undergraduate WORD[200,   1]: 0.0005658 学部
+TOKEN[201]: 0.0005658    1 provost
+	provost WORD[201,   1]: 0.0005658 学長
+TOKEN[202]: 0.0005658    1 tutorial
+	tutorial WORD[202,   1]: 0.0005658 学習
+TOKEN[203]: 0.0005624    1 display
+	display WORD[203,   1]: 0.0005624 衒学
+TOKEN[204]: 0.0005619    1 center
+	center WORD[204,   1]: 0.0005619 学府
+TOKEN[205]: 0.0005582    1 practice
+	practice WORD[205,   1]: 0.0005582 禅学
+TOKEN[206]: 0.0005563    1 graphics
+	graphics WORD[206,   1]: 0.0005563 図学
+TOKEN[207]: 0.0005459    1 past
+	past WORD[207,   1]: 0.0005459 先学
+TOKEN[208]: 0.0005425    1 virtue
+	virtue WORD[208,   1]: 0.0005425 学徳
+TOKEN[209]: 0.0005364    1 epidemiology
+	epidemiology WORD[209,   1]: 0.0005364 疫学
+TOKEN[210]: 0.0005362    1 depth
+	depth WORD[210,   1]: 0.0005362 学ぶ
+TOKEN[211]: 0.0005354    1 coeducation
+	coeducation WORD[211,   1]: 0.0005354 共学
+TOKEN[212]: 0.0005349    1 tie
+	tie WORD[212,   1]: 0.0005349 学閥
+TOKEN[213]: 0.0005320    1 future
+	future WORD[213,   1]: 0.0005320 後学
+TOKEN[214]: 0.0005318    1 divinity
+	divinity WORD[214,   1]: 0.0005318 神学
+TOKEN[215]: 0.0005309    1 semester
+	semester WORD[215,   1]: 0.0005309 学期
+TOKEN[216]: 0.0005308    1 hostel
+	hostel WORD[216,   1]: 0.0005308 学寮
+TOKEN[217]: 0.0005308    1 cafeteria
+	cafeteria WORD[217,   1]: 0.0005308 学食
+TOKEN[218]: 0.0005308    1 classwork
+	classwork WORD[218,   1]: 0.0005308 学業
+TOKEN[219]: 0.0005294    1 commuting
+	commuting WORD[219,   1]: 0.0005294 通学
+TOKEN[220]: 0.0005234    1 Buddhism
+	Buddhism WORD[220,   1]: 0.0005234 学匠
+TOKEN[221]: 0.0005219    1 agriculture
+	agriculture WORD[221,   1]: 0.0005219 農学
+TOKEN[222]: 0.0005209    1 transferring
+	transferring WORD[222,   1]: 0.0005209 転学
+TOKEN[223]: 0.0005188    1 physical
+	physical WORD[223,   1]: 0.0005188 理学
+TOKEN[224]: 0.0005165    1 linguistics
+	linguistics WORD[224,   1]: 0.0005165 語学
+TOKEN[225]: 0.0005142    1 whole
+	whole WORD[225,   1]: 0.0005142 全学
+TOKEN[226]: 0.0005129    1 mathematics
+	mathematics WORD[226,   1]: 0.0005129 数学
+TOKEN[227]: 0.0005112    1 enrolled
+	enrolled WORD[227,   1]: 0.0005112 在学
+TOKEN[228]: 0.0005104    1 tuition
+	tuition WORD[228,   1]: 0.0005104 学費
+TOKEN[229]: 0.0005104    1 scientist
+	scientist WORD[229,   1]: 0.0005104 学者
+TOKEN[230]: 0.0005103    1 schoolwork
+	schoolwork WORD[230,   1]: 0.0005103 学業
+TOKEN[231]: 0.0005103    1 campus
+	campus WORD[231,   1]: 0.0005103 学園
+TOKEN[232]: 0.0005025    1 first
+	first WORD[232,   1]: 0.0005025 初学
+TOKEN[233]: 0.0005008    1 Shang
+	Shang WORD[233,   1]: 0.0005008 国学
+TOKEN[234]: 0.0004994    1 purge
+	purge WORD[234,   1]: 0.0004994 粛学
+TOKEN[235]: 0.0004977    1 admission
+	admission WORD[235,   1]: 0.0004977 入学
+TOKEN[236]: 0.0004972    1 priest
+	priest WORD[236,   1]: 0.0004972 学僧
+TOKEN[237]: 0.0004823    1 advancing
+	advancing WORD[237,   1]: 0.0004823 進学
+TOKEN[238]: 0.0004819    1 start
+	start WORD[238,   1]: 0.0004819 初学
+TOKEN[239]: 0.0004789    1 skill
+	skill WORD[239,   1]: 0.0004789 留学
+TOKEN[240]: 0.0004772    1 mind
+	mind WORD[240,   1]: 0.0004772 心学
+TOKEN[241]: 0.0004754    1 chancellor
+	chancellor WORD[241,   1]: 0.0004754 学長
+TOKEN[242]: 0.0004722    1 natural
+	natural WORD[242,   1]: 0.0004722 理学
+TOKEN[243]: 0.0004713    1 secondary
+	secondary WORD[243,   1]: 0.0004713 中学
+TOKEN[244]: 0.0004694    1 expulsion
+	expulsion WORD[244,   1]: 0.0004694 退学
+TOKEN[245]: 0.0004683    1 earning
+	earning WORD[245,   1]: 0.0004683 苦学
+TOKEN[246]: 0.0004676    1 Latin
+	Latin WORD[246,   1]: 0.0004676 学名
+TOKEN[247]: 0.0004586    1 engineering
+	engineering WORD[247,   1]: 0.0004586 工学
+TOKEN[248]: 0.0004569    1 adversity
+	adversity WORD[248,   1]: 0.0004569 苦学
+TOKEN[249]: 0.0004534    1 junior
+	junior WORD[249,   1]: 0.0004534 中学
+TOKEN[250]: 0.0004498    1 publisher
+	publisher WORD[250,   1]: 0.0004498 学研
+TOKEN[251]: 0.0004496    1 institute
+	institute WORD[251,   1]: 0.0004496 学院
+TOKEN[252]: 0.0004460    1 commercial
+	commercial WORD[252,   1]: 0.0004460 商学
+TOKEN[253]: 0.0004457    1 temple
+	temple WORD[253,   1]: 0.0004457 学匠
+TOKEN[254]: 0.0004403    1 dismissal
+	dismissal WORD[254,   1]: 0.0004403 退学
+TOKEN[255]: 0.0004364    1 factory
+	factory WORD[255,   1]: 0.0004364 学寮
+TOKEN[256]: 0.0004240    1 economic
+	economic WORD[256,   1]: 0.0004240 苦学
+TOKEN[257]: 0.0004229    1 dormitory
+	dormitory WORD[257,   1]: 0.0004229 学寮
+TOKEN[258]: 0.0004228    1 law
+	law WORD[258,   1]: 0.0004228 法学
+TOKEN[259]: 0.0004200    1 president
+	president WORD[259,   1]: 0.0004200 学長
+TOKEN[260]: 0.0004142    1 entrance
+	entrance WORD[260,   1]: 0.0004142 入学
+TOKEN[261]: 0.0004122    1 return
+	return WORD[261,   1]: 0.0004122 復学
+TOKEN[262]: 0.0004088    1 end
+	end WORD[262,   1]: 0.0004088 英学
+TOKEN[263]: 0.0004066    1 teaching
+	teaching WORD[263,   1]: 0.0004066 自学
+TOKEN[264]: 0.0004006    1 review
+	review WORD[264,   1]: 0.0004006 見学
+TOKEN[265]: 0.0003996    1 discount
+	discount WORD[265,   1]: 0.0003996 学割
+TOKEN[266]: 0.0003988    1 withdrawal
+	withdrawal WORD[266,   1]: 0.0003988 退学
+TOKEN[267]: 0.0003970    1 time
+	time WORD[267,   1]: 0.0003970 初学
+TOKEN[268]: 0.0003960    1 conference
+	conference WORD[268,   1]: 0.0003960 学会
+TOKEN[269]: 0.0003959    1 pupil
+	pupil WORD[269,   1]: 0.0003959 学童
+TOKEN[270]: 0.0003956    1 work
+	work WORD[270,   1]: 0.0003956 学課
+TOKEN[271]: 0.0003946    1 great
+	great WORD[271,   1]: 0.0003946 碩学
+TOKEN[272]: 0.0003911    1 absence
+	absence WORD[272,   1]: 0.0003911 休学
+TOKEN[273]: 0.0003910    1 follower
+	follower WORD[273,   1]: 0.0003910 学徒
+TOKEN[274]: 0.0003907    1 observation
+	observation WORD[274,   1]: 0.0003907 見学
+TOKEN[275]: 0.0003881    1 tour
+	tour WORD[275,   1]: 0.0003881 見学
+TOKEN[276]: 0.0003826    1 attendance
+	attendance WORD[276,   1]: 0.0003826 就学
+TOKEN[277]: 0.0003821    1 harsh
+	harsh WORD[277,   1]: 0.0003821 苦学
+TOKEN[278]: 0.0003785    1 sect
+	sect WORD[278,   1]: 0.0003785 学派
+TOKEN[279]: 0.0003750    1 earth
+	earth WORD[279,   1]: 0.0003750 地学
+TOKEN[280]: 0.0003695    1 background
+	background WORD[280,   1]: 0.0003695 学歴
+TOKEN[281]: 0.0003695    1 program
+	program WORD[281,   1]: 0.0003695 学部
+TOKEN[282]: 0.0003692    1 lower
+	lower WORD[282,   1]: 0.0003692 中学
+TOKEN[283]: 0.0003675    1 principal
+	principal WORD[283,   1]: 0.0003675 学長
+TOKEN[284]: 0.0003667    1 entering
+	entering WORD[284,   1]: 0.0003667 就学
+TOKEN[285]: 0.0003655    1 inspection
+	inspection WORD[285,   1]: 0.0003655 見学
+TOKEN[286]: 0.0003634    1 oneself
+	oneself WORD[286,   1]: 0.0003634 自学
+TOKEN[287]: 0.0003619    1 literary
+	literary WORD[287,   1]: 0.0003619 学力
+TOKEN[288]: 0.0003584    1 theory
+	theory WORD[288,   1]: 0.0003584 学説
+TOKEN[289]: 0.0003567    1 middle
+	middle WORD[289,   1]: 0.0003567 中学
+TOKEN[290]: 0.0003547    1 trip
+	trip WORD[290,   1]: 0.0003547 見学
+TOKEN[291]: 0.0003535    1 history
+	history WORD[291,   1]: 0.0003535 史学
+TOKEN[292]: 0.0003495    1 foreign
+	foreign WORD[292,   1]: 0.0003495 語学
+TOKEN[293]: 0.0003457    1 temporary
+	temporary WORD[293,   1]: 0.0003457 休学
+TOKEN[294]: 0.0003454    1 reputation
+	reputation WORD[294,   1]: 0.0003454 学名
+TOKEN[295]: 0.0003452    1 sitting
+	sitting WORD[295,   1]: 0.0003452 見学
+TOKEN[296]: 0.0003436    1 capital
+	capital WORD[296,   1]: 0.0003436 国学
+TOKEN[297]: 0.0003431    1 next
+	next WORD[297,   1]: 0.0003431 進学
+TOKEN[298]: 0.0003414    1 leaving
+	leaving WORD[298,   1]: 0.0003414 退学
+TOKEN[299]: 0.0003395    1 stage
+	stage WORD[299,   1]: 0.0003395 進学
+TOKEN[300]: 0.0003356    1 festival
+	festival WORD[300,   1]: 0.0003356 学祭
+TOKEN[301]: 0.0003343    1 former
+	former WORD[301,   1]: 0.0003343 大学
+TOKEN[302]: 0.0003311    1 imperial
+	imperial WORD[302,   1]: 0.0003311 大学
+TOKEN[303]: 0.0003298    1 private
+	private WORD[303,   1]: 0.0003298 私学
+TOKEN[304]: 0.0003297    1 medical
+	medical WORD[304,   1]: 0.0003297 医学
+TOKEN[305]: 0.0003274    1 take
+	take WORD[305,   1]: 0.0003274 学ぶ
+TOKEN[306]: 0.0003273    1 method
+	method WORD[306,   1]: 0.0003273 学風
+TOKEN[307]: 0.0003269    1 thought
+	thought WORD[307,   1]: 0.0003269 学風
+TOKEN[308]: 0.0003181    1 term
+	term WORD[308,   1]: 0.0003181 学期
+TOKEN[309]: 0.0003162    1 different
+	different WORD[309,   1]: 0.0003162 兼学
+TOKEN[310]: 0.0003051    1 field
+	field WORD[310,   1]: 0.0003051 見学
+TOKEN[311]: 0.0003042    1 meeting
+	meeting WORD[311,   1]: 0.0003042 学会
+TOKEN[312]: 0.0002950    1 area
+	area WORD[312,   1]: 0.0002950 学区
+TOKEN[313]: 0.0002945    1 two
+	two WORD[313,   1]: 0.0002945 兼学
+TOKEN[314]: 0.0002883    1 child
+	child WORD[314,   1]: 0.0002883 学童
+TOKEN[315]: 0.0002871    1 species
+	species WORD[315,   1]: 0.0002871 学名
+TOKEN[316]: 0.0002862    1 medicine
+	medicine WORD[316,   1]: 0.0002862 医学
+TOKEN[317]: 0.0002833    1 going
+	going WORD[317,   1]: 0.0002833 進学
+TOKEN[318]: 0.0002610    1 way
+	way WORD[318,   1]: 0.0002610 苦学

@@ -1,0 +1,934 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1269271   42 world          : 衰世, 浮き世, 浮世, 憂世, 濁世, 来世, あの世, 彼の世, 俗世, 今世, ...
+0.0548629    1 decadent       : 衰世
+0.0531960    8 generation     : 伝世, 世々, 世世, 初世, 今世, 世代, 世, 一世
+0.0343717   21 life           : 今世, 世話, 処世, 終世, 浮き世, 浮世, 憂世, 俗世, 前世, 世路, ...
+0.0189783   11 times          : 世変, 乱世, 中世, 世柄, 上世, 世の中, 治世, 世相, 世, 時世, ...
+0.0150552    2 uncommon       : 希世, 稀世
+0.0128237    2 rare           : 希世, 稀世
+0.0121963    9 living         : 世渡り, 世過ぎ, 渡世, 在世, この世, 此の世, 浮き世, 浮世, 憂世
+0.0116709    2 epoch          : 現世, 世
+0.0115530    3 store          : 見世棚, 床見世, 見世
+0.0113472    7 public         : 世務, 世論, 世評, 世人, 慨世, 世間, 世
+0.0111581    6 age            : 末世, 時世, 世代, 世, 隔世, 一世
+0.0105805    4 existence      : 俗世, 前世, 宿世, 世
+0.0104969    7 society        : 世態, 警世, 世の中, 世相, 世間, 世界, 世
+0.0096070    4 heir           : 世嗣, 世継, 世継ぎ, 世子
+0.0096070    4 successor      : 世嗣, 世継, 世継ぎ, 世子
+0.0094801    3 eternity       : 百世, 永世, 万世
+0.0094445    2 previous       : 前世, 宿世
+0.0081950    8 one            : 終世, 顔見世, 処世, 前世, 渡世, 辞世, 宿世, 世界
+0.0080575    3 become         : 世慣れる, 世馴れる, 世離れる
+0.0074875    4 making         : 渡世, 世渡り, 顔見世, 処世
+0.0074104    4 ways           : 世慣れる, 世馴れる, 世事, 世情
+0.0070962    3 degenerate     : 末世, 濁世, 末の世
+0.0070226    5 death          : 辞世, 早世, 後世, あの世, 彼の世
+0.0069704    3 shop           : 見世棚, 夜見世, 見世
+0.0065350    2 seclusion      : 遁世, 遯世
+0.0065030    4 present        : 今世, 浮き世, 浮世, 憂世
+0.0064996    4 transient      : 仮の世, 浮き世, 浮世, 憂世
+0.0064597    3 matchless      : 絶世, 蓋世, 曠世
+0.0064009    3 reign          : 御世, 治世, 世
+0.0061715    3 wisdom         : 世才, 世智, 世知
+0.0060501    4 period         : 近世, 御世, 千世, 世
+0.0060043    3 era            : 百世, 世紀, 世
+0.0059092    2 everyday       : 世話, 俗世
+0.0058326    4 next           : 来世, 後世, あの世, 彼の世
+0.0057983    2 grille         : 張り見世, 張見世
+0.0056481    3 first          : 初世, 顔見世, 一世
+0.0055429    2 afterlife      : 来世, 後世
+0.0054093    1 shelf          : 見世棚
+0.0053276    2 sophisticated  : 世慣れる, 世馴れる
+0.0053275    1 Holocene       : 現世
+0.0053188    1 successive     : 歴世
+0.0052088    1 transmission   : 伝世
+0.0050813    2 lifetime       : 世, 一世
+0.0047443    3 fleeting       : 浮き世, 浮世, 憂世
+0.0047200    3 day            : 今世, 時世, 一世
+0.0047139    1 display        : 見世棚
+0.0046899    2 corrupt        : 末世, 濁世
+0.0046862    2 livelihood     : 世過ぎ, 渡世
+0.0045904    3 social         : 世離れる, 世態, 世相
+0.0045277    1 founder        : 初世
+0.0044981    2 peerless       : 絶世, 蓋世
+0.0043190    3 sad            : 浮き世, 浮世, 憂世
+0.0042715    3 floating       : 浮き世, 浮世, 憂世
+0.0042438    3 grief          : 浮き世, 浮世, 憂世
+0.0040791    2 stall          : 床見世, 夜見世
+0.0039354    3 worry          : 浮き世, 浮世, 憂世
+0.0038581    1 night          : 夜見世
+0.0037654    2 gumption       : 世智, 世知
+0.0037641    1 century        : 世紀
+0.0035429    3 people         : 世俗, 世人, 世間
+0.0035311    2 monastic       : 遁世, 遯世
+0.0034250    1 poem           : 辞世
+0.0033903    1 Elizabeth      : 一世
+0.0033903    1 issei          : 一世
+0.0033683    2 rule           : 治世, 世
+0.0033673    3 state          : 世態, 世相, 経世
+0.0032870    1 current        : 現世
+0.0032708    3 red            : 浮き世, 浮世, 憂世
+0.0031872    1 eternalness    : 常世
+0.0031126    1 secularity     : 世俗
+0.0030774    3 light          : 浮き世, 浮世, 憂世
+0.0030427    2 dying          : 辞世, 早世
+0.0030346    1 subsistence    : 世渡り
+0.0029891    1 common         : 世俗
+0.0029890    1 muttering      : 世迷い言
+0.0029764    2 getting        : 世渡り, 出世
+0.0028840    2 opinion        : 世評, 世論
+0.0028735    2 used           : 世慣れる, 世馴れる
+0.0028462    1 grumbling      : 世迷い言
+0.0028415    2 stingy         : 世智, 世知
+0.0027797    1 latter         : 末世
+0.0027785    1 unsurpassed    : 絶世
+0.0027439    2 popular        : 世俗, 世論
+0.0027056    1 change         : 世変
+0.0026863    2 Buddha         : 世尊, 世界
+0.0026578    1 spectacle      : 見世物
+0.0026519    1 timeserving    : 阿世
+0.0026165    1 shrewdness     : 世才
+0.0025827    1 heredity       : 世襲
+0.0025460    1 recent         : 近世
+0.0025195    1 unrivaled      : 絶世
+0.0025193    1 unchanging     : 常世
+0.0024942    1 nonsense       : 世迷い言
+0.0024797    1 heritage       : 世襲
+0.0024768    1 unequaled      : 絶世
+0.0024756    1 mundane        : 俗世
+0.0024331    2 conduct        : 処世, 経世
+0.0024087    1 heroism        : 蓋世
+0.0024064    1 prudence       : 世才
+0.0023958    1 earning        : 渡世
+0.0023955    1 antiquity      : 上世
+0.0023656    1 posterity      : 末の世
+0.0023639    1 honorific      : 世尊
+0.0023537    1 reality        : 世離れる
+0.0023482    1 mankind        : 濁世
+0.0023388    1 booth          : 床見世
+0.0023175    1 immortality    : 永世
+0.0023135    1 nowadays       : 当世
+0.0022928    1 exhibition     : 見世物
+0.0022752    1 pessimism      : 厭世
+0.0022590    1 overwhelming   : 蓋世
+0.0022534    1 weariness      : 厭世
+0.0022480    1 resolve        : 蓋世
+0.0022266    1 perpetuity     : 永世
+0.0022234    1 Kwannon        : 観世音
+0.0022177    1 showing        : 顔見世
+0.0022143    1 permanence     : 永世
+0.0021965    1 decline        : 末世
+0.0021871    2 way            : 渡世, 処世
+0.0021415    1 keeping        : 世離れる
+0.0021404    1 reformation    : 世直し
+0.0021148    1 turbulent      : 乱世
+0.0021055    1 occupation     : 渡世
+0.0020983    1 creation       : 創世
+0.0020974    1 touch          : 世離れる
+0.0020606    1 saving         : 済世
+0.0020459    1 kabuki         : 顔見世
+0.0020434    1 customs        : 世俗
+0.0020248    1 Buddhism       : 末世
+0.0020241    1 practical      : 世才
+0.0020190    1 alive          : 在世
+0.0019856    1 unparalleled   : 曠世
+0.0019729    1 distant        : 常世
+0.0019656    1 welfare        : 済世
+0.0019489    1 Korean         : 一世
+0.0019419    1 stop           : 世離れる
+0.0019419    1 performance    : 顔見世
+0.0018930    1 reputation     : 世評
+0.0018788    1 compassion     : 観世音
+0.0018475    1 days           : 末世
+0.0018035    1 trade          : 渡世
+0.0018029    1 law            : 末世
+0.0017878    1 show           : 見世物
+0.0017673    1 path           : 世路
+0.0017615    1 warning        : 警世
+0.0017590    1 simple         : 床見世
+0.0017552    1 passing        : 辞世
+0.0017541    1 ordinary       : 世俗
+0.0017525    1 final          : 辞世
+0.0017365    1 taste          : 世俗
+0.0017301    1 eminence       : 出世
+0.0017252    1 future         : 末の世
+0.0016882    1 passageway     : 仲見世
+0.0016819    1 dead           : 常世
+0.0016348    1 coming         : 末の世
+0.0016208    1 written        : 辞世
+0.0016183    1 deity          : 観世音
+0.0016180    1 course         : 慨世
+0.0016159    1 national       : 済世
+0.0016158    1 fair           : 夜見世
+0.0016076    1 consensus      : 世論
+0.0016011    1 sea            : 常世
+0.0015960    1 medieval       : 中世
+0.0015827    1 establishment  : 見世
+0.0015710    1 ancient        : 上世
+0.0015583    1 housekeeping   : 世帯
+0.0015528    1 land           : 常世
+0.0015368    1 spirit         : 蓋世
+0.0015011    1 business       : 渡世
+0.0014708    1 compliment     : 世辞
+0.0014550    1 contemporary   : 世話
+0.0014525    1 lining         : 仲見世
+0.0014464    1 imperial       : 御世
+0.0014445    1 name           : 世尊
+0.0014344    1 salvation      : 救世
+0.0014183    1 Buddhist       : 観世音
+0.0014144    1 order          : 世態
+0.0014090    1 restaurant     : 見世
+0.0013888    1 bother         : 世話
+0.0013880    1 introductory   : 顔見世
+0.0013817    1 universe       : 世界
+0.0013728    2 person         : 世智, 世知
+0.0013704    1 recommendation : 世話
+0.0013570    1 sentiment      : 世論
+0.0013433    1 peaceful       : 治世
+0.0013374    1 ladder         : 出世
+0.0013308    1 flattery       : 世辞
+0.0013125    1 introduction   : 世話
+0.0013123    1 career         : 出世
+0.0013053    1 drama          : 世話
+0.0013046    1 realm          : 世界
+0.0013011    1 climbing       : 出世
+0.0012971    1 introduce      : 顔見世
+0.0012866    1 thousand       : 千世
+0.0012777    1 debut          : 顔見世
+0.0012732    1 December       : 顔見世
+0.0012638    1 phase          : 世相
+0.0012546    1 successful     : 出世
+0.0012488    1 Shinto         : 仲見世
+0.0012487    1 promotion      : 出世
+0.0012203    1 corporate      : 出世
+0.0012186    1 aid            : 世話
+0.0012132    1 Japanese       : 一世
+0.0012005    1 assistance     : 世話
+0.0011859    1 circle         : 世界
+0.0011794    1 administration : 経世
+0.0011625    1 household      : 世帯
+0.0011600    1 success        : 出世
+0.0011498    1 perform        : 顔見世
+0.0011444    1 separation     : 隔世
+0.0011158    1 modern         : 近世
+0.0011094    1 shrine         : 仲見世
+0.0011014    1 sign           : 世相
+0.0010984    1 fight          : 世紀
+0.0010878    1 human          : 世情
+0.0010867    1 trouble        : 世話
+0.0010783    1 help           : 世話
+0.0010735    1 nature         : 世情
+0.0010682    1 looking        : 世話
+0.0010670    1 famous         : 顔見世
+0.0010614    1 space          : 世界
+0.0010438    1 care           : 世話
+0.0010375    1 past           : 近世
+0.0010347    1 voice          : 世論
+0.0010281    1 early          : 近世
+0.0009895    1 young          : 早世
+0.0009425    1 different      : 隔世
+0.0009419    1 appearance     : 顔見世
+0.0009347    1 home           : 世帯
+0.0009188    1 government     : 経世
+0.0009160    1 language       : 世話
+0.0008876    1 Edo            : 近世
+0.0008819    1 style          : 観世
+0.0008476    1 Japan          : 中世
+0.0008442    1 face           : 顔見世
+0.0008196    1 end            : 近世
+0.0008127    1 family         : 世帯
+0.0008050    1 good           : 世話
+0.0007941    1 school         : 観世
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1269271   42 world
+	world WORD[ 1,   1]: 0.0299283 衰世
+	world WORD[ 1,   2]: 0.0064718 浮き世
+	world WORD[ 1,   3]: 0.0064718 浮世
+	world WORD[ 1,   4]: 0.0064718 憂世
+	world WORD[ 1,   5]: 0.0043694 濁世
+	world WORD[ 1,   6]: 0.0034197 来世
+	world WORD[ 1,   7]: 0.0031598 あの世
+	world WORD[ 1,   8]: 0.0031598 彼の世
+	world WORD[ 1,   9]: 0.0030523 俗世
+	world WORD[ 1,  10]: 0.0025913 今世
+	world WORD[ 1,  11]: 0.0025347 世局
+	world WORD[ 1,  12]: 0.0018900 世界
+	world WORD[ 1,  13]: 0.0018878 世
+	world WORD[ 1,  14]: 0.0017954 この世
+	world WORD[ 1,  15]: 0.0017954 此の世
+	world WORD[ 1,  16]: 0.0017241 末世
+	world WORD[ 1,  17]: 0.0017095 世渡り
+	world WORD[ 1,  18]: 0.0017047 世慣れる
+	world WORD[ 1,  19]: 0.0017047 世馴れる
+	world WORD[ 1,  20]: 0.0017006 世柄
+	world WORD[ 1,  21]: 0.0015253 創世
+	world WORD[ 1,  22]: 0.0015109 渡世
+	world WORD[ 1,  23]: 0.0015100 常世
+	world WORD[ 1,  24]: 0.0014920 世路
+	world WORD[ 1,  25]: 0.0014747 世態
+	world WORD[ 1,  26]: 0.0014747 世俗
+	world WORD[ 1,  27]: 0.0014741 世人
+	world WORD[ 1,  28]: 0.0014741 世上
+	world WORD[ 1,  29]: 0.0014740 世事
+	world WORD[ 1,  30]: 0.0014639 人世
+	world WORD[ 1,  31]: 0.0014392 末の世
+	world WORD[ 1,  32]: 0.0014314 済世
+	world WORD[ 1,  33]: 0.0013865 現世
+	world WORD[ 1,  34]: 0.0013524 仮の世
+	world WORD[ 1,  35]: 0.0012360 世の中
+	world WORD[ 1,  36]: 0.0012359 世直し
+	world WORD[ 1,  37]: 0.0010303 遁世
+	world WORD[ 1,  38]: 0.0010303 遯世
+	world WORD[ 1,  39]: 0.0009455 世代
+	world WORD[ 1,  40]: 0.0009455 世情
+	world WORD[ 1,  41]: 0.0009454 世間
+	world WORD[ 1,  42]: 0.0008929 後世
+TOKEN[ 2]: 0.0548629    1 decadent
+	decadent WORD[ 2,   1]: 0.0548629 衰世
+TOKEN[ 3]: 0.0531960    8 generation
+	generation WORD[ 3,   1]: 0.0106461 伝世
+	generation WORD[ 3,   2]: 0.0074174 世々
+	generation WORD[ 3,   3]: 0.0074174 世世
+	generation WORD[ 3,   4]: 0.0039231 初世
+	generation WORD[ 3,   5]: 0.0033012 今世
+	generation WORD[ 3,   6]: 0.0012046 世代
+	generation WORD[ 3,   7]: 0.0012025 世
+	generation WORD[ 3,   8]: 0.0010232 一世
+TOKEN[ 4]: 0.0343717   21 life
+	life WORD[ 4,   1]: 0.0024363 今世
+	life WORD[ 4,   2]: 0.0017811 世話
+	life WORD[ 4,   3]: 0.0017419 処世
+	life WORD[ 4,   4]: 0.0017374 終世
+	life WORD[ 4,   5]: 0.0015212 浮き世
+	life WORD[ 4,   6]: 0.0015212 浮世
+	life WORD[ 4,   7]: 0.0015212 憂世
+	life WORD[ 4,   8]: 0.0014349 俗世
+	life WORD[ 4,   9]: 0.0014327 前世
+	life WORD[ 4,  10]: 0.0014027 世路
+	life WORD[ 4,  11]: 0.0013865 世俗
+	life WORD[ 4,  12]: 0.0013763 人世
+	life WORD[ 4,  13]: 0.0013693 濁世
+	life WORD[ 4,  14]: 0.0013035 現世
+	life WORD[ 4,  15]: 0.0012483 厭世
+	life WORD[ 4,  16]: 0.0008890 世相
+	life WORD[ 4,  17]: 0.0008874 世
+	life WORD[ 4,  18]: 0.0008691 出世
+	life WORD[ 4,  19]: 0.0008440 この世
+	life WORD[ 4,  20]: 0.0008440 此の世
+	life WORD[ 4,  21]: 0.0008395 後世
+TOKEN[ 5]: 0.0189783   11 times
+	times WORD[ 5,   1]: 0.0029417 世変
+	times WORD[ 5,   2]: 0.0027641 乱世
+	times WORD[ 5,   3]: 0.0021686 中世
+	times WORD[ 5,   4]: 0.0018862 世柄
+	times WORD[ 5,   5]: 0.0016164 上世
+	times WORD[ 5,   6]: 0.0013709 世の中
+	times WORD[ 5,   7]: 0.0010830 治世
+	times WORD[ 5,   8]: 0.0010487 世相
+	times WORD[ 5,   9]: 0.0010469 世
+	times WORD[ 5,  10]: 0.0010314 時世
+	times WORD[ 5,  11]: 0.0009734 近世
+TOKEN[ 6]: 0.0150552    2 uncommon
+	uncommon WORD[ 6,   1]: 0.0130469 希世
+	uncommon WORD[ 6,   2]: 0.0020083 稀世
+TOKEN[ 7]: 0.0128237    2 rare
+	rare WORD[ 7,   1]: 0.0111131 希世
+	rare WORD[ 7,   2]: 0.0017106 稀世
+TOKEN[ 8]: 0.0121963    9 living
+	living WORD[ 8,   1]: 0.0018312 世渡り
+	living WORD[ 8,   2]: 0.0018241 世過ぎ
+	living WORD[ 8,   3]: 0.0016184 渡世
+	living WORD[ 8,   4]: 0.0015333 在世
+	living WORD[ 8,   5]: 0.0009616 この世
+	living WORD[ 8,   6]: 0.0009616 此の世
+	living WORD[ 8,   7]: 0.0008665 浮き世
+	living WORD[ 8,   8]: 0.0008665 浮世
+	living WORD[ 8,   9]: 0.0008665 憂世
+TOKEN[ 9]: 0.0116709    2 epoch
+	epoch WORD[ 9,   1]: 0.0043535 現世
+	epoch WORD[ 9,   2]: 0.0014819 世
+TOKEN[10]: 0.0115530    3 store
+	store WORD[10,   1]: 0.0085557 見世棚
+	store WORD[10,   2]: 0.0016843 床見世
+	store WORD[10,   3]: 0.0013130 見世
+TOKEN[11]: 0.0113472    7 public
+	public WORD[11,   1]: 0.0024675 世務
+	public WORD[11,   2]: 0.0018443 世論
+	public WORD[11,   3]: 0.0014481 世評
+	public WORD[11,   4]: 0.0014351 世人
+	public WORD[11,   5]: 0.0013940 慨世
+	public WORD[11,   6]: 0.0009204 世間
+	public WORD[11,   7]: 0.0009189 世
+TOKEN[12]: 0.0111581    6 age
+	age WORD[12,   1]: 0.0036310 末世
+	age WORD[12,   2]: 0.0019585 時世
+	age WORD[12,   3]: 0.0009957 世代
+	age WORD[12,   4]: 0.0009940 世
+	age WORD[12,   5]: 0.0008936 隔世
+	age WORD[12,   6]: 0.0008457 一世
+TOKEN[13]: 0.0105805    4 existence
+	existence WORD[13,   1]: 0.0020459 俗世
+	existence WORD[13,   2]: 0.0020428 前世
+	existence WORD[13,   3]: 0.0019183 宿世
+	existence WORD[13,   4]: 0.0012654 世
+TOKEN[14]: 0.0104969    7 society
+	society WORD[14,   1]: 0.0017565 世態
+	society WORD[14,   2]: 0.0016416 警世
+	society WORD[14,   3]: 0.0014723 世の中
+	society WORD[14,   4]: 0.0011262 世相
+	society WORD[14,   5]: 0.0011261 世間
+	society WORD[14,   6]: 0.0011256 世界
+	society WORD[14,   7]: 0.0011243 世
+TOKEN[15]: 0.0096070    4 heir
+	heir WORD[15,   1]: 0.0024917 世嗣
+	heir WORD[15,   2]: 0.0024917 世継
+	heir WORD[15,   3]: 0.0024917 世継ぎ
+	heir WORD[15,   4]: 0.0021318 世子
+TOKEN[16]: 0.0096070    4 successor
+	successor WORD[16,   1]: 0.0024917 世嗣
+	successor WORD[16,   2]: 0.0024917 世継
+	successor WORD[16,   3]: 0.0024917 世継ぎ
+	successor WORD[16,   4]: 0.0021318 世子
+TOKEN[17]: 0.0094801    3 eternity
+	eternity WORD[17,   1]: 0.0040115 百世
+	eternity WORD[17,   2]: 0.0020366 永世
+	eternity WORD[17,   3]: 0.0017160 万世
+TOKEN[18]: 0.0094445    2 previous
+	previous WORD[18,   1]: 0.0038244 前世
+	previous WORD[18,   2]: 0.0017957 宿世
+TOKEN[19]: 0.0081950    8 one
+	one WORD[19,   1]: 0.0014619 終世
+	one WORD[19,   2]: 0.0013360 顔見世
+	one WORD[19,   3]: 0.0009771 処世
+	one WORD[19,   4]: 0.0008036 前世
+	one WORD[19,   5]: 0.0007968 渡世
+	one WORD[19,   6]: 0.0007629 辞世
+	one WORD[19,   7]: 0.0007547 宿世
+	one WORD[19,   8]: 0.0004984 世界
+TOKEN[20]: 0.0080575    3 become
+	become WORD[20,   1]: 0.0032229 世慣れる
+	become WORD[20,   2]: 0.0032229 世馴れる
+	become WORD[20,   3]: 0.0016117 世離れる
+TOKEN[21]: 0.0074875    4 making
+	making WORD[21,   1]: 0.0030798 渡世
+	making WORD[21,   2]: 0.0017423 世渡り
+	making WORD[21,   3]: 0.0017213 顔見世
+	making WORD[21,   4]: 0.0009441 処世
+TOKEN[22]: 0.0074104    4 ways
+	ways WORD[22,   1]: 0.0021672 世慣れる
+	ways WORD[22,   2]: 0.0021672 世馴れる
+	ways WORD[22,   3]: 0.0018739 世事
+	ways WORD[22,   4]: 0.0012020 世情
+TOKEN[23]: 0.0070962    3 degenerate
+	degenerate WORD[23,   1]: 0.0026483 末世
+	degenerate WORD[23,   2]: 0.0022372 濁世
+	degenerate WORD[23,   3]: 0.0022107 末の世
+TOKEN[24]: 0.0070226    5 death
+	death WORD[24,   1]: 0.0028188 辞世
+	death WORD[24,   2]: 0.0009247 早世
+	death WORD[24,   3]: 0.0008699 後世
+	death WORD[24,   4]: 0.0007696 あの世
+	death WORD[24,   5]: 0.0007696 彼の世
+TOKEN[25]: 0.0069704    3 shop
+	shop WORD[25,   1]: 0.0042758 見世棚
+	shop WORD[25,   2]: 0.0013823 夜見世
+	shop WORD[25,   3]: 0.0013124 見世
+TOKEN[26]: 0.0065350    2 seclusion
+	seclusion WORD[26,   1]: 0.0032675 遁世
+	seclusion WORD[26,   2]: 0.0032675 遯世
+TOKEN[27]: 0.0065030    4 present
+	present WORD[27,   1]: 0.0028918 今世
+	present WORD[27,   2]: 0.0009028 浮き世
+	present WORD[27,   3]: 0.0009028 浮世
+	present WORD[27,   4]: 0.0009028 憂世
+TOKEN[28]: 0.0064996    4 transient
+	transient WORD[28,   1]: 0.0019158 仮の世
+	transient WORD[28,   2]: 0.0011459 浮き世
+	transient WORD[28,   3]: 0.0011459 浮世
+	transient WORD[28,   4]: 0.0011459 憂世
+TOKEN[29]: 0.0064597    3 matchless
+	matchless WORD[29,   1]: 0.0022306 絶世
+	matchless WORD[29,   2]: 0.0021515 蓋世
+	matchless WORD[29,   3]: 0.0020775 曠世
+TOKEN[30]: 0.0064009    3 reign
+	reign WORD[30,   1]: 0.0020352 御世
+	reign WORD[30,   2]: 0.0014883 治世
+	reign WORD[30,   3]: 0.0014387 世
+TOKEN[31]: 0.0061715    3 wisdom
+	wisdom WORD[31,   1]: 0.0037597 世才
+	wisdom WORD[31,   2]: 0.0012059 世智
+	wisdom WORD[31,   3]: 0.0012059 世知
+TOKEN[32]: 0.0060501    4 period
+	period WORD[32,   1]: 0.0023307 近世
+	period WORD[32,   2]: 0.0011820 御世
+	period WORD[32,   3]: 0.0008662 千世
+	period WORD[32,   4]: 0.0008356 世
+TOKEN[33]: 0.0060043    3 era
+	era WORD[33,   1]: 0.0029505 百世
+	era WORD[33,   2]: 0.0010180 世紀
+	era WORD[33,   3]: 0.0010179 世
+TOKEN[34]: 0.0059092    2 everyday
+	everyday WORD[34,   1]: 0.0038444 世話
+	everyday WORD[34,   2]: 0.0020647 俗世
+TOKEN[35]: 0.0058326    4 next
+	next WORD[35,   1]: 0.0019649 来世
+	next WORD[35,   2]: 0.0010261 後世
+	next WORD[35,   3]: 0.0009078 あの世
+	next WORD[35,   4]: 0.0009078 彼の世
+TOKEN[36]: 0.0057983    2 grille
+	grille WORD[36,   1]: 0.0028992 張り見世
+	grille WORD[36,   2]: 0.0028992 張見世
+TOKEN[37]: 0.0056481    3 first
+	first WORD[37,   1]: 0.0031451 初世
+	first WORD[37,   2]: 0.0008625 顔見世
+	first WORD[37,   3]: 0.0008203 一世
+TOKEN[38]: 0.0055429    2 afterlife
+	afterlife WORD[38,   1]: 0.0027112 来世
+	afterlife WORD[38,   2]: 0.0014158 後世
+TOKEN[39]: 0.0054093    1 shelf
+	shelf WORD[39,   1]: 0.0054093 見世棚
+TOKEN[40]: 0.0053276    2 sophisticated
+	sophisticated WORD[40,   1]: 0.0026638 世慣れる
+	sophisticated WORD[40,   2]: 0.0026638 世馴れる
+TOKEN[41]: 0.0053275    1 Holocene
+	Holocene WORD[41,   1]: 0.0026637 現世
+TOKEN[42]: 0.0053188    1 successive
+	successive WORD[42,   1]: 0.0053188 歴世
+TOKEN[43]: 0.0052088    1 transmission
+	transmission WORD[43,   1]: 0.0052088 伝世
+TOKEN[44]: 0.0050813    2 lifetime
+	lifetime WORD[44,   1]: 0.0013727 世
+	lifetime WORD[44,   2]: 0.0011680 一世
+TOKEN[45]: 0.0047443    3 fleeting
+	fleeting WORD[45,   1]: 0.0011861 浮き世
+	fleeting WORD[45,   2]: 0.0011861 浮世
+	fleeting WORD[45,   3]: 0.0011861 憂世
+TOKEN[46]: 0.0047200    3 day
+	day WORD[46,   1]: 0.0023854 今世
+	day WORD[46,   2]: 0.0008560 時世
+	day WORD[46,   3]: 0.0007393 一世
+TOKEN[47]: 0.0047139    1 display
+	display WORD[47,   1]: 0.0047139 見世棚
+TOKEN[48]: 0.0046899    2 corrupt
+	corrupt WORD[48,   1]: 0.0025423 末世
+	corrupt WORD[48,   2]: 0.0021477 濁世
+TOKEN[49]: 0.0046862    2 livelihood
+	livelihood WORD[49,   1]: 0.0024831 世過ぎ
+	livelihood WORD[49,   2]: 0.0022031 渡世
+TOKEN[50]: 0.0045904    3 social
+	social WORD[50,   1]: 0.0018972 世離れる
+	social WORD[50,   2]: 0.0016410 世態
+	social WORD[50,   3]: 0.0010522 世相
+TOKEN[51]: 0.0045277    1 founder
+	founder WORD[51,   1]: 0.0045277 初世
+TOKEN[52]: 0.0044981    2 peerless
+	peerless WORD[52,   1]: 0.0022897 絶世
+	peerless WORD[52,   2]: 0.0022084 蓋世
+TOKEN[53]: 0.0043190    3 sad
+	sad WORD[53,   1]: 0.0010798 浮き世
+	sad WORD[53,   2]: 0.0010798 浮世
+	sad WORD[53,   3]: 0.0010798 憂世
+TOKEN[54]: 0.0042715    3 floating
+	floating WORD[54,   1]: 0.0010679 浮き世
+	floating WORD[54,   2]: 0.0010679 浮世
+	floating WORD[54,   3]: 0.0010679 憂世
+TOKEN[55]: 0.0042438    3 grief
+	grief WORD[55,   1]: 0.0010609 浮き世
+	grief WORD[55,   2]: 0.0010609 浮世
+	grief WORD[55,   3]: 0.0010609 憂世
+TOKEN[56]: 0.0040791    2 stall
+	stall WORD[56,   1]: 0.0022400 床見世
+	stall WORD[56,   2]: 0.0018391 夜見世
+TOKEN[57]: 0.0039354    3 worry
+	worry WORD[57,   1]: 0.0009838 浮き世
+	worry WORD[57,   2]: 0.0009838 浮世
+	worry WORD[57,   3]: 0.0009838 憂世
+TOKEN[58]: 0.0038581    1 night
+	night WORD[58,   1]: 0.0038581 夜見世
+TOKEN[59]: 0.0037654    2 gumption
+	gumption WORD[59,   1]: 0.0018827 世智
+	gumption WORD[59,   2]: 0.0018827 世知
+TOKEN[60]: 0.0037641    1 century
+	century WORD[60,   1]: 0.0037641 世紀
+TOKEN[61]: 0.0035429    3 people
+	people WORD[61,   1]: 0.0013417 世俗
+	people WORD[61,   2]: 0.0013411 世人
+	people WORD[61,   3]: 0.0008602 世間
+TOKEN[62]: 0.0035311    2 monastic
+	monastic WORD[62,   1]: 0.0017656 遁世
+	monastic WORD[62,   2]: 0.0017656 遯世
+TOKEN[63]: 0.0034250    1 poem
+	poem WORD[63,   1]: 0.0034250 辞世
+TOKEN[64]: 0.0033903    1 Elizabeth
+	Elizabeth WORD[64,   1]: 0.0016951 一世
+TOKEN[65]: 0.0033903    1 issei
+	issei WORD[65,   1]: 0.0016951 一世
+TOKEN[66]: 0.0033683    2 rule
+	rule WORD[66,   1]: 0.0011483 治世
+	rule WORD[66,   2]: 0.0011100 世
+TOKEN[67]: 0.0033673    3 state
+	state WORD[67,   1]: 0.0015008 世態
+	state WORD[67,   2]: 0.0009622 世相
+	state WORD[67,   3]: 0.0009043 経世
+TOKEN[68]: 0.0032870    1 current
+	current WORD[68,   1]: 0.0016435 現世
+TOKEN[69]: 0.0032708    3 red
+	red WORD[69,   1]: 0.0008177 浮き世
+	red WORD[69,   2]: 0.0008177 浮世
+	red WORD[69,   3]: 0.0008177 憂世
+TOKEN[70]: 0.0031872    1 eternalness
+	eternalness WORD[70,   1]: 0.0031872 常世
+TOKEN[71]: 0.0031126    1 secularity
+	secularity WORD[71,   1]: 0.0031126 世俗
+TOKEN[72]: 0.0030774    3 light
+	light WORD[72,   1]: 0.0007693 浮き世
+	light WORD[72,   2]: 0.0007693 浮世
+	light WORD[72,   3]: 0.0007693 憂世
+TOKEN[73]: 0.0030427    2 dying
+	dying WORD[73,   1]: 0.0018373 辞世
+	dying WORD[73,   2]: 0.0012055 早世
+TOKEN[74]: 0.0030346    1 subsistence
+	subsistence WORD[74,   1]: 0.0030346 世渡り
+TOKEN[75]: 0.0029891    1 common
+	common WORD[75,   1]: 0.0029891 世俗
+TOKEN[76]: 0.0029890    1 muttering
+	muttering WORD[76,   1]: 0.0029890 世迷い言
+TOKEN[77]: 0.0029764    2 getting
+	getting WORD[77,   1]: 0.0019318 世渡り
+	getting WORD[77,   2]: 0.0010446 出世
+TOKEN[78]: 0.0028840    2 opinion
+	opinion WORD[78,   1]: 0.0017619 世評
+	opinion WORD[78,   2]: 0.0011220 世論
+TOKEN[79]: 0.0028735    2 used
+	used WORD[79,   1]: 0.0014367 世慣れる
+	used WORD[79,   2]: 0.0014367 世馴れる
+TOKEN[80]: 0.0028462    1 grumbling
+	grumbling WORD[80,   1]: 0.0028462 世迷い言
+TOKEN[81]: 0.0028415    2 stingy
+	stingy WORD[81,   1]: 0.0014208 世智
+	stingy WORD[81,   2]: 0.0014208 世知
+TOKEN[82]: 0.0027797    1 latter
+	latter WORD[82,   1]: 0.0027797 末世
+TOKEN[83]: 0.0027785    1 unsurpassed
+	unsurpassed WORD[83,   1]: 0.0027785 絶世
+TOKEN[84]: 0.0027439    2 popular
+	popular WORD[84,   1]: 0.0016708 世俗
+	popular WORD[84,   2]: 0.0010732 世論
+TOKEN[85]: 0.0027056    1 change
+	change WORD[85,   1]: 0.0027056 世変
+TOKEN[86]: 0.0026863    2 Buddha
+	Buddha WORD[86,   1]: 0.0016372 世尊
+	Buddha WORD[86,   2]: 0.0010491 世界
+TOKEN[87]: 0.0026578    1 spectacle
+	spectacle WORD[87,   1]: 0.0026578 見世物
+TOKEN[88]: 0.0026519    1 timeserving
+	timeserving WORD[88,   1]: 0.0026519 阿世
+TOKEN[89]: 0.0026165    1 shrewdness
+	shrewdness WORD[89,   1]: 0.0026165 世才
+TOKEN[90]: 0.0025827    1 heredity
+	heredity WORD[90,   1]: 0.0025827 世襲
+TOKEN[91]: 0.0025460    1 recent
+	recent WORD[91,   1]: 0.0025460 近世
+TOKEN[92]: 0.0025195    1 unrivaled
+	unrivaled WORD[92,   1]: 0.0025195 絶世
+TOKEN[93]: 0.0025193    1 unchanging
+	unchanging WORD[93,   1]: 0.0025193 常世
+TOKEN[94]: 0.0024942    1 nonsense
+	nonsense WORD[94,   1]: 0.0024942 世迷い言
+TOKEN[95]: 0.0024797    1 heritage
+	heritage WORD[95,   1]: 0.0024797 世襲
+TOKEN[96]: 0.0024768    1 unequaled
+	unequaled WORD[96,   1]: 0.0024768 絶世
+TOKEN[97]: 0.0024756    1 mundane
+	mundane WORD[97,   1]: 0.0024756 俗世
+TOKEN[98]: 0.0024331    2 conduct
+	conduct WORD[98,   1]: 0.0012418 処世
+	conduct WORD[98,   2]: 0.0011913 経世
+TOKEN[99]: 0.0024087    1 heroism
+	heroism WORD[99,   1]: 0.0024087 蓋世
+TOKEN[100]: 0.0024064    1 prudence
+	prudence WORD[100,   1]: 0.0024064 世才
+TOKEN[101]: 0.0023958    1 earning
+	earning WORD[101,   1]: 0.0023958 渡世
+TOKEN[102]: 0.0023955    1 antiquity
+	antiquity WORD[102,   1]: 0.0023955 上世
+TOKEN[103]: 0.0023656    1 posterity
+	posterity WORD[103,   1]: 0.0023656 末の世
+TOKEN[104]: 0.0023639    1 honorific
+	honorific WORD[104,   1]: 0.0023639 世尊
+TOKEN[105]: 0.0023537    1 reality
+	reality WORD[105,   1]: 0.0023537 世離れる
+TOKEN[106]: 0.0023482    1 mankind
+	mankind WORD[106,   1]: 0.0023482 濁世
+TOKEN[107]: 0.0023388    1 booth
+	booth WORD[107,   1]: 0.0023388 床見世
+TOKEN[108]: 0.0023175    1 immortality
+	immortality WORD[108,   1]: 0.0023175 永世
+TOKEN[109]: 0.0023135    1 nowadays
+	nowadays WORD[109,   1]: 0.0023135 当世
+TOKEN[110]: 0.0022928    1 exhibition
+	exhibition WORD[110,   1]: 0.0022928 見世物
+TOKEN[111]: 0.0022752    1 pessimism
+	pessimism WORD[111,   1]: 0.0022752 厭世
+TOKEN[112]: 0.0022590    1 overwhelming
+	overwhelming WORD[112,   1]: 0.0022590 蓋世
+TOKEN[113]: 0.0022534    1 weariness
+	weariness WORD[113,   1]: 0.0022534 厭世
+TOKEN[114]: 0.0022480    1 resolve
+	resolve WORD[114,   1]: 0.0022480 蓋世
+TOKEN[115]: 0.0022266    1 perpetuity
+	perpetuity WORD[115,   1]: 0.0022266 永世
+TOKEN[116]: 0.0022234    1 Kwannon
+	Kwannon WORD[116,   1]: 0.0022234 観世音
+TOKEN[117]: 0.0022177    1 showing
+	showing WORD[117,   1]: 0.0022177 顔見世
+TOKEN[118]: 0.0022143    1 permanence
+	permanence WORD[118,   1]: 0.0022143 永世
+TOKEN[119]: 0.0021965    1 decline
+	decline WORD[119,   1]: 0.0021965 末世
+TOKEN[120]: 0.0021871    2 way
+	way WORD[120,   1]: 0.0013558 渡世
+	way WORD[120,   2]: 0.0008313 処世
+TOKEN[121]: 0.0021415    1 keeping
+	keeping WORD[121,   1]: 0.0021415 世離れる
+TOKEN[122]: 0.0021404    1 reformation
+	reformation WORD[122,   1]: 0.0021404 世直し
+TOKEN[123]: 0.0021148    1 turbulent
+	turbulent WORD[123,   1]: 0.0021148 乱世
+TOKEN[124]: 0.0021055    1 occupation
+	occupation WORD[124,   1]: 0.0021055 渡世
+TOKEN[125]: 0.0020983    1 creation
+	creation WORD[125,   1]: 0.0020983 創世
+TOKEN[126]: 0.0020974    1 touch
+	touch WORD[126,   1]: 0.0020974 世離れる
+TOKEN[127]: 0.0020606    1 saving
+	saving WORD[127,   1]: 0.0020606 済世
+TOKEN[128]: 0.0020459    1 kabuki
+	kabuki WORD[128,   1]: 0.0020459 顔見世
+TOKEN[129]: 0.0020434    1 customs
+	customs WORD[129,   1]: 0.0020434 世俗
+TOKEN[130]: 0.0020248    1 Buddhism
+	Buddhism WORD[130,   1]: 0.0020248 末世
+TOKEN[131]: 0.0020241    1 practical
+	practical WORD[131,   1]: 0.0020241 世才
+TOKEN[132]: 0.0020190    1 alive
+	alive WORD[132,   1]: 0.0020190 在世
+TOKEN[133]: 0.0019856    1 unparalleled
+	unparalleled WORD[133,   1]: 0.0019856 曠世
+TOKEN[134]: 0.0019729    1 distant
+	distant WORD[134,   1]: 0.0019729 常世
+TOKEN[135]: 0.0019656    1 welfare
+	welfare WORD[135,   1]: 0.0019656 済世
+TOKEN[136]: 0.0019489    1 Korean
+	Korean WORD[136,   1]: 0.0009744 一世
+TOKEN[137]: 0.0019419    1 stop
+	stop WORD[137,   1]: 0.0019419 世離れる
+TOKEN[138]: 0.0019419    1 performance
+	performance WORD[138,   1]: 0.0019419 顔見世
+TOKEN[139]: 0.0018930    1 reputation
+	reputation WORD[139,   1]: 0.0018930 世評
+TOKEN[140]: 0.0018788    1 compassion
+	compassion WORD[140,   1]: 0.0018788 観世音
+TOKEN[141]: 0.0018475    1 days
+	days WORD[141,   1]: 0.0018475 末世
+TOKEN[142]: 0.0018035    1 trade
+	trade WORD[142,   1]: 0.0018035 渡世
+TOKEN[143]: 0.0018029    1 law
+	law WORD[143,   1]: 0.0018029 末世
+TOKEN[144]: 0.0017878    1 show
+	show WORD[144,   1]: 0.0017878 見世物
+TOKEN[145]: 0.0017673    1 path
+	path WORD[145,   1]: 0.0017673 世路
+TOKEN[146]: 0.0017615    1 warning
+	warning WORD[146,   1]: 0.0017615 警世
+TOKEN[147]: 0.0017590    1 simple
+	simple WORD[147,   1]: 0.0017590 床見世
+TOKEN[148]: 0.0017552    1 passing
+	passing WORD[148,   1]: 0.0017552 辞世
+TOKEN[149]: 0.0017541    1 ordinary
+	ordinary WORD[149,   1]: 0.0017541 世俗
+TOKEN[150]: 0.0017525    1 final
+	final WORD[150,   1]: 0.0017525 辞世
+TOKEN[151]: 0.0017365    1 taste
+	taste WORD[151,   1]: 0.0017365 世俗
+TOKEN[152]: 0.0017301    1 eminence
+	eminence WORD[152,   1]: 0.0017301 出世
+TOKEN[153]: 0.0017252    1 future
+	future WORD[153,   1]: 0.0017252 末の世
+TOKEN[154]: 0.0016882    1 passageway
+	passageway WORD[154,   1]: 0.0016882 仲見世
+TOKEN[155]: 0.0016819    1 dead
+	dead WORD[155,   1]: 0.0016819 常世
+TOKEN[156]: 0.0016348    1 coming
+	coming WORD[156,   1]: 0.0016348 末の世
+TOKEN[157]: 0.0016208    1 written
+	written WORD[157,   1]: 0.0016208 辞世
+TOKEN[158]: 0.0016183    1 deity
+	deity WORD[158,   1]: 0.0016183 観世音
+TOKEN[159]: 0.0016180    1 course
+	course WORD[159,   1]: 0.0016180 慨世
+TOKEN[160]: 0.0016159    1 national
+	national WORD[160,   1]: 0.0016159 済世
+TOKEN[161]: 0.0016158    1 fair
+	fair WORD[161,   1]: 0.0016158 夜見世
+TOKEN[162]: 0.0016076    1 consensus
+	consensus WORD[162,   1]: 0.0016076 世論
+TOKEN[163]: 0.0016011    1 sea
+	sea WORD[163,   1]: 0.0016011 常世
+TOKEN[164]: 0.0015960    1 medieval
+	medieval WORD[164,   1]: 0.0015960 中世
+TOKEN[165]: 0.0015827    1 establishment
+	establishment WORD[165,   1]: 0.0015827 見世
+TOKEN[166]: 0.0015710    1 ancient
+	ancient WORD[166,   1]: 0.0015710 上世
+TOKEN[167]: 0.0015583    1 housekeeping
+	housekeeping WORD[167,   1]: 0.0015583 世帯
+TOKEN[168]: 0.0015528    1 land
+	land WORD[168,   1]: 0.0015528 常世
+TOKEN[169]: 0.0015368    1 spirit
+	spirit WORD[169,   1]: 0.0015368 蓋世
+TOKEN[170]: 0.0015011    1 business
+	business WORD[170,   1]: 0.0015011 渡世
+TOKEN[171]: 0.0014708    1 compliment
+	compliment WORD[171,   1]: 0.0014708 世辞
+TOKEN[172]: 0.0014550    1 contemporary
+	contemporary WORD[172,   1]: 0.0014550 世話
+TOKEN[173]: 0.0014525    1 lining
+	lining WORD[173,   1]: 0.0014525 仲見世
+TOKEN[174]: 0.0014464    1 imperial
+	imperial WORD[174,   1]: 0.0014464 御世
+TOKEN[175]: 0.0014445    1 name
+	name WORD[175,   1]: 0.0014445 世尊
+TOKEN[176]: 0.0014344    1 salvation
+	salvation WORD[176,   1]: 0.0014344 救世
+TOKEN[177]: 0.0014183    1 Buddhist
+	Buddhist WORD[177,   1]: 0.0014183 観世音
+TOKEN[178]: 0.0014144    1 order
+	order WORD[178,   1]: 0.0014144 世態
+TOKEN[179]: 0.0014090    1 restaurant
+	restaurant WORD[179,   1]: 0.0014090 見世
+TOKEN[180]: 0.0013888    1 bother
+	bother WORD[180,   1]: 0.0013888 世話
+TOKEN[181]: 0.0013880    1 introductory
+	introductory WORD[181,   1]: 0.0013880 顔見世
+TOKEN[182]: 0.0013817    1 universe
+	universe WORD[182,   1]: 0.0013817 世界
+TOKEN[183]: 0.0013728    2 person
+	person WORD[183,   1]: 0.0006864 世智
+	person WORD[183,   2]: 0.0006864 世知
+TOKEN[184]: 0.0013704    1 recommendation
+	recommendation WORD[184,   1]: 0.0013704 世話
+TOKEN[185]: 0.0013570    1 sentiment
+	sentiment WORD[185,   1]: 0.0013570 世論
+TOKEN[186]: 0.0013433    1 peaceful
+	peaceful WORD[186,   1]: 0.0013433 治世
+TOKEN[187]: 0.0013374    1 ladder
+	ladder WORD[187,   1]: 0.0013374 出世
+TOKEN[188]: 0.0013308    1 flattery
+	flattery WORD[188,   1]: 0.0013308 世辞
+TOKEN[189]: 0.0013125    1 introduction
+	introduction WORD[189,   1]: 0.0013125 世話
+TOKEN[190]: 0.0013123    1 career
+	career WORD[190,   1]: 0.0013123 出世
+TOKEN[191]: 0.0013053    1 drama
+	drama WORD[191,   1]: 0.0013053 世話
+TOKEN[192]: 0.0013046    1 realm
+	realm WORD[192,   1]: 0.0013046 世界
+TOKEN[193]: 0.0013011    1 climbing
+	climbing WORD[193,   1]: 0.0013011 出世
+TOKEN[194]: 0.0012971    1 introduce
+	introduce WORD[194,   1]: 0.0012971 顔見世
+TOKEN[195]: 0.0012866    1 thousand
+	thousand WORD[195,   1]: 0.0012866 千世
+TOKEN[196]: 0.0012777    1 debut
+	debut WORD[196,   1]: 0.0012777 顔見世
+TOKEN[197]: 0.0012732    1 December
+	December WORD[197,   1]: 0.0012732 顔見世
+TOKEN[198]: 0.0012638    1 phase
+	phase WORD[198,   1]: 0.0012638 世相
+TOKEN[199]: 0.0012546    1 successful
+	successful WORD[199,   1]: 0.0012546 出世
+TOKEN[200]: 0.0012488    1 Shinto
+	Shinto WORD[200,   1]: 0.0012488 仲見世
+TOKEN[201]: 0.0012487    1 promotion
+	promotion WORD[201,   1]: 0.0012487 出世
+TOKEN[202]: 0.0012203    1 corporate
+	corporate WORD[202,   1]: 0.0012203 出世
+TOKEN[203]: 0.0012186    1 aid
+	aid WORD[203,   1]: 0.0012186 世話
+TOKEN[204]: 0.0012132    1 Japanese
+	Japanese WORD[204,   1]: 0.0006066 一世
+TOKEN[205]: 0.0012005    1 assistance
+	assistance WORD[205,   1]: 0.0012005 世話
+TOKEN[206]: 0.0011859    1 circle
+	circle WORD[206,   1]: 0.0011859 世界
+TOKEN[207]: 0.0011794    1 administration
+	administration WORD[207,   1]: 0.0011794 経世
+TOKEN[208]: 0.0011625    1 household
+	household WORD[208,   1]: 0.0011625 世帯
+TOKEN[209]: 0.0011600    1 success
+	success WORD[209,   1]: 0.0011600 出世
+TOKEN[210]: 0.0011498    1 perform
+	perform WORD[210,   1]: 0.0011498 顔見世
+TOKEN[211]: 0.0011444    1 separation
+	separation WORD[211,   1]: 0.0011444 隔世
+TOKEN[212]: 0.0011158    1 modern
+	modern WORD[212,   1]: 0.0011158 近世
+TOKEN[213]: 0.0011094    1 shrine
+	shrine WORD[213,   1]: 0.0011094 仲見世
+TOKEN[214]: 0.0011014    1 sign
+	sign WORD[214,   1]: 0.0011014 世相
+TOKEN[215]: 0.0010984    1 fight
+	fight WORD[215,   1]: 0.0010984 世紀
+TOKEN[216]: 0.0010878    1 human
+	human WORD[216,   1]: 0.0010878 世情
+TOKEN[217]: 0.0010867    1 trouble
+	trouble WORD[217,   1]: 0.0010867 世話
+TOKEN[218]: 0.0010783    1 help
+	help WORD[218,   1]: 0.0010783 世話
+TOKEN[219]: 0.0010735    1 nature
+	nature WORD[219,   1]: 0.0010735 世情
+TOKEN[220]: 0.0010682    1 looking
+	looking WORD[220,   1]: 0.0010682 世話
+TOKEN[221]: 0.0010670    1 famous
+	famous WORD[221,   1]: 0.0010670 顔見世
+TOKEN[222]: 0.0010614    1 space
+	space WORD[222,   1]: 0.0010614 世界
+TOKEN[223]: 0.0010438    1 care
+	care WORD[223,   1]: 0.0010438 世話
+TOKEN[224]: 0.0010375    1 past
+	past WORD[224,   1]: 0.0010375 近世
+TOKEN[225]: 0.0010347    1 voice
+	voice WORD[225,   1]: 0.0010347 世論
+TOKEN[226]: 0.0010281    1 early
+	early WORD[226,   1]: 0.0010281 近世
+TOKEN[227]: 0.0009895    1 young
+	young WORD[227,   1]: 0.0009895 早世
+TOKEN[228]: 0.0009425    1 different
+	different WORD[228,   1]: 0.0009425 隔世
+TOKEN[229]: 0.0009419    1 appearance
+	appearance WORD[229,   1]: 0.0009419 顔見世
+TOKEN[230]: 0.0009347    1 home
+	home WORD[230,   1]: 0.0009347 世帯
+TOKEN[231]: 0.0009188    1 government
+	government WORD[231,   1]: 0.0009188 経世
+TOKEN[232]: 0.0009160    1 language
+	language WORD[232,   1]: 0.0009160 世話
+TOKEN[233]: 0.0008876    1 Edo
+	Edo WORD[233,   1]: 0.0008876 近世
+TOKEN[234]: 0.0008819    1 style
+	style WORD[234,   1]: 0.0008819 観世
+TOKEN[235]: 0.0008476    1 Japan
+	Japan WORD[235,   1]: 0.0008476 中世
+TOKEN[236]: 0.0008442    1 face
+	face WORD[236,   1]: 0.0008442 顔見世
+TOKEN[237]: 0.0008196    1 end
+	end WORD[237,   1]: 0.0008196 近世
+TOKEN[238]: 0.0008127    1 family
+	family WORD[238,   1]: 0.0008127 世帯
+TOKEN[239]: 0.0008050    1 good
+	good WORD[239,   1]: 0.0008050 世話
+TOKEN[240]: 0.0007941    1 school
+	school WORD[240,   1]: 0.0007941 観世

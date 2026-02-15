@@ -1,0 +1,877 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.3333333    1 thirty         : 卅
+0.0722527    7 stagnation     : うっ滞, 鬱滞, 滞り, 停滞, 沈滞, 滞留, 渋滞
+0.0712796    2 stasis         : うっ滞, 鬱滞
+0.0654441    5 congestion     : うっ滞, 鬱滞, 停滞, 滞貨, 渋滞
+0.0187957   15 obi            : 帯ひも, 帯紐, 帯板, 鯨帯, 帯枕, 帯, 袋帯, 帯止め, 帯留, 帯留め, ...
+0.0179973   17 sash           : 上帯, 白帯, 女帯, 赤帯, 帯芯, 茶帯, 丸帯, 腰帯, 帯止め, 帯留, ...
+0.0140662   16 belt           : 白帯, 弾帯, 赤帯, 調べ帯, 剣帯, 帯皮, 帯革, 茶帯, 腹帯, 黒帯, ...
+0.0132474    4 accumulation   : 滞貨, 停滞, 滞留, 滞積
+0.0119998    6 delay          : 滞り, 停滞, 遅滞, 渋滞, 凝滞, 延滞
+0.0115232    9 band           : 弾帯, 帯封, 兵児帯, 腰帯, 帯鋸, 帯紙, 帯金, 帯域, 帯
+0.0096254    1 hoop           : 帯筋
+0.0083322    7 kimono         : 帯ひも, 帯紐, 女帯, 帯締, 帯締め, 男帯, 帯
+0.0074499    1 tie            : 帯筋
+0.0059911    3 stay           : 帯板, 滞留, 滞在
+0.0056260    4 area           : 外帯, 内帯, 地帯, 一帯
+0.0053277    3 cord           : 帯ひも, 帯紐, 臍帯
+0.0051807    2 sojourn        : 滞留, 滞在
+0.0050802    1 unsold         : 滞貨
+0.0050258    3 payment        : 滞る, 滞納, 延滞
+0.0048593    1 lemniscus      : 毛帯
+0.0048356    1 track          : 履帯
+0.0047914    2 procrastination: 遅滞, 延滞
+0.0046842    1 plate          : 帯板
+0.0046811    2 overdue        : 滞る, 延滞
+0.0046310    1 lateral        : 帯筋
+0.0045975    2 standstill     : 停滞, 滞留
+0.0045260    2 Median         : 外帯, 内帯
+0.0043110    1 freight        : 滞貨
+0.0041320    2 southwestern   : 外帯, 内帯
+0.0040535    2 archipelago    : 外帯, 内帯
+0.0039238    3 Japan          : 滞日, 外帯, 内帯
+0.0038757    1 traffic        : 渋滞
+0.0037715    4 worn           : 帯板, 帯止め, 帯留, 帯留め
+0.0037555    2 arc            : 外帯, 内帯
+0.0036613    1 soap           : 昼帯
+0.0036449    2 falling        : 停滞, 滞納
+0.0036320    1 batten         : 帯板
+0.0035445    1 opera          : 昼帯
+0.0034914    3 side           : 鯨帯, 外帯, 内帯
+0.0033083    2 stiff          : 帯板, 角帯
+0.0032810    1 stock          : 滞貨
+0.0032151    1 goods          : 滞貨
+0.0030298    3 waist          : 兵児帯, 下帯, 腰帯
+0.0030229    1 undelivered    : 滞貨
+0.0028999    1 stagnate       : 滞る
+0.0028538    1 white          : 白帯
+0.0028196    1 arrhythmia     : 結滞
+0.0027283    1 delinquency    : 滞納
+0.0026066    1 outer          : 上帯
+0.0025652    1 inactivity     : 沈滞
+0.0025026    1 undone         : 滞る
+0.0024999    1 default        : 滞納
+0.0024985    1 stockpile      : 滞貨
+0.0024632    1 encampment     : 滞陣
+0.0024415    4 sword          : 剣帯, 帯剣, 帯刀, 帯びる
+0.0024376    1 bandoleer      : 弾帯
+0.0023902    2 mountain       : 外帯, 内帯
+0.0023599    5 zone           : 寒帯, 地帯, 帯域, 温帯, 一帯
+0.0023533    1 inventory      : 滞貨
+0.0023504    1 fabric         : 帯板
+0.0023327    1 piling         : 滞積
+0.0023305    1 intermittent   : 結滞
+0.0022870    1 ammo           : 弾帯
+0.0022269    3 ligament       : じん帯, 靭帯, 靱帯
+0.0021991    1 brown          : 茶帯
+0.0021792    3 fastener       : 帯止め, 帯留, 帯留め
+0.0021749    1 pulse          : 結滞
+0.0021435    1 hindrance      : 滞り
+0.0021258    1 jam            : 渋滞
+0.0020948    1 piece          : 帯板
+0.0020808    1 convex         : 外帯
+0.0020791    1 shape          : 帯板
+0.0020663    1 outstanding    : 滞る
+0.0020511    1 concave        : 内帯
+0.0020482    1 rotating       : 弾帯
+0.0019756    3 clip           : 帯止め, 帯留, 帯留め
+0.0019655    1 red            : 赤帯
+0.0019628    3 bandage        : 眼帯, 包帯, 繃帯
+0.0019366    1 give           : 帯板
+0.0018955    1 fuller         : 帯枕
+0.0018949    3 ornament       : 帯止め, 帯留, 帯留め
+0.0018407    1 crawler        : 履帯
+0.0017767    1 capital        : 滞京
+0.0017413    2 leucorrhea     : 帯下, 白帯下
+0.0017381    1 bullet         : 弾帯
+0.0017304    3 leather        : 帯皮, 帯革, 革帯
+0.0016977    1 left           : 滞る
+0.0016918    2 mucous         : 帯下, 白帯下
+0.0016455    1 air            : 滞空
+0.0016135    1 fall           : 滞る
+0.0016002    1 south          : 外帯
+0.0015964    1 driving        : 弾帯
+0.0015394    2 two            : 帯枕, 兼帯
+0.0015392    1 north          : 内帯
+0.0014995    1 caterpillar    : 履帯
+0.0014889    2 genitals       : 帯下, 白帯下
+0.0014574    1 shell          : 弾帯
+0.0014336    1 strip          : 帯
+0.0014270    1 oval           : 帯枕
+0.0014230    2 wrapper        : 帯封, 帯紙
+0.0014228    2 cartridge      : 帯皮, 帯革
+0.0014198    1 endless        : 履帯
+0.0013679    1 different      : 鯨帯
+0.0013586    2 ancillary      : 付帯, 附帯
+0.0013386    1 tied           : 帯枕
+0.0013335    1 tread          : 履帯
+0.0013333    1 colour         : 鯨帯
+0.0013224    2 maternity      : 腹帯, 着帯
+0.0013099    1 pad            : 帯枕
+0.0012999    1 continuous     : 履帯
+0.0012968    1 relation       : 紐帯
+0.0012939    1 tank           : 履帯
+0.0012910    1 strap          : 帯封
+0.0012311    1 currency       : 帯封
+0.0012229    2 discharge      : 帯下, 白帯下
+0.0012189    2 decorative     : 帯締, 帯締め
+0.0012168    2 incidental     : 付帯, 附帯
+0.0011849    3 wearing        : 着帯, 帯刀, 帯剣
+0.0011797    2 accessory      : 付帯, 附帯
+0.0011730    1 important      : 紐帯
+0.0011645    2 collateral     : 付帯, 附帯
+0.0011312    1 men            : 男帯
+0.0011277    3 used           : 帯締, 帯締め, 岩田帯
+0.0011244    2 string         : 帯締, 帯締め
+0.0011081    2 dress          : 束帯, 衣帯
+0.0011001    2 gun            : 帯皮, 帯革
+0.0010750    1 cingulum       : 帯
+0.0010680    2 secondary      : 付帯, 附帯
+0.0010591    2 female         : 帯下, 白帯下
+0.0010453    2 housekeeping   : 世帯, 所帯
+0.0010168    2 dressing       : 包帯, 繃帯
+0.0010024    2 court          : 束帯, 衣帯
+0.0009932    2 cloth          : 下帯, 帯地
+0.0009928    1 long           : 帯枕
+0.0009575    1 subtropics     : 暖帯
+0.0009135    1 look           : 帯枕
+0.0009109    2 hold           : 帯締, 帯締め
+0.0008757    1 slot           : 帯
+0.0008698    1 bellyband      : 腹帯
+0.0008668    1 girdle         : 腰帯
+0.0008292    1 television     : 帯
+0.0008247    2 book           : 帯出, 帯
+0.0008243    1 ensure         : 帯祝い
+0.0008166    1 girth          : 腹帯
+0.0008026    1 make           : 帯枕
+0.0007939    2 place          : 帯締, 帯締め
+0.0007879    1 broadcast      : 帯
+0.0007767    2 household      : 世帯, 所帯
+0.0007731    1 phone          : 携帯
+0.0007645    1 saddle         : 腹帯
+0.0007627    1 radio          : 帯
+0.0007597    2 use            : 男帯, 兼帯
+0.0007553    1 designed       : 帯祝い
+0.0007266    1 solidarity     : 連帯
+0.0007126    1 loincloth      : 下帯
+0.0007020    1 program        : 帯
+0.0006848    2 money          : 帯封, 拐帯
+0.0006832    1 padding        : 帯芯
+0.0006823    1 intimate       : 紐帯
+0.0006795    1 product        : 帯
+0.0006705    1 frigid         : 寒帯
+0.0006694    2 region         : 地帯, 一帯
+0.0006604    1 tight          : 紐帯
+0.0006551    1 saw            : 帯鋸
+0.0006503    1 link           : 紐帯
+0.0006481    1 ceremonial     : 束帯
+0.0006478    1 collective     : 連帯
+0.0006259    1 pregnancy      : 岩田帯
+0.0006226    1 foundation     : 紐帯
+0.0006219    1 safe           : 帯祝い
+0.0006203    1 days           : 帯
+0.0006146    1 information    : 帯
+0.0006143    1 fifth          : 岩田帯
+0.0006078    2 home           : 世帯, 所帯
+0.0006016    1 connection     : 紐帯
+0.0005984    1 social         : 紐帯
+0.0005969    2 taking         : 帯同, 帯出
+0.0005901    1 machine        : 調べ帯
+0.0005890    1 newspaper      : 帯封
+0.0005802    1 relationship   : 紐帯
+0.0005623    1 close          : 紐帯
+0.0005590    1 whole          : 一帯
+0.0005540    1 electrification: 帯電
+0.0005510    2 family         : 世帯, 所帯
+0.0005483    1 bill           : 帯封
+0.0005412    1 birth          : 帯祝い
+0.0005333    1 material       : 帯地
+0.0005326    1 drive          : 調べ帯
+0.0005309    1 iron           : 帯金
+0.0005267    1 thick          : 帯芯
+0.0005242    1 umbilical      : 臍帯
+0.0005122    1 paper          : 帯
+0.0004918    1 joint          : 連帯
+0.0004890    1 ceremony       : 帯祝い
+0.0004885    1 back           : 岩田帯
+0.0004779    1 armed          : 帯剣
+0.0004774    1 eye            : 眼帯
+0.0004761    1 support        : 岩田帯
+0.0004739    1 black          : 黒帯
+0.0004733    1 marrying       : 妻帯
+0.0004666    1 full           : 衣帯
+0.0004661    1 clothes        : 衣帯
+0.0004657    1 child          : 帯祝い
+0.0004605    1 tinged         : 帯びる
+0.0004604    1 old            : 束帯
+0.0004549    1 time           : 帯
+0.0004514    1 vocal          : 声帯
+0.0004476    1 month          : 岩田帯
+0.0004448    1 borrowing      : 帯出
+0.0004375    1 mobile         : 携帯
+0.0004317    1 combined       : 兼帯
+0.0004316    1 library        : 帯出
+0.0004316    1 removing       : 帯出
+0.0004288    1 man            : 角帯
+0.0004176    1 temperate      : 温帯
+0.0004048    1 mission        : 帯びる
+0.0004025    1 tract          : 一帯
+0.0003908    1 cell           : 携帯
+0.0003829    1 range          : 帯域
+0.0003766    1 filling        : 兼帯
+0.0003664    1 marriage       : 妻帯
+0.0003649    1 combination    : 兼帯
+0.0003608    1 trace          : 帯びる
+0.0003492    1 decoration     : 帯びる
+0.0003469    1 serving        : 兼帯
+0.0003398    1 carrying       : 携帯
+0.0003281    1 wife           : 妻帯
+0.0003239    1 stretch        : 一帯
+0.0003128    1 wear           : 帯びる
+0.0002972    1 carry          : 帯びる
+0.0002875    1 woman          : 妻帯
+0.0002727    1 hand           : 携帯
+0.0002606    1 land           : 一帯
+0.0002307    1 take           : 帯びる
+0.0002296    1 someone        : 帯同
+0.0002129    1 person         : 携帯
+0.0001524    1 one            : 携帯
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.3333333    1 thirty
+	thirty WORD[ 1,   1]: 0.3333333 卅
+TOKEN[ 2]: 0.0722527    7 stagnation
+	stagnation WORD[ 2,   1]: 0.0302144 うっ滞
+	stagnation WORD[ 2,   2]: 0.0302139 鬱滞
+	stagnation WORD[ 2,   3]: 0.0024583 滞り
+	stagnation WORD[ 2,   4]: 0.0024228 停滞
+	stagnation WORD[ 2,   5]: 0.0023734 沈滞
+	stagnation WORD[ 2,   6]: 0.0023134 滞留
+	stagnation WORD[ 2,   7]: 0.0022564 渋滞
+TOKEN[ 3]: 0.0712796    2 stasis
+	stasis WORD[ 3,   1]: 0.0356401 うっ滞
+	stasis WORD[ 3,   2]: 0.0356395 鬱滞
+TOKEN[ 4]: 0.0654441    5 congestion
+	congestion WORD[ 4,   1]: 0.0293292 うっ滞
+	congestion WORD[ 4,   2]: 0.0293287 鬱滞
+	congestion WORD[ 4,   3]: 0.0023518 停滞
+	congestion WORD[ 4,   4]: 0.0022440 滞貨
+	congestion WORD[ 4,   5]: 0.0021903 渋滞
+TOKEN[ 5]: 0.0187957   15 obi
+	obi WORD[ 5,   1]: 0.0027492 帯ひも
+	obi WORD[ 5,   2]: 0.0027492 帯紐
+	obi WORD[ 5,   3]: 0.0027468 帯板
+	obi WORD[ 5,   4]: 0.0017868 鯨帯
+	obi WORD[ 5,   5]: 0.0013450 帯枕
+	obi WORD[ 5,   6]: 0.0007627 帯
+	obi WORD[ 5,   7]: 0.0007374 袋帯
+	obi WORD[ 5,   8]: 0.0006486 帯止め
+	obi WORD[ 5,   9]: 0.0006486 帯留
+	obi WORD[ 5,  10]: 0.0006486 帯留め
+	obi WORD[ 5,  11]: 0.0006486 帯芯
+	obi WORD[ 5,  12]: 0.0006485 帯地
+	obi WORD[ 5,  13]: 0.0006484 帯揚げ
+	obi WORD[ 5,  14]: 0.0006433 男帯
+	obi WORD[ 5,  15]: 0.0006214 衣帯
+TOKEN[ 6]: 0.0179973   17 sash
+	sash WORD[ 6,   1]: 0.0029194 上帯
+	sash WORD[ 6,   2]: 0.0019883 白帯
+	sash WORD[ 6,   3]: 0.0017976 女帯
+	sash WORD[ 6,   4]: 0.0013948 赤帯
+	sash WORD[ 6,   5]: 0.0012971 帯芯
+	sash WORD[ 6,   6]: 0.0012506 茶帯
+	sash WORD[ 6,   7]: 0.0007892 丸帯
+	sash WORD[ 6,   8]: 0.0006556 腰帯
+	sash WORD[ 6,   9]: 0.0006486 帯止め
+	sash WORD[ 6,  10]: 0.0006486 帯留
+	sash WORD[ 6,  11]: 0.0006486 帯留め
+	sash WORD[ 6,  12]: 0.0006485 帯締
+	sash WORD[ 6,  13]: 0.0006485 帯締め
+	sash WORD[ 6,  14]: 0.0006484 帯揚げ
+	sash WORD[ 6,  15]: 0.0006433 男帯
+	sash WORD[ 6,  16]: 0.0006075 角帯
+	sash WORD[ 6,  17]: 0.0003814 帯
+TOKEN[ 7]: 0.0140662   16 belt
+	belt WORD[ 7,   1]: 0.0017270 白帯
+	belt WORD[ 7,   2]: 0.0015023 弾帯
+	belt WORD[ 7,   3]: 0.0012115 赤帯
+	belt WORD[ 7,   4]: 0.0011584 調べ帯
+	belt WORD[ 7,   5]: 0.0011450 剣帯
+	belt WORD[ 7,   6]: 0.0011264 帯皮
+	belt WORD[ 7,   7]: 0.0011264 帯革
+	belt WORD[ 7,   8]: 0.0010863 茶帯
+	belt WORD[ 7,   9]: 0.0006258 腹帯
+	belt WORD[ 7,  10]: 0.0005444 黒帯
+	belt WORD[ 7,  11]: 0.0005369 革帯
+	belt WORD[ 7,  12]: 0.0005196 岩田帯
+	belt WORD[ 7,  13]: 0.0003877 着帯
+	belt WORD[ 7,  14]: 0.0003874 地帯
+	belt WORD[ 7,  15]: 0.0003313 帯
+	belt WORD[ 7,  16]: 0.0003186 一帯
+TOKEN[ 8]: 0.0132474    4 accumulation
+	accumulation WORD[ 8,   1]: 0.0065699 滞貨
+	accumulation WORD[ 8,   2]: 0.0022952 停滞
+	accumulation WORD[ 8,   3]: 0.0021915 滞留
+	accumulation WORD[ 8,   4]: 0.0021908 滞積
+TOKEN[ 9]: 0.0119998    6 delay
+	delay WORD[ 9,   1]: 0.0021647 滞り
+	delay WORD[ 9,   2]: 0.0021335 停滞
+	delay WORD[ 9,   3]: 0.0020846 遅滞
+	delay WORD[ 9,   4]: 0.0019869 渋滞
+	delay WORD[ 9,   5]: 0.0018748 凝滞
+	delay WORD[ 9,   6]: 0.0017553 延滞
+TOKEN[10]: 0.0115232    9 band
+	band WORD[10,   1]: 0.0034117 弾帯
+	band WORD[10,   2]: 0.0025587 帯封
+	band WORD[10,   3]: 0.0018056 兵児帯
+	band WORD[10,   4]: 0.0006466 腰帯
+	band WORD[10,   5]: 0.0006397 帯鋸
+	band WORD[10,   6]: 0.0006395 帯紙
+	band WORD[10,   7]: 0.0006395 帯金
+	band WORD[10,   8]: 0.0004296 帯域
+	band WORD[10,   9]: 0.0003761 帯
+TOKEN[11]: 0.0096254    1 hoop
+	hoop WORD[11,   1]: 0.0096254 帯筋
+TOKEN[12]: 0.0083322    7 kimono
+	kimono WORD[12,   1]: 0.0022909 帯ひも
+	kimono WORD[12,   2]: 0.0022909 帯紐
+	kimono WORD[12,   3]: 0.0014980 女帯
+	kimono WORD[12,   4]: 0.0005404 帯締
+	kimono WORD[12,   5]: 0.0005404 帯締め
+	kimono WORD[12,   6]: 0.0005360 男帯
+	kimono WORD[12,   7]: 0.0003178 帯
+TOKEN[13]: 0.0074499    1 tie
+	tie WORD[13,   1]: 0.0074499 帯筋
+TOKEN[14]: 0.0059911    3 stay
+	stay WORD[14,   1]: 0.0023380 帯板
+	stay WORD[14,   2]: 0.0018270 滞留
+	stay WORD[14,   3]: 0.0018260 滞在
+TOKEN[15]: 0.0056260    4 area
+	area WORD[15,   1]: 0.0025325 外帯
+	area WORD[15,   2]: 0.0024964 内帯
+	area WORD[15,   3]: 0.0003276 地帯
+	area WORD[15,   4]: 0.0002695 一帯
+TOKEN[16]: 0.0053277    3 cord
+	cord WORD[16,   1]: 0.0024781 帯ひも
+	cord WORD[16,   2]: 0.0024780 帯紐
+	cord WORD[16,   3]: 0.0003716 臍帯
+TOKEN[17]: 0.0051807    2 sojourn
+	sojourn WORD[17,   1]: 0.0025911 滞留
+	sojourn WORD[17,   2]: 0.0025896 滞在
+TOKEN[18]: 0.0050802    1 unsold
+	unsold WORD[18,   1]: 0.0050802 滞貨
+TOKEN[19]: 0.0050258    3 payment
+	payment WORD[19,   1]: 0.0018265 滞る
+	payment WORD[19,   2]: 0.0017184 滞納
+	payment WORD[19,   3]: 0.0014810 延滞
+TOKEN[20]: 0.0048593    1 lemniscus
+	lemniscus WORD[20,   1]: 0.0048593 毛帯
+TOKEN[21]: 0.0048356    1 track
+	track WORD[21,   1]: 0.0048356 履帯
+TOKEN[22]: 0.0047914    2 procrastination
+	procrastination WORD[22,   1]: 0.0026011 遅滞
+	procrastination WORD[22,   2]: 0.0021903 延滞
+TOKEN[23]: 0.0046842    1 plate
+	plate WORD[23,   1]: 0.0046842 帯板
+TOKEN[24]: 0.0046811    2 overdue
+	overdue WORD[24,   1]: 0.0025850 滞る
+	overdue WORD[24,   2]: 0.0020961 延滞
+TOKEN[25]: 0.0046310    1 lateral
+	lateral WORD[25,   1]: 0.0046310 帯筋
+TOKEN[26]: 0.0045975    2 standstill
+	standstill WORD[26,   1]: 0.0023518 停滞
+	standstill WORD[26,   2]: 0.0022457 滞留
+TOKEN[27]: 0.0045260    2 Median
+	Median WORD[27,   1]: 0.0022793 外帯
+	Median WORD[27,   2]: 0.0022468 内帯
+TOKEN[28]: 0.0043110    1 freight
+	freight WORD[28,   1]: 0.0043110 滞貨
+TOKEN[29]: 0.0041320    2 southwestern
+	southwestern WORD[29,   1]: 0.0020808 外帯
+	southwestern WORD[29,   2]: 0.0020511 内帯
+TOKEN[30]: 0.0040535    2 archipelago
+	archipelago WORD[30,   1]: 0.0020413 外帯
+	archipelago WORD[30,   2]: 0.0020122 内帯
+TOKEN[31]: 0.0039238    3 Japan
+	Japan WORD[31,   1]: 0.0015121 滞日
+	Japan WORD[31,   2]: 0.0012145 外帯
+	Japan WORD[31,   3]: 0.0011972 内帯
+TOKEN[32]: 0.0038757    1 traffic
+	traffic WORD[32,   1]: 0.0038757 渋滞
+TOKEN[33]: 0.0037715    4 worn
+	worn WORD[33,   1]: 0.0022077 帯板
+	worn WORD[33,   2]: 0.0005213 帯止め
+	worn WORD[33,   3]: 0.0005213 帯留
+	worn WORD[33,   4]: 0.0005213 帯留め
+TOKEN[34]: 0.0037555    2 arc
+	arc WORD[34,   1]: 0.0018912 外帯
+	arc WORD[34,   2]: 0.0018642 内帯
+TOKEN[35]: 0.0036613    1 soap
+	soap WORD[35,   1]: 0.0036613 昼帯
+TOKEN[36]: 0.0036449    2 falling
+	falling WORD[36,   1]: 0.0018647 停滞
+	falling WORD[36,   2]: 0.0017802 滞納
+TOKEN[37]: 0.0036320    1 batten
+	batten WORD[37,   1]: 0.0036320 帯板
+TOKEN[38]: 0.0035445    1 opera
+	opera WORD[38,   1]: 0.0035445 昼帯
+TOKEN[39]: 0.0034914    3 side
+	side WORD[39,   1]: 0.0011975 鯨帯
+	side WORD[39,   2]: 0.0011552 外帯
+	side WORD[39,   3]: 0.0011387 内帯
+TOKEN[40]: 0.0033083    2 stiff
+	stiff WORD[40,   1]: 0.0027091 帯板
+	stiff WORD[40,   2]: 0.0005991 角帯
+TOKEN[41]: 0.0032810    1 stock
+	stock WORD[41,   1]: 0.0032810 滞貨
+TOKEN[42]: 0.0032151    1 goods
+	goods WORD[42,   1]: 0.0032151 滞貨
+TOKEN[43]: 0.0030298    3 waist
+	waist WORD[43,   1]: 0.0017623 兵児帯
+	waist WORD[43,   2]: 0.0006365 下帯
+	waist WORD[43,   3]: 0.0006311 腰帯
+TOKEN[44]: 0.0030229    1 undelivered
+	undelivered WORD[44,   1]: 0.0030229 滞貨
+TOKEN[45]: 0.0028999    1 stagnate
+	stagnate WORD[45,   1]: 0.0028999 滞る
+TOKEN[46]: 0.0028538    1 white
+	white WORD[46,   1]: 0.0028538 白帯
+TOKEN[47]: 0.0028196    1 arrhythmia
+	arrhythmia WORD[47,   1]: 0.0028196 結滞
+TOKEN[48]: 0.0027283    1 delinquency
+	delinquency WORD[48,   1]: 0.0027283 滞納
+TOKEN[49]: 0.0026066    1 outer
+	outer WORD[49,   1]: 0.0026066 上帯
+TOKEN[50]: 0.0025652    1 inactivity
+	inactivity WORD[50,   1]: 0.0025652 沈滞
+TOKEN[51]: 0.0025026    1 undone
+	undone WORD[51,   1]: 0.0025026 滞る
+TOKEN[52]: 0.0024999    1 default
+	default WORD[52,   1]: 0.0024999 滞納
+TOKEN[53]: 0.0024985    1 stockpile
+	stockpile WORD[53,   1]: 0.0024985 滞貨
+TOKEN[54]: 0.0024632    1 encampment
+	encampment WORD[54,   1]: 0.0024632 滞陣
+TOKEN[55]: 0.0024415    4 sword
+	sword WORD[55,   1]: 0.0009349 剣帯
+	sword WORD[55,   2]: 0.0009269 帯剣
+	sword WORD[55,   3]: 0.0003091 帯刀
+	sword WORD[55,   4]: 0.0002706 帯びる
+TOKEN[56]: 0.0024376    1 bandoleer
+	bandoleer WORD[56,   1]: 0.0024376 弾帯
+TOKEN[57]: 0.0023902    2 mountain
+	mountain WORD[57,   1]: 0.0012037 外帯
+	mountain WORD[57,   2]: 0.0011865 内帯
+TOKEN[58]: 0.0023599    5 zone
+	zone WORD[58,   1]: 0.0006277 寒帯
+	zone WORD[58,   2]: 0.0004732 地帯
+	zone WORD[58,   3]: 0.0004621 帯域
+	zone WORD[58,   4]: 0.0004076 温帯
+	zone WORD[58,   5]: 0.0003892 一帯
+TOKEN[59]: 0.0023533    1 inventory
+	inventory WORD[59,   1]: 0.0023533 滞貨
+TOKEN[60]: 0.0023504    1 fabric
+	fabric WORD[60,   1]: 0.0023504 帯板
+TOKEN[61]: 0.0023327    1 piling
+	piling WORD[61,   1]: 0.0023327 滞積
+TOKEN[62]: 0.0023305    1 intermittent
+	intermittent WORD[62,   1]: 0.0023305 結滞
+TOKEN[63]: 0.0022870    1 ammo
+	ammo WORD[63,   1]: 0.0022870 弾帯
+TOKEN[64]: 0.0022269    3 ligament
+	ligament WORD[64,   1]: 0.0007423 じん帯
+	ligament WORD[64,   2]: 0.0007423 靭帯
+	ligament WORD[64,   3]: 0.0007423 靱帯
+TOKEN[65]: 0.0021991    1 brown
+	brown WORD[65,   1]: 0.0021991 茶帯
+TOKEN[66]: 0.0021792    3 fastener
+	fastener WORD[66,   1]: 0.0007264 帯止め
+	fastener WORD[66,   2]: 0.0007264 帯留
+	fastener WORD[66,   3]: 0.0007264 帯留め
+TOKEN[67]: 0.0021749    1 pulse
+	pulse WORD[67,   1]: 0.0021749 結滞
+TOKEN[68]: 0.0021435    1 hindrance
+	hindrance WORD[68,   1]: 0.0021435 滞り
+TOKEN[69]: 0.0021258    1 jam
+	jam WORD[69,   1]: 0.0021258 渋滞
+TOKEN[70]: 0.0020948    1 piece
+	piece WORD[70,   1]: 0.0020948 帯板
+TOKEN[71]: 0.0020808    1 convex
+	convex WORD[71,   1]: 0.0020808 外帯
+TOKEN[72]: 0.0020791    1 shape
+	shape WORD[72,   1]: 0.0020791 帯板
+TOKEN[73]: 0.0020663    1 outstanding
+	outstanding WORD[73,   1]: 0.0020663 滞る
+TOKEN[74]: 0.0020511    1 concave
+	concave WORD[74,   1]: 0.0020511 内帯
+TOKEN[75]: 0.0020482    1 rotating
+	rotating WORD[75,   1]: 0.0020482 弾帯
+TOKEN[76]: 0.0019756    3 clip
+	clip WORD[76,   1]: 0.0006585 帯止め
+	clip WORD[76,   2]: 0.0006585 帯留
+	clip WORD[76,   3]: 0.0006585 帯留め
+TOKEN[77]: 0.0019655    1 red
+	red WORD[77,   1]: 0.0019655 赤帯
+TOKEN[78]: 0.0019628    3 bandage
+	bandage WORD[78,   1]: 0.0007265 眼帯
+	bandage WORD[78,   2]: 0.0006182 包帯
+	bandage WORD[78,   3]: 0.0006182 繃帯
+TOKEN[79]: 0.0019366    1 give
+	give WORD[79,   1]: 0.0019366 帯板
+TOKEN[80]: 0.0018955    1 fuller
+	fuller WORD[80,   1]: 0.0018955 帯枕
+TOKEN[81]: 0.0018949    3 ornament
+	ornament WORD[81,   1]: 0.0006316 帯止め
+	ornament WORD[81,   2]: 0.0006316 帯留
+	ornament WORD[81,   3]: 0.0006316 帯留め
+TOKEN[82]: 0.0018407    1 crawler
+	crawler WORD[82,   1]: 0.0018407 履帯
+TOKEN[83]: 0.0017767    1 capital
+	capital WORD[83,   1]: 0.0017767 滞京
+TOKEN[84]: 0.0017413    2 leucorrhea
+	leucorrhea WORD[84,   1]: 0.0009078 帯下
+	leucorrhea WORD[84,   2]: 0.0008335 白帯下
+TOKEN[85]: 0.0017381    1 bullet
+	bullet WORD[85,   1]: 0.0017381 弾帯
+TOKEN[86]: 0.0017304    3 leather
+	leather WORD[86,   1]: 0.0005859 帯皮
+	leather WORD[86,   2]: 0.0005859 帯革
+	leather WORD[86,   3]: 0.0005585 革帯
+TOKEN[87]: 0.0016977    1 left
+	left WORD[87,   1]: 0.0016977 滞る
+TOKEN[88]: 0.0016918    2 mucous
+	mucous WORD[88,   1]: 0.0008820 帯下
+	mucous WORD[88,   2]: 0.0008098 白帯下
+TOKEN[89]: 0.0016455    1 air
+	air WORD[89,   1]: 0.0016455 滞空
+TOKEN[90]: 0.0016135    1 fall
+	fall WORD[90,   1]: 0.0016135 滞る
+TOKEN[91]: 0.0016002    1 south
+	south WORD[91,   1]: 0.0016002 外帯
+TOKEN[92]: 0.0015964    1 driving
+	driving WORD[92,   1]: 0.0015964 弾帯
+TOKEN[93]: 0.0015394    2 two
+	two WORD[93,   1]: 0.0009592 帯枕
+	two WORD[93,   2]: 0.0005803 兼帯
+TOKEN[94]: 0.0015392    1 north
+	north WORD[94,   1]: 0.0015392 内帯
+TOKEN[95]: 0.0014995    1 caterpillar
+	caterpillar WORD[95,   1]: 0.0014995 履帯
+TOKEN[96]: 0.0014889    2 genitals
+	genitals WORD[96,   1]: 0.0007763 帯下
+	genitals WORD[96,   2]: 0.0007127 白帯下
+TOKEN[97]: 0.0014574    1 shell
+	shell WORD[97,   1]: 0.0014574 弾帯
+TOKEN[98]: 0.0014336    1 strip
+	strip WORD[98,   1]: 0.0007168 帯
+TOKEN[99]: 0.0014270    1 oval
+	oval WORD[99,   1]: 0.0014270 帯枕
+TOKEN[100]: 0.0014230    2 wrapper
+	wrapper WORD[100,   1]: 0.0007116 帯封
+	wrapper WORD[100,   2]: 0.0007114 帯紙
+TOKEN[101]: 0.0014228    2 cartridge
+	cartridge WORD[101,   1]: 0.0007114 帯皮
+	cartridge WORD[101,   2]: 0.0007114 帯革
+TOKEN[102]: 0.0014198    1 endless
+	endless WORD[102,   1]: 0.0014198 履帯
+TOKEN[103]: 0.0013679    1 different
+	different WORD[103,   1]: 0.0013679 鯨帯
+TOKEN[104]: 0.0013586    2 ancillary
+	ancillary WORD[104,   1]: 0.0006793 付帯
+	ancillary WORD[104,   2]: 0.0006793 附帯
+TOKEN[105]: 0.0013386    1 tied
+	tied WORD[105,   1]: 0.0013386 帯枕
+TOKEN[106]: 0.0013335    1 tread
+	tread WORD[106,   1]: 0.0013335 履帯
+TOKEN[107]: 0.0013333    1 colour
+	colour WORD[107,   1]: 0.0013333 鯨帯
+TOKEN[108]: 0.0013224    2 maternity
+	maternity WORD[108,   1]: 0.0008166 腹帯
+	maternity WORD[108,   2]: 0.0005058 着帯
+TOKEN[109]: 0.0013099    1 pad
+	pad WORD[109,   1]: 0.0013099 帯枕
+TOKEN[110]: 0.0012999    1 continuous
+	continuous WORD[110,   1]: 0.0012999 履帯
+TOKEN[111]: 0.0012968    1 relation
+	relation WORD[111,   1]: 0.0012968 紐帯
+TOKEN[112]: 0.0012939    1 tank
+	tank WORD[112,   1]: 0.0012939 履帯
+TOKEN[113]: 0.0012910    1 strap
+	strap WORD[113,   1]: 0.0012910 帯封
+TOKEN[114]: 0.0012311    1 currency
+	currency WORD[114,   1]: 0.0012311 帯封
+TOKEN[115]: 0.0012229    2 discharge
+	discharge WORD[115,   1]: 0.0006376 帯下
+	discharge WORD[115,   2]: 0.0005853 白帯下
+TOKEN[116]: 0.0012189    2 decorative
+	decorative WORD[116,   1]: 0.0006095 帯締
+	decorative WORD[116,   2]: 0.0006095 帯締め
+TOKEN[117]: 0.0012168    2 incidental
+	incidental WORD[117,   1]: 0.0006084 付帯
+	incidental WORD[117,   2]: 0.0006084 附帯
+TOKEN[118]: 0.0011849    3 wearing
+	wearing WORD[118,   1]: 0.0004013 着帯
+	wearing WORD[118,   2]: 0.0003919 帯刀
+	wearing WORD[118,   3]: 0.0003917 帯剣
+TOKEN[119]: 0.0011797    2 accessory
+	accessory WORD[119,   1]: 0.0005898 付帯
+	accessory WORD[119,   2]: 0.0005898 附帯
+TOKEN[120]: 0.0011730    1 important
+	important WORD[120,   1]: 0.0011730 紐帯
+TOKEN[121]: 0.0011645    2 collateral
+	collateral WORD[121,   1]: 0.0005822 付帯
+	collateral WORD[121,   2]: 0.0005822 附帯
+TOKEN[122]: 0.0011312    1 men
+	men WORD[122,   1]: 0.0011312 男帯
+TOKEN[123]: 0.0011277    3 used
+	used WORD[123,   1]: 0.0003859 帯締
+	used WORD[123,   2]: 0.0003859 帯締め
+	used WORD[123,   3]: 0.0003559 岩田帯
+TOKEN[124]: 0.0011244    2 string
+	string WORD[124,   1]: 0.0005622 帯締
+	string WORD[124,   2]: 0.0005622 帯締め
+TOKEN[125]: 0.0011081    2 dress
+	dress WORD[125,   1]: 0.0005886 束帯
+	dress WORD[125,   2]: 0.0005194 衣帯
+TOKEN[126]: 0.0011001    2 gun
+	gun WORD[126,   1]: 0.0005500 帯皮
+	gun WORD[126,   2]: 0.0005500 帯革
+TOKEN[127]: 0.0010750    1 cingulum
+	cingulum WORD[127,   1]: 0.0005375 帯
+TOKEN[128]: 0.0010680    2 secondary
+	secondary WORD[128,   1]: 0.0005340 付帯
+	secondary WORD[128,   2]: 0.0005340 附帯
+TOKEN[129]: 0.0010591    2 female
+	female WORD[129,   1]: 0.0005522 帯下
+	female WORD[129,   2]: 0.0005070 白帯下
+TOKEN[130]: 0.0010453    2 housekeeping
+	housekeeping WORD[130,   1]: 0.0005226 世帯
+	housekeeping WORD[130,   2]: 0.0005226 所帯
+TOKEN[131]: 0.0010168    2 dressing
+	dressing WORD[131,   1]: 0.0005084 包帯
+	dressing WORD[131,   2]: 0.0005084 繃帯
+TOKEN[132]: 0.0010024    2 court
+	court WORD[132,   1]: 0.0005325 束帯
+	court WORD[132,   2]: 0.0004699 衣帯
+TOKEN[133]: 0.0009932    2 cloth
+	cloth WORD[133,   1]: 0.0005014 下帯
+	cloth WORD[133,   2]: 0.0004918 帯地
+TOKEN[134]: 0.0009928    1 long
+	long WORD[134,   1]: 0.0009928 帯枕
+TOKEN[135]: 0.0009575    1 subtropics
+	subtropics WORD[135,   1]: 0.0009575 暖帯
+TOKEN[136]: 0.0009135    1 look
+	look WORD[136,   1]: 0.0009135 帯枕
+TOKEN[137]: 0.0009109    2 hold
+	hold WORD[137,   1]: 0.0004555 帯締
+	hold WORD[137,   2]: 0.0004555 帯締め
+TOKEN[138]: 0.0008757    1 slot
+	slot WORD[138,   1]: 0.0004378 帯
+TOKEN[139]: 0.0008698    1 bellyband
+	bellyband WORD[139,   1]: 0.0008698 腹帯
+TOKEN[140]: 0.0008668    1 girdle
+	girdle WORD[140,   1]: 0.0008668 腰帯
+TOKEN[141]: 0.0008292    1 television
+	television WORD[141,   1]: 0.0004146 帯
+TOKEN[142]: 0.0008247    2 book
+	book WORD[142,   1]: 0.0002998 帯出
+	book WORD[142,   2]: 0.0002625 帯
+TOKEN[143]: 0.0008243    1 ensure
+	ensure WORD[143,   1]: 0.0008243 帯祝い
+TOKEN[144]: 0.0008166    1 girth
+	girth WORD[144,   1]: 0.0008166 腹帯
+TOKEN[145]: 0.0008026    1 make
+	make WORD[145,   1]: 0.0008026 帯枕
+TOKEN[146]: 0.0007939    2 place
+	place WORD[146,   1]: 0.0003970 帯締
+	place WORD[146,   2]: 0.0003970 帯締め
+TOKEN[147]: 0.0007879    1 broadcast
+	broadcast WORD[147,   1]: 0.0003939 帯
+TOKEN[148]: 0.0007767    2 household
+	household WORD[148,   1]: 0.0003884 世帯
+	household WORD[148,   2]: 0.0003884 所帯
+TOKEN[149]: 0.0007731    1 phone
+	phone WORD[149,   1]: 0.0007731 携帯
+TOKEN[150]: 0.0007645    1 saddle
+	saddle WORD[150,   1]: 0.0007645 腹帯
+TOKEN[151]: 0.0007627    1 radio
+	radio WORD[151,   1]: 0.0003814 帯
+TOKEN[152]: 0.0007597    2 use
+	use WORD[152,   1]: 0.0004654 男帯
+	use WORD[152,   2]: 0.0002943 兼帯
+TOKEN[153]: 0.0007553    1 designed
+	designed WORD[153,   1]: 0.0007553 帯祝い
+TOKEN[154]: 0.0007266    1 solidarity
+	solidarity WORD[154,   1]: 0.0007266 連帯
+TOKEN[155]: 0.0007126    1 loincloth
+	loincloth WORD[155,   1]: 0.0007126 下帯
+TOKEN[156]: 0.0007020    1 program
+	program WORD[156,   1]: 0.0003510 帯
+TOKEN[157]: 0.0006848    2 money
+	money WORD[157,   1]: 0.0004298 帯封
+	money WORD[157,   2]: 0.0002550 拐帯
+TOKEN[158]: 0.0006832    1 padding
+	padding WORD[158,   1]: 0.0006832 帯芯
+TOKEN[159]: 0.0006823    1 intimate
+	intimate WORD[159,   1]: 0.0006823 紐帯
+TOKEN[160]: 0.0006795    1 product
+	product WORD[160,   1]: 0.0003397 帯
+TOKEN[161]: 0.0006705    1 frigid
+	frigid WORD[161,   1]: 0.0006705 寒帯
+TOKEN[162]: 0.0006694    2 region
+	region WORD[162,   1]: 0.0003673 地帯
+	region WORD[162,   2]: 0.0003021 一帯
+TOKEN[163]: 0.0006604    1 tight
+	tight WORD[163,   1]: 0.0006604 紐帯
+TOKEN[164]: 0.0006551    1 saw
+	saw WORD[164,   1]: 0.0006551 帯鋸
+TOKEN[165]: 0.0006503    1 link
+	link WORD[165,   1]: 0.0006503 紐帯
+TOKEN[166]: 0.0006481    1 ceremonial
+	ceremonial WORD[166,   1]: 0.0006481 束帯
+TOKEN[167]: 0.0006478    1 collective
+	collective WORD[167,   1]: 0.0006478 連帯
+TOKEN[168]: 0.0006259    1 pregnancy
+	pregnancy WORD[168,   1]: 0.0006259 岩田帯
+TOKEN[169]: 0.0006226    1 foundation
+	foundation WORD[169,   1]: 0.0006226 紐帯
+TOKEN[170]: 0.0006219    1 safe
+	safe WORD[170,   1]: 0.0006219 帯祝い
+TOKEN[171]: 0.0006203    1 days
+	days WORD[171,   1]: 0.0003101 帯
+TOKEN[172]: 0.0006146    1 information
+	information WORD[172,   1]: 0.0003073 帯
+TOKEN[173]: 0.0006143    1 fifth
+	fifth WORD[173,   1]: 0.0006143 岩田帯
+TOKEN[174]: 0.0006078    2 home
+	home WORD[174,   1]: 0.0003039 世帯
+	home WORD[174,   2]: 0.0003039 所帯
+TOKEN[175]: 0.0006016    1 connection
+	connection WORD[175,   1]: 0.0006016 紐帯
+TOKEN[176]: 0.0005984    1 social
+	social WORD[176,   1]: 0.0005984 紐帯
+TOKEN[177]: 0.0005969    2 taking
+	taking WORD[177,   1]: 0.0002985 帯同
+	taking WORD[177,   2]: 0.0002984 帯出
+TOKEN[178]: 0.0005901    1 machine
+	machine WORD[178,   1]: 0.0005901 調べ帯
+TOKEN[179]: 0.0005890    1 newspaper
+	newspaper WORD[179,   1]: 0.0005890 帯封
+TOKEN[180]: 0.0005802    1 relationship
+	relationship WORD[180,   1]: 0.0005802 紐帯
+TOKEN[181]: 0.0005623    1 close
+	close WORD[181,   1]: 0.0005623 紐帯
+TOKEN[182]: 0.0005590    1 whole
+	whole WORD[182,   1]: 0.0005590 一帯
+TOKEN[183]: 0.0005540    1 electrification
+	electrification WORD[183,   1]: 0.0005540 帯電
+TOKEN[184]: 0.0005510    2 family
+	family WORD[184,   1]: 0.0002755 世帯
+	family WORD[184,   2]: 0.0002755 所帯
+TOKEN[185]: 0.0005483    1 bill
+	bill WORD[185,   1]: 0.0005483 帯封
+TOKEN[186]: 0.0005412    1 birth
+	birth WORD[186,   1]: 0.0005412 帯祝い
+TOKEN[187]: 0.0005333    1 material
+	material WORD[187,   1]: 0.0005333 帯地
+TOKEN[188]: 0.0005326    1 drive
+	drive WORD[188,   1]: 0.0005326 調べ帯
+TOKEN[189]: 0.0005309    1 iron
+	iron WORD[189,   1]: 0.0005309 帯金
+TOKEN[190]: 0.0005267    1 thick
+	thick WORD[190,   1]: 0.0005267 帯芯
+TOKEN[191]: 0.0005242    1 umbilical
+	umbilical WORD[191,   1]: 0.0005242 臍帯
+TOKEN[192]: 0.0005122    1 paper
+	paper WORD[192,   1]: 0.0002561 帯
+TOKEN[193]: 0.0004918    1 joint
+	joint WORD[193,   1]: 0.0004918 連帯
+TOKEN[194]: 0.0004890    1 ceremony
+	ceremony WORD[194,   1]: 0.0004890 帯祝い
+TOKEN[195]: 0.0004885    1 back
+	back WORD[195,   1]: 0.0004885 岩田帯
+TOKEN[196]: 0.0004779    1 armed
+	armed WORD[196,   1]: 0.0004779 帯剣
+TOKEN[197]: 0.0004774    1 eye
+	eye WORD[197,   1]: 0.0004774 眼帯
+TOKEN[198]: 0.0004761    1 support
+	support WORD[198,   1]: 0.0004761 岩田帯
+TOKEN[199]: 0.0004739    1 black
+	black WORD[199,   1]: 0.0004739 黒帯
+TOKEN[200]: 0.0004733    1 marrying
+	marrying WORD[200,   1]: 0.0004733 妻帯
+TOKEN[201]: 0.0004666    1 full
+	full WORD[201,   1]: 0.0004666 衣帯
+TOKEN[202]: 0.0004661    1 clothes
+	clothes WORD[202,   1]: 0.0004661 衣帯
+TOKEN[203]: 0.0004657    1 child
+	child WORD[203,   1]: 0.0004657 帯祝い
+TOKEN[204]: 0.0004605    1 tinged
+	tinged WORD[204,   1]: 0.0004605 帯びる
+TOKEN[205]: 0.0004604    1 old
+	old WORD[205,   1]: 0.0004604 束帯
+TOKEN[206]: 0.0004549    1 time
+	time WORD[206,   1]: 0.0002274 帯
+TOKEN[207]: 0.0004514    1 vocal
+	vocal WORD[207,   1]: 0.0004514 声帯
+TOKEN[208]: 0.0004476    1 month
+	month WORD[208,   1]: 0.0004476 岩田帯
+TOKEN[209]: 0.0004448    1 borrowing
+	borrowing WORD[209,   1]: 0.0004448 帯出
+TOKEN[210]: 0.0004375    1 mobile
+	mobile WORD[210,   1]: 0.0004375 携帯
+TOKEN[211]: 0.0004317    1 combined
+	combined WORD[211,   1]: 0.0004317 兼帯
+TOKEN[212]: 0.0004316    1 library
+	library WORD[212,   1]: 0.0004316 帯出
+TOKEN[213]: 0.0004316    1 removing
+	removing WORD[213,   1]: 0.0004316 帯出
+TOKEN[214]: 0.0004288    1 man
+	man WORD[214,   1]: 0.0004288 角帯
+TOKEN[215]: 0.0004176    1 temperate
+	temperate WORD[215,   1]: 0.0004176 温帯
+TOKEN[216]: 0.0004048    1 mission
+	mission WORD[216,   1]: 0.0004048 帯びる
+TOKEN[217]: 0.0004025    1 tract
+	tract WORD[217,   1]: 0.0004025 一帯
+TOKEN[218]: 0.0003908    1 cell
+	cell WORD[218,   1]: 0.0003908 携帯
+TOKEN[219]: 0.0003829    1 range
+	range WORD[219,   1]: 0.0003829 帯域
+TOKEN[220]: 0.0003766    1 filling
+	filling WORD[220,   1]: 0.0003766 兼帯
+TOKEN[221]: 0.0003664    1 marriage
+	marriage WORD[221,   1]: 0.0003664 妻帯
+TOKEN[222]: 0.0003649    1 combination
+	combination WORD[222,   1]: 0.0003649 兼帯
+TOKEN[223]: 0.0003608    1 trace
+	trace WORD[223,   1]: 0.0003608 帯びる
+TOKEN[224]: 0.0003492    1 decoration
+	decoration WORD[224,   1]: 0.0003492 帯びる
+TOKEN[225]: 0.0003469    1 serving
+	serving WORD[225,   1]: 0.0003469 兼帯
+TOKEN[226]: 0.0003398    1 carrying
+	carrying WORD[226,   1]: 0.0003398 携帯
+TOKEN[227]: 0.0003281    1 wife
+	wife WORD[227,   1]: 0.0003281 妻帯
+TOKEN[228]: 0.0003239    1 stretch
+	stretch WORD[228,   1]: 0.0003239 一帯
+TOKEN[229]: 0.0003128    1 wear
+	wear WORD[229,   1]: 0.0003128 帯びる
+TOKEN[230]: 0.0002972    1 carry
+	carry WORD[230,   1]: 0.0002972 帯びる
+TOKEN[231]: 0.0002875    1 woman
+	woman WORD[231,   1]: 0.0002875 妻帯
+TOKEN[232]: 0.0002727    1 hand
+	hand WORD[232,   1]: 0.0002727 携帯
+TOKEN[233]: 0.0002606    1 land
+	land WORD[233,   1]: 0.0002606 一帯
+TOKEN[234]: 0.0002307    1 take
+	take WORD[234,   1]: 0.0002307 帯びる
+TOKEN[235]: 0.0002296    1 someone
+	someone WORD[235,   1]: 0.0002296 帯同
+TOKEN[236]: 0.0002129    1 person
+	person WORD[236,   1]: 0.0002129 携帯
+TOKEN[237]: 0.0001524    1 one
+	one WORD[237,   1]: 0.0001524 携帯

@@ -1,0 +1,205 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1753755    6 unit           : 解隊, 隊旗, 帰隊, 原隊, 部隊, 隊
+0.1660542    5 military       : 解隊, 隊務, 隊旗, 除隊, 軍隊
+0.1129629    1 breaking       : 解隊
+0.0348323    5 force          : 全隊, 支隊, 枝隊, 本隊, 部隊
+0.0258366    4 squad          : 分隊, 部隊, 隊, 一隊
+0.0246506    4 formation      : 編隊, 隊伍, 隊形, 隊列
+0.0208869    1 colors         : 隊旗
+0.0207690    1 entire         : 全隊
+0.0195317    1 flag           : 隊旗
+0.0192087    1 regimental     : 隊士
+0.0181302    2 soldier        : 隊士, 兵隊
+0.0162194    2 regiment       : 聯隊, 連隊
+0.0161641    1 work           : 隊務
+0.0158791    3 team           : 分隊, 隊員, 隊
+0.0150534    2 detachment     : 支隊, 枝隊
+0.0146556    2 detached       : 支隊, 枝隊
+0.0137630    3 rank           : 隊伍, 横隊, 隊列
+0.0136363    2 fleet          : 船隊, 艦隊
+0.0120866    3 company        : 中隊, 隊, 一隊
+0.0117601    2 corps          : 部隊, 隊
+0.0110823    2 column         : 縦隊, 隊列
+0.0107909    2 army           : 帰隊, 本隊
+0.0105451    3 party          : 部隊, 隊, 一隊
+0.0102063    1 battalion      : 大隊
+0.0100744    1 platoon        : 小隊
+0.0094522    2 line           : 隊伍, 横隊
+0.0089019    1 troop          : 中隊
+0.0083759    1 main           : 本隊
+0.0083085    1 array          : 隊伍
+0.0081717    1 battery        : 中隊
+0.0075779    1 aircraft       : 編隊
+0.0074848    1 orchestra      : 楽隊
+0.0072368    1 procession     : 隊伍
+0.0070557    2 group          : 隊員, 隊
+0.0070029    2 body           : 本隊, 隊
+0.0065884    1 caravan        : 隊商
+0.0065370    1 disposition    : 隊形
+0.0064300    1 band           : 楽隊
+0.0061418    1 squadron       : 戦隊
+0.0059727    1 sailor         : 兵隊
+0.0059721    1 armada         : 艦隊
+0.0059129    1 enlistment     : 入隊
+0.0058218    1 battle         : 隊形
+0.0051787    1 crew           : 隊
+0.0051279    2 one            : 帰隊, 原隊
+0.0050833    1 commanding     : 隊長
+0.0048807    1 home           : 原隊
+0.0047759    1 armed          : 軍隊
+0.0045714    1 quarters       : 隊舎
+0.0045360    1 officer        : 隊長
+0.0044637    1 naval          : 艦隊
+0.0042058    1 file           : 隊列
+0.0040790    1 discharge      : 除隊
+0.0039972    1 gang           : 一隊
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1753755    6 unit
+	unit WORD[ 1,   1]: 0.1172930 解隊
+	unit WORD[ 1,   2]: 0.0374048 隊旗
+	unit WORD[ 1,   3]: 0.0059347 帰隊
+	unit WORD[ 1,   4]: 0.0058801 原隊
+	unit WORD[ 1,   5]: 0.0048191 部隊
+	unit WORD[ 1,   6]: 0.0040438 隊
+TOKEN[ 2]: 0.1660542    5 military
+	military WORD[ 2,   1]: 0.1038845 解隊
+	military WORD[ 2,   2]: 0.0387685 隊務
+	military WORD[ 2,   3]: 0.0165644 隊旗
+	military WORD[ 2,   4]: 0.0035010 除隊
+	military WORD[ 2,   5]: 0.0033358 軍隊
+TOKEN[ 3]: 0.1129629    1 breaking
+	breaking WORD[ 3,   1]: 0.1129629 解隊
+TOKEN[ 4]: 0.0348323    5 force
+	force WORD[ 4,   1]: 0.0158995 全隊
+	force WORD[ 4,   2]: 0.0052890 支隊
+	force WORD[ 4,   3]: 0.0052890 枝隊
+	force WORD[ 4,   4]: 0.0042022 本隊
+	force WORD[ 4,   5]: 0.0041525 部隊
+TOKEN[ 5]: 0.0258366    4 squad
+	squad WORD[ 5,   1]: 0.0093191 分隊
+	squad WORD[ 5,   2]: 0.0064879 部隊
+	squad WORD[ 5,   3]: 0.0054441 隊
+	squad WORD[ 5,   4]: 0.0045856 一隊
+TOKEN[ 6]: 0.0246506    4 formation
+	formation WORD[ 6,   1]: 0.0073047 編隊
+	formation WORD[ 6,   2]: 0.0065556 隊伍
+	formation WORD[ 6,   3]: 0.0065534 隊形
+	formation WORD[ 6,   4]: 0.0042370 隊列
+TOKEN[ 7]: 0.0208869    1 colors
+	colors WORD[ 7,   1]: 0.0208869 隊旗
+TOKEN[ 8]: 0.0207690    1 entire
+	entire WORD[ 8,   1]: 0.0207690 全隊
+TOKEN[ 9]: 0.0195317    1 flag
+	flag WORD[ 9,   1]: 0.0195317 隊旗
+TOKEN[10]: 0.0192087    1 regimental
+	regimental WORD[10,   1]: 0.0192087 隊士
+TOKEN[11]: 0.0181302    2 soldier
+	soldier WORD[11,   1]: 0.0130945 隊士
+	soldier WORD[11,   2]: 0.0050357 兵隊
+TOKEN[12]: 0.0162194    2 regiment
+	regiment WORD[12,   1]: 0.0081097 聯隊
+	regiment WORD[12,   2]: 0.0081097 連隊
+TOKEN[13]: 0.0161641    1 work
+	work WORD[13,   1]: 0.0161641 隊務
+TOKEN[14]: 0.0158791    3 team
+	team WORD[14,   1]: 0.0073230 分隊
+	team WORD[14,   2]: 0.0042782 隊員
+	team WORD[14,   3]: 0.0042780 隊
+TOKEN[15]: 0.0150534    2 detachment
+	detachment WORD[15,   1]: 0.0075267 支隊
+	detachment WORD[15,   2]: 0.0075267 枝隊
+TOKEN[16]: 0.0146556    2 detached
+	detached WORD[16,   1]: 0.0073278 支隊
+	detached WORD[16,   2]: 0.0073278 枝隊
+TOKEN[17]: 0.0137630    3 rank
+	rank WORD[17,   1]: 0.0054002 隊伍
+	rank WORD[17,   2]: 0.0048726 横隊
+	rank WORD[17,   3]: 0.0034902 隊列
+TOKEN[18]: 0.0136363    2 fleet
+	fleet WORD[18,   1]: 0.0087002 船隊
+	fleet WORD[18,   2]: 0.0049361 艦隊
+TOKEN[19]: 0.0120866    3 company
+	company WORD[19,   1]: 0.0056337 中隊
+	company WORD[19,   2]: 0.0035027 隊
+	company WORD[19,   3]: 0.0029503 一隊
+TOKEN[20]: 0.0117601    2 corps
+	corps WORD[20,   1]: 0.0063944 部隊
+	corps WORD[20,   2]: 0.0053657 隊
+TOKEN[21]: 0.0110823    2 column
+	column WORD[21,   1]: 0.0068453 縦隊
+	column WORD[21,   2]: 0.0042370 隊列
+TOKEN[22]: 0.0107909    2 army
+	army WORD[22,   1]: 0.0059234 帰隊
+	army WORD[22,   2]: 0.0048674 本隊
+TOKEN[23]: 0.0105451    3 party
+	party WORD[23,   1]: 0.0041420 部隊
+	party WORD[23,   2]: 0.0034756 隊
+	party WORD[23,   3]: 0.0029275 一隊
+TOKEN[24]: 0.0102063    1 battalion
+	battalion WORD[24,   1]: 0.0102063 大隊
+TOKEN[25]: 0.0100744    1 platoon
+	platoon WORD[25,   1]: 0.0100744 小隊
+TOKEN[26]: 0.0094522    2 line
+	line WORD[26,   1]: 0.0049688 隊伍
+	line WORD[26,   2]: 0.0044834 横隊
+TOKEN[27]: 0.0089019    1 troop
+	troop WORD[27,   1]: 0.0089019 中隊
+TOKEN[28]: 0.0083759    1 main
+	main WORD[28,   1]: 0.0083759 本隊
+TOKEN[29]: 0.0083085    1 array
+	array WORD[29,   1]: 0.0083085 隊伍
+TOKEN[30]: 0.0081717    1 battery
+	battery WORD[30,   1]: 0.0081717 中隊
+TOKEN[31]: 0.0075779    1 aircraft
+	aircraft WORD[31,   1]: 0.0075779 編隊
+TOKEN[32]: 0.0074848    1 orchestra
+	orchestra WORD[32,   1]: 0.0074848 楽隊
+TOKEN[33]: 0.0072368    1 procession
+	procession WORD[33,   1]: 0.0072368 隊伍
+TOKEN[34]: 0.0070557    2 group
+	group WORD[34,   1]: 0.0035279 隊員
+	group WORD[34,   2]: 0.0035278 隊
+TOKEN[35]: 0.0070029    2 body
+	body WORD[35,   1]: 0.0038284 本隊
+	body WORD[35,   2]: 0.0031745 隊
+TOKEN[36]: 0.0065884    1 caravan
+	caravan WORD[36,   1]: 0.0065884 隊商
+TOKEN[37]: 0.0065370    1 disposition
+	disposition WORD[37,   1]: 0.0065370 隊形
+TOKEN[38]: 0.0064300    1 band
+	band WORD[38,   1]: 0.0064300 楽隊
+TOKEN[39]: 0.0061418    1 squadron
+	squadron WORD[39,   1]: 0.0061418 戦隊
+TOKEN[40]: 0.0059727    1 sailor
+	sailor WORD[40,   1]: 0.0059727 兵隊
+TOKEN[41]: 0.0059721    1 armada
+	armada WORD[41,   1]: 0.0059721 艦隊
+TOKEN[42]: 0.0059129    1 enlistment
+	enlistment WORD[42,   1]: 0.0059129 入隊
+TOKEN[43]: 0.0058218    1 battle
+	battle WORD[43,   1]: 0.0058218 隊形
+TOKEN[44]: 0.0051787    1 crew
+	crew WORD[44,   1]: 0.0051787 隊
+TOKEN[45]: 0.0051279    2 one
+	one WORD[45,   1]: 0.0025758 帰隊
+	one WORD[45,   2]: 0.0025521 原隊
+TOKEN[46]: 0.0050833    1 commanding
+	commanding WORD[46,   1]: 0.0050833 隊長
+TOKEN[47]: 0.0048807    1 home
+	home WORD[47,   1]: 0.0048807 原隊
+TOKEN[48]: 0.0047759    1 armed
+	armed WORD[48,   1]: 0.0047759 軍隊
+TOKEN[49]: 0.0045714    1 quarters
+	quarters WORD[49,   1]: 0.0045714 隊舎
+TOKEN[50]: 0.0045360    1 officer
+	officer WORD[50,   1]: 0.0045360 隊長
+TOKEN[51]: 0.0044637    1 naval
+	naval WORD[51,   1]: 0.0044637 艦隊
+TOKEN[52]: 0.0042058    1 file
+	file WORD[52,   1]: 0.0042058 隊列
+TOKEN[53]: 0.0040790    1 discharge
+	discharge WORD[53,   1]: 0.0040790 除隊
+TOKEN[54]: 0.0039972    1 gang
+	gang WORD[54,   1]: 0.0039972 一隊

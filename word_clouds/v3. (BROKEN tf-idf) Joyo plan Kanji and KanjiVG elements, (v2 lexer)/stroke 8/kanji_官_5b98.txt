@@ -1,0 +1,719 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2479433    1 officialdom    : 官公吏
+0.1415584    2 publication    : 官本, 官版
+0.1326655   40 official       : 官本, 祭官, 官宅, 位官, 内官, 官禄, 京官, 官司, 官名, 解官, ...
+0.1238433   39 government     : 官本, 官禄, 官物, 官司, 官展, 官公署, 官地, 官兵, 解官, 官庫, ...
+0.0834004    1 belonging      : 官本
+0.0618927    1 festival       : 祭官
+0.0596992   13 office         : 官本, 官司, 官署, 本官, 無官, 被官, 官位, 官衙, 任官, 退官, ...
+0.0518707    1 book           : 官本
+0.0105189   10 public         : 官宅, 内官, 官公署, 京官, 官地, 官司, 官戸, 官吏, 官民, 官公庁
+0.0073583    3 residence      : 官宅, 官舎, 官邸
+0.0044124    6 rank           : 位官, 官禄, 官位, 官等, 尉官, 官爵
+0.0032656    6 system         : 内官, 京官, 官物, 官戸, 被官, 判官
+0.0027476    2 capital        : 内官, 京官
+0.0023857    3 position       : 位官, 官名, 官職
+0.0023442    4 governmental   : 官窯, 弁官, 官立, 官権
+0.0022963    3 sense          : 内官, 五官, 感官
+0.0022540    9 officer        : 武官, 医官, 尉官, 佐官, 技官, 判官, 上官, 士官, 警官
+0.0022240    1 internal       : 内官
+0.0020711    1 stipend        : 官禄
+0.0018461    1 salary         : 官禄
+0.0016678    3 dynasty        : 秋官, 天官, 官話
+0.0013692    4 post           : 本官, 前官, 官爵, 兼官
+0.0012869    1 furnace        : 官窯
+0.0012184    5 civil          : 文武官, 本官, 文官, 官職, 官吏
+0.0011940    1 porcelain      : 官窯
+0.0009679    1 land           : 官地
+0.0009645    3 agency         : 官公署, 官衙, 官庁
+0.0008925    4 service        : 官職, 仕官, 本官, 官途
+0.0008184    2 shogunate      : 官寺, 官版
+0.0007798    3 period         : 官寺, 荘官, 代官
+0.0007460    1 exhibition     : 官展
+0.0007377    1 favored        : 官寺
+0.0007215    2 servant        : 被官, 官吏
+0.0006655    2 title          : 官名, 無官
+0.0006529    2 administrator  : 荘官, 代官
+0.0006392    1 enlisted       : 官兵
+0.0006003    3 Edo            : 荘官, 官版, 代官
+0.0005600    1 headman        : 荘官
+0.0005469    2 national       : 官庫, 官立
+0.0005435    1 property       : 官物
+0.0005347    1 treasury       : 官庫
+0.0005301    1 manor          : 荘官
+0.0005186    2 chief          : 長官, 官
+0.0005128    1 warehouse      : 官庫
+0.0005121    1 State          : 天官
+0.0005119    2 military       : 文武官, 武官
+0.0005076    3 court          : 女官, 官女, 官爵
+0.0004776    1 ship           : 官船
+0.0004681    1 responsible    : 弁官
+0.0004528    1 provincial     : 弁官
+0.0004484    1 compilation    : 官撰
+0.0004409    1 soldier        : 官兵
+0.0004266    1 undersecretary : 次官
+0.0004264    2 judge          : 法官, 判官
+0.0004243    2 bureaucracy    : 官界, 官僚
+0.0004219    2 magistrate     : 判官, 代官
+0.0004210    1 spoken         : 官話
+0.0004198    1 central        : 弁官
+0.0004182    2 lady           : 女官, 官女
+0.0004167    1 administration : 官治
+0.0004130    1 technical      : 技官
+0.0004097    1 village        : 荘官
+0.0004089    2 Chinese        : 官話, 官版
+0.0004010    1 division       : 弁官
+0.0003964    1 medical        : 医官
+0.0003702    1 direct         : 官治
+0.0003674    1 adjutant       : 副官
+0.0003595    1 concurrent     : 兼官
+0.0003505    1 chronicler     : 史官
+0.0003495    2 organ          : 感官, 器官
+0.0003430    1 management     : 官営
+0.0003429    1 serf           : 被官
+0.0003384    2 teacher        : 儒官, 教官
+0.0003375    1 secretary      : 長官
+0.0003268    1 carnality      : 官能
+0.0003230    1 business       : 官事
+0.0003162    1 aide           : 副官
+0.0003095    1 director       : 長官
+0.0003062    1 sector         : 官民
+0.0003013    1 supernumerary  : 冗官
+0.0002975    1 gazette        : 官報
+0.0002897    1 sensuality     : 官能
+0.0002839    1 admiral        : 将官
+0.0002774    2 person         : 被官, 官
+0.0002753    1 naval          : 武官
+0.0002745    1 eunuch         : 宦官
+0.0002682    1 southwestern   : 官話
+0.0002607    1 clerk          : 属官
+0.0002591    1 permanent      : 本官
+0.0002584    1 urban          : 被官
+0.0002553    1 secondary      : 本官
+0.0002549    1 principal      : 本官
+0.0002529    1 retainer       : 被官
+0.0002516    1 local          : 代官
+0.0002508    1 subordinate    : 属官
+0.0002477    2 holding        : 在官, 兼官
+0.0002452    1 Confucian      : 儒官
+0.0002430    1 religious      : 官
+0.0002409    1 textbook       : 官版
+0.0002398    1 employ         : 官途
+0.0002376    1 higher         : 被官
+0.0002354    1 petty          : 小官
+0.0002343    1 telegram       : 官報
+0.0002278    1 opposed        : 本官
+0.0002278    1 regular        : 本官
+0.0002183    1 private        : 官民
+0.0002150    1 classes        : 官話
+0.0002149    1 quarters       : 官辺
+0.0002135    1 lower          : 被官
+0.0002112    1 middle         : 被官
+0.0002101    1 uniform        : 官服
+0.0002098    1 investiture    : 任官
+0.0002066    1 established    : 官設
+0.0002064    1 funds          : 官金
+0.0002052    1 bailiff        : 代官
+0.0002052    1 priest         : 神官
+0.0002035    1 Shinto         : 神官
+0.0002004    1 daily          : 官報
+0.0002001    1 northern       : 官話
+0.0002001    1 plasterer      : 左官
+0.0002000    1 demand         : 官需
+0.0001989    1 dismissal      : 免官
+0.0001948    1 five           : 五官
+0.0001930    1 inspector      : 判官
+0.0001927    1 woman          : 官
+0.0001923    1 dress          : 官服
+0.0001907    1 follow         : 官紀
+0.0001902    1 head           : 官
+0.0001881    1 authority      : 官権
+0.0001866    1 bureaucrat     : 官僚
+0.0001860    1 standard       : 官話
+0.0001850    1 branch         : 官話
+0.0001847    1 seal           : 官印
+0.0001838    1 major          : 尉官
+0.0001832    1 former         : 前官
+0.0001827    1 secretariat    : 官房
+0.0001823    1 general        : 将官
+0.0001817    1 constable      : 警官
+0.0001812    1 discharge      : 免官
+0.0001794    1 loyalist       : 官軍
+0.0001776    1 variety        : 官話
+0.0001756    1 field          : 佐官
+0.0001743    1 assistant      : 判官
+0.0001740    1 grade          : 判官
+0.0001688    1 appointment    : 任官
+0.0001685    1 commission     : 任官
+0.0001646    1 deputy         : 代官
+0.0001628    1 governor       : 代官
+0.0001623    1 run            : 官設
+0.0001607    1 family         : 被官
+0.0001595    1 professor      : 教官
+0.0001579    1 instructor     : 教官
+0.0001575    1 district       : 判官
+0.0001543    1 policeman      : 警官
+0.0001529    1 company        : 尉官
+0.0001506    1 finding        : 仕官
+0.0001487    1 retirement     : 退官
+0.0001465    1 someone        : 本官
+0.0001464    1 permit         : 官許
+0.0001433    1 municipal      : 官公庁
+0.0001420    1 school         : 官学
+0.0001402    1 acting         : 代官
+0.0001387    1 enterprise     : 官業
+0.0001386    1 expense        : 官費
+0.0001386    1 serve          : 仕官
+0.0001381    1 minister       : 官邸
+0.0001368    1 lord           : 仕官
+0.0001365    1 entering       : 仕官
+0.0001357    1 superior       : 上官
+0.0001342    1 prime          : 官邸
+0.0001341    1 license        : 官許
+0.0001327    1 permission     : 官許
+0.0001312    1 facility       : 官制
+0.0001251    1 army           : 官軍
+0.0001242    1 supply         : 官給
+0.0001208    1 police         : 警官
+0.0001190    1 issue          : 官給
+0.0001188    1 master         : 仕官
+0.0001170    1 organization   : 官制
+0.0001070    1 charge         : 係官
+0.0001059    1 new            : 仕官
+0.0000994    1 high           : 高官
+0.0000907    1 people         : 官民
+0.0000884    1 one            : 前官
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2479433    1 officialdom
+	officialdom WORD[ 1,   1]: 0.2479433 官公吏
+TOKEN[ 2]: 0.1415584    2 publication
+	publication WORD[ 2,   1]: 0.1413543 官本
+	publication WORD[ 2,   2]: 0.0002041 官版
+TOKEN[ 3]: 0.1326655   40 official
+	official WORD[ 3,   1]: 0.0573390 官本
+	official WORD[ 3,   2]: 0.0566496 祭官
+	official WORD[ 3,   3]: 0.0061466 官宅
+	official WORD[ 3,   4]: 0.0019688 位官
+	official WORD[ 3,   5]: 0.0018863 内官
+	official WORD[ 3,   6]: 0.0014301 官禄
+	official WORD[ 3,   7]: 0.0006143 京官
+	official WORD[ 3,   8]: 0.0004722 官司
+	official WORD[ 3,   9]: 0.0003594 官名
+	official WORD[ 3,  10]: 0.0003555 解官
+	official WORD[ 3,  11]: 0.0003312 官報
+	official WORD[ 3,  12]: 0.0003312 官辺
+	official WORD[ 3,  13]: 0.0003312 官服
+	official WORD[ 3,  14]: 0.0003183 官命
+	official WORD[ 3,  15]: 0.0002129 官許
+	official WORD[ 3,  16]: 0.0002054 本官
+	official WORD[ 3,  17]: 0.0002010 文官
+	official WORD[ 3,  18]: 0.0001902 属官
+	official WORD[ 3,  19]: 0.0001819 大官
+	official WORD[ 3,  20]: 0.0001789 冗官
+	official WORD[ 3,  21]: 0.0001789 小官
+	official WORD[ 3,  22]: 0.0001762 儒官
+	official WORD[ 3,  23]: 0.0001660 技官
+	official WORD[ 3,  24]: 0.0001656 官話
+	official WORD[ 3,  25]: 0.0001656 官等
+	official WORD[ 3,  26]: 0.0001655 官職
+	official WORD[ 3,  27]: 0.0001655 官需
+	official WORD[ 3,  28]: 0.0001655 官舎
+	official WORD[ 3,  29]: 0.0001654 官員
+	official WORD[ 3,  30]: 0.0001654 官印
+	official WORD[ 3,  31]: 0.0001653 官位
+	official WORD[ 3,  32]: 0.0001408 判官
+	official WORD[ 3,  33]: 0.0001197 代官
+	official WORD[ 3,  34]: 0.0001099 高官
+	official WORD[ 3,  35]: 0.0001097 兼官
+	official WORD[ 3,  36]: 0.0001066 官僚
+	official WORD[ 3,  37]: 0.0001066 官吏
+	official WORD[ 3,  38]: 0.0001066 官邸
+	official WORD[ 3,  39]: 0.0001064 官
+	official WORD[ 3,  40]: 0.0001041 係官
+TOKEN[ 4]: 0.1238433   39 government
+	government WORD[ 4,   1]: 0.1108636 官本
+	government WORD[ 4,   2]: 0.0027651 官禄
+	government WORD[ 4,   3]: 0.0009136 官物
+	government WORD[ 4,   4]: 0.0009129 官司
+	government WORD[ 4,   5]: 0.0005546 官展
+	government WORD[ 4,   6]: 0.0005518 官公署
+	government WORD[ 4,   7]: 0.0004866 官地
+	government WORD[ 4,   8]: 0.0003531 官兵
+	government WORD[ 4,   9]: 0.0003437 解官
+	government WORD[ 4,  10]: 0.0003408 官庫
+	government WORD[ 4,  11]: 0.0003361 官事
+	government WORD[ 4,  12]: 0.0003246 官治
+	government WORD[ 4,  13]: 0.0003201 官途
+	government WORD[ 4,  14]: 0.0003075 官撰
+	government WORD[ 4,  15]: 0.0003020 官署
+	government WORD[ 4,  16]: 0.0003020 官営
+	government WORD[ 4,  17]: 0.0002889 官衙
+	government WORD[ 4,  18]: 0.0002179 仕官
+	government WORD[ 4,  19]: 0.0002061 官民
+	government WORD[ 4,  20]: 0.0002060 官庁
+	government WORD[ 4,  21]: 0.0002058 官許
+	government WORD[ 4,  22]: 0.0002058 官給
+	government WORD[ 4,  23]: 0.0001986 本官
+	government WORD[ 4,  24]: 0.0001894 被官
+	government WORD[ 4,  25]: 0.0001839 属官
+	government WORD[ 4,  26]: 0.0001601 官辺
+	government WORD[ 4,  27]: 0.0001601 官版
+	government WORD[ 4,  28]: 0.0001600 官職
+	government WORD[ 4,  29]: 0.0001599 官金
+	government WORD[ 4,  30]: 0.0001599 官学
+	government WORD[ 4,  31]: 0.0001599 官員
+	government WORD[ 4,  32]: 0.0001517 官爵
+	government WORD[ 4,  33]: 0.0001165 長官
+	government WORD[ 4,  34]: 0.0001031 官僚
+	government WORD[ 4,  35]: 0.0001031 官吏
+	government WORD[ 4,  36]: 0.0001030 官房
+	government WORD[ 4,  37]: 0.0001030 官費
+	government WORD[ 4,  38]: 0.0001029 官公庁
+	government WORD[ 4,  39]: 0.0001029 官軍
+TOKEN[ 5]: 0.0834004    1 belonging
+	belonging WORD[ 5,   1]: 0.0834004 官本
+TOKEN[ 6]: 0.0618927    1 festival
+	festival WORD[ 6,   1]: 0.0618927 祭官
+TOKEN[ 7]: 0.0596992   13 office
+	office WORD[ 7,   1]: 0.0568659 官本
+	office WORD[ 7,   2]: 0.0009365 官司
+	office WORD[ 7,   3]: 0.0003098 官署
+	office WORD[ 7,   4]: 0.0002037 本官
+	office WORD[ 7,   5]: 0.0002034 無官
+	office WORD[ 7,   6]: 0.0001943 被官
+	office WORD[ 7,   7]: 0.0001640 官位
+	office WORD[ 7,   8]: 0.0001482 官衙
+	office WORD[ 7,   9]: 0.0001285 任官
+	office WORD[ 7,  10]: 0.0001166 退官
+	office WORD[ 7,  11]: 0.0001116 在官
+	office WORD[ 7,  12]: 0.0001057 官庁
+	office WORD[ 7,  13]: 0.0001055 官
+TOKEN[ 8]: 0.0518707    1 book
+	book WORD[ 8,   1]: 0.0518707 官本
+TOKEN[ 9]: 0.0105189   10 public
+	public WORD[ 9,   1]: 0.0055950 官宅
+	public WORD[ 9,   2]: 0.0017170 内官
+	public WORD[ 9,   3]: 0.0010390 官公署
+	public WORD[ 9,   4]: 0.0005591 京官
+	public WORD[ 9,   5]: 0.0004582 官地
+	public WORD[ 9,   6]: 0.0004298 官司
+	public WORD[ 9,   7]: 0.0004297 官戸
+	public WORD[ 9,   8]: 0.0000970 官吏
+	public WORD[ 9,   9]: 0.0000970 官民
+	public WORD[ 9,  10]: 0.0000969 官公庁
+TOKEN[10]: 0.0073583    3 residence
+	residence WORD[10,   1]: 0.0070464 官宅
+	residence WORD[10,   2]: 0.0001897 官舎
+	residence WORD[10,   3]: 0.0001222 官邸
+TOKEN[11]: 0.0044124    6 rank
+	rank WORD[11,   1]: 0.0020613 位官
+	rank WORD[11,   2]: 0.0014974 官禄
+	rank WORD[11,   3]: 0.0003462 官位
+	rank WORD[11,   4]: 0.0001733 官等
+	rank WORD[11,   5]: 0.0001698 尉官
+	rank WORD[11,   6]: 0.0001643 官爵
+TOKEN[12]: 0.0032656    6 system
+	system WORD[12,   1]: 0.0016288 内官
+	system WORD[12,   2]: 0.0005304 京官
+	system WORD[12,   3]: 0.0004080 官物
+	system WORD[12,   4]: 0.0004076 官戸
+	system WORD[12,   5]: 0.0001692 被官
+	system WORD[12,   6]: 0.0001216 判官
+TOKEN[13]: 0.0027476    2 capital
+	capital WORD[13,   1]: 0.0020727 内官
+	capital WORD[13,   2]: 0.0006750 京官
+TOKEN[14]: 0.0023857    3 position
+	position WORD[14,   1]: 0.0018836 位官
+	position WORD[14,   2]: 0.0003438 官名
+	position WORD[14,   3]: 0.0001583 官職
+TOKEN[15]: 0.0023442    4 governmental
+	governmental WORD[15,   1]: 0.0013454 官窯
+	governmental WORD[15,   2]: 0.0005174 弁官
+	governmental WORD[15,   3]: 0.0002409 官立
+	governmental WORD[15,   4]: 0.0002406 官権
+TOKEN[16]: 0.0022963    3 sense
+	sense WORD[16,   1]: 0.0019471 内官
+	sense WORD[16,   2]: 0.0001785 五官
+	sense WORD[16,   3]: 0.0001707 感官
+TOKEN[17]: 0.0022540    9 officer
+	officer WORD[17,   1]: 0.0004685 武官
+	officer WORD[17,   2]: 0.0004303 医官
+	officer WORD[17,   3]: 0.0003839 尉官
+	officer WORD[17,   4]: 0.0002092 佐官
+	officer WORD[17,   5]: 0.0001965 技官
+	officer WORD[17,   6]: 0.0001667 判官
+	officer WORD[17,   7]: 0.0001359 上官
+	officer WORD[17,   8]: 0.0001334 士官
+	officer WORD[17,   9]: 0.0001296 警官
+TOKEN[18]: 0.0022240    1 internal
+	internal WORD[18,   1]: 0.0022240 内官
+TOKEN[19]: 0.0020711    1 stipend
+	stipend WORD[19,   1]: 0.0020711 官禄
+TOKEN[20]: 0.0018461    1 salary
+	salary WORD[20,   1]: 0.0018461 官禄
+TOKEN[21]: 0.0016678    3 dynasty
+	dynasty WORD[21,   1]: 0.0010322 秋官
+	dynasty WORD[21,   2]: 0.0004464 天官
+	dynasty WORD[21,   3]: 0.0001892 官話
+TOKEN[22]: 0.0013692    4 post
+	post WORD[22,   1]: 0.0008875 本官
+	post WORD[22,   2]: 0.0001937 前官
+	post WORD[22,   3]: 0.0001695 官爵
+	post WORD[22,   4]: 0.0001185 兼官
+TOKEN[23]: 0.0012869    1 furnace
+	furnace WORD[23,   1]: 0.0012869 官窯
+TOKEN[24]: 0.0012184    5 civil
+	civil WORD[24,   1]: 0.0003853 文武官
+	civil WORD[24,   2]: 0.0002522 本官
+	civil WORD[24,   3]: 0.0002468 文官
+	civil WORD[24,   4]: 0.0002032 官職
+	civil WORD[24,   5]: 0.0001309 官吏
+TOKEN[25]: 0.0011940    1 porcelain
+	porcelain WORD[25,   1]: 0.0011940 官窯
+TOKEN[26]: 0.0009679    1 land
+	land WORD[26,   1]: 0.0009679 官地
+TOKEN[27]: 0.0009645    3 agency
+	agency WORD[27,   1]: 0.0006659 官公署
+	agency WORD[27,   2]: 0.0001743 官衙
+	agency WORD[27,   3]: 0.0001243 官庁
+TOKEN[28]: 0.0008925    4 service
+	service WORD[28,   1]: 0.0003185 官職
+	service WORD[28,   2]: 0.0002169 仕官
+	service WORD[28,   3]: 0.0001977 本官
+	service WORD[28,   4]: 0.0001593 官途
+TOKEN[29]: 0.0008184    2 shogunate
+	shogunate WORD[29,   1]: 0.0006061 官寺
+	shogunate WORD[29,   2]: 0.0002122 官版
+TOKEN[30]: 0.0007798    3 period
+	period WORD[30,   1]: 0.0003914 官寺
+	period WORD[30,   2]: 0.0002893 荘官
+	period WORD[30,   3]: 0.0000991 代官
+TOKEN[31]: 0.0007460    1 exhibition
+	exhibition WORD[31,   1]: 0.0007460 官展
+TOKEN[32]: 0.0007377    1 favored
+	favored WORD[32,   1]: 0.0007377 官寺
+TOKEN[33]: 0.0007215    2 servant
+	servant WORD[33,   1]: 0.0004673 被官
+	servant WORD[33,   2]: 0.0002542 官吏
+TOKEN[34]: 0.0006655    2 title
+	title WORD[34,   1]: 0.0004237 官名
+	title WORD[34,   2]: 0.0002418 無官
+TOKEN[35]: 0.0006529    2 administrator
+	administrator WORD[35,   1]: 0.0004863 荘官
+	administrator WORD[35,   2]: 0.0001666 代官
+TOKEN[36]: 0.0006392    1 enlisted
+	enlisted WORD[36,   1]: 0.0006392 官兵
+TOKEN[37]: 0.0006003    3 Edo
+	Edo WORD[37,   1]: 0.0003305 荘官
+	Edo WORD[37,   2]: 0.0001566 官版
+	Edo WORD[37,   3]: 0.0001132 代官
+TOKEN[38]: 0.0005600    1 headman
+	headman WORD[38,   1]: 0.0005600 荘官
+TOKEN[39]: 0.0005469    2 national
+	national WORD[39,   1]: 0.0003721 官庫
+	national WORD[39,   2]: 0.0001748 官立
+TOKEN[40]: 0.0005435    1 property
+	property WORD[40,   1]: 0.0005435 官物
+TOKEN[41]: 0.0005347    1 treasury
+	treasury WORD[41,   1]: 0.0005347 官庫
+TOKEN[42]: 0.0005301    1 manor
+	manor WORD[42,   1]: 0.0005301 荘官
+TOKEN[43]: 0.0005186    2 chief
+	chief WORD[43,   1]: 0.0001377 長官
+	chief WORD[43,   2]: 0.0001216 官
+TOKEN[44]: 0.0005128    1 warehouse
+	warehouse WORD[44,   1]: 0.0005128 官庫
+TOKEN[45]: 0.0005121    1 State
+	State WORD[45,   1]: 0.0005121 天官
+TOKEN[46]: 0.0005119    2 military
+	military WORD[46,   1]: 0.0003139 文武官
+	military WORD[46,   2]: 0.0001979 武官
+TOKEN[47]: 0.0005076    3 court
+	court WORD[47,   1]: 0.0001798 女官
+	court WORD[47,   2]: 0.0001682 官女
+	court WORD[47,   3]: 0.0001595 官爵
+TOKEN[48]: 0.0004776    1 ship
+	ship WORD[48,   1]: 0.0004776 官船
+TOKEN[49]: 0.0004681    1 responsible
+	responsible WORD[49,   1]: 0.0004681 弁官
+TOKEN[50]: 0.0004528    1 provincial
+	provincial WORD[50,   1]: 0.0004528 弁官
+TOKEN[51]: 0.0004484    1 compilation
+	compilation WORD[51,   1]: 0.0004484 官撰
+TOKEN[52]: 0.0004409    1 soldier
+	soldier WORD[52,   1]: 0.0004409 官兵
+TOKEN[53]: 0.0004266    1 undersecretary
+	undersecretary WORD[53,   1]: 0.0002133 次官
+TOKEN[54]: 0.0004264    2 judge
+	judge WORD[54,   1]: 0.0002517 法官
+	judge WORD[54,   2]: 0.0001747 判官
+TOKEN[55]: 0.0004243    2 bureaucracy
+	bureaucracy WORD[55,   1]: 0.0002580 官界
+	bureaucracy WORD[55,   2]: 0.0001663 官僚
+TOKEN[56]: 0.0004219    2 magistrate
+	magistrate WORD[56,   1]: 0.0002280 判官
+	magistrate WORD[56,   2]: 0.0001939 代官
+TOKEN[57]: 0.0004210    1 spoken
+	spoken WORD[57,   1]: 0.0004210 官話
+TOKEN[58]: 0.0004198    1 central
+	central WORD[58,   1]: 0.0004198 弁官
+TOKEN[59]: 0.0004182    2 lady
+	lady WORD[59,   1]: 0.0002161 女官
+	lady WORD[59,   2]: 0.0002021 官女
+TOKEN[60]: 0.0004167    1 administration
+	administration WORD[60,   1]: 0.0004167 官治
+TOKEN[61]: 0.0004130    1 technical
+	technical WORD[61,   1]: 0.0004130 技官
+TOKEN[62]: 0.0004097    1 village
+	village WORD[62,   1]: 0.0004097 荘官
+TOKEN[63]: 0.0004089    2 Chinese
+	Chinese WORD[63,   1]: 0.0002726 官話
+	Chinese WORD[63,   2]: 0.0001363 官版
+TOKEN[64]: 0.0004010    1 division
+	division WORD[64,   1]: 0.0004010 弁官
+TOKEN[65]: 0.0003964    1 medical
+	medical WORD[65,   1]: 0.0003964 医官
+TOKEN[66]: 0.0003702    1 direct
+	direct WORD[66,   1]: 0.0003702 官治
+TOKEN[67]: 0.0003674    1 adjutant
+	adjutant WORD[67,   1]: 0.0003674 副官
+TOKEN[68]: 0.0003595    1 concurrent
+	concurrent WORD[68,   1]: 0.0003595 兼官
+TOKEN[69]: 0.0003505    1 chronicler
+	chronicler WORD[69,   1]: 0.0003505 史官
+TOKEN[70]: 0.0003495    2 organ
+	organ WORD[70,   1]: 0.0002124 感官
+	organ WORD[70,   2]: 0.0001371 器官
+TOKEN[71]: 0.0003430    1 management
+	management WORD[71,   1]: 0.0003430 官営
+TOKEN[72]: 0.0003429    1 serf
+	serf WORD[72,   1]: 0.0003429 被官
+TOKEN[73]: 0.0003384    2 teacher
+	teacher WORD[73,   1]: 0.0002101 儒官
+	teacher WORD[73,   2]: 0.0001283 教官
+TOKEN[74]: 0.0003375    1 secretary
+	secretary WORD[74,   1]: 0.0001688 長官
+TOKEN[75]: 0.0003268    1 carnality
+	carnality WORD[75,   1]: 0.0003268 官能
+TOKEN[76]: 0.0003230    1 business
+	business WORD[76,   1]: 0.0003230 官事
+TOKEN[77]: 0.0003162    1 aide
+	aide WORD[77,   1]: 0.0003162 副官
+TOKEN[78]: 0.0003095    1 director
+	director WORD[78,   1]: 0.0001547 長官
+TOKEN[79]: 0.0003062    1 sector
+	sector WORD[79,   1]: 0.0003062 官民
+TOKEN[80]: 0.0003013    1 supernumerary
+	supernumerary WORD[80,   1]: 0.0003013 冗官
+TOKEN[81]: 0.0002975    1 gazette
+	gazette WORD[81,   1]: 0.0002975 官報
+TOKEN[82]: 0.0002897    1 sensuality
+	sensuality WORD[82,   1]: 0.0002897 官能
+TOKEN[83]: 0.0002839    1 admiral
+	admiral WORD[83,   1]: 0.0002839 将官
+TOKEN[84]: 0.0002774    2 person
+	person WORD[84,   1]: 0.0001330 被官
+	person WORD[84,   2]: 0.0000722 官
+TOKEN[85]: 0.0002753    1 naval
+	naval WORD[85,   1]: 0.0002753 武官
+TOKEN[86]: 0.0002745    1 eunuch
+	eunuch WORD[86,   1]: 0.0002745 宦官
+TOKEN[87]: 0.0002682    1 southwestern
+	southwestern WORD[87,   1]: 0.0002682 官話
+TOKEN[88]: 0.0002607    1 clerk
+	clerk WORD[88,   1]: 0.0002607 属官
+TOKEN[89]: 0.0002591    1 permanent
+	permanent WORD[89,   1]: 0.0002591 本官
+TOKEN[90]: 0.0002584    1 urban
+	urban WORD[90,   1]: 0.0002584 被官
+TOKEN[91]: 0.0002553    1 secondary
+	secondary WORD[91,   1]: 0.0002553 本官
+TOKEN[92]: 0.0002549    1 principal
+	principal WORD[92,   1]: 0.0002549 本官
+TOKEN[93]: 0.0002529    1 retainer
+	retainer WORD[93,   1]: 0.0002529 被官
+TOKEN[94]: 0.0002516    1 local
+	local WORD[94,   1]: 0.0002516 代官
+TOKEN[95]: 0.0002508    1 subordinate
+	subordinate WORD[95,   1]: 0.0002508 属官
+TOKEN[96]: 0.0002477    2 holding
+	holding WORD[96,   1]: 0.0001254 在官
+	holding WORD[96,   2]: 0.0001223 兼官
+TOKEN[97]: 0.0002452    1 Confucian
+	Confucian WORD[97,   1]: 0.0002452 儒官
+TOKEN[98]: 0.0002430    1 religious
+	religious WORD[98,   1]: 0.0001215 官
+TOKEN[99]: 0.0002409    1 textbook
+	textbook WORD[99,   1]: 0.0002409 官版
+TOKEN[100]: 0.0002398    1 employ
+	employ WORD[100,   1]: 0.0002398 官途
+TOKEN[101]: 0.0002376    1 higher
+	higher WORD[101,   1]: 0.0002376 被官
+TOKEN[102]: 0.0002354    1 petty
+	petty WORD[102,   1]: 0.0002354 小官
+TOKEN[103]: 0.0002343    1 telegram
+	telegram WORD[103,   1]: 0.0002343 官報
+TOKEN[104]: 0.0002278    1 opposed
+	opposed WORD[104,   1]: 0.0002278 本官
+TOKEN[105]: 0.0002278    1 regular
+	regular WORD[105,   1]: 0.0002278 本官
+TOKEN[106]: 0.0002183    1 private
+	private WORD[106,   1]: 0.0002183 官民
+TOKEN[107]: 0.0002150    1 classes
+	classes WORD[107,   1]: 0.0002150 官話
+TOKEN[108]: 0.0002149    1 quarters
+	quarters WORD[108,   1]: 0.0002149 官辺
+TOKEN[109]: 0.0002135    1 lower
+	lower WORD[109,   1]: 0.0002135 被官
+TOKEN[110]: 0.0002112    1 middle
+	middle WORD[110,   1]: 0.0002112 被官
+TOKEN[111]: 0.0002101    1 uniform
+	uniform WORD[111,   1]: 0.0002101 官服
+TOKEN[112]: 0.0002098    1 investiture
+	investiture WORD[112,   1]: 0.0002098 任官
+TOKEN[113]: 0.0002066    1 established
+	established WORD[113,   1]: 0.0002066 官設
+TOKEN[114]: 0.0002064    1 funds
+	funds WORD[114,   1]: 0.0002064 官金
+TOKEN[115]: 0.0002052    1 bailiff
+	bailiff WORD[115,   1]: 0.0002052 代官
+TOKEN[116]: 0.0002052    1 priest
+	priest WORD[116,   1]: 0.0002052 神官
+TOKEN[117]: 0.0002035    1 Shinto
+	Shinto WORD[117,   1]: 0.0002035 神官
+TOKEN[118]: 0.0002004    1 daily
+	daily WORD[118,   1]: 0.0002004 官報
+TOKEN[119]: 0.0002001    1 northern
+	northern WORD[119,   1]: 0.0002001 官話
+TOKEN[120]: 0.0002001    1 plasterer
+	plasterer WORD[120,   1]: 0.0002001 左官
+TOKEN[121]: 0.0002000    1 demand
+	demand WORD[121,   1]: 0.0002000 官需
+TOKEN[122]: 0.0001989    1 dismissal
+	dismissal WORD[122,   1]: 0.0001989 免官
+TOKEN[123]: 0.0001948    1 five
+	five WORD[123,   1]: 0.0001948 五官
+TOKEN[124]: 0.0001930    1 inspector
+	inspector WORD[124,   1]: 0.0001930 判官
+TOKEN[125]: 0.0001927    1 woman
+	woman WORD[125,   1]: 0.0000964 官
+TOKEN[126]: 0.0001923    1 dress
+	dress WORD[126,   1]: 0.0001923 官服
+TOKEN[127]: 0.0001907    1 follow
+	follow WORD[127,   1]: 0.0001907 官紀
+TOKEN[128]: 0.0001902    1 head
+	head WORD[128,   1]: 0.0000951 官
+TOKEN[129]: 0.0001881    1 authority
+	authority WORD[129,   1]: 0.0001881 官権
+TOKEN[130]: 0.0001866    1 bureaucrat
+	bureaucrat WORD[130,   1]: 0.0001866 官僚
+TOKEN[131]: 0.0001860    1 standard
+	standard WORD[131,   1]: 0.0001860 官話
+TOKEN[132]: 0.0001850    1 branch
+	branch WORD[132,   1]: 0.0001850 官話
+TOKEN[133]: 0.0001847    1 seal
+	seal WORD[133,   1]: 0.0001847 官印
+TOKEN[134]: 0.0001838    1 major
+	major WORD[134,   1]: 0.0001838 尉官
+TOKEN[135]: 0.0001832    1 former
+	former WORD[135,   1]: 0.0001832 前官
+TOKEN[136]: 0.0001827    1 secretariat
+	secretariat WORD[136,   1]: 0.0001827 官房
+TOKEN[137]: 0.0001823    1 general
+	general WORD[137,   1]: 0.0001823 将官
+TOKEN[138]: 0.0001817    1 constable
+	constable WORD[138,   1]: 0.0001817 警官
+TOKEN[139]: 0.0001812    1 discharge
+	discharge WORD[139,   1]: 0.0001812 免官
+TOKEN[140]: 0.0001794    1 loyalist
+	loyalist WORD[140,   1]: 0.0001794 官軍
+TOKEN[141]: 0.0001776    1 variety
+	variety WORD[141,   1]: 0.0001776 官話
+TOKEN[142]: 0.0001756    1 field
+	field WORD[142,   1]: 0.0001756 佐官
+TOKEN[143]: 0.0001743    1 assistant
+	assistant WORD[143,   1]: 0.0001743 判官
+TOKEN[144]: 0.0001740    1 grade
+	grade WORD[144,   1]: 0.0001740 判官
+TOKEN[145]: 0.0001688    1 appointment
+	appointment WORD[145,   1]: 0.0001688 任官
+TOKEN[146]: 0.0001685    1 commission
+	commission WORD[146,   1]: 0.0001685 任官
+TOKEN[147]: 0.0001646    1 deputy
+	deputy WORD[147,   1]: 0.0001646 代官
+TOKEN[148]: 0.0001628    1 governor
+	governor WORD[148,   1]: 0.0001628 代官
+TOKEN[149]: 0.0001623    1 run
+	run WORD[149,   1]: 0.0001623 官設
+TOKEN[150]: 0.0001607    1 family
+	family WORD[150,   1]: 0.0001607 被官
+TOKEN[151]: 0.0001595    1 professor
+	professor WORD[151,   1]: 0.0001595 教官
+TOKEN[152]: 0.0001579    1 instructor
+	instructor WORD[152,   1]: 0.0001579 教官
+TOKEN[153]: 0.0001575    1 district
+	district WORD[153,   1]: 0.0001575 判官
+TOKEN[154]: 0.0001543    1 policeman
+	policeman WORD[154,   1]: 0.0001543 警官
+TOKEN[155]: 0.0001529    1 company
+	company WORD[155,   1]: 0.0001529 尉官
+TOKEN[156]: 0.0001506    1 finding
+	finding WORD[156,   1]: 0.0001506 仕官
+TOKEN[157]: 0.0001487    1 retirement
+	retirement WORD[157,   1]: 0.0001487 退官
+TOKEN[158]: 0.0001465    1 someone
+	someone WORD[158,   1]: 0.0001465 本官
+TOKEN[159]: 0.0001464    1 permit
+	permit WORD[159,   1]: 0.0001464 官許
+TOKEN[160]: 0.0001433    1 municipal
+	municipal WORD[160,   1]: 0.0001433 官公庁
+TOKEN[161]: 0.0001420    1 school
+	school WORD[161,   1]: 0.0001420 官学
+TOKEN[162]: 0.0001402    1 acting
+	acting WORD[162,   1]: 0.0001402 代官
+TOKEN[163]: 0.0001387    1 enterprise
+	enterprise WORD[163,   1]: 0.0001387 官業
+TOKEN[164]: 0.0001386    1 expense
+	expense WORD[164,   1]: 0.0001386 官費
+TOKEN[165]: 0.0001386    1 serve
+	serve WORD[165,   1]: 0.0001386 仕官
+TOKEN[166]: 0.0001381    1 minister
+	minister WORD[166,   1]: 0.0001381 官邸
+TOKEN[167]: 0.0001368    1 lord
+	lord WORD[167,   1]: 0.0001368 仕官
+TOKEN[168]: 0.0001365    1 entering
+	entering WORD[168,   1]: 0.0001365 仕官
+TOKEN[169]: 0.0001357    1 superior
+	superior WORD[169,   1]: 0.0001357 上官
+TOKEN[170]: 0.0001342    1 prime
+	prime WORD[170,   1]: 0.0001342 官邸
+TOKEN[171]: 0.0001341    1 license
+	license WORD[171,   1]: 0.0001341 官許
+TOKEN[172]: 0.0001327    1 permission
+	permission WORD[172,   1]: 0.0001327 官許
+TOKEN[173]: 0.0001312    1 facility
+	facility WORD[173,   1]: 0.0001312 官制
+TOKEN[174]: 0.0001251    1 army
+	army WORD[174,   1]: 0.0001251 官軍
+TOKEN[175]: 0.0001242    1 supply
+	supply WORD[175,   1]: 0.0001242 官給
+TOKEN[176]: 0.0001208    1 police
+	police WORD[176,   1]: 0.0001208 警官
+TOKEN[177]: 0.0001190    1 issue
+	issue WORD[177,   1]: 0.0001190 官給
+TOKEN[178]: 0.0001188    1 master
+	master WORD[178,   1]: 0.0001188 仕官
+TOKEN[179]: 0.0001170    1 organization
+	organization WORD[179,   1]: 0.0001170 官制
+TOKEN[180]: 0.0001070    1 charge
+	charge WORD[180,   1]: 0.0001070 係官
+TOKEN[181]: 0.0001059    1 new
+	new WORD[181,   1]: 0.0001059 仕官
+TOKEN[182]: 0.0000994    1 high
+	high WORD[182,   1]: 0.0000994 高官
+TOKEN[183]: 0.0000907    1 people
+	people WORD[183,   1]: 0.0000907 官民
+TOKEN[184]: 0.0000884    1 one
+	one WORD[184,   1]: 0.0000884 前官

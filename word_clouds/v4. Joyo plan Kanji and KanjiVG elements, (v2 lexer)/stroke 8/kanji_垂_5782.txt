@@ -1,0 +1,630 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0501514    7 weeping        : 枝垂れ梅, 枝垂れ桃, 枝垂れ柳, 枝垂柳, 枝垂れ桜, 枝垂桜, 枝垂れ
+0.0350645    4 Prunus         : 枝垂れ桃, 枝垂れ梅, 枝垂れ桜, 枝垂桜
+0.0350353    2 hornbeam       : 紙垂, 垂
+0.0338545   12 hanging        : 垂れ布, 垂れ髪, 垂髪, 垂れ壁, 垂れ幕, 垂幕, 垂れ, 垂れ込め, 垂れ絹, 垂下, ...
+0.0338084    2 deciduous      : 紙垂, 垂
+0.0328920    2 birch          : 紙垂, 垂
+0.0328920    2 adorn          : 紙垂, 垂
+0.0321602    2 streamer       : 紙垂, 垂
+0.0246439    1 salty          : 塩垂れ
+0.0238039    2 sauce          : 塩垂れ, 垂れ
+0.0227820   10 curtain        : 垂れ布, 垂れ下げる, 垂れこめる, 垂れ篭める, 垂れ籠める, 垂れ込める, 垂れ絹, 玉垂れ, 垂れ幕, 垂幕
+0.0217759    3 tree           : 紙垂, 枝垂れ, 垂
+0.0217736    3 used           : 紙垂, 垂れ布, 垂
+0.0200725    1 peach          : 枝垂れ桃
+0.0194915    2 paper          : 紙垂, 垂
+0.0188958    2 family         : 紙垂, 垂
+0.0169385    4 drooping       : 垂れ乳, 垂れ目, 垂り穂, 下垂
+0.0162926    2 hair           : 垂れ髪, 垂髪
+0.0137769    1 prolapse       : 脱垂
+0.0131577    5 sniveler       : はな垂れ, 洟垂れ, 鼻垂れ, はな垂らし, 洟垂らし
+0.0131284    7 droop          : 垂れ下げる, 枝垂れる, 垂れる, しな垂れる, 撓垂れる, うな垂れる, 項垂れる
+0.0121667    1 apricot        : 枝垂れ梅
+0.0118222    2 tied           : 垂れ髪, 垂髪
+0.0116649    2 flowing        : 垂れ髪, 垂髪
+0.0114818    5 greenhorn      : はな垂れ, 洟垂れ, 鼻垂れ, はな垂らし, 洟垂らし
+0.0109967    1 plum           : 枝垂れ梅
+0.0105735    5 inexperienced  : はな垂れ, 洟垂れ, 鼻垂れ, はな垂らし, 洟垂らし
+0.0086888    4 seclude        : 垂れこめる, 垂れ篭める, 垂れ籠める, 垂れ込める
+0.0085763    2 wall           : 垂れ布, 垂れ壁
+0.0084437    1 saggy          : 垂れ乳
+0.0080014    4 fog            : 垂れこめる, 垂れ篭める, 垂れ籠める, 垂れ込める
+0.0078455    3 radical        : 麻垂れ, 病垂れ, 垂れ
+0.0078280    5 child          : はな垂れ, 洟垂れ, 鼻垂れ, はな垂らし, 洟垂らし
+0.0077647    3 dangle         : 垂れ下がる, 垂れる, 垂らす
+0.0074422    3 instruction    : 垂訓, 垂れる, 垂示
+0.0072189    2 cherry         : 枝垂れ桜, 枝垂桜
+0.0067430    2 lower          : 垂れ下げる, 垂れる
+0.0062666    4 low            : 垂れこめる, 垂れ篭める, 垂れ籠める, 垂れ込める
+0.0062368    1 Japanese       : 枝垂れ梅
+0.0060161    3 drop           : 垂らし込む, 垂れる, 垂らし
+0.0057165    5 person         : はな垂れ, 洟垂れ, 鼻垂れ, はな垂らし, 洟垂らし
+0.0049951    2 apron          : 前垂, 前垂れ
+0.0049650    2 bastard        : 糞っ垂れ, 糞垂れ
+0.0048628    1 period         : 垂れ布
+0.0046337    1 place          : 垂れ布
+0.0046196    2 Salix          : 枝垂れ柳, 枝垂柳
+0.0044597    3 discharge      : 耳垂れ, 垂れ流す, 垂れ流し
+0.0042727    1 exclamation    : 雨垂れ
+0.0041317    2 willow         : 枝垂れ柳, 枝垂柳
+0.0041016    2 weep           : 潮垂れる, 枝垂れる
+0.0039726    2 perpendicular  : 垂線, 垂直
+0.0037975    1 lappet         : 垂れ
+0.0037325    2 dying          : 野垂れ死に, 垂死
+0.0035632    1 excrete        : 垂れる
+0.0035629    1 loin           : 垂れ
+0.0035262    1 partition      : 垂れ壁
+0.0034259    1 sag            : 垂れる
+0.0032964    2 dripping       : 雨垂れ, 垂らし
+0.0032530    1 trickle        : 垂れる
+0.0031928    1 nestle         : 撓垂れ掛かる
+0.0031149    1 snuggle        : 撓垂れ掛かる
+0.0030540    1 drip           : 垂れる
+0.0030540    1 behind         : 垂れる
+0.0029980    2 head           : うな垂れる, 項垂れる
+0.0029860    1 ooze           : 垂れる
+0.0029860    1 bestow         : 垂れる
+0.0029714    1 smoke          : 垂れ壁
+0.0028794    1 dotted         : 麻垂れ
+0.0028126    1 orthocenter    : 垂心
+0.0028125    1 manifested     : 垂迹
+0.0028010    1 urine          : 垂れる
+0.0027960    2 death          : 野垂れ死に, 垂れる
+0.0027836    1 utter          : 垂れる
+0.0027833    1 flap           : 垂れ
+0.0027363    1 scolding       : 垂れる
+0.0027263    1 squeal         : 垂れ込む
+0.0027081    1 grant          : 垂れる
+0.0027081    1 feces          : 垂れる
+0.0026948    1 lesson         : 垂れる
+0.0026919    1 tail           : 垂れ下げる
+0.0026761    1 blind          : 垂れ下げる
+0.0026577    2 form           : 垂迹, 枝垂れ
+0.0026461    1 dipping        : 垂れ
+0.0026212    1 tapestry       : 垂れ絹
+0.0026140    2 banner         : 垂れ幕, 垂幕
+0.0025467    1 veil           : 垂れ絹
+0.0025256    1 lean           : 撓垂れ掛かる
+0.0024887    1 rafter         : 垂木
+0.0024350    1 status         : 垂れる
+0.0024173    2 screen         : 垂れ幕, 垂幕
+0.0023672    1 anonymous      : 垂れ込み
+0.0022935    1 soy            : 垂れ
+0.0022892    1 cliff          : 麻垂れ
+0.0022788    1 robe           : 直垂
+0.0022742    1 corner         : 垂れ
+0.0022488    1 guard          : 垂れ
+0.0022065    3 one            : うな垂れる, 項垂れる, 垂れ流し
+0.0022044    1 inform         : 垂れ込む
+0.0021798    1 say            : 垂れる
+0.0021272    1 pull           : 垂れる
+0.0021176    1 let            : 垂れる
+0.0021094    1 dejected       : 潮垂れる
+0.0020743    1 manifestation  : 垂迹
+0.0020619    1 rat            : 垂れ込む
+0.0020616    1 grieve         : 潮垂れる
+0.0020426    1 ceremonial     : 直垂
+0.0019980    1 ear            : 耳垂れ
+0.0019938    1 character      : 垂れ
+0.0019873    1 illness        : 病垂れ
+0.0019749    1 leave          : 垂れる
+0.0019005    1 save           : 垂迹
+0.0018999    1 give           : 垂れる
+0.0018988    1 effluent       : 垂れ流す
+0.0018922    1 parent         : 垂乳根
+0.0018792    1 woman          : 垂れ
+0.0018635    1 eaves          : 雨垂れ
+0.0018450    1 father         : 垂乳根
+0.0018285    1 police         : 垂れ込む
+0.0018246    1 pendent        : 垂下
+0.0018125    1 mother         : 垂乳根
+0.0017941    1 vermiform      : 虫垂
+0.0017809    1 dribble        : 垂らす
+0.0017765    1 palace         : 玉垂れ
+0.0017610    1 grain          : 垂り穂
+0.0017208    1 tip            : 垂れ込む
+0.0017128    1 effluence      : 垂れ流し
+0.0017123    1 slouch         : 垂らす
+0.0017103    1 report         : 垂れ込み
+0.0017052    1 silk           : 垂れ絹
+0.0017046    1 temporary      : 垂迹
+0.0017046    1 Shinto         : 垂迹
+0.0017016    1 deity          : 垂迹
+0.0016782    1 court          : 直垂
+0.0016641    1 incontinence   : 垂れ流し
+0.0016614    1 information    : 垂れ込み
+0.0016422    1 ancient        : 直垂
+0.0016263    1 soiling        : 垂れ流し
+0.0015996    1 avid           : 垂涎
+0.0015583    1 bamboo         : 玉垂れ
+0.0015468    1 wetting        : 垂れ流し
+0.0015400    1 Buddha         : 垂迹
+0.0015333    1 roadside       : 野垂れ死に
+0.0015267    1 dangling       : 懸垂
+0.0014689    1 something      : 垂れ
+0.0014676    1 thirst         : 垂涎
+0.0014642    1 suspend        : 垂らす
+0.0014506    1 appendix       : 虫垂
+0.0014349    1 sermon         : 垂示
+0.0014208    1 craving        : 垂涎
+0.0014195    1 someone        : 垂れる
+0.0014160    1 mark           : 雨垂れ
+0.0013913    1 spill          : 垂らす
+0.0013740    1 envy           : 垂涎
+0.0013703    1 line           : 垂線
+0.0013680    1 pants          : 垂れ流し
+0.0013461    1 watering       : 垂涎
+0.0013409    1 waterfall      : 垂水
+0.0013326    1 people         : 垂迹
+0.0012466    1 verge          : 垂死
+0.0012410    1 dog            : 野垂れ死に
+0.0012250    1 vertical       : 垂直
+0.0012209    1 teaching       : 垂示
+0.0012038    1 exercise       : 懸垂
+0.0011789    1 point          : 雨垂れ
+0.0011365    1 example        : 垂範
+0.0011338    1 Zen            : 垂示
+0.0011003    1 explanation    : 垂示
+0.0010962    1 suspension     : 懸垂
+0.0010948    1 desire         : 垂涎
+0.0010710    1 mouth          : 垂涎
+0.0010667    1 setting        : 垂範
+0.0010434    1 priest         : 垂示
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0501514    7 weeping
+	weeping WORD[ 1,   1]: 0.0219933 枝垂れ梅
+	weeping WORD[ 1,   2]: 0.0186606 枝垂れ桃
+	weeping WORD[ 1,   3]: 0.0019441 枝垂れ柳
+	weeping WORD[ 1,   4]: 0.0019441 枝垂柳
+	weeping WORD[ 1,   5]: 0.0019441 枝垂れ桜
+	weeping WORD[ 1,   6]: 0.0019440 枝垂桜
+	weeping WORD[ 1,   7]: 0.0017213 枝垂れ
+TOKEN[ 2]: 0.0350645    4 Prunus
+	Prunus WORD[ 2,   1]: 0.0195057 枝垂れ桃
+	Prunus WORD[ 2,   2]: 0.0114947 枝垂れ梅
+	Prunus WORD[ 2,   3]: 0.0020321 枝垂れ桜
+	Prunus WORD[ 2,   4]: 0.0020321 枝垂桜
+TOKEN[ 3]: 0.0350353    2 hornbeam
+	hornbeam WORD[ 3,   1]: 0.0319102 紙垂
+	hornbeam WORD[ 3,   2]: 0.0015626 垂
+TOKEN[ 4]: 0.0338545   12 hanging
+	hanging WORD[ 4,   1]: 0.0061645 垂れ布
+	hanging WORD[ 4,   2]: 0.0048363 垂れ髪
+	hanging WORD[ 4,   3]: 0.0048363 垂髪
+	hanging WORD[ 4,   4]: 0.0028573 垂れ壁
+	hanging WORD[ 4,   5]: 0.0021943 垂れ幕
+	hanging WORD[ 4,   6]: 0.0021943 垂幕
+	hanging WORD[ 4,   7]: 0.0021941 垂れ
+	hanging WORD[ 4,   8]: 0.0016791 垂れ込め
+	hanging WORD[ 4,   9]: 0.0016789 垂れ絹
+	hanging WORD[ 4,  10]: 0.0010542 垂下
+	hanging WORD[ 4,  11]: 0.0010065 懸垂
+	hanging WORD[ 4,  12]: 0.0009645 下垂
+TOKEN[ 5]: 0.0338084    2 deciduous
+	deciduous WORD[ 5,   1]: 0.0307927 紙垂
+	deciduous WORD[ 5,   2]: 0.0015079 垂
+TOKEN[ 6]: 0.0328920    2 birch
+	birch WORD[ 6,   1]: 0.0299580 紙垂
+	birch WORD[ 6,   2]: 0.0014670 垂
+TOKEN[ 7]: 0.0328920    2 adorn
+	adorn WORD[ 7,   1]: 0.0299580 紙垂
+	adorn WORD[ 7,   2]: 0.0014670 垂
+TOKEN[ 8]: 0.0321602    2 streamer
+	streamer WORD[ 8,   1]: 0.0292915 紙垂
+	streamer WORD[ 8,   2]: 0.0014344 垂
+TOKEN[ 9]: 0.0246439    1 salty
+	salty WORD[ 9,   1]: 0.0246439 塩垂れ
+TOKEN[10]: 0.0238039    2 sauce
+	sauce WORD[10,   1]: 0.0194390 塩垂れ
+	sauce WORD[10,   2]: 0.0021825 垂れ
+TOKEN[11]: 0.0227820   10 curtain
+	curtain WORD[11,   1]: 0.0067593 垂れ布
+	curtain WORD[11,   2]: 0.0025814 垂れ下げる
+	curtain WORD[11,   3]: 0.0018412 垂れこめる
+	curtain WORD[11,   4]: 0.0018412 垂れ篭める
+	curtain WORD[11,   5]: 0.0018412 垂れ籠める
+	curtain WORD[11,   6]: 0.0018412 垂れ込める
+	curtain WORD[11,   7]: 0.0018409 垂れ絹
+	curtain WORD[11,   8]: 0.0018297 玉垂れ
+	curtain WORD[11,   9]: 0.0012030 垂れ幕
+	curtain WORD[11,  10]: 0.0012030 垂幕
+TOKEN[12]: 0.0217759    3 tree
+	tree WORD[12,   1]: 0.0186866 紙垂
+	tree WORD[12,   2]: 0.0012592 枝垂れ
+	tree WORD[12,   3]: 0.0009151 垂
+TOKEN[13]: 0.0217736    3 used
+	used WORD[13,   1]: 0.0157287 紙垂
+	used WORD[13,   2]: 0.0045044 垂れ布
+	used WORD[13,   3]: 0.0007702 垂
+TOKEN[14]: 0.0200725    1 peach
+	peach WORD[14,   1]: 0.0200725 枝垂れ桃
+TOKEN[15]: 0.0194915    2 paper
+	paper WORD[15,   1]: 0.0177529 紙垂
+	paper WORD[15,   2]: 0.0008693 垂
+TOKEN[16]: 0.0188958    2 family
+	family WORD[16,   1]: 0.0172103 紙垂
+	family WORD[16,   2]: 0.0008428 垂
+TOKEN[17]: 0.0169385    4 drooping
+	drooping WORD[17,   1]: 0.0068271 垂れ乳
+	drooping WORD[17,   2]: 0.0066410 垂れ目
+	drooping WORD[17,   3]: 0.0022041 垂り穂
+	drooping WORD[17,   4]: 0.0012663 下垂
+TOKEN[18]: 0.0162926    2 hair
+	hair WORD[18,   1]: 0.0081463 垂れ髪
+	hair WORD[18,   2]: 0.0081463 垂髪
+TOKEN[19]: 0.0137769    1 prolapse
+	prolapse WORD[19,   1]: 0.0137769 脱垂
+TOKEN[20]: 0.0131577    5 sniveler
+	sniveler WORD[20,   1]: 0.0026316 はな垂れ
+	sniveler WORD[20,   2]: 0.0026315 洟垂れ
+	sniveler WORD[20,   3]: 0.0026315 鼻垂れ
+	sniveler WORD[20,   4]: 0.0026315 はな垂らし
+	sniveler WORD[20,   5]: 0.0026315 洟垂らし
+TOKEN[21]: 0.0131284    7 droop
+	droop WORD[21,   1]: 0.0031160 垂れ下げる
+	droop WORD[21,   2]: 0.0019199 枝垂れる
+	droop WORD[21,   3]: 0.0014522 垂れる
+	droop WORD[21,   4]: 0.0013739 しな垂れる
+	droop WORD[21,   5]: 0.0013739 撓垂れる
+	droop WORD[21,   6]: 0.0012202 うな垂れる
+	droop WORD[21,   7]: 0.0012202 項垂れる
+TOKEN[22]: 0.0121667    1 apricot
+	apricot WORD[22,   1]: 0.0121667 枝垂れ梅
+TOKEN[23]: 0.0118222    2 tied
+	tied WORD[23,   1]: 0.0059111 垂れ髪
+	tied WORD[23,   2]: 0.0059111 垂髪
+TOKEN[24]: 0.0116649    2 flowing
+	flowing WORD[24,   1]: 0.0058325 垂れ髪
+	flowing WORD[24,   2]: 0.0058325 垂髪
+TOKEN[25]: 0.0114818    5 greenhorn
+	greenhorn WORD[25,   1]: 0.0022964 はな垂れ
+	greenhorn WORD[25,   2]: 0.0022964 洟垂れ
+	greenhorn WORD[25,   3]: 0.0022964 鼻垂れ
+	greenhorn WORD[25,   4]: 0.0022964 はな垂らし
+	greenhorn WORD[25,   5]: 0.0022963 洟垂らし
+TOKEN[26]: 0.0109967    1 plum
+	plum WORD[26,   1]: 0.0109967 枝垂れ梅
+TOKEN[27]: 0.0105735    5 inexperienced
+	inexperienced WORD[27,   1]: 0.0021147 はな垂れ
+	inexperienced WORD[27,   2]: 0.0021147 洟垂れ
+	inexperienced WORD[27,   3]: 0.0021147 鼻垂れ
+	inexperienced WORD[27,   4]: 0.0021147 はな垂らし
+	inexperienced WORD[27,   5]: 0.0021147 洟垂らし
+TOKEN[28]: 0.0086888    4 seclude
+	seclude WORD[28,   1]: 0.0021722 垂れこめる
+	seclude WORD[28,   2]: 0.0021722 垂れ篭める
+	seclude WORD[28,   3]: 0.0021722 垂れ籠める
+	seclude WORD[28,   4]: 0.0021722 垂れ込める
+TOKEN[29]: 0.0085763    2 wall
+	wall WORD[29,   1]: 0.0058601 垂れ布
+	wall WORD[29,   2]: 0.0027162 垂れ壁
+TOKEN[30]: 0.0084437    1 saggy
+	saggy WORD[30,   1]: 0.0084437 垂れ乳
+TOKEN[31]: 0.0080014    4 fog
+	fog WORD[31,   1]: 0.0020004 垂れこめる
+	fog WORD[31,   2]: 0.0020004 垂れ篭める
+	fog WORD[31,   3]: 0.0020004 垂れ籠める
+	fog WORD[31,   4]: 0.0020004 垂れ込める
+TOKEN[32]: 0.0078455    3 radical
+	radical WORD[32,   1]: 0.0037519 麻垂れ
+	radical WORD[32,   2]: 0.0019251 病垂れ
+	radical WORD[32,   3]: 0.0010842 垂れ
+TOKEN[33]: 0.0078280    5 child
+	child WORD[33,   1]: 0.0015656 はな垂れ
+	child WORD[33,   2]: 0.0015656 洟垂れ
+	child WORD[33,   3]: 0.0015656 鼻垂れ
+	child WORD[33,   4]: 0.0015656 はな垂らし
+	child WORD[33,   5]: 0.0015656 洟垂らし
+TOKEN[34]: 0.0077647    3 dangle
+	dangle WORD[34,   1]: 0.0031245 垂れ下がる
+	dangle WORD[34,   2]: 0.0015469 垂れる
+	dangle WORD[34,   3]: 0.0015464 垂らす
+TOKEN[35]: 0.0074422    3 instruction
+	instruction WORD[35,   1]: 0.0035566 垂訓
+	instruction WORD[35,   2]: 0.0013122 垂れる
+	instruction WORD[35,   3]: 0.0012612 垂示
+TOKEN[36]: 0.0072189    2 cherry
+	cherry WORD[36,   1]: 0.0036095 枝垂れ桜
+	cherry WORD[36,   2]: 0.0036095 枝垂桜
+TOKEN[37]: 0.0067430    2 lower
+	lower WORD[37,   1]: 0.0023543 垂れ下げる
+	lower WORD[37,   2]: 0.0021944 垂れる
+TOKEN[38]: 0.0062666    4 low
+	low WORD[38,   1]: 0.0015667 垂れこめる
+	low WORD[38,   2]: 0.0015667 垂れ篭める
+	low WORD[38,   3]: 0.0015667 垂れ籠める
+	low WORD[38,   4]: 0.0015667 垂れ込める
+TOKEN[39]: 0.0062368    1 Japanese
+	Japanese WORD[39,   1]: 0.0062368 枝垂れ梅
+TOKEN[40]: 0.0060161    3 drop
+	drop WORD[40,   1]: 0.0027205 垂らし込む
+	drop WORD[40,   2]: 0.0010987 垂れる
+	drop WORD[40,   3]: 0.0010983 垂らし
+TOKEN[41]: 0.0057165    5 person
+	person WORD[41,   1]: 0.0011433 はな垂れ
+	person WORD[41,   2]: 0.0011433 洟垂れ
+	person WORD[41,   3]: 0.0011433 鼻垂れ
+	person WORD[41,   4]: 0.0011433 はな垂らし
+	person WORD[41,   5]: 0.0011433 洟垂らし
+TOKEN[42]: 0.0049951    2 apron
+	apron WORD[42,   1]: 0.0024975 前垂
+	apron WORD[42,   2]: 0.0024975 前垂れ
+TOKEN[43]: 0.0049650    2 bastard
+	bastard WORD[43,   1]: 0.0024825 糞っ垂れ
+	bastard WORD[43,   2]: 0.0024825 糞垂れ
+TOKEN[44]: 0.0048628    1 period
+	period WORD[44,   1]: 0.0048628 垂れ布
+TOKEN[45]: 0.0046337    1 place
+	place WORD[45,   1]: 0.0046337 垂れ布
+TOKEN[46]: 0.0046196    2 Salix
+	Salix WORD[46,   1]: 0.0023098 枝垂れ柳
+	Salix WORD[46,   2]: 0.0023098 枝垂柳
+TOKEN[47]: 0.0044597    3 discharge
+	discharge WORD[47,   1]: 0.0020539 耳垂れ
+	discharge WORD[47,   2]: 0.0012029 垂れ流す
+	discharge WORD[47,   3]: 0.0012029 垂れ流し
+TOKEN[48]: 0.0042727    1 exclamation
+	exclamation WORD[48,   1]: 0.0042727 雨垂れ
+TOKEN[49]: 0.0041317    2 willow
+	willow WORD[49,   1]: 0.0020659 枝垂れ柳
+	willow WORD[49,   2]: 0.0020659 枝垂柳
+TOKEN[50]: 0.0041016    2 weep
+	weep WORD[50,   1]: 0.0021473 潮垂れる
+	weep WORD[50,   2]: 0.0019544 枝垂れる
+TOKEN[51]: 0.0039726    2 perpendicular
+	perpendicular WORD[51,   1]: 0.0024093 垂線
+	perpendicular WORD[51,   2]: 0.0015633 垂直
+TOKEN[52]: 0.0037975    1 lappet
+	lappet WORD[52,   1]: 0.0018988 垂れ
+TOKEN[53]: 0.0037325    2 dying
+	dying WORD[53,   1]: 0.0025940 野垂れ死に
+	dying WORD[53,   2]: 0.0011385 垂死
+TOKEN[54]: 0.0035632    1 excrete
+	excrete WORD[54,   1]: 0.0017816 垂れる
+TOKEN[55]: 0.0035629    1 loin
+	loin WORD[55,   1]: 0.0017814 垂れ
+TOKEN[56]: 0.0035262    1 partition
+	partition WORD[56,   1]: 0.0035262 垂れ壁
+TOKEN[57]: 0.0034259    1 sag
+	sag WORD[57,   1]: 0.0017130 垂れる
+TOKEN[58]: 0.0032964    2 dripping
+	dripping WORD[58,   1]: 0.0018873 雨垂れ
+	dripping WORD[58,   2]: 0.0014091 垂らし
+TOKEN[59]: 0.0032530    1 trickle
+	trickle WORD[59,   1]: 0.0016265 垂れる
+TOKEN[60]: 0.0031928    1 nestle
+	nestle WORD[60,   1]: 0.0031928 撓垂れ掛かる
+TOKEN[61]: 0.0031149    1 snuggle
+	snuggle WORD[61,   1]: 0.0031149 撓垂れ掛かる
+TOKEN[62]: 0.0030540    1 drip
+	drip WORD[62,   1]: 0.0015270 垂れる
+TOKEN[63]: 0.0030540    1 behind
+	behind WORD[63,   1]: 0.0015270 垂れる
+TOKEN[64]: 0.0029980    2 head
+	head WORD[64,   1]: 0.0014990 うな垂れる
+	head WORD[64,   2]: 0.0014990 項垂れる
+TOKEN[65]: 0.0029860    1 ooze
+	ooze WORD[65,   1]: 0.0014930 垂れる
+TOKEN[66]: 0.0029860    1 bestow
+	bestow WORD[66,   1]: 0.0014930 垂れる
+TOKEN[67]: 0.0029714    1 smoke
+	smoke WORD[67,   1]: 0.0029714 垂れ壁
+TOKEN[68]: 0.0028794    1 dotted
+	dotted WORD[68,   1]: 0.0028794 麻垂れ
+TOKEN[69]: 0.0028126    1 orthocenter
+	orthocenter WORD[69,   1]: 0.0028126 垂心
+TOKEN[70]: 0.0028125    1 manifested
+	manifested WORD[70,   1]: 0.0028125 垂迹
+TOKEN[71]: 0.0028010    1 urine
+	urine WORD[71,   1]: 0.0014005 垂れる
+TOKEN[72]: 0.0027960    2 death
+	death WORD[72,   1]: 0.0009891 野垂れ死に
+	death WORD[72,   2]: 0.0009035 垂れる
+TOKEN[73]: 0.0027836    1 utter
+	utter WORD[73,   1]: 0.0013918 垂れる
+TOKEN[74]: 0.0027833    1 flap
+	flap WORD[74,   1]: 0.0013917 垂れ
+TOKEN[75]: 0.0027363    1 scolding
+	scolding WORD[75,   1]: 0.0013682 垂れる
+TOKEN[76]: 0.0027263    1 squeal
+	squeal WORD[76,   1]: 0.0027263 垂れ込む
+TOKEN[77]: 0.0027081    1 grant
+	grant WORD[77,   1]: 0.0013540 垂れる
+TOKEN[78]: 0.0027081    1 feces
+	feces WORD[78,   1]: 0.0013540 垂れる
+TOKEN[79]: 0.0026948    1 lesson
+	lesson WORD[79,   1]: 0.0013474 垂れる
+TOKEN[80]: 0.0026919    1 tail
+	tail WORD[80,   1]: 0.0026919 垂れ下げる
+TOKEN[81]: 0.0026761    1 blind
+	blind WORD[81,   1]: 0.0026761 垂れ下げる
+TOKEN[82]: 0.0026577    2 form
+	form WORD[82,   1]: 0.0014043 垂迹
+	form WORD[82,   2]: 0.0012534 枝垂れ
+TOKEN[83]: 0.0026461    1 dipping
+	dipping WORD[83,   1]: 0.0013230 垂れ
+TOKEN[84]: 0.0026212    1 tapestry
+	tapestry WORD[84,   1]: 0.0026212 垂れ絹
+TOKEN[85]: 0.0026140    2 banner
+	banner WORD[85,   1]: 0.0013070 垂れ幕
+	banner WORD[85,   2]: 0.0013070 垂幕
+TOKEN[86]: 0.0025467    1 veil
+	veil WORD[86,   1]: 0.0025467 垂れ絹
+TOKEN[87]: 0.0025256    1 lean
+	lean WORD[87,   1]: 0.0025256 撓垂れ掛かる
+TOKEN[88]: 0.0024887    1 rafter
+	rafter WORD[88,   1]: 0.0024887 垂木
+TOKEN[89]: 0.0024350    1 status
+	status WORD[89,   1]: 0.0012175 垂れる
+TOKEN[90]: 0.0024173    2 screen
+	screen WORD[90,   1]: 0.0012087 垂れ幕
+	screen WORD[90,   2]: 0.0012087 垂幕
+TOKEN[91]: 0.0023672    1 anonymous
+	anonymous WORD[91,   1]: 0.0023672 垂れ込み
+TOKEN[92]: 0.0022935    1 soy
+	soy WORD[92,   1]: 0.0011468 垂れ
+TOKEN[93]: 0.0022892    1 cliff
+	cliff WORD[93,   1]: 0.0022892 麻垂れ
+TOKEN[94]: 0.0022788    1 robe
+	robe WORD[94,   1]: 0.0022788 直垂
+TOKEN[95]: 0.0022742    1 corner
+	corner WORD[95,   1]: 0.0011371 垂れ
+TOKEN[96]: 0.0022488    1 guard
+	guard WORD[96,   1]: 0.0011244 垂れ
+TOKEN[97]: 0.0022065    3 one
+	one WORD[97,   1]: 0.0008503 うな垂れる
+	one WORD[97,   2]: 0.0008503 項垂れる
+	one WORD[97,   3]: 0.0005059 垂れ流し
+TOKEN[98]: 0.0022044    1 inform
+	inform WORD[98,   1]: 0.0022044 垂れ込む
+TOKEN[99]: 0.0021798    1 say
+	say WORD[99,   1]: 0.0010899 垂れる
+TOKEN[100]: 0.0021272    1 pull
+	pull WORD[100,   1]: 0.0010636 垂れる
+TOKEN[101]: 0.0021176    1 let
+	let WORD[101,   1]: 0.0010588 垂れる
+TOKEN[102]: 0.0021094    1 dejected
+	dejected WORD[102,   1]: 0.0021094 潮垂れる
+TOKEN[103]: 0.0020743    1 manifestation
+	manifestation WORD[103,   1]: 0.0020743 垂迹
+TOKEN[104]: 0.0020619    1 rat
+	rat WORD[104,   1]: 0.0020619 垂れ込む
+TOKEN[105]: 0.0020616    1 grieve
+	grieve WORD[105,   1]: 0.0020616 潮垂れる
+TOKEN[106]: 0.0020426    1 ceremonial
+	ceremonial WORD[106,   1]: 0.0020426 直垂
+TOKEN[107]: 0.0019980    1 ear
+	ear WORD[107,   1]: 0.0019980 耳垂れ
+TOKEN[108]: 0.0019938    1 character
+	character WORD[108,   1]: 0.0009969 垂れ
+TOKEN[109]: 0.0019873    1 illness
+	illness WORD[109,   1]: 0.0019873 病垂れ
+TOKEN[110]: 0.0019749    1 leave
+	leave WORD[110,   1]: 0.0009874 垂れる
+TOKEN[111]: 0.0019005    1 save
+	save WORD[111,   1]: 0.0019005 垂迹
+TOKEN[112]: 0.0018999    1 give
+	give WORD[112,   1]: 0.0009500 垂れる
+TOKEN[113]: 0.0018988    1 effluent
+	effluent WORD[113,   1]: 0.0018988 垂れ流す
+TOKEN[114]: 0.0018922    1 parent
+	parent WORD[114,   1]: 0.0018922 垂乳根
+TOKEN[115]: 0.0018792    1 woman
+	woman WORD[115,   1]: 0.0009396 垂れ
+TOKEN[116]: 0.0018635    1 eaves
+	eaves WORD[116,   1]: 0.0018635 雨垂れ
+TOKEN[117]: 0.0018450    1 father
+	father WORD[117,   1]: 0.0018450 垂乳根
+TOKEN[118]: 0.0018285    1 police
+	police WORD[118,   1]: 0.0018285 垂れ込む
+TOKEN[119]: 0.0018246    1 pendent
+	pendent WORD[119,   1]: 0.0018246 垂下
+TOKEN[120]: 0.0018125    1 mother
+	mother WORD[120,   1]: 0.0018125 垂乳根
+TOKEN[121]: 0.0017941    1 vermiform
+	vermiform WORD[121,   1]: 0.0017941 虫垂
+TOKEN[122]: 0.0017809    1 dribble
+	dribble WORD[122,   1]: 0.0017809 垂らす
+TOKEN[123]: 0.0017765    1 palace
+	palace WORD[123,   1]: 0.0017765 玉垂れ
+TOKEN[124]: 0.0017610    1 grain
+	grain WORD[124,   1]: 0.0017610 垂り穂
+TOKEN[125]: 0.0017208    1 tip
+	tip WORD[125,   1]: 0.0017208 垂れ込む
+TOKEN[126]: 0.0017128    1 effluence
+	effluence WORD[126,   1]: 0.0017128 垂れ流し
+TOKEN[127]: 0.0017123    1 slouch
+	slouch WORD[127,   1]: 0.0017123 垂らす
+TOKEN[128]: 0.0017103    1 report
+	report WORD[128,   1]: 0.0017103 垂れ込み
+TOKEN[129]: 0.0017052    1 silk
+	silk WORD[129,   1]: 0.0017052 垂れ絹
+TOKEN[130]: 0.0017046    1 temporary
+	temporary WORD[130,   1]: 0.0017046 垂迹
+TOKEN[131]: 0.0017046    1 Shinto
+	Shinto WORD[131,   1]: 0.0017046 垂迹
+TOKEN[132]: 0.0017016    1 deity
+	deity WORD[132,   1]: 0.0017016 垂迹
+TOKEN[133]: 0.0016782    1 court
+	court WORD[133,   1]: 0.0016782 直垂
+TOKEN[134]: 0.0016641    1 incontinence
+	incontinence WORD[134,   1]: 0.0016641 垂れ流し
+TOKEN[135]: 0.0016614    1 information
+	information WORD[135,   1]: 0.0016614 垂れ込み
+TOKEN[136]: 0.0016422    1 ancient
+	ancient WORD[136,   1]: 0.0016422 直垂
+TOKEN[137]: 0.0016263    1 soiling
+	soiling WORD[137,   1]: 0.0016263 垂れ流し
+TOKEN[138]: 0.0015996    1 avid
+	avid WORD[138,   1]: 0.0015996 垂涎
+TOKEN[139]: 0.0015583    1 bamboo
+	bamboo WORD[139,   1]: 0.0015583 玉垂れ
+TOKEN[140]: 0.0015468    1 wetting
+	wetting WORD[140,   1]: 0.0015468 垂れ流し
+TOKEN[141]: 0.0015400    1 Buddha
+	Buddha WORD[141,   1]: 0.0015400 垂迹
+TOKEN[142]: 0.0015333    1 roadside
+	roadside WORD[142,   1]: 0.0015333 野垂れ死に
+TOKEN[143]: 0.0015267    1 dangling
+	dangling WORD[143,   1]: 0.0015267 懸垂
+TOKEN[144]: 0.0014689    1 something
+	something WORD[144,   1]: 0.0007345 垂れ
+TOKEN[145]: 0.0014676    1 thirst
+	thirst WORD[145,   1]: 0.0014676 垂涎
+TOKEN[146]: 0.0014642    1 suspend
+	suspend WORD[146,   1]: 0.0014642 垂らす
+TOKEN[147]: 0.0014506    1 appendix
+	appendix WORD[147,   1]: 0.0014506 虫垂
+TOKEN[148]: 0.0014349    1 sermon
+	sermon WORD[148,   1]: 0.0014349 垂示
+TOKEN[149]: 0.0014208    1 craving
+	craving WORD[149,   1]: 0.0014208 垂涎
+TOKEN[150]: 0.0014195    1 someone
+	someone WORD[150,   1]: 0.0007098 垂れる
+TOKEN[151]: 0.0014160    1 mark
+	mark WORD[151,   1]: 0.0014160 雨垂れ
+TOKEN[152]: 0.0013913    1 spill
+	spill WORD[152,   1]: 0.0013913 垂らす
+TOKEN[153]: 0.0013740    1 envy
+	envy WORD[153,   1]: 0.0013740 垂涎
+TOKEN[154]: 0.0013703    1 line
+	line WORD[154,   1]: 0.0013703 垂線
+TOKEN[155]: 0.0013680    1 pants
+	pants WORD[155,   1]: 0.0013680 垂れ流し
+TOKEN[156]: 0.0013461    1 watering
+	watering WORD[156,   1]: 0.0013461 垂涎
+TOKEN[157]: 0.0013409    1 waterfall
+	waterfall WORD[157,   1]: 0.0013409 垂水
+TOKEN[158]: 0.0013326    1 people
+	people WORD[158,   1]: 0.0013326 垂迹
+TOKEN[159]: 0.0012466    1 verge
+	verge WORD[159,   1]: 0.0012466 垂死
+TOKEN[160]: 0.0012410    1 dog
+	dog WORD[160,   1]: 0.0012410 野垂れ死に
+TOKEN[161]: 0.0012250    1 vertical
+	vertical WORD[161,   1]: 0.0012250 垂直
+TOKEN[162]: 0.0012209    1 teaching
+	teaching WORD[162,   1]: 0.0012209 垂示
+TOKEN[163]: 0.0012038    1 exercise
+	exercise WORD[163,   1]: 0.0012038 懸垂
+TOKEN[164]: 0.0011789    1 point
+	point WORD[164,   1]: 0.0011789 雨垂れ
+TOKEN[165]: 0.0011365    1 example
+	example WORD[165,   1]: 0.0011365 垂範
+TOKEN[166]: 0.0011338    1 Zen
+	Zen WORD[166,   1]: 0.0011338 垂示
+TOKEN[167]: 0.0011003    1 explanation
+	explanation WORD[167,   1]: 0.0011003 垂示
+TOKEN[168]: 0.0010962    1 suspension
+	suspension WORD[168,   1]: 0.0010962 懸垂
+TOKEN[169]: 0.0010948    1 desire
+	desire WORD[169,   1]: 0.0010948 垂涎
+TOKEN[170]: 0.0010710    1 mouth
+	mouth WORD[170,   1]: 0.0010710 垂涎
+TOKEN[171]: 0.0010667    1 setting
+	setting WORD[171,   1]: 0.0010667 垂範
+TOKEN[172]: 0.0010434    1 priest
+	priest WORD[172,   1]: 0.0010434 垂示

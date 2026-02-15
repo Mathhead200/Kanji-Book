@@ -1,0 +1,537 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0700697   25 row            : 建ち並ぶ, 立ち並ぶ, 立並ぶ, 屋並, 屋並み, 歯並み, 並び立つ, 並みいる, 並み居る, 並居る, ...
+0.0323165   12 line           : 書き並べる, 並べる, 並ぶ, 建ち並ぶ, 立ち並ぶ, 立並ぶ, 並び立つ, 並列, 並べ立てる, 並び, ...
+0.0322560    8 house          : 屋並, 屋並み, 門並, 門並み, 軒並, 軒並み, 家並, 家並み
+0.0253867    5 average        : 並品, 並み外れ, 並外れ, 並, 並み
+0.0236005    7 street         : 町並, 町並み, 街並, 街並み, 建ち並ぶ, 立ち並ぶ, 立並ぶ
+0.0212857    9 equal          : 並び立つ, 横並び, 並べる, 並ぶ, 並, 並み, 建ち並ぶ, 立ち並ぶ, 立並ぶ
+0.0195233    4 sort           : 並べ替える, 並べ替え, 毛並, 毛並み
+0.0194234    4 rearrange      : 並べ替える, 並べ直す, 並びかえる, 並び替える
+0.0190447    7 pace           : 並み足, 並足, 並走, 並進, 並行, 足並, 足並み
+0.0174062    6 ordinary       : 並々, 並み並み, 並並, 並製, 並, 並み
+0.0167573    1 swallowtail    : 並揚羽
+0.0167573    1 Papilio        : 並揚羽
+0.0148412    1 citrus         : 並揚羽
+0.0147287    1 butterfly      : 並揚羽
+0.0142203    3 item           : 並品, 並, 並み
+0.0141991    4 townscape      : 町並, 町並み, 街並, 街並み
+0.0141742    1 normal         : 並盛り
+0.0138438    1 portion        : 並盛り
+0.0137591    4 sit            : 並みいる, 並み居る, 並居る, 居並ぶ
+0.0133710    6 door           : 屋並, 屋並み, 軒並, 軒並み, 家並, 家並み
+0.0133201    3 lined          : 並みいる, 並み居る, 並居る
+0.0132446    5 stand          : 並び立つ, 並ぶ, 建ち並ぶ, 立ち並ぶ, 立並ぶ
+0.0131386    5 par            : 並, 並み, 建ち並ぶ, 立ち並ぶ, 立並ぶ
+0.0128607    1 serving        : 並盛り
+0.0122278    3 uncommon       : 並はずれる, 並み外れる, 並外れる
+0.0118468    1 parliament     : 七並べ
+0.0113382    2 teeth          : 歯並み, 歯並び
+0.0110295    1 collate        : 並べ替える
+0.0110295    1 reorder        : 並べ替える
+0.0100470    1 quality        : 並品
+0.0099274    1 species        : 並揚羽
+0.0096956    3 abreast        : 並立, 並進, 並行
+0.0095510    3 keeping        : 並進, 並走, 並行
+0.0094735    4 common         : 並み外れ, 並外れ, 並, 並み
+0.0091756    2 unequaled      : 並びない, 並び無い
+0.0088479    3 present        : 並みいる, 並み居る, 並居る
+0.0087947    2 plumage        : 羽並, 羽並み
+0.0086635    2 dentition      : 歯並み, 歯並び
+0.0084904    2 abnormal       : 並み外れ, 並外れ
+0.0084537    3 running        : 並走, 並置, 並行
+0.0084229    2 unparalleled   : 並びない, 並び無い
+0.0084032    2 mountain       : 山並, 山並み
+0.0080189    1 game           : 七並べ
+0.0079561    2 unique         : 並びない, 並び無い
+0.0078083    4 look           : 町並, 町並み, 街並, 街並み
+0.0075459    2 side           : 並置, 並記
+0.0074861    4 month          : 並, 並み, 月並, 月並み
+0.0074456    2 march          : 並み足, 並足
+0.0074378    1 used           : 並品
+0.0072495    2 extraordinary  : 並み外れ, 並外れ
+0.0071425    2 unreasonable   : 並み外れ, 並外れ
+0.0069548    2 slow           : 並み足, 並足
+0.0064450    2 walking        : 並み足, 並足
+0.0063662    2 reorganize     : 並びかえる, 並び替える
+0.0063554    3 set            : 歯並み, 歯並び, 並べる
+0.0062539    2 skill          : 手並, 手並み
+0.0060278    2 hair           : 毛並, 毛並み
+0.0060013    2 trite          : 月並, 月並み
+0.0059772    1 writing        : 並記
+0.0058756    1 move           : 並べ替える
+0.0058690    2 cloth          : 並巾, 並幅
+0.0057050    2 going          : 並行, 横並び
+0.0056563    2 enumerate      : 並べ立てる, 並べる
+0.0054419    2 hackneyed      : 月並, 月並み
+0.0053509    2 roadside       : 並樹, 並木
+0.0052902    2 range          : 山並, 山並み
+0.0052818    2 conventional   : 月並, 月並み
+0.0052818    2 commonplace    : 月並, 月並み
+0.0052263    2 belt           : 山並, 山並み
+0.0050769    2 equivalent     : 並, 並み
+0.0048829    1 thrusting      : 穂並
+0.0047996    2 list           : 並べ立てる, 並び
+0.0047377    2 medium         : 並, 並み
+0.0046287    2 grade          : 並, 並み
+0.0044470    1 speech         : 書き並べる
+0.0044371    2 regular        : 並, 並み
+0.0043586    1 lot            : 並べ立てる
+0.0043344    2 breeding       : 毛並, 毛並み
+0.0042881    1 egalitarian    : 横並び
+0.0042737    2 standing       : 並列, 並立
+0.0042611    2 board          : 軒並, 軒並み
+0.0042306    2 fur            : 毛並, 毛並み
+0.0041973    2 level          : 並, 並み
+0.0041568    2 lineage        : 毛並, 毛並み
+0.0037881    2 coat           : 毛並, 毛並み
+0.0037164    2 general        : 並べて, 押し並べて
+0.0036969    2 dog            : 毛並, 毛並み
+0.0036831    1 upright        : 穂並
+0.0036328    1 itemize        : 並べる
+0.0036084    2 lie            : 毛並, 毛並み
+0.0035834    2 order          : 並びかえる, 並び替える
+0.0035789    1 juxtaposition  : 並置
+0.0034551    1 grain          : 穂並
+0.0034005    2 put            : 並びかえる, 並び替える
+0.0033174    1 something      : 横並び
+0.0033142    2 type           : 毛並, 毛並み
+0.0032791    1 coexistence    : 並存
+0.0032322    1 electronics    : 並列
+0.0032201    2 step           : 足並, 足並み
+0.0031532    1 parallel       : 並列
+0.0031529    1 advancing      : 並進
+0.0030576    1 treating       : 横並び
+0.0027308    1 classes        : 並置
+0.0026470    1 nonsense       : 並べ立てる
+0.0026428    1 following      : 横並び
+0.0026170    1 rival          : 並ぶ
+0.0026082    1 manner         : 横並び
+0.0025373    1 translation    : 並進
+0.0024983    1 crowd          : 横並び
+0.0023594    1 arrange        : 並べる
+0.0023122    1 compare        : 並べる
+0.0023085    1 make           : 並製
+0.0022571    1 tell           : 並べ立てる
+0.0020392    1 match          : 並ぶ
+0.0019388    1 talk           : 並べ立てる
+0.0019230    1 rank           : 並び
+0.0016786    1 time           : 並行
+0.0016106    1 good           : 並べる
+0.0015779    1 place          : 並べ立てる
+0.0015633    1 whole          : 押し並べて
+0.0014056    1 large          : 押し並べて
+0.0013653    1 part           : 押し並べて
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0700697   25 row
+	row WORD[ 1,   1]: 0.0040741 建ち並ぶ
+	row WORD[ 1,   2]: 0.0040741 立ち並ぶ
+	row WORD[ 1,   3]: 0.0040741 立並ぶ
+	row WORD[ 1,   4]: 0.0035524 屋並
+	row WORD[ 1,   5]: 0.0035524 屋並み
+	row WORD[ 1,   6]: 0.0033202 歯並み
+	row WORD[ 1,   7]: 0.0033144 並び立つ
+	row WORD[ 1,   8]: 0.0033092 並みいる
+	row WORD[ 1,   9]: 0.0033092 並み居る
+	row WORD[ 1,  10]: 0.0033092 並居る
+	row WORD[ 1,  11]: 0.0028273 門並
+	row WORD[ 1,  12]: 0.0028273 門並み
+	row WORD[ 1,  13]: 0.0027549 居並ぶ
+	row WORD[ 1,  14]: 0.0024090 並列
+	row WORD[ 1,  15]: 0.0022863 歯並び
+	row WORD[ 1,  16]: 0.0022419 軒並
+	row WORD[ 1,  17]: 0.0022419 軒並み
+	row WORD[ 1,  18]: 0.0022059 並べ立てる
+	row WORD[ 1,  19]: 0.0022051 並び
+	row WORD[ 1,  20]: 0.0022026 並樹
+	row WORD[ 1,  21]: 0.0022026 並木
+	row WORD[ 1,  22]: 0.0022024 並
+	row WORD[ 1,  23]: 0.0022024 並み
+	row WORD[ 1,  24]: 0.0016854 家並
+	row WORD[ 1,  25]: 0.0016854 家並み
+TOKEN[ 2]: 0.0323165   12 line
+	line WORD[ 2,   1]: 0.0037647 書き並べる
+	line WORD[ 2,   2]: 0.0035396 並べる
+	line WORD[ 2,   3]: 0.0035391 並ぶ
+	line WORD[ 2,   4]: 0.0032690 建ち並ぶ
+	line WORD[ 2,   5]: 0.0032690 立ち並ぶ
+	line WORD[ 2,   6]: 0.0032690 立並ぶ
+	line WORD[ 2,   7]: 0.0026595 並び立つ
+	line WORD[ 2,   8]: 0.0019330 並列
+	line WORD[ 2,   9]: 0.0017700 並べ立てる
+	line WORD[ 2,  10]: 0.0017694 並び
+	line WORD[ 2,  11]: 0.0017672 並
+	line WORD[ 2,  12]: 0.0017672 並み
+TOKEN[ 3]: 0.0322560    8 house
+	house WORD[ 3,   1]: 0.0055587 屋並
+	house WORD[ 3,   2]: 0.0055587 屋並み
+	house WORD[ 3,   3]: 0.0044241 門並
+	house WORD[ 3,   4]: 0.0044241 門並み
+	house WORD[ 3,   5]: 0.0035080 軒並
+	house WORD[ 3,   6]: 0.0035080 軒並み
+	house WORD[ 3,   7]: 0.0026373 家並
+	house WORD[ 3,   8]: 0.0026373 家並み
+TOKEN[ 4]: 0.0253867    5 average
+	average WORD[ 4,   1]: 0.0125005 並品
+	average WORD[ 4,   2]: 0.0038693 並み外れ
+	average WORD[ 4,   3]: 0.0038693 並外れ
+	average WORD[ 4,   4]: 0.0025738 並
+	average WORD[ 4,   5]: 0.0025738 並み
+TOKEN[ 5]: 0.0236005    7 street
+	street WORD[ 5,   1]: 0.0045018 町並
+	street WORD[ 5,   2]: 0.0045018 町並み
+	street WORD[ 5,   3]: 0.0045017 街並
+	street WORD[ 5,   4]: 0.0045017 街並み
+	street WORD[ 5,   5]: 0.0018645 建ち並ぶ
+	street WORD[ 5,   6]: 0.0018645 立ち並ぶ
+	street WORD[ 5,   7]: 0.0018645 立並ぶ
+TOKEN[ 6]: 0.0212857    9 equal
+	equal WORD[ 6,   1]: 0.0033845 並び立つ
+	equal WORD[ 6,   2]: 0.0026586 横並び
+	equal WORD[ 6,   3]: 0.0022523 並べる
+	equal WORD[ 6,   4]: 0.0022520 並ぶ
+	equal WORD[ 6,   5]: 0.0022489 並
+	equal WORD[ 6,   6]: 0.0022489 並み
+	equal WORD[ 6,   7]: 0.0020801 建ち並ぶ
+	equal WORD[ 6,   8]: 0.0020801 立ち並ぶ
+	equal WORD[ 6,   9]: 0.0020801 立並ぶ
+TOKEN[ 7]: 0.0195233    4 sort
+	sort WORD[ 7,   1]: 0.0076218 並べ替える
+	sort WORD[ 7,   2]: 0.0076214 並べ替え
+	sort WORD[ 7,   3]: 0.0021400 毛並
+	sort WORD[ 7,   4]: 0.0021400 毛並み
+TOKEN[ 8]: 0.0194234    4 rearrange
+	rearrange WORD[ 8,   1]: 0.0087655 並べ替える
+	rearrange WORD[ 8,   2]: 0.0048851 並べ直す
+	rearrange WORD[ 8,   3]: 0.0028864 並びかえる
+	rearrange WORD[ 8,   4]: 0.0028864 並び替える
+TOKEN[ 9]: 0.0190447    7 pace
+	pace WORD[ 9,   1]: 0.0036702 並み足
+	pace WORD[ 9,   2]: 0.0036702 並足
+	pace WORD[ 9,   3]: 0.0026716 並走
+	pace WORD[ 9,   4]: 0.0026715 並進
+	pace WORD[ 9,   5]: 0.0026714 並行
+	pace WORD[ 9,   6]: 0.0018448 足並
+	pace WORD[ 9,   7]: 0.0018448 足並み
+TOKEN[10]: 0.0174062    6 ordinary
+	ordinary WORD[10,   1]: 0.0032656 並々
+	ordinary WORD[10,   2]: 0.0032656 並み並み
+	ordinary WORD[10,   3]: 0.0032656 並並
+	ordinary WORD[10,   4]: 0.0032649 並製
+	ordinary WORD[10,   5]: 0.0021723 並
+	ordinary WORD[10,   6]: 0.0021723 並み
+TOKEN[11]: 0.0167573    1 swallowtail
+	swallowtail WORD[11,   1]: 0.0167573 並揚羽
+TOKEN[12]: 0.0167573    1 Papilio
+	Papilio WORD[12,   1]: 0.0167573 並揚羽
+TOKEN[13]: 0.0148412    1 citrus
+	citrus WORD[13,   1]: 0.0148412 並揚羽
+TOKEN[14]: 0.0147287    1 butterfly
+	butterfly WORD[14,   1]: 0.0147287 並揚羽
+TOKEN[15]: 0.0142203    3 item
+	item WORD[15,   1]: 0.0100725 並品
+	item WORD[15,   2]: 0.0020739 並
+	item WORD[15,   3]: 0.0020739 並み
+TOKEN[16]: 0.0141991    4 townscape
+	townscape WORD[16,   1]: 0.0035498 町並
+	townscape WORD[16,   2]: 0.0035498 町並み
+	townscape WORD[16,   3]: 0.0035498 街並
+	townscape WORD[16,   4]: 0.0035498 街並み
+TOKEN[17]: 0.0141742    1 normal
+	normal WORD[17,   1]: 0.0141742 並盛り
+TOKEN[18]: 0.0138438    1 portion
+	portion WORD[18,   1]: 0.0138438 並盛り
+TOKEN[19]: 0.0137591    4 sit
+	sit WORD[19,   1]: 0.0035901 並みいる
+	sit WORD[19,   2]: 0.0035901 並み居る
+	sit WORD[19,   3]: 0.0035901 並居る
+	sit WORD[19,   4]: 0.0029887 居並ぶ
+TOKEN[20]: 0.0133710    6 door
+	door WORD[20,   1]: 0.0031752 屋並
+	door WORD[20,   2]: 0.0031752 屋並み
+	door WORD[20,   3]: 0.0020038 軒並
+	door WORD[20,   4]: 0.0020038 軒並み
+	door WORD[20,   5]: 0.0015065 家並
+	door WORD[20,   6]: 0.0015064 家並み
+TOKEN[21]: 0.0133201    3 lined
+	lined WORD[21,   1]: 0.0044400 並みいる
+	lined WORD[21,   2]: 0.0044400 並み居る
+	lined WORD[21,   3]: 0.0044400 並居る
+TOKEN[22]: 0.0132446    5 stand
+	stand WORD[22,   1]: 0.0058745 並び立つ
+	stand WORD[22,   2]: 0.0019544 並ぶ
+	stand WORD[22,   3]: 0.0018052 建ち並ぶ
+	stand WORD[22,   4]: 0.0018052 立ち並ぶ
+	stand WORD[22,   5]: 0.0018052 立並ぶ
+TOKEN[23]: 0.0131386    5 par
+	par WORD[23,   1]: 0.0027517 並
+	par WORD[23,   2]: 0.0027517 並み
+	par WORD[23,   3]: 0.0025451 建ち並ぶ
+	par WORD[23,   4]: 0.0025451 立ち並ぶ
+	par WORD[23,   5]: 0.0025451 立並ぶ
+TOKEN[24]: 0.0128607    1 serving
+	serving WORD[24,   1]: 0.0128607 並盛り
+TOKEN[25]: 0.0122278    3 uncommon
+	uncommon WORD[25,   1]: 0.0040759 並はずれる
+	uncommon WORD[25,   2]: 0.0040759 並み外れる
+	uncommon WORD[25,   3]: 0.0040759 並外れる
+TOKEN[26]: 0.0118468    1 parliament
+	parliament WORD[26,   1]: 0.0118468 七並べ
+TOKEN[27]: 0.0113382    2 teeth
+	teeth WORD[27,   1]: 0.0067145 歯並み
+	teeth WORD[27,   2]: 0.0046236 歯並び
+TOKEN[28]: 0.0110295    1 collate
+	collate WORD[28,   1]: 0.0110295 並べ替える
+TOKEN[29]: 0.0110295    1 reorder
+	reorder WORD[29,   1]: 0.0110295 並べ替える
+TOKEN[30]: 0.0100470    1 quality
+	quality WORD[30,   1]: 0.0100470 並品
+TOKEN[31]: 0.0099274    1 species
+	species WORD[31,   1]: 0.0099274 並揚羽
+TOKEN[32]: 0.0096956    3 abreast
+	abreast WORD[32,   1]: 0.0032322 並立
+	abreast WORD[32,   2]: 0.0032318 並進
+	abreast WORD[32,   3]: 0.0032317 並行
+TOKEN[33]: 0.0095510    3 keeping
+	keeping WORD[33,   1]: 0.0047755 並進
+	keeping WORD[33,   2]: 0.0023878 並走
+	keeping WORD[33,   3]: 0.0023877 並行
+TOKEN[34]: 0.0094735    4 common
+	common WORD[34,   1]: 0.0028446 並み外れ
+	common WORD[34,   2]: 0.0028446 並外れ
+	common WORD[34,   3]: 0.0018922 並
+	common WORD[34,   4]: 0.0018922 並み
+TOKEN[35]: 0.0091756    2 unequaled
+	unequaled WORD[35,   1]: 0.0045878 並びない
+	unequaled WORD[35,   2]: 0.0045878 並び無い
+TOKEN[36]: 0.0088479    3 present
+	present WORD[36,   1]: 0.0029493 並みいる
+	present WORD[36,   2]: 0.0029493 並み居る
+	present WORD[36,   3]: 0.0029493 並居る
+TOKEN[37]: 0.0087947    2 plumage
+	plumage WORD[37,   1]: 0.0043974 羽並
+	plumage WORD[37,   2]: 0.0043973 羽並み
+TOKEN[38]: 0.0086635    2 dentition
+	dentition WORD[38,   1]: 0.0051306 歯並み
+	dentition WORD[38,   2]: 0.0035329 歯並び
+TOKEN[39]: 0.0084904    2 abnormal
+	abnormal WORD[39,   1]: 0.0042452 並み外れ
+	abnormal WORD[39,   2]: 0.0042452 並外れ
+TOKEN[40]: 0.0084537    3 running
+	running WORD[40,   1]: 0.0042269 並走
+	running WORD[40,   2]: 0.0021135 並置
+	running WORD[40,   3]: 0.0021133 並行
+TOKEN[41]: 0.0084229    2 unparalleled
+	unparalleled WORD[41,   1]: 0.0042115 並びない
+	unparalleled WORD[41,   2]: 0.0042114 並び無い
+TOKEN[42]: 0.0084032    2 mountain
+	mountain WORD[42,   1]: 0.0042016 山並
+	mountain WORD[42,   2]: 0.0042016 山並み
+TOKEN[43]: 0.0080189    1 game
+	game WORD[43,   1]: 0.0080189 七並べ
+TOKEN[44]: 0.0079561    2 unique
+	unique WORD[44,   1]: 0.0039780 並びない
+	unique WORD[44,   2]: 0.0039780 並び無い
+TOKEN[45]: 0.0078083    4 look
+	look WORD[45,   1]: 0.0019521 町並
+	look WORD[45,   2]: 0.0019521 町並み
+	look WORD[45,   3]: 0.0019521 街並
+	look WORD[45,   4]: 0.0019521 街並み
+TOKEN[46]: 0.0075459    2 side
+	side WORD[46,   1]: 0.0037732 並置
+	side WORD[46,   2]: 0.0037727 並記
+TOKEN[47]: 0.0074861    4 month
+	month WORD[47,   1]: 0.0019256 並
+	month WORD[47,   2]: 0.0019256 並み
+	month WORD[47,   3]: 0.0018175 月並
+	month WORD[47,   4]: 0.0018175 月並み
+TOKEN[48]: 0.0074456    2 march
+	march WORD[48,   1]: 0.0037228 並み足
+	march WORD[48,   2]: 0.0037228 並足
+TOKEN[49]: 0.0074378    1 used
+	used WORD[49,   1]: 0.0074378 並品
+TOKEN[50]: 0.0072495    2 extraordinary
+	extraordinary WORD[50,   1]: 0.0036247 並み外れ
+	extraordinary WORD[50,   2]: 0.0036247 並外れ
+TOKEN[51]: 0.0071425    2 unreasonable
+	unreasonable WORD[51,   1]: 0.0035713 並み外れ
+	unreasonable WORD[51,   2]: 0.0035713 並外れ
+TOKEN[52]: 0.0069548    2 slow
+	slow WORD[52,   1]: 0.0034774 並み足
+	slow WORD[52,   2]: 0.0034774 並足
+TOKEN[53]: 0.0064450    2 walking
+	walking WORD[53,   1]: 0.0032225 並み足
+	walking WORD[53,   2]: 0.0032225 並足
+TOKEN[54]: 0.0063662    2 reorganize
+	reorganize WORD[54,   1]: 0.0031831 並びかえる
+	reorganize WORD[54,   2]: 0.0031831 並び替える
+TOKEN[55]: 0.0063554    3 set
+	set WORD[55,   1]: 0.0027011 歯並み
+	set WORD[55,   2]: 0.0018600 歯並び
+	set WORD[55,   3]: 0.0017943 並べる
+TOKEN[56]: 0.0062539    2 skill
+	skill WORD[56,   1]: 0.0031270 手並
+	skill WORD[56,   2]: 0.0031270 手並み
+TOKEN[57]: 0.0060278    2 hair
+	hair WORD[57,   1]: 0.0030139 毛並
+	hair WORD[57,   2]: 0.0030139 毛並み
+TOKEN[58]: 0.0060013    2 trite
+	trite WORD[58,   1]: 0.0030006 月並
+	trite WORD[58,   2]: 0.0030006 月並み
+TOKEN[59]: 0.0059772    1 writing
+	writing WORD[59,   1]: 0.0059772 並記
+TOKEN[60]: 0.0058756    1 move
+	move WORD[60,   1]: 0.0058756 並べ替える
+TOKEN[61]: 0.0058690    2 cloth
+	cloth WORD[61,   1]: 0.0029345 並巾
+	cloth WORD[61,   2]: 0.0029345 並幅
+TOKEN[62]: 0.0057050    2 going
+	going WORD[62,   1]: 0.0037034 並行
+	going WORD[62,   2]: 0.0020016 横並び
+TOKEN[63]: 0.0056563    2 enumerate
+	enumerate WORD[63,   1]: 0.0028283 並べ立てる
+	enumerate WORD[63,   2]: 0.0028280 並べる
+TOKEN[64]: 0.0054419    2 hackneyed
+	hackneyed WORD[64,   1]: 0.0027210 月並
+	hackneyed WORD[64,   2]: 0.0027210 月並み
+TOKEN[65]: 0.0053509    2 roadside
+	roadside WORD[65,   1]: 0.0026755 並樹
+	roadside WORD[65,   2]: 0.0026755 並木
+TOKEN[66]: 0.0052902    2 range
+	range WORD[66,   1]: 0.0026451 山並
+	range WORD[66,   2]: 0.0026451 山並み
+TOKEN[67]: 0.0052818    2 conventional
+	conventional WORD[67,   1]: 0.0026409 月並
+	conventional WORD[67,   2]: 0.0026409 月並み
+TOKEN[68]: 0.0052818    2 commonplace
+	commonplace WORD[68,   1]: 0.0026409 月並
+	commonplace WORD[68,   2]: 0.0026409 月並み
+TOKEN[69]: 0.0052263    2 belt
+	belt WORD[69,   1]: 0.0026131 山並
+	belt WORD[69,   2]: 0.0026131 山並み
+TOKEN[70]: 0.0050769    2 equivalent
+	equivalent WORD[70,   1]: 0.0025385 並
+	equivalent WORD[70,   2]: 0.0025385 並み
+TOKEN[71]: 0.0048829    1 thrusting
+	thrusting WORD[71,   1]: 0.0048829 穂並
+TOKEN[72]: 0.0047996    2 list
+	list WORD[72,   1]: 0.0024002 並べ立てる
+	list WORD[72,   2]: 0.0023994 並び
+TOKEN[73]: 0.0047377    2 medium
+	medium WORD[73,   1]: 0.0023689 並
+	medium WORD[73,   2]: 0.0023689 並み
+TOKEN[74]: 0.0046287    2 grade
+	grade WORD[74,   1]: 0.0023143 並
+	grade WORD[74,   2]: 0.0023143 並み
+TOKEN[75]: 0.0044470    1 speech
+	speech WORD[75,   1]: 0.0044470 書き並べる
+TOKEN[76]: 0.0044371    2 regular
+	regular WORD[76,   1]: 0.0022185 並
+	regular WORD[76,   2]: 0.0022185 並み
+TOKEN[77]: 0.0043586    1 lot
+	lot WORD[77,   1]: 0.0043586 並べ立てる
+TOKEN[78]: 0.0043344    2 breeding
+	breeding WORD[78,   1]: 0.0021672 毛並
+	breeding WORD[78,   2]: 0.0021672 毛並み
+TOKEN[79]: 0.0042881    1 egalitarian
+	egalitarian WORD[79,   1]: 0.0042881 横並び
+TOKEN[80]: 0.0042737    2 standing
+	standing WORD[80,   1]: 0.0021368 並列
+	standing WORD[80,   2]: 0.0021368 並立
+TOKEN[81]: 0.0042611    2 board
+	board WORD[81,   1]: 0.0021306 軒並
+	board WORD[81,   2]: 0.0021306 軒並み
+TOKEN[82]: 0.0042306    2 fur
+	fur WORD[82,   1]: 0.0021153 毛並
+	fur WORD[82,   2]: 0.0021153 毛並み
+TOKEN[83]: 0.0041973    2 level
+	level WORD[83,   1]: 0.0020987 並
+	level WORD[83,   2]: 0.0020987 並み
+TOKEN[84]: 0.0041568    2 lineage
+	lineage WORD[84,   1]: 0.0020784 毛並
+	lineage WORD[84,   2]: 0.0020784 毛並み
+TOKEN[85]: 0.0037881    2 coat
+	coat WORD[85,   1]: 0.0018940 毛並
+	coat WORD[85,   2]: 0.0018940 毛並み
+TOKEN[86]: 0.0037164    2 general
+	general WORD[86,   1]: 0.0020672 並べて
+	general WORD[86,   2]: 0.0016492 押し並べて
+TOKEN[87]: 0.0036969    2 dog
+	dog WORD[87,   1]: 0.0018485 毛並
+	dog WORD[87,   2]: 0.0018485 毛並み
+TOKEN[88]: 0.0036831    1 upright
+	upright WORD[88,   1]: 0.0036831 穂並
+TOKEN[89]: 0.0036328    1 itemize
+	itemize WORD[89,   1]: 0.0036328 並べる
+TOKEN[90]: 0.0036084    2 lie
+	lie WORD[90,   1]: 0.0018042 毛並
+	lie WORD[90,   2]: 0.0018042 毛並み
+TOKEN[91]: 0.0035834    2 order
+	order WORD[91,   1]: 0.0017917 並びかえる
+	order WORD[91,   2]: 0.0017917 並び替える
+TOKEN[92]: 0.0035789    1 juxtaposition
+	juxtaposition WORD[92,   1]: 0.0035789 並置
+TOKEN[93]: 0.0034551    1 grain
+	grain WORD[93,   1]: 0.0034551 穂並
+TOKEN[94]: 0.0034005    2 put
+	put WORD[94,   1]: 0.0017002 並びかえる
+	put WORD[94,   2]: 0.0017002 並び替える
+TOKEN[95]: 0.0033174    1 something
+	something WORD[95,   1]: 0.0033174 横並び
+TOKEN[96]: 0.0033142    2 type
+	type WORD[96,   1]: 0.0016571 毛並
+	type WORD[96,   2]: 0.0016571 毛並み
+TOKEN[97]: 0.0032791    1 coexistence
+	coexistence WORD[97,   1]: 0.0032791 並存
+TOKEN[98]: 0.0032322    1 electronics
+	electronics WORD[98,   1]: 0.0032322 並列
+TOKEN[99]: 0.0032201    2 step
+	step WORD[99,   1]: 0.0016100 足並
+	step WORD[99,   2]: 0.0016100 足並み
+TOKEN[100]: 0.0031532    1 parallel
+	parallel WORD[100,   1]: 0.0031532 並列
+TOKEN[101]: 0.0031529    1 advancing
+	advancing WORD[101,   1]: 0.0031529 並進
+TOKEN[102]: 0.0030576    1 treating
+	treating WORD[102,   1]: 0.0030576 横並び
+TOKEN[103]: 0.0027308    1 classes
+	classes WORD[103,   1]: 0.0027308 並置
+TOKEN[104]: 0.0026470    1 nonsense
+	nonsense WORD[104,   1]: 0.0026470 並べ立てる
+TOKEN[105]: 0.0026428    1 following
+	following WORD[105,   1]: 0.0026428 横並び
+TOKEN[106]: 0.0026170    1 rival
+	rival WORD[106,   1]: 0.0026170 並ぶ
+TOKEN[107]: 0.0026082    1 manner
+	manner WORD[107,   1]: 0.0026082 横並び
+TOKEN[108]: 0.0025373    1 translation
+	translation WORD[108,   1]: 0.0025373 並進
+TOKEN[109]: 0.0024983    1 crowd
+	crowd WORD[109,   1]: 0.0024983 横並び
+TOKEN[110]: 0.0023594    1 arrange
+	arrange WORD[110,   1]: 0.0023594 並べる
+TOKEN[111]: 0.0023122    1 compare
+	compare WORD[111,   1]: 0.0023122 並べる
+TOKEN[112]: 0.0023085    1 make
+	make WORD[112,   1]: 0.0023085 並製
+TOKEN[113]: 0.0022571    1 tell
+	tell WORD[113,   1]: 0.0022571 並べ立てる
+TOKEN[114]: 0.0020392    1 match
+	match WORD[114,   1]: 0.0020392 並ぶ
+TOKEN[115]: 0.0019388    1 talk
+	talk WORD[115,   1]: 0.0019388 並べ立てる
+TOKEN[116]: 0.0019230    1 rank
+	rank WORD[116,   1]: 0.0019230 並び
+TOKEN[117]: 0.0016786    1 time
+	time WORD[117,   1]: 0.0016786 並行
+TOKEN[118]: 0.0016106    1 good
+	good WORD[118,   1]: 0.0016106 並べる
+TOKEN[119]: 0.0015779    1 place
+	place WORD[119,   1]: 0.0015779 並べ立てる
+TOKEN[120]: 0.0015633    1 whole
+	whole WORD[120,   1]: 0.0015633 押し並べて
+TOKEN[121]: 0.0014056    1 large
+	large WORD[121,   1]: 0.0014056 押し並べて
+TOKEN[122]: 0.0013653    1 part
+	part WORD[122,   1]: 0.0013653 押し並べて

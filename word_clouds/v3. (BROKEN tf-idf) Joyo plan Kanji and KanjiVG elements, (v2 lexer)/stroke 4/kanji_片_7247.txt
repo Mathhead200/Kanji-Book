@@ -1,0 +1,891 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0383796   32 one            : 片腕, 片目, 片っぽ, 片っ方, 片方, 片肘, 片肱, 片袖, 片眉, 片翼, ...
+0.0342668   13 fragment       : 弾片, 骨片, 陶片, 一欠片, 岩片, 切片, 細片, 残片, 欠片, 破片, ...
+0.0273145    7 chip           : 削片, 剝片, 剥片, 細片, 欠片, 木片, 破片
+0.0244761    3 flake          : 剝片, 剥片, 薄片
+0.0200292    5 splinter       : 削片, 細片, 欠片, 木片, 破片
+0.0177594   10 piece          : 布片, 一欠片, 肉片, 細片, 欠片, 破片, 断片, 紙片, 片割れ, 小片
+0.0175641    1 slipknot       : 片結び
+0.0168217   13 side           : 片っぽ, 片っ方, 片方, 片口, 片寄せる, 片身, 片偏, 片寄る, 片面, 片っぱし, ...
+0.0163135    4 speck          : 剝片, 剥片, 片影, 片雲
+0.0151390    4 shard          : 陶片, 氷片, 欠片, 破片
+0.0140435    1 cantilever     : 片持ち
+0.0137414    2 half           : 片結び, 半片
+0.0117375    1 knot           : 片結び
+0.0106117    6 put            : 片す, 片づける, 片付ける, 片づく, 片付く, 片寄せる
+0.0093325    2 elbow          : 片肘, 片肱
+0.0090529    2 ice            : 氷片, 雪片
+0.0087213    1 handbill       : 片
+0.0085954    2 eye            : 片目, 片眼
+0.0081977    1 flier          : 片
+0.0079797    1 wing           : 片翼
+0.0078547    3 single         : 片翼, 片刃, 片親
+0.0078454    2 production     : 剝片, 剥片
+0.0076742    1 flyer          : 片
+0.0076742    1 placard        : 片
+0.0076511    1 schist         : 片岩
+0.0073075    1 leaflet        : 片
+0.0072745    3 slice          : 半片, 薄片, 切片
+0.0069683    1 schistosity    : 片理
+0.0069658    2 stone          : 剝片, 剥片
+0.0069066    1 Erythronium    : 片栗
+0.0067381    6 pair           : 片割れ, 片っぽ, 片っ方, 片方, 片脚, 片足
+0.0067174    2 scrappy        : 片々, 片片
+0.0067128    1 sepal          : 萼片
+0.0066872    1 worthless      : 木片
+0.0066441    3 shred          : 細片, 欠片, 断片
+0.0066039    1 poster         : 片
+0.0065279    3 glimpse        : 片影, 片りん, 片鱗
+0.0065260    3 love           : 片恋, 片思い, 片想い
+0.0064595    1 time           : 片手間
+0.0064536    2 violet         : 片栗, 片栗粉
+0.0064430    1 spicule        : 骨片
+0.0061405    3 used           : 剝片, 剥片, 片仮名
+0.0061017    1 shrapnel       : 弾片
+0.0060783    2 fragmentary    : 片々, 片片
+0.0059695    2 bone           : 骨片, 薄片
+0.0058976    1 potsherd       : 陶片
+0.0058097    1 bigger         : 片目
+0.0057214    2 deformed       : 片輪, 片端
+0.0055854    2 fluttering     : 片々, 片片
+0.0055104    1 poetry         : 片歌
+0.0054110    3 party          : 片っぽ, 片っ方, 片方
+0.0053508    3 someone        : 片目, 片づける, 片付ける
+0.0053049    3 unrequited     : 片恋, 片思い, 片想い
+0.0052098    1 bill           : 片
+0.0051822    2 unimportant    : 片々, 片片
+0.0050590    1 pattern        : 片歌
+0.0050191    1 univalve       : 片貝
+0.0050088    2 lameness       : 片ちんば, 片跛
+0.0049906    2 ticket         : 半片, 片道
+0.0049472    4 bit            : 片りん, 片鱗, 紙片, 小片
+0.0048284    1 ancient        : 片歌
+0.0048112    3 tidy           : 片す, 片づける, 片付ける
+0.0048046    1 eyebrow        : 片眉
+0.0047388    2 insignificant  : 片々, 片片
+0.0047318    2 lame           : 片ちんば, 片跛
+0.0046732    5 order          : 片す, 片づける, 片付ける, 片づく, 片付く
+0.0046728    1 three          : 片歌
+0.0046707    1 bullet         : 弾片
+0.0046575    2 trifling       : 片々, 片片
+0.0046158    2 imperfect      : 片輪, 片端
+0.0045436    3 broken         : 欠片, 破片, 片割れ
+0.0045276    1 cloth          : 布片
+0.0044697    3 scrap          : 欠片, 断片, 紙片
+0.0044610    2 incomplete     : 片輪, 片端
+0.0044432    1 form           : 片歌
+0.0042456    1 sleeve         : 片袖
+0.0041507    3 mate           : 片っぽ, 片っ方, 片方
+0.0040880    2 wheel          : 片輪, 片端
+0.0040465    1 pottery        : 陶片
+0.0040449    2 Japanese       : 片歌, 片仮名
+0.0039754    1 cash           : 金片
+0.0039260    3 corner         : 片辺, 片すみ, 片隅
+0.0039149    1 breathing      : 片息
+0.0038925    2 knowledge      : 片々, 片片
+0.0038804    1 shell          : 弾片
+0.0038311    1 palanquin      : 片棒
+0.0038023    1 leisure        : 片手間
+0.0037516    3 edge           : 片刃, 片っぱし, 片っ端
+0.0037084    2 odd            : 片ちんば, 片跛
+0.0036854    2 argument       : 片口, 片言
+0.0035740    1 parent         : 片親
+0.0035605    1 unilaterality  : 片務
+0.0034951    1 meat           : 肉片
+0.0034684    1 spare          : 片手間
+0.0034044    3 fellow         : 片っぽ, 片っ方, 片方
+0.0032754    4 end            : 片っぱし, 片っ端, 片づける, 片付ける
+0.0031701    1 radical        : 片偏
+0.0031581    2 strip          : 細片, 紙片
+0.0031415    2 portion        : 片りん, 片鱗
+0.0030044    2 disposed       : 片づく, 片付く
+0.0029850    2 remote         : 片辺, 片田舎
+0.0029448    1 money          : 金片
+0.0029253    1 knee           : 片膝
+0.0029173    1 free           : 片手間
+0.0028978    1 lipped         : 片口
+0.0028878    1 lamella        : 薄片
+0.0028217    1 wood           : 木片
+0.0027796    2 nook           : 片すみ, 片隅
+0.0027418    1 blindness      : 片目
+0.0027399    2 bump           : 片づける, 片付ける
+0.0027271    2 opium          : 阿片, 鴉片
+0.0027055    1 snowflake      : 雪片
+0.0027043    2 marry          : 片づける, 片付ける
+0.0027043    2 straighten     : 片づける, 片付ける
+0.0026176    1 two            : 片棒
+0.0026108    1 thing          : 木片
+0.0025945    1 stub           : 半片
+0.0025428    1 intercept      : 切片
+0.0025048    1 bevel          : 片刃
+0.0024864    1 people         : 片棒
+0.0024695    1 debris         : 砕片
+0.0024385    2 finished       : 片づく, 片付く
+0.0024241    1 starch         : 片栗粉
+0.0024176    2 country        : 片辺, 片田舎
+0.0024084    1 foil           : 薄片
+0.0024033    1 remnant        : 残片
+0.0023796    2 finishing      : 片づけ, 片付け
+0.0023793    1 treaty         : 片務
+0.0023752    1 brief          : 片言
+0.0023752    1 remark         : 片言
+0.0023716    1 ounce          : 欠片
+0.0023540    2 daughter       : 片づける, 片付ける
+0.0023297    1 gasping        : 片息
+0.0023272    2 part           : 片りん, 片鱗
+0.0022993    2 married        : 片づく, 片付く
+0.0022985    1 slanting       : 片流れ
+0.0022908    2 settle         : 片づける, 片付ける
+0.0022901    1 segment        : 切片
+0.0022839    1 blind          : 片目
+0.0022671    2 leg            : 片脚, 片足
+0.0022410    2 dispute        : 片づける, 片付ける
+0.0022325    1 bank           : 片岸
+0.0022314    1 rock           : 岩片
+0.0022223    1 cluster        : 雪片
+0.0021934    1 statement      : 片言
+0.0021910    2 hand           : 片腕, 片手
+0.0021664    1 river          : 片岸
+0.0021504    1 cloud          : 片雲
+0.0021254    1 scale          : 鱗片
+0.0021053    2 small          : 細片, 小片
+0.0020796    2 foot           : 片脚, 片足
+0.0020687    2 finish         : 片づける, 片付ける
+0.0020532    1 lung           : 片肺
+0.0020504    1 cake           : 半片
+0.0020398    1 jacket         : 片前
+0.0020314    1 conscience     : 欠片
+0.0020296    1 contract       : 片務
+0.0020195    2 problem        : 片づける, 片付ける
+0.0019980    1 sail           : 片帆
+0.0019489    1 animal         : 鱗片
+0.0019445    1 grudge         : 片恨み
+0.0019420    2 bring          : 片づける, 片付ける
+0.0019200    1 flat           : 薄片
+0.0019193    1 shed           : 片流れ
+0.0019128    2 clear          : 片づける, 片付ける
+0.0019011    1 trace          : 欠片
+0.0018861    1 metal          : 薄片
+0.0018800    1 material       : 薄片
+0.0018674    1 iron           : 鉄片
+0.0018351    1 section        : 切片
+0.0018198    1 thin           : 薄片
+0.0018105    1 petal          : 花片
+0.0018104    1 plant          : 鱗片
+0.0017966    1 knife          : 片刃
+0.0017855    1 person         : 木片
+0.0017808    1 blade          : 片刃
+0.0017787    1 kitchen        : 片刃
+0.0017660    1 bare           : 片肌
+0.0017580    1 shoulder       : 片肌
+0.0017561    1 rear           : 片棒
+0.0017506    1 arm            : 片腕
+0.0017474    1 confederate    : 片割れ
+0.0017391    1 carried        : 片棒
+0.0017163    1 bowl           : 片口
+0.0016836    1 dogtooth       : 片栗粉
+0.0016699    1 carrying       : 片棒
+0.0016551    1 cut            : 肉片
+0.0016503    1 reach          : 片帆
+0.0016501    1 truth          : 欠片
+0.0016361    1 difficult      : 片息
+0.0016188    1 push           : 片寄せる
+0.0016088    1 counterpart    : 片割れ
+0.0015986    1 roof           : 片流れ
+0.0015730    1 chips          : 素片
+0.0015618    1 heavy          : 片息
+0.0015372    1 unbalanced     : 片寄る
+0.0015372    1 weighted       : 片寄る
+0.0015312    1 move           : 片す
+0.0015139    1 fish           : 半片
+0.0015039    1 accomplice     : 片割れ
+0.0014896    1 story          : 片口
+0.0014808    1 front          : 片棒
+0.0014643    1 left           : 片偏
+0.0014461    1 sword          : 片刃
+0.0014421    1 prejudiced     : 片寄る
+0.0014421    1 offset         : 片寄り
+0.0014324    1 incline        : 片寄る
+0.0014231    1 polarization   : 片寄り
+0.0014214    1 katakana       : 片仮名
+0.0014046    1 right          : 片腕
+0.0013710    1 deviation      : 片寄り
+0.0013648    1 concentrated   : 片寄る
+0.0013630    2 something      : 片づける, 片付ける
+0.0013477    1 prejudice      : 片寄り
+0.0013373    1 body           : 片身
+0.0013372    1 bias           : 片寄り
+0.0013323    1 inclination    : 片寄り
+0.0013307    1 angular        : 片仮名
+0.0013141    1 man            : 片腕
+0.0012812    1 countryside    : 片田舎
+0.0012540    1 diet           : 片寄る
+0.0012402    1 partial        : 片寄る
+0.0012323    1 place          : 片辺
+0.0012311    1 flower         : 花片
+0.0011972    1 syllabary      : 片仮名
+0.0011938    1 instant        : 片時
+0.0011797    1 lean           : 片寄る
+0.0011727    1 towards        : 片寄る
+0.0011714    1 potato         : 片栗粉
+0.0010925    1 ear            : 片耳
+0.0010818    1 trip           : 片道
+0.0009852    1 moment         : 片時
+0.0008920    1 group          : 片割れ
+0.0008400    1 paper          : 紙片
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0383796   32 one
+	one WORD[ 1,   1]: 0.0021718 片腕
+	one WORD[ 1,   2]: 0.0018506 片目
+	one WORD[ 1,   3]: 0.0018500 片っぽ
+	one WORD[ 1,   4]: 0.0018500 片っ方
+	one WORD[ 1,   5]: 0.0018500 片方
+	one WORD[ 1,   6]: 0.0015955 片肘
+	one WORD[ 1,   7]: 0.0015955 片肱
+	one WORD[ 1,   8]: 0.0015737 片袖
+	one WORD[ 1,   9]: 0.0015716 片眉
+	one WORD[ 1,  10]: 0.0014755 片翼
+	one WORD[ 1,  11]: 0.0013880 片眼
+	one WORD[ 1,  12]: 0.0013875 片っぱし
+	one WORD[ 1,  13]: 0.0013875 片っ端
+	one WORD[ 1,  14]: 0.0013860 片脚
+	one WORD[ 1,  15]: 0.0013860 片足
+	one WORD[ 1,  16]: 0.0010818 片膝
+	one WORD[ 1,  17]: 0.0009885 片岸
+	one WORD[ 1,  18]: 0.0009257 片割れ
+	one WORD[ 1,  19]: 0.0007240 片口
+	one WORD[ 1,  20]: 0.0007240 片親
+	one WORD[ 1,  21]: 0.0007210 片輪
+	one WORD[ 1,  22]: 0.0007207 片寄せる
+	one WORD[ 1,  23]: 0.0007207 片身
+	one WORD[ 1,  24]: 0.0007207 片棒
+	one WORD[ 1,  25]: 0.0007206 片肺
+	one WORD[ 1,  26]: 0.0004627 片寄る
+	one WORD[ 1,  27]: 0.0004627 片面
+	one WORD[ 1,  28]: 0.0004626 片耳
+	one WORD[ 1,  29]: 0.0004625 片端
+	one WORD[ 1,  30]: 0.0004624 片手
+	one WORD[ 1,  31]: 0.0004622 片言
+	one WORD[ 1,  32]: 0.0004621 片側
+TOKEN[ 2]: 0.0342668   13 fragment
+	fragment WORD[ 2,   1]: 0.0047537 弾片
+	fragment WORD[ 2,   2]: 0.0044511 骨片
+	fragment WORD[ 2,   3]: 0.0043188 陶片
+	fragment WORD[ 2,   4]: 0.0039690 一欠片
+	fragment WORD[ 2,   5]: 0.0026900 岩片
+	fragment WORD[ 2,   6]: 0.0022223 切片
+	fragment WORD[ 2,   7]: 0.0021406 細片
+	fragment WORD[ 2,   8]: 0.0021320 残片
+	fragment WORD[ 2,   9]: 0.0019968 欠片
+	fragment WORD[ 2,  10]: 0.0016206 破片
+	fragment WORD[ 2,  11]: 0.0014568 断片
+	fragment WORD[ 2,  12]: 0.0012797 片割れ
+	fragment WORD[ 2,  13]: 0.0012354 小片
+TOKEN[ 3]: 0.0273145    7 chip
+	chip WORD[ 3,   1]: 0.0088623 削片
+	chip WORD[ 3,   2]: 0.0046134 剝片
+	chip WORD[ 3,   3]: 0.0046134 剥片
+	chip WORD[ 3,   4]: 0.0021134 細片
+	chip WORD[ 3,   5]: 0.0019714 欠片
+	chip WORD[ 3,   6]: 0.0017704 木片
+	chip WORD[ 3,   7]: 0.0015999 破片
+TOKEN[ 4]: 0.0244761    3 flake
+	flake WORD[ 4,   1]: 0.0108779 剝片
+	flake WORD[ 4,   2]: 0.0108778 剥片
+	flake WORD[ 4,   3]: 0.0027203 薄片
+TOKEN[ 5]: 0.0200292    5 splinter
+	splinter WORD[ 5,   1]: 0.0098135 削片
+	splinter WORD[ 5,   2]: 0.0023402 細片
+	splinter WORD[ 5,   3]: 0.0021830 欠片
+	splinter WORD[ 5,   4]: 0.0019604 木片
+	splinter WORD[ 5,   5]: 0.0017717 破片
+TOKEN[ 6]: 0.0177594   10 piece
+	piece WORD[ 6,   1]: 0.0044877 布片
+	piece WORD[ 6,   2]: 0.0030348 一欠片
+	piece WORD[ 6,   3]: 0.0018154 肉片
+	piece WORD[ 6,   4]: 0.0016367 細片
+	piece WORD[ 6,   5]: 0.0015268 欠片
+	piece WORD[ 6,   6]: 0.0012391 破片
+	piece WORD[ 6,   7]: 0.0011139 断片
+	piece WORD[ 6,   8]: 0.0009819 紙片
+	piece WORD[ 6,   9]: 0.0009784 片割れ
+	piece WORD[ 6,  10]: 0.0009446 小片
+TOKEN[ 7]: 0.0175641    1 slipknot
+	slipknot WORD[ 7,   1]: 0.0175641 片結び
+TOKEN[ 8]: 0.0168217   13 side
+	side WORD[ 8,   1]: 0.0017487 片っぽ
+	side WORD[ 8,   2]: 0.0017487 片っ方
+	side WORD[ 8,   3]: 0.0017487 片方
+	side WORD[ 8,   4]: 0.0013688 片口
+	side WORD[ 8,   5]: 0.0013625 片寄せる
+	side WORD[ 8,   6]: 0.0013625 片身
+	side WORD[ 8,   7]: 0.0013624 片偏
+	side WORD[ 8,   8]: 0.0008747 片寄る
+	side WORD[ 8,   9]: 0.0008747 片面
+	side WORD[ 8,  10]: 0.0008743 片っぱし
+	side WORD[ 8,  11]: 0.0008743 片っ端
+	side WORD[ 8,  12]: 0.0008738 片言
+	side WORD[ 8,  13]: 0.0008737 片側
+TOKEN[ 9]: 0.0163135    4 speck
+	speck WORD[ 9,   1]: 0.0053466 剝片
+	speck WORD[ 9,   2]: 0.0053466 剥片
+	speck WORD[ 9,   3]: 0.0028101 片影
+	speck WORD[ 9,   4]: 0.0028101 片雲
+TOKEN[10]: 0.0151390    4 shard
+	shard WORD[10,   1]: 0.0053365 陶片
+	shard WORD[10,   2]: 0.0053328 氷片
+	shard WORD[10,   3]: 0.0024673 欠片
+	shard WORD[10,   4]: 0.0020024 破片
+TOKEN[11]: 0.0140435    1 cantilever
+	cantilever WORD[11,   1]: 0.0140435 片持ち
+TOKEN[12]: 0.0137414    2 half
+	half WORD[12,   1]: 0.0098776 片結び
+	half WORD[12,   2]: 0.0038638 半片
+TOKEN[13]: 0.0117375    1 knot
+	knot WORD[13,   1]: 0.0117375 片結び
+TOKEN[14]: 0.0106117    6 put
+	put WORD[14,   1]: 0.0026091 片す
+	put WORD[14,   2]: 0.0016745 片づける
+	put WORD[14,   3]: 0.0016745 片付ける
+	put WORD[14,   4]: 0.0016743 片づく
+	put WORD[14,   5]: 0.0016743 片付く
+	put WORD[14,   6]: 0.0013051 片寄せる
+TOKEN[15]: 0.0093325    2 elbow
+	elbow WORD[15,   1]: 0.0046662 片肘
+	elbow WORD[15,   2]: 0.0046662 片肱
+TOKEN[16]: 0.0090529    2 ice
+	ice WORD[16,   1]: 0.0071994 氷片
+	ice WORD[16,   2]: 0.0018536 雪片
+TOKEN[17]: 0.0087213    1 handbill
+	handbill WORD[17,   1]: 0.0017443 片
+TOKEN[18]: 0.0085954    2 eye
+	eye WORD[18,   1]: 0.0038202 片目
+	eye WORD[18,   2]: 0.0009550 片眼
+TOKEN[19]: 0.0081977    1 flier
+	flier WORD[19,   1]: 0.0016395 片
+TOKEN[20]: 0.0079797    1 wing
+	wing WORD[20,   1]: 0.0079797 片翼
+TOKEN[21]: 0.0078547    3 single
+	single WORD[21,   1]: 0.0031834 片翼
+	single WORD[21,   2]: 0.0031094 片刃
+	single WORD[21,   3]: 0.0015620 片親
+TOKEN[22]: 0.0078454    2 production
+	production WORD[22,   1]: 0.0039227 剝片
+	production WORD[22,   2]: 0.0039227 剥片
+TOKEN[23]: 0.0076742    1 flyer
+	flyer WORD[23,   1]: 0.0015348 片
+TOKEN[24]: 0.0076742    1 placard
+	placard WORD[24,   1]: 0.0015348 片
+TOKEN[25]: 0.0076511    1 schist
+	schist WORD[25,   1]: 0.0076511 片岩
+TOKEN[26]: 0.0073075    1 leaflet
+	leaflet WORD[26,   1]: 0.0014615 片
+TOKEN[27]: 0.0072745    3 slice
+	slice WORD[27,   1]: 0.0024902 半片
+	slice WORD[27,   2]: 0.0024524 薄片
+	slice WORD[27,   3]: 0.0023319 切片
+TOKEN[28]: 0.0069683    1 schistosity
+	schistosity WORD[28,   1]: 0.0069683 片理
+TOKEN[29]: 0.0069658    2 stone
+	stone WORD[29,   1]: 0.0034829 剝片
+	stone WORD[29,   2]: 0.0034829 剥片
+TOKEN[30]: 0.0069066    1 Erythronium
+	Erythronium WORD[30,   1]: 0.0069066 片栗
+TOKEN[31]: 0.0067381    6 pair
+	pair WORD[31,   1]: 0.0011241 片割れ
+	pair WORD[31,   2]: 0.0011233 片っぽ
+	pair WORD[31,   3]: 0.0011233 片っ方
+	pair WORD[31,   4]: 0.0011233 片方
+	pair WORD[31,   5]: 0.0011221 片脚
+	pair WORD[31,   6]: 0.0011221 片足
+TOKEN[32]: 0.0067174    2 scrappy
+	scrappy WORD[32,   1]: 0.0033587 片々
+	scrappy WORD[32,   2]: 0.0033587 片片
+TOKEN[33]: 0.0067128    1 sepal
+	sepal WORD[33,   1]: 0.0067128 萼片
+TOKEN[34]: 0.0066872    1 worthless
+	worthless WORD[34,   1]: 0.0033436 木片
+TOKEN[35]: 0.0066441    3 shred
+	shred WORD[35,   1]: 0.0025423 細片
+	shred WORD[35,   2]: 0.0023716 欠片
+	shred WORD[35,   3]: 0.0017302 断片
+TOKEN[36]: 0.0066039    1 poster
+	poster WORD[36,   1]: 0.0013208 片
+TOKEN[37]: 0.0065279    3 glimpse
+	glimpse WORD[37,   1]: 0.0027322 片影
+	glimpse WORD[37,   2]: 0.0018978 片りん
+	glimpse WORD[37,   3]: 0.0018978 片鱗
+TOKEN[38]: 0.0065260    3 love
+	love WORD[38,   1]: 0.0028670 片恋
+	love WORD[38,   2]: 0.0018295 片思い
+	love WORD[38,   3]: 0.0018295 片想い
+TOKEN[39]: 0.0064595    1 time
+	time WORD[39,   1]: 0.0064595 片手間
+TOKEN[40]: 0.0064536    2 violet
+	violet WORD[40,   1]: 0.0050903 片栗
+	violet WORD[40,   2]: 0.0013632 片栗粉
+TOKEN[41]: 0.0064430    1 spicule
+	spicule WORD[41,   1]: 0.0064430 骨片
+TOKEN[42]: 0.0061405    3 used
+	used WORD[42,   1]: 0.0027010 剝片
+	used WORD[42,   2]: 0.0027010 剥片
+	used WORD[42,   3]: 0.0007386 片仮名
+TOKEN[43]: 0.0061017    1 shrapnel
+	shrapnel WORD[43,   1]: 0.0061017 弾片
+TOKEN[44]: 0.0060783    2 fragmentary
+	fragmentary WORD[44,   1]: 0.0030392 片々
+	fragmentary WORD[44,   2]: 0.0030392 片片
+TOKEN[45]: 0.0059695    2 bone
+	bone WORD[45,   1]: 0.0039143 骨片
+	bone WORD[45,   2]: 0.0020553 薄片
+TOKEN[46]: 0.0058976    1 potsherd
+	potsherd WORD[46,   1]: 0.0058976 陶片
+TOKEN[47]: 0.0058097    1 bigger
+	bigger WORD[47,   1]: 0.0029048 片目
+TOKEN[48]: 0.0057214    2 deformed
+	deformed WORD[48,   1]: 0.0025061 片輪
+	deformed WORD[48,   2]: 0.0016076 片端
+TOKEN[49]: 0.0055854    2 fluttering
+	fluttering WORD[49,   1]: 0.0027927 片々
+	fluttering WORD[49,   2]: 0.0027927 片片
+TOKEN[50]: 0.0055104    1 poetry
+	poetry WORD[50,   1]: 0.0055104 片歌
+TOKEN[51]: 0.0054110    3 party
+	party WORD[51,   1]: 0.0018037 片っぽ
+	party WORD[51,   2]: 0.0018037 片っ方
+	party WORD[51,   3]: 0.0018037 片方
+TOKEN[52]: 0.0053508    3 someone
+	someone WORD[52,   1]: 0.0013382 片目
+	someone WORD[52,   2]: 0.0013373 片づける
+	someone WORD[52,   3]: 0.0013373 片付ける
+TOKEN[53]: 0.0053049    3 unrequited
+	unrequited WORD[53,   1]: 0.0023305 片恋
+	unrequited WORD[53,   2]: 0.0014872 片思い
+	unrequited WORD[53,   3]: 0.0014872 片想い
+TOKEN[54]: 0.0052098    1 bill
+	bill WORD[54,   1]: 0.0010420 片
+TOKEN[55]: 0.0051822    2 unimportant
+	unimportant WORD[55,   1]: 0.0025911 片々
+	unimportant WORD[55,   2]: 0.0025911 片片
+TOKEN[56]: 0.0050590    1 pattern
+	pattern WORD[56,   1]: 0.0050590 片歌
+TOKEN[57]: 0.0050191    1 univalve
+	univalve WORD[57,   1]: 0.0050191 片貝
+TOKEN[58]: 0.0050088    2 lameness
+	lameness WORD[58,   1]: 0.0025044 片ちんば
+	lameness WORD[58,   2]: 0.0025044 片跛
+TOKEN[59]: 0.0049906    2 ticket
+	ticket WORD[59,   1]: 0.0039312 半片
+	ticket WORD[59,   2]: 0.0010593 片道
+TOKEN[60]: 0.0049472    4 bit
+	bit WORD[60,   1]: 0.0014229 片りん
+	bit WORD[60,   2]: 0.0014229 片鱗
+	bit WORD[60,   3]: 0.0010711 紙片
+	bit WORD[60,   4]: 0.0010304 小片
+TOKEN[61]: 0.0048284    1 ancient
+	ancient WORD[61,   1]: 0.0048284 片歌
+TOKEN[62]: 0.0048112    3 tidy
+	tidy WORD[62,   1]: 0.0021069 片す
+	tidy WORD[62,   2]: 0.0013521 片づける
+	tidy WORD[62,   3]: 0.0013521 片付ける
+TOKEN[63]: 0.0048046    1 eyebrow
+	eyebrow WORD[63,   1]: 0.0048046 片眉
+TOKEN[64]: 0.0047388    2 insignificant
+	insignificant WORD[64,   1]: 0.0023694 片々
+	insignificant WORD[64,   2]: 0.0023694 片片
+TOKEN[65]: 0.0047318    2 lame
+	lame WORD[65,   1]: 0.0023659 片ちんば
+	lame WORD[65,   2]: 0.0023659 片跛
+TOKEN[66]: 0.0046732    5 order
+	order WORD[66,   1]: 0.0013101 片す
+	order WORD[66,   2]: 0.0008408 片づける
+	order WORD[66,   3]: 0.0008408 片付ける
+	order WORD[66,   4]: 0.0008407 片づく
+	order WORD[66,   5]: 0.0008407 片付く
+TOKEN[67]: 0.0046728    1 three
+	three WORD[67,   1]: 0.0046728 片歌
+TOKEN[68]: 0.0046707    1 bullet
+	bullet WORD[68,   1]: 0.0046707 弾片
+TOKEN[69]: 0.0046575    2 trifling
+	trifling WORD[69,   1]: 0.0023287 片々
+	trifling WORD[69,   2]: 0.0023287 片片
+TOKEN[70]: 0.0046158    2 imperfect
+	imperfect WORD[70,   1]: 0.0020219 片輪
+	imperfect WORD[70,   2]: 0.0012970 片端
+TOKEN[71]: 0.0045436    3 broken
+	broken WORD[71,   1]: 0.0018527 欠片
+	broken WORD[71,   2]: 0.0015036 破片
+	broken WORD[71,   3]: 0.0011873 片割れ
+TOKEN[72]: 0.0045276    1 cloth
+	cloth WORD[72,   1]: 0.0045276 布片
+TOKEN[73]: 0.0044697    3 scrap
+	scrap WORD[73,   1]: 0.0018838 欠片
+	scrap WORD[73,   2]: 0.0013743 断片
+	scrap WORD[73,   3]: 0.0012115 紙片
+TOKEN[74]: 0.0044610    2 incomplete
+	incomplete WORD[74,   1]: 0.0019541 片輪
+	incomplete WORD[74,   2]: 0.0012535 片端
+TOKEN[75]: 0.0044432    1 form
+	form WORD[75,   1]: 0.0044432 片歌
+TOKEN[76]: 0.0042456    1 sleeve
+	sleeve WORD[76,   1]: 0.0042456 片袖
+TOKEN[77]: 0.0041507    3 mate
+	mate WORD[77,   1]: 0.0013836 片っぽ
+	mate WORD[77,   2]: 0.0013836 片っ方
+	mate WORD[77,   3]: 0.0013836 片方
+TOKEN[78]: 0.0040880    2 wheel
+	wheel WORD[78,   1]: 0.0017907 片輪
+	wheel WORD[78,   2]: 0.0011486 片端
+TOKEN[79]: 0.0040465    1 pottery
+	pottery WORD[79,   1]: 0.0040465 陶片
+TOKEN[80]: 0.0040449    2 Japanese
+	Japanese WORD[80,   1]: 0.0033830 片歌
+	Japanese WORD[80,   2]: 0.0006618 片仮名
+TOKEN[81]: 0.0039754    1 cash
+	cash WORD[81,   1]: 0.0039754 金片
+TOKEN[82]: 0.0039260    3 corner
+	corner WORD[82,   1]: 0.0017198 片辺
+	corner WORD[82,   2]: 0.0011031 片すみ
+	corner WORD[82,   3]: 0.0011031 片隅
+TOKEN[83]: 0.0039149    1 breathing
+	breathing WORD[83,   1]: 0.0039149 片息
+TOKEN[84]: 0.0038925    2 knowledge
+	knowledge WORD[84,   1]: 0.0019463 片々
+	knowledge WORD[84,   2]: 0.0019462 片片
+TOKEN[85]: 0.0038804    1 shell
+	shell WORD[85,   1]: 0.0038804 弾片
+TOKEN[86]: 0.0038311    1 palanquin
+	palanquin WORD[86,   1]: 0.0038311 片棒
+TOKEN[87]: 0.0038023    1 leisure
+	leisure WORD[87,   1]: 0.0038023 片手間
+TOKEN[88]: 0.0037516    3 edge
+	edge WORD[88,   1]: 0.0016428 片刃
+	edge WORD[88,   2]: 0.0010544 片っぱし
+	edge WORD[88,   3]: 0.0010544 片っ端
+TOKEN[89]: 0.0037084    2 odd
+	odd WORD[89,   1]: 0.0018542 片ちんば
+	odd WORD[89,   2]: 0.0018542 片跛
+TOKEN[90]: 0.0036854    2 argument
+	argument WORD[90,   1]: 0.0016187 片口
+	argument WORD[90,   2]: 0.0010333 片言
+TOKEN[91]: 0.0035740    1 parent
+	parent WORD[91,   1]: 0.0035740 片親
+TOKEN[92]: 0.0035605    1 unilaterality
+	unilaterality WORD[92,   1]: 0.0035605 片務
+TOKEN[93]: 0.0034951    1 meat
+	meat WORD[93,   1]: 0.0034951 肉片
+TOKEN[94]: 0.0034684    1 spare
+	spare WORD[94,   1]: 0.0034684 片手間
+TOKEN[95]: 0.0034044    3 fellow
+	fellow WORD[95,   1]: 0.0011348 片っぽ
+	fellow WORD[95,   2]: 0.0011348 片っ方
+	fellow WORD[95,   3]: 0.0011348 片方
+TOKEN[96]: 0.0032754    4 end
+	end WORD[96,   1]: 0.0008190 片っぱし
+	end WORD[96,   2]: 0.0008190 片っ端
+	end WORD[96,   3]: 0.0008187 片づける
+	end WORD[96,   4]: 0.0008187 片付ける
+TOKEN[97]: 0.0031701    1 radical
+	radical WORD[97,   1]: 0.0031701 片偏
+TOKEN[98]: 0.0031581    2 strip
+	strip WORD[98,   1]: 0.0019739 細片
+	strip WORD[98,   2]: 0.0011842 紙片
+TOKEN[99]: 0.0031415    2 portion
+	portion WORD[99,   1]: 0.0015708 片りん
+	portion WORD[99,   2]: 0.0015707 片鱗
+TOKEN[100]: 0.0030044    2 disposed
+	disposed WORD[100,   1]: 0.0015022 片づく
+	disposed WORD[100,   2]: 0.0015022 片付く
+TOKEN[101]: 0.0029850    2 remote
+	remote WORD[101,   1]: 0.0018187 片辺
+	remote WORD[101,   2]: 0.0011663 片田舎
+TOKEN[102]: 0.0029448    1 money
+	money WORD[102,   1]: 0.0029448 金片
+TOKEN[103]: 0.0029253    1 knee
+	knee WORD[103,   1]: 0.0029253 片膝
+TOKEN[104]: 0.0029173    1 free
+	free WORD[104,   1]: 0.0029173 片手間
+TOKEN[105]: 0.0028978    1 lipped
+	lipped WORD[105,   1]: 0.0028978 片口
+TOKEN[106]: 0.0028878    1 lamella
+	lamella WORD[106,   1]: 0.0028878 薄片
+TOKEN[107]: 0.0028217    1 wood
+	wood WORD[107,   1]: 0.0014108 木片
+TOKEN[108]: 0.0027796    2 nook
+	nook WORD[108,   1]: 0.0013898 片すみ
+	nook WORD[108,   2]: 0.0013898 片隅
+TOKEN[109]: 0.0027418    1 blindness
+	blindness WORD[109,   1]: 0.0013709 片目
+TOKEN[110]: 0.0027399    2 bump
+	bump WORD[110,   1]: 0.0013700 片づける
+	bump WORD[110,   2]: 0.0013700 片付ける
+TOKEN[111]: 0.0027271    2 opium
+	opium WORD[111,   1]: 0.0013636 阿片
+	opium WORD[111,   2]: 0.0013636 鴉片
+TOKEN[112]: 0.0027055    1 snowflake
+	snowflake WORD[112,   1]: 0.0027055 雪片
+TOKEN[113]: 0.0027043    2 marry
+	marry WORD[113,   1]: 0.0013521 片づける
+	marry WORD[113,   2]: 0.0013521 片付ける
+TOKEN[114]: 0.0027043    2 straighten
+	straighten WORD[114,   1]: 0.0013521 片づける
+	straighten WORD[114,   2]: 0.0013521 片付ける
+TOKEN[115]: 0.0026176    1 two
+	two WORD[115,   1]: 0.0026176 片棒
+TOKEN[116]: 0.0026108    1 thing
+	thing WORD[116,   1]: 0.0013054 木片
+TOKEN[117]: 0.0025945    1 stub
+	stub WORD[117,   1]: 0.0025945 半片
+TOKEN[118]: 0.0025428    1 intercept
+	intercept WORD[118,   1]: 0.0025428 切片
+TOKEN[119]: 0.0025048    1 bevel
+	bevel WORD[119,   1]: 0.0025048 片刃
+TOKEN[120]: 0.0024864    1 people
+	people WORD[120,   1]: 0.0024864 片棒
+TOKEN[121]: 0.0024695    1 debris
+	debris WORD[121,   1]: 0.0024695 砕片
+TOKEN[122]: 0.0024385    2 finished
+	finished WORD[122,   1]: 0.0012192 片づく
+	finished WORD[122,   2]: 0.0012192 片付く
+TOKEN[123]: 0.0024241    1 starch
+	starch WORD[123,   1]: 0.0024241 片栗粉
+TOKEN[124]: 0.0024176    2 country
+	country WORD[124,   1]: 0.0014730 片辺
+	country WORD[124,   2]: 0.0009446 片田舎
+TOKEN[125]: 0.0024084    1 foil
+	foil WORD[125,   1]: 0.0024084 薄片
+TOKEN[126]: 0.0024033    1 remnant
+	remnant WORD[126,   1]: 0.0024033 残片
+TOKEN[127]: 0.0023796    2 finishing
+	finishing WORD[127,   1]: 0.0011898 片づけ
+	finishing WORD[127,   2]: 0.0011898 片付け
+TOKEN[128]: 0.0023793    1 treaty
+	treaty WORD[128,   1]: 0.0023793 片務
+TOKEN[129]: 0.0023752    1 brief
+	brief WORD[129,   1]: 0.0011876 片言
+TOKEN[130]: 0.0023752    1 remark
+	remark WORD[130,   1]: 0.0011876 片言
+TOKEN[131]: 0.0023716    1 ounce
+	ounce WORD[131,   1]: 0.0023716 欠片
+TOKEN[132]: 0.0023540    2 daughter
+	daughter WORD[132,   1]: 0.0011770 片づける
+	daughter WORD[132,   2]: 0.0011770 片付ける
+TOKEN[133]: 0.0023297    1 gasping
+	gasping WORD[133,   1]: 0.0023297 片息
+TOKEN[134]: 0.0023272    2 part
+	part WORD[134,   1]: 0.0011636 片りん
+	part WORD[134,   2]: 0.0011636 片鱗
+TOKEN[135]: 0.0022993    2 married
+	married WORD[135,   1]: 0.0011497 片づく
+	married WORD[135,   2]: 0.0011497 片付く
+TOKEN[136]: 0.0022985    1 slanting
+	slanting WORD[136,   1]: 0.0022985 片流れ
+TOKEN[137]: 0.0022908    2 settle
+	settle WORD[137,   1]: 0.0011454 片づける
+	settle WORD[137,   2]: 0.0011454 片付ける
+TOKEN[138]: 0.0022901    1 segment
+	segment WORD[138,   1]: 0.0022901 切片
+TOKEN[139]: 0.0022839    1 blind
+	blind WORD[139,   1]: 0.0011420 片目
+TOKEN[140]: 0.0022671    2 leg
+	leg WORD[140,   1]: 0.0011335 片脚
+	leg WORD[140,   2]: 0.0011335 片足
+TOKEN[141]: 0.0022410    2 dispute
+	dispute WORD[141,   1]: 0.0011205 片づける
+	dispute WORD[141,   2]: 0.0011205 片付ける
+TOKEN[142]: 0.0022325    1 bank
+	bank WORD[142,   1]: 0.0022325 片岸
+TOKEN[143]: 0.0022314    1 rock
+	rock WORD[143,   1]: 0.0022314 岩片
+TOKEN[144]: 0.0022223    1 cluster
+	cluster WORD[144,   1]: 0.0022223 雪片
+TOKEN[145]: 0.0021934    1 statement
+	statement WORD[145,   1]: 0.0010967 片言
+TOKEN[146]: 0.0021910    2 hand
+	hand WORD[146,   1]: 0.0013370 片腕
+	hand WORD[146,   2]: 0.0008540 片手
+TOKEN[147]: 0.0021664    1 river
+	river WORD[147,   1]: 0.0021664 片岸
+TOKEN[148]: 0.0021504    1 cloud
+	cloud WORD[148,   1]: 0.0021504 片雲
+TOKEN[149]: 0.0021254    1 scale
+	scale WORD[149,   1]: 0.0021254 鱗片
+TOKEN[150]: 0.0021053    2 small
+	small WORD[150,   1]: 0.0013349 細片
+	small WORD[150,   2]: 0.0007704 小片
+TOKEN[151]: 0.0020796    2 foot
+	foot WORD[151,   1]: 0.0010398 片脚
+	foot WORD[151,   2]: 0.0010398 片足
+TOKEN[152]: 0.0020687    2 finish
+	finish WORD[152,   1]: 0.0010343 片づける
+	finish WORD[152,   2]: 0.0010343 片付ける
+TOKEN[153]: 0.0020532    1 lung
+	lung WORD[153,   1]: 0.0020532 片肺
+TOKEN[154]: 0.0020504    1 cake
+	cake WORD[154,   1]: 0.0020504 半片
+TOKEN[155]: 0.0020398    1 jacket
+	jacket WORD[155,   1]: 0.0020398 片前
+TOKEN[156]: 0.0020314    1 conscience
+	conscience WORD[156,   1]: 0.0020314 欠片
+TOKEN[157]: 0.0020296    1 contract
+	contract WORD[157,   1]: 0.0020296 片務
+TOKEN[158]: 0.0020195    2 problem
+	problem WORD[158,   1]: 0.0010098 片づける
+	problem WORD[158,   2]: 0.0010098 片付ける
+TOKEN[159]: 0.0019980    1 sail
+	sail WORD[159,   1]: 0.0019980 片帆
+TOKEN[160]: 0.0019489    1 animal
+	animal WORD[160,   1]: 0.0019489 鱗片
+TOKEN[161]: 0.0019445    1 grudge
+	grudge WORD[161,   1]: 0.0019445 片恨み
+TOKEN[162]: 0.0019420    2 bring
+	bring WORD[162,   1]: 0.0009710 片づける
+	bring WORD[162,   2]: 0.0009710 片付ける
+TOKEN[163]: 0.0019200    1 flat
+	flat WORD[163,   1]: 0.0019200 薄片
+TOKEN[164]: 0.0019193    1 shed
+	shed WORD[164,   1]: 0.0019193 片流れ
+TOKEN[165]: 0.0019128    2 clear
+	clear WORD[165,   1]: 0.0009564 片づける
+	clear WORD[165,   2]: 0.0009564 片付ける
+TOKEN[166]: 0.0019011    1 trace
+	trace WORD[166,   1]: 0.0019011 欠片
+TOKEN[167]: 0.0018861    1 metal
+	metal WORD[167,   1]: 0.0018861 薄片
+TOKEN[168]: 0.0018800    1 material
+	material WORD[168,   1]: 0.0018800 薄片
+TOKEN[169]: 0.0018674    1 iron
+	iron WORD[169,   1]: 0.0018674 鉄片
+TOKEN[170]: 0.0018351    1 section
+	section WORD[170,   1]: 0.0018351 切片
+TOKEN[171]: 0.0018198    1 thin
+	thin WORD[171,   1]: 0.0018198 薄片
+TOKEN[172]: 0.0018105    1 petal
+	petal WORD[172,   1]: 0.0018105 花片
+TOKEN[173]: 0.0018104    1 plant
+	plant WORD[173,   1]: 0.0018104 鱗片
+TOKEN[174]: 0.0017966    1 knife
+	knife WORD[174,   1]: 0.0017966 片刃
+TOKEN[175]: 0.0017855    1 person
+	person WORD[175,   1]: 0.0008927 木片
+TOKEN[176]: 0.0017808    1 blade
+	blade WORD[176,   1]: 0.0017808 片刃
+TOKEN[177]: 0.0017787    1 kitchen
+	kitchen WORD[177,   1]: 0.0017787 片刃
+TOKEN[178]: 0.0017660    1 bare
+	bare WORD[178,   1]: 0.0017660 片肌
+TOKEN[179]: 0.0017580    1 shoulder
+	shoulder WORD[179,   1]: 0.0017580 片肌
+TOKEN[180]: 0.0017561    1 rear
+	rear WORD[180,   1]: 0.0017561 片棒
+TOKEN[181]: 0.0017506    1 arm
+	arm WORD[181,   1]: 0.0017506 片腕
+TOKEN[182]: 0.0017474    1 confederate
+	confederate WORD[182,   1]: 0.0017474 片割れ
+TOKEN[183]: 0.0017391    1 carried
+	carried WORD[183,   1]: 0.0017391 片棒
+TOKEN[184]: 0.0017163    1 bowl
+	bowl WORD[184,   1]: 0.0017163 片口
+TOKEN[185]: 0.0016836    1 dogtooth
+	dogtooth WORD[185,   1]: 0.0016836 片栗粉
+TOKEN[186]: 0.0016699    1 carrying
+	carrying WORD[186,   1]: 0.0016699 片棒
+TOKEN[187]: 0.0016551    1 cut
+	cut WORD[187,   1]: 0.0016551 肉片
+TOKEN[188]: 0.0016503    1 reach
+	reach WORD[188,   1]: 0.0016503 片帆
+TOKEN[189]: 0.0016501    1 truth
+	truth WORD[189,   1]: 0.0016501 欠片
+TOKEN[190]: 0.0016361    1 difficult
+	difficult WORD[190,   1]: 0.0016361 片息
+TOKEN[191]: 0.0016188    1 push
+	push WORD[191,   1]: 0.0016188 片寄せる
+TOKEN[192]: 0.0016088    1 counterpart
+	counterpart WORD[192,   1]: 0.0016088 片割れ
+TOKEN[193]: 0.0015986    1 roof
+	roof WORD[193,   1]: 0.0015986 片流れ
+TOKEN[194]: 0.0015730    1 chips
+	chips WORD[194,   1]: 0.0015730 素片
+TOKEN[195]: 0.0015618    1 heavy
+	heavy WORD[195,   1]: 0.0015618 片息
+TOKEN[196]: 0.0015372    1 unbalanced
+	unbalanced WORD[196,   1]: 0.0015372 片寄る
+TOKEN[197]: 0.0015372    1 weighted
+	weighted WORD[197,   1]: 0.0015372 片寄る
+TOKEN[198]: 0.0015312    1 move
+	move WORD[198,   1]: 0.0015312 片す
+TOKEN[199]: 0.0015139    1 fish
+	fish WORD[199,   1]: 0.0015139 半片
+TOKEN[200]: 0.0015039    1 accomplice
+	accomplice WORD[200,   1]: 0.0015039 片割れ
+TOKEN[201]: 0.0014896    1 story
+	story WORD[201,   1]: 0.0014896 片口
+TOKEN[202]: 0.0014808    1 front
+	front WORD[202,   1]: 0.0014808 片棒
+TOKEN[203]: 0.0014643    1 left
+	left WORD[203,   1]: 0.0014643 片偏
+TOKEN[204]: 0.0014461    1 sword
+	sword WORD[204,   1]: 0.0014461 片刃
+TOKEN[205]: 0.0014421    1 prejudiced
+	prejudiced WORD[205,   1]: 0.0014421 片寄る
+TOKEN[206]: 0.0014421    1 offset
+	offset WORD[206,   1]: 0.0014421 片寄り
+TOKEN[207]: 0.0014324    1 incline
+	incline WORD[207,   1]: 0.0014324 片寄る
+TOKEN[208]: 0.0014231    1 polarization
+	polarization WORD[208,   1]: 0.0014231 片寄り
+TOKEN[209]: 0.0014214    1 katakana
+	katakana WORD[209,   1]: 0.0014214 片仮名
+TOKEN[210]: 0.0014046    1 right
+	right WORD[210,   1]: 0.0014046 片腕
+TOKEN[211]: 0.0013710    1 deviation
+	deviation WORD[211,   1]: 0.0013710 片寄り
+TOKEN[212]: 0.0013648    1 concentrated
+	concentrated WORD[212,   1]: 0.0013648 片寄る
+TOKEN[213]: 0.0013630    2 something
+	something WORD[213,   1]: 0.0006815 片づける
+	something WORD[213,   2]: 0.0006815 片付ける
+TOKEN[214]: 0.0013477    1 prejudice
+	prejudice WORD[214,   1]: 0.0013477 片寄り
+TOKEN[215]: 0.0013373    1 body
+	body WORD[215,   1]: 0.0013373 片身
+TOKEN[216]: 0.0013372    1 bias
+	bias WORD[216,   1]: 0.0013372 片寄り
+TOKEN[217]: 0.0013323    1 inclination
+	inclination WORD[217,   1]: 0.0013323 片寄り
+TOKEN[218]: 0.0013307    1 angular
+	angular WORD[218,   1]: 0.0013307 片仮名
+TOKEN[219]: 0.0013141    1 man
+	man WORD[219,   1]: 0.0013141 片腕
+TOKEN[220]: 0.0012812    1 countryside
+	countryside WORD[220,   1]: 0.0012812 片田舎
+TOKEN[221]: 0.0012540    1 diet
+	diet WORD[221,   1]: 0.0012540 片寄る
+TOKEN[222]: 0.0012402    1 partial
+	partial WORD[222,   1]: 0.0012402 片寄る
+TOKEN[223]: 0.0012323    1 place
+	place WORD[223,   1]: 0.0012323 片辺
+TOKEN[224]: 0.0012311    1 flower
+	flower WORD[224,   1]: 0.0012311 花片
+TOKEN[225]: 0.0011972    1 syllabary
+	syllabary WORD[225,   1]: 0.0011972 片仮名
+TOKEN[226]: 0.0011938    1 instant
+	instant WORD[226,   1]: 0.0011938 片時
+TOKEN[227]: 0.0011797    1 lean
+	lean WORD[227,   1]: 0.0011797 片寄る
+TOKEN[228]: 0.0011727    1 towards
+	towards WORD[228,   1]: 0.0011727 片寄る
+TOKEN[229]: 0.0011714    1 potato
+	potato WORD[229,   1]: 0.0011714 片栗粉
+TOKEN[230]: 0.0010925    1 ear
+	ear WORD[230,   1]: 0.0010925 片耳
+TOKEN[231]: 0.0010818    1 trip
+	trip WORD[231,   1]: 0.0010818 片道
+TOKEN[232]: 0.0009852    1 moment
+	moment WORD[232,   1]: 0.0009852 片時
+TOKEN[233]: 0.0008920    1 group
+	group WORD[233,   1]: 0.0008920 片割れ
+TOKEN[234]: 0.0008400    1 paper
+	paper WORD[234,   1]: 0.0008400 紙片

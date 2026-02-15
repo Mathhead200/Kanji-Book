@@ -1,0 +1,638 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1110120   42 good           : 良師, 良馬, 良材, 良縁, 良案, 良法, 良医, 良吏, 良民, 良風, ...
+0.0265089    7 quality        : 良質, 純良, 良品, 良しあし, 良し悪し, 良さ, 良
+0.0239932    8 fine           : 良い, 良港, 良品, 良質, 良好, 良かろう, 良し, 優良
+0.0232157    3 farm           : 野良仕事, 野良着, 野良
+0.0223302    2 field          : 野良仕事, 野良
+0.0166455    1 amelioration   : 良化
+0.0165123    3 work           : 野良仕事, 野良着, 良書
+0.0136809    2 improvement    : 良化, 改良
+0.0129724    3 pleasant       : 心地良い, 良し, 良い
+0.0125962    4 stray          : 野良犬, 野良ネコ, 野良猫, 野良
+0.0116605    1 labour         : 野良仕事
+0.0115506    1 labor          : 野良仕事
+0.0115439    3 cat            : 野良ネコ, 野良猫, 野良
+0.0113214    4 excellent      : 良好, 良し, 良い, 優良
+0.0111556    1 general        : 良将
+0.0108511    1 fertile        : 良田
+0.0108234    3 favorable      : 色良い, 佳良, 良好
+0.0103702    1 paddy          : 良田
+0.0099690    1 teacher        : 良師
+0.0099169    4 bad            : 良否, 良しあし, 良し悪し, 不良
+0.0098489    1 great          : 良将
+0.0091543    3 plan           : 良策, 良案, 良計
+0.0088312    1 harbor         : 良港
+0.0081255    1 ra             : 良行
+0.0078870    3 best           : 良しなに, 良かれ, 最良
+0.0075105    1 comfortable    : 心地良い
+0.0073959    2 friend         : 仲良し, 良友
+0.0073261    2 suitability    : 良しあし, 良し悪し
+0.0073151    1 horse          : 良馬
+0.0072056    2 custom         : 良風, 良俗
+0.0070279    2 gentle         : 順良, 温良
+0.0069279    2 pure           : いさぎ良い, 純良
+0.0068323    2 agreeable      : 良し, 良い
+0.0066769    1 slope          : 黄泉比良坂
+0.0062663    2 goodness       : 良き, 忠良
+0.0062357    1 working        : 野良着
+0.0062167    1 rice           : 良田
+0.0061156    1 duly           : 良しなに
+0.0060528    1 clothes        : 野良着
+0.0059774    2 nice           : 良し, 良い
+0.0059060    2 alley          : 野良ネコ, 野良猫
+0.0059000    1 family         : 良家
+0.0058388    2 medicine       : 良剤, 良薬
+0.0057890    1 doctor         : 良医
+0.0056383    2 dog            : 野良犬, 野良
+0.0056068    2 superior       : 良質, 優良
+0.0055751    1 method         : 良法
+0.0054882    2 honest         : 善良, いさぎ良い
+0.0053733    1 benign         : 良性
+0.0053699    2 innocent       : 淳良, いさぎ良い
+0.0052837    1 dead           : 黄泉比良坂
+0.0051969    2 wrong          : 良しあし, 良し悪し
+0.0051736    1 moonlit        : 良夜
+0.0050803    1 encouraging    : 色良い
+0.0050539    1 artisan        : 良工
+0.0049868    1 saved          : 良縁
+0.0048780    1 land           : 黄泉比良坂
+0.0047615    1 unmixed        : 純良
+0.0046809    2 high           : 純良, 良質
+0.0045137    2 right          : 良かれ, 良い
+0.0044983    1 wholesome      : 純良
+0.0044837    1 valuable       : 良書
+0.0044598    1 harbour        : 良港
+0.0043850    1 breed          : 良種
+0.0043710    1 colored        : 色良い
+0.0043190    1 timber         : 良材
+0.0042758    1 candidate      : 良縁
+0.0042641    1 moderate       : 程良い
+0.0042134    1 meek           : 順良
+0.0041585    2 person         : 善良, 良人
+0.0041462    1 suitable       : 良縁
+0.0041098    1 amiable        : 温良
+0.0040868    1 seed           : 良種
+0.0040642    1 skilled        : 良工
+0.0039696    1 virtuous       : 善良
+0.0039443    1 obedient       : 順良
+0.0038221    1 proper         : 程良い
+0.0037817    1 fit            : 良しなに
+0.0037388    1 opportunity    : 良縁
+0.0037302    1 genuine        : 純良
+0.0036997    1 husband        : 良人
+0.0036913    1 able           : 良材
+0.0036692    1 re             : 良行
+0.0036657    1 intuition      : 良知
+0.0036618    1 marriage       : 良縁
+0.0036558    1 think          : 良しなに
+0.0036277    1 policy         : 良策
+0.0036247    1 idea           : 良案
+0.0036141    1 respectable    : 良家
+0.0036065    1 material       : 良材
+0.0035231    1 hooligan       : 不良
+0.0034854    1 wife           : 良妻
+0.0034853    1 see            : 良しなに
+0.0034788    1 ability        : 良能
+0.0034719    1 decent         : 良家
+0.0034546    1 match          : 良縁
+0.0034161    1 sufficient     : 良い
+0.0034129    1 Buddha         : 良縁
+0.0034018    1 beneficial     : 良い
+0.0034017    1 glad           : 良く
+0.0033860    1 natural        : 良能
+0.0033439    1 hoodlum        : 不良
+0.0033256    1 conscience     : 良心
+0.0033056    1 satisfactory   : 良好
+0.0032957    1 successful     : 佳良
+0.0032894    1 official       : 良吏
+0.0032819    1 B              : 良
+0.0032096    1 delinquent     : 不良
+0.0031940    1 defective      : 不良
+0.0031903    1 night          : 良夜
+0.0031663    1 inevitable     : 良く良く
+0.0031525    1 profitable     : 良い
+0.0031509    1 chum           : 仲良し
+0.0031137    1 kind           : 淳良
+0.0031072    1 nature         : 善良
+0.0030924    1 merit          : 良さ
+0.0030919    1 unavoidable    : 良く良く
+0.0030737    1 pal            : 仲良し
+0.0030278    1 syllabary      : 良行
+0.0030257    1 simple         : 淳良
+0.0029751    1 book           : 良書
+0.0029655    1 thank          : 良く
+0.0029595    1 bosom          : 仲良し
+0.0029355    1 prepared       : 良い
+0.0029279    1 virtue         : 良さ
+0.0029154    1 grade          : 良
+0.0029011    1 buddy          : 仲良し
+0.0028889    1 ready          : 良い
+0.0028580    1 stranger       : 野良
+0.0028578    1 column         : 良行
+0.0028440    1 nerve          : 良く
+0.0028251    1 offer          : 良い
+0.0027980    1 people         : 良民
+0.0027842    1 choice         : 良く良く
+0.0027608    1 elite          : 選良
+0.0027077    1 inferior       : 不良
+0.0026899    1 sportsmanlike  : いさぎ良い
+0.0026637    1 deal           : 良い
+0.0026201    1 random         : 野良
+0.0026162    1 condition      : 良
+0.0026131    1 friendly       : 仲良く
+0.0026025    1 harmony        : 仲良く
+0.0025936    1 know           : 良く
+0.0025857    1 product        : 良品
+0.0025652    1 item           : 良品
+0.0025582    1 article        : 良品
+0.0025512    1 unspoiled      : いさぎ良い
+0.0025404    1 problem        : 良い
+0.0025158    1 loyalty        : 忠良
+0.0025117    1 friendship     : 仲良し
+0.0025031    1 table          : 良行
+0.0024962    1 easy           : 良い
+0.0024750    1 sense          : 良識
+0.0024271    1 parliament     : 選良
+0.0023827    1 prefecture     : 奈良
+0.0023794    1 righteous      : いさぎ良い
+0.0023455    1 player         : 野良
+0.0023313    1 gracious       : いさぎ良い
+0.0023037    1 poor           : 不良
+0.0022768    1 ideal          : 最良
+0.0022459    1 gallant        : いさぎ良い
+0.0021913    1 business       : 良い
+0.0021561    1 money          : 良貨
+0.0021212    1 city           : 奈良
+0.0020979    1 getting        : 仲良く
+0.0020542    1 graceful       : いさぎ良い
+0.0020449    1 apology        : いさぎ良い
+0.0020263    1 reform         : 改良
+0.0020028    1 scenery        : いさぎ良い
+0.0019396    1 member         : 選良
+0.0019238    1 brave          : いさぎ良い
+0.0018907    1 game           : 野良
+0.0018801    1 upright        : いさぎ良い
+0.0018470    1 noble          : いさぎ良い
+0.0018429    1 clean          : いさぎ良い
+0.0017804    1 defeat         : いさぎ良い
+0.0016739    1 Japanese       : 良行
+0.0014793    1 heart          : いさぎ良い
+0.0014002    1 death          : いさぎ良い
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1110120   42 good
+	good WORD[ 1,   1]: 0.0066428 良師
+	good WORD[ 1,   2]: 0.0058259 良馬
+	good WORD[ 1,   3]: 0.0052260 良材
+	good WORD[ 1,   4]: 0.0052251 良縁
+	good WORD[ 1,   5]: 0.0052251 良案
+	good WORD[ 1,   6]: 0.0043088 良法
+	good WORD[ 1,   7]: 0.0039353 良医
+	good WORD[ 1,   8]: 0.0026137 良吏
+	good WORD[ 1,   9]: 0.0026136 良民
+	good WORD[ 1,  10]: 0.0026136 良風
+	good WORD[ 1,  11]: 0.0026135 良否
+	good WORD[ 1,  12]: 0.0026132 良書
+	good WORD[ 1,  13]: 0.0026131 良種
+	good WORD[ 1,  14]: 0.0026130 良策
+	good WORD[ 1,  15]: 0.0026130 良剤
+	good WORD[ 1,  16]: 0.0026130 良妻
+	good WORD[ 1,  17]: 0.0026130 良港
+	good WORD[ 1,  18]: 0.0023258 善良
+	good WORD[ 1,  19]: 0.0022074 純良
+	good WORD[ 1,  20]: 0.0022074 順良
+	good WORD[ 1,  21]: 0.0020636 佳良
+	good WORD[ 1,  22]: 0.0019057 良薬
+	good WORD[ 1,  23]: 0.0019054 良俗
+	good WORD[ 1,  24]: 0.0019051 良質
+	good WORD[ 1,  25]: 0.0019051 良識
+	good WORD[ 1,  26]: 0.0019051 良好
+	good WORD[ 1,  27]: 0.0019050 良家
+	good WORD[ 1,  28]: 0.0019049 良貨
+	good WORD[ 1,  29]: 0.0018824 良久
+	good WORD[ 1,  30]: 0.0018816 良友
+	good WORD[ 1,  31]: 0.0018808 良計
+	good WORD[ 1,  32]: 0.0018802 良しあし
+	good WORD[ 1,  33]: 0.0018802 良し悪し
+	good WORD[ 1,  34]: 0.0018749 良かろう
+	good WORD[ 1,  35]: 0.0018747 良さ
+	good WORD[ 1,  36]: 0.0018744 良し
+	good WORD[ 1,  37]: 0.0018743 良い
+	good WORD[ 1,  38]: 0.0018743 良
+	good WORD[ 1,  39]: 0.0018743 良き
+	good WORD[ 1,  40]: 0.0015777 仲良し
+	good WORD[ 1,  41]: 0.0015777 仲良く
+	good WORD[ 1,  42]: 0.0012713 良人
+TOKEN[ 2]: 0.0265089    7 quality
+	quality WORD[ 2,   1]: 0.0104979 良質
+	quality WORD[ 2,   2]: 0.0030409 純良
+	quality WORD[ 2,   3]: 0.0026251 良品
+	quality WORD[ 2,   4]: 0.0025902 良しあし
+	quality WORD[ 2,   5]: 0.0025902 良し悪し
+	quality WORD[ 2,   6]: 0.0025826 良さ
+	quality WORD[ 2,   7]: 0.0025821 良
+TOKEN[ 3]: 0.0239932    8 fine
+	fine WORD[ 3,   1]: 0.0050837 良い
+	fine WORD[ 3,   2]: 0.0035435 良港
+	fine WORD[ 3,   3]: 0.0025842 良品
+	fine WORD[ 3,   4]: 0.0025836 良質
+	fine WORD[ 3,   5]: 0.0025835 良好
+	fine WORD[ 3,   6]: 0.0025426 良かろう
+	fine WORD[ 3,   7]: 0.0025419 良し
+	fine WORD[ 3,   8]: 0.0025303 優良
+TOKEN[ 4]: 0.0232157    3 farm
+	farm WORD[ 4,   1]: 0.0130245 野良仕事
+	farm WORD[ 4,   2]: 0.0075799 野良着
+	farm WORD[ 4,   3]: 0.0026113 野良
+TOKEN[ 5]: 0.0223302    2 field
+	field WORD[ 5,   1]: 0.0202956 野良仕事
+	field WORD[ 5,   2]: 0.0020345 野良
+TOKEN[ 6]: 0.0166455    1 amelioration
+	amelioration WORD[ 6,   1]: 0.0166455 良化
+TOKEN[ 7]: 0.0165123    3 work
+	work WORD[ 7,   1]: 0.0086725 野良仕事
+	work WORD[ 7,   2]: 0.0050472 野良着
+	work WORD[ 7,   3]: 0.0027926 良書
+TOKEN[ 8]: 0.0136809    2 improvement
+	improvement WORD[ 8,   1]: 0.0115834 良化
+	improvement WORD[ 8,   2]: 0.0020975 改良
+TOKEN[ 9]: 0.0129724    3 pleasant
+	pleasant WORD[ 9,   1]: 0.0071337 心地良い
+	pleasant WORD[ 9,   2]: 0.0029194 良し
+	pleasant WORD[ 9,   3]: 0.0029193 良い
+TOKEN[10]: 0.0125962    4 stray
+	stray WORD[10,   1]: 0.0042650 野良犬
+	stray WORD[10,   2]: 0.0027771 野良ネコ
+	stray WORD[10,   3]: 0.0027771 野良猫
+	stray WORD[10,   4]: 0.0027771 野良
+TOKEN[11]: 0.0116605    1 labour
+	labour WORD[11,   1]: 0.0116605 野良仕事
+TOKEN[12]: 0.0115506    1 labor
+	labor WORD[12,   1]: 0.0115506 野良仕事
+TOKEN[13]: 0.0115439    3 cat
+	cat WORD[13,   1]: 0.0046176 野良ネコ
+	cat WORD[13,   2]: 0.0046176 野良猫
+	cat WORD[13,   3]: 0.0023088 野良
+TOKEN[14]: 0.0113214    4 excellent
+	excellent WORD[14,   1]: 0.0028682 良好
+	excellent WORD[14,   2]: 0.0028220 良し
+	excellent WORD[14,   3]: 0.0028220 良い
+	excellent WORD[14,   4]: 0.0028091 優良
+TOKEN[15]: 0.0111556    1 general
+	general WORD[15,   1]: 0.0111556 良将
+TOKEN[16]: 0.0108511    1 fertile
+	fertile WORD[16,   1]: 0.0108511 良田
+TOKEN[17]: 0.0108234    3 favorable
+	favorable WORD[17,   1]: 0.0043281 色良い
+	favorable WORD[17,   2]: 0.0033774 佳良
+	favorable WORD[17,   3]: 0.0031179 良好
+TOKEN[18]: 0.0103702    1 paddy
+	paddy WORD[18,   1]: 0.0103702 良田
+TOKEN[19]: 0.0099690    1 teacher
+	teacher WORD[19,   1]: 0.0099690 良師
+TOKEN[20]: 0.0099169    4 bad
+	bad WORD[20,   1]: 0.0031986 良否
+	bad WORD[20,   2]: 0.0023012 良しあし
+	bad WORD[20,   3]: 0.0023012 良し悪し
+	bad WORD[20,   4]: 0.0021159 不良
+TOKEN[21]: 0.0098489    1 great
+	great WORD[21,   1]: 0.0098489 良将
+TOKEN[22]: 0.0091543    3 plan
+	plan WORD[22,   1]: 0.0033660 良策
+	plan WORD[22,   2]: 0.0033654 良案
+	plan WORD[22,   3]: 0.0024228 良計
+TOKEN[23]: 0.0088312    1 harbor
+	harbor WORD[23,   1]: 0.0088312 良港
+TOKEN[24]: 0.0081255    1 ra
+	ra WORD[24,   1]: 0.0081255 良行
+TOKEN[25]: 0.0078870    3 best
+	best WORD[25,   1]: 0.0035118 良しなに
+	best WORD[25,   2]: 0.0025219 良かれ
+	best WORD[25,   3]: 0.0018533 最良
+TOKEN[26]: 0.0075105    1 comfortable
+	comfortable WORD[26,   1]: 0.0075105 心地良い
+TOKEN[27]: 0.0073959    2 friend
+	friend WORD[27,   1]: 0.0046332 仲良し
+	friend WORD[27,   2]: 0.0027628 良友
+TOKEN[28]: 0.0073261    2 suitability
+	suitability WORD[28,   1]: 0.0036630 良しあし
+	suitability WORD[28,   2]: 0.0036630 良し悪し
+TOKEN[29]: 0.0073151    1 horse
+	horse WORD[29,   1]: 0.0073151 良馬
+TOKEN[30]: 0.0072056    2 custom
+	custom WORD[30,   1]: 0.0041673 良風
+	custom WORD[30,   2]: 0.0030382 良俗
+TOKEN[31]: 0.0070279    2 gentle
+	gentle WORD[31,   1]: 0.0035368 順良
+	gentle WORD[31,   2]: 0.0034911 温良
+TOKEN[32]: 0.0069279    2 pure
+	pure WORD[32,   1]: 0.0036393 いさぎ良い
+	pure WORD[32,   2]: 0.0032886 純良
+TOKEN[33]: 0.0068323    2 agreeable
+	agreeable WORD[33,   1]: 0.0034162 良し
+	agreeable WORD[33,   2]: 0.0034161 良い
+TOKEN[34]: 0.0066769    1 slope
+	slope WORD[34,   1]: 0.0066769 黄泉比良坂
+TOKEN[35]: 0.0062663    2 goodness
+	goodness WORD[35,   1]: 0.0035159 良き
+	goodness WORD[35,   2]: 0.0027504 忠良
+TOKEN[36]: 0.0062357    1 working
+	working WORD[36,   1]: 0.0062357 野良着
+TOKEN[37]: 0.0062167    1 rice
+	rice WORD[37,   1]: 0.0062167 良田
+TOKEN[38]: 0.0061156    1 duly
+	duly WORD[38,   1]: 0.0061156 良しなに
+TOKEN[39]: 0.0060528    1 clothes
+	clothes WORD[39,   1]: 0.0060528 野良着
+TOKEN[40]: 0.0059774    2 nice
+	nice WORD[40,   1]: 0.0029887 良し
+	nice WORD[40,   2]: 0.0029887 良い
+TOKEN[41]: 0.0059060    2 alley
+	alley WORD[41,   1]: 0.0029530 野良ネコ
+	alley WORD[41,   2]: 0.0029530 野良猫
+TOKEN[42]: 0.0059000    1 family
+	family WORD[42,   1]: 0.0059000 良家
+TOKEN[43]: 0.0058388    2 medicine
+	medicine WORD[43,   1]: 0.0033764 良剤
+	medicine WORD[43,   2]: 0.0024624 良薬
+TOKEN[44]: 0.0057890    1 doctor
+	doctor WORD[44,   1]: 0.0057890 良医
+TOKEN[45]: 0.0056383    2 dog
+	dog WORD[45,   1]: 0.0034148 野良犬
+	dog WORD[45,   2]: 0.0022235 野良
+TOKEN[46]: 0.0056068    2 superior
+	superior WORD[46,   1]: 0.0028326 良質
+	superior WORD[46,   2]: 0.0027742 優良
+TOKEN[47]: 0.0055751    1 method
+	method WORD[47,   1]: 0.0055751 良法
+TOKEN[48]: 0.0054882    2 honest
+	honest WORD[48,   1]: 0.0035985 善良
+	honest WORD[48,   2]: 0.0018897 いさぎ良い
+TOKEN[49]: 0.0053733    1 benign
+	benign WORD[49,   1]: 0.0053733 良性
+TOKEN[50]: 0.0053699    2 innocent
+	innocent WORD[50,   1]: 0.0034571 淳良
+	innocent WORD[50,   2]: 0.0019128 いさぎ良い
+TOKEN[51]: 0.0052837    1 dead
+	dead WORD[51,   1]: 0.0052837 黄泉比良坂
+TOKEN[52]: 0.0051969    2 wrong
+	wrong WORD[52,   1]: 0.0025985 良しあし
+	wrong WORD[52,   2]: 0.0025985 良し悪し
+TOKEN[53]: 0.0051736    1 moonlit
+	moonlit WORD[53,   1]: 0.0051736 良夜
+TOKEN[54]: 0.0050803    1 encouraging
+	encouraging WORD[54,   1]: 0.0050803 色良い
+TOKEN[55]: 0.0050539    1 artisan
+	artisan WORD[55,   1]: 0.0050539 良工
+TOKEN[56]: 0.0049868    1 saved
+	saved WORD[56,   1]: 0.0049868 良縁
+TOKEN[57]: 0.0048780    1 land
+	land WORD[57,   1]: 0.0048780 黄泉比良坂
+TOKEN[58]: 0.0047615    1 unmixed
+	unmixed WORD[58,   1]: 0.0047615 純良
+TOKEN[59]: 0.0046809    2 high
+	high WORD[59,   1]: 0.0025125 純良
+	high WORD[59,   2]: 0.0021685 良質
+TOKEN[60]: 0.0045137    2 right
+	right WORD[60,   1]: 0.0022569 良かれ
+	right WORD[60,   2]: 0.0022568 良い
+TOKEN[61]: 0.0044983    1 wholesome
+	wholesome WORD[61,   1]: 0.0044983 純良
+TOKEN[62]: 0.0044837    1 valuable
+	valuable WORD[62,   1]: 0.0044837 良書
+TOKEN[63]: 0.0044598    1 harbour
+	harbour WORD[63,   1]: 0.0044598 良港
+TOKEN[64]: 0.0043850    1 breed
+	breed WORD[64,   1]: 0.0043850 良種
+TOKEN[65]: 0.0043710    1 colored
+	colored WORD[65,   1]: 0.0043710 色良い
+TOKEN[66]: 0.0043190    1 timber
+	timber WORD[66,   1]: 0.0043190 良材
+TOKEN[67]: 0.0042758    1 candidate
+	candidate WORD[67,   1]: 0.0042758 良縁
+TOKEN[68]: 0.0042641    1 moderate
+	moderate WORD[68,   1]: 0.0042641 程良い
+TOKEN[69]: 0.0042134    1 meek
+	meek WORD[69,   1]: 0.0042134 順良
+TOKEN[70]: 0.0041585    2 person
+	person WORD[70,   1]: 0.0019867 善良
+	person WORD[70,   2]: 0.0010859 良人
+TOKEN[71]: 0.0041462    1 suitable
+	suitable WORD[71,   1]: 0.0041462 良縁
+TOKEN[72]: 0.0041098    1 amiable
+	amiable WORD[72,   1]: 0.0041098 温良
+TOKEN[73]: 0.0040868    1 seed
+	seed WORD[73,   1]: 0.0040868 良種
+TOKEN[74]: 0.0040642    1 skilled
+	skilled WORD[74,   1]: 0.0040642 良工
+TOKEN[75]: 0.0039696    1 virtuous
+	virtuous WORD[75,   1]: 0.0039696 善良
+TOKEN[76]: 0.0039443    1 obedient
+	obedient WORD[76,   1]: 0.0039443 順良
+TOKEN[77]: 0.0038221    1 proper
+	proper WORD[77,   1]: 0.0038221 程良い
+TOKEN[78]: 0.0037817    1 fit
+	fit WORD[78,   1]: 0.0037817 良しなに
+TOKEN[79]: 0.0037388    1 opportunity
+	opportunity WORD[79,   1]: 0.0037388 良縁
+TOKEN[80]: 0.0037302    1 genuine
+	genuine WORD[80,   1]: 0.0037302 純良
+TOKEN[81]: 0.0036997    1 husband
+	husband WORD[81,   1]: 0.0018499 良人
+TOKEN[82]: 0.0036913    1 able
+	able WORD[82,   1]: 0.0036913 良材
+TOKEN[83]: 0.0036692    1 re
+	re WORD[83,   1]: 0.0036692 良行
+TOKEN[84]: 0.0036657    1 intuition
+	intuition WORD[84,   1]: 0.0036657 良知
+TOKEN[85]: 0.0036618    1 marriage
+	marriage WORD[85,   1]: 0.0036618 良縁
+TOKEN[86]: 0.0036558    1 think
+	think WORD[86,   1]: 0.0036558 良しなに
+TOKEN[87]: 0.0036277    1 policy
+	policy WORD[87,   1]: 0.0036277 良策
+TOKEN[88]: 0.0036247    1 idea
+	idea WORD[88,   1]: 0.0036247 良案
+TOKEN[89]: 0.0036141    1 respectable
+	respectable WORD[89,   1]: 0.0036141 良家
+TOKEN[90]: 0.0036065    1 material
+	material WORD[90,   1]: 0.0036065 良材
+TOKEN[91]: 0.0035231    1 hooligan
+	hooligan WORD[91,   1]: 0.0035231 不良
+TOKEN[92]: 0.0034854    1 wife
+	wife WORD[92,   1]: 0.0034854 良妻
+TOKEN[93]: 0.0034853    1 see
+	see WORD[93,   1]: 0.0034853 良しなに
+TOKEN[94]: 0.0034788    1 ability
+	ability WORD[94,   1]: 0.0034788 良能
+TOKEN[95]: 0.0034719    1 decent
+	decent WORD[95,   1]: 0.0034719 良家
+TOKEN[96]: 0.0034546    1 match
+	match WORD[96,   1]: 0.0034546 良縁
+TOKEN[97]: 0.0034161    1 sufficient
+	sufficient WORD[97,   1]: 0.0034161 良い
+TOKEN[98]: 0.0034129    1 Buddha
+	Buddha WORD[98,   1]: 0.0034129 良縁
+TOKEN[99]: 0.0034018    1 beneficial
+	beneficial WORD[99,   1]: 0.0034018 良い
+TOKEN[100]: 0.0034017    1 glad
+	glad WORD[100,   1]: 0.0034017 良く
+TOKEN[101]: 0.0033860    1 natural
+	natural WORD[101,   1]: 0.0033860 良能
+TOKEN[102]: 0.0033439    1 hoodlum
+	hoodlum WORD[102,   1]: 0.0033439 不良
+TOKEN[103]: 0.0033256    1 conscience
+	conscience WORD[103,   1]: 0.0033256 良心
+TOKEN[104]: 0.0033056    1 satisfactory
+	satisfactory WORD[104,   1]: 0.0033056 良好
+TOKEN[105]: 0.0032957    1 successful
+	successful WORD[105,   1]: 0.0032957 佳良
+TOKEN[106]: 0.0032894    1 official
+	official WORD[106,   1]: 0.0032894 良吏
+TOKEN[107]: 0.0032819    1 B
+	B WORD[107,   1]: 0.0032819 良
+TOKEN[108]: 0.0032096    1 delinquent
+	delinquent WORD[108,   1]: 0.0032096 不良
+TOKEN[109]: 0.0031940    1 defective
+	defective WORD[109,   1]: 0.0031940 不良
+TOKEN[110]: 0.0031903    1 night
+	night WORD[110,   1]: 0.0031903 良夜
+TOKEN[111]: 0.0031663    1 inevitable
+	inevitable WORD[111,   1]: 0.0031663 良く良く
+TOKEN[112]: 0.0031525    1 profitable
+	profitable WORD[112,   1]: 0.0031525 良い
+TOKEN[113]: 0.0031509    1 chum
+	chum WORD[113,   1]: 0.0031509 仲良し
+TOKEN[114]: 0.0031137    1 kind
+	kind WORD[114,   1]: 0.0031137 淳良
+TOKEN[115]: 0.0031072    1 nature
+	nature WORD[115,   1]: 0.0031072 善良
+TOKEN[116]: 0.0030924    1 merit
+	merit WORD[116,   1]: 0.0030924 良さ
+TOKEN[117]: 0.0030919    1 unavoidable
+	unavoidable WORD[117,   1]: 0.0030919 良く良く
+TOKEN[118]: 0.0030737    1 pal
+	pal WORD[118,   1]: 0.0030737 仲良し
+TOKEN[119]: 0.0030278    1 syllabary
+	syllabary WORD[119,   1]: 0.0030278 良行
+TOKEN[120]: 0.0030257    1 simple
+	simple WORD[120,   1]: 0.0030257 淳良
+TOKEN[121]: 0.0029751    1 book
+	book WORD[121,   1]: 0.0029751 良書
+TOKEN[122]: 0.0029655    1 thank
+	thank WORD[122,   1]: 0.0029655 良く
+TOKEN[123]: 0.0029595    1 bosom
+	bosom WORD[123,   1]: 0.0029595 仲良し
+TOKEN[124]: 0.0029355    1 prepared
+	prepared WORD[124,   1]: 0.0029355 良い
+TOKEN[125]: 0.0029279    1 virtue
+	virtue WORD[125,   1]: 0.0029279 良さ
+TOKEN[126]: 0.0029154    1 grade
+	grade WORD[126,   1]: 0.0029154 良
+TOKEN[127]: 0.0029011    1 buddy
+	buddy WORD[127,   1]: 0.0029011 仲良し
+TOKEN[128]: 0.0028889    1 ready
+	ready WORD[128,   1]: 0.0028889 良い
+TOKEN[129]: 0.0028580    1 stranger
+	stranger WORD[129,   1]: 0.0028580 野良
+TOKEN[130]: 0.0028578    1 column
+	column WORD[130,   1]: 0.0028578 良行
+TOKEN[131]: 0.0028440    1 nerve
+	nerve WORD[131,   1]: 0.0028440 良く
+TOKEN[132]: 0.0028251    1 offer
+	offer WORD[132,   1]: 0.0028251 良い
+TOKEN[133]: 0.0027980    1 people
+	people WORD[133,   1]: 0.0027980 良民
+TOKEN[134]: 0.0027842    1 choice
+	choice WORD[134,   1]: 0.0027842 良く良く
+TOKEN[135]: 0.0027608    1 elite
+	elite WORD[135,   1]: 0.0027608 選良
+TOKEN[136]: 0.0027077    1 inferior
+	inferior WORD[136,   1]: 0.0027077 不良
+TOKEN[137]: 0.0026899    1 sportsmanlike
+	sportsmanlike WORD[137,   1]: 0.0026899 いさぎ良い
+TOKEN[138]: 0.0026637    1 deal
+	deal WORD[138,   1]: 0.0026637 良い
+TOKEN[139]: 0.0026201    1 random
+	random WORD[139,   1]: 0.0026201 野良
+TOKEN[140]: 0.0026162    1 condition
+	condition WORD[140,   1]: 0.0026162 良
+TOKEN[141]: 0.0026131    1 friendly
+	friendly WORD[141,   1]: 0.0026131 仲良く
+TOKEN[142]: 0.0026025    1 harmony
+	harmony WORD[142,   1]: 0.0026025 仲良く
+TOKEN[143]: 0.0025936    1 know
+	know WORD[143,   1]: 0.0025936 良く
+TOKEN[144]: 0.0025857    1 product
+	product WORD[144,   1]: 0.0025857 良品
+TOKEN[145]: 0.0025652    1 item
+	item WORD[145,   1]: 0.0025652 良品
+TOKEN[146]: 0.0025582    1 article
+	article WORD[146,   1]: 0.0025582 良品
+TOKEN[147]: 0.0025512    1 unspoiled
+	unspoiled WORD[147,   1]: 0.0025512 いさぎ良い
+TOKEN[148]: 0.0025404    1 problem
+	problem WORD[148,   1]: 0.0025404 良い
+TOKEN[149]: 0.0025158    1 loyalty
+	loyalty WORD[149,   1]: 0.0025158 忠良
+TOKEN[150]: 0.0025117    1 friendship
+	friendship WORD[150,   1]: 0.0025117 仲良し
+TOKEN[151]: 0.0025031    1 table
+	table WORD[151,   1]: 0.0025031 良行
+TOKEN[152]: 0.0024962    1 easy
+	easy WORD[152,   1]: 0.0024962 良い
+TOKEN[153]: 0.0024750    1 sense
+	sense WORD[153,   1]: 0.0024750 良識
+TOKEN[154]: 0.0024271    1 parliament
+	parliament WORD[154,   1]: 0.0024271 選良
+TOKEN[155]: 0.0023827    1 prefecture
+	prefecture WORD[155,   1]: 0.0023827 奈良
+TOKEN[156]: 0.0023794    1 righteous
+	righteous WORD[156,   1]: 0.0023794 いさぎ良い
+TOKEN[157]: 0.0023455    1 player
+	player WORD[157,   1]: 0.0023455 野良
+TOKEN[158]: 0.0023313    1 gracious
+	gracious WORD[158,   1]: 0.0023313 いさぎ良い
+TOKEN[159]: 0.0023037    1 poor
+	poor WORD[159,   1]: 0.0023037 不良
+TOKEN[160]: 0.0022768    1 ideal
+	ideal WORD[160,   1]: 0.0022768 最良
+TOKEN[161]: 0.0022459    1 gallant
+	gallant WORD[161,   1]: 0.0022459 いさぎ良い
+TOKEN[162]: 0.0021913    1 business
+	business WORD[162,   1]: 0.0021913 良い
+TOKEN[163]: 0.0021561    1 money
+	money WORD[163,   1]: 0.0021561 良貨
+TOKEN[164]: 0.0021212    1 city
+	city WORD[164,   1]: 0.0021212 奈良
+TOKEN[165]: 0.0020979    1 getting
+	getting WORD[165,   1]: 0.0020979 仲良く
+TOKEN[166]: 0.0020542    1 graceful
+	graceful WORD[166,   1]: 0.0020542 いさぎ良い
+TOKEN[167]: 0.0020449    1 apology
+	apology WORD[167,   1]: 0.0020449 いさぎ良い
+TOKEN[168]: 0.0020263    1 reform
+	reform WORD[168,   1]: 0.0020263 改良
+TOKEN[169]: 0.0020028    1 scenery
+	scenery WORD[169,   1]: 0.0020028 いさぎ良い
+TOKEN[170]: 0.0019396    1 member
+	member WORD[170,   1]: 0.0019396 選良
+TOKEN[171]: 0.0019238    1 brave
+	brave WORD[171,   1]: 0.0019238 いさぎ良い
+TOKEN[172]: 0.0018907    1 game
+	game WORD[172,   1]: 0.0018907 野良
+TOKEN[173]: 0.0018801    1 upright
+	upright WORD[173,   1]: 0.0018801 いさぎ良い
+TOKEN[174]: 0.0018470    1 noble
+	noble WORD[174,   1]: 0.0018470 いさぎ良い
+TOKEN[175]: 0.0018429    1 clean
+	clean WORD[175,   1]: 0.0018429 いさぎ良い
+TOKEN[176]: 0.0017804    1 defeat
+	defeat WORD[176,   1]: 0.0017804 いさぎ良い
+TOKEN[177]: 0.0016739    1 Japanese
+	Japanese WORD[177,   1]: 0.0016739 良行
+TOKEN[178]: 0.0014793    1 heart
+	heart WORD[178,   1]: 0.0014793 いさぎ良い
+TOKEN[179]: 0.0014002    1 death
+	death WORD[179,   1]: 0.0014002 いさぎ良い

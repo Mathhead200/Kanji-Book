@@ -1,0 +1,1569 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0236391   13 previous       : 先公, 先出, 先代, 先口, 先婦, 先約, 先便, 先王, 先君, 先触れ, ...
+0.0201752   15 tip            : 穂先, 鼻先, 葉先, えり先, 衿先, 襟先, 先っちょ, 筆先, 突先, 指先, ...
+0.0145526   13 future         : 先読み, 先行き, 先々, 先先, 先安, 生い先, 行く先, 目先, 先高, 先, ...
+0.0137920    3 foresight      : 先知, 目先, 先見
+0.0131483   18 point          : 先っちょ, 穂先, 先兵, 太刀先, 剣先, 切っ先, 切先, 矢先, ほこ先, 矛先, ...
+0.0129300   12 advance        : 先貸し, 先払い, 先買い, 先兵, 先借り, 先渡し, 先鋒, 先発, 先陣, 先どり, ...
+0.0127560    1 speedy         : 先知
+0.0122915    1 task           : 先務
+0.0122500   10 end            : 先細, 先太, 棒先, 腕先, 先っちょ, 後先, 先端, 先っぽ, 先, 先き
+0.0121020   12 destination    : 届け先, あて先, 宛て先, 宛先, 行く先, 出先, 旅先, 先方, 先, 先き, ...
+0.0115929   21 one            : 先腹, 先妣, 鼻先, 毛先, バイト先, 目先, 使い先, 先考, 生い先, ほこ先, ...
+0.0115729    3 collar         : えり先, 衿先, 襟先
+0.0105809    1 comprehension  : 先知
+0.0099856    7 address        : 先生, 届け先, あて先, 宛て先, 宛先, 先, 先き
+0.0098194    3 master         : 先主, 先腹, 先生
+0.0097601    2 supplier       : 仕入れ先, 仕入先
+0.0096947    7 spearhead      : 槍先, 穂先, ほこ先, 矛先, 鉾先, 鋒先, 先端
+0.0094030    9 first          : 先登, 先行, 先発, 先勝, 先走る, 先鋒, 先手, 先着, 先決
+0.0092725    2 cheque         : 先付, 先付け
+0.0086762    2 appetizer      : 先付, 先付け
+0.0085061    6 preceding      : 先腹, 先皇, 先帝, 先回, 先行, 先客
+0.0083671   10 front          : 鼻先, 先棒, 後先, まっ先, 真っ先, 真先, 先方, 先頭, 先, 先き
+0.0082677    1 groove         : 開先
+0.0082677    1 welding        : 開先
+0.0077413    9 initiative     : 帥先, 率先, 先べん, 先鞭, 先手, 先制, 先議, 先駈け, 先駆け
+0.0076529    4 letter         : 先付, 先付け, 先便, 届け先
+0.0074951    3 wife           : 先婦, 先腹, 先妻
+0.0072125    9 attack         : 切っ先, 切先, 矢先, ほこ先, 矛先, 鉾先, 鋒先, 先駈け, 先駆け
+0.0071110    2 date           : 先付, 先付け
+0.0071096    6 late           : 先主, 先婦, 先夫, 先帝, 先代, 先妻
+0.0069297    3 teacher        : 先公, 先生, 先師
+0.0068352    1 urgent         : 先務
+0.0067861    8 edge           : 刃先, 縁先, ほこ先, 矛先, 鉾先, 鋒先, 軒先, 先端
+0.0067661   10 time           : 先太り, もう先, 先回, 先ず, 一先ず, 先般, 先だって, 先達て, 先ほど, 先程
+0.0066644    7 former         : 先主, 先夫, 先師, 先年, 先妻, 先, 先き
+0.0065925    7 pioneer        : 先兵, 先覚, 先達, 先人, 先駆, 先駈け, 先駆け
+0.0064224    1 pressing       : 先務
+0.0061181    5 brunt          : 矢先, ほこ先, 矛先, 鉾先, 鋒先
+0.0061033    5 vanguard       : 先兵, 先鋒, 先頭, 先端, 先陣
+0.0059900    2 tapering       : 先細, 先細り
+0.0056666    7 place          : バイト先, 出先, 使い先, 勤め先, 旅先, 先, 先き
+0.0056654    1 important      : 先務
+0.0054584    5 spear          : 穂先, ほこ先, 矛先, 鉾先, 鋒先
+0.0054101    2 payment        : 先貸し, 先払い
+0.0052782    5 target         : 矢先, ほこ先, 矛先, 鉾先, 鋒先
+0.0051893    8 head           : まっ先, 真っ先, 真先, 先頭, 先代, 先制, 先, 先き
+0.0051527    8 day            : 先負, 先般, 先だって, 先達て, 先日, 先勝, 先ごろ, 先頃
+0.0050294    5 predecessor    : 先任, 先学, 先代, 先人, 先蹤
+0.0049759    3 nozzle         : 筒先, 先, 先き
+0.0049365    5 last           : 先回, 先週, 先月, 先, 先き
+0.0049174    1 business       : 先務
+0.0048438    2 nights         : 先晩, 先夜
+0.0046205    2 leaf           : 葉先, 先端
+0.0045569    7 something      : 先駆ける, 先駈ける, 鼻先, 先だつ, 先立つ, 先, 先き
+0.0045252    1 flaring        : 先太り
+0.0044883    4 precede        : 先んずる, 先んじる, 先だつ, 先立つ
+0.0044501    3 forefront      : 火先, 先頭, 先端
+0.0044406    4 ancient        : 先聖, 先哲, 先王, 先賢
+0.0044363    3 toe            : 指先, つま先, 爪先
+0.0043617    6 beginning      : 潮先, 後先, まっ先, 真っ先, 真先, 春先
+0.0042922    4 focus          : ほこ先, 矛先, 鉾先, 鋒先
+0.0042816    1 procrastination: 先延ばし
+0.0041690    5 leader         : 先達, 先兵, 先駆, 先駈け, 先駆け
+0.0040891    3 forestall      : 先んずる, 先んじる, 機先
+0.0040561    6 times          : 先行, 先どり, 先取, 先取り, 先駆ける, 先駈ける
+0.0040520    1 lord           : 先公
+0.0039882    4 aim            : ほこ先, 矛先, 鉾先, 鋒先
+0.0039540    7 taking         : 帥先, 率先, 先どり, 先取, 先取り, 先駈け, 先駆け
+0.0038778    4 criticism      : ほこ先, 矛先, 鉾先, 鋒先
+0.0038397    6 go             : 互先, 先んずる, 先立てる, 先手, 先だつ, 先立つ
+0.0037973    1 seppuku        : 先腹
+0.0037548    1 increasing     : 先太り
+0.0037505    2 evening        : 先晩, 先負
+0.0037457    2 sage           : 先聖, 先賢
+0.0037420    5 going          : 先発, 先行, 先登, 出先, 先回り
+0.0036669    4 forerunner     : 先払い, 先駆, 先駈け, 先駆け
+0.0036652    4 argument       : ほこ先, 矛先, 鉾先, 鋒先
+0.0036235    3 anticipatory   : 先どり, 先取, 先取り
+0.0035941    2 palanquin      : 棒先, 先棒
+0.0035627    4 anticipation   : 先見, 先どり, 先取, 先取り
+0.0035530    3 elder          : 先輩, 先生, 先進
+0.0035528    2 generation     : 先公, 先代
+0.0035517    4 precedence     : 優先, 先番, 先だつ, 先立つ
+0.0034813    4 lead           : 先だつ, 先立つ, 先頭, 先行
+0.0034314    1 delay          : 先延ばし
+0.0034262    2 apex           : 葉先, 先端
+0.0034069    1 reading        : 先読み
+0.0033603    4 force          : ほこ先, 矛先, 鉾先, 鋒先
+0.0032750    1 suicide        : 先腹
+0.0032357    1 king           : 先王
+0.0032291    3 party          : 先方, 先, 先き
+0.0031502    1 form           : 先生
+0.0031470    1 hair           : 毛先
+0.0031328    3 sign           : さい先, 幸先, 先触れ
+0.0031325    4 senior         : 先学, 先輩, 先達, 先進
+0.0031203    1 ritual         : 先腹
+0.0031139    4 sword          : 太刀先, 剣先, 切っ先, 切先
+0.0031081    1 growing        : 先太り
+0.0031026    2 ruler          : 先公, 先君
+0.0031024    2 death          : 先腹, 先途
+0.0031019    1 towards        : 先太
+0.0030246    2 nose           : 鼻先, 目先
+0.0030128    1 mother         : 先妣
+0.0029643    3 foremost       : まっ先, 真っ先, 真先
+0.0029597    1 given          : 先出
+0.0029178    3 pointed        : 切っ先, 切先, 先端
+0.0028941    3 wages          : 先どり, 先取, 先取り
+0.0028779    2 continuation   : 先, 先き
+0.0028589    4 part           : 庭先, 先, 先き, 足先
+0.0028224    2 delivery       : 先渡し, 先払い
+0.0028015    2 move           : 先手, 先番
+0.0027863    2 recent         : 先, 先き
+0.0027809    2 emperor        : 先帝, 先皇
+0.0027145    2 sock           : つま先, 爪先
+0.0026382    3 completion     : 先どり, 先取, 先取り
+0.0026306    3 finishing      : 先どり, 先取, 先取り
+0.0026046    4 leading        : 先導, 先端, 先駈け, 先駆け
+0.0026005    1 repurchase     : 現先
+0.0025699    1 teasing        : 先生
+0.0025368    1 instructor     : 先生
+0.0025368    1 lawyer         : 先生
+0.0025019    2 preconception  : 先口, 先入
+0.0024728    2 bearer         : 棒先, 先棒
+0.0024687    3 line           : 先頭, 先, 先き
+0.0024611    1 child          : 先腹
+0.0024556    3 prior          : 先占, 先行, 先議
+0.0024235    2 engagement     : 先約, 先口
+0.0024088    2 rest           : 先, 先き
+0.0024055    3 sentence       : 先どり, 先取, 先取り
+0.0024039    2 seniority      : 先任, 先進
+0.0024008    2 shoe           : つま先, 爪先
+0.0023942    3 whereabouts    : 行く先, 行き先, 行先
+0.0023772    3 ancestor       : 祖先, 先祖, 先人
+0.0023730    1 pole           : 棒先
+0.0023318    1 period         : 先秦
+0.0023128    1 teach          : 先公
+0.0023108    2 anticipate     : 先んずる, 先んじる
+0.0023006    3 way            : 先導, 先, 先き
+0.0022962    1 client         : 客先
+0.0022794    3 interest       : 先どり, 先取, 先取り
+0.0021975    1 flame          : 火先
+0.0021856    1 husband        : 先夫
+0.0021800    1 intimate       : 先生
+0.0021708    2 story          : 先, 先き
+0.0021648    4 someone        : 出先, 先立てる, 先駆ける, 先駈ける
+0.0021527    1 employer       : バイト先
+0.0021240    1 announcement   : 先触れ
+0.0021141    2 brush          : 穂先, 筆先
+0.0020866    2 verbal         : 切っ先, 切先
+0.0020780    1 doctor         : 先生
+0.0020721    1 arm            : 腕先
+0.0020350    1 customer       : 客先
+0.0020235    2 priority       : 優先, 先決
+0.0019464    2 precedent      : 先例, 先蹤
+0.0019281    3 moment         : 矢先, 先ほど, 先程
+0.0019085    1 works          : バイト先
+0.0018974    2 past           : 先非, 先学
+0.0018924    1 title          : 先生
+0.0018896    1 taper          : 先細る
+0.0018687    1 starting       : 先発
+0.0018349    1 debt           : 現先
+0.0018326    1 buy            : 先買い
+0.0018140    2 tool           : 先棒, 手先
+0.0017864    2 lucky          : 先負, 先勝
+0.0017761    2 good           : さい先, 幸先
+0.0017689    2 sequence       : 後先, 先後
+0.0017675    1 seizing        : 先手
+0.0017671    2 precursor      : 先達, 先駆
+0.0017601    2 prerequisite   : 先だつ, 先立つ
+0.0017600    2 ship           : 水先, 舳先
+0.0017485    2 order          : 先後, 後先
+0.0017317    1 act            : 先走る
+0.0017237    2 take           : 先だつ, 先立つ
+0.0016935    2 father         : 先考, 先代
+0.0016773    1 consignee      : 届け先
+0.0016356    2 herald         : 先駈け, 先駆け
+0.0016283    2 contract       : 先約, 先物
+0.0016146    2 harbinger      : 先駈け, 先駆け
+0.0016026    2 morning        : 先負, 先勝
+0.0015791    3 short          : 先ほど, 先程, 先刻
+0.0015683    1 fire           : 火先
+0.0015683    2 calendar       : 先負, 先勝
+0.0015548    1 forewarning    : 先触れ
+0.0015490    2 inevitable     : 先々, 先先
+0.0015322    1 week           : 先週
+0.0015234    2 scoring        : 先勝, 先行
+0.0015156    1 prehistory     : 先史
+0.0015116    2 charging       : 先駈け, 先駆け
+0.0014912    2 family         : 先代, 嫁ぎ先
+0.0014908    2 goes           : 先々, 先先
+0.0014705    1 forceful       : 太刀先
+0.0013829    2 present        : 目先, 一先ず
+0.0013823    2 spouse         : 先だつ, 先立つ
+0.0013749    2 traditional    : 先負, 先勝
+0.0013718    2 game           : 互先, 先勝
+0.0013682    2 omen           : さい先, 幸先
+0.0013664    2 team           : 先鋒, 先発
+0.0013339    1 garden         : 庭先
+0.0013325    2 person         : 老い先, 先手
+0.0013319    1 miner          : 先山
+0.0013317    1 prepayment     : 先払い
+0.0013299    1 misdeed        : 先非
+0.0013266    1 shogi          : 先手
+0.0013147    1 errand         : 使い先
+0.0013066    1 muzzle         : 筒先
+0.0013064    1 portent        : 先触れ
+0.0012963    2 superior       : 先輩, 先進
+0.0012933    1 inherent       : 先天
+0.0012885    1 flunky         : 先棒
+0.0012827    1 receiver       : 届け先
+0.0012762    1 fingertip      : 指先
+0.0012734    1 detachment     : 先兵
+0.0012676    1 rod            : 棒先
+0.0012652    1 sent           : 使い先
+0.0012568    1 learned        : 先覚
+0.0012554    1 crisis         : 先途
+0.0012554    1 innate         : 先天
+0.0012493    1 prow           : 舳先
+0.0012456    2 guard          : 先鋒, 先陣
+0.0012451    1 parcel         : 届け先
+0.0012306    2 distant        : 先々, 先先
+0.0012221    1 moving         : 先手
+0.0012187    1 sin            : 先非
+0.0012148    1 veranda        : 縁先
+0.0012123    1 noon           : 先負
+0.0012101    1 breast         : 胸先
+0.0012002    1 haste          : 先負
+0.0011977    1 wheat          : 穂先
+0.0011907    1 scholar        : 先学
+0.0011717    2 die            : 先だつ, 先立つ
+0.0011695    1 virtuous       : 先王
+0.0011642    1 unlucky        : 先負
+0.0011530    1 borrowing      : 先借り
+0.0011359    1 debate         : 太刀先
+0.0011352    1 judgment       : 先負
+0.0011303    1 ear            : 穂先
+0.0011298    1 academic       : 先学
+0.0011174    1 chest          : 胸先
+0.0011133    2 house          : 軒先, 庭先
+0.0011092    1 blade          : 刃先
+0.0011089    1 freight        : 先渡し
+0.0011086    1 mail           : 先払い
+0.0011052    1 preference     : 優先
+0.0011040    2 enemy          : 先駈け, 先駆け
+0.0011032    1 preliminary    : 先触れ
+0.0010924    1 current        : 水先
+0.0010872    1 error          : 先非
+0.0010852    1 context        : 後先
+0.0010852    1 carrying       : 棒先
+0.0010843    1 wise           : 先哲
+0.0010820    1 direction      : 水先
+0.0010619    1 frontage       : 軒先
+0.0010550    1 men            : 先哲
+0.0010516    1 foremother     : 先祖
+0.0010514    1 stalker        : 先行
+0.0010506    1 phone          : 先払い
+0.0010470    1 collect        : 先払い
+0.0010414    1 minion         : 手先
+0.0010414    1 stooge         : 手先
+0.0010295    1 arrowhead      : 矢先
+0.0010209    1 stick          : 棒先
+0.0010155    1 skilled        : 先山
+0.0010135    1 likely         : 先ず
+0.0010077    1 course         : 水先
+0.0010039    1 delaying       : 先送り
+0.0010004    1 side           : 先方
+0.0009993    1 rash           : 先走る
+0.0009864    1 outriding      : 先駆
+0.0009796    1 tide           : 潮先
+0.0009787    1 long           : もう先
+0.0009762    2 work           : 勤め先, 先輩
+0.0009693    1 stays          : 旅先
+0.0009675    1 rising         : 潮先
+0.0009661    1 paying         : 先渡し
+0.0009656    1 battle         : 先途
+0.0009486    1 occupancy      : 先占
+0.0009357    1 gun            : 先走る
+0.0009339    1 anything       : 先ず
+0.0009313    1 immediate      : 目先
+0.0009296    2 come           : さい先, 幸先
+0.0009295    1 oneself        : 先走る
+0.0009219    1 progenitor     : 先輩
+0.0009217    1 forefather     : 先祖
+0.0009214    1 gone           : 出先
+0.0009214    1 outrider       : 先駆
+0.0009192    1 least          : 先ず
+0.0009148    1 shoulder       : 肩先
+0.0009103    1 satisfactory   : 先ず
+0.0008986    1 finger         : 指先
+0.0008985    1 lower          : 先安
+0.0008946    1 jump           : 先走る
+0.0008902    1 rear           : 後先
+0.0008837    1 cusp           : 先端
+0.0008836    1 aboriginal     : 先住
+0.0008691    1 inhabitant     : 先住
+0.0008628    1 eaves          : 軒先
+0.0008579    1 bow            : 舳先
+0.0008565    1 happening      : 先行
+0.0008488    1 pawn           : 手先
+0.0008459    1 athlete        : 先鋒
+0.0008438    1 fashion        : 一先ず
+0.0008377    1 proboscis      : 口先
+0.0008358    1 crescent       : 先端
+0.0008330    1 arrow          : 矢先
+0.0008270    1 leadership     : 先導
+0.0008266    1 inversion      : 先後
+0.0008219    1 flying         : 矢先
+0.0008187    1 acquisition    : 先占
+0.0008087    1 underling      : 手先
+0.0008087    1 man            : 先覚
+0.0008083    1 mere           : 口先
+0.0008059    1 rate           : 先ず
+0.0008040    1 batting        : 先攻
+0.0008040    1 settling       : 先決
+0.0007979    1 prejudice      : 先入
+0.0007977    1 advanced       : 先進
+0.0007975    1 acute          : 先鋭
+0.0007864    1 snout          : 口先
+0.0007725    1 top            : 肩先
+0.0007716    1 recipient      : 送り先
+0.0007627    1 married        : 嫁ぎ先
+0.0007617    1 afternoon      : 先勝
+0.0007616    1 postponement   : 先送り
+0.0007539    1 graduate       : 先輩
+0.0007462    1 curve          : 先端
+0.0007458    1 begin          : 先ず
+0.0007325    1 visitor        : 先客
+0.0007260    1 lip            : 口先
+0.0007240    1 sports         : 先発
+0.0007219    1 addressee      : 送り先
+0.0007212    1 guidance       : 先導
+0.0007131    1 occupation     : 先占
+0.0007059    1 life           : 老い先
+0.0006985    1 appearance     : 目先
+0.0006969    1 whole          : 先ず
+0.0006927    1 guide          : 先達
+0.0006859    1 higher         : 先高
+0.0006854    1 old            : 老い先
+0.0006796    1 older          : 先輩
+0.0006769    1 source         : 出先
+0.0006763    1 arrival        : 先回り
+0.0006741    1 sending        : 先遣
+0.0006680    1 competition    : 先鋒
+0.0006591    1 branch         : 出先
+0.0006548    1 trip           : 旅先
+0.0006523    1 origin         : 出先
+0.0006496    1 judo           : 先鋒
+0.0006405    1 tongue         : 舌先
+0.0006399    1 object         : 出先
+0.0006338    1 sharp          : 先鋭
+0.0006329    1 winning        : 先勝
+0.0006319    1 moon           : 先端
+0.0006317    1 hand           : 目先
+0.0006196    1 spring         : 春先
+0.0006086    1 office         : 出先
+0.0006067    1 days           : 先日
+0.0006058    1 consideration  : 先議
+0.0006035    1 original       : 先住
+0.0006012    1 priest         : 先住
+0.0006003    1 radical        : 先鋭
+0.0005990    1 figure         : 先達
+0.0005966    1 getting        : 先行
+0.0005906    1 match          : 先鋒
+0.0005739    1 mouth          : 口先
+0.0005722    1 matter         : 先決
+0.0005689    1 coming         : 先行
+0.0005633    1 group          : 先頭
+0.0005603    1 age            : 先代
+0.0005581    1 month          : 先月
+0.0005566    1 woman          : 嫁ぎ先
+0.0005402    1 start          : 先制
+0.0005400    1 night          : 先夜
+0.0005323    1 service        : 口先
+0.0005031    1 school         : 先輩
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0236391   13 previous
+	previous WORD[ 1,   1]: 0.0057981 先公
+	previous WORD[ 1,   2]: 0.0031220 先出
+	previous WORD[ 1,   3]: 0.0025927 先代
+	previous WORD[ 1,   4]: 0.0019905 先口
+	previous WORD[ 1,   5]: 0.0019537 先婦
+	previous WORD[ 1,   6]: 0.0010425 先約
+	previous WORD[ 1,   7]: 0.0010425 先便
+	previous WORD[ 1,   8]: 0.0010207 先王
+	previous WORD[ 1,   9]: 0.0009953 先君
+	previous WORD[ 1,  10]: 0.0009582 先触れ
+	previous WORD[ 1,  11]: 0.0006481 先住
+	previous WORD[ 1,  12]: 0.0006187 先
+	previous WORD[ 1,  13]: 0.0006187 先き
+TOKEN[ 2]: 0.0201752   15 tip
+	tip WORD[ 2,   1]: 0.0021720 穂先
+	tip WORD[ 2,   2]: 0.0020618 鼻先
+	tip WORD[ 2,   3]: 0.0019578 葉先
+	tip WORD[ 2,   4]: 0.0017539 えり先
+	tip WORD[ 2,   5]: 0.0017539 衿先
+	tip WORD[ 2,   6]: 0.0017538 襟先
+	tip WORD[ 2,   7]: 0.0016687 先っちょ
+	tip WORD[ 2,   8]: 0.0010567 筆先
+	tip WORD[ 2,   9]: 0.0009931 突先
+	tip WORD[ 2,  10]: 0.0008055 指先
+	tip WORD[ 2,  11]: 0.0006228 先端
+	tip WORD[ 2,  12]: 0.0006027 舌先
+	tip WORD[ 2,  13]: 0.0005947 先っぽ
+	tip WORD[ 2,  14]: 0.0005945 先
+	tip WORD[ 2,  15]: 0.0005945 先き
+TOKEN[ 3]: 0.0145526   13 future
+	future WORD[ 3,   1]: 0.0036928 先読み
+	future WORD[ 3,   2]: 0.0011771 先行き
+	future WORD[ 3,   3]: 0.0011768 先々
+	future WORD[ 3,   4]: 0.0011767 先先
+	future WORD[ 3,   5]: 0.0009112 先安
+	future WORD[ 3,   6]: 0.0008657 生い先
+	future WORD[ 3,   7]: 0.0007958 行く先
+	future WORD[ 3,   8]: 0.0007763 目先
+	future WORD[ 3,   9]: 0.0005884 先高
+	future WORD[ 3,  10]: 0.0005883 先
+	future WORD[ 3,  11]: 0.0005883 先き
+	future WORD[ 3,  12]: 0.0005193 行き先
+	future WORD[ 3,  13]: 0.0005193 行先
+TOKEN[ 4]: 0.0137920    3 foresight
+	foresight WORD[ 4,   1]: 0.0119748 先知
+	foresight WORD[ 4,   2]: 0.0010132 目先
+	foresight WORD[ 4,   3]: 0.0008040 先見
+TOKEN[ 5]: 0.0131483   18 point
+	point WORD[ 5,   1]: 0.0013066 先っちょ
+	point WORD[ 5,   2]: 0.0008503 穂先
+	point WORD[ 5,   3]: 0.0007843 先兵
+	point WORD[ 5,   4]: 0.0007559 太刀先
+	point WORD[ 5,   5]: 0.0007130 剣先
+	point WORD[ 5,   6]: 0.0007000 切っ先
+	point WORD[ 5,   7]: 0.0007000 切先
+	point WORD[ 5,   8]: 0.0006242 矢先
+	point WORD[ 5,   9]: 0.0005891 ほこ先
+	point WORD[ 5,  10]: 0.0005891 矛先
+	point WORD[ 5,  11]: 0.0005891 鉾先
+	point WORD[ 5,  12]: 0.0005891 鋒先
+	point WORD[ 5,  13]: 0.0004876 先端
+	point WORD[ 5,  14]: 0.0004876 先勝
+	point WORD[ 5,  15]: 0.0004657 先細り
+	point WORD[ 5,  16]: 0.0004656 先っぽ
+	point WORD[ 5,  17]: 0.0004655 先
+	point WORD[ 5,  18]: 0.0004655 先き
+TOKEN[ 6]: 0.0129300   12 advance
+	advance WORD[ 6,   1]: 0.0027433 先貸し
+	advance WORD[ 6,   2]: 0.0017560 先払い
+	advance WORD[ 6,   3]: 0.0016483 先買い
+	advance WORD[ 6,   4]: 0.0009552 先兵
+	advance WORD[ 6,   5]: 0.0008987 先借り
+	advance WORD[ 6,   6]: 0.0008782 先渡し
+	advance WORD[ 6,   7]: 0.0005940 先鋒
+	advance WORD[ 6,   8]: 0.0005940 先発
+	advance WORD[ 6,   9]: 0.0005938 先陣
+	advance WORD[ 6,  10]: 0.0005671 先どり
+	advance WORD[ 6,  11]: 0.0005671 先取
+	advance WORD[ 6,  12]: 0.0005671 先取り
+TOKEN[ 7]: 0.0127560    1 speedy
+	speedy WORD[ 7,   1]: 0.0127560 先知
+TOKEN[ 8]: 0.0122915    1 task
+	task WORD[ 8,   1]: 0.0122915 先務
+TOKEN[ 9]: 0.0122500   10 end
+	end WORD[ 9,   1]: 0.0021891 先細
+	end WORD[ 9,   2]: 0.0021891 先太
+	end WORD[ 9,   3]: 0.0016574 棒先
+	end WORD[ 9,   4]: 0.0015281 腕先
+	end WORD[ 9,   5]: 0.0012782 先っちょ
+	end WORD[ 9,   6]: 0.0006539 後先
+	end WORD[ 9,   7]: 0.0004770 先端
+	end WORD[ 9,   8]: 0.0004555 先っぽ
+	end WORD[ 9,   9]: 0.0004554 先
+	end WORD[ 9,  10]: 0.0004554 先き
+TOKEN[10]: 0.0121020   12 destination
+	destination WORD[10,   1]: 0.0011638 届け先
+	destination WORD[10,   2]: 0.0010002 あて先
+	destination WORD[10,   3]: 0.0010002 宛て先
+	destination WORD[10,   4]: 0.0010002 宛先
+	destination WORD[10,   5]: 0.0009424 行く先
+	destination WORD[10,   6]: 0.0007735 出先
+	destination WORD[10,   7]: 0.0007456 旅先
+	destination WORD[10,   8]: 0.0007299 先方
+	destination WORD[10,   9]: 0.0006966 先
+	destination WORD[10,  10]: 0.0006966 先き
+	destination WORD[10,  11]: 0.0006150 行き先
+	destination WORD[10,  12]: 0.0006150 行先
+TOKEN[11]: 0.0115929   21 one
+	one WORD[11,   1]: 0.0012869 先腹
+	one WORD[11,   2]: 0.0012868 先妣
+	one WORD[11,   3]: 0.0009277 鼻先
+	one WORD[11,   4]: 0.0008616 毛先
+	one WORD[11,   5]: 0.0007674 バイト先
+	one WORD[11,   6]: 0.0007061 目先
+	one WORD[11,   7]: 0.0004653 使い先
+	one WORD[11,   8]: 0.0004304 先考
+	one WORD[11,   9]: 0.0003937 生い先
+	one WORD[11,  10]: 0.0003385 ほこ先
+	one WORD[11,  11]: 0.0003385 矛先
+	one WORD[11,  12]: 0.0003385 鉾先
+	one WORD[11,  13]: 0.0003385 鋒先
+	one WORD[11,  14]: 0.0002970 出先
+	one WORD[11,  15]: 0.0002863 旅先
+	one WORD[11,  16]: 0.0002802 先代
+	one WORD[11,  17]: 0.0002802 先生
+	one WORD[11,  18]: 0.0002676 先だつ
+	one WORD[11,  19]: 0.0002676 先立つ
+	one WORD[11,  20]: 0.0002676 先々
+	one WORD[11,  21]: 0.0002676 先先
+TOKEN[12]: 0.0115729    3 collar
+	collar WORD[12,   1]: 0.0038577 えり先
+	collar WORD[12,   2]: 0.0038576 衿先
+	collar WORD[12,   3]: 0.0038576 襟先
+TOKEN[13]: 0.0105809    1 comprehension
+	comprehension WORD[13,   1]: 0.0105809 先知
+TOKEN[14]: 0.0099856    7 address
+	address WORD[14,   1]: 0.0012863 先生
+	address WORD[14,   2]: 0.0010258 届け先
+	address WORD[14,   3]: 0.0008816 あて先
+	address WORD[14,   4]: 0.0008816 宛て先
+	address WORD[14,   5]: 0.0008816 宛先
+	address WORD[14,   6]: 0.0006140 先
+	address WORD[14,   7]: 0.0006140 先き
+TOKEN[15]: 0.0098194    3 master
+	master WORD[15,   1]: 0.0036084 先主
+	master WORD[15,   2]: 0.0026929 先腹
+	master WORD[15,   3]: 0.0011727 先生
+TOKEN[16]: 0.0097601    2 supplier
+	supplier WORD[16,   1]: 0.0048800 仕入れ先
+	supplier WORD[16,   2]: 0.0048800 仕入先
+TOKEN[17]: 0.0096947    7 spearhead
+	spearhead WORD[17,   1]: 0.0025034 槍先
+	spearhead WORD[17,   2]: 0.0014277 穂先
+	spearhead WORD[17,   3]: 0.0009890 ほこ先
+	spearhead WORD[17,   4]: 0.0009890 矛先
+	spearhead WORD[17,   5]: 0.0009890 鉾先
+	spearhead WORD[17,   6]: 0.0009890 鋒先
+	spearhead WORD[17,   7]: 0.0008187 先端
+TOKEN[18]: 0.0094030    9 first
+	first WORD[18,   1]: 0.0018115 先登
+	first WORD[18,   2]: 0.0016893 先行
+	first WORD[18,   3]: 0.0011267 先発
+	first WORD[18,   4]: 0.0011263 先勝
+	first WORD[18,   5]: 0.0008327 先走る
+	first WORD[18,   6]: 0.0005634 先鋒
+	first WORD[18,   7]: 0.0005633 先手
+	first WORD[18,   8]: 0.0005633 先着
+	first WORD[18,   9]: 0.0005631 先決
+TOKEN[19]: 0.0092725    2 cheque
+	cheque WORD[19,   1]: 0.0046363 先付
+	cheque WORD[19,   2]: 0.0046362 先付け
+TOKEN[20]: 0.0086762    2 appetizer
+	appetizer WORD[20,   1]: 0.0043381 先付
+	appetizer WORD[20,   2]: 0.0043381 先付け
+TOKEN[21]: 0.0085061    6 preceding
+	preceding WORD[21,   1]: 0.0034438 先腹
+	preceding WORD[21,   2]: 0.0012060 先皇
+	preceding WORD[21,   3]: 0.0012058 先帝
+	preceding WORD[21,   4]: 0.0011512 先回
+	preceding WORD[21,   5]: 0.0007497 先行
+	preceding WORD[21,   6]: 0.0007496 先客
+TOKEN[22]: 0.0083671   10 front
+	front WORD[22,   1]: 0.0009258 鼻先
+	front WORD[22,   2]: 0.0008000 先棒
+	front WORD[22,   3]: 0.0007666 後先
+	front WORD[22,   4]: 0.0006871 まっ先
+	front WORD[22,   5]: 0.0006871 真っ先
+	front WORD[22,   6]: 0.0006871 真先
+	front WORD[22,   7]: 0.0005594 先方
+	front WORD[22,   8]: 0.0005593 先頭
+	front WORD[22,   9]: 0.0005339 先
+	front WORD[22,  10]: 0.0005339 先き
+TOKEN[23]: 0.0082677    1 groove
+	groove WORD[23,   1]: 0.0082677 開先
+TOKEN[24]: 0.0082677    1 welding
+	welding WORD[24,   1]: 0.0082677 開先
+TOKEN[25]: 0.0077413    9 initiative
+	initiative WORD[25,   1]: 0.0007832 帥先
+	initiative WORD[25,   2]: 0.0007832 率先
+	initiative WORD[25,   3]: 0.0007809 先べん
+	initiative WORD[25,   4]: 0.0007809 先鞭
+	initiative WORD[25,   5]: 0.0007808 先手
+	initiative WORD[25,   6]: 0.0007806 先制
+	initiative WORD[25,   7]: 0.0007804 先議
+	initiative WORD[25,   8]: 0.0007452 先駈け
+	initiative WORD[25,   9]: 0.0007452 先駆け
+TOKEN[26]: 0.0076529    4 letter
+	letter WORD[26,   1]: 0.0029316 先付
+	letter WORD[26,   2]: 0.0029315 先付け
+	letter WORD[26,   3]: 0.0008987 先便
+	letter WORD[26,   4]: 0.0008912 届け先
+TOKEN[27]: 0.0074951    3 wife
+	wife WORD[27,   1]: 0.0035803 先婦
+	wife WORD[27,   2]: 0.0027274 先腹
+	wife WORD[27,   3]: 0.0011875 先妻
+TOKEN[28]: 0.0072125    9 attack
+	attack WORD[28,   1]: 0.0008557 切っ先
+	attack WORD[28,   2]: 0.0008557 切先
+	attack WORD[28,   3]: 0.0007630 矢先
+	attack WORD[28,   4]: 0.0007200 ほこ先
+	attack WORD[28,   5]: 0.0007200 矛先
+	attack WORD[28,   6]: 0.0007200 鉾先
+	attack WORD[28,   7]: 0.0007200 鋒先
+	attack WORD[28,   8]: 0.0005690 先駈け
+	attack WORD[28,   9]: 0.0005690 先駆け
+TOKEN[29]: 0.0071110    2 date
+	date WORD[29,   1]: 0.0035555 先付
+	date WORD[29,   2]: 0.0035555 先付け
+TOKEN[30]: 0.0071096    6 late
+	late WORD[30,   1]: 0.0019346 先主
+	late WORD[30,   2]: 0.0018952 先婦
+	late WORD[30,   3]: 0.0010113 先夫
+	late WORD[30,   4]: 0.0010111 先帝
+	late WORD[30,   5]: 0.0006288 先代
+	late WORD[30,   6]: 0.0006286 先妻
+TOKEN[31]: 0.0069297    3 teacher
+	teacher WORD[31,   1]: 0.0019647 先公
+	teacher WORD[31,   2]: 0.0013176 先生
+	teacher WORD[31,   3]: 0.0010121 先師
+TOKEN[32]: 0.0068352    1 urgent
+	urgent WORD[32,   1]: 0.0068352 先務
+TOKEN[33]: 0.0067861    8 edge
+	edge WORD[33,   1]: 0.0010323 刃先
+	edge WORD[33,   2]: 0.0008414 縁先
+	edge WORD[33,   3]: 0.0007273 ほこ先
+	edge WORD[33,   4]: 0.0007273 矛先
+	edge WORD[33,   5]: 0.0007273 鉾先
+	edge WORD[33,   6]: 0.0007273 鋒先
+	edge WORD[33,   7]: 0.0006739 軒先
+	edge WORD[33,   8]: 0.0006020 先端
+TOKEN[34]: 0.0067661   10 time
+	time WORD[34,   1]: 0.0020409 先太り
+	time WORD[34,   2]: 0.0007907 もう先
+	time WORD[34,   3]: 0.0006831 先回
+	time WORD[34,   4]: 0.0005455 先ず
+	time WORD[34,   5]: 0.0005208 一先ず
+	time WORD[34,   6]: 0.0004451 先般
+	time WORD[34,   7]: 0.0004450 先だって
+	time WORD[34,   8]: 0.0004450 先達て
+	time WORD[34,   9]: 0.0004250 先ほど
+	time WORD[34,  10]: 0.0004250 先程
+TOKEN[35]: 0.0066644    7 former
+	former WORD[35,   1]: 0.0017031 先主
+	former WORD[35,   2]: 0.0008903 先夫
+	former WORD[35,   3]: 0.0008503 先師
+	former WORD[35,   4]: 0.0005536 先年
+	former WORD[35,   5]: 0.0005534 先妻
+	former WORD[35,   6]: 0.0005284 先
+	former WORD[35,   7]: 0.0005284 先き
+TOKEN[36]: 0.0065925    7 pioneer
+	pioneer WORD[36,   1]: 0.0013168 先兵
+	pioneer WORD[36,   2]: 0.0012568 先覚
+	pioneer WORD[36,   3]: 0.0008187 先達
+	pioneer WORD[36,   4]: 0.0008186 先人
+	pioneer WORD[36,   5]: 0.0008184 先駆
+	pioneer WORD[36,   6]: 0.0007815 先駈け
+	pioneer WORD[36,   7]: 0.0007815 先駆け
+TOKEN[37]: 0.0064224    1 pressing
+	pressing WORD[37,   1]: 0.0064224 先務
+TOKEN[38]: 0.0061181    5 brunt
+	brunt WORD[38,   1]: 0.0010699 矢先
+	brunt WORD[38,   2]: 0.0010096 ほこ先
+	brunt WORD[38,   3]: 0.0010096 矛先
+	brunt WORD[38,   4]: 0.0010096 鉾先
+	brunt WORD[38,   5]: 0.0010096 鋒先
+TOKEN[39]: 0.0061033    5 vanguard
+	vanguard WORD[39,   1]: 0.0027204 先兵
+	vanguard WORD[39,   2]: 0.0008459 先鋒
+	vanguard WORD[39,   3]: 0.0008458 先頭
+	vanguard WORD[39,   4]: 0.0008457 先端
+	vanguard WORD[39,   5]: 0.0008456 先陣
+TOKEN[40]: 0.0059900    2 tapering
+	tapering WORD[40,   1]: 0.0042296 先細
+	tapering WORD[40,   2]: 0.0017604 先細り
+TOKEN[41]: 0.0056666    7 place
+	place WORD[41,   1]: 0.0012508 バイト先
+	place WORD[41,   2]: 0.0009683 出先
+	place WORD[41,   3]: 0.0007585 使い先
+	place WORD[41,   4]: 0.0004783 勤め先
+	place WORD[41,   5]: 0.0004667 旅先
+	place WORD[41,   6]: 0.0004360 先
+	place WORD[41,   7]: 0.0004360 先き
+TOKEN[42]: 0.0056654    1 important
+	important WORD[42,   1]: 0.0056654 先務
+TOKEN[43]: 0.0054584    5 spear
+	spear WORD[43,   1]: 0.0012229 穂先
+	spear WORD[43,   2]: 0.0008471 ほこ先
+	spear WORD[43,   3]: 0.0008471 矛先
+	spear WORD[43,   4]: 0.0008471 鉾先
+	spear WORD[43,   5]: 0.0008471 鋒先
+TOKEN[44]: 0.0054101    2 payment
+	payment WORD[44,   1]: 0.0027600 先貸し
+	payment WORD[44,   2]: 0.0026501 先払い
+TOKEN[45]: 0.0052782    5 target
+	target WORD[45,   1]: 0.0009231 矢先
+	target WORD[45,   2]: 0.0008710 ほこ先
+	target WORD[45,   3]: 0.0008710 矛先
+	target WORD[45,   4]: 0.0008710 鉾先
+	target WORD[45,   5]: 0.0008710 鋒先
+TOKEN[46]: 0.0051893    8 head
+	head WORD[46,   1]: 0.0006069 まっ先
+	head WORD[46,   2]: 0.0006069 真っ先
+	head WORD[46,   3]: 0.0006069 真先
+	head WORD[46,   4]: 0.0004941 先頭
+	head WORD[46,   5]: 0.0004940 先代
+	head WORD[46,   6]: 0.0004940 先制
+	head WORD[46,   7]: 0.0004716 先
+	head WORD[46,   8]: 0.0004716 先き
+TOKEN[47]: 0.0051527    8 day
+	day WORD[47,   1]: 0.0016368 先負
+	day WORD[47,   2]: 0.0005089 先般
+	day WORD[47,   3]: 0.0005089 先だって
+	day WORD[47,   4]: 0.0005089 先達て
+	day WORD[47,   5]: 0.0005088 先日
+	day WORD[47,   6]: 0.0005088 先勝
+	day WORD[47,   7]: 0.0004858 先ごろ
+	day WORD[47,   8]: 0.0004858 先頃
+TOKEN[48]: 0.0050294    5 predecessor
+	predecessor WORD[48,   1]: 0.0013167 先任
+	predecessor WORD[48,   2]: 0.0012568 先学
+	predecessor WORD[48,   3]: 0.0008187 先代
+	predecessor WORD[48,   4]: 0.0008186 先人
+	predecessor WORD[48,   5]: 0.0008186 先蹤
+TOKEN[49]: 0.0049759    3 nozzle
+	nozzle WORD[49,   1]: 0.0014565 筒先
+	nozzle WORD[49,   2]: 0.0008798 先
+	nozzle WORD[49,   3]: 0.0008798 先き
+TOKEN[50]: 0.0049365    5 last
+	last WORD[50,   1]: 0.0017052 先回
+	last WORD[50,   2]: 0.0005553 先週
+	last WORD[50,   3]: 0.0005552 先月
+	last WORD[50,   4]: 0.0005302 先
+	last WORD[50,   5]: 0.0005302 先き
+TOKEN[51]: 0.0049174    1 business
+	business WORD[51,   1]: 0.0049174 先務
+TOKEN[52]: 0.0048438    2 nights
+	nights WORD[52,   1]: 0.0039743 先晩
+	nights WORD[52,   2]: 0.0008695 先夜
+TOKEN[53]: 0.0046205    2 leaf
+	leaf WORD[53,   1]: 0.0039865 葉先
+	leaf WORD[53,   2]: 0.0006341 先端
+TOKEN[54]: 0.0045569    7 something
+	something WORD[54,   1]: 0.0007767 先駆ける
+	something WORD[54,   2]: 0.0007767 先駈ける
+	something WORD[54,   3]: 0.0006734 鼻先
+	something WORD[54,   4]: 0.0003884 先だつ
+	something WORD[54,   5]: 0.0003884 先立つ
+	something WORD[54,   6]: 0.0003883 先
+	something WORD[54,   7]: 0.0003883 先き
+TOKEN[55]: 0.0045252    1 flaring
+	flaring WORD[55,   1]: 0.0045252 先太り
+TOKEN[56]: 0.0044883    4 precede
+	precede WORD[56,   1]: 0.0013641 先んずる
+	precede WORD[56,   2]: 0.0013640 先んじる
+	precede WORD[56,   3]: 0.0008800 先だつ
+	precede WORD[56,   4]: 0.0008800 先立つ
+TOKEN[57]: 0.0044501    3 forefront
+	forefront WORD[57,   1]: 0.0026827 火先
+	forefront WORD[57,   2]: 0.0008838 先頭
+	forefront WORD[57,   3]: 0.0008837 先端
+TOKEN[58]: 0.0044406    4 ancient
+	ancient WORD[58,   1]: 0.0018352 先聖
+	ancient WORD[58,   2]: 0.0008879 先哲
+	ancient WORD[58,   3]: 0.0008695 先王
+	ancient WORD[58,   4]: 0.0008480 先賢
+TOKEN[59]: 0.0044363    3 toe
+	toe WORD[59,   1]: 0.0019940 指先
+	toe WORD[59,   2]: 0.0012212 つま先
+	toe WORD[59,   3]: 0.0012212 爪先
+TOKEN[60]: 0.0043617    6 beginning
+	beginning WORD[60,   1]: 0.0008429 潮先
+	beginning WORD[60,   2]: 0.0007771 後先
+	beginning WORD[60,   3]: 0.0006965 まっ先
+	beginning WORD[60,   4]: 0.0006965 真っ先
+	beginning WORD[60,   5]: 0.0006965 真先
+	beginning WORD[60,   6]: 0.0006522 春先
+TOKEN[61]: 0.0042922    4 focus
+	focus WORD[61,   1]: 0.0008584 ほこ先
+	focus WORD[61,   2]: 0.0008584 矛先
+	focus WORD[61,   3]: 0.0008584 鉾先
+	focus WORD[61,   4]: 0.0008584 鋒先
+TOKEN[62]: 0.0042816    1 procrastination
+	procrastination WORD[62,   1]: 0.0042816 先延ばし
+TOKEN[63]: 0.0041690    5 leader
+	leader WORD[63,   1]: 0.0012794 先達
+	leader WORD[63,   2]: 0.0010289 先兵
+	leader WORD[63,   3]: 0.0006395 先駆
+	leader WORD[63,   4]: 0.0006106 先駈け
+	leader WORD[63,   5]: 0.0006106 先駆け
+TOKEN[64]: 0.0040891    3 forestall
+	forestall WORD[64,   1]: 0.0013641 先んずる
+	forestall WORD[64,   2]: 0.0013640 先んじる
+	forestall WORD[64,   3]: 0.0013609 機先
+TOKEN[65]: 0.0040561    6 times
+	times WORD[65,   1]: 0.0006027 先行
+	times WORD[65,   2]: 0.0005756 先どり
+	times WORD[65,   3]: 0.0005756 先取
+	times WORD[65,   4]: 0.0005756 先取り
+	times WORD[65,   5]: 0.0005755 先駆ける
+	times WORD[65,   6]: 0.0005755 先駈ける
+TOKEN[66]: 0.0040520    1 lord
+	lord WORD[66,   1]: 0.0040520 先公
+TOKEN[67]: 0.0039882    4 aim
+	aim WORD[67,   1]: 0.0007977 ほこ先
+	aim WORD[67,   2]: 0.0007976 矛先
+	aim WORD[67,   3]: 0.0007976 鉾先
+	aim WORD[67,   4]: 0.0007976 鋒先
+TOKEN[68]: 0.0039540    7 taking
+	taking WORD[68,   1]: 0.0005128 帥先
+	taking WORD[68,   2]: 0.0005128 率先
+	taking WORD[68,   3]: 0.0004881 先どり
+	taking WORD[68,   4]: 0.0004881 先取
+	taking WORD[68,   5]: 0.0004881 先取り
+	taking WORD[68,   6]: 0.0004880 先駈け
+	taking WORD[68,   7]: 0.0004880 先駆け
+TOKEN[69]: 0.0038778    4 criticism
+	criticism WORD[69,   1]: 0.0007756 ほこ先
+	criticism WORD[69,   2]: 0.0007756 矛先
+	criticism WORD[69,   3]: 0.0007756 鉾先
+	criticism WORD[69,   4]: 0.0007756 鋒先
+TOKEN[70]: 0.0038397    6 go
+	go WORD[70,   1]: 0.0007107 互先
+	go WORD[70,   2]: 0.0006743 先んずる
+	go WORD[70,   3]: 0.0006734 先立てる
+	go WORD[70,   4]: 0.0004556 先手
+	go WORD[70,   5]: 0.0004350 先だつ
+	go WORD[70,   6]: 0.0004350 先立つ
+TOKEN[71]: 0.0037973    1 seppuku
+	seppuku WORD[71,   1]: 0.0037973 先腹
+TOKEN[72]: 0.0037548    1 increasing
+	increasing WORD[72,   1]: 0.0037548 先太り
+TOKEN[73]: 0.0037505    2 evening
+	evening WORD[73,   1]: 0.0027745 先晩
+	evening WORD[73,   2]: 0.0009760 先負
+TOKEN[74]: 0.0037457    2 sage
+	sage WORD[74,   1]: 0.0025619 先聖
+	sage WORD[74,   2]: 0.0011838 先賢
+TOKEN[75]: 0.0037420    5 going
+	going WORD[75,   1]: 0.0009820 先発
+	going WORD[75,   2]: 0.0009815 先行
+	going WORD[75,   3]: 0.0007894 先登
+	going WORD[75,   4]: 0.0005204 出先
+	going WORD[75,   5]: 0.0004688 先回り
+TOKEN[76]: 0.0036669    4 forerunner
+	forerunner WORD[76,   1]: 0.0012356 先払い
+	forerunner WORD[76,   2]: 0.0008355 先駆
+	forerunner WORD[76,   3]: 0.0007979 先駈け
+	forerunner WORD[76,   4]: 0.0007979 先駆け
+TOKEN[77]: 0.0036652    4 argument
+	argument WORD[77,   1]: 0.0007330 ほこ先
+	argument WORD[77,   2]: 0.0007330 矛先
+	argument WORD[77,   3]: 0.0007330 鉾先
+	argument WORD[77,   4]: 0.0007330 鋒先
+TOKEN[78]: 0.0036235    3 anticipatory
+	anticipatory WORD[78,   1]: 0.0009059 先どり
+	anticipatory WORD[78,   2]: 0.0009059 先取
+	anticipatory WORD[78,   3]: 0.0009059 先取り
+TOKEN[79]: 0.0035941    2 palanquin
+	palanquin WORD[79,   1]: 0.0025459 棒先
+	palanquin WORD[79,   2]: 0.0010482 先棒
+TOKEN[80]: 0.0035627    4 anticipation
+	anticipation WORD[80,   1]: 0.0007390 先見
+	anticipation WORD[80,   2]: 0.0007059 先どり
+	anticipation WORD[80,   3]: 0.0007059 先取
+	anticipation WORD[80,   4]: 0.0007059 先取り
+TOKEN[81]: 0.0035530    3 elder
+	elder WORD[81,   1]: 0.0007108 先輩
+	elder WORD[81,   2]: 0.0007106 先生
+	elder WORD[81,   3]: 0.0007105 先進
+TOKEN[82]: 0.0035528    2 generation
+	generation WORD[82,   1]: 0.0021265 先公
+	generation WORD[82,   2]: 0.0014263 先代
+TOKEN[83]: 0.0035517    4 precedence
+	precedence WORD[83,   1]: 0.0010910 優先
+	precedence WORD[83,   2]: 0.0008458 先番
+	precedence WORD[83,   3]: 0.0008075 先だつ
+	precedence WORD[83,   4]: 0.0008075 先立つ
+TOKEN[84]: 0.0034813    4 lead
+	lead WORD[84,   1]: 0.0011424 先だつ
+	lead WORD[84,   2]: 0.0011424 先立つ
+	lead WORD[84,   3]: 0.0005983 先頭
+	lead WORD[84,   4]: 0.0005981 先行
+TOKEN[85]: 0.0034314    1 delay
+	delay WORD[85,   1]: 0.0034314 先延ばし
+TOKEN[86]: 0.0034262    2 apex
+	apex WORD[86,   1]: 0.0025993 葉先
+	apex WORD[86,   2]: 0.0008269 先端
+TOKEN[87]: 0.0034069    1 reading
+	reading WORD[87,   1]: 0.0034069 先読み
+TOKEN[88]: 0.0033603    4 force
+	force WORD[88,   1]: 0.0006721 ほこ先
+	force WORD[88,   2]: 0.0006721 矛先
+	force WORD[88,   3]: 0.0006721 鉾先
+	force WORD[88,   4]: 0.0006721 鋒先
+TOKEN[89]: 0.0032750    1 suicide
+	suicide WORD[89,   1]: 0.0032750 先腹
+TOKEN[90]: 0.0032357    1 king
+	king WORD[90,   1]: 0.0032357 先王
+TOKEN[91]: 0.0032291    3 party
+	party WORD[91,   1]: 0.0005551 先方
+	party WORD[91,   2]: 0.0005297 先
+	party WORD[91,   3]: 0.0005297 先き
+TOKEN[92]: 0.0031502    1 form
+	form WORD[92,   1]: 0.0010501 先生
+TOKEN[93]: 0.0031470    1 hair
+	hair WORD[93,   1]: 0.0031470 毛先
+TOKEN[94]: 0.0031328    3 sign
+	sign WORD[94,   1]: 0.0011284 さい先
+	sign WORD[94,   2]: 0.0011284 幸先
+	sign WORD[94,   3]: 0.0008759 先触れ
+TOKEN[95]: 0.0031325    4 senior
+	senior WORD[95,   1]: 0.0010603 先学
+	senior WORD[95,   2]: 0.0006908 先輩
+	senior WORD[95,   3]: 0.0006907 先達
+	senior WORD[95,   4]: 0.0006906 先進
+TOKEN[96]: 0.0031203    1 ritual
+	ritual WORD[96,   1]: 0.0031203 先腹
+TOKEN[97]: 0.0031139    4 sword
+	sword WORD[97,   1]: 0.0008204 太刀先
+	sword WORD[97,   2]: 0.0007739 剣先
+	sword WORD[97,   3]: 0.0007598 切っ先
+	sword WORD[97,   4]: 0.0007598 切先
+TOKEN[98]: 0.0031081    1 growing
+	growing WORD[98,   1]: 0.0031081 先太り
+TOKEN[99]: 0.0031026    2 ruler
+	ruler WORD[99,   1]: 0.0020480 先公
+	ruler WORD[99,   2]: 0.0010546 先君
+TOKEN[100]: 0.0031024    2 death
+	death WORD[100,   1]: 0.0022978 先腹
+	death WORD[100,   2]: 0.0008046 先途
+TOKEN[101]: 0.0031019    1 towards
+	towards WORD[101,   1]: 0.0031019 先太
+TOKEN[102]: 0.0030246    2 nose
+	nose WORD[102,   1]: 0.0021909 鼻先
+	nose WORD[102,   2]: 0.0008337 目先
+TOKEN[103]: 0.0030128    1 mother
+	mother WORD[103,   1]: 0.0030128 先妣
+TOKEN[104]: 0.0029643    3 foremost
+	foremost WORD[104,   1]: 0.0009881 まっ先
+	foremost WORD[104,   2]: 0.0009881 真っ先
+	foremost WORD[104,   3]: 0.0009881 真先
+TOKEN[105]: 0.0029597    1 given
+	given WORD[105,   1]: 0.0029597 先出
+TOKEN[106]: 0.0029178    3 pointed
+	pointed WORD[106,   1]: 0.0010820 切っ先
+	pointed WORD[106,   2]: 0.0010820 切先
+	pointed WORD[106,   3]: 0.0007537 先端
+TOKEN[107]: 0.0028941    3 wages
+	wages WORD[107,   1]: 0.0007235 先どり
+	wages WORD[107,   2]: 0.0007235 先取
+	wages WORD[107,   3]: 0.0007235 先取り
+TOKEN[108]: 0.0028779    2 continuation
+	continuation WORD[108,   1]: 0.0007195 先
+	continuation WORD[108,   2]: 0.0007195 先き
+TOKEN[109]: 0.0028589    4 part
+	part WORD[109,   1]: 0.0005507 庭先
+	part WORD[109,   2]: 0.0004740 先
+	part WORD[109,   3]: 0.0004740 先き
+	part WORD[109,   4]: 0.0004123 足先
+TOKEN[110]: 0.0028224    2 delivery
+	delivery WORD[110,   1]: 0.0018817 先渡し
+	delivery WORD[110,   2]: 0.0009406 先払い
+TOKEN[111]: 0.0028015    2 move
+	move WORD[111,   1]: 0.0011206 先手
+	move WORD[111,   2]: 0.0005603 先番
+TOKEN[112]: 0.0027863    2 recent
+	recent WORD[112,   1]: 0.0006966 先
+	recent WORD[112,   2]: 0.0006966 先き
+TOKEN[113]: 0.0027809    2 emperor
+	emperor WORD[113,   1]: 0.0018539 先帝
+	emperor WORD[113,   2]: 0.0009271 先皇
+TOKEN[114]: 0.0027145    2 sock
+	sock WORD[114,   1]: 0.0013573 つま先
+	sock WORD[114,   2]: 0.0013572 爪先
+TOKEN[115]: 0.0026382    3 completion
+	completion WORD[115,   1]: 0.0006595 先どり
+	completion WORD[115,   2]: 0.0006595 先取
+	completion WORD[115,   3]: 0.0006595 先取り
+TOKEN[116]: 0.0026306    3 finishing
+	finishing WORD[116,   1]: 0.0006577 先どり
+	finishing WORD[116,   2]: 0.0006577 先取
+	finishing WORD[116,   3]: 0.0006577 先取り
+TOKEN[117]: 0.0026046    4 leading
+	leading WORD[117,   1]: 0.0006664 先導
+	leading WORD[117,   2]: 0.0006663 先端
+	leading WORD[117,   3]: 0.0006360 先駈け
+	leading WORD[117,   4]: 0.0006360 先駆け
+TOKEN[118]: 0.0026005    1 repurchase
+	repurchase WORD[118,   1]: 0.0026005 現先
+TOKEN[119]: 0.0025699    1 teasing
+	teasing WORD[119,   1]: 0.0008566 先生
+TOKEN[120]: 0.0025368    1 instructor
+	instructor WORD[120,   1]: 0.0008456 先生
+TOKEN[121]: 0.0025368    1 lawyer
+	lawyer WORD[121,   1]: 0.0008456 先生
+TOKEN[122]: 0.0025019    2 preconception
+	preconception WORD[122,   1]: 0.0015151 先口
+	preconception WORD[122,   2]: 0.0009868 先入
+TOKEN[123]: 0.0024728    2 bearer
+	bearer WORD[123,   1]: 0.0013561 棒先
+	bearer WORD[123,   2]: 0.0011167 先棒
+TOKEN[124]: 0.0024687    3 line
+	line WORD[124,   1]: 0.0005124 先頭
+	line WORD[124,   2]: 0.0004891 先
+	line WORD[124,   3]: 0.0004891 先き
+TOKEN[125]: 0.0024611    1 child
+	child WORD[125,   1]: 0.0024611 先腹
+TOKEN[126]: 0.0024556    3 prior
+	prior WORD[126,   1]: 0.0008187 先占
+	prior WORD[126,   2]: 0.0008185 先行
+	prior WORD[126,   3]: 0.0008184 先議
+TOKEN[127]: 0.0024235    2 engagement
+	engagement WORD[127,   1]: 0.0012398 先約
+	engagement WORD[127,   2]: 0.0011836 先口
+TOKEN[128]: 0.0024088    2 rest
+	rest WORD[128,   1]: 0.0006022 先
+	rest WORD[128,   2]: 0.0006022 先き
+TOKEN[129]: 0.0024055    3 sentence
+	sentence WORD[129,   1]: 0.0006014 先どり
+	sentence WORD[129,   2]: 0.0006014 先取
+	sentence WORD[129,   3]: 0.0006014 先取り
+TOKEN[130]: 0.0024039    2 seniority
+	seniority WORD[130,   1]: 0.0014824 先任
+	seniority WORD[130,   2]: 0.0009216 先進
+TOKEN[131]: 0.0024008    2 shoe
+	shoe WORD[131,   1]: 0.0012004 つま先
+	shoe WORD[131,   2]: 0.0012004 爪先
+TOKEN[132]: 0.0023942    3 whereabouts
+	whereabouts WORD[132,   1]: 0.0010386 行く先
+	whereabouts WORD[132,   2]: 0.0006778 行き先
+	whereabouts WORD[132,   3]: 0.0006778 行先
+TOKEN[133]: 0.0023772    3 ancestor
+	ancestor WORD[133,   1]: 0.0007938 祖先
+	ancestor WORD[133,   2]: 0.0007917 先祖
+	ancestor WORD[133,   3]: 0.0007916 先人
+TOKEN[134]: 0.0023730    1 pole
+	pole WORD[134,   1]: 0.0023730 棒先
+TOKEN[135]: 0.0023318    1 period
+	period WORD[135,   1]: 0.0023318 先秦
+TOKEN[136]: 0.0023128    1 teach
+	teach WORD[136,   1]: 0.0023128 先公
+TOKEN[137]: 0.0023108    2 anticipate
+	anticipate WORD[137,   1]: 0.0011554 先んずる
+	anticipate WORD[137,   2]: 0.0011554 先んじる
+TOKEN[138]: 0.0023006    3 way
+	way WORD[138,   1]: 0.0004775 先導
+	way WORD[138,   2]: 0.0004558 先
+	way WORD[138,   3]: 0.0004558 先き
+TOKEN[139]: 0.0022962    1 client
+	client WORD[139,   1]: 0.0022962 客先
+TOKEN[140]: 0.0022794    3 interest
+	interest WORD[140,   1]: 0.0005699 先どり
+	interest WORD[140,   2]: 0.0005699 先取
+	interest WORD[140,   3]: 0.0005699 先取り
+TOKEN[141]: 0.0021975    1 flame
+	flame WORD[141,   1]: 0.0021975 火先
+TOKEN[142]: 0.0021856    1 husband
+	husband WORD[142,   1]: 0.0021856 先夫
+TOKEN[143]: 0.0021800    1 intimate
+	intimate WORD[143,   1]: 0.0007267 先生
+TOKEN[144]: 0.0021708    2 story
+	story WORD[144,   1]: 0.0005427 先
+	story WORD[144,   2]: 0.0005427 先き
+TOKEN[145]: 0.0021648    4 someone
+	someone WORD[145,   1]: 0.0008334 出先
+	someone WORD[145,   2]: 0.0005810 先立てる
+	someone WORD[145,   3]: 0.0003753 先駆ける
+	someone WORD[145,   4]: 0.0003752 先駈ける
+TOKEN[146]: 0.0021527    1 employer
+	employer WORD[146,   1]: 0.0021527 バイト先
+TOKEN[147]: 0.0021240    1 announcement
+	announcement WORD[147,   1]: 0.0021240 先触れ
+TOKEN[148]: 0.0021141    2 brush
+	brush WORD[148,   1]: 0.0010715 穂先
+	brush WORD[148,   2]: 0.0010426 筆先
+TOKEN[149]: 0.0020866    2 verbal
+	verbal WORD[149,   1]: 0.0010433 切っ先
+	verbal WORD[149,   2]: 0.0010433 切先
+TOKEN[150]: 0.0020780    1 doctor
+	doctor WORD[150,   1]: 0.0006927 先生
+TOKEN[151]: 0.0020721    1 arm
+	arm WORD[151,   1]: 0.0020721 腕先
+TOKEN[152]: 0.0020350    1 customer
+	customer WORD[152,   1]: 0.0020350 客先
+TOKEN[153]: 0.0020235    2 priority
+	priority WORD[153,   1]: 0.0011400 優先
+	priority WORD[153,   2]: 0.0008834 先決
+TOKEN[154]: 0.0019464    2 precedent
+	precedent WORD[154,   1]: 0.0012003 先例
+	precedent WORD[154,   2]: 0.0007461 先蹤
+TOKEN[155]: 0.0019281    3 moment
+	moment WORD[155,   1]: 0.0007737 矢先
+	moment WORD[155,   2]: 0.0005772 先ほど
+	moment WORD[155,   3]: 0.0005772 先程
+TOKEN[156]: 0.0019085    1 works
+	works WORD[156,   1]: 0.0019085 バイト先
+TOKEN[157]: 0.0018974    2 past
+	past WORD[157,   1]: 0.0009708 先非
+	past WORD[157,   2]: 0.0009266 先学
+TOKEN[158]: 0.0018924    1 title
+	title WORD[158,   1]: 0.0006308 先生
+TOKEN[159]: 0.0018896    1 taper
+	taper WORD[159,   1]: 0.0018896 先細る
+TOKEN[160]: 0.0018687    1 starting
+	starting WORD[160,   1]: 0.0018687 先発
+TOKEN[161]: 0.0018349    1 debt
+	debt WORD[161,   1]: 0.0018349 現先
+TOKEN[162]: 0.0018326    1 buy
+	buy WORD[162,   1]: 0.0018326 先買い
+TOKEN[163]: 0.0018140    2 tool
+	tool WORD[163,   1]: 0.0010438 先棒
+	tool WORD[163,   2]: 0.0007702 手先
+TOKEN[164]: 0.0017864    2 lucky
+	lucky WORD[164,   1]: 0.0011016 先負
+	lucky WORD[164,   2]: 0.0006848 先勝
+TOKEN[165]: 0.0017761    2 good
+	good WORD[165,   1]: 0.0008880 さい先
+	good WORD[165,   2]: 0.0008880 幸先
+TOKEN[166]: 0.0017689    2 sequence
+	sequence WORD[166,   1]: 0.0010229 後先
+	sequence WORD[166,   2]: 0.0007460 先後
+TOKEN[167]: 0.0017675    1 seizing
+	seizing WORD[167,   1]: 0.0008838 先手
+TOKEN[168]: 0.0017671    2 precursor
+	precursor WORD[168,   1]: 0.0008837 先達
+	precursor WORD[168,   2]: 0.0008834 先駆
+TOKEN[169]: 0.0017601    2 prerequisite
+	prerequisite WORD[169,   1]: 0.0008800 先だつ
+	prerequisite WORD[169,   2]: 0.0008800 先立つ
+TOKEN[170]: 0.0017600    2 ship
+	ship WORD[170,   1]: 0.0009887 水先
+	ship WORD[170,   2]: 0.0007713 舳先
+TOKEN[171]: 0.0017485    2 order
+	order WORD[171,   1]: 0.0010374 先後
+	order WORD[171,   2]: 0.0007112 後先
+TOKEN[172]: 0.0017317    1 act
+	act WORD[172,   1]: 0.0017317 先走る
+TOKEN[173]: 0.0017237    2 take
+	take WORD[173,   1]: 0.0008618 先だつ
+	take WORD[173,   2]: 0.0008618 先立つ
+TOKEN[174]: 0.0016935    2 father
+	father WORD[174,   1]: 0.0010256 先考
+	father WORD[174,   2]: 0.0006678 先代
+TOKEN[175]: 0.0016773    1 consignee
+	consignee WORD[175,   1]: 0.0016773 届け先
+TOKEN[176]: 0.0016356    2 herald
+	herald WORD[176,   1]: 0.0008178 先駈け
+	herald WORD[176,   2]: 0.0008178 先駆け
+TOKEN[177]: 0.0016283    2 contract
+	contract WORD[177,   1]: 0.0010216 先約
+	contract WORD[177,   2]: 0.0006066 先物
+TOKEN[178]: 0.0016146    2 harbinger
+	harbinger WORD[178,   1]: 0.0008073 先駈け
+	harbinger WORD[178,   2]: 0.0008073 先駆け
+TOKEN[179]: 0.0016026    2 morning
+	morning WORD[179,   1]: 0.0009883 先負
+	morning WORD[179,   2]: 0.0006144 先勝
+TOKEN[180]: 0.0015791    3 short
+	short WORD[180,   1]: 0.0005264 先ほど
+	short WORD[180,   2]: 0.0005264 先程
+	short WORD[180,   3]: 0.0005262 先刻
+TOKEN[181]: 0.0015683    1 fire
+	fire WORD[181,   1]: 0.0015683 火先
+TOKEN[182]: 0.0015683    2 calendar
+	calendar WORD[182,   1]: 0.0009671 先負
+	calendar WORD[182,   2]: 0.0006012 先勝
+TOKEN[183]: 0.0015548    1 forewarning
+	forewarning WORD[183,   1]: 0.0015548 先触れ
+TOKEN[184]: 0.0015490    2 inevitable
+	inevitable WORD[184,   1]: 0.0007745 先々
+	inevitable WORD[184,   2]: 0.0007745 先先
+TOKEN[185]: 0.0015322    1 week
+	week WORD[185,   1]: 0.0015322 先週
+TOKEN[186]: 0.0015234    2 scoring
+	scoring WORD[186,   1]: 0.0007617 先勝
+	scoring WORD[186,   2]: 0.0007617 先行
+TOKEN[187]: 0.0015156    1 prehistory
+	prehistory WORD[187,   1]: 0.0015156 先史
+TOKEN[188]: 0.0015116    2 charging
+	charging WORD[188,   1]: 0.0007558 先駈け
+	charging WORD[188,   2]: 0.0007558 先駆け
+TOKEN[189]: 0.0014912    2 family
+	family WORD[189,   1]: 0.0009717 先代
+	family WORD[189,   2]: 0.0005196 嫁ぎ先
+TOKEN[190]: 0.0014908    2 goes
+	goes WORD[190,   1]: 0.0007454 先々
+	goes WORD[190,   2]: 0.0007454 先先
+TOKEN[191]: 0.0014705    1 forceful
+	forceful WORD[191,   1]: 0.0014705 太刀先
+TOKEN[192]: 0.0013829    2 present
+	present WORD[192,   1]: 0.0007169 目先
+	present WORD[192,   2]: 0.0006660 一先ず
+TOKEN[193]: 0.0013823    2 spouse
+	spouse WORD[193,   1]: 0.0006912 先だつ
+	spouse WORD[193,   2]: 0.0006911 先立つ
+TOKEN[194]: 0.0013749    2 traditional
+	traditional WORD[194,   1]: 0.0008479 先負
+	traditional WORD[194,   2]: 0.0005271 先勝
+TOKEN[195]: 0.0013718    2 game
+	game WORD[195,   1]: 0.0008360 互先
+	game WORD[195,   2]: 0.0005358 先勝
+TOKEN[196]: 0.0013682    2 omen
+	omen WORD[196,   1]: 0.0006841 さい先
+	omen WORD[196,   2]: 0.0006841 幸先
+TOKEN[197]: 0.0013664    2 team
+	team WORD[197,   1]: 0.0006832 先鋒
+	team WORD[197,   2]: 0.0006832 先発
+TOKEN[198]: 0.0013339    1 garden
+	garden WORD[198,   1]: 0.0013339 庭先
+TOKEN[199]: 0.0013325    2 person
+	person WORD[199,   1]: 0.0005498 老い先
+	person WORD[199,   2]: 0.0003914 先手
+TOKEN[200]: 0.0013319    1 miner
+	miner WORD[200,   1]: 0.0013319 先山
+TOKEN[201]: 0.0013317    1 prepayment
+	prepayment WORD[201,   1]: 0.0013317 先払い
+TOKEN[202]: 0.0013299    1 misdeed
+	misdeed WORD[202,   1]: 0.0013299 先非
+TOKEN[203]: 0.0013266    1 shogi
+	shogi WORD[203,   1]: 0.0006633 先手
+TOKEN[204]: 0.0013147    1 errand
+	errand WORD[204,   1]: 0.0013147 使い先
+TOKEN[205]: 0.0013066    1 muzzle
+	muzzle WORD[205,   1]: 0.0013066 筒先
+TOKEN[206]: 0.0013064    1 portent
+	portent WORD[206,   1]: 0.0013064 先触れ
+TOKEN[207]: 0.0012963    2 superior
+	superior WORD[207,   1]: 0.0006483 先輩
+	superior WORD[207,   2]: 0.0006481 先進
+TOKEN[208]: 0.0012933    1 inherent
+	inherent WORD[208,   1]: 0.0012933 先天
+TOKEN[209]: 0.0012885    1 flunky
+	flunky WORD[209,   1]: 0.0012885 先棒
+TOKEN[210]: 0.0012827    1 receiver
+	receiver WORD[210,   1]: 0.0012827 届け先
+TOKEN[211]: 0.0012762    1 fingertip
+	fingertip WORD[211,   1]: 0.0012762 指先
+TOKEN[212]: 0.0012734    1 detachment
+	detachment WORD[212,   1]: 0.0012734 先兵
+TOKEN[213]: 0.0012676    1 rod
+	rod WORD[213,   1]: 0.0012676 棒先
+TOKEN[214]: 0.0012652    1 sent
+	sent WORD[214,   1]: 0.0012652 使い先
+TOKEN[215]: 0.0012568    1 learned
+	learned WORD[215,   1]: 0.0012568 先覚
+TOKEN[216]: 0.0012554    1 crisis
+	crisis WORD[216,   1]: 0.0012554 先途
+TOKEN[217]: 0.0012554    1 innate
+	innate WORD[217,   1]: 0.0012554 先天
+TOKEN[218]: 0.0012493    1 prow
+	prow WORD[218,   1]: 0.0012493 舳先
+TOKEN[219]: 0.0012456    2 guard
+	guard WORD[219,   1]: 0.0006229 先鋒
+	guard WORD[219,   2]: 0.0006227 先陣
+TOKEN[220]: 0.0012451    1 parcel
+	parcel WORD[220,   1]: 0.0012451 届け先
+TOKEN[221]: 0.0012306    2 distant
+	distant WORD[221,   1]: 0.0006153 先々
+	distant WORD[221,   2]: 0.0006153 先先
+TOKEN[222]: 0.0012221    1 moving
+	moving WORD[222,   1]: 0.0006110 先手
+TOKEN[223]: 0.0012187    1 sin
+	sin WORD[223,   1]: 0.0012187 先非
+TOKEN[224]: 0.0012148    1 veranda
+	veranda WORD[224,   1]: 0.0012148 縁先
+TOKEN[225]: 0.0012123    1 noon
+	noon WORD[225,   1]: 0.0012123 先負
+TOKEN[226]: 0.0012101    1 breast
+	breast WORD[226,   1]: 0.0012101 胸先
+TOKEN[227]: 0.0012002    1 haste
+	haste WORD[227,   1]: 0.0012002 先負
+TOKEN[228]: 0.0011977    1 wheat
+	wheat WORD[228,   1]: 0.0011977 穂先
+TOKEN[229]: 0.0011907    1 scholar
+	scholar WORD[229,   1]: 0.0011907 先学
+TOKEN[230]: 0.0011717    2 die
+	die WORD[230,   1]: 0.0005858 先だつ
+	die WORD[230,   2]: 0.0005858 先立つ
+TOKEN[231]: 0.0011695    1 virtuous
+	virtuous WORD[231,   1]: 0.0011695 先王
+TOKEN[232]: 0.0011642    1 unlucky
+	unlucky WORD[232,   1]: 0.0011642 先負
+TOKEN[233]: 0.0011530    1 borrowing
+	borrowing WORD[233,   1]: 0.0011530 先借り
+TOKEN[234]: 0.0011359    1 debate
+	debate WORD[234,   1]: 0.0011359 太刀先
+TOKEN[235]: 0.0011352    1 judgment
+	judgment WORD[235,   1]: 0.0011352 先負
+TOKEN[236]: 0.0011303    1 ear
+	ear WORD[236,   1]: 0.0011303 穂先
+TOKEN[237]: 0.0011298    1 academic
+	academic WORD[237,   1]: 0.0011298 先学
+TOKEN[238]: 0.0011174    1 chest
+	chest WORD[238,   1]: 0.0011174 胸先
+TOKEN[239]: 0.0011133    2 house
+	house WORD[239,   1]: 0.0005592 軒先
+	house WORD[239,   2]: 0.0005541 庭先
+TOKEN[240]: 0.0011092    1 blade
+	blade WORD[240,   1]: 0.0011092 刃先
+TOKEN[241]: 0.0011089    1 freight
+	freight WORD[241,   1]: 0.0011089 先渡し
+TOKEN[242]: 0.0011086    1 mail
+	mail WORD[242,   1]: 0.0011086 先払い
+TOKEN[243]: 0.0011052    1 preference
+	preference WORD[243,   1]: 0.0011052 優先
+TOKEN[244]: 0.0011040    2 enemy
+	enemy WORD[244,   1]: 0.0005520 先駈け
+	enemy WORD[244,   2]: 0.0005520 先駆け
+TOKEN[245]: 0.0011032    1 preliminary
+	preliminary WORD[245,   1]: 0.0011032 先触れ
+TOKEN[246]: 0.0010924    1 current
+	current WORD[246,   1]: 0.0010924 水先
+TOKEN[247]: 0.0010872    1 error
+	error WORD[247,   1]: 0.0010872 先非
+TOKEN[248]: 0.0010852    1 context
+	context WORD[248,   1]: 0.0010852 後先
+TOKEN[249]: 0.0010852    1 carrying
+	carrying WORD[249,   1]: 0.0010852 棒先
+TOKEN[250]: 0.0010843    1 wise
+	wise WORD[250,   1]: 0.0010843 先哲
+TOKEN[251]: 0.0010820    1 direction
+	direction WORD[251,   1]: 0.0010820 水先
+TOKEN[252]: 0.0010619    1 frontage
+	frontage WORD[252,   1]: 0.0010619 軒先
+TOKEN[253]: 0.0010550    1 men
+	men WORD[253,   1]: 0.0010550 先哲
+TOKEN[254]: 0.0010516    1 foremother
+	foremother WORD[254,   1]: 0.0010516 先祖
+TOKEN[255]: 0.0010514    1 stalker
+	stalker WORD[255,   1]: 0.0010514 先行
+TOKEN[256]: 0.0010506    1 phone
+	phone WORD[256,   1]: 0.0010506 先払い
+TOKEN[257]: 0.0010470    1 collect
+	collect WORD[257,   1]: 0.0010470 先払い
+TOKEN[258]: 0.0010414    1 minion
+	minion WORD[258,   1]: 0.0010414 手先
+TOKEN[259]: 0.0010414    1 stooge
+	stooge WORD[259,   1]: 0.0010414 手先
+TOKEN[260]: 0.0010295    1 arrowhead
+	arrowhead WORD[260,   1]: 0.0010295 矢先
+TOKEN[261]: 0.0010209    1 stick
+	stick WORD[261,   1]: 0.0010209 棒先
+TOKEN[262]: 0.0010155    1 skilled
+	skilled WORD[262,   1]: 0.0010155 先山
+TOKEN[263]: 0.0010135    1 likely
+	likely WORD[263,   1]: 0.0010135 先ず
+TOKEN[264]: 0.0010077    1 course
+	course WORD[264,   1]: 0.0010077 水先
+TOKEN[265]: 0.0010039    1 delaying
+	delaying WORD[265,   1]: 0.0010039 先送り
+TOKEN[266]: 0.0010004    1 side
+	side WORD[266,   1]: 0.0005002 先方
+TOKEN[267]: 0.0009993    1 rash
+	rash WORD[267,   1]: 0.0009993 先走る
+TOKEN[268]: 0.0009864    1 outriding
+	outriding WORD[268,   1]: 0.0009864 先駆
+TOKEN[269]: 0.0009796    1 tide
+	tide WORD[269,   1]: 0.0009796 潮先
+TOKEN[270]: 0.0009787    1 long
+	long WORD[270,   1]: 0.0009787 もう先
+TOKEN[271]: 0.0009762    2 work
+	work WORD[271,   1]: 0.0004993 勤め先
+	work WORD[271,   2]: 0.0004769 先輩
+TOKEN[272]: 0.0009693    1 stays
+	stays WORD[272,   1]: 0.0009693 旅先
+TOKEN[273]: 0.0009675    1 rising
+	rising WORD[273,   1]: 0.0009675 潮先
+TOKEN[274]: 0.0009661    1 paying
+	paying WORD[274,   1]: 0.0009661 先渡し
+TOKEN[275]: 0.0009656    1 battle
+	battle WORD[275,   1]: 0.0009656 先途
+TOKEN[276]: 0.0009486    1 occupancy
+	occupancy WORD[276,   1]: 0.0009486 先占
+TOKEN[277]: 0.0009357    1 gun
+	gun WORD[277,   1]: 0.0009357 先走る
+TOKEN[278]: 0.0009339    1 anything
+	anything WORD[278,   1]: 0.0009339 先ず
+TOKEN[279]: 0.0009313    1 immediate
+	immediate WORD[279,   1]: 0.0009313 目先
+TOKEN[280]: 0.0009296    2 come
+	come WORD[280,   1]: 0.0004648 さい先
+	come WORD[280,   2]: 0.0004648 幸先
+TOKEN[281]: 0.0009295    1 oneself
+	oneself WORD[281,   1]: 0.0009295 先走る
+TOKEN[282]: 0.0009219    1 progenitor
+	progenitor WORD[282,   1]: 0.0009219 先輩
+TOKEN[283]: 0.0009217    1 forefather
+	forefather WORD[283,   1]: 0.0009217 先祖
+TOKEN[284]: 0.0009214    1 gone
+	gone WORD[284,   1]: 0.0009214 出先
+TOKEN[285]: 0.0009214    1 outrider
+	outrider WORD[285,   1]: 0.0009214 先駆
+TOKEN[286]: 0.0009192    1 least
+	least WORD[286,   1]: 0.0009192 先ず
+TOKEN[287]: 0.0009148    1 shoulder
+	shoulder WORD[287,   1]: 0.0009148 肩先
+TOKEN[288]: 0.0009103    1 satisfactory
+	satisfactory WORD[288,   1]: 0.0009103 先ず
+TOKEN[289]: 0.0008986    1 finger
+	finger WORD[289,   1]: 0.0008986 指先
+TOKEN[290]: 0.0008985    1 lower
+	lower WORD[290,   1]: 0.0008985 先安
+TOKEN[291]: 0.0008946    1 jump
+	jump WORD[291,   1]: 0.0008946 先走る
+TOKEN[292]: 0.0008902    1 rear
+	rear WORD[292,   1]: 0.0008902 後先
+TOKEN[293]: 0.0008837    1 cusp
+	cusp WORD[293,   1]: 0.0008837 先端
+TOKEN[294]: 0.0008836    1 aboriginal
+	aboriginal WORD[294,   1]: 0.0008836 先住
+TOKEN[295]: 0.0008691    1 inhabitant
+	inhabitant WORD[295,   1]: 0.0008691 先住
+TOKEN[296]: 0.0008628    1 eaves
+	eaves WORD[296,   1]: 0.0008628 軒先
+TOKEN[297]: 0.0008579    1 bow
+	bow WORD[297,   1]: 0.0008579 舳先
+TOKEN[298]: 0.0008565    1 happening
+	happening WORD[298,   1]: 0.0008565 先行
+TOKEN[299]: 0.0008488    1 pawn
+	pawn WORD[299,   1]: 0.0008488 手先
+TOKEN[300]: 0.0008459    1 athlete
+	athlete WORD[300,   1]: 0.0008459 先鋒
+TOKEN[301]: 0.0008438    1 fashion
+	fashion WORD[301,   1]: 0.0008438 一先ず
+TOKEN[302]: 0.0008377    1 proboscis
+	proboscis WORD[302,   1]: 0.0008377 口先
+TOKEN[303]: 0.0008358    1 crescent
+	crescent WORD[303,   1]: 0.0008358 先端
+TOKEN[304]: 0.0008330    1 arrow
+	arrow WORD[304,   1]: 0.0008330 矢先
+TOKEN[305]: 0.0008270    1 leadership
+	leadership WORD[305,   1]: 0.0008270 先導
+TOKEN[306]: 0.0008266    1 inversion
+	inversion WORD[306,   1]: 0.0008266 先後
+TOKEN[307]: 0.0008219    1 flying
+	flying WORD[307,   1]: 0.0008219 矢先
+TOKEN[308]: 0.0008187    1 acquisition
+	acquisition WORD[308,   1]: 0.0008187 先占
+TOKEN[309]: 0.0008087    1 underling
+	underling WORD[309,   1]: 0.0008087 手先
+TOKEN[310]: 0.0008087    1 man
+	man WORD[310,   1]: 0.0008087 先覚
+TOKEN[311]: 0.0008083    1 mere
+	mere WORD[311,   1]: 0.0008083 口先
+TOKEN[312]: 0.0008059    1 rate
+	rate WORD[312,   1]: 0.0008059 先ず
+TOKEN[313]: 0.0008040    1 batting
+	batting WORD[313,   1]: 0.0008040 先攻
+TOKEN[314]: 0.0008040    1 settling
+	settling WORD[314,   1]: 0.0008040 先決
+TOKEN[315]: 0.0007979    1 prejudice
+	prejudice WORD[315,   1]: 0.0007979 先入
+TOKEN[316]: 0.0007977    1 advanced
+	advanced WORD[316,   1]: 0.0007977 先進
+TOKEN[317]: 0.0007975    1 acute
+	acute WORD[317,   1]: 0.0007975 先鋭
+TOKEN[318]: 0.0007864    1 snout
+	snout WORD[318,   1]: 0.0007864 口先
+TOKEN[319]: 0.0007725    1 top
+	top WORD[319,   1]: 0.0007725 肩先
+TOKEN[320]: 0.0007716    1 recipient
+	recipient WORD[320,   1]: 0.0007716 送り先
+TOKEN[321]: 0.0007627    1 married
+	married WORD[321,   1]: 0.0007627 嫁ぎ先
+TOKEN[322]: 0.0007617    1 afternoon
+	afternoon WORD[322,   1]: 0.0007617 先勝
+TOKEN[323]: 0.0007616    1 postponement
+	postponement WORD[323,   1]: 0.0007616 先送り
+TOKEN[324]: 0.0007539    1 graduate
+	graduate WORD[324,   1]: 0.0007539 先輩
+TOKEN[325]: 0.0007462    1 curve
+	curve WORD[325,   1]: 0.0007462 先端
+TOKEN[326]: 0.0007458    1 begin
+	begin WORD[326,   1]: 0.0007458 先ず
+TOKEN[327]: 0.0007325    1 visitor
+	visitor WORD[327,   1]: 0.0007325 先客
+TOKEN[328]: 0.0007260    1 lip
+	lip WORD[328,   1]: 0.0007260 口先
+TOKEN[329]: 0.0007240    1 sports
+	sports WORD[329,   1]: 0.0007240 先発
+TOKEN[330]: 0.0007219    1 addressee
+	addressee WORD[330,   1]: 0.0007219 送り先
+TOKEN[331]: 0.0007212    1 guidance
+	guidance WORD[331,   1]: 0.0007212 先導
+TOKEN[332]: 0.0007131    1 occupation
+	occupation WORD[332,   1]: 0.0007131 先占
+TOKEN[333]: 0.0007059    1 life
+	life WORD[333,   1]: 0.0007059 老い先
+TOKEN[334]: 0.0006985    1 appearance
+	appearance WORD[334,   1]: 0.0006985 目先
+TOKEN[335]: 0.0006969    1 whole
+	whole WORD[335,   1]: 0.0006969 先ず
+TOKEN[336]: 0.0006927    1 guide
+	guide WORD[336,   1]: 0.0006927 先達
+TOKEN[337]: 0.0006859    1 higher
+	higher WORD[337,   1]: 0.0006859 先高
+TOKEN[338]: 0.0006854    1 old
+	old WORD[338,   1]: 0.0006854 老い先
+TOKEN[339]: 0.0006796    1 older
+	older WORD[339,   1]: 0.0006796 先輩
+TOKEN[340]: 0.0006769    1 source
+	source WORD[340,   1]: 0.0006769 出先
+TOKEN[341]: 0.0006763    1 arrival
+	arrival WORD[341,   1]: 0.0006763 先回り
+TOKEN[342]: 0.0006741    1 sending
+	sending WORD[342,   1]: 0.0006741 先遣
+TOKEN[343]: 0.0006680    1 competition
+	competition WORD[343,   1]: 0.0006680 先鋒
+TOKEN[344]: 0.0006591    1 branch
+	branch WORD[344,   1]: 0.0006591 出先
+TOKEN[345]: 0.0006548    1 trip
+	trip WORD[345,   1]: 0.0006548 旅先
+TOKEN[346]: 0.0006523    1 origin
+	origin WORD[346,   1]: 0.0006523 出先
+TOKEN[347]: 0.0006496    1 judo
+	judo WORD[347,   1]: 0.0006496 先鋒
+TOKEN[348]: 0.0006405    1 tongue
+	tongue WORD[348,   1]: 0.0006405 舌先
+TOKEN[349]: 0.0006399    1 object
+	object WORD[349,   1]: 0.0006399 出先
+TOKEN[350]: 0.0006338    1 sharp
+	sharp WORD[350,   1]: 0.0006338 先鋭
+TOKEN[351]: 0.0006329    1 winning
+	winning WORD[351,   1]: 0.0006329 先勝
+TOKEN[352]: 0.0006319    1 moon
+	moon WORD[352,   1]: 0.0006319 先端
+TOKEN[353]: 0.0006317    1 hand
+	hand WORD[353,   1]: 0.0006317 目先
+TOKEN[354]: 0.0006196    1 spring
+	spring WORD[354,   1]: 0.0006196 春先
+TOKEN[355]: 0.0006086    1 office
+	office WORD[355,   1]: 0.0006086 出先
+TOKEN[356]: 0.0006067    1 days
+	days WORD[356,   1]: 0.0006067 先日
+TOKEN[357]: 0.0006058    1 consideration
+	consideration WORD[357,   1]: 0.0006058 先議
+TOKEN[358]: 0.0006035    1 original
+	original WORD[358,   1]: 0.0006035 先住
+TOKEN[359]: 0.0006012    1 priest
+	priest WORD[359,   1]: 0.0006012 先住
+TOKEN[360]: 0.0006003    1 radical
+	radical WORD[360,   1]: 0.0006003 先鋭
+TOKEN[361]: 0.0005990    1 figure
+	figure WORD[361,   1]: 0.0005990 先達
+TOKEN[362]: 0.0005966    1 getting
+	getting WORD[362,   1]: 0.0005966 先行
+TOKEN[363]: 0.0005906    1 match
+	match WORD[363,   1]: 0.0005906 先鋒
+TOKEN[364]: 0.0005739    1 mouth
+	mouth WORD[364,   1]: 0.0005739 口先
+TOKEN[365]: 0.0005722    1 matter
+	matter WORD[365,   1]: 0.0005722 先決
+TOKEN[366]: 0.0005689    1 coming
+	coming WORD[366,   1]: 0.0005689 先行
+TOKEN[367]: 0.0005633    1 group
+	group WORD[367,   1]: 0.0005633 先頭
+TOKEN[368]: 0.0005603    1 age
+	age WORD[368,   1]: 0.0005603 先代
+TOKEN[369]: 0.0005581    1 month
+	month WORD[369,   1]: 0.0005581 先月
+TOKEN[370]: 0.0005566    1 woman
+	woman WORD[370,   1]: 0.0005566 嫁ぎ先
+TOKEN[371]: 0.0005402    1 start
+	start WORD[371,   1]: 0.0005402 先制
+TOKEN[372]: 0.0005400    1 night
+	night WORD[372,   1]: 0.0005400 先夜
+TOKEN[373]: 0.0005323    1 service
+	service WORD[373,   1]: 0.0005323 口先
+TOKEN[374]: 0.0005031    1 school
+	school WORD[374,   1]: 0.0005031 先輩

@@ -1,0 +1,2131 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0434758   36 foot           : 足蹠, 足触り, 足刀, 管足, 足囲, 足半, 足拭き, 足払い, 利き足, 足底, ...
+0.0381668    7 stealthy       : 盗み足, 足抜き, 猫足, ぬき足, 抜き足, 差し足, 忍び足
+0.0177203   22 leg            : 鶏足, 足輪, 足趾, 上げ足, 挙げ足, 揚げ足, 揚足, おみ足, 猫足, 足偏, ...
+0.0169790   19 walking        : 歩み足, 足はこび, 足運び, 運び足, 並み足, 並足, 猫足, 足任せ, 足早, 足速, ...
+0.0153619   13 gait           : 横足, 足はこび, 足運び, 早足, 速足, 足癖, 足もと, 足下, 足元, 足許, ...
+0.0136231   34 one            : 足拭き, 足払い, 鳶足, 利き足, すり足, 摺り足, 摺足, 探り足, 足任せ, 片足, ...
+0.0099878    7 footwork       : 足はこび, 足運び, 送り足, 足技, 足業, 足さばき, 足捌き
+0.0089335   15 pace           : 急ぎ足, 急足, 早足, 速足, 並み足, 並足, 足もと, 足下, 足元, 足許, ...
+0.0088954   13 step           : 足もと, 足下, 足元, 足許, 浮き足, 浮足, ひと足, 二の足, 一足, 足並, ...
+0.0088105    5 sole           : 足蹠, 足底, 足つき, 足付き, 足裏
+0.0079808    2 bare           : 生足, 素足
+0.0072207    4 opponent       : 送り足, 足払い, 足蹴り, 足癖
+0.0070888    7 quick          : 早足, 速足, 足早, 足速, 快足, 急ぎ足, 急足
+0.0070742    2 feel           : 足触り, 探り足
+0.0070635    6 moving         : 足はこび, 足運び, 送り足, すり足, 摺り足, 摺足
+0.0070435    5 underfoot      : 足触り, 足もと, 足下, 足元, 足許
+0.0069229    1 leather        : 革足袋
+0.0069137    8 horse          : 横足, 跑足, 早足, 速足, 駿足, 差し足, 逸足, 俊足
+0.0066097    4 candlestick    : 年足, 週足, 月足, 日足
+0.0063912    7 manner         : 足はこび, 足運び, 足つき, 足付き, 足癖, 足どり, 足取り
+0.0063490    8 satisfied      : 飽き足りる, 飽足りる, 事足る, 飽き足る, 飽足る, 満ち足りる, こと足りる, 事足りる
+0.0063297    7 add            : つけ足す, 付け足す, 描き足す, 足す, 書き足す, 継ぎ足す, 言い足す
+0.0061966    7 market         : 下げ足, 浮き足, 浮足, 上げ足, 挙げ足, 揚げ足, 揚足
+0.0061387    1 planta         : 足底
+0.0060028    7 judo           : 足払い, 送り足, 足技, 足業, 足固め, 足かけ, 足掛け
+0.0058080    4 sliding        : 歩み足, すり足, 摺り足, 摺足
+0.0057984    2 diving         : 足ひれ, 足ヒレ
+0.0057330    9 ground         : 鳶足, すり足, 摺り足, 摺足, 足ずり, 足摺, 足摺り, 足掻く, 足搔く
+0.0056637    3 toe            : 足刀, 足指, 足袋
+0.0056005    1 forwards       : 歩み足
+0.0054623    1 stockingless   : 生足
+0.0053279    6 sitting        : 鳶足, 鎌足, 上げ足, 挙げ足, 揚げ足, 揚足
+0.0052290    4 keeping        : 足はこび, 足運び, 足止め, 足留め
+0.0051590    1 tarsal         : 足根
+0.0051273    2 gravity        : 足はこび, 足運び
+0.0050523    1 straw          : 足半
+0.0049773    1 downturn       : 下げ足
+0.0047592    2 sport          : 足はこび, 足運び
+0.0045636    2 characteristic : 足はこび, 足運び
+0.0042605    2 edge           : 足刀, 送り足
+0.0041853    1 backwards      : 歩み足
+0.0041479    3 nape           : えり足, 衿足, 襟足
+0.0040888    5 footwear       : 下足, 足回り, 足廻り, 足ごしらえ, 足拵え
+0.0040260    6 stepping       : 送り足, 足ぶみ, 足踏み, 足がかり, 足掛かり, 足掛り
+0.0039988    2 soleprint      : 足型, 足形
+0.0039597    2 center         : 足はこび, 足運び
+0.0039482    2 flipper        : 足ひれ, 足ヒレ
+0.0038915    7 foothold       : 足場, 足溜り, 足がかり, 足掛かり, 足掛り, 足かけ, 足掛け
+0.0038847    1 karate         : 足刀
+0.0038024   13 time           : 足ぶみ, 足踏み, 足早, 足速, ひと足, かけ足, 駆け足, 駆足, 駈け足, 駈足, ...
+0.0038008    1 heel           : 足刀
+0.0037928    2 designed       : 足半, 足湯
+0.0037588    2 footprint      : 足型, 足形
+0.0037085    3 walker         : 足まめ, 足忠実, 足弱
+0.0036887    1 motion         : 歩み足
+0.0036518    1 beast          : 四つ足
+0.0036322    1 demand         : 売れ足
+0.0036104    1 splayed        : 鳶足
+0.0035888    2 low            : 足はこび, 足運び
+0.0035834    3 trot           : 跑足, 早足, 速足
+0.0035440    5 raised         : 高足, 上げ足, 挙げ足, 揚げ足, 揚足
+0.0035172    3 radical        : 人足, 足偏, 足
+0.0034799    1 circumference  : 足囲
+0.0034609    5 stamping       : 足ぶみ, 足踏み, 足ずり, 足摺, 足摺り
+0.0033926    5 top            : 足背, 注ぎ足す, つぎ足す, 足す, 足し
+0.0033905    5 going          : 用足し, ムダ足, 徒足, 無駄足, 足労
+0.0033720    3 way            : 足はこび, 足運び, 探り足
+0.0033092    1 footstool      : 足乗せ
+0.0032938    2 barefoot       : 跣足, 裸足
+0.0032619    1 outer          : 足刀
+0.0032517    8 running        : 逃げ足, 快足, 用足し, かけ足, 駆け足, 駆足, 駈け足, 駈足
+0.0032368    1 tentative      : 足入れ
+0.0031439    6 addition       : 付け足り, 蛇足, 足し前, 付け足し, 継ぎ足し, 足し算
+0.0031429    3 struggle       : 足掻く, 足搔く, 悪足掻き
+0.0030970    5 swift          : 駿足, 逸足, 足早, 足速, 俊足
+0.0030666    4 march          : 早足, 速足, 並み足, 並足
+0.0030315    2 mincing        : 小足, 刻み足
+0.0030251    2 pseudopodium   : 仮足, 偽足
+0.0030251    2 pseudopod      : 仮足, 偽足
+0.0030030    3 escape         : 足抜き, 足掻く, 足搔く
+0.0030002    2 fin            : 足ひれ, 足ヒレ
+0.0029899    1 kicking        : 足蹴り
+0.0029307    1 flatfoot       : べた足
+0.0028982    2 mould          : 足型, 足形
+0.0028962    4 upturn         : 上げ足, 挙げ足, 揚げ足, 揚足
+0.0028961    1 indenture      : 足抜き
+0.0028949    1 chicken        : 鶏足
+0.0028589    2 cloth          : 足拭き, 地下足袋
+0.0028464    1 repaying       : 足抜き
+0.0027934    1 bleed          : 塗り足し
+0.0027625    1 animal         : 四つ足
+0.0027419    1 backside       : 鳶足
+0.0027408    1 towel          : 足拭き
+0.0027251    1 hair           : 毛足
+0.0027213    2 mold           : 足型, 足形
+0.0027101    3 wooden         : 足型, 足固め, 足形
+0.0026689    4 enough         : 寝足りる, 満ち足りる, 足る, 足りる
+0.0026596    3 situation      : 足抜き, 足掻く, 足搔く
+0.0026302    4 lifting        : 上げ足, 挙げ足, 揚げ足, 揚足
+0.0026197    3 hind           : うしろ足, 後ろ足, 後足
+0.0026039    3 errand         : ムダ足, 徒足, 無駄足
+0.0025937    3 shuffling      : すり足, 摺り足, 摺足
+0.0025909    2 replenish      : 注ぎ足す, つぎ足す
+0.0025352    1 sweeping       : 足払い
+0.0025239    2 protrusion     : 仮足, 偽足
+0.0025070    4 sufficient     : 満ち足りる, 満足, 足る, 足りる
+0.0024989    1 sweep          : 足払い
+0.0024811    1 resting        : 鳶足
+0.0024535    5 serve          : 事足る, 足る, 足りる, こと足りる, 事足りる
+0.0024470    2 professional   : 跣足, 裸足
+0.0024075    1 half           : 足半
+0.0024041    2 ring           : 送り足, 足輪
+0.0024032    2 superior       : 跣足, 裸足
+0.0023370    1 dominant       : 利き足
+0.0023287    1 marriage       : 足入れ
+0.0023093    3 paw            : 足掻く, 足搔く, 足
+0.0023069    4 preparation    : 足ならし, 足慣らし, 足馴らし, 足固め
+0.0022874    3 swiftness      : 駿足, 逸足, 俊足
+0.0022823    1 ambulacral     : 管足
+0.0022685    6 something      : 買い足す, 足す, 足つき, 足付き, 言い足す, 足音
+0.0022576    3 suffice        : 事足る, こと足りる, 事足りる
+0.0022555    4 supplement     : 足し前, 補足, 付け足し, 足し
+0.0021979    1 front          : 足半
+0.0021746    4 business       : 用足し, 出足, 足す, 足場
+0.0021667    3 hairline       : えり足, 衿足, 襟足
+0.0021424    2 stool          : 足台, 足継ぎ
+0.0021189    3 talent         : 逸足, 駿足, 俊足
+0.0021178    3 fool           : ムダ足, 徒足, 無駄足
+0.0021159    3 forward        : すり足, 摺り足, 摺足
+0.0021008    2 last           : 足型, 足形
+0.0020803    1 similar        : 鳶足
+0.0020574    1 hairy          : 毛足
+0.0020568    4 practice       : 足ならし, 足慣らし, 足馴らし, 足固め
+0.0020412    1 anklet         : 足輪
+0.0020350    1 instep         : 足背
+0.0020312    5 hurry          : かけ足, 駆け足, 駆足, 駈け足, 駈足
+0.0020201    3 visit          : ムダ足, 徒足, 無駄足
+0.0020123    3 stride         : 大足, 足どり, 足取り
+0.0020012    3 frustration    : 足ずり, 足摺, 足摺り
+0.0019887    3 reason         : ムダ足, 徒足, 無駄足
+0.0019835    4 person         : 駿足, 手足, 俊足, 逸足
+0.0019454    2 short          : ひと足, 一足
+0.0019401    4 recent         : 足もと, 足下, 足元, 足許
+0.0019330    2 movement       : 送り足, 日足
+0.0019322    1 geisha         : 足抜き
+0.0019140    1 improving      : 足浴
+0.0019088    3 kick           : ばた足, 足げ, 足蹴
+0.0019031    1 fur            : 毛足
+0.0018871    1 prostitute     : 足抜き
+0.0018831    1 difficult      : 足抜き
+0.0018794    2 temporary      : 仮足, 偽足
+0.0018779    1 footrest       : 足台
+0.0018757    1 flat           : べた足
+0.0018697    3 slow           : 並み足, 並足, 足弱
+0.0018256    3 rapid          : 長足, 足早, 足速
+0.0018191    3 coin           : お足, 御足, 足
+0.0018112    1 weekly         : 週足
+0.0017906    2 cell           : 仮足, 偽足
+0.0017861    5 double         : かけ足, 駆け足, 駆足, 駈け足, 駈足
+0.0017846    3 speed          : 船足, 潮足, 風足
+0.0017818    1 strengthen     : 運び足
+0.0017558    2 undercarriage  : 足回り, 足廻り
+0.0017558    2 tireless       : 足まめ, 足忠実
+0.0017503    1 position       : 鳶足
+0.0017249    1 pile           : 毛足
+0.0017240    2 append         : つけ足す, 付け足す
+0.0017184    4 high           : 浮き足, 浮足, 足継ぎ, 足駄
+0.0017104    3 transportation : 足代, 足場, 足
+0.0017036    4 great          : 長足, 駿足, 逸足, 俊足
+0.0016873    3 neck           : えり足, 衿足, 襟足
+0.0016716    3 confinement    : 足止め, 足留め, 禁足
+0.0016665    1 footgear       : 下足
+0.0016562    1 backward       : 送り足
+0.0016560    1 growth         : 毛足
+0.0016503    4 footing        : 足場, 足がかり, 足掛かり, 足掛り
+0.0016458    3 anger          : 足ずり, 足摺, 足摺り
+0.0016427    4 watch          : 足もと, 足下, 足元, 足許
+0.0016360    1 accordance     : 送り足
+0.0016338    2 traffic        : 人足, 客足
+0.0016328    1 fabric         : 毛足
+0.0016304    1 pedestrian     : 人足
+0.0016273    3 technique      : 足技, 足業, 足癖
+0.0016219    1 puppeteer      : 足遣い
+0.0016204    1 bowed          : 鎌足
+0.0016171    1 bent           : 運び足
+0.0016116    1 quadruped      : 四足
+0.0016058    3 passing        : 雨足, 足早, 足速
+0.0015855    4 current        : 足もと, 足下, 足元, 足許
+0.0015767    1 considered     : 送り足
+0.0015765    1 circulation    : 足浴
+0.0015685    3 leave          : すり足, 摺り足, 摺足
+0.0015483    3 deficiency     : 不足, 足し, 過不足
+0.0015475    2 steed          : 駿足, 俊足
+0.0015332    2 volatility     : 浮き足, 浮足
+0.0015212    1 improve        : 運び足
+0.0015155    1 surface        : 毛足
+0.0015122    3 purpose        : 事足る, こと足りる, 事足りる
+0.0015110    1 tube           : 管足
+0.0015110    2 inducement     : 足止め, 足留め
+0.0015065    1 topping        : 注ぎ足し
+0.0014965    2 grounding      : 足止め, 足留め
+0.0014946    3 getting        : 足ならし, 足慣らし, 足馴らし
+0.0014871    2 brass          : お足, 御足
+0.0014837    3 soldier        : 足ぶみ, 足踏み, 足軽
+0.0014795    2 strive         : 足掻く, 足搔く
+0.0014795    2 flail          : 足掻く, 足搔く
+0.0014733    3 shape          : 足ならし, 足慣らし, 足馴らし
+0.0014351    1 pig            : 豚足
+0.0014342    2 unsteady       : 浮き足, 浮足
+0.0014273    2 dough          : お足, 御足
+0.0014180    2 flounder       : 足掻く, 足搔く
+0.0014135    2 stalemate      : 足ぶみ, 足踏み
+0.0013876    2 adverse        : 足掻く, 足搔く
+0.0013848    3 money          : お足, 御足, 足
+0.0013744    2 fluctuation    : 浮き足, 浮足
+0.0013729    1 patient        : 足輪
+0.0013717    2 brisk          : 足早, 足速
+0.0013698    2 useless        : 悪足掻き, 蛇足
+0.0013689    2 unsettled      : 浮き足, 浮足
+0.0013617    1 outdoor        : 下足
+0.0013591    3 walk           : 遠足, 足どり, 足取り
+0.0013545    2 standstill     : 足ぶみ, 足踏み
+0.0013522    2 rice           : 注ぎ足す, つぎ足す
+0.0013492    3 trip           : 遠足, 足かけ, 足掛け
+0.0013450    4 someone        : 足止め, 足留め, 足げ, 足蹴
+0.0013356    2 flee           : 浮き足, 浮足
+0.0013308    1 balance        : 運び足
+0.0013304    1 riding         : 跑足
+0.0013297    2 water          : 注ぎ足す, つぎ足す
+0.0013257    1 band           : 足輪
+0.0013155    2 restless       : 浮き足, 浮足
+0.0013150    2 fleet          : 駿足, 俊足
+0.0013080    2 indoors        : 足止め, 足留め
+0.0013067    1 carrying       : 送り足
+0.0013004    2 muddy          : 泥足, 土足
+0.0013003    2 marking        : 足ぶみ, 足踏み
+0.0012945    1 hospital       : 足輪
+0.0012889    1 tray           : 高足
+0.0012776    2 left           : 左足, 足偏
+0.0012587    2 gifted         : 駿足, 俊足
+0.0012403    1 soles          : 地下足袋
+0.0012385    2 treating       : 足げ, 足蹴
+0.0012245    1 blood          : 足浴
+0.0012241    2 dyeing         : 足止め, 足留め
+0.0012004    1 loss           : 送り足
+0.0011810    2 runner         : 駿足, 俊足
+0.0011807    1 white          : 白足袋
+0.0011785    2 lock           : 足搦, 足搦み
+0.0011719    2 ready          : 浮き足, 浮足
+0.0011717    1 liquid         : 注ぎ足し
+0.0011702    2 trail          : 足どり, 足取り
+0.0011640    2 suspension     : 足回り, 足廻り
+0.0011282    2 complement     : 補足, 足し
+0.0011233    1 spread         : 鎌足
+0.0011211    1 region         : 足部
+0.0011206    2 severe         : 浮き足, 浮足
+0.0011203    2 fast           : 駿足, 俊足
+0.0011198    2 deserve        : 足る, 足りる
+0.0011141    2 trace          : 足どり, 足取り
+0.0011136    1 opposed        : 下足
+0.0011029    2 distance       : ひと足, 一足
+0.0010982    1 buy            : 買い足す
+0.0010951    1 bird           : 足輪
+0.0010784    2 stay           : 足止め, 足留め
+0.0010724    2 fire           : 火足, 継ぎ足す
+0.0010697    2 effort         : 足掻く, 足搔く
+0.0010682    2 weak           : 足弱, 足切り
+0.0010630    2 arms           : 足掻く, 足搔く
+0.0010618    2 pawing         : 足掻き, 足搔き
+0.0010481    1 cabriole       : 猫足
+0.0010473    1 stage          : 高足
+0.0010453    2 vehicle        : 足回り, 足廻り
+0.0010377    1 thrash         : ばた足
+0.0010337    2 track          : 足どり, 足取り
+0.0010279    1 ness           : 足長
+0.0010063    1 lading         : 荷足
+0.0010051    2 taken          : 足どり, 足取り
+0.0010041    1 centipede      : 百足
+0.0010037    1 superfluity    : 蛇足
+0.0010033    2 level          : 足止め, 足留め
+0.0010027    2 leaving        : 足止め, 足留め
+0.0010014    2 standing       : 浮き足, 浮足
+0.0009982    1 four           : 四足
+0.0009889    2 route          : 足どり, 足取り
+0.0009868    2 rain           : 雨足, 足駄
+0.0009729    2 criminal       : 足どり, 足取り
+0.0009701    2 worthy         : 足る, 足りる
+0.0009687    1 ballast        : 荷足
+0.0009678    1 service        : 高足
+0.0009575    1 rubber         : 地下足袋
+0.0009408    1 set            : 高足
+0.0009367    2 pair           : 足萎え, 片足
+0.0009336    1 fleetness      : 逸足
+0.0009285    1 tack           : 書き足す
+0.0009265    2 ankle          : 足頸, 足首
+0.0008931    1 draught        : 船足
+0.0008870    1 paragraph      : 書き足す
+0.0008857    2 encumbrance    : 足かせ, 足枷
+0.0008857    2 pedal          : 足かけ, 足掛け
+0.0008819    1 skillfulness   : 手足れ
+0.0008799    2 area           : 足回り, 足廻り
+0.0008721    3 stone          : 足がかり, 足掛かり, 足掛り
+0.0008695    1 excursion      : 遠足
+0.0008592    1 sleep          : 寝足りる
+0.0008552    1 flutter        : ばた足
+0.0008548    2 struggling     : 足掻き, 足搔き
+0.0008488    2 worth          : 足る, 足りる
+0.0008400    1 drawing        : 描き足す
+0.0008368    2 hand           : 手足れ, 手足
+0.0008337    2 answer         : 足る, 足りる
+0.0008257    1 daytime        : 日足
+0.0008251    1 tripping       : 足癖
+0.0008251    1 underfloor     : 足固め
+0.0008237    1 completeness   : 具足
+0.0008198    1 dexterity      : 手足れ
+0.0008144    2 system         : 足回り, 足廻り
+0.0008111    1 vain           : 悪足掻き
+0.0008082    1 lameness       : 足萎え
+0.0008082    1 stepladder     : 足継ぎ
+0.0008080    1 redundancy     : 蛇足
+0.0008048    1 mastery        : 手足れ
+0.0007968    2 base           : 足溜り, 足場
+0.0007961    1 premature      : 月足らず
+0.0007961    2 consecutive    : 足かけ, 足掛け
+0.0007952    2 place          : 足ぶみ, 足踏み
+0.0007848    1 spreading      : 火足
+0.0007833    1 heavy          : 地下足袋
+0.0007822    1 convenience    : 足場
+0.0007810    1 pivot          : 軸足
+0.0007801    1 octopus        : 足
+0.0007740    1 component      : 足
+0.0007683    1 structural     : 足
+0.0007647    2 incomplete     : 足かけ, 足掛け
+0.0007635    1 groundwork     : 足固め
+0.0007555    1 cripple        : 足萎え
+0.0007555    1 stood          : 足継ぎ
+0.0007548    1 resistance     : 悪足掻き
+0.0007537    1 forelimb       : 前足
+0.0007531    1 spurt          : 差し足
+0.0007530    2 hindrance      : 足かせ, 足枷
+0.0007515    1 squid          : 足
+0.0007494    2 good           : 足まめ, 足忠実
+0.0007463    2 job            : 足る, 足りる
+0.0007446    2 make           : 足掻く, 足搔く
+0.0007440    1 emphasis       : 軸足
+0.0007399    1 shod           : 土足
+0.0007355    1 strengthening  : 足固め
+0.0007348    1 ray            : 日足
+0.0007348    1 write          : 書き足す
+0.0007342    1 foreleg        : 前足
+0.0007327    1 purveyor       : 用足し
+0.0007304    1 overtake       : 差し足
+0.0007293    1 extend         : 継ぎ足す
+0.0007285    1 happy          : 満ち足りる
+0.0007281    1 swimming       : ばた足
+0.0007203    1 draft          : 船足
+0.0007191    1 forefoot       : 前足
+0.0007183    1 priority       : 軸足
+0.0007166    1 washroom       : 用足し
+0.0007161    1 ride           : 足
+0.0007091    2 sports         : 足さばき, 足捌き
+0.0007081    1 pretext        : 付け足り
+0.0007079    1 hull           : 帆足
+0.0007077    1 chair          : 猫足
+0.0007062    2 burden         : 足かせ, 足枷
+0.0007061    1 contentment    : 満足
+0.0007029    1 soaking        : 足湯
+0.0007028    2 Japanese       : 足袋, 足切り
+0.0006983    1 daily          : 日足
+0.0006976    1 expert         : 手足れ
+0.0006947    2 martial        : 足さばき, 足捌き
+0.0006943    1 content        : 満ち足りる
+0.0006943    1 washing        : 洗足
+0.0006905    1 progress       : 長足
+0.0006875    2 page           : 足あと, 足跡
+0.0006868    2 trap           : 足かせ, 足枷
+0.0006823    1 arm            : 足
+0.0006817    1 gratification  : 満足
+0.0006800    1 eliminate      : 足切り
+0.0006757    1 greasy         : 脂足
+0.0006676    1 inauguration   : 発足
+0.0006672    1 sale           : 荷足
+0.0006659    1 pouring        : 雨足
+0.0006650    1 breaking       : 日足
+0.0006641    1 armor          : 具足
+0.0006620    1 insufficiency  : 不足
+0.0006568    1 focus          : 軸足
+0.0006528    1 sun            : 日足
+0.0006523    1 sky            : 日足
+0.0006494    1 adequate       : 満足
+0.0006453    1 satisfying     : 満足
+0.0006430    1 discontent     : 不足
+0.0006420    1 sail           : 帆足
+0.0006382    1 split          : 足袋
+0.0006378    1 fare           : 足代
+0.0006378    1 taxi           : 足代
+0.0006355    1 beck           : 手足
+0.0006329    1 dissatisfaction: 不足
+0.0006312    1 information    : 書き足す
+0.0006303    1 birth          : 月足らず
+0.0006299    1 sufficiency    : 充足
+0.0006273    1 wandering      : 足任せ
+0.0006252    1 work           : 地下足袋
+0.0006224    1 bottom         : 足
+0.0006223    1 tide           : 潮足
+0.0006221    1 boat           : 船足
+0.0006213    2 record         : 足あと, 足跡
+0.0006192    1 wrestling      : 足固め
+0.0006179    1 shower         : 雨足
+0.0006161    1 decent         : 満足
+0.0006155    1 preliminary    : 足切り
+0.0006064    1 beam           : 足固め
+0.0006031    1 scarcity       : 不足
+0.0005953    2 social         : 足あと, 足跡
+0.0005945    1 table          : 猫足
+0.0005934    1 cloud          : 雲足
+0.0005919    1 satisfaction   : 満足
+0.0005916    1 founding       : 発足
+0.0005888    1 leading        : 差し足
+0.0005866    1 satisfactory   : 満足
+0.0005857    1 master         : 手足れ
+0.0005850    1 transaction    : 用足し
+0.0005847    1 outstanding    : 逸足
+0.0005847    1 suit           : 具足
+0.0005844    1 turnout        : 出足
+0.0005767    1 travel         : 足代
+0.0005744    1 overeagerness  : 勇み足
+0.0005734    1 elongation     : 継ぎ足し
+0.0005733    2 days           : 足かけ, 足掛け
+0.0005674    1 rear           : 後足
+0.0005634    1 strong         : 力足
+0.0005632    1 finish         : 差し足
+0.0005605    1 deficit        : 不足
+0.0005603    1 trouble        : 足労
+0.0005573    1 toilet         : 用足し
+0.0005565    1 equation       : 満足
+0.0005533    1 previous       : 足偏
+0.0005489    1 rope           : 帆足
+0.0005450    1 launch         : 発足
+0.0005380    1 ability        : 驥足
+0.0005359    1 shortage       : 不足
+0.0005356    1 appendix       : 付け足し
+0.0005325    1 reach          : 足継ぎ
+0.0005287    1 complaint      : 不足
+0.0005263    1 bath           : 足湯
+0.0005238    1 establishment  : 発足
+0.0005237    1 reliable       : 手足
+0.0005220    1 hesitation     : 二の足
+0.0005212    1 past           : 足偏
+0.0005179    1 house          : 継ぎ足す
+0.0005172    1 proper         : 満足
+0.0005121    1 postscript     : 付け足し
+0.0005118    1 lower          : 帆足
+0.0005078    1 lead           : 足任せ
+0.0005059    1 big            : 大足
+0.0004982    1 full           : 驥足
+0.0004920    1 test           : 足切り
+0.0004837    1 train          : 足代
+0.0004810    1 hot            : 足湯
+0.0004805    1 ship           : 帆足
+0.0004787    1 wind           : 風足
+0.0004774    1 lack           : 不足
+0.0004761    1 dash           : 出足
+0.0004738    1 starting       : 発足
+0.0004736    2 period         : 足かけ, 足掛け
+0.0004666    1 dirty          : 土足
+0.0004653    1 line           : 差し足
+0.0004633    1 scaffold       : 足場
+0.0004616    1 hold           : 足固め
+0.0004589    1 spring         : 足湯
+0.0004579    1 extension      : 継ぎ足し
+0.0004478    1 initial        : 出足
+0.0004473    1 rashness       : 勇み足
+0.0004467    1 campaign       : 出足
+0.0004429    1 scaffolding    : 足場
+0.0004425    1 wearing        : 土足
+0.0004354    1 game           : 足切り
+0.0004347    1 outing         : 遠足
+0.0004159    1 worker         : 手足
+0.0004112    1 race           : 出足
+0.0004100    1 end            : 帆足
+0.0004083    1 right          : 右足
+0.0004077    1 approaching    : 足音
+0.0004017    1 custom         : 客足
+0.0003947    1 excess         : 過不足
+0.0003842    1 soft           : 忍び足
+0.0003834    1 beginning      : 出足
+0.0003781    1 rail           : 足場
+0.0003757    1 customer       : 客足
+0.0003748    1 charge         : 出足
+0.0003715    1 second         : 二の足
+0.0003681    1 artificial     : 義足
+0.0003657    1 call           : 手足
+0.0003606    1 start          : 出足
+0.0003602    1 feudal         : 足軽
+0.0003596    1 additional     : 言い足す
+0.0003590    1 care           : 足す
+0.0003560    1 foundation     : 足場
+0.0003461    1 access         : 足場
+0.0003319    1 making         : 足し
+0.0003248    1 samurai        : 足軽
+0.0003199    1 said           : 言い足す
+0.0003158    1 much           : 過不足
+0.0003139    1 little         : 過不足
+0.0003116    1 sign           : 足音
+0.0003102    1 people         : 出足
+0.0002995    1 rank           : 足軽
+0.0002970    1 field          : 遠足
+0.0002953    1 sense          : 足音
+0.0002948    1 road           : 足場
+0.0002901    1 say            : 言い足す
+0.0002847    1 sound          : 足音
+0.0002831    1 take           : 足す
+0.0002711    1 common         : 足軽
+0.0002660    1 part           : 足先
+0.0002567    1 school         : 遠足
+0.0002319    1 Japan          : 足軽
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0434758   36 foot
+	foot WORD[ 1,   1]: 0.0045257 足蹠
+	foot WORD[ 1,   2]: 0.0035979 足触り
+	foot WORD[ 1,   3]: 0.0029370 足刀
+	foot WORD[ 1,   4]: 0.0027211 管足
+	foot WORD[ 1,   5]: 0.0025464 足囲
+	foot WORD[ 1,   6]: 0.0024075 足半
+	foot WORD[ 1,   7]: 0.0021997 足拭き
+	foot WORD[ 1,   8]: 0.0021244 足払い
+	foot WORD[ 1,   9]: 0.0018059 利き足
+	foot WORD[ 1,  10]: 0.0017261 足底
+	foot WORD[ 1,  11]: 0.0012692 送り足
+	foot WORD[ 1,  12]: 0.0012573 足背
+	foot WORD[ 1,  13]: 0.0011910 足台
+	foot WORD[ 1,  14]: 0.0011445 足部
+	foot WORD[ 1,  15]: 0.0011445 足遣い
+	foot WORD[ 1,  16]: 0.0010651 足趾
+	foot WORD[ 1,  17]: 0.0007755 おみ足
+	foot WORD[ 1,  18]: 0.0006408 逃げ足
+	foot WORD[ 1,  19]: 0.0005830 駿足
+	foot WORD[ 1,  20]: 0.0005815 軸足
+	foot WORD[ 1,  21]: 0.0005250 逸足
+	foot WORD[ 1,  22]: 0.0005234 足技
+	foot WORD[ 1,  23]: 0.0005234 足業
+	foot WORD[ 1,  24]: 0.0005234 足偏
+	foot WORD[ 1,  25]: 0.0005233 足つき
+	foot WORD[ 1,  26]: 0.0005233 足付き
+	foot WORD[ 1,  27]: 0.0005142 足裏
+	foot WORD[ 1,  28]: 0.0004737 右足
+	foot WORD[ 1,  29]: 0.0004459 左足
+	foot WORD[ 1,  30]: 0.0003730 俊足
+	foot WORD[ 1,  31]: 0.0003447 片足
+	foot WORD[ 1,  32]: 0.0003317 遠足
+	foot WORD[ 1,  33]: 0.0003270 うしろ足
+	foot WORD[ 1,  34]: 0.0003270 後ろ足
+	foot WORD[ 1,  35]: 0.0003175 足軽
+	foot WORD[ 1,  36]: 0.0003175 足
+TOKEN[ 2]: 0.0381668    7 stealthy
+	stealthy WORD[ 2,   1]: 0.0319093 盗み足
+	stealthy WORD[ 2,   2]: 0.0025051 足抜き
+	stealthy WORD[ 2,   3]: 0.0008347 猫足
+	stealthy WORD[ 2,   4]: 0.0008328 ぬき足
+	stealthy WORD[ 2,   5]: 0.0008328 抜き足
+	stealthy WORD[ 2,   6]: 0.0007569 差し足
+	stealthy WORD[ 2,   7]: 0.0004952 忍び足
+TOKEN[ 3]: 0.0177203   22 leg
+	leg WORD[ 3,   1]: 0.0030777 鶏足
+	leg WORD[ 3,   2]: 0.0012513 足輪
+	leg WORD[ 3,   3]: 0.0011611 足趾
+	leg WORD[ 3,   4]: 0.0011400 上げ足
+	leg WORD[ 3,   5]: 0.0011400 挙げ足
+	leg WORD[ 3,   6]: 0.0011400 揚げ足
+	leg WORD[ 3,   7]: 0.0011400 揚足
+	leg WORD[ 3,   8]: 0.0008454 おみ足
+	leg WORD[ 3,   9]: 0.0006811 猫足
+	leg WORD[ 3,  10]: 0.0005705 足偏
+	leg WORD[ 3,  11]: 0.0005705 足搦
+	leg WORD[ 3,  12]: 0.0005705 足搦み
+	leg WORD[ 3,  13]: 0.0005704 足固め
+	leg WORD[ 3,  14]: 0.0005164 右足
+	leg WORD[ 3,  15]: 0.0004861 左足
+	leg WORD[ 3,  16]: 0.0003861 義足
+	leg WORD[ 3,  17]: 0.0003758 片足
+	leg WORD[ 3,  18]: 0.0003565 うしろ足
+	leg WORD[ 3,  19]: 0.0003565 後ろ足
+	leg WORD[ 3,  20]: 0.0003461 足かけ
+	leg WORD[ 3,  21]: 0.0003461 足掛け
+	leg WORD[ 3,  22]: 0.0003461 足
+TOKEN[ 4]: 0.0169790   19 walking
+	walking WORD[ 4,   1]: 0.0034180 歩み足
+	walking WORD[ 4,   2]: 0.0019936 足はこび
+	walking WORD[ 4,   3]: 0.0019936 足運び
+	walking WORD[ 4,   4]: 0.0013078 運び足
+	walking WORD[ 4,   5]: 0.0006467 並み足
+	walking WORD[ 4,   6]: 0.0006467 並足
+	walking WORD[ 4,   7]: 0.0006396 猫足
+	walking WORD[ 4,   8]: 0.0005358 足任せ
+	walking WORD[ 4,   9]: 0.0005358 足早
+	walking WORD[ 4,  10]: 0.0005358 足速
+	walking WORD[ 4,  11]: 0.0005358 足ならし
+	walking WORD[ 4,  12]: 0.0005358 足慣らし
+	walking WORD[ 4,  13]: 0.0005358 足馴らし
+	walking WORD[ 4,  14]: 0.0005358 足つき
+	walking WORD[ 4,  15]: 0.0005358 足付き
+	walking WORD[ 4,  16]: 0.0005357 足癖
+	walking WORD[ 4,  17]: 0.0005357 足固め
+	walking WORD[ 4,  18]: 0.0003251 足どり
+	walking WORD[ 4,  19]: 0.0003251 足取り
+TOKEN[ 5]: 0.0153619   13 gait
+	gait WORD[ 5,   1]: 0.0040623 横足
+	gait WORD[ 5,   2]: 0.0024823 足はこび
+	gait WORD[ 5,   3]: 0.0024823 足運び
+	gait WORD[ 5,   4]: 0.0008102 早足
+	gait WORD[ 5,   5]: 0.0008102 速足
+	gait WORD[ 5,   6]: 0.0006670 足癖
+	gait WORD[ 5,   7]: 0.0004048 足もと
+	gait WORD[ 5,   8]: 0.0004048 足下
+	gait WORD[ 5,   9]: 0.0004048 足元
+	gait WORD[ 5,  10]: 0.0004048 足許
+	gait WORD[ 5,  11]: 0.0004047 足どり
+	gait WORD[ 5,  12]: 0.0004047 足取り
+	gait WORD[ 5,  13]: 0.0004047 足
+TOKEN[ 6]: 0.0136231   34 one
+	one WORD[ 6,   1]: 0.0009773 足拭き
+	one WORD[ 6,   2]: 0.0009439 足払い
+	one WORD[ 6,   3]: 0.0009021 鳶足
+	one WORD[ 6,   4]: 0.0008024 利き足
+	one WORD[ 6,   5]: 0.0007807 すり足
+	one WORD[ 6,   6]: 0.0007807 摺り足
+	one WORD[ 6,   7]: 0.0007807 摺足
+	one WORD[ 6,   8]: 0.0005026 探り足
+	one WORD[ 6,   9]: 0.0004651 足任せ
+	one WORD[ 6,  10]: 0.0004595 片足
+	one WORD[ 6,  11]: 0.0004411 用足し
+	one WORD[ 6,  12]: 0.0002822 足もと
+	one WORD[ 6,  13]: 0.0002822 足下
+	one WORD[ 6,  14]: 0.0002822 足元
+	one WORD[ 6,  15]: 0.0002822 足許
+	one WORD[ 6,  16]: 0.0002568 快足
+	one WORD[ 6,  17]: 0.0002325 足湯
+	one WORD[ 6,  18]: 0.0002325 足回り
+	one WORD[ 6,  19]: 0.0002325 足廻り
+	one WORD[ 6,  20]: 0.0002325 足ならし
+	one WORD[ 6,  21]: 0.0002325 足慣らし
+	one WORD[ 6,  22]: 0.0002325 足馴らし
+	one WORD[ 6,  23]: 0.0002325 足つき
+	one WORD[ 6,  24]: 0.0002325 足付き
+	one WORD[ 6,  25]: 0.0002325 足ずり
+	one WORD[ 6,  26]: 0.0002325 足摺
+	one WORD[ 6,  27]: 0.0002325 足摺り
+	one WORD[ 6,  28]: 0.0002325 足癖
+	one WORD[ 6,  29]: 0.0002325 足固め
+	one WORD[ 6,  30]: 0.0002319 足掻く
+	one WORD[ 6,  31]: 0.0002319 足搔く
+	one WORD[ 6,  32]: 0.0001791 手足
+	one WORD[ 6,  33]: 0.0001718 足す
+	one WORD[ 6,  34]: 0.0001411 足
+TOKEN[ 7]: 0.0099878    7 footwork
+	footwork WORD[ 7,   1]: 0.0028411 足はこび
+	footwork WORD[ 7,   2]: 0.0028411 足運び
+	footwork WORD[ 7,   3]: 0.0018518 送り足
+	footwork WORD[ 7,   4]: 0.0007636 足技
+	footwork WORD[ 7,   5]: 0.0007636 足業
+	footwork WORD[ 7,   6]: 0.0004633 足さばき
+	footwork WORD[ 7,   7]: 0.0004633 足捌き
+TOKEN[ 8]: 0.0089335   15 pace
+	pace WORD[ 8,   1]: 0.0007564 急ぎ足
+	pace WORD[ 8,   2]: 0.0007564 急足
+	pace WORD[ 8,   3]: 0.0007434 早足
+	pace WORD[ 8,   4]: 0.0007434 速足
+	pace WORD[ 8,   5]: 0.0007388 並み足
+	pace WORD[ 8,   6]: 0.0007388 並足
+	pace WORD[ 8,   7]: 0.0003714 足もと
+	pace WORD[ 8,   8]: 0.0003714 足下
+	pace WORD[ 8,   9]: 0.0003714 足元
+	pace WORD[ 8,  10]: 0.0003714 足許
+	pace WORD[ 8,  11]: 0.0003714 足並
+	pace WORD[ 8,  12]: 0.0003714 足並み
+	pace WORD[ 8,  13]: 0.0003714 足どり
+	pace WORD[ 8,  14]: 0.0003714 足取り
+	pace WORD[ 8,  15]: 0.0003713 足
+TOKEN[ 9]: 0.0088954   13 step
+	step WORD[ 9,   1]: 0.0009487 足もと
+	step WORD[ 9,   2]: 0.0009487 足下
+	step WORD[ 9,   3]: 0.0009487 足元
+	step WORD[ 9,   4]: 0.0009487 足許
+	step WORD[ 9,   5]: 0.0005289 浮き足
+	step WORD[ 9,   6]: 0.0005289 浮足
+	step WORD[ 9,   7]: 0.0004454 ひと足
+	step WORD[ 9,   8]: 0.0004220 二の足
+	step WORD[ 9,   9]: 0.0003227 一足
+	step WORD[ 9,  10]: 0.0003162 足並
+	step WORD[ 9,  11]: 0.0003162 足並み
+	step WORD[ 9,  12]: 0.0003162 足どり
+	step WORD[ 9,  13]: 0.0003162 足取り
+TOKEN[10]: 0.0088105    5 sole
+	sole WORD[10,   1]: 0.0051038 足蹠
+	sole WORD[10,   2]: 0.0019466 足底
+	sole WORD[10,   3]: 0.0005902 足つき
+	sole WORD[10,   4]: 0.0005902 足付き
+	sole WORD[10,   5]: 0.0005798 足裏
+TOKEN[11]: 0.0079808    2 bare
+	bare WORD[11,   1]: 0.0073492 生足
+	bare WORD[11,   2]: 0.0006316 素足
+TOKEN[12]: 0.0072207    4 opponent
+	opponent WORD[12,   1]: 0.0025333 送り足
+	opponent WORD[12,   2]: 0.0021200 足払い
+	opponent WORD[12,   3]: 0.0020452 足蹴り
+	opponent WORD[12,   4]: 0.0005222 足癖
+TOKEN[13]: 0.0070888    7 quick
+	quick WORD[13,   1]: 0.0018954 早足
+	quick WORD[13,   2]: 0.0018954 速足
+	quick WORD[13,   3]: 0.0010404 足早
+	quick WORD[13,   4]: 0.0010403 足速
+	quick WORD[13,   5]: 0.0005744 快足
+	quick WORD[13,   6]: 0.0003214 急ぎ足
+	quick WORD[13,   7]: 0.0003214 急足
+TOKEN[14]: 0.0070742    2 feel
+	feel WORD[14,   1]: 0.0065587 足触り
+	feel WORD[14,   2]: 0.0005156 探り足
+TOKEN[15]: 0.0070635    6 moving
+	moving WORD[15,   1]: 0.0019874 足はこび
+	moving WORD[15,   2]: 0.0019874 足運び
+	moving WORD[15,   3]: 0.0012954 送り足
+	moving WORD[15,   4]: 0.0005978 すり足
+	moving WORD[15,   5]: 0.0005978 摺り足
+	moving WORD[15,   6]: 0.0005978 摺足
+TOKEN[16]: 0.0070435    5 underfoot
+	underfoot WORD[16,   1]: 0.0048870 足触り
+	underfoot WORD[16,   2]: 0.0004313 足もと
+	underfoot WORD[16,   3]: 0.0004313 足下
+	underfoot WORD[16,   4]: 0.0004313 足元
+	underfoot WORD[16,   5]: 0.0004313 足許
+TOKEN[17]: 0.0069229    1 leather
+	leather WORD[17,   1]: 0.0069229 革足袋
+TOKEN[18]: 0.0069137    8 horse
+	horse WORD[18,   1]: 0.0028649 横足
+	horse WORD[18,   2]: 0.0010651 跑足
+	horse WORD[18,   3]: 0.0005714 早足
+	horse WORD[18,   4]: 0.0005714 速足
+	horse WORD[18,   5]: 0.0005241 駿足
+	horse WORD[18,   6]: 0.0005094 差し足
+	horse WORD[18,   7]: 0.0004720 逸足
+	horse WORD[18,   8]: 0.0003354 俊足
+TOKEN[19]: 0.0066097    4 candlestick
+	candlestick WORD[19,   1]: 0.0022811 年足
+	candlestick WORD[19,   2]: 0.0018300 週足
+	candlestick WORD[19,   3]: 0.0016382 月足
+	candlestick WORD[19,   4]: 0.0008603 日足
+TOKEN[20]: 0.0063912    7 manner
+	manner WORD[20,   1]: 0.0019395 足はこび
+	manner WORD[20,   2]: 0.0019394 足運び
+	manner WORD[20,   3]: 0.0005212 足つき
+	manner WORD[20,   4]: 0.0005212 足付き
+	manner WORD[20,   5]: 0.0005212 足癖
+	manner WORD[20,   6]: 0.0003162 足どり
+	manner WORD[20,   7]: 0.0003162 足取り
+TOKEN[21]: 0.0063490    8 satisfied
+	satisfied WORD[21,   1]: 0.0011192 飽き足りる
+	satisfied WORD[21,   2]: 0.0011192 飽足りる
+	satisfied WORD[21,   3]: 0.0008313 事足る
+	satisfied WORD[21,   4]: 0.0008240 飽き足る
+	satisfied WORD[21,   5]: 0.0008240 飽足る
+	satisfied WORD[21,   6]: 0.0007818 満ち足りる
+	satisfied WORD[21,   7]: 0.0004248 こと足りる
+	satisfied WORD[21,   8]: 0.0004248 事足りる
+TOKEN[22]: 0.0063297    7 add
+	add WORD[22,   1]: 0.0013374 つけ足す
+	add WORD[22,   2]: 0.0013374 付け足す
+	add WORD[22,   3]: 0.0009523 描き足す
+	add WORD[22,   4]: 0.0008578 足す
+	add WORD[22,   5]: 0.0007823 書き足す
+	add WORD[22,   6]: 0.0007064 継ぎ足す
+	add WORD[22,   7]: 0.0003563 言い足す
+TOKEN[23]: 0.0061966    7 market
+	market WORD[23,   1]: 0.0033007 下げ足
+	market WORD[23,   2]: 0.0004876 浮き足
+	market WORD[23,   3]: 0.0004876 浮足
+	market WORD[23,   4]: 0.0004802 上げ足
+	market WORD[23,   5]: 0.0004802 挙げ足
+	market WORD[23,   6]: 0.0004802 揚げ足
+	market WORD[23,   7]: 0.0004802 揚足
+TOKEN[24]: 0.0061387    1 planta
+	planta WORD[24,   1]: 0.0061387 足底
+TOKEN[25]: 0.0060028    7 judo
+	judo WORD[25,   1]: 0.0022777 足払い
+	judo WORD[25,   2]: 0.0013608 送り足
+	judo WORD[25,   3]: 0.0005612 足技
+	judo WORD[25,   4]: 0.0005612 足業
+	judo WORD[25,   5]: 0.0005611 足固め
+	judo WORD[25,   6]: 0.0003404 足かけ
+	judo WORD[25,   7]: 0.0003404 足掛け
+TOKEN[26]: 0.0058080    4 sliding
+	sliding WORD[26,   1]: 0.0038053 歩み足
+	sliding WORD[26,   2]: 0.0006676 すり足
+	sliding WORD[26,   3]: 0.0006676 摺り足
+	sliding WORD[26,   4]: 0.0006676 摺足
+TOKEN[27]: 0.0057984    2 diving
+	diving WORD[27,   1]: 0.0028992 足ひれ
+	diving WORD[27,   2]: 0.0028992 足ヒレ
+TOKEN[28]: 0.0057330    9 ground
+	ground WORD[28,   1]: 0.0018184 鳶足
+	ground WORD[28,   2]: 0.0005246 すり足
+	ground WORD[28,   3]: 0.0005246 摺り足
+	ground WORD[28,   4]: 0.0005246 摺足
+	ground WORD[28,   5]: 0.0004687 足ずり
+	ground WORD[28,   6]: 0.0004687 足摺
+	ground WORD[28,   7]: 0.0004687 足摺り
+	ground WORD[28,   8]: 0.0004675 足掻く
+	ground WORD[28,   9]: 0.0004675 足搔く
+TOKEN[29]: 0.0056637    3 toe
+	toe WORD[29,   1]: 0.0035534 足刀
+	toe WORD[29,   2]: 0.0014071 足指
+	toe WORD[29,   3]: 0.0007032 足袋
+TOKEN[30]: 0.0056005    1 forwards
+	forwards WORD[30,   1]: 0.0056005 歩み足
+TOKEN[31]: 0.0054623    1 stockingless
+	stockingless WORD[31,   1]: 0.0054623 生足
+TOKEN[32]: 0.0053279    6 sitting
+	sitting WORD[32,   1]: 0.0020674 鳶足
+	sitting WORD[32,   2]: 0.0011309 鎌足
+	sitting WORD[32,   3]: 0.0005324 上げ足
+	sitting WORD[32,   4]: 0.0005324 挙げ足
+	sitting WORD[32,   5]: 0.0005324 揚げ足
+	sitting WORD[32,   6]: 0.0005324 揚足
+TOKEN[33]: 0.0052290    4 keeping
+	keeping WORD[33,   1]: 0.0020607 足はこび
+	keeping WORD[33,   2]: 0.0020607 足運び
+	keeping WORD[33,   3]: 0.0005538 足止め
+	keeping WORD[33,   4]: 0.0005538 足留め
+TOKEN[34]: 0.0051590    1 tarsal
+	tarsal WORD[34,   1]: 0.0051590 足根
+TOKEN[35]: 0.0051273    2 gravity
+	gravity WORD[35,   1]: 0.0025637 足はこび
+	gravity WORD[35,   2]: 0.0025636 足運び
+TOKEN[36]: 0.0050523    1 straw
+	straw WORD[36,   1]: 0.0050523 足半
+TOKEN[37]: 0.0049773    1 downturn
+	downturn WORD[37,   1]: 0.0049773 下げ足
+TOKEN[38]: 0.0047592    2 sport
+	sport WORD[38,   1]: 0.0023796 足はこび
+	sport WORD[38,   2]: 0.0023796 足運び
+TOKEN[39]: 0.0045636    2 characteristic
+	characteristic WORD[39,   1]: 0.0022818 足はこび
+	characteristic WORD[39,   2]: 0.0022818 足運び
+TOKEN[40]: 0.0042605    2 edge
+	edge WORD[40,   1]: 0.0029749 足刀
+	edge WORD[40,   2]: 0.0012856 送り足
+TOKEN[41]: 0.0041853    1 backwards
+	backwards WORD[41,   1]: 0.0041853 歩み足
+TOKEN[42]: 0.0041479    3 nape
+	nape WORD[42,   1]: 0.0013826 えり足
+	nape WORD[42,   2]: 0.0013826 衿足
+	nape WORD[42,   3]: 0.0013826 襟足
+TOKEN[43]: 0.0040888    5 footwear
+	footwear WORD[43,   1]: 0.0007102 下足
+	footwear WORD[43,   2]: 0.0006671 足回り
+	footwear WORD[43,   3]: 0.0006671 足廻り
+	footwear WORD[43,   4]: 0.0006670 足ごしらえ
+	footwear WORD[43,   5]: 0.0006670 足拵え
+TOKEN[44]: 0.0040260    6 stepping
+	stepping WORD[44,   1]: 0.0015634 送り足
+	stepping WORD[44,   2]: 0.0006446 足ぶみ
+	stepping WORD[44,   3]: 0.0006446 足踏み
+	stepping WORD[44,   4]: 0.0003911 足がかり
+	stepping WORD[44,   5]: 0.0003911 足掛かり
+	stepping WORD[44,   6]: 0.0003911 足掛り
+TOKEN[45]: 0.0039988    2 soleprint
+	soleprint WORD[45,   1]: 0.0031210 足型
+	soleprint WORD[45,   2]: 0.0008778 足形
+TOKEN[46]: 0.0039597    2 center
+	center WORD[46,   1]: 0.0019798 足はこび
+	center WORD[46,   2]: 0.0019798 足運び
+TOKEN[47]: 0.0039482    2 flipper
+	flipper WORD[47,   1]: 0.0019741 足ひれ
+	flipper WORD[47,   2]: 0.0019741 足ヒレ
+TOKEN[48]: 0.0038915    7 foothold
+	foothold WORD[48,   1]: 0.0009000 足場
+	foothold WORD[48,   2]: 0.0007416 足溜り
+	foothold WORD[48,   3]: 0.0004500 足がかり
+	foothold WORD[48,   4]: 0.0004500 足掛かり
+	foothold WORD[48,   5]: 0.0004500 足掛り
+	foothold WORD[48,   6]: 0.0004500 足かけ
+	foothold WORD[48,   7]: 0.0004500 足掛け
+TOKEN[49]: 0.0038847    1 karate
+	karate WORD[49,   1]: 0.0038847 足刀
+TOKEN[50]: 0.0038024   13 time
+	time WORD[50,   1]: 0.0003594 足ぶみ
+	time WORD[50,   2]: 0.0003594 足踏み
+	time WORD[50,   3]: 0.0003594 足早
+	time WORD[50,   4]: 0.0003594 足速
+	time WORD[50,   5]: 0.0003071 ひと足
+	time WORD[50,   6]: 0.0002353 かけ足
+	time WORD[50,   7]: 0.0002353 駆け足
+	time WORD[50,   8]: 0.0002353 駆足
+	time WORD[50,   9]: 0.0002353 駈け足
+	time WORD[50,  10]: 0.0002353 駈足
+	time WORD[50,  11]: 0.0002225 一足
+	time WORD[50,  12]: 0.0002181 足かけ
+	time WORD[50,  13]: 0.0002181 足掛け
+TOKEN[51]: 0.0038008    1 heel
+	heel WORD[51,   1]: 0.0038008 足刀
+TOKEN[52]: 0.0037928    2 designed
+	designed WORD[52,   1]: 0.0031155 足半
+	designed WORD[52,   2]: 0.0006773 足湯
+TOKEN[53]: 0.0037588    2 footprint
+	footprint WORD[53,   1]: 0.0029337 足型
+	footprint WORD[53,   2]: 0.0008251 足形
+TOKEN[54]: 0.0037085    3 walker
+	walker WORD[54,   1]: 0.0014834 足まめ
+	walker WORD[54,   2]: 0.0014834 足忠実
+	walker WORD[54,   3]: 0.0007417 足弱
+TOKEN[55]: 0.0036887    1 motion
+	motion WORD[55,   1]: 0.0036887 歩み足
+TOKEN[56]: 0.0036518    1 beast
+	beast WORD[56,   1]: 0.0036518 四つ足
+TOKEN[57]: 0.0036322    1 demand
+	demand WORD[57,   1]: 0.0036322 売れ足
+TOKEN[58]: 0.0036104    1 splayed
+	splayed WORD[58,   1]: 0.0036104 鳶足
+TOKEN[59]: 0.0035888    2 low
+	low WORD[59,   1]: 0.0017944 足はこび
+	low WORD[59,   2]: 0.0017944 足運び
+TOKEN[60]: 0.0035834    3 trot
+	trot WORD[60,   1]: 0.0017286 跑足
+	trot WORD[60,   2]: 0.0009274 早足
+	trot WORD[60,   3]: 0.0009274 速足
+TOKEN[61]: 0.0035440    5 raised
+	raised WORD[61,   1]: 0.0006166 高足
+	raised WORD[61,   2]: 0.0005777 上げ足
+	raised WORD[61,   3]: 0.0005777 挙げ足
+	raised WORD[61,   4]: 0.0005777 揚げ足
+	raised WORD[61,   5]: 0.0005777 揚足
+TOKEN[62]: 0.0035172    3 radical
+	radical WORD[62,   1]: 0.0011926 人足
+	radical WORD[62,   2]: 0.0005114 足偏
+	radical WORD[62,   3]: 0.0003103 足
+TOKEN[63]: 0.0034799    1 circumference
+	circumference WORD[63,   1]: 0.0034799 足囲
+TOKEN[64]: 0.0034609    5 stamping
+	stamping WORD[64,   1]: 0.0006922 足ぶみ
+	stamping WORD[64,   2]: 0.0006922 足踏み
+	stamping WORD[64,   3]: 0.0006922 足ずり
+	stamping WORD[64,   4]: 0.0006922 足摺
+	stamping WORD[64,   5]: 0.0006922 足摺り
+TOKEN[65]: 0.0033926    5 top
+	top WORD[65,   1]: 0.0011206 足背
+	top WORD[65,   2]: 0.0010152 注ぎ足す
+	top WORD[65,   3]: 0.0005676 つぎ足す
+	top WORD[65,   4]: 0.0003446 足す
+	top WORD[65,   5]: 0.0003445 足し
+TOKEN[66]: 0.0033905    5 going
+	going WORD[66,   1]: 0.0012347 用足し
+	going WORD[66,   2]: 0.0005584 ムダ足
+	going WORD[66,   3]: 0.0005584 徒足
+	going WORD[66,   4]: 0.0005584 無駄足
+	going WORD[66,   5]: 0.0004807 足労
+TOKEN[67]: 0.0033720    3 way
+	way WORD[67,   1]: 0.0014722 足はこび
+	way WORD[67,   2]: 0.0014722 足運び
+	way WORD[67,   3]: 0.0004276 探り足
+TOKEN[68]: 0.0033092    1 footstool
+	footstool WORD[68,   1]: 0.0033092 足乗せ
+TOKEN[69]: 0.0032938    2 barefoot
+	barefoot WORD[69,   1]: 0.0026581 跣足
+	barefoot WORD[69,   2]: 0.0006357 裸足
+TOKEN[70]: 0.0032619    1 outer
+	outer WORD[70,   1]: 0.0032619 足刀
+TOKEN[71]: 0.0032517    8 running
+	running WORD[71,   1]: 0.0006078 逃げ足
+	running WORD[71,   2]: 0.0005482 快足
+	running WORD[71,   3]: 0.0004708 用足し
+	running WORD[71,   4]: 0.0003250 かけ足
+	running WORD[71,   5]: 0.0003250 駆け足
+	running WORD[71,   6]: 0.0003250 駆足
+	running WORD[71,   7]: 0.0003250 駈け足
+	running WORD[71,   8]: 0.0003250 駈足
+TOKEN[72]: 0.0032368    1 tentative
+	tentative WORD[72,   1]: 0.0032368 足入れ
+TOKEN[73]: 0.0031439    6 addition
+	addition WORD[73,   1]: 0.0006359 付け足り
+	addition WORD[73,   2]: 0.0006308 蛇足
+	addition WORD[73,   3]: 0.0006305 足し前
+	addition WORD[73,   4]: 0.0004204 付け足し
+	addition WORD[73,   5]: 0.0004187 継ぎ足し
+	addition WORD[73,   6]: 0.0004076 足し算
+TOKEN[74]: 0.0031429    3 struggle
+	struggle WORD[74,   1]: 0.0011791 足掻く
+	struggle WORD[74,   2]: 0.0011791 足搔く
+	struggle WORD[74,   3]: 0.0007847 悪足掻き
+TOKEN[75]: 0.0030970    5 swift
+	swift WORD[75,   1]: 0.0007143 駿足
+	swift WORD[75,   2]: 0.0006433 逸足
+	swift WORD[75,   3]: 0.0006412 足早
+	swift WORD[75,   4]: 0.0006412 足速
+	swift WORD[75,   5]: 0.0004570 俊足
+TOKEN[76]: 0.0030666    4 march
+	march WORD[76,   1]: 0.0007690 早足
+	march WORD[76,   2]: 0.0007690 速足
+	march WORD[76,   3]: 0.0007643 並み足
+	march WORD[76,   4]: 0.0007643 並足
+TOKEN[77]: 0.0030315    2 mincing
+	mincing WORD[77,   1]: 0.0022518 小足
+	mincing WORD[77,   2]: 0.0007797 刻み足
+TOKEN[78]: 0.0030251    2 pseudopodium
+	pseudopodium WORD[78,   1]: 0.0021113 仮足
+	pseudopodium WORD[78,   2]: 0.0009138 偽足
+TOKEN[79]: 0.0030251    2 pseudopod
+	pseudopod WORD[79,   1]: 0.0021113 仮足
+	pseudopod WORD[79,   2]: 0.0009138 偽足
+TOKEN[80]: 0.0030030    3 escape
+	escape WORD[80,   1]: 0.0019290 足抜き
+	escape WORD[80,   2]: 0.0005370 足掻く
+	escape WORD[80,   3]: 0.0005370 足搔く
+TOKEN[81]: 0.0030002    2 fin
+	fin WORD[81,   1]: 0.0015001 足ひれ
+	fin WORD[81,   2]: 0.0015001 足ヒレ
+TOKEN[82]: 0.0029899    1 kicking
+	kicking WORD[82,   1]: 0.0029899 足蹴り
+TOKEN[83]: 0.0029307    1 flatfoot
+	flatfoot WORD[83,   1]: 0.0029307 べた足
+TOKEN[84]: 0.0028982    2 mould
+	mould WORD[84,   1]: 0.0022620 足型
+	mould WORD[84,   2]: 0.0006362 足形
+TOKEN[85]: 0.0028962    4 upturn
+	upturn WORD[85,   1]: 0.0007241 上げ足
+	upturn WORD[85,   2]: 0.0007241 挙げ足
+	upturn WORD[85,   3]: 0.0007241 揚げ足
+	upturn WORD[85,   4]: 0.0007241 揚足
+TOKEN[86]: 0.0028961    1 indenture
+	indenture WORD[86,   1]: 0.0028961 足抜き
+TOKEN[87]: 0.0028949    1 chicken
+	chicken WORD[87,   1]: 0.0028949 鶏足
+TOKEN[88]: 0.0028589    2 cloth
+	cloth WORD[88,   1]: 0.0020845 足拭き
+	cloth WORD[88,   2]: 0.0007743 地下足袋
+TOKEN[89]: 0.0028464    1 repaying
+	repaying WORD[89,   1]: 0.0028464 足抜き
+TOKEN[90]: 0.0027934    1 bleed
+	bleed WORD[90,   1]: 0.0027934 塗り足し
+TOKEN[91]: 0.0027625    1 animal
+	animal WORD[91,   1]: 0.0027625 四つ足
+TOKEN[92]: 0.0027419    1 backside
+	backside WORD[92,   1]: 0.0027419 鳶足
+TOKEN[93]: 0.0027408    1 towel
+	towel WORD[93,   1]: 0.0027408 足拭き
+TOKEN[94]: 0.0027251    1 hair
+	hair WORD[94,   1]: 0.0027251 毛足
+TOKEN[95]: 0.0027213    2 mold
+	mold WORD[95,   1]: 0.0021240 足型
+	mold WORD[95,   2]: 0.0005974 足形
+TOKEN[96]: 0.0027101    3 wooden
+	wooden WORD[96,   1]: 0.0017345 足型
+	wooden WORD[96,   2]: 0.0004878 足固め
+	wooden WORD[96,   3]: 0.0004878 足形
+TOKEN[97]: 0.0026689    4 enough
+	enough WORD[97,   1]: 0.0009774 寝足りる
+	enough WORD[97,   2]: 0.0007773 満ち足りる
+	enough WORD[97,   3]: 0.0004571 足る
+	enough WORD[97,   4]: 0.0004571 足りる
+TOKEN[98]: 0.0026596    3 situation
+	situation WORD[98,   1]: 0.0017085 足抜き
+	situation WORD[98,   2]: 0.0004756 足掻く
+	situation WORD[98,   3]: 0.0004756 足搔く
+TOKEN[99]: 0.0026302    4 lifting
+	lifting WORD[99,   1]: 0.0006576 上げ足
+	lifting WORD[99,   2]: 0.0006576 挙げ足
+	lifting WORD[99,   3]: 0.0006576 揚げ足
+	lifting WORD[99,   4]: 0.0006576 揚足
+TOKEN[100]: 0.0026197    3 hind
+	hind WORD[100,   1]: 0.0009352 うしろ足
+	hind WORD[100,   2]: 0.0009352 後ろ足
+	hind WORD[100,   3]: 0.0007493 後足
+TOKEN[101]: 0.0026039    3 errand
+	errand WORD[101,   1]: 0.0008680 ムダ足
+	errand WORD[101,   2]: 0.0008680 徒足
+	errand WORD[101,   3]: 0.0008680 無駄足
+TOKEN[102]: 0.0025937    3 shuffling
+	shuffling WORD[102,   1]: 0.0008646 すり足
+	shuffling WORD[102,   2]: 0.0008646 摺り足
+	shuffling WORD[102,   3]: 0.0008646 摺足
+TOKEN[103]: 0.0025909    2 replenish
+	replenish WORD[103,   1]: 0.0016618 注ぎ足す
+	replenish WORD[103,   2]: 0.0009291 つぎ足す
+TOKEN[104]: 0.0025352    1 sweeping
+	sweeping WORD[104,   1]: 0.0025352 足払い
+TOKEN[105]: 0.0025239    2 protrusion
+	protrusion WORD[105,   1]: 0.0017615 仮足
+	protrusion WORD[105,   2]: 0.0007624 偽足
+TOKEN[106]: 0.0025070    4 sufficient
+	sufficient WORD[106,   1]: 0.0008689 満ち足りる
+	sufficient WORD[106,   2]: 0.0006161 満足
+	sufficient WORD[106,   3]: 0.0005110 足る
+	sufficient WORD[106,   4]: 0.0005109 足りる
+TOKEN[107]: 0.0024989    1 sweep
+	sweep WORD[107,   1]: 0.0024989 足払い
+TOKEN[108]: 0.0024811    1 resting
+	resting WORD[108,   1]: 0.0024811 鳶足
+TOKEN[109]: 0.0024535    5 serve
+	serve WORD[109,   1]: 0.0007844 事足る
+	serve WORD[109,   2]: 0.0004338 足る
+	serve WORD[109,   3]: 0.0004337 足りる
+	serve WORD[109,   4]: 0.0004008 こと足りる
+	serve WORD[109,   5]: 0.0004008 事足りる
+TOKEN[110]: 0.0024470    2 professional
+	professional WORD[110,   1]: 0.0019747 跣足
+	professional WORD[110,   2]: 0.0004723 裸足
+TOKEN[111]: 0.0024075    1 half
+	half WORD[111,   1]: 0.0024075 足半
+TOKEN[112]: 0.0024041    2 ring
+	ring WORD[112,   1]: 0.0012624 送り足
+	ring WORD[112,   2]: 0.0011417 足輪
+TOKEN[113]: 0.0024032    2 superior
+	superior WORD[113,   1]: 0.0019394 跣足
+	superior WORD[113,   2]: 0.0004638 裸足
+TOKEN[114]: 0.0023370    1 dominant
+	dominant WORD[114,   1]: 0.0023370 利き足
+TOKEN[115]: 0.0023287    1 marriage
+	marriage WORD[115,   1]: 0.0023287 足入れ
+TOKEN[116]: 0.0023093    3 paw
+	paw WORD[116,   1]: 0.0007180 足掻く
+	paw WORD[116,   2]: 0.0007180 足搔く
+	paw WORD[116,   3]: 0.0004367 足
+TOKEN[117]: 0.0023069    4 preparation
+	preparation WORD[117,   1]: 0.0005768 足ならし
+	preparation WORD[117,   2]: 0.0005767 足慣らし
+	preparation WORD[117,   3]: 0.0005767 足馴らし
+	preparation WORD[117,   4]: 0.0005767 足固め
+TOKEN[118]: 0.0022874    3 swiftness
+	swiftness WORD[118,   1]: 0.0009004 駿足
+	swiftness WORD[118,   2]: 0.0008109 逸足
+	swiftness WORD[118,   3]: 0.0005761 俊足
+TOKEN[119]: 0.0022823    1 ambulacral
+	ambulacral WORD[119,   1]: 0.0022823 管足
+TOKEN[120]: 0.0022685    6 something
+	something WORD[120,   1]: 0.0006582 買い足す
+	something WORD[120,   2]: 0.0005065 足す
+	something WORD[120,   3]: 0.0003427 足つき
+	something WORD[120,   4]: 0.0003427 足付き
+	something WORD[120,   5]: 0.0002104 言い足す
+	something WORD[120,   6]: 0.0002079 足音
+TOKEN[121]: 0.0022576    3 suffice
+	suffice WORD[121,   1]: 0.0011165 事足る
+	suffice WORD[121,   2]: 0.0005706 こと足りる
+	suffice WORD[121,   3]: 0.0005706 事足りる
+TOKEN[122]: 0.0022555    4 supplement
+	supplement WORD[122,   1]: 0.0007309 足し前
+	supplement WORD[122,   2]: 0.0005649 補足
+	supplement WORD[122,   3]: 0.0004874 付け足し
+	supplement WORD[122,   4]: 0.0004723 足し
+TOKEN[123]: 0.0021979    1 front
+	front WORD[123,   1]: 0.0021979 足半
+TOKEN[124]: 0.0021746    4 business
+	business WORD[124,   1]: 0.0012464 用足し
+	business WORD[124,   2]: 0.0003388 出足
+	business WORD[124,   3]: 0.0003236 足す
+	business WORD[124,   4]: 0.0002658 足場
+TOKEN[125]: 0.0021667    3 hairline
+	hairline WORD[125,   1]: 0.0007223 えり足
+	hairline WORD[125,   2]: 0.0007222 衿足
+	hairline WORD[125,   3]: 0.0007222 襟足
+TOKEN[126]: 0.0021424    2 stool
+	stool WORD[126,   1]: 0.0014884 足台
+	stool WORD[126,   2]: 0.0006540 足継ぎ
+TOKEN[127]: 0.0021189    3 talent
+	talent WORD[127,   1]: 0.0011091 逸足
+	talent WORD[127,   2]: 0.0006158 駿足
+	talent WORD[127,   3]: 0.0003940 俊足
+TOKEN[128]: 0.0021178    3 fool
+	fool WORD[128,   1]: 0.0007059 ムダ足
+	fool WORD[128,   2]: 0.0007059 徒足
+	fool WORD[128,   3]: 0.0007059 無駄足
+TOKEN[129]: 0.0021159    3 forward
+	forward WORD[129,   1]: 0.0007053 すり足
+	forward WORD[129,   2]: 0.0007053 摺り足
+	forward WORD[129,   3]: 0.0007053 摺足
+TOKEN[130]: 0.0021008    2 last
+	last WORD[130,   1]: 0.0016397 足型
+	last WORD[130,   2]: 0.0004612 足形
+TOKEN[131]: 0.0020803    1 similar
+	similar WORD[131,   1]: 0.0020803 鳶足
+TOKEN[132]: 0.0020574    1 hairy
+	hairy WORD[132,   1]: 0.0020574 毛足
+TOKEN[133]: 0.0020568    4 practice
+	practice WORD[133,   1]: 0.0005142 足ならし
+	practice WORD[133,   2]: 0.0005142 足慣らし
+	practice WORD[133,   3]: 0.0005142 足馴らし
+	practice WORD[133,   4]: 0.0005142 足固め
+TOKEN[134]: 0.0020412    1 anklet
+	anklet WORD[134,   1]: 0.0020412 足輪
+TOKEN[135]: 0.0020350    1 instep
+	instep WORD[135,   1]: 0.0020350 足背
+TOKEN[136]: 0.0020312    5 hurry
+	hurry WORD[136,   1]: 0.0004062 かけ足
+	hurry WORD[136,   2]: 0.0004062 駆け足
+	hurry WORD[136,   3]: 0.0004062 駆足
+	hurry WORD[136,   4]: 0.0004062 駈け足
+	hurry WORD[136,   5]: 0.0004062 駈足
+TOKEN[137]: 0.0020201    3 visit
+	visit WORD[137,   1]: 0.0006734 ムダ足
+	visit WORD[137,   2]: 0.0006734 徒足
+	visit WORD[137,   3]: 0.0006734 無駄足
+TOKEN[138]: 0.0020123    3 stride
+	stride WORD[138,   1]: 0.0007260 大足
+	stride WORD[138,   2]: 0.0004288 足どり
+	stride WORD[138,   3]: 0.0004288 足取り
+TOKEN[139]: 0.0020012    3 frustration
+	frustration WORD[139,   1]: 0.0006671 足ずり
+	frustration WORD[139,   2]: 0.0006671 足摺
+	frustration WORD[139,   3]: 0.0006671 足摺り
+TOKEN[140]: 0.0019887    3 reason
+	reason WORD[140,   1]: 0.0006629 ムダ足
+	reason WORD[140,   2]: 0.0006629 徒足
+	reason WORD[140,   3]: 0.0006629 無駄足
+TOKEN[141]: 0.0019835    4 person
+	person WORD[141,   1]: 0.0007131 駿足
+	person WORD[141,   2]: 0.0004929 手足
+	person WORD[141,   3]: 0.0004563 俊足
+	person WORD[141,   4]: 0.0003211 逸足
+TOKEN[142]: 0.0019454    2 short
+	short WORD[142,   1]: 0.0007943 ひと足
+	short WORD[142,   2]: 0.0005755 一足
+TOKEN[143]: 0.0019401    4 recent
+	recent WORD[143,   1]: 0.0003880 足もと
+	recent WORD[143,   2]: 0.0003880 足下
+	recent WORD[143,   3]: 0.0003880 足元
+	recent WORD[143,   4]: 0.0003880 足許
+TOKEN[144]: 0.0019330    2 movement
+	movement WORD[144,   1]: 0.0012847 送り足
+	movement WORD[144,   2]: 0.0006484 日足
+TOKEN[145]: 0.0019322    1 geisha
+	geisha WORD[145,   1]: 0.0019322 足抜き
+TOKEN[146]: 0.0019140    1 improving
+	improving WORD[146,   1]: 0.0019140 足浴
+TOKEN[147]: 0.0019088    3 kick
+	kick WORD[147,   1]: 0.0007369 ばた足
+	kick WORD[147,   2]: 0.0005859 足げ
+	kick WORD[147,   3]: 0.0005859 足蹴
+TOKEN[148]: 0.0019031    1 fur
+	fur WORD[148,   1]: 0.0019031 毛足
+TOKEN[149]: 0.0018871    1 prostitute
+	prostitute WORD[149,   1]: 0.0018871 足抜き
+TOKEN[150]: 0.0018831    1 difficult
+	difficult WORD[150,   1]: 0.0018831 足抜き
+TOKEN[151]: 0.0018794    2 temporary
+	temporary WORD[151,   1]: 0.0013117 仮足
+	temporary WORD[151,   2]: 0.0005677 偽足
+TOKEN[152]: 0.0018779    1 footrest
+	footrest WORD[152,   1]: 0.0018779 足台
+TOKEN[153]: 0.0018757    1 flat
+	flat WORD[153,   1]: 0.0018757 べた足
+TOKEN[154]: 0.0018697    3 slow
+	slow WORD[154,   1]: 0.0006610 並み足
+	slow WORD[154,   2]: 0.0006610 並足
+	slow WORD[154,   3]: 0.0005477 足弱
+TOKEN[155]: 0.0018256    3 rapid
+	rapid WORD[155,   1]: 0.0006792 長足
+	rapid WORD[155,   2]: 0.0005732 足早
+	rapid WORD[155,   3]: 0.0005732 足速
+TOKEN[156]: 0.0018191    3 coin
+	coin WORD[156,   1]: 0.0005716 お足
+	coin WORD[156,   2]: 0.0005716 御足
+	coin WORD[156,   3]: 0.0003380 足
+TOKEN[157]: 0.0018112    1 weekly
+	weekly WORD[157,   1]: 0.0018112 週足
+TOKEN[158]: 0.0017906    2 cell
+	cell WORD[158,   1]: 0.0012497 仮足
+	cell WORD[158,   2]: 0.0005409 偽足
+TOKEN[159]: 0.0017861    5 double
+	double WORD[159,   1]: 0.0003572 かけ足
+	double WORD[159,   2]: 0.0003572 駆け足
+	double WORD[159,   3]: 0.0003572 駆足
+	double WORD[159,   4]: 0.0003572 駈け足
+	double WORD[159,   5]: 0.0003572 駈足
+TOKEN[160]: 0.0017846    3 speed
+	speed WORD[160,   1]: 0.0006597 船足
+	speed WORD[160,   2]: 0.0005772 潮足
+	speed WORD[160,   3]: 0.0005477 風足
+TOKEN[161]: 0.0017818    1 strengthen
+	strengthen WORD[161,   1]: 0.0017818 運び足
+TOKEN[162]: 0.0017558    2 undercarriage
+	undercarriage WORD[162,   1]: 0.0008779 足回り
+	undercarriage WORD[162,   2]: 0.0008779 足廻り
+TOKEN[163]: 0.0017558    2 tireless
+	tireless WORD[163,   1]: 0.0008779 足まめ
+	tireless WORD[163,   2]: 0.0008779 足忠実
+TOKEN[164]: 0.0017503    1 position
+	position WORD[164,   1]: 0.0017503 鳶足
+TOKEN[165]: 0.0017249    1 pile
+	pile WORD[165,   1]: 0.0017249 毛足
+TOKEN[166]: 0.0017240    2 append
+	append WORD[166,   1]: 0.0008620 つけ足す
+	append WORD[166,   2]: 0.0008620 付け足す
+TOKEN[167]: 0.0017184    4 high
+	high WORD[167,   1]: 0.0004327 浮き足
+	high WORD[167,   2]: 0.0004327 浮足
+	high WORD[167,   3]: 0.0004265 足継ぎ
+	high WORD[167,   4]: 0.0004264 足駄
+TOKEN[168]: 0.0017104    3 transportation
+	transportation WORD[168,   1]: 0.0006065 足代
+	transportation WORD[168,   2]: 0.0003680 足場
+	transportation WORD[168,   3]: 0.0003680 足
+TOKEN[169]: 0.0017036    4 great
+	great WORD[169,   1]: 0.0005027 長足
+	great WORD[169,   2]: 0.0004727 駿足
+	great WORD[169,   3]: 0.0004257 逸足
+	great WORD[169,   4]: 0.0003024 俊足
+TOKEN[170]: 0.0016873    3 neck
+	neck WORD[170,   1]: 0.0005624 えり足
+	neck WORD[170,   2]: 0.0005624 衿足
+	neck WORD[170,   3]: 0.0005624 襟足
+TOKEN[171]: 0.0016716    3 confinement
+	confinement WORD[171,   1]: 0.0006245 足止め
+	confinement WORD[171,   2]: 0.0006245 足留め
+	confinement WORD[171,   3]: 0.0004226 禁足
+TOKEN[172]: 0.0016665    1 footgear
+	footgear WORD[172,   1]: 0.0008332 下足
+TOKEN[173]: 0.0016562    1 backward
+	backward WORD[173,   1]: 0.0016562 送り足
+TOKEN[174]: 0.0016560    1 growth
+	growth WORD[174,   1]: 0.0016560 毛足
+TOKEN[175]: 0.0016503    4 footing
+	footing WORD[175,   1]: 0.0004126 足場
+	footing WORD[175,   2]: 0.0004126 足がかり
+	footing WORD[175,   3]: 0.0004126 足掛かり
+	footing WORD[175,   4]: 0.0004126 足掛り
+TOKEN[176]: 0.0016458    3 anger
+	anger WORD[176,   1]: 0.0005486 足ずり
+	anger WORD[176,   2]: 0.0005486 足摺
+	anger WORD[176,   3]: 0.0005486 足摺り
+TOKEN[177]: 0.0016427    4 watch
+	watch WORD[177,   1]: 0.0003285 足もと
+	watch WORD[177,   2]: 0.0003285 足下
+	watch WORD[177,   3]: 0.0003285 足元
+	watch WORD[177,   4]: 0.0003285 足許
+TOKEN[178]: 0.0016360    1 accordance
+	accordance WORD[178,   1]: 0.0016360 送り足
+TOKEN[179]: 0.0016338    2 traffic
+	traffic WORD[179,   1]: 0.0006341 人足
+	traffic WORD[179,   2]: 0.0003656 客足
+TOKEN[180]: 0.0016328    1 fabric
+	fabric WORD[180,   1]: 0.0016328 毛足
+TOKEN[181]: 0.0016304    1 pedestrian
+	pedestrian WORD[181,   1]: 0.0008152 人足
+TOKEN[182]: 0.0016273    3 technique
+	technique WORD[182,   1]: 0.0005425 足技
+	technique WORD[182,   2]: 0.0005425 足業
+	technique WORD[182,   3]: 0.0005424 足癖
+TOKEN[183]: 0.0016219    1 puppeteer
+	puppeteer WORD[183,   1]: 0.0016219 足遣い
+TOKEN[184]: 0.0016204    1 bowed
+	bowed WORD[184,   1]: 0.0016204 鎌足
+TOKEN[185]: 0.0016171    1 bent
+	bent WORD[185,   1]: 0.0016171 運び足
+TOKEN[186]: 0.0016116    1 quadruped
+	quadruped WORD[186,   1]: 0.0016116 四足
+TOKEN[187]: 0.0016058    3 passing
+	passing WORD[187,   1]: 0.0005359 雨足
+	passing WORD[187,   2]: 0.0005349 足早
+	passing WORD[187,   3]: 0.0005349 足速
+TOKEN[188]: 0.0015855    4 current
+	current WORD[188,   1]: 0.0003171 足もと
+	current WORD[188,   2]: 0.0003171 足下
+	current WORD[188,   3]: 0.0003171 足元
+	current WORD[188,   4]: 0.0003171 足許
+TOKEN[189]: 0.0015767    1 considered
+	considered WORD[189,   1]: 0.0015767 送り足
+TOKEN[190]: 0.0015765    1 circulation
+	circulation WORD[190,   1]: 0.0015765 足浴
+TOKEN[191]: 0.0015685    3 leave
+	leave WORD[191,   1]: 0.0005228 すり足
+	leave WORD[191,   2]: 0.0005228 摺り足
+	leave WORD[191,   3]: 0.0005228 摺足
+TOKEN[192]: 0.0015483    3 deficiency
+	deficiency WORD[192,   1]: 0.0005921 不足
+	deficiency WORD[192,   2]: 0.0005044 足し
+	deficiency WORD[192,   3]: 0.0004519 過不足
+TOKEN[193]: 0.0015475    2 steed
+	steed WORD[193,   1]: 0.0009437 駿足
+	steed WORD[193,   2]: 0.0006038 俊足
+TOKEN[194]: 0.0015332    2 volatility
+	volatility WORD[194,   1]: 0.0007666 浮き足
+	volatility WORD[194,   2]: 0.0007666 浮足
+TOKEN[195]: 0.0015212    1 improve
+	improve WORD[195,   1]: 0.0015212 運び足
+TOKEN[196]: 0.0015155    1 surface
+	surface WORD[196,   1]: 0.0015155 毛足
+TOKEN[197]: 0.0015122    3 purpose
+	purpose WORD[197,   1]: 0.0007479 事足る
+	purpose WORD[197,   2]: 0.0003822 こと足りる
+	purpose WORD[197,   3]: 0.0003822 事足りる
+TOKEN[198]: 0.0015110    1 tube
+	tube WORD[198,   1]: 0.0015110 管足
+TOKEN[199]: 0.0015110    2 inducement
+	inducement WORD[199,   1]: 0.0007555 足止め
+	inducement WORD[199,   2]: 0.0007555 足留め
+TOKEN[200]: 0.0015065    1 topping
+	topping WORD[200,   1]: 0.0015065 注ぎ足し
+TOKEN[201]: 0.0014965    2 grounding
+	grounding WORD[201,   1]: 0.0007483 足止め
+	grounding WORD[201,   2]: 0.0007483 足留め
+TOKEN[202]: 0.0014946    3 getting
+	getting WORD[202,   1]: 0.0004982 足ならし
+	getting WORD[202,   2]: 0.0004982 足慣らし
+	getting WORD[202,   3]: 0.0004982 足馴らし
+TOKEN[203]: 0.0014871    2 brass
+	brass WORD[203,   1]: 0.0007435 お足
+	brass WORD[203,   2]: 0.0007435 御足
+TOKEN[204]: 0.0014837    3 soldier
+	soldier WORD[204,   1]: 0.0005692 足ぶみ
+	soldier WORD[204,   2]: 0.0005692 足踏み
+	soldier WORD[204,   3]: 0.0003453 足軽
+TOKEN[205]: 0.0014795    2 strive
+	strive WORD[205,   1]: 0.0007398 足掻く
+	strive WORD[205,   2]: 0.0007398 足搔く
+TOKEN[206]: 0.0014795    2 flail
+	flail WORD[206,   1]: 0.0007398 足掻く
+	flail WORD[206,   2]: 0.0007398 足搔く
+TOKEN[207]: 0.0014733    3 shape
+	shape WORD[207,   1]: 0.0004911 足ならし
+	shape WORD[207,   2]: 0.0004911 足慣らし
+	shape WORD[207,   3]: 0.0004911 足馴らし
+TOKEN[208]: 0.0014351    1 pig
+	pig WORD[208,   1]: 0.0014351 豚足
+TOKEN[209]: 0.0014342    2 unsteady
+	unsteady WORD[209,   1]: 0.0007171 浮き足
+	unsteady WORD[209,   2]: 0.0007171 浮足
+TOKEN[210]: 0.0014273    2 dough
+	dough WORD[210,   1]: 0.0007137 お足
+	dough WORD[210,   2]: 0.0007137 御足
+TOKEN[211]: 0.0014180    2 flounder
+	flounder WORD[211,   1]: 0.0007090 足掻く
+	flounder WORD[211,   2]: 0.0007090 足搔く
+TOKEN[212]: 0.0014135    2 stalemate
+	stalemate WORD[212,   1]: 0.0007067 足ぶみ
+	stalemate WORD[212,   2]: 0.0007067 足踏み
+TOKEN[213]: 0.0013876    2 adverse
+	adverse WORD[213,   1]: 0.0006938 足掻く
+	adverse WORD[213,   2]: 0.0006938 足搔く
+TOKEN[214]: 0.0013848    3 money
+	money WORD[214,   1]: 0.0004351 お足
+	money WORD[214,   2]: 0.0004351 御足
+	money WORD[214,   3]: 0.0002573 足
+TOKEN[215]: 0.0013744    2 fluctuation
+	fluctuation WORD[215,   1]: 0.0006872 浮き足
+	fluctuation WORD[215,   2]: 0.0006872 浮足
+TOKEN[216]: 0.0013729    1 patient
+	patient WORD[216,   1]: 0.0013729 足輪
+TOKEN[217]: 0.0013717    2 brisk
+	brisk WORD[217,   1]: 0.0006859 足早
+	brisk WORD[217,   2]: 0.0006859 足速
+TOKEN[218]: 0.0013698    2 useless
+	useless WORD[218,   1]: 0.0007360 悪足掻き
+	useless WORD[218,   2]: 0.0006338 蛇足
+TOKEN[219]: 0.0013689    2 unsettled
+	unsettled WORD[219,   1]: 0.0006845 浮き足
+	unsettled WORD[219,   2]: 0.0006845 浮足
+TOKEN[220]: 0.0013617    1 outdoor
+	outdoor WORD[220,   1]: 0.0006808 下足
+TOKEN[221]: 0.0013591    3 walk
+	walk WORD[221,   1]: 0.0003510 遠足
+	walk WORD[221,   2]: 0.0003360 足どり
+	walk WORD[221,   3]: 0.0003360 足取り
+TOKEN[222]: 0.0013545    2 standstill
+	standstill WORD[222,   1]: 0.0006773 足ぶみ
+	standstill WORD[222,   2]: 0.0006773 足踏み
+TOKEN[223]: 0.0013522    2 rice
+	rice WORD[223,   1]: 0.0008673 注ぎ足す
+	rice WORD[223,   2]: 0.0004849 つぎ足す
+TOKEN[224]: 0.0013492    3 trip
+	trip WORD[224,   1]: 0.0006894 遠足
+	trip WORD[224,   2]: 0.0003299 足かけ
+	trip WORD[224,   3]: 0.0003299 足掛け
+TOKEN[225]: 0.0013450    4 someone
+	someone WORD[225,   1]: 0.0003363 足止め
+	someone WORD[225,   2]: 0.0003363 足留め
+	someone WORD[225,   3]: 0.0003362 足げ
+	someone WORD[225,   4]: 0.0003362 足蹴
+TOKEN[226]: 0.0013356    2 flee
+	flee WORD[226,   1]: 0.0006678 浮き足
+	flee WORD[226,   2]: 0.0006678 浮足
+TOKEN[227]: 0.0013308    1 balance
+	balance WORD[227,   1]: 0.0013308 運び足
+TOKEN[228]: 0.0013304    1 riding
+	riding WORD[228,   1]: 0.0013304 跑足
+TOKEN[229]: 0.0013297    2 water
+	water WORD[229,   1]: 0.0008529 注ぎ足す
+	water WORD[229,   2]: 0.0004768 つぎ足す
+TOKEN[230]: 0.0013257    1 band
+	band WORD[230,   1]: 0.0013257 足輪
+TOKEN[231]: 0.0013155    2 restless
+	restless WORD[231,   1]: 0.0006578 浮き足
+	restless WORD[231,   2]: 0.0006578 浮足
+TOKEN[232]: 0.0013150    2 fleet
+	fleet WORD[232,   1]: 0.0008019 駿足
+	fleet WORD[232,   2]: 0.0005131 俊足
+TOKEN[233]: 0.0013080    2 indoors
+	indoors WORD[233,   1]: 0.0006540 足止め
+	indoors WORD[233,   2]: 0.0006540 足留め
+TOKEN[234]: 0.0013067    1 carrying
+	carrying WORD[234,   1]: 0.0013067 送り足
+TOKEN[235]: 0.0013004    2 muddy
+	muddy WORD[235,   1]: 0.0007754 泥足
+	muddy WORD[235,   2]: 0.0005250 土足
+TOKEN[236]: 0.0013003    2 marking
+	marking WORD[236,   1]: 0.0006501 足ぶみ
+	marking WORD[236,   2]: 0.0006501 足踏み
+TOKEN[237]: 0.0012945    1 hospital
+	hospital WORD[237,   1]: 0.0012945 足輪
+TOKEN[238]: 0.0012889    1 tray
+	tray WORD[238,   1]: 0.0006445 高足
+TOKEN[239]: 0.0012776    2 left
+	left WORD[239,   1]: 0.0008052 左足
+	left WORD[239,   2]: 0.0004725 足偏
+TOKEN[240]: 0.0012587    2 gifted
+	gifted WORD[240,   1]: 0.0007676 駿足
+	gifted WORD[240,   2]: 0.0004911 俊足
+TOKEN[241]: 0.0012403    1 soles
+	soles WORD[241,   1]: 0.0012403 地下足袋
+TOKEN[242]: 0.0012385    2 treating
+	treating WORD[242,   1]: 0.0006193 足げ
+	treating WORD[242,   2]: 0.0006193 足蹴
+TOKEN[243]: 0.0012245    1 blood
+	blood WORD[243,   1]: 0.0012245 足浴
+TOKEN[244]: 0.0012241    2 dyeing
+	dyeing WORD[244,   1]: 0.0006120 足止め
+	dyeing WORD[244,   2]: 0.0006120 足留め
+TOKEN[245]: 0.0012004    1 loss
+	loss WORD[245,   1]: 0.0012004 送り足
+TOKEN[246]: 0.0011810    2 runner
+	runner WORD[246,   1]: 0.0007202 駿足
+	runner WORD[246,   2]: 0.0004608 俊足
+TOKEN[247]: 0.0011807    1 white
+	white WORD[247,   1]: 0.0011807 白足袋
+TOKEN[248]: 0.0011785    2 lock
+	lock WORD[248,   1]: 0.0005893 足搦
+	lock WORD[248,   2]: 0.0005893 足搦み
+TOKEN[249]: 0.0011719    2 ready
+	ready WORD[249,   1]: 0.0005860 浮き足
+	ready WORD[249,   2]: 0.0005860 浮足
+TOKEN[250]: 0.0011717    1 liquid
+	liquid WORD[250,   1]: 0.0011717 注ぎ足し
+TOKEN[251]: 0.0011702    2 trail
+	trail WORD[251,   1]: 0.0003901 足どり
+	trail WORD[251,   2]: 0.0003901 足取り
+TOKEN[252]: 0.0011640    2 suspension
+	suspension WORD[252,   1]: 0.0005820 足回り
+	suspension WORD[252,   2]: 0.0005820 足廻り
+TOKEN[253]: 0.0011282    2 complement
+	complement WORD[253,   1]: 0.0006144 補足
+	complement WORD[253,   2]: 0.0005138 足し
+TOKEN[254]: 0.0011233    1 spread
+	spread WORD[254,   1]: 0.0011233 鎌足
+TOKEN[255]: 0.0011211    1 region
+	region WORD[255,   1]: 0.0011211 足部
+TOKEN[256]: 0.0011206    2 severe
+	severe WORD[256,   1]: 0.0005603 浮き足
+	severe WORD[256,   2]: 0.0005603 浮足
+TOKEN[257]: 0.0011203    2 fast
+	fast WORD[257,   1]: 0.0006832 駿足
+	fast WORD[257,   2]: 0.0004371 俊足
+TOKEN[258]: 0.0011198    2 deserve
+	deserve WORD[258,   1]: 0.0005599 足る
+	deserve WORD[258,   2]: 0.0005598 足りる
+TOKEN[259]: 0.0011141    2 trace
+	trace WORD[259,   1]: 0.0003714 足どり
+	trace WORD[259,   2]: 0.0003714 足取り
+TOKEN[260]: 0.0011136    1 opposed
+	opposed WORD[260,   1]: 0.0005568 下足
+TOKEN[261]: 0.0011029    2 distance
+	distance WORD[261,   1]: 0.0004504 ひと足
+	distance WORD[261,   2]: 0.0003263 一足
+TOKEN[262]: 0.0010982    1 buy
+	buy WORD[262,   1]: 0.0010982 買い足す
+TOKEN[263]: 0.0010951    1 bird
+	bird WORD[263,   1]: 0.0010951 足輪
+TOKEN[264]: 0.0010784    2 stay
+	stay WORD[264,   1]: 0.0005392 足止め
+	stay WORD[264,   2]: 0.0005392 足留め
+TOKEN[265]: 0.0010724    2 fire
+	fire WORD[265,   1]: 0.0005378 火足
+	fire WORD[265,   2]: 0.0005346 継ぎ足す
+TOKEN[266]: 0.0010697    2 effort
+	effort WORD[266,   1]: 0.0005348 足掻く
+	effort WORD[266,   2]: 0.0005348 足搔く
+TOKEN[267]: 0.0010682    2 weak
+	weak WORD[267,   1]: 0.0005341 足弱
+	weak WORD[267,   2]: 0.0005341 足切り
+TOKEN[268]: 0.0010630    2 arms
+	arms WORD[268,   1]: 0.0005315 足掻く
+	arms WORD[268,   2]: 0.0005315 足搔く
+TOKEN[269]: 0.0010618    2 pawing
+	pawing WORD[269,   1]: 0.0005309 足掻き
+	pawing WORD[269,   2]: 0.0005309 足搔き
+TOKEN[270]: 0.0010481    1 cabriole
+	cabriole WORD[270,   1]: 0.0010481 猫足
+TOKEN[271]: 0.0010473    1 stage
+	stage WORD[271,   1]: 0.0005237 高足
+TOKEN[272]: 0.0010453    2 vehicle
+	vehicle WORD[272,   1]: 0.0005226 足回り
+	vehicle WORD[272,   2]: 0.0005226 足廻り
+TOKEN[273]: 0.0010377    1 thrash
+	thrash WORD[273,   1]: 0.0010377 ばた足
+TOKEN[274]: 0.0010337    2 track
+	track WORD[274,   1]: 0.0003446 足どり
+	track WORD[274,   2]: 0.0003446 足取り
+TOKEN[275]: 0.0010279    1 ness
+	ness WORD[275,   1]: 0.0005139 足長
+TOKEN[276]: 0.0010063    1 lading
+	lading WORD[276,   1]: 0.0010063 荷足
+TOKEN[277]: 0.0010051    2 taken
+	taken WORD[277,   1]: 0.0003350 足どり
+	taken WORD[277,   2]: 0.0003350 足取り
+TOKEN[278]: 0.0010041    1 centipede
+	centipede WORD[278,   1]: 0.0010041 百足
+TOKEN[279]: 0.0010037    1 superfluity
+	superfluity WORD[279,   1]: 0.0010037 蛇足
+TOKEN[280]: 0.0010033    2 level
+	level WORD[280,   1]: 0.0005016 足止め
+	level WORD[280,   2]: 0.0005016 足留め
+TOKEN[281]: 0.0010027    2 leaving
+	leaving WORD[281,   1]: 0.0005014 足止め
+	leaving WORD[281,   2]: 0.0005014 足留め
+TOKEN[282]: 0.0010014    2 standing
+	standing WORD[282,   1]: 0.0005007 浮き足
+	standing WORD[282,   2]: 0.0005007 浮足
+TOKEN[283]: 0.0009982    1 four
+	four WORD[283,   1]: 0.0009982 四足
+TOKEN[284]: 0.0009889    2 route
+	route WORD[284,   1]: 0.0003296 足どり
+	route WORD[284,   2]: 0.0003296 足取り
+TOKEN[285]: 0.0009868    2 rain
+	rain WORD[285,   1]: 0.0004939 雨足
+	rain WORD[285,   2]: 0.0004930 足駄
+TOKEN[286]: 0.0009729    2 criminal
+	criminal WORD[286,   1]: 0.0003243 足どり
+	criminal WORD[286,   2]: 0.0003243 足取り
+TOKEN[287]: 0.0009701    2 worthy
+	worthy WORD[287,   1]: 0.0004851 足る
+	worthy WORD[287,   2]: 0.0004850 足りる
+TOKEN[288]: 0.0009687    1 ballast
+	ballast WORD[288,   1]: 0.0009687 荷足
+TOKEN[289]: 0.0009678    1 service
+	service WORD[289,   1]: 0.0004839 高足
+TOKEN[290]: 0.0009575    1 rubber
+	rubber WORD[290,   1]: 0.0009575 地下足袋
+TOKEN[291]: 0.0009408    1 set
+	set WORD[291,   1]: 0.0004704 高足
+TOKEN[292]: 0.0009367    2 pair
+	pair WORD[292,   1]: 0.0005647 足萎え
+	pair WORD[292,   2]: 0.0003720 片足
+TOKEN[293]: 0.0009336    1 fleetness
+	fleetness WORD[293,   1]: 0.0009336 逸足
+TOKEN[294]: 0.0009285    1 tack
+	tack WORD[294,   1]: 0.0009285 書き足す
+TOKEN[295]: 0.0009265    2 ankle
+	ankle WORD[295,   1]: 0.0004632 足頸
+	ankle WORD[295,   2]: 0.0004632 足首
+TOKEN[296]: 0.0008931    1 draught
+	draught WORD[296,   1]: 0.0008931 船足
+TOKEN[297]: 0.0008870    1 paragraph
+	paragraph WORD[297,   1]: 0.0008870 書き足す
+TOKEN[298]: 0.0008857    2 encumbrance
+	encumbrance WORD[298,   1]: 0.0004429 足かせ
+	encumbrance WORD[298,   2]: 0.0004429 足枷
+TOKEN[299]: 0.0008857    2 pedal
+	pedal WORD[299,   1]: 0.0004429 足かけ
+	pedal WORD[299,   2]: 0.0004429 足掛け
+TOKEN[300]: 0.0008819    1 skillfulness
+	skillfulness WORD[300,   1]: 0.0008819 手足れ
+TOKEN[301]: 0.0008799    2 area
+	area WORD[301,   1]: 0.0004399 足回り
+	area WORD[301,   2]: 0.0004399 足廻り
+TOKEN[302]: 0.0008721    3 stone
+	stone WORD[302,   1]: 0.0002907 足がかり
+	stone WORD[302,   2]: 0.0002907 足掛かり
+	stone WORD[302,   3]: 0.0002907 足掛り
+TOKEN[303]: 0.0008695    1 excursion
+	excursion WORD[303,   1]: 0.0008695 遠足
+TOKEN[304]: 0.0008592    1 sleep
+	sleep WORD[304,   1]: 0.0008592 寝足りる
+TOKEN[305]: 0.0008552    1 flutter
+	flutter WORD[305,   1]: 0.0008552 ばた足
+TOKEN[306]: 0.0008548    2 struggling
+	struggling WORD[306,   1]: 0.0004274 足掻き
+	struggling WORD[306,   2]: 0.0004274 足搔き
+TOKEN[307]: 0.0008488    2 worth
+	worth WORD[307,   1]: 0.0004245 足る
+	worth WORD[307,   2]: 0.0004244 足りる
+TOKEN[308]: 0.0008400    1 drawing
+	drawing WORD[308,   1]: 0.0008400 描き足す
+TOKEN[309]: 0.0008368    2 hand
+	hand WORD[309,   1]: 0.0005061 手足れ
+	hand WORD[309,   2]: 0.0003307 手足
+TOKEN[310]: 0.0008337    2 answer
+	answer WORD[310,   1]: 0.0004169 足る
+	answer WORD[310,   2]: 0.0004168 足りる
+TOKEN[311]: 0.0008257    1 daytime
+	daytime WORD[311,   1]: 0.0008257 日足
+TOKEN[312]: 0.0008251    1 tripping
+	tripping WORD[312,   1]: 0.0008251 足癖
+TOKEN[313]: 0.0008251    1 underfloor
+	underfloor WORD[313,   1]: 0.0008251 足固め
+TOKEN[314]: 0.0008237    1 completeness
+	completeness WORD[314,   1]: 0.0008237 具足
+TOKEN[315]: 0.0008198    1 dexterity
+	dexterity WORD[315,   1]: 0.0008198 手足れ
+TOKEN[316]: 0.0008144    2 system
+	system WORD[316,   1]: 0.0004072 足回り
+	system WORD[316,   2]: 0.0004072 足廻り
+TOKEN[317]: 0.0008111    1 vain
+	vain WORD[317,   1]: 0.0008111 悪足掻き
+TOKEN[318]: 0.0008082    1 lameness
+	lameness WORD[318,   1]: 0.0008082 足萎え
+TOKEN[319]: 0.0008082    1 stepladder
+	stepladder WORD[319,   1]: 0.0008082 足継ぎ
+TOKEN[320]: 0.0008080    1 redundancy
+	redundancy WORD[320,   1]: 0.0008080 蛇足
+TOKEN[321]: 0.0008048    1 mastery
+	mastery WORD[321,   1]: 0.0008048 手足れ
+TOKEN[322]: 0.0007968    2 base
+	base WORD[322,   1]: 0.0004959 足溜り
+	base WORD[322,   2]: 0.0003009 足場
+TOKEN[323]: 0.0007961    1 premature
+	premature WORD[323,   1]: 0.0007961 月足らず
+TOKEN[324]: 0.0007961    2 consecutive
+	consecutive WORD[324,   1]: 0.0003980 足かけ
+	consecutive WORD[324,   2]: 0.0003980 足掛け
+TOKEN[325]: 0.0007952    2 place
+	place WORD[325,   1]: 0.0003976 足ぶみ
+	place WORD[325,   2]: 0.0003976 足踏み
+TOKEN[326]: 0.0007848    1 spreading
+	spreading WORD[326,   1]: 0.0007848 火足
+TOKEN[327]: 0.0007833    1 heavy
+	heavy WORD[327,   1]: 0.0007833 地下足袋
+TOKEN[328]: 0.0007822    1 convenience
+	convenience WORD[328,   1]: 0.0007822 足場
+TOKEN[329]: 0.0007810    1 pivot
+	pivot WORD[329,   1]: 0.0007810 軸足
+TOKEN[330]: 0.0007801    1 octopus
+	octopus WORD[330,   1]: 0.0003900 足
+TOKEN[331]: 0.0007740    1 component
+	component WORD[331,   1]: 0.0003870 足
+TOKEN[332]: 0.0007683    1 structural
+	structural WORD[332,   1]: 0.0003841 足
+TOKEN[333]: 0.0007647    2 incomplete
+	incomplete WORD[333,   1]: 0.0003823 足かけ
+	incomplete WORD[333,   2]: 0.0003823 足掛け
+TOKEN[334]: 0.0007635    1 groundwork
+	groundwork WORD[334,   1]: 0.0007635 足固め
+TOKEN[335]: 0.0007555    1 cripple
+	cripple WORD[335,   1]: 0.0007555 足萎え
+TOKEN[336]: 0.0007555    1 stood
+	stood WORD[336,   1]: 0.0007555 足継ぎ
+TOKEN[337]: 0.0007548    1 resistance
+	resistance WORD[337,   1]: 0.0007548 悪足掻き
+TOKEN[338]: 0.0007537    1 forelimb
+	forelimb WORD[338,   1]: 0.0007537 前足
+TOKEN[339]: 0.0007531    1 spurt
+	spurt WORD[339,   1]: 0.0007531 差し足
+TOKEN[340]: 0.0007530    2 hindrance
+	hindrance WORD[340,   1]: 0.0003765 足かせ
+	hindrance WORD[340,   2]: 0.0003765 足枷
+TOKEN[341]: 0.0007515    1 squid
+	squid WORD[341,   1]: 0.0003757 足
+TOKEN[342]: 0.0007494    2 good
+	good WORD[342,   1]: 0.0003747 足まめ
+	good WORD[342,   2]: 0.0003747 足忠実
+TOKEN[343]: 0.0007463    2 job
+	job WORD[343,   1]: 0.0003732 足る
+	job WORD[343,   2]: 0.0003731 足りる
+TOKEN[344]: 0.0007446    2 make
+	make WORD[344,   1]: 0.0003723 足掻く
+	make WORD[344,   2]: 0.0003723 足搔く
+TOKEN[345]: 0.0007440    1 emphasis
+	emphasis WORD[345,   1]: 0.0007440 軸足
+TOKEN[346]: 0.0007399    1 shod
+	shod WORD[346,   1]: 0.0007399 土足
+TOKEN[347]: 0.0007355    1 strengthening
+	strengthening WORD[347,   1]: 0.0007355 足固め
+TOKEN[348]: 0.0007348    1 ray
+	ray WORD[348,   1]: 0.0007348 日足
+TOKEN[349]: 0.0007348    1 write
+	write WORD[349,   1]: 0.0007348 書き足す
+TOKEN[350]: 0.0007342    1 foreleg
+	foreleg WORD[350,   1]: 0.0007342 前足
+TOKEN[351]: 0.0007327    1 purveyor
+	purveyor WORD[351,   1]: 0.0007327 用足し
+TOKEN[352]: 0.0007304    1 overtake
+	overtake WORD[352,   1]: 0.0007304 差し足
+TOKEN[353]: 0.0007293    1 extend
+	extend WORD[353,   1]: 0.0007293 継ぎ足す
+TOKEN[354]: 0.0007285    1 happy
+	happy WORD[354,   1]: 0.0007285 満ち足りる
+TOKEN[355]: 0.0007281    1 swimming
+	swimming WORD[355,   1]: 0.0007281 ばた足
+TOKEN[356]: 0.0007203    1 draft
+	draft WORD[356,   1]: 0.0007203 船足
+TOKEN[357]: 0.0007191    1 forefoot
+	forefoot WORD[357,   1]: 0.0007191 前足
+TOKEN[358]: 0.0007183    1 priority
+	priority WORD[358,   1]: 0.0007183 軸足
+TOKEN[359]: 0.0007166    1 washroom
+	washroom WORD[359,   1]: 0.0007166 用足し
+TOKEN[360]: 0.0007161    1 ride
+	ride WORD[360,   1]: 0.0003581 足
+TOKEN[361]: 0.0007091    2 sports
+	sports WORD[361,   1]: 0.0003545 足さばき
+	sports WORD[361,   2]: 0.0003545 足捌き
+TOKEN[362]: 0.0007081    1 pretext
+	pretext WORD[362,   1]: 0.0007081 付け足り
+TOKEN[363]: 0.0007079    1 hull
+	hull WORD[363,   1]: 0.0007079 帆足
+TOKEN[364]: 0.0007077    1 chair
+	chair WORD[364,   1]: 0.0007077 猫足
+TOKEN[365]: 0.0007062    2 burden
+	burden WORD[365,   1]: 0.0003531 足かせ
+	burden WORD[365,   2]: 0.0003531 足枷
+TOKEN[366]: 0.0007061    1 contentment
+	contentment WORD[366,   1]: 0.0007061 満足
+TOKEN[367]: 0.0007029    1 soaking
+	soaking WORD[367,   1]: 0.0007029 足湯
+TOKEN[368]: 0.0007028    2 Japanese
+	Japanese WORD[368,   1]: 0.0003698 足袋
+	Japanese WORD[368,   2]: 0.0003330 足切り
+TOKEN[369]: 0.0006983    1 daily
+	daily WORD[369,   1]: 0.0006983 日足
+TOKEN[370]: 0.0006976    1 expert
+	expert WORD[370,   1]: 0.0006976 手足れ
+TOKEN[371]: 0.0006947    2 martial
+	martial WORD[371,   1]: 0.0003474 足さばき
+	martial WORD[371,   2]: 0.0003474 足捌き
+TOKEN[372]: 0.0006943    1 content
+	content WORD[372,   1]: 0.0006943 満ち足りる
+TOKEN[373]: 0.0006943    1 washing
+	washing WORD[373,   1]: 0.0006943 洗足
+TOKEN[374]: 0.0006905    1 progress
+	progress WORD[374,   1]: 0.0006905 長足
+TOKEN[375]: 0.0006875    2 page
+	page WORD[375,   1]: 0.0003438 足あと
+	page WORD[375,   2]: 0.0003438 足跡
+TOKEN[376]: 0.0006868    2 trap
+	trap WORD[376,   1]: 0.0003434 足かせ
+	trap WORD[376,   2]: 0.0003434 足枷
+TOKEN[377]: 0.0006823    1 arm
+	arm WORD[377,   1]: 0.0003411 足
+TOKEN[378]: 0.0006817    1 gratification
+	gratification WORD[378,   1]: 0.0006817 満足
+TOKEN[379]: 0.0006800    1 eliminate
+	eliminate WORD[379,   1]: 0.0006800 足切り
+TOKEN[380]: 0.0006757    1 greasy
+	greasy WORD[380,   1]: 0.0006757 脂足
+TOKEN[381]: 0.0006676    1 inauguration
+	inauguration WORD[381,   1]: 0.0006676 発足
+TOKEN[382]: 0.0006672    1 sale
+	sale WORD[382,   1]: 0.0006672 荷足
+TOKEN[383]: 0.0006659    1 pouring
+	pouring WORD[383,   1]: 0.0006659 雨足
+TOKEN[384]: 0.0006650    1 breaking
+	breaking WORD[384,   1]: 0.0006650 日足
+TOKEN[385]: 0.0006641    1 armor
+	armor WORD[385,   1]: 0.0006641 具足
+TOKEN[386]: 0.0006620    1 insufficiency
+	insufficiency WORD[386,   1]: 0.0006620 不足
+TOKEN[387]: 0.0006568    1 focus
+	focus WORD[387,   1]: 0.0006568 軸足
+TOKEN[388]: 0.0006528    1 sun
+	sun WORD[388,   1]: 0.0006528 日足
+TOKEN[389]: 0.0006523    1 sky
+	sky WORD[389,   1]: 0.0006523 日足
+TOKEN[390]: 0.0006494    1 adequate
+	adequate WORD[390,   1]: 0.0006494 満足
+TOKEN[391]: 0.0006453    1 satisfying
+	satisfying WORD[391,   1]: 0.0006453 満足
+TOKEN[392]: 0.0006430    1 discontent
+	discontent WORD[392,   1]: 0.0006430 不足
+TOKEN[393]: 0.0006420    1 sail
+	sail WORD[393,   1]: 0.0006420 帆足
+TOKEN[394]: 0.0006382    1 split
+	split WORD[394,   1]: 0.0006382 足袋
+TOKEN[395]: 0.0006378    1 fare
+	fare WORD[395,   1]: 0.0006378 足代
+TOKEN[396]: 0.0006378    1 taxi
+	taxi WORD[396,   1]: 0.0006378 足代
+TOKEN[397]: 0.0006355    1 beck
+	beck WORD[397,   1]: 0.0006355 手足
+TOKEN[398]: 0.0006329    1 dissatisfaction
+	dissatisfaction WORD[398,   1]: 0.0006329 不足
+TOKEN[399]: 0.0006312    1 information
+	information WORD[399,   1]: 0.0006312 書き足す
+TOKEN[400]: 0.0006303    1 birth
+	birth WORD[400,   1]: 0.0006303 月足らず
+TOKEN[401]: 0.0006299    1 sufficiency
+	sufficiency WORD[401,   1]: 0.0006299 充足
+TOKEN[402]: 0.0006273    1 wandering
+	wandering WORD[402,   1]: 0.0006273 足任せ
+TOKEN[403]: 0.0006252    1 work
+	work WORD[403,   1]: 0.0006252 地下足袋
+TOKEN[404]: 0.0006224    1 bottom
+	bottom WORD[404,   1]: 0.0003112 足
+TOKEN[405]: 0.0006223    1 tide
+	tide WORD[405,   1]: 0.0006223 潮足
+TOKEN[406]: 0.0006221    1 boat
+	boat WORD[406,   1]: 0.0006221 船足
+TOKEN[407]: 0.0006213    2 record
+	record WORD[407,   1]: 0.0003106 足あと
+	record WORD[407,   2]: 0.0003106 足跡
+TOKEN[408]: 0.0006192    1 wrestling
+	wrestling WORD[408,   1]: 0.0006192 足固め
+TOKEN[409]: 0.0006179    1 shower
+	shower WORD[409,   1]: 0.0006179 雨足
+TOKEN[410]: 0.0006161    1 decent
+	decent WORD[410,   1]: 0.0006161 満足
+TOKEN[411]: 0.0006155    1 preliminary
+	preliminary WORD[411,   1]: 0.0006155 足切り
+TOKEN[412]: 0.0006064    1 beam
+	beam WORD[412,   1]: 0.0006064 足固め
+TOKEN[413]: 0.0006031    1 scarcity
+	scarcity WORD[413,   1]: 0.0006031 不足
+TOKEN[414]: 0.0005953    2 social
+	social WORD[414,   1]: 0.0002977 足あと
+	social WORD[414,   2]: 0.0002977 足跡
+TOKEN[415]: 0.0005945    1 table
+	table WORD[415,   1]: 0.0005945 猫足
+TOKEN[416]: 0.0005934    1 cloud
+	cloud WORD[416,   1]: 0.0005934 雲足
+TOKEN[417]: 0.0005919    1 satisfaction
+	satisfaction WORD[417,   1]: 0.0005919 満足
+TOKEN[418]: 0.0005916    1 founding
+	founding WORD[418,   1]: 0.0005916 発足
+TOKEN[419]: 0.0005888    1 leading
+	leading WORD[419,   1]: 0.0005888 差し足
+TOKEN[420]: 0.0005866    1 satisfactory
+	satisfactory WORD[420,   1]: 0.0005866 満足
+TOKEN[421]: 0.0005857    1 master
+	master WORD[421,   1]: 0.0005857 手足れ
+TOKEN[422]: 0.0005850    1 transaction
+	transaction WORD[422,   1]: 0.0005850 用足し
+TOKEN[423]: 0.0005847    1 outstanding
+	outstanding WORD[423,   1]: 0.0005847 逸足
+TOKEN[424]: 0.0005847    1 suit
+	suit WORD[424,   1]: 0.0005847 具足
+TOKEN[425]: 0.0005844    1 turnout
+	turnout WORD[425,   1]: 0.0005844 出足
+TOKEN[426]: 0.0005767    1 travel
+	travel WORD[426,   1]: 0.0005767 足代
+TOKEN[427]: 0.0005744    1 overeagerness
+	overeagerness WORD[427,   1]: 0.0005744 勇み足
+TOKEN[428]: 0.0005734    1 elongation
+	elongation WORD[428,   1]: 0.0005734 継ぎ足し
+TOKEN[429]: 0.0005733    2 days
+	days WORD[429,   1]: 0.0002866 足かけ
+	days WORD[429,   2]: 0.0002866 足掛け
+TOKEN[430]: 0.0005674    1 rear
+	rear WORD[430,   1]: 0.0005674 後足
+TOKEN[431]: 0.0005634    1 strong
+	strong WORD[431,   1]: 0.0005634 力足
+TOKEN[432]: 0.0005632    1 finish
+	finish WORD[432,   1]: 0.0005632 差し足
+TOKEN[433]: 0.0005605    1 deficit
+	deficit WORD[433,   1]: 0.0005605 不足
+TOKEN[434]: 0.0005603    1 trouble
+	trouble WORD[434,   1]: 0.0005603 足労
+TOKEN[435]: 0.0005573    1 toilet
+	toilet WORD[435,   1]: 0.0005573 用足し
+TOKEN[436]: 0.0005565    1 equation
+	equation WORD[436,   1]: 0.0005565 満足
+TOKEN[437]: 0.0005533    1 previous
+	previous WORD[437,   1]: 0.0005533 足偏
+TOKEN[438]: 0.0005489    1 rope
+	rope WORD[438,   1]: 0.0005489 帆足
+TOKEN[439]: 0.0005450    1 launch
+	launch WORD[439,   1]: 0.0005450 発足
+TOKEN[440]: 0.0005380    1 ability
+	ability WORD[440,   1]: 0.0005380 驥足
+TOKEN[441]: 0.0005359    1 shortage
+	shortage WORD[441,   1]: 0.0005359 不足
+TOKEN[442]: 0.0005356    1 appendix
+	appendix WORD[442,   1]: 0.0005356 付け足し
+TOKEN[443]: 0.0005325    1 reach
+	reach WORD[443,   1]: 0.0005325 足継ぎ
+TOKEN[444]: 0.0005287    1 complaint
+	complaint WORD[444,   1]: 0.0005287 不足
+TOKEN[445]: 0.0005263    1 bath
+	bath WORD[445,   1]: 0.0005263 足湯
+TOKEN[446]: 0.0005238    1 establishment
+	establishment WORD[446,   1]: 0.0005238 発足
+TOKEN[447]: 0.0005237    1 reliable
+	reliable WORD[447,   1]: 0.0005237 手足
+TOKEN[448]: 0.0005220    1 hesitation
+	hesitation WORD[448,   1]: 0.0005220 二の足
+TOKEN[449]: 0.0005212    1 past
+	past WORD[449,   1]: 0.0005212 足偏
+TOKEN[450]: 0.0005179    1 house
+	house WORD[450,   1]: 0.0005179 継ぎ足す
+TOKEN[451]: 0.0005172    1 proper
+	proper WORD[451,   1]: 0.0005172 満足
+TOKEN[452]: 0.0005121    1 postscript
+	postscript WORD[452,   1]: 0.0005121 付け足し
+TOKEN[453]: 0.0005118    1 lower
+	lower WORD[453,   1]: 0.0005118 帆足
+TOKEN[454]: 0.0005078    1 lead
+	lead WORD[454,   1]: 0.0005078 足任せ
+TOKEN[455]: 0.0005059    1 big
+	big WORD[455,   1]: 0.0005059 大足
+TOKEN[456]: 0.0004982    1 full
+	full WORD[456,   1]: 0.0004982 驥足
+TOKEN[457]: 0.0004920    1 test
+	test WORD[457,   1]: 0.0004920 足切り
+TOKEN[458]: 0.0004837    1 train
+	train WORD[458,   1]: 0.0004837 足代
+TOKEN[459]: 0.0004810    1 hot
+	hot WORD[459,   1]: 0.0004810 足湯
+TOKEN[460]: 0.0004805    1 ship
+	ship WORD[460,   1]: 0.0004805 帆足
+TOKEN[461]: 0.0004787    1 wind
+	wind WORD[461,   1]: 0.0004787 風足
+TOKEN[462]: 0.0004774    1 lack
+	lack WORD[462,   1]: 0.0004774 不足
+TOKEN[463]: 0.0004761    1 dash
+	dash WORD[463,   1]: 0.0004761 出足
+TOKEN[464]: 0.0004738    1 starting
+	starting WORD[464,   1]: 0.0004738 発足
+TOKEN[465]: 0.0004736    2 period
+	period WORD[465,   1]: 0.0002368 足かけ
+	period WORD[465,   2]: 0.0002368 足掛け
+TOKEN[466]: 0.0004666    1 dirty
+	dirty WORD[466,   1]: 0.0004666 土足
+TOKEN[467]: 0.0004653    1 line
+	line WORD[467,   1]: 0.0004653 差し足
+TOKEN[468]: 0.0004633    1 scaffold
+	scaffold WORD[468,   1]: 0.0004633 足場
+TOKEN[469]: 0.0004616    1 hold
+	hold WORD[469,   1]: 0.0004616 足固め
+TOKEN[470]: 0.0004589    1 spring
+	spring WORD[470,   1]: 0.0004589 足湯
+TOKEN[471]: 0.0004579    1 extension
+	extension WORD[471,   1]: 0.0004579 継ぎ足し
+TOKEN[472]: 0.0004478    1 initial
+	initial WORD[472,   1]: 0.0004478 出足
+TOKEN[473]: 0.0004473    1 rashness
+	rashness WORD[473,   1]: 0.0004473 勇み足
+TOKEN[474]: 0.0004467    1 campaign
+	campaign WORD[474,   1]: 0.0004467 出足
+TOKEN[475]: 0.0004429    1 scaffolding
+	scaffolding WORD[475,   1]: 0.0004429 足場
+TOKEN[476]: 0.0004425    1 wearing
+	wearing WORD[476,   1]: 0.0004425 土足
+TOKEN[477]: 0.0004354    1 game
+	game WORD[477,   1]: 0.0004354 足切り
+TOKEN[478]: 0.0004347    1 outing
+	outing WORD[478,   1]: 0.0004347 遠足
+TOKEN[479]: 0.0004159    1 worker
+	worker WORD[479,   1]: 0.0004159 手足
+TOKEN[480]: 0.0004112    1 race
+	race WORD[480,   1]: 0.0004112 出足
+TOKEN[481]: 0.0004100    1 end
+	end WORD[481,   1]: 0.0004100 帆足
+TOKEN[482]: 0.0004083    1 right
+	right WORD[482,   1]: 0.0004083 右足
+TOKEN[483]: 0.0004077    1 approaching
+	approaching WORD[483,   1]: 0.0004077 足音
+TOKEN[484]: 0.0004017    1 custom
+	custom WORD[484,   1]: 0.0004017 客足
+TOKEN[485]: 0.0003947    1 excess
+	excess WORD[485,   1]: 0.0003947 過不足
+TOKEN[486]: 0.0003842    1 soft
+	soft WORD[486,   1]: 0.0003842 忍び足
+TOKEN[487]: 0.0003834    1 beginning
+	beginning WORD[487,   1]: 0.0003834 出足
+TOKEN[488]: 0.0003781    1 rail
+	rail WORD[488,   1]: 0.0003781 足場
+TOKEN[489]: 0.0003757    1 customer
+	customer WORD[489,   1]: 0.0003757 客足
+TOKEN[490]: 0.0003748    1 charge
+	charge WORD[490,   1]: 0.0003748 出足
+TOKEN[491]: 0.0003715    1 second
+	second WORD[491,   1]: 0.0003715 二の足
+TOKEN[492]: 0.0003681    1 artificial
+	artificial WORD[492,   1]: 0.0003681 義足
+TOKEN[493]: 0.0003657    1 call
+	call WORD[493,   1]: 0.0003657 手足
+TOKEN[494]: 0.0003606    1 start
+	start WORD[494,   1]: 0.0003606 出足
+TOKEN[495]: 0.0003602    1 feudal
+	feudal WORD[495,   1]: 0.0003602 足軽
+TOKEN[496]: 0.0003596    1 additional
+	additional WORD[496,   1]: 0.0003596 言い足す
+TOKEN[497]: 0.0003590    1 care
+	care WORD[497,   1]: 0.0003590 足す
+TOKEN[498]: 0.0003560    1 foundation
+	foundation WORD[498,   1]: 0.0003560 足場
+TOKEN[499]: 0.0003461    1 access
+	access WORD[499,   1]: 0.0003461 足場
+TOKEN[500]: 0.0003319    1 making
+	making WORD[500,   1]: 0.0003319 足し
+TOKEN[501]: 0.0003248    1 samurai
+	samurai WORD[501,   1]: 0.0003248 足軽
+TOKEN[502]: 0.0003199    1 said
+	said WORD[502,   1]: 0.0003199 言い足す
+TOKEN[503]: 0.0003158    1 much
+	much WORD[503,   1]: 0.0003158 過不足
+TOKEN[504]: 0.0003139    1 little
+	little WORD[504,   1]: 0.0003139 過不足
+TOKEN[505]: 0.0003116    1 sign
+	sign WORD[505,   1]: 0.0003116 足音
+TOKEN[506]: 0.0003102    1 people
+	people WORD[506,   1]: 0.0003102 出足
+TOKEN[507]: 0.0002995    1 rank
+	rank WORD[507,   1]: 0.0002995 足軽
+TOKEN[508]: 0.0002970    1 field
+	field WORD[508,   1]: 0.0002970 遠足
+TOKEN[509]: 0.0002953    1 sense
+	sense WORD[509,   1]: 0.0002953 足音
+TOKEN[510]: 0.0002948    1 road
+	road WORD[510,   1]: 0.0002948 足場
+TOKEN[511]: 0.0002901    1 say
+	say WORD[511,   1]: 0.0002901 言い足す
+TOKEN[512]: 0.0002847    1 sound
+	sound WORD[512,   1]: 0.0002847 足音
+TOKEN[513]: 0.0002831    1 take
+	take WORD[513,   1]: 0.0002831 足す
+TOKEN[514]: 0.0002711    1 common
+	common WORD[514,   1]: 0.0002711 足軽
+TOKEN[515]: 0.0002660    1 part
+	part WORD[515,   1]: 0.0002660 足先
+TOKEN[516]: 0.0002567    1 school
+	school WORD[516,   1]: 0.0002567 遠足
+TOKEN[517]: 0.0002319    1 Japan
+	Japan WORD[517,   1]: 0.0002319 足軽

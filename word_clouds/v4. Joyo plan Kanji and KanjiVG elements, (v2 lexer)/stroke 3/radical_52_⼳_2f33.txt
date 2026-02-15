@@ -1,0 +1,773 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1526171    1 millions       : 幾千万
+0.0374889   20 young          : 幼帝, 幼な妻, 幼妻, 幼獣, 幼木, 幼, 老幼, 幼弱, 幼者, 幼君, ...
+0.0354290    9 quiet          : 幽閑, 幽室, 幽窓, 幽静, 幽邃, 幽寂, 幽玄, 幽栖, 幽棲
+0.0312414    3 secluded       : 幽閑, 幽境, 幽邃
+0.0229609    2 bride          : 幼な妻, 幼妻
+0.0171978    8 childhood      : 幼齢, 幼名, 幼年, 幼時, 幼少, 幼なじみ, 幼馴染, 幼馴染み
+0.0164805    4 profound       : 幽雅, 幽婉, 幽艶, 幽玄
+0.0163925    1 room           : 幽室
+0.0162808    9 child          : 幼な妻, 幼妻, 幼童, 幼者, 幼心, 幼児, 幼な子, 幼子, 幼
+0.0153642    5 childish       : 幼な妻, 幼妻, 幼稚, 幼い, 幼けない
+0.0149232    4 hallucination  : 幻触, 幻聴, 幻視, 幻覚
+0.0134124    1 sundog         : 幻日
+0.0134124    1 parhelion      : 幻日
+0.0125836    1 refraction     : 幻日
+0.0113850    1 elegance       : 幽雅
+0.0108344    1 refinement     : 幽雅
+0.0102139    5 phantom        : 幻肢, 幻像, 幻影, 幻, 幽霊
+0.0101960    2 bird           : 幽鳥, 幼鳥
+0.0101856    7 infancy        : 幼年, 幼稚, 幼時, 幼少, 幼なじみ, 幼馴染, 幼馴染み
+0.0100969    1 tactile        : 幻触
+0.0099638    6 illusion       : 幻像, 幻術, 幻覚, 幻影, 幻, 幻想
+0.0098918    1 atmosphere     : 幻日
+0.0098779    8 little         : 幼童, 幼女, 幾ど, 幾許, 幼な子, 幼子, 幼い, 幼けない
+0.0097674    1 tincture       : 丁幾
+0.0092317    1 sunlight       : 幻日
+0.0091977    4 extent         : 幾ばく, 幾何, 幾許, 幾分
+0.0084050    2 wife           : 幼な妻, 幼妻
+0.0081434    1 ice            : 幻日
+0.0080595    4 magic          : 幻術, 幻妖, 幻灯, 幻燈
+0.0080058    1 sun            : 幻日
+0.0080058    1 dog            : 幻日
+0.0079247    1 mountain       : 幽鳥
+0.0077813    1 spot           : 幻日
+0.0076881    1 bright         : 幻日
+0.0074567    5 vision         : 幻像, 幻視, 幻影, 幻, 幻想
+0.0073782    4 many           : 幾ばく, 幾何, 幾許, 幾多
+0.0065523    3 much           : 幾ら, 幾ばく, 幾何
+0.0063778    1 side           : 幻日
+0.0061445    1 radicle        : 幼根
+0.0057508    3 mysterious     : 幻獣, 幻怪, 幽玄
+0.0055533    1 ethereal       : 幽体
+0.0052018    3 friend         : 幼なじみ, 幼馴染, 幼馴染み
+0.0050119    4 immature       : 幼稚, 幼体, 幼い, 幼けない
+0.0048476    2 mythical       : 幻獣, 幻
+0.0047395    1 germ           : 幼芽
+0.0045585    5 old            : 老幼, 長幼, 幼なじみ, 幼馴染, 幼馴染み
+0.0043022    1 limb           : 幻肢
+0.0042695    1 unidentified   : 幻獣
+0.0042002    3 seclusion      : 幽居, 幽栖, 幽棲
+0.0041930    2 amount         : 幾ばく, 幾何
+0.0041407    2 larva          : 幼生, 幼虫
+0.0041141    3 infant         : 幼者, 幼な子, 幼子
+0.0040800    1 emperor        : 幼帝
+0.0040127    1 wheat          : 幼芽
+0.0038525    2 juvenile       : 幼若, 幼鳥
+0.0038451    1 solitude       : 幽境
+0.0038360    3 playmate       : 幼なじみ, 幼馴染, 幼馴染み
+0.0038325    2 modest         : 幽婉, 幽艶
+0.0038177    1 mammal         : 幼獣
+0.0038060    2 animal         : 幼獣, 幼体
+0.0037688    4 deep           : 幽明, 幽冥, 幽遠, 幽谷
+0.0037285    3 ghost          : 幻妖, 幽鬼, 幽霊
+0.0037216    1 unchanging     : 幾久しい
+0.0036762    1 creature       : 幻獣
+0.0036275    3 strange        : 幻怪, 幽明, 幽冥
+0.0036233    2 fantasy        : 夢幻, 幻想
+0.0036162    2 girl           : 幼女, 幼
+0.0035499    3 dark           : 幽窓, 幽明, 幽冥
+0.0035369    1 beast          : 幻獣
+0.0034592    1 continued      : 幾久しい
+0.0034146    1 everlasting    : 幾久しい
+0.0034086    2 semidarkness   : 幽明, 幽冥
+0.0033996    1 window         : 幽窓
+0.0033905    2 projection     : 幻灯, 幻燈
+0.0033377    2 elegant        : 幽婉, 幽艶
+0.0033276    2 slide          : 幻灯, 幻燈
+0.0032994    2 lantern        : 幻灯, 幻燈
+0.0031968    1 eternal        : 幾久しい
+0.0031069    3 baby           : 幼顔, 幼な子, 幼子
+0.0030257    2 tender         : 幼気, 幼少
+0.0029472    3 dead           : 幽魂, 幽鬼, 幽界
+0.0029143    1 beseech        : 庶幾う
+0.0028527    1 body           : 幽体
+0.0028201    2 beautiful      : 幽婉, 幽艶
+0.0027325    1 large          : 幾ど
+0.0027262    1 larvae         : 幼生
+0.0027041    1 entreat        : 庶幾う
+0.0027041    1 implore        : 庶幾う
+0.0025419    1 hermitage      : 幽居
+0.0025034    1 bit            : 幾許
+0.0024932    2 apparition     : 幻, 幽霊
+0.0024143    1 beg            : 庶幾う
+0.0023771    1 auditory       : 幻聴
+0.0023656    1 certain        : 幾許
+0.0023536    1 lot            : 幾許
+0.0023469    1 tree           : 幼木
+0.0022926    2 dream          : 幻, 幻想
+0.0022921    2 something      : 幾ら, 幻
+0.0022532    2 part           : 幾ど, 幾分
+0.0022516    2 weak           : 幼弱, 幽か
+0.0022463    2 imprisonment   : 幽囚, 幽閉
+0.0022216    1 fry            : 幼魚
+0.0022100    1 majority       : 幾ど
+0.0021856    2 fleeting       : 幻, 幽し
+0.0021643    1 thing          : 幻
+0.0021433    1 witchcraft     : 幻術
+0.0020958    1 retirement     : 幽居
+0.0020824    1 wizardry       : 幻術
+0.0020622    1 request        : 庶幾う
+0.0020602    1 proportion     : 幾ど
+0.0020324    1 poet           : 幽窓
+0.0020292    1 number         : 幾許
+0.0020075    2 used           : 幻灯, 幻燈
+0.0020017    1 fabled         : 幻
+0.0019984    1 transformation : 変幻
+0.0019874    1 place          : 幽境
+0.0019740    1 infantile      : 幼稚
+0.0019659    2 present        : 幽明, 幽冥
+0.0019616    1 troubling      : 幻怪
+0.0019586    1 greater        : 幾ど
+0.0019550    1 adorable       : 幼気
+0.0019327    1 retreat        : 幽居
+0.0019106    1 sorcery        : 幻術
+0.0018980    1 grub           : 幼虫
+0.0018769    1 lord           : 幼君
+0.0018754    2 age            : 幼少, 幼児
+0.0018732    2 world          : 幽明, 幽冥
+0.0018439    1 organism       : 幼体
+0.0018324    1 visual         : 幻視
+0.0018293    1 helpless       : 幼気
+0.0018165    1 pylorus        : 幽門
+0.0018159    1 sequestered    : 幽寂
+0.0018155    1 revenant       : 幽鬼
+0.0017680    1 maggot         : 幼虫
+0.0017679    1 primitive      : 幼稚
+0.0017655    1 identity       : 幻妖
+0.0017053    1 cute           : 幼気
+0.0017043    1 duodenum       : 幽門
+0.0016919    1 chick          : 幼鳥
+0.0016795    1 unknown        : 幻妖
+0.0016669    2 light          : 幽明, 幽冥
+0.0016590    1 touching       : 幼気
+0.0016590    1 pathetic       : 幼気
+0.0016572    1 monster        : 幻妖
+0.0016509    1 innocent       : 幼気
+0.0016215    1 numerous       : 幾多
+0.0016199    1 master         : 幼君
+0.0016078    1 pitiful        : 幼気
+0.0015283    1 entrancement   : 幻惑
+0.0015283    1 bewitchment    : 幻惑
+0.0014784    1 hope           : 庶幾
+0.0014710    1 serene         : 幽静
+0.0014278    1 retired        : 幽邃
+0.0014197    1 name           : 幼名
+0.0014155    1 mind           : 幼心
+0.0013884    1 departed       : 幽鬼
+0.0013850    2 living         : 幽栖, 幽棲
+0.0013786    1 dazzlement     : 幻惑
+0.0013668    1 true           : 幻妖
+0.0013617    1 desire         : 庶幾
+0.0013282    1 fish           : 幼魚
+0.0013235    1 sweet          : 幼気
+0.0013090    1 disillusionment: 幻滅
+0.0012948    1 gloom          : 幽愁
+0.0012824    1 melancholy     : 幽愁
+0.0012776    1 portion        : 幾分
+0.0012624    1 rare           : 幻
+0.0012495    1 realm          : 幽界
+0.0012429    1 degree         : 幾分
+0.0012275    2 life           : 幽栖, 幽棲
+0.0012144    1 remote         : 幽遠
+0.0012016    1 fascination    : 幻惑
+0.0011994    1 soul           : 幽鬼
+0.0011911    1 toddler        : 幼児
+0.0011815    1 glen           : 幽谷
+0.0011536    1 profundity     : 幽玄
+0.0011445    1 item           : 幻
+0.0011418    2 faint          : 幽か, 幽し
+0.0011305    1 grief          : 幽愁
+0.0011268    1 people         : 幻妖
+0.0011204    1 face           : 幼顔
+0.0011195    1 stomach        : 幽門
+0.0010796    1 incarceration  : 幽閉
+0.0010704    1 subtle         : 幽玄
+0.0010678    1 matter         : 幾ら
+0.0010505    1 form           : 幼体
+0.0010212    1 specter        : 幽霊
+0.0010175    1 opening        : 幽門
+0.0009881    1 ravine         : 幽谷
+0.0009524    1 spirit         : 幽鬼
+0.0009251    1 fragrance      : 幽香
+0.0009031    1 confinement    : 幽閉
+0.0008053    1 beauty         : 幽玄
+0.0007336    1 heart          : 幼心
+0.0007210    1 scanty         : 幽か
+0.0007050    1 meagre         : 幽か
+0.0007050    1 meager         : 幽か
+0.0006780    1 school         : 幼児
+0.0006613    1 indistinct     : 幽か
+0.0006426    1 wretched       : 幽か
+0.0006362    1 hazy           : 幽か
+0.0005924    1 dim            : 幽か
+0.0005872    1 vague          : 幽か
+0.0005707    1 slight         : 幽か
+0.0005082    1 poor           : 幽か
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1526171    1 millions
+	millions WORD[ 1,   1]: 0.1526171 幾千万
+TOKEN[ 2]: 0.0374889   20 young
+	young WORD[ 2,   1]: 0.0039211 幼帝
+	young WORD[ 2,   2]: 0.0039203 幼な妻
+	young WORD[ 2,   3]: 0.0039202 幼妻
+	young WORD[ 2,   4]: 0.0025306 幼獣
+	young WORD[ 2,   5]: 0.0024648 幼木
+	young WORD[ 2,   6]: 0.0021717 幼
+	young WORD[ 2,   7]: 0.0015498 老幼
+	young WORD[ 2,   8]: 0.0015306 幼弱
+	young WORD[ 2,   9]: 0.0015306 幼者
+	young WORD[ 2,  10]: 0.0015304 幼君
+	young WORD[ 2,  11]: 0.0015304 幼魚
+	young WORD[ 2,  12]: 0.0013866 長幼
+	young WORD[ 2,  13]: 0.0012256 幼気
+	young WORD[ 2,  14]: 0.0011084 幼鳥
+	young WORD[ 2,  15]: 0.0011083 幼体
+	young WORD[ 2,  16]: 0.0009466 乳幼児
+	young WORD[ 2,  17]: 0.0007467 幼心
+	young WORD[ 2,  18]: 0.0007467 幼児
+	young WORD[ 2,  19]: 0.0007239 幼い
+	young WORD[ 2,  20]: 0.0007239 幼けない
+TOKEN[ 3]: 0.0354290    9 quiet
+	quiet WORD[ 3,   1]: 0.0192652 幽閑
+	quiet WORD[ 3,   2]: 0.0091215 幽室
+	quiet WORD[ 3,   3]: 0.0016117 幽窓
+	quiet WORD[ 3,   4]: 0.0010694 幽静
+	quiet WORD[ 3,   5]: 0.0010493 幽邃
+	quiet WORD[ 3,   6]: 0.0010492 幽寂
+	quiet WORD[ 3,   7]: 0.0007782 幽玄
+	quiet WORD[ 3,   8]: 0.0007422 幽栖
+	quiet WORD[ 3,   9]: 0.0007422 幽棲
+TOKEN[ 4]: 0.0312414    3 secluded
+	secluded WORD[ 4,   1]: 0.0262158 幽閑
+	secluded WORD[ 4,   2]: 0.0035978 幽境
+	secluded WORD[ 4,   3]: 0.0014278 幽邃
+TOKEN[ 5]: 0.0229609    2 bride
+	bride WORD[ 5,   1]: 0.0114805 幼な妻
+	bride WORD[ 5,   2]: 0.0114804 幼妻
+TOKEN[ 6]: 0.0171978    8 childhood
+	childhood WORD[ 6,   1]: 0.0068079 幼齢
+	childhood WORD[ 6,   2]: 0.0022425 幼名
+	childhood WORD[ 6,   3]: 0.0016230 幼年
+	childhood WORD[ 6,   4]: 0.0016222 幼時
+	childhood WORD[ 6,   5]: 0.0016222 幼少
+	childhood WORD[ 6,   6]: 0.0010934 幼なじみ
+	childhood WORD[ 6,   7]: 0.0010934 幼馴染
+	childhood WORD[ 6,   8]: 0.0010934 幼馴染み
+TOKEN[ 7]: 0.0164805    4 profound
+	profound WORD[ 7,   1]: 0.0117303 幽雅
+	profound WORD[ 7,   2]: 0.0024028 幽婉
+	profound WORD[ 7,   3]: 0.0013476 幽艶
+	profound WORD[ 7,   4]: 0.0009998 幽玄
+TOKEN[ 8]: 0.0163925    1 room
+	room WORD[ 8,   1]: 0.0163925 幽室
+TOKEN[ 9]: 0.0162808    9 child
+	child WORD[ 9,   1]: 0.0037922 幼な妻
+	child WORD[ 9,   2]: 0.0037922 幼妻
+	child WORD[ 9,   3]: 0.0014813 幼童
+	child WORD[ 9,   4]: 0.0014806 幼者
+	child WORD[ 9,   5]: 0.0014447 幼心
+	child WORD[ 9,   6]: 0.0014446 幼児
+	child WORD[ 9,   7]: 0.0007223 幼な子
+	child WORD[ 9,   8]: 0.0007223 幼子
+	child WORD[ 9,   9]: 0.0007003 幼
+TOKEN[10]: 0.0153642    5 childish
+	childish WORD[10,   1]: 0.0057934 幼な妻
+	childish WORD[10,   2]: 0.0057933 幼妻
+	childish WORD[10,   3]: 0.0016379 幼稚
+	childish WORD[10,   4]: 0.0010698 幼い
+	childish WORD[10,   5]: 0.0010698 幼けない
+TOKEN[11]: 0.0149232    4 hallucination
+	hallucination WORD[11,   1]: 0.0091182 幻触
+	hallucination WORD[11,   2]: 0.0019365 幻聴
+	hallucination WORD[11,   3]: 0.0019352 幻視
+	hallucination WORD[11,   4]: 0.0019334 幻覚
+TOKEN[12]: 0.0134124    1 sundog
+	sundog WORD[12,   1]: 0.0134124 幻日
+TOKEN[13]: 0.0134124    1 parhelion
+	parhelion WORD[13,   1]: 0.0134124 幻日
+TOKEN[14]: 0.0125836    1 refraction
+	refraction WORD[14,   1]: 0.0125836 幻日
+TOKEN[15]: 0.0113850    1 elegance
+	elegance WORD[15,   1]: 0.0113850 幽雅
+TOKEN[16]: 0.0108344    1 refinement
+	refinement WORD[16,   1]: 0.0108344 幽雅
+TOKEN[17]: 0.0102139    5 phantom
+	phantom WORD[17,   1]: 0.0040149 幻肢
+	phantom WORD[17,   2]: 0.0018333 幻像
+	phantom WORD[17,   3]: 0.0018305 幻影
+	phantom WORD[17,   4]: 0.0015440 幻
+	phantom WORD[17,   5]: 0.0009911 幽霊
+TOKEN[18]: 0.0101960    2 bird
+	bird WORD[18,   1]: 0.0090107 幽鳥
+	bird WORD[18,   2]: 0.0011854 幼鳥
+TOKEN[19]: 0.0101856    7 infancy
+	infancy WORD[19,   1]: 0.0016919 幼年
+	infancy WORD[19,   2]: 0.0016919 幼稚
+	infancy WORD[19,   3]: 0.0016911 幼時
+	infancy WORD[19,   4]: 0.0016911 幼少
+	infancy WORD[19,   5]: 0.0011398 幼なじみ
+	infancy WORD[19,   6]: 0.0011398 幼馴染
+	infancy WORD[19,   7]: 0.0011398 幼馴染み
+TOKEN[20]: 0.0100969    1 tactile
+	tactile WORD[20,   1]: 0.0100969 幻触
+TOKEN[21]: 0.0099638    6 illusion
+	illusion WORD[21,   1]: 0.0018176 幻像
+	illusion WORD[21,   2]: 0.0018170 幻術
+	illusion WORD[21,   3]: 0.0018150 幻覚
+	illusion WORD[21,   4]: 0.0018148 幻影
+	illusion WORD[21,   5]: 0.0015308 幻
+	illusion WORD[21,   6]: 0.0011686 幻想
+TOKEN[22]: 0.0098918    1 atmosphere
+	atmosphere WORD[22,   1]: 0.0098918 幻日
+TOKEN[23]: 0.0098779    8 little
+	little WORD[23,   1]: 0.0015838 幼童
+	little WORD[23,   2]: 0.0015830 幼女
+	little WORD[23,   3]: 0.0015314 幾ど
+	little WORD[23,   4]: 0.0010689 幾許
+	little WORD[23,   5]: 0.0007723 幼な子
+	little WORD[23,   6]: 0.0007723 幼子
+	little WORD[23,   7]: 0.0007487 幼い
+	little WORD[23,   8]: 0.0007487 幼けない
+TOKEN[24]: 0.0097674    1 tincture
+	tincture WORD[24,   1]: 0.0097674 丁幾
+TOKEN[25]: 0.0092317    1 sunlight
+	sunlight WORD[25,   1]: 0.0092317 幻日
+TOKEN[26]: 0.0091977    4 extent
+	extent WORD[26,   1]: 0.0022226 幾ばく
+	extent WORD[26,   2]: 0.0014621 幾何
+	extent WORD[26,   3]: 0.0013503 幾許
+	extent WORD[26,   4]: 0.0013503 幾分
+TOKEN[27]: 0.0084050    2 wife
+	wife WORD[27,   1]: 0.0042025 幼な妻
+	wife WORD[27,   2]: 0.0042025 幼妻
+TOKEN[28]: 0.0081434    1 ice
+	ice WORD[28,   1]: 0.0081434 幻日
+TOKEN[29]: 0.0080595    4 magic
+	magic WORD[29,   1]: 0.0032224 幻術
+	magic WORD[29,   2]: 0.0016127 幻妖
+	magic WORD[29,   3]: 0.0016122 幻灯
+	magic WORD[29,   4]: 0.0016122 幻燈
+TOKEN[30]: 0.0080058    1 sun
+	sun WORD[30,   1]: 0.0080058 幻日
+TOKEN[31]: 0.0080058    1 dog
+	dog WORD[31,   1]: 0.0080058 幻日
+TOKEN[32]: 0.0079247    1 mountain
+	mountain WORD[32,   1]: 0.0079247 幽鳥
+TOKEN[33]: 0.0077813    1 spot
+	spot WORD[33,   1]: 0.0077813 幻日
+TOKEN[34]: 0.0076881    1 bright
+	bright WORD[34,   1]: 0.0076881 幻日
+TOKEN[35]: 0.0074567    5 vision
+	vision WORD[35,   1]: 0.0016633 幻像
+	vision WORD[35,   2]: 0.0016625 幻視
+	vision WORD[35,   3]: 0.0016608 幻影
+	vision WORD[35,   4]: 0.0014008 幻
+	vision WORD[35,   5]: 0.0010694 幻想
+TOKEN[36]: 0.0073782    4 many
+	many WORD[36,   1]: 0.0017829 幾ばく
+	many WORD[36,   2]: 0.0011728 幾何
+	many WORD[36,   3]: 0.0010832 幾許
+	many WORD[36,   4]: 0.0010832 幾多
+TOKEN[37]: 0.0065523    3 much
+	much WORD[37,   1]: 0.0022550 幾ら
+	much WORD[37,   2]: 0.0018558 幾ばく
+	much WORD[37,   3]: 0.0012208 幾何
+TOKEN[38]: 0.0063778    1 side
+	side WORD[38,   1]: 0.0063778 幻日
+TOKEN[39]: 0.0061445    1 radicle
+	radicle WORD[39,   1]: 0.0061445 幼根
+TOKEN[40]: 0.0057508    3 mysterious
+	mysterious WORD[40,   1]: 0.0032931 幻獣
+	mysterious WORD[40,   2]: 0.0015679 幻怪
+	mysterious WORD[40,   3]: 0.0008898 幽玄
+TOKEN[41]: 0.0055533    1 ethereal
+	ethereal WORD[41,   1]: 0.0055533 幽体
+TOKEN[42]: 0.0052018    3 friend
+	friend WORD[42,   1]: 0.0017339 幼なじみ
+	friend WORD[42,   2]: 0.0017339 幼馴染
+	friend WORD[42,   3]: 0.0017339 幼馴染み
+TOKEN[43]: 0.0050119    4 immature
+	immature WORD[43,   1]: 0.0015159 幼稚
+	immature WORD[43,   2]: 0.0015158 幼体
+	immature WORD[43,   3]: 0.0009901 幼い
+	immature WORD[43,   4]: 0.0009901 幼けない
+TOKEN[44]: 0.0048476    2 mythical
+	mythical WORD[44,   1]: 0.0034587 幻獣
+	mythical WORD[44,   2]: 0.0013889 幻
+TOKEN[45]: 0.0047395    1 germ
+	germ WORD[45,   1]: 0.0047395 幼芽
+TOKEN[46]: 0.0045585    5 old
+	old WORD[46,   1]: 0.0013648 老幼
+	old WORD[46,   2]: 0.0012211 長幼
+	old WORD[46,   3]: 0.0006576 幼なじみ
+	old WORD[46,   4]: 0.0006576 幼馴染
+	old WORD[46,   5]: 0.0006576 幼馴染み
+TOKEN[47]: 0.0043022    1 limb
+	limb WORD[47,   1]: 0.0043022 幻肢
+TOKEN[48]: 0.0042695    1 unidentified
+	unidentified WORD[48,   1]: 0.0042695 幻獣
+TOKEN[49]: 0.0042002    3 seclusion
+	seclusion WORD[49,   1]: 0.0022513 幽居
+	seclusion WORD[49,   2]: 0.0009745 幽栖
+	seclusion WORD[49,   3]: 0.0009745 幽棲
+TOKEN[50]: 0.0041930    2 amount
+	amount WORD[50,   1]: 0.0018107 幾ばく
+	amount WORD[50,   2]: 0.0011911 幾何
+TOKEN[51]: 0.0041407    2 larva
+	larva WORD[51,   1]: 0.0024017 幼生
+	larva WORD[51,   2]: 0.0017390 幼虫
+TOKEN[52]: 0.0041141    3 infant
+	infant WORD[52,   1]: 0.0020823 幼者
+	infant WORD[52,   2]: 0.0010159 幼な子
+	infant WORD[52,   3]: 0.0010159 幼子
+TOKEN[53]: 0.0040800    1 emperor
+	emperor WORD[53,   1]: 0.0040800 幼帝
+TOKEN[54]: 0.0040127    1 wheat
+	wheat WORD[54,   1]: 0.0040127 幼芽
+TOKEN[55]: 0.0038525    2 juvenile
+	juvenile WORD[55,   1]: 0.0022685 幼若
+	juvenile WORD[55,   2]: 0.0015840 幼鳥
+TOKEN[56]: 0.0038451    1 solitude
+	solitude WORD[56,   1]: 0.0038451 幽境
+TOKEN[57]: 0.0038360    3 playmate
+	playmate WORD[57,   1]: 0.0012787 幼なじみ
+	playmate WORD[57,   2]: 0.0012787 幼馴染
+	playmate WORD[57,   3]: 0.0012787 幼馴染み
+TOKEN[58]: 0.0038325    2 modest
+	modest WORD[58,   1]: 0.0024554 幽婉
+	modest WORD[58,   2]: 0.0013771 幽艶
+TOKEN[59]: 0.0038177    1 mammal
+	mammal WORD[59,   1]: 0.0038177 幼獣
+TOKEN[60]: 0.0038060    2 animal
+	animal WORD[60,   1]: 0.0026468 幼獣
+	animal WORD[60,   2]: 0.0011592 幼体
+TOKEN[61]: 0.0037688    4 deep
+	deep WORD[61,   1]: 0.0010073 幽明
+	deep WORD[61,   2]: 0.0010073 幽冥
+	deep WORD[61,   3]: 0.0010066 幽遠
+	deep WORD[61,   4]: 0.0007475 幽谷
+TOKEN[62]: 0.0037285    3 ghost
+	ghost WORD[62,   1]: 0.0016185 幻妖
+	ghost WORD[62,   2]: 0.0012355 幽鬼
+	ghost WORD[62,   3]: 0.0008744 幽霊
+TOKEN[63]: 0.0037216    1 unchanging
+	unchanging WORD[63,   1]: 0.0037216 幾久しい
+TOKEN[64]: 0.0036762    1 creature
+	creature WORD[64,   1]: 0.0036762 幻獣
+TOKEN[65]: 0.0036275    3 strange
+	strange WORD[65,   1]: 0.0014333 幻怪
+	strange WORD[65,   2]: 0.0010971 幽明
+	strange WORD[65,   3]: 0.0010971 幽冥
+TOKEN[66]: 0.0036233    2 fantasy
+	fantasy WORD[66,   1]: 0.0023603 夢幻
+	fantasy WORD[66,   2]: 0.0012630 幻想
+TOKEN[67]: 0.0036162    2 girl
+	girl WORD[67,   1]: 0.0018583 幼女
+	girl WORD[67,   2]: 0.0008789 幼
+TOKEN[68]: 0.0035499    3 dark
+	dark WORD[68,   1]: 0.0015418 幽窓
+	dark WORD[68,   2]: 0.0010040 幽明
+	dark WORD[68,   3]: 0.0010040 幽冥
+TOKEN[69]: 0.0035369    1 beast
+	beast WORD[69,   1]: 0.0035369 幻獣
+TOKEN[70]: 0.0034592    1 continued
+	continued WORD[70,   1]: 0.0034592 幾久しい
+TOKEN[71]: 0.0034146    1 everlasting
+	everlasting WORD[71,   1]: 0.0034146 幾久しい
+TOKEN[72]: 0.0034086    2 semidarkness
+	semidarkness WORD[72,   1]: 0.0017043 幽明
+	semidarkness WORD[72,   2]: 0.0017043 幽冥
+TOKEN[73]: 0.0033996    1 window
+	window WORD[73,   1]: 0.0033996 幽窓
+TOKEN[74]: 0.0033905    2 projection
+	projection WORD[74,   1]: 0.0016953 幻灯
+	projection WORD[74,   2]: 0.0016953 幻燈
+TOKEN[75]: 0.0033377    2 elegant
+	elegant WORD[75,   1]: 0.0021384 幽婉
+	elegant WORD[75,   2]: 0.0011993 幽艶
+TOKEN[76]: 0.0033276    2 slide
+	slide WORD[76,   1]: 0.0016638 幻灯
+	slide WORD[76,   2]: 0.0016638 幻燈
+TOKEN[77]: 0.0032994    2 lantern
+	lantern WORD[77,   1]: 0.0016497 幻灯
+	lantern WORD[77,   2]: 0.0016497 幻燈
+TOKEN[78]: 0.0031968    1 eternal
+	eternal WORD[78,   1]: 0.0031968 幾久しい
+TOKEN[79]: 0.0031069    3 baby
+	baby WORD[79,   1]: 0.0013977 幼顔
+	baby WORD[79,   2]: 0.0008546 幼な子
+	baby WORD[79,   3]: 0.0008546 幼子
+TOKEN[80]: 0.0030257    2 tender
+	tender WORD[80,   1]: 0.0015892 幼気
+	tender WORD[80,   2]: 0.0014365 幼少
+TOKEN[81]: 0.0029472    3 dead
+	dead WORD[81,   1]: 0.0009825 幽魂
+	dead WORD[81,   2]: 0.0009824 幽鬼
+	dead WORD[81,   3]: 0.0009823 幽界
+TOKEN[82]: 0.0029143    1 beseech
+	beseech WORD[82,   1]: 0.0029143 庶幾う
+TOKEN[83]: 0.0028527    1 body
+	body WORD[83,   1]: 0.0028527 幽体
+TOKEN[84]: 0.0028201    2 beautiful
+	beautiful WORD[84,   1]: 0.0018068 幽婉
+	beautiful WORD[84,   2]: 0.0010133 幽艶
+TOKEN[85]: 0.0027325    1 large
+	large WORD[85,   1]: 0.0027325 幾ど
+TOKEN[86]: 0.0027262    1 larvae
+	larvae WORD[86,   1]: 0.0027262 幼生
+TOKEN[87]: 0.0027041    1 entreat
+	entreat WORD[87,   1]: 0.0027041 庶幾う
+TOKEN[88]: 0.0027041    1 implore
+	implore WORD[88,   1]: 0.0027041 庶幾う
+TOKEN[89]: 0.0025419    1 hermitage
+	hermitage WORD[89,   1]: 0.0025419 幽居
+TOKEN[90]: 0.0025034    1 bit
+	bit WORD[90,   1]: 0.0012517 幾許
+TOKEN[91]: 0.0024932    2 apparition
+	apparition WORD[91,   1]: 0.0015185 幻
+	apparition WORD[91,   2]: 0.0009747 幽霊
+TOKEN[92]: 0.0024143    1 beg
+	beg WORD[92,   1]: 0.0024143 庶幾う
+TOKEN[93]: 0.0023771    1 auditory
+	auditory WORD[93,   1]: 0.0023771 幻聴
+TOKEN[94]: 0.0023656    1 certain
+	certain WORD[94,   1]: 0.0011828 幾許
+TOKEN[95]: 0.0023536    1 lot
+	lot WORD[95,   1]: 0.0011768 幾許
+TOKEN[96]: 0.0023469    1 tree
+	tree WORD[96,   1]: 0.0023469 幼木
+TOKEN[97]: 0.0022926    2 dream
+	dream WORD[97,   1]: 0.0013001 幻
+	dream WORD[97,   2]: 0.0009925 幻想
+TOKEN[98]: 0.0022921    2 something
+	something WORD[98,   1]: 0.0015178 幾ら
+	something WORD[98,   2]: 0.0007743 幻
+TOKEN[99]: 0.0022532    2 part
+	part WORD[99,   1]: 0.0013270 幾ど
+	part WORD[99,   2]: 0.0009262 幾分
+TOKEN[100]: 0.0022516    2 weak
+	weak WORD[100,   1]: 0.0017206 幼弱
+	weak WORD[100,   2]: 0.0005310 幽か
+TOKEN[101]: 0.0022463    2 imprisonment
+	imprisonment WORD[101,   1]: 0.0013155 幽囚
+	imprisonment WORD[101,   2]: 0.0009308 幽閉
+TOKEN[102]: 0.0022216    1 fry
+	fry WORD[102,   1]: 0.0022216 幼魚
+TOKEN[103]: 0.0022100    1 majority
+	majority WORD[103,   1]: 0.0022100 幾ど
+TOKEN[104]: 0.0021856    2 fleeting
+	fleeting WORD[104,   1]: 0.0015440 幻
+	fleeting WORD[104,   2]: 0.0006415 幽し
+TOKEN[105]: 0.0021643    1 thing
+	thing WORD[105,   1]: 0.0021643 幻
+TOKEN[106]: 0.0021433    1 witchcraft
+	witchcraft WORD[106,   1]: 0.0021433 幻術
+TOKEN[107]: 0.0020958    1 retirement
+	retirement WORD[107,   1]: 0.0020958 幽居
+TOKEN[108]: 0.0020824    1 wizardry
+	wizardry WORD[108,   1]: 0.0020824 幻術
+TOKEN[109]: 0.0020622    1 request
+	request WORD[109,   1]: 0.0020622 庶幾う
+TOKEN[110]: 0.0020602    1 proportion
+	proportion WORD[110,   1]: 0.0020602 幾ど
+TOKEN[111]: 0.0020324    1 poet
+	poet WORD[111,   1]: 0.0020324 幽窓
+TOKEN[112]: 0.0020292    1 number
+	number WORD[112,   1]: 0.0010146 幾許
+TOKEN[113]: 0.0020075    2 used
+	used WORD[113,   1]: 0.0010038 幻灯
+	used WORD[113,   2]: 0.0010037 幻燈
+TOKEN[114]: 0.0020017    1 fabled
+	fabled WORD[114,   1]: 0.0020017 幻
+TOKEN[115]: 0.0019984    1 transformation
+	transformation WORD[115,   1]: 0.0019984 変幻
+TOKEN[116]: 0.0019874    1 place
+	place WORD[116,   1]: 0.0019874 幽境
+TOKEN[117]: 0.0019740    1 infantile
+	infantile WORD[117,   1]: 0.0019740 幼稚
+TOKEN[118]: 0.0019659    2 present
+	present WORD[118,   1]: 0.0009830 幽明
+	present WORD[118,   2]: 0.0009829 幽冥
+TOKEN[119]: 0.0019616    1 troubling
+	troubling WORD[119,   1]: 0.0019616 幻怪
+TOKEN[120]: 0.0019586    1 greater
+	greater WORD[120,   1]: 0.0019586 幾ど
+TOKEN[121]: 0.0019550    1 adorable
+	adorable WORD[121,   1]: 0.0019550 幼気
+TOKEN[122]: 0.0019327    1 retreat
+	retreat WORD[122,   1]: 0.0019327 幽居
+TOKEN[123]: 0.0019106    1 sorcery
+	sorcery WORD[123,   1]: 0.0019106 幻術
+TOKEN[124]: 0.0018980    1 grub
+	grub WORD[124,   1]: 0.0018980 幼虫
+TOKEN[125]: 0.0018769    1 lord
+	lord WORD[125,   1]: 0.0018769 幼君
+TOKEN[126]: 0.0018754    2 age
+	age WORD[126,   1]: 0.0011203 幼少
+	age WORD[126,   2]: 0.0007551 幼児
+TOKEN[127]: 0.0018732    2 world
+	world WORD[127,   1]: 0.0009366 幽明
+	world WORD[127,   2]: 0.0009366 幽冥
+TOKEN[128]: 0.0018439    1 organism
+	organism WORD[128,   1]: 0.0018439 幼体
+TOKEN[129]: 0.0018324    1 visual
+	visual WORD[129,   1]: 0.0018324 幻視
+TOKEN[130]: 0.0018293    1 helpless
+	helpless WORD[130,   1]: 0.0018293 幼気
+TOKEN[131]: 0.0018165    1 pylorus
+	pylorus WORD[131,   1]: 0.0018165 幽門
+TOKEN[132]: 0.0018159    1 sequestered
+	sequestered WORD[132,   1]: 0.0018159 幽寂
+TOKEN[133]: 0.0018155    1 revenant
+	revenant WORD[133,   1]: 0.0018155 幽鬼
+TOKEN[134]: 0.0017680    1 maggot
+	maggot WORD[134,   1]: 0.0017680 幼虫
+TOKEN[135]: 0.0017679    1 primitive
+	primitive WORD[135,   1]: 0.0017679 幼稚
+TOKEN[136]: 0.0017655    1 identity
+	identity WORD[136,   1]: 0.0017655 幻妖
+TOKEN[137]: 0.0017053    1 cute
+	cute WORD[137,   1]: 0.0017053 幼気
+TOKEN[138]: 0.0017043    1 duodenum
+	duodenum WORD[138,   1]: 0.0017043 幽門
+TOKEN[139]: 0.0016919    1 chick
+	chick WORD[139,   1]: 0.0016919 幼鳥
+TOKEN[140]: 0.0016795    1 unknown
+	unknown WORD[140,   1]: 0.0016795 幻妖
+TOKEN[141]: 0.0016669    2 light
+	light WORD[141,   1]: 0.0008334 幽明
+	light WORD[141,   2]: 0.0008334 幽冥
+TOKEN[142]: 0.0016590    1 touching
+	touching WORD[142,   1]: 0.0016590 幼気
+TOKEN[143]: 0.0016590    1 pathetic
+	pathetic WORD[143,   1]: 0.0016590 幼気
+TOKEN[144]: 0.0016572    1 monster
+	monster WORD[144,   1]: 0.0016572 幻妖
+TOKEN[145]: 0.0016509    1 innocent
+	innocent WORD[145,   1]: 0.0016509 幼気
+TOKEN[146]: 0.0016215    1 numerous
+	numerous WORD[146,   1]: 0.0016215 幾多
+TOKEN[147]: 0.0016199    1 master
+	master WORD[147,   1]: 0.0016199 幼君
+TOKEN[148]: 0.0016078    1 pitiful
+	pitiful WORD[148,   1]: 0.0016078 幼気
+TOKEN[149]: 0.0015283    1 entrancement
+	entrancement WORD[149,   1]: 0.0015283 幻惑
+TOKEN[150]: 0.0015283    1 bewitchment
+	bewitchment WORD[150,   1]: 0.0015283 幻惑
+TOKEN[151]: 0.0014784    1 hope
+	hope WORD[151,   1]: 0.0014784 庶幾
+TOKEN[152]: 0.0014710    1 serene
+	serene WORD[152,   1]: 0.0014710 幽静
+TOKEN[153]: 0.0014278    1 retired
+	retired WORD[153,   1]: 0.0014278 幽邃
+TOKEN[154]: 0.0014197    1 name
+	name WORD[154,   1]: 0.0014197 幼名
+TOKEN[155]: 0.0014155    1 mind
+	mind WORD[155,   1]: 0.0014155 幼心
+TOKEN[156]: 0.0013884    1 departed
+	departed WORD[156,   1]: 0.0013884 幽鬼
+TOKEN[157]: 0.0013850    2 living
+	living WORD[157,   1]: 0.0006925 幽栖
+	living WORD[157,   2]: 0.0006925 幽棲
+TOKEN[158]: 0.0013786    1 dazzlement
+	dazzlement WORD[158,   1]: 0.0013786 幻惑
+TOKEN[159]: 0.0013668    1 true
+	true WORD[159,   1]: 0.0013668 幻妖
+TOKEN[160]: 0.0013617    1 desire
+	desire WORD[160,   1]: 0.0013617 庶幾
+TOKEN[161]: 0.0013282    1 fish
+	fish WORD[161,   1]: 0.0013282 幼魚
+TOKEN[162]: 0.0013235    1 sweet
+	sweet WORD[162,   1]: 0.0013235 幼気
+TOKEN[163]: 0.0013090    1 disillusionment
+	disillusionment WORD[163,   1]: 0.0013090 幻滅
+TOKEN[164]: 0.0012948    1 gloom
+	gloom WORD[164,   1]: 0.0012948 幽愁
+TOKEN[165]: 0.0012824    1 melancholy
+	melancholy WORD[165,   1]: 0.0012824 幽愁
+TOKEN[166]: 0.0012776    1 portion
+	portion WORD[166,   1]: 0.0012776 幾分
+TOKEN[167]: 0.0012624    1 rare
+	rare WORD[167,   1]: 0.0012624 幻
+TOKEN[168]: 0.0012495    1 realm
+	realm WORD[168,   1]: 0.0012495 幽界
+TOKEN[169]: 0.0012429    1 degree
+	degree WORD[169,   1]: 0.0012429 幾分
+TOKEN[170]: 0.0012275    2 life
+	life WORD[170,   1]: 0.0006138 幽栖
+	life WORD[170,   2]: 0.0006138 幽棲
+TOKEN[171]: 0.0012144    1 remote
+	remote WORD[171,   1]: 0.0012144 幽遠
+TOKEN[172]: 0.0012016    1 fascination
+	fascination WORD[172,   1]: 0.0012016 幻惑
+TOKEN[173]: 0.0011994    1 soul
+	soul WORD[173,   1]: 0.0011994 幽鬼
+TOKEN[174]: 0.0011911    1 toddler
+	toddler WORD[174,   1]: 0.0011911 幼児
+TOKEN[175]: 0.0011815    1 glen
+	glen WORD[175,   1]: 0.0011815 幽谷
+TOKEN[176]: 0.0011536    1 profundity
+	profundity WORD[176,   1]: 0.0011536 幽玄
+TOKEN[177]: 0.0011445    1 item
+	item WORD[177,   1]: 0.0011445 幻
+TOKEN[178]: 0.0011418    2 faint
+	faint WORD[178,   1]: 0.0005924 幽か
+	faint WORD[178,   2]: 0.0005495 幽し
+TOKEN[179]: 0.0011305    1 grief
+	grief WORD[179,   1]: 0.0011305 幽愁
+TOKEN[180]: 0.0011268    1 people
+	people WORD[180,   1]: 0.0011268 幻妖
+TOKEN[181]: 0.0011204    1 face
+	face WORD[181,   1]: 0.0011204 幼顔
+TOKEN[182]: 0.0011195    1 stomach
+	stomach WORD[182,   1]: 0.0011195 幽門
+TOKEN[183]: 0.0010796    1 incarceration
+	incarceration WORD[183,   1]: 0.0010796 幽閉
+TOKEN[184]: 0.0010704    1 subtle
+	subtle WORD[184,   1]: 0.0010704 幽玄
+TOKEN[185]: 0.0010678    1 matter
+	matter WORD[185,   1]: 0.0010678 幾ら
+TOKEN[186]: 0.0010505    1 form
+	form WORD[186,   1]: 0.0010505 幼体
+TOKEN[187]: 0.0010212    1 specter
+	specter WORD[187,   1]: 0.0010212 幽霊
+TOKEN[188]: 0.0010175    1 opening
+	opening WORD[188,   1]: 0.0010175 幽門
+TOKEN[189]: 0.0009881    1 ravine
+	ravine WORD[189,   1]: 0.0009881 幽谷
+TOKEN[190]: 0.0009524    1 spirit
+	spirit WORD[190,   1]: 0.0009524 幽鬼
+TOKEN[191]: 0.0009251    1 fragrance
+	fragrance WORD[191,   1]: 0.0009251 幽香
+TOKEN[192]: 0.0009031    1 confinement
+	confinement WORD[192,   1]: 0.0009031 幽閉
+TOKEN[193]: 0.0008053    1 beauty
+	beauty WORD[193,   1]: 0.0008053 幽玄
+TOKEN[194]: 0.0007336    1 heart
+	heart WORD[194,   1]: 0.0007336 幼心
+TOKEN[195]: 0.0007210    1 scanty
+	scanty WORD[195,   1]: 0.0007210 幽か
+TOKEN[196]: 0.0007050    1 meagre
+	meagre WORD[196,   1]: 0.0007050 幽か
+TOKEN[197]: 0.0007050    1 meager
+	meager WORD[197,   1]: 0.0007050 幽か
+TOKEN[198]: 0.0006780    1 school
+	school WORD[198,   1]: 0.0006780 幼児
+TOKEN[199]: 0.0006613    1 indistinct
+	indistinct WORD[199,   1]: 0.0006613 幽か
+TOKEN[200]: 0.0006426    1 wretched
+	wretched WORD[200,   1]: 0.0006426 幽か
+TOKEN[201]: 0.0006362    1 hazy
+	hazy WORD[201,   1]: 0.0006362 幽か
+TOKEN[202]: 0.0005924    1 dim
+	dim WORD[202,   1]: 0.0005924 幽か
+TOKEN[203]: 0.0005872    1 vague
+	vague WORD[203,   1]: 0.0005872 幽か
+TOKEN[204]: 0.0005707    1 slight
+	slight WORD[204,   1]: 0.0005707 幽か
+TOKEN[205]: 0.0005082    1 poor
+	poor WORD[205,   1]: 0.0005082 幽か

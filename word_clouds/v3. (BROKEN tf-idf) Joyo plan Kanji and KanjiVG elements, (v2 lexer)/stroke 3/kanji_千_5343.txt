@@ -1,0 +1,358 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1647736    1 millions       : 幾千万
+0.0375778   20 thousand       : 千夜, 千載, 四千, ４千, 八千代, 八千, ８千, 七千, ７千, 千世, ...
+0.0301400   10 great          : 千鈞, 千仭, 千仞, 千尋, 千々, 千千, 千古, 千種, 千草, 千金
+0.0294385    1 japonica       : 千振
+0.0281384    1 innumerable    : 千入
+0.0272905    1 Sialis         : 千振
+0.0270931    1 soaking        : 千入
+0.0248411    1 Swertia        : 千振
+0.0241996    1 alder          : 千振
+0.0241428    2 pricelessness  : 千鈞, 千金
+0.0237021    1 gentian        : 千振
+0.0227843    1 dye            : 千入
+0.0215235    2 kan            : 千鈞, 千金
+0.0188505    1 times          : 千入
+0.0164653    1 bedrock        : 千畳敷
+0.0161837    2 yen            : 千鈞, 千金
+0.0152468    1 plateau        : 千畳敷
+0.0151950    1 fly            : 千振
+0.0151300    1 terrain        : 千畳敷
+0.0148713    3 large          : 千畳敷, 百千, 千万
+0.0147578    2 gold           : 千鈞, 千金
+0.0146771    2 weight         : 千鈞, 千金
+0.0145528    8 many           : 千夜, 千重, 八千, ８千, 何千, 千秋, 三千, ３千
+0.0141545    1 spacious       : 千畳敷
+0.0139153    1 green          : 千振
+0.0124232    1 vast           : 千畳敷
+0.0117951    1 species        : 千振
+0.0115705    1 grand          : 千畳敷
+0.0113512    1 hall           : 千畳敷
+0.0110537    1 rock           : 千畳敷
+0.0109658    1 nights         : 千夜
+0.0109473    1 flat           : 千畳敷
+0.0102641    1 space          : 千畳敷
+0.0099132    1 repetition     : 千日手
+0.0097654    1 Japanese       : 千振
+0.0095027    4 number         : 百千, 千々, 千千, 千万
+0.0091187    1 area           : 千畳敷
+0.0091065    5 variety        : 千々, 千千, 八千草, 千種, 千草
+0.0089354    3 bottomless     : 千仭, 千仞, 千尋
+0.0081768    2 tear           : 千切る, 引き千切る
+0.0077191    3 millennium     : 千載, 千歳, 千年
+0.0076570    3 depth          : 千仭, 千仞, 千尋
+0.0068232    3 height         : 千仭, 千仞, 千尋
+0.0066493    1 myriad         : 千万
+0.0064944    1 thought        : 千慮
+0.0060990    1 torn           : 千切れる
+0.0060192    1 much           : 千慮
+0.0058157    4 long           : 千載, 千歳, 千年, 千里
+0.0057069    1 masturbation   : 千摺り
+0.0055081    1 million        : 千万
+0.0053754    3 eight          : 八千代, 八千, ８千
+0.0047055    3 various        : 八千草, 千種, 千草
+0.0046410    1 ten            : 千万
+0.0039633    1 male           : 千摺り
+0.0037526    1 draw           : 千日手
+0.0036815    2 four           : 四千, ４千
+0.0035831    3 period         : 八千代, 千世, 千代
+0.0035449    3 time           : 千載, 千歳, 千年
+0.0034483    2 seven          : 七千, ７千
+0.0033739    5 one            : 千載, 千歳, 千年, 一千, １千
+0.0033638    1 position       : 千日手
+0.0031772    1 rafter         : 千木
+0.0031664    2 flowering      : 千種, 千草
+0.0030526    1 crossed        : 千木
+0.0030516    1 antiquity      : 千古
+0.0028932    1 bite           : 食い千切る
+0.0027246    1 striped        : 千筋
+0.0027220    1 eternity       : 千古
+0.0026627    1 plover         : 千鳥
+0.0026554    1 pottery        : 千筋
+0.0026340    1 scattered      : 千切れ雲
+0.0026244    1 ornamental     : 千木
+0.0024286    2 three          : 三千, ３千
+0.0024131    1 ceremony       : 千家
+0.0023772    1 tea            : 千家
+0.0023686    2 light          : 千種, 千草
+0.0021952    1 pattern        : 千筋
+0.0021815    1 collage        : 千切り絵
+0.0020972    1 school         : 千家
+0.0020749    1 piles          : 千重
+0.0020431    1 shrine         : 千木
+0.0017924    1 pluck          : 千切る
+0.0017489    1 colored        : 千切り絵
+0.0015858    1 prefecture     : 千葉
+0.0015095    1 pick           : 千切る
+0.0014740    1 several        : 数千
+0.0014454    1 distance       : 千里
+0.0014284    1 fruit          : 千切る
+0.0014117    1 city           : 千葉
+0.0012283    1 cut            : 千切り
+0.0011875    1 paper          : 千切り絵
+0.0011843    1 come           : 千切れる
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1647736    1 millions
+	millions WORD[ 1,   1]: 0.1647736 幾千万
+TOKEN[ 2]: 0.0375778   20 thousand
+	thousand WORD[ 2,   1]: 0.0047475 千夜
+	thousand WORD[ 2,   2]: 0.0024412 千載
+	thousand WORD[ 2,   3]: 0.0020878 四千
+	thousand WORD[ 2,   4]: 0.0020878 ４千
+	thousand WORD[ 2,   5]: 0.0020397 八千代
+	thousand WORD[ 2,   6]: 0.0018123 八千
+	thousand WORD[ 2,   7]: 0.0018123 ８千
+	thousand WORD[ 2,   8]: 0.0017458 七千
+	thousand WORD[ 2,   9]: 0.0017458 ７千
+	thousand WORD[ 2,  10]: 0.0016412 千世
+	thousand WORD[ 2,  11]: 0.0016412 千代
+	thousand WORD[ 2,  12]: 0.0016382 千歳
+	thousand WORD[ 2,  13]: 0.0016382 千年
+	thousand WORD[ 2,  14]: 0.0015892 千秋
+	thousand WORD[ 2,  15]: 0.0015888 千
+	thousand WORD[ 2,  16]: 0.0015659 数千
+	thousand WORD[ 2,  17]: 0.0015305 三千
+	thousand WORD[ 2,  18]: 0.0015305 ３千
+	thousand WORD[ 2,  19]: 0.0013470 一千
+	thousand WORD[ 2,  20]: 0.0013470 １千
+TOKEN[ 3]: 0.0301400   10 great
+	great WORD[ 3,   1]: 0.0105056 千鈞
+	great WORD[ 3,   2]: 0.0043951 千仭
+	great WORD[ 3,   3]: 0.0037409 千仞
+	great WORD[ 3,   4]: 0.0023983 千尋
+	great WORD[ 3,   5]: 0.0018768 千々
+	great WORD[ 3,   6]: 0.0018768 千千
+	great WORD[ 3,   7]: 0.0017866 千古
+	great WORD[ 3,   8]: 0.0011984 千種
+	great WORD[ 3,   9]: 0.0011984 千草
+	great WORD[ 3,  10]: 0.0011630 千金
+TOKEN[ 4]: 0.0294385    1 japonica
+	japonica WORD[ 4,   1]: 0.0294385 千振
+TOKEN[ 5]: 0.0281384    1 innumerable
+	innumerable WORD[ 5,   1]: 0.0281384 千入
+TOKEN[ 6]: 0.0272905    1 Sialis
+	Sialis WORD[ 6,   1]: 0.0272905 千振
+TOKEN[ 7]: 0.0270931    1 soaking
+	soaking WORD[ 7,   1]: 0.0270931 千入
+TOKEN[ 8]: 0.0248411    1 Swertia
+	Swertia WORD[ 8,   1]: 0.0248411 千振
+TOKEN[ 9]: 0.0241996    1 alder
+	alder WORD[ 9,   1]: 0.0241996 千振
+TOKEN[10]: 0.0241428    2 pricelessness
+	pricelessness WORD[10,   1]: 0.0217366 千鈞
+	pricelessness WORD[10,   2]: 0.0024062 千金
+TOKEN[11]: 0.0237021    1 gentian
+	gentian WORD[11,   1]: 0.0237021 千振
+TOKEN[12]: 0.0227843    1 dye
+	dye WORD[12,   1]: 0.0227843 千入
+TOKEN[13]: 0.0215235    2 kan
+	kan WORD[13,   1]: 0.0193783 千鈞
+	kan WORD[13,   2]: 0.0021452 千金
+TOKEN[14]: 0.0188505    1 times
+	times WORD[14,   1]: 0.0188505 千入
+TOKEN[15]: 0.0164653    1 bedrock
+	bedrock WORD[15,   1]: 0.0164653 千畳敷
+TOKEN[16]: 0.0161837    2 yen
+	yen WORD[16,   1]: 0.0145707 千鈞
+	yen WORD[16,   2]: 0.0016130 千金
+TOKEN[17]: 0.0152468    1 plateau
+	plateau WORD[17,   1]: 0.0152468 千畳敷
+TOKEN[18]: 0.0151950    1 fly
+	fly WORD[18,   1]: 0.0151950 千振
+TOKEN[19]: 0.0151300    1 terrain
+	terrain WORD[19,   1]: 0.0151300 千畳敷
+TOKEN[20]: 0.0148713    3 large
+	large WORD[20,   1]: 0.0091590 千畳敷
+	large WORD[20,   2]: 0.0020770 百千
+	large WORD[20,   3]: 0.0012118 千万
+TOKEN[21]: 0.0147578    2 gold
+	gold WORD[21,   1]: 0.0132869 千鈞
+	gold WORD[21,   2]: 0.0014709 千金
+TOKEN[22]: 0.0146771    2 weight
+	weight WORD[22,   1]: 0.0132143 千鈞
+	weight WORD[22,   2]: 0.0014628 千金
+TOKEN[23]: 0.0145528    8 many
+	many WORD[23,   1]: 0.0038284 千夜
+	many WORD[23,   2]: 0.0026373 千重
+	many WORD[23,   3]: 0.0014614 八千
+	many WORD[23,   4]: 0.0014614 ８千
+	many WORD[23,   5]: 0.0014145 何千
+	many WORD[23,   6]: 0.0012815 千秋
+	many WORD[23,   7]: 0.0012342 三千
+	many WORD[23,   8]: 0.0012342 ３千
+TOKEN[24]: 0.0141545    1 spacious
+	spacious WORD[24,   1]: 0.0141545 千畳敷
+TOKEN[25]: 0.0139153    1 green
+	green WORD[25,   1]: 0.0139153 千振
+TOKEN[26]: 0.0124232    1 vast
+	vast WORD[26,   1]: 0.0124232 千畳敷
+TOKEN[27]: 0.0117951    1 species
+	species WORD[27,   1]: 0.0117951 千振
+TOKEN[28]: 0.0115705    1 grand
+	grand WORD[28,   1]: 0.0115705 千畳敷
+TOKEN[29]: 0.0113512    1 hall
+	hall WORD[29,   1]: 0.0113512 千畳敷
+TOKEN[30]: 0.0110537    1 rock
+	rock WORD[30,   1]: 0.0110537 千畳敷
+TOKEN[31]: 0.0109658    1 nights
+	nights WORD[31,   1]: 0.0109658 千夜
+TOKEN[32]: 0.0109473    1 flat
+	flat WORD[32,   1]: 0.0109473 千畳敷
+TOKEN[33]: 0.0102641    1 space
+	space WORD[33,   1]: 0.0102641 千畳敷
+TOKEN[34]: 0.0099132    1 repetition
+	repetition WORD[34,   1]: 0.0099132 千日手
+TOKEN[35]: 0.0097654    1 Japanese
+	Japanese WORD[35,   1]: 0.0097654 千振
+TOKEN[36]: 0.0095027    4 number
+	number WORD[36,   1]: 0.0020514 百千
+	number WORD[36,   2]: 0.0019304 千々
+	number WORD[36,   3]: 0.0019304 千千
+	number WORD[36,   4]: 0.0011968 千万
+TOKEN[37]: 0.0091187    1 area
+	area WORD[37,   1]: 0.0091187 千畳敷
+TOKEN[38]: 0.0091065    5 variety
+	variety WORD[38,   1]: 0.0022361 千々
+	variety WORD[38,   2]: 0.0022361 千千
+	variety WORD[38,   3]: 0.0017787 八千草
+	variety WORD[38,   4]: 0.0014279 千種
+	variety WORD[38,   5]: 0.0014279 千草
+TOKEN[39]: 0.0089354    3 bottomless
+	bottomless WORD[39,   1]: 0.0037281 千仭
+	bottomless WORD[39,   2]: 0.0031731 千仞
+	bottomless WORD[39,   3]: 0.0020343 千尋
+TOKEN[40]: 0.0081768    2 tear
+	tear WORD[40,   1]: 0.0063794 千切る
+	tear WORD[40,   2]: 0.0017974 引き千切る
+TOKEN[41]: 0.0077191    3 millennium
+	millennium WORD[41,   1]: 0.0032957 千載
+	millennium WORD[41,   2]: 0.0022117 千歳
+	millennium WORD[41,   3]: 0.0022117 千年
+TOKEN[42]: 0.0076570    3 depth
+	depth WORD[42,   1]: 0.0031947 千仭
+	depth WORD[42,   2]: 0.0027191 千仞
+	depth WORD[42,   3]: 0.0017432 千尋
+TOKEN[43]: 0.0068232    3 height
+	height WORD[43,   1]: 0.0028468 千仭
+	height WORD[43,   2]: 0.0024230 千仞
+	height WORD[43,   3]: 0.0015534 千尋
+TOKEN[44]: 0.0066493    1 myriad
+	myriad WORD[44,   1]: 0.0022164 千万
+TOKEN[45]: 0.0064944    1 thought
+	thought WORD[45,   1]: 0.0064944 千慮
+TOKEN[46]: 0.0060990    1 torn
+	torn WORD[46,   1]: 0.0060990 千切れる
+TOKEN[47]: 0.0060192    1 much
+	much WORD[47,   1]: 0.0060192 千慮
+TOKEN[48]: 0.0058157    4 long
+	long WORD[48,   1]: 0.0019428 千載
+	long WORD[48,   2]: 0.0013038 千歳
+	long WORD[48,   3]: 0.0013038 千年
+	long WORD[48,   4]: 0.0012654 千里
+TOKEN[49]: 0.0057069    1 masturbation
+	masturbation WORD[49,   1]: 0.0057069 千摺り
+TOKEN[50]: 0.0055081    1 million
+	million WORD[50,   1]: 0.0018360 千万
+TOKEN[51]: 0.0053754    3 eight
+	eight WORD[51,   1]: 0.0019357 八千代
+	eight WORD[51,   2]: 0.0017198 八千
+	eight WORD[51,   3]: 0.0017198 ８千
+TOKEN[52]: 0.0047055    3 various
+	various WORD[52,   1]: 0.0018060 八千草
+	various WORD[52,   2]: 0.0014498 千種
+	various WORD[52,   3]: 0.0014498 千草
+TOKEN[53]: 0.0046410    1 ten
+	ten WORD[53,   1]: 0.0015470 千万
+TOKEN[54]: 0.0039633    1 male
+	male WORD[54,   1]: 0.0039633 千摺り
+TOKEN[55]: 0.0037526    1 draw
+	draw WORD[55,   1]: 0.0037526 千日手
+TOKEN[56]: 0.0036815    2 four
+	four WORD[56,   1]: 0.0018408 四千
+	four WORD[56,   2]: 0.0018408 ４千
+TOKEN[57]: 0.0035831    3 period
+	period WORD[57,   1]: 0.0013732 八千代
+	period WORD[57,   2]: 0.0011049 千世
+	period WORD[57,   3]: 0.0011049 千代
+TOKEN[58]: 0.0035449    3 time
+	time WORD[58,   1]: 0.0015135 千載
+	time WORD[58,   2]: 0.0010157 千歳
+	time WORD[58,   3]: 0.0010157 千年
+TOKEN[59]: 0.0034483    2 seven
+	seven WORD[59,   1]: 0.0017242 七千
+	seven WORD[59,   2]: 0.0017242 ７千
+TOKEN[60]: 0.0033739    5 one
+	one WORD[60,   1]: 0.0009791 千載
+	one WORD[60,   2]: 0.0006571 千歳
+	one WORD[60,   3]: 0.0006571 千年
+	one WORD[60,   4]: 0.0005403 一千
+	one WORD[60,   5]: 0.0005403 １千
+TOKEN[61]: 0.0033638    1 position
+	position WORD[61,   1]: 0.0033638 千日手
+TOKEN[62]: 0.0031772    1 rafter
+	rafter WORD[62,   1]: 0.0031772 千木
+TOKEN[63]: 0.0031664    2 flowering
+	flowering WORD[63,   1]: 0.0015832 千種
+	flowering WORD[63,   2]: 0.0015832 千草
+TOKEN[64]: 0.0030526    1 crossed
+	crossed WORD[64,   1]: 0.0030526 千木
+TOKEN[65]: 0.0030516    1 antiquity
+	antiquity WORD[65,   1]: 0.0030516 千古
+TOKEN[66]: 0.0028932    1 bite
+	bite WORD[66,   1]: 0.0028932 食い千切る
+TOKEN[67]: 0.0027246    1 striped
+	striped WORD[67,   1]: 0.0027246 千筋
+TOKEN[68]: 0.0027220    1 eternity
+	eternity WORD[68,   1]: 0.0027220 千古
+TOKEN[69]: 0.0026627    1 plover
+	plover WORD[69,   1]: 0.0026627 千鳥
+TOKEN[70]: 0.0026554    1 pottery
+	pottery WORD[70,   1]: 0.0026554 千筋
+TOKEN[71]: 0.0026340    1 scattered
+	scattered WORD[71,   1]: 0.0026340 千切れ雲
+TOKEN[72]: 0.0026244    1 ornamental
+	ornamental WORD[72,   1]: 0.0026244 千木
+TOKEN[73]: 0.0024286    2 three
+	three WORD[73,   1]: 0.0012143 三千
+	three WORD[73,   2]: 0.0012143 ３千
+TOKEN[74]: 0.0024131    1 ceremony
+	ceremony WORD[74,   1]: 0.0024131 千家
+TOKEN[75]: 0.0023772    1 tea
+	tea WORD[75,   1]: 0.0023772 千家
+TOKEN[76]: 0.0023686    2 light
+	light WORD[76,   1]: 0.0011843 千種
+	light WORD[76,   2]: 0.0011843 千草
+TOKEN[77]: 0.0021952    1 pattern
+	pattern WORD[77,   1]: 0.0021952 千筋
+TOKEN[78]: 0.0021815    1 collage
+	collage WORD[78,   1]: 0.0021815 千切り絵
+TOKEN[79]: 0.0020972    1 school
+	school WORD[79,   1]: 0.0020972 千家
+TOKEN[80]: 0.0020749    1 piles
+	piles WORD[80,   1]: 0.0020749 千重
+TOKEN[81]: 0.0020431    1 shrine
+	shrine WORD[81,   1]: 0.0020431 千木
+TOKEN[82]: 0.0017924    1 pluck
+	pluck WORD[82,   1]: 0.0017924 千切る
+TOKEN[83]: 0.0017489    1 colored
+	colored WORD[83,   1]: 0.0017489 千切り絵
+TOKEN[84]: 0.0015858    1 prefecture
+	prefecture WORD[84,   1]: 0.0015858 千葉
+TOKEN[85]: 0.0015095    1 pick
+	pick WORD[85,   1]: 0.0015095 千切る
+TOKEN[86]: 0.0014740    1 several
+	several WORD[86,   1]: 0.0014740 数千
+TOKEN[87]: 0.0014454    1 distance
+	distance WORD[87,   1]: 0.0014454 千里
+TOKEN[88]: 0.0014284    1 fruit
+	fruit WORD[88,   1]: 0.0014284 千切る
+TOKEN[89]: 0.0014117    1 city
+	city WORD[89,   1]: 0.0014117 千葉
+TOKEN[90]: 0.0012283    1 cut
+	cut WORD[90,   1]: 0.0012283 千切り
+TOKEN[91]: 0.0011875    1 paper
+	paper WORD[91,   1]: 0.0011875 千切り絵
+TOKEN[92]: 0.0011843    1 come
+	come WORD[92,   1]: 0.0011843 千切れる

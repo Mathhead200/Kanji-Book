@@ -1,0 +1,156 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2358656   14 base           : 三塁, 二塁, ２塁, 一塁, 帰塁, 進塁, 離塁, 出塁, 走塁, 本塁, ...
+0.1009778    7 fort           : 一塁, 保塁, 石塁, 堡塁, 塁, 本塁, 残塁
+0.0647623    2 second         : 二塁, ２塁
+0.0608253    5 fortress       : 城塁, 保塁, 堡塁, 敵塁, 塁
+0.0601779    1 baseman        : 一塁
+0.0539933    6 stronghold     : 保塁, 堡塁, 孤塁, 堅塁, 塁, 本塁
+0.0533231    4 fortification  : 保塁, 土塁, 堡塁, 塁
+0.0385862    1 third          : 三塁
+0.0355098    2 first          : 一塁, 出塁
+0.0256249    2 one            : 一塁, 帰塁
+0.0232869    2 earthwork      : 土塁, 防塁
+0.0209685    1 fly            : 帰塁
+0.0203005    1 ball           : 帰塁
+0.0163761    1 next           : 進塁
+0.0163565    1 advance        : 進塁
+0.0156177    1 leaving        : 離塁
+0.0137914    1 earthen        : 土塁
+0.0136805    1 embankment     : 土塁
+0.0106513    1 rampart        : 塁壁
+0.0098492    1 stone          : 石塁
+0.0097230    1 umpire         : 塁審
+0.0091801    1 bulwark        : 防塁
+0.0091271    1 running        : 走塁
+0.0077632    1 home           : 本塁
+0.0074274    1 isolated       : 孤塁
+0.0072733    1 bases          : 満塁
+0.0061610    1 loaded         : 満塁
+0.0055645    1 enemy          : 敵塁
+0.0051473    1 stolen         : 盗塁
+0.0049537    1 stealing       : 盗塁
+0.0047268    1 hit            : 塁打
+0.0046650    1 remnant        : 残塁
+0.0046085    1 plate          : 本塁
+0.0045251    1 steal          : 盗塁
+0.0044355    1 reaching       : 出塁
+0.0040160    1 main           : 本塁
+0.0035095    1 times          : 出塁
+0.0034743    1 getting        : 出塁
+0.0031940    1 left           : 残塁
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2358656   14 base
+	base WORD[ 1,   1]: 0.0334819 三塁
+	base WORD[ 1,   2]: 0.0334814 二塁
+	base WORD[ 1,   3]: 0.0334810 ２塁
+	base WORD[ 1,   4]: 0.0334792 一塁
+	base WORD[ 1,   5]: 0.0200233 帰塁
+	base WORD[ 1,   6]: 0.0161139 進塁
+	base WORD[ 1,   7]: 0.0158680 離塁
+	base WORD[ 1,   8]: 0.0102187 出塁
+	base WORD[ 1,   9]: 0.0095319 走塁
+	base WORD[ 1,  10]: 0.0084756 本塁
+	base WORD[ 1,  11]: 0.0074251 盗塁
+	base WORD[ 1,  12]: 0.0063154 塁審
+	base WORD[ 1,  13]: 0.0046054 塁打
+	base WORD[ 1,  14]: 0.0033647 残塁
+TOKEN[ 2]: 0.1009778    7 fort
+	fort WORD[ 2,   1]: 0.0431286 一塁
+	fort WORD[ 2,   2]: 0.0149063 保塁
+	fort WORD[ 2,   3]: 0.0134555 石塁
+	fort WORD[ 2,   4]: 0.0078299 堡塁
+	fort WORD[ 2,   5]: 0.0059319 塁
+	fort WORD[ 2,   6]: 0.0054592 本塁
+	fort WORD[ 2,   7]: 0.0043345 残塁
+TOKEN[ 3]: 0.0647623    2 second
+	second WORD[ 3,   1]: 0.0323813 二塁
+	second WORD[ 3,   2]: 0.0323809 ２塁
+TOKEN[ 4]: 0.0608253    5 fortress
+	fortress WORD[ 4,   1]: 0.0203044 城塁
+	fortress WORD[ 4,   2]: 0.0144317 保塁
+	fortress WORD[ 4,   3]: 0.0075806 堡塁
+	fortress WORD[ 4,   4]: 0.0070223 敵塁
+	fortress WORD[ 4,   5]: 0.0057431 塁
+TOKEN[ 5]: 0.0601779    1 baseman
+	baseman WORD[ 5,   1]: 0.0601779 一塁
+TOKEN[ 6]: 0.0539933    6 stronghold
+	stronghold WORD[ 6,   1]: 0.0150676 保塁
+	stronghold WORD[ 6,   2]: 0.0079146 堡塁
+	stronghold WORD[ 6,   3]: 0.0068437 孤塁
+	stronghold WORD[ 6,   4]: 0.0066568 堅塁
+	stronghold WORD[ 6,   5]: 0.0059961 塁
+	stronghold WORD[ 6,   6]: 0.0055183 本塁
+TOKEN[ 7]: 0.0533231    4 fortification
+	fortification WORD[ 7,   1]: 0.0167249 保塁
+	fortification WORD[ 7,   2]: 0.0145017 土塁
+	fortification WORD[ 7,   3]: 0.0087851 堡塁
+	fortification WORD[ 7,   4]: 0.0066556 塁
+TOKEN[ 8]: 0.0385862    1 third
+	third WORD[ 8,   1]: 0.0385862 三塁
+TOKEN[ 9]: 0.0355098    2 first
+	first WORD[ 9,   1]: 0.0322306 一塁
+	first WORD[ 9,   2]: 0.0032792 出塁
+TOKEN[10]: 0.0256249    2 one
+	one WORD[10,   1]: 0.0160348 一塁
+	one WORD[10,   2]: 0.0095901 帰塁
+TOKEN[11]: 0.0232869    2 earthwork
+	earthwork WORD[11,   1]: 0.0145017 土塁
+	earthwork WORD[11,   2]: 0.0087852 防塁
+TOKEN[12]: 0.0209685    1 fly
+	fly WORD[12,   1]: 0.0209685 帰塁
+TOKEN[13]: 0.0203005    1 ball
+	ball WORD[13,   1]: 0.0203005 帰塁
+TOKEN[14]: 0.0163761    1 next
+	next WORD[14,   1]: 0.0163761 進塁
+TOKEN[15]: 0.0163565    1 advance
+	advance WORD[15,   1]: 0.0163565 進塁
+TOKEN[16]: 0.0156177    1 leaving
+	leaving WORD[16,   1]: 0.0156177 離塁
+TOKEN[17]: 0.0137914    1 earthen
+	earthen WORD[17,   1]: 0.0137914 土塁
+TOKEN[18]: 0.0136805    1 embankment
+	embankment WORD[18,   1]: 0.0136805 土塁
+TOKEN[19]: 0.0106513    1 rampart
+	rampart WORD[19,   1]: 0.0106513 塁壁
+TOKEN[20]: 0.0098492    1 stone
+	stone WORD[20,   1]: 0.0098492 石塁
+TOKEN[21]: 0.0097230    1 umpire
+	umpire WORD[21,   1]: 0.0097230 塁審
+TOKEN[22]: 0.0091801    1 bulwark
+	bulwark WORD[22,   1]: 0.0091801 防塁
+TOKEN[23]: 0.0091271    1 running
+	running WORD[23,   1]: 0.0091271 走塁
+TOKEN[24]: 0.0077632    1 home
+	home WORD[24,   1]: 0.0077632 本塁
+TOKEN[25]: 0.0074274    1 isolated
+	isolated WORD[25,   1]: 0.0074274 孤塁
+TOKEN[26]: 0.0072733    1 bases
+	bases WORD[26,   1]: 0.0072733 満塁
+TOKEN[27]: 0.0061610    1 loaded
+	loaded WORD[27,   1]: 0.0061610 満塁
+TOKEN[28]: 0.0055645    1 enemy
+	enemy WORD[28,   1]: 0.0055645 敵塁
+TOKEN[29]: 0.0051473    1 stolen
+	stolen WORD[29,   1]: 0.0051473 盗塁
+TOKEN[30]: 0.0049537    1 stealing
+	stealing WORD[30,   1]: 0.0049537 盗塁
+TOKEN[31]: 0.0047268    1 hit
+	hit WORD[31,   1]: 0.0047268 塁打
+TOKEN[32]: 0.0046650    1 remnant
+	remnant WORD[32,   1]: 0.0046650 残塁
+TOKEN[33]: 0.0046085    1 plate
+	plate WORD[33,   1]: 0.0046085 本塁
+TOKEN[34]: 0.0045251    1 steal
+	steal WORD[34,   1]: 0.0045251 盗塁
+TOKEN[35]: 0.0044355    1 reaching
+	reaching WORD[35,   1]: 0.0044355 出塁
+TOKEN[36]: 0.0040160    1 main
+	main WORD[36,   1]: 0.0040160 本塁
+TOKEN[37]: 0.0035095    1 times
+	times WORD[37,   1]: 0.0035095 出塁
+TOKEN[38]: 0.0034743    1 getting
+	getting WORD[38,   1]: 0.0034743 出塁
+TOKEN[39]: 0.0031940    1 left
+	left WORD[39,   1]: 0.0031940 残塁

@@ -1,0 +1,807 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1445214    1 lie            : 嘘の皮
+0.0521469    1 total          : 嘘の皮
+0.0486677    1 big            : 嘘の皮
+0.0475210    1 complete       : 嘘の皮
+0.0393232   17 bark           : 桜皮, 檜皮色, 檜皮葺, 檜皮葺き, 杉皮, 桧皮, 檜皮, 表皮, 木皮, 樹皮, ...
+0.0348372   26 skin           : 皮溝, 皮作り, 皮弁, 鰐皮, 鳥皮, 犬皮, 裏皮, 外皮, 獣皮, 羊皮, ...
+0.0296850   15 leather        : 裏皮, 鮫皮, なめし皮, 鞣皮, 合皮, 皮ひも, 皮紐, 黒皮, 皮製, 皮袋, ...
+0.0177692    5 inner          : 桜皮, 姫皮, 敷き皮, 敷皮, 渋皮
+0.0150544    5 tree           : 桜皮, 木皮, 樹皮, 皮剥, 皮剥ぎ
+0.0140552    1 cherry         : 桜皮
+0.0126919    7 fur            : 犬皮, 虎皮, 敷き皮, 敷皮, 皮衣, 毛皮, 皮
+0.0119505    5 cuticle        : 角皮, 表皮, 上っ皮, 上皮, 甘皮
+0.0109215    5 cypress        : 檜皮色, 檜皮葺, 檜皮葺き, 桧皮, 檜皮
+0.0107299    7 hide           : 鰐皮, 犬皮, 獣皮, なめし皮, 鞣皮, 皮革, 皮
+0.0104189    1 depression     : 皮溝
+0.0083702    1 flap           : 皮弁
+0.0081727    1 chamois        : 揉み皮
+0.0080993    2 bamboo         : 姫皮, 竹皮
+0.0078854    1 epidermal      : 皮溝
+0.0078578    1 buff           : 揉み皮
+0.0067327    1 egg            : 皮蛋
+0.0061013    1 shark          : 鮫皮
+0.0060321    4 peel           : 陳皮, 竹皮, 果皮, 皮
+0.0059493    2 bast           : 靭皮, 靱皮
+0.0059113    3 epidermis      : 表皮, 上っ皮, 上皮
+0.0058737    1 Thelephoraceae : 黒皮
+0.0057874    1 dog            : 犬皮
+0.0057415    5 rind           : 外皮, 上っ皮, 上皮, 果皮, 皮
+0.0057021    1 fillet         : 皮目
+0.0055718    1 decortication  : 剥皮
+0.0054994    1 tip            : 姫皮
+0.0054860    3 suede          : 裏皮, なめし皮, 鞣皮
+0.0054734    2 thong          : 皮ひも, 皮紐
+0.0053816    2 tanned         : なめし皮, 鞣皮
+0.0052817    2 leash          : 皮ひも, 皮紐
+0.0052077    5 animal         : 獣皮, なめし皮, 鞣皮, 皮剥, 皮剥ぎ
+0.0050019    1 underside      : 裏皮
+0.0047758    2 membrane       : 姫皮, 皮膜
+0.0047321    1 attached       : 皮作り
+0.0046265    2 cortex         : 皮層, 皮質
+0.0045127    2 strap          : 皮ひも, 皮紐
+0.0045072    3 radical        : なめし皮, 鞣皮, 毛皮
+0.0044573    3 pelt           : 獣皮, 毛皮, 皮
+0.0044512    3 shell          : 鬼皮, 外皮, 皮
+0.0043812    1 indigo         : 黒皮
+0.0043626    1 alligator      : 鰐皮
+0.0043565    1 culm           : 姫皮
+0.0043565    1 silky          : 姫皮
+0.0042609    1 peeling        : 剥皮
+0.0042342    1 shagreen       : 鮫皮
+0.0042159    1 mushroom       : 黒皮
+0.0041694    1 color          : 檜皮色
+0.0041237    1 edible         : 黒皮
+0.0039726    1 sharkskin      : 鮫皮
+0.0038435    1 crocodile      : 鰐皮
+0.0038195    1 stingray       : 鮫皮
+0.0037600    2 bag            : 裏皮, 皮袋
+0.0035790    1 nut            : 鬼皮
+0.0034778    3 crust          : 外皮, 上っ皮, 上皮
+0.0034715    1 deep           : 黒皮
+0.0034242    1 percutaneous   : 経皮
+0.0033902    1 eruption       : 皮疹
+0.0033792    2 thin           : 姫皮, 薄皮
+0.0032724    4 surface        : 皮相, 上っ皮, 上皮, 皮肉
+0.0031540    1 fish           : 皮目
+0.0031060    2 sheath         : 竹皮, 皮
+0.0029824    1 deerskin       : 鹿皮
+0.0029752    1 mandarin       : 陳皮
+0.0029417    1 soft           : 姫皮
+0.0029267    3 outer          : 外皮, 上っ皮, 上皮
+0.0029219    1 shoot          : 姫皮
+0.0028921    1 family         : 黒皮
+0.0028907    1 covering       : 姫皮
+0.0028589    3 film           : 皮膜, 上っ皮, 上皮
+0.0028250    1 rash           : 皮疹
+0.0028038    2 hinoki         : 檜皮葺, 檜皮葺き
+0.0028027    1 synthetic      : 合皮
+0.0028010    2 filefish       : 皮剥, 皮剥ぎ
+0.0028010    2 skinner        : 皮剥, 皮剥ぎ
+0.0027948    1 mesothelial    : 中皮
+0.0027948    1 mesothelium    : 中皮
+0.0027817    2 Chinese        : 陳皮, 皮蛋
+0.0027468    1 chicken        : 鳥皮
+0.0027334    1 leathern       : 皮製
+0.0027097    2 coat           : 皮衣, 種皮
+0.0027002    1 cooking        : 鳥皮
+0.0026722    2 sheep          : 羊皮, 化けの皮
+0.0026712    2 insole         : 敷き皮, 敷皮
+0.0026412    1 old            : 皮蛋
+0.0026369    2 thatching      : 檜皮葺, 檜皮葺き
+0.0026350    1 citrus         : 陳皮
+0.0026191    1 hard           : 鬼皮
+0.0025902    1 flounder       : 松皮
+0.0025571    2 barker         : 皮剥, 皮剥ぎ
+0.0025571    2 barking        : 皮剥, 皮剥ぎ
+0.0025563    2 cushion        : 敷き皮, 敷皮
+0.0025009    1 bird           : 鳥皮
+0.0024745    1 cedar          : 杉皮
+0.0024676    2 skinning       : 皮剥, 皮剥ぎ
+0.0024489    3 true           : 化けの皮, 真皮, 皮
+0.0024417    1 seasoning      : 陳皮
+0.0023869    2 fiber          : 靭皮, 靱皮
+0.0023599    2 rug            : 敷き皮, 敷皮
+0.0023473    2 stripping      : 皮剥, 皮剥ぎ
+0.0022869    2 scum           : 上っ皮, 上皮
+0.0021981    1 purse          : 裏皮
+0.0021958    1 delicacy       : 皮蛋
+0.0021634    2 superficial    : 皮相, 皮肉
+0.0021407    2 sole           : 敷き皮, 敷皮
+0.0021353    2 layer          : 上っ皮, 上皮
+0.0021287    1 tiger          : 虎皮
+0.0020384    2 roof           : 檜皮葺, 檜皮葺き
+0.0020103    1 century        : 皮蛋
+0.0019370    2 husk           : 外皮, 皮
+0.0019304    1 dried          : 陳皮
+0.0019299    1 belt           : 帯皮
+0.0019059    1 medicine       : 陳皮
+0.0018748    1 parchment      : 羊皮
+0.0018567    2 mask           : 化けの皮, 皮
+0.0018182    1 foreskin       : 包皮
+0.0018017    2 liquid         : 上っ皮, 上皮
+0.0017534    1 sebum          : 皮脂
+0.0017411    1 traditional    : 陳皮
+0.0017212    1 piece          : 裏皮
+0.0016994    1 rawhide        : 生皮
+0.0016894    1 endodermis     : 内皮
+0.0016894    1 endothelium    : 内皮
+0.0016851    1 fruit          : 果皮
+0.0016673    1 Fraxinus       : 秦皮
+0.0016636    1 unmasking      : 一皮
+0.0016450    1 sebaceous      : 皮脂
+0.0016431    1 fleece         : 羊皮
+0.0016401    1 prepuce        : 包皮
+0.0016075    1 remark         : 皮肉る
+0.0015897    1 scabies        : 皮癬
+0.0015855    1 facade         : 表皮
+0.0015853    1 cutis          : 真皮
+0.0015853    1 corium         : 真皮
+0.0015853    1 dermis         : 真皮
+0.0015826    1 testa          : 種皮
+0.0015819    1 pellicle       : 外皮
+0.0015819    1 integument     : 外皮
+0.0015819    1 exodermis      : 外皮
+0.0015665    1 plant          : 雁皮
+0.0015203    1 cassia         : 桂皮
+0.0015094    1 mange          : 皮癬
+0.0014774    1 pericarp       : 果皮
+0.0014665    1 used           : 陳皮
+0.0014250    1 epithelium     : 上皮
+0.0014205    1 oxhide         : 牛皮
+0.0014205    1 cowhide        : 牛皮
+0.0014173    2 paper          : 皮籠, 雁皮
+0.0013856    1 itch           : 皮癬
+0.0013714    1 cinnamon       : 桂皮
+0.0013684    1 clog           : 爪皮
+0.0013652    3 one            : 皮肉, 化けの皮, 皮
+0.0013449    1 endocarp       : 甘皮
+0.0012771    1 protective     : 爪皮
+0.0012428    1 disguise       : 化けの皮
+0.0012238    1 cynical        : 皮肉る
+0.0012238    1 cynicism       : 皮肉
+0.0012188    1 cartridge      : 帯皮
+0.0012098    1 hull           : 外皮
+0.0012039    1 shallow        : 皮相
+0.0012012    1 ash            : 秦皮
+0.0011460    1 envelope       : 外皮
+0.0011332    1 subcutaneous   : 皮下
+0.0010726    1 satirize       : 皮肉る
+0.0010725    1 satire         : 皮肉
+0.0010725    1 irony          : 皮肉
+0.0010694    1 seed           : 種皮
+0.0010364    1 make           : 皮肉る
+0.0010283    1 sarcasm        : 皮肉
+0.0010210    1 forming        : 果皮
+0.0009946    1 flowering      : 雁皮
+0.0009866    1 nail           : 甘皮
+0.0009831    1 wrapped        : 皮籠
+0.0009681    1 freeing        : 脱皮
+0.0009681    1 ecdysis        : 脱皮
+0.0009633    1 japonica       : 秦皮
+0.0009543    1 matter         : 皮脂
+0.0009455    1 clothing       : 化けの皮
+0.0009423    1 gun            : 帯皮
+0.0009359    1 sarcastic      : 皮肉る
+0.0009337    1 scalp          : 頭皮
+0.0009293    1 appearance     : 皮相
+0.0009192    1 shedding       : 脱皮
+0.0009181    1 cover          : 爪皮
+0.0009057    1 character      : 化けの皮
+0.0008866    1 mock           : 皮肉る
+0.0008622    1 snake          : 蛇皮
+0.0008157    1 face           : 面皮
+0.0008115    1 wall           : 果皮
+0.0008085    1 bone           : 皮肉
+0.0007990    1 seeming        : 皮
+0.0007936    1 goods          : 皮具
+0.0007906    1 unexpected     : 皮肉
+0.0007895    1 book           : 背皮
+0.0007823    1 astringent     : 渋皮
+0.0007819    1 casting        : 脱皮
+0.0007652    1 convention     : 脱皮
+0.0007519    1 species        : 雁皮
+0.0007434    1 chestnut       : 渋皮
+0.0007321    1 grafting       : 植皮
+0.0007025    1 made           : 雁皮
+0.0007017    1 jacket         : 皮ジャン
+0.0006975    1 part           : 果皮
+0.0006973    1 boots          : 皮靴
+0.0006851    1 wrapping       : 皮
+0.0006648    1 different      : 皮肉
+0.0006483    1 Japanese       : 秦皮
+0.0006345    1 breaking       : 脱皮
+0.0005898    1 body           : 皮肉
+0.0005351    1 nature         : 皮
+0.0005128    1 beginning      : 皮切り
+0.0004887    1 start          : 皮切り
+0.0004734    1 something      : 皮肉
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1445214    1 lie
+	lie WORD[ 1,   1]: 0.1445214 嘘の皮
+TOKEN[ 2]: 0.0521469    1 total
+	total WORD[ 2,   1]: 0.0521469 嘘の皮
+TOKEN[ 3]: 0.0486677    1 big
+	big WORD[ 3,   1]: 0.0486677 嘘の皮
+TOKEN[ 4]: 0.0475210    1 complete
+	complete WORD[ 4,   1]: 0.0475210 嘘の皮
+TOKEN[ 5]: 0.0393232   17 bark
+	bark WORD[ 5,   1]: 0.0071905 桜皮
+	bark WORD[ 5,   2]: 0.0051107 檜皮色
+	bark WORD[ 5,   3]: 0.0022976 檜皮葺
+	bark WORD[ 5,   4]: 0.0022976 檜皮葺き
+	bark WORD[ 5,   5]: 0.0020701 杉皮
+	bark WORD[ 5,   6]: 0.0011480 桧皮
+	bark WORD[ 5,   7]: 0.0011480 檜皮
+	bark WORD[ 5,   8]: 0.0011447 表皮
+	bark WORD[ 5,   9]: 0.0010954 木皮
+	bark WORD[ 5,  10]: 0.0010307 樹皮
+	bark WORD[ 5,  11]: 0.0009901 桂皮
+	bark WORD[ 5,  12]: 0.0009892 上っ皮
+	bark WORD[ 5,  13]: 0.0009892 上皮
+	bark WORD[ 5,  14]: 0.0009722 皮剥
+	bark WORD[ 5,  15]: 0.0009721 皮剥ぎ
+	bark WORD[ 5,  16]: 0.0009720 皮籠
+	bark WORD[ 5,  17]: 0.0006193 皮
+TOKEN[ 6]: 0.0348372   26 skin
+	skin WORD[ 6,   1]: 0.0042233 皮溝
+	skin WORD[ 6,   2]: 0.0040098 皮作り
+	skin WORD[ 6,   3]: 0.0030582 皮弁
+	skin WORD[ 6,   4]: 0.0025902 鰐皮
+	skin WORD[ 6,   5]: 0.0023776 鳥皮
+	skin WORD[ 6,   6]: 0.0017310 犬皮
+	skin WORD[ 6,   7]: 0.0017037 裏皮
+	skin WORD[ 6,   8]: 0.0016945 外皮
+	skin WORD[ 6,   9]: 0.0016121 獣皮
+	skin WORD[ 6,  10]: 0.0010041 羊皮
+	skin WORD[ 6,  11]: 0.0008491 真皮
+	skin WORD[ 6,  12]: 0.0008135 上っ皮
+	skin WORD[ 6,  13]: 0.0008135 上皮
+	skin WORD[ 6,  14]: 0.0007993 皮籠
+	skin WORD[ 6,  15]: 0.0007913 果皮
+	skin WORD[ 6,  16]: 0.0007698 薄皮
+	skin WORD[ 6,  17]: 0.0006736 蛇皮
+	skin WORD[ 6,  18]: 0.0006559 皮ふ
+	skin WORD[ 6,  19]: 0.0006559 皮フ
+	skin WORD[ 6,  20]: 0.0006559 皮膚
+	skin WORD[ 6,  21]: 0.0006554 皮肉
+	skin WORD[ 6,  22]: 0.0005748 脱皮
+	skin WORD[ 6,  23]: 0.0005471 植皮
+	skin WORD[ 6,  24]: 0.0005432 渋皮
+	skin WORD[ 6,  25]: 0.0005251 毛皮
+	skin WORD[ 6,  26]: 0.0005093 皮
+TOKEN[ 7]: 0.0296850   15 leather
+	leather WORD[ 7,   1]: 0.0040789 裏皮
+	leather WORD[ 7,   2]: 0.0027148 鮫皮
+	leather WORD[ 7,   3]: 0.0022161 なめし皮
+	leather WORD[ 7,   4]: 0.0022161 鞣皮
+	leather WORD[ 7,   5]: 0.0020503 合皮
+	leather WORD[ 7,   6]: 0.0020485 皮ひも
+	leather WORD[ 7,   7]: 0.0020485 皮紐
+	leather WORD[ 7,   8]: 0.0020070 黒皮
+	leather WORD[ 7,   9]: 0.0018679 皮製
+	leather WORD[ 7,  10]: 0.0018645 皮袋
+	leather WORD[ 7,  11]: 0.0012200 皮靴
+	leather WORD[ 7,  12]: 0.0010038 帯皮
+	leather WORD[ 7,  13]: 0.0009569 皮具
+	leather WORD[ 7,  14]: 0.0007745 皮革
+	leather WORD[ 7,  15]: 0.0006100 皮ジャン
+TOKEN[ 8]: 0.0177692    5 inner
+	inner WORD[ 8,   1]: 0.0063454 桜皮
+	inner WORD[ 8,   2]: 0.0026686 姫皮
+	inner WORD[ 8,   3]: 0.0009135 敷き皮
+	inner WORD[ 8,   4]: 0.0009135 敷皮
+	inner WORD[ 8,   5]: 0.0005829 渋皮
+TOKEN[ 9]: 0.0150544    5 tree
+	tree WORD[ 9,   1]: 0.0055380 桜皮
+	tree WORD[ 9,   2]: 0.0008436 木皮
+	tree WORD[ 9,   3]: 0.0007938 樹皮
+	tree WORD[ 9,   4]: 0.0007487 皮剥
+	tree WORD[ 9,   5]: 0.0007487 皮剥ぎ
+TOKEN[10]: 0.0140552    1 cherry
+	cherry WORD[10,   1]: 0.0070276 桜皮
+TOKEN[11]: 0.0126919    7 fur
+	fur WORD[11,   1]: 0.0022076 犬皮
+	fur WORD[11,   2]: 0.0022074 虎皮
+	fur WORD[11,   3]: 0.0021714 敷き皮
+	fur WORD[11,   4]: 0.0021714 敷皮
+	fur WORD[11,   5]: 0.0019453 皮衣
+	fur WORD[11,   6]: 0.0013393 毛皮
+	fur WORD[11,   7]: 0.0006495 皮
+TOKEN[12]: 0.0119505    5 cuticle
+	cuticle WORD[12,   1]: 0.0067166 角皮
+	cuticle WORD[12,   2]: 0.0014769 表皮
+	cuticle WORD[12,   3]: 0.0012763 上っ皮
+	cuticle WORD[12,   4]: 0.0012763 上皮
+	cuticle WORD[12,   5]: 0.0012045 甘皮
+TOKEN[13]: 0.0109215    5 cypress
+	cypress WORD[13,   1]: 0.0057517 檜皮色
+	cypress WORD[13,   2]: 0.0012929 檜皮葺
+	cypress WORD[13,   3]: 0.0012929 檜皮葺き
+	cypress WORD[13,   4]: 0.0012920 桧皮
+	cypress WORD[13,   5]: 0.0012920 檜皮
+TOKEN[14]: 0.0107299    7 hide
+	hide WORD[14,   1]: 0.0031085 鰐皮
+	hide WORD[14,   2]: 0.0020774 犬皮
+	hide WORD[14,   3]: 0.0019347 獣皮
+	hide WORD[14,   4]: 0.0011109 なめし皮
+	hide WORD[14,   5]: 0.0011108 鞣皮
+	hide WORD[14,   6]: 0.0007764 皮革
+	hide WORD[14,   7]: 0.0006112 皮
+TOKEN[15]: 0.0104189    1 depression
+	depression WORD[15,   1]: 0.0104189 皮溝
+TOKEN[16]: 0.0083702    1 flap
+	flap WORD[16,   1]: 0.0083702 皮弁
+TOKEN[17]: 0.0081727    1 chamois
+	chamois WORD[17,   1]: 0.0081727 揉み皮
+TOKEN[18]: 0.0080993    2 bamboo
+	bamboo WORD[18,   1]: 0.0050109 姫皮
+	bamboo WORD[18,   2]: 0.0030884 竹皮
+TOKEN[19]: 0.0078854    1 epidermal
+	epidermal WORD[19,   1]: 0.0078854 皮溝
+TOKEN[20]: 0.0078578    1 buff
+	buff WORD[20,   1]: 0.0078578 揉み皮
+TOKEN[21]: 0.0067327    1 egg
+	egg WORD[21,   1]: 0.0067327 皮蛋
+TOKEN[22]: 0.0061013    1 shark
+	shark WORD[22,   1]: 0.0061013 鮫皮
+TOKEN[23]: 0.0060321    4 peel
+	peel WORD[23,   1]: 0.0023909 陳皮
+	peel WORD[23,   2]: 0.0019698 竹皮
+	peel WORD[23,   3]: 0.0010169 果皮
+	peel WORD[23,   4]: 0.0006545 皮
+TOKEN[24]: 0.0059493    2 bast
+	bast WORD[24,   1]: 0.0029747 靭皮
+	bast WORD[24,   2]: 0.0029747 靱皮
+TOKEN[25]: 0.0059113    3 epidermis
+	epidermis WORD[25,   1]: 0.0031711 表皮
+	epidermis WORD[25,   2]: 0.0013701 上っ皮
+	epidermis WORD[25,   3]: 0.0013701 上皮
+TOKEN[26]: 0.0058737    1 Thelephoraceae
+	Thelephoraceae WORD[26,   1]: 0.0029368 黒皮
+TOKEN[27]: 0.0057874    1 dog
+	dog WORD[27,   1]: 0.0057874 犬皮
+TOKEN[28]: 0.0057415    5 rind
+	rind WORD[28,   1]: 0.0012887 外皮
+	rind WORD[28,   2]: 0.0012373 上っ皮
+	rind WORD[28,   3]: 0.0012373 上皮
+	rind WORD[28,   4]: 0.0012036 果皮
+	rind WORD[28,   5]: 0.0007746 皮
+TOKEN[29]: 0.0057021    1 fillet
+	fillet WORD[29,   1]: 0.0028510 皮目
+TOKEN[30]: 0.0055718    1 decortication
+	decortication WORD[30,   1]: 0.0055718 剥皮
+TOKEN[31]: 0.0054994    1 tip
+	tip WORD[31,   1]: 0.0054994 姫皮
+TOKEN[32]: 0.0054860    3 suede
+	suede WORD[32,   1]: 0.0026291 裏皮
+	suede WORD[32,   2]: 0.0014285 なめし皮
+	suede WORD[32,   3]: 0.0014284 鞣皮
+TOKEN[33]: 0.0054734    2 thong
+	thong WORD[33,   1]: 0.0027367 皮ひも
+	thong WORD[33,   2]: 0.0027367 皮紐
+TOKEN[34]: 0.0053816    2 tanned
+	tanned WORD[34,   1]: 0.0026908 なめし皮
+	tanned WORD[34,   2]: 0.0026908 鞣皮
+TOKEN[35]: 0.0052817    2 leash
+	leash WORD[35,   1]: 0.0026408 皮ひも
+	leash WORD[35,   2]: 0.0026408 皮紐
+TOKEN[36]: 0.0052077    5 animal
+	animal WORD[36,   1]: 0.0016584 獣皮
+	animal WORD[36,   2]: 0.0009522 なめし皮
+	animal WORD[36,   3]: 0.0009522 鞣皮
+	animal WORD[36,   4]: 0.0008225 皮剥
+	animal WORD[36,   5]: 0.0008225 皮剥ぎ
+TOKEN[37]: 0.0050019    1 underside
+	underside WORD[37,   1]: 0.0050019 裏皮
+TOKEN[38]: 0.0047758    2 membrane
+	membrane WORD[38,   1]: 0.0034470 姫皮
+	membrane WORD[38,   2]: 0.0013289 皮膜
+TOKEN[39]: 0.0047321    1 attached
+	attached WORD[39,   1]: 0.0047321 皮作り
+TOKEN[40]: 0.0046265    2 cortex
+	cortex WORD[40,   1]: 0.0034834 皮層
+	cortex WORD[40,   2]: 0.0011431 皮質
+TOKEN[41]: 0.0045127    2 strap
+	strap WORD[41,   1]: 0.0022563 皮ひも
+	strap WORD[41,   2]: 0.0022563 皮紐
+TOKEN[42]: 0.0045072    3 radical
+	radical WORD[42,   1]: 0.0019737 なめし皮
+	radical WORD[42,   2]: 0.0019737 鞣皮
+	radical WORD[42,   3]: 0.0005598 毛皮
+TOKEN[43]: 0.0044573    3 pelt
+	pelt WORD[43,   1]: 0.0027152 獣皮
+	pelt WORD[43,   2]: 0.0008843 毛皮
+	pelt WORD[43,   3]: 0.0008578 皮
+TOKEN[44]: 0.0044512    3 shell
+	shell WORD[44,   1]: 0.0029369 鬼皮
+	shell WORD[44,   2]: 0.0009458 外皮
+	shell WORD[44,   3]: 0.0005685 皮
+TOKEN[45]: 0.0043812    1 indigo
+	indigo WORD[45,   1]: 0.0021906 黒皮
+TOKEN[46]: 0.0043626    1 alligator
+	alligator WORD[46,   1]: 0.0043626 鰐皮
+TOKEN[47]: 0.0043565    1 culm
+	culm WORD[47,   1]: 0.0043565 姫皮
+TOKEN[48]: 0.0043565    1 silky
+	silky WORD[48,   1]: 0.0043565 姫皮
+TOKEN[49]: 0.0042609    1 peeling
+	peeling WORD[49,   1]: 0.0042609 剥皮
+TOKEN[50]: 0.0042342    1 shagreen
+	shagreen WORD[50,   1]: 0.0042342 鮫皮
+TOKEN[51]: 0.0042159    1 mushroom
+	mushroom WORD[51,   1]: 0.0021079 黒皮
+TOKEN[52]: 0.0041694    1 color
+	color WORD[52,   1]: 0.0041694 檜皮色
+TOKEN[53]: 0.0041237    1 edible
+	edible WORD[53,   1]: 0.0020619 黒皮
+TOKEN[54]: 0.0039726    1 sharkskin
+	sharkskin WORD[54,   1]: 0.0039726 鮫皮
+TOKEN[55]: 0.0038435    1 crocodile
+	crocodile WORD[55,   1]: 0.0038435 鰐皮
+TOKEN[56]: 0.0038195    1 stingray
+	stingray WORD[56,   1]: 0.0038195 鮫皮
+TOKEN[57]: 0.0037600    2 bag
+	bag WORD[57,   1]: 0.0019643 裏皮
+	bag WORD[57,   2]: 0.0017958 皮袋
+TOKEN[58]: 0.0035790    1 nut
+	nut WORD[58,   1]: 0.0035790 鬼皮
+TOKEN[59]: 0.0034778    3 crust
+	crust WORD[59,   1]: 0.0011909 外皮
+	crust WORD[59,   2]: 0.0011434 上っ皮
+	crust WORD[59,   3]: 0.0011434 上皮
+TOKEN[60]: 0.0034715    1 deep
+	deep WORD[60,   1]: 0.0017358 黒皮
+TOKEN[61]: 0.0034242    1 percutaneous
+	percutaneous WORD[61,   1]: 0.0034242 経皮
+TOKEN[62]: 0.0033902    1 eruption
+	eruption WORD[62,   1]: 0.0033902 皮疹
+TOKEN[63]: 0.0033792    2 thin
+	thin WORD[63,   1]: 0.0025805 姫皮
+	thin WORD[63,   2]: 0.0007988 薄皮
+TOKEN[64]: 0.0032724    4 surface
+	surface WORD[64,   1]: 0.0009575 皮相
+	surface WORD[64,   2]: 0.0008251 上っ皮
+	surface WORD[64,   3]: 0.0008251 上皮
+	surface WORD[64,   4]: 0.0006648 皮肉
+TOKEN[65]: 0.0031540    1 fish
+	fish WORD[65,   1]: 0.0015770 皮目
+TOKEN[66]: 0.0031060    2 sheath
+	sheath WORD[66,   1]: 0.0023314 竹皮
+	sheath WORD[66,   2]: 0.0007746 皮
+TOKEN[67]: 0.0029824    1 deerskin
+	deerskin WORD[67,   1]: 0.0029824 鹿皮
+TOKEN[68]: 0.0029752    1 mandarin
+	mandarin WORD[68,   1]: 0.0029752 陳皮
+TOKEN[69]: 0.0029417    1 soft
+	soft WORD[69,   1]: 0.0029417 姫皮
+TOKEN[70]: 0.0029267    3 outer
+	outer WORD[70,   1]: 0.0010022 外皮
+	outer WORD[70,   2]: 0.0009622 上っ皮
+	outer WORD[70,   3]: 0.0009622 上皮
+TOKEN[71]: 0.0029219    1 shoot
+	shoot WORD[71,   1]: 0.0029219 姫皮
+TOKEN[72]: 0.0028921    1 family
+	family WORD[72,   1]: 0.0014460 黒皮
+TOKEN[73]: 0.0028907    1 covering
+	covering WORD[73,   1]: 0.0028907 姫皮
+TOKEN[74]: 0.0028589    3 film
+	film WORD[74,   1]: 0.0010601 皮膜
+	film WORD[74,   2]: 0.0008994 上っ皮
+	film WORD[74,   3]: 0.0008994 上皮
+TOKEN[75]: 0.0028250    1 rash
+	rash WORD[75,   1]: 0.0028250 皮疹
+TOKEN[76]: 0.0028038    2 hinoki
+	hinoki WORD[76,   1]: 0.0014019 檜皮葺
+	hinoki WORD[76,   2]: 0.0014019 檜皮葺き
+TOKEN[77]: 0.0028027    1 synthetic
+	synthetic WORD[77,   1]: 0.0028027 合皮
+TOKEN[78]: 0.0028010    2 filefish
+	filefish WORD[78,   1]: 0.0014005 皮剥
+	filefish WORD[78,   2]: 0.0014005 皮剥ぎ
+TOKEN[79]: 0.0028010    2 skinner
+	skinner WORD[79,   1]: 0.0014005 皮剥
+	skinner WORD[79,   2]: 0.0014005 皮剥ぎ
+TOKEN[80]: 0.0027948    1 mesothelial
+	mesothelial WORD[80,   1]: 0.0027948 中皮
+TOKEN[81]: 0.0027948    1 mesothelium
+	mesothelium WORD[81,   1]: 0.0027948 中皮
+TOKEN[82]: 0.0027817    2 Chinese
+	Chinese WORD[82,   1]: 0.0015288 陳皮
+	Chinese WORD[82,   2]: 0.0012529 皮蛋
+TOKEN[83]: 0.0027468    1 chicken
+	chicken WORD[83,   1]: 0.0027468 鳥皮
+TOKEN[84]: 0.0027334    1 leathern
+	leathern WORD[84,   1]: 0.0027334 皮製
+TOKEN[85]: 0.0027097    2 coat
+	coat WORD[85,   1]: 0.0017418 皮衣
+	coat WORD[85,   2]: 0.0009679 種皮
+TOKEN[86]: 0.0027002    1 cooking
+	cooking WORD[86,   1]: 0.0027002 鳥皮
+TOKEN[87]: 0.0026722    2 sheep
+	sheep WORD[87,   1]: 0.0013917 羊皮
+	sheep WORD[87,   2]: 0.0012805 化けの皮
+TOKEN[88]: 0.0026712    2 insole
+	insole WORD[88,   1]: 0.0013356 敷き皮
+	insole WORD[88,   2]: 0.0013356 敷皮
+TOKEN[89]: 0.0026412    1 old
+	old WORD[89,   1]: 0.0026412 皮蛋
+TOKEN[90]: 0.0026369    2 thatching
+	thatching WORD[90,   1]: 0.0013185 檜皮葺
+	thatching WORD[90,   2]: 0.0013185 檜皮葺き
+TOKEN[91]: 0.0026350    1 citrus
+	citrus WORD[91,   1]: 0.0026350 陳皮
+TOKEN[92]: 0.0026191    1 hard
+	hard WORD[92,   1]: 0.0026191 鬼皮
+TOKEN[93]: 0.0025902    1 flounder
+	flounder WORD[93,   1]: 0.0025902 松皮
+TOKEN[94]: 0.0025571    2 barker
+	barker WORD[94,   1]: 0.0012786 皮剥
+	barker WORD[94,   2]: 0.0012786 皮剥ぎ
+TOKEN[95]: 0.0025571    2 barking
+	barking WORD[95,   1]: 0.0012786 皮剥
+	barking WORD[95,   2]: 0.0012786 皮剥ぎ
+TOKEN[96]: 0.0025563    2 cushion
+	cushion WORD[96,   1]: 0.0012781 敷き皮
+	cushion WORD[96,   2]: 0.0012781 敷皮
+TOKEN[97]: 0.0025009    1 bird
+	bird WORD[97,   1]: 0.0025009 鳥皮
+TOKEN[98]: 0.0024745    1 cedar
+	cedar WORD[98,   1]: 0.0024745 杉皮
+TOKEN[99]: 0.0024676    2 skinning
+	skinning WORD[99,   1]: 0.0012338 皮剥
+	skinning WORD[99,   2]: 0.0012338 皮剥ぎ
+TOKEN[100]: 0.0024489    3 true
+	true WORD[100,   1]: 0.0009913 化けの皮
+	true WORD[100,   2]: 0.0009111 真皮
+	true WORD[100,   3]: 0.0005465 皮
+TOKEN[101]: 0.0024417    1 seasoning
+	seasoning WORD[101,   1]: 0.0024417 陳皮
+TOKEN[102]: 0.0023869    2 fiber
+	fiber WORD[102,   1]: 0.0011935 靭皮
+	fiber WORD[102,   2]: 0.0011935 靱皮
+TOKEN[103]: 0.0023599    2 rug
+	rug WORD[103,   1]: 0.0011799 敷き皮
+	rug WORD[103,   2]: 0.0011799 敷皮
+TOKEN[104]: 0.0023473    2 stripping
+	stripping WORD[104,   1]: 0.0011736 皮剥
+	stripping WORD[104,   2]: 0.0011736 皮剥ぎ
+TOKEN[105]: 0.0022869    2 scum
+	scum WORD[105,   1]: 0.0011434 上っ皮
+	scum WORD[105,   2]: 0.0011434 上皮
+TOKEN[106]: 0.0021981    1 purse
+	purse WORD[106,   1]: 0.0021981 裏皮
+TOKEN[107]: 0.0021958    1 delicacy
+	delicacy WORD[107,   1]: 0.0021958 皮蛋
+TOKEN[108]: 0.0021634    2 superficial
+	superficial WORD[108,   1]: 0.0012769 皮相
+	superficial WORD[108,   2]: 0.0008866 皮肉
+TOKEN[109]: 0.0021407    2 sole
+	sole WORD[109,   1]: 0.0010704 敷き皮
+	sole WORD[109,   2]: 0.0010704 敷皮
+TOKEN[110]: 0.0021353    2 layer
+	layer WORD[110,   1]: 0.0010677 上っ皮
+	layer WORD[110,   2]: 0.0010677 上皮
+TOKEN[111]: 0.0021287    1 tiger
+	tiger WORD[111,   1]: 0.0021287 虎皮
+TOKEN[112]: 0.0020384    2 roof
+	roof WORD[112,   1]: 0.0010192 檜皮葺
+	roof WORD[112,   2]: 0.0010192 檜皮葺き
+TOKEN[113]: 0.0020103    1 century
+	century WORD[113,   1]: 0.0020103 皮蛋
+TOKEN[114]: 0.0019370    2 husk
+	husk WORD[114,   1]: 0.0012098 外皮
+	husk WORD[114,   2]: 0.0007272 皮
+TOKEN[115]: 0.0019304    1 dried
+	dried WORD[115,   1]: 0.0019304 陳皮
+TOKEN[116]: 0.0019299    1 belt
+	belt WORD[116,   1]: 0.0019299 帯皮
+TOKEN[117]: 0.0019059    1 medicine
+	medicine WORD[117,   1]: 0.0019059 陳皮
+TOKEN[118]: 0.0018748    1 parchment
+	parchment WORD[118,   1]: 0.0018748 羊皮
+TOKEN[119]: 0.0018567    2 mask
+	mask WORD[119,   1]: 0.0011969 化けの皮
+	mask WORD[119,   2]: 0.0006598 皮
+TOKEN[120]: 0.0018182    1 foreskin
+	foreskin WORD[120,   1]: 0.0018182 包皮
+TOKEN[121]: 0.0018017    2 liquid
+	liquid WORD[121,   1]: 0.0009008 上っ皮
+	liquid WORD[121,   2]: 0.0009008 上皮
+TOKEN[122]: 0.0017534    1 sebum
+	sebum WORD[122,   1]: 0.0017534 皮脂
+TOKEN[123]: 0.0017411    1 traditional
+	traditional WORD[123,   1]: 0.0017411 陳皮
+TOKEN[124]: 0.0017212    1 piece
+	piece WORD[124,   1]: 0.0017212 裏皮
+TOKEN[125]: 0.0016994    1 rawhide
+	rawhide WORD[125,   1]: 0.0016994 生皮
+TOKEN[126]: 0.0016894    1 endodermis
+	endodermis WORD[126,   1]: 0.0016894 内皮
+TOKEN[127]: 0.0016894    1 endothelium
+	endothelium WORD[127,   1]: 0.0016894 内皮
+TOKEN[128]: 0.0016851    1 fruit
+	fruit WORD[128,   1]: 0.0016851 果皮
+TOKEN[129]: 0.0016673    1 Fraxinus
+	Fraxinus WORD[129,   1]: 0.0016673 秦皮
+TOKEN[130]: 0.0016636    1 unmasking
+	unmasking WORD[130,   1]: 0.0016636 一皮
+TOKEN[131]: 0.0016450    1 sebaceous
+	sebaceous WORD[131,   1]: 0.0016450 皮脂
+TOKEN[132]: 0.0016431    1 fleece
+	fleece WORD[132,   1]: 0.0016431 羊皮
+TOKEN[133]: 0.0016401    1 prepuce
+	prepuce WORD[133,   1]: 0.0016401 包皮
+TOKEN[134]: 0.0016075    1 remark
+	remark WORD[134,   1]: 0.0016075 皮肉る
+TOKEN[135]: 0.0015897    1 scabies
+	scabies WORD[135,   1]: 0.0015897 皮癬
+TOKEN[136]: 0.0015855    1 facade
+	facade WORD[136,   1]: 0.0015855 表皮
+TOKEN[137]: 0.0015853    1 cutis
+	cutis WORD[137,   1]: 0.0015853 真皮
+TOKEN[138]: 0.0015853    1 corium
+	corium WORD[138,   1]: 0.0015853 真皮
+TOKEN[139]: 0.0015853    1 dermis
+	dermis WORD[139,   1]: 0.0015853 真皮
+TOKEN[140]: 0.0015826    1 testa
+	testa WORD[140,   1]: 0.0015826 種皮
+TOKEN[141]: 0.0015819    1 pellicle
+	pellicle WORD[141,   1]: 0.0015819 外皮
+TOKEN[142]: 0.0015819    1 integument
+	integument WORD[142,   1]: 0.0015819 外皮
+TOKEN[143]: 0.0015819    1 exodermis
+	exodermis WORD[143,   1]: 0.0015819 外皮
+TOKEN[144]: 0.0015665    1 plant
+	plant WORD[144,   1]: 0.0015665 雁皮
+TOKEN[145]: 0.0015203    1 cassia
+	cassia WORD[145,   1]: 0.0015203 桂皮
+TOKEN[146]: 0.0015094    1 mange
+	mange WORD[146,   1]: 0.0015094 皮癬
+TOKEN[147]: 0.0014774    1 pericarp
+	pericarp WORD[147,   1]: 0.0014774 果皮
+TOKEN[148]: 0.0014665    1 used
+	used WORD[148,   1]: 0.0014665 陳皮
+TOKEN[149]: 0.0014250    1 epithelium
+	epithelium WORD[149,   1]: 0.0014250 上皮
+TOKEN[150]: 0.0014205    1 oxhide
+	oxhide WORD[150,   1]: 0.0014205 牛皮
+TOKEN[151]: 0.0014205    1 cowhide
+	cowhide WORD[151,   1]: 0.0014205 牛皮
+TOKEN[152]: 0.0014173    2 paper
+	paper WORD[152,   1]: 0.0007112 皮籠
+	paper WORD[152,   2]: 0.0007061 雁皮
+TOKEN[153]: 0.0013856    1 itch
+	itch WORD[153,   1]: 0.0013856 皮癬
+TOKEN[154]: 0.0013714    1 cinnamon
+	cinnamon WORD[154,   1]: 0.0013714 桂皮
+TOKEN[155]: 0.0013684    1 clog
+	clog WORD[155,   1]: 0.0013684 爪皮
+TOKEN[156]: 0.0013652    3 one
+	one WORD[156,   1]: 0.0006522 皮肉
+	one WORD[156,   2]: 0.0004596 化けの皮
+	one WORD[156,   3]: 0.0002534 皮
+TOKEN[157]: 0.0013449    1 endocarp
+	endocarp WORD[157,   1]: 0.0013449 甘皮
+TOKEN[158]: 0.0012771    1 protective
+	protective WORD[158,   1]: 0.0012771 爪皮
+TOKEN[159]: 0.0012428    1 disguise
+	disguise WORD[159,   1]: 0.0012428 化けの皮
+TOKEN[160]: 0.0012238    1 cynical
+	cynical WORD[160,   1]: 0.0012238 皮肉る
+TOKEN[161]: 0.0012238    1 cynicism
+	cynicism WORD[161,   1]: 0.0012238 皮肉
+TOKEN[162]: 0.0012188    1 cartridge
+	cartridge WORD[162,   1]: 0.0012188 帯皮
+TOKEN[163]: 0.0012098    1 hull
+	hull WORD[163,   1]: 0.0012098 外皮
+TOKEN[164]: 0.0012039    1 shallow
+	shallow WORD[164,   1]: 0.0012039 皮相
+TOKEN[165]: 0.0012012    1 ash
+	ash WORD[165,   1]: 0.0012012 秦皮
+TOKEN[166]: 0.0011460    1 envelope
+	envelope WORD[166,   1]: 0.0011460 外皮
+TOKEN[167]: 0.0011332    1 subcutaneous
+	subcutaneous WORD[167,   1]: 0.0011332 皮下
+TOKEN[168]: 0.0010726    1 satirize
+	satirize WORD[168,   1]: 0.0010726 皮肉る
+TOKEN[169]: 0.0010725    1 satire
+	satire WORD[169,   1]: 0.0010725 皮肉
+TOKEN[170]: 0.0010725    1 irony
+	irony WORD[170,   1]: 0.0010725 皮肉
+TOKEN[171]: 0.0010694    1 seed
+	seed WORD[171,   1]: 0.0010694 種皮
+TOKEN[172]: 0.0010364    1 make
+	make WORD[172,   1]: 0.0010364 皮肉る
+TOKEN[173]: 0.0010283    1 sarcasm
+	sarcasm WORD[173,   1]: 0.0010283 皮肉
+TOKEN[174]: 0.0010210    1 forming
+	forming WORD[174,   1]: 0.0010210 果皮
+TOKEN[175]: 0.0009946    1 flowering
+	flowering WORD[175,   1]: 0.0009946 雁皮
+TOKEN[176]: 0.0009866    1 nail
+	nail WORD[176,   1]: 0.0009866 甘皮
+TOKEN[177]: 0.0009831    1 wrapped
+	wrapped WORD[177,   1]: 0.0009831 皮籠
+TOKEN[178]: 0.0009681    1 freeing
+	freeing WORD[178,   1]: 0.0009681 脱皮
+TOKEN[179]: 0.0009681    1 ecdysis
+	ecdysis WORD[179,   1]: 0.0009681 脱皮
+TOKEN[180]: 0.0009633    1 japonica
+	japonica WORD[180,   1]: 0.0009633 秦皮
+TOKEN[181]: 0.0009543    1 matter
+	matter WORD[181,   1]: 0.0009543 皮脂
+TOKEN[182]: 0.0009455    1 clothing
+	clothing WORD[182,   1]: 0.0009455 化けの皮
+TOKEN[183]: 0.0009423    1 gun
+	gun WORD[183,   1]: 0.0009423 帯皮
+TOKEN[184]: 0.0009359    1 sarcastic
+	sarcastic WORD[184,   1]: 0.0009359 皮肉る
+TOKEN[185]: 0.0009337    1 scalp
+	scalp WORD[185,   1]: 0.0009337 頭皮
+TOKEN[186]: 0.0009293    1 appearance
+	appearance WORD[186,   1]: 0.0009293 皮相
+TOKEN[187]: 0.0009192    1 shedding
+	shedding WORD[187,   1]: 0.0009192 脱皮
+TOKEN[188]: 0.0009181    1 cover
+	cover WORD[188,   1]: 0.0009181 爪皮
+TOKEN[189]: 0.0009057    1 character
+	character WORD[189,   1]: 0.0009057 化けの皮
+TOKEN[190]: 0.0008866    1 mock
+	mock WORD[190,   1]: 0.0008866 皮肉る
+TOKEN[191]: 0.0008622    1 snake
+	snake WORD[191,   1]: 0.0008622 蛇皮
+TOKEN[192]: 0.0008157    1 face
+	face WORD[192,   1]: 0.0008157 面皮
+TOKEN[193]: 0.0008115    1 wall
+	wall WORD[193,   1]: 0.0008115 果皮
+TOKEN[194]: 0.0008085    1 bone
+	bone WORD[194,   1]: 0.0008085 皮肉
+TOKEN[195]: 0.0007990    1 seeming
+	seeming WORD[195,   1]: 0.0007990 皮
+TOKEN[196]: 0.0007936    1 goods
+	goods WORD[196,   1]: 0.0007936 皮具
+TOKEN[197]: 0.0007906    1 unexpected
+	unexpected WORD[197,   1]: 0.0007906 皮肉
+TOKEN[198]: 0.0007895    1 book
+	book WORD[198,   1]: 0.0007895 背皮
+TOKEN[199]: 0.0007823    1 astringent
+	astringent WORD[199,   1]: 0.0007823 渋皮
+TOKEN[200]: 0.0007819    1 casting
+	casting WORD[200,   1]: 0.0007819 脱皮
+TOKEN[201]: 0.0007652    1 convention
+	convention WORD[201,   1]: 0.0007652 脱皮
+TOKEN[202]: 0.0007519    1 species
+	species WORD[202,   1]: 0.0007519 雁皮
+TOKEN[203]: 0.0007434    1 chestnut
+	chestnut WORD[203,   1]: 0.0007434 渋皮
+TOKEN[204]: 0.0007321    1 grafting
+	grafting WORD[204,   1]: 0.0007321 植皮
+TOKEN[205]: 0.0007025    1 made
+	made WORD[205,   1]: 0.0007025 雁皮
+TOKEN[206]: 0.0007017    1 jacket
+	jacket WORD[206,   1]: 0.0007017 皮ジャン
+TOKEN[207]: 0.0006975    1 part
+	part WORD[207,   1]: 0.0006975 果皮
+TOKEN[208]: 0.0006973    1 boots
+	boots WORD[208,   1]: 0.0006973 皮靴
+TOKEN[209]: 0.0006851    1 wrapping
+	wrapping WORD[209,   1]: 0.0006851 皮
+TOKEN[210]: 0.0006648    1 different
+	different WORD[210,   1]: 0.0006648 皮肉
+TOKEN[211]: 0.0006483    1 Japanese
+	Japanese WORD[211,   1]: 0.0006483 秦皮
+TOKEN[212]: 0.0006345    1 breaking
+	breaking WORD[212,   1]: 0.0006345 脱皮
+TOKEN[213]: 0.0005898    1 body
+	body WORD[213,   1]: 0.0005898 皮肉
+TOKEN[214]: 0.0005351    1 nature
+	nature WORD[214,   1]: 0.0005351 皮
+TOKEN[215]: 0.0005128    1 beginning
+	beginning WORD[215,   1]: 0.0005128 皮切り
+TOKEN[216]: 0.0004887    1 start
+	start WORD[216,   1]: 0.0004887 皮切り
+TOKEN[217]: 0.0004734    1 something
+	something WORD[217,   1]: 0.0004734 皮肉

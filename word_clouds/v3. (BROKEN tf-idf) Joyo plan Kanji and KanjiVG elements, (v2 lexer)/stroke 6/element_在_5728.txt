@@ -1,0 +1,622 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2301952    1 gallery        : 在廊
+0.2177543    1 exhibition     : 在廊
+0.2114819    1 artist         : 在廊
+0.1762390    3 present        : 在廊, 現在, 在り
+0.0077713    6 resident       : 在沖, 常在, 在韓, 在日, 在朝, 在
+0.0049420    7 country        : 僻在, 在地, 在所, 在日, 在家, 在郷, 在
+0.0034905    4 situated       : 在韓, 在日, 在朝, 在
+0.0032818    9 one            : 僻在, 在所, 在地, 在国, 自在, 所在, 在室, 在郷, 現在
+0.0031062    2 South          : 在韓, 在日
+0.0029596    3 residence      : 在特, 在所, 駐在
+0.0029181    4 whereabouts    : 在所, 在り処, 在処, 所在
+0.0026542    3 countryside    : 在地, 在郷, 在
+0.0024934    6 office         : 在野, 在任, 在職, 在社, 在室, 在官
+0.0023111    3 presence       : 臨在, 存在, 在
+0.0022428    4 place          : 在地, 在り処, 在処, 所在
+0.0022049    2 Japan          : 在特, 在日
+0.0020165    2 exist          : 現在, 在る
+0.0019689    4 living         : 在俗, 在世, 在留, 在住
+0.0019586    1 illegal        : 在特
+0.0019114    1 indigenous     : 常在
+0.0018406    1 status         : 在特
+0.0018014    3 stay           : 在院, 駐在, 滞在
+0.0017296    3 location       : 在り処, 在処, 所在
+0.0017133    1 enrolment      : 在園
+0.0017057    3 come           : 在り付く, 在す, 在る
+0.0016495    4 home           : 在所, 在宅, 在宿, 在家
+0.0015809    3 stock          : 在り合わせる, 在庫, 在荷
+0.0014880    1 side           : 僻在
+0.0014783    2 existence      : 実在, 存在
+0.0014491    1 kindergarten   : 在園
+0.0013881    3 conventional   : 在来, 在り来たり, 在り来り
+0.0013739    1 based          : 在阪
+0.0013268    2 happen         : 在り合わせる, 在る
+0.0013224    2 rural          : 在方, 在郷
+0.0012839    2 alive          : 在世, 健在
+0.0012046    3 working        : 在朝, 在社, 在勤
+0.0011941    2 enrolled       : 在籍, 在学
+0.0011539    1 obtain         : 在り付く
+0.0011375    1 sloppiness     : 如在
+0.0011092    1 distribution   : 偏在
+0.0011061    1 residential    : 駐在
+0.0010793    2 hand           : 在り合わせる, 在荷
+0.0010524    1 stocks         : 在米
+0.0010383    2 scattered      : 点在, 散在
+0.0010115    1 unaffiliated   : 在野
+0.0010087    1 child          : 在園
+0.0010039    2 hidden         : 伏在, 顕在
+0.0010014    1 available      : 在り合わせる
+0.0009944    1 find           : 在り付く
+0.0009861    3 school         : 在籍, 在校, 在学
+0.0009814    2 customary      : 在り来たり, 在り来り
+0.0009800    1 superficial    : 表在
+0.0009789    1 inattention    : 如在
+0.0009581    1 hospital       : 在院
+0.0009459    2 actual         : 実在, 顕在
+0.0009441    1 ubiquity       : 遍在
+0.0009441    1 omnipresence   : 遍在
+0.0009441    1 maldistribution: 偏在
+0.0009366    1 researcher     : 在野
+0.0009294    1 scientist      : 在野
+0.0009103    1 priesthood     : 在俗
+0.0009043    1 police         : 駐在
+0.0009011    2 area           : 在方, 局在
+0.0008887    1 oversight      : 如在
+0.0008775    1 carelessness   : 如在
+0.0008684    1 Korean         : 在日
+0.0008615    1 real           : 実在
+0.0008386    2 opposed        : 在国, 顕在
+0.0008383    1 box            : 駐在
+0.0008332    2 student        : 在校, 在学
+0.0008063    1 immanent       : 内在
+0.0007963    2 something      : 在り処, 在処
+0.0007779    1 immanence      : 内在
+0.0007583    1 opposition     : 在野
+0.0007554    1 laywoman       : 在家
+0.0007550    1 straggle       : 散在
+0.0007399    2 ordinary       : 在り来たり, 在り来り
+0.0007270    1 entering       : 在俗
+0.0007170    1 uneven         : 偏在
+0.0007145    1 indifference   : 不在
+0.0007126    1 farmhouse      : 在家
+0.0007035    1 village        : 在所
+0.0007003    1 pothook        : 自在
+0.0006968    1 interposition  : 介在
+0.0006952    1 potentiality   : 潜在
+0.0006939    1 reside         : 内在
+0.0006876    1 citizenry      : 在民
+0.0006872    1 intrinsic      : 内在
+0.0006871    1 unfair         : 偏在
+0.0006852    1 disregard      : 不在
+0.0006713    2 life           : 実在, 現在
+0.0006698    1 residency      : 在日
+0.0006692    1 dormancy       : 潜在
+0.0006678    1 concealed      : 伏在
+0.0006637    1 sojourn        : 滞在
+0.0006612    1 dotted         : 点在
+0.0006568    1 inherent       : 内在
+0.0006548    1 practice       : 在野
+0.0006508    1 latency        : 潜在
+0.0006470    1 rice           : 在米
+0.0006304    2 common         : 在り来たり, 在り来り
+0.0006270    1 laity          : 在家
+0.0006148    1 private        : 在野
+0.0006115    1 alongside      : 混在
+0.0006081    1 absence        : 不在
+0.0006077    1 localization   : 局在
+0.0006074    1 embassy        : 在日
+0.0006028    1 suburban       : 近在
+0.0005988    1 lying          : 伏在
+0.0005971    1 layman         : 在家
+0.0005936    1 posting        : 駐在
+0.0005925    1 cottage        : 在家
+0.0005823    1 passable       : 在り
+0.0005738    1 latent         : 顕在
+0.0005738    1 tangible       : 顕在
+0.0005693    1 power          : 在野
+0.0005602    1 go             : 在す
+0.0005592    1 came           : 在日
+0.0005567    1 belonging      : 在民
+0.0005564    1 revealed       : 顕在
+0.0005544    1 overseas       : 駐在
+0.0005543    1 employ         : 在朝
+0.0005497    1 foreigner      : 在日
+0.0005454    1 reign          : 在位
+0.0005415    1 descendant     : 在日
+0.0005376    1 neighboring    : 近在
+0.0005331    1 inanimate      : 在り
+0.0005309    1 dwelling       : 在住
+0.0005277    1 inventory      : 在庫
+0.0005159    1 intervention   : 介在
+0.0005151    1 alright        : 在り
+0.0005139    1 throne         : 在位
+0.0005115    1 registered     : 在籍
+0.0005076    1 apparent       : 顕在
+0.0005046    1 acceptable     : 在り
+0.0004995    1 involvement    : 介在
+0.0004873    1 domain         : 在国
+0.0004852    1 officer        : 駐在
+0.0004827    1 permanent      : 在日
+0.0004782    1 tense          : 現在
+0.0004769    1 obvious        : 顕在
+0.0004763    1 attendance     : 在
+0.0004737    1 prison         : 在役
+0.0004653    1 heaven         : 在天
+0.0004623    1 found          : 散在
+0.0004604    1 college        : 在学
+0.0004596    1 mixture        : 混在
+0.0004461    1 team           : 在籍
+0.0004449    1 employee       : 在社
+0.0004376    1 able           : 自在
+0.0004335    1 job            : 駐在
+0.0004266    1 holding        : 在官
+0.0004206    1 capital        : 在京
+0.0004203    1 organization   : 在籍
+0.0004081    1 health         : 健在
+0.0004079    1 member         : 在籍
+0.0004042    1 certain        : 局在
+0.0004040    1 national       : 在日
+0.0003891    1 court          : 在朝
+0.0003877    1 strong         : 健在
+0.0003877    1 imperial       : 在朝
+0.0003829    1 military       : 在役
+0.0003786    1 front          : 現在
+0.0003785    1 goods          : 在荷
+0.0003715    1 position       : 所在
+0.0003700    1 government     : 在朝
+0.0003688    1 room           : 在室
+0.0003619    1 Edo            : 在国
+0.0003608    1 company        : 在社
+0.0003575    1 right          : 現在
+0.0003540    1 live           : 在る
+0.0003496    1 moment         : 在り
+0.0003494    1 world          : 現在
+0.0003436    1 going          : 健在
+0.0003256    1 people         : 在民
+0.0003250    1 work           : 在社
+0.0002966    1 good           : 健在
+0.0002848    1 time           : 現在
+0.0002598    1 person         : 在日
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2301952    1 gallery
+	gallery WORD[ 1,   1]: 0.2301952 在廊
+TOKEN[ 2]: 0.2177543    1 exhibition
+	exhibition WORD[ 2,   1]: 0.2177543 在廊
+TOKEN[ 3]: 0.2114819    1 artist
+	artist WORD[ 3,   1]: 0.2114819 在廊
+TOKEN[ 4]: 0.1762390    3 present
+	present WORD[ 4,   1]: 0.1747220 在廊
+	present WORD[ 4,   2]: 0.0011698 現在
+	present WORD[ 4,   3]: 0.0003472 在り
+TOKEN[ 5]: 0.0077713    6 resident
+	resident WORD[ 5,   1]: 0.0032766 在沖
+	resident WORD[ 5,   2]: 0.0015904 常在
+	resident WORD[ 5,   3]: 0.0014139 在韓
+	resident WORD[ 5,   4]: 0.0004968 在日
+	resident WORD[ 5,   5]: 0.0004968 在朝
+	resident WORD[ 5,   6]: 0.0004968 在
+TOKEN[ 6]: 0.0049420    7 country
+	country WORD[ 6,   1]: 0.0016088 僻在
+	country WORD[ 6,   2]: 0.0011853 在地
+	country WORD[ 6,   3]: 0.0006049 在所
+	country WORD[ 6,   4]: 0.0003858 在日
+	country WORD[ 6,   5]: 0.0003858 在家
+	country WORD[ 6,   6]: 0.0003858 在郷
+	country WORD[ 6,   7]: 0.0003858 在
+TOKEN[ 7]: 0.0034905    4 situated
+	situated WORD[ 7,   1]: 0.0016993 在韓
+	situated WORD[ 7,   2]: 0.0005971 在日
+	situated WORD[ 7,   3]: 0.0005971 在朝
+	situated WORD[ 7,   4]: 0.0005970 在
+TOKEN[ 8]: 0.0032818    9 one
+	one WORD[ 8,   1]: 0.0007871 僻在
+	one WORD[ 8,   2]: 0.0005919 在所
+	one WORD[ 8,   3]: 0.0005799 在地
+	one WORD[ 8,   4]: 0.0003775 在国
+	one WORD[ 8,   5]: 0.0001922 自在
+	one WORD[ 8,   6]: 0.0001915 所在
+	one WORD[ 8,   7]: 0.0001887 在室
+	one WORD[ 8,   8]: 0.0001887 在郷
+	one WORD[ 8,   9]: 0.0001843 現在
+TOKEN[ 9]: 0.0031062    2 South
+	South WORD[ 9,   1]: 0.0026421 在韓
+	South WORD[ 9,   2]: 0.0004642 在日
+TOKEN[10]: 0.0029596    3 residence
+	residence WORD[10,   1]: 0.0018018 在特
+	residence WORD[10,   2]: 0.0006880 在所
+	residence WORD[10,   3]: 0.0004699 駐在
+TOKEN[11]: 0.0029181    4 whereabouts
+	whereabouts WORD[11,   1]: 0.0008404 在所
+	whereabouts WORD[11,   2]: 0.0007670 在り処
+	whereabouts WORD[11,   3]: 0.0007670 在処
+	whereabouts WORD[11,   4]: 0.0005438 所在
+TOKEN[12]: 0.0026542    3 countryside
+	countryside WORD[12,   1]: 0.0016077 在地
+	countryside WORD[12,   2]: 0.0005232 在郷
+	countryside WORD[12,   3]: 0.0005232 在
+TOKEN[13]: 0.0024934    6 office
+	office WORD[13,   1]: 0.0005955 在野
+	office WORD[13,   2]: 0.0003796 在任
+	office WORD[13,   3]: 0.0003796 在職
+	office WORD[13,   4]: 0.0003796 在社
+	office WORD[13,   5]: 0.0003796 在室
+	office WORD[13,   6]: 0.0003796 在官
+TOKEN[14]: 0.0023111    3 presence
+	presence WORD[14,   1]: 0.0013733 臨在
+	presence WORD[14,   2]: 0.0004789 存在
+	presence WORD[14,   3]: 0.0004589 在
+TOKEN[15]: 0.0022428    4 place
+	place WORD[15,   1]: 0.0009916 在地
+	place WORD[15,   2]: 0.0004619 在り処
+	place WORD[15,   3]: 0.0004619 在処
+	place WORD[15,   4]: 0.0003275 所在
+TOKEN[16]: 0.0022049    2 Japan
+	Japan WORD[16,   1]: 0.0012741 在特
+	Japan WORD[16,   2]: 0.0009308 在日
+TOKEN[17]: 0.0020165    2 exist
+	exist WORD[17,   1]: 0.0015550 現在
+	exist WORD[17,   2]: 0.0004615 在る
+TOKEN[18]: 0.0019689    4 living
+	living WORD[18,   1]: 0.0006011 在俗
+	living WORD[18,   2]: 0.0006011 在世
+	living WORD[18,   3]: 0.0003834 在留
+	living WORD[18,   4]: 0.0003833 在住
+TOKEN[19]: 0.0019586    1 illegal
+	illegal WORD[19,   1]: 0.0019586 在特
+TOKEN[20]: 0.0019114    1 indigenous
+	indigenous WORD[20,   1]: 0.0019114 常在
+TOKEN[21]: 0.0018406    1 status
+	status WORD[21,   1]: 0.0018406 在特
+TOKEN[22]: 0.0018014    3 stay
+	stay WORD[22,   1]: 0.0008754 在院
+	stay WORD[22,   2]: 0.0004687 駐在
+	stay WORD[22,   3]: 0.0004573 滞在
+TOKEN[23]: 0.0017296    3 location
+	location WORD[23,   1]: 0.0006385 在り処
+	location WORD[23,   2]: 0.0006385 在処
+	location WORD[23,   3]: 0.0004527 所在
+TOKEN[24]: 0.0017133    1 enrolment
+	enrolment WORD[24,   1]: 0.0017133 在園
+TOKEN[25]: 0.0017057    3 come
+	come WORD[25,   1]: 0.0008098 在り付く
+	come WORD[25,   2]: 0.0003000 在す
+	come WORD[25,   3]: 0.0002959 在る
+TOKEN[26]: 0.0016495    4 home
+	home WORD[26,   1]: 0.0005662 在所
+	home WORD[26,   2]: 0.0003611 在宅
+	home WORD[26,   3]: 0.0003611 在宿
+	home WORD[26,   4]: 0.0003611 在家
+TOKEN[27]: 0.0015809    3 stock
+	stock WORD[27,   1]: 0.0008090 在り合わせる
+	stock WORD[27,   2]: 0.0003859 在庫
+	stock WORD[27,   3]: 0.0003859 在荷
+TOKEN[28]: 0.0014880    1 side
+	side WORD[28,   1]: 0.0014880 僻在
+TOKEN[29]: 0.0014783    2 existence
+	existence WORD[29,   1]: 0.0009776 実在
+	existence WORD[29,   2]: 0.0005007 存在
+TOKEN[30]: 0.0014491    1 kindergarten
+	kindergarten WORD[30,   1]: 0.0014491 在園
+TOKEN[31]: 0.0013881    3 conventional
+	conventional WORD[31,   1]: 0.0005070 在来
+	conventional WORD[31,   2]: 0.0004406 在り来たり
+	conventional WORD[31,   3]: 0.0004406 在り来り
+TOKEN[32]: 0.0013739    1 based
+	based WORD[32,   1]: 0.0013739 在阪
+TOKEN[33]: 0.0013268    2 happen
+	happen WORD[33,   1]: 0.0009379 在り合わせる
+	happen WORD[33,   2]: 0.0003889 在る
+TOKEN[34]: 0.0013224    2 rural
+	rural WORD[34,   1]: 0.0008072 在方
+	rural WORD[34,   2]: 0.0005152 在郷
+TOKEN[35]: 0.0012839    2 alive
+	alive WORD[35,   1]: 0.0007915 在世
+	alive WORD[35,   2]: 0.0004924 健在
+TOKEN[36]: 0.0012046    3 working
+	working WORD[36,   1]: 0.0004016 在朝
+	working WORD[36,   2]: 0.0004015 在社
+	working WORD[36,   3]: 0.0004015 在勤
+TOKEN[37]: 0.0011941    2 enrolled
+	enrolled WORD[37,   1]: 0.0005971 在籍
+	enrolled WORD[37,   2]: 0.0005971 在学
+TOKEN[38]: 0.0011539    1 obtain
+	obtain WORD[38,   1]: 0.0011539 在り付く
+TOKEN[39]: 0.0011375    1 sloppiness
+	sloppiness WORD[39,   1]: 0.0011375 如在
+TOKEN[40]: 0.0011092    1 distribution
+	distribution WORD[40,   1]: 0.0011092 偏在
+TOKEN[41]: 0.0011061    1 residential
+	residential WORD[41,   1]: 0.0011061 駐在
+TOKEN[42]: 0.0010793    2 hand
+	hand WORD[42,   1]: 0.0007307 在り合わせる
+	hand WORD[42,   2]: 0.0003486 在荷
+TOKEN[43]: 0.0010524    1 stocks
+	stocks WORD[43,   1]: 0.0005262 在米
+TOKEN[44]: 0.0010383    2 scattered
+	scattered WORD[44,   1]: 0.0005436 点在
+	scattered WORD[44,   2]: 0.0004947 散在
+TOKEN[45]: 0.0010115    1 unaffiliated
+	unaffiliated WORD[45,   1]: 0.0010115 在野
+TOKEN[46]: 0.0010087    1 child
+	child WORD[46,   1]: 0.0010087 在園
+TOKEN[47]: 0.0010039    2 hidden
+	hidden WORD[47,   1]: 0.0005597 伏在
+	hidden WORD[47,   2]: 0.0004442 顕在
+TOKEN[48]: 0.0010014    1 available
+	available WORD[48,   1]: 0.0010014 在り合わせる
+TOKEN[49]: 0.0009944    1 find
+	find WORD[49,   1]: 0.0009944 在り付く
+TOKEN[50]: 0.0009861    3 school
+	school WORD[50,   1]: 0.0003287 在籍
+	school WORD[50,   2]: 0.0003287 在校
+	school WORD[50,   3]: 0.0003287 在学
+TOKEN[51]: 0.0009814    2 customary
+	customary WORD[51,   1]: 0.0004907 在り来たり
+	customary WORD[51,   2]: 0.0004907 在り来り
+TOKEN[52]: 0.0009800    1 superficial
+	superficial WORD[52,   1]: 0.0009800 表在
+TOKEN[53]: 0.0009789    1 inattention
+	inattention WORD[53,   1]: 0.0009789 如在
+TOKEN[54]: 0.0009581    1 hospital
+	hospital WORD[54,   1]: 0.0009581 在院
+TOKEN[55]: 0.0009459    2 actual
+	actual WORD[55,   1]: 0.0004833 実在
+	actual WORD[55,   2]: 0.0004627 顕在
+TOKEN[56]: 0.0009441    1 ubiquity
+	ubiquity WORD[56,   1]: 0.0009441 遍在
+TOKEN[57]: 0.0009441    1 omnipresence
+	omnipresence WORD[57,   1]: 0.0009441 遍在
+TOKEN[58]: 0.0009441    1 maldistribution
+	maldistribution WORD[58,   1]: 0.0009441 偏在
+TOKEN[59]: 0.0009366    1 researcher
+	researcher WORD[59,   1]: 0.0009366 在野
+TOKEN[60]: 0.0009294    1 scientist
+	scientist WORD[60,   1]: 0.0009294 在野
+TOKEN[61]: 0.0009103    1 priesthood
+	priesthood WORD[61,   1]: 0.0009103 在俗
+TOKEN[62]: 0.0009043    1 police
+	police WORD[62,   1]: 0.0009043 駐在
+TOKEN[63]: 0.0009011    2 area
+	area WORD[63,   1]: 0.0005595 在方
+	area WORD[63,   2]: 0.0003416 局在
+TOKEN[64]: 0.0008887    1 oversight
+	oversight WORD[64,   1]: 0.0008887 如在
+TOKEN[65]: 0.0008775    1 carelessness
+	carelessness WORD[65,   1]: 0.0008775 如在
+TOKEN[66]: 0.0008684    1 Korean
+	Korean WORD[66,   1]: 0.0008684 在日
+TOKEN[67]: 0.0008615    1 real
+	real WORD[67,   1]: 0.0008615 実在
+TOKEN[68]: 0.0008386    2 opposed
+	opposed WORD[68,   1]: 0.0004245 在国
+	opposed WORD[68,   2]: 0.0004141 顕在
+TOKEN[69]: 0.0008383    1 box
+	box WORD[69,   1]: 0.0008383 駐在
+TOKEN[70]: 0.0008332    2 student
+	student WORD[70,   1]: 0.0004166 在校
+	student WORD[70,   2]: 0.0004166 在学
+TOKEN[71]: 0.0008063    1 immanent
+	immanent WORD[71,   1]: 0.0008063 内在
+TOKEN[72]: 0.0007963    2 something
+	something WORD[72,   1]: 0.0003981 在り処
+	something WORD[72,   2]: 0.0003981 在処
+TOKEN[73]: 0.0007779    1 immanence
+	immanence WORD[73,   1]: 0.0007779 内在
+TOKEN[74]: 0.0007583    1 opposition
+	opposition WORD[74,   1]: 0.0007583 在野
+TOKEN[75]: 0.0007554    1 laywoman
+	laywoman WORD[75,   1]: 0.0007554 在家
+TOKEN[76]: 0.0007550    1 straggle
+	straggle WORD[76,   1]: 0.0007550 散在
+TOKEN[77]: 0.0007399    2 ordinary
+	ordinary WORD[77,   1]: 0.0003699 在り来たり
+	ordinary WORD[77,   2]: 0.0003699 在り来り
+TOKEN[78]: 0.0007270    1 entering
+	entering WORD[78,   1]: 0.0007270 在俗
+TOKEN[79]: 0.0007170    1 uneven
+	uneven WORD[79,   1]: 0.0007170 偏在
+TOKEN[80]: 0.0007145    1 indifference
+	indifference WORD[80,   1]: 0.0007145 不在
+TOKEN[81]: 0.0007126    1 farmhouse
+	farmhouse WORD[81,   1]: 0.0007126 在家
+TOKEN[82]: 0.0007035    1 village
+	village WORD[82,   1]: 0.0007035 在所
+TOKEN[83]: 0.0007003    1 pothook
+	pothook WORD[83,   1]: 0.0007003 自在
+TOKEN[84]: 0.0006968    1 interposition
+	interposition WORD[84,   1]: 0.0006968 介在
+TOKEN[85]: 0.0006952    1 potentiality
+	potentiality WORD[85,   1]: 0.0006952 潜在
+TOKEN[86]: 0.0006939    1 reside
+	reside WORD[86,   1]: 0.0006939 内在
+TOKEN[87]: 0.0006876    1 citizenry
+	citizenry WORD[87,   1]: 0.0006876 在民
+TOKEN[88]: 0.0006872    1 intrinsic
+	intrinsic WORD[88,   1]: 0.0006872 内在
+TOKEN[89]: 0.0006871    1 unfair
+	unfair WORD[89,   1]: 0.0006871 偏在
+TOKEN[90]: 0.0006852    1 disregard
+	disregard WORD[90,   1]: 0.0006852 不在
+TOKEN[91]: 0.0006713    2 life
+	life WORD[91,   1]: 0.0003428 実在
+	life WORD[91,   2]: 0.0003285 現在
+TOKEN[92]: 0.0006698    1 residency
+	residency WORD[92,   1]: 0.0006698 在日
+TOKEN[93]: 0.0006692    1 dormancy
+	dormancy WORD[93,   1]: 0.0006692 潜在
+TOKEN[94]: 0.0006678    1 concealed
+	concealed WORD[94,   1]: 0.0006678 伏在
+TOKEN[95]: 0.0006637    1 sojourn
+	sojourn WORD[95,   1]: 0.0006637 滞在
+TOKEN[96]: 0.0006612    1 dotted
+	dotted WORD[96,   1]: 0.0006612 点在
+TOKEN[97]: 0.0006568    1 inherent
+	inherent WORD[97,   1]: 0.0006568 内在
+TOKEN[98]: 0.0006548    1 practice
+	practice WORD[98,   1]: 0.0006548 在野
+TOKEN[99]: 0.0006508    1 latency
+	latency WORD[99,   1]: 0.0006508 潜在
+TOKEN[100]: 0.0006470    1 rice
+	rice WORD[100,   1]: 0.0003235 在米
+TOKEN[101]: 0.0006304    2 common
+	common WORD[101,   1]: 0.0003152 在り来たり
+	common WORD[101,   2]: 0.0003152 在り来り
+TOKEN[102]: 0.0006270    1 laity
+	laity WORD[102,   1]: 0.0006270 在家
+TOKEN[103]: 0.0006148    1 private
+	private WORD[103,   1]: 0.0006148 在野
+TOKEN[104]: 0.0006115    1 alongside
+	alongside WORD[104,   1]: 0.0006115 混在
+TOKEN[105]: 0.0006081    1 absence
+	absence WORD[105,   1]: 0.0006081 不在
+TOKEN[106]: 0.0006077    1 localization
+	localization WORD[106,   1]: 0.0006077 局在
+TOKEN[107]: 0.0006074    1 embassy
+	embassy WORD[107,   1]: 0.0006074 在日
+TOKEN[108]: 0.0006028    1 suburban
+	suburban WORD[108,   1]: 0.0006028 近在
+TOKEN[109]: 0.0005988    1 lying
+	lying WORD[109,   1]: 0.0005988 伏在
+TOKEN[110]: 0.0005971    1 layman
+	layman WORD[110,   1]: 0.0005971 在家
+TOKEN[111]: 0.0005936    1 posting
+	posting WORD[111,   1]: 0.0005936 駐在
+TOKEN[112]: 0.0005925    1 cottage
+	cottage WORD[112,   1]: 0.0005925 在家
+TOKEN[113]: 0.0005823    1 passable
+	passable WORD[113,   1]: 0.0005823 在り
+TOKEN[114]: 0.0005738    1 latent
+	latent WORD[114,   1]: 0.0005738 顕在
+TOKEN[115]: 0.0005738    1 tangible
+	tangible WORD[115,   1]: 0.0005738 顕在
+TOKEN[116]: 0.0005693    1 power
+	power WORD[116,   1]: 0.0005693 在野
+TOKEN[117]: 0.0005602    1 go
+	go WORD[117,   1]: 0.0002801 在す
+TOKEN[118]: 0.0005592    1 came
+	came WORD[118,   1]: 0.0005592 在日
+TOKEN[119]: 0.0005567    1 belonging
+	belonging WORD[119,   1]: 0.0005567 在民
+TOKEN[120]: 0.0005564    1 revealed
+	revealed WORD[120,   1]: 0.0005564 顕在
+TOKEN[121]: 0.0005544    1 overseas
+	overseas WORD[121,   1]: 0.0005544 駐在
+TOKEN[122]: 0.0005543    1 employ
+	employ WORD[122,   1]: 0.0005543 在朝
+TOKEN[123]: 0.0005497    1 foreigner
+	foreigner WORD[123,   1]: 0.0005497 在日
+TOKEN[124]: 0.0005454    1 reign
+	reign WORD[124,   1]: 0.0005454 在位
+TOKEN[125]: 0.0005415    1 descendant
+	descendant WORD[125,   1]: 0.0005415 在日
+TOKEN[126]: 0.0005376    1 neighboring
+	neighboring WORD[126,   1]: 0.0005376 近在
+TOKEN[127]: 0.0005331    1 inanimate
+	inanimate WORD[127,   1]: 0.0005331 在り
+TOKEN[128]: 0.0005309    1 dwelling
+	dwelling WORD[128,   1]: 0.0005309 在住
+TOKEN[129]: 0.0005277    1 inventory
+	inventory WORD[129,   1]: 0.0005277 在庫
+TOKEN[130]: 0.0005159    1 intervention
+	intervention WORD[130,   1]: 0.0005159 介在
+TOKEN[131]: 0.0005151    1 alright
+	alright WORD[131,   1]: 0.0005151 在り
+TOKEN[132]: 0.0005139    1 throne
+	throne WORD[132,   1]: 0.0005139 在位
+TOKEN[133]: 0.0005115    1 registered
+	registered WORD[133,   1]: 0.0005115 在籍
+TOKEN[134]: 0.0005076    1 apparent
+	apparent WORD[134,   1]: 0.0005076 顕在
+TOKEN[135]: 0.0005046    1 acceptable
+	acceptable WORD[135,   1]: 0.0005046 在り
+TOKEN[136]: 0.0004995    1 involvement
+	involvement WORD[136,   1]: 0.0004995 介在
+TOKEN[137]: 0.0004873    1 domain
+	domain WORD[137,   1]: 0.0004873 在国
+TOKEN[138]: 0.0004852    1 officer
+	officer WORD[138,   1]: 0.0004852 駐在
+TOKEN[139]: 0.0004827    1 permanent
+	permanent WORD[139,   1]: 0.0004827 在日
+TOKEN[140]: 0.0004782    1 tense
+	tense WORD[140,   1]: 0.0004782 現在
+TOKEN[141]: 0.0004769    1 obvious
+	obvious WORD[141,   1]: 0.0004769 顕在
+TOKEN[142]: 0.0004763    1 attendance
+	attendance WORD[142,   1]: 0.0004763 在
+TOKEN[143]: 0.0004737    1 prison
+	prison WORD[143,   1]: 0.0004737 在役
+TOKEN[144]: 0.0004653    1 heaven
+	heaven WORD[144,   1]: 0.0004653 在天
+TOKEN[145]: 0.0004623    1 found
+	found WORD[145,   1]: 0.0004623 散在
+TOKEN[146]: 0.0004604    1 college
+	college WORD[146,   1]: 0.0004604 在学
+TOKEN[147]: 0.0004596    1 mixture
+	mixture WORD[147,   1]: 0.0004596 混在
+TOKEN[148]: 0.0004461    1 team
+	team WORD[148,   1]: 0.0004461 在籍
+TOKEN[149]: 0.0004449    1 employee
+	employee WORD[149,   1]: 0.0004449 在社
+TOKEN[150]: 0.0004376    1 able
+	able WORD[150,   1]: 0.0004376 自在
+TOKEN[151]: 0.0004335    1 job
+	job WORD[151,   1]: 0.0004335 駐在
+TOKEN[152]: 0.0004266    1 holding
+	holding WORD[152,   1]: 0.0004266 在官
+TOKEN[153]: 0.0004206    1 capital
+	capital WORD[153,   1]: 0.0004206 在京
+TOKEN[154]: 0.0004203    1 organization
+	organization WORD[154,   1]: 0.0004203 在籍
+TOKEN[155]: 0.0004081    1 health
+	health WORD[155,   1]: 0.0004081 健在
+TOKEN[156]: 0.0004079    1 member
+	member WORD[156,   1]: 0.0004079 在籍
+TOKEN[157]: 0.0004042    1 certain
+	certain WORD[157,   1]: 0.0004042 局在
+TOKEN[158]: 0.0004040    1 national
+	national WORD[158,   1]: 0.0004040 在日
+TOKEN[159]: 0.0003891    1 court
+	court WORD[159,   1]: 0.0003891 在朝
+TOKEN[160]: 0.0003877    1 strong
+	strong WORD[160,   1]: 0.0003877 健在
+TOKEN[161]: 0.0003877    1 imperial
+	imperial WORD[161,   1]: 0.0003877 在朝
+TOKEN[162]: 0.0003829    1 military
+	military WORD[162,   1]: 0.0003829 在役
+TOKEN[163]: 0.0003786    1 front
+	front WORD[163,   1]: 0.0003786 現在
+TOKEN[164]: 0.0003785    1 goods
+	goods WORD[164,   1]: 0.0003785 在荷
+TOKEN[165]: 0.0003715    1 position
+	position WORD[165,   1]: 0.0003715 所在
+TOKEN[166]: 0.0003700    1 government
+	government WORD[166,   1]: 0.0003700 在朝
+TOKEN[167]: 0.0003688    1 room
+	room WORD[167,   1]: 0.0003688 在室
+TOKEN[168]: 0.0003619    1 Edo
+	Edo WORD[168,   1]: 0.0003619 在国
+TOKEN[169]: 0.0003608    1 company
+	company WORD[169,   1]: 0.0003608 在社
+TOKEN[170]: 0.0003575    1 right
+	right WORD[170,   1]: 0.0003575 現在
+TOKEN[171]: 0.0003540    1 live
+	live WORD[171,   1]: 0.0003540 在る
+TOKEN[172]: 0.0003496    1 moment
+	moment WORD[172,   1]: 0.0003496 在り
+TOKEN[173]: 0.0003494    1 world
+	world WORD[173,   1]: 0.0003494 現在
+TOKEN[174]: 0.0003436    1 going
+	going WORD[174,   1]: 0.0003436 健在
+TOKEN[175]: 0.0003256    1 people
+	people WORD[175,   1]: 0.0003256 在民
+TOKEN[176]: 0.0003250    1 work
+	work WORD[176,   1]: 0.0003250 在社
+TOKEN[177]: 0.0002966    1 good
+	good WORD[177,   1]: 0.0002966 健在
+TOKEN[178]: 0.0002848    1 time
+	time WORD[178,   1]: 0.0002848 現在
+TOKEN[179]: 0.0002598    1 person
+	person WORD[179,   1]: 0.0002598 在日

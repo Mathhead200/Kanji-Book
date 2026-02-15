@@ -1,0 +1,334 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1884254   11 trip           : 修旅, 初旅, 船旅, 旅程, 旅行, 長旅, 旅だつ, 旅立つ, 旅立ち, 旅先, ...
+0.0609397    1 year           : 初旅
+0.0601105    2 excursion      : 修旅, 旅行
+0.0417535    9 travel         : 旅姿, 旅衣, 旅心, 羇旅, 羈旅, 旅費, 旅程, 旅行, 旅
+0.0392201    8 traveling      : 旅疲れ, 旅装, 旅情, 旅寝, 旅住い, 旅慣れる, 旅僧, 行旅
+0.0384483    1 field          : 修旅
+0.0360740    7 inn            : 旅宿, 旅舎, 旅次, 旅籠屋, 旅籠, 逆旅, 旅館
+0.0350830    1 school         : 修旅
+0.0332337    9 journey        : 旅路, 旅愁, 旅程, 旅行, ひとり旅, 一人旅, 独り旅, 長旅, 旅
+0.0206040    1 homosexual     : 旅子
+0.0191150    5 traveler       : 羇旅, 羈旅, 旅客, 旅人, 行旅
+0.0191150    5 traveller      : 羇旅, 羈旅, 旅客, 旅人, 行旅
+0.0171380    2 outfit         : 旅装, 旅姿
+0.0168443    2 stranger       : 旅がらす, 旅烏
+0.0161295    1 prostitute     : 旅子
+0.0156620    1 male           : 旅子
+0.0123198    1 weary          : 旅疲れ
+0.0105363    2 tourist        : 旅客, 旅人
+0.0104082    2 depart         : 旅だつ, 旅立つ
+0.0095659    2 clothes        : 旅装, 旅衣
+0.0092665    2 vagrant        : 旅がらす, 旅烏
+0.0092665    2 vagabond       : 旅がらす, 旅烏
+0.0087894    3 solitary       : ひとり旅, 一人旅, 独り旅
+0.0087095    1 kit            : 旅姿
+0.0084222    2 wanderer       : 旅がらす, 旅烏
+0.0082698    3 home           : 旅枕, 旅寝, 旅稼ぎ
+0.0080821    2 stays          : 旅住い, 旅先
+0.0080311    2 outsider       : 旅がらす, 旅烏
+0.0076703    1 basket         : 旅籠
+0.0071349    2 traditional    : 旅姿, 旅館
+0.0071010    1 wayfarer       : 旅人
+0.0069719    2 sleeping       : 旅枕, 旅寝
+0.0066124    1 carry          : 旅籠
+0.0063341    3 life           : 股旅, 旅だつ, 旅立つ
+0.0060564    3 place          : 旅住い, 旅所, 旅先
+0.0055352    2 Japanese       : 旅姿, 旅館
+0.0054092    1 pedlar         : 旅商い
+0.0053862    2 embark         : 旅だつ, 旅立つ
+0.0051919    1 loneliness     : 旅愁
+0.0051234    1 tavern         : 旅籠
+0.0050890    1 gambler        : 股旅
+0.0050507    1 used           : 旅籠
+0.0046335    1 touring        : 旅回り
+0.0045032    1 fodder         : 旅籠
+0.0044709    1 peddling       : 旅商い
+0.0043694    1 lodged         : 旅所
+0.0043480    1 wandering      : 股旅
+0.0042989    1 peddler        : 旅商い
+0.0042749    1 hotel          : 旅次
+0.0041425    2 die            : 旅だつ, 旅立つ
+0.0041080    2 begin          : 旅だつ, 旅立つ
+0.0040611    3 one            : 旅情, 旅住い, 旅先
+0.0040594    1 priest         : 旅僧
+0.0039224    1 itinerary      : 旅程
+0.0039224    1 brigade        : 旅団
+0.0039190    1 overnight      : 旅寝
+0.0038958    2 pass           : 旅だつ, 旅立つ
+0.0038565    1 mood           : 旅情
+0.0036824    1 passport       : 旅券
+0.0035144    1 stage          : 旅宿
+0.0034738    1 palanquin      : 旅所
+0.0033625    1 cruise         : 船旅
+0.0032903    1 route          : 旅路
+0.0032819    1 passenger      : 旅客
+0.0032671    1 stay           : 旅寝
+0.0032448    1 desire         : 旅心
+0.0032008    1 type           : 旅籠屋
+0.0030983    1 horse          : 旅籠
+0.0030983    1 Edo            : 旅籠
+0.0030973    1 sacred         : 旅所
+0.0030890    1 army           : 軍旅
+0.0030852    1 voyage         : 船旅
+0.0030696    1 working        : 旅稼ぎ
+0.0030535    1 tour           : 旅行
+0.0029569    1 festival       : 旅所
+0.0027893    1 war            : 軍旅
+0.0027684    1 food           : 旅籠
+0.0027118    1 distance       : 旅程
+0.0025868    1 accustomed     : 旅慣れる
+0.0024633    1 destination    : 旅先
+0.0023310    1 boat           : 船旅
+0.0022818    1 departure      : 旅立ち
+0.0021250    1 sea            : 船旅
+0.0020742    1 setting        : 旅立ち
+0.0019866    1 long           : 長旅
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1884254   11 trip
+	trip WORD[ 1,   1]: 0.0893928 修旅
+	trip WORD[ 1,   2]: 0.0731303 初旅
+	trip WORD[ 1,   3]: 0.0050305 船旅
+	trip WORD[ 1,   4]: 0.0027905 旅程
+	trip WORD[ 1,   5]: 0.0027905 旅行
+	trip WORD[ 1,   6]: 0.0023113 長旅
+	trip WORD[ 1,   7]: 0.0021633 旅だつ
+	trip WORD[ 1,   8]: 0.0021633 旅立つ
+	trip WORD[ 1,   9]: 0.0021633 旅立ち
+	trip WORD[ 1,  10]: 0.0021632 旅先
+	trip WORD[ 1,  11]: 0.0021632 旅
+TOKEN[ 2]: 0.0609397    1 year
+	year WORD[ 2,   1]: 0.0609397 初旅
+TOKEN[ 3]: 0.0601105    2 excursion
+	excursion WORD[ 3,   1]: 0.0565783 修旅
+	excursion WORD[ 3,   2]: 0.0035323 旅行
+TOKEN[ 4]: 0.0417535    9 travel
+	travel WORD[ 4,   1]: 0.0131899 旅姿
+	travel WORD[ 4,   2]: 0.0036949 旅衣
+	travel WORD[ 4,   3]: 0.0036949 旅心
+	travel WORD[ 4,   4]: 0.0034701 羇旅
+	travel WORD[ 4,   5]: 0.0034701 羈旅
+	travel WORD[ 4,   6]: 0.0031280 旅費
+	travel WORD[ 4,   7]: 0.0031280 旅程
+	travel WORD[ 4,   8]: 0.0031280 旅行
+	travel WORD[ 4,   9]: 0.0024248 旅
+TOKEN[ 5]: 0.0392201    8 traveling
+	traveling WORD[ 5,   1]: 0.0111291 旅疲れ
+	traveling WORD[ 5,   2]: 0.0087540 旅装
+	traveling WORD[ 5,   3]: 0.0043770 旅情
+	traveling WORD[ 5,   4]: 0.0037694 旅寝
+	traveling WORD[ 5,   5]: 0.0037693 旅住い
+	traveling WORD[ 5,   6]: 0.0024739 旅慣れる
+	traveling WORD[ 5,   7]: 0.0024737 旅僧
+	traveling WORD[ 5,   8]: 0.0024736 行旅
+TOKEN[ 6]: 0.0384483    1 field
+	field WORD[ 6,   1]: 0.0384483 修旅
+TOKEN[ 7]: 0.0360740    7 inn
+	inn WORD[ 7,   1]: 0.0088312 旅宿
+	inn WORD[ 7,   2]: 0.0076426 旅舎
+	inn WORD[ 7,   3]: 0.0044156 旅次
+	inn WORD[ 7,   4]: 0.0042048 旅籠屋
+	inn WORD[ 7,   5]: 0.0042047 旅籠
+	inn WORD[ 7,   6]: 0.0035560 逆旅
+	inn WORD[ 7,   7]: 0.0032190 旅館
+TOKEN[ 8]: 0.0350830    1 school
+	school WORD[ 8,   1]: 0.0350830 修旅
+TOKEN[ 9]: 0.0332337    9 journey
+	journey WORD[ 9,   1]: 0.0072855 旅路
+	journey WORD[ 9,   2]: 0.0042300 旅愁
+	journey WORD[ 9,   3]: 0.0030838 旅程
+	journey WORD[ 9,   4]: 0.0030838 旅行
+	journey WORD[ 9,   5]: 0.0027384 ひとり旅
+	journey WORD[ 9,   6]: 0.0027384 一人旅
+	journey WORD[ 9,   7]: 0.0027384 独り旅
+	journey WORD[ 9,   8]: 0.0025542 長旅
+	journey WORD[ 9,   9]: 0.0023906 旅
+TOKEN[10]: 0.0206040    1 homosexual
+	homosexual WORD[10,   1]: 0.0206040 旅子
+TOKEN[11]: 0.0191150    5 traveler
+	traveler WORD[11,   1]: 0.0038246 羇旅
+	traveler WORD[11,   2]: 0.0038246 羈旅
+	traveler WORD[11,   3]: 0.0034474 旅客
+	traveler WORD[11,   4]: 0.0026729 旅人
+	traveler WORD[11,   5]: 0.0026726 行旅
+TOKEN[12]: 0.0191150    5 traveller
+	traveller WORD[12,   1]: 0.0038246 羇旅
+	traveller WORD[12,   2]: 0.0038246 羈旅
+	traveller WORD[12,   3]: 0.0034474 旅客
+	traveller WORD[12,   4]: 0.0026729 旅人
+	traveller WORD[12,   5]: 0.0026726 行旅
+TOKEN[13]: 0.0171380    2 outfit
+	outfit WORD[13,   1]: 0.0096906 旅装
+	outfit WORD[13,   2]: 0.0074474 旅姿
+TOKEN[14]: 0.0168443    2 stranger
+	stranger WORD[14,   1]: 0.0084222 旅がらす
+	stranger WORD[14,   2]: 0.0084222 旅烏
+TOKEN[15]: 0.0161295    1 prostitute
+	prostitute WORD[15,   1]: 0.0161295 旅子
+TOKEN[16]: 0.0156620    1 male
+	male WORD[16,   1]: 0.0156620 旅子
+TOKEN[17]: 0.0123198    1 weary
+	weary WORD[17,   1]: 0.0123198 旅疲れ
+TOKEN[18]: 0.0105363    2 tourist
+	tourist WORD[18,   1]: 0.0041308 旅客
+	tourist WORD[18,   2]: 0.0032028 旅人
+TOKEN[19]: 0.0104082    2 depart
+	depart WORD[19,   1]: 0.0052041 旅だつ
+	depart WORD[19,   2]: 0.0052041 旅立つ
+TOKEN[20]: 0.0095659    2 clothes
+	clothes WORD[20,   1]: 0.0066867 旅装
+	clothes WORD[20,   2]: 0.0028791 旅衣
+TOKEN[21]: 0.0092665    2 vagrant
+	vagrant WORD[21,   1]: 0.0046333 旅がらす
+	vagrant WORD[21,   2]: 0.0046333 旅烏
+TOKEN[22]: 0.0092665    2 vagabond
+	vagabond WORD[22,   1]: 0.0046333 旅がらす
+	vagabond WORD[22,   2]: 0.0046333 旅烏
+TOKEN[23]: 0.0087894    3 solitary
+	solitary WORD[23,   1]: 0.0029298 ひとり旅
+	solitary WORD[23,   2]: 0.0029298 一人旅
+	solitary WORD[23,   3]: 0.0029298 独り旅
+TOKEN[24]: 0.0087095    1 kit
+	kit WORD[24,   1]: 0.0087095 旅姿
+TOKEN[25]: 0.0084222    2 wanderer
+	wanderer WORD[25,   1]: 0.0042111 旅がらす
+	wanderer WORD[25,   2]: 0.0042111 旅烏
+TOKEN[26]: 0.0082698    3 home
+	home WORD[26,   1]: 0.0027567 旅枕
+	home WORD[26,   2]: 0.0027566 旅寝
+	home WORD[26,   3]: 0.0027565 旅稼ぎ
+TOKEN[27]: 0.0080821    2 stays
+	stays WORD[27,   1]: 0.0048797 旅住い
+	stays WORD[27,   2]: 0.0032024 旅先
+TOKEN[28]: 0.0080311    2 outsider
+	outsider WORD[28,   1]: 0.0040156 旅がらす
+	outsider WORD[28,   2]: 0.0040156 旅烏
+TOKEN[29]: 0.0076703    1 basket
+	basket WORD[29,   1]: 0.0076703 旅籠
+TOKEN[30]: 0.0071349    2 traditional
+	traditional WORD[30,   1]: 0.0048396 旅姿
+	traditional WORD[30,   2]: 0.0022953 旅館
+TOKEN[31]: 0.0071010    1 wayfarer
+	wayfarer WORD[31,   1]: 0.0035505 旅人
+TOKEN[32]: 0.0069719    2 sleeping
+	sleeping WORD[32,   1]: 0.0034860 旅枕
+	sleeping WORD[32,   2]: 0.0034859 旅寝
+TOKEN[33]: 0.0066124    1 carry
+	carry WORD[33,   1]: 0.0066124 旅籠
+TOKEN[34]: 0.0063341    3 life
+	life WORD[34,   1]: 0.0029417 股旅
+	life WORD[34,   2]: 0.0016962 旅だつ
+	life WORD[34,   3]: 0.0016962 旅立つ
+TOKEN[35]: 0.0060564    3 place
+	place WORD[35,   1]: 0.0023494 旅住い
+	place WORD[35,   2]: 0.0021652 旅所
+	place WORD[35,   3]: 0.0015418 旅先
+TOKEN[36]: 0.0055352    2 Japanese
+	Japanese WORD[36,   1]: 0.0037545 旅姿
+	Japanese WORD[36,   2]: 0.0017807 旅館
+TOKEN[37]: 0.0054092    1 pedlar
+	pedlar WORD[37,   1]: 0.0054092 旅商い
+TOKEN[38]: 0.0053862    2 embark
+	embark WORD[38,   1]: 0.0026931 旅だつ
+	embark WORD[38,   2]: 0.0026931 旅立つ
+TOKEN[39]: 0.0051919    1 loneliness
+	loneliness WORD[39,   1]: 0.0051919 旅愁
+TOKEN[40]: 0.0051234    1 tavern
+	tavern WORD[40,   1]: 0.0051234 旅籠
+TOKEN[41]: 0.0050890    1 gambler
+	gambler WORD[41,   1]: 0.0050890 股旅
+TOKEN[42]: 0.0050507    1 used
+	used WORD[42,   1]: 0.0050507 旅籠
+TOKEN[43]: 0.0046335    1 touring
+	touring WORD[43,   1]: 0.0046335 旅回り
+TOKEN[44]: 0.0045032    1 fodder
+	fodder WORD[44,   1]: 0.0045032 旅籠
+TOKEN[45]: 0.0044709    1 peddling
+	peddling WORD[45,   1]: 0.0044709 旅商い
+TOKEN[46]: 0.0043694    1 lodged
+	lodged WORD[46,   1]: 0.0043694 旅所
+TOKEN[47]: 0.0043480    1 wandering
+	wandering WORD[47,   1]: 0.0043480 股旅
+TOKEN[48]: 0.0042989    1 peddler
+	peddler WORD[48,   1]: 0.0042989 旅商い
+TOKEN[49]: 0.0042749    1 hotel
+	hotel WORD[49,   1]: 0.0042749 旅次
+TOKEN[50]: 0.0041425    2 die
+	die WORD[50,   1]: 0.0020713 旅だつ
+	die WORD[50,   2]: 0.0020713 旅立つ
+TOKEN[51]: 0.0041080    2 begin
+	begin WORD[51,   1]: 0.0020540 旅だつ
+	begin WORD[51,   2]: 0.0020540 旅立つ
+TOKEN[52]: 0.0040611    3 one
+	one WORD[52,   1]: 0.0016738 旅情
+	one WORD[52,   2]: 0.0014414 旅住い
+	one WORD[52,   3]: 0.0009459 旅先
+TOKEN[53]: 0.0040594    1 priest
+	priest WORD[53,   1]: 0.0040594 旅僧
+TOKEN[54]: 0.0039224    1 itinerary
+	itinerary WORD[54,   1]: 0.0039224 旅程
+TOKEN[55]: 0.0039224    1 brigade
+	brigade WORD[55,   1]: 0.0039224 旅団
+TOKEN[56]: 0.0039190    1 overnight
+	overnight WORD[56,   1]: 0.0039190 旅寝
+TOKEN[57]: 0.0038958    2 pass
+	pass WORD[57,   1]: 0.0019479 旅だつ
+	pass WORD[57,   2]: 0.0019479 旅立つ
+TOKEN[58]: 0.0038565    1 mood
+	mood WORD[58,   1]: 0.0038565 旅情
+TOKEN[59]: 0.0036824    1 passport
+	passport WORD[59,   1]: 0.0036824 旅券
+TOKEN[60]: 0.0035144    1 stage
+	stage WORD[60,   1]: 0.0035144 旅宿
+TOKEN[61]: 0.0034738    1 palanquin
+	palanquin WORD[61,   1]: 0.0034738 旅所
+TOKEN[62]: 0.0033625    1 cruise
+	cruise WORD[62,   1]: 0.0033625 船旅
+TOKEN[63]: 0.0032903    1 route
+	route WORD[63,   1]: 0.0032903 旅路
+TOKEN[64]: 0.0032819    1 passenger
+	passenger WORD[64,   1]: 0.0032819 旅客
+TOKEN[65]: 0.0032671    1 stay
+	stay WORD[65,   1]: 0.0032671 旅寝
+TOKEN[66]: 0.0032448    1 desire
+	desire WORD[66,   1]: 0.0032448 旅心
+TOKEN[67]: 0.0032008    1 type
+	type WORD[67,   1]: 0.0032008 旅籠屋
+TOKEN[68]: 0.0030983    1 horse
+	horse WORD[68,   1]: 0.0030983 旅籠
+TOKEN[69]: 0.0030983    1 Edo
+	Edo WORD[69,   1]: 0.0030983 旅籠
+TOKEN[70]: 0.0030973    1 sacred
+	sacred WORD[70,   1]: 0.0030973 旅所
+TOKEN[71]: 0.0030890    1 army
+	army WORD[71,   1]: 0.0030890 軍旅
+TOKEN[72]: 0.0030852    1 voyage
+	voyage WORD[72,   1]: 0.0030852 船旅
+TOKEN[73]: 0.0030696    1 working
+	working WORD[73,   1]: 0.0030696 旅稼ぎ
+TOKEN[74]: 0.0030535    1 tour
+	tour WORD[74,   1]: 0.0030535 旅行
+TOKEN[75]: 0.0029569    1 festival
+	festival WORD[75,   1]: 0.0029569 旅所
+TOKEN[76]: 0.0027893    1 war
+	war WORD[76,   1]: 0.0027893 軍旅
+TOKEN[77]: 0.0027684    1 food
+	food WORD[77,   1]: 0.0027684 旅籠
+TOKEN[78]: 0.0027118    1 distance
+	distance WORD[78,   1]: 0.0027118 旅程
+TOKEN[79]: 0.0025868    1 accustomed
+	accustomed WORD[79,   1]: 0.0025868 旅慣れる
+TOKEN[80]: 0.0024633    1 destination
+	destination WORD[80,   1]: 0.0024633 旅先
+TOKEN[81]: 0.0023310    1 boat
+	boat WORD[81,   1]: 0.0023310 船旅
+TOKEN[82]: 0.0022818    1 departure
+	departure WORD[82,   1]: 0.0022818 旅立ち
+TOKEN[83]: 0.0021250    1 sea
+	sea WORD[83,   1]: 0.0021250 船旅
+TOKEN[84]: 0.0020742    1 setting
+	setting WORD[84,   1]: 0.0020742 旅立ち
+TOKEN[85]: 0.0019866    1 long
+	long WORD[85,   1]: 0.0019866 長旅

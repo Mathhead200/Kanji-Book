@@ -1,0 +1,992 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1079536    2 sobbing        : 欷歔, 歔欷
+0.0920464    2 weeping        : 欷歔, 歔欷
+0.0601531   17 rare           : 希世, 希土, 類い稀, 類稀, 希書, 希覯, 希, 希有, 希代, 希少, ...
+0.0319776    6 uncommon       : 希世, 希有, 希代, 稀代, 稀世, 稀有
+0.0286272    1 afar           : 稀人
+0.0260839    1 visitor        : 稀人
+0.0243621   29 cloth          : 二布, 磨き布, 濾し布, 端布, 古布, 布片, ぼろ布, ボロ布, 布包み, 共布, ...
+0.0228527    1 divine         : 稀人
+0.0226366    5 dread          : 怖じけ, 怖じ気, 怖気, 恐怖, 畏怖
+0.0220780    7 fear           : 怖じけ, 怖じ気, 怖気, 恐怖, 怖れる, 怖れ, 畏怖
+0.0219118    5 dilute         : 希酸, 希, 希薄, 稀, 稀薄
+0.0196381    1 spirit         : 稀人
+0.0173597    4 fright         : 怖じけ, 怖じ気, 怖気, 畏怖
+0.0169958    3 willies        : 怖じけ, 怖じ気, 怖気
+0.0139697    4 matchless      : 類い稀, 類稀, 希代, 稀代
+0.0134566    2 bashfulness    : 物怖じ, 人怖じ
+0.0121423    4 extraordinary  : 類い稀, 類稀, 希代, 稀代
+0.0110615    2 incomparable   : 類い稀, 類稀
+0.0103230    2 unparalleled   : 類い稀, 類稀
+0.0097508    2 unique         : 類い稀, 類稀
+0.0096769    3 frightening    : 怖, 怖い, 怖ろしい
+0.0090123    2 exceptional    : 類い稀, 類稀
+0.0085100    1 acid           : 希酸
+0.0079046    1 underskirt     : 二布
+0.0076913    2 afraid         : 怖じける, 怖れる
+0.0070710    2 terrifying     : 怖, 怖ろしい
+0.0070574    1 cowardice      : 物怖じ
+0.0067663    1 timidity       : 物怖じ
+0.0066364    1 earth          : 希土
+0.0064091    4 book           : 希書, 希覯, 稀書, 稀覯
+0.0063252    2 horror         : 恐怖, 怖れ
+0.0062624    2 dreadful       : 怖い, 怖ろしい
+0.0061440    2 Greek          : 古希, 古稀
+0.0049861    1 frightened     : 怖じける
+0.0049115    3 diaper         : 布おむつ, 布オムツ, 布御襁褓
+0.0049072    2 birthday       : 古希, 古稀
+0.0048482    3 nappy          : 布おむつ, 布オムツ, 布御襁褓
+0.0047326    1 woman          : 二布
+0.0045754    2 aspiration     : 希望, 希求
+0.0043443    2 manuscript     : 希覯, 稀覯
+0.0042901    2 stem           : 茎若布, 和布蕪
+0.0039688    2 tenuous        : 希薄, 稀薄
+0.0039045    1 dismay         : 恐怖
+0.0039045    1 terror         : 恐怖
+0.0038699    1 scary          : 怖い
+0.0037295    2 language       : 古希, 古稀
+0.0037074    2 deficient      : 希薄, 稀薄
+0.0036232    2 insubstantial  : 希薄, 稀薄
+0.0036145    2 dilution       : 希釈, 稀釈
+0.0035769    1 startling      : 怖ろしい
+0.0035761    2 ancient        : 古希, 古稀
+0.0035645    1 scare          : 恐怖
+0.0034752    1 surprising     : 怖ろしい
+0.0034498    1 eerie          : 怖い
+0.0034122    1 rib            : 茎若布
+0.0033935    2 scarce         : 希少, 稀少
+0.0033636    5 fabric         : 布目, 股布, 織布, 布帛, 布地
+0.0033259    2 sparse         : 希薄, 稀薄
+0.0032810    1 beseech        : 希う
+0.0032350    2 population     : 希薄, 稀薄
+0.0031826    1 panic          : 恐怖
+0.0031686    1 awe            : 畏怖
+0.0031325    1 strainer       : 濾し布
+0.0030443    1 entreat        : 希う
+0.0030443    1 implore        : 希う
+0.0030076    1 filter         : 濾し布
+0.0029851    1 amazing        : 怖ろしい
+0.0029435    1 tremendous     : 怖ろしい
+0.0029050    1 uneasiness     : 怖れ
+0.0028889    1 central        : 茎若布
+0.0028713    1 reverence      : 怖れ
+0.0028391    2 substance      : 希薄, 稀薄
+0.0028170    2 rag            : ぼろ布, ボロ布
+0.0028031    2 enthusiasm     : 希薄, 稀薄
+0.0027864    2 link           : 希薄, 稀薄
+0.0027180    1 beg            : 希う
+0.0026820    5 proclamation   : 布令, 布告, 発布, 宣布, 公布
+0.0026671    1 leaf           : 茎若布
+0.0026612    1 terrible       : 怖ろしい
+0.0026514    1 anxiety        : 怖れ
+0.0025228    1 concern        : 怖れ
+0.0025089    2 liquid         : 希薄, 稀薄
+0.0025050    2 weak           : 希薄, 稀薄
+0.0024558    4 piece          : 布片, 股布, 小布, 布切れ
+0.0024376    2 consideration  : 希薄, 稀薄
+0.0024047    1 odds           : 端布
+0.0023911    1 longing        : 希求
+0.0023508    2 thin           : 希薄, 稀薄
+0.0023216    1 request        : 希う
+0.0023024    2 air            : 希薄, 稀薄
+0.0021812    1 scrap          : 端布
+0.0021530    1 expectation    : 希望
+0.0020604    1 hope           : 希望
+0.0020387    1 wish           : 希望
+0.0019749    1 funori         : 布海苔
+0.0019641    2 period         : 垂れ布, 布衣
+0.0018908    1 desire         : 希求
+0.0018135    1 bright         : 希望
+0.0018001    3 used           : 垂れ布, 布海苔, 布団
+0.0017613    5 species        : 和布, 若布, 搗布, 荒布, 昆布
+0.0017205    1 curtain        : 垂れ布
+0.0016942    2 old            : ぼろ布, ボロ布
+0.0016318    4 dissemination  : 流布, 宣布, 撒布, 散布
+0.0015965    2 linen          : 布衣, 麻布
+0.0015691    1 hanging        : 垂れ布
+0.0015317    2 cotton         : 綿布, 布子
+0.0015233    1 glue           : 布海苔
+0.0015060    1 great          : 希求
+0.0014916    1 wall           : 垂れ布
+0.0014800    3 brown          : 和布, 若布, 搗布
+0.0014793    2 leaves         : 和布蕪, 布団
+0.0014693    2 senna          : 波布茶, 波布草
+0.0014196    3 edible         : 和布, 若布, 昆布
+0.0013891    2 alga           : 布海苔, 搗布
+0.0013347    2 towel          : 布巾, 乾布
+0.0012815    1 commoner       : 布衣
+0.0012460    3 promulgation   : 発布, 宣布, 公布
+0.0012267    1 reinforce      : 股布
+0.0011794    1 place          : 垂れ布
+0.0011648    1 sewn           : 股布
+0.0011583    1 thick          : 和布蕪
+0.0010978    1 wrapped        : 布包み
+0.0010915    2 seaweed        : 和布, 若布
+0.0010889    3 distribution   : 分布, 頒布, 配布
+0.0010837    2 official       : 布令, 公布
+0.0010743    3 made           : 布製, 葛布, 布団
+0.0010484    1 contact        : 布令
+0.0010302    2 canvas         : 帆布, 画布
+0.0010238    1 saddle         : 股布
+0.0010167    1 touch          : 布令
+0.0010004    1 contentment    : 布袋
+0.0009942    1 wiring         : 布線
+0.0009908    1 crotch         : 股布
+0.0009874    1 Gloiopeltis    : 布海苔
+0.0009507    1 width          : 布幅
+0.0009454    1 notice         : 布令
+0.0009422    1 plain          : 布衣
+0.0009411    2 kelp           : 荒布, 昆布
+0.0009189    1 garment        : 股布
+0.0008907    1 sizing         : 布海苔
+0.0008604    2 clothes        : 用布, 布子
+0.0008445    2 circulation    : 流布, 頒布
+0.0008254    1 Edo            : 布衣
+0.0008170    1 breadth        : 布
+0.0008154    1 sailcloth      : 帆布
+0.0008151    1 Pontederia     : 布袋葵
+0.0008106    1 silk           : 絹布
+0.0007830    1 Senna          : 波布草
+0.0007784    1 cataract       : 瀑布
+0.0007648    1 hyacinth       : 布袋葵
+0.0007489    2 laying         : 布設, 布石
+0.0007346    1 habu           : 波布
+0.0007346    1 Trimeresurus   : 波布
+0.0007330    1 marine         : 布海苔
+0.0007224    1 measurement    : 布
+0.0007092    1 monk           : 布袋
+0.0007049    1 bag            : 布袋
+0.0006965    1 arrowroot      : 葛布
+0.0006875    2 arrangement    : 布置, 布石
+0.0006842    2 sprinkling     : 撒布, 散布
+0.0006840    2 tea            : 波布茶, 布巾
+0.0006707    1 viper          : 波布
+0.0006667    1 cascade        : 瀑布
+0.0006657    1 cava           : 搗布
+0.0006621    2 scattering     : 撒布, 散布
+0.0006613    1 back           : 布袋
+0.0006447    1 something      : 布包み
+0.0006443    1 unit           : 布
+0.0006439    1 god            : 布袋
+0.0006270    1 genus          : 布海苔
+0.0006212    1 purse          : 財布
+0.0005938    2 hemp           : 上布, 麻布
+0.0005704    2 game           : 布石, 布陣
+0.0005644    1 loom           : 布目
+0.0005583    1 dishcloth      : 布巾
+0.0005548    1 large          : 布袋
+0.0005497    1 waterfall      : 瀑布
+0.0005483    1 lay            : 布く
+0.0005422    1 kudzu          : 葛布
+0.0005390    1 coffee         : 波布草
+0.0005259    1 duvet          : 布団
+0.0005243    1 fiber          : 葛布
+0.0005219    1 plant          : 布海苔
+0.0005173    1 pit            : 波布
+0.0005169    1 texture        : 布目
+0.0005088    1 weave          : 布目
+0.0005022    1 expatiation    : 布衍
+0.0004893    1 missionary     : 布教
+0.0004888    2 Japanese       : 葛布, 布団
+0.0004885    1 material       : 綿布
+0.0004795    1 mines          : 布設
+0.0004769    1 elaboration    : 布衍
+0.0004746    1 roll           : 布目
+0.0004731    1 coarse         : 粗布
+0.0004667    1 grain          : 布目
+0.0004633    1 bulrush        : 布団
+0.0004570    1 fomentation    : 湿布
+0.0004570    1 dust           : 雑布
+0.0004560    1 direction      : 布目
+0.0004560    1 groundwork     : 布石
+0.0004560    1 strategic      : 布石
+0.0004536    1 amplification  : 布衍
+0.0004508    1 cushion        : 布団
+0.0004508    1 mattress       : 布団
+0.0004504    1 grouping       : 布置
+0.0004496    1 ordinance      : 布告
+0.0004486    1 Laminariaceae  : 昆布
+0.0004486    1 kombu          : 昆布
+0.0004437    1 propagation    : 布教
+0.0004401    1 preparatory    : 布石
+0.0004400    1 blanket        : 毛布
+0.0004353    1 edict          : 布告
+0.0004288    1 poultice       : 湿布
+0.0004252    1 bedding        : 布団
+0.0004252    1 common         : 布袋葵
+0.0004231    1 making         : 用布
+0.0004220    1 woven          : 布団
+0.0004217    1 pocketbook     : 財布
+0.0004192    1 enlargement    : 布衍
+0.0004184    1 naval          : 布設
+0.0004128    1 charity        : 布施
+0.0004108    1 sheeting       : 敷布
+0.0004103    1 railroad       : 布設
+0.0004045    1 religion       : 布教
+0.0004043    1 allocation     : 分布
+0.0004035    1 administrative : 布達
+0.0003974    1 notification   : 布達
+0.0003915    1 compress       : 湿布
+0.0003914    1 dry            : 乾布
+0.0003850    1 billfold       : 財布
+0.0003815    1 ointment       : 塗布
+0.0003692    1 meditation     : 布団
+0.0003613    1 coating        : 塗布
+0.0003597    1 formation      : 布陣
+0.0003499    1 wallet         : 財布
+0.0003499    1 water          : 布袋葵
+0.0003483    1 Zen            : 布団
+0.0003410    1 loincloth      : 腰布
+0.0003358    1 application    : 塗布
+0.0003357    1 explanation    : 布衍
+0.0003339    1 impose         : 布く
+0.0003331    1 construction   : 布設
+0.0003248    1 spare          : 共布
+0.0003200    1 priest         : 布施
+0.0003196    1 battle         : 布陣
+0.0003161    1 dish           : 布巾
+0.0003135    1 opening        : 布石
+0.0003092    1 small          : 小布
+0.0003038    1 announcement   : 公布
+0.0003026    1 reading        : 布施
+0.0003017    1 beginning      : 布石
+0.0003005    1 round          : 布団
+0.0003001    1 sit            : 布く
+0.0002943    1 clear          : 布衍
+0.0002935    1 sheet          : 敷布
+0.0002928    1 railway        : 布く
+0.0002909    1 wet            : 湿布
+0.0002835    1 coin           : 財布
+0.0002763    1 order          : 布達
+0.0002632    1 money          : 布施
+0.0002592    1 japonica       : 昆布
+0.0002582    1 point          : 布衍
+0.0002546    1 spread         : 布く
+0.0002537    1 painting       : 画布
+0.0002532    1 work           : 布教
+0.0002526    1 cover          : 布く
+0.0002508    1 oil            : 画布
+0.0002502    1 city           : 布く
+0.0002425    1 go             : 布石
+0.0002352    1 white          : 白布
+0.0002253    1 position       : 布く
+0.0002072    1 family         : 昆布
+0.0001955    1 take           : 布く
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1079536    2 sobbing
+	sobbing WORD[ 1,   1]: 0.0805365 欷歔
+	sobbing WORD[ 1,   2]: 0.0274171 歔欷
+TOKEN[ 2]: 0.0920464    2 weeping
+	weeping WORD[ 2,   1]: 0.0686693 欷歔
+	weeping WORD[ 2,   2]: 0.0233771 歔欷
+TOKEN[ 3]: 0.0601531   17 rare
+	rare WORD[ 3,   1]: 0.0201346 希世
+	rare WORD[ 3,   2]: 0.0071214 希土
+	rare WORD[ 3,   3]: 0.0042201 類い稀
+	rare WORD[ 3,   4]: 0.0042200 類稀
+	rare WORD[ 3,   5]: 0.0030978 希書
+	rare WORD[ 3,   6]: 0.0030916 希覯
+	rare WORD[ 3,   7]: 0.0024326 希
+	rare WORD[ 3,   8]: 0.0020348 希有
+	rare WORD[ 3,   9]: 0.0019995 希代
+	rare WORD[ 3,  10]: 0.0019901 希少
+	rare WORD[ 3,  11]: 0.0010807 稀代
+	rare WORD[ 3,  12]: 0.0010455 稀世
+	rare WORD[ 3,  13]: 0.0010450 稀書
+	rare WORD[ 3,  14]: 0.0010429 稀覯
+	rare WORD[ 3,  15]: 0.0009031 稀
+	rare WORD[ 3,  16]: 0.0006864 稀有
+	rare WORD[ 3,  17]: 0.0006713 稀少
+TOKEN[ 4]: 0.0319776    6 uncommon
+	uncommon WORD[ 4,   1]: 0.0238628 希世
+	uncommon WORD[ 4,   2]: 0.0024116 希有
+	uncommon WORD[ 4,   3]: 0.0023698 希代
+	uncommon WORD[ 4,   4]: 0.0012808 稀代
+	uncommon WORD[ 4,   5]: 0.0012391 稀世
+	uncommon WORD[ 4,   6]: 0.0008135 稀有
+TOKEN[ 5]: 0.0286272    1 afar
+	afar WORD[ 5,   1]: 0.0286272 稀人
+TOKEN[ 6]: 0.0260839    1 visitor
+	visitor WORD[ 6,   1]: 0.0260839 稀人
+TOKEN[ 7]: 0.0243621   29 cloth
+	cloth WORD[ 7,   1]: 0.0051458 二布
+	cloth WORD[ 7,   2]: 0.0022188 磨き布
+	cloth WORD[ 7,   3]: 0.0021651 濾し布
+	cloth WORD[ 7,   4]: 0.0017544 端布
+	cloth WORD[ 7,   5]: 0.0011192 古布
+	cloth WORD[ 7,   6]: 0.0010518 布片
+	cloth WORD[ 7,   7]: 0.0009825 ぼろ布
+	cloth WORD[ 7,   8]: 0.0009825 ボロ布
+	cloth WORD[ 7,   9]: 0.0008968 布包み
+	cloth WORD[ 7,  10]: 0.0005465 共布
+	cloth WORD[ 7,  11]: 0.0005430 布製
+	cloth WORD[ 7,  12]: 0.0004554 用布
+	cloth WORD[ 7,  13]: 0.0004506 綿布
+	cloth WORD[ 7,  14]: 0.0004313 布帛
+	cloth WORD[ 7,  15]: 0.0004144 布目
+	cloth WORD[ 7,  16]: 0.0004144 布引
+	cloth WORD[ 7,  17]: 0.0004144 布引き
+	cloth WORD[ 7,  18]: 0.0004085 雑布
+	cloth WORD[ 7,  19]: 0.0003919 粗布
+	cloth WORD[ 7,  20]: 0.0003761 小布
+	cloth WORD[ 7,  21]: 0.0003747 葛布
+	cloth WORD[ 7,  22]: 0.0003716 絹布
+	cloth WORD[ 7,  23]: 0.0003071 布袋
+	cloth WORD[ 7,  24]: 0.0002824 布地
+	cloth WORD[ 7,  25]: 0.0002824 布切れ
+	cloth WORD[ 7,  26]: 0.0002824 布
+	cloth WORD[ 7,  27]: 0.0002497 上布
+	cloth WORD[ 7,  28]: 0.0002486 白布
+	cloth WORD[ 7,  29]: 0.0002108 麻布
+TOKEN[ 8]: 0.0228527    1 divine
+	divine WORD[ 8,   1]: 0.0228527 稀人
+TOKEN[ 9]: 0.0226366    5 dread
+	dread WORD[ 9,   1]: 0.0053428 怖じけ
+	dread WORD[ 9,   2]: 0.0053428 怖じ気
+	dread WORD[ 9,   3]: 0.0053428 怖気
+	dread WORD[ 9,   4]: 0.0034397 恐怖
+	dread WORD[ 9,   5]: 0.0031686 畏怖
+TOKEN[10]: 0.0220780    7 fear
+	fear WORD[10,   1]: 0.0040411 怖じけ
+	fear WORD[10,   2]: 0.0040411 怖じ気
+	fear WORD[10,   3]: 0.0040411 怖気
+	fear WORD[10,   4]: 0.0026017 恐怖
+	fear WORD[10,   5]: 0.0024784 怖れる
+	fear WORD[10,   6]: 0.0024778 怖れ
+	fear WORD[10,   7]: 0.0023966 畏怖
+TOKEN[11]: 0.0219118    5 dilute
+	dilute WORD[11,   1]: 0.0101428 希酸
+	dilute WORD[11,   2]: 0.0030655 希
+	dilute WORD[11,   3]: 0.0025139 希薄
+	dilute WORD[11,   4]: 0.0011381 稀
+	dilute WORD[11,   5]: 0.0008480 稀薄
+TOKEN[12]: 0.0196381    1 spirit
+	spirit WORD[12,   1]: 0.0196381 稀人
+TOKEN[13]: 0.0173597    4 fright
+	fright WORD[13,   1]: 0.0048315 怖じけ
+	fright WORD[13,   2]: 0.0048314 怖じ気
+	fright WORD[13,   3]: 0.0048314 怖気
+	fright WORD[13,   4]: 0.0028653 畏怖
+TOKEN[14]: 0.0169958    3 willies
+	willies WORD[14,   1]: 0.0056653 怖じけ
+	willies WORD[14,   2]: 0.0056652 怖じ気
+	willies WORD[14,   3]: 0.0056652 怖気
+TOKEN[15]: 0.0139697    4 matchless
+	matchless WORD[15,   1]: 0.0051173 類い稀
+	matchless WORD[15,   2]: 0.0051173 類稀
+	matchless WORD[15,   3]: 0.0024246 希代
+	matchless WORD[15,   4]: 0.0013105 稀代
+TOKEN[16]: 0.0134566    2 bashfulness
+	bashfulness WORD[16,   1]: 0.0068972 物怖じ
+	bashfulness WORD[16,   2]: 0.0065593 人怖じ
+TOKEN[17]: 0.0121423    4 extraordinary
+	extraordinary WORD[17,   1]: 0.0044479 類い稀
+	extraordinary WORD[17,   2]: 0.0044479 類稀
+	extraordinary WORD[17,   3]: 0.0021075 希代
+	extraordinary WORD[17,   4]: 0.0011390 稀代
+TOKEN[18]: 0.0110615    2 incomparable
+	incomparable WORD[18,   1]: 0.0055308 類い稀
+	incomparable WORD[18,   2]: 0.0055307 類稀
+TOKEN[19]: 0.0103230    2 unparalleled
+	unparalleled WORD[19,   1]: 0.0051615 類い稀
+	unparalleled WORD[19,   2]: 0.0051615 類稀
+TOKEN[20]: 0.0097508    2 unique
+	unique WORD[20,   1]: 0.0048754 類い稀
+	unique WORD[20,   2]: 0.0048754 類稀
+TOKEN[21]: 0.0096769    3 frightening
+	frightening WORD[21,   1]: 0.0033092 怖
+	frightening WORD[21,   2]: 0.0033091 怖い
+	frightening WORD[21,   3]: 0.0030585 怖ろしい
+TOKEN[22]: 0.0090123    2 exceptional
+	exceptional WORD[22,   1]: 0.0045061 類い稀
+	exceptional WORD[22,   2]: 0.0045061 類稀
+TOKEN[23]: 0.0085100    1 acid
+	acid WORD[23,   1]: 0.0085100 希酸
+TOKEN[24]: 0.0079046    1 underskirt
+	underskirt WORD[24,   1]: 0.0079046 二布
+TOKEN[25]: 0.0076913    2 afraid
+	afraid WORD[25,   1]: 0.0047674 怖じける
+	afraid WORD[25,   2]: 0.0029238 怖れる
+TOKEN[26]: 0.0070710    2 terrifying
+	terrifying WORD[26,   1]: 0.0036747 怖
+	terrifying WORD[26,   2]: 0.0033963 怖ろしい
+TOKEN[27]: 0.0070574    1 cowardice
+	cowardice WORD[27,   1]: 0.0070574 物怖じ
+TOKEN[28]: 0.0067663    1 timidity
+	timidity WORD[28,   1]: 0.0067663 物怖じ
+TOKEN[29]: 0.0066364    1 earth
+	earth WORD[29,   1]: 0.0066364 希土
+TOKEN[30]: 0.0064091    4 book
+	book WORD[30,   1]: 0.0023986 希書
+	book WORD[30,   2]: 0.0023938 希覯
+	book WORD[30,   3]: 0.0008091 稀書
+	book WORD[30,   4]: 0.0008075 稀覯
+TOKEN[31]: 0.0063252    2 horror
+	horror WORD[31,   1]: 0.0032397 恐怖
+	horror WORD[31,   2]: 0.0030855 怖れ
+TOKEN[32]: 0.0062624    2 dreadful
+	dreadful WORD[32,   1]: 0.0032544 怖い
+	dreadful WORD[32,   2]: 0.0030080 怖ろしい
+TOKEN[33]: 0.0061440    2 Greek
+	Greek WORD[33,   1]: 0.0045942 古希
+	Greek WORD[33,   2]: 0.0015498 古稀
+TOKEN[34]: 0.0049861    1 frightened
+	frightened WORD[34,   1]: 0.0049861 怖じける
+TOKEN[35]: 0.0049115    3 diaper
+	diaper WORD[35,   1]: 0.0016372 布おむつ
+	diaper WORD[35,   2]: 0.0016372 布オムツ
+	diaper WORD[35,   3]: 0.0016372 布御襁褓
+TOKEN[36]: 0.0049072    2 birthday
+	birthday WORD[36,   1]: 0.0036694 古希
+	birthday WORD[36,   2]: 0.0012378 古稀
+TOKEN[37]: 0.0048482    3 nappy
+	nappy WORD[37,   1]: 0.0016161 布おむつ
+	nappy WORD[37,   2]: 0.0016161 布オムツ
+	nappy WORD[37,   3]: 0.0016161 布御襁褓
+TOKEN[38]: 0.0047326    1 woman
+	woman WORD[38,   1]: 0.0047326 二布
+TOKEN[39]: 0.0045754    2 aspiration
+	aspiration WORD[39,   1]: 0.0022919 希望
+	aspiration WORD[39,   2]: 0.0022835 希求
+TOKEN[40]: 0.0043443    2 manuscript
+	manuscript WORD[40,   1]: 0.0032485 希覯
+	manuscript WORD[40,   2]: 0.0010958 稀覯
+TOKEN[41]: 0.0042901    2 stem
+	stem WORD[41,   1]: 0.0029497 茎若布
+	stem WORD[41,   2]: 0.0013403 和布蕪
+TOKEN[42]: 0.0039688    2 tenuous
+	tenuous WORD[42,   1]: 0.0029677 希薄
+	tenuous WORD[42,   2]: 0.0010011 稀薄
+TOKEN[43]: 0.0039045    1 dismay
+	dismay WORD[43,   1]: 0.0039045 恐怖
+TOKEN[44]: 0.0039045    1 terror
+	terror WORD[44,   1]: 0.0039045 恐怖
+TOKEN[45]: 0.0038699    1 scary
+	scary WORD[45,   1]: 0.0038699 怖い
+TOKEN[46]: 0.0037295    2 language
+	language WORD[46,   1]: 0.0027888 古希
+	language WORD[46,   2]: 0.0009407 古稀
+TOKEN[47]: 0.0037074    2 deficient
+	deficient WORD[47,   1]: 0.0027722 希薄
+	deficient WORD[47,   2]: 0.0009352 稀薄
+TOKEN[48]: 0.0036232    2 insubstantial
+	insubstantial WORD[48,   1]: 0.0027093 希薄
+	insubstantial WORD[48,   2]: 0.0009139 稀薄
+TOKEN[49]: 0.0036145    2 dilution
+	dilution WORD[49,   1]: 0.0027028 希釈
+	dilution WORD[49,   2]: 0.0009117 稀釈
+TOKEN[50]: 0.0035769    1 startling
+	startling WORD[50,   1]: 0.0035769 怖ろしい
+TOKEN[51]: 0.0035761    2 ancient
+	ancient WORD[51,   1]: 0.0026740 古希
+	ancient WORD[51,   2]: 0.0009020 古稀
+TOKEN[52]: 0.0035645    1 scare
+	scare WORD[52,   1]: 0.0035645 恐怖
+TOKEN[53]: 0.0034752    1 surprising
+	surprising WORD[53,   1]: 0.0034752 怖ろしい
+TOKEN[54]: 0.0034498    1 eerie
+	eerie WORD[54,   1]: 0.0034498 怖い
+TOKEN[55]: 0.0034122    1 rib
+	rib WORD[55,   1]: 0.0034122 茎若布
+TOKEN[56]: 0.0033935    2 scarce
+	scarce WORD[56,   1]: 0.0025375 希少
+	scarce WORD[56,   2]: 0.0008560 稀少
+TOKEN[57]: 0.0033636    5 fabric
+	fabric WORD[57,   1]: 0.0009352 布目
+	fabric WORD[57,   2]: 0.0008257 股布
+	fabric WORD[57,   3]: 0.0007975 織布
+	fabric WORD[57,   4]: 0.0004867 布帛
+	fabric WORD[57,   5]: 0.0003186 布地
+TOKEN[58]: 0.0033259    2 sparse
+	sparse WORD[58,   1]: 0.0024870 希薄
+	sparse WORD[58,   2]: 0.0008389 稀薄
+TOKEN[59]: 0.0032810    1 beseech
+	beseech WORD[59,   1]: 0.0032810 希う
+TOKEN[60]: 0.0032350    2 population
+	population WORD[60,   1]: 0.0024190 希薄
+	population WORD[60,   2]: 0.0008160 稀薄
+TOKEN[61]: 0.0031826    1 panic
+	panic WORD[61,   1]: 0.0031826 恐怖
+TOKEN[62]: 0.0031686    1 awe
+	awe WORD[62,   1]: 0.0031686 畏怖
+TOKEN[63]: 0.0031325    1 strainer
+	strainer WORD[63,   1]: 0.0031325 濾し布
+TOKEN[64]: 0.0030443    1 entreat
+	entreat WORD[64,   1]: 0.0030443 希う
+TOKEN[65]: 0.0030443    1 implore
+	implore WORD[65,   1]: 0.0030443 希う
+TOKEN[66]: 0.0030076    1 filter
+	filter WORD[66,   1]: 0.0030076 濾し布
+TOKEN[67]: 0.0029851    1 amazing
+	amazing WORD[67,   1]: 0.0029851 怖ろしい
+TOKEN[68]: 0.0029435    1 tremendous
+	tremendous WORD[68,   1]: 0.0029435 怖ろしい
+TOKEN[69]: 0.0029050    1 uneasiness
+	uneasiness WORD[69,   1]: 0.0029050 怖れ
+TOKEN[70]: 0.0028889    1 central
+	central WORD[70,   1]: 0.0028889 茎若布
+TOKEN[71]: 0.0028713    1 reverence
+	reverence WORD[71,   1]: 0.0028713 怖れ
+TOKEN[72]: 0.0028391    2 substance
+	substance WORD[72,   1]: 0.0021229 希薄
+	substance WORD[72,   2]: 0.0007161 稀薄
+TOKEN[73]: 0.0028170    2 rag
+	rag WORD[73,   1]: 0.0014085 ぼろ布
+	rag WORD[73,   2]: 0.0014085 ボロ布
+TOKEN[74]: 0.0028031    2 enthusiasm
+	enthusiasm WORD[74,   1]: 0.0020961 希薄
+	enthusiasm WORD[74,   2]: 0.0007071 稀薄
+TOKEN[75]: 0.0027864    2 link
+	link WORD[75,   1]: 0.0020835 希薄
+	link WORD[75,   2]: 0.0007028 稀薄
+TOKEN[76]: 0.0027180    1 beg
+	beg WORD[76,   1]: 0.0027180 希う
+TOKEN[77]: 0.0026820    5 proclamation
+	proclamation WORD[77,   1]: 0.0005984 布令
+	proclamation WORD[77,   2]: 0.0004124 布告
+	proclamation WORD[77,   3]: 0.0003968 発布
+	proclamation WORD[77,   4]: 0.0003481 宣布
+	proclamation WORD[77,   5]: 0.0003280 公布
+TOKEN[78]: 0.0026671    1 leaf
+	leaf WORD[78,   1]: 0.0026671 茎若布
+TOKEN[79]: 0.0026612    1 terrible
+	terrible WORD[79,   1]: 0.0026612 怖ろしい
+TOKEN[80]: 0.0026514    1 anxiety
+	anxiety WORD[80,   1]: 0.0026514 怖れ
+TOKEN[81]: 0.0025228    1 concern
+	concern WORD[81,   1]: 0.0025228 怖れ
+TOKEN[82]: 0.0025089    2 liquid
+	liquid WORD[82,   1]: 0.0018761 希薄
+	liquid WORD[82,   2]: 0.0006329 稀薄
+TOKEN[83]: 0.0025050    2 weak
+	weak WORD[83,   1]: 0.0018731 希薄
+	weak WORD[83,   2]: 0.0006319 稀薄
+TOKEN[84]: 0.0024558    4 piece
+	piece WORD[84,   1]: 0.0010577 布片
+	piece WORD[84,   2]: 0.0007359 股布
+	piece WORD[84,   3]: 0.0003782 小布
+	piece WORD[84,   4]: 0.0002840 布切れ
+TOKEN[85]: 0.0024376    2 consideration
+	consideration WORD[85,   1]: 0.0018227 希薄
+	consideration WORD[85,   2]: 0.0006149 稀薄
+TOKEN[86]: 0.0024047    1 odds
+	odds WORD[86,   1]: 0.0024047 端布
+TOKEN[87]: 0.0023911    1 longing
+	longing WORD[87,   1]: 0.0023911 希求
+TOKEN[88]: 0.0023508    2 thin
+	thin WORD[88,   1]: 0.0017578 希薄
+	thin WORD[88,   2]: 0.0005930 稀薄
+TOKEN[89]: 0.0023216    1 request
+	request WORD[89,   1]: 0.0023216 希う
+TOKEN[90]: 0.0023024    2 air
+	air WORD[90,   1]: 0.0017216 希薄
+	air WORD[90,   2]: 0.0005808 稀薄
+TOKEN[91]: 0.0021812    1 scrap
+	scrap WORD[91,   1]: 0.0021812 端布
+TOKEN[92]: 0.0021530    1 expectation
+	expectation WORD[92,   1]: 0.0021530 希望
+TOKEN[93]: 0.0020604    1 hope
+	hope WORD[93,   1]: 0.0020604 希望
+TOKEN[94]: 0.0020387    1 wish
+	wish WORD[94,   1]: 0.0020387 希望
+TOKEN[95]: 0.0019749    1 funori
+	funori WORD[95,   1]: 0.0019749 布海苔
+TOKEN[96]: 0.0019641    2 period
+	period WORD[96,   1]: 0.0012378 垂れ布
+	period WORD[96,   2]: 0.0003632 布衣
+TOKEN[97]: 0.0018908    1 desire
+	desire WORD[97,   1]: 0.0018908 希求
+TOKEN[98]: 0.0018135    1 bright
+	bright WORD[98,   1]: 0.0018135 希望
+TOKEN[99]: 0.0018001    3 used
+	used WORD[99,   1]: 0.0011465 垂れ布
+	used WORD[99,   2]: 0.0004169 布海苔
+	used WORD[99,   3]: 0.0002367 布団
+TOKEN[100]: 0.0017613    5 species
+	species WORD[100,   1]: 0.0004330 和布
+	species WORD[100,   2]: 0.0004330 若布
+	species WORD[100,   3]: 0.0003378 搗布
+	species WORD[100,   4]: 0.0003299 荒布
+	species WORD[100,   5]: 0.0002276 昆布
+TOKEN[101]: 0.0017205    1 curtain
+	curtain WORD[101,   1]: 0.0017205 垂れ布
+TOKEN[102]: 0.0016942    2 old
+	old WORD[102,   1]: 0.0008471 ぼろ布
+	old WORD[102,   2]: 0.0008471 ボロ布
+TOKEN[103]: 0.0016318    4 dissemination
+	dissemination WORD[103,   1]: 0.0005070 流布
+	dissemination WORD[103,   2]: 0.0003845 宣布
+	dissemination WORD[103,   3]: 0.0003702 撒布
+	dissemination WORD[103,   4]: 0.0003702 散布
+TOKEN[104]: 0.0015965    2 linen
+	linen WORD[104,   1]: 0.0006407 布衣
+	linen WORD[104,   2]: 0.0003150 麻布
+TOKEN[105]: 0.0015691    1 hanging
+	hanging WORD[105,   1]: 0.0015691 垂れ布
+TOKEN[106]: 0.0015317    2 cotton
+	cotton WORD[106,   1]: 0.0010492 綿布
+	cotton WORD[106,   2]: 0.0004825 布子
+TOKEN[107]: 0.0015233    1 glue
+	glue WORD[107,   1]: 0.0015233 布海苔
+TOKEN[108]: 0.0015060    1 great
+	great WORD[108,   1]: 0.0015060 希求
+TOKEN[109]: 0.0014916    1 wall
+	wall WORD[109,   1]: 0.0014916 垂れ布
+TOKEN[110]: 0.0014800    3 brown
+	brown WORD[110,   1]: 0.0005323 和布
+	brown WORD[110,   2]: 0.0005323 若布
+	brown WORD[110,   3]: 0.0004153 搗布
+TOKEN[111]: 0.0014793    2 leaves
+	leaves WORD[111,   1]: 0.0011568 和布蕪
+	leaves WORD[111,   2]: 0.0003226 布団
+TOKEN[112]: 0.0014693    2 senna
+	senna WORD[112,   1]: 0.0007346 波布茶
+	senna WORD[112,   2]: 0.0007346 波布草
+TOKEN[113]: 0.0014196    3 edible
+	edible WORD[113,   1]: 0.0005621 和布
+	edible WORD[113,   2]: 0.0005621 若布
+	edible WORD[113,   3]: 0.0002955 昆布
+TOKEN[114]: 0.0013891    2 alga
+	alga WORD[114,   1]: 0.0008297 布海苔
+	alga WORD[114,   2]: 0.0005594 搗布
+TOKEN[115]: 0.0013347    2 towel
+	towel WORD[115,   1]: 0.0008346 布巾
+	towel WORD[115,   2]: 0.0005000 乾布
+TOKEN[116]: 0.0012815    1 commoner
+	commoner WORD[116,   1]: 0.0006407 布衣
+TOKEN[117]: 0.0012460    3 promulgation
+	promulgation WORD[117,   1]: 0.0004608 発布
+	promulgation WORD[117,   2]: 0.0004042 宣布
+	promulgation WORD[117,   3]: 0.0003809 公布
+TOKEN[118]: 0.0012267    1 reinforce
+	reinforce WORD[118,   1]: 0.0012267 股布
+TOKEN[119]: 0.0011794    1 place
+	place WORD[119,   1]: 0.0011794 垂れ布
+TOKEN[120]: 0.0011648    1 sewn
+	sewn WORD[120,   1]: 0.0011648 股布
+TOKEN[121]: 0.0011583    1 thick
+	thick WORD[121,   1]: 0.0011583 和布蕪
+TOKEN[122]: 0.0010978    1 wrapped
+	wrapped WORD[122,   1]: 0.0010978 布包み
+TOKEN[123]: 0.0010915    2 seaweed
+	seaweed WORD[123,   1]: 0.0005458 和布
+	seaweed WORD[123,   2]: 0.0005458 若布
+TOKEN[124]: 0.0010889    3 distribution
+	distribution WORD[124,   1]: 0.0003757 分布
+	distribution WORD[124,   2]: 0.0003601 頒布
+	distribution WORD[124,   3]: 0.0003530 配布
+TOKEN[125]: 0.0010837    2 official
+	official WORD[125,   1]: 0.0004253 布令
+	official WORD[125,   2]: 0.0002331 公布
+TOKEN[126]: 0.0010743    3 made
+	made WORD[126,   1]: 0.0004784 布製
+	made WORD[126,   2]: 0.0003302 葛布
+	made WORD[126,   3]: 0.0002657 布団
+TOKEN[127]: 0.0010484    1 contact
+	contact WORD[127,   1]: 0.0005242 布令
+TOKEN[128]: 0.0010302    2 canvas
+	canvas WORD[128,   1]: 0.0006740 帆布
+	canvas WORD[128,   2]: 0.0003562 画布
+TOKEN[129]: 0.0010238    1 saddle
+	saddle WORD[129,   1]: 0.0010238 股布
+TOKEN[130]: 0.0010167    1 touch
+	touch WORD[130,   1]: 0.0005083 布令
+TOKEN[131]: 0.0010004    1 contentment
+	contentment WORD[131,   1]: 0.0005002 布袋
+TOKEN[132]: 0.0009942    1 wiring
+	wiring WORD[132,   1]: 0.0009942 布線
+TOKEN[133]: 0.0009908    1 crotch
+	crotch WORD[133,   1]: 0.0009908 股布
+TOKEN[134]: 0.0009874    1 Gloiopeltis
+	Gloiopeltis WORD[134,   1]: 0.0009874 布海苔
+TOKEN[135]: 0.0009507    1 width
+	width WORD[135,   1]: 0.0009507 布幅
+TOKEN[136]: 0.0009454    1 notice
+	notice WORD[136,   1]: 0.0004727 布令
+TOKEN[137]: 0.0009422    1 plain
+	plain WORD[137,   1]: 0.0004711 布衣
+TOKEN[138]: 0.0009411    2 kelp
+	kelp WORD[138,   1]: 0.0005569 荒布
+	kelp WORD[138,   2]: 0.0003842 昆布
+TOKEN[139]: 0.0009189    1 garment
+	garment WORD[139,   1]: 0.0009189 股布
+TOKEN[140]: 0.0008907    1 sizing
+	sizing WORD[140,   1]: 0.0008907 布海苔
+TOKEN[141]: 0.0008604    2 clothes
+	clothes WORD[141,   1]: 0.0004505 用布
+	clothes WORD[141,   2]: 0.0004099 布子
+TOKEN[142]: 0.0008445    2 circulation
+	circulation WORD[142,   1]: 0.0004509 流布
+	circulation WORD[142,   2]: 0.0003937 頒布
+TOKEN[143]: 0.0008254    1 Edo
+	Edo WORD[143,   1]: 0.0004127 布衣
+TOKEN[144]: 0.0008170    1 breadth
+	breadth WORD[144,   1]: 0.0004085 布
+TOKEN[145]: 0.0008154    1 sailcloth
+	sailcloth WORD[145,   1]: 0.0008154 帆布
+TOKEN[146]: 0.0008151    1 Pontederia
+	Pontederia WORD[146,   1]: 0.0008151 布袋葵
+TOKEN[147]: 0.0008106    1 silk
+	silk WORD[147,   1]: 0.0008106 絹布
+TOKEN[148]: 0.0007830    1 Senna
+	Senna WORD[148,   1]: 0.0007830 波布草
+TOKEN[149]: 0.0007784    1 cataract
+	cataract WORD[149,   1]: 0.0007784 瀑布
+TOKEN[150]: 0.0007648    1 hyacinth
+	hyacinth WORD[150,   1]: 0.0007648 布袋葵
+TOKEN[151]: 0.0007489    2 laying
+	laying WORD[151,   1]: 0.0003745 布設
+	laying WORD[151,   2]: 0.0003744 布石
+TOKEN[152]: 0.0007346    1 habu
+	habu WORD[152,   1]: 0.0007346 波布
+TOKEN[153]: 0.0007346    1 Trimeresurus
+	Trimeresurus WORD[153,   1]: 0.0007346 波布
+TOKEN[154]: 0.0007330    1 marine
+	marine WORD[154,   1]: 0.0007330 布海苔
+TOKEN[155]: 0.0007224    1 measurement
+	measurement WORD[155,   1]: 0.0003612 布
+TOKEN[156]: 0.0007092    1 monk
+	monk WORD[156,   1]: 0.0003546 布袋
+TOKEN[157]: 0.0007049    1 bag
+	bag WORD[157,   1]: 0.0003524 布袋
+TOKEN[158]: 0.0006965    1 arrowroot
+	arrowroot WORD[158,   1]: 0.0006965 葛布
+TOKEN[159]: 0.0006875    2 arrangement
+	arrangement WORD[159,   1]: 0.0003438 布置
+	arrangement WORD[159,   2]: 0.0003436 布石
+TOKEN[160]: 0.0006842    2 sprinkling
+	sprinkling WORD[160,   1]: 0.0003421 撒布
+	sprinkling WORD[160,   2]: 0.0003421 散布
+TOKEN[161]: 0.0006840    2 tea
+	tea WORD[161,   1]: 0.0003993 波布茶
+	tea WORD[161,   2]: 0.0002847 布巾
+TOKEN[162]: 0.0006707    1 viper
+	viper WORD[162,   1]: 0.0006707 波布
+TOKEN[163]: 0.0006667    1 cascade
+	cascade WORD[163,   1]: 0.0006667 瀑布
+TOKEN[164]: 0.0006657    1 cava
+	cava WORD[164,   1]: 0.0006657 搗布
+TOKEN[165]: 0.0006621    2 scattering
+	scattering WORD[165,   1]: 0.0003311 撒布
+	scattering WORD[165,   2]: 0.0003311 散布
+TOKEN[166]: 0.0006613    1 back
+	back WORD[166,   1]: 0.0003307 布袋
+TOKEN[167]: 0.0006447    1 something
+	something WORD[167,   1]: 0.0006447 布包み
+TOKEN[168]: 0.0006443    1 unit
+	unit WORD[168,   1]: 0.0003222 布
+TOKEN[169]: 0.0006439    1 god
+	god WORD[169,   1]: 0.0003219 布袋
+TOKEN[170]: 0.0006270    1 genus
+	genus WORD[170,   1]: 0.0006270 布海苔
+TOKEN[171]: 0.0006212    1 purse
+	purse WORD[171,   1]: 0.0006212 財布
+TOKEN[172]: 0.0005938    2 hemp
+	hemp WORD[172,   1]: 0.0003220 上布
+	hemp WORD[172,   2]: 0.0002718 麻布
+TOKEN[173]: 0.0005704    2 game
+	game WORD[173,   1]: 0.0002852 布石
+	game WORD[173,   2]: 0.0002852 布陣
+TOKEN[174]: 0.0005644    1 loom
+	loom WORD[174,   1]: 0.0005644 布目
+TOKEN[175]: 0.0005583    1 dishcloth
+	dishcloth WORD[175,   1]: 0.0005583 布巾
+TOKEN[176]: 0.0005548    1 large
+	large WORD[176,   1]: 0.0002774 布袋
+TOKEN[177]: 0.0005497    1 waterfall
+	waterfall WORD[177,   1]: 0.0005497 瀑布
+TOKEN[178]: 0.0005483    1 lay
+	lay WORD[178,   1]: 0.0005483 布く
+TOKEN[179]: 0.0005422    1 kudzu
+	kudzu WORD[179,   1]: 0.0005422 葛布
+TOKEN[180]: 0.0005390    1 coffee
+	coffee WORD[180,   1]: 0.0005390 波布草
+TOKEN[181]: 0.0005259    1 duvet
+	duvet WORD[181,   1]: 0.0005259 布団
+TOKEN[182]: 0.0005243    1 fiber
+	fiber WORD[182,   1]: 0.0005243 葛布
+TOKEN[183]: 0.0005219    1 plant
+	plant WORD[183,   1]: 0.0005219 布海苔
+TOKEN[184]: 0.0005173    1 pit
+	pit WORD[184,   1]: 0.0005173 波布
+TOKEN[185]: 0.0005169    1 texture
+	texture WORD[185,   1]: 0.0005169 布目
+TOKEN[186]: 0.0005088    1 weave
+	weave WORD[186,   1]: 0.0005088 布目
+TOKEN[187]: 0.0005022    1 expatiation
+	expatiation WORD[187,   1]: 0.0005022 布衍
+TOKEN[188]: 0.0004893    1 missionary
+	missionary WORD[188,   1]: 0.0004893 布教
+TOKEN[189]: 0.0004888    2 Japanese
+	Japanese WORD[189,   1]: 0.0002708 葛布
+	Japanese WORD[189,   2]: 0.0002180 布団
+TOKEN[190]: 0.0004885    1 material
+	material WORD[190,   1]: 0.0004885 綿布
+TOKEN[191]: 0.0004795    1 mines
+	mines WORD[191,   1]: 0.0004795 布設
+TOKEN[192]: 0.0004769    1 elaboration
+	elaboration WORD[192,   1]: 0.0004769 布衍
+TOKEN[193]: 0.0004746    1 roll
+	roll WORD[193,   1]: 0.0004746 布目
+TOKEN[194]: 0.0004731    1 coarse
+	coarse WORD[194,   1]: 0.0004731 粗布
+TOKEN[195]: 0.0004667    1 grain
+	grain WORD[195,   1]: 0.0004667 布目
+TOKEN[196]: 0.0004633    1 bulrush
+	bulrush WORD[196,   1]: 0.0004633 布団
+TOKEN[197]: 0.0004570    1 fomentation
+	fomentation WORD[197,   1]: 0.0004570 湿布
+TOKEN[198]: 0.0004570    1 dust
+	dust WORD[198,   1]: 0.0004570 雑布
+TOKEN[199]: 0.0004560    1 direction
+	direction WORD[199,   1]: 0.0004560 布目
+TOKEN[200]: 0.0004560    1 groundwork
+	groundwork WORD[200,   1]: 0.0004560 布石
+TOKEN[201]: 0.0004560    1 strategic
+	strategic WORD[201,   1]: 0.0004560 布石
+TOKEN[202]: 0.0004536    1 amplification
+	amplification WORD[202,   1]: 0.0004536 布衍
+TOKEN[203]: 0.0004508    1 cushion
+	cushion WORD[203,   1]: 0.0004508 布団
+TOKEN[204]: 0.0004508    1 mattress
+	mattress WORD[204,   1]: 0.0004508 布団
+TOKEN[205]: 0.0004504    1 grouping
+	grouping WORD[205,   1]: 0.0004504 布置
+TOKEN[206]: 0.0004496    1 ordinance
+	ordinance WORD[206,   1]: 0.0004496 布告
+TOKEN[207]: 0.0004486    1 Laminariaceae
+	Laminariaceae WORD[207,   1]: 0.0004486 昆布
+TOKEN[208]: 0.0004486    1 kombu
+	kombu WORD[208,   1]: 0.0004486 昆布
+TOKEN[209]: 0.0004437    1 propagation
+	propagation WORD[209,   1]: 0.0004437 布教
+TOKEN[210]: 0.0004401    1 preparatory
+	preparatory WORD[210,   1]: 0.0004401 布石
+TOKEN[211]: 0.0004400    1 blanket
+	blanket WORD[211,   1]: 0.0004400 毛布
+TOKEN[212]: 0.0004353    1 edict
+	edict WORD[212,   1]: 0.0004353 布告
+TOKEN[213]: 0.0004288    1 poultice
+	poultice WORD[213,   1]: 0.0004288 湿布
+TOKEN[214]: 0.0004252    1 bedding
+	bedding WORD[214,   1]: 0.0004252 布団
+TOKEN[215]: 0.0004252    1 common
+	common WORD[215,   1]: 0.0004252 布袋葵
+TOKEN[216]: 0.0004231    1 making
+	making WORD[216,   1]: 0.0004231 用布
+TOKEN[217]: 0.0004220    1 woven
+	woven WORD[217,   1]: 0.0004220 布団
+TOKEN[218]: 0.0004217    1 pocketbook
+	pocketbook WORD[218,   1]: 0.0004217 財布
+TOKEN[219]: 0.0004192    1 enlargement
+	enlargement WORD[219,   1]: 0.0004192 布衍
+TOKEN[220]: 0.0004184    1 naval
+	naval WORD[220,   1]: 0.0004184 布設
+TOKEN[221]: 0.0004128    1 charity
+	charity WORD[221,   1]: 0.0004128 布施
+TOKEN[222]: 0.0004108    1 sheeting
+	sheeting WORD[222,   1]: 0.0004108 敷布
+TOKEN[223]: 0.0004103    1 railroad
+	railroad WORD[223,   1]: 0.0004103 布設
+TOKEN[224]: 0.0004045    1 religion
+	religion WORD[224,   1]: 0.0004045 布教
+TOKEN[225]: 0.0004043    1 allocation
+	allocation WORD[225,   1]: 0.0004043 分布
+TOKEN[226]: 0.0004035    1 administrative
+	administrative WORD[226,   1]: 0.0004035 布達
+TOKEN[227]: 0.0003974    1 notification
+	notification WORD[227,   1]: 0.0003974 布達
+TOKEN[228]: 0.0003915    1 compress
+	compress WORD[228,   1]: 0.0003915 湿布
+TOKEN[229]: 0.0003914    1 dry
+	dry WORD[229,   1]: 0.0003914 乾布
+TOKEN[230]: 0.0003850    1 billfold
+	billfold WORD[230,   1]: 0.0003850 財布
+TOKEN[231]: 0.0003815    1 ointment
+	ointment WORD[231,   1]: 0.0003815 塗布
+TOKEN[232]: 0.0003692    1 meditation
+	meditation WORD[232,   1]: 0.0003692 布団
+TOKEN[233]: 0.0003613    1 coating
+	coating WORD[233,   1]: 0.0003613 塗布
+TOKEN[234]: 0.0003597    1 formation
+	formation WORD[234,   1]: 0.0003597 布陣
+TOKEN[235]: 0.0003499    1 wallet
+	wallet WORD[235,   1]: 0.0003499 財布
+TOKEN[236]: 0.0003499    1 water
+	water WORD[236,   1]: 0.0003499 布袋葵
+TOKEN[237]: 0.0003483    1 Zen
+	Zen WORD[237,   1]: 0.0003483 布団
+TOKEN[238]: 0.0003410    1 loincloth
+	loincloth WORD[238,   1]: 0.0003410 腰布
+TOKEN[239]: 0.0003358    1 application
+	application WORD[239,   1]: 0.0003358 塗布
+TOKEN[240]: 0.0003357    1 explanation
+	explanation WORD[240,   1]: 0.0003357 布衍
+TOKEN[241]: 0.0003339    1 impose
+	impose WORD[241,   1]: 0.0003339 布く
+TOKEN[242]: 0.0003331    1 construction
+	construction WORD[242,   1]: 0.0003331 布設
+TOKEN[243]: 0.0003248    1 spare
+	spare WORD[243,   1]: 0.0003248 共布
+TOKEN[244]: 0.0003200    1 priest
+	priest WORD[244,   1]: 0.0003200 布施
+TOKEN[245]: 0.0003196    1 battle
+	battle WORD[245,   1]: 0.0003196 布陣
+TOKEN[246]: 0.0003161    1 dish
+	dish WORD[246,   1]: 0.0003161 布巾
+TOKEN[247]: 0.0003135    1 opening
+	opening WORD[247,   1]: 0.0003135 布石
+TOKEN[248]: 0.0003092    1 small
+	small WORD[248,   1]: 0.0003092 小布
+TOKEN[249]: 0.0003038    1 announcement
+	announcement WORD[249,   1]: 0.0003038 公布
+TOKEN[250]: 0.0003026    1 reading
+	reading WORD[250,   1]: 0.0003026 布施
+TOKEN[251]: 0.0003017    1 beginning
+	beginning WORD[251,   1]: 0.0003017 布石
+TOKEN[252]: 0.0003005    1 round
+	round WORD[252,   1]: 0.0003005 布団
+TOKEN[253]: 0.0003001    1 sit
+	sit WORD[253,   1]: 0.0003001 布く
+TOKEN[254]: 0.0002943    1 clear
+	clear WORD[254,   1]: 0.0002943 布衍
+TOKEN[255]: 0.0002935    1 sheet
+	sheet WORD[255,   1]: 0.0002935 敷布
+TOKEN[256]: 0.0002928    1 railway
+	railway WORD[256,   1]: 0.0002928 布く
+TOKEN[257]: 0.0002909    1 wet
+	wet WORD[257,   1]: 0.0002909 湿布
+TOKEN[258]: 0.0002835    1 coin
+	coin WORD[258,   1]: 0.0002835 財布
+TOKEN[259]: 0.0002763    1 order
+	order WORD[259,   1]: 0.0002763 布達
+TOKEN[260]: 0.0002632    1 money
+	money WORD[260,   1]: 0.0002632 布施
+TOKEN[261]: 0.0002592    1 japonica
+	japonica WORD[261,   1]: 0.0002592 昆布
+TOKEN[262]: 0.0002582    1 point
+	point WORD[262,   1]: 0.0002582 布衍
+TOKEN[263]: 0.0002546    1 spread
+	spread WORD[263,   1]: 0.0002546 布く
+TOKEN[264]: 0.0002537    1 painting
+	painting WORD[264,   1]: 0.0002537 画布
+TOKEN[265]: 0.0002532    1 work
+	work WORD[265,   1]: 0.0002532 布教
+TOKEN[266]: 0.0002526    1 cover
+	cover WORD[266,   1]: 0.0002526 布く
+TOKEN[267]: 0.0002508    1 oil
+	oil WORD[267,   1]: 0.0002508 画布
+TOKEN[268]: 0.0002502    1 city
+	city WORD[268,   1]: 0.0002502 布く
+TOKEN[269]: 0.0002425    1 go
+	go WORD[269,   1]: 0.0002425 布石
+TOKEN[270]: 0.0002352    1 white
+	white WORD[270,   1]: 0.0002352 白布
+TOKEN[271]: 0.0002253    1 position
+	position WORD[271,   1]: 0.0002253 布く
+TOKEN[272]: 0.0002072    1 family
+	family WORD[272,   1]: 0.0002072 昆布
+TOKEN[273]: 0.0001955    1 take
+	take WORD[273,   1]: 0.0001955 布く

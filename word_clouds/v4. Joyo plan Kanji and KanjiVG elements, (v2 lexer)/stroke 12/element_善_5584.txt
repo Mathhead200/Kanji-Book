@@ -1,0 +1,818 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0690866   35 good           : 善友, 万善, 修善, 善因, 善神, 取り繕う, 取繕う, 善管, 善書, 善業, ...
+0.0260870    5 meal           : 上げ膳, 本膳, 据え膳, 据膳, 膳
+0.0255588    6 food           : 下げ膳, 膳部, 陪膳, 食膳, 客膳, 膳
+0.0249952    1 righteousness  : 善道
+0.0247109    6 repair         : 取り繕う, 取繕う, 繕う, 繕い, 修繕, 営繕
+0.0225597    6 table          : 膳部, 膳立て, 本膳, 食膳, 配膳, 膳
+0.0219064    4 virtue         : 善道, 善心, 善さ, 善
+0.0209597    3 patch          : 取り繕う, 取繕う, 繕う
+0.0208336    1 plover         : 大膳
+0.0206819    5 gloss          : 取り繕う, 取繕う, 繕う, 言い繕う, 言繕う
+0.0179004    8 one            : 見繕う, 上げ膳, 据え膳, 据膳, 陰膳, 言い繕う, 言繕う, 膳立て
+0.0178508    1 path           : 善道
+0.0167624    5 mistake        : 取り繕う, 取繕う, 繕う, 言い繕う, 言繕う
+0.0157716    3 front          : 上げ膳, 取り繕う, 取繕う
+0.0155329    1 nobleman       : 陪膳
+0.0145580    3 mend           : 取り繕う, 取繕う, 繕う
+0.0142115    1 discretion     : 見繕う
+0.0133657    1 friend         : 善友
+0.0120061    1 clearing       : 下げ膳
+0.0114056    2 setting        : 膳立て, 配膳
+0.0113723    2 serving        : 陪膳, 膳
+0.0112778    2 palliate       : 取り繕う, 取繕う
+0.0108342    1 Pluvialis      : 大膳
+0.0103335    2 varnish        : 取り繕う, 取繕う
+0.0101244    3 tray           : 客膳, 陰膳, 膳
+0.0100193    3 keep           : 取り繕う, 取繕う, 繕う
+0.0093978    1 server         : 陪膳
+0.0091532    2 mending        : 繕い, 修繕
+0.0079961    2 smooth         : 取り繕う, 取繕う
+0.0079225    1 fix            : 繕う
+0.0077671    2 fault          : 取り繕う, 取繕う
+0.0077000    1 grey           : 大膳
+0.0075207    1 choosing       : 見繕う
+0.0072007    1 works          : 万善
+0.0071389    2 personal       : 身繕い, 毛繕い
+0.0071057    1 choose         : 見繕う
+0.0069036    5 person         : 膳部, 善人, 膳, 善良, 善玉
+0.0067849    2 dining         : 食膳, 膳
+0.0066506    2 dish           : 二の膳, 食膳
+0.0066447    2 cover          : 繕う, 膳部
+0.0065113    2 explain        : 言い繕う, 言繕う
+0.0064130    2 course         : 本膳, 一の膳
+0.0063821    2 thing          : 見繕う, 善事
+0.0062203    2 failure        : 言い繕う, 言繕う
+0.0058527    2 put            : 取り繕う, 取繕う
+0.0057479    2 use            : 見繕う, 善用
+0.0056422    1 darn           : 繕う
+0.0055670    2 set            : 据え膳, 据膳
+0.0054528    4 deed           : 善因, 小善, 善事, 善行
+0.0052548    3 Japanese       : 本膳, 膳部, 改善
+0.0051774    2 talk           : 言い繕う, 言繕う
+0.0051086    1 medicinal      : 薬膳
+0.0050798    3 goodness       : 善性, 性善, 善
+0.0050551    3 small          : 膳部, 膳, 小善
+0.0050532    1 darning        : 繕い
+0.0049956    1 upkeep         : 営繕
+0.0049708    1 dressing       : 身繕い
+0.0047794    1 groom          : 繕う
+0.0047439    1 chef           : 膳部
+0.0046387    1 tidy           : 繕う
+0.0045038    1 calligrapher   : 善書
+0.0044643    1 adjust         : 繕う
+0.0044419    2 Buddha         : 善逝, 善神
+0.0044046    2 way            : 言い繕う, 言繕う
+0.0043797    1 absent         : 陰膳
+0.0041479    1 based          : 薬膳
+0.0041436    1 epithet        : 善逝
+0.0041079    2 make           : 言い繕う, 言繕う
+0.0040945    1 formal         : 本膳
+0.0040750    1 counter        : 膳
+0.0040477    1 cook           : 膳部
+0.0039915    1 cooking        : 薬膳
+0.0039677    1 dinner         : 膳部
+0.0038463    1 injury         : 繕う
+0.0037677    1 treat          : 繕う
+0.0037603    2 beautiful      : 善書, 善美
+0.0037084    1 maintenance    : 営繕
+0.0036934    1 restaurant     : 膳部
+0.0036006    1 medicine       : 薬膳
+0.0035449    1 illness        : 繕う
+0.0035382    1 mutual         : 毛繕い
+0.0035290    1 calligraphy    : 善書
+0.0035046    1 banquet        : 一の膳
+0.0034457    1 main           : 本膳
+0.0033310    1 equipment      : 営繕
+0.0032893    1 traditional    : 薬膳
+0.0032837    1 social         : 毛繕い
+0.0032008    1 clothes        : 繕う
+0.0031706    1 appearance     : 繕う
+0.0031342    3 virtuous       : 善良, 善人, 善意
+0.0030521    1 type           : 食膳
+0.0029264    1 hair           : 繕う
+0.0028882    1 Chinese        : 薬膳
+0.0028803    1 low            : 客膳
+0.0028744    1 side           : 二の膳
+0.0028379    3 wrong          : 善悪, 善しあし, 善し悪し
+0.0027743    2 pious          : 善女, 善男
+0.0026619    1 interference   : 膳立て
+0.0026038    1 innate         : 善性
+0.0025883    1 publisher      : 丸善
+0.0025676    1 book           : 善書
+0.0025226    3 quality        : 善しあし, 善し悪し, 善さ
+0.0024965    2 man            : 善性, 善男
+0.0024845    1 laying         : 膳立て
+0.0024507    2 fine           : 善い, 善かろう
+0.0024415    1 God            : 善神
+0.0024398    2 suitability    : 善しあし, 善し悪し
+0.0023632    1 kitchen        : 膳所
+0.0022550    1 row            : 膳立て
+0.0022033    1 reward         : 善因
+0.0022024    1 single         : 膳
+0.0021775    3 bad            : 善しあし, 善し悪し, 善処
+0.0021076    1 getting        : 膳立て
+0.0021070    2 charity        : 善根, 慈善
+0.0020964    2 evil           : 不善, 善悪
+0.0020779    1 stage          : 膳立て
+0.0020686    1 manager        : 善管
+0.0020222    1 true           : 善神
+0.0019879    3 best           : 善処, 次善, 最善
+0.0019786    1 running        : 膳立て
+0.0018933    1 management     : 善管
+0.0018393    2 benevolence    : 善行, 慈善
+0.0018195    1 place          : 配膳
+0.0017984    1 cause          : 善因
+0.0017235    1 bring          : 善因
+0.0016566    1 complacency    : 独り善がり
+0.0016350    1 rice           : 膳
+0.0016058    1 mischief       : 不善
+0.0015895    2 positive       : 善感, 善意
+0.0015697    2 dealing        : 善処, 善後
+0.0015334    1 satisfy        : 善がる
+0.0014978    1 intrinsic      : 性善
+0.0014597    1 satisfied      : 善がる
+0.0014521    1 vice           : 不善
+0.0014503    1 conscience     : 善心
+0.0014326    2 proper         : 善導, 善処
+0.0013998    1 sin            : 不善
+0.0013920    1 fighting       : 善戦
+0.0013857    1 gullible       : 善人
+0.0013780    2 right          : 善い, 善
+0.0013724    1 bravo          : 善哉
+0.0013586    1 improvement    : 改善
+0.0013498    1 ten            : 十善
+0.0013004    1 fight          : 善戦
+0.0012788    2 business       : 善い, 改善
+0.0012289    1 moral          : 善心
+0.0011927    1 character      : 善玉
+0.0011927    1 kindness       : 小善
+0.0011795    1 honest         : 善良
+0.0011694    1 beneficial     : 善い
+0.0011455    1 agreeable      : 善い
+0.0011357    1 properly       : 善後
+0.0011253    1 highest        : 至善
+0.0011232    1 emperor        : 十善
+0.0011176    1 feel           : 善がる
+0.0011163    1 sufficient     : 善い
+0.0011141    1 minor          : 小善
+0.0011077    1 thank          : 善く
+0.0010852    1 glad           : 善く
+0.0010785    1 profitable     : 善い
+0.0010529    1 sense          : 善心
+0.0010515    1 hypocrisy      : 偽善
+0.0010492    1 nerve          : 善く
+0.0010273    1 nature         : 善良
+0.0010128    1 nice           : 善い
+0.0010090    1 merit          : 善さ
+0.0010089    1 prepared       : 善い
+0.0010087    1 betterment     : 改善
+0.0010046    1 philanthropy   : 慈善
+0.0009953    1 vaccination    : 善感
+0.0009876    1 ready          : 善い
+0.0009751    1 pleasant       : 善い
+0.0009714    1 rewarding      : 勧善
+0.0009617    1 done           : 善哉
+0.0009545    1 neighbor       : 善隣
+0.0009367    1 conduct        : 善行
+0.0009359    1 soup           : 善哉
+0.0009341    1 bean           : 善哉
+0.0009193    1 goodwill       : 親善
+0.0009193    1 amity          : 親善
+0.0009087    1 offer          : 善い
+0.0009034    1 problem        : 善い
+0.0009033    1 woman          : 善女
+0.0008999    1 know           : 善く
+0.0008887    1 easy           : 善い
+0.0008842    1 guy            : 善玉
+0.0008783    1 deal           : 善い
+0.0008769    1 excellent      : 善い
+0.0008615    1 reaction       : 善感
+0.0008545    1 anniversary    : 追善
+0.0008201    1 accumulation   : 積善
+0.0008011    1 mass           : 追善
+0.0007948    1 bargain        : 善処
+0.0007892    1 friendly       : 親善
+0.0007788    1 guidance       : 善導
+0.0007787    1 successful     : 善感
+0.0007773    1 government     : 善政
+0.0007729    1 faith          : 善意
+0.0007708    1 utmost         : 最善
+0.0007606    1 red            : 善哉
+0.0007459    1 careful        : 善後
+0.0007338    1 handling       : 善処
+0.0007268    1 philosophy     : 改善
+0.0007264    1 settlement     : 善後
+0.0007244    1 friendship     : 親善
+0.0007212    1 made           : 善哉
+0.0007124    1 continuous     : 改善
+0.0006871    1 issue          : 善処
+0.0006655    1 future         : 善後
+0.0006502    1 written        : 善玉
+0.0006383    1 service        : 追善
+0.0006346    1 dead           : 追善
+0.0006182    1 matter         : 善後
+0.0006108    1 Buddhist       : 追善
+0.0006089    1 round          : 善玉
+0.0006077    1 situation      : 善処
+0.0005992    1 second         : 次善
+0.0005925    1 common         : 善玉
+0.0005784    1 white          : 善玉
+0.0005678    1 making         : 善処
+0.0005670    1 mind           : 善意
+0.0005580    1 death          : 追善
+0.0005520    1 taking         : 善処
+0.0005336    1 head           : 善玉
+0.0004383    1 someone        : 追善
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0690866   35 good
+	good WORD[ 1,   1]: 0.0096887 善友
+	good WORD[ 1,   2]: 0.0096354 万善
+	good WORD[ 1,   3]: 0.0087334 修善
+	good WORD[ 1,   4]: 0.0043368 善因
+	good WORD[ 1,   5]: 0.0031200 善神
+	good WORD[ 1,   6]: 0.0027714 取り繕う
+	good WORD[ 1,   7]: 0.0027714 取繕う
+	good WORD[ 1,   8]: 0.0026853 善管
+	good WORD[ 1,   9]: 0.0023312 善書
+	good WORD[ 1,  10]: 0.0023230 善業
+	good WORD[ 1,  11]: 0.0015459 善事
+	good WORD[ 1,  12]: 0.0015108 善玉
+	good WORD[ 1,  13]: 0.0015105 善意
+	good WORD[ 1,  14]: 0.0013110 善行
+	good WORD[ 1,  15]: 0.0010073 善隣
+	good WORD[ 1,  16]: 0.0010071 善戦
+	good WORD[ 1,  17]: 0.0009085 十善
+	good WORD[ 1,  18]: 0.0008094 善良
+	good WORD[ 1,  19]: 0.0007923 善悪
+	good WORD[ 1,  20]: 0.0007742 小善
+	good WORD[ 1,  21]: 0.0007728 善根
+	good WORD[ 1,  22]: 0.0007724 善果
+	good WORD[ 1,  23]: 0.0007682 至善
+	good WORD[ 1,  24]: 0.0006554 善美
+	good WORD[ 1,  25]: 0.0006553 善政
+	good WORD[ 1,  26]: 0.0006548 善人
+	good WORD[ 1,  27]: 0.0006543 善しあし
+	good WORD[ 1,  28]: 0.0006543 善し悪し
+	good WORD[ 1,  29]: 0.0006525 善かろう
+	good WORD[ 1,  30]: 0.0006524 善さ
+	good WORD[ 1,  31]: 0.0006524 善い
+	good WORD[ 1,  32]: 0.0005036 善用
+	good WORD[ 1,  33]: 0.0005035 善
+	good WORD[ 1,  34]: 0.0005019 積善
+	good WORD[ 1,  35]: 0.0004590 勧善
+TOKEN[ 2]: 0.0260870    5 meal
+	meal WORD[ 2,   1]: 0.0098992 上げ膳
+	meal WORD[ 2,   2]: 0.0075420 本膳
+	meal WORD[ 2,   3]: 0.0032516 据え膳
+	meal WORD[ 2,   4]: 0.0032516 据膳
+	meal WORD[ 2,   5]: 0.0021426 膳
+TOKEN[ 3]: 0.0255588    6 food
+	food WORD[ 3,   1]: 0.0079400 下げ膳
+	food WORD[ 3,   2]: 0.0055252 膳部
+	food WORD[ 3,   3]: 0.0052623 陪膳
+	food WORD[ 3,   4]: 0.0026398 食膳
+	food WORD[ 3,   5]: 0.0024729 客膳
+	food WORD[ 3,   6]: 0.0017186 膳
+TOKEN[ 4]: 0.0249952    1 righteousness
+	righteousness WORD[ 4,   1]: 0.0249952 善道
+TOKEN[ 5]: 0.0247109    6 repair
+	repair WORD[ 5,   1]: 0.0043942 取り繕う
+	repair WORD[ 5,   2]: 0.0043942 取繕う
+	repair WORD[ 5,   3]: 0.0042274 繕う
+	repair WORD[ 5,   4]: 0.0042273 繕い
+	repair WORD[ 5,   5]: 0.0039562 修繕
+	repair WORD[ 5,   6]: 0.0035116 営繕
+TOKEN[ 6]: 0.0225597    6 table
+	table WORD[ 6,   1]: 0.0068169 膳部
+	table WORD[ 6,   2]: 0.0042416 膳立て
+	table WORD[ 6,   3]: 0.0037318 本膳
+	table WORD[ 6,   4]: 0.0032569 食膳
+	table WORD[ 6,   5]: 0.0023922 配膳
+	table WORD[ 6,   6]: 0.0021204 膳
+TOKEN[ 7]: 0.0219064    4 virtue
+	virtue WORD[ 7,   1]: 0.0191415 善道
+	virtue WORD[ 7,   2]: 0.0011384 善心
+	virtue WORD[ 7,   3]: 0.0009180 善さ
+	virtue WORD[ 7,   4]: 0.0007085 善
+TOKEN[ 8]: 0.0209597    3 patch
+	patch WORD[ 8,   1]: 0.0084480 取り繕う
+	patch WORD[ 8,   2]: 0.0084480 取繕う
+	patch WORD[ 8,   3]: 0.0040637 繕う
+TOKEN[ 9]: 0.0208336    1 plover
+	plover WORD[ 9,   1]: 0.0208336 大膳
+TOKEN[10]: 0.0206819    5 gloss
+	gloss WORD[10,   1]: 0.0045817 取り繕う
+	gloss WORD[10,   2]: 0.0045817 取繕う
+	gloss WORD[10,   3]: 0.0044078 繕う
+	gloss WORD[10,   4]: 0.0035554 言い繕う
+	gloss WORD[10,   5]: 0.0035554 言繕う
+TOKEN[11]: 0.0179004    8 one
+	one WORD[11,   1]: 0.0053623 見繕う
+	one WORD[11,   2]: 0.0045714 上げ膳
+	one WORD[11,   3]: 0.0015016 据え膳
+	one WORD[11,   4]: 0.0015016 据膳
+	one WORD[11,   5]: 0.0013888 陰膳
+	one WORD[11,   6]: 0.0012926 言い繕う
+	one WORD[11,   7]: 0.0012925 言繕う
+	one WORD[11,   8]: 0.0009897 膳立て
+TOKEN[12]: 0.0178508    1 path
+	path WORD[12,   1]: 0.0178508 善道
+TOKEN[13]: 0.0167624    5 mistake
+	mistake WORD[13,   1]: 0.0037134 取り繕う
+	mistake WORD[13,   2]: 0.0037134 取繕う
+	mistake WORD[13,   3]: 0.0035724 繕う
+	mistake WORD[13,   4]: 0.0028816 言い繕う
+	mistake WORD[13,   5]: 0.0028816 言繕う
+TOKEN[14]: 0.0157716    3 front
+	front WORD[14,   1]: 0.0091233 上げ膳
+	front WORD[14,   2]: 0.0033242 取り繕う
+	front WORD[14,   3]: 0.0033242 取繕う
+TOKEN[15]: 0.0155329    1 nobleman
+	nobleman WORD[15,   1]: 0.0155329 陪膳
+TOKEN[16]: 0.0145580    3 mend
+	mend WORD[16,   1]: 0.0049149 取り繕う
+	mend WORD[16,   2]: 0.0049148 取繕う
+	mend WORD[16,   3]: 0.0047283 繕う
+TOKEN[17]: 0.0142115    1 discretion
+	discretion WORD[17,   1]: 0.0142115 見繕う
+TOKEN[18]: 0.0133657    1 friend
+	friend WORD[18,   1]: 0.0133657 善友
+TOKEN[19]: 0.0120061    1 clearing
+	clearing WORD[19,   1]: 0.0120061 下げ膳
+TOKEN[20]: 0.0114056    2 setting
+	setting WORD[20,   1]: 0.0065101 膳立て
+	setting WORD[20,   2]: 0.0048954 配膳
+TOKEN[21]: 0.0113723    2 serving
+	serving WORD[21,   1]: 0.0068791 陪膳
+	serving WORD[21,   2]: 0.0044932 膳
+TOKEN[22]: 0.0112778    2 palliate
+	palliate WORD[22,   1]: 0.0056389 取り繕う
+	palliate WORD[22,   2]: 0.0056389 取繕う
+TOKEN[23]: 0.0108342    1 Pluvialis
+	Pluvialis WORD[23,   1]: 0.0108342 大膳
+TOKEN[24]: 0.0103335    2 varnish
+	varnish WORD[24,   1]: 0.0051667 取り繕う
+	varnish WORD[24,   2]: 0.0051667 取繕う
+TOKEN[25]: 0.0101244    3 tray
+	tray WORD[25,   1]: 0.0037913 客膳
+	tray WORD[25,   2]: 0.0036983 陰膳
+	tray WORD[25,   3]: 0.0026348 膳
+TOKEN[26]: 0.0100193    3 keep
+	keep WORD[26,   1]: 0.0033826 取り繕う
+	keep WORD[26,   2]: 0.0033826 取繕う
+	keep WORD[26,   3]: 0.0032542 繕う
+TOKEN[27]: 0.0093978    1 server
+	server WORD[27,   1]: 0.0093978 陪膳
+TOKEN[28]: 0.0091532    2 mending
+	mending WORD[28,   1]: 0.0047282 繕い
+	mending WORD[28,   2]: 0.0044249 修繕
+TOKEN[29]: 0.0079961    2 smooth
+	smooth WORD[29,   1]: 0.0039981 取り繕う
+	smooth WORD[29,   2]: 0.0039980 取繕う
+TOKEN[30]: 0.0079225    1 fix
+	fix WORD[30,   1]: 0.0079225 繕う
+TOKEN[31]: 0.0077671    2 fault
+	fault WORD[31,   1]: 0.0038836 取り繕う
+	fault WORD[31,   2]: 0.0038836 取繕う
+TOKEN[32]: 0.0077000    1 grey
+	grey WORD[32,   1]: 0.0077000 大膳
+TOKEN[33]: 0.0075207    1 choosing
+	choosing WORD[33,   1]: 0.0075207 見繕う
+TOKEN[34]: 0.0072007    1 works
+	works WORD[34,   1]: 0.0072007 万善
+TOKEN[35]: 0.0071389    2 personal
+	personal WORD[35,   1]: 0.0040719 身繕い
+	personal WORD[35,   2]: 0.0030670 毛繕い
+TOKEN[36]: 0.0071057    1 choose
+	choose WORD[36,   1]: 0.0071057 見繕う
+TOKEN[37]: 0.0069036    5 person
+	person WORD[37,   1]: 0.0022212 膳部
+	person WORD[37,   2]: 0.0021985 善人
+	person WORD[37,   3]: 0.0013818 膳
+	person WORD[37,   4]: 0.0006794 善良
+	person WORD[37,   5]: 0.0004227 善玉
+TOKEN[38]: 0.0067849    2 dining
+	dining WORD[38,   1]: 0.0041095 食膳
+	dining WORD[38,   2]: 0.0026754 膳
+TOKEN[39]: 0.0066506    2 dish
+	dish WORD[39,   1]: 0.0034218 二の膳
+	dish WORD[39,   2]: 0.0032288 食膳
+TOKEN[40]: 0.0066447    2 cover
+	cover WORD[40,   1]: 0.0033347 繕う
+	cover WORD[40,   2]: 0.0033100 膳部
+TOKEN[41]: 0.0065113    2 explain
+	explain WORD[41,   1]: 0.0032557 言い繕う
+	explain WORD[41,   2]: 0.0032556 言繕う
+TOKEN[42]: 0.0064130    2 course
+	course WORD[42,   1]: 0.0036046 本膳
+	course WORD[42,   2]: 0.0028084 一の膳
+TOKEN[43]: 0.0063821    2 thing
+	thing WORD[43,   1]: 0.0054396 見繕う
+	thing WORD[43,   2]: 0.0009425 善事
+TOKEN[44]: 0.0062203    2 failure
+	failure WORD[44,   1]: 0.0031101 言い繕う
+	failure WORD[44,   2]: 0.0031101 言繕う
+TOKEN[45]: 0.0058527    2 put
+	put WORD[45,   1]: 0.0029264 取り繕う
+	put WORD[45,   2]: 0.0029264 取繕う
+TOKEN[46]: 0.0057479    2 use
+	use WORD[46,   1]: 0.0051648 見繕う
+	use WORD[46,   2]: 0.0005831 善用
+TOKEN[47]: 0.0056422    1 darn
+	darn WORD[47,   1]: 0.0056422 繕う
+TOKEN[48]: 0.0055670    2 set
+	set WORD[48,   1]: 0.0027835 据え膳
+	set WORD[48,   2]: 0.0027835 据膳
+TOKEN[49]: 0.0054528    4 deed
+	deed WORD[49,   1]: 0.0021607 善因
+	deed WORD[49,   2]: 0.0011571 小善
+	deed WORD[49,   3]: 0.0011553 善事
+	deed WORD[49,   4]: 0.0009797 善行
+TOKEN[50]: 0.0052548    3 Japanese
+	Japanese WORD[50,   1]: 0.0025414 本膳
+	Japanese WORD[50,   2]: 0.0023212 膳部
+	Japanese WORD[50,   3]: 0.0003923 改善
+TOKEN[51]: 0.0051774    2 talk
+	talk WORD[51,   1]: 0.0025887 言い繕う
+	talk WORD[51,   2]: 0.0025887 言繕う
+TOKEN[52]: 0.0051086    1 medicinal
+	medicinal WORD[52,   1]: 0.0051086 薬膳
+TOKEN[53]: 0.0050798    3 goodness
+	goodness WORD[53,   1]: 0.0027876 善性
+	goodness WORD[53,   2]: 0.0013897 性善
+	goodness WORD[53,   3]: 0.0009025 善
+TOKEN[54]: 0.0050551    3 small
+	small WORD[54,   1]: 0.0026403 膳部
+	small WORD[54,   2]: 0.0016425 膳
+	small WORD[54,   3]: 0.0007724 小善
+TOKEN[55]: 0.0050532    1 darning
+	darning WORD[55,   1]: 0.0050532 繕い
+TOKEN[56]: 0.0049956    1 upkeep
+	upkeep WORD[56,   1]: 0.0049956 営繕
+TOKEN[57]: 0.0049708    1 dressing
+	dressing WORD[57,   1]: 0.0049708 身繕い
+TOKEN[58]: 0.0047794    1 groom
+	groom WORD[58,   1]: 0.0047794 繕う
+TOKEN[59]: 0.0047439    1 chef
+	chef WORD[59,   1]: 0.0047439 膳部
+TOKEN[60]: 0.0046387    1 tidy
+	tidy WORD[60,   1]: 0.0046387 繕う
+TOKEN[61]: 0.0045038    1 calligrapher
+	calligrapher WORD[61,   1]: 0.0045038 善書
+TOKEN[62]: 0.0044643    1 adjust
+	adjust WORD[62,   1]: 0.0044643 繕う
+TOKEN[63]: 0.0044419    2 Buddha
+	Buddha WORD[63,   1]: 0.0025152 善逝
+	Buddha WORD[63,   2]: 0.0019267 善神
+TOKEN[64]: 0.0044046    2 way
+	way WORD[64,   1]: 0.0022023 言い繕う
+	way WORD[64,   2]: 0.0022023 言繕う
+TOKEN[65]: 0.0043797    1 absent
+	absent WORD[65,   1]: 0.0043797 陰膳
+TOKEN[66]: 0.0041479    1 based
+	based WORD[66,   1]: 0.0041479 薬膳
+TOKEN[67]: 0.0041436    1 epithet
+	epithet WORD[67,   1]: 0.0041436 善逝
+TOKEN[68]: 0.0041079    2 make
+	make WORD[68,   1]: 0.0020540 言い繕う
+	make WORD[68,   2]: 0.0020540 言繕う
+TOKEN[69]: 0.0040945    1 formal
+	formal WORD[69,   1]: 0.0040945 本膳
+TOKEN[70]: 0.0040750    1 counter
+	counter WORD[70,   1]: 0.0040750 膳
+TOKEN[71]: 0.0040477    1 cook
+	cook WORD[71,   1]: 0.0040477 膳部
+TOKEN[72]: 0.0039915    1 cooking
+	cooking WORD[72,   1]: 0.0039915 薬膳
+TOKEN[73]: 0.0039677    1 dinner
+	dinner WORD[73,   1]: 0.0039677 膳部
+TOKEN[74]: 0.0038463    1 injury
+	injury WORD[74,   1]: 0.0038463 繕う
+TOKEN[75]: 0.0037677    1 treat
+	treat WORD[75,   1]: 0.0037677 繕う
+TOKEN[76]: 0.0037603    2 beautiful
+	beautiful WORD[76,   1]: 0.0029351 善書
+	beautiful WORD[76,   2]: 0.0008251 善美
+TOKEN[77]: 0.0037084    1 maintenance
+	maintenance WORD[77,   1]: 0.0037084 営繕
+TOKEN[78]: 0.0036934    1 restaurant
+	restaurant WORD[78,   1]: 0.0036934 膳部
+TOKEN[79]: 0.0036006    1 medicine
+	medicine WORD[79,   1]: 0.0036006 薬膳
+TOKEN[80]: 0.0035449    1 illness
+	illness WORD[80,   1]: 0.0035449 繕う
+TOKEN[81]: 0.0035382    1 mutual
+	mutual WORD[81,   1]: 0.0035382 毛繕い
+TOKEN[82]: 0.0035290    1 calligraphy
+	calligraphy WORD[82,   1]: 0.0035290 善書
+TOKEN[83]: 0.0035046    1 banquet
+	banquet WORD[83,   1]: 0.0035046 一の膳
+TOKEN[84]: 0.0034457    1 main
+	main WORD[84,   1]: 0.0034457 本膳
+TOKEN[85]: 0.0033310    1 equipment
+	equipment WORD[85,   1]: 0.0033310 営繕
+TOKEN[86]: 0.0032893    1 traditional
+	traditional WORD[86,   1]: 0.0032893 薬膳
+TOKEN[87]: 0.0032837    1 social
+	social WORD[87,   1]: 0.0032837 毛繕い
+TOKEN[88]: 0.0032008    1 clothes
+	clothes WORD[88,   1]: 0.0032008 繕う
+TOKEN[89]: 0.0031706    1 appearance
+	appearance WORD[89,   1]: 0.0031706 繕う
+TOKEN[90]: 0.0031342    3 virtuous
+	virtuous WORD[90,   1]: 0.0012892 善良
+	virtuous WORD[90,   2]: 0.0010430 善人
+	virtuous WORD[90,   3]: 0.0008020 善意
+TOKEN[91]: 0.0030521    1 type
+	type WORD[91,   1]: 0.0030521 食膳
+TOKEN[92]: 0.0029264    1 hair
+	hair WORD[92,   1]: 0.0029264 繕う
+TOKEN[93]: 0.0028882    1 Chinese
+	Chinese WORD[93,   1]: 0.0028882 薬膳
+TOKEN[94]: 0.0028803    1 low
+	low WORD[94,   1]: 0.0028803 客膳
+TOKEN[95]: 0.0028744    1 side
+	side WORD[95,   1]: 0.0028744 二の膳
+TOKEN[96]: 0.0028379    3 wrong
+	wrong WORD[96,   1]: 0.0010702 善悪
+	wrong WORD[96,   2]: 0.0008839 善しあし
+	wrong WORD[96,   3]: 0.0008839 善し悪し
+TOKEN[97]: 0.0027743    2 pious
+	pious WORD[97,   1]: 0.0015338 善女
+	pious WORD[97,   2]: 0.0012405 善男
+TOKEN[98]: 0.0026619    1 interference
+	interference WORD[98,   1]: 0.0026619 膳立て
+TOKEN[99]: 0.0026038    1 innate
+	innate WORD[99,   1]: 0.0026038 善性
+TOKEN[100]: 0.0025883    1 publisher
+	publisher WORD[100,   1]: 0.0025883 丸善
+TOKEN[101]: 0.0025676    1 book
+	book WORD[101,   1]: 0.0025676 善書
+TOKEN[102]: 0.0025226    3 quality
+	quality WORD[102,   1]: 0.0008417 善しあし
+	quality WORD[102,   2]: 0.0008417 善し悪し
+	quality WORD[102,   3]: 0.0008392 善さ
+TOKEN[103]: 0.0024965    2 man
+	man WORD[103,   1]: 0.0017570 善性
+	man WORD[103,   2]: 0.0007395 善男
+TOKEN[104]: 0.0024845    1 laying
+	laying WORD[104,   1]: 0.0024845 膳立て
+TOKEN[105]: 0.0024507    2 fine
+	fine WORD[105,   1]: 0.0016337 善い
+	fine WORD[105,   2]: 0.0008170 善かろう
+TOKEN[106]: 0.0024415    1 God
+	God WORD[106,   1]: 0.0024415 善神
+TOKEN[107]: 0.0024398    2 suitability
+	suitability WORD[107,   1]: 0.0012199 善しあし
+	suitability WORD[107,   2]: 0.0012199 善し悪し
+TOKEN[108]: 0.0023632    1 kitchen
+	kitchen WORD[108,   1]: 0.0023632 膳所
+TOKEN[109]: 0.0022550    1 row
+	row WORD[109,   1]: 0.0022550 膳立て
+TOKEN[110]: 0.0022033    1 reward
+	reward WORD[110,   1]: 0.0022033 善因
+TOKEN[111]: 0.0022024    1 single
+	single WORD[111,   1]: 0.0022024 膳
+TOKEN[112]: 0.0021775    3 bad
+	bad WORD[112,   1]: 0.0007862 善しあし
+	bad WORD[112,   2]: 0.0007862 善し悪し
+	bad WORD[112,   3]: 0.0006050 善処
+TOKEN[113]: 0.0021076    1 getting
+	getting WORD[113,   1]: 0.0021076 膳立て
+TOKEN[114]: 0.0021070    2 charity
+	charity WORD[114,   1]: 0.0012856 善根
+	charity WORD[114,   2]: 0.0008214 慈善
+TOKEN[115]: 0.0020964    2 evil
+	evil WORD[115,   1]: 0.0010920 不善
+	evil WORD[115,   2]: 0.0010044 善悪
+TOKEN[116]: 0.0020779    1 stage
+	stage WORD[116,   1]: 0.0020779 膳立て
+TOKEN[117]: 0.0020686    1 manager
+	manager WORD[117,   1]: 0.0020686 善管
+TOKEN[118]: 0.0020222    1 true
+	true WORD[118,   1]: 0.0020222 善神
+TOKEN[119]: 0.0019879    3 best
+	best WORD[119,   1]: 0.0006779 善処
+	best WORD[119,   2]: 0.0006648 次善
+	best WORD[119,   3]: 0.0006452 最善
+TOKEN[120]: 0.0019786    1 running
+	running WORD[120,   1]: 0.0019786 膳立て
+TOKEN[121]: 0.0018933    1 management
+	management WORD[121,   1]: 0.0018933 善管
+TOKEN[122]: 0.0018393    2 benevolence
+	benevolence WORD[122,   1]: 0.0010491 善行
+	benevolence WORD[122,   2]: 0.0007902 慈善
+TOKEN[123]: 0.0018195    1 place
+	place WORD[123,   1]: 0.0018195 配膳
+TOKEN[124]: 0.0017984    1 cause
+	cause WORD[124,   1]: 0.0017984 善因
+TOKEN[125]: 0.0017235    1 bring
+	bring WORD[125,   1]: 0.0017235 善因
+TOKEN[126]: 0.0016566    1 complacency
+	complacency WORD[126,   1]: 0.0016566 独り善がり
+TOKEN[127]: 0.0016350    1 rice
+	rice WORD[127,   1]: 0.0016350 膳
+TOKEN[128]: 0.0016058    1 mischief
+	mischief WORD[128,   1]: 0.0016058 不善
+TOKEN[129]: 0.0015895    2 positive
+	positive WORD[129,   1]: 0.0007948 善感
+	positive WORD[129,   2]: 0.0007947 善意
+TOKEN[130]: 0.0015697    2 dealing
+	dealing WORD[130,   1]: 0.0007849 善処
+	dealing WORD[130,   2]: 0.0007848 善後
+TOKEN[131]: 0.0015334    1 satisfy
+	satisfy WORD[131,   1]: 0.0015334 善がる
+TOKEN[132]: 0.0014978    1 intrinsic
+	intrinsic WORD[132,   1]: 0.0014978 性善
+TOKEN[133]: 0.0014597    1 satisfied
+	satisfied WORD[133,   1]: 0.0014597 善がる
+TOKEN[134]: 0.0014521    1 vice
+	vice WORD[134,   1]: 0.0014521 不善
+TOKEN[135]: 0.0014503    1 conscience
+	conscience WORD[135,   1]: 0.0014503 善心
+TOKEN[136]: 0.0014326    2 proper
+	proper WORD[136,   1]: 0.0007164 善導
+	proper WORD[136,   2]: 0.0007163 善処
+TOKEN[137]: 0.0013998    1 sin
+	sin WORD[137,   1]: 0.0013998 不善
+TOKEN[138]: 0.0013920    1 fighting
+	fighting WORD[138,   1]: 0.0013920 善戦
+TOKEN[139]: 0.0013857    1 gullible
+	gullible WORD[139,   1]: 0.0013857 善人
+TOKEN[140]: 0.0013780    2 right
+	right WORD[140,   1]: 0.0007778 善い
+	right WORD[140,   2]: 0.0006003 善
+TOKEN[141]: 0.0013724    1 bravo
+	bravo WORD[141,   1]: 0.0013724 善哉
+TOKEN[142]: 0.0013586    1 improvement
+	improvement WORD[142,   1]: 0.0013586 改善
+TOKEN[143]: 0.0013498    1 ten
+	ten WORD[143,   1]: 0.0013498 十善
+TOKEN[144]: 0.0013004    1 fight
+	fight WORD[144,   1]: 0.0013004 善戦
+TOKEN[145]: 0.0012788    2 business
+	business WORD[145,   1]: 0.0007587 善い
+	business WORD[145,   2]: 0.0005201 改善
+TOKEN[146]: 0.0012289    1 moral
+	moral WORD[146,   1]: 0.0012289 善心
+TOKEN[147]: 0.0011927    1 character
+	character WORD[147,   1]: 0.0011927 善玉
+TOKEN[148]: 0.0011927    1 kindness
+	kindness WORD[148,   1]: 0.0011927 小善
+TOKEN[149]: 0.0011795    1 honest
+	honest WORD[149,   1]: 0.0011795 善良
+TOKEN[150]: 0.0011694    1 beneficial
+	beneficial WORD[150,   1]: 0.0011694 善い
+TOKEN[151]: 0.0011455    1 agreeable
+	agreeable WORD[151,   1]: 0.0011455 善い
+TOKEN[152]: 0.0011357    1 properly
+	properly WORD[152,   1]: 0.0011357 善後
+TOKEN[153]: 0.0011253    1 highest
+	highest WORD[153,   1]: 0.0011253 至善
+TOKEN[154]: 0.0011232    1 emperor
+	emperor WORD[154,   1]: 0.0011232 十善
+TOKEN[155]: 0.0011176    1 feel
+	feel WORD[155,   1]: 0.0011176 善がる
+TOKEN[156]: 0.0011163    1 sufficient
+	sufficient WORD[156,   1]: 0.0011163 善い
+TOKEN[157]: 0.0011141    1 minor
+	minor WORD[157,   1]: 0.0011141 小善
+TOKEN[158]: 0.0011077    1 thank
+	thank WORD[158,   1]: 0.0011077 善く
+TOKEN[159]: 0.0010852    1 glad
+	glad WORD[159,   1]: 0.0010852 善く
+TOKEN[160]: 0.0010785    1 profitable
+	profitable WORD[160,   1]: 0.0010785 善い
+TOKEN[161]: 0.0010529    1 sense
+	sense WORD[161,   1]: 0.0010529 善心
+TOKEN[162]: 0.0010515    1 hypocrisy
+	hypocrisy WORD[162,   1]: 0.0010515 偽善
+TOKEN[163]: 0.0010492    1 nerve
+	nerve WORD[163,   1]: 0.0010492 善く
+TOKEN[164]: 0.0010273    1 nature
+	nature WORD[164,   1]: 0.0010273 善良
+TOKEN[165]: 0.0010128    1 nice
+	nice WORD[165,   1]: 0.0010128 善い
+TOKEN[166]: 0.0010090    1 merit
+	merit WORD[166,   1]: 0.0010090 善さ
+TOKEN[167]: 0.0010089    1 prepared
+	prepared WORD[167,   1]: 0.0010089 善い
+TOKEN[168]: 0.0010087    1 betterment
+	betterment WORD[168,   1]: 0.0010087 改善
+TOKEN[169]: 0.0010046    1 philanthropy
+	philanthropy WORD[169,   1]: 0.0010046 慈善
+TOKEN[170]: 0.0009953    1 vaccination
+	vaccination WORD[170,   1]: 0.0009953 善感
+TOKEN[171]: 0.0009876    1 ready
+	ready WORD[171,   1]: 0.0009876 善い
+TOKEN[172]: 0.0009751    1 pleasant
+	pleasant WORD[172,   1]: 0.0009751 善い
+TOKEN[173]: 0.0009714    1 rewarding
+	rewarding WORD[173,   1]: 0.0009714 勧善
+TOKEN[174]: 0.0009617    1 done
+	done WORD[174,   1]: 0.0009617 善哉
+TOKEN[175]: 0.0009545    1 neighbor
+	neighbor WORD[175,   1]: 0.0009545 善隣
+TOKEN[176]: 0.0009367    1 conduct
+	conduct WORD[176,   1]: 0.0009367 善行
+TOKEN[177]: 0.0009359    1 soup
+	soup WORD[177,   1]: 0.0009359 善哉
+TOKEN[178]: 0.0009341    1 bean
+	bean WORD[178,   1]: 0.0009341 善哉
+TOKEN[179]: 0.0009193    1 goodwill
+	goodwill WORD[179,   1]: 0.0009193 親善
+TOKEN[180]: 0.0009193    1 amity
+	amity WORD[180,   1]: 0.0009193 親善
+TOKEN[181]: 0.0009087    1 offer
+	offer WORD[181,   1]: 0.0009087 善い
+TOKEN[182]: 0.0009034    1 problem
+	problem WORD[182,   1]: 0.0009034 善い
+TOKEN[183]: 0.0009033    1 woman
+	woman WORD[183,   1]: 0.0009033 善女
+TOKEN[184]: 0.0008999    1 know
+	know WORD[184,   1]: 0.0008999 善く
+TOKEN[185]: 0.0008887    1 easy
+	easy WORD[185,   1]: 0.0008887 善い
+TOKEN[186]: 0.0008842    1 guy
+	guy WORD[186,   1]: 0.0008842 善玉
+TOKEN[187]: 0.0008783    1 deal
+	deal WORD[187,   1]: 0.0008783 善い
+TOKEN[188]: 0.0008769    1 excellent
+	excellent WORD[188,   1]: 0.0008769 善い
+TOKEN[189]: 0.0008615    1 reaction
+	reaction WORD[189,   1]: 0.0008615 善感
+TOKEN[190]: 0.0008545    1 anniversary
+	anniversary WORD[190,   1]: 0.0008545 追善
+TOKEN[191]: 0.0008201    1 accumulation
+	accumulation WORD[191,   1]: 0.0008201 積善
+TOKEN[192]: 0.0008011    1 mass
+	mass WORD[192,   1]: 0.0008011 追善
+TOKEN[193]: 0.0007948    1 bargain
+	bargain WORD[193,   1]: 0.0007948 善処
+TOKEN[194]: 0.0007892    1 friendly
+	friendly WORD[194,   1]: 0.0007892 親善
+TOKEN[195]: 0.0007788    1 guidance
+	guidance WORD[195,   1]: 0.0007788 善導
+TOKEN[196]: 0.0007787    1 successful
+	successful WORD[196,   1]: 0.0007787 善感
+TOKEN[197]: 0.0007773    1 government
+	government WORD[197,   1]: 0.0007773 善政
+TOKEN[198]: 0.0007729    1 faith
+	faith WORD[198,   1]: 0.0007729 善意
+TOKEN[199]: 0.0007708    1 utmost
+	utmost WORD[199,   1]: 0.0007708 最善
+TOKEN[200]: 0.0007606    1 red
+	red WORD[200,   1]: 0.0007606 善哉
+TOKEN[201]: 0.0007459    1 careful
+	careful WORD[201,   1]: 0.0007459 善後
+TOKEN[202]: 0.0007338    1 handling
+	handling WORD[202,   1]: 0.0007338 善処
+TOKEN[203]: 0.0007268    1 philosophy
+	philosophy WORD[203,   1]: 0.0007268 改善
+TOKEN[204]: 0.0007264    1 settlement
+	settlement WORD[204,   1]: 0.0007264 善後
+TOKEN[205]: 0.0007244    1 friendship
+	friendship WORD[205,   1]: 0.0007244 親善
+TOKEN[206]: 0.0007212    1 made
+	made WORD[206,   1]: 0.0007212 善哉
+TOKEN[207]: 0.0007124    1 continuous
+	continuous WORD[207,   1]: 0.0007124 改善
+TOKEN[208]: 0.0006871    1 issue
+	issue WORD[208,   1]: 0.0006871 善処
+TOKEN[209]: 0.0006655    1 future
+	future WORD[209,   1]: 0.0006655 善後
+TOKEN[210]: 0.0006502    1 written
+	written WORD[210,   1]: 0.0006502 善玉
+TOKEN[211]: 0.0006383    1 service
+	service WORD[211,   1]: 0.0006383 追善
+TOKEN[212]: 0.0006346    1 dead
+	dead WORD[212,   1]: 0.0006346 追善
+TOKEN[213]: 0.0006182    1 matter
+	matter WORD[213,   1]: 0.0006182 善後
+TOKEN[214]: 0.0006108    1 Buddhist
+	Buddhist WORD[214,   1]: 0.0006108 追善
+TOKEN[215]: 0.0006089    1 round
+	round WORD[215,   1]: 0.0006089 善玉
+TOKEN[216]: 0.0006077    1 situation
+	situation WORD[216,   1]: 0.0006077 善処
+TOKEN[217]: 0.0005992    1 second
+	second WORD[217,   1]: 0.0005992 次善
+TOKEN[218]: 0.0005925    1 common
+	common WORD[218,   1]: 0.0005925 善玉
+TOKEN[219]: 0.0005784    1 white
+	white WORD[219,   1]: 0.0005784 善玉
+TOKEN[220]: 0.0005678    1 making
+	making WORD[220,   1]: 0.0005678 善処
+TOKEN[221]: 0.0005670    1 mind
+	mind WORD[221,   1]: 0.0005670 善意
+TOKEN[222]: 0.0005580    1 death
+	death WORD[222,   1]: 0.0005580 追善
+TOKEN[223]: 0.0005520    1 taking
+	taking WORD[223,   1]: 0.0005520 善処
+TOKEN[224]: 0.0005336    1 head
+	head WORD[224,   1]: 0.0005336 善玉
+TOKEN[225]: 0.0004383    1 someone
+	someone WORD[225,   1]: 0.0004383 追善

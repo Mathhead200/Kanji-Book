@@ -1,0 +1,324 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2302554    2 votive         : 奉灯, 奉燈
+0.2122218    2 lantern        : 奉灯, 奉燈
+0.0222663    6 offering       : 奉幣, 奉納, 奉奠, 奉呈, 奉仕, 供奉
+0.0165493    3 service        : 奉仕, 奉公, 奉職
+0.0148037    4 emperor        : 奉書, 奉送, 奉持, 奉還
+0.0141013    2 dedicate       : 奉ずる, 奉じる
+0.0132018    2 believe        : 奉ずる, 奉じる
+0.0131137    1 decree         : 奉勅
+0.0126345    2 obey           : 奉ずる, 奉じる
+0.0125593    3 presentation   : 奉納, 奉呈, 奉献
+0.0122729    3 present        : 奉ずる, 奉じる, 奉る
+0.0109630    2 serve          : 奉ずる, 奉じる
+0.0108667    1 message        : 奉書
+0.0103214    2 follow         : 奉ずる, 奉じる
+0.0103060    2 bear           : 奉ずる, 奉じる
+0.0096668    2 respectful     : 奉読, 奉賀
+0.0094694    2 dedication     : 奉納, 奉献
+0.0091449    1 imperial       : 奉勅
+0.0087162    1 lord           : 奉体
+0.0083573    2 paper          : 奉幣, 奉書
+0.0083098    2 worship        : 奉拝, 奉遷
+0.0080143    1 carrying       : 奉体
+0.0079154    1 wand           : 奉幣
+0.0071060    2 given          : 奉賛, 奉告
+0.0070276    2 holding        : 奉持, 奉職
+0.0069319    2 offer          : 奉献, 奉る
+0.0068464    2 attendance     : 奉仕, 供奉
+0.0065384    2 serving        : 奉職, 供奉
+0.0063191    2 shrine         : 奉賛, 奉献
+0.0061329    1 shogun         : 奉書
+0.0060886    1 hemp           : 奉幣
+0.0060832    1 oblation       : 奉納
+0.0060297    1 public         : 奉公
+0.0057055    1 inquiring      : 奉伺
+0.0057051    1 consecration   : 奉献
+0.0055186    2 high           : 奉呈, 奉る
+0.0054552    1 magistrate     : 奉行
+0.0054317    1 inner          : 供奉
+0.0053297    1 enshrine       : 奉祀
+0.0053182    1 Shinto         : 奉幣
+0.0052153    2 one            : 奉体, 奉伺
+0.0049493    1 god            : 奉幣
+0.0049450    1 espousal       : 信奉
+0.0048898    1 apprenticeship : 奉公
+0.0048329    1 church         : 奉仕
+0.0047341    1 providing      : 奉仕
+0.0047079    1 administrator  : 奉行
+0.0045781    1 ministry       : 奉仕
+0.0045464    1 choosing       : 奉戴
+0.0045154    1 president      : 奉戴
+0.0044572    1 reduced        : 奉仕
+0.0044336    1 offerer        : 供奉
+0.0043578    1 donation       : 奉加
+0.0043148    1 nobility       : 奉告
+0.0041965    2 someone        : 奉呈, 奉る
+0.0041854    1 welcome        : 奉迎
+0.0041791    1 shogunate      : 奉行
+0.0041548    1 nobleman       : 奉戴
+0.0041249    1 throne         : 奉答
+0.0040885    1 revere         : 奉る
+0.0040681    1 celebration    : 奉祝
+0.0039824    1 domestic       : 奉公
+0.0039509    1 reply          : 奉答
+0.0039001    1 status         : 奉呈
+0.0038980    1 observing      : 遵奉
+0.0038535    1 seeing         : 奉送
+0.0038184    1 bearing        : 奉持
+0.0037939    1 singing        : 奉唱
+0.0037937    1 health         : 奉伺
+0.0036998    1 leader         : 奉戴
+0.0036961    1 adherence      : 信奉
+0.0036791    1 deity          : 奉告
+0.0036673    1 organization   : 奉戴
+0.0036180    1 duty           : 奉公
+0.0035792    1 report         : 奉告
+0.0035337    1 moving         : 奉遷
+0.0034911    1 object         : 奉遷
+0.0034815    1 picture        : 奉持
+0.0034768    1 free           : 奉仕
+0.0034761    1 belief         : 信奉
+0.0034341    1 support        : 奉賛
+0.0033653    1 faith          : 信奉
+0.0033199    1 office         : 奉職
+0.0032885    1 reading        : 奉読
+0.0032346    1 company        : 奉戴
+0.0032338    1 goods          : 奉仕
+0.0032310    1 price          : 奉仕
+0.0031168    1 temple         : 奉賛
+0.0030555    1 following      : 遵奉
+0.0030465    1 distance       : 奉る
+0.0030151    1 hall           : 供奉
+0.0027573    1 work           : 奉仕
+0.0025442    1 position       : 奉る
+0.0025411    1 set            : 奉る
+0.0023530    1 something      : 奉奠
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2302554    2 votive
+	votive WORD[ 1,   1]: 0.1151301 奉灯
+	votive WORD[ 1,   2]: 0.1151253 奉燈
+TOKEN[ 2]: 0.2122218    2 lantern
+	lantern WORD[ 2,   1]: 0.1061131 奉灯
+	lantern WORD[ 2,   2]: 0.1061087 奉燈
+TOKEN[ 3]: 0.0222663    6 offering
+	offering WORD[ 3,   1]: 0.0051646 奉幣
+	offering WORD[ 3,   2]: 0.0035804 奉納
+	offering WORD[ 3,   3]: 0.0035803 奉奠
+	offering WORD[ 3,   4]: 0.0035803 奉呈
+	offering WORD[ 3,   5]: 0.0035792 奉仕
+	offering WORD[ 3,   6]: 0.0027814 供奉
+TOKEN[ 4]: 0.0165493    3 service
+	service WORD[ 4,   1]: 0.0066198 奉仕
+	service WORD[ 4,   2]: 0.0066195 奉公
+	service WORD[ 4,   3]: 0.0033100 奉職
+TOKEN[ 5]: 0.0148037    4 emperor
+	emperor WORD[ 5,   1]: 0.0048035 奉書
+	emperor WORD[ 5,   2]: 0.0033340 奉送
+	emperor WORD[ 5,   3]: 0.0033334 奉持
+	emperor WORD[ 5,   4]: 0.0033328 奉還
+TOKEN[ 6]: 0.0141013    2 dedicate
+	dedicate WORD[ 6,   1]: 0.0070509 奉ずる
+	dedicate WORD[ 6,   2]: 0.0070504 奉じる
+TOKEN[ 7]: 0.0132018    2 believe
+	believe WORD[ 7,   1]: 0.0066011 奉ずる
+	believe WORD[ 7,   2]: 0.0066007 奉じる
+TOKEN[ 8]: 0.0131137    1 decree
+	decree WORD[ 8,   1]: 0.0131137 奉勅
+TOKEN[ 9]: 0.0126345    2 obey
+	obey WORD[ 9,   1]: 0.0063174 奉ずる
+	obey WORD[ 9,   2]: 0.0063170 奉じる
+TOKEN[10]: 0.0125593    3 presentation
+	presentation WORD[10,   1]: 0.0041870 奉納
+	presentation WORD[10,   2]: 0.0041869 奉呈
+	presentation WORD[10,   3]: 0.0041854 奉献
+TOKEN[11]: 0.0122729    3 present
+	present WORD[11,   1]: 0.0047447 奉ずる
+	present WORD[11,   2]: 0.0047444 奉じる
+	present WORD[11,   3]: 0.0027838 奉る
+TOKEN[12]: 0.0109630    2 serve
+	serve WORD[12,   1]: 0.0054817 奉ずる
+	serve WORD[12,   2]: 0.0054813 奉じる
+TOKEN[13]: 0.0108667    1 message
+	message WORD[13,   1]: 0.0108667 奉書
+TOKEN[14]: 0.0103214    2 follow
+	follow WORD[14,   1]: 0.0051609 奉ずる
+	follow WORD[14,   2]: 0.0051605 奉じる
+TOKEN[15]: 0.0103060    2 bear
+	bear WORD[15,   1]: 0.0051532 奉ずる
+	bear WORD[15,   2]: 0.0051528 奉じる
+TOKEN[16]: 0.0096668    2 respectful
+	respectful WORD[16,   1]: 0.0048344 奉読
+	respectful WORD[16,   2]: 0.0048324 奉賀
+TOKEN[17]: 0.0094694    2 dedication
+	dedication WORD[17,   1]: 0.0047356 奉納
+	dedication WORD[17,   2]: 0.0047338 奉献
+TOKEN[18]: 0.0091449    1 imperial
+	imperial WORD[18,   1]: 0.0091449 奉勅
+TOKEN[19]: 0.0087162    1 lord
+	lord WORD[19,   1]: 0.0087162 奉体
+TOKEN[20]: 0.0083573    2 paper
+	paper WORD[20,   1]: 0.0041813 奉幣
+	paper WORD[20,   2]: 0.0041760 奉書
+TOKEN[21]: 0.0083098    2 worship
+	worship WORD[21,   1]: 0.0041551 奉拝
+	worship WORD[21,   2]: 0.0041546 奉遷
+TOKEN[22]: 0.0080143    1 carrying
+	carrying WORD[22,   1]: 0.0080143 奉体
+TOKEN[23]: 0.0079154    1 wand
+	wand WORD[23,   1]: 0.0079154 奉幣
+TOKEN[24]: 0.0071060    2 given
+	given WORD[24,   1]: 0.0035530 奉賛
+	given WORD[24,   2]: 0.0035530 奉告
+TOKEN[25]: 0.0070276    2 holding
+	holding WORD[25,   1]: 0.0035138 奉持
+	holding WORD[25,   2]: 0.0035138 奉職
+TOKEN[26]: 0.0069319    2 offer
+	offer WORD[26,   1]: 0.0037550 奉献
+	offer WORD[26,   2]: 0.0031768 奉る
+TOKEN[27]: 0.0068464    2 attendance
+	attendance WORD[27,   1]: 0.0038526 奉仕
+	attendance WORD[27,   2]: 0.0029938 供奉
+TOKEN[28]: 0.0065384    2 serving
+	serving WORD[28,   1]: 0.0036793 奉職
+	serving WORD[28,   2]: 0.0028590 供奉
+TOKEN[29]: 0.0063191    2 shrine
+	shrine WORD[29,   1]: 0.0031597 奉賛
+	shrine WORD[29,   2]: 0.0031595 奉献
+TOKEN[30]: 0.0061329    1 shogun
+	shogun WORD[30,   1]: 0.0061329 奉書
+TOKEN[31]: 0.0060886    1 hemp
+	hemp WORD[31,   1]: 0.0060886 奉幣
+TOKEN[32]: 0.0060832    1 oblation
+	oblation WORD[32,   1]: 0.0060832 奉納
+TOKEN[33]: 0.0060297    1 public
+	public WORD[33,   1]: 0.0060297 奉公
+TOKEN[34]: 0.0057055    1 inquiring
+	inquiring WORD[34,   1]: 0.0057055 奉伺
+TOKEN[35]: 0.0057051    1 consecration
+	consecration WORD[35,   1]: 0.0057051 奉献
+TOKEN[36]: 0.0055186    2 high
+	high WORD[36,   1]: 0.0029899 奉呈
+	high WORD[36,   2]: 0.0025287 奉る
+TOKEN[37]: 0.0054552    1 magistrate
+	magistrate WORD[37,   1]: 0.0054552 奉行
+TOKEN[38]: 0.0054317    1 inner
+	inner WORD[38,   1]: 0.0054317 供奉
+TOKEN[39]: 0.0053297    1 enshrine
+	enshrine WORD[39,   1]: 0.0053297 奉祀
+TOKEN[40]: 0.0053182    1 Shinto
+	Shinto WORD[40,   1]: 0.0053182 奉幣
+TOKEN[41]: 0.0052153    2 one
+	one WORD[41,   1]: 0.0035949 奉体
+	one WORD[41,   2]: 0.0016204 奉伺
+TOKEN[42]: 0.0049493    1 god
+	god WORD[42,   1]: 0.0049493 奉幣
+TOKEN[43]: 0.0049450    1 espousal
+	espousal WORD[43,   1]: 0.0049450 信奉
+TOKEN[44]: 0.0048898    1 apprenticeship
+	apprenticeship WORD[44,   1]: 0.0048898 奉公
+TOKEN[45]: 0.0048329    1 church
+	church WORD[45,   1]: 0.0048329 奉仕
+TOKEN[46]: 0.0047341    1 providing
+	providing WORD[46,   1]: 0.0047341 奉仕
+TOKEN[47]: 0.0047079    1 administrator
+	administrator WORD[47,   1]: 0.0047079 奉行
+TOKEN[48]: 0.0045781    1 ministry
+	ministry WORD[48,   1]: 0.0045781 奉仕
+TOKEN[49]: 0.0045464    1 choosing
+	choosing WORD[49,   1]: 0.0045464 奉戴
+TOKEN[50]: 0.0045154    1 president
+	president WORD[50,   1]: 0.0045154 奉戴
+TOKEN[51]: 0.0044572    1 reduced
+	reduced WORD[51,   1]: 0.0044572 奉仕
+TOKEN[52]: 0.0044336    1 offerer
+	offerer WORD[52,   1]: 0.0044336 供奉
+TOKEN[53]: 0.0043578    1 donation
+	donation WORD[53,   1]: 0.0043578 奉加
+TOKEN[54]: 0.0043148    1 nobility
+	nobility WORD[54,   1]: 0.0043148 奉告
+TOKEN[55]: 0.0041965    2 someone
+	someone WORD[55,   1]: 0.0022736 奉呈
+	someone WORD[55,   2]: 0.0019229 奉る
+TOKEN[56]: 0.0041854    1 welcome
+	welcome WORD[56,   1]: 0.0041854 奉迎
+TOKEN[57]: 0.0041791    1 shogunate
+	shogunate WORD[57,   1]: 0.0041791 奉行
+TOKEN[58]: 0.0041548    1 nobleman
+	nobleman WORD[58,   1]: 0.0041548 奉戴
+TOKEN[59]: 0.0041249    1 throne
+	throne WORD[59,   1]: 0.0041249 奉答
+TOKEN[60]: 0.0040885    1 revere
+	revere WORD[60,   1]: 0.0040885 奉る
+TOKEN[61]: 0.0040681    1 celebration
+	celebration WORD[61,   1]: 0.0040681 奉祝
+TOKEN[62]: 0.0039824    1 domestic
+	domestic WORD[62,   1]: 0.0039824 奉公
+TOKEN[63]: 0.0039509    1 reply
+	reply WORD[63,   1]: 0.0039509 奉答
+TOKEN[64]: 0.0039001    1 status
+	status WORD[64,   1]: 0.0039001 奉呈
+TOKEN[65]: 0.0038980    1 observing
+	observing WORD[65,   1]: 0.0038980 遵奉
+TOKEN[66]: 0.0038535    1 seeing
+	seeing WORD[66,   1]: 0.0038535 奉送
+TOKEN[67]: 0.0038184    1 bearing
+	bearing WORD[67,   1]: 0.0038184 奉持
+TOKEN[68]: 0.0037939    1 singing
+	singing WORD[68,   1]: 0.0037939 奉唱
+TOKEN[69]: 0.0037937    1 health
+	health WORD[69,   1]: 0.0037937 奉伺
+TOKEN[70]: 0.0036998    1 leader
+	leader WORD[70,   1]: 0.0036998 奉戴
+TOKEN[71]: 0.0036961    1 adherence
+	adherence WORD[71,   1]: 0.0036961 信奉
+TOKEN[72]: 0.0036791    1 deity
+	deity WORD[72,   1]: 0.0036791 奉告
+TOKEN[73]: 0.0036673    1 organization
+	organization WORD[73,   1]: 0.0036673 奉戴
+TOKEN[74]: 0.0036180    1 duty
+	duty WORD[74,   1]: 0.0036180 奉公
+TOKEN[75]: 0.0035792    1 report
+	report WORD[75,   1]: 0.0035792 奉告
+TOKEN[76]: 0.0035337    1 moving
+	moving WORD[76,   1]: 0.0035337 奉遷
+TOKEN[77]: 0.0034911    1 object
+	object WORD[77,   1]: 0.0034911 奉遷
+TOKEN[78]: 0.0034815    1 picture
+	picture WORD[78,   1]: 0.0034815 奉持
+TOKEN[79]: 0.0034768    1 free
+	free WORD[79,   1]: 0.0034768 奉仕
+TOKEN[80]: 0.0034761    1 belief
+	belief WORD[80,   1]: 0.0034761 信奉
+TOKEN[81]: 0.0034341    1 support
+	support WORD[81,   1]: 0.0034341 奉賛
+TOKEN[82]: 0.0033653    1 faith
+	faith WORD[82,   1]: 0.0033653 信奉
+TOKEN[83]: 0.0033199    1 office
+	office WORD[83,   1]: 0.0033199 奉職
+TOKEN[84]: 0.0032885    1 reading
+	reading WORD[84,   1]: 0.0032885 奉読
+TOKEN[85]: 0.0032346    1 company
+	company WORD[85,   1]: 0.0032346 奉戴
+TOKEN[86]: 0.0032338    1 goods
+	goods WORD[86,   1]: 0.0032338 奉仕
+TOKEN[87]: 0.0032310    1 price
+	price WORD[87,   1]: 0.0032310 奉仕
+TOKEN[88]: 0.0031168    1 temple
+	temple WORD[88,   1]: 0.0031168 奉賛
+TOKEN[89]: 0.0030555    1 following
+	following WORD[89,   1]: 0.0030555 遵奉
+TOKEN[90]: 0.0030465    1 distance
+	distance WORD[90,   1]: 0.0030465 奉る
+TOKEN[91]: 0.0030151    1 hall
+	hall WORD[91,   1]: 0.0030151 供奉
+TOKEN[92]: 0.0027573    1 work
+	work WORD[92,   1]: 0.0027573 奉仕
+TOKEN[93]: 0.0025442    1 position
+	position WORD[93,   1]: 0.0025442 奉る
+TOKEN[94]: 0.0025411    1 set
+	set WORD[94,   1]: 0.0025411 奉る
+TOKEN[95]: 0.0023530    1 something
+	something WORD[95,   1]: 0.0023530 奉奠

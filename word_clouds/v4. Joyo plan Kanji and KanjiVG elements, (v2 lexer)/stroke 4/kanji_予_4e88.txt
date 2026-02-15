@@ -1,0 +1,328 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0564121    1 medical        : 予診
+0.0462080    5 preliminary    : 予震, 予審, 予選, 予告, 予稿
+0.0427738    6 prediction     : 予報, 予知, 予断, 予測, 予想, 予言
+0.0307007    4 forecast       : 予報, 予想, 予言, 予期
+0.0301776    1 prophecy       : 予言
+0.0269140    3 premonition    : 予感, 予知, 予覚
+0.0239609    1 tremor         : 予震
+0.0237723    2 examination    : 予診, 予審
+0.0225612    1 bell           : 予鈴
+0.0219934    5 advance        : 予約, 予納, 予察, 予告, 予め
+0.0214339    1 interview      : 予診
+0.0210711    2 hunch          : 予感, 予覚
+0.0175898    1 history        : 予診
+0.0171126    3 expectation    : 予定, 予想, 予期
+0.0167270    1 prognostication: 予言
+0.0157214    2 foreknowledge  : 予知, 予見
+0.0136815    4 time           : 予々, 予予, 猶予, 予て
+0.0131440    1 preparatory    : 予科
+0.0128146    2 foresight      : 予知, 予見
+0.0117745    2 anticipation   : 予想, 予期
+0.0116792    2 conjecture     : 予想, 予察
+0.0115578    1 prognosis      : 予後
+0.0112153    2 estimate       : 予定, 予算
+0.0110594    2 beforehand     : 予察, 予め
+0.0104919    2 preparation    : 予備, 予習
+0.0100849    1 religious      : 予言
+0.0097636    2 notice         : 予兆, 予告
+0.0094153    1 recuperation   : 予後
+0.0094043    1 unhappiness    : 不予
+0.0094043    1 indisposition  : 不予
+0.0092382    1 price          : 予価
+0.0089975    1 convalescence  : 予後
+0.0083933    1 presupposition : 予断
+0.0083933    1 prejudgment    : 予断
+0.0083653    1 trailer        : 予告
+0.0081566    1 probable       : 予価
+0.0079104    1 timer          : 予約
+0.0078747    1 foregone       : 予断
+0.0078424    1 presentiment   : 予感
+0.0078182    1 warning        : 予鈴
+0.0073561    1 intimation     : 予知
+0.0073357    1 guessing       : 予察
+0.0073258    1 foreboding     : 予覚
+0.0071651    1 preview        : 予告
+0.0070667    1 precaution     : 予防
+0.0067837    1 warming        : 予熱
+0.0067798    1 booking        : 予約
+0.0067671    1 deferment      : 猶予
+0.0067263    1 class          : 予鈴
+0.0067171    1 begin          : 予鈴
+0.0066469    1 abstract       : 予稿
+0.0066290    1 reservation    : 予約
+0.0065110    1 rehearsal      : 予行
+0.0064720    1 illness        : 不予
+0.0063654    1 primary        : 予選
+0.0063474    1 subscription   : 予約
+0.0063016    1 postponement   : 猶予
+0.0062134    1 budget         : 予算
+0.0061640    1 prevention     : 予防
+0.0060719    1 engine         : 予熱
+0.0060181    1 emperor        : 不予
+0.0060154    1 indication     : 予兆
+0.0059499    1 lesson         : 予習
+0.0059004    1 pledge         : 予約
+0.0058997    1 estimation     : 予測
+0.0057345    1 schedule       : 予定
+0.0057331    1 omen           : 予兆
+0.0057173    1 appointment    : 予約
+0.0057139    1 announcement   : 予告
+0.0056917    1 divination     : 予見
+0.0056742    1 extension      : 猶予
+0.0056164    1 hearing        : 予審
+0.0055916    1 department     : 予科
+0.0055061    1 device         : 予約
+0.0054827    1 program        : 予定
+0.0054774    1 draft          : 予稿
+0.0054647    1 trial          : 予選
+0.0054393    1 reserve        : 予備
+0.0053706    1 spare          : 予備
+0.0053529    1 protection     : 予防
+0.0052641    1 work           : 予鈴
+0.0052571    1 contest        : 予選
+0.0051556    1 previous       : 予告
+0.0051542    1 arrangement    : 予定
+0.0050921    1 contract       : 予約
+0.0050181    1 conclusion     : 予断
+0.0049537    1 film           : 予告
+0.0049262    1 setting        : 予約
+0.0048946    1 note           : 予告
+0.0048099    1 heat           : 予選
+0.0047704    1 payment        : 予納
+0.0047286    1 sign           : 予兆
+0.0046103    1 course         : 予科
+0.0044983    1 round          : 予選
+0.0041594    1 order          : 予約
+0.0031226    1 province       : 伊予
+0.0028783    1 former         : 伊予
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0564121    1 medical
+	medical WORD[ 1,   1]: 0.0564121 予診
+TOKEN[ 2]: 0.0462080    5 preliminary
+	preliminary WORD[ 2,   1]: 0.0222318 予震
+	preliminary WORD[ 2,   2]: 0.0061522 予審
+	preliminary WORD[ 2,   3]: 0.0059539 予選
+	preliminary WORD[ 2,   4]: 0.0059356 予告
+	preliminary WORD[ 2,   5]: 0.0059345 予稿
+TOKEN[ 3]: 0.0427738    6 prediction
+	prediction WORD[ 3,   1]: 0.0061273 予報
+	prediction WORD[ 3,   2]: 0.0061153 予知
+	prediction WORD[ 3,   3]: 0.0061153 予断
+	prediction WORD[ 3,   4]: 0.0061150 予測
+	prediction WORD[ 3,   5]: 0.0061138 予想
+	prediction WORD[ 3,   6]: 0.0060936 予言
+TOKEN[ 4]: 0.0307007    4 forecast
+	forecast WORD[ 4,   1]: 0.0061639 予報
+	forecast WORD[ 4,   2]: 0.0061503 予想
+	forecast WORD[ 4,   3]: 0.0061299 予言
+	forecast WORD[ 4,   4]: 0.0061266 予期
+TOKEN[ 5]: 0.0301776    1 prophecy
+	prophecy WORD[ 5,   1]: 0.0150888 予言
+TOKEN[ 6]: 0.0269140    3 premonition
+	premonition WORD[ 6,   1]: 0.0134431 予感
+	premonition WORD[ 6,   2]: 0.0067493 予知
+	premonition WORD[ 6,   3]: 0.0067216 予覚
+TOKEN[ 7]: 0.0239609    1 tremor
+	tremor WORD[ 7,   1]: 0.0239609 予震
+TOKEN[ 8]: 0.0237723    2 examination
+	examination WORD[ 8,   1]: 0.0184075 予診
+	examination WORD[ 8,   2]: 0.0053649 予審
+TOKEN[ 9]: 0.0225612    1 bell
+	bell WORD[ 9,   1]: 0.0225612 予鈴
+TOKEN[10]: 0.0219934    5 advance
+	advance WORD[10,   1]: 0.0047613 予約
+	advance WORD[10,   2]: 0.0047415 予納
+	advance WORD[10,   3]: 0.0047267 予察
+	advance WORD[10,   4]: 0.0047240 予告
+	advance WORD[10,   5]: 0.0030400 予め
+TOKEN[11]: 0.0214339    1 interview
+	interview WORD[11,   1]: 0.0214339 予診
+TOKEN[12]: 0.0210711    2 hunch
+	hunch WORD[12,   1]: 0.0140474 予感
+	hunch WORD[12,   2]: 0.0070237 予覚
+TOKEN[13]: 0.0175898    1 history
+	history WORD[13,   1]: 0.0175898 予診
+TOKEN[14]: 0.0171126    3 expectation
+	expectation WORD[14,   1]: 0.0057134 予定
+	expectation WORD[14,   2]: 0.0057106 予想
+	expectation WORD[14,   3]: 0.0056886 予期
+TOKEN[15]: 0.0167270    1 prognostication
+	prognostication WORD[15,   1]: 0.0083635 予言
+TOKEN[16]: 0.0157214    2 foreknowledge
+	foreknowledge WORD[16,   1]: 0.0078747 予知
+	foreknowledge WORD[16,   2]: 0.0078467 予見
+TOKEN[17]: 0.0136815    4 time
+	time WORD[17,   1]: 0.0038500 予々
+	time WORD[17,   2]: 0.0038500 予予
+	time WORD[17,   3]: 0.0035151 猶予
+	time WORD[17,   4]: 0.0024664 予て
+TOKEN[18]: 0.0131440    1 preparatory
+	preparatory WORD[18,   1]: 0.0131440 予科
+TOKEN[19]: 0.0128146    2 foresight
+	foresight WORD[19,   1]: 0.0064187 予知
+	foresight WORD[19,   2]: 0.0063959 予見
+TOKEN[20]: 0.0117745    2 anticipation
+	anticipation WORD[20,   1]: 0.0058986 予想
+	anticipation WORD[20,   2]: 0.0058758 予期
+TOKEN[21]: 0.0116792    2 conjecture
+	conjecture WORD[21,   1]: 0.0058470 予想
+	conjecture WORD[21,   2]: 0.0058322 予察
+TOKEN[22]: 0.0115578    1 prognosis
+	prognosis WORD[22,   1]: 0.0115578 予後
+TOKEN[23]: 0.0112153    2 estimate
+	estimate WORD[23,   1]: 0.0056161 予定
+	estimate WORD[23,   2]: 0.0055992 予算
+TOKEN[24]: 0.0110594    2 beforehand
+	beforehand WORD[24,   1]: 0.0067306 予察
+	beforehand WORD[24,   2]: 0.0043288 予め
+TOKEN[25]: 0.0104919    2 preparation
+	preparation WORD[25,   1]: 0.0052496 予備
+	preparation WORD[25,   2]: 0.0052423 予習
+TOKEN[26]: 0.0100849    1 religious
+	religious WORD[26,   1]: 0.0050424 予言
+TOKEN[27]: 0.0097636    2 notice
+	notice WORD[27,   1]: 0.0048900 予兆
+	notice WORD[27,   2]: 0.0048736 予告
+TOKEN[28]: 0.0094153    1 recuperation
+	recuperation WORD[28,   1]: 0.0094153 予後
+TOKEN[29]: 0.0094043    1 unhappiness
+	unhappiness WORD[29,   1]: 0.0094043 不予
+TOKEN[30]: 0.0094043    1 indisposition
+	indisposition WORD[30,   1]: 0.0094043 不予
+TOKEN[31]: 0.0092382    1 price
+	price WORD[31,   1]: 0.0092382 予価
+TOKEN[32]: 0.0089975    1 convalescence
+	convalescence WORD[32,   1]: 0.0089975 予後
+TOKEN[33]: 0.0083933    1 presupposition
+	presupposition WORD[33,   1]: 0.0083933 予断
+TOKEN[34]: 0.0083933    1 prejudgment
+	prejudgment WORD[34,   1]: 0.0083933 予断
+TOKEN[35]: 0.0083653    1 trailer
+	trailer WORD[35,   1]: 0.0083653 予告
+TOKEN[36]: 0.0081566    1 probable
+	probable WORD[36,   1]: 0.0081566 予価
+TOKEN[37]: 0.0079104    1 timer
+	timer WORD[37,   1]: 0.0079104 予約
+TOKEN[38]: 0.0078747    1 foregone
+	foregone WORD[38,   1]: 0.0078747 予断
+TOKEN[39]: 0.0078424    1 presentiment
+	presentiment WORD[39,   1]: 0.0078424 予感
+TOKEN[40]: 0.0078182    1 warning
+	warning WORD[40,   1]: 0.0078182 予鈴
+TOKEN[41]: 0.0073561    1 intimation
+	intimation WORD[41,   1]: 0.0073561 予知
+TOKEN[42]: 0.0073357    1 guessing
+	guessing WORD[42,   1]: 0.0073357 予察
+TOKEN[43]: 0.0073258    1 foreboding
+	foreboding WORD[43,   1]: 0.0073258 予覚
+TOKEN[44]: 0.0071651    1 preview
+	preview WORD[44,   1]: 0.0071651 予告
+TOKEN[45]: 0.0070667    1 precaution
+	precaution WORD[45,   1]: 0.0070667 予防
+TOKEN[46]: 0.0067837    1 warming
+	warming WORD[46,   1]: 0.0067837 予熱
+TOKEN[47]: 0.0067798    1 booking
+	booking WORD[47,   1]: 0.0067798 予約
+TOKEN[48]: 0.0067671    1 deferment
+	deferment WORD[48,   1]: 0.0067671 猶予
+TOKEN[49]: 0.0067263    1 class
+	class WORD[49,   1]: 0.0067263 予鈴
+TOKEN[50]: 0.0067171    1 begin
+	begin WORD[50,   1]: 0.0067171 予鈴
+TOKEN[51]: 0.0066469    1 abstract
+	abstract WORD[51,   1]: 0.0066469 予稿
+TOKEN[52]: 0.0066290    1 reservation
+	reservation WORD[52,   1]: 0.0066290 予約
+TOKEN[53]: 0.0065110    1 rehearsal
+	rehearsal WORD[53,   1]: 0.0065110 予行
+TOKEN[54]: 0.0064720    1 illness
+	illness WORD[54,   1]: 0.0064720 不予
+TOKEN[55]: 0.0063654    1 primary
+	primary WORD[55,   1]: 0.0063654 予選
+TOKEN[56]: 0.0063474    1 subscription
+	subscription WORD[56,   1]: 0.0063474 予約
+TOKEN[57]: 0.0063016    1 postponement
+	postponement WORD[57,   1]: 0.0063016 猶予
+TOKEN[58]: 0.0062134    1 budget
+	budget WORD[58,   1]: 0.0062134 予算
+TOKEN[59]: 0.0061640    1 prevention
+	prevention WORD[59,   1]: 0.0061640 予防
+TOKEN[60]: 0.0060719    1 engine
+	engine WORD[60,   1]: 0.0060719 予熱
+TOKEN[61]: 0.0060181    1 emperor
+	emperor WORD[61,   1]: 0.0060181 不予
+TOKEN[62]: 0.0060154    1 indication
+	indication WORD[62,   1]: 0.0060154 予兆
+TOKEN[63]: 0.0059499    1 lesson
+	lesson WORD[63,   1]: 0.0059499 予習
+TOKEN[64]: 0.0059004    1 pledge
+	pledge WORD[64,   1]: 0.0059004 予約
+TOKEN[65]: 0.0058997    1 estimation
+	estimation WORD[65,   1]: 0.0058997 予測
+TOKEN[66]: 0.0057345    1 schedule
+	schedule WORD[66,   1]: 0.0057345 予定
+TOKEN[67]: 0.0057331    1 omen
+	omen WORD[67,   1]: 0.0057331 予兆
+TOKEN[68]: 0.0057173    1 appointment
+	appointment WORD[68,   1]: 0.0057173 予約
+TOKEN[69]: 0.0057139    1 announcement
+	announcement WORD[69,   1]: 0.0057139 予告
+TOKEN[70]: 0.0056917    1 divination
+	divination WORD[70,   1]: 0.0056917 予見
+TOKEN[71]: 0.0056742    1 extension
+	extension WORD[71,   1]: 0.0056742 猶予
+TOKEN[72]: 0.0056164    1 hearing
+	hearing WORD[72,   1]: 0.0056164 予審
+TOKEN[73]: 0.0055916    1 department
+	department WORD[73,   1]: 0.0055916 予科
+TOKEN[74]: 0.0055061    1 device
+	device WORD[74,   1]: 0.0055061 予約
+TOKEN[75]: 0.0054827    1 program
+	program WORD[75,   1]: 0.0054827 予定
+TOKEN[76]: 0.0054774    1 draft
+	draft WORD[76,   1]: 0.0054774 予稿
+TOKEN[77]: 0.0054647    1 trial
+	trial WORD[77,   1]: 0.0054647 予選
+TOKEN[78]: 0.0054393    1 reserve
+	reserve WORD[78,   1]: 0.0054393 予備
+TOKEN[79]: 0.0053706    1 spare
+	spare WORD[79,   1]: 0.0053706 予備
+TOKEN[80]: 0.0053529    1 protection
+	protection WORD[80,   1]: 0.0053529 予防
+TOKEN[81]: 0.0052641    1 work
+	work WORD[81,   1]: 0.0052641 予鈴
+TOKEN[82]: 0.0052571    1 contest
+	contest WORD[82,   1]: 0.0052571 予選
+TOKEN[83]: 0.0051556    1 previous
+	previous WORD[83,   1]: 0.0051556 予告
+TOKEN[84]: 0.0051542    1 arrangement
+	arrangement WORD[84,   1]: 0.0051542 予定
+TOKEN[85]: 0.0050921    1 contract
+	contract WORD[85,   1]: 0.0050921 予約
+TOKEN[86]: 0.0050181    1 conclusion
+	conclusion WORD[86,   1]: 0.0050181 予断
+TOKEN[87]: 0.0049537    1 film
+	film WORD[87,   1]: 0.0049537 予告
+TOKEN[88]: 0.0049262    1 setting
+	setting WORD[88,   1]: 0.0049262 予約
+TOKEN[89]: 0.0048946    1 note
+	note WORD[89,   1]: 0.0048946 予告
+TOKEN[90]: 0.0048099    1 heat
+	heat WORD[90,   1]: 0.0048099 予選
+TOKEN[91]: 0.0047704    1 payment
+	payment WORD[91,   1]: 0.0047704 予納
+TOKEN[92]: 0.0047286    1 sign
+	sign WORD[92,   1]: 0.0047286 予兆
+TOKEN[93]: 0.0046103    1 course
+	course WORD[93,   1]: 0.0046103 予科
+TOKEN[94]: 0.0044983    1 round
+	round WORD[94,   1]: 0.0044983 予選
+TOKEN[95]: 0.0041594    1 order
+	order WORD[95,   1]: 0.0041594 予約
+TOKEN[96]: 0.0031226    1 province
+	province WORD[96,   1]: 0.0031226 伊予
+TOKEN[97]: 0.0028783    1 former
+	former WORD[97,   1]: 0.0028783 伊予

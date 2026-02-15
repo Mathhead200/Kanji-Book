@@ -1,0 +1,1349 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0752877   71 meat           : ほほ肉, 頬肉, 肉々しい, 肉肉しい, 猫肉, 肉たたき, 肉叩き, 腐肉, 固まり肉, 塊肉, ...
+0.0600362    9 rot            : 貴腐, 水腐れ, 尻腐れ, 腐らす, 腐蝕, 腐食, 腐朽, 腐れる, 腐る
+0.0283824    1 Botrytis       : 貴腐
+0.0274086   24 flesh          : 猫肉, 腐肉, 白肉, 肉, 犬肉, 屍肉, 死肉, 骨肉, 血肉, 肉塊, ...
+0.0266286    1 cinerea        : 貴腐
+0.0231210    1 infection      : 貴腐
+0.0212177    7 decay          : 水腐れ, 防腐, 腐敗, 腐蝕, 腐食, 腐る, 腐り
+0.0177437    1 noble          : 貴腐
+0.0170715    3 meaty          : 肉々しい, 肉肉しい, 肉厚
+0.0157655    2 juicy          : 肉々しい, 肉肉しい
+0.0149358    3 rib            : 肋肉, ばら肉, バラ肉
+0.0140933    2 cheek          : ほほ肉, 頬肉
+0.0138009    1 water          : 水腐れ
+0.0134337    2 tofu           : 腐乳, 豆腐
+0.0125713    3 due            : 水腐れ, ふて腐れる, 不貞腐れる
+0.0123714    4 excess         : 水腐れ, 正肉, ぜい肉, 贅肉
+0.0110490    5 become         : 腐る, ふて腐れる, 不貞腐れる, まじめ腐る, 真面目腐る
+0.0108086    1 cat            : 猫肉
+0.0107817    2 solemn         : まじめ腐る, 真面目腐る
+0.0081353    3 boneless       : 肋肉, ばら肉, バラ肉
+0.0081353    3 boned          : 肋肉, ばら肉, バラ肉
+0.0080202    2 rotten         : 腐臭, 腐れ
+0.0079052    6 pork           : 肋肉, 回鍋肉, ばら肉, バラ肉, ぶた肉, 豚肉
+0.0072934    5 beef           : 肋肉, 肉牛, ばら肉, バラ肉, 牛肉
+0.0069806    6 pad            : 黒肉, 肉球, 印肉, 肉池, 朱肉, 肉
+0.0065451    3 carrion        : 腐肉, 屍肉, 死肉
+0.0064823    3 corrode        : 腐らす, 腐れる, 腐る
+0.0063667    3 decomposition  : 腐乱, 腐爛, 腐敗
+0.0061068    4 ink            : 黒肉, 朱肉, 印肉, 肉
+0.0059239    2 putrefaction   : 防腐, 腐敗
+0.0058617    1 bivalve        : 肉柱
+0.0058429    3 jerky          : 乾し肉, 干し肉, 乾肉
+0.0056358    1 adductor       : 肉柱
+0.0051728    1 black          : 黒肉
+0.0051406    2 assume         : まじめ腐る, 真面目腐る
+0.0049862    3 spoil          : 腐らす, 腐れる, 腐る
+0.0048051    2 disgruntlement : ふて腐れる, 不貞腐れる
+0.0048051    2 sulkiness      : ふて腐れ, 不貞腐れ
+0.0047986    2 etching        : 腐蝕, 腐食
+0.0047784    2 muscle         : 肉柱, 肉離れ
+0.0047426    2 attitude       : まじめ腐る, 真面目腐る
+0.0046517    2 serious        : まじめ腐る, 真面目腐る
+0.0045456    1 smell          : 腐臭
+0.0045053    2 ulceration     : 腐乱, 腐爛
+0.0044812    4 dried          : 乾し肉, 干し肉, 乾肉, 梅肉
+0.0041653    3 pussy          : 肉壺, 肉ヒダ, 肉襞
+0.0041549    2 air            : まじめ腐る, 真面目腐る
+0.0040867    3 stamp          : 黒肉, 肉池, 印肉
+0.0040648    2 corrosion      : 腐蝕, 腐食
+0.0039954    2 mallet         : 肉たたき, 肉叩き
+0.0039871    2 sulky          : ふて腐れる, 不貞腐れる
+0.0039505    2 irresponsible  : ふて腐れる, 不貞腐れる
+0.0038535    2 worthless      : 腐儒, 腐れ
+0.0037517    1 embalmment     : 防腐
+0.0037517    1 antisepsis     : 防腐
+0.0037265    2 erosion        : 腐蝕, 腐食
+0.0036881    1 humus          : 腐植
+0.0036850    2 rust           : 腐蝕, 腐食
+0.0036801    1 pedant         : 腐儒
+0.0036791    2 look           : まじめ腐る, 真面目腐る
+0.0036566    1 sealing        : 黒肉
+0.0036507    2 dog            : 犬肉, 狗肉
+0.0035810    1 venison        : 鹿肉
+0.0034432    1 pot            : 肉鍋
+0.0033857    2 breast         : むね肉, 胸肉
+0.0033540    1 rumen          : 白肉
+0.0032933    6 chicken        : 正肉, むね肉, 胸肉, とり肉, 鳥肉, 鶏肉
+0.0032308    6 fat            : 正肉, 肉づく, 肉付く, 太り肉, ぜい肉, 贅肉
+0.0031946    2 corruption     : 腐敗, 腐り
+0.0031629    4 fruit          : 白肉, 多肉, 肉, 果肉
+0.0031443    2 trouble        : 後腐れ, 腐心
+0.0031364    1 dilapidation   : 立ち腐れ
+0.0030837    8 body           : 肉塊, 霊肉, 肉叢, 骨肉, 血肉, 皮肉, 肉体, 肉
+0.0030166    3 white          : 白肉, むね肉, 胸肉
+0.0029843    1 discourage     : 腐らす
+0.0029843    1 dishearten     : 腐らす
+0.0029395    1 tripe          : 白肉
+0.0028855    1 deer           : 鹿肉
+0.0028690    1 preservation   : 防腐
+0.0028510    1 unused         : 持ち腐れ
+0.0028404    1 hackneyed      : 陳腐
+0.0028070    5 ham            : 脾肉, 髀肉, もも肉, 股肉, 腿肉
+0.0027823    1 stale          : 陳腐
+0.0027498    1 prevention     : 防腐
+0.0027141    1 scholar        : 腐儒
+0.0026311    4 fleshiness     : 肉づき, 肉質, 肉付き, 肉置き
+0.0025630    2 dick           : 肉茎, 肉棒
+0.0025624    1 putrescence    : 腐敗
+0.0025450    1 possession     : 持ち腐れ
+0.0025200    1 cinnamon       : 肉桂
+0.0024967    3 blood          : 血肉, 骨肉, 肉親
+0.0024717    2 chunk          : 固まり肉, 塊肉
+0.0024041    1 spoilage       : 腐敗
+0.0023993    1 racking        : 腐心
+0.0023216    5 physical       : 肉的, 肉界, 肉眼, 肉感, 肉
+0.0023177    1 cow            : 白肉
+0.0023114    1 degeneracy     : 腐敗
+0.0022993    2 cock           : 肉茎, 肉棒
+0.0022962    2 shank          : すね肉, スネ肉
+0.0022419    1 punishment     : 肉刑
+0.0021976    1 feel           : 腐る
+0.0021814    2 corporal       : 肉刑, 肉的
+0.0021531    1 depravity      : 腐敗
+0.0021053    4 poultry        : 赤肉, とり肉, 鳥肉, 鶏肉
+0.0020960    2 pressing       : 肉薄, 肉迫
+0.0020554    3 thigh          : 赤肉, 脾肉, 髀肉
+0.0020027    1 rotting        : 腐れ
+0.0020027    1 corroding      : 腐れ
+0.0020026    1 decompose      : 腐る
+0.0020026    1 rottenness     : 腐り
+0.0019994    3 taking         : 腐心, 肉薄, 肉迫
+0.0019557    1 brains         : 腐心
+0.0019364    4 leg            : 赤肉, もも肉, 股肉, 腿肉
+0.0019154    1 plum           : 梅肉
+0.0018949    2 pulp           : 梅肉, 肉
+0.0018948    2 stew           : 肉じゃが, 肉ジャガ
+0.0018944    1 deterioration  : 腐朽
+0.0018725    6 one            : 腐心, 骨肉, 皮肉, 肉筆, 血肉, 肉体
+0.0018717    2 potato         : 肉じゃが, 肉ジャガ
+0.0018596    1 pan            : 肉鍋
+0.0018528    1 mutilation     : 肉刑
+0.0018436    1 curd           : 豆腐
+0.0018206    5 round          : 脾肉, 髀肉, もも肉, 股肉, 腿肉
+0.0018065    1 sopping        : 腐る
+0.0017736    1 let            : 腐らす
+0.0017552    1 inseparable    : 腐れ縁
+0.0017552    1 spoiling       : 腐れ
+0.0017551    1 bankrupt       : 腐る
+0.0017544    1 cause          : 腐らす
+0.0017322    1 future         : 後腐れ
+0.0017217    2 joint          : 固まり肉, 塊肉
+0.0017153    1 audacity       : 腐る
+0.0017153    1 fester         : 腐る
+0.0017121    1 cooking        : 肉鍋
+0.0016811    3 red            : 朱肉, 赤肉, 薄肉
+0.0016624    3 carnal         : 肉慾, 肉欲, 肉感
+0.0016596    2 hard           : 肉薄, 肉迫
+0.0016553    1 paltry         : 腐れ
+0.0016552    1 crumble        : 腐る
+0.0016552    1 depraved       : 腐る
+0.0016540    1 leave          : 腐らす
+0.0016450    2 human          : 肉塊, 人肉
+0.0016362    2 something      : 腐臭, 皮肉
+0.0016104    1 contemptible   : 腐れ
+0.0016000    1 mesophyll      : 葉肉
+0.0015915    1 weaken         : 腐る
+0.0015746    1 undesirable    : 腐れ縁
+0.0015724    1 granulation    : 肉芽
+0.0015718    1 pedicel        : 肉茎
+0.0015718    1 pedicle        : 肉茎
+0.0015583    1 effort         : 腐心
+0.0015444    3 piece          : 肉塊, 肉片, 肉叢
+0.0015340    1 lot            : 腐心
+0.0015315    1 dispirited     : 腐る
+0.0015123    2 dead           : 屍肉, 死肉
+0.0015090    1 hot            : 肉鍋
+0.0014968    1 bet            : 腐る
+0.0014866    1 degenerate     : 腐る
+0.0014818    2 relationship   : 腐れ縁, 肉親
+0.0014700    3 dish           : 回鍋肉, 焼き肉, 焼肉
+0.0014618    1 cockscomb      : 肉冠
+0.0014591    1 corrupt        : 腐る
+0.0014508    1 sour           : 腐る
+0.0014179    1 peduncle       : 肉茎
+0.0014176    2 lump           : 肉塊, 肉叢
+0.0014142    1 blunt          : 腐る
+0.0014075    1 bean           : 豆腐
+0.0014062    1 person         : 目腐れ
+0.0013925    3 substance      : 肉づけ, 肉付け, 肉
+0.0013839    1 depressed      : 腐る
+0.0013674    3 grilled        : 肉汁, 焼き肉, 焼肉
+0.0013580    1 useless        : 腐る
+0.0013474    3 build          : 肉づき, 中肉, 肉付き
+0.0013472    1 radical        : 肉月
+0.0013420    2 whale          : 尾肉, 鯨肉
+0.0013337    3 animal         : 獣肉, 肉慾, 肉欲
+0.0012946    3 quality        : 肉質, 中肉, 精肉
+0.0012938    1 lack           : 腐る
+0.0012872    1 milk           : 腐る
+0.0012785    1 making         : 腐心
+0.0012754    3 relative       : 骨肉, 血肉, 肉親
+0.0012747    1 wet            : 腐る
+0.0012741    3 bone           : 骨肉, 枝肉, 皮肉
+0.0012600    1 Cinnamomum     : 肉桂
+0.0012572    1 speak          : 腐す
+0.0012545    1 ill            : 腐す
+0.0012219    1 great          : 腐心
+0.0011769    1 paw            : 肉球
+0.0011752    1 practice       : 腐る
+0.0011684    1 weather        : 腐る
+0.0011535    2 pig            : 脾肉, 髀肉
+0.0011440    1 steak          : 青椒肉絲
+0.0011366    2 gain           : 肉づく, 肉付く
+0.0011351    1 comb           : 肉冠
+0.0011344    3 fowl           : とり肉, 鳥肉, 鶏肉
+0.0011328    1 incarnation    : 受肉
+0.0011321    1 mutton         : 羊肉
+0.0011295    1 lose           : 腐る
+0.0011267    1 horse          : 桜肉
+0.0011195    2 sexual         : 柔肉, 肉感
+0.0010915    2 lust           : 肉慾, 肉欲
+0.0010867    1 smoked         : 燻肉
+0.0010862    1 crest          : 肉冠
+0.0010668    1 bad            : 腐る
+0.0010599    1 Christ         : 受肉
+0.0010546    1 lamb           : 羊肉
+0.0010519    2 barbecue       : 焼き肉, 焼肉
+0.0010416    1 thinning       : 減肉
+0.0010379    2 weight         : 肉づく, 肉付く
+0.0010320    2 fleshy         : 多肉, 肉厚
+0.0010313    1 offal          : くず肉
+0.0010176    1 salted         : 肉醤
+0.0010169    1 context        : 柔肉
+0.0010028    2 task           : 肉薄, 肉迫
+0.0009923    1 medium         : 中肉
+0.0009880    2 skin           : 正肉, 皮肉
+0.0009837    1 turn           : 腐る
+0.0009734    2 fleshing       : 肉づけ, 肉付け
+0.0009729    1 sole           : 肉球
+0.0009510    2 degree         : 肉づき, 肉付き
+0.0009456    1 tail           : 尾肉
+0.0009316    1 shellfish      : 貝肉
+0.0009188    2 question       : 肉薄, 肉迫
+0.0009030    2 fish           : 肉醤, 魚肉
+0.0008956    1 pepper         : 青椒肉絲
+0.0008886    2 modeling       : 肉づけ, 肉付け
+0.0008846    1 corn           : 肉刺
+0.0008797    2 grill          : 焼き肉, 焼肉
+0.0008719    1 butcher        : 肉屋
+0.0008676    1 go             : 腐る
+0.0008587    1 blister        : 肉刺
+0.0008557    1 soft           : 柔肉
+0.0008557    2 enemy          : 肉薄, 肉迫
+0.0008532    1 pipe           : 減肉
+0.0008515    3 ground         : ひき肉, 挽き肉, 挽肉
+0.0008421    2 coming         : 肉薄, 肉迫
+0.0008418    2 type           : 肉細, 肉太
+0.0008342    1 thickness      : 肉
+0.0008335    2 first          : 肉薄, 肉迫
+0.0008210    3 bird           : とり肉, 鳥肉, 鶏肉
+0.0008192    2 put            : 肉づく, 肉付く
+0.0008156    1 sinewy         : 筋肉
+0.0007934    2 bun            : 肉まん, 肉饅
+0.0007864    1 bouillon       : 肉汁
+0.0007851    1 waste          : くず肉
+0.0007754    2 Korean         : 焼き肉, 焼肉
+0.0007590    2 made           : 脾肉, 髀肉
+0.0007479    1 corpulent      : 太り肉
+0.0007383    2 similar        : 焼き肉, 焼肉
+0.0007378    1 attacker       : 肉弾
+0.0007378    1 gravy          : 肉汁
+0.0007299    1 succulent      : 多肉
+0.0007218    1 remark         : 皮肉る
+0.0007162    1 dark           : 赤肉
+0.0007145    1 plumpness      : 肉置き
+0.0007133    2 fresh          : 鮮肉, 生肉
+0.0007114    1 wall           : 減肉
+0.0007084    2 thick          : 朱肉, 肉厚
+0.0007006    1 tree           : 肉桂
+0.0006905    1 kinsman        : 骨肉
+0.0006890    1 sensual        : 肉界
+0.0006890    1 bulbil         : 肉芽
+0.0006883    2 surplus        : ぜい肉, 贅肉
+0.0006821    1 gingiva        : 歯肉
+0.0006814    2 filling        : 肉まん, 肉饅
+0.0006799    1 green          : 青椒肉絲
+0.0006759    2 place          : 肉薄, 肉迫
+0.0006702    1 content        : 肉
+0.0006698    1 chubby         : 太り肉
+0.0006299    1 eating         : 肉食
+0.0006270    1 sarcoma        : 肉腫
+0.0006251    1 autograph      : 肉筆
+0.0006223    1 opposed        : 肉
+0.0005948    1 shop           : 肉屋
+0.0005902    2 giving         : 肉づけ, 肉付け
+0.0005789    1 cinnabar       : 朱肉
+0.0005728    1 eye            : 肉眼
+0.0005697    1 holder         : 肉池
+0.0005681    1 feeling        : 肉感
+0.0005664    1 tissue         : 肉芽
+0.0005615    1 soul           : 霊肉
+0.0005502    1 cattle         : 肉牛
+0.0005495    1 cynical        : 皮肉る
+0.0005495    1 cynicism       : 皮肉
+0.0005472    1 carcass        : 枝肉
+0.0005461    2 plan           : 肉づけ, 肉付け
+0.0005442    1 spirit         : 肉
+0.0005333    1 suicide        : 肉弾
+0.0005279    1 handwriting    : 肉筆
+0.0005261    1 scrap          : 肉粉
+0.0005187    1 carnivorous    : 肉食
+0.0005018    1 signature      : 朱肉
+0.0004867    1 microphone     : 肉声
+0.0004837    1 soup           : 肉汁
+0.0004816    1 satirize       : 皮肉る
+0.0004816    1 satire         : 皮肉
+0.0004816    1 irony          : 皮肉
+0.0004797    1 dressed        : 枝肉
+0.0004725    1 moon           : 肉月
+0.0004667    2 Japanese       : 焼き肉, 焼肉
+0.0004654    1 make           : 皮肉る
+0.0004617    1 sarcasm        : 皮肉
+0.0004595    1 brush          : 肉筆
+0.0004538    1 meal           : 肉粉
+0.0004524    1 case           : 肉入れ
+0.0004503    1 written        : 肉筆
+0.0004497    1 relation       : 血肉
+0.0004395    1 cold           : 冷肉
+0.0004369    1 hurting        : 苦肉
+0.0004277    1 alcohol        : 酒肉
+0.0004202    1 sarcastic      : 皮肉る
+0.0004153    1 left           : 肉月
+0.0004123    1 torn           : 肉離れ
+0.0004054    1 world          : 肉界
+0.0003981    1 mock           : 皮肉る
+0.0003981    1 superficial    : 皮肉
+0.0003900    1 close          : 血肉
+0.0003879    1 drink          : 酒肉
+0.0003858    1 plant          : 多肉
+0.0003850    1 goods          : 精肉
+0.0003829    1 adversary      : 苦肉
+0.0003768    1 cut            : 肉片
+0.0003718    1 diet           : 肉食
+0.0003681    1 physique       : 肉体
+0.0003550    1 unexpected     : 皮肉
+0.0003538    1 consumption    : 食肉
+0.0003470    1 naked          : 肉眼
+0.0003289    1 food           : 酒肉
+0.0003286    1 outer          : 肉体
+0.0003210    1 good           : 精肉
+0.0003202    1 small          : 精肉
+0.0003112    1 desire         : 肉感
+0.0003005    1 natural        : 肉声
+0.0003000    1 used           : 朱肉
+0.0002985    1 surface        : 皮肉
+0.0002985    1 different      : 皮肉
+0.0002981    1 duck           : 鴨肉
+0.0002962    1 light          : 薄肉
+0.0002919    1 raw            : 生肉
+0.0002776    1 voice          : 肉声
+0.0002599    1 man            : 肉体
+0.0002568    1 bear           : 熊肉
+0.0002531    1 trick          : 苦肉
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0752877   71 meat
+	meat WORD[ 1,   1]: 0.0048694 ほほ肉
+	meat WORD[ 1,   2]: 0.0048690 頬肉
+	meat WORD[ 1,   3]: 0.0048241 肉々しい
+	meat WORD[ 1,   4]: 0.0048240 肉肉しい
+	meat WORD[ 1,   5]: 0.0046822 猫肉
+	meat WORD[ 1,   6]: 0.0027608 肉たたき
+	meat WORD[ 1,   7]: 0.0027607 肉叩き
+	meat WORD[ 1,   8]: 0.0023383 腐肉
+	meat WORD[ 1,   9]: 0.0014783 固まり肉
+	meat WORD[ 1,  10]: 0.0014783 塊肉
+	meat WORD[ 1,  11]: 0.0014755 肉鍋
+	meat WORD[ 1,  12]: 0.0013604 くず肉
+	meat WORD[ 1,  13]: 0.0013584 赤肉
+	meat WORD[ 1,  14]: 0.0013472 むね肉
+	meat WORD[ 1,  15]: 0.0013471 胸肉
+	meat WORD[ 1,  16]: 0.0013392 乾し肉
+	meat WORD[ 1,  17]: 0.0013391 干し肉
+	meat WORD[ 1,  18]: 0.0011402 桜肉
+	meat WORD[ 1,  19]: 0.0009451 犬肉
+	meat WORD[ 1,  20]: 0.0008392 脾肉
+	meat WORD[ 1,  21]: 0.0008392 髀肉
+	meat WORD[ 1,  22]: 0.0008246 肉片
+	meat WORD[ 1,  23]: 0.0008246 肉粉
+	meat WORD[ 1,  24]: 0.0008244 肉汁
+	meat WORD[ 1,  25]: 0.0008163 乾肉
+	meat WORD[ 1,  26]: 0.0008157 肉食
+	meat WORD[ 1,  27]: 0.0008074 肉醤
+	meat WORD[ 1,  28]: 0.0007589 精肉
+	meat WORD[ 1,  29]: 0.0007495 肉叢
+	meat WORD[ 1,  30]: 0.0007387 すね肉
+	meat WORD[ 1,  31]: 0.0007387 スネ肉
+	meat WORD[ 1,  32]: 0.0007127 肉じゃが
+	meat WORD[ 1,  33]: 0.0007127 肉ジャガ
+	meat WORD[ 1,  34]: 0.0007094 貝肉
+	meat WORD[ 1,  35]: 0.0007090 肉塊
+	meat WORD[ 1,  36]: 0.0007084 燻肉
+	meat WORD[ 1,  37]: 0.0006789 正肉
+	meat WORD[ 1,  38]: 0.0006746 肉類
+	meat WORD[ 1,  39]: 0.0006648 青椒肉絲
+	meat WORD[ 1,  40]: 0.0006579 羊肉
+	meat WORD[ 1,  41]: 0.0006579 狗肉
+	meat WORD[ 1,  42]: 0.0006291 焼き肉
+	meat WORD[ 1,  43]: 0.0006291 焼肉
+	meat WORD[ 1,  44]: 0.0005900 畜肉
+	meat WORD[ 1,  45]: 0.0005718 ひき肉
+	meat WORD[ 1,  46]: 0.0005718 挽き肉
+	meat WORD[ 1,  47]: 0.0005718 挽肉
+	meat WORD[ 1,  48]: 0.0005331 とり肉
+	meat WORD[ 1,  49]: 0.0005331 鳥肉
+	meat WORD[ 1,  50]: 0.0004904 生肉
+	meat WORD[ 1,  51]: 0.0004614 鶏肉
+	meat WORD[ 1,  52]: 0.0004455 冷肉
+	meat WORD[ 1,  53]: 0.0004122 肉月
+	meat WORD[ 1,  54]: 0.0004122 肉質
+	meat WORD[ 1,  55]: 0.0003983 中肉
+	meat WORD[ 1,  56]: 0.0003956 鮮肉
+	meat WORD[ 1,  57]: 0.0003725 酒肉
+	meat WORD[ 1,  58]: 0.0003609 枝肉
+	meat WORD[ 1,  59]: 0.0003136 もも肉
+	meat WORD[ 1,  60]: 0.0003136 股肉
+	meat WORD[ 1,  61]: 0.0003136 腿肉
+	meat WORD[ 1,  62]: 0.0002720 肉屋
+	meat WORD[ 1,  63]: 0.0002719 肉まん
+	meat WORD[ 1,  64]: 0.0002719 肉饅
+	meat WORD[ 1,  65]: 0.0002719 肉
+	meat WORD[ 1,  66]: 0.0002404 食肉
+	meat WORD[ 1,  67]: 0.0002313 鯨肉
+	meat WORD[ 1,  68]: 0.0002291 熊肉
+	meat WORD[ 1,  69]: 0.0002280 魚肉
+	meat WORD[ 1,  70]: 0.0002278 筋肉
+	meat WORD[ 1,  71]: 0.0002233 鴨肉
+TOKEN[ 2]: 0.0600362    9 rot
+	rot WORD[ 2,   1]: 0.0220951 貴腐
+	rot WORD[ 2,   2]: 0.0125134 水腐れ
+	rot WORD[ 2,   3]: 0.0113890 尻腐れ
+	rot WORD[ 2,   4]: 0.0049524 腐らす
+	rot WORD[ 2,   5]: 0.0019908 腐蝕
+	rot WORD[ 2,   6]: 0.0019908 腐食
+	rot WORD[ 2,   7]: 0.0019866 腐朽
+	rot WORD[ 2,   8]: 0.0015591 腐れる
+	rot WORD[ 2,   9]: 0.0015590 腐る
+TOKEN[ 3]: 0.0283824    1 Botrytis
+	Botrytis WORD[ 3,   1]: 0.0283824 貴腐
+TOKEN[ 4]: 0.0274086   24 flesh
+	flesh WORD[ 4,   1]: 0.0059562 猫肉
+	flesh WORD[ 4,   2]: 0.0029745 腐肉
+	flesh WORD[ 4,   3]: 0.0022364 白肉
+	flesh WORD[ 4,   4]: 0.0013834 肉
+	flesh WORD[ 4,   5]: 0.0012023 犬肉
+	flesh WORD[ 4,   6]: 0.0009318 屍肉
+	flesh WORD[ 4,   7]: 0.0009318 死肉
+	flesh WORD[ 4,   8]: 0.0009209 骨肉
+	flesh WORD[ 4,   9]: 0.0009132 血肉
+	flesh WORD[ 4,  10]: 0.0009019 肉塊
+	flesh WORD[ 4,  11]: 0.0009006 柔肉
+	flesh WORD[ 4,  12]: 0.0008981 人肉
+	flesh WORD[ 4,  13]: 0.0008369 狗肉
+	flesh WORD[ 4,  14]: 0.0005834 肉づく
+	flesh WORD[ 4,  15]: 0.0005834 肉付く
+	flesh WORD[ 4,  16]: 0.0005651 獣肉
+	flesh WORD[ 4,  17]: 0.0005245 肉慾
+	flesh WORD[ 4,  18]: 0.0005245 肉欲
+	flesh WORD[ 4,  19]: 0.0005242 肉芽
+	flesh WORD[ 4,  20]: 0.0004767 肉叢
+	flesh WORD[ 4,  21]: 0.0003459 肉体
+	flesh WORD[ 4,  22]: 0.0003131 ぜい肉
+	flesh WORD[ 4,  23]: 0.0003131 贅肉
+	flesh WORD[ 4,  24]: 0.0002833 果肉
+TOKEN[ 5]: 0.0266286    1 cinerea
+	cinerea WORD[ 5,   1]: 0.0266286 貴腐
+TOKEN[ 6]: 0.0231210    1 infection
+	infection WORD[ 6,   1]: 0.0231210 貴腐
+TOKEN[ 7]: 0.0212177    7 decay
+	decay WORD[ 7,   1]: 0.0108244 水腐れ
+	decay WORD[ 7,   2]: 0.0025264 防腐
+	decay WORD[ 7,   3]: 0.0017255 腐敗
+	decay WORD[ 7,   4]: 0.0017221 腐蝕
+	decay WORD[ 7,   5]: 0.0017221 腐食
+	decay WORD[ 7,   6]: 0.0013486 腐る
+	decay WORD[ 7,   7]: 0.0013485 腐り
+TOKEN[ 8]: 0.0177437    1 noble
+	noble WORD[ 8,   1]: 0.0177437 貴腐
+TOKEN[ 9]: 0.0170715    3 meaty
+	meaty WORD[ 9,   1]: 0.0083019 肉々しい
+	meaty WORD[ 9,   2]: 0.0083017 肉肉しい
+	meaty WORD[ 9,   3]: 0.0004679 肉厚
+TOKEN[10]: 0.0157655    2 juicy
+	juicy WORD[10,   1]: 0.0078828 肉々しい
+	juicy WORD[10,   2]: 0.0078826 肉肉しい
+TOKEN[11]: 0.0149358    3 rib
+	rib WORD[11,   1]: 0.0125232 肋肉
+	rib WORD[11,   2]: 0.0012063 ばら肉
+	rib WORD[11,   3]: 0.0012063 バラ肉
+TOKEN[12]: 0.0140933    2 cheek
+	cheek WORD[12,   1]: 0.0070470 ほほ肉
+	cheek WORD[12,   2]: 0.0070464 頬肉
+TOKEN[13]: 0.0138009    1 water
+	water WORD[13,   1]: 0.0138009 水腐れ
+TOKEN[14]: 0.0134337    2 tofu
+	tofu WORD[14,   1]: 0.0119365 腐乳
+	tofu WORD[14,   2]: 0.0014972 豆腐
+TOKEN[15]: 0.0125713    3 due
+	due WORD[15,   1]: 0.0095336 水腐れ
+	due WORD[15,   2]: 0.0015188 ふて腐れる
+	due WORD[15,   3]: 0.0015188 不貞腐れる
+TOKEN[16]: 0.0123714    4 excess
+	excess WORD[16,   1]: 0.0108617 水腐れ
+	excess WORD[16,   2]: 0.0008752 正肉
+	excess WORD[16,   3]: 0.0003173 ぜい肉
+	excess WORD[16,   4]: 0.0003173 贅肉
+TOKEN[17]: 0.0110490    5 become
+	become WORD[17,   1]: 0.0027792 腐る
+	become WORD[17,   2]: 0.0023692 ふて腐れる
+	become WORD[17,   3]: 0.0023692 不貞腐れる
+	become WORD[17,   4]: 0.0017657 まじめ腐る
+	become WORD[17,   5]: 0.0017657 真面目腐る
+TOKEN[18]: 0.0108086    1 cat
+	cat WORD[18,   1]: 0.0108086 猫肉
+TOKEN[19]: 0.0107817    2 solemn
+	solemn WORD[19,   1]: 0.0053909 まじめ腐る
+	solemn WORD[19,   2]: 0.0053909 真面目腐る
+TOKEN[20]: 0.0081353    3 boneless
+	boneless WORD[20,   1]: 0.0068212 肋肉
+	boneless WORD[20,   2]: 0.0006570 ばら肉
+	boneless WORD[20,   3]: 0.0006570 バラ肉
+TOKEN[21]: 0.0081353    3 boned
+	boned WORD[21,   1]: 0.0068212 肋肉
+	boned WORD[21,   2]: 0.0006570 ばら肉
+	boned WORD[21,   3]: 0.0006570 バラ肉
+TOKEN[22]: 0.0080202    2 rotten
+	rotten WORD[22,   1]: 0.0063049 腐臭
+	rotten WORD[22,   2]: 0.0017153 腐れ
+TOKEN[23]: 0.0079052    6 pork
+	pork WORD[23,   1]: 0.0052584 肋肉
+	pork WORD[23,   2]: 0.0009047 回鍋肉
+	pork WORD[23,   3]: 0.0005065 ばら肉
+	pork WORD[23,   4]: 0.0005065 バラ肉
+	pork WORD[23,   5]: 0.0003645 ぶた肉
+	pork WORD[23,   6]: 0.0003645 豚肉
+TOKEN[24]: 0.0072934    5 beef
+	beef WORD[24,   1]: 0.0054304 肋肉
+	beef WORD[24,   2]: 0.0005259 肉牛
+	beef WORD[24,   3]: 0.0005231 ばら肉
+	beef WORD[24,   4]: 0.0005231 バラ肉
+	beef WORD[24,   5]: 0.0002909 牛肉
+TOKEN[25]: 0.0069806    6 pad
+	pad WORD[25,   1]: 0.0033310 黒肉
+	pad WORD[25,   2]: 0.0009984 肉球
+	pad WORD[25,   3]: 0.0008999 印肉
+	pad WORD[25,   4]: 0.0005434 肉池
+	pad WORD[25,   5]: 0.0004911 朱肉
+	pad WORD[25,   6]: 0.0003584 肉
+TOKEN[26]: 0.0065451    3 carrion
+	carrion WORD[26,   1]: 0.0040240 腐肉
+	carrion WORD[26,   2]: 0.0012606 屍肉
+	carrion WORD[26,   3]: 0.0012605 死肉
+TOKEN[27]: 0.0064823    3 corrode
+	corrode WORD[27,   1]: 0.0028693 腐らす
+	corrode WORD[27,   2]: 0.0018066 腐れる
+	corrode WORD[27,   3]: 0.0018065 腐る
+TOKEN[28]: 0.0063667    3 decomposition
+	decomposition WORD[28,   1]: 0.0021244 腐乱
+	decomposition WORD[28,   2]: 0.0021244 腐爛
+	decomposition WORD[28,   3]: 0.0021179 腐敗
+TOKEN[29]: 0.0061068    4 ink
+	ink WORD[29,   1]: 0.0031479 黒肉
+	ink WORD[29,   2]: 0.0018563 朱肉
+	ink WORD[29,   3]: 0.0004252 印肉
+	ink WORD[29,   4]: 0.0003387 肉
+TOKEN[30]: 0.0059239    2 putrefaction
+	putrefaction WORD[30,   1]: 0.0035199 防腐
+	putrefaction WORD[30,   2]: 0.0024041 腐敗
+TOKEN[31]: 0.0058617    1 bivalve
+	bivalve WORD[31,   1]: 0.0058617 肉柱
+TOKEN[32]: 0.0058429    3 jerky
+	jerky WORD[32,   1]: 0.0022391 乾し肉
+	jerky WORD[32,   2]: 0.0022390 干し肉
+	jerky WORD[32,   3]: 0.0013648 乾肉
+TOKEN[33]: 0.0056358    1 adductor
+	adductor WORD[33,   1]: 0.0056358 肉柱
+TOKEN[34]: 0.0051728    1 black
+	black WORD[34,   1]: 0.0051728 黒肉
+TOKEN[35]: 0.0051406    2 assume
+	assume WORD[35,   1]: 0.0025703 まじめ腐る
+	assume WORD[35,   2]: 0.0025703 真面目腐る
+TOKEN[36]: 0.0049862    3 spoil
+	spoil WORD[36,   1]: 0.0022071 腐らす
+	spoil WORD[36,   2]: 0.0013896 腐れる
+	spoil WORD[36,   3]: 0.0013895 腐る
+TOKEN[37]: 0.0048051    2 disgruntlement
+	disgruntlement WORD[37,   1]: 0.0024026 ふて腐れる
+	disgruntlement WORD[37,   2]: 0.0024026 不貞腐れる
+TOKEN[38]: 0.0048051    2 sulkiness
+	sulkiness WORD[38,   1]: 0.0024025 ふて腐れ
+	sulkiness WORD[38,   2]: 0.0024025 不貞腐れ
+TOKEN[39]: 0.0047986    2 etching
+	etching WORD[39,   1]: 0.0023993 腐蝕
+	etching WORD[39,   2]: 0.0023993 腐食
+TOKEN[40]: 0.0047784    2 muscle
+	muscle WORD[40,   1]: 0.0044121 肉柱
+	muscle WORD[40,   2]: 0.0003663 肉離れ
+TOKEN[41]: 0.0047426    2 attitude
+	attitude WORD[41,   1]: 0.0023713 まじめ腐る
+	attitude WORD[41,   2]: 0.0023713 真面目腐る
+TOKEN[42]: 0.0046517    2 serious
+	serious WORD[42,   1]: 0.0023258 まじめ腐る
+	serious WORD[42,   2]: 0.0023258 真面目腐る
+TOKEN[43]: 0.0045456    1 smell
+	smell WORD[43,   1]: 0.0045456 腐臭
+TOKEN[44]: 0.0045053    2 ulceration
+	ulceration WORD[44,   1]: 0.0022526 腐乱
+	ulceration WORD[44,   2]: 0.0022526 腐爛
+TOKEN[45]: 0.0044812    4 dried
+	dried WORD[45,   1]: 0.0014198 乾し肉
+	dried WORD[45,   2]: 0.0014197 干し肉
+	dried WORD[45,   3]: 0.0008654 乾肉
+	dried WORD[45,   4]: 0.0007762 梅肉
+TOKEN[46]: 0.0041653    3 pussy
+	pussy WORD[46,   1]: 0.0018921 肉壺
+	pussy WORD[46,   2]: 0.0011366 肉ヒダ
+	pussy WORD[46,   3]: 0.0011366 肉襞
+TOKEN[47]: 0.0041549    2 air
+	air WORD[47,   1]: 0.0020775 まじめ腐る
+	air WORD[47,   2]: 0.0020775 真面目腐る
+TOKEN[48]: 0.0040867    3 stamp
+	stamp WORD[48,   1]: 0.0031479 黒肉
+	stamp WORD[48,   2]: 0.0005136 肉池
+	stamp WORD[48,   3]: 0.0004252 印肉
+TOKEN[49]: 0.0040648    2 corrosion
+	corrosion WORD[49,   1]: 0.0020324 腐蝕
+	corrosion WORD[49,   2]: 0.0020324 腐食
+TOKEN[50]: 0.0039954    2 mallet
+	mallet WORD[50,   1]: 0.0019977 肉たたき
+	mallet WORD[50,   2]: 0.0019977 肉叩き
+TOKEN[51]: 0.0039871    2 sulky
+	sulky WORD[51,   1]: 0.0019935 ふて腐れる
+	sulky WORD[51,   2]: 0.0019935 不貞腐れる
+TOKEN[52]: 0.0039505    2 irresponsible
+	irresponsible WORD[52,   1]: 0.0019753 ふて腐れる
+	irresponsible WORD[52,   2]: 0.0019753 不貞腐れる
+TOKEN[53]: 0.0038535    2 worthless
+	worthless WORD[53,   1]: 0.0024955 腐儒
+	worthless WORD[53,   2]: 0.0013580 腐れ
+TOKEN[54]: 0.0037517    1 embalmment
+	embalmment WORD[54,   1]: 0.0037517 防腐
+TOKEN[55]: 0.0037517    1 antisepsis
+	antisepsis WORD[55,   1]: 0.0037517 防腐
+TOKEN[56]: 0.0037265    2 erosion
+	erosion WORD[56,   1]: 0.0018632 腐蝕
+	erosion WORD[56,   2]: 0.0018632 腐食
+TOKEN[57]: 0.0036881    1 humus
+	humus WORD[57,   1]: 0.0036881 腐植
+TOKEN[58]: 0.0036850    2 rust
+	rust WORD[58,   1]: 0.0018425 腐蝕
+	rust WORD[58,   2]: 0.0018425 腐食
+TOKEN[59]: 0.0036801    1 pedant
+	pedant WORD[59,   1]: 0.0036801 腐儒
+TOKEN[60]: 0.0036791    2 look
+	look WORD[60,   1]: 0.0018396 まじめ腐る
+	look WORD[60,   2]: 0.0018396 真面目腐る
+TOKEN[61]: 0.0036566    1 sealing
+	sealing WORD[61,   1]: 0.0036566 黒肉
+TOKEN[62]: 0.0036507    2 dog
+	dog WORD[62,   1]: 0.0021525 犬肉
+	dog WORD[62,   2]: 0.0014982 狗肉
+TOKEN[63]: 0.0035810    1 venison
+	venison WORD[63,   1]: 0.0017905 鹿肉
+TOKEN[64]: 0.0034432    1 pot
+	pot WORD[64,   1]: 0.0034432 肉鍋
+TOKEN[65]: 0.0033857    2 breast
+	breast WORD[65,   1]: 0.0016929 むね肉
+	breast WORD[65,   2]: 0.0016929 胸肉
+TOKEN[66]: 0.0033540    1 rumen
+	rumen WORD[66,   1]: 0.0033540 白肉
+TOKEN[67]: 0.0032933    6 chicken
+	chicken WORD[67,   1]: 0.0008014 正肉
+	chicken WORD[67,   2]: 0.0007951 むね肉
+	chicken WORD[67,   3]: 0.0007951 胸肉
+	chicken WORD[67,   4]: 0.0003147 とり肉
+	chicken WORD[67,   5]: 0.0003147 鳥肉
+	chicken WORD[67,   6]: 0.0002723 鶏肉
+TOKEN[68]: 0.0032308    6 fat
+	fat WORD[68,   1]: 0.0008752 正肉
+	fat WORD[68,   2]: 0.0005912 肉づく
+	fat WORD[68,   3]: 0.0005912 肉付く
+	fat WORD[68,   4]: 0.0005386 太り肉
+	fat WORD[68,   5]: 0.0003173 ぜい肉
+	fat WORD[68,   6]: 0.0003173 贅肉
+TOKEN[69]: 0.0031946    2 corruption
+	corruption WORD[69,   1]: 0.0017932 腐敗
+	corruption WORD[69,   2]: 0.0014014 腐り
+TOKEN[70]: 0.0031629    4 fruit
+	fruit WORD[70,   1]: 0.0019127 白肉
+	fruit WORD[70,   2]: 0.0004163 多肉
+	fruit WORD[70,   3]: 0.0002958 肉
+	fruit WORD[70,   4]: 0.0002423 果肉
+TOKEN[71]: 0.0031443    2 trouble
+	trouble WORD[71,   1]: 0.0016858 後腐れ
+	trouble WORD[71,   2]: 0.0014584 腐心
+TOKEN[72]: 0.0031364    1 dilapidation
+	dilapidation WORD[72,   1]: 0.0031364 立ち腐れ
+TOKEN[73]: 0.0030837    8 body
+	body WORD[73,   1]: 0.0006519 肉塊
+	body WORD[73,   2]: 0.0004096 霊肉
+	body WORD[73,   3]: 0.0003446 肉叢
+	body WORD[73,   4]: 0.0003328 骨肉
+	body WORD[73,   5]: 0.0003300 血肉
+	body WORD[73,   6]: 0.0002648 皮肉
+	body WORD[73,   7]: 0.0002500 肉体
+	body WORD[73,   8]: 0.0002500 肉
+TOKEN[74]: 0.0030166    3 white
+	white WORD[74,   1]: 0.0017079 白肉
+	white WORD[74,   2]: 0.0006544 むね肉
+	white WORD[74,   3]: 0.0006544 胸肉
+TOKEN[75]: 0.0029843    1 discourage
+	discourage WORD[75,   1]: 0.0029843 腐らす
+TOKEN[76]: 0.0029843    1 dishearten
+	dishearten WORD[76,   1]: 0.0029843 腐らす
+TOKEN[77]: 0.0029395    1 tripe
+	tripe WORD[77,   1]: 0.0029395 白肉
+TOKEN[78]: 0.0028855    1 deer
+	deer WORD[78,   1]: 0.0014427 鹿肉
+TOKEN[79]: 0.0028690    1 preservation
+	preservation WORD[79,   1]: 0.0028690 防腐
+TOKEN[80]: 0.0028510    1 unused
+	unused WORD[80,   1]: 0.0028510 持ち腐れ
+TOKEN[81]: 0.0028404    1 hackneyed
+	hackneyed WORD[81,   1]: 0.0028404 陳腐
+TOKEN[82]: 0.0028070    5 ham
+	ham WORD[82,   1]: 0.0006617 脾肉
+	ham WORD[82,   2]: 0.0006617 髀肉
+	ham WORD[82,   3]: 0.0004946 もも肉
+	ham WORD[82,   4]: 0.0004946 股肉
+	ham WORD[82,   5]: 0.0004946 腿肉
+TOKEN[83]: 0.0027823    1 stale
+	stale WORD[83,   1]: 0.0027823 陳腐
+TOKEN[84]: 0.0027498    1 prevention
+	prevention WORD[84,   1]: 0.0027498 防腐
+TOKEN[85]: 0.0027141    1 scholar
+	scholar WORD[85,   1]: 0.0027141 腐儒
+TOKEN[86]: 0.0026311    4 fleshiness
+	fleshiness WORD[86,   1]: 0.0006892 肉づき
+	fleshiness WORD[86,   2]: 0.0006892 肉質
+	fleshiness WORD[86,   3]: 0.0006264 肉付き
+	fleshiness WORD[86,   4]: 0.0006262 肉置き
+TOKEN[87]: 0.0025630    2 dick
+	dick WORD[87,   1]: 0.0013776 肉茎
+	dick WORD[87,   2]: 0.0011855 肉棒
+TOKEN[88]: 0.0025624    1 putrescence
+	putrescence WORD[88,   1]: 0.0025624 腐敗
+TOKEN[89]: 0.0025450    1 possession
+	possession WORD[89,   1]: 0.0025450 持ち腐れ
+TOKEN[90]: 0.0025200    1 cinnamon
+	cinnamon WORD[90,   1]: 0.0025200 肉桂
+TOKEN[91]: 0.0024967    3 blood
+	blood WORD[91,   1]: 0.0011467 血肉
+	blood WORD[91,   2]: 0.0007709 骨肉
+	blood WORD[91,   3]: 0.0005791 肉親
+TOKEN[92]: 0.0024717    2 chunk
+	chunk WORD[92,   1]: 0.0012358 固まり肉
+	chunk WORD[92,   2]: 0.0012358 塊肉
+TOKEN[93]: 0.0024041    1 spoilage
+	spoilage WORD[93,   1]: 0.0024041 腐敗
+TOKEN[94]: 0.0023993    1 racking
+	racking WORD[94,   1]: 0.0023993 腐心
+TOKEN[95]: 0.0023216    5 physical
+	physical WORD[95,   1]: 0.0005006 肉的
+	physical WORD[95,   2]: 0.0005004 肉界
+	physical WORD[95,   3]: 0.0003302 肉眼
+	physical WORD[95,   4]: 0.0003302 肉感
+	physical WORD[95,   5]: 0.0003301 肉
+TOKEN[96]: 0.0023177    1 cow
+	cow WORD[96,   1]: 0.0023177 白肉
+TOKEN[97]: 0.0023114    1 degeneracy
+	degeneracy WORD[97,   1]: 0.0023114 腐敗
+TOKEN[98]: 0.0022993    2 cock
+	cock WORD[98,   1]: 0.0012358 肉茎
+	cock WORD[98,   2]: 0.0010635 肉棒
+TOKEN[99]: 0.0022962    2 shank
+	shank WORD[99,   1]: 0.0011481 すね肉
+	shank WORD[99,   2]: 0.0011481 スネ肉
+TOKEN[100]: 0.0022419    1 punishment
+	punishment WORD[100,   1]: 0.0022419 肉刑
+TOKEN[101]: 0.0021976    1 feel
+	feel WORD[101,   1]: 0.0021976 腐る
+TOKEN[102]: 0.0021814    2 corporal
+	corporal WORD[102,   1]: 0.0015314 肉刑
+	corporal WORD[102,   2]: 0.0006500 肉的
+TOKEN[103]: 0.0021531    1 depravity
+	depravity WORD[103,   1]: 0.0021531 腐敗
+TOKEN[104]: 0.0021053    4 poultry
+	poultry WORD[104,   1]: 0.0009909 赤肉
+	poultry WORD[104,   2]: 0.0003889 とり肉
+	poultry WORD[104,   3]: 0.0003889 鳥肉
+	poultry WORD[104,   4]: 0.0003366 鶏肉
+TOKEN[105]: 0.0020960    2 pressing
+	pressing WORD[105,   1]: 0.0006987 肉薄
+	pressing WORD[105,   2]: 0.0006987 肉迫
+TOKEN[106]: 0.0020554    3 thigh
+	thigh WORD[106,   1]: 0.0009194 赤肉
+	thigh WORD[106,   2]: 0.0005680 脾肉
+	thigh WORD[106,   3]: 0.0005680 髀肉
+TOKEN[107]: 0.0020027    1 rotting
+	rotting WORD[107,   1]: 0.0020027 腐れ
+TOKEN[108]: 0.0020027    1 corroding
+	corroding WORD[108,   1]: 0.0020027 腐れ
+TOKEN[109]: 0.0020026    1 decompose
+	decompose WORD[109,   1]: 0.0020026 腐る
+TOKEN[110]: 0.0020026    1 rottenness
+	rottenness WORD[110,   1]: 0.0020026 腐り
+TOKEN[111]: 0.0019994    3 taking
+	taking WORD[111,   1]: 0.0012430 腐心
+	taking WORD[111,   2]: 0.0002521 肉薄
+	taking WORD[111,   3]: 0.0002521 肉迫
+TOKEN[112]: 0.0019557    1 brains
+	brains WORD[112,   1]: 0.0019557 腐心
+TOKEN[113]: 0.0019364    4 leg
+	leg WORD[113,   1]: 0.0008118 赤肉
+	leg WORD[113,   2]: 0.0003749 もも肉
+	leg WORD[113,   3]: 0.0003749 股肉
+	leg WORD[113,   4]: 0.0003749 腿肉
+TOKEN[114]: 0.0019154    1 plum
+	plum WORD[114,   1]: 0.0019154 梅肉
+TOKEN[115]: 0.0018949    2 pulp
+	pulp WORD[115,   1]: 0.0010874 梅肉
+	pulp WORD[115,   2]: 0.0004038 肉
+TOKEN[116]: 0.0018948    2 stew
+	stew WORD[116,   1]: 0.0009474 肉じゃが
+	stew WORD[116,   2]: 0.0009474 肉ジャガ
+TOKEN[117]: 0.0018944    1 deterioration
+	deterioration WORD[117,   1]: 0.0018944 腐朽
+TOKEN[118]: 0.0018725    6 one
+	one WORD[118,   1]: 0.0006814 腐心
+	one WORD[118,   2]: 0.0003680 骨肉
+	one WORD[118,   3]: 0.0002928 皮肉
+	one WORD[118,   4]: 0.0002096 肉筆
+	one WORD[118,   5]: 0.0001825 血肉
+	one WORD[118,   6]: 0.0001382 肉体
+TOKEN[119]: 0.0018717    2 potato
+	potato WORD[119,   1]: 0.0009359 肉じゃが
+	potato WORD[119,   2]: 0.0009359 肉ジャガ
+TOKEN[120]: 0.0018596    1 pan
+	pan WORD[120,   1]: 0.0018596 肉鍋
+TOKEN[121]: 0.0018528    1 mutilation
+	mutilation WORD[121,   1]: 0.0018528 肉刑
+TOKEN[122]: 0.0018436    1 curd
+	curd WORD[122,   1]: 0.0018436 豆腐
+TOKEN[123]: 0.0018206    5 round
+	round WORD[123,   1]: 0.0004291 脾肉
+	round WORD[123,   2]: 0.0004291 髀肉
+	round WORD[123,   3]: 0.0003208 もも肉
+	round WORD[123,   4]: 0.0003208 股肉
+	round WORD[123,   5]: 0.0003208 腿肉
+TOKEN[124]: 0.0018065    1 sopping
+	sopping WORD[124,   1]: 0.0018065 腐る
+TOKEN[125]: 0.0017736    1 let
+	let WORD[125,   1]: 0.0017736 腐らす
+TOKEN[126]: 0.0017552    1 inseparable
+	inseparable WORD[126,   1]: 0.0017552 腐れ縁
+TOKEN[127]: 0.0017552    1 spoiling
+	spoiling WORD[127,   1]: 0.0017552 腐れ
+TOKEN[128]: 0.0017551    1 bankrupt
+	bankrupt WORD[128,   1]: 0.0017551 腐る
+TOKEN[129]: 0.0017544    1 cause
+	cause WORD[129,   1]: 0.0017544 腐らす
+TOKEN[130]: 0.0017322    1 future
+	future WORD[130,   1]: 0.0017322 後腐れ
+TOKEN[131]: 0.0017217    2 joint
+	joint WORD[131,   1]: 0.0008608 固まり肉
+	joint WORD[131,   2]: 0.0008608 塊肉
+TOKEN[132]: 0.0017153    1 audacity
+	audacity WORD[132,   1]: 0.0017153 腐る
+TOKEN[133]: 0.0017153    1 fester
+	fester WORD[133,   1]: 0.0017153 腐る
+TOKEN[134]: 0.0017121    1 cooking
+	cooking WORD[134,   1]: 0.0017121 肉鍋
+TOKEN[135]: 0.0016811    3 red
+	red WORD[135,   1]: 0.0007105 朱肉
+	red WORD[135,   2]: 0.0006478 赤肉
+	red WORD[135,   3]: 0.0003228 薄肉
+TOKEN[136]: 0.0016624    3 carnal
+	carnal WORD[136,   1]: 0.0006251 肉慾
+	carnal WORD[136,   2]: 0.0006251 肉欲
+	carnal WORD[136,   3]: 0.0004123 肉感
+TOKEN[137]: 0.0016596    2 hard
+	hard WORD[137,   1]: 0.0005532 肉薄
+	hard WORD[137,   2]: 0.0005532 肉迫
+TOKEN[138]: 0.0016553    1 paltry
+	paltry WORD[138,   1]: 0.0016553 腐れ
+TOKEN[139]: 0.0016552    1 crumble
+	crumble WORD[139,   1]: 0.0016552 腐る
+TOKEN[140]: 0.0016552    1 depraved
+	depraved WORD[140,   1]: 0.0016552 腐る
+TOKEN[141]: 0.0016540    1 leave
+	leave WORD[141,   1]: 0.0016540 腐らす
+TOKEN[142]: 0.0016450    2 human
+	human WORD[142,   1]: 0.0008242 肉塊
+	human WORD[142,   2]: 0.0008207 人肉
+TOKEN[143]: 0.0016362    2 something
+	something WORD[143,   1]: 0.0014237 腐臭
+	something WORD[143,   2]: 0.0002126 皮肉
+TOKEN[144]: 0.0016104    1 contemptible
+	contemptible WORD[144,   1]: 0.0016104 腐れ
+TOKEN[145]: 0.0016000    1 mesophyll
+	mesophyll WORD[145,   1]: 0.0016000 葉肉
+TOKEN[146]: 0.0015915    1 weaken
+	weaken WORD[146,   1]: 0.0015915 腐る
+TOKEN[147]: 0.0015746    1 undesirable
+	undesirable WORD[147,   1]: 0.0015746 腐れ縁
+TOKEN[148]: 0.0015724    1 granulation
+	granulation WORD[148,   1]: 0.0015724 肉芽
+TOKEN[149]: 0.0015718    1 pedicel
+	pedicel WORD[149,   1]: 0.0015718 肉茎
+TOKEN[150]: 0.0015718    1 pedicle
+	pedicle WORD[150,   1]: 0.0015718 肉茎
+TOKEN[151]: 0.0015583    1 effort
+	effort WORD[151,   1]: 0.0015583 腐心
+TOKEN[152]: 0.0015444    3 piece
+	piece WORD[152,   1]: 0.0007319 肉塊
+	piece WORD[152,   2]: 0.0004256 肉片
+	piece WORD[152,   3]: 0.0003869 肉叢
+TOKEN[153]: 0.0015340    1 lot
+	lot WORD[153,   1]: 0.0015340 腐心
+TOKEN[154]: 0.0015315    1 dispirited
+	dispirited WORD[154,   1]: 0.0015315 腐る
+TOKEN[155]: 0.0015123    2 dead
+	dead WORD[155,   1]: 0.0007562 屍肉
+	dead WORD[155,   2]: 0.0007562 死肉
+TOKEN[156]: 0.0015090    1 hot
+	hot WORD[156,   1]: 0.0015090 肉鍋
+TOKEN[157]: 0.0014968    1 bet
+	bet WORD[157,   1]: 0.0014968 腐る
+TOKEN[158]: 0.0014866    1 degenerate
+	degenerate WORD[158,   1]: 0.0014866 腐る
+TOKEN[159]: 0.0014818    2 relationship
+	relationship WORD[159,   1]: 0.0011770 腐れ縁
+	relationship WORD[159,   2]: 0.0003049 肉親
+TOKEN[160]: 0.0014700    3 dish
+	dish WORD[160,   1]: 0.0007906 回鍋肉
+	dish WORD[160,   2]: 0.0003397 焼き肉
+	dish WORD[160,   3]: 0.0003397 焼肉
+TOKEN[161]: 0.0014618    1 cockscomb
+	cockscomb WORD[161,   1]: 0.0014618 肉冠
+TOKEN[162]: 0.0014591    1 corrupt
+	corrupt WORD[162,   1]: 0.0014591 腐る
+TOKEN[163]: 0.0014508    1 sour
+	sour WORD[163,   1]: 0.0014508 腐る
+TOKEN[164]: 0.0014179    1 peduncle
+	peduncle WORD[164,   1]: 0.0014179 肉茎
+TOKEN[165]: 0.0014176    2 lump
+	lump WORD[165,   1]: 0.0009274 肉塊
+	lump WORD[165,   2]: 0.0004902 肉叢
+TOKEN[166]: 0.0014142    1 blunt
+	blunt WORD[166,   1]: 0.0014142 腐る
+TOKEN[167]: 0.0014075    1 bean
+	bean WORD[167,   1]: 0.0014075 豆腐
+TOKEN[168]: 0.0014062    1 person
+	person WORD[168,   1]: 0.0014062 目腐れ
+TOKEN[169]: 0.0013925    3 substance
+	substance WORD[169,   1]: 0.0003482 肉づけ
+	substance WORD[169,   2]: 0.0003482 肉付け
+	substance WORD[169,   3]: 0.0003481 肉
+TOKEN[170]: 0.0013839    1 depressed
+	depressed WORD[170,   1]: 0.0013839 腐る
+TOKEN[171]: 0.0013674    3 grilled
+	grilled WORD[171,   1]: 0.0005413 肉汁
+	grilled WORD[171,   2]: 0.0004130 焼き肉
+	grilled WORD[171,   3]: 0.0004130 焼肉
+TOKEN[172]: 0.0013580    1 useless
+	useless WORD[172,   1]: 0.0013580 腐る
+TOKEN[173]: 0.0013474    3 build
+	build WORD[173,   1]: 0.0004687 肉づき
+	build WORD[173,   2]: 0.0004528 中肉
+	build WORD[173,   3]: 0.0004259 肉付き
+TOKEN[174]: 0.0013472    1 radical
+	radical WORD[174,   1]: 0.0013472 肉月
+TOKEN[175]: 0.0013420    2 whale
+	whale WORD[175,   1]: 0.0010258 尾肉
+	whale WORD[175,   2]: 0.0003162 鯨肉
+TOKEN[176]: 0.0013337    3 animal
+	animal WORD[176,   1]: 0.0004669 獣肉
+	animal WORD[176,   2]: 0.0004334 肉慾
+	animal WORD[176,   3]: 0.0004334 肉欲
+TOKEN[177]: 0.0012946    3 quality
+	quality WORD[177,   1]: 0.0004485 肉質
+	quality WORD[177,   2]: 0.0004333 中肉
+	quality WORD[177,   3]: 0.0004128 精肉
+TOKEN[178]: 0.0012938    1 lack
+	lack WORD[178,   1]: 0.0012938 腐る
+TOKEN[179]: 0.0012872    1 milk
+	milk WORD[179,   1]: 0.0012872 腐る
+TOKEN[180]: 0.0012785    1 making
+	making WORD[180,   1]: 0.0012785 腐心
+TOKEN[181]: 0.0012754    3 relative
+	relative WORD[181,   1]: 0.0004650 骨肉
+	relative WORD[181,   2]: 0.0004611 血肉
+	relative WORD[181,   3]: 0.0003493 肉親
+TOKEN[182]: 0.0012747    1 wet
+	wet WORD[182,   1]: 0.0012747 腐る
+TOKEN[183]: 0.0012741    3 bone
+	bone WORD[183,   1]: 0.0004562 骨肉
+	bone WORD[183,   2]: 0.0004548 枝肉
+	bone WORD[183,   3]: 0.0003630 皮肉
+TOKEN[184]: 0.0012600    1 Cinnamomum
+	Cinnamomum WORD[184,   1]: 0.0012600 肉桂
+TOKEN[185]: 0.0012572    1 speak
+	speak WORD[185,   1]: 0.0012572 腐す
+TOKEN[186]: 0.0012545    1 ill
+	ill WORD[186,   1]: 0.0012545 腐す
+TOKEN[187]: 0.0012219    1 great
+	great WORD[187,   1]: 0.0012219 腐心
+TOKEN[188]: 0.0011769    1 paw
+	paw WORD[188,   1]: 0.0011769 肉球
+TOKEN[189]: 0.0011752    1 practice
+	practice WORD[189,   1]: 0.0011752 腐る
+TOKEN[190]: 0.0011684    1 weather
+	weather WORD[190,   1]: 0.0011684 腐る
+TOKEN[191]: 0.0011535    2 pig
+	pig WORD[191,   1]: 0.0005768 脾肉
+	pig WORD[191,   2]: 0.0005768 髀肉
+TOKEN[192]: 0.0011440    1 steak
+	steak WORD[192,   1]: 0.0011440 青椒肉絲
+TOKEN[193]: 0.0011366    2 gain
+	gain WORD[193,   1]: 0.0005683 肉づく
+	gain WORD[193,   2]: 0.0005683 肉付く
+TOKEN[194]: 0.0011351    1 comb
+	comb WORD[194,   1]: 0.0011351 肉冠
+TOKEN[195]: 0.0011344    3 fowl
+	fowl WORD[195,   1]: 0.0003959 とり肉
+	fowl WORD[195,   2]: 0.0003959 鳥肉
+	fowl WORD[195,   3]: 0.0003426 鶏肉
+TOKEN[196]: 0.0011328    1 incarnation
+	incarnation WORD[196,   1]: 0.0011328 受肉
+TOKEN[197]: 0.0011321    1 mutton
+	mutton WORD[197,   1]: 0.0011321 羊肉
+TOKEN[198]: 0.0011295    1 lose
+	lose WORD[198,   1]: 0.0011295 腐る
+TOKEN[199]: 0.0011267    1 horse
+	horse WORD[199,   1]: 0.0011267 桜肉
+TOKEN[200]: 0.0011195    2 sexual
+	sexual WORD[200,   1]: 0.0008089 柔肉
+	sexual WORD[200,   2]: 0.0003107 肉感
+TOKEN[201]: 0.0010915    2 lust
+	lust WORD[201,   1]: 0.0005458 肉慾
+	lust WORD[201,   2]: 0.0005458 肉欲
+TOKEN[202]: 0.0010867    1 smoked
+	smoked WORD[202,   1]: 0.0010867 燻肉
+TOKEN[203]: 0.0010862    1 crest
+	crest WORD[203,   1]: 0.0010862 肉冠
+TOKEN[204]: 0.0010668    1 bad
+	bad WORD[204,   1]: 0.0010668 腐る
+TOKEN[205]: 0.0010599    1 Christ
+	Christ WORD[205,   1]: 0.0010599 受肉
+TOKEN[206]: 0.0010546    1 lamb
+	lamb WORD[206,   1]: 0.0010546 羊肉
+TOKEN[207]: 0.0010519    2 barbecue
+	barbecue WORD[207,   1]: 0.0005259 焼き肉
+	barbecue WORD[207,   2]: 0.0005259 焼肉
+TOKEN[208]: 0.0010416    1 thinning
+	thinning WORD[208,   1]: 0.0010416 減肉
+TOKEN[209]: 0.0010379    2 weight
+	weight WORD[209,   1]: 0.0005189 肉づく
+	weight WORD[209,   2]: 0.0005189 肉付く
+TOKEN[210]: 0.0010320    2 fleshy
+	fleshy WORD[210,   1]: 0.0006033 多肉
+	fleshy WORD[210,   2]: 0.0004287 肉厚
+TOKEN[211]: 0.0010313    1 offal
+	offal WORD[211,   1]: 0.0010313 くず肉
+TOKEN[212]: 0.0010176    1 salted
+	salted WORD[212,   1]: 0.0010176 肉醤
+TOKEN[213]: 0.0010169    1 context
+	context WORD[213,   1]: 0.0010169 柔肉
+TOKEN[214]: 0.0010028    2 task
+	task WORD[214,   1]: 0.0003343 肉薄
+	task WORD[214,   2]: 0.0003343 肉迫
+TOKEN[215]: 0.0009923    1 medium
+	medium WORD[215,   1]: 0.0009923 中肉
+TOKEN[216]: 0.0009880    2 skin
+	skin WORD[216,   1]: 0.0006937 正肉
+	skin WORD[216,   2]: 0.0002943 皮肉
+TOKEN[217]: 0.0009837    1 turn
+	turn WORD[217,   1]: 0.0009837 腐る
+TOKEN[218]: 0.0009734    2 fleshing
+	fleshing WORD[218,   1]: 0.0004867 肉づけ
+	fleshing WORD[218,   2]: 0.0004867 肉付け
+TOKEN[219]: 0.0009729    1 sole
+	sole WORD[219,   1]: 0.0009729 肉球
+TOKEN[220]: 0.0009510    2 degree
+	degree WORD[220,   1]: 0.0004982 肉づき
+	degree WORD[220,   2]: 0.0004528 肉付き
+TOKEN[221]: 0.0009456    1 tail
+	tail WORD[221,   1]: 0.0009456 尾肉
+TOKEN[222]: 0.0009316    1 shellfish
+	shellfish WORD[222,   1]: 0.0009316 貝肉
+TOKEN[223]: 0.0009188    2 question
+	question WORD[223,   1]: 0.0003063 肉薄
+	question WORD[223,   2]: 0.0003063 肉迫
+TOKEN[224]: 0.0009030    2 fish
+	fish WORD[224,   1]: 0.0007042 肉醤
+	fish WORD[224,   2]: 0.0001989 魚肉
+TOKEN[225]: 0.0008956    1 pepper
+	pepper WORD[225,   1]: 0.0008956 青椒肉絲
+TOKEN[226]: 0.0008886    2 modeling
+	modeling WORD[226,   1]: 0.0004443 肉づけ
+	modeling WORD[226,   2]: 0.0004443 肉付け
+TOKEN[227]: 0.0008846    1 corn
+	corn WORD[227,   1]: 0.0004423 肉刺
+TOKEN[228]: 0.0008797    2 grill
+	grill WORD[228,   1]: 0.0004398 焼き肉
+	grill WORD[228,   2]: 0.0004398 焼肉
+TOKEN[229]: 0.0008719    1 butcher
+	butcher WORD[229,   1]: 0.0008719 肉屋
+TOKEN[230]: 0.0008676    1 go
+	go WORD[230,   1]: 0.0008676 腐る
+TOKEN[231]: 0.0008587    1 blister
+	blister WORD[231,   1]: 0.0004293 肉刺
+TOKEN[232]: 0.0008557    1 soft
+	soft WORD[232,   1]: 0.0008557 柔肉
+TOKEN[233]: 0.0008557    2 enemy
+	enemy WORD[233,   1]: 0.0002852 肉薄
+	enemy WORD[233,   2]: 0.0002852 肉迫
+TOKEN[234]: 0.0008532    1 pipe
+	pipe WORD[234,   1]: 0.0008532 減肉
+TOKEN[235]: 0.0008515    3 ground
+	ground WORD[235,   1]: 0.0002838 ひき肉
+	ground WORD[235,   2]: 0.0002838 挽き肉
+	ground WORD[235,   3]: 0.0002838 挽肉
+TOKEN[236]: 0.0008421    2 coming
+	coming WORD[236,   1]: 0.0002807 肉薄
+	coming WORD[236,   2]: 0.0002807 肉迫
+TOKEN[237]: 0.0008418    2 type
+	type WORD[237,   1]: 0.0004209 肉細
+	type WORD[237,   2]: 0.0004209 肉太
+TOKEN[238]: 0.0008342    1 thickness
+	thickness WORD[238,   1]: 0.0004171 肉
+TOKEN[239]: 0.0008335    2 first
+	first WORD[239,   1]: 0.0002778 肉薄
+	first WORD[239,   2]: 0.0002778 肉迫
+TOKEN[240]: 0.0008210    3 bird
+	bird WORD[240,   1]: 0.0002865 とり肉
+	bird WORD[240,   2]: 0.0002865 鳥肉
+	bird WORD[240,   3]: 0.0002479 鶏肉
+TOKEN[241]: 0.0008192    2 put
+	put WORD[241,   1]: 0.0004096 肉づく
+	put WORD[241,   2]: 0.0004096 肉付く
+TOKEN[242]: 0.0008156    1 sinewy
+	sinewy WORD[242,   1]: 0.0004078 筋肉
+TOKEN[243]: 0.0007934    2 bun
+	bun WORD[243,   1]: 0.0003967 肉まん
+	bun WORD[243,   2]: 0.0003967 肉饅
+TOKEN[244]: 0.0007864    1 bouillon
+	bouillon WORD[244,   1]: 0.0007864 肉汁
+TOKEN[245]: 0.0007851    1 waste
+	waste WORD[245,   1]: 0.0007851 くず肉
+TOKEN[246]: 0.0007754    2 Korean
+	Korean WORD[246,   1]: 0.0003877 焼き肉
+	Korean WORD[246,   2]: 0.0003877 焼肉
+TOKEN[247]: 0.0007590    2 made
+	made WORD[247,   1]: 0.0003795 脾肉
+	made WORD[247,   2]: 0.0003795 髀肉
+TOKEN[248]: 0.0007479    1 corpulent
+	corpulent WORD[248,   1]: 0.0007479 太り肉
+TOKEN[249]: 0.0007383    2 similar
+	similar WORD[249,   1]: 0.0003691 焼き肉
+	similar WORD[249,   2]: 0.0003691 焼肉
+TOKEN[250]: 0.0007378    1 attacker
+	attacker WORD[250,   1]: 0.0007378 肉弾
+TOKEN[251]: 0.0007378    1 gravy
+	gravy WORD[251,   1]: 0.0007378 肉汁
+TOKEN[252]: 0.0007299    1 succulent
+	succulent WORD[252,   1]: 0.0007299 多肉
+TOKEN[253]: 0.0007218    1 remark
+	remark WORD[253,   1]: 0.0007218 皮肉る
+TOKEN[254]: 0.0007162    1 dark
+	dark WORD[254,   1]: 0.0007162 赤肉
+TOKEN[255]: 0.0007145    1 plumpness
+	plumpness WORD[255,   1]: 0.0007145 肉置き
+TOKEN[256]: 0.0007133    2 fresh
+	fresh WORD[256,   1]: 0.0004404 鮮肉
+	fresh WORD[256,   2]: 0.0002729 生肉
+TOKEN[257]: 0.0007114    1 wall
+	wall WORD[257,   1]: 0.0007114 減肉
+TOKEN[258]: 0.0007084    2 thick
+	thick WORD[258,   1]: 0.0004095 朱肉
+	thick WORD[258,   2]: 0.0002989 肉厚
+TOKEN[259]: 0.0007006    1 tree
+	tree WORD[259,   1]: 0.0007006 肉桂
+TOKEN[260]: 0.0006905    1 kinsman
+	kinsman WORD[260,   1]: 0.0006905 骨肉
+TOKEN[261]: 0.0006890    1 sensual
+	sensual WORD[261,   1]: 0.0006890 肉界
+TOKEN[262]: 0.0006890    1 bulbil
+	bulbil WORD[262,   1]: 0.0006890 肉芽
+TOKEN[263]: 0.0006883    2 surplus
+	surplus WORD[263,   1]: 0.0003441 ぜい肉
+	surplus WORD[263,   2]: 0.0003441 贅肉
+TOKEN[264]: 0.0006821    1 gingiva
+	gingiva WORD[264,   1]: 0.0006821 歯肉
+TOKEN[265]: 0.0006814    2 filling
+	filling WORD[265,   1]: 0.0003407 肉まん
+	filling WORD[265,   2]: 0.0003407 肉饅
+TOKEN[266]: 0.0006799    1 green
+	green WORD[266,   1]: 0.0006799 青椒肉絲
+TOKEN[267]: 0.0006759    2 place
+	place WORD[267,   1]: 0.0002253 肉薄
+	place WORD[267,   2]: 0.0002253 肉迫
+TOKEN[268]: 0.0006702    1 content
+	content WORD[268,   1]: 0.0003351 肉
+TOKEN[269]: 0.0006698    1 chubby
+	chubby WORD[269,   1]: 0.0006698 太り肉
+TOKEN[270]: 0.0006299    1 eating
+	eating WORD[270,   1]: 0.0006299 肉食
+TOKEN[271]: 0.0006270    1 sarcoma
+	sarcoma WORD[271,   1]: 0.0006270 肉腫
+TOKEN[272]: 0.0006251    1 autograph
+	autograph WORD[272,   1]: 0.0006251 肉筆
+TOKEN[273]: 0.0006223    1 opposed
+	opposed WORD[273,   1]: 0.0003111 肉
+TOKEN[274]: 0.0005948    1 shop
+	shop WORD[274,   1]: 0.0005948 肉屋
+TOKEN[275]: 0.0005902    2 giving
+	giving WORD[275,   1]: 0.0002951 肉づけ
+	giving WORD[275,   2]: 0.0002951 肉付け
+TOKEN[276]: 0.0005789    1 cinnabar
+	cinnabar WORD[276,   1]: 0.0005789 朱肉
+TOKEN[277]: 0.0005728    1 eye
+	eye WORD[277,   1]: 0.0005728 肉眼
+TOKEN[278]: 0.0005697    1 holder
+	holder WORD[278,   1]: 0.0005697 肉池
+TOKEN[279]: 0.0005681    1 feeling
+	feeling WORD[279,   1]: 0.0005681 肉感
+TOKEN[280]: 0.0005664    1 tissue
+	tissue WORD[280,   1]: 0.0005664 肉芽
+TOKEN[281]: 0.0005615    1 soul
+	soul WORD[281,   1]: 0.0005615 霊肉
+TOKEN[282]: 0.0005502    1 cattle
+	cattle WORD[282,   1]: 0.0005502 肉牛
+TOKEN[283]: 0.0005495    1 cynical
+	cynical WORD[283,   1]: 0.0005495 皮肉る
+TOKEN[284]: 0.0005495    1 cynicism
+	cynicism WORD[284,   1]: 0.0005495 皮肉
+TOKEN[285]: 0.0005472    1 carcass
+	carcass WORD[285,   1]: 0.0005472 枝肉
+TOKEN[286]: 0.0005461    2 plan
+	plan WORD[286,   1]: 0.0002730 肉づけ
+	plan WORD[286,   2]: 0.0002730 肉付け
+TOKEN[287]: 0.0005442    1 spirit
+	spirit WORD[287,   1]: 0.0002721 肉
+TOKEN[288]: 0.0005333    1 suicide
+	suicide WORD[288,   1]: 0.0005333 肉弾
+TOKEN[289]: 0.0005279    1 handwriting
+	handwriting WORD[289,   1]: 0.0005279 肉筆
+TOKEN[290]: 0.0005261    1 scrap
+	scrap WORD[290,   1]: 0.0005261 肉粉
+TOKEN[291]: 0.0005187    1 carnivorous
+	carnivorous WORD[291,   1]: 0.0005187 肉食
+TOKEN[292]: 0.0005018    1 signature
+	signature WORD[292,   1]: 0.0005018 朱肉
+TOKEN[293]: 0.0004867    1 microphone
+	microphone WORD[293,   1]: 0.0004867 肉声
+TOKEN[294]: 0.0004837    1 soup
+	soup WORD[294,   1]: 0.0004837 肉汁
+TOKEN[295]: 0.0004816    1 satirize
+	satirize WORD[295,   1]: 0.0004816 皮肉る
+TOKEN[296]: 0.0004816    1 satire
+	satire WORD[296,   1]: 0.0004816 皮肉
+TOKEN[297]: 0.0004816    1 irony
+	irony WORD[297,   1]: 0.0004816 皮肉
+TOKEN[298]: 0.0004797    1 dressed
+	dressed WORD[298,   1]: 0.0004797 枝肉
+TOKEN[299]: 0.0004725    1 moon
+	moon WORD[299,   1]: 0.0004725 肉月
+TOKEN[300]: 0.0004667    2 Japanese
+	Japanese WORD[300,   1]: 0.0002334 焼き肉
+	Japanese WORD[300,   2]: 0.0002334 焼肉
+TOKEN[301]: 0.0004654    1 make
+	make WORD[301,   1]: 0.0004654 皮肉る
+TOKEN[302]: 0.0004617    1 sarcasm
+	sarcasm WORD[302,   1]: 0.0004617 皮肉
+TOKEN[303]: 0.0004595    1 brush
+	brush WORD[303,   1]: 0.0004595 肉筆
+TOKEN[304]: 0.0004538    1 meal
+	meal WORD[304,   1]: 0.0004538 肉粉
+TOKEN[305]: 0.0004524    1 case
+	case WORD[305,   1]: 0.0004524 肉入れ
+TOKEN[306]: 0.0004503    1 written
+	written WORD[306,   1]: 0.0004503 肉筆
+TOKEN[307]: 0.0004497    1 relation
+	relation WORD[307,   1]: 0.0004497 血肉
+TOKEN[308]: 0.0004395    1 cold
+	cold WORD[308,   1]: 0.0004395 冷肉
+TOKEN[309]: 0.0004369    1 hurting
+	hurting WORD[309,   1]: 0.0004369 苦肉
+TOKEN[310]: 0.0004277    1 alcohol
+	alcohol WORD[310,   1]: 0.0004277 酒肉
+TOKEN[311]: 0.0004202    1 sarcastic
+	sarcastic WORD[311,   1]: 0.0004202 皮肉る
+TOKEN[312]: 0.0004153    1 left
+	left WORD[312,   1]: 0.0004153 肉月
+TOKEN[313]: 0.0004123    1 torn
+	torn WORD[313,   1]: 0.0004123 肉離れ
+TOKEN[314]: 0.0004054    1 world
+	world WORD[314,   1]: 0.0004054 肉界
+TOKEN[315]: 0.0003981    1 mock
+	mock WORD[315,   1]: 0.0003981 皮肉る
+TOKEN[316]: 0.0003981    1 superficial
+	superficial WORD[316,   1]: 0.0003981 皮肉
+TOKEN[317]: 0.0003900    1 close
+	close WORD[317,   1]: 0.0003900 血肉
+TOKEN[318]: 0.0003879    1 drink
+	drink WORD[318,   1]: 0.0003879 酒肉
+TOKEN[319]: 0.0003858    1 plant
+	plant WORD[319,   1]: 0.0003858 多肉
+TOKEN[320]: 0.0003850    1 goods
+	goods WORD[320,   1]: 0.0003850 精肉
+TOKEN[321]: 0.0003829    1 adversary
+	adversary WORD[321,   1]: 0.0003829 苦肉
+TOKEN[322]: 0.0003768    1 cut
+	cut WORD[322,   1]: 0.0003768 肉片
+TOKEN[323]: 0.0003718    1 diet
+	diet WORD[323,   1]: 0.0003718 肉食
+TOKEN[324]: 0.0003681    1 physique
+	physique WORD[324,   1]: 0.0003681 肉体
+TOKEN[325]: 0.0003550    1 unexpected
+	unexpected WORD[325,   1]: 0.0003550 皮肉
+TOKEN[326]: 0.0003538    1 consumption
+	consumption WORD[326,   1]: 0.0003538 食肉
+TOKEN[327]: 0.0003470    1 naked
+	naked WORD[327,   1]: 0.0003470 肉眼
+TOKEN[328]: 0.0003289    1 food
+	food WORD[328,   1]: 0.0003289 酒肉
+TOKEN[329]: 0.0003286    1 outer
+	outer WORD[329,   1]: 0.0003286 肉体
+TOKEN[330]: 0.0003210    1 good
+	good WORD[330,   1]: 0.0003210 精肉
+TOKEN[331]: 0.0003202    1 small
+	small WORD[331,   1]: 0.0003202 精肉
+TOKEN[332]: 0.0003112    1 desire
+	desire WORD[332,   1]: 0.0003112 肉感
+TOKEN[333]: 0.0003005    1 natural
+	natural WORD[333,   1]: 0.0003005 肉声
+TOKEN[334]: 0.0003000    1 used
+	used WORD[334,   1]: 0.0003000 朱肉
+TOKEN[335]: 0.0002985    1 surface
+	surface WORD[335,   1]: 0.0002985 皮肉
+TOKEN[336]: 0.0002985    1 different
+	different WORD[336,   1]: 0.0002985 皮肉
+TOKEN[337]: 0.0002981    1 duck
+	duck WORD[337,   1]: 0.0002981 鴨肉
+TOKEN[338]: 0.0002962    1 light
+	light WORD[338,   1]: 0.0002962 薄肉
+TOKEN[339]: 0.0002919    1 raw
+	raw WORD[339,   1]: 0.0002919 生肉
+TOKEN[340]: 0.0002776    1 voice
+	voice WORD[340,   1]: 0.0002776 肉声
+TOKEN[341]: 0.0002599    1 man
+	man WORD[341,   1]: 0.0002599 肉体
+TOKEN[342]: 0.0002568    1 bear
+	bear WORD[342,   1]: 0.0002568 熊肉
+TOKEN[343]: 0.0002531    1 trick
+	trick WORD[343,   1]: 0.0002531 苦肉

@@ -1,0 +1,786 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1276320    2 Abies          : 椴松, 椴
+0.1223680    2 fir            : 椴松, 椴
+0.0518380    1 damask         : 緞子
+0.0335429    3 carpet         : 緞通, 絨緞, 段通
+0.0322813    3 rug            : 緞通, 絨緞, 段通
+0.0299056    3 forge          : 鍛冶場, 鍛接, 鍛える
+0.0290421    4 blacksmith     : 鍛冶場, 鍛冶, 鍛冶屋, 鍛治
+0.0236003    2 curtain        : 緞帳, 段幕
+0.0234372    1 smithy         : 鍛冶場
+0.0234372    1 foundry        : 鍛冶場
+0.0228337    1 satin          : 緞子
+0.0227526    2 jute           : 緞通, 段通
+0.0193715    1 workshop       : 鍛冶場
+0.0176582    5 forging        : 鍛鉄, 鍛練, 鍛錬, 鍛造, 鍛え
+0.0169643    2 cotton         : 緞通, 段通
+0.0162117    1 silk           : 緞子
+0.0149432   10 vowel          : お段, オ段, う段, ウ段, え段, エ段, い段, イ段, あ段, ア段
+0.0133940   10 syllabary      : お段, オ段, う段, ウ段, え段, エ段, い段, イ段, あ段, ア段
+0.0127754   11 row            : お段, オ段, う段, ウ段, え段, エ段, 上段, い段, イ段, あ段, ...
+0.0126312    3 temper         : 鍛えあげる, 鍛え上げる, 鍛える
+0.0120265    1 runner         : 絨緞
+0.0117112   10 table          : お段, オ段, う段, ウ段, え段, エ段, い段, イ段, あ段, ア段
+0.0105302    1 drop           : 緞帳
+0.0104877    1 thick          : 緞帳
+0.0103840    3 train          : 鍛えあげる, 鍛え上げる, 鍛える
+0.0099704    8 sound          : お段, オ段, う段, ウ段, え段, エ段, あ段, ア段
+0.0097005    1 swordsmith     : 刀鍛冶
+0.0096723    2 o              : お段, オ段
+0.0080419    1 welding        : 鍛接
+0.0079754   10 Japanese       : お段, オ段, う段, ウ段, え段, エ段, い段, イ段, あ段, ア段
+0.0079621    1 hammering      : 鍛金
+0.0078354    3 metal          : 鍛工, 鍛練, 鍛錬
+0.0067612    1 iron           : 鍛鉄
+0.0066933    2 smithing       : 鍛冶, 鍛治
+0.0065654    3 training       : 鍛練, 鍛錬, 鍛え
+0.0061411    5 dan            : 入段, 無段, 有段, 段位, 初段
+0.0052490    1 wrought        : 鍛鉄
+0.0042118    6 staircase      : はしご段, 梯子段, 上がり段, 段々, 段段, 階段
+0.0039185    1 steel          : 鍛鉄
+0.0038846    1 m              : 段
+0.0037558    1 worker         : 鍛工
+0.0036036    4 column         : 段組, 段組み, 全段, 下段
+0.0035467    2 u              : う段, ウ段
+0.0034246    7 step           : はしご段, 梯子段, 踏み段, 踏段, 段階, 上段, 下段
+0.0033647    5 rank           : 段位, 無段, 初段, 有段, 段階
+0.0030090    1 smith          : 鍛冶屋
+0.0028571    1 crowbar        : 鍛冶屋
+0.0027711    3 terrace        : 段丘, 段々, 段段
+0.0027112    2 layout         : 段組, 段組み
+0.0026823    1 pry            : 鍛冶屋
+0.0026314    6 go             : 入段, 無段, 有段, 段位, 段差, 初段
+0.0025323    4 martial        : 無段, 有段, 段位, 初段
+0.0025089    1 drilling       : 鍛え
+0.0024890    2 e              : え段, エ段
+0.0024231    2 little         : 段々, 段段
+0.0023717    3 stair          : はしご段, 梯子段, 段鼻
+0.0023703    1 least          : 段
+0.0023367    1 upper          : 上段
+0.0022612    1 drill          : 鍛える
+0.0022605    3 paragraph      : 章段, 前段, 段落
+0.0022396    3 stairway       : 石段, 中段, 階段
+0.0022279    1 discipline     : 鍛える
+0.0021193    2 setting        : 段組, 段組み
+0.0021037    1 bar            : 鍛冶屋
+0.0021001    3 flight         : 石段, 踏み段, 踏段
+0.0020782    1 length         : 段
+0.0020415    3 measure        : 段物, 段, 手段
+0.0018440    2 different      : 段違い, 段だら
+0.0017236    2 raised         : 段葛, 上段
+0.0017131    1 tiered         : 雛段
+0.0017065    2 fabric         : 段物, 段
+0.0016050    1 nose           : 段鼻
+0.0015895    3 grade          : 段位, 段階, 上段
+0.0015601    3 horizontal     : 段幕, 段だら, 中段
+0.0015481    2 hectare        : 段歩, 一段
+0.0015339    1 nosing         : 段鼻
+0.0015154    1 stone          : 石段
+0.0015039    1 stepless       : 無段
+0.0015039    1 unranked       : 無段
+0.0014795    1 multistage     : 多段
+0.0014558    3 level          : 段違い, 段差, 段階
+0.0014072    1 drapery        : 段物
+0.0013946    1 leading        : 段葛
+0.0013528    1 trousers       : 段袋
+0.0012807    1 path           : 段葛
+0.0012673    1 cascade        : 多段
+0.0012264    1 pants          : 段袋
+0.0011965    1 holder         : 入段
+0.0011438    1 shrine         : 段葛
+0.0011287    1 lower          : 下段
+0.0010914    1 several        : 数段
+0.0010620    1 continuous     : 無段
+0.0010416    1 shogi          : 入段
+0.0010364    2 tan            : 段別, 段収
+0.0010302    1 entire         : 全段
+0.0010199    1 judo           : 入段
+0.0010110    2 difference     : 段差, 格段
+0.0010066    1 kimono         : 段物
+0.0009996    1 ken            : 段
+0.0009933    1 material       : 段物
+0.0009711    1 tsubo          : 段
+0.0009607    1 page           : 全段
+0.0009542    1 becoming       : 入段
+0.0009412    3 sword          : 段平, 上段, 下段
+0.0009212    1 piece          : 段物
+0.0009160    1 cloth          : 段物
+0.0009053    1 goods          : 段物
+0.0009027    1 variable       : 段
+0.0009020    3 part           : 前段, 上段, 後段
+0.0008940    2 tier           : 上段, 下段
+0.0008868    2 area           : 段別, 段歩
+0.0008655    1 gradation      : 段階
+0.0008626    1 haori          : 段
+0.0008574    2 land           : 段別, 段歩
+0.0008571    2 berth          : 上段, 下段
+0.0008502    1 broadsword     : 段平
+0.0008059    1 whole          : 全段
+0.0007941    1 width          : 段
+0.0007888    1 phase          : 段階
+0.0007669    1 aquiline       : 段鼻
+0.0007651    1 geography      : 段丘
+0.0007460    1 acreage        : 段別
+0.0007365    1 six            : 段
+0.0007269    1 unevenness     : 段だら
+0.0007262    2 program        : 段どり, 段取り
+0.0007143    2 exceptional    : 特段, 格段
+0.0007049    2 shelf          : 上段, 下段
+0.0007033    2 place          : 上段, 段落
+0.0006926    1 Roman          : 段鼻
+0.0006909    1 bench          : 段丘
+0.0006886    2 special        : 別段, 特段
+0.0006744    1 league         : 段違い
+0.0006744    1 apart          : 段違い
+0.0006572    1 square         : 段
+0.0006528    1 ranked         : 高段
+0.0006432    1 advanced       : 段位
+0.0006220    1 stage          : 段階
+0.0006200    1 preceding      : 前段
+0.0006101    1 marking        : 段別
+0.0005944    1 road           : 段差
+0.0005898    1 clothes        : 段
+0.0005818    1 colors         : 段だら
+0.0005699    1 holding        : 有段
+0.0005634    1 hook           : 段鼻
+0.0005607    1 higher         : 数段
+0.0005558    1 broad          : 段だら
+0.0005484    1 order          : 段階
+0.0005226    1 belt           : 段位
+0.0005220    1 unit           : 段歩
+0.0005101    1 habitual       : 普段
+0.0005045    2 position       : 上段, 下段
+0.0004937    1 strength       : 段違い
+0.0004822    1 ability        : 段違い
+0.0004761    1 ramp           : 段差
+0.0004758    2 way            : 手段, 算段
+0.0004718    1 much           : 数段
+0.0004660    1 dais           : 上段
+0.0004657    1 first          : 前段
+0.0004586    1 gallery        : 雛段
+0.0004550    1 black          : 段位
+0.0004511    1 everyday       : 普段
+0.0004492    1 doll           : 雛段
+0.0004470    1 footpath       : 段差
+0.0004418    1 shoji          : 段差
+0.0004376    1 world          : 段違い
+0.0004367    1 noticeable     : 格段
+0.0004279    1 normal         : 普段
+0.0004155    1 bump           : 段差
+0.0004081    1 particular     : 別段
+0.0004069    1 platform       : 雛段
+0.0004066    1 deck           : 上段
+0.0004057    1 usual          : 普段
+0.0004050    1 cost           : 値段
+0.0004019    1 landing        : 中段
+0.0003944    1 marked         : 格段
+0.0003930    1 latter         : 後段
+0.0003897    1 overhead       : 上段
+0.0003843    1 ordinary       : 普段
+0.0003806    1 dramatic       : 格段
+0.0003770    1 stopping       : 段落
+0.0003769    1 slope          : 中段
+0.0003661    1 unusual        : 特段
+0.0003604    1 center         : 中段
+0.0003594    1 print          : 中段
+0.0003530    1 trying         : 算段
+0.0003479    1 production     : 段収
+0.0003471    1 senior         : 初段
+0.0003435    1 remarkable     : 格段
+0.0003406    1 stand          : 雛段
+0.0003370    1 promotion      : 昇段
+0.0003324    1 conclusion     : 段落
+0.0003310    1 honor          : 上段
+0.0003264    1 section        : 上段
+0.0003260    1 improvement    : 格段
+0.0003249    1 better         : 格段
+0.0003206    1 price          : 値段
+0.0003195    1 floor          : 上段
+0.0003173    1 three          : 中段
+0.0003167    1 think          : 算段
+0.0003062    1 class          : 初段
+0.0003021    1 raise          : 算段
+0.0002954    1 working        : 算段
+0.0002785    1 bottom         : 下段
+0.0002778    1 top            : 上段
+0.0002742    1 second         : 後段
+0.0002633    1 low            : 下段
+0.0002522    1 end            : 段落
+0.0002448    1 money          : 算段
+0.0001408    1 one            : 初段
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1276320    2 Abies
+	Abies WORD[ 1,   1]: 0.0709472 椴松
+	Abies WORD[ 1,   2]: 0.0566847 椴
+TOKEN[ 2]: 0.1223680    2 fir
+	fir WORD[ 2,   1]: 0.0680212 椴松
+	fir WORD[ 2,   2]: 0.0543469 椴
+TOKEN[ 3]: 0.0518380    1 damask
+	damask WORD[ 3,   1]: 0.0518380 緞子
+TOKEN[ 4]: 0.0335429    3 carpet
+	carpet WORD[ 4,   1]: 0.0202315 緞通
+	carpet WORD[ 4,   2]: 0.0126566 絨緞
+	carpet WORD[ 4,   3]: 0.0006548 段通
+TOKEN[ 5]: 0.0322813    3 rug
+	rug WORD[ 5,   1]: 0.0194706 緞通
+	rug WORD[ 5,   2]: 0.0121806 絨緞
+	rug WORD[ 5,   3]: 0.0006301 段通
+TOKEN[ 6]: 0.0299056    3 forge
+	forge WORD[ 6,   1]: 0.0190925 鍛冶場
+	forge WORD[ 6,   2]: 0.0080419 鍛接
+	forge WORD[ 6,   3]: 0.0027712 鍛える
+TOKEN[ 7]: 0.0290421    4 blacksmith
+	blacksmith WORD[ 7,   1]: 0.0200745 鍛冶場
+	blacksmith WORD[ 7,   2]: 0.0032536 鍛冶
+	blacksmith WORD[ 7,   3]: 0.0028571 鍛冶屋
+	blacksmith WORD[ 7,   4]: 0.0028570 鍛治
+TOKEN[ 8]: 0.0236003    2 curtain
+	curtain WORD[ 8,   1]: 0.0230610 緞帳
+	curtain WORD[ 8,   2]: 0.0005393 段幕
+TOKEN[ 9]: 0.0234372    1 smithy
+	smithy WORD[ 9,   1]: 0.0234372 鍛冶場
+TOKEN[10]: 0.0234372    1 foundry
+	foundry WORD[10,   1]: 0.0234372 鍛冶場
+TOKEN[11]: 0.0228337    1 satin
+	satin WORD[11,   1]: 0.0228337 緞子
+TOKEN[12]: 0.0227526    2 jute
+	jute WORD[12,   1]: 0.0220394 緞通
+	jute WORD[12,   2]: 0.0007133 段通
+TOKEN[13]: 0.0193715    1 workshop
+	workshop WORD[13,   1]: 0.0193715 鍛冶場
+TOKEN[14]: 0.0176582    5 forging
+	forging WORD[14,   1]: 0.0049840 鍛鉄
+	forging WORD[14,   2]: 0.0032537 鍛練
+	forging WORD[14,   3]: 0.0032536 鍛錬
+	forging WORD[14,   4]: 0.0032531 鍛造
+	forging WORD[14,   5]: 0.0029137 鍛え
+TOKEN[15]: 0.0169643    2 cotton
+	cotton WORD[15,   1]: 0.0164325 緞通
+	cotton WORD[15,   2]: 0.0005318 段通
+TOKEN[16]: 0.0162117    1 silk
+	silk WORD[16,   1]: 0.0162117 緞子
+TOKEN[17]: 0.0149432   10 vowel
+	vowel WORD[17,   1]: 0.0041934 お段
+	vowel WORD[17,   2]: 0.0041933 オ段
+	vowel WORD[17,   3]: 0.0015377 う段
+	vowel WORD[17,   4]: 0.0015377 ウ段
+	vowel WORD[17,   5]: 0.0010791 え段
+	vowel WORD[17,   6]: 0.0010791 エ段
+	vowel WORD[17,   7]: 0.0003337 い段
+	vowel WORD[17,   8]: 0.0003337 イ段
+	vowel WORD[17,   9]: 0.0003278 あ段
+	vowel WORD[17,  10]: 0.0003278 ア段
+TOKEN[18]: 0.0133940   10 syllabary
+	syllabary WORD[18,   1]: 0.0037587 お段
+	syllabary WORD[18,   2]: 0.0037586 オ段
+	syllabary WORD[18,   3]: 0.0013782 う段
+	syllabary WORD[18,   4]: 0.0013782 ウ段
+	syllabary WORD[18,   5]: 0.0009672 え段
+	syllabary WORD[18,   6]: 0.0009672 エ段
+	syllabary WORD[18,   7]: 0.0002991 い段
+	syllabary WORD[18,   8]: 0.0002991 イ段
+	syllabary WORD[18,   9]: 0.0002938 あ段
+	syllabary WORD[18,  10]: 0.0002938 ア段
+TOKEN[19]: 0.0127754   11 row
+	row WORD[19,   1]: 0.0034945 お段
+	row WORD[19,   2]: 0.0034944 オ段
+	row WORD[19,   3]: 0.0012814 う段
+	row WORD[19,   4]: 0.0012814 ウ段
+	row WORD[19,   5]: 0.0008992 え段
+	row WORD[19,   6]: 0.0008992 エ段
+	row WORD[19,   7]: 0.0003228 上段
+	row WORD[19,   8]: 0.0002781 い段
+	row WORD[19,   9]: 0.0002781 イ段
+	row WORD[19,  10]: 0.0002732 あ段
+	row WORD[19,  11]: 0.0002732 ア段
+TOKEN[20]: 0.0126312    3 temper
+	temper WORD[20,   1]: 0.0051581 鍛えあげる
+	temper WORD[20,   2]: 0.0051581 鍛え上げる
+	temper WORD[20,   3]: 0.0023151 鍛える
+TOKEN[21]: 0.0120265    1 runner
+	runner WORD[21,   1]: 0.0120265 絨緞
+TOKEN[22]: 0.0117112   10 table
+	table WORD[22,   1]: 0.0032864 お段
+	table WORD[22,   2]: 0.0032864 オ段
+	table WORD[22,   3]: 0.0012051 う段
+	table WORD[22,   4]: 0.0012051 ウ段
+	table WORD[22,   5]: 0.0008457 え段
+	table WORD[22,   6]: 0.0008457 エ段
+	table WORD[22,   7]: 0.0002615 い段
+	table WORD[22,   8]: 0.0002615 イ段
+	table WORD[22,   9]: 0.0002569 あ段
+	table WORD[22,  10]: 0.0002569 ア段
+TOKEN[23]: 0.0105302    1 drop
+	drop WORD[23,   1]: 0.0105302 緞帳
+TOKEN[24]: 0.0104877    1 thick
+	thick WORD[24,   1]: 0.0104877 緞帳
+TOKEN[25]: 0.0103840    3 train
+	train WORD[25,   1]: 0.0042404 鍛えあげる
+	train WORD[25,   2]: 0.0042404 鍛え上げる
+	train WORD[25,   3]: 0.0019032 鍛える
+TOKEN[26]: 0.0099704    8 sound
+	sound WORD[26,   1]: 0.0029287 お段
+	sound WORD[26,   2]: 0.0029287 オ段
+	sound WORD[26,   3]: 0.0010739 う段
+	sound WORD[26,   4]: 0.0010739 ウ段
+	sound WORD[26,   5]: 0.0007536 え段
+	sound WORD[26,   6]: 0.0007536 エ段
+	sound WORD[26,   7]: 0.0002290 あ段
+	sound WORD[26,   8]: 0.0002290 ア段
+TOKEN[27]: 0.0097005    1 swordsmith
+	swordsmith WORD[27,   1]: 0.0097005 刀鍛冶
+TOKEN[28]: 0.0096723    2 o
+	o WORD[28,   1]: 0.0048362 お段
+	o WORD[28,   2]: 0.0048361 オ段
+TOKEN[29]: 0.0080419    1 welding
+	welding WORD[29,   1]: 0.0080419 鍛接
+TOKEN[30]: 0.0079754   10 Japanese
+	Japanese WORD[30,   1]: 0.0022381 お段
+	Japanese WORD[30,   2]: 0.0022380 オ段
+	Japanese WORD[30,   3]: 0.0008207 う段
+	Japanese WORD[30,   4]: 0.0008207 ウ段
+	Japanese WORD[30,   5]: 0.0005759 え段
+	Japanese WORD[30,   6]: 0.0005759 エ段
+	Japanese WORD[30,   7]: 0.0001781 い段
+	Japanese WORD[30,   8]: 0.0001781 イ段
+	Japanese WORD[30,   9]: 0.0001750 あ段
+	Japanese WORD[30,  10]: 0.0001750 ア段
+TOKEN[31]: 0.0079621    1 hammering
+	hammering WORD[31,   1]: 0.0079621 鍛金
+TOKEN[32]: 0.0078354    3 metal
+	metal WORD[32,   1]: 0.0033966 鍛工
+	metal WORD[32,   2]: 0.0022194 鍛練
+	metal WORD[32,   3]: 0.0022194 鍛錬
+TOKEN[33]: 0.0067612    1 iron
+	iron WORD[33,   1]: 0.0067612 鍛鉄
+TOKEN[34]: 0.0066933    2 smithing
+	smithing WORD[34,   1]: 0.0035639 鍛冶
+	smithing WORD[34,   2]: 0.0031294 鍛治
+TOKEN[35]: 0.0065654    3 training
+	training WORD[35,   1]: 0.0022674 鍛練
+	training WORD[35,   2]: 0.0022674 鍛錬
+	training WORD[35,   3]: 0.0020305 鍛え
+TOKEN[36]: 0.0061411    5 dan
+	dan WORD[36,   1]: 0.0028292 入段
+	dan WORD[36,   2]: 0.0012881 無段
+	dan WORD[36,   3]: 0.0008448 有段
+	dan WORD[36,   4]: 0.0007263 段位
+	dan WORD[36,   5]: 0.0004527 初段
+TOKEN[37]: 0.0052490    1 wrought
+	wrought WORD[37,   1]: 0.0052490 鍛鉄
+TOKEN[38]: 0.0042118    6 staircase
+	staircase WORD[38,   1]: 0.0007375 はしご段
+	staircase WORD[38,   2]: 0.0007375 梯子段
+	staircase WORD[38,   3]: 0.0005875 上がり段
+	staircase WORD[38,   4]: 0.0004418 段々
+	staircase WORD[38,   5]: 0.0004418 段段
+	staircase WORD[38,   6]: 0.0003820 階段
+TOKEN[39]: 0.0039185    1 steel
+	steel WORD[39,   1]: 0.0039185 鍛鉄
+TOKEN[40]: 0.0038846    1 m
+	m WORD[40,   1]: 0.0019423 段
+TOKEN[41]: 0.0037558    1 worker
+	worker WORD[41,   1]: 0.0037558 鍛工
+TOKEN[42]: 0.0036036    4 column
+	column WORD[42,   1]: 0.0011657 段組
+	column WORD[42,   2]: 0.0011657 段組み
+	column WORD[42,   3]: 0.0009582 全段
+	column WORD[42,   4]: 0.0003139 下段
+TOKEN[43]: 0.0035467    2 u
+	u WORD[43,   1]: 0.0017734 う段
+	u WORD[43,   2]: 0.0017733 ウ段
+TOKEN[44]: 0.0034246    7 step
+	step WORD[44,   1]: 0.0005454 はしご段
+	step WORD[44,   2]: 0.0005454 梯子段
+	step WORD[44,   3]: 0.0005405 踏み段
+	step WORD[44,   4]: 0.0005405 踏段
+	step WORD[44,   5]: 0.0003267 段階
+	step WORD[44,   6]: 0.0003125 上段
+	step WORD[44,   7]: 0.0002870 下段
+TOKEN[45]: 0.0033647    5 rank
+	rank WORD[45,   1]: 0.0008979 段位
+	rank WORD[45,   2]: 0.0007963 無段
+	rank WORD[45,   3]: 0.0005597 初段
+	rank WORD[45,   4]: 0.0005222 有段
+	rank WORD[45,   5]: 0.0002943 段階
+TOKEN[46]: 0.0030090    1 smith
+	smith WORD[46,   1]: 0.0030090 鍛冶屋
+TOKEN[47]: 0.0028571    1 crowbar
+	crowbar WORD[47,   1]: 0.0028571 鍛冶屋
+TOKEN[48]: 0.0027711    3 terrace
+	terrace WORD[48,   1]: 0.0007651 段丘
+	terrace WORD[48,   2]: 0.0005015 段々
+	terrace WORD[48,   3]: 0.0005015 段段
+TOKEN[49]: 0.0027112    2 layout
+	layout WORD[49,   1]: 0.0013556 段組
+	layout WORD[49,   2]: 0.0013556 段組み
+TOKEN[50]: 0.0026823    1 pry
+	pry WORD[50,   1]: 0.0026823 鍛冶屋
+TOKEN[51]: 0.0026314    6 go
+	go WORD[51,   1]: 0.0007155 入段
+	go WORD[51,   2]: 0.0006515 無段
+	go WORD[51,   3]: 0.0004273 有段
+	go WORD[51,   4]: 0.0003673 段位
+	go WORD[51,   5]: 0.0002408 段差
+	go WORD[51,   6]: 0.0002290 初段
+TOKEN[52]: 0.0025323    4 martial
+	martial WORD[52,   1]: 0.0009849 無段
+	martial WORD[52,   2]: 0.0006459 有段
+	martial WORD[52,   3]: 0.0005553 段位
+	martial WORD[52,   4]: 0.0003461 初段
+TOKEN[53]: 0.0025089    1 drilling
+	drilling WORD[53,   1]: 0.0025089 鍛え
+TOKEN[54]: 0.0024890    2 e
+	e WORD[54,   1]: 0.0012445 え段
+	e WORD[54,   2]: 0.0012445 エ段
+TOKEN[55]: 0.0024231    2 little
+	little WORD[55,   1]: 0.0006058 段々
+	little WORD[55,   2]: 0.0006058 段段
+TOKEN[56]: 0.0023717    3 stair
+	stair WORD[56,   1]: 0.0008133 はしご段
+	stair WORD[56,   2]: 0.0008133 梯子段
+	stair WORD[56,   3]: 0.0007451 段鼻
+TOKEN[57]: 0.0023703    1 least
+	least WORD[57,   1]: 0.0011852 段
+TOKEN[58]: 0.0023367    1 upper
+	upper WORD[58,   1]: 0.0023367 上段
+TOKEN[59]: 0.0022612    1 drill
+	drill WORD[59,   1]: 0.0022612 鍛える
+TOKEN[60]: 0.0022605    3 paragraph
+	paragraph WORD[60,   1]: 0.0012219 章段
+	paragraph WORD[60,   2]: 0.0006335 前段
+	paragraph WORD[60,   3]: 0.0004051 段落
+TOKEN[61]: 0.0022396    3 stairway
+	stairway WORD[61,   1]: 0.0013029 石段
+	stairway WORD[61,   2]: 0.0005032 中段
+	stairway WORD[61,   3]: 0.0004336 階段
+TOKEN[62]: 0.0022279    1 discipline
+	discipline WORD[62,   1]: 0.0022279 鍛える
+TOKEN[63]: 0.0021193    2 setting
+	setting WORD[63,   1]: 0.0010597 段組
+	setting WORD[63,   2]: 0.0010597 段組み
+TOKEN[64]: 0.0021037    1 bar
+	bar WORD[64,   1]: 0.0021037 鍛冶屋
+TOKEN[65]: 0.0021001    3 flight
+	flight WORD[65,   1]: 0.0009237 石段
+	flight WORD[65,   2]: 0.0005882 踏み段
+	flight WORD[65,   3]: 0.0005882 踏段
+TOKEN[66]: 0.0020782    1 length
+	length WORD[66,   1]: 0.0010391 段
+TOKEN[67]: 0.0020415    3 measure
+	measure WORD[67,   1]: 0.0005206 段物
+	measure WORD[67,   2]: 0.0003389 段
+	measure WORD[67,   3]: 0.0003226 手段
+TOKEN[68]: 0.0018440    2 different
+	different WORD[68,   1]: 0.0013830 段違い
+	different WORD[68,   2]: 0.0004610 段だら
+TOKEN[69]: 0.0017236    2 raised
+	raised WORD[69,   1]: 0.0013883 段葛
+	raised WORD[69,   2]: 0.0003353 上段
+TOKEN[70]: 0.0017131    1 tiered
+	tiered WORD[70,   1]: 0.0017131 雛段
+TOKEN[71]: 0.0017065    2 fabric
+	fabric WORD[71,   1]: 0.0005168 段物
+	fabric WORD[71,   2]: 0.0003364 段
+TOKEN[72]: 0.0016050    1 nose
+	nose WORD[72,   1]: 0.0016050 段鼻
+TOKEN[73]: 0.0015895    3 grade
+	grade WORD[73,   1]: 0.0005410 段位
+	grade WORD[73,   2]: 0.0003547 段階
+	grade WORD[73,   3]: 0.0003392 上段
+TOKEN[74]: 0.0015601    3 horizontal
+	horizontal WORD[74,   1]: 0.0005882 段幕
+	horizontal WORD[74,   2]: 0.0005864 段だら
+	horizontal WORD[74,   3]: 0.0003855 中段
+TOKEN[75]: 0.0015481    2 hectare
+	hectare WORD[75,   1]: 0.0007451 段歩
+	hectare WORD[75,   2]: 0.0004015 一段
+TOKEN[76]: 0.0015339    1 nosing
+	nosing WORD[76,   1]: 0.0015339 段鼻
+TOKEN[77]: 0.0015154    1 stone
+	stone WORD[77,   1]: 0.0015154 石段
+TOKEN[78]: 0.0015039    1 stepless
+	stepless WORD[78,   1]: 0.0015039 無段
+TOKEN[79]: 0.0015039    1 unranked
+	unranked WORD[79,   1]: 0.0015039 無段
+TOKEN[80]: 0.0014795    1 multistage
+	multistage WORD[80,   1]: 0.0014795 多段
+TOKEN[81]: 0.0014558    3 level
+	level WORD[81,   1]: 0.0004910 段違い
+	level WORD[81,   2]: 0.0003216 段差
+	level WORD[81,   3]: 0.0003216 段階
+TOKEN[82]: 0.0014072    1 drapery
+	drapery WORD[82,   1]: 0.0007036 段物
+TOKEN[83]: 0.0013946    1 leading
+	leading WORD[83,   1]: 0.0013946 段葛
+TOKEN[84]: 0.0013528    1 trousers
+	trousers WORD[84,   1]: 0.0006764 段袋
+TOKEN[85]: 0.0012807    1 path
+	path WORD[85,   1]: 0.0012807 段葛
+TOKEN[86]: 0.0012673    1 cascade
+	cascade WORD[86,   1]: 0.0012673 多段
+TOKEN[87]: 0.0012264    1 pants
+	pants WORD[87,   1]: 0.0006132 段袋
+TOKEN[88]: 0.0011965    1 holder
+	holder WORD[88,   1]: 0.0011965 入段
+TOKEN[89]: 0.0011438    1 shrine
+	shrine WORD[89,   1]: 0.0011438 段葛
+TOKEN[90]: 0.0011287    1 lower
+	lower WORD[90,   1]: 0.0011287 下段
+TOKEN[91]: 0.0010914    1 several
+	several WORD[91,   1]: 0.0010914 数段
+TOKEN[92]: 0.0010620    1 continuous
+	continuous WORD[92,   1]: 0.0010620 無段
+TOKEN[93]: 0.0010416    1 shogi
+	shogi WORD[93,   1]: 0.0010416 入段
+TOKEN[94]: 0.0010364    2 tan
+	tan WORD[94,   1]: 0.0006278 段別
+	tan WORD[94,   2]: 0.0004087 段収
+TOKEN[95]: 0.0010302    1 entire
+	entire WORD[95,   1]: 0.0010302 全段
+TOKEN[96]: 0.0010199    1 judo
+	judo WORD[96,   1]: 0.0010199 入段
+TOKEN[97]: 0.0010110    2 difference
+	difference WORD[97,   1]: 0.0007043 段差
+	difference WORD[97,   2]: 0.0003067 格段
+TOKEN[98]: 0.0010066    1 kimono
+	kimono WORD[98,   1]: 0.0005033 段物
+TOKEN[99]: 0.0009996    1 ken
+	ken WORD[99,   1]: 0.0004998 段
+TOKEN[100]: 0.0009933    1 material
+	material WORD[100,   1]: 0.0004966 段物
+TOKEN[101]: 0.0009711    1 tsubo
+	tsubo WORD[101,   1]: 0.0004856 段
+TOKEN[102]: 0.0009607    1 page
+	page WORD[102,   1]: 0.0009607 全段
+TOKEN[103]: 0.0009542    1 becoming
+	becoming WORD[103,   1]: 0.0009542 入段
+TOKEN[104]: 0.0009412    3 sword
+	sword WORD[104,   1]: 0.0004279 段平
+	sword WORD[104,   2]: 0.0002676 上段
+	sword WORD[104,   3]: 0.0002458 下段
+TOKEN[105]: 0.0009212    1 piece
+	piece WORD[105,   1]: 0.0004606 段物
+TOKEN[106]: 0.0009160    1 cloth
+	cloth WORD[106,   1]: 0.0004580 段物
+TOKEN[107]: 0.0009053    1 goods
+	goods WORD[107,   1]: 0.0004527 段物
+TOKEN[108]: 0.0009027    1 variable
+	variable WORD[108,   1]: 0.0004513 段
+TOKEN[109]: 0.0009020    3 part
+	part WORD[109,   1]: 0.0004105 前段
+	part WORD[109,   2]: 0.0002510 上段
+	part WORD[109,   3]: 0.0002405 後段
+TOKEN[110]: 0.0008940    2 tier
+	tier WORD[110,   1]: 0.0004660 上段
+	tier WORD[110,   2]: 0.0004280 下段
+TOKEN[111]: 0.0008868    2 area
+	area WORD[111,   1]: 0.0004437 段別
+	area WORD[111,   2]: 0.0004432 段歩
+TOKEN[112]: 0.0008655    1 gradation
+	gradation WORD[112,   1]: 0.0004327 段階
+TOKEN[113]: 0.0008626    1 haori
+	haori WORD[113,   1]: 0.0004313 段
+TOKEN[114]: 0.0008574    2 land
+	land WORD[114,   1]: 0.0004290 段別
+	land WORD[114,   2]: 0.0004285 段歩
+TOKEN[115]: 0.0008571    2 berth
+	berth WORD[115,   1]: 0.0004468 上段
+	berth WORD[115,   2]: 0.0004104 下段
+TOKEN[116]: 0.0008502    1 broadsword
+	broadsword WORD[116,   1]: 0.0008502 段平
+TOKEN[117]: 0.0008059    1 whole
+	whole WORD[117,   1]: 0.0008059 全段
+TOKEN[118]: 0.0007941    1 width
+	width WORD[118,   1]: 0.0003971 段
+TOKEN[119]: 0.0007888    1 phase
+	phase WORD[119,   1]: 0.0003944 段階
+TOKEN[120]: 0.0007669    1 aquiline
+	aquiline WORD[120,   1]: 0.0007669 段鼻
+TOKEN[121]: 0.0007651    1 geography
+	geography WORD[121,   1]: 0.0007651 段丘
+TOKEN[122]: 0.0007460    1 acreage
+	acreage WORD[122,   1]: 0.0007460 段別
+TOKEN[123]: 0.0007365    1 six
+	six WORD[123,   1]: 0.0003683 段
+TOKEN[124]: 0.0007269    1 unevenness
+	unevenness WORD[124,   1]: 0.0007269 段だら
+TOKEN[125]: 0.0007262    2 program
+	program WORD[125,   1]: 0.0003631 段どり
+	program WORD[125,   2]: 0.0003631 段取り
+TOKEN[126]: 0.0007143    2 exceptional
+	exceptional WORD[126,   1]: 0.0003883 特段
+	exceptional WORD[126,   2]: 0.0003260 格段
+TOKEN[127]: 0.0007049    2 shelf
+	shelf WORD[127,   1]: 0.0003674 上段
+	shelf WORD[127,   2]: 0.0003375 下段
+TOKEN[128]: 0.0007033    2 place
+	place WORD[128,   1]: 0.0004618 上段
+	place WORD[128,   2]: 0.0002415 段落
+TOKEN[129]: 0.0006926    1 Roman
+	Roman WORD[129,   1]: 0.0006926 段鼻
+TOKEN[130]: 0.0006909    1 bench
+	bench WORD[130,   1]: 0.0006909 段丘
+TOKEN[131]: 0.0006886    2 special
+	special WORD[131,   1]: 0.0003652 別段
+	special WORD[131,   2]: 0.0003233 特段
+TOKEN[132]: 0.0006744    1 league
+	league WORD[132,   1]: 0.0006744 段違い
+TOKEN[133]: 0.0006744    1 apart
+	apart WORD[133,   1]: 0.0006744 段違い
+TOKEN[134]: 0.0006572    1 square
+	square WORD[134,   1]: 0.0003286 段
+TOKEN[135]: 0.0006528    1 ranked
+	ranked WORD[135,   1]: 0.0006528 高段
+TOKEN[136]: 0.0006432    1 advanced
+	advanced WORD[136,   1]: 0.0006432 段位
+TOKEN[137]: 0.0006220    1 stage
+	stage WORD[137,   1]: 0.0003110 段階
+TOKEN[138]: 0.0006200    1 preceding
+	preceding WORD[138,   1]: 0.0006200 前段
+TOKEN[139]: 0.0006101    1 marking
+	marking WORD[139,   1]: 0.0006101 段別
+TOKEN[140]: 0.0005944    1 road
+	road WORD[140,   1]: 0.0005944 段差
+TOKEN[141]: 0.0005898    1 clothes
+	clothes WORD[141,   1]: 0.0002949 段
+TOKEN[142]: 0.0005818    1 colors
+	colors WORD[142,   1]: 0.0005818 段だら
+TOKEN[143]: 0.0005699    1 holding
+	holding WORD[143,   1]: 0.0005699 有段
+TOKEN[144]: 0.0005634    1 hook
+	hook WORD[144,   1]: 0.0005634 段鼻
+TOKEN[145]: 0.0005607    1 higher
+	higher WORD[145,   1]: 0.0005607 数段
+TOKEN[146]: 0.0005558    1 broad
+	broad WORD[146,   1]: 0.0005558 段だら
+TOKEN[147]: 0.0005484    1 order
+	order WORD[147,   1]: 0.0002742 段階
+TOKEN[148]: 0.0005226    1 belt
+	belt WORD[148,   1]: 0.0005226 段位
+TOKEN[149]: 0.0005220    1 unit
+	unit WORD[149,   1]: 0.0005220 段歩
+TOKEN[150]: 0.0005101    1 habitual
+	habitual WORD[150,   1]: 0.0005101 普段
+TOKEN[151]: 0.0005045    2 position
+	position WORD[151,   1]: 0.0002629 上段
+	position WORD[151,   2]: 0.0002415 下段
+TOKEN[152]: 0.0004937    1 strength
+	strength WORD[152,   1]: 0.0004937 段違い
+TOKEN[153]: 0.0004822    1 ability
+	ability WORD[153,   1]: 0.0004822 段違い
+TOKEN[154]: 0.0004761    1 ramp
+	ramp WORD[154,   1]: 0.0004761 段差
+TOKEN[155]: 0.0004758    2 way
+	way WORD[155,   1]: 0.0002394 手段
+	way WORD[155,   2]: 0.0002364 算段
+TOKEN[156]: 0.0004718    1 much
+	much WORD[156,   1]: 0.0004718 数段
+TOKEN[157]: 0.0004660    1 dais
+	dais WORD[157,   1]: 0.0004660 上段
+TOKEN[158]: 0.0004657    1 first
+	first WORD[158,   1]: 0.0004657 前段
+TOKEN[159]: 0.0004586    1 gallery
+	gallery WORD[159,   1]: 0.0004586 雛段
+TOKEN[160]: 0.0004550    1 black
+	black WORD[160,   1]: 0.0004550 段位
+TOKEN[161]: 0.0004511    1 everyday
+	everyday WORD[161,   1]: 0.0004511 普段
+TOKEN[162]: 0.0004492    1 doll
+	doll WORD[162,   1]: 0.0004492 雛段
+TOKEN[163]: 0.0004470    1 footpath
+	footpath WORD[163,   1]: 0.0004470 段差
+TOKEN[164]: 0.0004418    1 shoji
+	shoji WORD[164,   1]: 0.0004418 段差
+TOKEN[165]: 0.0004376    1 world
+	world WORD[165,   1]: 0.0004376 段違い
+TOKEN[166]: 0.0004367    1 noticeable
+	noticeable WORD[166,   1]: 0.0004367 格段
+TOKEN[167]: 0.0004279    1 normal
+	normal WORD[167,   1]: 0.0004279 普段
+TOKEN[168]: 0.0004155    1 bump
+	bump WORD[168,   1]: 0.0004155 段差
+TOKEN[169]: 0.0004081    1 particular
+	particular WORD[169,   1]: 0.0004081 別段
+TOKEN[170]: 0.0004069    1 platform
+	platform WORD[170,   1]: 0.0004069 雛段
+TOKEN[171]: 0.0004066    1 deck
+	deck WORD[171,   1]: 0.0004066 上段
+TOKEN[172]: 0.0004057    1 usual
+	usual WORD[172,   1]: 0.0004057 普段
+TOKEN[173]: 0.0004050    1 cost
+	cost WORD[173,   1]: 0.0004050 値段
+TOKEN[174]: 0.0004019    1 landing
+	landing WORD[174,   1]: 0.0004019 中段
+TOKEN[175]: 0.0003944    1 marked
+	marked WORD[175,   1]: 0.0003944 格段
+TOKEN[176]: 0.0003930    1 latter
+	latter WORD[176,   1]: 0.0003930 後段
+TOKEN[177]: 0.0003897    1 overhead
+	overhead WORD[177,   1]: 0.0003897 上段
+TOKEN[178]: 0.0003843    1 ordinary
+	ordinary WORD[178,   1]: 0.0003843 普段
+TOKEN[179]: 0.0003806    1 dramatic
+	dramatic WORD[179,   1]: 0.0003806 格段
+TOKEN[180]: 0.0003770    1 stopping
+	stopping WORD[180,   1]: 0.0003770 段落
+TOKEN[181]: 0.0003769    1 slope
+	slope WORD[181,   1]: 0.0003769 中段
+TOKEN[182]: 0.0003661    1 unusual
+	unusual WORD[182,   1]: 0.0003661 特段
+TOKEN[183]: 0.0003604    1 center
+	center WORD[183,   1]: 0.0003604 中段
+TOKEN[184]: 0.0003594    1 print
+	print WORD[184,   1]: 0.0003594 中段
+TOKEN[185]: 0.0003530    1 trying
+	trying WORD[185,   1]: 0.0003530 算段
+TOKEN[186]: 0.0003479    1 production
+	production WORD[186,   1]: 0.0003479 段収
+TOKEN[187]: 0.0003471    1 senior
+	senior WORD[187,   1]: 0.0003471 初段
+TOKEN[188]: 0.0003435    1 remarkable
+	remarkable WORD[188,   1]: 0.0003435 格段
+TOKEN[189]: 0.0003406    1 stand
+	stand WORD[189,   1]: 0.0003406 雛段
+TOKEN[190]: 0.0003370    1 promotion
+	promotion WORD[190,   1]: 0.0003370 昇段
+TOKEN[191]: 0.0003324    1 conclusion
+	conclusion WORD[191,   1]: 0.0003324 段落
+TOKEN[192]: 0.0003310    1 honor
+	honor WORD[192,   1]: 0.0003310 上段
+TOKEN[193]: 0.0003264    1 section
+	section WORD[193,   1]: 0.0003264 上段
+TOKEN[194]: 0.0003260    1 improvement
+	improvement WORD[194,   1]: 0.0003260 格段
+TOKEN[195]: 0.0003249    1 better
+	better WORD[195,   1]: 0.0003249 格段
+TOKEN[196]: 0.0003206    1 price
+	price WORD[196,   1]: 0.0003206 値段
+TOKEN[197]: 0.0003195    1 floor
+	floor WORD[197,   1]: 0.0003195 上段
+TOKEN[198]: 0.0003173    1 three
+	three WORD[198,   1]: 0.0003173 中段
+TOKEN[199]: 0.0003167    1 think
+	think WORD[199,   1]: 0.0003167 算段
+TOKEN[200]: 0.0003062    1 class
+	class WORD[200,   1]: 0.0003062 初段
+TOKEN[201]: 0.0003021    1 raise
+	raise WORD[201,   1]: 0.0003021 算段
+TOKEN[202]: 0.0002954    1 working
+	working WORD[202,   1]: 0.0002954 算段
+TOKEN[203]: 0.0002785    1 bottom
+	bottom WORD[203,   1]: 0.0002785 下段
+TOKEN[204]: 0.0002778    1 top
+	top WORD[204,   1]: 0.0002778 上段
+TOKEN[205]: 0.0002742    1 second
+	second WORD[205,   1]: 0.0002742 後段
+TOKEN[206]: 0.0002633    1 low
+	low WORD[206,   1]: 0.0002633 下段
+TOKEN[207]: 0.0002522    1 end
+	end WORD[207,   1]: 0.0002522 段落
+TOKEN[208]: 0.0002448    1 money
+	money WORD[208,   1]: 0.0002448 算段
+TOKEN[209]: 0.0001408    1 one
+	one WORD[209,   1]: 0.0001408 初段

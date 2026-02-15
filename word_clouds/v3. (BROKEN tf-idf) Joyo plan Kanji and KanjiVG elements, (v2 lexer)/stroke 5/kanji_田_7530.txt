@@ -1,0 +1,845 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0763196   36 field          : 氷田, 田守, 田鼠, 田起こし, 私田, 新田, 田作り, 麦田, 春田, 名田, ...
+0.0662326    6 rural          : 田舍, 田舎言葉, 田家, 田園, 田舎町, 田舎
+0.0530566    9 countryside    : 田舍, 田野, ど田舎, ド田舎, 田園, 片田舎, 田舎もん, 田舎者, 田舎
+0.0471932    4 sticks         : 田舍, ど田舎, ド田舎, 田舎
+0.0424282   35 rice           : 田守, 田起こし, 良田, 私田, 新田, 泥田, 麦田, 田楽, 春田, 名田, ...
+0.0326771    1 dialect        : 田舎言葉
+0.0325546    3 area           : 田舍, 票田, 田舎
+0.0313819   19 paddy          : 田起こし, 良田, 公田, 泥田, 田地, 田打ち, 田の面, 田作り, 白田, 湿田, ...
+0.0274385    5 provincial     : 田舎言葉, 田舎芝居, 田舎回り, 田舎もん, 田舎者
+0.0272896    1 eternal        : 氷田
+0.0253327    1 rat            : 田鼠
+0.0244717   11 country        : 田舎暮らし, 田舎っぺ, 田舎侍, 田舎娘, 田紳, 田舎家, 田園, 片田舎, 田舎道, 田舎町, ...
+0.0202584    1 snow           : 氷田
+0.0132695    1 mouse          : 田鼠
+0.0105284    1 roof           : 田鼠
+0.0099229    2 theatrical     : 田舎芝居, 田舎回り
+0.0096468    1 black          : 田鼠
+0.0095270    3 hick           : 田舎っぺ, 田舎もん, 田舎者
+0.0093775    3 performance    : 田舎芝居, 田遊, 田遊び
+0.0090767    1 buttercup      : 田芥子
+0.0090384    3 bumpkin        : 田舎っぺ, 田舎もん, 田舎者
+0.0087643    6 farm           : 田荘, 田租, 田舎家, 田んぼ, 田圃, 田所
+0.0081449    1 yokel          : 田舎っぺ
+0.0066330    3 fertile        : 良田, 美田, 上田
+0.0059827    1 Eptatretus     : 沼田鰻
+0.0059720    2 given          : 職田, 位田
+0.0059063    3 system         : 職田, 位田, 名田
+0.0057742    1 tapeworm       : 真田虫
+0.0057070    2 goddess        : 立田姫, 竜田姫
+0.0056184    1 Gallinago      : 田鷸
+0.0055079    1 hagfish        : 沼田鰻
+0.0052596    1 snipe          : 田鷸
+0.0049457    1 Cardamine      : 田芥子
+0.0049404    4 harvest        : 春田, 田遊, 田遊び, 神田
+0.0048691    1 protecting     : 田守
+0.0048133    2 fifth          : 位田, 岩田帯
+0.0047573    4 land           : 職田, 平田, 田園, 下田
+0.0047239    1 plowing        : 田起こし
+0.0046722    1 cursed         : 田芥子
+0.0046722    1 Ranunculus     : 田芥子
+0.0046299    1 life           : 田舎暮らし
+0.0045529    4 person         : 田守, 田舎もん, 田舎者, 田作り
+0.0045011    1 wavy           : 田芥子
+0.0044346    1 woodland       : 田芥子
+0.0043234    2 reform         : 田荘, 田所
+0.0042722    1 dark           : 田舎蕎麦
+0.0042497    1 watching       : 田守
+0.0040545    1 samurai        : 田舎侍
+0.0038834    1 found          : 沼田鰻
+0.0038778    1 albus          : 田鰻
+0.0037401    3 ritual         : 田遊, 田遊び, 田楽
+0.0035444    3 fish           : 田麩, 魚田, 田楽
+0.0035372    2 private        : 田荘, 田所
+0.0034694    2 cottage        : 田家, 田舎家
+0.0032510    1 ruler          : 公田
+0.0032089    2 Japan          : 沼田鰻, 永田町
+0.0031540    1 agriculture    : 火田
+0.0030422    1 common         : 田鷸
+0.0030296    1 swamp          : 田鰻
+0.0030073    3 year           : 田遊, 田遊び, 湿田
+0.0029858    1 girl           : 田舎娘
+0.0028878    1 rank           : 位田
+0.0028412    1 melon          : 瓜田
+0.0028227    1 allotment      : 班田
+0.0027788    2 coated         : 魚田, 田楽
+0.0027410    1 species        : 沼田鰻
+0.0027141    2 pray           : 田遊, 田遊び
+0.0026917    2 successful     : 田遊, 田遊び
+0.0026664    1 government     : 職田
+0.0026660    2 boondocks      : ど田舎, ド田舎
+0.0026647    2 muddy          : 泥田, 深田
+0.0026475    1 eel            : 田鰻
+0.0026375    1 living         : 田舎暮らし
+0.0026128    3 remote         : ど田舎, ド田舎, 片田舎
+0.0025300    2 cultivated     : 田野, 田園
+0.0025170    4 Edo            : 新田, 島田, 川田, 河田
+0.0024347    1 Asian          : 田鰻
+0.0023660    2 autumn         : 立田姫, 竜田姫
+0.0023328    1 wheat          : 麦田
+0.0022781    1 deity          : 猿田彦
+0.0022591    2 used           : 麦田, 岩田帯
+0.0022529    2 coming         : 田遊, 田遊び
+0.0022253    2 support        : 票田, 岩田帯
+0.0022030    4 period         : 新田, 島田, 川田, 河田
+0.0021137    1 grow           : 麦田
+0.0020700    2 egg            : 御田, 小田巻
+0.0020488    2 fall           : 立田姫, 竜田姫
+0.0020359    2 eta            : 川田, 河田
+0.0019854    2 dish           : 御田, 小田巻
+0.0019446    1 stewed         : 御田
+0.0019216    2 countryman     : 田舎もん, 田舎者
+0.0019088    1 nipplewort     : 田平子
+0.0018897    1 saltpan        : 塩田
+0.0018747    2 countryfolk    : 田舎もん, 田舎者
+0.0018735    1 colonization   : 屯田
+0.0018661    1 nominal        : 名田
+0.0018580    1 voter          : 票田
+0.0018542    1 point          : 丹田
+0.0018371    2 base           : 票田, 小田巻
+0.0018164    2 planting       : 田植, 田植え
+0.0017767    1 productive     : 美田
+0.0017223    1 ringworm       : 田虫
+0.0017042    1 tinea          : 田虫
+0.0016983    1 dryness        : 田作り
+0.0016880    1 holder         : 名田
+0.0016767    2 new            : 墾田, 新田
+0.0016618    1 stronghold     : 票田
+0.0016585    1 become         : 田舎びる
+0.0016548    1 reliable       : 票田
+0.0016418    1 countrified    : 田舎びる
+0.0016392    1 potato         : 御田
+0.0016318    1 floss          : 田麩
+0.0016234    1 electoral      : 票田
+0.0016223    1 meditative     : 丹田
+0.0016197    1 gentleman      : 田紳
+0.0016192    1 moist          : 湿田
+0.0016167    1 daikon         : 御田
+0.0016001    2 middle         : ど田舎, ド田舎
+0.0015808    1 unterraced     : 平田
+0.0015744    1 peasant        : 田夫
+0.0015459    1 navel          : 丹田
+0.0015283    1 irrigation     : 湿田
+0.0015188    1 tariff         : 田租
+0.0014920    1 empty          : 春田
+0.0014826    1 unregistered   : 隠し田
+0.0014703    1 Downing        : 永田町
+0.0014665    1 ripening       : 早稲田
+0.0014553    1 improper       : 湿田
+0.0014287    1 snail          : 田螺
+0.0014277    1 various        : 御田
+0.0014106    2 small          : 田作り, 小田
+0.0013874    1 seasoned       : 田麩
+0.0013733    1 layer          : 泥田
+0.0013635    1 mud            : 泥田
+0.0013603    1 charge         : 名田
+0.0013405    1 pond           : 田螺
+0.0013282    1 marshy         : 沼田
+0.0013238    1 pewter         : 半田
+0.0013226    1 rustic         : 田舎びる
+0.0013136    1 focus          : 丹田
+0.0012991    1 spring         : 春田
+0.0012956    1 marshland      : 新田
+0.0012949    1 town           : 田舎町
+0.0012871    1 source         : 票田
+0.0012648    1 patch          : 瓜田
+0.0012490    1 shrine         : 神田
+0.0012470    1 solder         : 半田
+0.0012386    1 pregnancy      : 岩田帯
+0.0012356    1 internal       : 丹田
+0.0012176    1 baked          : 田楽
+0.0012161    1 thick          : 泥田
+0.0012151    1 drying         : 塩田
+0.0012111    1 wasteland      : 新田
+0.0012049    1 tour           : 田舎回り
+0.0011936    1 bottom         : 泥田
+0.0011933    1 sugar          : 田作り
+0.0011917    1 strong         : 票田
+0.0011867    1 cook           : 田楽
+0.0011770    1 dancing        : 田楽
+0.0011639    1 soy            : 田作り
+0.0011331    1 surface        : 田の面
+0.0011291    1 due            : 湿田
+0.0011269    1 tax            : 田租
+0.0011216    1 dried          : 田作り
+0.0011170    1 coiffure       : 島田
+0.0011157    1 Aquilegia      : 小田巻
+0.0011157    1 columbine      : 小田巻
+0.0011071    1 sauce          : 田作り
+0.0010975    1 tofu           : 田楽
+0.0010953    1 sides          : 田楽
+0.0010874    1 plait          : 真田
+0.0010821    1 belt           : 岩田帯
+0.0010765    1 dry            : 乾田
+0.0010632    1 dance          : 田楽
+0.0010571    2 people         : 川田, 河田
+0.0010556    1 salt           : 塩田
+0.0010405    1 turning        : 田楽
+0.0010268    1 manner         : 田楽
+0.0010198    1 back           : 岩田帯
+0.0010150    1 festival       : 田楽
+0.0009732    1 body           : 田虫
+0.0009703    1 music          : 田楽
+0.0009573    1 braid          : 真田
+0.0009533    1 crane          : 田鶴
+0.0009426    1 custard        : 小田巻
+0.0009294    1 plantation     : 桑田
+0.0009056    1 proceeds       : 神田
+0.0009037    1 month          : 岩田帯
+0.0009018    1 oil            : 油田
+0.0009008    1 mulberry       : 桑田
+0.0008972    1 flat           : 平田
+0.0008903    1 unmarried      : 島田
+0.0008658    1 use            : 田楽
+0.0008629    1 coal           : 炭田
+0.0008469    1 house          : 田舎家
+0.0008407    1 center         : 永田町
+0.0007983    1 political      : 永田町
+0.0007887    1 hemp           : 小田巻
+0.0007809    1 yarn           : 小田巻
+0.0007708    1 hollow         : 小田巻
+0.0007504    1 Japanese       : 田平子
+0.0007362    1 bird           : 田鶴
+0.0007312    1 wound          : 小田巻
+0.0007098    1 raised         : 田舎育ち
+0.0007094    1 fan            : 小田巻
+0.0007024    1 popular        : 島田
+0.0006752    1 something      : 田楽
+0.0006726    1 prefecture     : 秋田
+0.0006678    1 pay            : 神田
+0.0006544    1 ball           : 小田巻
+0.0006359    1 hair           : 島田
+0.0006324    1 style          : 島田
+0.0005988    1 city           : 秋田
+0.0005965    1 road           : 田舎道
+0.0005729    1 going          : 神田
+0.0005679    1 green          : 青田
+0.0005262    1 high           : 上田
+0.0004581    1 one            : 田楽
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0763196   36 field
+	field WORD[ 1,   1]: 0.0192995 氷田
+	field WORD[ 1,   2]: 0.0099333 田守
+	field WORD[ 1,   3]: 0.0047813 田鼠
+	field WORD[ 1,   4]: 0.0028986 田起こし
+	field WORD[ 1,   5]: 0.0027086 私田
+	field WORD[ 1,   6]: 0.0022531 新田
+	field WORD[ 1,   7]: 0.0021063 田作り
+	field WORD[ 1,   8]: 0.0019113 麦田
+	field WORD[ 1,   9]: 0.0013264 春田
+	field WORD[ 1,  10]: 0.0013152 名田
+	field WORD[ 1,  11]: 0.0011561 上田
+	field WORD[ 1,  12]: 0.0011504 稲田
+	field WORD[ 1,  13]: 0.0011486 美田
+	field WORD[ 1,  14]: 0.0010902 泥田
+	field WORD[ 1,  15]: 0.0010741 田租
+	field WORD[ 1,  16]: 0.0010726 田地
+	field WORD[ 1,  17]: 0.0010576 田打ち
+	field WORD[ 1,  18]: 0.0010453 白田
+	field WORD[ 1,  19]: 0.0010223 墾田
+	field WORD[ 1,  20]: 0.0009611 乾田
+	field WORD[ 1,  21]: 0.0009568 瓜田
+	field WORD[ 1,  22]: 0.0009516 隠し田
+	field WORD[ 1,  23]: 0.0009514 塩田
+	field WORD[ 1,  24]: 0.0008999 早稲田
+	field WORD[ 1,  25]: 0.0008769 油田
+	field WORD[ 1,  26]: 0.0008006 深田
+	field WORD[ 1,  27]: 0.0007959 平田
+	field WORD[ 1,  28]: 0.0007541 沼田
+	field WORD[ 1,  29]: 0.0006950 田んぼ
+	field WORD[ 1,  30]: 0.0006950 田圃
+	field WORD[ 1,  31]: 0.0006822 田
+	field WORD[ 1,  32]: 0.0006723 炭田
+	field WORD[ 1,  33]: 0.0006676 水田
+	field WORD[ 1,  34]: 0.0006186 神田
+	field WORD[ 1,  35]: 0.0006129 刈田
+	field WORD[ 1,  36]: 0.0005954 小田
+TOKEN[ 2]: 0.0662326    6 rural
+	rural WORD[ 2,   1]: 0.0438645 田舍
+	rural WORD[ 2,   2]: 0.0173020 田舎言葉
+	rural WORD[ 2,   3]: 0.0017536 田家
+	rural WORD[ 2,   4]: 0.0009749 田園
+	rural WORD[ 2,   5]: 0.0007792 田舎町
+	rural WORD[ 2,   6]: 0.0007792 田舎
+TOKEN[ 3]: 0.0530566    9 countryside
+	countryside WORD[ 3,   1]: 0.0445508 田舍
+	countryside WORD[ 3,   2]: 0.0014798 田野
+	countryside WORD[ 3,   3]: 0.0010144 ど田舎
+	countryside WORD[ 3,   4]: 0.0010144 ド田舎
+	countryside WORD[ 3,   5]: 0.0009902 田園
+	countryside WORD[ 3,   6]: 0.0008414 片田舎
+	countryside WORD[ 3,   7]: 0.0007914 田舎もん
+	countryside WORD[ 3,   8]: 0.0007914 田舎者
+	countryside WORD[ 3,   9]: 0.0007914 田舎
+TOKEN[ 4]: 0.0471932    4 sticks
+	sticks WORD[ 4,   1]: 0.0436543 田舍
+	sticks WORD[ 4,   2]: 0.0009940 ど田舎
+	sticks WORD[ 4,   3]: 0.0009940 ド田舎
+	sticks WORD[ 4,   4]: 0.0007754 田舎
+TOKEN[ 5]: 0.0424282   35 rice
+	rice WORD[ 5,   1]: 0.0056327 田守
+	rice WORD[ 5,   2]: 0.0049310 田起こし
+	rice WORD[ 5,   3]: 0.0023315 良田
+	rice WORD[ 5,   4]: 0.0023039 私田
+	rice WORD[ 5,   5]: 0.0019164 新田
+	rice WORD[ 5,   6]: 0.0018545 泥田
+	rice WORD[ 5,   7]: 0.0016257 麦田
+	rice WORD[ 5,   8]: 0.0015702 田楽
+	rice WORD[ 5,   9]: 0.0011282 春田
+	rice WORD[ 5,  10]: 0.0011187 名田
+	rice WORD[ 5,  11]: 0.0009833 上田
+	rice WORD[ 5,  12]: 0.0009136 田租
+	rice WORD[ 5,  13]: 0.0009123 田地
+	rice WORD[ 5,  14]: 0.0008977 田の面
+	rice WORD[ 5,  15]: 0.0008963 田遊
+	rice WORD[ 5,  16]: 0.0008963 田遊び
+	rice WORD[ 5,  17]: 0.0008958 田作り
+	rice WORD[ 5,  18]: 0.0008891 白田
+	rice WORD[ 5,  19]: 0.0008696 墾田
+	rice WORD[ 5,  20]: 0.0008094 隠し田
+	rice WORD[ 5,  21]: 0.0007654 早稲田
+	rice WORD[ 5,  22]: 0.0006998 本田
+	rice WORD[ 5,  23]: 0.0006810 深田
+	rice WORD[ 5,  24]: 0.0006769 平田
+	rice WORD[ 5,  25]: 0.0006414 沼田
+	rice WORD[ 5,  26]: 0.0005893 田畑
+	rice WORD[ 5,  27]: 0.0005893 田畠
+	rice WORD[ 5,  28]: 0.0005888 棚田
+	rice WORD[ 5,  29]: 0.0005808 田植
+	rice WORD[ 5,  30]: 0.0005808 田植え
+	rice WORD[ 5,  31]: 0.0005803 田
+	rice WORD[ 5,  32]: 0.0005615 下田
+	rice WORD[ 5,  33]: 0.0005213 刈田
+	rice WORD[ 5,  34]: 0.0005064 小田
+	rice WORD[ 5,  35]: 0.0004892 稲田
+TOKEN[ 6]: 0.0326771    1 dialect
+	dialect WORD[ 6,   1]: 0.0326771 田舎言葉
+TOKEN[ 7]: 0.0325546    3 area
+	area WORD[ 7,   1]: 0.0304039 田舍
+	area WORD[ 7,   2]: 0.0010706 票田
+	area WORD[ 7,   3]: 0.0005401 田舎
+TOKEN[ 8]: 0.0313819   19 paddy
+	paddy WORD[ 8,   1]: 0.0041127 田起こし
+	paddy WORD[ 8,   2]: 0.0038891 良田
+	paddy WORD[ 8,   3]: 0.0035999 公田
+	paddy WORD[ 8,   4]: 0.0015468 泥田
+	paddy WORD[ 8,   5]: 0.0015218 田地
+	paddy WORD[ 8,   6]: 0.0015005 田打ち
+	paddy WORD[ 8,   7]: 0.0014975 田の面
+	paddy WORD[ 8,   8]: 0.0014942 田作り
+	paddy WORD[ 8,   9]: 0.0014832 白田
+	paddy WORD[ 8,  10]: 0.0014746 湿田
+	paddy WORD[ 8,  11]: 0.0013637 乾田
+	paddy WORD[ 8,  12]: 0.0011674 本田
+	paddy WORD[ 8,  13]: 0.0011292 平田
+	paddy WORD[ 8,  14]: 0.0010700 沼田
+	paddy WORD[ 8,  15]: 0.0009861 田んぼ
+	paddy WORD[ 8,  16]: 0.0009861 田圃
+	paddy WORD[ 8,  17]: 0.0009473 水田
+	paddy WORD[ 8,  18]: 0.0008161 稲田
+	paddy WORD[ 8,  19]: 0.0007956 青田
+TOKEN[ 9]: 0.0274385    5 provincial
+	provincial WORD[ 9,   1]: 0.0163653 田舎言葉
+	provincial WORD[ 9,   2]: 0.0084045 田舎芝居
+	provincial WORD[ 9,   3]: 0.0011947 田舎回り
+	provincial WORD[ 9,   4]: 0.0007370 田舎もん
+	provincial WORD[ 9,   5]: 0.0007370 田舎者
+TOKEN[10]: 0.0272896    1 eternal
+	eternal WORD[10,   1]: 0.0272896 氷田
+TOKEN[11]: 0.0253327    1 rat
+	rat WORD[11,   1]: 0.0126664 田鼠
+TOKEN[12]: 0.0244717   11 country
+	country WORD[12,   1]: 0.0079625 田舎暮らし
+	country WORD[12,   2]: 0.0051235 田舎っぺ
+	country WORD[12,   3]: 0.0035994 田舎侍
+	country WORD[12,   4]: 0.0026507 田舎娘
+	country WORD[12,   5]: 0.0010892 田紳
+	country WORD[12,   6]: 0.0009458 田舎家
+	country WORD[12,   7]: 0.0007300 田園
+	country WORD[12,   8]: 0.0006203 片田舎
+	country WORD[12,   9]: 0.0005834 田舎道
+	country WORD[12,  10]: 0.0005834 田舎町
+	country WORD[12,  11]: 0.0005834 田舎育ち
+TOKEN[13]: 0.0202584    1 snow
+	snow WORD[13,   1]: 0.0202584 氷田
+TOKEN[14]: 0.0132695    1 mouse
+	mouse WORD[14,   1]: 0.0066347 田鼠
+TOKEN[15]: 0.0105284    1 roof
+	roof WORD[15,   1]: 0.0052642 田鼠
+TOKEN[16]: 0.0099229    2 theatrical
+	theatrical WORD[16,   1]: 0.0086879 田舎芝居
+	theatrical WORD[16,   2]: 0.0012350 田舎回り
+TOKEN[17]: 0.0096468    1 black
+	black WORD[17,   1]: 0.0048234 田鼠
+TOKEN[18]: 0.0095270    3 hick
+	hick WORD[18,   1]: 0.0077597 田舎っぺ
+	hick WORD[18,   2]: 0.0008837 田舎もん
+	hick WORD[18,   3]: 0.0008837 田舎者
+TOKEN[19]: 0.0093775    3 performance
+	performance WORD[19,   1]: 0.0070971 田舎芝居
+	performance WORD[19,   2]: 0.0011402 田遊
+	performance WORD[19,   3]: 0.0011402 田遊び
+TOKEN[20]: 0.0090767    1 buttercup
+	buttercup WORD[20,   1]: 0.0090767 田芥子
+TOKEN[21]: 0.0090384    3 bumpkin
+	bumpkin WORD[21,   1]: 0.0073618 田舎っぺ
+	bumpkin WORD[21,   2]: 0.0008383 田舎もん
+	bumpkin WORD[21,   3]: 0.0008383 田舎者
+TOKEN[22]: 0.0087643    6 farm
+	farm WORD[22,   1]: 0.0035169 田荘
+	farm WORD[22,   2]: 0.0013786 田租
+	farm WORD[22,   3]: 0.0011967 田舎家
+	farm WORD[22,   4]: 0.0008920 田んぼ
+	farm WORD[22,   5]: 0.0008920 田圃
+	farm WORD[22,   6]: 0.0008881 田所
+TOKEN[23]: 0.0081449    1 yokel
+	yokel WORD[23,   1]: 0.0081449 田舎っぺ
+TOKEN[24]: 0.0066330    3 fertile
+	fertile WORD[24,   1]: 0.0040695 良田
+	fertile WORD[24,   2]: 0.0017053 美田
+	fertile WORD[24,   3]: 0.0008582 上田
+TOKEN[25]: 0.0059827    1 Eptatretus
+	Eptatretus WORD[25,   1]: 0.0059827 沼田鰻
+TOKEN[26]: 0.0059720    2 given
+	given WORD[26,   1]: 0.0029860 職田
+	given WORD[26,   2]: 0.0029860 位田
+TOKEN[27]: 0.0059063    3 system
+	system WORD[27,   1]: 0.0023817 職田
+	system WORD[27,   2]: 0.0023816 位田
+	system WORD[27,   3]: 0.0011430 名田
+TOKEN[28]: 0.0057742    1 tapeworm
+	tapeworm WORD[28,   1]: 0.0057742 真田虫
+TOKEN[29]: 0.0057070    2 goddess
+	goddess WORD[29,   1]: 0.0028535 立田姫
+	goddess WORD[29,   2]: 0.0028535 竜田姫
+TOKEN[30]: 0.0056184    1 Gallinago
+	Gallinago WORD[30,   1]: 0.0056184 田鷸
+TOKEN[31]: 0.0055079    1 hagfish
+	hagfish WORD[31,   1]: 0.0055079 沼田鰻
+TOKEN[32]: 0.0052596    1 snipe
+	snipe WORD[32,   1]: 0.0052596 田鷸
+TOKEN[33]: 0.0049457    1 Cardamine
+	Cardamine WORD[33,   1]: 0.0049457 田芥子
+TOKEN[34]: 0.0049404    4 harvest
+	harvest WORD[34,   1]: 0.0016170 春田
+	harvest WORD[34,   2]: 0.0012846 田遊
+	harvest WORD[34,   3]: 0.0012846 田遊び
+	harvest WORD[34,   4]: 0.0007541 神田
+TOKEN[35]: 0.0048691    1 protecting
+	protecting WORD[35,   1]: 0.0048691 田守
+TOKEN[36]: 0.0048133    2 fifth
+	fifth WORD[36,   1]: 0.0035868 位田
+	fifth WORD[36,   2]: 0.0012265 岩田帯
+TOKEN[37]: 0.0047573    4 land
+	land WORD[37,   1]: 0.0026520 職田
+	land WORD[37,   2]: 0.0007702 平田
+	land WORD[37,   3]: 0.0006964 田園
+	land WORD[37,   4]: 0.0006388 下田
+TOKEN[38]: 0.0047239    1 plowing
+	plowing WORD[38,   1]: 0.0047239 田起こし
+TOKEN[39]: 0.0046722    1 cursed
+	cursed WORD[39,   1]: 0.0046722 田芥子
+TOKEN[40]: 0.0046722    1 Ranunculus
+	Ranunculus WORD[40,   1]: 0.0046722 田芥子
+TOKEN[41]: 0.0046299    1 life
+	life WORD[41,   1]: 0.0046299 田舎暮らし
+TOKEN[42]: 0.0045529    4 person
+	person WORD[42,   1]: 0.0022619 田守
+	person WORD[42,   2]: 0.0007858 田舎もん
+	person WORD[42,   3]: 0.0007858 田舎者
+	person WORD[42,   4]: 0.0007194 田作り
+TOKEN[43]: 0.0045011    1 wavy
+	wavy WORD[43,   1]: 0.0045011 田芥子
+TOKEN[44]: 0.0044346    1 woodland
+	woodland WORD[44,   1]: 0.0044346 田芥子
+TOKEN[45]: 0.0043234    2 reform
+	reform WORD[45,   1]: 0.0034517 田荘
+	reform WORD[45,   2]: 0.0008717 田所
+TOKEN[46]: 0.0042722    1 dark
+	dark WORD[46,   1]: 0.0042722 田舎蕎麦
+TOKEN[47]: 0.0042497    1 watching
+	watching WORD[47,   1]: 0.0042497 田守
+TOKEN[48]: 0.0040545    1 samurai
+	samurai WORD[48,   1]: 0.0040545 田舎侍
+TOKEN[49]: 0.0038834    1 found
+	found WORD[49,   1]: 0.0038834 沼田鰻
+TOKEN[50]: 0.0038778    1 albus
+	albus WORD[50,   1]: 0.0038778 田鰻
+TOKEN[51]: 0.0037401    3 ritual
+	ritual WORD[51,   1]: 0.0013005 田遊
+	ritual WORD[51,   2]: 0.0013005 田遊び
+	ritual WORD[51,   3]: 0.0011391 田楽
+TOKEN[52]: 0.0035444    3 fish
+	fish WORD[52,   1]: 0.0018828 田麩
+	fish WORD[52,   2]: 0.0008536 魚田
+	fish WORD[52,   3]: 0.0008080 田楽
+TOKEN[53]: 0.0035372    2 private
+	private WORD[53,   1]: 0.0028241 田荘
+	private WORD[53,   2]: 0.0007132 田所
+TOKEN[54]: 0.0034694    2 cottage
+	cottage WORD[54,   1]: 0.0020167 田家
+	cottage WORD[54,   2]: 0.0014527 田舎家
+TOKEN[55]: 0.0032510    1 ruler
+	ruler WORD[55,   1]: 0.0032510 公田
+TOKEN[56]: 0.0032089    2 Japan
+	Japan WORD[56,   1]: 0.0026050 沼田鰻
+	Japan WORD[56,   2]: 0.0006040 永田町
+TOKEN[57]: 0.0031540    1 agriculture
+	agriculture WORD[57,   1]: 0.0031540 火田
+TOKEN[58]: 0.0030422    1 common
+	common WORD[58,   1]: 0.0030422 田鷸
+TOKEN[59]: 0.0030296    1 swamp
+	swamp WORD[59,   1]: 0.0030296 田鰻
+TOKEN[60]: 0.0030073    3 year
+	year WORD[60,   1]: 0.0010070 田遊
+	year WORD[60,   2]: 0.0010070 田遊び
+	year WORD[60,   3]: 0.0009932 湿田
+TOKEN[61]: 0.0029858    1 girl
+	girl WORD[61,   1]: 0.0029858 田舎娘
+TOKEN[62]: 0.0028878    1 rank
+	rank WORD[62,   1]: 0.0028878 位田
+TOKEN[63]: 0.0028412    1 melon
+	melon WORD[63,   1]: 0.0028412 瓜田
+TOKEN[64]: 0.0028227    1 allotment
+	allotment WORD[64,   1]: 0.0028227 班田
+TOKEN[65]: 0.0027788    2 coated
+	coated WORD[65,   1]: 0.0014276 魚田
+	coated WORD[65,   2]: 0.0013512 田楽
+TOKEN[66]: 0.0027410    1 species
+	species WORD[66,   1]: 0.0027410 沼田鰻
+TOKEN[67]: 0.0027141    2 pray
+	pray WORD[67,   1]: 0.0013570 田遊
+	pray WORD[67,   2]: 0.0013570 田遊び
+TOKEN[68]: 0.0026917    2 successful
+	successful WORD[68,   1]: 0.0013459 田遊
+	successful WORD[68,   2]: 0.0013458 田遊び
+TOKEN[69]: 0.0026664    1 government
+	government WORD[69,   1]: 0.0026664 職田
+TOKEN[70]: 0.0026660    2 boondocks
+	boondocks WORD[70,   1]: 0.0013330 ど田舎
+	boondocks WORD[70,   2]: 0.0013330 ド田舎
+TOKEN[71]: 0.0026647    2 muddy
+	muddy WORD[71,   1]: 0.0015364 泥田
+	muddy WORD[71,   2]: 0.0011283 深田
+TOKEN[72]: 0.0026475    1 eel
+	eel WORD[72,   1]: 0.0026475 田鰻
+TOKEN[73]: 0.0026375    1 living
+	living WORD[73,   1]: 0.0026375 田舎暮らし
+TOKEN[74]: 0.0026128    3 remote
+	remote WORD[74,   1]: 0.0009234 ど田舎
+	remote WORD[74,   2]: 0.0009234 ド田舎
+	remote WORD[74,   3]: 0.0007659 片田舎
+TOKEN[75]: 0.0025300    2 cultivated
+	cultivated WORD[75,   1]: 0.0015157 田野
+	cultivated WORD[75,   2]: 0.0010142 田園
+TOKEN[76]: 0.0025170    4 Edo
+	Edo WORD[76,   1]: 0.0007148 新田
+	Edo WORD[76,   2]: 0.0006270 島田
+	Edo WORD[76,   3]: 0.0005876 川田
+	Edo WORD[76,   4]: 0.0005876 河田
+TOKEN[77]: 0.0024347    1 Asian
+	Asian WORD[77,   1]: 0.0024347 田鰻
+TOKEN[78]: 0.0023660    2 autumn
+	autumn WORD[78,   1]: 0.0011830 立田姫
+	autumn WORD[78,   2]: 0.0011830 竜田姫
+TOKEN[79]: 0.0023328    1 wheat
+	wheat WORD[79,   1]: 0.0023328 麦田
+TOKEN[80]: 0.0022781    1 deity
+	deity WORD[80,   1]: 0.0022781 猿田彦
+TOKEN[81]: 0.0022591    2 used
+	used WORD[81,   1]: 0.0015159 麦田
+	used WORD[81,   2]: 0.0007432 岩田帯
+TOKEN[82]: 0.0022529    2 coming
+	coming WORD[82,   1]: 0.0011265 田遊
+	coming WORD[82,   2]: 0.0011265 田遊び
+TOKEN[83]: 0.0022253    2 support
+	support WORD[83,   1]: 0.0012214 票田
+	support WORD[83,   2]: 0.0010039 岩田帯
+TOKEN[84]: 0.0022030    4 period
+	period WORD[84,   1]: 0.0006256 新田
+	period WORD[84,   2]: 0.0005488 島田
+	period WORD[84,   3]: 0.0005143 川田
+	period WORD[84,   4]: 0.0005143 河田
+TOKEN[85]: 0.0021137    1 grow
+	grow WORD[85,   1]: 0.0021137 麦田
+TOKEN[86]: 0.0020700    2 egg
+	egg WORD[86,   1]: 0.0014208 御田
+	egg WORD[86,   2]: 0.0006492 小田巻
+TOKEN[87]: 0.0020488    2 fall
+	fall WORD[87,   1]: 0.0010244 立田姫
+	fall WORD[87,   2]: 0.0010244 竜田姫
+TOKEN[88]: 0.0020359    2 eta
+	eta WORD[88,   1]: 0.0010179 川田
+	eta WORD[88,   2]: 0.0010179 河田
+TOKEN[89]: 0.0019854    2 dish
+	dish WORD[89,   1]: 0.0013627 御田
+	dish WORD[89,   2]: 0.0006227 小田巻
+TOKEN[90]: 0.0019446    1 stewed
+	stewed WORD[90,   1]: 0.0019446 御田
+TOKEN[91]: 0.0019216    2 countryman
+	countryman WORD[91,   1]: 0.0009608 田舎もん
+	countryman WORD[91,   2]: 0.0009608 田舎者
+TOKEN[92]: 0.0019088    1 nipplewort
+	nipplewort WORD[92,   1]: 0.0019088 田平子
+TOKEN[93]: 0.0018897    1 saltpan
+	saltpan WORD[93,   1]: 0.0018897 塩田
+TOKEN[94]: 0.0018747    2 countryfolk
+	countryfolk WORD[94,   1]: 0.0009374 田舎もん
+	countryfolk WORD[94,   2]: 0.0009374 田舎者
+TOKEN[95]: 0.0018735    1 colonization
+	colonization WORD[95,   1]: 0.0018735 屯田
+TOKEN[96]: 0.0018661    1 nominal
+	nominal WORD[96,   1]: 0.0018661 名田
+TOKEN[97]: 0.0018580    1 voter
+	voter WORD[97,   1]: 0.0018580 票田
+TOKEN[98]: 0.0018542    1 point
+	point WORD[98,   1]: 0.0018542 丹田
+TOKEN[99]: 0.0018371    2 base
+	base WORD[99,   1]: 0.0012068 票田
+	base WORD[99,   2]: 0.0006303 小田巻
+TOKEN[100]: 0.0018164    2 planting
+	planting WORD[100,   1]: 0.0009082 田植
+	planting WORD[100,   2]: 0.0009082 田植え
+TOKEN[101]: 0.0017767    1 productive
+	productive WORD[101,   1]: 0.0017767 美田
+TOKEN[102]: 0.0017223    1 ringworm
+	ringworm WORD[102,   1]: 0.0017223 田虫
+TOKEN[103]: 0.0017042    1 tinea
+	tinea WORD[103,   1]: 0.0017042 田虫
+TOKEN[104]: 0.0016983    1 dryness
+	dryness WORD[104,   1]: 0.0016983 田作り
+TOKEN[105]: 0.0016880    1 holder
+	holder WORD[105,   1]: 0.0016880 名田
+TOKEN[106]: 0.0016767    2 new
+	new WORD[106,   1]: 0.0009666 墾田
+	new WORD[106,   2]: 0.0007101 新田
+TOKEN[107]: 0.0016618    1 stronghold
+	stronghold WORD[107,   1]: 0.0016618 票田
+TOKEN[108]: 0.0016585    1 become
+	become WORD[108,   1]: 0.0016585 田舎びる
+TOKEN[109]: 0.0016548    1 reliable
+	reliable WORD[109,   1]: 0.0016548 票田
+TOKEN[110]: 0.0016418    1 countrified
+	countrified WORD[110,   1]: 0.0016418 田舎びる
+TOKEN[111]: 0.0016392    1 potato
+	potato WORD[111,   1]: 0.0016392 御田
+TOKEN[112]: 0.0016318    1 floss
+	floss WORD[112,   1]: 0.0016318 田麩
+TOKEN[113]: 0.0016234    1 electoral
+	electoral WORD[113,   1]: 0.0016234 票田
+TOKEN[114]: 0.0016223    1 meditative
+	meditative WORD[114,   1]: 0.0016223 丹田
+TOKEN[115]: 0.0016197    1 gentleman
+	gentleman WORD[115,   1]: 0.0016197 田紳
+TOKEN[116]: 0.0016192    1 moist
+	moist WORD[116,   1]: 0.0016192 湿田
+TOKEN[117]: 0.0016167    1 daikon
+	daikon WORD[117,   1]: 0.0016167 御田
+TOKEN[118]: 0.0016001    2 middle
+	middle WORD[118,   1]: 0.0008001 ど田舎
+	middle WORD[118,   2]: 0.0008001 ド田舎
+TOKEN[119]: 0.0015808    1 unterraced
+	unterraced WORD[119,   1]: 0.0015808 平田
+TOKEN[120]: 0.0015744    1 peasant
+	peasant WORD[120,   1]: 0.0015744 田夫
+TOKEN[121]: 0.0015459    1 navel
+	navel WORD[121,   1]: 0.0015459 丹田
+TOKEN[122]: 0.0015283    1 irrigation
+	irrigation WORD[122,   1]: 0.0015283 湿田
+TOKEN[123]: 0.0015188    1 tariff
+	tariff WORD[123,   1]: 0.0015188 田租
+TOKEN[124]: 0.0014920    1 empty
+	empty WORD[124,   1]: 0.0014920 春田
+TOKEN[125]: 0.0014826    1 unregistered
+	unregistered WORD[125,   1]: 0.0014826 隠し田
+TOKEN[126]: 0.0014703    1 Downing
+	Downing WORD[126,   1]: 0.0014703 永田町
+TOKEN[127]: 0.0014665    1 ripening
+	ripening WORD[127,   1]: 0.0014665 早稲田
+TOKEN[128]: 0.0014553    1 improper
+	improper WORD[128,   1]: 0.0014553 湿田
+TOKEN[129]: 0.0014287    1 snail
+	snail WORD[129,   1]: 0.0014287 田螺
+TOKEN[130]: 0.0014277    1 various
+	various WORD[130,   1]: 0.0014277 御田
+TOKEN[131]: 0.0014106    2 small
+	small WORD[131,   1]: 0.0009012 田作り
+	small WORD[131,   2]: 0.0005095 小田
+TOKEN[132]: 0.0013874    1 seasoned
+	seasoned WORD[132,   1]: 0.0013874 田麩
+TOKEN[133]: 0.0013733    1 layer
+	layer WORD[133,   1]: 0.0013733 泥田
+TOKEN[134]: 0.0013635    1 mud
+	mud WORD[134,   1]: 0.0013635 泥田
+TOKEN[135]: 0.0013603    1 charge
+	charge WORD[135,   1]: 0.0013603 名田
+TOKEN[136]: 0.0013405    1 pond
+	pond WORD[136,   1]: 0.0013405 田螺
+TOKEN[137]: 0.0013282    1 marshy
+	marshy WORD[137,   1]: 0.0013282 沼田
+TOKEN[138]: 0.0013238    1 pewter
+	pewter WORD[138,   1]: 0.0013238 半田
+TOKEN[139]: 0.0013226    1 rustic
+	rustic WORD[139,   1]: 0.0013226 田舎びる
+TOKEN[140]: 0.0013136    1 focus
+	focus WORD[140,   1]: 0.0013136 丹田
+TOKEN[141]: 0.0012991    1 spring
+	spring WORD[141,   1]: 0.0012991 春田
+TOKEN[142]: 0.0012956    1 marshland
+	marshland WORD[142,   1]: 0.0012956 新田
+TOKEN[143]: 0.0012949    1 town
+	town WORD[143,   1]: 0.0012949 田舎町
+TOKEN[144]: 0.0012871    1 source
+	source WORD[144,   1]: 0.0012871 票田
+TOKEN[145]: 0.0012648    1 patch
+	patch WORD[145,   1]: 0.0012648 瓜田
+TOKEN[146]: 0.0012490    1 shrine
+	shrine WORD[146,   1]: 0.0012490 神田
+TOKEN[147]: 0.0012470    1 solder
+	solder WORD[147,   1]: 0.0012470 半田
+TOKEN[148]: 0.0012386    1 pregnancy
+	pregnancy WORD[148,   1]: 0.0012386 岩田帯
+TOKEN[149]: 0.0012356    1 internal
+	internal WORD[149,   1]: 0.0012356 丹田
+TOKEN[150]: 0.0012176    1 baked
+	baked WORD[150,   1]: 0.0012176 田楽
+TOKEN[151]: 0.0012161    1 thick
+	thick WORD[151,   1]: 0.0012161 泥田
+TOKEN[152]: 0.0012151    1 drying
+	drying WORD[152,   1]: 0.0012151 塩田
+TOKEN[153]: 0.0012111    1 wasteland
+	wasteland WORD[153,   1]: 0.0012111 新田
+TOKEN[154]: 0.0012049    1 tour
+	tour WORD[154,   1]: 0.0012049 田舎回り
+TOKEN[155]: 0.0011936    1 bottom
+	bottom WORD[155,   1]: 0.0011936 泥田
+TOKEN[156]: 0.0011933    1 sugar
+	sugar WORD[156,   1]: 0.0011933 田作り
+TOKEN[157]: 0.0011917    1 strong
+	strong WORD[157,   1]: 0.0011917 票田
+TOKEN[158]: 0.0011867    1 cook
+	cook WORD[158,   1]: 0.0011867 田楽
+TOKEN[159]: 0.0011770    1 dancing
+	dancing WORD[159,   1]: 0.0011770 田楽
+TOKEN[160]: 0.0011639    1 soy
+	soy WORD[160,   1]: 0.0011639 田作り
+TOKEN[161]: 0.0011331    1 surface
+	surface WORD[161,   1]: 0.0011331 田の面
+TOKEN[162]: 0.0011291    1 due
+	due WORD[162,   1]: 0.0011291 湿田
+TOKEN[163]: 0.0011269    1 tax
+	tax WORD[163,   1]: 0.0011269 田租
+TOKEN[164]: 0.0011216    1 dried
+	dried WORD[164,   1]: 0.0011216 田作り
+TOKEN[165]: 0.0011170    1 coiffure
+	coiffure WORD[165,   1]: 0.0011170 島田
+TOKEN[166]: 0.0011157    1 Aquilegia
+	Aquilegia WORD[166,   1]: 0.0011157 小田巻
+TOKEN[167]: 0.0011157    1 columbine
+	columbine WORD[167,   1]: 0.0011157 小田巻
+TOKEN[168]: 0.0011071    1 sauce
+	sauce WORD[168,   1]: 0.0011071 田作り
+TOKEN[169]: 0.0010975    1 tofu
+	tofu WORD[169,   1]: 0.0010975 田楽
+TOKEN[170]: 0.0010953    1 sides
+	sides WORD[170,   1]: 0.0010953 田楽
+TOKEN[171]: 0.0010874    1 plait
+	plait WORD[171,   1]: 0.0010874 真田
+TOKEN[172]: 0.0010821    1 belt
+	belt WORD[172,   1]: 0.0010821 岩田帯
+TOKEN[173]: 0.0010765    1 dry
+	dry WORD[173,   1]: 0.0010765 乾田
+TOKEN[174]: 0.0010632    1 dance
+	dance WORD[174,   1]: 0.0010632 田楽
+TOKEN[175]: 0.0010571    2 people
+	people WORD[175,   1]: 0.0005286 川田
+	people WORD[175,   2]: 0.0005286 河田
+TOKEN[176]: 0.0010556    1 salt
+	salt WORD[176,   1]: 0.0010556 塩田
+TOKEN[177]: 0.0010405    1 turning
+	turning WORD[177,   1]: 0.0010405 田楽
+TOKEN[178]: 0.0010268    1 manner
+	manner WORD[178,   1]: 0.0010268 田楽
+TOKEN[179]: 0.0010198    1 back
+	back WORD[179,   1]: 0.0010198 岩田帯
+TOKEN[180]: 0.0010150    1 festival
+	festival WORD[180,   1]: 0.0010150 田楽
+TOKEN[181]: 0.0009732    1 body
+	body WORD[181,   1]: 0.0009732 田虫
+TOKEN[182]: 0.0009703    1 music
+	music WORD[182,   1]: 0.0009703 田楽
+TOKEN[183]: 0.0009573    1 braid
+	braid WORD[183,   1]: 0.0009573 真田
+TOKEN[184]: 0.0009533    1 crane
+	crane WORD[184,   1]: 0.0009533 田鶴
+TOKEN[185]: 0.0009426    1 custard
+	custard WORD[185,   1]: 0.0009426 小田巻
+TOKEN[186]: 0.0009294    1 plantation
+	plantation WORD[186,   1]: 0.0009294 桑田
+TOKEN[187]: 0.0009056    1 proceeds
+	proceeds WORD[187,   1]: 0.0009056 神田
+TOKEN[188]: 0.0009037    1 month
+	month WORD[188,   1]: 0.0009037 岩田帯
+TOKEN[189]: 0.0009018    1 oil
+	oil WORD[189,   1]: 0.0009018 油田
+TOKEN[190]: 0.0009008    1 mulberry
+	mulberry WORD[190,   1]: 0.0009008 桑田
+TOKEN[191]: 0.0008972    1 flat
+	flat WORD[191,   1]: 0.0008972 平田
+TOKEN[192]: 0.0008903    1 unmarried
+	unmarried WORD[192,   1]: 0.0008903 島田
+TOKEN[193]: 0.0008658    1 use
+	use WORD[193,   1]: 0.0008658 田楽
+TOKEN[194]: 0.0008629    1 coal
+	coal WORD[194,   1]: 0.0008629 炭田
+TOKEN[195]: 0.0008469    1 house
+	house WORD[195,   1]: 0.0008469 田舎家
+TOKEN[196]: 0.0008407    1 center
+	center WORD[196,   1]: 0.0008407 永田町
+TOKEN[197]: 0.0007983    1 political
+	political WORD[197,   1]: 0.0007983 永田町
+TOKEN[198]: 0.0007887    1 hemp
+	hemp WORD[198,   1]: 0.0007887 小田巻
+TOKEN[199]: 0.0007809    1 yarn
+	yarn WORD[199,   1]: 0.0007809 小田巻
+TOKEN[200]: 0.0007708    1 hollow
+	hollow WORD[200,   1]: 0.0007708 小田巻
+TOKEN[201]: 0.0007504    1 Japanese
+	Japanese WORD[201,   1]: 0.0007504 田平子
+TOKEN[202]: 0.0007362    1 bird
+	bird WORD[202,   1]: 0.0007362 田鶴
+TOKEN[203]: 0.0007312    1 wound
+	wound WORD[203,   1]: 0.0007312 小田巻
+TOKEN[204]: 0.0007098    1 raised
+	raised WORD[204,   1]: 0.0007098 田舎育ち
+TOKEN[205]: 0.0007094    1 fan
+	fan WORD[205,   1]: 0.0007094 小田巻
+TOKEN[206]: 0.0007024    1 popular
+	popular WORD[206,   1]: 0.0007024 島田
+TOKEN[207]: 0.0006752    1 something
+	something WORD[207,   1]: 0.0006752 田楽
+TOKEN[208]: 0.0006726    1 prefecture
+	prefecture WORD[208,   1]: 0.0006726 秋田
+TOKEN[209]: 0.0006678    1 pay
+	pay WORD[209,   1]: 0.0006678 神田
+TOKEN[210]: 0.0006544    1 ball
+	ball WORD[210,   1]: 0.0006544 小田巻
+TOKEN[211]: 0.0006359    1 hair
+	hair WORD[211,   1]: 0.0006359 島田
+TOKEN[212]: 0.0006324    1 style
+	style WORD[212,   1]: 0.0006324 島田
+TOKEN[213]: 0.0005988    1 city
+	city WORD[213,   1]: 0.0005988 秋田
+TOKEN[214]: 0.0005965    1 road
+	road WORD[214,   1]: 0.0005965 田舎道
+TOKEN[215]: 0.0005729    1 going
+	going WORD[215,   1]: 0.0005729 神田
+TOKEN[216]: 0.0005679    1 green
+	green WORD[216,   1]: 0.0005679 青田
+TOKEN[217]: 0.0005262    1 high
+	high WORD[217,   1]: 0.0005262 上田
+TOKEN[218]: 0.0004581    1 one
+	one WORD[218,   1]: 0.0004581 田楽

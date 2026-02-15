@@ -1,0 +1,2287 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0470038   43 mind           : 留心, 妄心, 乙女心, 夢心地, 心がける, 心懸ける, 心掛ける, 娘心, おさな心, 幼心, ...
+0.0332537   41 heart          : 徒心, 直心, 心, 心魂, 心血, 全心, 憂心, 内心, 心肺, 心臓, ...
+0.0270907    7 attention      : 留心, 心くばり, 心配り, 専心, 心がけ, 心懸け, 心掛け
+0.0262310    1 bearing        : 留心
+0.0259550    1 paying         : 留心
+0.0235664    1 restless       : 心忙しい
+0.0158948    9 comfort        : かけ心地, 掛け心地, 使い心地, 座り心地, 寝心地, 乗り心地, 乗心地, 住み心地, 居心地
+0.0131756   11 feeling        : 心勝り, 乙女心, 快心, 乗り心地, 乗心地, 心持, 心持ち, 心苦しい, 心劣り, 人心, ...
+0.0120805   16 mental         : 心所, 心障, 心象, 心境, 心像, 心持, 心持ち, 乱心, 心的, 心痛, ...
+0.0104722    4 desire         : いたずら心, 悪戯心, 旅心, 絵心
+0.0088706   24 one            : 本心, 心魂, 心血, 心底, 心, 全心, 乗り心地, 乗心地, 心裏, 心裡, ...
+0.0079922    2 glasses        : かけ心地, 掛け心地
+0.0076395    2 timidity       : 心後れ, 小心
+0.0076085    2 chair          : かけ心地, 掛け心地
+0.0074519    1 diffidence     : 心後れ
+0.0073103   10 center         : 外心, 円心, 重心, 心髄, 湖心, 花心, 爆心, 内心, 都心, 心
+0.0065119    1 polluted       : 妄心
+0.0065119    1 incapable      : 妄心
+0.0064609    2 mischief       : いたずら心, 悪戯心
+0.0059524    1 cheating       : 徒心
+0.0058028    2 tease          : いたずら心, 悪戯心
+0.0056916    4 central        : 心柱, 心礎, 唯心, 心臓
+0.0056883    1 fickle         : 徒心
+0.0056361    1 fleeting       : 徒心
+0.0053737    1 better         : 心勝り
+0.0053588    4 comfortable    : 心地よい, 心地好い, 心地良い, 快心
+0.0053048    7 spirit         : 心技, 心霊, 心根, 義心, 雄心, 人心, 心
+0.0052504    2 pagoda         : 心柱, 心礎
+0.0052230    1 essence        : 妄心
+0.0051025    3 understanding  : 妄心, 得心, 心得
+0.0049832    6 core           : 心線, 心, 鉄心, 炉心, 中心, 核心
+0.0048580    6 consciousness  : 人心地, 唯心, 心づく, 心付く, 人心, 失心
+0.0047511    4 something      : 心勝り, 着心地, 心劣り, 心臓
+0.0047100    1 ingenuous      : 純心
+0.0046468    6 kindness       : 水心, 心づくし, 心尽くし, 心尽し, 人心, 魚心
+0.0045748    2 pillar         : 心柱, 心礎
+0.0044205    2 naive          : 純心, 初心
+0.0043989    2 innocent       : 純心, 初心
+0.0043267    9 consideration  : 手心, 心ばえ, 心づくし, 心尽くし, 心尽し, 心くばり, 心配り, 心づかい, 心遣い
+0.0043115    2 cause          : いたずら心, 悪戯心
+0.0042764   11 care           : 心くばり, 心配り, 用心, 要心, 心配, 心づかい, 心遣い, 心がけ, 心懸け, 心掛け, ...
+0.0042646    1 original       : 妄心
+0.0042618    3 feel           : 履き心地, 着心地, 寝心地
+0.0042509    5 treachery      : 異心, 二心, 弐心, 逆心, 野心
+0.0038563    7 disposition    : 心性, 心術, 心持, 心持ち, 心ばえ, 心根, 気心
+0.0037991    3 pleasant       : 心地よい, 心地好い, 心地良い
+0.0037856    2 calm           : 心穏やか, 人心地
+0.0037613    3 wick           : 心切り, 灯心, 燈心
+0.0037598    7 mood           : 心気, 詩心, 心持, 心持ち, 歌心, 心地, 遊び心
+0.0037369    3 awareness      : 人心地, 物心, 人心
+0.0036727    2 pure           : 純心, 直心
+0.0036571    2 pericardium    : 心膜, 心嚢
+0.0036541    6 thoughtfulness : 心やり, 心遣り, 心くばり, 心配り, 心づかい, 心遣い
+0.0036214    9 attitude       : 心持, 心持ち, 心境, 心機, 心がまえ, 心構え, 心がけ, 心懸け, 心掛け
+0.0035042    7 devotion       : 赤心, 孝心, 真心, 心服, 心酔, 信心, 執心
+0.0034983    7 anticipation   : 心組, 心組み, 心当て, 心待ち, 心づもり, 心積もり, 心積り
+0.0034756    1 untroubled     : 心穏やか
+0.0034686    3 good           : 履き心地, 着心地, 快心
+0.0033227    1 religion       : 心柱
+0.0032597    2 bad            : 履き心地, 着心地
+0.0032518    1 performer      : 心打ち
+0.0032067    1 suicide        : 心中
+0.0031153    6 bottom         : 心底, 心髄, 心裏, 心裡, 下心, 心
+0.0030456    5 sentiment      : 民心, 心気, 詩心, 歌心, 心情
+0.0030359    6 nature         : 心性, 心術, 心ばえ, 心根, 人心, 心
+0.0030251    1 outer          : 外心
+0.0029993    5 sincerity      : 丹心, 赤心, 至心, 真心, 誠心
+0.0029653    2 heartbreak     : 心傷, 傷心
+0.0029644    1 maiden         : 乙女心
+0.0028727    1 relieved       : 心穏やか
+0.0028544    3 relief         : 人心地, 休心, 安心
+0.0028127    3 friend         : 心友, 腹心, 心
+0.0027979    2 level          : 使い心地, 座り心地
+0.0027898    1 leader         : 心柱
+0.0027852    3 sensation      : 心地, 心持, 心持ち
+0.0027621    1 serene         : 心穏やか
+0.0027129    7 intention      : 本心, 内心, 下心, 心算, 心がけ, 心懸け, 心掛け
+0.0026905    1 snuffer        : 心切り
+0.0026905    1 trimmer        : 心切り
+0.0026905    1 douter         : 心切り
+0.0026589    4 innermost      : 衷心, 心腹, 心根, 心底
+0.0025707    1 girl           : 乙女心
+0.0025474    1 relaxed        : 心穏やか
+0.0025212    1 use            : 使い心地
+0.0025119    5 state          : 夢心地, 心境, 心柄, 心理, 心機
+0.0024655    3 affection      : 愛心, 残心, 親心
+0.0024516    3 poetic         : 詩心, 歌心, 有心
+0.0024500    3 soul           : 心魂, 心血, 心霊
+0.0023875    1 circumcenter   : 外心
+0.0023466    4 know           : 心得る, 心あたり, 心当たり, 心当り
+0.0023446    4 inner          : 内心, 心裏, 心裡, 心
+0.0023426    5 love           : 愛心, 親心, 心変り, 心変わり, 恋心
+0.0023290    6 anxiety        : 心労, 心配, 焦心, 心もとない, 心許ない, 心許無い
+0.0023042    1 pleasantness   : 使い心地
+0.0022675    2 somehow        : 心なし, 心成し
+0.0022302    3 gratuity       : 心付, 心づけ, 心付け
+0.0022095    2 forlorn        : 心寂しい, 心細い
+0.0022052    2 riding         : 乗り心地, 乗心地
+0.0021974    3 happening      : 心あたり, 心当たり, 心当り
+0.0021928    5 preparation    : 心組, 心組み, 心づもり, 心積もり, 心積り
+0.0021739    1 intoxicated    : 酔い心地
+0.0021589    1 candle         : 心切り
+0.0021242    2 ride           : 乗り心地, 乗心地
+0.0021239    1 girlish        : 娘心
+0.0021063    2 grief          : 心傷, 傷心
+0.0020450    1 headliner      : 心打ち
+0.0020397    2 vehicle        : 乗り心地, 乗心地
+0.0020262    3 change         : 心変り, 心変わり, 変心
+0.0020244    5 concern        : 心ばえ, 心配, 心づかい, 心遣い, 関心
+0.0019844    3 conscience     : 善心, 良心, 本心
+0.0019739    1 scratch        : 水心
+0.0019739    1 pericardial    : 心膜
+0.0019669    4 true           : 直心, 赤心, 真心, 本心
+0.0019387    5 expectation    : 心待ち, 心づもり, 心積もり, 心積り, 心算
+0.0018799    2 quality        : 乗り心地, 乗心地
+0.0018480    1 technique      : 心技
+0.0018479    3 ability        : 詩心, 絵心, 物心
+0.0018346    1 storyteller    : 心打ち
+0.0018343    3 moral          : 善心, 心学, 道心
+0.0018273    1 clothing       : 履き心地
+0.0018205    3 concentration  : 接心, 摂心, 専心
+0.0017935    3 innocence      : 娘心, 無心, 童心
+0.0017889    4 prudence       : 小心, 心がけ, 心懸け, 心掛け
+0.0017773    2 duplicity      : 二心, 弐心
+0.0017770    1 wearing        : 着心地
+0.0017662    3 precaution     : 用心, 要心, 戒心
+0.0017567    1 lonesome       : 心寂しい
+0.0017356    1 waka           : 歌心
+0.0017098    4 sympathy       : 心ばえ, 人心, 心づかい, 心遣い
+0.0017094    2 discretion     : 手心, 物心
+0.0017013    1 alertness      : 残心
+0.0016878    2 inconsiderate  : 心ない, 心無い
+0.0016648    3 aware          : 心づく, 心付く, 心得る
+0.0016483    1 dreamy         : 夢心地
+0.0016427    2 human          : 人心, 心霊
+0.0016337    1 parental       : 親心
+0.0016297    3 motive         : 私心, 心根, 下心
+0.0016205    3 solicitude     : 心ばえ, 心づかい, 心遣い
+0.0016187    3 sense          : 善心, 道心, 安心
+0.0016177    1 ease           : 使い心地
+0.0015999    3 attachment     : 残心, 有心, 執心
+0.0015978    3 tip            : 心付, 心づけ, 心付け
+0.0015872    1 sac            : 心膜
+0.0015677    1 sit            : 座り心地
+0.0015604    3 caution        : 用心, 要心, 戒心
+0.0015544    2 intensive      : 接心, 摂心
+0.0015411    1 disorder       : 心障
+0.0015408    2 tasteless      : 心ない, 心無い
+0.0015296    2 understand     : 心得る, 物心
+0.0015288    3 idea           : 心あたり, 心当たり, 心当り
+0.0015203    2 main           : 心打ち, 肝心
+0.0015155    1 highest        : 心打ち
+0.0015104    2 homesickness   : 里心, 帰心
+0.0014983    3 unsure         : 心もとない, 心許ない, 心許無い
+0.0014891    1 introspection  : 観心
+0.0014714    3 peace          : 放心, 休心, 安心
+0.0014694    4 worry          : 痛心, 心労, 心配, 心痛
+0.0014643    3 undependable   : 心もとない, 心許ない, 心許無い
+0.0014643    3 erratic        : 心もとない, 心許ない, 心許無い
+0.0014643    3 untrustworthy  : 心もとない, 心許ない, 心許無い
+0.0014588    1 star           : 心打ち
+0.0014330    1 circle         : 円心
+0.0014280    2 heartbeat      : 心音, 心拍
+0.0014155    1 treacherous    : 異心
+0.0014145    1 grieving       : 憂心
+0.0014130    1 nausea         : 悪心
+0.0014099    3 child          : おさな心, 幼心, 童心
+0.0013742    3 endeavor       : 心がける, 心懸ける, 心掛ける
+0.0013651    2 recreation     : 心やり, 心遣り
+0.0013623    1 trance         : 夢心地
+0.0013564    1 base           : 心礎
+0.0013548    1 conductor      : 心線
+0.0013376    1 unison         : 協心
+0.0013373    3 thought        : 心慮, 有心, 心算
+0.0013352    2 perceive       : 心づく, 心付く
+0.0013319    3 conversion     : 廻心, 改心, 回心
+0.0013266    2 realize        : 心づく, 心付く
+0.0013233    1 accord         : 協心
+0.0013149    2 appreciate     : 詩心, 絵心
+0.0013122    2 temperament    : 心術, 心ばえ
+0.0013104    1 sorry          : 心苦しい
+0.0013074    3 nervous        : 心もとない, 心許ない, 心許無い
+0.0012969    3 uneasy         : 心もとない, 心許ない, 心許無い
+0.0012969    3 unclear        : 心もとない, 心許ない, 心許無い
+0.0012959    2 regain         : 心づく, 心付く
+0.0012831    2 diversion      : 心やり, 心遣り
+0.0012793    1 merciful       : 仏心
+0.0012790    1 stone          : 心礎
+0.0012781    3 fear           : 疑心, 心労, 心配
+0.0012779    3 satisfied      : 得心, 心ゆく, 心行く
+0.0012714    1 ecstasy        : 夢心地
+0.0012632    1 lake           : 湖心
+0.0012624    2 image          : 心象, 心像
+0.0012609    3 indistinct     : 心もとない, 心許ない, 心許無い
+0.0012592    2 guarding       : 用心, 要心
+0.0012585    2 lamp           : 灯心, 燈心
+0.0012582    2 mentality      : 心気, 心理
+0.0012541    2 intimate       : 心友, 心安い
+0.0012530    3 impatient      : 心もとない, 心許ない, 心許無い
+0.0012530    3 unreliable     : 心もとない, 心許ない, 心許無い
+0.0012382    2 thoughtless    : 心ない, 心無い
+0.0012355    1 rank           : 心打ち
+0.0012330    1 vomit          : 悪心
+0.0012315    3 belief         : 信心, 心証, 心算
+0.0012114    2 cruel          : 心ない, 心無い
+0.0012050    2 middle         : 湖心, 中心
+0.0012048    3 real           : 本心, 内心, 心底
+0.0012018    3 anxious        : 心もとない, 心許ない, 心許無い
+0.0011995    4 plan           : 心づもり, 心積もり, 心積り, 心算
+0.0011893    2 whole          : 全心, 一心
+0.0011562    3 period         : 接心, 摂心, 同心
+0.0011523    2 aspiration     : 雄心, 野心
+0.0011399    2 heartache      : 痛心, 心痛
+0.0011373    1 wire           : 心線
+0.0011318    1 iron           : 鉄心
+0.0011286    2 ambition       : 雄心, 野心
+0.0011233    2 group          : 心棒, 心中
+0.0011211    2 evil           : 邪心, 害心
+0.0011196    3 vague          : 心もとない, 心許ない, 心許無い
+0.0011182    2 admirable      : 心憎い, 感心
+0.0011137    3 admiration     : 心服, 心酔, 感心
+0.0011123    1 knowing        : 水心
+0.0011012    3 try            : 心がける, 心懸ける, 心掛ける
+0.0010994    1 spiritualism   : 唯心
+0.0010984    3 thinking       : 心がけ, 心懸け, 心掛け
+0.0010892    1 centroid       : 重心
+0.0010892    1 barycenter     : 重心
+0.0010866    1 urge           : 悪心
+0.0010855    1 swim           : 水心
+0.0010766    1 charity        : 仏心
+0.0010730    3 aim            : 心がける, 心懸ける, 心掛ける
+0.0010690    2 watchfulness   : 心づかい, 心遣い
+0.0010622    1 city           : 都心
+0.0010621    1 sleeping       : 寝心地
+0.0010479    2 notice         : 心づく, 心付く
+0.0010469    1 explosion      : 爆心
+0.0010458    1 tang           : 中心
+0.0010427    2 taste          : 詩心, 絵心
+0.0010408    1 mercy          : 仏心
+0.0010188    1 male           : 男心
+0.0010043    3 bear           : 心がける, 心懸ける, 心掛ける
+0.0010012    2 regret         : 残心, 心残り
+0.0009877    2 psychology     : 心理, 女心
+0.0009871    1 bed            : 寝心地
+0.0009804    2 faint          : 心弱い, 失心
+0.0009802    2 little         : 心持, 心持ち
+0.0009717    1 judgment       : 物心
+0.0009587    3 interest       : 心変り, 心変わり, 関心
+0.0009577    2 contented      : 心ゆく, 心行く
+0.0009362    1 flower         : 花心
+0.0009306    1 psychogenesis  : 心因
+0.0009247    3 keep           : 心がける, 心懸ける, 心掛ける
+0.0009219    2 Chinese        : 点心, 心
+0.0009154    1 orthocenter    : 垂心
+0.0009151    1 mandrel        : 心棒
+0.0009151    2 resolution     : 発心, 決心
+0.0009087    1 phenomena      : 唯心
+0.0009067    1 counterstroke  : 残心
+0.0009067    1 unrelaxed      : 残心
+0.0009055    2 readiness      : 心がまえ, 心構え
+0.0009008    2 free           : 虚心, 無心
+0.0008998    1 tenderhearted  : 心弱い
+0.0008876    2 conviction     : 心証, 心算
+0.0008872    1 gravity        : 重心
+0.0008754    1 unsophisticated: 初心
+0.0008737    1 heartwood      : 心材
+0.0008731    1 ethical        : 心学
+0.0008712    1 vitality       : 心
+0.0008681    1 back           : 水心
+0.0008675    2 favor          : 歓心, 魚心
+0.0008643    2 preparedness   : 心がまえ, 心構え
+0.0008586    1 ethereal       : 心霊
+0.0008584    1 subsoil        : 心土
+0.0008550    1 congeniality   : 会心
+0.0008470    1 nest           : 中心
+0.0008405    1 hub            : 心髄
+0.0008401    1 ventricle      : 心室
+0.0008396    1 thumping       : 心悸
+0.0008348    2 come           : 心づく, 心付く
+0.0008321    2 become         : 心づく, 心付く
+0.0008207    1 propensity     : 盗心
+0.0008183    1 zenith         : 天心
+0.0008181    1 preconceived   : 虚心
+0.0008181    1 receptive      : 虚心
+0.0008157    1 palpitation    : 心悸
+0.0008146    2 art            : 絵心, 心得る
+0.0008117    1 inexperienced  : 初心
+0.0008094    1 greed          : 欲心
+0.0008088    1 frivolity      : 男心
+0.0008058    1 sutra          : 唯心
+0.0008043    1 assurance      : 安心
+0.0008028    1 refreshment    : 点心
+0.0007981    1 pith           : 心髄
+0.0007981    1 marrow         : 心髄
+0.0007972    1 heartfelt      : 心願
+0.0007926    1 centrifuge     : 遠心
+0.0007921    1 doctrine       : 唯心
+0.0007878    1 safety         : 安心
+0.0007851    1 devoted        : 直心
+0.0007821    1 fretfulness    : 心気
+0.0007821    1 tedium         : 心気
+0.0007774    2 effort         : 腐心, 苦心
+0.0007764    1 produced       : 唯心
+0.0007758    3 way            : 心がけ, 心懸け, 心掛け
+0.0007742    1 double         : 心中
+0.0007710    1 alarming       : 寒心
+0.0007677    1 confidence     : 安心
+0.0007657    1 discreet       : 細心
+0.0007647    1 impulse        : 出来心
+0.0007618    1 reluctance     : 残心
+0.0007563    1 atrium         : 心房
+0.0007516    1 wicked         : 邪心
+0.0007506    1 wet            : 初心
+0.0007494    1 selfishness    : 私心
+0.0007493    1 nucleus        : 心髄
+0.0007478    1 reactor        : 炉心
+0.0007442    1 derangement    : 乱心
+0.0007442    1 faithfulness   : 丹心
+0.0007437    1 providence     : 天心
+0.0007424    1 gratification  : 会心
+0.0007386    1 continued      : 残心
+0.0007358    1 axle           : 心棒
+0.0007354    1 teaching       : 唯心
+0.0007286    1 constellation  : 心
+0.0007275    2 trouble        : 腐心, 苦心
+0.0007270    1 fancy          : 出来心
+0.0007251    1 brutal         : 獣心
+0.0007195    1 bosom          : 心友
+0.0007195    1 arbor          : 心棒
+0.0007179    1 blended        : 心学
+0.0007168    1 constancy      : 恒心
+0.0007167    1 nostalgia      : 里心
+0.0007165    1 satisfaction   : 会心
+0.0007164    1 prudent        : 細心
+0.0007147    1 reliance       : 心頼み
+0.0007139    1 jealousy       : 妬心
+0.0007114    1 aptitude       : 絵心
+0.0007060    1 irritation     : 心気
+0.0007009    1 allowance      : 手心
+0.0007007    1 pounding       : 心悸
+0.0006993    1 steadiness     : 恒心
+0.0006939    1 security       : 安心
+0.0006937    1 dependence     : 心頼み
+0.0006869    2 frame          : 心がまえ, 心構え
+0.0006862    1 malice         : 害心
+0.0006860    1 scrupulous     : 細心
+0.0006857    1 living         : 住み心地
+0.0006833    1 obstructive    : 無心
+0.0006833    1 insentient     : 無心
+0.0006822    1 painful        : 心苦しい
+0.0006815    1 mechanics      : 偏心
+0.0006811    1 meticulous     : 細心
+0.0006795    1 balance        : 重心
+0.0006793    1 deplorable     : 寒心
+0.0006792    1 grounding      : 歌心
+0.0006758    1 going          : 物心
+0.0006712    1 racking        : 腐心
+0.0006705    1 Confucian      : 心学
+0.0006705    1 philosophy     : 心学
+0.0006700    1 confidant      : 腹心
+0.0006675    1 filial         : 孝心
+0.0006664    1 inclination    : 詩心
+0.0006664    1 selfish        : 私心
+0.0006662    1 design         : 邪心
+0.0006635    1 carefree       : 心安い
+0.0006628    2 knowledge      : 心得る, 心得
+0.0006628    1 strength       : 心
+0.0006593    1 inspiration    : 詩心
+0.0006576    1 honest         : 直心
+0.0006562    1 concentricity  : 同心
+0.0006562    1 unanimity      : 同心
+0.0006514    1 worse          : 心劣り
+0.0006497    1 steal          : 盗心
+0.0006475    1 alienation     : 隔心
+0.0006465    1 archery        : 残心
+0.0006440    1 chivalrous     : 義心
+0.0006416    1 travel         : 旅心
+0.0006410    1 nuclear        : 炉心
+0.0006374    1 estrangement   : 隔心
+0.0006365    1 inanimate      : 無心
+0.0006349    1 shaft          : 心棒
+0.0006322    1 green          : 初心
+0.0006311    1 dim            : 点心
+0.0006309    1 artistic       : 絵心
+0.0006304    1 insanity       : 乱心
+0.0006300    1 kind           : 芳心
+0.0006277    1 apprehension   : 疑心
+0.0006264    1 sword          : 中心
+0.0006242    1 superb         : 心憎い
+0.0006228    1 ghost          : 心霊
+0.0006221    1 apostasy       : 変心
+0.0006216    1 prepared       : 残心
+0.0006215    1 suggestion     : 心添え
+0.0006203    1 popular        : 民心
+0.0006190    1 advice         : 心添え
+0.0006169    1 inmost         : 内心
+0.0006165    1 informal       : 心祝い
+0.0006141    1 sum            : 点心
+0.0006126    1 Buddhism       : 直心
+0.0006103    1 inconstancy    : 変心
+0.0006073    1 zealous        : 熱心
+0.0006066    1 madness        : 乱心
+0.0006051    1 virtue         : 善心
+0.0006029    1 suspicion      : 疑心
+0.0006015    1 celebration    : 心祝い
+0.0005998    1 wish           : 心願
+0.0005985    1 careful        : 細心
+0.0005981    1 character      : 心
+0.0005946    1 discrimination : 有心
+0.0005942    1 emotion        : 心緒
+0.0005935    1 monk           : 点心
+0.0005935    1 Zen            : 点心
+0.0005923    1 guess          : 心当て
+0.0005919    1 childlike      : 童心
+0.0005917    1 electronics    : 偏心
+0.0005914    1 cardiopulmonary: 心肺
+0.0005911    1 godliness      : 信心
+0.0005909    1 myocardium     : 心筋
+0.0005909    1 unthinkable    : 心外
+0.0005897    1 pester         : 無心
+0.0005894    1 passion        : 心猿
+0.0005884    1 energy         : 心血
+0.0005859    1 familiar       : 心安い
+0.0005844    1 prayer         : 心願
+0.0005832    1 divine         : 天心
+0.0005816    1 sinister       : 野心
+0.0005815    1 sudden         : 出来心
+0.0005810    1 prostate       : 心太
+0.0005804    1 heroic         : 雄心
+0.0005803    1 agreeing       : 得心
+0.0005803    1 consenting     : 得心
+0.0005782    1 doubt          : 疑心
+0.0005782    1 refined        : 心憎い
+0.0005778    1 passing        : 出来心
+0.0005773    1 eccentricity   : 偏心
+0.0005698    1 disheartening  : 心細い
+0.0005697    1 heartening     : 心強い
+0.0005697    2 body           : 心身, 身心
+0.0005684    1 early          : 点心
+0.0005659    1 undivided      : 専心
+0.0005649    1 simple         : 点心
+0.0005640    1 Shinto         : 心学
+0.0005640    1 stomach        : 心腹
+0.0005606    1 historical     : 有心
+0.0005582    1 morning        : 点心
+0.0005580    1 awakening      : 発心
+0.0005567    1 paint          : 絵心
+0.0005566    1 chest          : 心腹
+0.0005560    1 solid          : 歌心
+0.0005559    2 young          : おさな心, 幼心
+0.0005555    1 centripetal    : 求心
+0.0005526    1 pedantry       : 小心
+0.0005525    1 place          : 住み心地
+0.0005517    1 orgasm         : 心太
+0.0005514    1 naivete        : 童心
+0.0005514    1 constable      : 同心
+0.0005512    1 meal           : 点心
+0.0005485    1 reserve        : 隔心
+0.0005473    1 poetry         : 詩心
+0.0005471    1 brains         : 腐心
+0.0005461    1 family         : 心中
+0.0005414    1 ardent         : 熱心
+0.0005404    1 brave          : 雄心
+0.0005401    1 cash           : 無心
+0.0005377    1 study          : 心学
+0.0005369    1 guard          : 残心
+0.0005344    1 guideline      : 心得
+0.0005328    1 metropolis     : 都心
+0.0005295    1 stupefaction   : 喪心
+0.0005207    1 painting       : 絵心
+0.0005193    1 fervent        : 熱心
+0.0005182    1 psychological  : 心的
+0.0005178    1 upsetting      : 心外
+0.0005175    1 abstraction    : 喪心
+0.0005174    1 opinion        : 心慮
+0.0005170    1 pride          : 慢心
+0.0005162    1 cowardice      : 小心
+0.0005140    1 discouraging   : 心細い
+0.0005139    1 eye            : 心眼
+0.0005129    1 spiritual      : 発心
+0.0005118    1 thinning       : 摘心
+0.0005112    1 wholeheartedness: 一心
+0.0005076    1 fainting       : 喪心
+0.0005069    1 eager          : 熱心
+0.0004978    1 policeman      : 同心
+0.0004961    1 meaning        : 歌心
+0.0004935    1 keen           : 熱心
+0.0004921    1 stupor         : 喪心
+0.0004890    1 urban          : 都心
+0.0004881    1 inside         : 内心
+0.0004869    1 impatience     : 焦心
+0.0004847    1 Buddhist       : 心学
+0.0004835    2 someone        : 無心, 改心
+0.0004829    1 swoon          : 失心
+0.0004825    1 enthusiastic   : 熱心
+0.0004808    1 convinced      : 得心
+0.0004791    1 infatuation    : 執心
+0.0004756    1 ulterior       : 下心
+0.0004735    1 sound          : 心音
+0.0004709    1 reassuring     : 心強い
+0.0004690    1 retainer       : 腹心
+0.0004665    1 poem           : 歌心
+0.0004642    1 unpromising    : 心細い
+0.0004600    1 regrettable    : 心外
+0.0004561    1 spine          : 心臓
+0.0004560    1 piety          : 信心
+0.0004523    1 imaginativeness: 遊び心
+0.0004485    1 gall           : 心臓
+0.0004485    1 cheek          : 心臓
+0.0004481    1 praiseworthy   : 感心
+0.0004480    1 helpless       : 心細い
+0.0004452    1 hearty         : 心服
+0.0004452    1 lung           : 心肺
+0.0004436    1 humanity       : 仁心
+0.0004431    1 correcting     : 改心
+0.0004421    1 food           : 点心
+0.0004400    1 kernel         : 核心
+0.0004372    1 astonishment   : 感心
+0.0004335    1 uneasiness     : 心配
+0.0004334    1 agony          : 心痛
+0.0004326    1 crucial        : 肝心
+0.0004307    1 adoration      : 心酔
+0.0004295    1 playfulness    : 遊び心
+0.0004292    1 crux           : 核心
+0.0004291    1 lot            : 腐心
+0.0004289    1 assumption     : 心算
+0.0004252    1 goodwill       : 魚心
+0.0004216    1 nerve          : 心臓
+0.0004212    1 benevolence    : 仁心
+0.0004176    1 hopeless       : 心細い
+0.0004175    1 deputy         : 心得
+0.0004173    1 muscle         : 心筋
+0.0004139    1 submission     : 心服
+0.0004112    1 vital          : 肝心
+0.0004101    1 determination  : 決心
+0.0004082    1 regard         : 心得る
+0.0004023    1 faith          : 信心
+0.0003973    1 meditation     : 潜心
+0.0003968    1 school         : 有心
+0.0003943    1 essential      : 肝心
+0.0003903    1 sorrow         : 傷心
+0.0003869    1 right          : 本心
+0.0003868    1 playful        : 遊び心
+0.0003850    1 fat            : 心残り
+0.0003817    1 unexpected     : 心外
+0.0003811    1 aid            : 心配
+0.0003804    1 reform         : 改心
+0.0003799    1 flesh          : 心残り
+0.0003789    1 capital        : 都心
+0.0003777    1 failure        : 衝心
+0.0003773    1 assistance     : 心配
+0.0003765    1 temper         : 気心
+0.0003764    1 physical       : 心的
+0.0003713    1 machine        : 心肺
+0.0003687    1 impression     : 心証
+0.0003661    1 losing         : 失心
+0.0003617    1 memory         : 心覚え
+0.0003577    1 making         : 腐心
+0.0003576    1 acting         : 心得
+0.0003558    1 labor          : 苦心
+0.0003525    1 chicken        : 心残り
+0.0003518    1 labour         : 苦心
+0.0003490    1 command        : 心得る
+0.0003477    1 taking         : 腐心
+0.0003465    1 purpose        : 心算
+0.0003465    1 responsibility : 心得る
+0.0003450    1 help           : 心配
+0.0003418    1 great          : 腐心
+0.0003399    1 Edo            : 同心
+0.0003396    1 conduct        : 改心
+0.0003383    1 picture        : 心象
+0.0003368    1 accept         : 心得る
+0.0003343    1 skill          : 心得る
+0.0003334    1 radical        : 下心
+0.0003268    1 important      : 肝心
+0.0003214    1 strong         : 心証
+0.0003180    1 blood          : 心残り
+0.0003078    1 secret         : 下心
+0.0003053    1 made           : 心太
+0.0002987    1 hard           : 苦心
+0.0002943    1 public         : 人心
+0.0002940    1 matter         : 核心
+0.0002938    1 female         : 女心
+0.0002812    1 people         : 人心
+0.0002791    1 part           : 心臓
+0.0002650    1 woman          : 女心
+0.0002540    1 work           : 苦心
+0.0002504    1 point          : 核心
+0.0002444    1 take           : 心得る
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0470038   43 mind
+	mind WORD[ 1,   1]: 0.0208590 留心
+	mind WORD[ 1,   2]: 0.0074194 妄心
+	mind WORD[ 1,   3]: 0.0020068 乙女心
+	mind WORD[ 1,   4]: 0.0008229 夢心地
+	mind WORD[ 1,   5]: 0.0005688 心がける
+	mind WORD[ 1,   6]: 0.0005688 心懸ける
+	mind WORD[ 1,   7]: 0.0005688 心掛ける
+	mind WORD[ 1,   8]: 0.0005302 娘心
+	mind WORD[ 1,   9]: 0.0005269 おさな心
+	mind WORD[ 1,  10]: 0.0005269 幼心
+	mind WORD[ 1,  11]: 0.0004653 心性
+	mind WORD[ 1,  12]: 0.0004652 心神
+	mind WORD[ 1,  13]: 0.0004650 心事
+	mind WORD[ 1,  14]: 0.0004647 心眼
+	mind WORD[ 1,  15]: 0.0004647 心学
+	mind WORD[ 1,  16]: 0.0004646 心意
+	mind WORD[ 1,  17]: 0.0004568 心頭
+	mind WORD[ 1,  18]: 0.0004568 心緒
+	mind WORD[ 1,  19]: 0.0004490 心柄
+	mind WORD[ 1,  20]: 0.0004489 心あたり
+	mind WORD[ 1,  21]: 0.0004489 心当たり
+	mind WORD[ 1,  22]: 0.0004489 心当り
+	mind WORD[ 1,  23]: 0.0004058 心裏
+	mind WORD[ 1,  24]: 0.0004058 心裡
+	mind WORD[ 1,  25]: 0.0003655 本心
+	mind WORD[ 1,  26]: 0.0003632 放心
+	mind WORD[ 1,  27]: 0.0003627 変心
+	mind WORD[ 1,  28]: 0.0003283 内心
+	mind WORD[ 1,  29]: 0.0003276 童心
+	mind WORD[ 1,  30]: 0.0003276 同心
+	mind WORD[ 1,  31]: 0.0002953 心理
+	mind WORD[ 1,  32]: 0.0002952 心底
+	mind WORD[ 1,  33]: 0.0002951 心身
+	mind WORD[ 1,  34]: 0.0002951 身心
+	mind WORD[ 1,  35]: 0.0002950 心境
+	mind WORD[ 1,  36]: 0.0002844 心変り
+	mind WORD[ 1,  37]: 0.0002844 心変わり
+	mind WORD[ 1,  38]: 0.0002844 心がまえ
+	mind WORD[ 1,  39]: 0.0002844 心構え
+	mind WORD[ 1,  40]: 0.0002844 心
+	mind WORD[ 1,  41]: 0.0002773 休心
+	mind WORD[ 1,  42]: 0.0002552 一心
+	mind WORD[ 1,  43]: 0.0002526 安心
+TOKEN[ 2]: 0.0332537   41 heart
+	heart WORD[ 2,   1]: 0.0113455 徒心
+	heart WORD[ 2,   2]: 0.0015805 直心
+	heart WORD[ 2,   3]: 0.0011792 心
+	heart WORD[ 2,   4]: 0.0009639 心魂
+	heart WORD[ 2,   5]: 0.0009637 心血
+	heart WORD[ 2,   6]: 0.0008741 全心
+	heart WORD[ 2,   7]: 0.0008712 憂心
+	heart WORD[ 2,   8]: 0.0006806 内心
+	heart WORD[ 2,   9]: 0.0006122 心肺
+	heart WORD[ 2,  10]: 0.0006120 心臓
+	heart WORD[ 2,  11]: 0.0006120 心底
+	heart WORD[ 2,  12]: 0.0005606 邪心
+	heart WORD[ 2,  13]: 0.0005088 獣心
+	heart WORD[ 2,  14]: 0.0004840 赤心
+	heart WORD[ 2,  15]: 0.0004832 心胆
+	heart WORD[ 2,  16]: 0.0004823 心髄
+	heart WORD[ 2,  17]: 0.0004817 心悸
+	heart WORD[ 2,  18]: 0.0004817 心肝
+	heart WORD[ 2,  19]: 0.0004735 心頭
+	heart WORD[ 2,  20]: 0.0004657 心弱い
+	heart WORD[ 2,  21]: 0.0004656 心根
+	heart WORD[ 2,  22]: 0.0004234 雄心
+	heart WORD[ 2,  23]: 0.0004206 心裏
+	heart WORD[ 2,  24]: 0.0004206 心裡
+	heart WORD[ 2,  25]: 0.0003817 真心
+	heart WORD[ 2,  26]: 0.0003789 本心
+	heart WORD[ 2,  27]: 0.0003778 仏心
+	heart WORD[ 2,  28]: 0.0003337 都心
+	heart WORD[ 2,  29]: 0.0003072 人心
+	heart WORD[ 2,  30]: 0.0003059 心情
+	heart WORD[ 2,  31]: 0.0003058 心筋
+	heart WORD[ 2,  32]: 0.0003049 衝心
+	heart WORD[ 2,  33]: 0.0003022 下心
+	heart WORD[ 2,  34]: 0.0002949 心残り
+	heart WORD[ 2,  35]: 0.0002949 心変り
+	heart WORD[ 2,  36]: 0.0002949 心変わり
+	heart WORD[ 2,  37]: 0.0002795 核心
+	heart WORD[ 2,  38]: 0.0002771 女心
+	heart WORD[ 2,  39]: 0.0002731 おさな心
+	heart WORD[ 2,  40]: 0.0002731 幼心
+	heart WORD[ 2,  41]: 0.0002646 一心
+TOKEN[ 3]: 0.0270907    7 attention
+	attention WORD[ 3,   1]: 0.0246640 留心
+	attention WORD[ 3,   2]: 0.0005309 心くばり
+	attention WORD[ 3,   3]: 0.0005309 心配り
+	attention WORD[ 3,   4]: 0.0003561 専心
+	attention WORD[ 3,   5]: 0.0003363 心がけ
+	attention WORD[ 3,   6]: 0.0003363 心懸け
+	attention WORD[ 3,   7]: 0.0003363 心掛け
+TOKEN[ 4]: 0.0262310    1 bearing
+	bearing WORD[ 4,   1]: 0.0262310 留心
+TOKEN[ 5]: 0.0259550    1 paying
+	paying WORD[ 5,   1]: 0.0259550 留心
+TOKEN[ 6]: 0.0235664    1 restless
+	restless WORD[ 6,   1]: 0.0235664 心忙しい
+TOKEN[ 7]: 0.0158948    9 comfort
+	comfort WORD[ 7,   1]: 0.0037485 かけ心地
+	comfort WORD[ 7,   2]: 0.0037485 掛け心地
+	comfort WORD[ 7,   3]: 0.0017344 使い心地
+	comfort WORD[ 7,   4]: 0.0016807 座り心地
+	comfort WORD[ 7,   5]: 0.0011640 寝心地
+	comfort WORD[ 7,   6]: 0.0011640 乗り心地
+	comfort WORD[ 7,   7]: 0.0011640 乗心地
+	comfort WORD[ 7,   8]: 0.0008983 住み心地
+	comfort WORD[ 7,   9]: 0.0005925 居心地
+TOKEN[ 8]: 0.0131756   11 feeling
+	feeling WORD[ 8,   1]: 0.0043842 心勝り
+	feeling WORD[ 8,   2]: 0.0022009 乙女心
+	feeling WORD[ 8,   3]: 0.0018668 快心
+	feeling WORD[ 8,   4]: 0.0009025 乗り心地
+	feeling WORD[ 8,   5]: 0.0009025 乗心地
+	feeling WORD[ 8,   6]: 0.0004926 心持
+	feeling WORD[ 8,   7]: 0.0004926 心持ち
+	feeling WORD[ 8,   8]: 0.0004924 心苦しい
+	feeling WORD[ 8,   9]: 0.0004924 心劣り
+	feeling WORD[ 8,  10]: 0.0003250 人心
+	feeling WORD[ 8,  11]: 0.0003119 心地
+TOKEN[ 9]: 0.0120805   16 mental
+	mental WORD[ 9,   1]: 0.0037433 心所
+	mental WORD[ 9,   2]: 0.0015105 心障
+	mental WORD[ 9,   3]: 0.0007677 心象
+	mental WORD[ 9,   4]: 0.0007675 心境
+	mental WORD[ 9,   5]: 0.0006059 心像
+	mental WORD[ 9,   6]: 0.0005843 心持
+	mental WORD[ 9,   7]: 0.0005843 心持ち
+	mental WORD[ 9,   8]: 0.0005152 乱心
+	mental WORD[ 9,   9]: 0.0003840 心的
+	mental WORD[ 9,  10]: 0.0003840 心痛
+	mental WORD[ 9,  11]: 0.0003838 心機
+	mental WORD[ 9,  12]: 0.0003700 心がまえ
+	mental WORD[ 9,  13]: 0.0003700 心構え
+	mental WORD[ 9,  14]: 0.0003700 心がけ
+	mental WORD[ 9,  15]: 0.0003700 心懸け
+	mental WORD[ 9,  16]: 0.0003700 心掛け
+TOKEN[10]: 0.0104722    4 desire
+	desire WORD[10,   1]: 0.0046891 いたずら心
+	desire WORD[10,   2]: 0.0046890 悪戯心
+	desire WORD[10,   3]: 0.0005634 旅心
+	desire WORD[10,   4]: 0.0005307 絵心
+TOKEN[11]: 0.0088706   24 one
+	one WORD[11,   1]: 0.0007802 本心
+	one WORD[11,   2]: 0.0004962 心魂
+	one WORD[11,   3]: 0.0004961 心血
+	one WORD[11,   4]: 0.0004726 心底
+	one WORD[11,   5]: 0.0004553 心
+	one WORD[11,   6]: 0.0004500 全心
+	one WORD[11,   7]: 0.0004392 乗り心地
+	one WORD[11,   8]: 0.0004392 乗心地
+	one WORD[11,   9]: 0.0004331 心裏
+	one WORD[11,  10]: 0.0004331 心裡
+	one WORD[11,  11]: 0.0003150 心情
+	one WORD[11,  12]: 0.0002902 重心
+	one WORD[11,  13]: 0.0002724 一心
+	one WORD[11,  14]: 0.0002483 心髄
+	one WORD[11,  15]: 0.0002480 心音
+	one WORD[11,  16]: 0.0002438 心腹
+	one WORD[11,  17]: 0.0002416 残心
+	one WORD[11,  18]: 0.0002397 心任せ
+	one WORD[11,  19]: 0.0002396 心づく
+	one WORD[11,  20]: 0.0002396 心付く
+	one WORD[11,  21]: 0.0001929 物心
+	one WORD[11,  22]: 0.0001906 腐心
+	one WORD[11,  23]: 0.0001903 腹心
+	one WORD[11,  24]: 0.0001752 内心
+TOKEN[12]: 0.0079922    2 glasses
+	glasses WORD[12,   1]: 0.0039961 かけ心地
+	glasses WORD[12,   2]: 0.0039961 掛け心地
+TOKEN[13]: 0.0076395    2 timidity
+	timidity WORD[13,   1]: 0.0071446 心後れ
+	timidity WORD[13,   2]: 0.0004950 小心
+TOKEN[14]: 0.0076085    2 chair
+	chair WORD[14,   1]: 0.0038043 かけ心地
+	chair WORD[14,   2]: 0.0038042 掛け心地
+TOKEN[15]: 0.0074519    1 diffidence
+	diffidence WORD[15,   1]: 0.0074519 心後れ
+TOKEN[16]: 0.0073103   10 center
+	center WORD[16,   1]: 0.0015425 外心
+	center WORD[16,   2]: 0.0007451 円心
+	center WORD[16,   3]: 0.0007037 重心
+	center WORD[16,   4]: 0.0006020 心髄
+	center WORD[16,   5]: 0.0005905 湖心
+	center WORD[16,   6]: 0.0005500 花心
+	center WORD[16,   7]: 0.0004492 爆心
+	center WORD[16,   8]: 0.0004248 内心
+	center WORD[16,   9]: 0.0004165 都心
+	center WORD[16,  10]: 0.0003680 心
+TOKEN[17]: 0.0065119    1 polluted
+	polluted WORD[17,   1]: 0.0065119 妄心
+TOKEN[18]: 0.0065119    1 incapable
+	incapable WORD[18,   1]: 0.0065119 妄心
+TOKEN[19]: 0.0064609    2 mischief
+	mischief WORD[19,   1]: 0.0032305 いたずら心
+	mischief WORD[19,   2]: 0.0032304 悪戯心
+TOKEN[20]: 0.0059524    1 cheating
+	cheating WORD[20,   1]: 0.0059524 徒心
+TOKEN[21]: 0.0058028    2 tease
+	tease WORD[21,   1]: 0.0029014 いたずら心
+	tease WORD[21,   2]: 0.0029014 悪戯心
+TOKEN[22]: 0.0056916    4 central
+	central WORD[22,   1]: 0.0029953 心柱
+	central WORD[22,   2]: 0.0015922 心礎
+	central WORD[22,   3]: 0.0007179 唯心
+	central WORD[22,   4]: 0.0003861 心臓
+TOKEN[23]: 0.0056883    1 fickle
+	fickle WORD[23,   1]: 0.0056883 徒心
+TOKEN[24]: 0.0056361    1 fleeting
+	fleeting WORD[24,   1]: 0.0056361 徒心
+TOKEN[25]: 0.0053737    1 better
+	better WORD[25,   1]: 0.0053737 心勝り
+TOKEN[26]: 0.0053588    4 comfortable
+	comfortable WORD[26,   1]: 0.0013769 心地よい
+	comfortable WORD[26,   2]: 0.0013769 心地好い
+	comfortable WORD[26,   3]: 0.0013769 心地良い
+	comfortable WORD[26,   4]: 0.0012281 快心
+TOKEN[27]: 0.0053048    7 spirit
+	spirit WORD[27,   1]: 0.0016024 心技
+	spirit WORD[27,   2]: 0.0014403 心霊
+	spirit WORD[27,   3]: 0.0004719 心根
+	spirit WORD[27,   4]: 0.0004520 義心
+	spirit WORD[27,   5]: 0.0004291 雄心
+	spirit WORD[27,   6]: 0.0003114 人心
+	spirit WORD[27,   7]: 0.0002988 心
+TOKEN[28]: 0.0052504    2 pagoda
+	pagoda WORD[28,   1]: 0.0034281 心柱
+	pagoda WORD[28,   2]: 0.0018223 心礎
+TOKEN[29]: 0.0052230    1 essence
+	essence WORD[29,   1]: 0.0052230 妄心
+TOKEN[30]: 0.0051025    3 understanding
+	understanding WORD[30,   1]: 0.0043864 妄心
+	understanding WORD[30,   2]: 0.0003798 得心
+	understanding WORD[30,   3]: 0.0003363 心得
+TOKEN[31]: 0.0049832    6 core
+	core WORD[31,   1]: 0.0010930 心線
+	core WORD[31,   2]: 0.0007596 心
+	core WORD[31,   3]: 0.0006495 鉄心
+	core WORD[31,   4]: 0.0005315 炉心
+	core WORD[31,   5]: 0.0004150 中心
+	core WORD[31,   6]: 0.0003601 核心
+TOKEN[32]: 0.0048580    6 consciousness
+	consciousness WORD[32,   1]: 0.0019797 人心地
+	consciousness WORD[32,   2]: 0.0007764 唯心
+	consciousness WORD[32,   3]: 0.0006351 心づく
+	consciousness WORD[32,   4]: 0.0006351 心付く
+	consciousness WORD[32,   5]: 0.0004192 人心
+	consciousness WORD[32,   6]: 0.0004126 失心
+TOKEN[33]: 0.0047511    4 something
+	something WORD[33,   1]: 0.0030972 心勝り
+	something WORD[33,   2]: 0.0010774 着心地
+	something WORD[33,   3]: 0.0003478 心劣り
+	something WORD[33,   4]: 0.0002287 心臓
+TOKEN[34]: 0.0047100    1 ingenuous
+	ingenuous WORD[34,   1]: 0.0047100 純心
+TOKEN[35]: 0.0046468    6 kindness
+	kindness WORD[35,   1]: 0.0010235 水心
+	kindness WORD[35,   2]: 0.0006144 心づくし
+	kindness WORD[35,   3]: 0.0006144 心尽くし
+	kindness WORD[35,   4]: 0.0006143 心尽し
+	kindness WORD[35,   5]: 0.0004054 人心
+	kindness WORD[35,   6]: 0.0003514 魚心
+TOKEN[36]: 0.0045748    2 pillar
+	pillar WORD[36,   1]: 0.0029870 心柱
+	pillar WORD[36,   2]: 0.0015878 心礎
+TOKEN[37]: 0.0044205    2 naive
+	naive WORD[37,   1]: 0.0035796 純心
+	naive WORD[37,   2]: 0.0004204 初心
+TOKEN[38]: 0.0043989    2 innocent
+	innocent WORD[38,   1]: 0.0035621 純心
+	innocent WORD[38,   2]: 0.0004184 初心
+TOKEN[39]: 0.0043267    9 consideration
+	consideration WORD[39,   1]: 0.0005606 手心
+	consideration WORD[39,   2]: 0.0005184 心ばえ
+	consideration WORD[39,   3]: 0.0005183 心づくし
+	consideration WORD[39,   4]: 0.0005183 心尽くし
+	consideration WORD[39,   5]: 0.0005183 心尽し
+	consideration WORD[39,   6]: 0.0005182 心くばり
+	consideration WORD[39,   7]: 0.0005182 心配り
+	consideration WORD[39,   8]: 0.0003283 心づかい
+	consideration WORD[39,   9]: 0.0003283 心遣い
+TOKEN[40]: 0.0043115    2 cause
+	cause WORD[40,   1]: 0.0021557 いたずら心
+	cause WORD[40,   2]: 0.0021557 悪戯心
+TOKEN[41]: 0.0042764   11 care
+	care WORD[41,   1]: 0.0005239 心くばり
+	care WORD[41,   2]: 0.0005239 心配り
+	care WORD[41,   3]: 0.0004561 用心
+	care WORD[41,   4]: 0.0004561 要心
+	care WORD[41,   5]: 0.0003446 心配
+	care WORD[41,   6]: 0.0003319 心づかい
+	care WORD[41,   7]: 0.0003319 心遣い
+	care WORD[41,   8]: 0.0003319 心がけ
+	care WORD[41,   9]: 0.0003319 心懸け
+	care WORD[41,  10]: 0.0003319 心掛け
+	care WORD[41,  11]: 0.0003123 戒心
+TOKEN[42]: 0.0042646    1 original
+	original WORD[42,   1]: 0.0042646 妄心
+TOKEN[43]: 0.0042618    3 feel
+	feel WORD[43,   1]: 0.0018292 履き心地
+	feel WORD[43,   2]: 0.0015282 着心地
+	feel WORD[43,   3]: 0.0009044 寝心地
+TOKEN[44]: 0.0042509    5 treachery
+	treachery WORD[44,   1]: 0.0013662 異心
+	treachery WORD[44,   2]: 0.0007972 二心
+	treachery WORD[44,   3]: 0.0007972 弐心
+	treachery WORD[44,   4]: 0.0006829 逆心
+	treachery WORD[44,   5]: 0.0006074 野心
+TOKEN[45]: 0.0038563    7 disposition
+	disposition WORD[45,   1]: 0.0005975 心性
+	disposition WORD[45,   2]: 0.0005971 心術
+	disposition WORD[45,   3]: 0.0005768 心持
+	disposition WORD[45,   4]: 0.0005768 心持ち
+	disposition WORD[45,   5]: 0.0005768 心ばえ
+	disposition WORD[45,   6]: 0.0005768 心根
+	disposition WORD[45,   7]: 0.0003547 気心
+TOKEN[46]: 0.0037991    3 pleasant
+	pleasant WORD[46,   1]: 0.0012664 心地よい
+	pleasant WORD[46,   2]: 0.0012664 心地好い
+	pleasant WORD[46,   3]: 0.0012664 心地良い
+TOKEN[47]: 0.0037856    2 calm
+	calm WORD[47,   1]: 0.0020954 心穏やか
+	calm WORD[47,   2]: 0.0016902 人心地
+TOKEN[48]: 0.0037613    3 wick
+	wick WORD[48,   1]: 0.0022547 心切り
+	wick WORD[48,   2]: 0.0007533 灯心
+	wick WORD[48,   3]: 0.0007533 燈心
+TOKEN[49]: 0.0037598    7 mood
+	mood WORD[49,   1]: 0.0005714 心気
+	mood WORD[49,   2]: 0.0005648 詩心
+	mood WORD[49,   3]: 0.0005523 心持
+	mood WORD[49,   4]: 0.0005523 心持ち
+	mood WORD[49,   5]: 0.0005119 歌心
+	mood WORD[49,   6]: 0.0003497 心地
+	mood WORD[49,   7]: 0.0003078 遊び心
+TOKEN[50]: 0.0037369    3 awareness
+	awareness WORD[50,   1]: 0.0021623 人心地
+	awareness WORD[50,   2]: 0.0005584 物心
+	awareness WORD[50,   3]: 0.0004578 人心
+TOKEN[51]: 0.0036727    2 pure
+	pure WORD[51,   1]: 0.0030535 純心
+	pure WORD[51,   2]: 0.0006191 直心
+TOKEN[52]: 0.0036571    2 pericardium
+	pericardium WORD[52,   1]: 0.0018519 心膜
+	pericardium WORD[52,   2]: 0.0018052 心嚢
+TOKEN[53]: 0.0036541    6 thoughtfulness
+	thoughtfulness WORD[53,   1]: 0.0006940 心やり
+	thoughtfulness WORD[53,   2]: 0.0006940 心遣り
+	thoughtfulness WORD[53,   3]: 0.0006936 心くばり
+	thoughtfulness WORD[53,   4]: 0.0006936 心配り
+	thoughtfulness WORD[53,   5]: 0.0004395 心づかい
+	thoughtfulness WORD[53,   6]: 0.0004395 心遣い
+TOKEN[54]: 0.0036214    9 attitude
+	attitude WORD[54,   1]: 0.0005589 心持
+	attitude WORD[54,   2]: 0.0005589 心持ち
+	attitude WORD[54,   3]: 0.0003671 心境
+	attitude WORD[54,   4]: 0.0003671 心機
+	attitude WORD[54,   5]: 0.0003539 心がまえ
+	attitude WORD[54,   6]: 0.0003539 心構え
+	attitude WORD[54,   7]: 0.0003539 心がけ
+	attitude WORD[54,   8]: 0.0003539 心懸け
+	attitude WORD[54,   9]: 0.0003539 心掛け
+TOKEN[55]: 0.0035042    7 devotion
+	devotion WORD[55,   1]: 0.0006668 赤心
+	devotion WORD[55,   2]: 0.0006274 孝心
+	devotion WORD[55,   3]: 0.0005258 真心
+	devotion WORD[55,   4]: 0.0004217 心服
+	devotion WORD[55,   5]: 0.0004215 心酔
+	devotion WORD[55,   6]: 0.0004215 信心
+	devotion WORD[55,   7]: 0.0004194 執心
+TOKEN[56]: 0.0034983    7 anticipation
+	anticipation WORD[56,   1]: 0.0006321 心組
+	anticipation WORD[56,   2]: 0.0006321 心組み
+	anticipation WORD[56,   3]: 0.0006321 心当て
+	anticipation WORD[56,   4]: 0.0004006 心待ち
+	anticipation WORD[56,   5]: 0.0004005 心づもり
+	anticipation WORD[56,   6]: 0.0004005 心積もり
+	anticipation WORD[56,   7]: 0.0004005 心積り
+TOKEN[57]: 0.0034756    1 untroubled
+	untroubled WORD[57,   1]: 0.0034756 心穏やか
+TOKEN[58]: 0.0034686    3 good
+	good WORD[58,   1]: 0.0014781 履き心地
+	good WORD[58,   2]: 0.0012348 着心地
+	good WORD[58,   3]: 0.0007557 快心
+TOKEN[59]: 0.0033227    1 religion
+	religion WORD[59,   1]: 0.0033227 心柱
+TOKEN[60]: 0.0032597    2 bad
+	bad WORD[60,   1]: 0.0017760 履き心地
+	bad WORD[60,   2]: 0.0014837 着心地
+TOKEN[61]: 0.0032518    1 performer
+	performer WORD[61,   1]: 0.0032518 心打ち
+TOKEN[62]: 0.0032067    1 suicide
+	suicide WORD[62,   1]: 0.0016033 心中
+TOKEN[63]: 0.0031153    6 bottom
+	bottom WORD[63,   1]: 0.0006744 心底
+	bottom WORD[63,   2]: 0.0005314 心髄
+	bottom WORD[63,   3]: 0.0004635 心裏
+	bottom WORD[63,   4]: 0.0004635 心裡
+	bottom WORD[63,   5]: 0.0003330 下心
+	bottom WORD[63,   6]: 0.0003248 心
+TOKEN[64]: 0.0030456    5 sentiment
+	sentiment WORD[64,   1]: 0.0007431 民心
+	sentiment WORD[64,   2]: 0.0006543 心気
+	sentiment WORD[64,   3]: 0.0006467 詩心
+	sentiment WORD[64,   4]: 0.0005861 歌心
+	sentiment WORD[64,   5]: 0.0004155 心情
+TOKEN[65]: 0.0030359    6 nature
+	nature WORD[65,   1]: 0.0005244 心性
+	nature WORD[65,   2]: 0.0005241 心術
+	nature WORD[65,   3]: 0.0005062 心ばえ
+	nature WORD[65,   4]: 0.0005062 心根
+	nature WORD[65,   5]: 0.0003340 人心
+	nature WORD[65,   6]: 0.0003205 心
+TOKEN[66]: 0.0030251    1 outer
+	outer WORD[66,   1]: 0.0030251 外心
+TOKEN[67]: 0.0029993    5 sincerity
+	sincerity WORD[67,   1]: 0.0006857 丹心
+	sincerity WORD[67,   2]: 0.0006775 赤心
+	sincerity WORD[67,   3]: 0.0006664 至心
+	sincerity WORD[67,   4]: 0.0005342 真心
+	sincerity WORD[67,   5]: 0.0004355 誠心
+TOKEN[68]: 0.0029653    2 heartbreak
+	heartbreak WORD[68,   1]: 0.0024490 心傷
+	heartbreak WORD[68,   2]: 0.0005162 傷心
+TOKEN[69]: 0.0029644    1 maiden
+	maiden WORD[69,   1]: 0.0029644 乙女心
+TOKEN[70]: 0.0028727    1 relieved
+	relieved WORD[70,   1]: 0.0028727 心穏やか
+TOKEN[71]: 0.0028544    3 relief
+	relief WORD[71,   1]: 0.0018307 人心地
+	relief WORD[71,   2]: 0.0003628 休心
+	relief WORD[71,   3]: 0.0003305 安心
+TOKEN[72]: 0.0028127    3 friend
+	friend WORD[72,   1]: 0.0016792 心友
+	friend WORD[72,   2]: 0.0004368 腹心
+	friend WORD[72,   3]: 0.0003484 心
+TOKEN[73]: 0.0027979    2 level
+	level WORD[73,   1]: 0.0014209 使い心地
+	level WORD[73,   2]: 0.0013770 座り心地
+TOKEN[74]: 0.0027898    1 leader
+	leader WORD[74,   1]: 0.0027898 心柱
+TOKEN[75]: 0.0027852    3 sensation
+	sensation WORD[75,   1]: 0.0007781 心地
+	sensation WORD[75,   2]: 0.0006145 心持
+	sensation WORD[75,   3]: 0.0006145 心持ち
+TOKEN[76]: 0.0027621    1 serene
+	serene WORD[76,   1]: 0.0027621 心穏やか
+TOKEN[77]: 0.0027129    7 intention
+	intention WORD[77,   1]: 0.0004670 本心
+	intention WORD[77,   2]: 0.0004195 内心
+	intention WORD[77,   3]: 0.0003725 下心
+	intention WORD[77,   4]: 0.0003635 心算
+	intention WORD[77,   5]: 0.0003634 心がけ
+	intention WORD[77,   6]: 0.0003634 心懸け
+	intention WORD[77,   7]: 0.0003634 心掛け
+TOKEN[78]: 0.0026905    1 snuffer
+	snuffer WORD[78,   1]: 0.0026905 心切り
+TOKEN[79]: 0.0026905    1 trimmer
+	trimmer WORD[79,   1]: 0.0026905 心切り
+TOKEN[80]: 0.0026905    1 douter
+	douter WORD[80,   1]: 0.0026905 心切り
+TOKEN[81]: 0.0026589    4 innermost
+	innermost WORD[81,   1]: 0.0007674 衷心
+	innermost WORD[81,   2]: 0.0007194 心腹
+	innermost WORD[81,   3]: 0.0007073 心根
+	innermost WORD[81,   4]: 0.0004649 心底
+TOKEN[82]: 0.0025707    1 girl
+	girl WORD[82,   1]: 0.0025707 乙女心
+TOKEN[83]: 0.0025474    1 relaxed
+	relaxed WORD[83,   1]: 0.0025474 心穏やか
+TOKEN[84]: 0.0025212    1 use
+	use WORD[84,   1]: 0.0025212 使い心地
+TOKEN[85]: 0.0025119    5 state
+	state WORD[85,   1]: 0.0008430 夢心地
+	state WORD[85,   2]: 0.0006044 心境
+	state WORD[85,   3]: 0.0004599 心柄
+	state WORD[85,   4]: 0.0003025 心理
+	state WORD[85,   5]: 0.0003022 心機
+TOKEN[86]: 0.0024655    3 affection
+	affection WORD[86,   1]: 0.0012718 愛心
+	affection WORD[86,   2]: 0.0005972 残心
+	affection WORD[86,   3]: 0.0005965 親心
+TOKEN[87]: 0.0024516    3 poetic
+	poetic WORD[87,   1]: 0.0012876 詩心
+	poetic WORD[87,   2]: 0.0005835 歌心
+	poetic WORD[87,   3]: 0.0005806 有心
+TOKEN[88]: 0.0024500    3 soul
+	soul WORD[88,   1]: 0.0012304 心魂
+	soul WORD[88,   2]: 0.0006150 心血
+	soul WORD[88,   3]: 0.0006046 心霊
+TOKEN[89]: 0.0023875    1 circumcenter
+	circumcenter WORD[89,   1]: 0.0023875 外心
+TOKEN[90]: 0.0023466    4 know
+	know WORD[90,   1]: 0.0006968 心得る
+	know WORD[90,   2]: 0.0005499 心あたり
+	know WORD[90,   3]: 0.0005499 心当たり
+	know WORD[90,   4]: 0.0005499 心当り
+TOKEN[91]: 0.0023446    4 inner
+	inner WORD[91,   1]: 0.0007558 内心
+	inner WORD[91,   2]: 0.0004671 心裏
+	inner WORD[91,   3]: 0.0004671 心裡
+	inner WORD[91,   4]: 0.0003274 心
+TOKEN[92]: 0.0023426    5 love
+	love WORD[92,   1]: 0.0009955 愛心
+	love WORD[92,   2]: 0.0004669 親心
+	love WORD[92,   3]: 0.0002937 心変り
+	love WORD[92,   4]: 0.0002937 心変わり
+	love WORD[92,   5]: 0.0002927 恋心
+TOKEN[93]: 0.0023290    6 anxiety
+	anxiety WORD[93,   1]: 0.0003957 心労
+	anxiety WORD[93,   2]: 0.0003956 心配
+	anxiety WORD[93,   3]: 0.0003940 焦心
+	anxiety WORD[93,   4]: 0.0003812 心もとない
+	anxiety WORD[93,   5]: 0.0003812 心許ない
+	anxiety WORD[93,   6]: 0.0003812 心許無い
+TOKEN[94]: 0.0023042    1 pleasantness
+	pleasantness WORD[94,   1]: 0.0023042 使い心地
+TOKEN[95]: 0.0022675    2 somehow
+	somehow WORD[95,   1]: 0.0007558 心なし
+	somehow WORD[95,   2]: 0.0007558 心成し
+TOKEN[96]: 0.0022302    3 gratuity
+	gratuity WORD[96,   1]: 0.0007434 心付
+	gratuity WORD[96,   2]: 0.0007434 心づけ
+	gratuity WORD[96,   3]: 0.0007434 心付け
+TOKEN[97]: 0.0022095    2 forlorn
+	forlorn WORD[97,   1]: 0.0008783 心寂しい
+	forlorn WORD[97,   2]: 0.0004528 心細い
+TOKEN[98]: 0.0022052    2 riding
+	riding WORD[98,   1]: 0.0011026 乗り心地
+	riding WORD[98,   2]: 0.0011026 乗心地
+TOKEN[99]: 0.0021974    3 happening
+	happening WORD[99,   1]: 0.0007325 心あたり
+	happening WORD[99,   2]: 0.0007325 心当たり
+	happening WORD[99,   3]: 0.0007325 心当り
+TOKEN[100]: 0.0021928    5 preparation
+	preparation WORD[100,   1]: 0.0005622 心組
+	preparation WORD[100,   2]: 0.0005622 心組み
+	preparation WORD[100,   3]: 0.0003562 心づもり
+	preparation WORD[100,   4]: 0.0003562 心積もり
+	preparation WORD[100,   5]: 0.0003562 心積り
+TOKEN[101]: 0.0021739    1 intoxicated
+	intoxicated WORD[101,   1]: 0.0021739 酔い心地
+TOKEN[102]: 0.0021589    1 candle
+	candle WORD[102,   1]: 0.0021589 心切り
+TOKEN[103]: 0.0021242    2 ride
+	ride WORD[103,   1]: 0.0010621 乗り心地
+	ride WORD[103,   2]: 0.0010621 乗心地
+TOKEN[104]: 0.0021239    1 girlish
+	girlish WORD[104,   1]: 0.0021239 娘心
+TOKEN[105]: 0.0021063    2 grief
+	grief WORD[105,   1]: 0.0017396 心傷
+	grief WORD[105,   2]: 0.0003667 傷心
+TOKEN[106]: 0.0020450    1 headliner
+	headliner WORD[106,   1]: 0.0020450 心打ち
+TOKEN[107]: 0.0020397    2 vehicle
+	vehicle WORD[107,   1]: 0.0010198 乗り心地
+	vehicle WORD[107,   2]: 0.0010198 乗心地
+TOKEN[108]: 0.0020262    3 change
+	change WORD[108,   1]: 0.0008355 心変り
+	change WORD[108,   2]: 0.0008355 心変わり
+	change WORD[108,   3]: 0.0003551 変心
+TOKEN[109]: 0.0020244    5 concern
+	concern WORD[109,   1]: 0.0005726 心ばえ
+	concern WORD[109,   2]: 0.0003764 心配
+	concern WORD[109,   3]: 0.0003626 心づかい
+	concern WORD[109,   4]: 0.0003626 心遣い
+	concern WORD[109,   5]: 0.0003501 関心
+TOKEN[110]: 0.0019844    3 conscience
+	conscience WORD[110,   1]: 0.0007709 善心
+	conscience WORD[110,   2]: 0.0006318 良心
+	conscience WORD[110,   3]: 0.0005817 本心
+TOKEN[111]: 0.0019739    1 scratch
+	scratch WORD[111,   1]: 0.0009870 水心
+TOKEN[112]: 0.0019739    1 pericardial
+	pericardial WORD[112,   1]: 0.0019739 心膜
+TOKEN[113]: 0.0019669    4 true
+	true WORD[113,   1]: 0.0005850 直心
+	true WORD[113,   2]: 0.0005374 赤心
+	true WORD[113,   3]: 0.0004238 真心
+	true WORD[113,   4]: 0.0004207 本心
+TOKEN[114]: 0.0019387    5 expectation
+	expectation WORD[114,   1]: 0.0003878 心待ち
+	expectation WORD[114,   2]: 0.0003877 心づもり
+	expectation WORD[114,   3]: 0.0003877 心積もり
+	expectation WORD[114,   4]: 0.0003877 心積り
+	expectation WORD[114,   5]: 0.0003877 心算
+TOKEN[115]: 0.0018799    2 quality
+	quality WORD[115,   1]: 0.0009400 乗り心地
+	quality WORD[115,   2]: 0.0009400 乗心地
+TOKEN[116]: 0.0018480    1 technique
+	technique WORD[116,   1]: 0.0018480 心技
+TOKEN[117]: 0.0018479    3 ability
+	ability WORD[117,   1]: 0.0005227 詩心
+	ability WORD[117,   2]: 0.0005027 絵心
+	ability WORD[117,   3]: 0.0004113 物心
+TOKEN[118]: 0.0018346    1 storyteller
+	storyteller WORD[118,   1]: 0.0018346 心打ち
+TOKEN[119]: 0.0018343    3 moral
+	moral WORD[119,   1]: 0.0006532 善心
+	moral WORD[119,   2]: 0.0006267 心学
+	moral WORD[119,   3]: 0.0005544 道心
+TOKEN[120]: 0.0018273    1 clothing
+	clothing WORD[120,   1]: 0.0018273 履き心地
+TOKEN[121]: 0.0018205    3 concentration
+	concentration WORD[121,   1]: 0.0006892 接心
+	concentration WORD[121,   2]: 0.0006892 摂心
+	concentration WORD[121,   3]: 0.0004421 専心
+TOKEN[122]: 0.0017935    3 innocence
+	innocence WORD[122,   1]: 0.0007693 娘心
+	innocence WORD[122,   2]: 0.0005488 無心
+	innocence WORD[122,   3]: 0.0004754 童心
+TOKEN[123]: 0.0017889    4 prudence
+	prudence WORD[123,   1]: 0.0004586 小心
+	prudence WORD[123,   2]: 0.0004434 心がけ
+	prudence WORD[123,   3]: 0.0004434 心懸け
+	prudence WORD[123,   4]: 0.0004434 心掛け
+TOKEN[124]: 0.0017773    2 duplicity
+	duplicity WORD[124,   1]: 0.0008886 二心
+	duplicity WORD[124,   2]: 0.0008886 弐心
+TOKEN[125]: 0.0017770    1 wearing
+	wearing WORD[125,   1]: 0.0017770 着心地
+TOKEN[126]: 0.0017662    3 precaution
+	precaution WORD[126,   1]: 0.0006579 用心
+	precaution WORD[126,   2]: 0.0006579 要心
+	precaution WORD[126,   3]: 0.0004505 戒心
+TOKEN[127]: 0.0017567    1 lonesome
+	lonesome WORD[127,   1]: 0.0008783 心寂しい
+TOKEN[128]: 0.0017356    1 waka
+	waka WORD[128,   1]: 0.0017356 歌心
+TOKEN[129]: 0.0017098    4 sympathy
+	sympathy WORD[129,   1]: 0.0005843 心ばえ
+	sympathy WORD[129,   2]: 0.0003855 人心
+	sympathy WORD[129,   3]: 0.0003700 心づかい
+	sympathy WORD[129,   4]: 0.0003700 心遣い
+TOKEN[130]: 0.0017094    2 discretion
+	discretion WORD[130,   1]: 0.0006870 手心
+	discretion WORD[130,   2]: 0.0005112 物心
+TOKEN[131]: 0.0017013    1 alertness
+	alertness WORD[131,   1]: 0.0017013 残心
+TOKEN[132]: 0.0016878    2 inconsiderate
+	inconsiderate WORD[132,   1]: 0.0008439 心ない
+	inconsiderate WORD[132,   2]: 0.0008439 心無い
+TOKEN[133]: 0.0016648    3 aware
+	aware WORD[133,   1]: 0.0006322 心づく
+	aware WORD[133,   2]: 0.0006322 心付く
+	aware WORD[133,   3]: 0.0004004 心得る
+TOKEN[134]: 0.0016483    1 dreamy
+	dreamy WORD[134,   1]: 0.0016483 夢心地
+TOKEN[135]: 0.0016427    2 human
+	human WORD[135,   1]: 0.0010851 人心
+	human WORD[135,   2]: 0.0005577 心霊
+TOKEN[136]: 0.0016337    1 parental
+	parental WORD[136,   1]: 0.0016337 親心
+TOKEN[137]: 0.0016297    3 motive
+	motive WORD[137,   1]: 0.0006238 私心
+	motive WORD[137,   2]: 0.0006100 心根
+	motive WORD[137,   3]: 0.0003959 下心
+TOKEN[138]: 0.0016205    3 solicitude
+	solicitude WORD[138,   1]: 0.0007149 心ばえ
+	solicitude WORD[138,   2]: 0.0004528 心づかい
+	solicitude WORD[138,   3]: 0.0004528 心遣い
+TOKEN[139]: 0.0016187    3 sense
+	sense WORD[139,   1]: 0.0005597 善心
+	sense WORD[139,   2]: 0.0004751 道心
+	sense WORD[139,   3]: 0.0002920 安心
+TOKEN[140]: 0.0016177    1 ease
+	ease WORD[140,   1]: 0.0016177 使い心地
+TOKEN[141]: 0.0015999    3 attachment
+	attachment WORD[141,   1]: 0.0006241 残心
+	attachment WORD[141,   2]: 0.0005710 有心
+	attachment WORD[141,   3]: 0.0004048 執心
+TOKEN[142]: 0.0015978    3 tip
+	tip WORD[142,   1]: 0.0005326 心付
+	tip WORD[142,   2]: 0.0005326 心づけ
+	tip WORD[142,   3]: 0.0005326 心付け
+TOKEN[143]: 0.0015872    1 sac
+	sac WORD[143,   1]: 0.0015872 心膜
+TOKEN[144]: 0.0015677    1 sit
+	sit WORD[144,   1]: 0.0015677 座り心地
+TOKEN[145]: 0.0015604    3 caution
+	caution WORD[145,   1]: 0.0005812 用心
+	caution WORD[145,   2]: 0.0005812 要心
+	caution WORD[145,   3]: 0.0003980 戒心
+TOKEN[146]: 0.0015544    2 intensive
+	intensive WORD[146,   1]: 0.0007772 接心
+	intensive WORD[146,   2]: 0.0007772 摂心
+TOKEN[147]: 0.0015411    1 disorder
+	disorder WORD[147,   1]: 0.0015411 心障
+TOKEN[148]: 0.0015408    2 tasteless
+	tasteless WORD[148,   1]: 0.0007704 心ない
+	tasteless WORD[148,   2]: 0.0007704 心無い
+TOKEN[149]: 0.0015296    2 understand
+	understand WORD[149,   1]: 0.0006736 心得る
+	understand WORD[149,   2]: 0.0004280 物心
+TOKEN[150]: 0.0015288    3 idea
+	idea WORD[150,   1]: 0.0005096 心あたり
+	idea WORD[150,   2]: 0.0005096 心当たり
+	idea WORD[150,   3]: 0.0005096 心当り
+TOKEN[151]: 0.0015203    2 main
+	main WORD[151,   1]: 0.0012302 心打ち
+	main WORD[151,   2]: 0.0002901 肝心
+TOKEN[152]: 0.0015155    1 highest
+	highest WORD[152,   1]: 0.0015155 心打ち
+TOKEN[153]: 0.0015104    2 homesickness
+	homesickness WORD[153,   1]: 0.0007725 里心
+	homesickness WORD[153,   2]: 0.0007379 帰心
+TOKEN[154]: 0.0014983    3 unsure
+	unsure WORD[154,   1]: 0.0004994 心もとない
+	unsure WORD[154,   2]: 0.0004994 心許ない
+	unsure WORD[154,   3]: 0.0004994 心許無い
+TOKEN[155]: 0.0014891    1 introspection
+	introspection WORD[155,   1]: 0.0014891 観心
+TOKEN[156]: 0.0014714    3 peace
+	peace WORD[156,   1]: 0.0004664 放心
+	peace WORD[156,   2]: 0.0003562 休心
+	peace WORD[156,   3]: 0.0003244 安心
+TOKEN[157]: 0.0014694    4 worry
+	worry WORD[157,   1]: 0.0003822 痛心
+	worry WORD[157,   2]: 0.0003625 心労
+	worry WORD[157,   3]: 0.0003624 心配
+	worry WORD[157,   4]: 0.0003623 心痛
+TOKEN[158]: 0.0014643    3 undependable
+	undependable WORD[158,   1]: 0.0004881 心もとない
+	undependable WORD[158,   2]: 0.0004881 心許ない
+	undependable WORD[158,   3]: 0.0004881 心許無い
+TOKEN[159]: 0.0014643    3 erratic
+	erratic WORD[159,   1]: 0.0004881 心もとない
+	erratic WORD[159,   2]: 0.0004881 心許ない
+	erratic WORD[159,   3]: 0.0004881 心許無い
+TOKEN[160]: 0.0014643    3 untrustworthy
+	untrustworthy WORD[160,   1]: 0.0004881 心もとない
+	untrustworthy WORD[160,   2]: 0.0004881 心許ない
+	untrustworthy WORD[160,   3]: 0.0004881 心許無い
+TOKEN[161]: 0.0014588    1 star
+	star WORD[161,   1]: 0.0014588 心打ち
+TOKEN[162]: 0.0014330    1 circle
+	circle WORD[162,   1]: 0.0014330 円心
+TOKEN[163]: 0.0014280    2 heartbeat
+	heartbeat WORD[163,   1]: 0.0008731 心音
+	heartbeat WORD[163,   2]: 0.0005549 心拍
+TOKEN[164]: 0.0014155    1 treacherous
+	treacherous WORD[164,   1]: 0.0014155 異心
+TOKEN[165]: 0.0014145    1 grieving
+	grieving WORD[165,   1]: 0.0014145 憂心
+TOKEN[166]: 0.0014130    1 nausea
+	nausea WORD[166,   1]: 0.0007065 悪心
+TOKEN[167]: 0.0014099    3 child
+	child WORD[167,   1]: 0.0005378 おさな心
+	child WORD[167,   2]: 0.0005378 幼心
+	child WORD[167,   3]: 0.0003344 童心
+TOKEN[168]: 0.0013742    3 endeavor
+	endeavor WORD[168,   1]: 0.0004581 心がける
+	endeavor WORD[168,   2]: 0.0004581 心懸ける
+	endeavor WORD[168,   3]: 0.0004581 心掛ける
+TOKEN[169]: 0.0013651    2 recreation
+	recreation WORD[169,   1]: 0.0006825 心やり
+	recreation WORD[169,   2]: 0.0006825 心遣り
+TOKEN[170]: 0.0013623    1 trance
+	trance WORD[170,   1]: 0.0013623 夢心地
+TOKEN[171]: 0.0013564    1 base
+	base WORD[171,   1]: 0.0013564 心礎
+TOKEN[172]: 0.0013548    1 conductor
+	conductor WORD[172,   1]: 0.0013548 心線
+TOKEN[173]: 0.0013376    1 unison
+	unison WORD[173,   1]: 0.0013376 協心
+TOKEN[174]: 0.0013373    3 thought
+	thought WORD[174,   1]: 0.0005288 心慮
+	thought WORD[174,   2]: 0.0004793 有心
+	thought WORD[174,   3]: 0.0003292 心算
+TOKEN[175]: 0.0013352    2 perceive
+	perceive WORD[175,   1]: 0.0006676 心づく
+	perceive WORD[175,   2]: 0.0006676 心付く
+TOKEN[176]: 0.0013319    3 conversion
+	conversion WORD[176,   1]: 0.0006022 廻心
+	conversion WORD[176,   2]: 0.0003648 改心
+	conversion WORD[176,   3]: 0.0003648 回心
+TOKEN[177]: 0.0013266    2 realize
+	realize WORD[177,   1]: 0.0006633 心づく
+	realize WORD[177,   2]: 0.0006633 心付く
+TOKEN[178]: 0.0013233    1 accord
+	accord WORD[178,   1]: 0.0013233 協心
+TOKEN[179]: 0.0013149    2 appreciate
+	appreciate WORD[179,   1]: 0.0006703 詩心
+	appreciate WORD[179,   2]: 0.0006446 絵心
+TOKEN[180]: 0.0013122    2 temperament
+	temperament WORD[180,   1]: 0.0006675 心術
+	temperament WORD[180,   2]: 0.0006447 心ばえ
+TOKEN[181]: 0.0013104    1 sorry
+	sorry WORD[181,   1]: 0.0013104 心苦しい
+TOKEN[182]: 0.0013074    3 nervous
+	nervous WORD[182,   1]: 0.0004358 心もとない
+	nervous WORD[182,   2]: 0.0004358 心許ない
+	nervous WORD[182,   3]: 0.0004358 心許無い
+TOKEN[183]: 0.0012969    3 uneasy
+	uneasy WORD[183,   1]: 0.0004323 心もとない
+	uneasy WORD[183,   2]: 0.0004323 心許ない
+	uneasy WORD[183,   3]: 0.0004323 心許無い
+TOKEN[184]: 0.0012969    3 unclear
+	unclear WORD[184,   1]: 0.0004323 心もとない
+	unclear WORD[184,   2]: 0.0004323 心許ない
+	unclear WORD[184,   3]: 0.0004323 心許無い
+TOKEN[185]: 0.0012959    2 regain
+	regain WORD[185,   1]: 0.0006480 心づく
+	regain WORD[185,   2]: 0.0006480 心付く
+TOKEN[186]: 0.0012831    2 diversion
+	diversion WORD[186,   1]: 0.0006416 心やり
+	diversion WORD[186,   2]: 0.0006416 心遣り
+TOKEN[187]: 0.0012793    1 merciful
+	merciful WORD[187,   1]: 0.0006397 仏心
+TOKEN[188]: 0.0012790    1 stone
+	stone WORD[188,   1]: 0.0012790 心礎
+TOKEN[189]: 0.0012781    3 fear
+	fear WORD[189,   1]: 0.0005386 疑心
+	fear WORD[189,   2]: 0.0003698 心労
+	fear WORD[189,   3]: 0.0003697 心配
+TOKEN[190]: 0.0012779    3 satisfied
+	satisfied WORD[190,   1]: 0.0004610 得心
+	satisfied WORD[190,   2]: 0.0004084 心ゆく
+	satisfied WORD[190,   3]: 0.0004084 心行く
+TOKEN[191]: 0.0012714    1 ecstasy
+	ecstasy WORD[191,   1]: 0.0012714 夢心地
+TOKEN[192]: 0.0012632    1 lake
+	lake WORD[192,   1]: 0.0012632 湖心
+TOKEN[193]: 0.0012624    2 image
+	image WORD[193,   1]: 0.0007055 心象
+	image WORD[193,   2]: 0.0005569 心像
+TOKEN[194]: 0.0012609    3 indistinct
+	indistinct WORD[194,   1]: 0.0004203 心もとない
+	indistinct WORD[194,   2]: 0.0004203 心許ない
+	indistinct WORD[194,   3]: 0.0004203 心許無い
+TOKEN[195]: 0.0012592    2 guarding
+	guarding WORD[195,   1]: 0.0006296 用心
+	guarding WORD[195,   2]: 0.0006296 要心
+TOKEN[196]: 0.0012585    2 lamp
+	lamp WORD[196,   1]: 0.0006293 灯心
+	lamp WORD[196,   2]: 0.0006293 燈心
+TOKEN[197]: 0.0012582    2 mentality
+	mentality WORD[197,   1]: 0.0007693 心気
+	mentality WORD[197,   2]: 0.0004889 心理
+TOKEN[198]: 0.0012541    2 intimate
+	intimate WORD[198,   1]: 0.0006324 心友
+	intimate WORD[198,   2]: 0.0006217 心安い
+TOKEN[199]: 0.0012530    3 impatient
+	impatient WORD[199,   1]: 0.0004177 心もとない
+	impatient WORD[199,   2]: 0.0004177 心許ない
+	impatient WORD[199,   3]: 0.0004177 心許無い
+TOKEN[200]: 0.0012530    3 unreliable
+	unreliable WORD[200,   1]: 0.0004177 心もとない
+	unreliable WORD[200,   2]: 0.0004177 心許ない
+	unreliable WORD[200,   3]: 0.0004177 心許無い
+TOKEN[201]: 0.0012382    2 thoughtless
+	thoughtless WORD[201,   1]: 0.0006191 心ない
+	thoughtless WORD[201,   2]: 0.0006191 心無い
+TOKEN[202]: 0.0012355    1 rank
+	rank WORD[202,   1]: 0.0012355 心打ち
+TOKEN[203]: 0.0012330    1 vomit
+	vomit WORD[203,   1]: 0.0006165 悪心
+TOKEN[204]: 0.0012315    3 belief
+	belief WORD[204,   1]: 0.0004155 信心
+	belief WORD[204,   2]: 0.0004154 心証
+	belief WORD[204,   3]: 0.0004005 心算
+TOKEN[205]: 0.0012114    2 cruel
+	cruel WORD[205,   1]: 0.0006057 心ない
+	cruel WORD[205,   2]: 0.0006057 心無い
+TOKEN[206]: 0.0012050    2 middle
+	middle WORD[206,   1]: 0.0005102 湖心
+	middle WORD[206,   2]: 0.0003474 中心
+TOKEN[207]: 0.0012048    3 real
+	real WORD[207,   1]: 0.0004452 本心
+	real WORD[207,   2]: 0.0003999 内心
+	real WORD[207,   3]: 0.0003596 心底
+TOKEN[208]: 0.0012018    3 anxious
+	anxious WORD[208,   1]: 0.0004006 心もとない
+	anxious WORD[208,   2]: 0.0004006 心許ない
+	anxious WORD[208,   3]: 0.0004006 心許無い
+TOKEN[209]: 0.0011995    4 plan
+	plan WORD[209,   1]: 0.0002999 心づもり
+	plan WORD[209,   2]: 0.0002999 心積もり
+	plan WORD[209,   3]: 0.0002999 心積り
+	plan WORD[209,   4]: 0.0002999 心算
+TOKEN[210]: 0.0011893    2 whole
+	whole WORD[210,   1]: 0.0009130 全心
+	whole WORD[210,   2]: 0.0002764 一心
+TOKEN[211]: 0.0011562    3 period
+	period WORD[211,   1]: 0.0004286 接心
+	period WORD[211,   2]: 0.0004286 摂心
+	period WORD[211,   3]: 0.0002991 同心
+TOKEN[212]: 0.0011523    2 aspiration
+	aspiration WORD[212,   1]: 0.0005926 雄心
+	aspiration WORD[212,   2]: 0.0005597 野心
+TOKEN[213]: 0.0011399    2 heartache
+	heartache WORD[213,   1]: 0.0005851 痛心
+	heartache WORD[213,   2]: 0.0005548 心痛
+TOKEN[214]: 0.0011373    1 wire
+	wire WORD[214,   1]: 0.0011373 心線
+TOKEN[215]: 0.0011318    1 iron
+	iron WORD[215,   1]: 0.0011318 鉄心
+TOKEN[216]: 0.0011286    2 ambition
+	ambition WORD[216,   1]: 0.0005804 雄心
+	ambition WORD[216,   2]: 0.0005482 野心
+TOKEN[217]: 0.0011233    2 group
+	group WORD[217,   1]: 0.0004901 心棒
+	group WORD[217,   2]: 0.0003166 心中
+TOKEN[218]: 0.0011211    2 evil
+	evil WORD[218,   1]: 0.0006088 邪心
+	evil WORD[218,   2]: 0.0005123 害心
+TOKEN[219]: 0.0011196    3 vague
+	vague WORD[219,   1]: 0.0003732 心もとない
+	vague WORD[219,   2]: 0.0003732 心許ない
+	vague WORD[219,   3]: 0.0003732 心許無い
+TOKEN[220]: 0.0011182    2 admirable
+	admirable WORD[220,   1]: 0.0006938 心憎い
+	admirable WORD[220,   2]: 0.0004243 感心
+TOKEN[221]: 0.0011137    3 admiration
+	admiration WORD[221,   1]: 0.0003801 心服
+	admiration WORD[221,   2]: 0.0003800 心酔
+	admiration WORD[221,   3]: 0.0003536 感心
+TOKEN[222]: 0.0011123    1 knowing
+	knowing WORD[222,   1]: 0.0005561 水心
+TOKEN[223]: 0.0011012    3 try
+	try WORD[223,   1]: 0.0003671 心がける
+	try WORD[223,   2]: 0.0003671 心懸ける
+	try WORD[223,   3]: 0.0003671 心掛ける
+TOKEN[224]: 0.0010994    1 spiritualism
+	spiritualism WORD[224,   1]: 0.0010994 唯心
+TOKEN[225]: 0.0010984    3 thinking
+	thinking WORD[225,   1]: 0.0003661 心がけ
+	thinking WORD[225,   2]: 0.0003661 心懸け
+	thinking WORD[225,   3]: 0.0003661 心掛け
+TOKEN[226]: 0.0010892    1 centroid
+	centroid WORD[226,   1]: 0.0010892 重心
+TOKEN[227]: 0.0010892    1 barycenter
+	barycenter WORD[227,   1]: 0.0010892 重心
+TOKEN[228]: 0.0010866    1 urge
+	urge WORD[228,   1]: 0.0005433 悪心
+TOKEN[229]: 0.0010855    1 swim
+	swim WORD[229,   1]: 0.0005427 水心
+TOKEN[230]: 0.0010766    1 charity
+	charity WORD[230,   1]: 0.0005383 仏心
+TOKEN[231]: 0.0010730    3 aim
+	aim WORD[231,   1]: 0.0003577 心がける
+	aim WORD[231,   2]: 0.0003577 心懸ける
+	aim WORD[231,   3]: 0.0003577 心掛ける
+TOKEN[232]: 0.0010690    2 watchfulness
+	watchfulness WORD[232,   1]: 0.0005345 心づかい
+	watchfulness WORD[232,   2]: 0.0005345 心遣い
+TOKEN[233]: 0.0010622    1 city
+	city WORD[233,   1]: 0.0010622 都心
+TOKEN[234]: 0.0010621    1 sleeping
+	sleeping WORD[234,   1]: 0.0010621 寝心地
+TOKEN[235]: 0.0010479    2 notice
+	notice WORD[235,   1]: 0.0005240 心づく
+	notice WORD[235,   2]: 0.0005240 心付く
+TOKEN[236]: 0.0010469    1 explosion
+	explosion WORD[236,   1]: 0.0010469 爆心
+TOKEN[237]: 0.0010458    1 tang
+	tang WORD[237,   1]: 0.0005229 中心
+TOKEN[238]: 0.0010427    2 taste
+	taste WORD[238,   1]: 0.0005315 詩心
+	taste WORD[238,   2]: 0.0005112 絵心
+TOKEN[239]: 0.0010408    1 mercy
+	mercy WORD[239,   1]: 0.0005204 仏心
+TOKEN[240]: 0.0010188    1 male
+	male WORD[240,   1]: 0.0010188 男心
+TOKEN[241]: 0.0010043    3 bear
+	bear WORD[241,   1]: 0.0003348 心がける
+	bear WORD[241,   2]: 0.0003348 心懸ける
+	bear WORD[241,   3]: 0.0003348 心掛ける
+TOKEN[242]: 0.0010012    2 regret
+	regret WORD[242,   1]: 0.0006148 残心
+	regret WORD[242,   2]: 0.0003864 心残り
+TOKEN[243]: 0.0009877    2 psychology
+	psychology WORD[243,   1]: 0.0005184 心理
+	psychology WORD[243,   2]: 0.0004693 女心
+TOKEN[244]: 0.0009871    1 bed
+	bed WORD[244,   1]: 0.0009871 寝心地
+TOKEN[245]: 0.0009804    2 faint
+	faint WORD[245,   1]: 0.0005944 心弱い
+	faint WORD[245,   2]: 0.0003860 失心
+TOKEN[246]: 0.0009802    2 little
+	little WORD[246,   1]: 0.0004901 心持
+	little WORD[246,   2]: 0.0004901 心持ち
+TOKEN[247]: 0.0009717    1 judgment
+	judgment WORD[247,   1]: 0.0004858 物心
+TOKEN[248]: 0.0009587    3 interest
+	interest WORD[248,   1]: 0.0003233 心変り
+	interest WORD[248,   2]: 0.0003233 心変わり
+	interest WORD[248,   3]: 0.0003122 関心
+TOKEN[249]: 0.0009577    2 contented
+	contented WORD[249,   1]: 0.0004789 心ゆく
+	contented WORD[249,   2]: 0.0004789 心行く
+TOKEN[250]: 0.0009362    1 flower
+	flower WORD[250,   1]: 0.0004681 花心
+TOKEN[251]: 0.0009306    1 psychogenesis
+	psychogenesis WORD[251,   1]: 0.0009306 心因
+TOKEN[252]: 0.0009247    3 keep
+	keep WORD[252,   1]: 0.0003082 心がける
+	keep WORD[252,   2]: 0.0003082 心懸ける
+	keep WORD[252,   3]: 0.0003082 心掛ける
+TOKEN[253]: 0.0009219    2 Chinese
+	Chinese WORD[253,   1]: 0.0004205 点心
+	Chinese WORD[253,   2]: 0.0002507 心
+TOKEN[254]: 0.0009154    1 orthocenter
+	orthocenter WORD[254,   1]: 0.0009154 垂心
+TOKEN[255]: 0.0009151    1 mandrel
+	mandrel WORD[255,   1]: 0.0009151 心棒
+TOKEN[256]: 0.0009151    2 resolution
+	resolution WORD[256,   1]: 0.0005153 発心
+	resolution WORD[256,   2]: 0.0003998 決心
+TOKEN[257]: 0.0009087    1 phenomena
+	phenomena WORD[257,   1]: 0.0009087 唯心
+TOKEN[258]: 0.0009067    1 counterstroke
+	counterstroke WORD[258,   1]: 0.0009067 残心
+TOKEN[259]: 0.0009067    1 unrelaxed
+	unrelaxed WORD[259,   1]: 0.0009067 残心
+TOKEN[260]: 0.0009055    2 readiness
+	readiness WORD[260,   1]: 0.0004527 心がまえ
+	readiness WORD[260,   2]: 0.0004527 心構え
+TOKEN[261]: 0.0009008    2 free
+	free WORD[261,   1]: 0.0004677 虚心
+	free WORD[261,   2]: 0.0004331 無心
+TOKEN[262]: 0.0008998    1 tenderhearted
+	tenderhearted WORD[262,   1]: 0.0008998 心弱い
+TOKEN[263]: 0.0008876    2 conviction
+	conviction WORD[263,   1]: 0.0004520 心証
+	conviction WORD[263,   2]: 0.0004357 心算
+TOKEN[264]: 0.0008872    1 gravity
+	gravity WORD[264,   1]: 0.0008872 重心
+TOKEN[265]: 0.0008754    1 unsophisticated
+	unsophisticated WORD[265,   1]: 0.0004377 初心
+TOKEN[266]: 0.0008737    1 heartwood
+	heartwood WORD[266,   1]: 0.0008737 心材
+TOKEN[267]: 0.0008731    1 ethical
+	ethical WORD[267,   1]: 0.0008731 心学
+TOKEN[268]: 0.0008712    1 vitality
+	vitality WORD[268,   1]: 0.0004356 心
+TOKEN[269]: 0.0008681    1 back
+	back WORD[269,   1]: 0.0004341 水心
+TOKEN[270]: 0.0008675    2 favor
+	favor WORD[270,   1]: 0.0005415 歓心
+	favor WORD[270,   2]: 0.0003259 魚心
+TOKEN[271]: 0.0008643    2 preparedness
+	preparedness WORD[271,   1]: 0.0004322 心がまえ
+	preparedness WORD[271,   2]: 0.0004322 心構え
+TOKEN[272]: 0.0008586    1 ethereal
+	ethereal WORD[272,   1]: 0.0008586 心霊
+TOKEN[273]: 0.0008584    1 subsoil
+	subsoil WORD[273,   1]: 0.0008584 心土
+TOKEN[274]: 0.0008550    1 congeniality
+	congeniality WORD[274,   1]: 0.0008550 会心
+TOKEN[275]: 0.0008470    1 nest
+	nest WORD[275,   1]: 0.0004235 中心
+TOKEN[276]: 0.0008405    1 hub
+	hub WORD[276,   1]: 0.0008405 心髄
+TOKEN[277]: 0.0008401    1 ventricle
+	ventricle WORD[277,   1]: 0.0008401 心室
+TOKEN[278]: 0.0008396    1 thumping
+	thumping WORD[278,   1]: 0.0008396 心悸
+TOKEN[279]: 0.0008348    2 come
+	come WORD[279,   1]: 0.0004174 心づく
+	come WORD[279,   2]: 0.0004174 心付く
+TOKEN[280]: 0.0008321    2 become
+	become WORD[280,   1]: 0.0004160 心づく
+	become WORD[280,   2]: 0.0004160 心付く
+TOKEN[281]: 0.0008207    1 propensity
+	propensity WORD[281,   1]: 0.0008207 盗心
+TOKEN[282]: 0.0008183    1 zenith
+	zenith WORD[282,   1]: 0.0008183 天心
+TOKEN[283]: 0.0008181    1 preconceived
+	preconceived WORD[283,   1]: 0.0008181 虚心
+TOKEN[284]: 0.0008181    1 receptive
+	receptive WORD[284,   1]: 0.0008181 虚心
+TOKEN[285]: 0.0008157    1 palpitation
+	palpitation WORD[285,   1]: 0.0008157 心悸
+TOKEN[286]: 0.0008146    2 art
+	art WORD[286,   1]: 0.0004956 絵心
+	art WORD[286,   2]: 0.0003190 心得る
+TOKEN[287]: 0.0008117    1 inexperienced
+	inexperienced WORD[287,   1]: 0.0004059 初心
+TOKEN[288]: 0.0008094    1 greed
+	greed WORD[288,   1]: 0.0008094 欲心
+TOKEN[289]: 0.0008088    1 frivolity
+	frivolity WORD[289,   1]: 0.0008088 男心
+TOKEN[290]: 0.0008058    1 sutra
+	sutra WORD[290,   1]: 0.0008058 唯心
+TOKEN[291]: 0.0008043    1 assurance
+	assurance WORD[291,   1]: 0.0004021 安心
+TOKEN[292]: 0.0008028    1 refreshment
+	refreshment WORD[292,   1]: 0.0008028 点心
+TOKEN[293]: 0.0007981    1 pith
+	pith WORD[293,   1]: 0.0007981 心髄
+TOKEN[294]: 0.0007981    1 marrow
+	marrow WORD[294,   1]: 0.0007981 心髄
+TOKEN[295]: 0.0007972    1 heartfelt
+	heartfelt WORD[295,   1]: 0.0007972 心願
+TOKEN[296]: 0.0007926    1 centrifuge
+	centrifuge WORD[296,   1]: 0.0007926 遠心
+TOKEN[297]: 0.0007921    1 doctrine
+	doctrine WORD[297,   1]: 0.0007921 唯心
+TOKEN[298]: 0.0007878    1 safety
+	safety WORD[298,   1]: 0.0003939 安心
+TOKEN[299]: 0.0007851    1 devoted
+	devoted WORD[299,   1]: 0.0007851 直心
+TOKEN[300]: 0.0007821    1 fretfulness
+	fretfulness WORD[300,   1]: 0.0007821 心気
+TOKEN[301]: 0.0007821    1 tedium
+	tedium WORD[301,   1]: 0.0007821 心気
+TOKEN[302]: 0.0007774    2 effort
+	effort WORD[302,   1]: 0.0004359 腐心
+	effort WORD[302,   2]: 0.0003414 苦心
+TOKEN[303]: 0.0007764    1 produced
+	produced WORD[303,   1]: 0.0007764 唯心
+TOKEN[304]: 0.0007758    3 way
+	way WORD[304,   1]: 0.0002586 心がけ
+	way WORD[304,   2]: 0.0002586 心懸け
+	way WORD[304,   3]: 0.0002586 心掛け
+TOKEN[305]: 0.0007742    1 double
+	double WORD[305,   1]: 0.0003871 心中
+TOKEN[306]: 0.0007710    1 alarming
+	alarming WORD[306,   1]: 0.0007710 寒心
+TOKEN[307]: 0.0007677    1 confidence
+	confidence WORD[307,   1]: 0.0003839 安心
+TOKEN[308]: 0.0007657    1 discreet
+	discreet WORD[308,   1]: 0.0007657 細心
+TOKEN[309]: 0.0007647    1 impulse
+	impulse WORD[309,   1]: 0.0007647 出来心
+TOKEN[310]: 0.0007618    1 reluctance
+	reluctance WORD[310,   1]: 0.0007618 残心
+TOKEN[311]: 0.0007563    1 atrium
+	atrium WORD[311,   1]: 0.0007563 心房
+TOKEN[312]: 0.0007516    1 wicked
+	wicked WORD[312,   1]: 0.0007516 邪心
+TOKEN[313]: 0.0007506    1 wet
+	wet WORD[313,   1]: 0.0003753 初心
+TOKEN[314]: 0.0007494    1 selfishness
+	selfishness WORD[314,   1]: 0.0007494 私心
+TOKEN[315]: 0.0007493    1 nucleus
+	nucleus WORD[315,   1]: 0.0007493 心髄
+TOKEN[316]: 0.0007478    1 reactor
+	reactor WORD[316,   1]: 0.0007478 炉心
+TOKEN[317]: 0.0007442    1 derangement
+	derangement WORD[317,   1]: 0.0007442 乱心
+TOKEN[318]: 0.0007442    1 faithfulness
+	faithfulness WORD[318,   1]: 0.0007442 丹心
+TOKEN[319]: 0.0007437    1 providence
+	providence WORD[319,   1]: 0.0007437 天心
+TOKEN[320]: 0.0007424    1 gratification
+	gratification WORD[320,   1]: 0.0007424 会心
+TOKEN[321]: 0.0007386    1 continued
+	continued WORD[321,   1]: 0.0007386 残心
+TOKEN[322]: 0.0007358    1 axle
+	axle WORD[322,   1]: 0.0007358 心棒
+TOKEN[323]: 0.0007354    1 teaching
+	teaching WORD[323,   1]: 0.0007354 唯心
+TOKEN[324]: 0.0007286    1 constellation
+	constellation WORD[324,   1]: 0.0003643 心
+TOKEN[325]: 0.0007275    2 trouble
+	trouble WORD[325,   1]: 0.0004080 腐心
+	trouble WORD[325,   2]: 0.0003195 苦心
+TOKEN[326]: 0.0007270    1 fancy
+	fancy WORD[326,   1]: 0.0007270 出来心
+TOKEN[327]: 0.0007251    1 brutal
+	brutal WORD[327,   1]: 0.0007251 獣心
+TOKEN[328]: 0.0007195    1 bosom
+	bosom WORD[328,   1]: 0.0007195 心友
+TOKEN[329]: 0.0007195    1 arbor
+	arbor WORD[329,   1]: 0.0007195 心棒
+TOKEN[330]: 0.0007179    1 blended
+	blended WORD[330,   1]: 0.0007179 心学
+TOKEN[331]: 0.0007168    1 constancy
+	constancy WORD[331,   1]: 0.0007168 恒心
+TOKEN[332]: 0.0007167    1 nostalgia
+	nostalgia WORD[332,   1]: 0.0007167 里心
+TOKEN[333]: 0.0007165    1 satisfaction
+	satisfaction WORD[333,   1]: 0.0007165 会心
+TOKEN[334]: 0.0007164    1 prudent
+	prudent WORD[334,   1]: 0.0007164 細心
+TOKEN[335]: 0.0007147    1 reliance
+	reliance WORD[335,   1]: 0.0007147 心頼み
+TOKEN[336]: 0.0007139    1 jealousy
+	jealousy WORD[336,   1]: 0.0007139 妬心
+TOKEN[337]: 0.0007114    1 aptitude
+	aptitude WORD[337,   1]: 0.0007114 絵心
+TOKEN[338]: 0.0007060    1 irritation
+	irritation WORD[338,   1]: 0.0007060 心気
+TOKEN[339]: 0.0007009    1 allowance
+	allowance WORD[339,   1]: 0.0007009 手心
+TOKEN[340]: 0.0007007    1 pounding
+	pounding WORD[340,   1]: 0.0007007 心悸
+TOKEN[341]: 0.0006993    1 steadiness
+	steadiness WORD[341,   1]: 0.0006993 恒心
+TOKEN[342]: 0.0006939    1 security
+	security WORD[342,   1]: 0.0003469 安心
+TOKEN[343]: 0.0006937    1 dependence
+	dependence WORD[343,   1]: 0.0006937 心頼み
+TOKEN[344]: 0.0006869    2 frame
+	frame WORD[344,   1]: 0.0003435 心がまえ
+	frame WORD[344,   2]: 0.0003435 心構え
+TOKEN[345]: 0.0006862    1 malice
+	malice WORD[345,   1]: 0.0006862 害心
+TOKEN[346]: 0.0006860    1 scrupulous
+	scrupulous WORD[346,   1]: 0.0006860 細心
+TOKEN[347]: 0.0006857    1 living
+	living WORD[347,   1]: 0.0006857 住み心地
+TOKEN[348]: 0.0006833    1 obstructive
+	obstructive WORD[348,   1]: 0.0006833 無心
+TOKEN[349]: 0.0006833    1 insentient
+	insentient WORD[349,   1]: 0.0006833 無心
+TOKEN[350]: 0.0006822    1 painful
+	painful WORD[350,   1]: 0.0006822 心苦しい
+TOKEN[351]: 0.0006815    1 mechanics
+	mechanics WORD[351,   1]: 0.0006815 偏心
+TOKEN[352]: 0.0006811    1 meticulous
+	meticulous WORD[352,   1]: 0.0006811 細心
+TOKEN[353]: 0.0006795    1 balance
+	balance WORD[353,   1]: 0.0006795 重心
+TOKEN[354]: 0.0006793    1 deplorable
+	deplorable WORD[354,   1]: 0.0006793 寒心
+TOKEN[355]: 0.0006792    1 grounding
+	grounding WORD[355,   1]: 0.0006792 歌心
+TOKEN[356]: 0.0006758    1 going
+	going WORD[356,   1]: 0.0003379 物心
+TOKEN[357]: 0.0006712    1 racking
+	racking WORD[357,   1]: 0.0006712 腐心
+TOKEN[358]: 0.0006705    1 Confucian
+	Confucian WORD[358,   1]: 0.0006705 心学
+TOKEN[359]: 0.0006705    1 philosophy
+	philosophy WORD[359,   1]: 0.0006705 心学
+TOKEN[360]: 0.0006700    1 confidant
+	confidant WORD[360,   1]: 0.0006700 腹心
+TOKEN[361]: 0.0006675    1 filial
+	filial WORD[361,   1]: 0.0006675 孝心
+TOKEN[362]: 0.0006664    1 inclination
+	inclination WORD[362,   1]: 0.0006664 詩心
+TOKEN[363]: 0.0006664    1 selfish
+	selfish WORD[363,   1]: 0.0006664 私心
+TOKEN[364]: 0.0006662    1 design
+	design WORD[364,   1]: 0.0006662 邪心
+TOKEN[365]: 0.0006635    1 carefree
+	carefree WORD[365,   1]: 0.0006635 心安い
+TOKEN[366]: 0.0006628    2 knowledge
+	knowledge WORD[366,   1]: 0.0003314 心得る
+	knowledge WORD[366,   2]: 0.0003314 心得
+TOKEN[367]: 0.0006628    1 strength
+	strength WORD[367,   1]: 0.0003314 心
+TOKEN[368]: 0.0006593    1 inspiration
+	inspiration WORD[368,   1]: 0.0006593 詩心
+TOKEN[369]: 0.0006576    1 honest
+	honest WORD[369,   1]: 0.0006576 直心
+TOKEN[370]: 0.0006562    1 concentricity
+	concentricity WORD[370,   1]: 0.0006562 同心
+TOKEN[371]: 0.0006562    1 unanimity
+	unanimity WORD[371,   1]: 0.0006562 同心
+TOKEN[372]: 0.0006514    1 worse
+	worse WORD[372,   1]: 0.0006514 心劣り
+TOKEN[373]: 0.0006497    1 steal
+	steal WORD[373,   1]: 0.0006497 盗心
+TOKEN[374]: 0.0006475    1 alienation
+	alienation WORD[374,   1]: 0.0006475 隔心
+TOKEN[375]: 0.0006465    1 archery
+	archery WORD[375,   1]: 0.0006465 残心
+TOKEN[376]: 0.0006440    1 chivalrous
+	chivalrous WORD[376,   1]: 0.0006440 義心
+TOKEN[377]: 0.0006416    1 travel
+	travel WORD[377,   1]: 0.0006416 旅心
+TOKEN[378]: 0.0006410    1 nuclear
+	nuclear WORD[378,   1]: 0.0006410 炉心
+TOKEN[379]: 0.0006374    1 estrangement
+	estrangement WORD[379,   1]: 0.0006374 隔心
+TOKEN[380]: 0.0006365    1 inanimate
+	inanimate WORD[380,   1]: 0.0006365 無心
+TOKEN[381]: 0.0006349    1 shaft
+	shaft WORD[381,   1]: 0.0006349 心棒
+TOKEN[382]: 0.0006322    1 green
+	green WORD[382,   1]: 0.0003161 初心
+TOKEN[383]: 0.0006311    1 dim
+	dim WORD[383,   1]: 0.0006311 点心
+TOKEN[384]: 0.0006309    1 artistic
+	artistic WORD[384,   1]: 0.0006309 絵心
+TOKEN[385]: 0.0006304    1 insanity
+	insanity WORD[385,   1]: 0.0006304 乱心
+TOKEN[386]: 0.0006300    1 kind
+	kind WORD[386,   1]: 0.0006300 芳心
+TOKEN[387]: 0.0006277    1 apprehension
+	apprehension WORD[387,   1]: 0.0006277 疑心
+TOKEN[388]: 0.0006264    1 sword
+	sword WORD[388,   1]: 0.0003132 中心
+TOKEN[389]: 0.0006242    1 superb
+	superb WORD[389,   1]: 0.0006242 心憎い
+TOKEN[390]: 0.0006228    1 ghost
+	ghost WORD[390,   1]: 0.0006228 心霊
+TOKEN[391]: 0.0006221    1 apostasy
+	apostasy WORD[391,   1]: 0.0006221 変心
+TOKEN[392]: 0.0006216    1 prepared
+	prepared WORD[392,   1]: 0.0006216 残心
+TOKEN[393]: 0.0006215    1 suggestion
+	suggestion WORD[393,   1]: 0.0006215 心添え
+TOKEN[394]: 0.0006203    1 popular
+	popular WORD[394,   1]: 0.0006203 民心
+TOKEN[395]: 0.0006190    1 advice
+	advice WORD[395,   1]: 0.0006190 心添え
+TOKEN[396]: 0.0006169    1 inmost
+	inmost WORD[396,   1]: 0.0006169 内心
+TOKEN[397]: 0.0006165    1 informal
+	informal WORD[397,   1]: 0.0006165 心祝い
+TOKEN[398]: 0.0006141    1 sum
+	sum WORD[398,   1]: 0.0006141 点心
+TOKEN[399]: 0.0006126    1 Buddhism
+	Buddhism WORD[399,   1]: 0.0006126 直心
+TOKEN[400]: 0.0006103    1 inconstancy
+	inconstancy WORD[400,   1]: 0.0006103 変心
+TOKEN[401]: 0.0006073    1 zealous
+	zealous WORD[401,   1]: 0.0006073 熱心
+TOKEN[402]: 0.0006066    1 madness
+	madness WORD[402,   1]: 0.0006066 乱心
+TOKEN[403]: 0.0006051    1 virtue
+	virtue WORD[403,   1]: 0.0006051 善心
+TOKEN[404]: 0.0006029    1 suspicion
+	suspicion WORD[404,   1]: 0.0006029 疑心
+TOKEN[405]: 0.0006015    1 celebration
+	celebration WORD[405,   1]: 0.0006015 心祝い
+TOKEN[406]: 0.0005998    1 wish
+	wish WORD[406,   1]: 0.0005998 心願
+TOKEN[407]: 0.0005985    1 careful
+	careful WORD[407,   1]: 0.0005985 細心
+TOKEN[408]: 0.0005981    1 character
+	character WORD[408,   1]: 0.0002991 心
+TOKEN[409]: 0.0005946    1 discrimination
+	discrimination WORD[409,   1]: 0.0005946 有心
+TOKEN[410]: 0.0005942    1 emotion
+	emotion WORD[410,   1]: 0.0005942 心緒
+TOKEN[411]: 0.0005935    1 monk
+	monk WORD[411,   1]: 0.0005935 点心
+TOKEN[412]: 0.0005935    1 Zen
+	Zen WORD[412,   1]: 0.0005935 点心
+TOKEN[413]: 0.0005923    1 guess
+	guess WORD[413,   1]: 0.0005923 心当て
+TOKEN[414]: 0.0005919    1 childlike
+	childlike WORD[414,   1]: 0.0005919 童心
+TOKEN[415]: 0.0005917    1 electronics
+	electronics WORD[415,   1]: 0.0005917 偏心
+TOKEN[416]: 0.0005914    1 cardiopulmonary
+	cardiopulmonary WORD[416,   1]: 0.0005914 心肺
+TOKEN[417]: 0.0005911    1 godliness
+	godliness WORD[417,   1]: 0.0005911 信心
+TOKEN[418]: 0.0005909    1 myocardium
+	myocardium WORD[418,   1]: 0.0005909 心筋
+TOKEN[419]: 0.0005909    1 unthinkable
+	unthinkable WORD[419,   1]: 0.0005909 心外
+TOKEN[420]: 0.0005897    1 pester
+	pester WORD[420,   1]: 0.0005897 無心
+TOKEN[421]: 0.0005894    1 passion
+	passion WORD[421,   1]: 0.0005894 心猿
+TOKEN[422]: 0.0005884    1 energy
+	energy WORD[422,   1]: 0.0005884 心血
+TOKEN[423]: 0.0005859    1 familiar
+	familiar WORD[423,   1]: 0.0005859 心安い
+TOKEN[424]: 0.0005844    1 prayer
+	prayer WORD[424,   1]: 0.0005844 心願
+TOKEN[425]: 0.0005832    1 divine
+	divine WORD[425,   1]: 0.0005832 天心
+TOKEN[426]: 0.0005816    1 sinister
+	sinister WORD[426,   1]: 0.0005816 野心
+TOKEN[427]: 0.0005815    1 sudden
+	sudden WORD[427,   1]: 0.0005815 出来心
+TOKEN[428]: 0.0005810    1 prostate
+	prostate WORD[428,   1]: 0.0005810 心太
+TOKEN[429]: 0.0005804    1 heroic
+	heroic WORD[429,   1]: 0.0005804 雄心
+TOKEN[430]: 0.0005803    1 agreeing
+	agreeing WORD[430,   1]: 0.0005803 得心
+TOKEN[431]: 0.0005803    1 consenting
+	consenting WORD[431,   1]: 0.0005803 得心
+TOKEN[432]: 0.0005782    1 doubt
+	doubt WORD[432,   1]: 0.0005782 疑心
+TOKEN[433]: 0.0005782    1 refined
+	refined WORD[433,   1]: 0.0005782 心憎い
+TOKEN[434]: 0.0005778    1 passing
+	passing WORD[434,   1]: 0.0005778 出来心
+TOKEN[435]: 0.0005773    1 eccentricity
+	eccentricity WORD[435,   1]: 0.0005773 偏心
+TOKEN[436]: 0.0005698    1 disheartening
+	disheartening WORD[436,   1]: 0.0005698 心細い
+TOKEN[437]: 0.0005697    1 heartening
+	heartening WORD[437,   1]: 0.0005697 心強い
+TOKEN[438]: 0.0005697    2 body
+	body WORD[438,   1]: 0.0002848 心身
+	body WORD[438,   2]: 0.0002848 身心
+TOKEN[439]: 0.0005684    1 early
+	early WORD[439,   1]: 0.0005684 点心
+TOKEN[440]: 0.0005659    1 undivided
+	undivided WORD[440,   1]: 0.0005659 専心
+TOKEN[441]: 0.0005649    1 simple
+	simple WORD[441,   1]: 0.0005649 点心
+TOKEN[442]: 0.0005640    1 Shinto
+	Shinto WORD[442,   1]: 0.0005640 心学
+TOKEN[443]: 0.0005640    1 stomach
+	stomach WORD[443,   1]: 0.0005640 心腹
+TOKEN[444]: 0.0005606    1 historical
+	historical WORD[444,   1]: 0.0005606 有心
+TOKEN[445]: 0.0005582    1 morning
+	morning WORD[445,   1]: 0.0005582 点心
+TOKEN[446]: 0.0005580    1 awakening
+	awakening WORD[446,   1]: 0.0005580 発心
+TOKEN[447]: 0.0005567    1 paint
+	paint WORD[447,   1]: 0.0005567 絵心
+TOKEN[448]: 0.0005566    1 chest
+	chest WORD[448,   1]: 0.0005566 心腹
+TOKEN[449]: 0.0005560    1 solid
+	solid WORD[449,   1]: 0.0005560 歌心
+TOKEN[450]: 0.0005559    2 young
+	young WORD[450,   1]: 0.0002780 おさな心
+	young WORD[450,   2]: 0.0002780 幼心
+TOKEN[451]: 0.0005555    1 centripetal
+	centripetal WORD[451,   1]: 0.0005555 求心
+TOKEN[452]: 0.0005526    1 pedantry
+	pedantry WORD[452,   1]: 0.0005526 小心
+TOKEN[453]: 0.0005525    1 place
+	place WORD[453,   1]: 0.0005525 住み心地
+TOKEN[454]: 0.0005517    1 orgasm
+	orgasm WORD[454,   1]: 0.0005517 心太
+TOKEN[455]: 0.0005514    1 naivete
+	naivete WORD[455,   1]: 0.0005514 童心
+TOKEN[456]: 0.0005514    1 constable
+	constable WORD[456,   1]: 0.0005514 同心
+TOKEN[457]: 0.0005512    1 meal
+	meal WORD[457,   1]: 0.0005512 点心
+TOKEN[458]: 0.0005485    1 reserve
+	reserve WORD[458,   1]: 0.0005485 隔心
+TOKEN[459]: 0.0005473    1 poetry
+	poetry WORD[459,   1]: 0.0005473 詩心
+TOKEN[460]: 0.0005471    1 brains
+	brains WORD[460,   1]: 0.0005471 腐心
+TOKEN[461]: 0.0005461    1 family
+	family WORD[461,   1]: 0.0002731 心中
+TOKEN[462]: 0.0005414    1 ardent
+	ardent WORD[462,   1]: 0.0005414 熱心
+TOKEN[463]: 0.0005404    1 brave
+	brave WORD[463,   1]: 0.0005404 雄心
+TOKEN[464]: 0.0005401    1 cash
+	cash WORD[464,   1]: 0.0005401 無心
+TOKEN[465]: 0.0005377    1 study
+	study WORD[465,   1]: 0.0005377 心学
+TOKEN[466]: 0.0005369    1 guard
+	guard WORD[466,   1]: 0.0005369 残心
+TOKEN[467]: 0.0005344    1 guideline
+	guideline WORD[467,   1]: 0.0005344 心得
+TOKEN[468]: 0.0005328    1 metropolis
+	metropolis WORD[468,   1]: 0.0005328 都心
+TOKEN[469]: 0.0005295    1 stupefaction
+	stupefaction WORD[469,   1]: 0.0005295 喪心
+TOKEN[470]: 0.0005207    1 painting
+	painting WORD[470,   1]: 0.0005207 絵心
+TOKEN[471]: 0.0005193    1 fervent
+	fervent WORD[471,   1]: 0.0005193 熱心
+TOKEN[472]: 0.0005182    1 psychological
+	psychological WORD[472,   1]: 0.0005182 心的
+TOKEN[473]: 0.0005178    1 upsetting
+	upsetting WORD[473,   1]: 0.0005178 心外
+TOKEN[474]: 0.0005175    1 abstraction
+	abstraction WORD[474,   1]: 0.0005175 喪心
+TOKEN[475]: 0.0005174    1 opinion
+	opinion WORD[475,   1]: 0.0005174 心慮
+TOKEN[476]: 0.0005170    1 pride
+	pride WORD[476,   1]: 0.0005170 慢心
+TOKEN[477]: 0.0005162    1 cowardice
+	cowardice WORD[477,   1]: 0.0005162 小心
+TOKEN[478]: 0.0005140    1 discouraging
+	discouraging WORD[478,   1]: 0.0005140 心細い
+TOKEN[479]: 0.0005139    1 eye
+	eye WORD[479,   1]: 0.0005139 心眼
+TOKEN[480]: 0.0005129    1 spiritual
+	spiritual WORD[480,   1]: 0.0005129 発心
+TOKEN[481]: 0.0005118    1 thinning
+	thinning WORD[481,   1]: 0.0005118 摘心
+TOKEN[482]: 0.0005112    1 wholeheartedness
+	wholeheartedness WORD[482,   1]: 0.0005112 一心
+TOKEN[483]: 0.0005076    1 fainting
+	fainting WORD[483,   1]: 0.0005076 喪心
+TOKEN[484]: 0.0005069    1 eager
+	eager WORD[484,   1]: 0.0005069 熱心
+TOKEN[485]: 0.0004978    1 policeman
+	policeman WORD[485,   1]: 0.0004978 同心
+TOKEN[486]: 0.0004961    1 meaning
+	meaning WORD[486,   1]: 0.0004961 歌心
+TOKEN[487]: 0.0004935    1 keen
+	keen WORD[487,   1]: 0.0004935 熱心
+TOKEN[488]: 0.0004921    1 stupor
+	stupor WORD[488,   1]: 0.0004921 喪心
+TOKEN[489]: 0.0004890    1 urban
+	urban WORD[489,   1]: 0.0004890 都心
+TOKEN[490]: 0.0004881    1 inside
+	inside WORD[490,   1]: 0.0004881 内心
+TOKEN[491]: 0.0004869    1 impatience
+	impatience WORD[491,   1]: 0.0004869 焦心
+TOKEN[492]: 0.0004847    1 Buddhist
+	Buddhist WORD[492,   1]: 0.0004847 心学
+TOKEN[493]: 0.0004835    2 someone
+	someone WORD[493,   1]: 0.0002831 無心
+	someone WORD[493,   2]: 0.0002004 改心
+TOKEN[494]: 0.0004829    1 swoon
+	swoon WORD[494,   1]: 0.0004829 失心
+TOKEN[495]: 0.0004825    1 enthusiastic
+	enthusiastic WORD[495,   1]: 0.0004825 熱心
+TOKEN[496]: 0.0004808    1 convinced
+	convinced WORD[496,   1]: 0.0004808 得心
+TOKEN[497]: 0.0004791    1 infatuation
+	infatuation WORD[497,   1]: 0.0004791 執心
+TOKEN[498]: 0.0004756    1 ulterior
+	ulterior WORD[498,   1]: 0.0004756 下心
+TOKEN[499]: 0.0004735    1 sound
+	sound WORD[499,   1]: 0.0004735 心音
+TOKEN[500]: 0.0004709    1 reassuring
+	reassuring WORD[500,   1]: 0.0004709 心強い
+TOKEN[501]: 0.0004690    1 retainer
+	retainer WORD[501,   1]: 0.0004690 腹心
+TOKEN[502]: 0.0004665    1 poem
+	poem WORD[502,   1]: 0.0004665 歌心
+TOKEN[503]: 0.0004642    1 unpromising
+	unpromising WORD[503,   1]: 0.0004642 心細い
+TOKEN[504]: 0.0004600    1 regrettable
+	regrettable WORD[504,   1]: 0.0004600 心外
+TOKEN[505]: 0.0004561    1 spine
+	spine WORD[505,   1]: 0.0004561 心臓
+TOKEN[506]: 0.0004560    1 piety
+	piety WORD[506,   1]: 0.0004560 信心
+TOKEN[507]: 0.0004523    1 imaginativeness
+	imaginativeness WORD[507,   1]: 0.0004523 遊び心
+TOKEN[508]: 0.0004485    1 gall
+	gall WORD[508,   1]: 0.0004485 心臓
+TOKEN[509]: 0.0004485    1 cheek
+	cheek WORD[509,   1]: 0.0004485 心臓
+TOKEN[510]: 0.0004481    1 praiseworthy
+	praiseworthy WORD[510,   1]: 0.0004481 感心
+TOKEN[511]: 0.0004480    1 helpless
+	helpless WORD[511,   1]: 0.0004480 心細い
+TOKEN[512]: 0.0004452    1 hearty
+	hearty WORD[512,   1]: 0.0004452 心服
+TOKEN[513]: 0.0004452    1 lung
+	lung WORD[513,   1]: 0.0004452 心肺
+TOKEN[514]: 0.0004436    1 humanity
+	humanity WORD[514,   1]: 0.0004436 仁心
+TOKEN[515]: 0.0004431    1 correcting
+	correcting WORD[515,   1]: 0.0004431 改心
+TOKEN[516]: 0.0004421    1 food
+	food WORD[516,   1]: 0.0004421 点心
+TOKEN[517]: 0.0004400    1 kernel
+	kernel WORD[517,   1]: 0.0004400 核心
+TOKEN[518]: 0.0004372    1 astonishment
+	astonishment WORD[518,   1]: 0.0004372 感心
+TOKEN[519]: 0.0004335    1 uneasiness
+	uneasiness WORD[519,   1]: 0.0004335 心配
+TOKEN[520]: 0.0004334    1 agony
+	agony WORD[520,   1]: 0.0004334 心痛
+TOKEN[521]: 0.0004326    1 crucial
+	crucial WORD[521,   1]: 0.0004326 肝心
+TOKEN[522]: 0.0004307    1 adoration
+	adoration WORD[522,   1]: 0.0004307 心酔
+TOKEN[523]: 0.0004295    1 playfulness
+	playfulness WORD[523,   1]: 0.0004295 遊び心
+TOKEN[524]: 0.0004292    1 crux
+	crux WORD[524,   1]: 0.0004292 核心
+TOKEN[525]: 0.0004291    1 lot
+	lot WORD[525,   1]: 0.0004291 腐心
+TOKEN[526]: 0.0004289    1 assumption
+	assumption WORD[526,   1]: 0.0004289 心算
+TOKEN[527]: 0.0004252    1 goodwill
+	goodwill WORD[527,   1]: 0.0004252 魚心
+TOKEN[528]: 0.0004216    1 nerve
+	nerve WORD[528,   1]: 0.0004216 心臓
+TOKEN[529]: 0.0004212    1 benevolence
+	benevolence WORD[529,   1]: 0.0004212 仁心
+TOKEN[530]: 0.0004176    1 hopeless
+	hopeless WORD[530,   1]: 0.0004176 心細い
+TOKEN[531]: 0.0004175    1 deputy
+	deputy WORD[531,   1]: 0.0004175 心得
+TOKEN[532]: 0.0004173    1 muscle
+	muscle WORD[532,   1]: 0.0004173 心筋
+TOKEN[533]: 0.0004139    1 submission
+	submission WORD[533,   1]: 0.0004139 心服
+TOKEN[534]: 0.0004112    1 vital
+	vital WORD[534,   1]: 0.0004112 肝心
+TOKEN[535]: 0.0004101    1 determination
+	determination WORD[535,   1]: 0.0004101 決心
+TOKEN[536]: 0.0004082    1 regard
+	regard WORD[536,   1]: 0.0004082 心得る
+TOKEN[537]: 0.0004023    1 faith
+	faith WORD[537,   1]: 0.0004023 信心
+TOKEN[538]: 0.0003973    1 meditation
+	meditation WORD[538,   1]: 0.0003973 潜心
+TOKEN[539]: 0.0003968    1 school
+	school WORD[539,   1]: 0.0003968 有心
+TOKEN[540]: 0.0003943    1 essential
+	essential WORD[540,   1]: 0.0003943 肝心
+TOKEN[541]: 0.0003903    1 sorrow
+	sorrow WORD[541,   1]: 0.0003903 傷心
+TOKEN[542]: 0.0003869    1 right
+	right WORD[542,   1]: 0.0003869 本心
+TOKEN[543]: 0.0003868    1 playful
+	playful WORD[543,   1]: 0.0003868 遊び心
+TOKEN[544]: 0.0003850    1 fat
+	fat WORD[544,   1]: 0.0003850 心残り
+TOKEN[545]: 0.0003817    1 unexpected
+	unexpected WORD[545,   1]: 0.0003817 心外
+TOKEN[546]: 0.0003811    1 aid
+	aid WORD[546,   1]: 0.0003811 心配
+TOKEN[547]: 0.0003804    1 reform
+	reform WORD[547,   1]: 0.0003804 改心
+TOKEN[548]: 0.0003799    1 flesh
+	flesh WORD[548,   1]: 0.0003799 心残り
+TOKEN[549]: 0.0003789    1 capital
+	capital WORD[549,   1]: 0.0003789 都心
+TOKEN[550]: 0.0003777    1 failure
+	failure WORD[550,   1]: 0.0003777 衝心
+TOKEN[551]: 0.0003773    1 assistance
+	assistance WORD[551,   1]: 0.0003773 心配
+TOKEN[552]: 0.0003765    1 temper
+	temper WORD[552,   1]: 0.0003765 気心
+TOKEN[553]: 0.0003764    1 physical
+	physical WORD[553,   1]: 0.0003764 心的
+TOKEN[554]: 0.0003713    1 machine
+	machine WORD[554,   1]: 0.0003713 心肺
+TOKEN[555]: 0.0003687    1 impression
+	impression WORD[555,   1]: 0.0003687 心証
+TOKEN[556]: 0.0003661    1 losing
+	losing WORD[556,   1]: 0.0003661 失心
+TOKEN[557]: 0.0003617    1 memory
+	memory WORD[557,   1]: 0.0003617 心覚え
+TOKEN[558]: 0.0003577    1 making
+	making WORD[558,   1]: 0.0003577 腐心
+TOKEN[559]: 0.0003576    1 acting
+	acting WORD[559,   1]: 0.0003576 心得
+TOKEN[560]: 0.0003558    1 labor
+	labor WORD[560,   1]: 0.0003558 苦心
+TOKEN[561]: 0.0003525    1 chicken
+	chicken WORD[561,   1]: 0.0003525 心残り
+TOKEN[562]: 0.0003518    1 labour
+	labour WORD[562,   1]: 0.0003518 苦心
+TOKEN[563]: 0.0003490    1 command
+	command WORD[563,   1]: 0.0003490 心得る
+TOKEN[564]: 0.0003477    1 taking
+	taking WORD[564,   1]: 0.0003477 腐心
+TOKEN[565]: 0.0003465    1 purpose
+	purpose WORD[565,   1]: 0.0003465 心算
+TOKEN[566]: 0.0003465    1 responsibility
+	responsibility WORD[566,   1]: 0.0003465 心得る
+TOKEN[567]: 0.0003450    1 help
+	help WORD[567,   1]: 0.0003450 心配
+TOKEN[568]: 0.0003418    1 great
+	great WORD[568,   1]: 0.0003418 腐心
+TOKEN[569]: 0.0003399    1 Edo
+	Edo WORD[569,   1]: 0.0003399 同心
+TOKEN[570]: 0.0003396    1 conduct
+	conduct WORD[570,   1]: 0.0003396 改心
+TOKEN[571]: 0.0003383    1 picture
+	picture WORD[571,   1]: 0.0003383 心象
+TOKEN[572]: 0.0003368    1 accept
+	accept WORD[572,   1]: 0.0003368 心得る
+TOKEN[573]: 0.0003343    1 skill
+	skill WORD[573,   1]: 0.0003343 心得る
+TOKEN[574]: 0.0003334    1 radical
+	radical WORD[574,   1]: 0.0003334 下心
+TOKEN[575]: 0.0003268    1 important
+	important WORD[575,   1]: 0.0003268 肝心
+TOKEN[576]: 0.0003214    1 strong
+	strong WORD[576,   1]: 0.0003214 心証
+TOKEN[577]: 0.0003180    1 blood
+	blood WORD[577,   1]: 0.0003180 心残り
+TOKEN[578]: 0.0003078    1 secret
+	secret WORD[578,   1]: 0.0003078 下心
+TOKEN[579]: 0.0003053    1 made
+	made WORD[579,   1]: 0.0003053 心太
+TOKEN[580]: 0.0002987    1 hard
+	hard WORD[580,   1]: 0.0002987 苦心
+TOKEN[581]: 0.0002943    1 public
+	public WORD[581,   1]: 0.0002943 人心
+TOKEN[582]: 0.0002940    1 matter
+	matter WORD[582,   1]: 0.0002940 核心
+TOKEN[583]: 0.0002938    1 female
+	female WORD[583,   1]: 0.0002938 女心
+TOKEN[584]: 0.0002812    1 people
+	people WORD[584,   1]: 0.0002812 人心
+TOKEN[585]: 0.0002791    1 part
+	part WORD[585,   1]: 0.0002791 心臓
+TOKEN[586]: 0.0002650    1 woman
+	woman WORD[586,   1]: 0.0002650 女心
+TOKEN[587]: 0.0002540    1 work
+	work WORD[587,   1]: 0.0002540 苦心
+TOKEN[588]: 0.0002504    1 point
+	point WORD[588,   1]: 0.0002504 核心
+TOKEN[589]: 0.0002444    1 take
+	take WORD[589,   1]: 0.0002444 心得る

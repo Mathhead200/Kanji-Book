@@ -1,0 +1,383 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1071595    5 sexagenary     : 癸未, 丁未, 己未, 辛未, 乙未
+0.1031668    5 cycle          : 癸未, 丁未, 己未, 辛未, 乙未
+0.0955030    5 term           : 癸未, 丁未, 己未, 辛未, 乙未
+0.0167516    4 unfinished     : 未了, 未成, 未完, 未だ
+0.0162333    3 unprecedented  : 未曽有, 未曾有, 未到
+0.0148609    1 presymptomatic : 未病
+0.0142218    3 unknown        : 未詳, 未見, 未知
+0.0140776    3 unpaid         : 未済, 未払, 未払い
+0.0134005    2 unexplored     : 未踏, 未開
+0.0128721    3 overdue        : 未払, 未払い, 未納
+0.0115348    1 nonpayment     : 未進
+0.0105557    1 Ram            : 未
+0.0105248    2 pending        : 未決, 未定
+0.0103732    2 undecided      : 未決, 未定
+0.0095281    1 appear         : 未病
+0.0094006    1 future         : 未来
+0.0093104    1 ill            : 未病
+0.0092709    1 health         : 未病
+0.0088113    1 tribute        : 未進
+0.0084191    1 achieve        : 未達
+0.0083889    1 eighth         : 未
+0.0080999    1 failing        : 未達
+0.0080723    1 sixth          : 未
+0.0077849    1 zodiac         : 未
+0.0075926    2 inexperienced  : 未通女, 未熟
+0.0075645    1 goal           : 未達
+0.0074835    1 unfilled       : 未了
+0.0074835    1 unexecuted     : 未了
+0.0074508    1 untrodden      : 未踏
+0.0074307    1 uninstalled    : 未設
+0.0074259    1 unread         : 未読
+0.0074100    1 executory      : 未済
+0.0074098    1 unconvicted    : 未決
+0.0074068    1 unpublished    : 未刊
+0.0074046    1 unbloomed      : 未開
+0.0069736    1 hour           : 未
+0.0069710    1 uncompleted    : 未成
+0.0069521    1 uncultivated   : 未墾
+0.0069471    1 undeveloped    : 未開
+0.0066910    1 unborn         : 未生
+0.0066204    1 year           : 未年
+0.0065180    1 Nymphaea       : 未草
+0.0064941    1 unseen         : 未見
+0.0064941    1 unacquainted   : 未見
+0.0063582    2 incomplete     : 未完, 未だ
+0.0063533    1 unidentified   : 未詳
+0.0062508    1 lunar          : 未
+0.0062451    1 morning        : 未明
+0.0062219    1 primitive      : 未開
+0.0060715    1 pygmy          : 未草
+0.0060612    1 payment        : 未納
+0.0060350    1 calendar       : 未
+0.0060320    1 uncivilized    : 未開
+0.0060041    1 widow          : 未亡人
+0.0059722    1 southwest      : 未申
+0.0059468    1 sign           : 未
+0.0056034    1 month          : 未
+0.0055232    1 desired        : 未だし
+0.0055145    1 world          : 未来
+0.0054908    1 long           : 未だ未だ
+0.0053502    1 ruefulness     : 未練
+0.0053240    1 unattained     : 未到
+0.0053240    1 unreached      : 未到
+0.0053240    1 unachieved     : 未到
+0.0053068    1 savage         : 未開
+0.0052576    1 seen           : 未見
+0.0050142    1 unheard        : 未聞
+0.0049867    1 crude          : 未成
+0.0047676    1 outstanding    : 未収
+0.0047596    1 way            : 未だ未だ
+0.0047130    1 territory      : 未開
+0.0046458    1 Chinese        : 未
+0.0046080    1 mullet         : 未通女
+0.0045542    1 virgin         : 未通女
+0.0044956    1 reluctance     : 未練
+0.0044634    1 event          : 未発
+0.0044539    1 unskilled      : 未熟
+0.0044088    1 default        : 未納
+0.0042263    1 maiden         : 未通女
+0.0041316    1 wild           : 未墾
+0.0040861    1 naive          : 未通女
+0.0040712    1 flower         : 未開
+0.0040661    1 innocent       : 未通女
+0.0039762    1 striped        : 未通女
+0.0039617    1 unripe         : 未熟
+0.0038813    1 field          : 未開
+0.0038500    1 less           : 未満
+0.0038189    1 immature       : 未熟
+0.0037988    1 attempt        : 未遂
+0.0037315    1 land           : 未開
+0.0036918    1 order          : 未了
+0.0036825    1 attachment     : 未練
+0.0036665    1 tense          : 未来
+0.0036651    1 girl           : 未通女
+0.0036601    1 unmarried      : 未婚
+0.0036279    1 regret         : 未練
+0.0036113    1 gray           : 未明
+0.0035943    1 suicide        : 未遂
+0.0035915    1 married        : 未婚
+0.0035648    1 known          : 未知
+0.0035636    1 grey           : 未明
+0.0035329    1 existence      : 未来
+0.0035241    1 affection      : 未練
+0.0034902    1 dawn           : 未明
+0.0034220    1 fixed          : 未定
+0.0033432    1 grave          : 未来
+0.0032768    1 distant        : 未来
+0.0032423    1 place          : 未発
+0.0032079    1 strange        : 未知
+0.0031849    1 crime          : 未遂
+0.0030187    1 young          : 未通女
+0.0028415    1 green          : 未熟
+0.0025865    1 least          : 未だ
+0.0024819    1 come           : 未来
+0.0022928    1 done           : 未だ
+0.0022772    1 something      : 未だし
+0.0022709    1 go             : 未だ未だ
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1071595    5 sexagenary
+	sexagenary WORD[ 1,   1]: 0.0335735 癸未
+	sexagenary WORD[ 1,   2]: 0.0332178 丁未
+	sexagenary WORD[ 1,   3]: 0.0180944 己未
+	sexagenary WORD[ 1,   4]: 0.0171030 辛未
+	sexagenary WORD[ 1,   5]: 0.0051708 乙未
+TOKEN[ 2]: 0.1031668    5 cycle
+	cycle WORD[ 2,   1]: 0.0323226 癸未
+	cycle WORD[ 2,   2]: 0.0319801 丁未
+	cycle WORD[ 2,   3]: 0.0174202 己未
+	cycle WORD[ 2,   4]: 0.0164658 辛未
+	cycle WORD[ 2,   5]: 0.0049782 乙未
+TOKEN[ 3]: 0.0955030    5 term
+	term WORD[ 3,   1]: 0.0299215 癸未
+	term WORD[ 3,   2]: 0.0296044 丁未
+	term WORD[ 3,   3]: 0.0161261 己未
+	term WORD[ 3,   4]: 0.0152426 辛未
+	term WORD[ 3,   5]: 0.0046084 乙未
+TOKEN[ 4]: 0.0167516    4 unfinished
+	unfinished WORD[ 4,   1]: 0.0052605 未了
+	unfinished WORD[ 4,   2]: 0.0052230 未成
+	unfinished WORD[ 4,   3]: 0.0037182 未完
+	unfinished WORD[ 4,   4]: 0.0025499 未だ
+TOKEN[ 5]: 0.0162333    3 unprecedented
+	unprecedented WORD[ 5,   1]: 0.0059761 未曽有
+	unprecedented WORD[ 5,   2]: 0.0059760 未曾有
+	unprecedented WORD[ 5,   3]: 0.0042812 未到
+TOKEN[ 6]: 0.0148609    1 presymptomatic
+	presymptomatic WORD[ 6,   1]: 0.0148609 未病
+TOKEN[ 7]: 0.0142218    3 unknown
+	unknown WORD[ 7,   1]: 0.0052381 未詳
+	unknown WORD[ 7,   2]: 0.0052327 未見
+	unknown WORD[ 7,   3]: 0.0037510 未知
+TOKEN[ 8]: 0.0140776    3 unpaid
+	unpaid WORD[ 8,   1]: 0.0057685 未済
+	unpaid WORD[ 8,   2]: 0.0041545 未払
+	unpaid WORD[ 8,   3]: 0.0041545 未払い
+TOKEN[ 9]: 0.0134005    2 unexplored
+	unexplored WORD[ 9,   1]: 0.0067211 未踏
+	unexplored WORD[ 9,   2]: 0.0066794 未開
+TOKEN[10]: 0.0128721    3 overdue
+	overdue WORD[10,   1]: 0.0042914 未払
+	overdue WORD[10,   2]: 0.0042914 未払い
+	overdue WORD[10,   3]: 0.0042893 未納
+TOKEN[11]: 0.0115348    1 nonpayment
+	nonpayment WORD[11,   1]: 0.0115348 未進
+TOKEN[12]: 0.0105557    1 Ram
+	Ram WORD[12,   1]: 0.0052778 未
+TOKEN[13]: 0.0105248    2 pending
+	pending WORD[13,   1]: 0.0061244 未決
+	pending WORD[13,   2]: 0.0044004 未定
+TOKEN[14]: 0.0103732    2 undecided
+	undecided WORD[14,   1]: 0.0060362 未決
+	undecided WORD[14,   2]: 0.0043370 未定
+TOKEN[15]: 0.0095281    1 appear
+	appear WORD[15,   1]: 0.0095281 未病
+TOKEN[16]: 0.0094006    1 future
+	future WORD[16,   1]: 0.0094006 未来
+TOKEN[17]: 0.0093104    1 ill
+	ill WORD[17,   1]: 0.0093104 未病
+TOKEN[18]: 0.0092709    1 health
+	health WORD[18,   1]: 0.0092709 未病
+TOKEN[19]: 0.0088113    1 tribute
+	tribute WORD[19,   1]: 0.0088113 未進
+TOKEN[20]: 0.0084191    1 achieve
+	achieve WORD[20,   1]: 0.0084191 未達
+TOKEN[21]: 0.0083889    1 eighth
+	eighth WORD[21,   1]: 0.0041945 未
+TOKEN[22]: 0.0080999    1 failing
+	failing WORD[22,   1]: 0.0080999 未達
+TOKEN[23]: 0.0080723    1 sixth
+	sixth WORD[23,   1]: 0.0040361 未
+TOKEN[24]: 0.0077849    1 zodiac
+	zodiac WORD[24,   1]: 0.0038925 未
+TOKEN[25]: 0.0075926    2 inexperienced
+	inexperienced WORD[25,   1]: 0.0039443 未通女
+	inexperienced WORD[25,   2]: 0.0036483 未熟
+TOKEN[26]: 0.0075645    1 goal
+	goal WORD[26,   1]: 0.0075645 未達
+TOKEN[27]: 0.0074835    1 unfilled
+	unfilled WORD[27,   1]: 0.0074835 未了
+TOKEN[28]: 0.0074835    1 unexecuted
+	unexecuted WORD[28,   1]: 0.0074835 未了
+TOKEN[29]: 0.0074508    1 untrodden
+	untrodden WORD[29,   1]: 0.0074508 未踏
+TOKEN[30]: 0.0074307    1 uninstalled
+	uninstalled WORD[30,   1]: 0.0074307 未設
+TOKEN[31]: 0.0074259    1 unread
+	unread WORD[31,   1]: 0.0074259 未読
+TOKEN[32]: 0.0074100    1 executory
+	executory WORD[32,   1]: 0.0074100 未済
+TOKEN[33]: 0.0074098    1 unconvicted
+	unconvicted WORD[33,   1]: 0.0074098 未決
+TOKEN[34]: 0.0074068    1 unpublished
+	unpublished WORD[34,   1]: 0.0074068 未刊
+TOKEN[35]: 0.0074046    1 unbloomed
+	unbloomed WORD[35,   1]: 0.0074046 未開
+TOKEN[36]: 0.0069736    1 hour
+	hour WORD[36,   1]: 0.0034868 未
+TOKEN[37]: 0.0069710    1 uncompleted
+	uncompleted WORD[37,   1]: 0.0069710 未成
+TOKEN[38]: 0.0069521    1 uncultivated
+	uncultivated WORD[38,   1]: 0.0069521 未墾
+TOKEN[39]: 0.0069471    1 undeveloped
+	undeveloped WORD[39,   1]: 0.0069471 未開
+TOKEN[40]: 0.0066910    1 unborn
+	unborn WORD[40,   1]: 0.0066910 未生
+TOKEN[41]: 0.0066204    1 year
+	year WORD[41,   1]: 0.0066204 未年
+TOKEN[42]: 0.0065180    1 Nymphaea
+	Nymphaea WORD[42,   1]: 0.0065180 未草
+TOKEN[43]: 0.0064941    1 unseen
+	unseen WORD[43,   1]: 0.0064941 未見
+TOKEN[44]: 0.0064941    1 unacquainted
+	unacquainted WORD[44,   1]: 0.0064941 未見
+TOKEN[45]: 0.0063582    2 incomplete
+	incomplete WORD[45,   1]: 0.0037717 未完
+	incomplete WORD[45,   2]: 0.0025865 未だ
+TOKEN[46]: 0.0063533    1 unidentified
+	unidentified WORD[46,   1]: 0.0063533 未詳
+TOKEN[47]: 0.0062508    1 lunar
+	lunar WORD[47,   1]: 0.0031254 未
+TOKEN[48]: 0.0062451    1 morning
+	morning WORD[48,   1]: 0.0062451 未明
+TOKEN[49]: 0.0062219    1 primitive
+	primitive WORD[49,   1]: 0.0062219 未開
+TOKEN[50]: 0.0060715    1 pygmy
+	pygmy WORD[50,   1]: 0.0060715 未草
+TOKEN[51]: 0.0060612    1 payment
+	payment WORD[51,   1]: 0.0060612 未納
+TOKEN[52]: 0.0060350    1 calendar
+	calendar WORD[52,   1]: 0.0030175 未
+TOKEN[53]: 0.0060320    1 uncivilized
+	uncivilized WORD[53,   1]: 0.0060320 未開
+TOKEN[54]: 0.0060041    1 widow
+	widow WORD[54,   1]: 0.0060041 未亡人
+TOKEN[55]: 0.0059722    1 southwest
+	southwest WORD[55,   1]: 0.0059722 未申
+TOKEN[56]: 0.0059468    1 sign
+	sign WORD[56,   1]: 0.0029734 未
+TOKEN[57]: 0.0056034    1 month
+	month WORD[57,   1]: 0.0028017 未
+TOKEN[58]: 0.0055232    1 desired
+	desired WORD[58,   1]: 0.0055232 未だし
+TOKEN[59]: 0.0055145    1 world
+	world WORD[59,   1]: 0.0055145 未来
+TOKEN[60]: 0.0054908    1 long
+	long WORD[60,   1]: 0.0054908 未だ未だ
+TOKEN[61]: 0.0053502    1 ruefulness
+	ruefulness WORD[61,   1]: 0.0053502 未練
+TOKEN[62]: 0.0053240    1 unattained
+	unattained WORD[62,   1]: 0.0053240 未到
+TOKEN[63]: 0.0053240    1 unreached
+	unreached WORD[63,   1]: 0.0053240 未到
+TOKEN[64]: 0.0053240    1 unachieved
+	unachieved WORD[64,   1]: 0.0053240 未到
+TOKEN[65]: 0.0053068    1 savage
+	savage WORD[65,   1]: 0.0053068 未開
+TOKEN[66]: 0.0052576    1 seen
+	seen WORD[66,   1]: 0.0052576 未見
+TOKEN[67]: 0.0050142    1 unheard
+	unheard WORD[67,   1]: 0.0050142 未聞
+TOKEN[68]: 0.0049867    1 crude
+	crude WORD[68,   1]: 0.0049867 未成
+TOKEN[69]: 0.0047676    1 outstanding
+	outstanding WORD[69,   1]: 0.0047676 未収
+TOKEN[70]: 0.0047596    1 way
+	way WORD[70,   1]: 0.0047596 未だ未だ
+TOKEN[71]: 0.0047130    1 territory
+	territory WORD[71,   1]: 0.0047130 未開
+TOKEN[72]: 0.0046458    1 Chinese
+	Chinese WORD[72,   1]: 0.0023229 未
+TOKEN[73]: 0.0046080    1 mullet
+	mullet WORD[73,   1]: 0.0046080 未通女
+TOKEN[74]: 0.0045542    1 virgin
+	virgin WORD[74,   1]: 0.0045542 未通女
+TOKEN[75]: 0.0044956    1 reluctance
+	reluctance WORD[75,   1]: 0.0044956 未練
+TOKEN[76]: 0.0044634    1 event
+	event WORD[76,   1]: 0.0044634 未発
+TOKEN[77]: 0.0044539    1 unskilled
+	unskilled WORD[77,   1]: 0.0044539 未熟
+TOKEN[78]: 0.0044088    1 default
+	default WORD[78,   1]: 0.0044088 未納
+TOKEN[79]: 0.0042263    1 maiden
+	maiden WORD[79,   1]: 0.0042263 未通女
+TOKEN[80]: 0.0041316    1 wild
+	wild WORD[80,   1]: 0.0041316 未墾
+TOKEN[81]: 0.0040861    1 naive
+	naive WORD[81,   1]: 0.0040861 未通女
+TOKEN[82]: 0.0040712    1 flower
+	flower WORD[82,   1]: 0.0040712 未開
+TOKEN[83]: 0.0040661    1 innocent
+	innocent WORD[83,   1]: 0.0040661 未通女
+TOKEN[84]: 0.0039762    1 striped
+	striped WORD[84,   1]: 0.0039762 未通女
+TOKEN[85]: 0.0039617    1 unripe
+	unripe WORD[85,   1]: 0.0039617 未熟
+TOKEN[86]: 0.0038813    1 field
+	field WORD[86,   1]: 0.0038813 未開
+TOKEN[87]: 0.0038500    1 less
+	less WORD[87,   1]: 0.0038500 未満
+TOKEN[88]: 0.0038189    1 immature
+	immature WORD[88,   1]: 0.0038189 未熟
+TOKEN[89]: 0.0037988    1 attempt
+	attempt WORD[89,   1]: 0.0037988 未遂
+TOKEN[90]: 0.0037315    1 land
+	land WORD[90,   1]: 0.0037315 未開
+TOKEN[91]: 0.0036918    1 order
+	order WORD[91,   1]: 0.0036918 未了
+TOKEN[92]: 0.0036825    1 attachment
+	attachment WORD[92,   1]: 0.0036825 未練
+TOKEN[93]: 0.0036665    1 tense
+	tense WORD[93,   1]: 0.0036665 未来
+TOKEN[94]: 0.0036651    1 girl
+	girl WORD[94,   1]: 0.0036651 未通女
+TOKEN[95]: 0.0036601    1 unmarried
+	unmarried WORD[95,   1]: 0.0036601 未婚
+TOKEN[96]: 0.0036279    1 regret
+	regret WORD[96,   1]: 0.0036279 未練
+TOKEN[97]: 0.0036113    1 gray
+	gray WORD[97,   1]: 0.0036113 未明
+TOKEN[98]: 0.0035943    1 suicide
+	suicide WORD[98,   1]: 0.0035943 未遂
+TOKEN[99]: 0.0035915    1 married
+	married WORD[99,   1]: 0.0035915 未婚
+TOKEN[100]: 0.0035648    1 known
+	known WORD[100,   1]: 0.0035648 未知
+TOKEN[101]: 0.0035636    1 grey
+	grey WORD[101,   1]: 0.0035636 未明
+TOKEN[102]: 0.0035329    1 existence
+	existence WORD[102,   1]: 0.0035329 未来
+TOKEN[103]: 0.0035241    1 affection
+	affection WORD[103,   1]: 0.0035241 未練
+TOKEN[104]: 0.0034902    1 dawn
+	dawn WORD[104,   1]: 0.0034902 未明
+TOKEN[105]: 0.0034220    1 fixed
+	fixed WORD[105,   1]: 0.0034220 未定
+TOKEN[106]: 0.0033432    1 grave
+	grave WORD[106,   1]: 0.0033432 未来
+TOKEN[107]: 0.0032768    1 distant
+	distant WORD[107,   1]: 0.0032768 未来
+TOKEN[108]: 0.0032423    1 place
+	place WORD[108,   1]: 0.0032423 未発
+TOKEN[109]: 0.0032079    1 strange
+	strange WORD[109,   1]: 0.0032079 未知
+TOKEN[110]: 0.0031849    1 crime
+	crime WORD[110,   1]: 0.0031849 未遂
+TOKEN[111]: 0.0030187    1 young
+	young WORD[111,   1]: 0.0030187 未通女
+TOKEN[112]: 0.0028415    1 green
+	green WORD[112,   1]: 0.0028415 未熟
+TOKEN[113]: 0.0025865    1 least
+	least WORD[113,   1]: 0.0025865 未だ
+TOKEN[114]: 0.0024819    1 come
+	come WORD[114,   1]: 0.0024819 未来
+TOKEN[115]: 0.0022928    1 done
+	done WORD[115,   1]: 0.0022928 未だ
+TOKEN[116]: 0.0022772    1 something
+	something WORD[116,   1]: 0.0022772 未だし
+TOKEN[117]: 0.0022709    1 go
+	go WORD[117,   1]: 0.0022709 未だ未だ

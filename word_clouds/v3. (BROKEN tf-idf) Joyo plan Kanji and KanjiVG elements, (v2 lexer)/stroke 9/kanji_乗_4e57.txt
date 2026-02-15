@@ -1,0 +1,1610 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0424133   36 ride           : ただ乗り, タダ乗り, 只乗り, 乗り逃げ, 乗逃げ, 乗り心地, 乗心地, 乗せる, 乗りつぶす, 乗り潰す, ...
+0.0376815    1 seater         : 一人乗り
+0.0366406   25 riding         : 乗り鉄, 乗馬, 乗り心地, 乗心地, 二人乗り, ２人乗り, 同乗, 乗り掛ける, 乗りかかる, 乗り掛かる, ...
+0.0340993    2 airplane       : 一人乗り, 乗機
+0.0288783    3 exponentiation : べき乗, 冪乗, 累乗
+0.0283088    1 aeroplane      : 一人乗り
+0.0203127    1 single         : 一人乗り
+0.0203018    1 boat           : 一人乗り
+0.0160119    5 power          : べき乗, 冪乗, 乗, 二乗, 自乗
+0.0150969    5 railway        : 乗り鉄, 乗り入れる, 乗入れる, 乗り場, 乗場
+0.0143352   15 train          : ただ乗り, タダ乗り, 只乗り, 乗り過ごす, 警乗, 初乗り, 乗る, 乗りつぐ, 乗り継ぐ, 乗継ぐ, ...
+0.0143307   14 vehicle        : 乗り口, 乗り心地, 乗心地, 乗り合わす, 乗り合わせる, 乗り捨てる, 乗り越す, 乗越す, 大乗, 初乗り, ...
+0.0142485   11 boarding       : 乗機, 乗り口, 混乗, 乗り場, 乗場, 乗り込み, 乗込み, 乗り降り, 搭乗, 乗船, ...
+0.0133665    1 enthusiast     : 乗り鉄
+0.0123314   14 change         : 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え, 乗りつぐ, ...
+0.0121001   14 transfer       : 乗り移す, 乗り継ぎ, 乗継, 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, ...
+0.0117624   11 bus            : 乗り口, 混乗, 乗り場, 乗場, 乗り過ごす, 乗る, 乗りかえる, 乗り換える, 乗り替える, 乗換える, ...
+0.0116058    8 horse          : 乗り慣らす, 乗り馴らす, 乗馬, 乗りつぶす, 乗り潰す, 輪乗り, 下乗, 騎乗
+0.0084584   11 drive          : 乗りつぶす, 乗り潰す, 乗り入る, 乗りまわす, 乗り回す, 乗回す, 乗りつける, 乗り付ける, 乗り入れる, 乗入れる, ...
+0.0083447   11 board          : 乗せる, 乗り掛ける, 乗りかかる, 乗り掛かる, 乗る, 乗りこむ, 乗り込む, 乗込む, 乗っける, 坐乗, ...
+0.0081309   12 car            : 乗りつぶす, 乗り潰す, 陪乗, 乗りまわす, 乗り回す, 乗回す, 乗りこむ, 乗り込む, 乗込む, 乗りきる, ...
+0.0075722   19 one            : 名乗る, 乗り心地, 乗心地, 名乗り, 乗り過ごす, 縦乗り, 乗り越す, 乗越す, 乗り越し, 乗越し, ...
+0.0073621    9 passenger      : 乗り手, 乗手, 大乗, 乗り継ぎ, 乗継, 乗り合い, 乗合, 乗用, 乗客
+0.0072157    1 stowaway       : 乗り移す
+0.0071821    9 ideology       : 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0069792    3 free           : ただ乗り, タダ乗り, 只乗り
+0.0061949    9 switch         : 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0059601    9 ship           : 乗船, 乗り捨てる, 乗り組む, 乗る, 乗りこむ, 乗り込む, 乗込む, 搭乗, 移乗
+0.0058965    5 set            : 乗り出す, 乗出す, 乗り掛ける, 乗りかかる, 乗り掛かる
+0.0057069    2 footstool      : 足乗せ, 乗る
+0.0053006    6 climb          : 乗り越す, 乗越す, 乗りこえる, 乗り越える, 乗越える, 乗っかる
+0.0052437    1 manning        : 配乗
+0.0052005    9 method         : 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0050950    5 lean           : 乗り掛ける, 乗りかかる, 乗り掛かる, 乗り出す, 乗出す
+0.0050884    6 embark         : 乗る, 乗り出す, 乗出す, 乗りこむ, 乗り込む, 乗込む
+0.0050833    8 connection     : 乗りつぐ, 乗り継ぐ, 乗継ぐ, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0050828    2 rider          : 乗り手, 乗手
+0.0050663    2 break          : 乗り慣らす, 乗り馴らす
+0.0048637    9 party          : 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0047610    5 overtake       : 乗り越す, 乗越す, 乗りこえる, 乗り越える, 乗越える
+0.0045769    1 door           : 乗り口
+0.0045503    5 chromosomal    : 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0045161    8 different      : 乗りつぐ, 乗り継ぐ, 乗継ぐ, 乗りかえる, 乗り換える, 乗り替える, 乗換える, 相乗り
+0.0044337    6 take           : 乗る, 乗せる, 乗っとる, 名乗る, 乗ずる, 乗じる
+0.0044258    6 getting        : 便乗, 悪乗り, 乗り降り, 乗り, 乗車, 乗降
+0.0044237    3 mounting       : 乗り口, 乗馬, 騎乗
+0.0044200    5 crossover      : 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0043679    9 system         : 乗りかえる, 乗り換える, 乗り替える, 乗換える, 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0043635    3 collide        : 乗り掛ける, 乗りかかる, 乗り掛かる
+0.0042758    6 taxi           : 初乗り, 乗り場, 乗場, 乗り付け, 乗車, 相乗り
+0.0042386    7 new            : 初乗り, 乗り出す, 乗出す, 乗りかえる, 乗り換える, 乗り替える, 乗換える
+0.0041093    5 multiplication : 乗法, 相乗, 乗除, 乗算, 乗
+0.0040631    7 interest       : 乗り気, 乗気, 乗りかえる, 乗り換える, 乗り替える, 乗換える, 気乗り
+0.0040550    1 equipage       : 乗り口
+0.0039387    5 stop           : 乗り過ごす, 乗り越す, 乗越す, 乗り場, 乗場
+0.0037660    5 overcome       : 乗りこえる, 乗り越える, 乗越える, 乗りきる, 乗り切る
+0.0037302    5 switching      : 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0037071    5 place          : 乗り入る, 乗り場, 乗場, 乗っける, 乗せる
+0.0036992    2 comfort        : 乗り心地, 乗心地
+0.0035437    5 conversion     : 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0034750    4 embarkation    : 乗り込み, 乗込み, 搭乗, 乗船
+0.0034415    5 crossing       : 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0034372    2 playground     : 乗り物, 乗物
+0.0033512    5 flight         : 乗りつぐ, 乗り継ぐ, 乗継ぐ, 乗り継ぎ, 乗継
+0.0032683    3 feeling        : 乗り心地, 乗心地, 乗り
+0.0032293    1 restraining    : 乗り口
+0.0032261    1 vessel         : 配乗
+0.0031493    6 someone        : 乗せる, 乗りこむ, 乗り込む, 乗込む, 乗っける, 乗船
+0.0030752    4 sail           : 乗り出す, 乗出す, 乗りきる, 乗り切る
+0.0030730    4 follow         : 乗る, 乗っ取る, 乗ずる, 乗じる
+0.0030723    2 line           : 乗り入れる, 乗入れる
+0.0030551    2 overshoot      : 乗り越す, 乗越す
+0.0030136    2 name           : 名乗る, 名乗り
+0.0029959    4 join           : 乗り組む, 乗る, 乗り入れる, 乗入れる
+0.0029875    5 help           : 乗りこむ, 乗り込む, 乗込む, 乗っける, 乗せる
+0.0029857    2 quality        : 乗り心地, 乗心地
+0.0028959    3 top            : 乗り掛ける, 乗りかかる, 乗り掛かる
+0.0028915    3 surmount       : 乗りこえる, 乗り越える, 乗越える
+0.0028335    5 stock          : 乗り替え, 乗りかえ, 乗り換え, 乗換, 乗換え
+0.0027516    3 run            : 乗り上げる, 乗上げる, 乗せる
+0.0027309    4 enthusiasm     : 乗り気, 乗気, 乗り, 気乗り
+0.0027171    2 history        : 野乗, 史乗
+0.0026996    4 driving        : 乗りつける, 乗り付ける, 乗り入れ, 乗入れ
+0.0025954    3 give           : 乗っける, 乗せる, 名乗る
+0.0025732    1 entry          : 乗り口
+0.0025284    3 predecessor    : 乗りこえる, 乗り越える, 乗越える
+0.0024787    1 entrance       : 乗り口
+0.0024463    2 weather        : 乗りきる, 乗り切る
+0.0024127    1 multiplier     : 乗数
+0.0023906    2 balancing      : 玉乗り, 球乗り
+0.0023884    3 horseback      : 馬乗り, 下乗, 騎乗
+0.0023775    2 stolen         : 乗り逃げ, 乗逃げ
+0.0023612    2 share          : 乗り合わす, 乗り合わせる
+0.0023563    4 move           : 乗りかえる, 乗り換える, 乗り替える, 乗換える
+0.0023524    3 pass           : 乗り越す, 乗越す, 乗る
+0.0023483    6 something      : 乗り出す, 乗出す, 乗っける, 乗せる, 手乗り, 気乗り
+0.0023451    2 introduce      : 名乗り出る, 名乗る
+0.0023354    3 luggage        : 乗りきる, 乗り切る, 乗せる
+0.0023259    3 surpass        : 乗りこえる, 乗り越える, 乗越える
+0.0023144    2 stealing       : 乗り逃げ, 乗逃げ
+0.0023102    1 fare           : 初乗り
+0.0023076    3 connect        : 乗りつぐ, 乗り継ぐ, 乗継ぐ
+0.0023063    3 obstacle       : 乗りこえる, 乗り越える, 乗越える
+0.0022994    2 happen         : 乗り合わす, 乗り合わせる
+0.0022656    3 march          : 乗りこむ, 乗り込む, 乗込む
+0.0022356    2 crew           : 乗員, 乗組
+0.0022060    3 used           : 乗りつける, 乗り付ける, 名乗り
+0.0021983    2 ground         : 乗りつぶす, 乗り潰す
+0.0021958    3 bicycle        : 乗りまわす, 乗り回す, 乗回す
+0.0021945    4 love           : 乗りかえる, 乗り換える, 乗り替える, 乗換える
+0.0021923    3 lift           : 便乗, 乗っける, 乗せる
+0.0021843    1 energetic      : 乗り乗り
+0.0021661    3 crisis         : 乗りこえる, 乗り越える, 乗越える
+0.0021193    4 company        : 乗りかえる, 乗り換える, 乗り替える, 乗換える
+0.0021181    3 enter          : 乗りこむ, 乗り込む, 乗込む
+0.0021090    3 capture        : 乗っとる, 乗り取る, 乗っ取り
+0.0021039    2 claim          : 名乗り出る, 名乗る
+0.0020866    3 load           : 乗りきる, 乗り切る, 乗せる
+0.0020852    2 hijack         : 乗っとる, 乗っ取り
+0.0020459    3 difficulty     : 乗りこえる, 乗り越える, 乗越える
+0.0020147    2 death          : 乗りつぶす, 乗り潰す
+0.0020147    3 warship        : 乗艦, 坐乗, 座乗
+0.0019738    3 cross          : 乗りこえる, 乗り越える, 乗越える
+0.0019645    4 people         : 二人乗り, ２人乗り, 乗りきる, 乗り切る
+0.0019276    3 pain           : 乗りこえる, 乗り越える, 乗越える
+0.0019258    2 sidewalk       : 乗り上げる, 乗上げる
+0.0019224    3 advantage      : 便乗, 乗ずる, 乗じる
+0.0019203    1 excited        : 乗り乗り
+0.0019198    2 usurp          : 乗っとる, 乗り取る
+0.0019138    3 illness        : 乗りこえる, 乗り越える, 乗越える
+0.0018682    2 jetty          : 乗り場, 乗場
+0.0018344    2 bike           : 二人乗り, ２人乗り
+0.0018139    2 past           : 乗り越し, 乗越し
+0.0018132    2 number         : 二乗, 自乗
+0.0018088    3 plane          : 乗る, 坐乗, 座乗
+0.0018039    2 carnival       : 乗り物, 乗物
+0.0017573    2 station        : 乗り越し, 乗越し
+0.0017497    2 carried        : 悪乗り, 乗る
+0.0017404    2 eagerness      : 乗り気, 乗気
+0.0017374    1 sought         : 名乗り出る
+0.0017280    2 adversity      : 乗りきる, 乗り切る
+0.0017201    3 going          : 悪乗り, 坐乗, 座乗
+0.0017097    2 occupy         : 乗っとる, 乗り取る
+0.0016984    2 ball           : 玉乗り, 球乗り
+0.0016963    2 Buddhism       : 大乗, 小乗
+0.0016915    3 spirit         : 乗り移る, 乗移る, 乗り
+0.0016874    2 conveyance     : 乗り物, 乗物
+0.0016688    2 wharf          : 乗り場, 乗場
+0.0016688    3 mountain       : 乗りこえる, 乗り越える, 乗越える
+0.0016446    2 moving         : 縦乗り, 飛び乗る
+0.0016442    1 conform        : 乗っ取る
+0.0016365    2 venture        : 乗り出す, 乗出す
+0.0016154    1 multiple       : 混乗
+0.0016023    1 accordance     : 乗っ取る
+0.0015996    1 announce       : 名乗り出る
+0.0015957    2 possess        : 乗り移る, 乗移る
+0.0015895    2 partnership    : 乗り合い, 乗合
+0.0015787    1 mariner        : 船乗り
+0.0015744    2 survive        : 乗りきる, 乗り切る
+0.0015281    2 multiplying    : 二乗, 自乗
+0.0015261    2 transit        : 乗り継ぎ, 乗継
+0.0015220    2 achieve        : 乗り出す, 乗出す
+0.0015128    2 dignitary      : 坐乗, 座乗
+0.0015103    3 man            : 乗りこむ, 乗り込む, 乗込む
+0.0015087    2 multiply       : 乗ずる, 乗じる
+0.0015036    2 forward        : 乗り出す, 乗出す
+0.0015019    2 mount          : 乗る, 乗馬
+0.0014907    1 witness        : 名乗り出る
+0.0014882    1 factorial      : 階乗
+0.0014829    2 shelf          : 乗りきる, 乗り切る
+0.0014736    1 aboard         : 乗り組む
+0.0014658    1 mixed          : 混乗
+0.0014594    1 tradition      : 乗っ取る
+0.0014569    2 sing           : 乗る, 乗せる
+0.0014376    1 carriage       : 陪乗
+0.0014318    1 supercargo     : 上乗り
+0.0014283    2 extend         : 乗り入れる, 乗入れる
+0.0014022    1 go             : 乗る
+0.0013968    2 terminal       : 乗り場, 乗場
+0.0013859    2 facility       : 乗り物, 乗物
+0.0013826    2 rhythm         : 乗り, 大乗り
+0.0013802    2 platform       : 乗り場, 乗場
+0.0013720    2 fair           : 乗り物, 乗物
+0.0013714    2 double         : 二人乗り, ２人乗り
+0.0013668    2 tide           : 乗りきる, 乗り切る
+0.0013641    1 high           : 乗り乗り
+0.0013606    2 transport      : 乗り物, 乗物
+0.0013593    2 fellow         : 乗り合い, 乗合
+0.0013589    1 superior       : 陪乗
+0.0013548    2 link           : 乗り入れる, 乗入れる
+0.0013541    2 storm          : 乗りきる, 乗り切る
+0.0013456    1 seaman         : 船乗り
+0.0013416    1 Hinayana       : 小乗
+0.0013362    3 make           : 乗りつぐ, 乗り継ぐ, 乗継ぐ
+0.0013337    1 Mahayana       : 大乗
+0.0013236    2 separate       : 乗り入れる, 乗入れる
+0.0013222    2 commander      : 坐乗, 座乗
+0.0013180    1 example        : 乗っ取る
+0.0013045    2 good           : 乗り手, 乗手
+0.0012947    2 route          : 乗り入れる, 乗入れる
+0.0012709    1 sailor         : 船乗り
+0.0012707    2 ticket         : 乗り継ぎ, 乗継
+0.0012689    2 pick           : 乗っける, 乗せる
+0.0012668    2 rough          : 乗りきる, 乗り切る
+0.0012628    1 annals         : 史乗
+0.0012625    2 spread         : 乗る, 乗り
+0.0012530    1 operate        : 乗り合わせる
+0.0012508    1 astride        : 馬乗り
+0.0012504    2 jump           : 乗る, 飛び乗る
+0.0012490    2 entering       : 乗り, 下乗
+0.0012461    2 joint          : 乗り合い, 乗合
+0.0012452    1 samurai        : 名乗り
+0.0012449    1 sovereignty    : 万乗
+0.0012363    2 begin          : 乗り出す, 乗出す
+0.0012336    1 stunt          : 宙乗り
+0.0012315    1 rule           : 乗っ取る
+0.0012251    1 straddling     : 馬乗り
+0.0012069    2 god            : 乗り移る, 乗移る
+0.0011952    2 visiting       : 坐乗, 座乗
+0.0011433    2 stand          : 乗り場, 乗場
+0.0011316    1 aerial         : 宙乗り
+0.0011191    1 taking         : 便乗
+0.0011055    1 composed       : 野乗
+0.0011052    1 commandeer     : 乗っとる
+0.0011046    1 call           : 名乗る
+0.0010909    2 square         : 二乗, 自乗
+0.0010861    1 miss           : 乗り過ごす
+0.0010728    1 declared       : 勝ち名乗り
+0.0010659    1 beat           : 縦乗り
+0.0010635    1 circle         : 輪乗り
+0.0010612    2 two            : 二人乗り, ２人乗り
+0.0010510    1 superb         : 上乗
+0.0010438    2 part           : 乗る, 乗せる
+0.0010258    1 abandon        : 乗り捨てる
+0.0010071    1 test           : 試乗
+0.0010025    1 forth          : 乗り進める
+0.0009642    1 come           : 名乗り出る
+0.0009588    1 excite         : 乗せる
+0.0009569    1 music          : 縦乗り
+0.0009532    2 second         : 二乗, 自乗
+0.0009467    1 factor         : 乗数
+0.0009437    1 winner         : 勝ち名乗り
+0.0009307    1 synergism      : 相乗
+0.0009250    1 bout           : 勝ち名乗り
+0.0009171    1 excellent      : 上乗
+0.0009136    1 crewman        : 乗員
+0.0008382    1 body           : 縦乗り
+0.0008338    1 publish        : 乗せる
+0.0008196    1 best           : 上乗
+0.0008164    1 trick          : 曲乗り
+0.0008136    1 ad             : 乗せる
+0.0008119    1 attach         : 乗る
+0.0008077    1 sitting        : 馬乗り
+0.0007977    1 admit          : 名乗る
+0.0007910    1 participate    : 乗る
+0.0007804    1 minimum        : 初乗り
+0.0007759    1 upon           : 飛び乗る
+0.0007584    1 adopt          : 名乗る
+0.0007583    1 battlefield    : 名乗り
+0.0007459    1 accompaniment  : 乗せる
+0.0007450    1 seize          : 乗っとる
+0.0007437    1 nobility       : 名乗り
+0.0007399    1 tacking        : 上乗せ
+0.0007360    1 person         : 名乗り出る
+0.0007354    1 nth            : 乗
+0.0007296    1 reveal         : 名乗る
+0.0007292    1 large          : 大乗
+0.0007281    1 scattered      : 乗る
+0.0007263    1 lineage        : 名乗り
+0.0007170    1 deceive        : 乗せる
+0.0007050    1 passage        : 便乗
+0.0006977    1 swing          : 乗る
+0.0006852    1 saddle         : 乗馬
+0.0006796    1 zone           : 初乗り
+0.0006781    1 tour           : 添乗
+0.0006780    1 track          : 乗る
+0.0006750    1 sit            : 乗る
+0.0006724    1 palm           : 手乗り
+0.0006687    1 opportunity    : 便乗
+0.0006636    1 transferring   : 移乗
+0.0006593    1 taken          : 乗る
+0.0006491    1 musical        : 乗せる
+0.0006473    1 starting       : 初乗り
+0.0006466    1 title          : 名乗る
+0.0006457    1 send           : 乗せる
+0.0006444    1 dance          : 乗る
+0.0006438    1 stay           : 乗る
+0.0006419    1 joining        : 乗艦
+0.0006413    1 mood           : 乗り
+0.0006400    1 increasing     : 上乗せ
+0.0006380    1 aircraft       : 搭乗
+0.0006373    1 energy         : 乗り
+0.0006358    1 reach          : 乗る
+0.0006302    1 prohibition    : 下乗
+0.0006297    1 collaboration  : 相乗り
+0.0006241    1 regular        : 乗り付け
+0.0006231    1 wear           : 名乗る
+0.0006223    1 step           : 乗る
+0.0006179    1 selling        : 名乗る
+0.0006090    1 trip           : 添乗
+0.0006070    1 stick          : 乗る
+0.0006021    1 account        : 乗っとる
+0.0006004    1 carry          : 乗せる
+0.0006003    1 giving         : 名乗り
+0.0005987    1 base           : 初乗り
+0.0005967    1 article        : 乗せる
+0.0005961    1 doctrine       : 一乗
+0.0005937    1 given          : 名乗り
+0.0005876    1 holding        : 手乗り
+0.0005857    1 grounds        : 下乗
+0.0005853    1 male           : 名乗り
+0.0005848    1 let            : 乗せる
+0.0005839    1 times          : 乗る
+0.0005825    1 coming         : 名乗り
+0.0005763    1 respect        : 下乗
+0.0005742    1 trial          : 試乗
+0.0005742    1 rank           : 名乗り
+0.0005714    1 reading        : 名乗り
+0.0005664    1 object         : 飛び乗る
+0.0005609    1 carrying       : 乗船
+0.0005582    1 bird           : 手乗り
+0.0005566    1 backing        : 相乗り
+0.0005534    1 division       : 乗除
+0.0005518    1 class          : 名乗り
+0.0005468    1 animal         : 手乗り
+0.0005423    1 goods          : 名乗る
+0.0005405    1 year           : 初乗り
+0.0005399    1 age            : 名乗り
+0.0005395    1 counter        : 乗
+0.0005365    1 candidate      : 相乗り
+0.0005341    1 teaching       : 一乗
+0.0005267    1 extra          : 上乗せ
+0.0005240    1 enlightenment  : 一乗
+0.0005229    1 member         : 乗員
+0.0005112    1 sign           : 下乗
+0.0005094    1 Buddha         : 乗
+0.0005019    1 group          : 添乗
+0.0004802    1 hand           : 手乗り
+0.0004715    1 temple         : 下乗
+0.0004708    1 shrine         : 下乗
+0.0004575    1 use            : 乗用
+0.0004554    1 lead           : 一乗
+0.0004511    1 amount         : 上乗せ
+0.0004483    1 small          : 手乗り
+0.0004436    1 charge         : 上乗せ
+0.0004420    1 political      : 相乗り
+0.0004169    1 work           : 乗務
+0.0004131    1 type           : 大乗り
+0.0003873    1 Japanese       : 名乗り
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0424133   36 ride
+	ride WORD[ 1,   1]: 0.0028194 ただ乗り
+	ride WORD[ 1,   2]: 0.0028194 タダ乗り
+	ride WORD[ 1,   3]: 0.0028194 只乗り
+	ride WORD[ 1,   4]: 0.0020548 乗り逃げ
+	ride WORD[ 1,   5]: 0.0020548 乗逃げ
+	ride WORD[ 1,   6]: 0.0017070 乗り心地
+	ride WORD[ 1,   7]: 0.0017070 乗心地
+	ride WORD[ 1,   8]: 0.0014003 乗せる
+	ride WORD[ 1,   9]: 0.0013841 乗りつぶす
+	ride WORD[ 1,  10]: 0.0013841 乗り潰す
+	ride WORD[ 1,  11]: 0.0013840 乗り合わす
+	ride WORD[ 1,  12]: 0.0013464 乗り入る
+	ride WORD[ 1,  13]: 0.0012079 試乗
+	ride WORD[ 1,  14]: 0.0011662 乗り過ごす
+	ride WORD[ 1,  15]: 0.0010782 乗り合わせる
+	ride WORD[ 1,  16]: 0.0010271 乗り進める
+	ride WORD[ 1,  17]: 0.0010269 乗り越す
+	ride WORD[ 1,  18]: 0.0010269 乗越す
+	ride WORD[ 1,  19]: 0.0009937 遠乗り
+	ride WORD[ 1,  20]: 0.0007360 便乗
+	ride WORD[ 1,  21]: 0.0007125 初乗り
+	ride WORD[ 1,  22]: 0.0007046 乗り物
+	ride WORD[ 1,  23]: 0.0007046 乗物
+	ride WORD[ 1,  24]: 0.0007044 乗りまわす
+	ride WORD[ 1,  25]: 0.0007044 乗り回す
+	ride WORD[ 1,  26]: 0.0007044 乗回す
+	ride WORD[ 1,  27]: 0.0007043 乗りつける
+	ride WORD[ 1,  28]: 0.0007043 乗り付ける
+	ride WORD[ 1,  29]: 0.0007041 乗り出す
+	ride WORD[ 1,  30]: 0.0007041 乗出す
+	ride WORD[ 1,  31]: 0.0007036 乗りきる
+	ride WORD[ 1,  32]: 0.0007036 乗り切る
+	ride WORD[ 1,  33]: 0.0007032 乗り入れる
+	ride WORD[ 1,  34]: 0.0007032 乗入れる
+	ride WORD[ 1,  35]: 0.0007031 乗り
+	ride WORD[ 1,  36]: 0.0007009 乗っける
+TOKEN[ 2]: 0.0376815    1 seater
+	seater WORD[ 2,   1]: 0.0376815 一人乗り
+TOKEN[ 3]: 0.0366406   25 riding
+	riding WORD[ 3,   1]: 0.0118158 乗り鉄
+	riding WORD[ 3,   2]: 0.0018353 乗馬
+	riding WORD[ 3,   3]: 0.0016996 乗り心地
+	riding WORD[ 3,   4]: 0.0016996 乗心地
+	riding WORD[ 3,   5]: 0.0014768 二人乗り
+	riding WORD[ 3,   6]: 0.0014768 ２人乗り
+	riding WORD[ 3,   7]: 0.0013532 同乗
+	riding WORD[ 3,   8]: 0.0013262 乗り掛ける
+	riding WORD[ 3,   9]: 0.0011610 乗りかかる
+	riding WORD[ 3,  10]: 0.0011610 乗り掛かる
+	riding WORD[ 3,  11]: 0.0011295 輪乗り
+	riding WORD[ 3,  12]: 0.0010225 乗り越し
+	riding WORD[ 3,  13]: 0.0010225 乗越し
+	riding WORD[ 3,  14]: 0.0009064 曲乗り
+	riding WORD[ 3,  15]: 0.0008907 馬乗り
+	riding WORD[ 3,  16]: 0.0007475 分乗
+	riding WORD[ 3,  17]: 0.0007167 陪乗
+	riding WORD[ 3,  18]: 0.0007013 乗りつける
+	riding WORD[ 3,  19]: 0.0007013 乗り付ける
+	riding WORD[ 3,  20]: 0.0007001 乗り合い
+	riding WORD[ 3,  21]: 0.0007001 乗合
+	riding WORD[ 3,  22]: 0.0007001 乗り
+	riding WORD[ 3,  23]: 0.0006118 乗用
+	riding WORD[ 3,  24]: 0.0005707 騎乗
+	riding WORD[ 3,  25]: 0.0005141 相乗り
+TOKEN[ 4]: 0.0340993    2 airplane
+	airplane WORD[ 4,   1]: 0.0266495 一人乗り
+	airplane WORD[ 4,   2]: 0.0074498 乗機
+TOKEN[ 5]: 0.0288783    3 exponentiation
+	exponentiation WORD[ 5,   1]: 0.0138480 べき乗
+	exponentiation WORD[ 5,   2]: 0.0138477 冪乗
+	exponentiation WORD[ 5,   3]: 0.0011826 累乗
+TOKEN[ 6]: 0.0283088    1 aeroplane
+	aeroplane WORD[ 6,   1]: 0.0283088 一人乗り
+TOKEN[ 7]: 0.0203127    1 single
+	single WORD[ 7,   1]: 0.0203127 一人乗り
+TOKEN[ 8]: 0.0203018    1 boat
+	boat WORD[ 8,   1]: 0.0203018 一人乗り
+TOKEN[ 9]: 0.0160119    5 power
+	power WORD[ 9,   1]: 0.0073090 べき乗
+	power WORD[ 9,   2]: 0.0073089 冪乗
+	power WORD[ 9,   3]: 0.0004653 乗
+	power WORD[ 9,   4]: 0.0004644 二乗
+	power WORD[ 9,   5]: 0.0004644 自乗
+TOKEN[10]: 0.0150969    5 railway
+	railway WORD[10,   1]: 0.0111356 乗り鉄
+	railway WORD[10,   2]: 0.0013197 乗り入れる
+	railway WORD[10,   3]: 0.0013197 乗入れる
+	railway WORD[10,   4]: 0.0006610 乗り場
+	railway WORD[10,   5]: 0.0006610 乗場
+TOKEN[11]: 0.0143352   15 train
+	train WORD[11,   1]: 0.0023108 ただ乗り
+	train WORD[11,   2]: 0.0023108 タダ乗り
+	train WORD[11,   3]: 0.0023108 只乗り
+	train WORD[11,   4]: 0.0009558 乗り過ごす
+	train WORD[11,   5]: 0.0007443 警乗
+	train WORD[11,   6]: 0.0005840 初乗り
+	train WORD[11,   7]: 0.0005775 乗る
+	train WORD[11,   8]: 0.0005772 乗りつぐ
+	train WORD[11,   9]: 0.0005772 乗り継ぐ
+	train WORD[11,  10]: 0.0005772 乗継ぐ
+	train WORD[11,  11]: 0.0005766 乗りかえる
+	train WORD[11,  12]: 0.0005766 乗り換える
+	train WORD[11,  13]: 0.0005766 乗り替える
+	train WORD[11,  14]: 0.0005766 乗換える
+	train WORD[11,  15]: 0.0005034 乗車
+TOKEN[12]: 0.0143307   14 vehicle
+	vehicle WORD[12,   1]: 0.0024140 乗り口
+	vehicle WORD[12,   2]: 0.0015116 乗り心地
+	vehicle WORD[12,   3]: 0.0015116 乗心地
+	vehicle WORD[12,   4]: 0.0012255 乗り合わす
+	vehicle WORD[12,   5]: 0.0009548 乗り合わせる
+	vehicle WORD[12,   6]: 0.0009097 乗り捨てる
+	vehicle WORD[12,   7]: 0.0009094 乗り越す
+	vehicle WORD[12,   8]: 0.0009094 乗越す
+	vehicle WORD[12,   9]: 0.0008624 大乗
+	vehicle WORD[12,  10]: 0.0006309 初乗り
+	vehicle WORD[12,  11]: 0.0006239 乗り物
+	vehicle WORD[12,  12]: 0.0006239 乗物
+	vehicle WORD[12,  13]: 0.0006229 乗り降り
+	vehicle WORD[12,  14]: 0.0006207 乗っとる
+TOKEN[13]: 0.0142485   11 boarding
+	boarding WORD[13,   1]: 0.0036102 乗機
+	boarding WORD[13,   2]: 0.0029463 乗り口
+	boarding WORD[13,   3]: 0.0018422 混乗
+	boarding WORD[13,   4]: 0.0007613 乗り場
+	boarding WORD[13,   5]: 0.0007613 乗場
+	boarding WORD[13,   6]: 0.0007608 乗り込み
+	boarding WORD[13,   7]: 0.0007608 乗込み
+	boarding WORD[13,   8]: 0.0007603 乗り降り
+	boarding WORD[13,   9]: 0.0007174 搭乗
+	boarding WORD[13,  10]: 0.0006640 乗船
+	boarding WORD[13,  11]: 0.0006639 乗車
+TOKEN[14]: 0.0133665    1 enthusiast
+	enthusiast WORD[14,   1]: 0.0133665 乗り鉄
+TOKEN[15]: 0.0123314   14 change
+	change WORD[15,   1]: 0.0010722 乗りかえる
+	change WORD[15,   2]: 0.0010722 乗り換える
+	change WORD[15,   3]: 0.0010722 乗り替える
+	change WORD[15,   4]: 0.0010722 乗換える
+	change WORD[15,   5]: 0.0010722 乗り替え
+	change WORD[15,   6]: 0.0010721 乗りかえ
+	change WORD[15,   7]: 0.0010721 乗り換え
+	change WORD[15,   8]: 0.0010721 乗換
+	change WORD[15,   9]: 0.0010721 乗換え
+	change WORD[15,  10]: 0.0005367 乗りつぐ
+	change WORD[15,  11]: 0.0005367 乗り継ぐ
+	change WORD[15,  12]: 0.0005367 乗継ぐ
+	change WORD[15,  13]: 0.0005360 乗り移る
+	change WORD[15,  14]: 0.0005360 乗移る
+TOKEN[16]: 0.0121001   14 transfer
+	transfer WORD[16,   1]: 0.0041935 乗り移す
+	transfer WORD[16,   2]: 0.0006088 乗り継ぎ
+	transfer WORD[16,   3]: 0.0006088 乗継
+	transfer WORD[16,   4]: 0.0006081 乗りかえる
+	transfer WORD[16,   5]: 0.0006081 乗り換える
+	transfer WORD[16,   6]: 0.0006081 乗り替える
+	transfer WORD[16,   7]: 0.0006081 乗換える
+	transfer WORD[16,   8]: 0.0006081 乗り替え
+	transfer WORD[16,   9]: 0.0006081 乗りかえ
+	transfer WORD[16,  10]: 0.0006081 乗り換え
+	transfer WORD[16,  11]: 0.0006081 乗換
+	transfer WORD[16,  12]: 0.0006081 乗換え
+	transfer WORD[16,  13]: 0.0006080 乗り移る
+	transfer WORD[16,  14]: 0.0006080 乗移る
+TOKEN[17]: 0.0117624   11 bus
+	bus WORD[17,   1]: 0.0025556 乗り口
+	bus WORD[17,   2]: 0.0015979 混乗
+	bus WORD[17,   3]: 0.0013207 乗り場
+	bus WORD[17,   4]: 0.0013207 乗場
+	bus WORD[17,   5]: 0.0010933 乗り過ごす
+	bus WORD[17,   6]: 0.0006606 乗る
+	bus WORD[17,   7]: 0.0006595 乗りかえる
+	bus WORD[17,   8]: 0.0006595 乗り換える
+	bus WORD[17,   9]: 0.0006595 乗り替える
+	bus WORD[17,  10]: 0.0006595 乗換える
+	bus WORD[17,  11]: 0.0005758 乗車
+TOKEN[18]: 0.0116058    8 horse
+	horse WORD[18,   1]: 0.0025604 乗り慣らす
+	horse WORD[18,   2]: 0.0025604 乗り馴らす
+	horse WORD[18,   3]: 0.0024489 乗馬
+	horse WORD[18,   4]: 0.0011033 乗りつぶす
+	horse WORD[18,   5]: 0.0011033 乗り潰す
+	horse WORD[18,   6]: 0.0009043 輪乗り
+	horse WORD[18,   7]: 0.0004683 下乗
+	horse WORD[18,   8]: 0.0004569 騎乗
+TOKEN[19]: 0.0084584   11 drive
+	drive WORD[19,   1]: 0.0012136 乗りつぶす
+	drive WORD[19,   2]: 0.0012136 乗り潰す
+	drive WORD[19,   3]: 0.0011806 乗り入る
+	drive WORD[19,   4]: 0.0006177 乗りまわす
+	drive WORD[19,   5]: 0.0006177 乗り回す
+	drive WORD[19,   6]: 0.0006177 乗回す
+	drive WORD[19,   7]: 0.0006176 乗りつける
+	drive WORD[19,   8]: 0.0006176 乗り付ける
+	drive WORD[19,   9]: 0.0006166 乗り入れる
+	drive WORD[19,  10]: 0.0006166 乗入れる
+	drive WORD[19,  11]: 0.0005296 試乗
+TOKEN[20]: 0.0083447   11 board
+	board WORD[20,   1]: 0.0011941 乗せる
+	board WORD[20,   2]: 0.0011359 乗り掛ける
+	board WORD[20,   3]: 0.0009944 乗りかかる
+	board WORD[20,   4]: 0.0009944 乗り掛かる
+	board WORD[20,   5]: 0.0006009 乗る
+	board WORD[20,   6]: 0.0006003 乗りこむ
+	board WORD[20,   7]: 0.0006003 乗り込む
+	board WORD[20,   8]: 0.0006003 乗込む
+	board WORD[20,   9]: 0.0005977 乗っける
+	board WORD[20,  10]: 0.0005133 坐乗
+	board WORD[20,  11]: 0.0005133 座乗
+TOKEN[21]: 0.0081309   12 car
+	car WORD[21,   1]: 0.0011678 乗りつぶす
+	car WORD[21,   2]: 0.0011678 乗り潰す
+	car WORD[21,   3]: 0.0006074 陪乗
+	car WORD[21,   4]: 0.0005944 乗りまわす
+	car WORD[21,   5]: 0.0005944 乗り回す
+	car WORD[21,   6]: 0.0005944 乗回す
+	car WORD[21,   7]: 0.0005940 乗りこむ
+	car WORD[21,   8]: 0.0005940 乗り込む
+	car WORD[21,   9]: 0.0005939 乗込む
+	car WORD[21,  10]: 0.0005937 乗りきる
+	car WORD[21,  11]: 0.0005937 乗り切る
+	car WORD[21,  12]: 0.0004356 相乗り
+TOKEN[22]: 0.0075722   19 one
+	one WORD[22,   1]: 0.0008113 名乗る
+	one WORD[22,   2]: 0.0006725 乗り心地
+	one WORD[22,   3]: 0.0006725 乗心地
+	one WORD[22,   4]: 0.0005408 名乗り
+	one WORD[22,   5]: 0.0004595 乗り過ごす
+	one WORD[22,   6]: 0.0004518 縦乗り
+	one WORD[22,   7]: 0.0004046 乗り越す
+	one WORD[22,   8]: 0.0004046 乗越す
+	one WORD[22,   9]: 0.0004046 乗り越し
+	one WORD[22,  10]: 0.0004046 乗越し
+	one WORD[22,  11]: 0.0002836 陪乗
+	one WORD[22,  12]: 0.0002775 乗り付け
+	one WORD[22,  13]: 0.0002773 乗りこえる
+	one WORD[22,  14]: 0.0002773 乗り越える
+	one WORD[22,  15]: 0.0002773 乗越える
+	one WORD[22,  16]: 0.0002600 手乗り
+	one WORD[22,  17]: 0.0002421 乗馬
+	one WORD[22,  18]: 0.0002420 乗艦
+	one WORD[22,  19]: 0.0002085 一乗
+TOKEN[23]: 0.0073621    9 passenger
+	passenger WORD[23,   1]: 0.0010695 乗り手
+	passenger WORD[23,   2]: 0.0010695 乗手
+	passenger WORD[23,   3]: 0.0010139 大乗
+	passenger WORD[23,   4]: 0.0007331 乗り継ぎ
+	passenger WORD[23,   5]: 0.0007331 乗継
+	passenger WORD[23,   6]: 0.0007319 乗り合い
+	passenger WORD[23,   7]: 0.0007319 乗合
+	passenger WORD[23,   8]: 0.0006396 乗用
+	passenger WORD[23,   9]: 0.0006394 乗客
+TOKEN[24]: 0.0072157    1 stowaway
+	stowaway WORD[24,   1]: 0.0072157 乗り移す
+TOKEN[25]: 0.0071821    9 ideology
+	ideology WORD[25,   1]: 0.0007980 乗りかえる
+	ideology WORD[25,   2]: 0.0007980 乗り換える
+	ideology WORD[25,   3]: 0.0007980 乗り替える
+	ideology WORD[25,   4]: 0.0007980 乗換える
+	ideology WORD[25,   5]: 0.0007980 乗り替え
+	ideology WORD[25,   6]: 0.0007980 乗りかえ
+	ideology WORD[25,   7]: 0.0007980 乗り換え
+	ideology WORD[25,   8]: 0.0007980 乗換
+	ideology WORD[25,   9]: 0.0007980 乗換え
+TOKEN[26]: 0.0069792    3 free
+	free WORD[26,   1]: 0.0023264 ただ乗り
+	free WORD[26,   2]: 0.0023264 タダ乗り
+	free WORD[26,   3]: 0.0023264 只乗り
+TOKEN[27]: 0.0061949    9 switch
+	switch WORD[27,   1]: 0.0006883 乗りかえる
+	switch WORD[27,   2]: 0.0006883 乗り換える
+	switch WORD[27,   3]: 0.0006883 乗り替える
+	switch WORD[27,   4]: 0.0006883 乗換える
+	switch WORD[27,   5]: 0.0006883 乗り替え
+	switch WORD[27,   6]: 0.0006883 乗りかえ
+	switch WORD[27,   7]: 0.0006883 乗り換え
+	switch WORD[27,   8]: 0.0006883 乗換
+	switch WORD[27,   9]: 0.0006883 乗換え
+TOKEN[28]: 0.0059601    9 ship
+	ship WORD[28,   1]: 0.0010044 乗船
+	ship WORD[28,   2]: 0.0008397 乗り捨てる
+	ship WORD[28,   3]: 0.0008393 乗り組む
+	ship WORD[28,   4]: 0.0005760 乗る
+	ship WORD[28,   5]: 0.0005754 乗りこむ
+	ship WORD[28,   6]: 0.0005754 乗り込む
+	ship WORD[28,   7]: 0.0005754 乗込む
+	ship WORD[28,   8]: 0.0005426 搭乗
+	ship WORD[28,   9]: 0.0004317 移乗
+TOKEN[29]: 0.0058965    5 set
+	set WORD[29,   1]: 0.0015789 乗り出す
+	set WORD[29,   2]: 0.0015789 乗出す
+	set WORD[29,   3]: 0.0009956 乗り掛ける
+	set WORD[29,   4]: 0.0008716 乗りかかる
+	set WORD[29,   5]: 0.0008716 乗り掛かる
+TOKEN[30]: 0.0057069    2 footstool
+	footstool WORD[30,   1]: 0.0047953 足乗せ
+	footstool WORD[30,   2]: 0.0009116 乗る
+TOKEN[31]: 0.0053006    6 climb
+	climb WORD[31,   1]: 0.0011186 乗り越す
+	climb WORD[31,   2]: 0.0011186 乗越す
+	climb WORD[31,   3]: 0.0007667 乗りこえる
+	climb WORD[31,   4]: 0.0007667 乗り越える
+	climb WORD[31,   5]: 0.0007667 乗越える
+	climb WORD[31,   6]: 0.0007633 乗っかる
+TOKEN[32]: 0.0052437    1 manning
+	manning WORD[32,   1]: 0.0052437 配乗
+TOKEN[33]: 0.0052005    9 method
+	method WORD[33,   1]: 0.0005778 乗りかえる
+	method WORD[33,   2]: 0.0005778 乗り換える
+	method WORD[33,   3]: 0.0005778 乗り替える
+	method WORD[33,   4]: 0.0005778 乗換える
+	method WORD[33,   5]: 0.0005778 乗り替え
+	method WORD[33,   6]: 0.0005778 乗りかえ
+	method WORD[33,   7]: 0.0005778 乗り換え
+	method WORD[33,   8]: 0.0005778 乗換
+	method WORD[33,   9]: 0.0005778 乗換え
+TOKEN[34]: 0.0050950    5 lean
+	lean WORD[34,   1]: 0.0013380 乗り掛ける
+	lean WORD[34,   2]: 0.0011713 乗りかかる
+	lean WORD[34,   3]: 0.0011713 乗り掛かる
+	lean WORD[34,   4]: 0.0007072 乗り出す
+	lean WORD[34,   5]: 0.0007072 乗出す
+TOKEN[35]: 0.0050884    6 embark
+	embark WORD[35,   1]: 0.0008487 乗る
+	embark WORD[35,   2]: 0.0008480 乗り出す
+	embark WORD[35,   3]: 0.0008480 乗出す
+	embark WORD[35,   4]: 0.0008479 乗りこむ
+	embark WORD[35,   5]: 0.0008479 乗り込む
+	embark WORD[35,   6]: 0.0008479 乗込む
+TOKEN[36]: 0.0050833    8 connection
+	connection WORD[36,   1]: 0.0006359 乗りつぐ
+	connection WORD[36,   2]: 0.0006358 乗り継ぐ
+	connection WORD[36,   3]: 0.0006358 乗継ぐ
+	connection WORD[36,   4]: 0.0006351 乗り替え
+	connection WORD[36,   5]: 0.0006351 乗りかえ
+	connection WORD[36,   6]: 0.0006351 乗り換え
+	connection WORD[36,   7]: 0.0006351 乗換
+	connection WORD[36,   8]: 0.0006351 乗換え
+TOKEN[37]: 0.0050828    2 rider
+	rider WORD[37,   1]: 0.0025414 乗り手
+	rider WORD[37,   2]: 0.0025414 乗手
+TOKEN[38]: 0.0050663    2 break
+	break WORD[38,   1]: 0.0025331 乗り慣らす
+	break WORD[38,   2]: 0.0025331 乗り馴らす
+TOKEN[39]: 0.0048637    9 party
+	party WORD[39,   1]: 0.0005404 乗りかえる
+	party WORD[39,   2]: 0.0005404 乗り換える
+	party WORD[39,   3]: 0.0005404 乗り替える
+	party WORD[39,   4]: 0.0005404 乗換える
+	party WORD[39,   5]: 0.0005404 乗り替え
+	party WORD[39,   6]: 0.0005404 乗りかえ
+	party WORD[39,   7]: 0.0005404 乗り換え
+	party WORD[39,   8]: 0.0005404 乗換
+	party WORD[39,   9]: 0.0005404 乗換え
+TOKEN[40]: 0.0047610    5 overtake
+	overtake WORD[40,   1]: 0.0011738 乗り越す
+	overtake WORD[40,   2]: 0.0011738 乗越す
+	overtake WORD[40,   3]: 0.0008045 乗りこえる
+	overtake WORD[40,   4]: 0.0008045 乗り越える
+	overtake WORD[40,   5]: 0.0008045 乗越える
+TOKEN[41]: 0.0045769    1 door
+	door WORD[41,   1]: 0.0045769 乗り口
+TOKEN[42]: 0.0045503    5 chromosomal
+	chromosomal WORD[42,   1]: 0.0009101 乗り替え
+	chromosomal WORD[42,   2]: 0.0009101 乗りかえ
+	chromosomal WORD[42,   3]: 0.0009101 乗り換え
+	chromosomal WORD[42,   4]: 0.0009101 乗換
+	chromosomal WORD[42,   5]: 0.0009101 乗換え
+TOKEN[43]: 0.0045161    8 different
+	different WORD[43,   1]: 0.0005843 乗りつぐ
+	different WORD[43,   2]: 0.0005843 乗り継ぐ
+	different WORD[43,   3]: 0.0005843 乗継ぐ
+	different WORD[43,   4]: 0.0005837 乗りかえる
+	different WORD[43,   5]: 0.0005837 乗り換える
+	different WORD[43,   6]: 0.0005837 乗り替える
+	different WORD[43,   7]: 0.0005837 乗換える
+	different WORD[43,   8]: 0.0004284 相乗り
+TOKEN[44]: 0.0044337    6 take
+	take WORD[44,   1]: 0.0013722 乗る
+	take WORD[44,   2]: 0.0013634 乗せる
+	take WORD[44,   3]: 0.0004550 乗っとる
+	take WORD[44,   4]: 0.0004456 名乗る
+	take WORD[44,   5]: 0.0003988 乗ずる
+	take WORD[44,   6]: 0.0003988 乗じる
+TOKEN[45]: 0.0044258    6 getting
+	getting WORD[45,   1]: 0.0012426 便乗
+	getting WORD[45,   2]: 0.0009587 悪乗り
+	getting WORD[45,   3]: 0.0005938 乗り降り
+	getting WORD[45,   4]: 0.0005935 乗り
+	getting WORD[45,   5]: 0.0005185 乗車
+	getting WORD[45,   6]: 0.0005185 乗降
+TOKEN[46]: 0.0044237    3 mounting
+	mounting WORD[46,   1]: 0.0030813 乗り口
+	mounting WORD[46,   2]: 0.0006945 乗馬
+	mounting WORD[46,   3]: 0.0006478 騎乗
+TOKEN[47]: 0.0044200    5 crossover
+	crossover WORD[47,   1]: 0.0008840 乗り替え
+	crossover WORD[47,   2]: 0.0008840 乗りかえ
+	crossover WORD[47,   3]: 0.0008840 乗り換え
+	crossover WORD[47,   4]: 0.0008840 乗換
+	crossover WORD[47,   5]: 0.0008840 乗換え
+TOKEN[48]: 0.0043679    9 system
+	system WORD[48,   1]: 0.0004853 乗りかえる
+	system WORD[48,   2]: 0.0004853 乗り換える
+	system WORD[48,   3]: 0.0004853 乗り替える
+	system WORD[48,   4]: 0.0004853 乗換える
+	system WORD[48,   5]: 0.0004853 乗り替え
+	system WORD[48,   6]: 0.0004853 乗りかえ
+	system WORD[48,   7]: 0.0004853 乗り換え
+	system WORD[48,   8]: 0.0004853 乗換
+	system WORD[48,   9]: 0.0004853 乗換え
+TOKEN[49]: 0.0043635    3 collide
+	collide WORD[49,   1]: 0.0015862 乗り掛ける
+	collide WORD[49,   2]: 0.0013886 乗りかかる
+	collide WORD[49,   3]: 0.0013886 乗り掛かる
+TOKEN[50]: 0.0042758    6 taxi
+	taxi WORD[50,   1]: 0.0007701 初乗り
+	taxi WORD[50,   2]: 0.0007613 乗り場
+	taxi WORD[50,   3]: 0.0007613 乗場
+	taxi WORD[50,   4]: 0.0007612 乗り付け
+	taxi WORD[50,   5]: 0.0006639 乗車
+	taxi WORD[50,   6]: 0.0005580 相乗り
+TOKEN[51]: 0.0042386    7 new
+	new WORD[51,   1]: 0.0010696 初乗り
+	new WORD[51,   2]: 0.0005285 乗り出す
+	new WORD[51,   3]: 0.0005285 乗出す
+	new WORD[51,   4]: 0.0005280 乗りかえる
+	new WORD[51,   5]: 0.0005280 乗り換える
+	new WORD[51,   6]: 0.0005280 乗り替える
+	new WORD[51,   7]: 0.0005280 乗換える
+TOKEN[52]: 0.0041093    5 multiplication
+	multiplication WORD[52,   1]: 0.0011535 乗法
+	multiplication WORD[52,   2]: 0.0007492 相乗
+	multiplication WORD[52,   3]: 0.0007356 乗除
+	multiplication WORD[52,   4]: 0.0007355 乗算
+	multiplication WORD[52,   5]: 0.0007354 乗
+TOKEN[53]: 0.0040631    7 interest
+	interest WORD[53,   1]: 0.0005961 乗り気
+	interest WORD[53,   2]: 0.0005961 乗気
+	interest WORD[53,   3]: 0.0005960 乗りかえる
+	interest WORD[53,   4]: 0.0005960 乗り換える
+	interest WORD[53,   5]: 0.0005960 乗り替える
+	interest WORD[53,   6]: 0.0005960 乗換える
+	interest WORD[53,   7]: 0.0004867 気乗り
+TOKEN[54]: 0.0040550    1 equipage
+	equipage WORD[54,   1]: 0.0040550 乗り口
+TOKEN[55]: 0.0039387    5 stop
+	stop WORD[55,   1]: 0.0009923 乗り過ごす
+	stop WORD[55,   2]: 0.0008738 乗り越す
+	stop WORD[55,   3]: 0.0008738 乗越す
+	stop WORD[55,   4]: 0.0005994 乗り場
+	stop WORD[55,   5]: 0.0005994 乗場
+TOKEN[56]: 0.0037660    5 overcome
+	overcome WORD[56,   1]: 0.0007533 乗りこえる
+	overcome WORD[56,   2]: 0.0007533 乗り越える
+	overcome WORD[56,   3]: 0.0007533 乗越える
+	overcome WORD[56,   4]: 0.0007531 乗りきる
+	overcome WORD[56,   5]: 0.0007531 乗り切る
+TOKEN[57]: 0.0037302    5 switching
+	switching WORD[57,   1]: 0.0007460 乗り替え
+	switching WORD[57,   2]: 0.0007460 乗りかえ
+	switching WORD[57,   3]: 0.0007460 乗り換え
+	switching WORD[57,   4]: 0.0007460 乗換
+	switching WORD[57,   5]: 0.0007460 乗換え
+TOKEN[58]: 0.0037071    5 place
+	place WORD[58,   1]: 0.0018142 乗り入る
+	place WORD[58,   2]: 0.0004745 乗り場
+	place WORD[58,   3]: 0.0004745 乗場
+	place WORD[58,   4]: 0.0004722 乗っける
+	place WORD[58,   5]: 0.0004717 乗せる
+TOKEN[59]: 0.0036992    2 comfort
+	comfort WORD[59,   1]: 0.0018496 乗り心地
+	comfort WORD[59,   2]: 0.0018496 乗心地
+TOKEN[60]: 0.0035437    5 conversion
+	conversion WORD[60,   1]: 0.0007088 乗り替え
+	conversion WORD[60,   2]: 0.0007087 乗りかえ
+	conversion WORD[60,   3]: 0.0007087 乗り換え
+	conversion WORD[60,   4]: 0.0007087 乗換
+	conversion WORD[60,   5]: 0.0007087 乗換え
+TOKEN[61]: 0.0034750    4 embarkation
+	embarkation WORD[61,   1]: 0.0009107 乗り込み
+	embarkation WORD[61,   2]: 0.0009107 乗込み
+	embarkation WORD[61,   3]: 0.0008588 搭乗
+	embarkation WORD[61,   4]: 0.0007948 乗船
+TOKEN[62]: 0.0034415    5 crossing
+	crossing WORD[62,   1]: 0.0006883 乗り替え
+	crossing WORD[62,   2]: 0.0006883 乗りかえ
+	crossing WORD[62,   3]: 0.0006883 乗り換え
+	crossing WORD[62,   4]: 0.0006883 乗換
+	crossing WORD[62,   5]: 0.0006883 乗換え
+TOKEN[63]: 0.0034372    2 playground
+	playground WORD[63,   1]: 0.0017186 乗り物
+	playground WORD[63,   2]: 0.0017186 乗物
+TOKEN[64]: 0.0033512    5 flight
+	flight WORD[64,   1]: 0.0006702 乗りつぐ
+	flight WORD[64,   2]: 0.0006702 乗り継ぐ
+	flight WORD[64,   3]: 0.0006702 乗継ぐ
+	flight WORD[64,   4]: 0.0006702 乗り継ぎ
+	flight WORD[64,   5]: 0.0006702 乗継
+TOKEN[65]: 0.0032683    3 feeling
+	feeling WORD[65,   1]: 0.0013551 乗り心地
+	feeling WORD[65,   2]: 0.0013551 乗心地
+	feeling WORD[65,   3]: 0.0005581 乗り
+TOKEN[66]: 0.0032293    1 restraining
+	restraining WORD[66,   1]: 0.0032293 乗り口
+TOKEN[67]: 0.0032261    1 vessel
+	vessel WORD[67,   1]: 0.0032261 配乗
+TOKEN[68]: 0.0031493    6 someone
+	someone WORD[68,   1]: 0.0011967 乗せる
+	someone WORD[68,   2]: 0.0004011 乗りこむ
+	someone WORD[68,   3]: 0.0004011 乗り込む
+	someone WORD[68,   4]: 0.0004011 乗込む
+	someone WORD[68,   5]: 0.0003993 乗っける
+	someone WORD[68,   6]: 0.0003500 乗船
+TOKEN[69]: 0.0030752    4 sail
+	sail WORD[69,   1]: 0.0007691 乗り出す
+	sail WORD[69,   2]: 0.0007691 乗出す
+	sail WORD[69,   3]: 0.0007686 乗りきる
+	sail WORD[69,   4]: 0.0007686 乗り切る
+TOKEN[70]: 0.0030730    4 follow
+	follow WORD[70,   1]: 0.0006493 乗る
+	follow WORD[70,   2]: 0.0006458 乗っ取る
+	follow WORD[70,   3]: 0.0005660 乗ずる
+	follow WORD[70,   4]: 0.0005660 乗じる
+TOKEN[71]: 0.0030723    2 line
+	line WORD[71,   1]: 0.0015361 乗り入れる
+	line WORD[71,   2]: 0.0015361 乗入れる
+TOKEN[72]: 0.0030551    2 overshoot
+	overshoot WORD[72,   1]: 0.0015276 乗り越す
+	overshoot WORD[72,   2]: 0.0015276 乗越す
+TOKEN[73]: 0.0030136    2 name
+	name WORD[73,   1]: 0.0015069 名乗る
+	name WORD[73,   2]: 0.0015068 名乗り
+TOKEN[74]: 0.0029959    4 join
+	join WORD[74,   1]: 0.0009803 乗り組む
+	join WORD[74,   2]: 0.0006728 乗る
+	join WORD[74,   3]: 0.0006714 乗り入れる
+	join WORD[74,   4]: 0.0006714 乗入れる
+TOKEN[75]: 0.0029875    5 help
+	help WORD[75,   1]: 0.0005987 乗りこむ
+	help WORD[75,   2]: 0.0005987 乗り込む
+	help WORD[75,   3]: 0.0005987 乗込む
+	help WORD[75,   4]: 0.0005960 乗っける
+	help WORD[75,   5]: 0.0005954 乗せる
+TOKEN[76]: 0.0029857    2 quality
+	quality WORD[76,   1]: 0.0014929 乗り心地
+	quality WORD[76,   2]: 0.0014929 乗心地
+TOKEN[77]: 0.0028959    3 top
+	top WORD[77,   1]: 0.0010527 乗り掛ける
+	top WORD[77,   2]: 0.0009216 乗りかかる
+	top WORD[77,   3]: 0.0009216 乗り掛かる
+TOKEN[78]: 0.0028915    3 surmount
+	surmount WORD[78,   1]: 0.0009639 乗りこえる
+	surmount WORD[78,   2]: 0.0009638 乗り越える
+	surmount WORD[78,   3]: 0.0009638 乗越える
+TOKEN[79]: 0.0028335    5 stock
+	stock WORD[79,   1]: 0.0005667 乗り替え
+	stock WORD[79,   2]: 0.0005667 乗りかえ
+	stock WORD[79,   3]: 0.0005667 乗り換え
+	stock WORD[79,   4]: 0.0005667 乗換
+	stock WORD[79,   5]: 0.0005667 乗換え
+TOKEN[80]: 0.0027516    3 run
+	run WORD[80,   1]: 0.0011016 乗り上げる
+	run WORD[80,   2]: 0.0011016 乗上げる
+	run WORD[80,   3]: 0.0005485 乗せる
+TOKEN[81]: 0.0027309    4 enthusiasm
+	enthusiasm WORD[81,   1]: 0.0007157 乗り気
+	enthusiasm WORD[81,   2]: 0.0007157 乗気
+	enthusiasm WORD[81,   3]: 0.0007152 乗り
+	enthusiasm WORD[81,   4]: 0.0005844 気乗り
+TOKEN[82]: 0.0027171    2 history
+	history WORD[82,   1]: 0.0018992 野乗
+	history WORD[82,   2]: 0.0008179 史乗
+TOKEN[83]: 0.0026996    4 driving
+	driving WORD[83,   1]: 0.0006754 乗りつける
+	driving WORD[83,   2]: 0.0006754 乗り付ける
+	driving WORD[83,   3]: 0.0006743 乗り入れ
+	driving WORD[83,   4]: 0.0006743 乗入れ
+TOKEN[84]: 0.0025954    3 give
+	give WORD[84,   1]: 0.0010429 乗っける
+	give WORD[84,   2]: 0.0010418 乗せる
+	give WORD[84,   3]: 0.0005107 名乗る
+TOKEN[85]: 0.0025732    1 entry
+	entry WORD[85,   1]: 0.0025732 乗り口
+TOKEN[86]: 0.0025284    3 predecessor
+	predecessor WORD[86,   1]: 0.0008428 乗りこえる
+	predecessor WORD[86,   2]: 0.0008428 乗り越える
+	predecessor WORD[86,   3]: 0.0008428 乗越える
+TOKEN[87]: 0.0024787    1 entrance
+	entrance WORD[87,   1]: 0.0024787 乗り口
+TOKEN[88]: 0.0024463    2 weather
+	weather WORD[88,   1]: 0.0012231 乗りきる
+	weather WORD[88,   2]: 0.0012231 乗り切る
+TOKEN[89]: 0.0024127    1 multiplier
+	multiplier WORD[89,   1]: 0.0024127 乗数
+TOKEN[90]: 0.0023906    2 balancing
+	balancing WORD[90,   1]: 0.0011953 玉乗り
+	balancing WORD[90,   2]: 0.0011953 球乗り
+TOKEN[91]: 0.0023884    3 horseback
+	horseback WORD[91,   1]: 0.0010396 馬乗り
+	horseback WORD[91,   2]: 0.0006827 下乗
+	horseback WORD[91,   3]: 0.0006661 騎乗
+TOKEN[92]: 0.0023775    2 stolen
+	stolen WORD[92,   1]: 0.0011888 乗り逃げ
+	stolen WORD[92,   2]: 0.0011888 乗逃げ
+TOKEN[93]: 0.0023612    2 share
+	share WORD[93,   1]: 0.0013272 乗り合わす
+	share WORD[93,   2]: 0.0010340 乗り合わせる
+TOKEN[94]: 0.0023563    4 move
+	move WORD[94,   1]: 0.0005891 乗りかえる
+	move WORD[94,   2]: 0.0005891 乗り換える
+	move WORD[94,   3]: 0.0005891 乗り替える
+	move WORD[94,   4]: 0.0005891 乗換える
+TOKEN[95]: 0.0023524    3 pass
+	pass WORD[95,   1]: 0.0008757 乗り越す
+	pass WORD[95,   2]: 0.0008757 乗越す
+	pass WORD[95,   3]: 0.0006009 乗る
+TOKEN[96]: 0.0023483    6 something
+	something WORD[96,   1]: 0.0004089 乗り出す
+	something WORD[96,   2]: 0.0004089 乗出す
+	something WORD[96,   3]: 0.0004070 乗っける
+	something WORD[96,   4]: 0.0004066 乗せる
+	something WORD[96,   5]: 0.0003832 手乗り
+	something WORD[96,   6]: 0.0003336 気乗り
+TOKEN[97]: 0.0023451    2 introduce
+	introduce WORD[97,   1]: 0.0015574 名乗り出る
+	introduce WORD[97,   2]: 0.0007877 名乗る
+TOKEN[98]: 0.0023354    3 luggage
+	luggage WORD[98,   1]: 0.0007798 乗りきる
+	luggage WORD[98,   2]: 0.0007798 乗り切る
+	luggage WORD[98,   3]: 0.0007759 乗せる
+TOKEN[99]: 0.0023259    3 surpass
+	surpass WORD[99,   1]: 0.0007753 乗りこえる
+	surpass WORD[99,   2]: 0.0007753 乗り越える
+	surpass WORD[99,   3]: 0.0007753 乗越える
+TOKEN[100]: 0.0023144    2 stealing
+	stealing WORD[100,   1]: 0.0011572 乗り逃げ
+	stealing WORD[100,   2]: 0.0011572 乗逃げ
+TOKEN[101]: 0.0023102    1 fare
+	fare WORD[101,   1]: 0.0023102 初乗り
+TOKEN[102]: 0.0023076    3 connect
+	connect WORD[102,   1]: 0.0007692 乗りつぐ
+	connect WORD[102,   2]: 0.0007692 乗り継ぐ
+	connect WORD[102,   3]: 0.0007692 乗継ぐ
+TOKEN[103]: 0.0023063    3 obstacle
+	obstacle WORD[103,   1]: 0.0007688 乗りこえる
+	obstacle WORD[103,   2]: 0.0007688 乗り越える
+	obstacle WORD[103,   3]: 0.0007688 乗越える
+TOKEN[104]: 0.0022994    2 happen
+	happen WORD[104,   1]: 0.0012925 乗り合わす
+	happen WORD[104,   2]: 0.0010069 乗り合わせる
+TOKEN[105]: 0.0022656    3 march
+	march WORD[105,   1]: 0.0007552 乗りこむ
+	march WORD[105,   2]: 0.0007552 乗り込む
+	march WORD[105,   3]: 0.0007552 乗込む
+TOKEN[106]: 0.0022356    2 crew
+	crew WORD[106,   1]: 0.0014213 乗員
+	crew WORD[106,   2]: 0.0008143 乗組
+TOKEN[107]: 0.0022060    3 used
+	used WORD[107,   1]: 0.0008869 乗りつける
+	used WORD[107,   2]: 0.0008869 乗り付ける
+	used WORD[107,   3]: 0.0004322 名乗り
+TOKEN[108]: 0.0021983    2 ground
+	ground WORD[108,   1]: 0.0010992 乗りつぶす
+	ground WORD[108,   2]: 0.0010992 乗り潰す
+TOKEN[109]: 0.0021958    3 bicycle
+	bicycle WORD[109,   1]: 0.0007319 乗りまわす
+	bicycle WORD[109,   2]: 0.0007319 乗り回す
+	bicycle WORD[109,   3]: 0.0007319 乗回す
+TOKEN[110]: 0.0021945    4 love
+	love WORD[110,   1]: 0.0005486 乗りかえる
+	love WORD[110,   2]: 0.0005486 乗り換える
+	love WORD[110,   3]: 0.0005486 乗り替える
+	love WORD[110,   4]: 0.0005486 乗換える
+TOKEN[111]: 0.0021923    3 lift
+	lift WORD[111,   1]: 0.0007550 便乗
+	lift WORD[111,   2]: 0.0007190 乗っける
+	lift WORD[111,   3]: 0.0007182 乗せる
+TOKEN[112]: 0.0021843    1 energetic
+	energetic WORD[112,   1]: 0.0021843 乗り乗り
+TOKEN[113]: 0.0021661    3 crisis
+	crisis WORD[113,   1]: 0.0007220 乗りこえる
+	crisis WORD[113,   2]: 0.0007220 乗り越える
+	crisis WORD[113,   3]: 0.0007220 乗越える
+TOKEN[114]: 0.0021193    4 company
+	company WORD[114,   1]: 0.0005298 乗りかえる
+	company WORD[114,   2]: 0.0005298 乗り換える
+	company WORD[114,   3]: 0.0005298 乗り替える
+	company WORD[114,   4]: 0.0005298 乗換える
+TOKEN[115]: 0.0021181    3 enter
+	enter WORD[115,   1]: 0.0007060 乗りこむ
+	enter WORD[115,   2]: 0.0007060 乗り込む
+	enter WORD[115,   3]: 0.0007060 乗込む
+TOKEN[116]: 0.0021090    3 capture
+	capture WORD[116,   1]: 0.0007030 乗っとる
+	capture WORD[116,   2]: 0.0007030 乗り取る
+	capture WORD[116,   3]: 0.0007030 乗っ取り
+TOKEN[117]: 0.0021039    2 claim
+	claim WORD[117,   1]: 0.0013972 名乗り出る
+	claim WORD[117,   2]: 0.0007066 名乗る
+TOKEN[118]: 0.0020866    3 load
+	load WORD[118,   1]: 0.0006967 乗りきる
+	load WORD[118,   2]: 0.0006967 乗り切る
+	load WORD[118,   3]: 0.0006932 乗せる
+TOKEN[119]: 0.0020852    2 hijack
+	hijack WORD[119,   1]: 0.0010426 乗っとる
+	hijack WORD[119,   2]: 0.0010426 乗っ取り
+TOKEN[120]: 0.0020459    3 difficulty
+	difficulty WORD[120,   1]: 0.0006820 乗りこえる
+	difficulty WORD[120,   2]: 0.0006820 乗り越える
+	difficulty WORD[120,   3]: 0.0006820 乗越える
+TOKEN[121]: 0.0020147    2 death
+	death WORD[121,   1]: 0.0010073 乗りつぶす
+	death WORD[121,   2]: 0.0010073 乗り潰す
+TOKEN[122]: 0.0020147    3 warship
+	warship WORD[122,   1]: 0.0006807 乗艦
+	warship WORD[122,   2]: 0.0006670 坐乗
+	warship WORD[122,   3]: 0.0006670 座乗
+TOKEN[123]: 0.0019738    3 cross
+	cross WORD[123,   1]: 0.0006579 乗りこえる
+	cross WORD[123,   2]: 0.0006579 乗り越える
+	cross WORD[123,   3]: 0.0006579 乗越える
+TOKEN[124]: 0.0019645    4 people
+	people WORD[124,   1]: 0.0005040 二人乗り
+	people WORD[124,   2]: 0.0005040 ２人乗り
+	people WORD[124,   3]: 0.0004782 乗りきる
+	people WORD[124,   4]: 0.0004782 乗り切る
+TOKEN[125]: 0.0019276    3 pain
+	pain WORD[125,   1]: 0.0006425 乗りこえる
+	pain WORD[125,   2]: 0.0006425 乗り越える
+	pain WORD[125,   3]: 0.0006425 乗越える
+TOKEN[126]: 0.0019258    2 sidewalk
+	sidewalk WORD[126,   1]: 0.0009629 乗り上げる
+	sidewalk WORD[126,   2]: 0.0009629 乗上げる
+TOKEN[127]: 0.0019224    3 advantage
+	advantage WORD[127,   1]: 0.0007202 便乗
+	advantage WORD[127,   2]: 0.0006011 乗ずる
+	advantage WORD[127,   3]: 0.0006011 乗じる
+TOKEN[128]: 0.0019203    1 excited
+	excited WORD[128,   1]: 0.0019203 乗り乗り
+TOKEN[129]: 0.0019198    2 usurp
+	usurp WORD[129,   1]: 0.0009599 乗っとる
+	usurp WORD[129,   2]: 0.0009599 乗り取る
+TOKEN[130]: 0.0019138    3 illness
+	illness WORD[130,   1]: 0.0006379 乗りこえる
+	illness WORD[130,   2]: 0.0006379 乗り越える
+	illness WORD[130,   3]: 0.0006379 乗越える
+TOKEN[131]: 0.0018682    2 jetty
+	jetty WORD[131,   1]: 0.0009341 乗り場
+	jetty WORD[131,   2]: 0.0009341 乗場
+TOKEN[132]: 0.0018344    2 bike
+	bike WORD[132,   1]: 0.0009172 二人乗り
+	bike WORD[132,   2]: 0.0009172 ２人乗り
+TOKEN[133]: 0.0018139    2 past
+	past WORD[133,   1]: 0.0009069 乗り越し
+	past WORD[133,   2]: 0.0009069 乗越し
+TOKEN[134]: 0.0018132    2 number
+	number WORD[134,   1]: 0.0009066 二乗
+	number WORD[134,   2]: 0.0009066 自乗
+TOKEN[135]: 0.0018088    3 plane
+	plane WORD[135,   1]: 0.0006679 乗る
+	plane WORD[135,   2]: 0.0005705 坐乗
+	plane WORD[135,   3]: 0.0005705 座乗
+TOKEN[136]: 0.0018039    2 carnival
+	carnival WORD[136,   1]: 0.0009020 乗り物
+	carnival WORD[136,   2]: 0.0009020 乗物
+TOKEN[137]: 0.0017573    2 station
+	station WORD[137,   1]: 0.0008786 乗り越し
+	station WORD[137,   2]: 0.0008786 乗越し
+TOKEN[138]: 0.0017497    2 carried
+	carried WORD[138,   1]: 0.0010797 悪乗り
+	carried WORD[138,   2]: 0.0006699 乗る
+TOKEN[139]: 0.0017404    2 eagerness
+	eagerness WORD[139,   1]: 0.0008702 乗り気
+	eagerness WORD[139,   2]: 0.0008702 乗気
+TOKEN[140]: 0.0017374    1 sought
+	sought WORD[140,   1]: 0.0017374 名乗り出る
+TOKEN[141]: 0.0017280    2 adversity
+	adversity WORD[141,   1]: 0.0008640 乗りきる
+	adversity WORD[141,   2]: 0.0008640 乗り切る
+TOKEN[142]: 0.0017201    3 going
+	going WORD[142,   1]: 0.0008350 悪乗り
+	going WORD[142,   2]: 0.0004426 坐乗
+	going WORD[142,   3]: 0.0004426 座乗
+TOKEN[143]: 0.0017097    2 occupy
+	occupy WORD[143,   1]: 0.0008549 乗っとる
+	occupy WORD[143,   2]: 0.0008549 乗り取る
+TOKEN[144]: 0.0016984    2 ball
+	ball WORD[144,   1]: 0.0008492 玉乗り
+	ball WORD[144,   2]: 0.0008492 球乗り
+TOKEN[145]: 0.0016963    2 Buddhism
+	Buddhism WORD[145,   1]: 0.0008545 大乗
+	Buddhism WORD[145,   2]: 0.0008418 小乗
+TOKEN[146]: 0.0016915    3 spirit
+	spirit WORD[146,   1]: 0.0005639 乗り移る
+	spirit WORD[146,   2]: 0.0005639 乗移る
+	spirit WORD[146,   3]: 0.0005637 乗り
+TOKEN[147]: 0.0016874    2 conveyance
+	conveyance WORD[147,   1]: 0.0008437 乗り物
+	conveyance WORD[147,   2]: 0.0008437 乗物
+TOKEN[148]: 0.0016688    2 wharf
+	wharf WORD[148,   1]: 0.0008344 乗り場
+	wharf WORD[148,   2]: 0.0008344 乗場
+TOKEN[149]: 0.0016688    3 mountain
+	mountain WORD[149,   1]: 0.0005563 乗りこえる
+	mountain WORD[149,   2]: 0.0005563 乗り越える
+	mountain WORD[149,   3]: 0.0005563 乗越える
+TOKEN[150]: 0.0016446    2 moving
+	moving WORD[150,   1]: 0.0010377 縦乗り
+	moving WORD[150,   2]: 0.0006068 飛び乗る
+TOKEN[151]: 0.0016442    1 conform
+	conform WORD[151,   1]: 0.0008221 乗っ取る
+TOKEN[152]: 0.0016365    2 venture
+	venture WORD[152,   1]: 0.0008182 乗り出す
+	venture WORD[152,   2]: 0.0008182 乗出す
+TOKEN[153]: 0.0016154    1 multiple
+	multiple WORD[153,   1]: 0.0016154 混乗
+TOKEN[154]: 0.0016023    1 accordance
+	accordance WORD[154,   1]: 0.0008012 乗っ取る
+TOKEN[155]: 0.0015996    1 announce
+	announce WORD[155,   1]: 0.0015996 名乗り出る
+TOKEN[156]: 0.0015957    2 possess
+	possess WORD[156,   1]: 0.0007978 乗り移る
+	possess WORD[156,   2]: 0.0007978 乗移る
+TOKEN[157]: 0.0015895    2 partnership
+	partnership WORD[157,   1]: 0.0007947 乗り合い
+	partnership WORD[157,   2]: 0.0007947 乗合
+TOKEN[158]: 0.0015787    1 mariner
+	mariner WORD[158,   1]: 0.0015787 船乗り
+TOKEN[159]: 0.0015744    2 survive
+	survive WORD[159,   1]: 0.0007872 乗りきる
+	survive WORD[159,   2]: 0.0007872 乗り切る
+TOKEN[160]: 0.0015281    2 multiplying
+	multiplying WORD[160,   1]: 0.0007640 二乗
+	multiplying WORD[160,   2]: 0.0007640 自乗
+TOKEN[161]: 0.0015261    2 transit
+	transit WORD[161,   1]: 0.0007631 乗り継ぎ
+	transit WORD[161,   2]: 0.0007631 乗継
+TOKEN[162]: 0.0015220    2 achieve
+	achieve WORD[162,   1]: 0.0007610 乗り出す
+	achieve WORD[162,   2]: 0.0007610 乗出す
+TOKEN[163]: 0.0015128    2 dignitary
+	dignitary WORD[163,   1]: 0.0007564 坐乗
+	dignitary WORD[163,   2]: 0.0007564 座乗
+TOKEN[164]: 0.0015103    3 man
+	man WORD[164,   1]: 0.0005034 乗りこむ
+	man WORD[164,   2]: 0.0005034 乗り込む
+	man WORD[164,   3]: 0.0005034 乗込む
+TOKEN[165]: 0.0015087    2 multiply
+	multiply WORD[165,   1]: 0.0007543 乗ずる
+	multiply WORD[165,   2]: 0.0007543 乗じる
+TOKEN[166]: 0.0015036    2 forward
+	forward WORD[166,   1]: 0.0007518 乗り出す
+	forward WORD[166,   2]: 0.0007518 乗出す
+TOKEN[167]: 0.0015019    2 mount
+	mount WORD[167,   1]: 0.0008023 乗る
+	mount WORD[167,   2]: 0.0006996 乗馬
+TOKEN[168]: 0.0014907    1 witness
+	witness WORD[168,   1]: 0.0014907 名乗り出る
+TOKEN[169]: 0.0014882    1 factorial
+	factorial WORD[169,   1]: 0.0014882 階乗
+TOKEN[170]: 0.0014829    2 shelf
+	shelf WORD[170,   1]: 0.0007414 乗りきる
+	shelf WORD[170,   2]: 0.0007414 乗り切る
+TOKEN[171]: 0.0014736    1 aboard
+	aboard WORD[171,   1]: 0.0014736 乗り組む
+TOKEN[172]: 0.0014658    1 mixed
+	mixed WORD[172,   1]: 0.0014658 混乗
+TOKEN[173]: 0.0014594    1 tradition
+	tradition WORD[173,   1]: 0.0007297 乗っ取る
+TOKEN[174]: 0.0014569    2 sing
+	sing WORD[174,   1]: 0.0007308 乗る
+	sing WORD[174,   2]: 0.0007261 乗せる
+TOKEN[175]: 0.0014376    1 carriage
+	carriage WORD[175,   1]: 0.0014376 陪乗
+TOKEN[176]: 0.0014318    1 supercargo
+	supercargo WORD[176,   1]: 0.0014318 上乗り
+TOKEN[177]: 0.0014283    2 extend
+	extend WORD[177,   1]: 0.0007141 乗り入れる
+	extend WORD[177,   2]: 0.0007141 乗入れる
+TOKEN[178]: 0.0014022    1 go
+	go WORD[178,   1]: 0.0014022 乗る
+TOKEN[179]: 0.0013968    2 terminal
+	terminal WORD[179,   1]: 0.0006984 乗り場
+	terminal WORD[179,   2]: 0.0006984 乗場
+TOKEN[180]: 0.0013859    2 facility
+	facility WORD[180,   1]: 0.0006930 乗り物
+	facility WORD[180,   2]: 0.0006930 乗物
+TOKEN[181]: 0.0013826    2 rhythm
+	rhythm WORD[181,   1]: 0.0007791 乗り
+	rhythm WORD[181,   2]: 0.0006034 大乗り
+TOKEN[182]: 0.0013802    2 platform
+	platform WORD[182,   1]: 0.0006901 乗り場
+	platform WORD[182,   2]: 0.0006901 乗場
+TOKEN[183]: 0.0013720    2 fair
+	fair WORD[183,   1]: 0.0006860 乗り物
+	fair WORD[183,   2]: 0.0006860 乗物
+TOKEN[184]: 0.0013714    2 double
+	double WORD[184,   1]: 0.0006857 二人乗り
+	double WORD[184,   2]: 0.0006857 ２人乗り
+TOKEN[185]: 0.0013668    2 tide
+	tide WORD[185,   1]: 0.0006834 乗りきる
+	tide WORD[185,   2]: 0.0006834 乗り切る
+TOKEN[186]: 0.0013641    1 high
+	high WORD[186,   1]: 0.0013641 乗り乗り
+TOKEN[187]: 0.0013606    2 transport
+	transport WORD[187,   1]: 0.0006803 乗り物
+	transport WORD[187,   2]: 0.0006803 乗物
+TOKEN[188]: 0.0013593    2 fellow
+	fellow WORD[188,   1]: 0.0006797 乗り合い
+	fellow WORD[188,   2]: 0.0006797 乗合
+TOKEN[189]: 0.0013589    1 superior
+	superior WORD[189,   1]: 0.0013589 陪乗
+TOKEN[190]: 0.0013548    2 link
+	link WORD[190,   1]: 0.0006774 乗り入れる
+	link WORD[190,   2]: 0.0006774 乗入れる
+TOKEN[191]: 0.0013541    2 storm
+	storm WORD[191,   1]: 0.0006770 乗りきる
+	storm WORD[191,   2]: 0.0006770 乗り切る
+TOKEN[192]: 0.0013456    1 seaman
+	seaman WORD[192,   1]: 0.0013456 船乗り
+TOKEN[193]: 0.0013416    1 Hinayana
+	Hinayana WORD[193,   1]: 0.0013416 小乗
+TOKEN[194]: 0.0013362    3 make
+	make WORD[194,   1]: 0.0004454 乗りつぐ
+	make WORD[194,   2]: 0.0004454 乗り継ぐ
+	make WORD[194,   3]: 0.0004454 乗継ぐ
+TOKEN[195]: 0.0013337    1 Mahayana
+	Mahayana WORD[195,   1]: 0.0013337 大乗
+TOKEN[196]: 0.0013236    2 separate
+	separate WORD[196,   1]: 0.0006618 乗り入れる
+	separate WORD[196,   2]: 0.0006618 乗入れる
+TOKEN[197]: 0.0013222    2 commander
+	commander WORD[197,   1]: 0.0006611 坐乗
+	commander WORD[197,   2]: 0.0006611 座乗
+TOKEN[198]: 0.0013180    1 example
+	example WORD[198,   1]: 0.0006590 乗っ取る
+TOKEN[199]: 0.0013045    2 good
+	good WORD[199,   1]: 0.0006522 乗り手
+	good WORD[199,   2]: 0.0006522 乗手
+TOKEN[200]: 0.0012947    2 route
+	route WORD[200,   1]: 0.0006474 乗り入れる
+	route WORD[200,   2]: 0.0006474 乗入れる
+TOKEN[201]: 0.0012709    1 sailor
+	sailor WORD[201,   1]: 0.0012709 船乗り
+TOKEN[202]: 0.0012707    2 ticket
+	ticket WORD[202,   1]: 0.0006354 乗り継ぎ
+	ticket WORD[202,   2]: 0.0006354 乗継
+TOKEN[203]: 0.0012689    2 pick
+	pick WORD[203,   1]: 0.0006348 乗っける
+	pick WORD[203,   2]: 0.0006341 乗せる
+TOKEN[204]: 0.0012668    2 rough
+	rough WORD[204,   1]: 0.0006334 乗りきる
+	rough WORD[204,   2]: 0.0006334 乗り切る
+TOKEN[205]: 0.0012628    1 annals
+	annals WORD[205,   1]: 0.0012628 史乗
+TOKEN[206]: 0.0012625    2 spread
+	spread WORD[206,   1]: 0.0006320 乗る
+	spread WORD[206,   2]: 0.0006306 乗り
+TOKEN[207]: 0.0012530    1 operate
+	operate WORD[207,   1]: 0.0012530 乗り合わせる
+TOKEN[208]: 0.0012508    1 astride
+	astride WORD[208,   1]: 0.0012508 馬乗り
+TOKEN[209]: 0.0012504    2 jump
+	jump WORD[209,   1]: 0.0006407 乗る
+	jump WORD[209,   2]: 0.0006097 飛び乗る
+TOKEN[210]: 0.0012490    2 entering
+	entering WORD[210,   1]: 0.0006804 乗り
+	entering WORD[210,   2]: 0.0005685 下乗
+TOKEN[211]: 0.0012461    2 joint
+	joint WORD[211,   1]: 0.0006230 乗り合い
+	joint WORD[211,   2]: 0.0006230 乗合
+TOKEN[212]: 0.0012452    1 samurai
+	samurai WORD[212,   1]: 0.0012452 名乗り
+TOKEN[213]: 0.0012449    1 sovereignty
+	sovereignty WORD[213,   1]: 0.0012449 万乗
+TOKEN[214]: 0.0012363    2 begin
+	begin WORD[214,   1]: 0.0006181 乗り出す
+	begin WORD[214,   2]: 0.0006181 乗出す
+TOKEN[215]: 0.0012336    1 stunt
+	stunt WORD[215,   1]: 0.0012336 宙乗り
+TOKEN[216]: 0.0012315    1 rule
+	rule WORD[216,   1]: 0.0006158 乗っ取る
+TOKEN[217]: 0.0012251    1 straddling
+	straddling WORD[217,   1]: 0.0012251 馬乗り
+TOKEN[218]: 0.0012069    2 god
+	god WORD[218,   1]: 0.0006034 乗り移る
+	god WORD[218,   2]: 0.0006034 乗移る
+TOKEN[219]: 0.0011952    2 visiting
+	visiting WORD[219,   1]: 0.0005976 坐乗
+	visiting WORD[219,   2]: 0.0005976 座乗
+TOKEN[220]: 0.0011433    2 stand
+	stand WORD[220,   1]: 0.0005717 乗り場
+	stand WORD[220,   2]: 0.0005717 乗場
+TOKEN[221]: 0.0011316    1 aerial
+	aerial WORD[221,   1]: 0.0011316 宙乗り
+TOKEN[222]: 0.0011191    1 taking
+	taking WORD[222,   1]: 0.0011191 便乗
+TOKEN[223]: 0.0011055    1 composed
+	composed WORD[223,   1]: 0.0011055 野乗
+TOKEN[224]: 0.0011052    1 commandeer
+	commandeer WORD[224,   1]: 0.0011052 乗っとる
+TOKEN[225]: 0.0011046    1 call
+	call WORD[225,   1]: 0.0011046 名乗る
+TOKEN[226]: 0.0010909    2 square
+	square WORD[226,   1]: 0.0005455 二乗
+	square WORD[226,   2]: 0.0005455 自乗
+TOKEN[227]: 0.0010861    1 miss
+	miss WORD[227,   1]: 0.0010861 乗り過ごす
+TOKEN[228]: 0.0010728    1 declared
+	declared WORD[228,   1]: 0.0010728 勝ち名乗り
+TOKEN[229]: 0.0010659    1 beat
+	beat WORD[229,   1]: 0.0010659 縦乗り
+TOKEN[230]: 0.0010635    1 circle
+	circle WORD[230,   1]: 0.0010635 輪乗り
+TOKEN[231]: 0.0010612    2 two
+	two WORD[231,   1]: 0.0005306 二人乗り
+	two WORD[231,   2]: 0.0005306 ２人乗り
+TOKEN[232]: 0.0010510    1 superb
+	superb WORD[232,   1]: 0.0010510 上乗
+TOKEN[233]: 0.0010438    2 part
+	part WORD[233,   1]: 0.0005236 乗る
+	part WORD[233,   2]: 0.0005202 乗せる
+TOKEN[234]: 0.0010258    1 abandon
+	abandon WORD[234,   1]: 0.0010258 乗り捨てる
+TOKEN[235]: 0.0010071    1 test
+	test WORD[235,   1]: 0.0010071 試乗
+TOKEN[236]: 0.0010025    1 forth
+	forth WORD[236,   1]: 0.0010025 乗り進める
+TOKEN[237]: 0.0009642    1 come
+	come WORD[237,   1]: 0.0009642 名乗り出る
+TOKEN[238]: 0.0009588    1 excite
+	excite WORD[238,   1]: 0.0009588 乗せる
+TOKEN[239]: 0.0009569    1 music
+	music WORD[239,   1]: 0.0009569 縦乗り
+TOKEN[240]: 0.0009532    2 second
+	second WORD[240,   1]: 0.0004766 二乗
+	second WORD[240,   2]: 0.0004766 自乗
+TOKEN[241]: 0.0009467    1 factor
+	factor WORD[241,   1]: 0.0009467 乗数
+TOKEN[242]: 0.0009437    1 winner
+	winner WORD[242,   1]: 0.0009437 勝ち名乗り
+TOKEN[243]: 0.0009307    1 synergism
+	synergism WORD[243,   1]: 0.0009307 相乗
+TOKEN[244]: 0.0009250    1 bout
+	bout WORD[244,   1]: 0.0009250 勝ち名乗り
+TOKEN[245]: 0.0009171    1 excellent
+	excellent WORD[245,   1]: 0.0009171 上乗
+TOKEN[246]: 0.0009136    1 crewman
+	crewman WORD[246,   1]: 0.0009136 乗員
+TOKEN[247]: 0.0008382    1 body
+	body WORD[247,   1]: 0.0008382 縦乗り
+TOKEN[248]: 0.0008338    1 publish
+	publish WORD[248,   1]: 0.0008338 乗せる
+TOKEN[249]: 0.0008196    1 best
+	best WORD[249,   1]: 0.0008196 上乗
+TOKEN[250]: 0.0008164    1 trick
+	trick WORD[250,   1]: 0.0008164 曲乗り
+TOKEN[251]: 0.0008136    1 ad
+	ad WORD[251,   1]: 0.0008136 乗せる
+TOKEN[252]: 0.0008119    1 attach
+	attach WORD[252,   1]: 0.0008119 乗る
+TOKEN[253]: 0.0008077    1 sitting
+	sitting WORD[253,   1]: 0.0008077 馬乗り
+TOKEN[254]: 0.0007977    1 admit
+	admit WORD[254,   1]: 0.0007977 名乗る
+TOKEN[255]: 0.0007910    1 participate
+	participate WORD[255,   1]: 0.0007910 乗る
+TOKEN[256]: 0.0007804    1 minimum
+	minimum WORD[256,   1]: 0.0007804 初乗り
+TOKEN[257]: 0.0007759    1 upon
+	upon WORD[257,   1]: 0.0007759 飛び乗る
+TOKEN[258]: 0.0007584    1 adopt
+	adopt WORD[258,   1]: 0.0007584 名乗る
+TOKEN[259]: 0.0007583    1 battlefield
+	battlefield WORD[259,   1]: 0.0007583 名乗り
+TOKEN[260]: 0.0007459    1 accompaniment
+	accompaniment WORD[260,   1]: 0.0007459 乗せる
+TOKEN[261]: 0.0007450    1 seize
+	seize WORD[261,   1]: 0.0007450 乗っとる
+TOKEN[262]: 0.0007437    1 nobility
+	nobility WORD[262,   1]: 0.0007437 名乗り
+TOKEN[263]: 0.0007399    1 tacking
+	tacking WORD[263,   1]: 0.0007399 上乗せ
+TOKEN[264]: 0.0007360    1 person
+	person WORD[264,   1]: 0.0007360 名乗り出る
+TOKEN[265]: 0.0007354    1 nth
+	nth WORD[265,   1]: 0.0007354 乗
+TOKEN[266]: 0.0007296    1 reveal
+	reveal WORD[266,   1]: 0.0007296 名乗る
+TOKEN[267]: 0.0007292    1 large
+	large WORD[267,   1]: 0.0007292 大乗
+TOKEN[268]: 0.0007281    1 scattered
+	scattered WORD[268,   1]: 0.0007281 乗る
+TOKEN[269]: 0.0007263    1 lineage
+	lineage WORD[269,   1]: 0.0007263 名乗り
+TOKEN[270]: 0.0007170    1 deceive
+	deceive WORD[270,   1]: 0.0007170 乗せる
+TOKEN[271]: 0.0007050    1 passage
+	passage WORD[271,   1]: 0.0007050 便乗
+TOKEN[272]: 0.0006977    1 swing
+	swing WORD[272,   1]: 0.0006977 乗る
+TOKEN[273]: 0.0006852    1 saddle
+	saddle WORD[273,   1]: 0.0006852 乗馬
+TOKEN[274]: 0.0006796    1 zone
+	zone WORD[274,   1]: 0.0006796 初乗り
+TOKEN[275]: 0.0006781    1 tour
+	tour WORD[275,   1]: 0.0006781 添乗
+TOKEN[276]: 0.0006780    1 track
+	track WORD[276,   1]: 0.0006780 乗る
+TOKEN[277]: 0.0006750    1 sit
+	sit WORD[277,   1]: 0.0006750 乗る
+TOKEN[278]: 0.0006724    1 palm
+	palm WORD[278,   1]: 0.0006724 手乗り
+TOKEN[279]: 0.0006687    1 opportunity
+	opportunity WORD[279,   1]: 0.0006687 便乗
+TOKEN[280]: 0.0006636    1 transferring
+	transferring WORD[280,   1]: 0.0006636 移乗
+TOKEN[281]: 0.0006593    1 taken
+	taken WORD[281,   1]: 0.0006593 乗る
+TOKEN[282]: 0.0006491    1 musical
+	musical WORD[282,   1]: 0.0006491 乗せる
+TOKEN[283]: 0.0006473    1 starting
+	starting WORD[283,   1]: 0.0006473 初乗り
+TOKEN[284]: 0.0006466    1 title
+	title WORD[284,   1]: 0.0006466 名乗る
+TOKEN[285]: 0.0006457    1 send
+	send WORD[285,   1]: 0.0006457 乗せる
+TOKEN[286]: 0.0006444    1 dance
+	dance WORD[286,   1]: 0.0006444 乗る
+TOKEN[287]: 0.0006438    1 stay
+	stay WORD[287,   1]: 0.0006438 乗る
+TOKEN[288]: 0.0006419    1 joining
+	joining WORD[288,   1]: 0.0006419 乗艦
+TOKEN[289]: 0.0006413    1 mood
+	mood WORD[289,   1]: 0.0006413 乗り
+TOKEN[290]: 0.0006400    1 increasing
+	increasing WORD[290,   1]: 0.0006400 上乗せ
+TOKEN[291]: 0.0006380    1 aircraft
+	aircraft WORD[291,   1]: 0.0006380 搭乗
+TOKEN[292]: 0.0006373    1 energy
+	energy WORD[292,   1]: 0.0006373 乗り
+TOKEN[293]: 0.0006358    1 reach
+	reach WORD[293,   1]: 0.0006358 乗る
+TOKEN[294]: 0.0006302    1 prohibition
+	prohibition WORD[294,   1]: 0.0006302 下乗
+TOKEN[295]: 0.0006297    1 collaboration
+	collaboration WORD[295,   1]: 0.0006297 相乗り
+TOKEN[296]: 0.0006241    1 regular
+	regular WORD[296,   1]: 0.0006241 乗り付け
+TOKEN[297]: 0.0006231    1 wear
+	wear WORD[297,   1]: 0.0006231 名乗る
+TOKEN[298]: 0.0006223    1 step
+	step WORD[298,   1]: 0.0006223 乗る
+TOKEN[299]: 0.0006179    1 selling
+	selling WORD[299,   1]: 0.0006179 名乗る
+TOKEN[300]: 0.0006090    1 trip
+	trip WORD[300,   1]: 0.0006090 添乗
+TOKEN[301]: 0.0006070    1 stick
+	stick WORD[301,   1]: 0.0006070 乗る
+TOKEN[302]: 0.0006021    1 account
+	account WORD[302,   1]: 0.0006021 乗っとる
+TOKEN[303]: 0.0006004    1 carry
+	carry WORD[303,   1]: 0.0006004 乗せる
+TOKEN[304]: 0.0006003    1 giving
+	giving WORD[304,   1]: 0.0006003 名乗り
+TOKEN[305]: 0.0005987    1 base
+	base WORD[305,   1]: 0.0005987 初乗り
+TOKEN[306]: 0.0005967    1 article
+	article WORD[306,   1]: 0.0005967 乗せる
+TOKEN[307]: 0.0005961    1 doctrine
+	doctrine WORD[307,   1]: 0.0005961 一乗
+TOKEN[308]: 0.0005937    1 given
+	given WORD[308,   1]: 0.0005937 名乗り
+TOKEN[309]: 0.0005876    1 holding
+	holding WORD[309,   1]: 0.0005876 手乗り
+TOKEN[310]: 0.0005857    1 grounds
+	grounds WORD[310,   1]: 0.0005857 下乗
+TOKEN[311]: 0.0005853    1 male
+	male WORD[311,   1]: 0.0005853 名乗り
+TOKEN[312]: 0.0005848    1 let
+	let WORD[312,   1]: 0.0005848 乗せる
+TOKEN[313]: 0.0005839    1 times
+	times WORD[313,   1]: 0.0005839 乗る
+TOKEN[314]: 0.0005825    1 coming
+	coming WORD[314,   1]: 0.0005825 名乗り
+TOKEN[315]: 0.0005763    1 respect
+	respect WORD[315,   1]: 0.0005763 下乗
+TOKEN[316]: 0.0005742    1 trial
+	trial WORD[316,   1]: 0.0005742 試乗
+TOKEN[317]: 0.0005742    1 rank
+	rank WORD[317,   1]: 0.0005742 名乗り
+TOKEN[318]: 0.0005714    1 reading
+	reading WORD[318,   1]: 0.0005714 名乗り
+TOKEN[319]: 0.0005664    1 object
+	object WORD[319,   1]: 0.0005664 飛び乗る
+TOKEN[320]: 0.0005609    1 carrying
+	carrying WORD[320,   1]: 0.0005609 乗船
+TOKEN[321]: 0.0005582    1 bird
+	bird WORD[321,   1]: 0.0005582 手乗り
+TOKEN[322]: 0.0005566    1 backing
+	backing WORD[322,   1]: 0.0005566 相乗り
+TOKEN[323]: 0.0005534    1 division
+	division WORD[323,   1]: 0.0005534 乗除
+TOKEN[324]: 0.0005518    1 class
+	class WORD[324,   1]: 0.0005518 名乗り
+TOKEN[325]: 0.0005468    1 animal
+	animal WORD[325,   1]: 0.0005468 手乗り
+TOKEN[326]: 0.0005423    1 goods
+	goods WORD[326,   1]: 0.0005423 名乗る
+TOKEN[327]: 0.0005405    1 year
+	year WORD[327,   1]: 0.0005405 初乗り
+TOKEN[328]: 0.0005399    1 age
+	age WORD[328,   1]: 0.0005399 名乗り
+TOKEN[329]: 0.0005395    1 counter
+	counter WORD[329,   1]: 0.0005395 乗
+TOKEN[330]: 0.0005365    1 candidate
+	candidate WORD[330,   1]: 0.0005365 相乗り
+TOKEN[331]: 0.0005341    1 teaching
+	teaching WORD[331,   1]: 0.0005341 一乗
+TOKEN[332]: 0.0005267    1 extra
+	extra WORD[332,   1]: 0.0005267 上乗せ
+TOKEN[333]: 0.0005240    1 enlightenment
+	enlightenment WORD[333,   1]: 0.0005240 一乗
+TOKEN[334]: 0.0005229    1 member
+	member WORD[334,   1]: 0.0005229 乗員
+TOKEN[335]: 0.0005112    1 sign
+	sign WORD[335,   1]: 0.0005112 下乗
+TOKEN[336]: 0.0005094    1 Buddha
+	Buddha WORD[336,   1]: 0.0005094 乗
+TOKEN[337]: 0.0005019    1 group
+	group WORD[337,   1]: 0.0005019 添乗
+TOKEN[338]: 0.0004802    1 hand
+	hand WORD[338,   1]: 0.0004802 手乗り
+TOKEN[339]: 0.0004715    1 temple
+	temple WORD[339,   1]: 0.0004715 下乗
+TOKEN[340]: 0.0004708    1 shrine
+	shrine WORD[340,   1]: 0.0004708 下乗
+TOKEN[341]: 0.0004575    1 use
+	use WORD[341,   1]: 0.0004575 乗用
+TOKEN[342]: 0.0004554    1 lead
+	lead WORD[342,   1]: 0.0004554 一乗
+TOKEN[343]: 0.0004511    1 amount
+	amount WORD[343,   1]: 0.0004511 上乗せ
+TOKEN[344]: 0.0004483    1 small
+	small WORD[344,   1]: 0.0004483 手乗り
+TOKEN[345]: 0.0004436    1 charge
+	charge WORD[345,   1]: 0.0004436 上乗せ
+TOKEN[346]: 0.0004420    1 political
+	political WORD[346,   1]: 0.0004420 相乗り
+TOKEN[347]: 0.0004169    1 work
+	work WORD[347,   1]: 0.0004169 乗務
+TOKEN[348]: 0.0004131    1 type
+	type WORD[348,   1]: 0.0004131 大乗り
+TOKEN[349]: 0.0003873    1 Japanese
+	Japanese WORD[349,   1]: 0.0003873 名乗り

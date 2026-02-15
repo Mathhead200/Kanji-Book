@@ -1,0 +1,680 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1245774   44 seal           : 印舗, 印箱, 認め印, 認印, 封印, 捨て印, 捨印, 印房, 社印, 刻印, ...
+0.0659747   16 stamp          : 印舗, 印箱, 印房, 社印, 金印, 印判, 印肉, 印池, 印する, 印章, ...
+0.0616620   15 mark           : 荷印, 合い印, 合印, 焼き印, 焼印, 印する, らく印, 烙印, 目印, 印す, ...
+0.0347826    4 signet         : 印環, 印形, 認め印, 認印
+0.0342167    2 maker          : 印舗, 印房
+0.0262411    2 shop           : 印舗, 印房
+0.0230966    4 Indian         : 印哲, 印僑, 印棉, 印綿
+0.0194493    1 ring           : 印環
+0.0166679    1 shipping       : 荷印
+0.0157889    1 cargo          : 荷印
+0.0156365    5 India          : 日印, 印パ, 中印, 印欧, 印度
+0.0137758    7 impression     : 印加, 割り印, 割印, 印影, 刻印, 契印, 印象
+0.0125714    1 philosophy     : 印哲
+0.0120093    3 two            : 合い印, 合印, 契印
+0.0114819    2 printed        : 印本, 印字
+0.0112169    1 cell           : 印環
+0.0108495    6 brand          : 焼き印, 焼印, らく印, 烙印, 極印, 刻印
+0.0107312    1 typewriting    : 印書
+0.0104152    3 book           : 印本, 印譜, 印税
+0.0103799    1 medical        : 印環
+0.0102910    3 box            : 印箱, 印篭, 印籠
+0.0101478    2 madman         : き印, キ印
+0.0098575    2 comradeship    : 合い印, 合印
+0.0093598    2 sewn           : 合い印, 合印
+0.0092356    2 madness        : き印, キ印
+0.0089253    6 official       : 職印, 公印, 官印, 印綬, 捨て印, 捨印
+0.0082896    2 verification   : 合い印, 合印
+0.0082126    1 Indies         : 蘭印
+0.0080665    3 document       : 捨て印, 捨印, 証印
+0.0078205    1 company        : 社印
+0.0073394    4 print          : 拇印, 爪印, 印画, 印す
+0.0069214    3 identification : 焼き印, 焼印, 目印
+0.0062299    1 Dutch          : 蘭印
+0.0061537    1 superimposition: 印加
+0.0060272    2 wood           : 合い印, 合印
+0.0060134    4 sign           : 印相, 目印, 印す, 印
+0.0058797    2 cloth          : 合い印, 合印
+0.0057594    2 pad            : 印肉, 印池
+0.0053438    3 ink            : 印肉, 捨て印, 捨印
+0.0052730    2 adjacent       : 割り印, 割印
+0.0052391    1 Snow           : 雪印
+0.0051051    2 engraving      : 刻印, 印刻
+0.0048811    2 thumb          : 拇印, 爪印
+0.0048306    1 knife          : 印刀
+0.0047978    1 French         : 仏印
+0.0045125    3 personal       : 私印, 認め印, 認印
+0.0044015    2 residual       : 捨て印, 捨印
+0.0043463    1 application    : 印加
+0.0043448    2 marginal       : 捨て印, 捨印
+0.0043445    1 overseas       : 印僑
+0.0042940    2 valid          : 捨て印, 捨印
+0.0042940    2 later          : 捨て印, 捨印
+0.0041280    2 unregistered   : 認め印, 認印
+0.0041261    2 emblem         : 旗印, 印
+0.0041136    2 iron           : 焼き印, 焼印
+0.0040402    2 symbol         : 矢印, 印
+0.0039300    2 case           : 印篭, 印籠
+0.0038338    2 indicate       : 捨て印, 捨印
+0.0037873    2 asterisk       : 星印, 米印
+0.0037755    2 registered     : 実印, 改印
+0.0037272    1 golden         : 金印
+0.0036865    5 one            : 印する, 矢印, 捺印, 改印, 押印
+0.0036517    2 flag           : 旗印, 印
+0.0035260    1 unbranded      : 無印
+0.0035260    1 unlabeled      : 無印
+0.0034832    2 cotton         : 印棉, 印綿
+0.0034684    2 raw            : 印棉, 印綿
+0.0034243    2 informal       : 認め印, 認印
+0.0032840    2 signature      : 有印, 調印
+0.0032036    2 inro           : 印篭, 印籠
+0.0031419    1 banner         : 旗印
+0.0030658    1 working        : 印僑
+0.0030464    3 printing       : 印字, 印刷, 印行
+0.0030298    2 special        : 捨て印, 捨印
+0.0028223    2 pill           : 印篭, 印籠
+0.0027738    1 mudra          : 印相
+0.0027648    1 physician      : 法印
+0.0027547    2 private        : 認め印, 認印
+0.0027416    1 Japan          : 日印
+0.0026883    1 character      : 印字
+0.0026834    1 ascetic        : 法印
+0.0026285    1 facsimile      : 影印
+0.0025825    1 painter        : 法印
+0.0025696    1 badge          : 印
+0.0025657    1 distinguish    : 法印
+0.0025338    1 token          : 印
+0.0025006    2 disgrace       : 極印, 刻印
+0.0024619    2 leave          : 印する, 印す
+0.0024320    1 thumbprint     : 母印
+0.0024310    1 royalty        : 印税
+0.0023402    1 proof          : 印
+0.0023268    1 photographic   : 印画
+0.0023176    2 reputation     : 極印, 刻印
+0.0023145    1 gratitude      : 印
+0.0022845    1 proxy          : 代印
+0.0022595    1 highest        : 法印
+0.0022582    1 forged         : 偽印
+0.0022483    1 affection      : 印
+0.0022229    1 crest          : 印
+0.0022041    1 revenue        : 印紙
+0.0021884    1 evidence       : 印
+0.0021613    1 monk           : 法印
+0.0021209    1 ribbon         : 印綬
+0.0021012    1 commander      : 馬印
+0.0020868    1 title          : 法印
+0.0020770    1 sealed         : 有印
+0.0020633    1 romantic       : 矢印
+0.0020578    1 landmark       : 目印
+0.0020326    1 given          : 法印
+0.0020003    1 democracy      : 旗印
+0.0018864    1 slogan         : 旗印
+0.0018793    1 postmark       : 消印
+0.0018736    2 medicine       : 印篭, 印籠
+0.0018420    1 rank           : 法印
+0.0018353    1 insignia       : 旗印
+0.0018300    1 recognition    : 目印
+0.0018118    1 Buddhist       : 法印
+0.0018050    1 standard       : 馬印
+0.0017968    1 raised         : 馬印
+0.0017237    1 mountain       : 法印
+0.0017190    1 hallmark       : 極印
+0.0016847    1 affix          : 封印
+0.0016639    1 guide          : 目印
+0.0016621    1 great          : 法印
+0.0016444    1 objective      : 旗印
+0.0016269    1 battle         : 馬印
+0.0016194    1 engraved       : 刻印
+0.0016109    1 next           : 馬印
+0.0015877    1 arrow          : 矢印
+0.0015683    1 sealing        : 調印
+0.0015470    1 certain        : 矢印
+0.0015278    1 punctuation    : 米印
+0.0015195    1 direction      : 矢印
+0.0015152    1 quick          : 目印
+0.0015148    1 attention      : 矢印
+0.0015138    1 star           : 星印
+0.0015050    1 stock          : 印材
+0.0014757    1 horse          : 馬印
+0.0014560    1 interest       : 矢印
+0.0014456    1 impress        : 極印
+0.0014455    1 imperial       : 印璽
+0.0014372    1 postal         : 消印
+0.0014106    1 issuing        : 印可
+0.0014039    1 design         : 旗印
+0.0013944    1 stamping       : 刻印
+0.0013903    1 dharma         : 印可
+0.0013617    1 usage          : 米印
+0.0013435    1 face           : 印面
+0.0013418    1 proficiency    : 印可
+0.0013393    1 omen           : 印す
+0.0013225    1 hand           : 印相
+0.0013211    1 cancellation   : 消印
+0.0013160    1 trace          : 印す
+0.0013051    1 confirmation   : 印可
+0.0013051    1 awakening      : 印可
+0.0012591    1 approval       : 検印
+0.0012588    1 cause          : 旗印
+0.0012553    1 letter         : 封印
+0.0011892    1 certificate    : 印可
+0.0011842    1 transmission   : 印可
+0.0011687    1 similar        : 米印
+0.0011464    1 joint          : 契印
+0.0010692    1 formal         : 印可
+0.0010669    1 student        : 印可
+0.0010478    1 arrangement    : 印可
+0.0010016    1 text           : 印字
+0.0009763    1 red            : 朱印
+0.0009548    1 person         : 矢印
+0.0009516    1 master         : 印可
+0.0009383    1 flower         : 印可
+0.0007388    1 Japanese       : 米印
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1245774   44 seal
+	seal WORD[ 1,   1]: 0.0219609 印舗
+	seal WORD[ 1,   2]: 0.0089225 印箱
+	seal WORD[ 1,   3]: 0.0057951 認め印
+	seal WORD[ 1,   4]: 0.0057951 認印
+	seal WORD[ 1,   5]: 0.0054829 封印
+	seal WORD[ 1,   6]: 0.0047020 捨て印
+	seal WORD[ 1,   7]: 0.0047020 捨印
+	seal WORD[ 1,   8]: 0.0045983 印房
+	seal WORD[ 1,   9]: 0.0042660 社印
+	seal WORD[ 1,  10]: 0.0032907 刻印
+	seal WORD[ 1,  11]: 0.0025511 捺印
+	seal WORD[ 1,  12]: 0.0021114 割り印
+	seal WORD[ 1,  13]: 0.0021114 割印
+	seal WORD[ 1,  14]: 0.0020232 押印
+	seal WORD[ 1,  15]: 0.0017861 職印
+	seal WORD[ 1,  16]: 0.0017812 実印
+	seal WORD[ 1,  17]: 0.0017273 私印
+	seal WORD[ 1,  18]: 0.0017029 公印
+	seal WORD[ 1,  19]: 0.0016485 偽印
+	seal WORD[ 1,  20]: 0.0016459 官印
+	seal WORD[ 1,  21]: 0.0016128 印面
+	seal WORD[ 1,  22]: 0.0016126 印判
+	seal WORD[ 1,  23]: 0.0016101 印池
+	seal WORD[ 1,  24]: 0.0016092 印する
+	seal WORD[ 1,  25]: 0.0016090 印章
+	seal WORD[ 1,  26]: 0.0016090 印綬
+	seal WORD[ 1,  27]: 0.0016090 印璽
+	seal WORD[ 1,  28]: 0.0016090 印材
+	seal WORD[ 1,  29]: 0.0016076 印形
+	seal WORD[ 1,  30]: 0.0016065 印顆
+	seal WORD[ 1,  31]: 0.0016065 印影
+	seal WORD[ 1,  32]: 0.0015850 合い印
+	seal WORD[ 1,  33]: 0.0015849 合印
+	seal WORD[ 1,  34]: 0.0014985 有印
+	seal WORD[ 1,  35]: 0.0011345 証印
+	seal WORD[ 1,  36]: 0.0011330 朱印
+	seal WORD[ 1,  37]: 0.0010920 検印
+	seal WORD[ 1,  38]: 0.0010895 契印
+	seal WORD[ 1,  39]: 0.0010324 改印
+	seal WORD[ 1,  40]: 0.0009905 印篭
+	seal WORD[ 1,  41]: 0.0009905 印籠
+	seal WORD[ 1,  42]: 0.0009902 印字
+	seal WORD[ 1,  43]: 0.0009902 印刻
+	seal WORD[ 1,  44]: 0.0009901 印鑑
+TOKEN[ 2]: 0.0659747   16 stamp
+	stamp WORD[ 2,   1]: 0.0247203 印舗
+	stamp WORD[ 2,   2]: 0.0100437 印箱
+	stamp WORD[ 2,   3]: 0.0051761 印房
+	stamp WORD[ 2,   4]: 0.0048021 社印
+	stamp WORD[ 2,   5]: 0.0036733 金印
+	stamp WORD[ 2,   6]: 0.0018152 印判
+	stamp WORD[ 2,   7]: 0.0018152 印肉
+	stamp WORD[ 2,   8]: 0.0018125 印池
+	stamp WORD[ 2,   9]: 0.0018114 印する
+	stamp WORD[ 2,  10]: 0.0018112 印章
+	stamp WORD[ 2,  11]: 0.0018111 印紙
+	stamp WORD[ 2,  12]: 0.0018084 印顆
+	stamp WORD[ 2,  13]: 0.0012805 印す
+	stamp WORD[ 2,  14]: 0.0012445 極印
+	stamp WORD[ 2,  15]: 0.0012347 刻印
+	stamp WORD[ 2,  16]: 0.0011145 印鑑
+TOKEN[ 3]: 0.0616620   15 mark
+	mark WORD[ 3,   1]: 0.0262913 荷印
+	mark WORD[ 3,   2]: 0.0045647 合い印
+	mark WORD[ 3,   3]: 0.0045647 合印
+	mark WORD[ 3,   4]: 0.0019718 焼き印
+	mark WORD[ 3,   5]: 0.0019718 焼印
+	mark WORD[ 3,   6]: 0.0015448 印する
+	mark WORD[ 3,   7]: 0.0015021 らく印
+	mark WORD[ 3,   8]: 0.0015021 烙印
+	mark WORD[ 3,   9]: 0.0014069 目印
+	mark WORD[ 3,  10]: 0.0010921 印す
+	mark WORD[ 3,  11]: 0.0010614 極印
+	mark WORD[ 3,  12]: 0.0010582 米印
+	mark WORD[ 3,  13]: 0.0010530 刻印
+	mark WORD[ 3,  14]: 0.0010467 消印
+	mark WORD[ 3,  15]: 0.0009505 印
+TOKEN[ 4]: 0.0347826    4 signet
+	signet WORD[ 4,   1]: 0.0281314 印環
+	signet WORD[ 4,   2]: 0.0023734 印形
+	signet WORD[ 4,   3]: 0.0021389 認め印
+	signet WORD[ 4,   4]: 0.0021389 認印
+TOKEN[ 5]: 0.0342167    2 maker
+	maker WORD[ 5,   1]: 0.0282926 印舗
+	maker WORD[ 5,   2]: 0.0059241 印房
+TOKEN[ 6]: 0.0262411    2 shop
+	shop WORD[ 6,   1]: 0.0216978 印舗
+	shop WORD[ 6,   2]: 0.0045432 印房
+TOKEN[ 7]: 0.0230966    4 Indian
+	Indian WORD[ 7,   1]: 0.0119183 印哲
+	Indian WORD[ 7,   2]: 0.0073807 印僑
+	Indian WORD[ 7,   3]: 0.0018988 印棉
+	Indian WORD[ 7,   4]: 0.0018988 印綿
+TOKEN[ 8]: 0.0194493    1 ring
+	ring WORD[ 8,   1]: 0.0194493 印環
+TOKEN[ 9]: 0.0166679    1 shipping
+	shipping WORD[ 9,   1]: 0.0166679 荷印
+TOKEN[10]: 0.0157889    1 cargo
+	cargo WORD[10,   1]: 0.0157889 荷印
+TOKEN[11]: 0.0156365    5 India
+	India WORD[11,   1]: 0.0040989 日印
+	India WORD[11,   2]: 0.0040976 印パ
+	India WORD[11,   3]: 0.0040943 中印
+	India WORD[11,   4]: 0.0020697 印欧
+	India WORD[11,   5]: 0.0012760 印度
+TOKEN[12]: 0.0137758    7 impression
+	impression WORD[12,   1]: 0.0040918 印加
+	impression WORD[12,   2]: 0.0022704 割り印
+	impression WORD[12,   3]: 0.0022704 割印
+	impression WORD[12,   4]: 0.0017275 印影
+	impression WORD[12,   5]: 0.0011795 刻印
+	impression WORD[12,   6]: 0.0011715 契印
+	impression WORD[12,   7]: 0.0010647 印象
+TOKEN[13]: 0.0125714    1 philosophy
+	philosophy WORD[13,   1]: 0.0125714 印哲
+TOKEN[14]: 0.0120093    3 two
+	two WORD[14,   1]: 0.0027648 合い印
+	two WORD[14,   2]: 0.0027648 合印
+	two WORD[14,   3]: 0.0009502 契印
+TOKEN[15]: 0.0114819    2 printed
+	printed WORD[15,   1]: 0.0103609 印本
+	printed WORD[15,   2]: 0.0011210 印字
+TOKEN[16]: 0.0112169    1 cell
+	cell WORD[16,   1]: 0.0112169 印環
+TOKEN[17]: 0.0108495    6 brand
+	brand WORD[17,   1]: 0.0023607 焼き印
+	brand WORD[17,   2]: 0.0023607 焼印
+	brand WORD[17,   3]: 0.0017984 らく印
+	brand WORD[17,   4]: 0.0017984 烙印
+	brand WORD[17,   5]: 0.0012707 極印
+	brand WORD[17,   6]: 0.0012607 刻印
+TOKEN[18]: 0.0107312    1 typewriting
+	typewriting WORD[18,   1]: 0.0107312 印書
+TOKEN[19]: 0.0104152    3 book
+	book WORD[19,   1]: 0.0077034 印本
+	book WORD[19,   2]: 0.0013573 印譜
+	book WORD[19,   3]: 0.0013545 印税
+TOKEN[20]: 0.0103799    1 medical
+	medical WORD[20,   1]: 0.0103799 印環
+TOKEN[21]: 0.0102910    3 box
+	box WORD[21,   1]: 0.0084212 印箱
+	box WORD[21,   2]: 0.0009349 印篭
+	box WORD[21,   3]: 0.0009349 印籠
+TOKEN[22]: 0.0101478    2 madman
+	madman WORD[22,   1]: 0.0050739 き印
+	madman WORD[22,   2]: 0.0050739 キ印
+TOKEN[23]: 0.0098575    2 comradeship
+	comradeship WORD[23,   1]: 0.0024644 合い印
+	comradeship WORD[23,   2]: 0.0024644 合印
+TOKEN[24]: 0.0093598    2 sewn
+	sewn WORD[24,   1]: 0.0023400 合い印
+	sewn WORD[24,   2]: 0.0023400 合印
+TOKEN[25]: 0.0092356    2 madness
+	madness WORD[25,   1]: 0.0046178 き印
+	madness WORD[25,   2]: 0.0046178 キ印
+TOKEN[26]: 0.0089253    6 official
+	official WORD[26,   1]: 0.0016137 職印
+	official WORD[26,   2]: 0.0015386 公印
+	official WORD[26,   3]: 0.0014871 官印
+	official WORD[26,   4]: 0.0014537 印綬
+	official WORD[26,   5]: 0.0014161 捨て印
+	official WORD[26,   6]: 0.0014161 捨印
+TOKEN[27]: 0.0082896    2 verification
+	verification WORD[27,   1]: 0.0020724 合い印
+	verification WORD[27,   2]: 0.0020724 合印
+TOKEN[28]: 0.0082126    1 Indies
+	Indies WORD[28,   1]: 0.0082126 蘭印
+TOKEN[29]: 0.0080665    3 document
+	document WORD[29,   1]: 0.0034152 捨て印
+	document WORD[29,   2]: 0.0034152 捨印
+	document WORD[29,   3]: 0.0012360 証印
+TOKEN[30]: 0.0078205    1 company
+	company WORD[30,   1]: 0.0078205 社印
+TOKEN[31]: 0.0073394    4 print
+	print WORD[31,   1]: 0.0022417 拇印
+	print WORD[31,   2]: 0.0020498 爪印
+	print WORD[31,   3]: 0.0017844 印画
+	print WORD[31,   4]: 0.0012635 印す
+TOKEN[32]: 0.0069214    3 identification
+	identification WORD[32,   1]: 0.0025507 焼き印
+	identification WORD[32,   2]: 0.0025507 焼印
+	identification WORD[32,   3]: 0.0018199 目印
+TOKEN[33]: 0.0062299    1 Dutch
+	Dutch WORD[33,   1]: 0.0062299 蘭印
+TOKEN[34]: 0.0061537    1 superimposition
+	superimposition WORD[34,   1]: 0.0061537 印加
+TOKEN[35]: 0.0060272    2 wood
+	wood WORD[35,   1]: 0.0015068 合い印
+	wood WORD[35,   2]: 0.0015068 合印
+TOKEN[36]: 0.0060134    4 sign
+	sign WORD[36,   1]: 0.0015627 印相
+	sign WORD[36,   2]: 0.0014231 目印
+	sign WORD[36,   3]: 0.0011047 印す
+	sign WORD[36,   4]: 0.0009615 印
+TOKEN[37]: 0.0058797    2 cloth
+	cloth WORD[37,   1]: 0.0014699 合い印
+	cloth WORD[37,   2]: 0.0014699 合印
+TOKEN[38]: 0.0057594    2 pad
+	pad WORD[38,   1]: 0.0038416 印肉
+	pad WORD[38,   2]: 0.0019179 印池
+TOKEN[39]: 0.0053438    3 ink
+	ink WORD[39,   1]: 0.0018152 印肉
+	ink WORD[39,   2]: 0.0017643 捨て印
+	ink WORD[39,   3]: 0.0017643 捨印
+TOKEN[40]: 0.0052730    2 adjacent
+	adjacent WORD[40,   1]: 0.0026365 割り印
+	adjacent WORD[40,   2]: 0.0026365 割印
+TOKEN[41]: 0.0052391    1 Snow
+	Snow WORD[41,   1]: 0.0052391 雪印
+TOKEN[42]: 0.0051051    2 engraving
+	engraving WORD[42,   1]: 0.0026830 刻印
+	engraving WORD[42,   2]: 0.0024220 印刻
+TOKEN[43]: 0.0048811    2 thumb
+	thumb WORD[43,   1]: 0.0025497 拇印
+	thumb WORD[43,   2]: 0.0023314 爪印
+TOKEN[44]: 0.0048306    1 knife
+	knife WORD[44,   1]: 0.0048306 印刀
+TOKEN[45]: 0.0047978    1 French
+	French WORD[45,   1]: 0.0047978 仏印
+TOKEN[46]: 0.0045125    3 personal
+	personal WORD[46,   1]: 0.0016853 私印
+	personal WORD[46,   2]: 0.0014136 認め印
+	personal WORD[46,   3]: 0.0014136 認印
+TOKEN[47]: 0.0044015    2 residual
+	residual WORD[47,   1]: 0.0022008 捨て印
+	residual WORD[47,   2]: 0.0022008 捨印
+TOKEN[48]: 0.0043463    1 application
+	application WORD[48,   1]: 0.0043463 印加
+TOKEN[49]: 0.0043448    2 marginal
+	marginal WORD[49,   1]: 0.0021724 捨て印
+	marginal WORD[49,   2]: 0.0021724 捨印
+TOKEN[50]: 0.0043445    1 overseas
+	overseas WORD[50,   1]: 0.0043445 印僑
+TOKEN[51]: 0.0042940    2 valid
+	valid WORD[51,   1]: 0.0021470 捨て印
+	valid WORD[51,   2]: 0.0021470 捨印
+TOKEN[52]: 0.0042940    2 later
+	later WORD[52,   1]: 0.0021470 捨て印
+	later WORD[52,   2]: 0.0021470 捨印
+TOKEN[53]: 0.0041280    2 unregistered
+	unregistered WORD[53,   1]: 0.0020640 認め印
+	unregistered WORD[53,   2]: 0.0020640 認印
+TOKEN[54]: 0.0041261    2 emblem
+	emblem WORD[54,   1]: 0.0016534 旗印
+	emblem WORD[54,   2]: 0.0012363 印
+TOKEN[55]: 0.0041136    2 iron
+	iron WORD[55,   1]: 0.0020568 焼き印
+	iron WORD[55,   2]: 0.0020568 焼印
+TOKEN[56]: 0.0040402    2 symbol
+	symbol WORD[56,   1]: 0.0017338 矢印
+	symbol WORD[56,   2]: 0.0011532 印
+TOKEN[57]: 0.0039300    2 case
+	case WORD[57,   1]: 0.0019650 印篭
+	case WORD[57,   2]: 0.0019650 印籠
+TOKEN[58]: 0.0038338    2 indicate
+	indicate WORD[58,   1]: 0.0019169 捨て印
+	indicate WORD[58,   2]: 0.0019169 捨印
+TOKEN[59]: 0.0037873    2 asterisk
+	asterisk WORD[59,   1]: 0.0021222 星印
+	asterisk WORD[59,   2]: 0.0016651 米印
+TOKEN[60]: 0.0037755    2 registered
+	registered WORD[60,   1]: 0.0023901 実印
+	registered WORD[60,   2]: 0.0013854 改印
+TOKEN[61]: 0.0037272    1 golden
+	golden WORD[61,   1]: 0.0037272 金印
+TOKEN[62]: 0.0036865    5 one
+	one WORD[62,   1]: 0.0014781 印する
+	one WORD[62,   2]: 0.0006837 矢印
+	one WORD[62,   3]: 0.0005858 捺印
+	one WORD[62,   4]: 0.0004742 改印
+	one WORD[62,   5]: 0.0004646 押印
+TOKEN[63]: 0.0036517    2 flag
+	flag WORD[63,   1]: 0.0014633 旗印
+	flag WORD[63,   2]: 0.0010942 印
+TOKEN[64]: 0.0035260    1 unbranded
+	unbranded WORD[64,   1]: 0.0035260 無印
+TOKEN[65]: 0.0035260    1 unlabeled
+	unlabeled WORD[65,   1]: 0.0035260 無印
+TOKEN[66]: 0.0034832    2 cotton
+	cotton WORD[66,   1]: 0.0017416 印棉
+	cotton WORD[66,   2]: 0.0017416 印綿
+TOKEN[67]: 0.0034684    2 raw
+	raw WORD[67,   1]: 0.0017342 印棉
+	raw WORD[67,   2]: 0.0017342 印綿
+TOKEN[68]: 0.0034243    2 informal
+	informal WORD[68,   1]: 0.0017122 認め印
+	informal WORD[68,   2]: 0.0017122 認印
+TOKEN[69]: 0.0032840    2 signature
+	signature WORD[69,   1]: 0.0018240 有印
+	signature WORD[69,   2]: 0.0014600 調印
+TOKEN[70]: 0.0032036    2 inro
+	inro WORD[70,   1]: 0.0016018 印篭
+	inro WORD[70,   2]: 0.0016018 印籠
+TOKEN[71]: 0.0031419    1 banner
+	banner WORD[71,   1]: 0.0031419 旗印
+TOKEN[72]: 0.0030658    1 working
+	working WORD[72,   1]: 0.0030658 印僑
+TOKEN[73]: 0.0030464    3 printing
+	printing WORD[73,   1]: 0.0010155 印字
+	printing WORD[73,   2]: 0.0010155 印刷
+	printing WORD[73,   3]: 0.0010155 印行
+TOKEN[74]: 0.0030298    2 special
+	special WORD[74,   1]: 0.0015149 捨て印
+	special WORD[74,   2]: 0.0015149 捨印
+TOKEN[75]: 0.0028223    2 pill
+	pill WORD[75,   1]: 0.0014111 印篭
+	pill WORD[75,   2]: 0.0014111 印籠
+TOKEN[76]: 0.0027738    1 mudra
+	mudra WORD[76,   1]: 0.0027738 印相
+TOKEN[77]: 0.0027648    1 physician
+	physician WORD[77,   1]: 0.0027648 法印
+TOKEN[78]: 0.0027547    2 private
+	private WORD[78,   1]: 0.0013773 認め印
+	private WORD[78,   2]: 0.0013773 認印
+TOKEN[79]: 0.0027416    1 Japan
+	Japan WORD[79,   1]: 0.0027416 日印
+TOKEN[80]: 0.0026883    1 character
+	character WORD[80,   1]: 0.0026883 印字
+TOKEN[81]: 0.0026834    1 ascetic
+	ascetic WORD[81,   1]: 0.0026834 法印
+TOKEN[82]: 0.0026285    1 facsimile
+	facsimile WORD[82,   1]: 0.0026285 影印
+TOKEN[83]: 0.0025825    1 painter
+	painter WORD[83,   1]: 0.0025825 法印
+TOKEN[84]: 0.0025696    1 badge
+	badge WORD[84,   1]: 0.0012848 印
+TOKEN[85]: 0.0025657    1 distinguish
+	distinguish WORD[85,   1]: 0.0025657 法印
+TOKEN[86]: 0.0025338    1 token
+	token WORD[86,   1]: 0.0012669 印
+TOKEN[87]: 0.0025006    2 disgrace
+	disgrace WORD[87,   1]: 0.0012553 極印
+	disgrace WORD[87,   2]: 0.0012454 刻印
+TOKEN[88]: 0.0024619    2 leave
+	leave WORD[88,   1]: 0.0014423 印する
+	leave WORD[88,   2]: 0.0010196 印す
+TOKEN[89]: 0.0024320    1 thumbprint
+	thumbprint WORD[89,   1]: 0.0024320 母印
+TOKEN[90]: 0.0024310    1 royalty
+	royalty WORD[90,   1]: 0.0024310 印税
+TOKEN[91]: 0.0023402    1 proof
+	proof WORD[91,   1]: 0.0011701 印
+TOKEN[92]: 0.0023268    1 photographic
+	photographic WORD[92,   1]: 0.0023268 印画
+TOKEN[93]: 0.0023176    2 reputation
+	reputation WORD[93,   1]: 0.0011634 極印
+	reputation WORD[93,   2]: 0.0011542 刻印
+TOKEN[94]: 0.0023145    1 gratitude
+	gratitude WORD[94,   1]: 0.0011573 印
+TOKEN[95]: 0.0022845    1 proxy
+	proxy WORD[95,   1]: 0.0022845 代印
+TOKEN[96]: 0.0022595    1 highest
+	highest WORD[96,   1]: 0.0022595 法印
+TOKEN[97]: 0.0022582    1 forged
+	forged WORD[97,   1]: 0.0022582 偽印
+TOKEN[98]: 0.0022483    1 affection
+	affection WORD[98,   1]: 0.0011241 印
+TOKEN[99]: 0.0022229    1 crest
+	crest WORD[99,   1]: 0.0011114 印
+TOKEN[100]: 0.0022041    1 revenue
+	revenue WORD[100,   1]: 0.0022041 印紙
+TOKEN[101]: 0.0021884    1 evidence
+	evidence WORD[101,   1]: 0.0010942 印
+TOKEN[102]: 0.0021613    1 monk
+	monk WORD[102,   1]: 0.0021613 法印
+TOKEN[103]: 0.0021209    1 ribbon
+	ribbon WORD[103,   1]: 0.0021209 印綬
+TOKEN[104]: 0.0021012    1 commander
+	commander WORD[104,   1]: 0.0021012 馬印
+TOKEN[105]: 0.0020868    1 title
+	title WORD[105,   1]: 0.0020868 法印
+TOKEN[106]: 0.0020770    1 sealed
+	sealed WORD[106,   1]: 0.0020770 有印
+TOKEN[107]: 0.0020633    1 romantic
+	romantic WORD[107,   1]: 0.0020633 矢印
+TOKEN[108]: 0.0020578    1 landmark
+	landmark WORD[108,   1]: 0.0020578 目印
+TOKEN[109]: 0.0020326    1 given
+	given WORD[109,   1]: 0.0020326 法印
+TOKEN[110]: 0.0020003    1 democracy
+	democracy WORD[110,   1]: 0.0020003 旗印
+TOKEN[111]: 0.0018864    1 slogan
+	slogan WORD[111,   1]: 0.0018864 旗印
+TOKEN[112]: 0.0018793    1 postmark
+	postmark WORD[112,   1]: 0.0018793 消印
+TOKEN[113]: 0.0018736    2 medicine
+	medicine WORD[113,   1]: 0.0009368 印篭
+	medicine WORD[113,   2]: 0.0009368 印籠
+TOKEN[114]: 0.0018420    1 rank
+	rank WORD[114,   1]: 0.0018420 法印
+TOKEN[115]: 0.0018353    1 insignia
+	insignia WORD[115,   1]: 0.0018353 旗印
+TOKEN[116]: 0.0018300    1 recognition
+	recognition WORD[116,   1]: 0.0018300 目印
+TOKEN[117]: 0.0018118    1 Buddhist
+	Buddhist WORD[117,   1]: 0.0018118 法印
+TOKEN[118]: 0.0018050    1 standard
+	standard WORD[118,   1]: 0.0018050 馬印
+TOKEN[119]: 0.0017968    1 raised
+	raised WORD[119,   1]: 0.0017968 馬印
+TOKEN[120]: 0.0017237    1 mountain
+	mountain WORD[120,   1]: 0.0017237 法印
+TOKEN[121]: 0.0017190    1 hallmark
+	hallmark WORD[121,   1]: 0.0017190 極印
+TOKEN[122]: 0.0016847    1 affix
+	affix WORD[122,   1]: 0.0016847 封印
+TOKEN[123]: 0.0016639    1 guide
+	guide WORD[123,   1]: 0.0016639 目印
+TOKEN[124]: 0.0016621    1 great
+	great WORD[124,   1]: 0.0016621 法印
+TOKEN[125]: 0.0016444    1 objective
+	objective WORD[125,   1]: 0.0016444 旗印
+TOKEN[126]: 0.0016269    1 battle
+	battle WORD[126,   1]: 0.0016269 馬印
+TOKEN[127]: 0.0016194    1 engraved
+	engraved WORD[127,   1]: 0.0016194 刻印
+TOKEN[128]: 0.0016109    1 next
+	next WORD[128,   1]: 0.0016109 馬印
+TOKEN[129]: 0.0015877    1 arrow
+	arrow WORD[129,   1]: 0.0015877 矢印
+TOKEN[130]: 0.0015683    1 sealing
+	sealing WORD[130,   1]: 0.0015683 調印
+TOKEN[131]: 0.0015470    1 certain
+	certain WORD[131,   1]: 0.0015470 矢印
+TOKEN[132]: 0.0015278    1 punctuation
+	punctuation WORD[132,   1]: 0.0015278 米印
+TOKEN[133]: 0.0015195    1 direction
+	direction WORD[133,   1]: 0.0015195 矢印
+TOKEN[134]: 0.0015152    1 quick
+	quick WORD[134,   1]: 0.0015152 目印
+TOKEN[135]: 0.0015148    1 attention
+	attention WORD[135,   1]: 0.0015148 矢印
+TOKEN[136]: 0.0015138    1 star
+	star WORD[136,   1]: 0.0015138 星印
+TOKEN[137]: 0.0015050    1 stock
+	stock WORD[137,   1]: 0.0015050 印材
+TOKEN[138]: 0.0014757    1 horse
+	horse WORD[138,   1]: 0.0014757 馬印
+TOKEN[139]: 0.0014560    1 interest
+	interest WORD[139,   1]: 0.0014560 矢印
+TOKEN[140]: 0.0014456    1 impress
+	impress WORD[140,   1]: 0.0014456 極印
+TOKEN[141]: 0.0014455    1 imperial
+	imperial WORD[141,   1]: 0.0014455 印璽
+TOKEN[142]: 0.0014372    1 postal
+	postal WORD[142,   1]: 0.0014372 消印
+TOKEN[143]: 0.0014106    1 issuing
+	issuing WORD[143,   1]: 0.0014106 印可
+TOKEN[144]: 0.0014039    1 design
+	design WORD[144,   1]: 0.0014039 旗印
+TOKEN[145]: 0.0013944    1 stamping
+	stamping WORD[145,   1]: 0.0013944 刻印
+TOKEN[146]: 0.0013903    1 dharma
+	dharma WORD[146,   1]: 0.0013903 印可
+TOKEN[147]: 0.0013617    1 usage
+	usage WORD[147,   1]: 0.0013617 米印
+TOKEN[148]: 0.0013435    1 face
+	face WORD[148,   1]: 0.0013435 印面
+TOKEN[149]: 0.0013418    1 proficiency
+	proficiency WORD[149,   1]: 0.0013418 印可
+TOKEN[150]: 0.0013393    1 omen
+	omen WORD[150,   1]: 0.0013393 印す
+TOKEN[151]: 0.0013225    1 hand
+	hand WORD[151,   1]: 0.0013225 印相
+TOKEN[152]: 0.0013211    1 cancellation
+	cancellation WORD[152,   1]: 0.0013211 消印
+TOKEN[153]: 0.0013160    1 trace
+	trace WORD[153,   1]: 0.0013160 印す
+TOKEN[154]: 0.0013051    1 confirmation
+	confirmation WORD[154,   1]: 0.0013051 印可
+TOKEN[155]: 0.0013051    1 awakening
+	awakening WORD[155,   1]: 0.0013051 印可
+TOKEN[156]: 0.0012591    1 approval
+	approval WORD[156,   1]: 0.0012591 検印
+TOKEN[157]: 0.0012588    1 cause
+	cause WORD[157,   1]: 0.0012588 旗印
+TOKEN[158]: 0.0012553    1 letter
+	letter WORD[158,   1]: 0.0012553 封印
+TOKEN[159]: 0.0011892    1 certificate
+	certificate WORD[159,   1]: 0.0011892 印可
+TOKEN[160]: 0.0011842    1 transmission
+	transmission WORD[160,   1]: 0.0011842 印可
+TOKEN[161]: 0.0011687    1 similar
+	similar WORD[161,   1]: 0.0011687 米印
+TOKEN[162]: 0.0011464    1 joint
+	joint WORD[162,   1]: 0.0011464 契印
+TOKEN[163]: 0.0010692    1 formal
+	formal WORD[163,   1]: 0.0010692 印可
+TOKEN[164]: 0.0010669    1 student
+	student WORD[164,   1]: 0.0010669 印可
+TOKEN[165]: 0.0010478    1 arrangement
+	arrangement WORD[165,   1]: 0.0010478 印可
+TOKEN[166]: 0.0010016    1 text
+	text WORD[166,   1]: 0.0010016 印字
+TOKEN[167]: 0.0009763    1 red
+	red WORD[167,   1]: 0.0009763 朱印
+TOKEN[168]: 0.0009548    1 person
+	person WORD[168,   1]: 0.0009548 矢印
+TOKEN[169]: 0.0009516    1 master
+	master WORD[169,   1]: 0.0009516 印可
+TOKEN[170]: 0.0009383    1 flower
+	flower WORD[170,   1]: 0.0009383 印可
+TOKEN[171]: 0.0007388    1 Japanese
+	Japanese WORD[171,   1]: 0.0007388 米印

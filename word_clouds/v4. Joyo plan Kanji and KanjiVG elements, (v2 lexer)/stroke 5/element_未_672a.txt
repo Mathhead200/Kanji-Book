@@ -1,0 +1,3234 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0559772    2 dwarf          : 侏儒, 朱儒
+0.0288166    2 unit           : 銖, 朱
+0.0257532    5 plowing        : 耕耘, 秋耕, 春耕, 深耕, 耕うん
+0.0196450   12 spider         : 袋蜘蛛, 蟻蜘蛛, 姫蜘蛛, 花蜘蛛, 水蜘蛛, 曼珠沙華, 平蜘蛛, 土蜘蛛, 地蜘蛛, 鬼蜘蛛, ...
+0.0177139    2 tillage        : 耕耘, 耕うん
+0.0158041    2 currency       : 銖, 朱
+0.0147364    2 memorial       : 誄, 誄詞
+0.0145013   12 sister         : 小妹, 亡妹, 妹分, 妹婿, 義妹, 令妹, 実妹, 愚妹, 妹背, 兄妹, ...
+0.0140286    4 weight         : 銖, 朱, 重味, 正味
+0.0138227    4 cultivation    : 耕耘, 農耕, 耕作, 耕うん
+0.0134783    4 farming        : 耕耘, 農耕, 耕作, 耕うん
+0.0123967   14 stock          : 貸し株, 貸株, 株高, 株安, 親株, 子株, 新株, 旧株, 空株, 株券, ...
+0.0110461    3 oleaster       : 秋茱萸, 夏茱萸, 茱萸
+0.0110461    3 Elaeagnus      : 秋茱萸, 夏茱萸, 茱萸
+0.0110461    3 silverberry    : 秋茱萸, 夏茱萸, 茱萸
+0.0109101   12 younger        : 小妹, 継妹, 亡妹, 義妹, 妹分, 妹婿, 令妹, 従妹, 実妹, 愚妹, ...
+0.0103839    3 autumn         : 秋耕, 秋茱萸, 秋味
+0.0094700    1 weaken         : 衰耗
+0.0093578   10 species        : 袋蜘蛛, 夏茱萸, 蟻蜘蛛, 姫蜘蛛, 花蜘蛛, 蜘蛛海星, 平蜘蛛, 土蜘蛛, 地蜘蛛, 鬼蜘蛛
+0.0090801    5 special        : 殊遇, 特殊, 持ち味, 持味, ひと味
+0.0090494    2 punishment     : 天誅, 誅戮
+0.0089647    2 abrasion       : 摩耗, 磨耗
+0.0088543    2 penalty        : 誅, 誅戮
+0.0087250    3 death          : 誅, 誅戮, 誅する
+0.0078627    1 condolence     : 誄
+0.0077352    1 eulogy         : 誄詞
+0.0076591   14 red            : 朱引, 朱引き, 朱点, 朱書き, 朱肉, 堆朱, 朱唇, 朱脣, 曼珠沙華, 朱書, ...
+0.0072219    1 decline        : 衰耗
+0.0071321    4 darling        : 吾妹, 我妹, 吾妹子, 妹
+0.0071159    2 wear           : 摩耗, 磨耗
+0.0068067    1 harvest        : 秋耕
+0.0065878    1 funeral        : 誄詞
+0.0064262    1 message        : 誄
+0.0063393    1 address        : 誄
+0.0063084    4 dear           : 吾妹, 我妹, 吾妹子, 妹
+0.0062805    1 Clubionidae    : 袋蜘蛛
+0.0059533    5 sexagenary     : 癸未, 丁未, 己未, 辛未, 乙未
+0.0058679    1 speech         : 誄詞
+0.0057315    5 cycle          : 癸未, 丁未, 己未, 辛未, 乙未
+0.0057185   14 charm          : 魅了, 魅せる, 魅惑, 魅力, 魅する, 情味, 妙味, ひと味, うま味, 旨味, ...
+0.0053057    5 term           : 癸未, 丁未, 己未, 辛未, 乙未
+0.0051757    2 transcendent   : 文殊, 文珠
+0.0050503    1 sac            : 袋蜘蛛
+0.0049915    2 magical        : 魘魅, 厭魅
+0.0048805    1 olive          : 秋茱萸
+0.0045916    2 curse          : 魘魅, 厭魅
+0.0045092    3 Asian          : 袋蜘蛛, 土蜘蛛, 地蜘蛛
+0.0044542    3 love           : 吾妹, 我妹, 吾妹子
+0.0042770    2 loan           : 貸し株, 貸株
+0.0042625    2 killing        : 魘魅, 厭魅
+0.0042162    6 vermilion      : 朱漆, 朱盆, 朱墨, 銀朱, 朱色, 朱い
+0.0041387    1 goumi          : 夏茱萸
+0.0037701    3 captivate      : 魅せる, 魅了, 魅する
+0.0037368    1 consumption    : 消耗
+0.0037323    1 favor          : 殊遇
+0.0037048    1 exhaustion     : 消耗
+0.0036471    1 dissipation    : 消耗
+0.0035431    2 wisdom         : 文殊, 文珠
+0.0034882    3 fascinate      : 魅せる, 魅了, 魅する
+0.0033365    1 laudable       : 殊勝
+0.0033349    1 riddance       : 三昧耶
+0.0033308    2 marking        : 朱引, 朱引き
+0.0032582   33 taste          : 味盲, 辛味, えぐ味, エグ味, 佳味, 酸っぱ味, 好味, 味わい知る, 俳味, 雑味, ...
+0.0032132    1 decrease       : 減耗
+0.0031917    2 execution      : 誅戮, 誅殺
+0.0030895    2 unique         : 特殊, ひと味
+0.0030851    2 little         : 小妹, 地味
+0.0030591    3 peculiar       : 特殊, 持ち味, 持味
+0.0030395    5 plant          : 茱萸, 親株, 雌株, 雄株, 株元
+0.0030273    2 loss           : 損耗, 珠盤
+0.0029923    2 criminal       : 誅戮, 誅殺
+0.0029365    1 admirable      : 殊勝
+0.0029364    1 meritorious    : 殊勲
+0.0029353    3 fascination    : 魅惑, 魅力, 魅了
+0.0029309    1 waste          : 消耗
+0.0029013    1 family         : 袋蜘蛛
+0.0028669    2 arable         : 耕土, 耕地
+0.0028411    2 enchant        : 魅せる, 魅する
+0.0028134    2 japonica       : 蟻蜘蛛, 姫蜘蛛
+0.0028030    3 natural        : 減耗, 持ち味, 持味
+0.0027825    2 enthrall       : 魅入る, 魅了
+0.0027671    1 equality       : 三昧耶
+0.0027222    5 stump          : 古株, 根株, 切り株, 切株, 株
+0.0027022    2 bewitch        : 魅せる, 魅する
+0.0026923    5 someone        : 魘魅, 厭魅, 妹分, 吟味, 重味
+0.0026768    3 Japanese       : 秋茱萸, 朱鷺, 七味
+0.0026526    1 distinguished  : 殊勲
+0.0026343    1 cherry         : 夏茱萸
+0.0026215    1 esoteric       : 三昧耶
+0.0026096    1 tragi          : 耳珠
+0.0026096    1 antilobium     : 耳珠
+0.0026075    1 particular     : 特殊
+0.0025604    9 one            : 殊, 三昧, 亡妹, 妹分, 妹婿, 持ち株, 持株, 一味, 妹
+0.0024555    1 extraordinary  : 殊
+0.0024484    1 cartilaginous  : 耳珠
+0.0024484    1 tragus         : 耳珠
+0.0024085    1 smiting        : 誅滅
+0.0023936    1 warning        : 三昧耶
+0.0023458    1 unusual        : 殊
+0.0023444    1 crupper        : 雲珠
+0.0023403    1 difference     : 殊
+0.0022470    1 purpose        : 殊更
+0.0021942    1 denunciation   : 筆誅
+0.0021646    1 samadhi        : 三昧
+0.0021646    1 indulging      : 三昧
+0.0021449    2 ink            : 朱肉, 朱墨
+0.0021394    1 Buddhism       : 三昧耶
+0.0021108    1 sinful         : 誅滅
+0.0020789    1 heaven         : 天誅
+0.0020624    1 exaction       : 誅求
+0.0020453    2 stocks         : 米株, 雑株
+0.0020067    1 different      : 殊
+0.0019970    1 thing          : 殊
+0.0019488    3 attraction     : 魅惑, 魅力, 面白味
+0.0019383    6 something      : 朱塗, 朱塗り, 未だし, 興味, 毒味, 味噌
+0.0019363    1 oppressive     : 誅求
+0.0019234    1 coming         : 三昧耶
+0.0019152    1 divine         : 天誅
+0.0019127    1 flap           : 耳珠
+0.0019107    1 meeting        : 三昧耶
+0.0019013    4 period         : 朱引, 朱引き, 株高, 株安
+0.0018936    1 eradication    : 誅滅
+0.0018853    1 oral           : 舌耕
+0.0018693    1 spoken         : 舌耕
+0.0018526    2 agriculture    : 退耕, 農耕
+0.0018199    2 disreputable   : あい昧, 曖昧
+0.0018177    1 lacquer        : 朱漆
+0.0017960    1 ornament       : 雲珠
+0.0017943    2 thick          : 芽株, 朱肉
+0.0017696    1 external       : 耳珠
+0.0017685    1 put            : 誅する
+0.0017644    1 prone          : 三昧
+0.0017555    2 apt            : 三昧, 美味い
+0.0017112    1 stem           : 芽株
+0.0017013    1 soil           : 耕土
+0.0017009    2 new            : 子株, 新株
+0.0016910    1 concentration  : 三昧
+0.0016770    2 performance    : 舌耕, 書き味
+0.0016712    1 wicked         : 誅滅
+0.0016712    2 lacquering     : 朱塗, 朱塗り
+0.0016366    2 uncivilized    : 蒙昧, 未開
+0.0016340    1 deceiving      : 魔魅
+0.0016083    1 ear            : 耳珠
+0.0016033    2 fuzzy          : あい昧, 曖昧
+0.0015800    3 content        : 三昧, 中味, 正味
+0.0015621    1 written        : 筆誅
+0.0015590    1 absorbed       : 三昧
+0.0015251    2 ambiguous      : あい昧, 曖昧
+0.0015197    1 meditation     : 三昧
+0.0015101    2 shady          : あい昧, 曖昧
+0.0015096    3 writing        : 朱書き, 筆耕, 朱書
+0.0015067    1 intense        : 三昧
+0.0015041    1 time           : 三昧耶
+0.0014768    1 leaves         : 芽株
+0.0014715    2 unclear        : あい昧, 曖昧
+0.0014617    1 opening        : 耳珠
+0.0014411    1 unenlightened  : 蒙昧
+0.0014315    2 genus          : 茱萸, 鞘味泥
+0.0014180    1 word           : 舌耕
+0.0014076    1 engaging       : 退耕
+0.0014050    3 old            : 古株, 親株, 旧株
+0.0013877    1 front          : 耳珠
+0.0013494    2 lack           : 蒙昧, 守株
+0.0013481    2 town           : 朱引, 朱引き
+0.0013271    1 picket         : 株
+0.0013235    2 drawing        : 朱引, 朱引き
+0.0012862    2 painting       : 朱塗, 朱塗り
+0.0012704    2 vague          : あい昧, 曖昧
+0.0012626    2 people         : 誅滅, 土蜘蛛
+0.0012587    2 flower         : 擬宝珠, 未開
+0.0012543    2 object         : 朱塗, 朱塗り
+0.0012448    1 captivation    : 魅惑
+0.0012443    1 mesmerize      : 魅了
+0.0012218    1 civilization   : 蒙昧
+0.0012217    2 dawn           : 昧爽, 未明
+0.0012036    2 Edo            : 朱引, 朱引き
+0.0011995    1 possess        : 魅入る
+0.0011990    3 stubble        : 切り株, 切株, 刈り株
+0.0011941    1 heart          : 三昧
+0.0011831    4 share          : 端株, 新株, 子株, 株式
+0.0011799    1 state          : 三昧
+0.0011788    3 cinnabar       : 朱肉, 朱墨, 朱色
+0.0011674    1 glamour        : 魅力
+0.0011543    1 small          : 耳珠
+0.0011328    1 sowing         : 耕種
+0.0011224    1 spellbound     : 魅了
+0.0011129    2 pile           : 珠, 株
+0.0010913    1 ignorance      : 蒙昧
+0.0010875    2 stepsister     : 継妹, 義妹
+0.0010775    2 gobang         : 聯珠, 連珠
+0.0010719    1 stake          : 株
+0.0010585    1 stupid         : 愚昧
+0.0010578    9 seasoning      : 着味, 味覇, 薄味, 隠し味, 調味, 下味, 加味, 味つけ, 味付け
+0.0010518   20 flavor         : 俳味, 禅味, 淡味, 小味, 大味, 隠し味, 持ち味, 持味, 風味, ひと味, ...
+0.0010379    1 entrance       : 魅入る
+0.0010339    1 Ophiuroidea    : 蜘蛛海星
+0.0010327    1 demon          : 魑魅
+0.0010297    3 rosary         : 念珠, 数珠, 珠数
+0.0010286    1 giving         : 退耕
+0.0010243    1 enlightenment  : 蒙昧
+0.0010195    5 appeal         : 魅力, 面白味, 甘味, 味わい, 味
+0.0009949    1 blessing       : 有難味
+0.0009841    1 service        : 退耕
+0.0009820    1 heavens        : 朱雀
+0.0009756   18 flavour        : 薄味, 俳味, 禅味, 持ち味, 持味, 風味, ひと味, 食味, 香味, うま味, ...
+0.0009700    1 brittle        : 蜘蛛海星
+0.0009663    1 stockbroker    : 株屋
+0.0009550    1 southern       : 朱雀
+0.0009526    1 parent         : 親株
+0.0009509    1 government     : 退耕
+0.0009503    1 spirit         : 魔魅
+0.0009455    1 worth          : 有難味
+0.0009348    4 female         : 雌株, 珠, 従妹, 従姉妹
+0.0009327    1 echinoderm     : 蜘蛛海星
+0.0009306    4 unfinished     : 未了, 未成, 未完, 未だ
+0.0009154    6 part           : 株元, 宝珠, 珠, 黒味, 味噌, 正味
+0.0009060    1 sheath         : 朱鞘
+0.0009018    3 unprecedented  : 未曽有, 未曾有, 未到
+0.0008981    1 value          : 有難味
+0.0008981    1 virtue         : 有難味
+0.0008868    3 jewel          : 宝珠, 珠玉, 珠
+0.0008850    1 hydroponics    : 水耕
+0.0008735    2 gem            : 珠玉, 珠
+0.0008631    2 bulb           : 珠, 子株
+0.0008526    2 variant        : 聯珠, 連珠
+0.0008516    1 dot            : 朱点
+0.0008459    8 food           : 着味, 好味, 滋味, 百味, 毒味, 下味, うま味, 旨味
+0.0008301    1 lure           : 魅惑
+0.0008256    1 presymptomatic : 未病
+0.0008229    1 plantain       : 擬宝珠
+0.0008114    1 post           : 株
+0.0008090    1 tray           : 朱盆
+0.0007901    3 unknown        : 未詳, 未見, 未知
+0.0007890    1 leek           : 擬宝珠
+0.0007821    3 unpaid         : 未済, 未払, 未払い
+0.0007551    1 Welsh          : 擬宝珠
+0.0007519    1 mountain       : 魑魅
+0.0007486    1 crab           : 花蜘蛛
+0.0007479    3 abacus         : 珠, 珠盤, 珠算
+0.0007445    2 unexplored     : 未踏, 未開
+0.0007383    1 railing        : 擬宝珠
+0.0007243    1 knob           : 擬宝珠
+0.0007210    2 clear          : 朱漆, 正味
+0.0007152    2 order          : 蜘蛛海星, 未了
+0.0007151    3 overdue        : 未払, 未払い, 未納
+0.0007077    3 flavoring      : 着味, 調味, 加味
+0.0007074    1 finch          : 十姉妹
+0.0007013    1 salmon         : 秋味
+0.0006998    2 satin          : 朱珍, 朱子
+0.0006949    1 ibis           : 朱鷺
+0.0006924    2 onion          : 擬宝珠, 薬味
+0.0006775    2 deep           : 深耕, 深味
+0.0006678    2 orb            : 宝珠, 珠
+0.0006551    2 made           : 朱漆, 味噌
+0.0006528    4 ball           : 珠, 切れ味, 切味, 斬れ味
+0.0006471    1 mark           : 朱点
+0.0006464    1 star           : 蜘蛛海星
+0.0006463    1 ornamental     : 擬宝珠
+0.0006408    1 nonpayment     : 未進
+0.0006367    1 crested        : 朱鷺
+0.0006345    1 cluster        : 曼珠沙華
+0.0006341    3 cousin         : 又従姉妹, 従妹, 従姉妹
+0.0006232    3 Chinese        : 朱雀, 未, 一味
+0.0006209    2 strain         : 親株, 菌株
+0.0006200    1 hold           : 魅了
+0.0006169    3 game           : 聯珠, 連珠, 吟味
+0.0006114    1 stick          : 朱墨
+0.0006104    1 protegee       : 妹分
+0.0006056    1 rising         : 株高
+0.0006014    2 spherical      : 宝珠, 珠
+0.0005965    2 sword          : 朱鞘, 中味
+0.0005875    1 deceased       : 亡妹
+0.0005875    1 Argyroneta     : 水蜘蛛
+0.0005864    1 Ram            : 未
+0.0005847    2 pending        : 未決, 未定
+0.0005799    2 seven          : 朱雀, 七味
+0.0005763    2 undecided      : 未決, 未定
+0.0005669    2 root           : 子株, 株分け
+0.0005652    1 bridge         : 擬宝珠
+0.0005570    2 husband        : 妹婿, 妹背
+0.0005532    2 precious       : 宝珠, 珠
+0.0005497    1 hacienda       : 耕地
+0.0005497    1 fazenda        : 耕地
+0.0005400    3 used           : 珠, 朱肉, 味醂
+0.0005399    1 space          : 株間
+0.0005316    1 living         : 筆耕
+0.0005295    4 brother        : 妹背, 義妹, 兄妹, 弟妹
+0.0005293    1 appear         : 未病
+0.0005276    2 high           : 株高, 雅味
+0.0005249    2 making         : 筆耕, 五味
+0.0005239    8 good           : 好味, 味酒, 美味い, うま味, 旨味, 美味, 味噌, 美味しい
+0.0005223    1 future         : 未来
+0.0005213    2 prayer         : 念珠, 数珠
+0.0005199    1 male           : 雄株
+0.0005172    1 ill            : 未病
+0.0005150    1 health         : 未病
+0.0005124    2 failing        : 未達, 弱味
+0.0005115    1 falling        : 株安
+0.0005108    2 string         : 念珠, 数珠
+0.0005083    1 base           : 株元
+0.0005079    1 Canton         : 珠江
+0.0005075    1 shaddock       : 朱欒
+0.0005040    2 pearl          : 珠, 真珠
+0.0004953    1 bead           : 珠
+0.0004906    1 top            : 擬宝珠
+0.0004895    1 tribute        : 未進
+0.0004890    1 ovule          : 胚珠
+0.0004879    1 pomelo         : 朱欒
+0.0004879    1 maxima         : 朱欒
+0.0004843    2 land           : 耕地, 未開
+0.0004695    2 odd            : 端株, 雑味
+0.0004685    1 low            : 株安
+0.0004677    1 achieve        : 未達
+0.0004661    1 eighth         : 未
+0.0004638    1 arachnoid      : 蜘蛛膜
+0.0004628    1 plough         : 耕す
+0.0004587    4 sake           : 味酒, 諸味, 味利き, 味聞き
+0.0004583    1 tree           : 株元
+0.0004554    1 spring         : 春耕
+0.0004513    1 fallow         : 休耕
+0.0004507    2 reddish        : 朱泥, 赤味
+0.0004502    1 cultivate      : 耕す
+0.0004485    1 sixth          : 未
+0.0004429    1 innovation     : 守株
+0.0004406    1 ageusia        : 味盲
+0.0004391    1 era            : 朱鳥
+0.0004380    4 insipid        : 味けない, 味気ない, 味気無い, 無味
+0.0004379    1 pigment        : 銀朱
+0.0004378    1 industry       : 着味
+0.0004370    1 plow           : 耕す
+0.0004341    1 till           : 耕す
+0.0004336    2 calculation    : 珠盤, 珠算
+0.0004325    1 zodiac         : 未
+0.0004315    3 style          : ボケ味, 渋味, 禅味
+0.0004276    1 uppermost      : 宝珠
+0.0004258    1 gate           : 朱門
+0.0004229    1 subscription   : 満株
+0.0004228    1 said           : 朱雀
+0.0004224    1 unglazed       : 朱泥
+0.0004218    2 inexperienced  : 未通女, 未熟
+0.0004209    2 beautiful      : 珠玉, 珠
+0.0004204    1 plantation     : 耕地
+0.0004203    1 goal           : 未達
+0.0004188    1 bulbil         : 珠芽
+0.0004158    1 unfilled       : 未了
+0.0004158    1 unexecuted     : 未了
+0.0004146    1 veteran        : 古株
+0.0004143    1 spacing        : 株間
+0.0004139    1 untrodden      : 未踏
+0.0004129    1 Bengalese      : 十姉妹
+0.0004128    1 uninstalled    : 未設
+0.0004127    1 rule           : 朱雀
+0.0004126    1 unread         : 未読
+0.0004117    1 executory      : 未済
+0.0004117    1 unconvicted    : 未決
+0.0004115    1 unpublished    : 未刊
+0.0004114    1 unbloomed      : 未開
+0.0004108    2 wife           : 妹背, 義妹
+0.0004056    1 fictitious     : 空株
+0.0004039    1 god            : 朱雀
+0.0004036    4 tinge          : 青味, 色味, 赤味, 黒味
+0.0004019    5 dull           : 味けない, 味気ない, 味気無い, 無味, 大味
+0.0004015    1 Citrus         : 朱欒
+0.0004005    1 estate         : 耕地
+0.0003982    1 belladonna     : 曼珠沙華
+0.0003933    1 bacterial      : 菌株
+0.0003916    1 relief         : 堆朱
+0.0003874    1 hour           : 未
+0.0003873    1 uncompleted    : 未成
+0.0003867    1 signature      : 朱肉
+0.0003862    1 uncultivated   : 未墾
+0.0003859    1 undeveloped    : 未開
+0.0003835    2 sign           : 未, 勝ち味
+0.0003830    1 finial         : 宝珠
+0.0003822    1 stupidity      : 守株
+0.0003816    4 delicious      : 佳味, 七味, 美味しい, 美味い
+0.0003784    1 pad            : 朱肉
+0.0003723    4 green          : 未熟, 鞘味泥, 青味, 薬味
+0.0003717    1 unborn         : 未生
+0.0003689    5 bitter         : えぐ味, エグ味, 六味, 五味, 苦味
+0.0003678    1 assorted       : 雑株
+0.0003678    1 year           : 未年
+0.0003671    3 full           : 満株, 正味, 吟味
+0.0003670    1 membrane       : 蜘蛛膜
+0.0003668    1 senior         : 古株
+0.0003646    3 wearisome      : 味けない, 味気ない, 味気無い
+0.0003640    1 pottery        : 朱泥
+0.0003621    1 Nymphaea       : 未草
+0.0003608    1 unseen         : 未見
+0.0003608    1 unacquainted   : 未見
+0.0003542    3 irksome        : 味けない, 味気ない, 味気無い
+0.0003538    1 lying          : 休耕
+0.0003536    1 executive      : 頭株
+0.0003532    2 incomplete     : 未完, 未だ
+0.0003530    1 unidentified   : 未詳
+0.0003477    5 work           : 珠玉, 持ち味, 持味, 味得, 味到
+0.0003473    1 lunar          : 未
+0.0003469    1 morning        : 未明
+0.0003468    1 purchase       : 端株
+0.0003457    1 primitive      : 未開
+0.0003452    1 raised         : 朱珍
+0.0003450    2 acridity       : えぐ味, エグ味
+0.0003430    1 blindness      : 味盲
+0.0003416    1 brown          : 朱泥
+0.0003407    1 pagoda         : 宝珠
+0.0003400    1 sale           : 端株
+0.0003373    1 pygmy          : 未草
+0.0003367    1 payment        : 未納
+0.0003355    2 sourness       : 酸っぱ味, 酸味
+0.0003354    1 betrothed      : 妹
+0.0003353    1 calendar       : 未
+0.0003351    4 person         : 珠, 持ち味, 持味, 味噌
+0.0003336    1 widow          : 未亡人
+0.0003318    1 southwest      : 未申
+0.0003304    6 tasting        : 毒味, 味利き, 味聞き, 玩味, 翫味, 味見
+0.0003303    3 tasty          : 好味, 美味しい, 美味い
+0.0003264    1 essay          : 珠玉
+0.0003264    1 accomplished   : 珠玉
+0.0003222    2 harshness      : えぐ味, エグ味
+0.0003216    2 acidity        : 酸っぱ味, 酸味
+0.0003212    1 lot            : 端株
+0.0003200    1 certificate    : 株券
+0.0003199    1 brush          : 朱筆
+0.0003178    4 profit         : 珠盤, 妙味, うま味, 旨味
+0.0003129    3 colour         : 朱色, 色味, 黒味
+0.0003113    1 month          : 未
+0.0003068    1 desired        : 未だし
+0.0003064    1 world          : 未来
+0.0003050    1 long           : 未だ未だ
+0.0003042    1 mother         : 親株
+0.0002998    2 algae          : 鞘味泥, 青味泥
+0.0002972    1 ruefulness     : 未練
+0.0002966    5 salty          : 辛味, 鹹味, 六味, 塩味, 五味
+0.0002958    1 unattained     : 未到
+0.0002958    1 unreached      : 未到
+0.0002958    1 unachieved     : 未到
+0.0002948    1 savage         : 未開
+0.0002943    1 shareholder    : 株主
+0.0002936    4 light          : 珠, 薄味, 淡味, 六味
+0.0002921    1 seen           : 未見
+0.0002897    3 wretched       : 味けない, 味気ない, 味気無い
+0.0002836    2 astringent     : えぐ味, エグ味
+0.0002828    3 vain           : 味けない, 味気ない, 味気無い
+0.0002791    1 soroban        : 珠盤
+0.0002786    1 unheard        : 未聞
+0.0002779    1 division       : 株分け
+0.0002774    1 testicle       : 珠
+0.0002770    1 crude          : 未成
+0.0002761    1 stockholder    : 株主
+0.0002739    3 subdued        : 渋味, 俳味, 地味
+0.0002721    1 droplet        : 珠
+0.0002706    1 leader         : 頭株
+0.0002695    2 plot           : 珠, 一味
+0.0002688    1 water          : 水蜘蛛
+0.0002672    1 large          : 耕地
+0.0002660    1 chief          : 頭株
+0.0002649    1 outstanding    : 未収
+0.0002644    1 way            : 未だ未だ
+0.0002618    1 territory      : 未開
+0.0002596    2 inherent       : 持ち味, 持味
+0.0002587    1 honey          : 妹
+0.0002587    1 society        : 十姉妹
+0.0002568    4 attractiveness : 情味, うま味, 旨味, 味
+0.0002566    1 upstream       : 秋味
+0.0002560    1 mullet         : 未通女
+0.0002558    2 friend         : 妹, 味方
+0.0002546    1 globe          : 珠
+0.0002531    1 reckoning      : 珠盤
+0.0002530    1 virgin         : 未通女
+0.0002498    1 reluctance     : 未練
+0.0002480    1 event          : 未発
+0.0002474    1 unskilled      : 未熟
+0.0002454    2 strange        : 未知, 味
+0.0002449    1 default        : 未納
+0.0002438    1 glasses        : 珠
+0.0002437    1 blur           : ボケ味
+0.0002391    1 stone          : 宝珠
+0.0002377    1 communist      : 朱い
+0.0002374    1 dew            : 珠
+0.0002374    1 entertainer    : 珠
+0.0002348    1 maiden         : 未通女
+0.0002346    1 lens           : 珠
+0.0002328    1 piece          : 珠玉
+0.0002326    1 story          : 珠玉
+0.0002309    1 bullet         : 珠
+0.0002295    1 wild           : 未墾
+0.0002288    1 sibling        : 妹背
+0.0002278    1 biological     : 実妹
+0.0002270    1 naive          : 未通女
+0.0002259    1 innocent       : 未通女
+0.0002247    1 sweat          : 珠
+0.0002241    3 remark         : いや味, 厭味, 嫌味
+0.0002236    1 Red            : 朱い
+0.0002235    1 salted         : 秋味
+0.0002229    1 sports         : 珠
+0.0002229    3 comment        : いや味, 厭味, 嫌味
+0.0002209    1 striped        : 未通女
+0.0002206    1 scarlet        : 朱い
+0.0002201    1 unripe         : 未熟
+0.0002197    1 swimming       : 秋味
+0.0002167    1 crimson        : 朱い
+0.0002156    1 field          : 未開
+0.0002145    2 place          : 未発, 深味
+0.0002142    2 crime          : 未遂, 吟味
+0.0002139    1 less           : 未満
+0.0002122    1 immature       : 未熟
+0.0002110    1 attempt        : 未遂
+0.0002103    1 funds          : 珠
+0.0002092    1 filamentous    : 鞘味泥
+0.0002090    1 head           : 頭株
+0.0002082    1 black          : 黒味
+0.0002075    1 five           : 五味
+0.0002050    3 distinctive    : 持ち味, 持味, ひと味
+0.0002046    1 attachment     : 未練
+0.0002045    1 seal           : 朱印
+0.0002042    1 coin           : 珠
+0.0002037    1 tense          : 未来
+0.0002036    1 girl           : 未通女
+0.0002033    1 unmarried      : 未婚
+0.0002027    1 pen            : 書き味
+0.0002020    5 ability        : 持ち味, 持味, 切れ味, 切味, 斬れ味
+0.0002018    1 whiteness      : 白味
+0.0002016    1 regret         : 未練
+0.0002006    1 gray           : 未明
+0.0001997    1 suicide        : 未遂
+0.0001995    1 married        : 未婚
+0.0001988    1 geisha         : 珠
+0.0001985    2 know           : 味わい知る, 味わう
+0.0001980    1 known          : 未知
+0.0001980    1 grey           : 未明
+0.0001963    1 existence      : 未来
+0.0001958    1 affection      : 未練
+0.0001930    1 excellent      : 珠
+0.0001927    6 cutting        : 切れ味, 切味, 斬れ味, いや味, 厭味, 嫌味
+0.0001915    1 egg            : 珠
+0.0001903    1 Yamato         : 土蜘蛛
+0.0001901    1 fixed          : 未定
+0.0001897    2 bland          : 薄味, 大味
+0.0001892    1 fulsomeness    : 臭味
+0.0001890    4 appreciation   : 味読, 賞味, 玩味, 翫味
+0.0001882    1 second         : 又従姉妹
+0.0001874    1 drop           : 珠
+0.0001857    1 grave          : 未来
+0.0001851    1 item           : 珠
+0.0001840    1 couple         : 妹背
+0.0001838    3 wine           : 味利き, 味聞き, 味醂
+0.0001822    1 nature         : 珠
+0.0001822    3 meaning        : 真味, 意味, 味わい
+0.0001820    1 distant        : 未来
+0.0001768    5 skill          : 切れ味, 切味, 斬れ味, うま味, 旨味
+0.0001764    1 six            : 六味
+0.0001735    3 delicacy       : 小味, 珍味, 美味
+0.0001700    1 character      : 珠
+0.0001684    1 feel           : 書き味
+0.0001677    1 young          : 未通女
+0.0001677    3 incisiveness   : 切れ味, 切味, 斬れ味
+0.0001677    3 peppiness      : 切れ味, 切味, 斬れ味
+0.0001675    4 point          : 強味, 弱味, 妙味, 味噌
+0.0001660    1 woman          : 妹
+0.0001635    2 smell          : 臭味, 香味
+0.0001632    1 monkey         : 蜘蛛猿
+0.0001629    3 victory        : 勝ち味, 味わう, 味
+0.0001592    3 quickness      : 切れ味, 切味, 斬れ味
+0.0001583    1 propensity     : 気味
+0.0001570    2 taster         : 味利き, 味聞き
+0.0001565    1 company        : 株式
+0.0001549    2 feeling        : 小味, 気味
+0.0001542    1 affectation    : 臭味
+0.0001530    2 ingredient     : 隠し味, 一味
+0.0001526    2 subtle         : 小味, 隠し味
+0.0001523    2 condiment      : 薬味, 味噌
+0.0001511    2 bad            : 臭味, 不味い
+0.0001503    2 go             : 未だ未だ, 味わう
+0.0001495    3 nastiness      : いや味, 厭味, 嫌味
+0.0001495    3 offensiveness  : いや味, 厭味, 嫌味
+0.0001495    3 tastelessness  : いや味, 厭味, 嫌味
+0.0001495    3 disagreeableness: いや味, 厭味, 嫌味
+0.0001484    2 relish         : 味わう, 賞味
+0.0001475    1 sauce          : 諸味
+0.0001461    3 unpleasantness : いや味, 厭味, 嫌味
+0.0001461    3 proficiency    : 切れ味, 切味, 斬れ味
+0.0001449    2 quiet          : 渋味, 地味
+0.0001447    3 sharpness      : 切れ味, 切味, 斬れ味
+0.0001437    1 least          : 未だ
+0.0001421    3 technical      : 切れ味, 切味, 斬れ味
+0.0001415    3 quality        : 持ち味, 持味, ひと味
+0.0001386    2 sugary         : あま味, 甘味
+0.0001386    2 sweetness      : あま味, 甘味
+0.0001382    1 scum           : 青味泥
+0.0001379    1 come           : 未来
+0.0001375    1 court          : 土蜘蛛
+0.0001374    3 nice           : 妙味, 美味しい, 美味い
+0.0001364    1 man            : 妹背
+0.0001356    3 snide          : いや味, 厭味, 嫌味
+0.0001347    3 wit            : 切れ味, 切味, 斬れ味
+0.0001346    1 ancient        : 土蜘蛛
+0.0001343    3 sweet          : 六味, 味醂, 五味
+0.0001338    1 Zen            : 禅味
+0.0001325    1 adopted        : 義妹
+0.0001318    2 saltiness      : 鹹味, 塩味
+0.0001316    3 advantage      : 妙味, うま味, 旨味
+0.0001305    3 disagreeable   : いや味, 厭味, 嫌味
+0.0001305    3 sarcastic      : いや味, 厭味, 嫌味
+0.0001293    3 gain           : 妙味, うま味, 旨味
+0.0001293    3 significance   : 重味, 意味, 味わい
+0.0001288    1 pleasure       : 快味
+0.0001281    1 Japan          : 土蜘蛛
+0.0001274    1 done           : 未だ
+0.0001268    1 forming        : 青味泥
+0.0001267    2 color          : 色味, 黒味
+0.0001263    1 bud            : 味蕾
+0.0001262    2 plain          : 不味い, 地味
+0.0001262    2 dessert        : あま味, 甘味
+0.0001262    1 sensation      : 気味
+0.0001259    1 spouse         : 義妹
+0.0001257    1 tendency       : 気味
+0.0001229    1 milk           : 五味
+0.0001224    2 spicy          : 六味, 五味
+0.0001200    1 net            : 正味
+0.0001197    1 nutriment      : 滋味
+0.0001197    1 savoriness     : 滋味
+0.0001196    1 ghee           : 五味
+0.0001195    1 pond           : 青味泥
+0.0001188    2 characteristic : 持ち味, 持味
+0.0001178    1 unrefined      : 諸味
+0.0001175    1 older          : 兄妹
+0.0001169    1 tint           : 色味
+0.0001148    2 relishing      : 玩味, 翫味
+0.0001135    1 universality   : 一味
+0.0001124    1 hue            : 色味
+0.0001119    1 tartness       : 渋味
+0.0001113    1 true           : 真味
+0.0001112    1 monosodium     : 味の素
+0.0001108    2 medicine       : 六味, 一味
+0.0001103    2 sour           : 六味, 五味
+0.0001101    1 roundness      : 丸味
+0.0001101    1 rotundity      : 丸味
+0.0001097    2 clever         : 美味い, 味
+0.0001086    1 unobtrusive    : 地味
+0.0001083    2 cake           : あま味, 甘味
+0.0001077    1 disinterestedness: 禅味
+0.0001063    2 pepper         : 薬味, 七味
+0.0001049    1 wholesome      : 滋味
+0.0001046    1 mellowness     : 丸味
+0.0001041    2 deliciousness  : うま味, 旨味
+0.0001033    1 soy            : 諸味
+0.0001027    1 uninteresting  : 無味
+0.0001003    1 uniqueness     : 味
+0.0001003    1 tasteless      : 無味
+0.0001002    3 interest       : 興味, 面白味, 味わい
+0.0000998    2 experience     : 味わう, 味
+0.0000997    1 reserved       : 地味
+0.0000997    1 modest         : 地味
+0.0000997    1 guitar         : 三味
+0.0000982    1 sober          : 地味
+0.0000980    1 subtlety       : 小味
+0.0000975    1 nourishment    : 滋味
+0.0000972    1 astringency    : 渋味
+0.0000970    2 Buddha         : 五味, 一味
+0.0000964    2 fresh          : 新味, 五味
+0.0000948    2 depth          : 深味, 厚味
+0.0000941    1 unimaginative  : 大味
+0.0000935    2 art            : 味得, 味到
+0.0000928    2 cleverness     : うま味, 旨味
+0.0000926    1 shade          : 色味
+0.0000919    1 witty          : 味
+0.0000919    1 maturity       : 丸味
+0.0000912    1 simplicity     : 渋味
+0.0000903    2 enjoyment      : 玩味, 翫味
+0.0000892    1 crew           : 一味
+0.0000890    1 originality    : 新味
+0.0000890    2 main           : 諸味, 味噌
+0.0000880    2 traditional    : 吟味, 一味
+0.0000873    1 tone           : 色味
+0.0000859    1 elegance       : 渋味
+0.0000857    1 greenness      : 青味
+0.0000857    1 blueness       : 青味
+0.0000849    2 profitable     : 美味しい, 美味い
+0.0000848    1 participation  : 一味
+0.0000840    2 fifth          : うま味, 旨味
+0.0000839    1 freshness      : 新味
+0.0000839    1 bit            : 地味
+0.0000839    1 mild           : 薄味
+0.0000831    1 behaviour      : 地味
+0.0000821    1 distaste       : 不味
+0.0000821    1 unsavoriness   : 不味
+0.0000821    1 bungling       : 不味い
+0.0000821    1 unsavory       : 不味い
+0.0000821    1 unpalatable    : 不味い
+0.0000821    1 unskilful      : 不味い
+0.0000820    1 forte          : 強味
+0.0000820    1 inquiry        : 吟味
+0.0000818    1 refinement     : 渋味
+0.0000817    1 pungent        : 辛味
+0.0000817    1 gang           : 一味
+0.0000817    1 attitude       : 地味
+0.0000815    1 investigation  : 吟味
+0.0000815    1 careful        : 吟味
+0.0000815    2 category       : うま味, 旨味
+0.0000807    1 novelty        : 新味
+0.0000806    2 sense          : 味覚, 意味
+0.0000788    1 elegant        : 渋味
+0.0000786    1 exquisiteness  : 妙味
+0.0000781    1 weakling       : 味噌
+0.0000777    1 simple         : 地味
+0.0000773    1 rich           : 滋味
+0.0000772    1 poetic         : 俳味
+0.0000772    1 humanity       : 情味
+0.0000771    1 shortcoming    : 弱味
+0.0000769    1 smart          : 味
+0.0000767    1 clan           : 一味
+0.0000766    1 yellowish      : 黄味
+0.0000764    2 benefit        : うま味, 旨味
+0.0000751    1 spice          : 薬味
+0.0000742    1 brand          : 味の素
+0.0000742    1 coolness       : 涼味
+0.0000740    1 boring         : 大味
+0.0000721    1 patent         : 六味
+0.0000719    1 problematic    : 不味い
+0.0000719    1 unwise         : 不味い
+0.0000716    1 poison         : 毒味
+0.0000709    1 refined        : 俳味
+0.0000708    1 wasabi         : 薬味
+0.0000707    1 close          : 吟味
+0.0000698    2 taking         : 味方, 加味
+0.0000695    1 price          : 正味
+0.0000690    1 unskillful     : 不味い
+0.0000690    1 unattractive   : 不味い
+0.0000685    1 dry            : 無味
+0.0000685    1 palate         : 味覚
+0.0000683    1 delicate       : 小味
+0.0000676    1 seeing         : 毒味
+0.0000672    1 ring           : 一味
+0.0000670    1 garnish        : 青味
+0.0000669    1 unfavorable    : 不味い
+0.0000667    1 topping        : 薬味
+0.0000662    1 sore           : 弱味
+0.0000661    1 ginger         : 薬味
+0.0000654    1 mash           : 諸味
+0.0000654    1 gusto          : 賞味
+0.0000650    1 enjoying       : 味読
+0.0000644    1 graceful       : 雅味
+0.0000628    1 chopped        : 薬味
+0.0000621    1 weirdness      : 凄味
+0.0000621    1 dreadfulness   : 凄味
+0.0000621    1 grimness       : 凄味
+0.0000621    1 ghastliness    : 凄味
+0.0000617    1 zest           : 興味
+0.0000615    1 weakness       : 弱味
+0.0000615    1 yellow         : 黄味
+0.0000611    1 supporting     : 味方
+0.0000608    1 daikon         : 薬味
+0.0000604    1 dish           : 毒味
+0.0000602    1 awful          : 不味い
+0.0000595    1 clumsy         : 不味い
+0.0000592    1 vegetable      : 青味
+0.0000591    1 troublesome    : 不味い
+0.0000591    1 awkward        : 不味い
+0.0000591    1 supporter      : 味方
+0.0000586    1 air            : 禅味
+0.0000582    1 drink          : 毒味
+0.0000578    1 strong         : 強味
+0.0000575    1 sharp          : 辛味
+0.0000563    1 spot           : 黒味
+0.0000559    1 flat           : 大味
+0.0000556    1 savor          : 味わう
+0.0000556    1 savour         : 味わう
+0.0000555    1 cayenne        : 七味
+0.0000554    1 contents       : 中味
+0.0000553    1 backing        : 味方
+0.0000551    1 unpleasant     : 不味い
+0.0000551    1 terrible       : 不味い
+0.0000549    1 class          : 雅味
+0.0000547    1 cool           : 涼味
+0.0000543    1 name           : 味の素
+0.0000537    1 production     : 諸味
+0.0000536    1 try            : 味噌
+0.0000536    1 dark           : 黒味
+0.0000535    1 grandeur       : 重味
+0.0000532    1 preference     : 趣味
+0.0000530    1 blue           : 青味
+0.0000526    1 intimidation   : 凄味
+0.0000525    1 appealing      : 美味しい
+0.0000524    1 sides          : 味方
+0.0000520    1 redness        : 赤味
+0.0000520    1 reddishness    : 赤味
+0.0000519    1 pastime        : 趣味
+0.0000515    1 key            : 味噌
+0.0000513    1 testing        : 吟味
+0.0000513    1 scrutiny       : 吟味
+0.0000512    1 butter         : 五味
+0.0000512    1 hot            : 辛味
+0.0000510    1 menace         : 凄味
+0.0000510    1 cooking        : 味醂
+0.0000509    1 hobby          : 趣味
+0.0000506    1 guilt          : 吟味
+0.0000503    1 curiosity      : 興味
+0.0000501    1 beauty         : 妙味
+0.0000496    1 degree         : ひと味
+0.0000496    1 sesame         : 七味
+0.0000495    1 secret         : 隠し味
+0.0000494    1 interior       : 中味
+0.0000493    1 weak           : 味噌
+0.0000492    1 rough          : 諸味
+0.0000492    1 citrus         : 七味
+0.0000492    1 liking         : 趣味
+0.0000490    1 substance      : 中味
+0.0000485    1 bitterness     : 苦味
+0.0000485    1 dainty         : 美味
+0.0000480    1 filling        : 中味
+0.0000478    1 profundity     : 厚味
+0.0000477    1 threat         : 凄味
+0.0000465    1 poor           : 不味い
+0.0000464    1 inclusion      : 加味
+0.0000462    1 blend          : 七味
+0.0000462    1 desirable      : 美味しい
+0.0000462    1 useful         : 正味
+0.0000460    1 sampling       : 味見
+0.0000459    1 cream          : 五味
+0.0000458    1 fortunate      : 美味い
+0.0000452    1 winner         : 吟味
+0.0000451    1 reading        : 味読
+0.0000449    1 blade          : 中味
+0.0000449    1 aftertaste     : 後味
+0.0000449    1 type           : 味醂
+0.0000448    1 thickness      : 厚味
+0.0000447    1 digest         : 味わう
+0.0000446    1 standing       : 味方
+0.0000446    1 peel           : 七味
+0.0000443    1 importance     : 重味
+0.0000439    1 cost           : 正味
+0.0000435    1 attractive     : 美味しい
+0.0000432    1 convenient     : 美味しい
+0.0000426    1 actual         : 正味
+0.0000425    1 enjoy          : 味わう
+0.0000424    1 blush          : 赤味
+0.0000418    1 enquiry        : 吟味
+0.0000415    1 promising      : 美味い
+0.0000413    1 dignity        : 重味
+0.0000408    1 book           : 味読
+0.0000407    1 satisfactory   : 美味い
+0.0000405    1 appreciate     : 味わう
+0.0000402    1 selection      : 吟味
+0.0000400    1 burden         : 重味
+0.0000399    1 favorable      : 美味しい
+0.0000397    1 skillful       : 美味い
+0.0000395    1 successful     : 美味い
+0.0000393    1 thinking       : 含味
+0.0000390    1 inspection     : 吟味
+0.0000388    1 expert         : 美味い
+0.0000384    1 examination    : 吟味
+0.0000377    1 skilled        : 美味い
+0.0000376    1 appropriate    : 美味い
+0.0000376    1 lucky          : 美味い
+0.0000375    1 fun            : 面白味
+0.0000375    1 addition       : 加味
+0.0000371    1 working        : 正味
+0.0000370    1 various        : 五味
+0.0000369    1 poetry         : 吟味
+0.0000369    1 rice           : 味醂
+0.0000368    1 opportunity    : 美味しい
+0.0000368    1 splendid       : 美味い
+0.0000367    1 amount         : 正味
+0.0000366    1 mixture        : 味塩
+0.0000364    1 account        : 加味
+0.0000359    1 offer          : 美味しい
+0.0000353    1 slight         : 赤味
+0.0000344    1 deal           : 美味い
+0.0000340    1 pain           : 味わう
+0.0000334    1 trick          : 美味い
+0.0000327    1 idea           : 美味い
+0.0000322    1 salt           : 味塩
+0.0000320    1 expression     : 美味い
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0559772    2 dwarf
+	dwarf WORD[ 1,   1]: 0.0555556 侏儒
+	dwarf WORD[ 1,   2]: 0.0004216 朱儒
+TOKEN[ 2]: 0.0288166    2 unit
+	unit WORD[ 2,   1]: 0.0273474 銖
+	unit WORD[ 2,   2]: 0.0003673 朱
+TOKEN[ 3]: 0.0257532    5 plowing
+	plowing WORD[ 3,   1]: 0.0151515 耕耘
+	plowing WORD[ 3,   2]: 0.0089407 秋耕
+	plowing WORD[ 3,   3]: 0.0007350 春耕
+	plowing WORD[ 3,   4]: 0.0004722 深耕
+	plowing WORD[ 3,   5]: 0.0004538 耕うん
+TOKEN[ 4]: 0.0196450   12 spider
+	spider WORD[ 4,   1]: 0.0135750 袋蜘蛛
+	spider WORD[ 4,   2]: 0.0023823 蟻蜘蛛
+	spider WORD[ 4,   3]: 0.0011259 姫蜘蛛
+	spider WORD[ 4,   4]: 0.0007925 花蜘蛛
+	spider WORD[ 4,   5]: 0.0004511 水蜘蛛
+	spider WORD[ 4,   6]: 0.0003058 曼珠沙華
+	spider WORD[ 4,   7]: 0.0001970 平蜘蛛
+	spider WORD[ 4,   8]: 0.0001847 土蜘蛛
+	spider WORD[ 4,   9]: 0.0001779 地蜘蛛
+	spider WORD[ 4,  10]: 0.0001748 鬼蜘蛛
+	spider WORD[ 4,  11]: 0.0001688 蜘蛛猿
+	spider WORD[ 4,  12]: 0.0001091 蜘蛛
+TOKEN[ 5]: 0.0177139    2 tillage
+	tillage WORD[ 5,   1]: 0.0171987 耕耘
+	tillage WORD[ 5,   2]: 0.0005151 耕うん
+TOKEN[ 6]: 0.0158041    2 currency
+	currency WORD[ 6,   1]: 0.0149984 銖
+	currency WORD[ 6,   2]: 0.0002014 朱
+TOKEN[ 7]: 0.0147364    2 memorial
+	memorial WORD[ 7,   1]: 0.0074284 誄
+	memorial WORD[ 7,   2]: 0.0073079 誄詞
+TOKEN[ 8]: 0.0145013   12 sister
+	sister WORD[ 8,   1]: 0.0113769 小妹
+	sister WORD[ 8,   2]: 0.0006218 亡妹
+	sister WORD[ 8,   3]: 0.0004185 妹分
+	sister WORD[ 8,   4]: 0.0004045 妹婿
+	sister WORD[ 8,   5]: 0.0003763 義妹
+	sister WORD[ 8,   6]: 0.0002453 令妹
+	sister WORD[ 8,   7]: 0.0002025 実妹
+	sister WORD[ 8,   8]: 0.0001951 愚妹
+	sister WORD[ 8,   9]: 0.0001867 妹背
+	sister WORD[ 8,  10]: 0.0001247 兄妹
+	sister WORD[ 8,  11]: 0.0001190 弟妹
+	sister WORD[ 8,  12]: 0.0001150 妹
+TOKEN[ 9]: 0.0140286    4 weight
+	weight WORD[ 9,   1]: 0.0132098 銖
+	weight WORD[ 9,   2]: 0.0001774 朱
+	weight WORD[ 9,   3]: 0.0000703 重味
+	weight WORD[ 9,   4]: 0.0000388 正味
+TOKEN[10]: 0.0138227    4 cultivation
+	cultivation WORD[10,   1]: 0.0126175 耕耘
+	cultivation WORD[10,   2]: 0.0004493 農耕
+	cultivation WORD[10,   3]: 0.0003780 耕作
+	cultivation WORD[10,   4]: 0.0003779 耕うん
+TOKEN[11]: 0.0134783    4 farming
+	farming WORD[11,   1]: 0.0123031 耕耘
+	farming WORD[11,   2]: 0.0004381 農耕
+	farming WORD[11,   3]: 0.0003686 耕作
+	farming WORD[11,   4]: 0.0003685 耕うん
+TOKEN[12]: 0.0123967   14 stock
+	stock WORD[12,   1]: 0.0037735 貸し株
+	stock WORD[12,   2]: 0.0037734 貸株
+	stock WORD[12,   3]: 0.0010622 株高
+	stock WORD[12,   4]: 0.0009432 株安
+	stock WORD[12,   5]: 0.0005292 親株
+	stock WORD[12,   6]: 0.0005219 子株
+	stock WORD[12,   7]: 0.0002720 新株
+	stock WORD[12,   8]: 0.0002541 旧株
+	stock WORD[12,   9]: 0.0002511 空株
+	stock WORD[12,  10]: 0.0002492 株券
+	stock WORD[12,  11]: 0.0002237 持ち株
+	stock WORD[12,  12]: 0.0002237 持株
+	stock WORD[12,  13]: 0.0001597 株式
+	stock WORD[12,  14]: 0.0001597 株価
+TOKEN[13]: 0.0110461    3 oleaster
+	oleaster WORD[13,   1]: 0.0056386 秋茱萸
+	oleaster WORD[13,   2]: 0.0036272 夏茱萸
+	oleaster WORD[13,   3]: 0.0017803 茱萸
+TOKEN[14]: 0.0110461    3 Elaeagnus
+	Elaeagnus WORD[14,   1]: 0.0056386 秋茱萸
+	Elaeagnus WORD[14,   2]: 0.0036272 夏茱萸
+	Elaeagnus WORD[14,   3]: 0.0017803 茱萸
+TOKEN[15]: 0.0110461    3 silverberry
+	silverberry WORD[15,   1]: 0.0056386 秋茱萸
+	silverberry WORD[15,   2]: 0.0036272 夏茱萸
+	silverberry WORD[15,   3]: 0.0017803 茱萸
+TOKEN[16]: 0.0109101   12 younger
+	younger WORD[16,   1]: 0.0073082 小妹
+	younger WORD[16,   2]: 0.0006756 継妹
+	younger WORD[16,   3]: 0.0005991 亡妹
+	younger WORD[16,   4]: 0.0004835 義妹
+	younger WORD[16,   5]: 0.0004033 妹分
+	younger WORD[16,   6]: 0.0003897 妹婿
+	younger WORD[16,   7]: 0.0002363 令妹
+	younger WORD[16,   8]: 0.0001964 従妹
+	younger WORD[16,   9]: 0.0001951 実妹
+	younger WORD[16,  10]: 0.0001880 愚妹
+	younger WORD[16,  11]: 0.0001202 兄妹
+	younger WORD[16,  12]: 0.0001147 弟妹
+TOKEN[17]: 0.0103839    3 autumn
+	autumn WORD[17,   1]: 0.0063860 秋耕
+	autumn WORD[17,   2]: 0.0037982 秋茱萸
+	autumn WORD[17,   3]: 0.0001997 秋味
+TOKEN[18]: 0.0094700    1 weaken
+	weaken WORD[18,   1]: 0.0094700 衰耗
+TOKEN[19]: 0.0093578   10 species
+	species WORD[19,   1]: 0.0031869 袋蜘蛛
+	species WORD[19,   2]: 0.0021001 夏茱萸
+	species WORD[19,   3]: 0.0016778 蟻蜘蛛
+	species WORD[19,   4]: 0.0007930 姫蜘蛛
+	species WORD[19,   5]: 0.0005582 花蜘蛛
+	species WORD[19,   6]: 0.0005246 蜘蛛海星
+	species WORD[19,   7]: 0.0001387 平蜘蛛
+	species WORD[19,   8]: 0.0001301 土蜘蛛
+	species WORD[19,   9]: 0.0001253 地蜘蛛
+	species WORD[19,  10]: 0.0001231 鬼蜘蛛
+TOKEN[20]: 0.0090801    5 special
+	special WORD[20,   1]: 0.0066072 殊遇
+	special WORD[20,   2]: 0.0023339 特殊
+	special WORD[20,   3]: 0.0000476 持ち味
+	special WORD[20,   4]: 0.0000476 持味
+	special WORD[20,   5]: 0.0000439 ひと味
+TOKEN[21]: 0.0090494    2 punishment
+	punishment WORD[21,   1]: 0.0075922 天誅
+	punishment WORD[21,   2]: 0.0014572 誅戮
+TOKEN[22]: 0.0089647    2 abrasion
+	abrasion WORD[22,   1]: 0.0044824 摩耗
+	abrasion WORD[22,   2]: 0.0044824 磨耗
+TOKEN[23]: 0.0088543    2 penalty
+	penalty WORD[23,   1]: 0.0070994 誅
+	penalty WORD[23,   2]: 0.0017548 誅戮
+TOKEN[24]: 0.0087250    3 death
+	death WORD[24,   1]: 0.0046359 誅
+	death WORD[24,   2]: 0.0022918 誅戮
+	death WORD[24,   3]: 0.0017973 誅する
+TOKEN[25]: 0.0078627    1 condolence
+	condolence WORD[25,   1]: 0.0078627 誄
+TOKEN[26]: 0.0077352    1 eulogy
+	eulogy WORD[26,   1]: 0.0077352 誄詞
+TOKEN[27]: 0.0076591   14 red
+	red WORD[27,   1]: 0.0017426 朱引
+	red WORD[27,   2]: 0.0017426 朱引き
+	red WORD[27,   3]: 0.0011617 朱点
+	red WORD[27,   4]: 0.0008333 朱書き
+	red WORD[27,   5]: 0.0005475 朱肉
+	red WORD[27,   6]: 0.0002998 堆朱
+	red WORD[27,   7]: 0.0002734 朱唇
+	red WORD[27,   8]: 0.0002734 朱脣
+	red WORD[27,   9]: 0.0002122 曼珠沙華
+	red WORD[27,  10]: 0.0001763 朱書
+	red WORD[27,  11]: 0.0001762 朱印
+	red WORD[27,  12]: 0.0001496 朱い
+	red WORD[27,  13]: 0.0000428 薬味
+	red WORD[27,  14]: 0.0000277 赤味
+TOKEN[28]: 0.0072219    1 decline
+	decline WORD[28,   1]: 0.0072219 衰耗
+TOKEN[29]: 0.0071321    4 darling
+	darling WORD[29,   1]: 0.0032129 吾妹
+	darling WORD[29,   2]: 0.0032129 我妹
+	darling WORD[29,   3]: 0.0004397 吾妹子
+	darling WORD[29,   4]: 0.0001333 妹
+TOKEN[30]: 0.0071159    2 wear
+	wear WORD[30,   1]: 0.0035579 摩耗
+	wear WORD[30,   2]: 0.0035579 磨耗
+TOKEN[31]: 0.0068067    1 harvest
+	harvest WORD[31,   1]: 0.0068067 秋耕
+TOKEN[32]: 0.0065878    1 funeral
+	funeral WORD[32,   1]: 0.0065878 誄詞
+TOKEN[33]: 0.0064262    1 message
+	message WORD[33,   1]: 0.0064262 誄
+TOKEN[34]: 0.0063393    1 address
+	address WORD[34,   1]: 0.0063393 誄
+TOKEN[35]: 0.0063084    4 dear
+	dear WORD[35,   1]: 0.0028419 吾妹
+	dear WORD[35,   2]: 0.0028418 我妹
+	dear WORD[35,   3]: 0.0003890 吾妹子
+	dear WORD[35,   4]: 0.0001179 妹
+TOKEN[36]: 0.0062805    1 Clubionidae
+	Clubionidae WORD[36,   1]: 0.0062805 袋蜘蛛
+TOKEN[37]: 0.0059533    5 sexagenary
+	sexagenary WORD[37,   1]: 0.0018652 癸未
+	sexagenary WORD[37,   2]: 0.0018454 丁未
+	sexagenary WORD[37,   3]: 0.0010052 己未
+	sexagenary WORD[37,   4]: 0.0009502 辛未
+	sexagenary WORD[37,   5]: 0.0002873 乙未
+TOKEN[38]: 0.0058679    1 speech
+	speech WORD[38,   1]: 0.0058679 誄詞
+TOKEN[39]: 0.0057315    5 cycle
+	cycle WORD[39,   1]: 0.0017957 癸未
+	cycle WORD[39,   2]: 0.0017767 丁未
+	cycle WORD[39,   3]: 0.0009678 己未
+	cycle WORD[39,   4]: 0.0009148 辛未
+	cycle WORD[39,   5]: 0.0002766 乙未
+TOKEN[40]: 0.0057185   14 charm
+	charm WORD[40,   1]: 0.0015694 魅了
+	charm WORD[40,   2]: 0.0013136 魅せる
+	charm WORD[40,   3]: 0.0007851 魅惑
+	charm WORD[40,   4]: 0.0007847 魅力
+	charm WORD[40,   5]: 0.0007783 魅する
+	charm WORD[40,   6]: 0.0000651 情味
+	charm WORD[40,   7]: 0.0000529 妙味
+	charm WORD[40,   8]: 0.0000494 ひと味
+	charm WORD[40,   9]: 0.0000364 うま味
+	charm WORD[40,  10]: 0.0000364 旨味
+	charm WORD[40,  11]: 0.0000358 一味
+	charm WORD[40,  12]: 0.0000352 甘味
+	charm WORD[40,  13]: 0.0000351 味わい
+	charm WORD[40,  14]: 0.0000351 味
+TOKEN[41]: 0.0053057    5 term
+	term WORD[41,   1]: 0.0016623 癸未
+	term WORD[41,   2]: 0.0016447 丁未
+	term WORD[41,   3]: 0.0008959 己未
+	term WORD[41,   4]: 0.0008468 辛未
+	term WORD[41,   5]: 0.0002560 乙未
+TOKEN[42]: 0.0051757    2 transcendent
+	transcendent WORD[42,   1]: 0.0047872 文殊
+	transcendent WORD[42,   2]: 0.0003885 文珠
+TOKEN[43]: 0.0050503    1 sac
+	sac WORD[43,   1]: 0.0050503 袋蜘蛛
+TOKEN[44]: 0.0049915    2 magical
+	magical WORD[44,   1]: 0.0025220 魘魅
+	magical WORD[44,   2]: 0.0024695 厭魅
+TOKEN[45]: 0.0048805    1 olive
+	olive WORD[45,   1]: 0.0048805 秋茱萸
+TOKEN[46]: 0.0045916    2 curse
+	curse WORD[46,   1]: 0.0023200 魘魅
+	curse WORD[46,   2]: 0.0022716 厭魅
+TOKEN[47]: 0.0045092    3 Asian
+	Asian WORD[47,   1]: 0.0041747 袋蜘蛛
+	Asian WORD[47,   2]: 0.0001704 土蜘蛛
+	Asian WORD[47,   3]: 0.0001641 地蜘蛛
+TOKEN[48]: 0.0044542    3 love
+	love WORD[48,   1]: 0.0020845 吾妹
+	love WORD[48,   2]: 0.0020844 我妹
+	love WORD[48,   3]: 0.0002853 吾妹子
+TOKEN[49]: 0.0042770    2 loan
+	loan WORD[49,   1]: 0.0021385 貸し株
+	loan WORD[49,   2]: 0.0021385 貸株
+TOKEN[50]: 0.0042625    2 killing
+	killing WORD[50,   1]: 0.0021537 魘魅
+	killing WORD[50,   2]: 0.0021088 厭魅
+TOKEN[51]: 0.0042162    6 vermilion
+	vermilion WORD[51,   1]: 0.0020035 朱漆
+	vermilion WORD[51,   2]: 0.0008795 朱盆
+	vermilion WORD[51,   3]: 0.0004219 朱墨
+	vermilion WORD[51,   4]: 0.0004087 銀朱
+	vermilion WORD[51,   5]: 0.0002719 朱色
+	vermilion WORD[51,   6]: 0.0002307 朱い
+TOKEN[52]: 0.0041387    1 goumi
+	goumi WORD[52,   1]: 0.0041387 夏茱萸
+TOKEN[53]: 0.0037701    3 captivate
+	captivate WORD[53,   1]: 0.0017216 魅せる
+	captivate WORD[53,   2]: 0.0010284 魅了
+	captivate WORD[53,   3]: 0.0010201 魅する
+TOKEN[54]: 0.0037368    1 consumption
+	consumption WORD[54,   1]: 0.0037368 消耗
+TOKEN[55]: 0.0037323    1 favor
+	favor WORD[55,   1]: 0.0037323 殊遇
+TOKEN[56]: 0.0037048    1 exhaustion
+	exhaustion WORD[56,   1]: 0.0037048 消耗
+TOKEN[57]: 0.0036471    1 dissipation
+	dissipation WORD[57,   1]: 0.0036471 消耗
+TOKEN[58]: 0.0035431    2 wisdom
+	wisdom WORD[58,   1]: 0.0032771 文殊
+	wisdom WORD[58,   2]: 0.0002660 文珠
+TOKEN[59]: 0.0034882    3 fascinate
+	fascinate WORD[59,   1]: 0.0015929 魅せる
+	fascinate WORD[59,   2]: 0.0009515 魅了
+	fascinate WORD[59,   3]: 0.0009438 魅する
+TOKEN[60]: 0.0033365    1 laudable
+	laudable WORD[60,   1]: 0.0033365 殊勝
+TOKEN[61]: 0.0033349    1 riddance
+	riddance WORD[61,   1]: 0.0033349 三昧耶
+TOKEN[62]: 0.0033308    2 marking
+	marking WORD[62,   1]: 0.0016654 朱引
+	marking WORD[62,   2]: 0.0016654 朱引き
+TOKEN[63]: 0.0032582   33 taste
+	taste WORD[63,   1]: 0.0002546 味盲
+	taste WORD[63,   2]: 0.0002206 辛味
+	taste WORD[63,   3]: 0.0002124 えぐ味
+	taste WORD[63,   4]: 0.0002124 エグ味
+	taste WORD[63,   5]: 0.0001839 佳味
+	taste WORD[63,   6]: 0.0001839 酸っぱ味
+	taste WORD[63,   7]: 0.0001805 好味
+	taste WORD[63,   8]: 0.0001554 味わい知る
+	taste WORD[63,   9]: 0.0001275 俳味
+	taste WORD[63,  10]: 0.0001116 雑味
+	taste WORD[63,  11]: 0.0001111 味蕾
+	taste WORD[63,  12]: 0.0000958 味覚
+	taste WORD[63,  13]: 0.0000707 薄味
+	taste WORD[63,  14]: 0.0000689 渋味
+	taste WORD[63,  15]: 0.0000666 うま味
+	taste WORD[63,  16]: 0.0000666 旨味
+	taste WORD[63,  17]: 0.0000646 甘味
+	taste WORD[63,  18]: 0.0000643 味わう
+	taste WORD[63,  19]: 0.0000643 味
+	taste WORD[63,  20]: 0.0000616 毒味
+	taste WORD[63,  21]: 0.0000587 新味
+	taste WORD[63,  22]: 0.0000549 鹹味
+	taste WORD[63,  23]: 0.0000490 持ち味
+	taste WORD[63,  24]: 0.0000490 持味
+	taste WORD[63,  25]: 0.0000474 不味い
+	taste WORD[63,  26]: 0.0000456 風味
+	taste WORD[63,  27]: 0.0000378 食味
+	taste WORD[63,  28]: 0.0000373 塩味
+	taste WORD[63,  29]: 0.0000365 香味
+	taste WORD[63,  30]: 0.0000360 苦味
+	taste WORD[63,  31]: 0.0000354 含味
+	taste WORD[63,  32]: 0.0000323 あま味
+	taste WORD[63,  33]: 0.0000321 味わい
+TOKEN[64]: 0.0032132    1 decrease
+	decrease WORD[64,   1]: 0.0032132 減耗
+TOKEN[65]: 0.0031917    2 execution
+	execution WORD[65,   1]: 0.0015960 誅戮
+	execution WORD[65,   2]: 0.0015957 誅殺
+TOKEN[66]: 0.0030895    2 unique
+	unique WORD[66,   1]: 0.0030324 特殊
+	unique WORD[66,   2]: 0.0000571 ひと味
+TOKEN[67]: 0.0030851    2 little
+	little WORD[67,   1]: 0.0030134 小妹
+	little WORD[67,   2]: 0.0000358 地味
+TOKEN[68]: 0.0030591    3 peculiar
+	peculiar WORD[68,   1]: 0.0029392 特殊
+	peculiar WORD[68,   2]: 0.0000599 持ち味
+	peculiar WORD[68,   3]: 0.0000599 持味
+TOKEN[69]: 0.0030395    5 plant
+	plant WORD[69,   1]: 0.0010737 茱萸
+	plant WORD[69,   2]: 0.0005154 親株
+	plant WORD[69,   3]: 0.0004837 雌株
+	plant WORD[69,   4]: 0.0004837 雄株
+	plant WORD[69,   5]: 0.0004830 株元
+TOKEN[70]: 0.0030273    2 loss
+	loss WORD[70,   1]: 0.0028457 損耗
+	loss WORD[70,   2]: 0.0001816 珠盤
+TOKEN[71]: 0.0029923    2 criminal
+	criminal WORD[71,   1]: 0.0014963 誅戮
+	criminal WORD[71,   2]: 0.0014960 誅殺
+TOKEN[72]: 0.0029365    1 admirable
+	admirable WORD[72,   1]: 0.0029365 殊勝
+TOKEN[73]: 0.0029364    1 meritorious
+	meritorious WORD[73,   1]: 0.0029364 殊勲
+TOKEN[74]: 0.0029353    3 fascination
+	fascination WORD[74,   1]: 0.0009787 魅惑
+	fascination WORD[74,   2]: 0.0009783 魅力
+	fascination WORD[74,   3]: 0.0009783 魅了
+TOKEN[75]: 0.0029309    1 waste
+	waste WORD[75,   1]: 0.0029309 消耗
+TOKEN[76]: 0.0029013    1 family
+	family WORD[76,   1]: 0.0029013 袋蜘蛛
+TOKEN[77]: 0.0028669    2 arable
+	arable WORD[77,   1]: 0.0023851 耕土
+	arable WORD[77,   2]: 0.0004818 耕地
+TOKEN[78]: 0.0028411    2 enchant
+	enchant WORD[78,   1]: 0.0017840 魅せる
+	enchant WORD[78,   2]: 0.0010571 魅する
+TOKEN[79]: 0.0028134    2 japonica
+	japonica WORD[79,   1]: 0.0019105 蟻蜘蛛
+	japonica WORD[79,   2]: 0.0009029 姫蜘蛛
+TOKEN[80]: 0.0028030    3 natural
+	natural WORD[80,   1]: 0.0027046 減耗
+	natural WORD[80,   2]: 0.0000492 持ち味
+	natural WORD[80,   3]: 0.0000492 持味
+TOKEN[81]: 0.0027825    2 enthrall
+	enthrall WORD[81,   1]: 0.0016151 魅入る
+	enthrall WORD[81,   2]: 0.0011674 魅了
+TOKEN[82]: 0.0027671    1 equality
+	equality WORD[82,   1]: 0.0027671 三昧耶
+TOKEN[83]: 0.0027222    5 stump
+	stump WORD[83,   1]: 0.0004348 古株
+	stump WORD[83,   2]: 0.0004131 根株
+	stump WORD[83,   3]: 0.0003645 切り株
+	stump WORD[83,   4]: 0.0003645 切株
+	stump WORD[83,   5]: 0.0002291 株
+TOKEN[84]: 0.0027022    2 bewitch
+	bewitch WORD[84,   1]: 0.0016968 魅せる
+	bewitch WORD[84,   2]: 0.0010054 魅する
+TOKEN[85]: 0.0026923    5 someone
+	someone WORD[85,   1]: 0.0012221 魘魅
+	someone WORD[85,   2]: 0.0011966 厭魅
+	someone WORD[85,   3]: 0.0002282 妹分
+	someone WORD[85,   4]: 0.0000232 吟味
+	someone WORD[85,   5]: 0.0000222 重味
+TOKEN[86]: 0.0026768    3 Japanese
+	Japanese WORD[86,   1]: 0.0025018 秋茱萸
+	Japanese WORD[86,   2]: 0.0001498 朱鷺
+	Japanese WORD[86,   3]: 0.0000252 七味
+TOKEN[87]: 0.0026526    1 distinguished
+	distinguished WORD[87,   1]: 0.0026526 殊勲
+TOKEN[88]: 0.0026343    1 cherry
+	cherry WORD[88,   1]: 0.0026343 夏茱萸
+TOKEN[89]: 0.0026215    1 esoteric
+	esoteric WORD[89,   1]: 0.0026215 三昧耶
+TOKEN[90]: 0.0026096    1 tragi
+	tragi WORD[90,   1]: 0.0026096 耳珠
+TOKEN[91]: 0.0026096    1 antilobium
+	antilobium WORD[91,   1]: 0.0026096 耳珠
+TOKEN[92]: 0.0026075    1 particular
+	particular WORD[92,   1]: 0.0026075 特殊
+TOKEN[93]: 0.0025604    9 one
+	one WORD[93,   1]: 0.0009843 殊
+	one WORD[93,   2]: 0.0006148 三昧
+	one WORD[93,   3]: 0.0002417 亡妹
+	one WORD[93,   4]: 0.0001626 妹分
+	one WORD[93,   5]: 0.0001572 妹婿
+	one WORD[93,   6]: 0.0001099 持ち株
+	one WORD[93,   7]: 0.0001099 持株
+	one WORD[93,   8]: 0.0000453 一味
+	one WORD[93,   9]: 0.0000447 妹
+TOKEN[94]: 0.0024555    1 extraordinary
+	extraordinary WORD[94,   1]: 0.0024555 殊
+TOKEN[95]: 0.0024484    1 cartilaginous
+	cartilaginous WORD[95,   1]: 0.0024484 耳珠
+TOKEN[96]: 0.0024484    1 tragus
+	tragus WORD[96,   1]: 0.0024484 耳珠
+TOKEN[97]: 0.0024085    1 smiting
+	smiting WORD[97,   1]: 0.0024085 誅滅
+TOKEN[98]: 0.0023936    1 warning
+	warning WORD[98,   1]: 0.0023936 三昧耶
+TOKEN[99]: 0.0023458    1 unusual
+	unusual WORD[99,   1]: 0.0023458 殊
+TOKEN[100]: 0.0023444    1 crupper
+	crupper WORD[100,   1]: 0.0023444 雲珠
+TOKEN[101]: 0.0023403    1 difference
+	difference WORD[101,   1]: 0.0023403 殊
+TOKEN[102]: 0.0022470    1 purpose
+	purpose WORD[102,   1]: 0.0022470 殊更
+TOKEN[103]: 0.0021942    1 denunciation
+	denunciation WORD[103,   1]: 0.0021942 筆誅
+TOKEN[104]: 0.0021646    1 samadhi
+	samadhi WORD[104,   1]: 0.0021646 三昧
+TOKEN[105]: 0.0021646    1 indulging
+	indulging WORD[105,   1]: 0.0021646 三昧
+TOKEN[106]: 0.0021449    2 ink
+	ink WORD[106,   1]: 0.0014304 朱肉
+	ink WORD[106,   2]: 0.0007144 朱墨
+TOKEN[107]: 0.0021394    1 Buddhism
+	Buddhism WORD[107,   1]: 0.0021394 三昧耶
+TOKEN[108]: 0.0021108    1 sinful
+	sinful WORD[108,   1]: 0.0021108 誅滅
+TOKEN[109]: 0.0020789    1 heaven
+	heaven WORD[109,   1]: 0.0020789 天誅
+TOKEN[110]: 0.0020624    1 exaction
+	exaction WORD[110,   1]: 0.0020624 誅求
+TOKEN[111]: 0.0020453    2 stocks
+	stocks WORD[111,   1]: 0.0016745 米株
+	stocks WORD[111,   2]: 0.0003708 雑株
+TOKEN[112]: 0.0020067    1 different
+	different WORD[112,   1]: 0.0020067 殊
+TOKEN[113]: 0.0019970    1 thing
+	thing WORD[113,   1]: 0.0019970 殊
+TOKEN[114]: 0.0019488    3 attraction
+	attraction WORD[114,   1]: 0.0009520 魅惑
+	attraction WORD[114,   2]: 0.0009516 魅力
+	attraction WORD[114,   3]: 0.0000453 面白味
+TOKEN[115]: 0.0019383    6 something
+	something WORD[115,   1]: 0.0008453 朱塗
+	something WORD[115,   2]: 0.0008453 朱塗り
+	something WORD[115,   3]: 0.0001265 未だし
+	something WORD[115,   4]: 0.0000477 興味
+	something WORD[115,   5]: 0.0000413 毒味
+	something WORD[115,   6]: 0.0000322 味噌
+TOKEN[116]: 0.0019363    1 oppressive
+	oppressive WORD[116,   1]: 0.0019363 誅求
+TOKEN[117]: 0.0019234    1 coming
+	coming WORD[117,   1]: 0.0019234 三昧耶
+TOKEN[118]: 0.0019152    1 divine
+	divine WORD[118,   1]: 0.0019152 天誅
+TOKEN[119]: 0.0019127    1 flap
+	flap WORD[119,   1]: 0.0019127 耳珠
+TOKEN[120]: 0.0019107    1 meeting
+	meeting WORD[120,   1]: 0.0019107 三昧耶
+TOKEN[121]: 0.0019013    4 period
+	period WORD[121,   1]: 0.0005296 朱引
+	period WORD[121,   2]: 0.0005296 朱引き
+	period WORD[121,   3]: 0.0004461 株高
+	period WORD[121,   4]: 0.0003961 株安
+TOKEN[122]: 0.0018936    1 eradication
+	eradication WORD[122,   1]: 0.0018936 誅滅
+TOKEN[123]: 0.0018853    1 oral
+	oral WORD[123,   1]: 0.0018853 舌耕
+TOKEN[124]: 0.0018693    1 spoken
+	spoken WORD[124,   1]: 0.0018693 舌耕
+TOKEN[125]: 0.0018526    2 agriculture
+	agriculture WORD[125,   1]: 0.0013612 退耕
+	agriculture WORD[125,   2]: 0.0004914 農耕
+TOKEN[126]: 0.0018199    2 disreputable
+	disreputable WORD[126,   1]: 0.0009100 あい昧
+	disreputable WORD[126,   2]: 0.0009100 曖昧
+TOKEN[127]: 0.0018177    1 lacquer
+	lacquer WORD[127,   1]: 0.0018177 朱漆
+TOKEN[128]: 0.0017960    1 ornament
+	ornament WORD[128,   1]: 0.0017960 雲珠
+TOKEN[129]: 0.0017943    2 thick
+	thick WORD[129,   1]: 0.0014788 芽株
+	thick WORD[129,   2]: 0.0003155 朱肉
+TOKEN[130]: 0.0017696    1 external
+	external WORD[130,   1]: 0.0017696 耳珠
+TOKEN[131]: 0.0017685    1 put
+	put WORD[131,   1]: 0.0017685 誅する
+TOKEN[132]: 0.0017644    1 prone
+	prone WORD[132,   1]: 0.0017644 三昧
+TOKEN[133]: 0.0017555    2 apt
+	apt WORD[133,   1]: 0.0017127 三昧
+	apt WORD[133,   2]: 0.0000428 美味い
+TOKEN[134]: 0.0017112    1 stem
+	stem WORD[134,   1]: 0.0017112 芽株
+TOKEN[135]: 0.0017013    1 soil
+	soil WORD[135,   1]: 0.0017013 耕土
+TOKEN[136]: 0.0017009    2 new
+	new WORD[136,   1]: 0.0012005 子株
+	new WORD[136,   2]: 0.0005004 新株
+TOKEN[137]: 0.0016910    1 concentration
+	concentration WORD[137,   1]: 0.0016910 三昧
+TOKEN[138]: 0.0016770    2 performance
+	performance WORD[138,   1]: 0.0015055 舌耕
+	performance WORD[138,   2]: 0.0001715 書き味
+TOKEN[139]: 0.0016712    1 wicked
+	wicked WORD[139,   1]: 0.0016712 誅滅
+TOKEN[140]: 0.0016712    2 lacquering
+	lacquering WORD[140,   1]: 0.0008356 朱塗
+	lacquering WORD[140,   2]: 0.0008356 朱塗り
+TOKEN[141]: 0.0016366    2 uncivilized
+	uncivilized WORD[141,   1]: 0.0013015 蒙昧
+	uncivilized WORD[141,   2]: 0.0003351 未開
+TOKEN[142]: 0.0016340    1 deceiving
+	deceiving WORD[142,   1]: 0.0016340 魔魅
+TOKEN[143]: 0.0016083    1 ear
+	ear WORD[143,   1]: 0.0016083 耳珠
+TOKEN[144]: 0.0016033    2 fuzzy
+	fuzzy WORD[144,   1]: 0.0008017 あい昧
+	fuzzy WORD[144,   2]: 0.0008017 曖昧
+TOKEN[145]: 0.0015800    3 content
+	content WORD[145,   1]: 0.0014906 三昧
+	content WORD[145,   2]: 0.0000472 中味
+	content WORD[145,   3]: 0.0000423 正味
+TOKEN[146]: 0.0015621    1 written
+	written WORD[146,   1]: 0.0015621 筆誅
+TOKEN[147]: 0.0015590    1 absorbed
+	absorbed WORD[147,   1]: 0.0015590 三昧
+TOKEN[148]: 0.0015251    2 ambiguous
+	ambiguous WORD[148,   1]: 0.0007626 あい昧
+	ambiguous WORD[148,   2]: 0.0007626 曖昧
+TOKEN[149]: 0.0015197    1 meditation
+	meditation WORD[149,   1]: 0.0015197 三昧
+TOKEN[150]: 0.0015101    2 shady
+	shady WORD[150,   1]: 0.0007550 あい昧
+	shady WORD[150,   2]: 0.0007550 曖昧
+TOKEN[151]: 0.0015096    3 writing
+	writing WORD[151,   1]: 0.0008371 朱書き
+	writing WORD[151,   2]: 0.0004953 筆耕
+	writing WORD[151,   3]: 0.0001772 朱書
+TOKEN[152]: 0.0015067    1 intense
+	intense WORD[152,   1]: 0.0015067 三昧
+TOKEN[153]: 0.0015041    1 time
+	time WORD[153,   1]: 0.0015041 三昧耶
+TOKEN[154]: 0.0014768    1 leaves
+	leaves WORD[154,   1]: 0.0014768 芽株
+TOKEN[155]: 0.0014715    2 unclear
+	unclear WORD[155,   1]: 0.0007358 あい昧
+	unclear WORD[155,   2]: 0.0007358 曖昧
+TOKEN[156]: 0.0014617    1 opening
+	opening WORD[156,   1]: 0.0014617 耳珠
+TOKEN[157]: 0.0014411    1 unenlightened
+	unenlightened WORD[157,   1]: 0.0014411 蒙昧
+TOKEN[158]: 0.0014315    2 genus
+	genus WORD[158,   1]: 0.0012899 茱萸
+	genus WORD[158,   2]: 0.0001416 鞘味泥
+TOKEN[159]: 0.0014180    1 word
+	word WORD[159,   1]: 0.0014180 舌耕
+TOKEN[160]: 0.0014076    1 engaging
+	engaging WORD[160,   1]: 0.0014076 退耕
+TOKEN[161]: 0.0014050    3 old
+	old WORD[161,   1]: 0.0005182 古株
+	old WORD[161,   2]: 0.0004524 親株
+	old WORD[161,   3]: 0.0004344 旧株
+TOKEN[162]: 0.0013877    1 front
+	front WORD[162,   1]: 0.0013877 耳珠
+TOKEN[163]: 0.0013494    2 lack
+	lack WORD[163,   1]: 0.0010322 蒙昧
+	lack WORD[163,   2]: 0.0003172 守株
+TOKEN[164]: 0.0013481    2 town
+	town WORD[164,   1]: 0.0006741 朱引
+	town WORD[164,   2]: 0.0006741 朱引き
+TOKEN[165]: 0.0013271    1 picket
+	picket WORD[165,   1]: 0.0002654 株
+TOKEN[166]: 0.0013235    2 drawing
+	drawing WORD[166,   1]: 0.0006618 朱引
+	drawing WORD[166,   2]: 0.0006618 朱引き
+TOKEN[167]: 0.0012862    2 painting
+	painting WORD[167,   1]: 0.0006431 朱塗
+	painting WORD[167,   2]: 0.0006431 朱塗り
+TOKEN[168]: 0.0012704    2 vague
+	vague WORD[168,   1]: 0.0006352 あい昧
+	vague WORD[168,   2]: 0.0006352 曖昧
+TOKEN[169]: 0.0012626    2 people
+	people WORD[169,   1]: 0.0011411 誅滅
+	people WORD[169,   2]: 0.0001214 土蜘蛛
+TOKEN[170]: 0.0012587    2 flower
+	flower WORD[170,   1]: 0.0010325 擬宝珠
+	flower WORD[170,   2]: 0.0002262 未開
+TOKEN[171]: 0.0012543    2 object
+	object WORD[171,   1]: 0.0006271 朱塗
+	object WORD[171,   2]: 0.0006271 朱塗り
+TOKEN[172]: 0.0012448    1 captivation
+	captivation WORD[172,   1]: 0.0012448 魅惑
+TOKEN[173]: 0.0012443    1 mesmerize
+	mesmerize WORD[173,   1]: 0.0012443 魅了
+TOKEN[174]: 0.0012218    1 civilization
+	civilization WORD[174,   1]: 0.0012218 蒙昧
+TOKEN[175]: 0.0012217    2 dawn
+	dawn WORD[175,   1]: 0.0010278 昧爽
+	dawn WORD[175,   2]: 0.0001939 未明
+TOKEN[176]: 0.0012036    2 Edo
+	Edo WORD[176,   1]: 0.0006018 朱引
+	Edo WORD[176,   2]: 0.0006018 朱引き
+TOKEN[177]: 0.0011995    1 possess
+	possess WORD[177,   1]: 0.0011995 魅入る
+TOKEN[178]: 0.0011990    3 stubble
+	stubble WORD[178,   1]: 0.0004011 切り株
+	stubble WORD[178,   2]: 0.0004011 切株
+	stubble WORD[178,   3]: 0.0003969 刈り株
+TOKEN[179]: 0.0011941    1 heart
+	heart WORD[179,   1]: 0.0011941 三昧
+TOKEN[180]: 0.0011831    4 share
+	share WORD[180,   1]: 0.0003497 端株
+	share WORD[180,   2]: 0.0003273 新株
+	share WORD[180,   3]: 0.0003140 子株
+	share WORD[180,   4]: 0.0001922 株式
+TOKEN[181]: 0.0011799    1 state
+	state WORD[181,   1]: 0.0011799 三昧
+TOKEN[182]: 0.0011788    3 cinnabar
+	cinnabar WORD[182,   1]: 0.0004461 朱肉
+	cinnabar WORD[182,   2]: 0.0004456 朱墨
+	cinnabar WORD[182,   3]: 0.0002872 朱色
+TOKEN[183]: 0.0011674    1 glamour
+	glamour WORD[183,   1]: 0.0011674 魅力
+TOKEN[184]: 0.0011543    1 small
+	small WORD[184,   1]: 0.0011543 耳珠
+TOKEN[185]: 0.0011328    1 sowing
+	sowing WORD[185,   1]: 0.0011328 耕種
+TOKEN[186]: 0.0011224    1 spellbound
+	spellbound WORD[186,   1]: 0.0011224 魅了
+TOKEN[187]: 0.0011129    2 pile
+	pile WORD[187,   1]: 0.0002008 珠
+	pile WORD[187,   2]: 0.0001824 株
+TOKEN[188]: 0.0010913    1 ignorance
+	ignorance WORD[188,   1]: 0.0010913 蒙昧
+TOKEN[189]: 0.0010875    2 stepsister
+	stepsister WORD[189,   1]: 0.0009225 継妹
+	stepsister WORD[189,   2]: 0.0001650 義妹
+TOKEN[190]: 0.0010775    2 gobang
+	gobang WORD[190,   1]: 0.0005388 聯珠
+	gobang WORD[190,   2]: 0.0005388 連珠
+TOKEN[191]: 0.0010719    1 stake
+	stake WORD[191,   1]: 0.0002144 株
+TOKEN[192]: 0.0010585    1 stupid
+	stupid WORD[192,   1]: 0.0010585 愚昧
+TOKEN[193]: 0.0010578    9 seasoning
+	seasoning WORD[193,   1]: 0.0004764 着味
+	seasoning WORD[193,   2]: 0.0002145 味覇
+	seasoning WORD[193,   3]: 0.0000860 薄味
+	seasoning WORD[193,   4]: 0.0000661 隠し味
+	seasoning WORD[193,   5]: 0.0000486 調味
+	seasoning WORD[193,   6]: 0.0000455 下味
+	seasoning WORD[193,   7]: 0.0000427 加味
+	seasoning WORD[193,   8]: 0.0000391 味つけ
+	seasoning WORD[193,   9]: 0.0000391 味付け
+TOKEN[194]: 0.0010518   20 flavor
+	flavor WORD[194,   1]: 0.0000713 俳味
+	flavor WORD[194,   2]: 0.0000696 禅味
+	flavor WORD[194,   3]: 0.0000681 淡味
+	flavor WORD[194,   4]: 0.0000633 小味
+	flavor WORD[194,   5]: 0.0000608 大味
+	flavor WORD[194,   6]: 0.0000607 隠し味
+	flavor WORD[194,   7]: 0.0000548 持ち味
+	flavor WORD[194,   8]: 0.0000548 持味
+	flavor WORD[194,   9]: 0.0000510 風味
+	flavor WORD[194,  10]: 0.0000506 ひと味
+	flavor WORD[194,  11]: 0.0000423 食味
+	flavor WORD[194,  12]: 0.0000408 香味
+	flavor WORD[194,  13]: 0.0000373 うま味
+	flavor WORD[194,  14]: 0.0000373 旨味
+	flavor WORD[194,  15]: 0.0000373 美味
+	flavor WORD[194,  16]: 0.0000361 甘味
+	flavor WORD[194,  17]: 0.0000359 味わい
+	flavor WORD[194,  18]: 0.0000359 味つけ
+	flavor WORD[194,  19]: 0.0000359 味付け
+	flavor WORD[194,  20]: 0.0000359 味
+TOKEN[195]: 0.0010379    1 entrance
+	entrance WORD[195,   1]: 0.0010379 魅入る
+TOKEN[196]: 0.0010339    1 Ophiuroidea
+	Ophiuroidea WORD[196,   1]: 0.0010339 蜘蛛海星
+TOKEN[197]: 0.0010327    1 demon
+	demon WORD[197,   1]: 0.0010327 魑魅
+TOKEN[198]: 0.0010297    3 rosary
+	rosary WORD[198,   1]: 0.0004683 念珠
+	rosary WORD[198,   2]: 0.0002807 数珠
+	rosary WORD[198,   3]: 0.0002807 珠数
+TOKEN[199]: 0.0010286    1 giving
+	giving WORD[199,   1]: 0.0010286 退耕
+TOKEN[200]: 0.0010243    1 enlightenment
+	enlightenment WORD[200,   1]: 0.0010243 蒙昧
+TOKEN[201]: 0.0010195    5 appeal
+	appeal WORD[201,   1]: 0.0008018 魅力
+	appeal WORD[201,   2]: 0.0000382 面白味
+	appeal WORD[201,   3]: 0.0000360 甘味
+	appeal WORD[201,   4]: 0.0000358 味わい
+	appeal WORD[201,   5]: 0.0000358 味
+TOKEN[202]: 0.0009949    1 blessing
+	blessing WORD[202,   1]: 0.0009949 有難味
+TOKEN[203]: 0.0009841    1 service
+	service WORD[203,   1]: 0.0009841 退耕
+TOKEN[204]: 0.0009820    1 heavens
+	heavens WORD[204,   1]: 0.0009820 朱雀
+TOKEN[205]: 0.0009756   18 flavour
+	flavour WORD[205,   1]: 0.0000810 薄味
+	flavour WORD[205,   2]: 0.0000731 俳味
+	flavour WORD[205,   3]: 0.0000714 禅味
+	flavour WORD[205,   4]: 0.0000562 持ち味
+	flavour WORD[205,   5]: 0.0000562 持味
+	flavour WORD[205,   6]: 0.0000523 風味
+	flavour WORD[205,   7]: 0.0000519 ひと味
+	flavour WORD[205,   8]: 0.0000434 食味
+	flavour WORD[205,   9]: 0.0000418 香味
+	flavour WORD[205,  10]: 0.0000382 うま味
+	flavour WORD[205,  11]: 0.0000382 旨味
+	flavour WORD[205,  12]: 0.0000382 美味
+	flavour WORD[205,  13]: 0.0000376 一味
+	flavour WORD[205,  14]: 0.0000370 甘味
+	flavour WORD[205,  15]: 0.0000369 味わい
+	flavour WORD[205,  16]: 0.0000369 味つけ
+	flavour WORD[205,  17]: 0.0000369 味付け
+	flavour WORD[205,  18]: 0.0000369 味
+TOKEN[206]: 0.0009700    1 brittle
+	brittle WORD[206,   1]: 0.0009700 蜘蛛海星
+TOKEN[207]: 0.0009663    1 stockbroker
+	stockbroker WORD[207,   1]: 0.0009663 株屋
+TOKEN[208]: 0.0009550    1 southern
+	southern WORD[208,   1]: 0.0009550 朱雀
+TOKEN[209]: 0.0009526    1 parent
+	parent WORD[209,   1]: 0.0009526 親株
+TOKEN[210]: 0.0009509    1 government
+	government WORD[210,   1]: 0.0009509 退耕
+TOKEN[211]: 0.0009503    1 spirit
+	spirit WORD[211,   1]: 0.0009503 魔魅
+TOKEN[212]: 0.0009455    1 worth
+	worth WORD[212,   1]: 0.0009455 有難味
+TOKEN[213]: 0.0009348    4 female
+	female WORD[213,   1]: 0.0005021 雌株
+	female WORD[213,   2]: 0.0001777 珠
+	female WORD[213,   3]: 0.0001631 従妹
+	female WORD[213,   4]: 0.0000919 従姉妹
+TOKEN[214]: 0.0009327    1 echinoderm
+	echinoderm WORD[214,   1]: 0.0009327 蜘蛛海星
+TOKEN[215]: 0.0009306    4 unfinished
+	unfinished WORD[215,   1]: 0.0002923 未了
+	unfinished WORD[215,   2]: 0.0002902 未成
+	unfinished WORD[215,   3]: 0.0002066 未完
+	unfinished WORD[215,   4]: 0.0001417 未だ
+TOKEN[216]: 0.0009154    6 part
+	part WORD[216,   1]: 0.0004314 株元
+	part WORD[216,   2]: 0.0002152 宝珠
+	part WORD[216,   3]: 0.0001529 珠
+	part WORD[216,   4]: 0.0000458 黒味
+	part WORD[216,   5]: 0.0000393 味噌
+	part WORD[216,   6]: 0.0000309 正味
+TOKEN[217]: 0.0009060    1 sheath
+	sheath WORD[217,   1]: 0.0009060 朱鞘
+TOKEN[218]: 0.0009018    3 unprecedented
+	unprecedented WORD[218,   1]: 0.0003320 未曽有
+	unprecedented WORD[218,   2]: 0.0003320 未曾有
+	unprecedented WORD[218,   3]: 0.0002378 未到
+TOKEN[219]: 0.0008981    1 value
+	value WORD[219,   1]: 0.0008981 有難味
+TOKEN[220]: 0.0008981    1 virtue
+	virtue WORD[220,   1]: 0.0008981 有難味
+TOKEN[221]: 0.0008868    3 jewel
+	jewel WORD[221,   1]: 0.0003341 宝珠
+	jewel WORD[221,   2]: 0.0003154 珠玉
+	jewel WORD[221,   3]: 0.0002374 珠
+TOKEN[222]: 0.0008850    1 hydroponics
+	hydroponics WORD[222,   1]: 0.0008850 水耕
+TOKEN[223]: 0.0008735    2 gem
+	gem WORD[223,   1]: 0.0006347 珠玉
+	gem WORD[223,   2]: 0.0002388 珠
+TOKEN[224]: 0.0008631    2 bulb
+	bulb WORD[224,   1]: 0.0004953 珠
+	bulb WORD[224,   2]: 0.0003678 子株
+TOKEN[225]: 0.0008526    2 variant
+	variant WORD[225,   1]: 0.0004263 聯珠
+	variant WORD[225,   2]: 0.0004263 連珠
+TOKEN[226]: 0.0008516    1 dot
+	dot WORD[226,   1]: 0.0008516 朱点
+TOKEN[227]: 0.0008459    8 food
+	food WORD[227,   1]: 0.0003136 着味
+	food WORD[227,   2]: 0.0002891 好味
+	food WORD[227,   3]: 0.0000554 滋味
+	food WORD[227,   4]: 0.0000551 百味
+	food WORD[227,   5]: 0.0000494 毒味
+	food WORD[227,   6]: 0.0000300 下味
+	food WORD[227,   7]: 0.0000267 うま味
+	food WORD[227,   8]: 0.0000267 旨味
+TOKEN[228]: 0.0008301    1 lure
+	lure WORD[228,   1]: 0.0008301 魅惑
+TOKEN[229]: 0.0008256    1 presymptomatic
+	presymptomatic WORD[229,   1]: 0.0008256 未病
+TOKEN[230]: 0.0008229    1 plantain
+	plantain WORD[230,   1]: 0.0008229 擬宝珠
+TOKEN[231]: 0.0008114    1 post
+	post WORD[231,   1]: 0.0001623 株
+TOKEN[232]: 0.0008090    1 tray
+	tray WORD[232,   1]: 0.0008090 朱盆
+TOKEN[233]: 0.0007901    3 unknown
+	unknown WORD[233,   1]: 0.0002910 未詳
+	unknown WORD[233,   2]: 0.0002907 未見
+	unknown WORD[233,   3]: 0.0002084 未知
+TOKEN[234]: 0.0007890    1 leek
+	leek WORD[234,   1]: 0.0007890 擬宝珠
+TOKEN[235]: 0.0007821    3 unpaid
+	unpaid WORD[235,   1]: 0.0003205 未済
+	unpaid WORD[235,   2]: 0.0002308 未払
+	unpaid WORD[235,   3]: 0.0002308 未払い
+TOKEN[236]: 0.0007551    1 Welsh
+	Welsh WORD[236,   1]: 0.0007551 擬宝珠
+TOKEN[237]: 0.0007519    1 mountain
+	mountain WORD[237,   1]: 0.0007519 魑魅
+TOKEN[238]: 0.0007486    1 crab
+	crab WORD[238,   1]: 0.0007486 花蜘蛛
+TOKEN[239]: 0.0007479    3 abacus
+	abacus WORD[239,   1]: 0.0002546 珠
+	abacus WORD[239,   2]: 0.0002504 珠盤
+	abacus WORD[239,   3]: 0.0002429 珠算
+TOKEN[240]: 0.0007445    2 unexplored
+	unexplored WORD[240,   1]: 0.0003734 未踏
+	unexplored WORD[240,   2]: 0.0003711 未開
+TOKEN[241]: 0.0007383    1 railing
+	railing WORD[241,   1]: 0.0007383 擬宝珠
+TOKEN[242]: 0.0007243    1 knob
+	knob WORD[242,   1]: 0.0007243 擬宝珠
+TOKEN[243]: 0.0007210    2 clear
+	clear WORD[243,   1]: 0.0006864 朱漆
+	clear WORD[243,   2]: 0.0000346 正味
+TOKEN[244]: 0.0007152    2 order
+	order WORD[244,   1]: 0.0005101 蜘蛛海星
+	order WORD[244,   2]: 0.0002051 未了
+TOKEN[245]: 0.0007151    3 overdue
+	overdue WORD[245,   1]: 0.0002384 未払
+	overdue WORD[245,   2]: 0.0002384 未払い
+	overdue WORD[245,   3]: 0.0002383 未納
+TOKEN[246]: 0.0007077    3 flavoring
+	flavoring WORD[246,   1]: 0.0005939 着味
+	flavoring WORD[246,   2]: 0.0000606 調味
+	flavoring WORD[246,   3]: 0.0000532 加味
+TOKEN[247]: 0.0007074    1 finch
+	finch WORD[247,   1]: 0.0007074 十姉妹
+TOKEN[248]: 0.0007013    1 salmon
+	salmon WORD[248,   1]: 0.0007013 秋味
+TOKEN[249]: 0.0006998    2 satin
+	satin WORD[249,   1]: 0.0004524 朱珍
+	satin WORD[249,   2]: 0.0002474 朱子
+TOKEN[250]: 0.0006949    1 ibis
+	ibis WORD[250,   1]: 0.0006949 朱鷺
+TOKEN[251]: 0.0006924    2 onion
+	onion WORD[251,   1]: 0.0006345 擬宝珠
+	onion WORD[251,   2]: 0.0000579 薬味
+TOKEN[252]: 0.0006775    2 deep
+	deep WORD[252,   1]: 0.0006337 深耕
+	deep WORD[252,   2]: 0.0000438 深味
+TOKEN[253]: 0.0006678    2 orb
+	orb WORD[253,   1]: 0.0003904 宝珠
+	orb WORD[253,   2]: 0.0002774 珠
+TOKEN[254]: 0.0006551    2 made
+	made WORD[254,   1]: 0.0006156 朱漆
+	made WORD[254,   2]: 0.0000394 味噌
+TOKEN[255]: 0.0006528    4 ball
+	ball WORD[255,   1]: 0.0005480 珠
+	ball WORD[255,   2]: 0.0000349 切れ味
+	ball WORD[255,   3]: 0.0000349 切味
+	ball WORD[255,   4]: 0.0000349 斬れ味
+TOKEN[256]: 0.0006471    1 mark
+	mark WORD[256,   1]: 0.0006471 朱点
+TOKEN[257]: 0.0006464    1 star
+	star WORD[257,   1]: 0.0006464 蜘蛛海星
+TOKEN[258]: 0.0006463    1 ornamental
+	ornamental WORD[258,   1]: 0.0006463 擬宝珠
+TOKEN[259]: 0.0006408    1 nonpayment
+	nonpayment WORD[259,   1]: 0.0006408 未進
+TOKEN[260]: 0.0006367    1 crested
+	crested WORD[260,   1]: 0.0006367 朱鷺
+TOKEN[261]: 0.0006345    1 cluster
+	cluster WORD[261,   1]: 0.0006345 曼珠沙華
+TOKEN[262]: 0.0006341    3 cousin
+	cousin WORD[262,   1]: 0.0002723 又従姉妹
+	cousin WORD[262,   2]: 0.0002314 従妹
+	cousin WORD[262,   3]: 0.0001304 従姉妹
+TOKEN[263]: 0.0006232    3 Chinese
+	Chinese WORD[263,   1]: 0.0003152 朱雀
+	Chinese WORD[263,   2]: 0.0001290 未
+	Chinese WORD[263,   3]: 0.0000250 一味
+TOKEN[264]: 0.0006209    2 strain
+	strain WORD[264,   1]: 0.0003142 親株
+	strain WORD[264,   2]: 0.0003067 菌株
+TOKEN[265]: 0.0006200    1 hold
+	hold WORD[265,   1]: 0.0006200 魅了
+TOKEN[266]: 0.0006169    3 game
+	game WORD[266,   1]: 0.0002926 聯珠
+	game WORD[266,   2]: 0.0002926 連珠
+	game WORD[266,   3]: 0.0000316 吟味
+TOKEN[267]: 0.0006114    1 stick
+	stick WORD[267,   1]: 0.0006114 朱墨
+TOKEN[268]: 0.0006104    1 protegee
+	protegee WORD[268,   1]: 0.0006104 妹分
+TOKEN[269]: 0.0006056    1 rising
+	rising WORD[269,   1]: 0.0006056 株高
+TOKEN[270]: 0.0006014    2 spherical
+	spherical WORD[270,   1]: 0.0003516 宝珠
+	spherical WORD[270,   2]: 0.0002498 珠
+TOKEN[271]: 0.0005965    2 sword
+	sword WORD[271,   1]: 0.0005597 朱鞘
+	sword WORD[271,   2]: 0.0000368 中味
+TOKEN[272]: 0.0005875    1 deceased
+	deceased WORD[272,   1]: 0.0005875 亡妹
+TOKEN[273]: 0.0005875    1 Argyroneta
+	Argyroneta WORD[273,   1]: 0.0005875 水蜘蛛
+TOKEN[274]: 0.0005864    1 Ram
+	Ram WORD[274,   1]: 0.0002932 未
+TOKEN[275]: 0.0005847    2 pending
+	pending WORD[275,   1]: 0.0003402 未決
+	pending WORD[275,   2]: 0.0002445 未定
+TOKEN[276]: 0.0005799    2 seven
+	seven WORD[276,   1]: 0.0004910 朱雀
+	seven WORD[276,   2]: 0.0000889 七味
+TOKEN[277]: 0.0005763    2 undecided
+	undecided WORD[277,   1]: 0.0003353 未決
+	undecided WORD[277,   2]: 0.0002409 未定
+TOKEN[278]: 0.0005669    2 root
+	root WORD[278,   1]: 0.0002899 子株
+	root WORD[278,   2]: 0.0002770 株分け
+TOKEN[279]: 0.0005652    1 bridge
+	bridge WORD[279,   1]: 0.0005652 擬宝珠
+TOKEN[280]: 0.0005570    2 husband
+	husband WORD[280,   1]: 0.0003811 妹婿
+	husband WORD[280,   2]: 0.0001759 妹背
+TOKEN[281]: 0.0005532    2 precious
+	precious WORD[281,   1]: 0.0003234 宝珠
+	precious WORD[281,   2]: 0.0002298 珠
+TOKEN[282]: 0.0005497    1 hacienda
+	hacienda WORD[282,   1]: 0.0005497 耕地
+TOKEN[283]: 0.0005497    1 fazenda
+	fazenda WORD[283,   1]: 0.0005497 耕地
+TOKEN[284]: 0.0005400    3 used
+	used WORD[284,   1]: 0.0002734 珠
+	used WORD[284,   2]: 0.0002312 朱肉
+	used WORD[284,   3]: 0.0000354 味醂
+TOKEN[285]: 0.0005399    1 space
+	space WORD[285,   1]: 0.0005399 株間
+TOKEN[286]: 0.0005316    1 living
+	living WORD[286,   1]: 0.0005316 筆耕
+TOKEN[287]: 0.0005295    4 brother
+	brother WORD[287,   1]: 0.0001778 妹背
+	brother WORD[287,   2]: 0.0001195 義妹
+	brother WORD[287,   3]: 0.0001188 兄妹
+	brother WORD[287,   4]: 0.0001134 弟妹
+TOKEN[288]: 0.0005293    1 appear
+	appear WORD[288,   1]: 0.0005293 未病
+TOKEN[289]: 0.0005276    2 high
+	high WORD[289,   1]: 0.0004811 株高
+	high WORD[289,   2]: 0.0000465 雅味
+TOKEN[290]: 0.0005249    2 making
+	making WORD[290,   1]: 0.0004930 筆耕
+	making WORD[290,   2]: 0.0000319 五味
+TOKEN[291]: 0.0005239    8 good
+	good WORD[291,   1]: 0.0001385 好味
+	good WORD[291,   2]: 0.0000927 味酒
+	good WORD[291,   3]: 0.0000767 美味い
+	good WORD[291,   4]: 0.0000511 うま味
+	good WORD[291,   5]: 0.0000511 旨味
+	good WORD[291,   6]: 0.0000511 美味
+	good WORD[291,   7]: 0.0000369 味噌
+	good WORD[291,   8]: 0.0000258 美味しい
+TOKEN[292]: 0.0005223    1 future
+	future WORD[292,   1]: 0.0005223 未来
+TOKEN[293]: 0.0005213    2 prayer
+	prayer WORD[293,   1]: 0.0003259 念珠
+	prayer WORD[293,   2]: 0.0001954 数珠
+TOKEN[294]: 0.0005199    1 male
+	male WORD[294,   1]: 0.0005199 雄株
+TOKEN[295]: 0.0005172    1 ill
+	ill WORD[295,   1]: 0.0005172 未病
+TOKEN[296]: 0.0005150    1 health
+	health WORD[296,   1]: 0.0005150 未病
+TOKEN[297]: 0.0005124    2 failing
+	failing WORD[297,   1]: 0.0004500 未達
+	failing WORD[297,   2]: 0.0000624 弱味
+TOKEN[298]: 0.0005115    1 falling
+	falling WORD[298,   1]: 0.0005115 株安
+TOKEN[299]: 0.0005108    2 string
+	string WORD[299,   1]: 0.0003193 念珠
+	string WORD[299,   2]: 0.0001914 数珠
+TOKEN[300]: 0.0005083    1 base
+	base WORD[300,   1]: 0.0005083 株元
+TOKEN[301]: 0.0005079    1 Canton
+	Canton WORD[301,   1]: 0.0005079 珠江
+TOKEN[302]: 0.0005075    1 shaddock
+	shaddock WORD[302,   1]: 0.0005075 朱欒
+TOKEN[303]: 0.0005040    2 pearl
+	pearl WORD[303,   1]: 0.0002574 珠
+	pearl WORD[303,   2]: 0.0002467 真珠
+TOKEN[304]: 0.0004953    1 bead
+	bead WORD[304,   1]: 0.0004953 珠
+TOKEN[305]: 0.0004906    1 top
+	top WORD[305,   1]: 0.0004906 擬宝珠
+TOKEN[306]: 0.0004895    1 tribute
+	tribute WORD[306,   1]: 0.0004895 未進
+TOKEN[307]: 0.0004890    1 ovule
+	ovule WORD[307,   1]: 0.0004890 胚珠
+TOKEN[308]: 0.0004879    1 pomelo
+	pomelo WORD[308,   1]: 0.0004879 朱欒
+TOKEN[309]: 0.0004879    1 maxima
+	maxima WORD[309,   1]: 0.0004879 朱欒
+TOKEN[310]: 0.0004843    2 land
+	land WORD[310,   1]: 0.0002770 耕地
+	land WORD[310,   2]: 0.0002073 未開
+TOKEN[311]: 0.0004695    2 odd
+	odd WORD[311,   1]: 0.0003450 端株
+	odd WORD[311,   2]: 0.0001245 雑味
+TOKEN[312]: 0.0004685    1 low
+	low WORD[312,   1]: 0.0004685 株安
+TOKEN[313]: 0.0004677    1 achieve
+	achieve WORD[313,   1]: 0.0004677 未達
+TOKEN[314]: 0.0004661    1 eighth
+	eighth WORD[314,   1]: 0.0002330 未
+TOKEN[315]: 0.0004638    1 arachnoid
+	arachnoid WORD[315,   1]: 0.0004638 蜘蛛膜
+TOKEN[316]: 0.0004628    1 plough
+	plough WORD[316,   1]: 0.0004628 耕す
+TOKEN[317]: 0.0004587    4 sake
+	sake WORD[317,   1]: 0.0002235 味酒
+	sake WORD[317,   2]: 0.0001372 諸味
+	sake WORD[317,   3]: 0.0000490 味利き
+	sake WORD[317,   4]: 0.0000490 味聞き
+TOKEN[318]: 0.0004583    1 tree
+	tree WORD[318,   1]: 0.0004583 株元
+TOKEN[319]: 0.0004554    1 spring
+	spring WORD[319,   1]: 0.0004554 春耕
+TOKEN[320]: 0.0004513    1 fallow
+	fallow WORD[320,   1]: 0.0004513 休耕
+TOKEN[321]: 0.0004507    2 reddish
+	reddish WORD[321,   1]: 0.0004093 朱泥
+	reddish WORD[321,   2]: 0.0000414 赤味
+TOKEN[322]: 0.0004502    1 cultivate
+	cultivate WORD[322,   1]: 0.0004502 耕す
+TOKEN[323]: 0.0004485    1 sixth
+	sixth WORD[323,   1]: 0.0002242 未
+TOKEN[324]: 0.0004429    1 innovation
+	innovation WORD[324,   1]: 0.0004429 守株
+TOKEN[325]: 0.0004406    1 ageusia
+	ageusia WORD[325,   1]: 0.0004406 味盲
+TOKEN[326]: 0.0004391    1 era
+	era WORD[326,   1]: 0.0004391 朱鳥
+TOKEN[327]: 0.0004380    4 insipid
+	insipid WORD[327,   1]: 0.0001132 味けない
+	insipid WORD[327,   2]: 0.0001132 味気ない
+	insipid WORD[327,   3]: 0.0001132 味気無い
+	insipid WORD[327,   4]: 0.0000984 無味
+TOKEN[328]: 0.0004379    1 pigment
+	pigment WORD[328,   1]: 0.0004379 銀朱
+TOKEN[329]: 0.0004378    1 industry
+	industry WORD[329,   1]: 0.0004378 着味
+TOKEN[330]: 0.0004370    1 plow
+	plow WORD[330,   1]: 0.0004370 耕す
+TOKEN[331]: 0.0004341    1 till
+	till WORD[331,   1]: 0.0004341 耕す
+TOKEN[332]: 0.0004336    2 calculation
+	calculation WORD[332,   1]: 0.0002201 珠盤
+	calculation WORD[332,   2]: 0.0002135 珠算
+TOKEN[333]: 0.0004325    1 zodiac
+	zodiac WORD[333,   1]: 0.0002162 未
+TOKEN[334]: 0.0004315    3 style
+	style WORD[334,   1]: 0.0003140 ボケ味
+	style WORD[334,   2]: 0.0000618 渋味
+	style WORD[334,   3]: 0.0000558 禅味
+TOKEN[335]: 0.0004276    1 uppermost
+	uppermost WORD[335,   1]: 0.0004276 宝珠
+TOKEN[336]: 0.0004258    1 gate
+	gate WORD[336,   1]: 0.0004258 朱門
+TOKEN[337]: 0.0004229    1 subscription
+	subscription WORD[337,   1]: 0.0004229 満株
+TOKEN[338]: 0.0004228    1 said
+	said WORD[338,   1]: 0.0004228 朱雀
+TOKEN[339]: 0.0004224    1 unglazed
+	unglazed WORD[339,   1]: 0.0004224 朱泥
+TOKEN[340]: 0.0004218    2 inexperienced
+	inexperienced WORD[340,   1]: 0.0002191 未通女
+	inexperienced WORD[340,   2]: 0.0002027 未熟
+TOKEN[341]: 0.0004209    2 beautiful
+	beautiful WORD[341,   1]: 0.0002402 珠玉
+	beautiful WORD[341,   2]: 0.0001808 珠
+TOKEN[342]: 0.0004204    1 plantation
+	plantation WORD[342,   1]: 0.0004204 耕地
+TOKEN[343]: 0.0004203    1 goal
+	goal WORD[343,   1]: 0.0004203 未達
+TOKEN[344]: 0.0004188    1 bulbil
+	bulbil WORD[344,   1]: 0.0004188 珠芽
+TOKEN[345]: 0.0004158    1 unfilled
+	unfilled WORD[345,   1]: 0.0004158 未了
+TOKEN[346]: 0.0004158    1 unexecuted
+	unexecuted WORD[346,   1]: 0.0004158 未了
+TOKEN[347]: 0.0004146    1 veteran
+	veteran WORD[347,   1]: 0.0004146 古株
+TOKEN[348]: 0.0004143    1 spacing
+	spacing WORD[348,   1]: 0.0004143 株間
+TOKEN[349]: 0.0004139    1 untrodden
+	untrodden WORD[349,   1]: 0.0004139 未踏
+TOKEN[350]: 0.0004129    1 Bengalese
+	Bengalese WORD[350,   1]: 0.0004129 十姉妹
+TOKEN[351]: 0.0004128    1 uninstalled
+	uninstalled WORD[351,   1]: 0.0004128 未設
+TOKEN[352]: 0.0004127    1 rule
+	rule WORD[352,   1]: 0.0004127 朱雀
+TOKEN[353]: 0.0004126    1 unread
+	unread WORD[353,   1]: 0.0004126 未読
+TOKEN[354]: 0.0004117    1 executory
+	executory WORD[354,   1]: 0.0004117 未済
+TOKEN[355]: 0.0004117    1 unconvicted
+	unconvicted WORD[355,   1]: 0.0004117 未決
+TOKEN[356]: 0.0004115    1 unpublished
+	unpublished WORD[356,   1]: 0.0004115 未刊
+TOKEN[357]: 0.0004114    1 unbloomed
+	unbloomed WORD[357,   1]: 0.0004114 未開
+TOKEN[358]: 0.0004108    2 wife
+	wife WORD[358,   1]: 0.0003075 妹背
+	wife WORD[358,   2]: 0.0001033 義妹
+TOKEN[359]: 0.0004056    1 fictitious
+	fictitious WORD[359,   1]: 0.0004056 空株
+TOKEN[360]: 0.0004039    1 god
+	god WORD[360,   1]: 0.0004039 朱雀
+TOKEN[361]: 0.0004036    4 tinge
+	tinge WORD[361,   1]: 0.0001387 青味
+	tinge WORD[361,   2]: 0.0001073 色味
+	tinge WORD[361,   3]: 0.0000841 赤味
+	tinge WORD[361,   4]: 0.0000736 黒味
+TOKEN[362]: 0.0004019    5 dull
+	dull WORD[362,   1]: 0.0000880 味けない
+	dull WORD[362,   2]: 0.0000880 味気ない
+	dull WORD[362,   3]: 0.0000880 味気無い
+	dull WORD[362,   4]: 0.0000765 無味
+	dull WORD[362,   5]: 0.0000615 大味
+TOKEN[363]: 0.0004015    1 Citrus
+	Citrus WORD[363,   1]: 0.0004015 朱欒
+TOKEN[364]: 0.0004005    1 estate
+	estate WORD[364,   1]: 0.0004005 耕地
+TOKEN[365]: 0.0003982    1 belladonna
+	belladonna WORD[365,   1]: 0.0003982 曼珠沙華
+TOKEN[366]: 0.0003933    1 bacterial
+	bacterial WORD[366,   1]: 0.0003933 菌株
+TOKEN[367]: 0.0003916    1 relief
+	relief WORD[367,   1]: 0.0003916 堆朱
+TOKEN[368]: 0.0003874    1 hour
+	hour WORD[368,   1]: 0.0001937 未
+TOKEN[369]: 0.0003873    1 uncompleted
+	uncompleted WORD[369,   1]: 0.0003873 未成
+TOKEN[370]: 0.0003867    1 signature
+	signature WORD[370,   1]: 0.0003867 朱肉
+TOKEN[371]: 0.0003862    1 uncultivated
+	uncultivated WORD[371,   1]: 0.0003862 未墾
+TOKEN[372]: 0.0003859    1 undeveloped
+	undeveloped WORD[372,   1]: 0.0003859 未開
+TOKEN[373]: 0.0003835    2 sign
+	sign WORD[373,   1]: 0.0001652 未
+	sign WORD[373,   2]: 0.0000531 勝ち味
+TOKEN[374]: 0.0003830    1 finial
+	finial WORD[374,   1]: 0.0003830 宝珠
+TOKEN[375]: 0.0003822    1 stupidity
+	stupidity WORD[375,   1]: 0.0003822 守株
+TOKEN[376]: 0.0003816    4 delicious
+	delicious WORD[376,   1]: 0.0002434 佳味
+	delicious WORD[376,   2]: 0.0000496 七味
+	delicious WORD[376,   3]: 0.0000445 美味しい
+	delicious WORD[376,   4]: 0.0000441 美味い
+TOKEN[377]: 0.0003784    1 pad
+	pad WORD[377,   1]: 0.0003784 朱肉
+TOKEN[378]: 0.0003723    4 green
+	green WORD[378,   1]: 0.0001579 未熟
+	green WORD[378,   2]: 0.0001195 鞘味泥
+	green WORD[378,   3]: 0.0000490 青味
+	green WORD[378,   4]: 0.0000459 薬味
+TOKEN[379]: 0.0003717    1 unborn
+	unborn WORD[379,   1]: 0.0003717 未生
+TOKEN[380]: 0.0003689    5 bitter
+	bitter WORD[380,   1]: 0.0001165 えぐ味
+	bitter WORD[380,   2]: 0.0001165 エグ味
+	bitter WORD[380,   3]: 0.0000560 六味
+	bitter WORD[380,   4]: 0.0000404 五味
+	bitter WORD[380,   5]: 0.0000395 苦味
+TOKEN[381]: 0.0003678    1 assorted
+	assorted WORD[381,   1]: 0.0003678 雑株
+TOKEN[382]: 0.0003678    1 year
+	year WORD[382,   1]: 0.0003678 未年
+TOKEN[383]: 0.0003671    3 full
+	full WORD[383,   1]: 0.0002992 満株
+	full WORD[383,   2]: 0.0000348 正味
+	full WORD[383,   3]: 0.0000331 吟味
+TOKEN[384]: 0.0003670    1 membrane
+	membrane WORD[384,   1]: 0.0003670 蜘蛛膜
+TOKEN[385]: 0.0003668    1 senior
+	senior WORD[385,   1]: 0.0003668 古株
+TOKEN[386]: 0.0003646    3 wearisome
+	wearisome WORD[386,   1]: 0.0001215 味けない
+	wearisome WORD[386,   2]: 0.0001215 味気ない
+	wearisome WORD[386,   3]: 0.0001215 味気無い
+TOKEN[387]: 0.0003640    1 pottery
+	pottery WORD[387,   1]: 0.0003640 朱泥
+TOKEN[388]: 0.0003621    1 Nymphaea
+	Nymphaea WORD[388,   1]: 0.0003621 未草
+TOKEN[389]: 0.0003608    1 unseen
+	unseen WORD[389,   1]: 0.0003608 未見
+TOKEN[390]: 0.0003608    1 unacquainted
+	unacquainted WORD[390,   1]: 0.0003608 未見
+TOKEN[391]: 0.0003542    3 irksome
+	irksome WORD[391,   1]: 0.0001181 味けない
+	irksome WORD[391,   2]: 0.0001181 味気ない
+	irksome WORD[391,   3]: 0.0001181 味気無い
+TOKEN[392]: 0.0003538    1 lying
+	lying WORD[392,   1]: 0.0003538 休耕
+TOKEN[393]: 0.0003536    1 executive
+	executive WORD[393,   1]: 0.0003536 頭株
+TOKEN[394]: 0.0003532    2 incomplete
+	incomplete WORD[394,   1]: 0.0002095 未完
+	incomplete WORD[394,   2]: 0.0001437 未だ
+TOKEN[395]: 0.0003530    1 unidentified
+	unidentified WORD[395,   1]: 0.0003530 未詳
+TOKEN[396]: 0.0003477    5 work
+	work WORD[396,   1]: 0.0001951 珠玉
+	work WORD[396,   2]: 0.0000385 持ち味
+	work WORD[396,   3]: 0.0000385 持味
+	work WORD[396,   4]: 0.0000378 味得
+	work WORD[396,   5]: 0.0000378 味到
+TOKEN[397]: 0.0003473    1 lunar
+	lunar WORD[397,   1]: 0.0001736 未
+TOKEN[398]: 0.0003469    1 morning
+	morning WORD[398,   1]: 0.0003469 未明
+TOKEN[399]: 0.0003468    1 purchase
+	purchase WORD[399,   1]: 0.0003468 端株
+TOKEN[400]: 0.0003457    1 primitive
+	primitive WORD[400,   1]: 0.0003457 未開
+TOKEN[401]: 0.0003452    1 raised
+	raised WORD[401,   1]: 0.0003452 朱珍
+TOKEN[402]: 0.0003450    2 acridity
+	acridity WORD[402,   1]: 0.0001725 えぐ味
+	acridity WORD[402,   2]: 0.0001725 エグ味
+TOKEN[403]: 0.0003430    1 blindness
+	blindness WORD[403,   1]: 0.0003430 味盲
+TOKEN[404]: 0.0003416    1 brown
+	brown WORD[404,   1]: 0.0003416 朱泥
+TOKEN[405]: 0.0003407    1 pagoda
+	pagoda WORD[405,   1]: 0.0003407 宝珠
+TOKEN[406]: 0.0003400    1 sale
+	sale WORD[406,   1]: 0.0003400 端株
+TOKEN[407]: 0.0003373    1 pygmy
+	pygmy WORD[407,   1]: 0.0003373 未草
+TOKEN[408]: 0.0003367    1 payment
+	payment WORD[408,   1]: 0.0003367 未納
+TOKEN[409]: 0.0003355    2 sourness
+	sourness WORD[409,   1]: 0.0002790 酸っぱ味
+	sourness WORD[409,   2]: 0.0000565 酸味
+TOKEN[410]: 0.0003354    1 betrothed
+	betrothed WORD[410,   1]: 0.0001677 妹
+TOKEN[411]: 0.0003353    1 calendar
+	calendar WORD[411,   1]: 0.0001676 未
+TOKEN[412]: 0.0003351    4 person
+	person WORD[412,   1]: 0.0002410 珠
+	person WORD[412,   2]: 0.0000316 持ち味
+	person WORD[412,   3]: 0.0000316 持味
+	person WORD[412,   4]: 0.0000310 味噌
+TOKEN[413]: 0.0003336    1 widow
+	widow WORD[413,   1]: 0.0003336 未亡人
+TOKEN[414]: 0.0003318    1 southwest
+	southwest WORD[414,   1]: 0.0003318 未申
+TOKEN[415]: 0.0003304    6 tasting
+	tasting WORD[415,   1]: 0.0000753 毒味
+	tasting WORD[415,   2]: 0.0000647 味利き
+	tasting WORD[415,   3]: 0.0000647 味聞き
+	tasting WORD[415,   4]: 0.0000432 玩味
+	tasting WORD[415,   5]: 0.0000432 翫味
+	tasting WORD[415,   6]: 0.0000393 味見
+TOKEN[416]: 0.0003303    3 tasty
+	tasty WORD[416,   1]: 0.0002409 好味
+	tasty WORD[416,   2]: 0.0000449 美味しい
+	tasty WORD[416,   3]: 0.0000445 美味い
+TOKEN[417]: 0.0003264    1 essay
+	essay WORD[417,   1]: 0.0003264 珠玉
+TOKEN[418]: 0.0003264    1 accomplished
+	accomplished WORD[418,   1]: 0.0003264 珠玉
+TOKEN[419]: 0.0003222    2 harshness
+	harshness WORD[419,   1]: 0.0001611 えぐ味
+	harshness WORD[419,   2]: 0.0001611 エグ味
+TOKEN[420]: 0.0003216    2 acidity
+	acidity WORD[420,   1]: 0.0002675 酸っぱ味
+	acidity WORD[420,   2]: 0.0000542 酸味
+TOKEN[421]: 0.0003212    1 lot
+	lot WORD[421,   1]: 0.0003212 端株
+TOKEN[422]: 0.0003200    1 certificate
+	certificate WORD[422,   1]: 0.0003200 株券
+TOKEN[423]: 0.0003199    1 brush
+	brush WORD[423,   1]: 0.0003199 朱筆
+TOKEN[424]: 0.0003178    4 profit
+	profit WORD[424,   1]: 0.0001955 珠盤
+	profit WORD[424,   2]: 0.0000515 妙味
+	profit WORD[424,   3]: 0.0000354 うま味
+	profit WORD[424,   4]: 0.0000354 旨味
+TOKEN[425]: 0.0003129    3 colour
+	colour WORD[425,   1]: 0.0001866 朱色
+	colour WORD[425,   2]: 0.0000749 色味
+	colour WORD[425,   3]: 0.0000514 黒味
+TOKEN[426]: 0.0003113    1 month
+	month WORD[426,   1]: 0.0001557 未
+TOKEN[427]: 0.0003068    1 desired
+	desired WORD[427,   1]: 0.0003068 未だし
+TOKEN[428]: 0.0003064    1 world
+	world WORD[428,   1]: 0.0003064 未来
+TOKEN[429]: 0.0003050    1 long
+	long WORD[429,   1]: 0.0003050 未だ未だ
+TOKEN[430]: 0.0003042    1 mother
+	mother WORD[430,   1]: 0.0003042 親株
+TOKEN[431]: 0.0002998    2 algae
+	algae WORD[431,   1]: 0.0001644 鞘味泥
+	algae WORD[431,   2]: 0.0001353 青味泥
+TOKEN[432]: 0.0002972    1 ruefulness
+	ruefulness WORD[432,   1]: 0.0002972 未練
+TOKEN[433]: 0.0002966    5 salty
+	salty WORD[433,   1]: 0.0000695 辛味
+	salty WORD[433,   2]: 0.0000692 鹹味
+	salty WORD[433,   3]: 0.0000644 六味
+	salty WORD[433,   4]: 0.0000470 塩味
+	salty WORD[433,   5]: 0.0000464 五味
+TOKEN[434]: 0.0002958    1 unattained
+	unattained WORD[434,   1]: 0.0002958 未到
+TOKEN[435]: 0.0002958    1 unreached
+	unreached WORD[435,   1]: 0.0002958 未到
+TOKEN[436]: 0.0002958    1 unachieved
+	unachieved WORD[436,   1]: 0.0002958 未到
+TOKEN[437]: 0.0002948    1 savage
+	savage WORD[437,   1]: 0.0002948 未開
+TOKEN[438]: 0.0002943    1 shareholder
+	shareholder WORD[438,   1]: 0.0002943 株主
+TOKEN[439]: 0.0002936    4 light
+	light WORD[439,   1]: 0.0001486 珠
+	light WORD[439,   2]: 0.0000561 薄味
+	light WORD[439,   3]: 0.0000484 淡味
+	light WORD[439,   4]: 0.0000406 六味
+TOKEN[440]: 0.0002921    1 seen
+	seen WORD[440,   1]: 0.0002921 未見
+TOKEN[441]: 0.0002897    3 wretched
+	wretched WORD[441,   1]: 0.0000966 味けない
+	wretched WORD[441,   2]: 0.0000966 味気ない
+	wretched WORD[441,   3]: 0.0000966 味気無い
+TOKEN[442]: 0.0002836    2 astringent
+	astringent WORD[442,   1]: 0.0001418 えぐ味
+	astringent WORD[442,   2]: 0.0001418 エグ味
+TOKEN[443]: 0.0002828    3 vain
+	vain WORD[443,   1]: 0.0000943 味けない
+	vain WORD[443,   2]: 0.0000943 味気ない
+	vain WORD[443,   3]: 0.0000943 味気無い
+TOKEN[444]: 0.0002791    1 soroban
+	soroban WORD[444,   1]: 0.0002791 珠盤
+TOKEN[445]: 0.0002786    1 unheard
+	unheard WORD[445,   1]: 0.0002786 未聞
+TOKEN[446]: 0.0002779    1 division
+	division WORD[446,   1]: 0.0002779 株分け
+TOKEN[447]: 0.0002774    1 testicle
+	testicle WORD[447,   1]: 0.0002774 珠
+TOKEN[448]: 0.0002770    1 crude
+	crude WORD[448,   1]: 0.0002770 未成
+TOKEN[449]: 0.0002761    1 stockholder
+	stockholder WORD[449,   1]: 0.0002761 株主
+TOKEN[450]: 0.0002739    3 subdued
+	subdued WORD[450,   1]: 0.0000905 渋味
+	subdued WORD[450,   2]: 0.0000837 俳味
+	subdued WORD[450,   3]: 0.0000499 地味
+TOKEN[451]: 0.0002721    1 droplet
+	droplet WORD[451,   1]: 0.0002721 珠
+TOKEN[452]: 0.0002706    1 leader
+	leader WORD[452,   1]: 0.0002706 頭株
+TOKEN[453]: 0.0002695    2 plot
+	plot WORD[453,   1]: 0.0001996 珠
+	plot WORD[453,   2]: 0.0000350 一味
+TOKEN[454]: 0.0002688    1 water
+	water WORD[454,   1]: 0.0002688 水蜘蛛
+TOKEN[455]: 0.0002672    1 large
+	large WORD[455,   1]: 0.0002672 耕地
+TOKEN[456]: 0.0002660    1 chief
+	chief WORD[456,   1]: 0.0002660 頭株
+TOKEN[457]: 0.0002649    1 outstanding
+	outstanding WORD[457,   1]: 0.0002649 未収
+TOKEN[458]: 0.0002644    1 way
+	way WORD[458,   1]: 0.0002644 未だ未だ
+TOKEN[459]: 0.0002618    1 territory
+	territory WORD[459,   1]: 0.0002618 未開
+TOKEN[460]: 0.0002596    2 inherent
+	inherent WORD[460,   1]: 0.0001298 持ち味
+	inherent WORD[460,   2]: 0.0001298 持味
+TOKEN[461]: 0.0002587    1 honey
+	honey WORD[461,   1]: 0.0001294 妹
+TOKEN[462]: 0.0002587    1 society
+	society WORD[462,   1]: 0.0002587 十姉妹
+TOKEN[463]: 0.0002568    4 attractiveness
+	attractiveness WORD[463,   1]: 0.0000804 情味
+	attractiveness WORD[463,   2]: 0.0000449 うま味
+	attractiveness WORD[463,   3]: 0.0000449 旨味
+	attractiveness WORD[463,   4]: 0.0000433 味
+TOKEN[464]: 0.0002566    1 upstream
+	upstream WORD[464,   1]: 0.0002566 秋味
+TOKEN[465]: 0.0002560    1 mullet
+	mullet WORD[465,   1]: 0.0002560 未通女
+TOKEN[466]: 0.0002558    2 friend
+	friend WORD[466,   1]: 0.0001026 妹
+	friend WORD[466,   2]: 0.0000507 味方
+TOKEN[467]: 0.0002546    1 globe
+	globe WORD[467,   1]: 0.0002546 珠
+TOKEN[468]: 0.0002531    1 reckoning
+	reckoning WORD[468,   1]: 0.0002531 珠盤
+TOKEN[469]: 0.0002530    1 virgin
+	virgin WORD[469,   1]: 0.0002530 未通女
+TOKEN[470]: 0.0002498    1 reluctance
+	reluctance WORD[470,   1]: 0.0002498 未練
+TOKEN[471]: 0.0002480    1 event
+	event WORD[471,   1]: 0.0002480 未発
+TOKEN[472]: 0.0002474    1 unskilled
+	unskilled WORD[472,   1]: 0.0002474 未熟
+TOKEN[473]: 0.0002454    2 strange
+	strange WORD[473,   1]: 0.0001782 未知
+	strange WORD[473,   2]: 0.0000336 味
+TOKEN[474]: 0.0002449    1 default
+	default WORD[474,   1]: 0.0002449 未納
+TOKEN[475]: 0.0002438    1 glasses
+	glasses WORD[475,   1]: 0.0002438 珠
+TOKEN[476]: 0.0002437    1 blur
+	blur WORD[476,   1]: 0.0002437 ボケ味
+TOKEN[477]: 0.0002391    1 stone
+	stone WORD[477,   1]: 0.0002391 宝珠
+TOKEN[478]: 0.0002377    1 communist
+	communist WORD[478,   1]: 0.0002377 朱い
+TOKEN[479]: 0.0002374    1 dew
+	dew WORD[479,   1]: 0.0002374 珠
+TOKEN[480]: 0.0002374    1 entertainer
+	entertainer WORD[480,   1]: 0.0002374 珠
+TOKEN[481]: 0.0002348    1 maiden
+	maiden WORD[481,   1]: 0.0002348 未通女
+TOKEN[482]: 0.0002346    1 lens
+	lens WORD[482,   1]: 0.0002346 珠
+TOKEN[483]: 0.0002328    1 piece
+	piece WORD[483,   1]: 0.0002328 珠玉
+TOKEN[484]: 0.0002326    1 story
+	story WORD[484,   1]: 0.0002326 珠玉
+TOKEN[485]: 0.0002309    1 bullet
+	bullet WORD[485,   1]: 0.0002309 珠
+TOKEN[486]: 0.0002295    1 wild
+	wild WORD[486,   1]: 0.0002295 未墾
+TOKEN[487]: 0.0002288    1 sibling
+	sibling WORD[487,   1]: 0.0002288 妹背
+TOKEN[488]: 0.0002278    1 biological
+	biological WORD[488,   1]: 0.0002278 実妹
+TOKEN[489]: 0.0002270    1 naive
+	naive WORD[489,   1]: 0.0002270 未通女
+TOKEN[490]: 0.0002259    1 innocent
+	innocent WORD[490,   1]: 0.0002259 未通女
+TOKEN[491]: 0.0002247    1 sweat
+	sweat WORD[491,   1]: 0.0002247 珠
+TOKEN[492]: 0.0002241    3 remark
+	remark WORD[492,   1]: 0.0000747 いや味
+	remark WORD[492,   2]: 0.0000747 厭味
+	remark WORD[492,   3]: 0.0000747 嫌味
+TOKEN[493]: 0.0002236    1 Red
+	Red WORD[493,   1]: 0.0002236 朱い
+TOKEN[494]: 0.0002235    1 salted
+	salted WORD[494,   1]: 0.0002235 秋味
+TOKEN[495]: 0.0002229    1 sports
+	sports WORD[495,   1]: 0.0002229 珠
+TOKEN[496]: 0.0002229    3 comment
+	comment WORD[496,   1]: 0.0000743 いや味
+	comment WORD[496,   2]: 0.0000743 厭味
+	comment WORD[496,   3]: 0.0000743 嫌味
+TOKEN[497]: 0.0002209    1 striped
+	striped WORD[497,   1]: 0.0002209 未通女
+TOKEN[498]: 0.0002206    1 scarlet
+	scarlet WORD[498,   1]: 0.0002206 朱い
+TOKEN[499]: 0.0002201    1 unripe
+	unripe WORD[499,   1]: 0.0002201 未熟
+TOKEN[500]: 0.0002197    1 swimming
+	swimming WORD[500,   1]: 0.0002197 秋味
+TOKEN[501]: 0.0002167    1 crimson
+	crimson WORD[501,   1]: 0.0002167 朱い
+TOKEN[502]: 0.0002156    1 field
+	field WORD[502,   1]: 0.0002156 未開
+TOKEN[503]: 0.0002145    2 place
+	place WORD[503,   1]: 0.0001801 未発
+	place WORD[503,   2]: 0.0000343 深味
+TOKEN[504]: 0.0002142    2 crime
+	crime WORD[504,   1]: 0.0001769 未遂
+	crime WORD[504,   2]: 0.0000373 吟味
+TOKEN[505]: 0.0002139    1 less
+	less WORD[505,   1]: 0.0002139 未満
+TOKEN[506]: 0.0002122    1 immature
+	immature WORD[506,   1]: 0.0002122 未熟
+TOKEN[507]: 0.0002110    1 attempt
+	attempt WORD[507,   1]: 0.0002110 未遂
+TOKEN[508]: 0.0002103    1 funds
+	funds WORD[508,   1]: 0.0002103 珠
+TOKEN[509]: 0.0002092    1 filamentous
+	filamentous WORD[509,   1]: 0.0002092 鞘味泥
+TOKEN[510]: 0.0002090    1 head
+	head WORD[510,   1]: 0.0002090 頭株
+TOKEN[511]: 0.0002082    1 black
+	black WORD[511,   1]: 0.0002082 黒味
+TOKEN[512]: 0.0002075    1 five
+	five WORD[512,   1]: 0.0002075 五味
+TOKEN[513]: 0.0002050    3 distinctive
+	distinctive WORD[513,   1]: 0.0000702 持ち味
+	distinctive WORD[513,   2]: 0.0000702 持味
+	distinctive WORD[513,   3]: 0.0000647 ひと味
+TOKEN[514]: 0.0002046    1 attachment
+	attachment WORD[514,   1]: 0.0002046 未練
+TOKEN[515]: 0.0002045    1 seal
+	seal WORD[515,   1]: 0.0002045 朱印
+TOKEN[516]: 0.0002042    1 coin
+	coin WORD[516,   1]: 0.0002042 珠
+TOKEN[517]: 0.0002037    1 tense
+	tense WORD[517,   1]: 0.0002037 未来
+TOKEN[518]: 0.0002036    1 girl
+	girl WORD[518,   1]: 0.0002036 未通女
+TOKEN[519]: 0.0002033    1 unmarried
+	unmarried WORD[519,   1]: 0.0002033 未婚
+TOKEN[520]: 0.0002027    1 pen
+	pen WORD[520,   1]: 0.0002027 書き味
+TOKEN[521]: 0.0002020    5 ability
+	ability WORD[521,   1]: 0.0000482 持ち味
+	ability WORD[521,   2]: 0.0000482 持味
+	ability WORD[521,   3]: 0.0000352 切れ味
+	ability WORD[521,   4]: 0.0000352 切味
+	ability WORD[521,   5]: 0.0000352 斬れ味
+TOKEN[522]: 0.0002018    1 whiteness
+	whiteness WORD[522,   1]: 0.0002018 白味
+TOKEN[523]: 0.0002016    1 regret
+	regret WORD[523,   1]: 0.0002016 未練
+TOKEN[524]: 0.0002006    1 gray
+	gray WORD[524,   1]: 0.0002006 未明
+TOKEN[525]: 0.0001997    1 suicide
+	suicide WORD[525,   1]: 0.0001997 未遂
+TOKEN[526]: 0.0001995    1 married
+	married WORD[526,   1]: 0.0001995 未婚
+TOKEN[527]: 0.0001988    1 geisha
+	geisha WORD[527,   1]: 0.0001988 珠
+TOKEN[528]: 0.0001985    2 know
+	know WORD[528,   1]: 0.0001645 味わい知る
+	know WORD[528,   2]: 0.0000340 味わう
+TOKEN[529]: 0.0001980    1 known
+	known WORD[529,   1]: 0.0001980 未知
+TOKEN[530]: 0.0001980    1 grey
+	grey WORD[530,   1]: 0.0001980 未明
+TOKEN[531]: 0.0001963    1 existence
+	existence WORD[531,   1]: 0.0001963 未来
+TOKEN[532]: 0.0001958    1 affection
+	affection WORD[532,   1]: 0.0001958 未練
+TOKEN[533]: 0.0001930    1 excellent
+	excellent WORD[533,   1]: 0.0001930 珠
+TOKEN[534]: 0.0001927    6 cutting
+	cutting WORD[534,   1]: 0.0000335 切れ味
+	cutting WORD[534,   2]: 0.0000335 切味
+	cutting WORD[534,   3]: 0.0000335 斬れ味
+	cutting WORD[534,   4]: 0.0000307 いや味
+	cutting WORD[534,   5]: 0.0000307 厭味
+	cutting WORD[534,   6]: 0.0000307 嫌味
+TOKEN[535]: 0.0001915    1 egg
+	egg WORD[535,   1]: 0.0001915 珠
+TOKEN[536]: 0.0001903    1 Yamato
+	Yamato WORD[536,   1]: 0.0001903 土蜘蛛
+TOKEN[537]: 0.0001901    1 fixed
+	fixed WORD[537,   1]: 0.0001901 未定
+TOKEN[538]: 0.0001897    2 bland
+	bland WORD[538,   1]: 0.0001072 薄味
+	bland WORD[538,   2]: 0.0000825 大味
+TOKEN[539]: 0.0001892    1 fulsomeness
+	fulsomeness WORD[539,   1]: 0.0000946 臭味
+TOKEN[540]: 0.0001890    4 appreciation
+	appreciation WORD[540,   1]: 0.0000582 味読
+	appreciation WORD[540,   2]: 0.0000456 賞味
+	appreciation WORD[540,   3]: 0.0000426 玩味
+	appreciation WORD[540,   4]: 0.0000426 翫味
+TOKEN[541]: 0.0001882    1 second
+	second WORD[541,   1]: 0.0001882 又従姉妹
+TOKEN[542]: 0.0001874    1 drop
+	drop WORD[542,   1]: 0.0001874 珠
+TOKEN[543]: 0.0001857    1 grave
+	grave WORD[543,   1]: 0.0001857 未来
+TOKEN[544]: 0.0001851    1 item
+	item WORD[544,   1]: 0.0001851 珠
+TOKEN[545]: 0.0001840    1 couple
+	couple WORD[545,   1]: 0.0001840 妹背
+TOKEN[546]: 0.0001838    3 wine
+	wine WORD[546,   1]: 0.0000631 味利き
+	wine WORD[546,   2]: 0.0000631 味聞き
+	wine WORD[546,   3]: 0.0000577 味醂
+TOKEN[547]: 0.0001822    1 nature
+	nature WORD[547,   1]: 0.0001822 珠
+TOKEN[548]: 0.0001822    3 meaning
+	meaning WORD[548,   1]: 0.0001153 真味
+	meaning WORD[548,   2]: 0.0000338 意味
+	meaning WORD[548,   3]: 0.0000331 味わい
+TOKEN[549]: 0.0001820    1 distant
+	distant WORD[549,   1]: 0.0001820 未来
+TOKEN[550]: 0.0001768    5 skill
+	skill WORD[550,   1]: 0.0000364 切れ味
+	skill WORD[550,   2]: 0.0000364 切味
+	skill WORD[550,   3]: 0.0000364 斬れ味
+	skill WORD[550,   4]: 0.0000338 うま味
+	skill WORD[550,   5]: 0.0000338 旨味
+TOKEN[551]: 0.0001764    1 six
+	six WORD[551,   1]: 0.0001764 六味
+TOKEN[552]: 0.0001735    3 delicacy
+	delicacy WORD[552,   1]: 0.0000756 小味
+	delicacy WORD[552,   2]: 0.0000534 珍味
+	delicacy WORD[552,   3]: 0.0000445 美味
+TOKEN[553]: 0.0001700    1 character
+	character WORD[553,   1]: 0.0001700 珠
+TOKEN[554]: 0.0001684    1 feel
+	feel WORD[554,   1]: 0.0001684 書き味
+TOKEN[555]: 0.0001677    1 young
+	young WORD[555,   1]: 0.0001677 未通女
+TOKEN[556]: 0.0001677    3 incisiveness
+	incisiveness WORD[556,   1]: 0.0000559 切れ味
+	incisiveness WORD[556,   2]: 0.0000559 切味
+	incisiveness WORD[556,   3]: 0.0000559 斬れ味
+TOKEN[557]: 0.0001677    3 peppiness
+	peppiness WORD[557,   1]: 0.0000559 切れ味
+	peppiness WORD[557,   2]: 0.0000559 切味
+	peppiness WORD[557,   3]: 0.0000559 斬れ味
+TOKEN[558]: 0.0001675    4 point
+	point WORD[558,   1]: 0.0000493 強味
+	point WORD[558,   2]: 0.0000408 弱味
+	point WORD[558,   3]: 0.0000389 妙味
+	point WORD[558,   4]: 0.0000386 味噌
+TOKEN[559]: 0.0001660    1 woman
+	woman WORD[559,   1]: 0.0000830 妹
+TOKEN[560]: 0.0001635    2 smell
+	smell WORD[560,   1]: 0.0000623 臭味
+	smell WORD[560,   2]: 0.0000390 香味
+TOKEN[561]: 0.0001632    1 monkey
+	monkey WORD[561,   1]: 0.0001632 蜘蛛猿
+TOKEN[562]: 0.0001629    3 victory
+	victory WORD[562,   1]: 0.0000588 勝ち味
+	victory WORD[562,   2]: 0.0000347 味わう
+	victory WORD[562,   3]: 0.0000347 味
+TOKEN[563]: 0.0001592    3 quickness
+	quickness WORD[563,   1]: 0.0000531 切れ味
+	quickness WORD[563,   2]: 0.0000531 切味
+	quickness WORD[563,   3]: 0.0000531 斬れ味
+TOKEN[564]: 0.0001583    1 propensity
+	propensity WORD[564,   1]: 0.0000528 気味
+TOKEN[565]: 0.0001570    2 taster
+	taster WORD[565,   1]: 0.0000785 味利き
+	taster WORD[565,   2]: 0.0000785 味聞き
+TOKEN[566]: 0.0001565    1 company
+	company WORD[566,   1]: 0.0001565 株式
+TOKEN[567]: 0.0001549    2 feeling
+	feeling WORD[567,   1]: 0.0000537 小味
+	feeling WORD[567,   2]: 0.0000337 気味
+TOKEN[568]: 0.0001542    1 affectation
+	affectation WORD[568,   1]: 0.0000771 臭味
+TOKEN[569]: 0.0001530    2 ingredient
+	ingredient WORD[569,   1]: 0.0000693 隠し味
+	ingredient WORD[569,   2]: 0.0000418 一味
+TOKEN[570]: 0.0001526    2 subtle
+	subtle WORD[570,   1]: 0.0000779 小味
+	subtle WORD[570,   2]: 0.0000747 隠し味
+TOKEN[571]: 0.0001523    2 condiment
+	condiment WORD[571,   1]: 0.0000773 薬味
+	condiment WORD[571,   2]: 0.0000750 味噌
+TOKEN[572]: 0.0001511    2 bad
+	bad WORD[572,   1]: 0.0000537 臭味
+	bad WORD[572,   2]: 0.0000437 不味い
+TOKEN[573]: 0.0001503    2 go
+	go WORD[573,   1]: 0.0001262 未だ未だ
+	go WORD[573,   2]: 0.0000241 味わう
+TOKEN[574]: 0.0001495    3 nastiness
+	nastiness WORD[574,   1]: 0.0000498 いや味
+	nastiness WORD[574,   2]: 0.0000498 厭味
+	nastiness WORD[574,   3]: 0.0000498 嫌味
+TOKEN[575]: 0.0001495    3 offensiveness
+	offensiveness WORD[575,   1]: 0.0000498 いや味
+	offensiveness WORD[575,   2]: 0.0000498 厭味
+	offensiveness WORD[575,   3]: 0.0000498 嫌味
+TOKEN[576]: 0.0001495    3 tastelessness
+	tastelessness WORD[576,   1]: 0.0000498 いや味
+	tastelessness WORD[576,   2]: 0.0000498 厭味
+	tastelessness WORD[576,   3]: 0.0000498 嫌味
+TOKEN[577]: 0.0001495    3 disagreeableness
+	disagreeableness WORD[577,   1]: 0.0000498 いや味
+	disagreeableness WORD[577,   2]: 0.0000498 厭味
+	disagreeableness WORD[577,   3]: 0.0000498 嫌味
+TOKEN[578]: 0.0001484    2 relish
+	relish WORD[578,   1]: 0.0000935 味わう
+	relish WORD[578,   2]: 0.0000550 賞味
+TOKEN[579]: 0.0001475    1 sauce
+	sauce WORD[579,   1]: 0.0001475 諸味
+TOKEN[580]: 0.0001461    3 unpleasantness
+	unpleasantness WORD[580,   1]: 0.0000487 いや味
+	unpleasantness WORD[580,   2]: 0.0000487 厭味
+	unpleasantness WORD[580,   3]: 0.0000487 嫌味
+TOKEN[581]: 0.0001461    3 proficiency
+	proficiency WORD[581,   1]: 0.0000487 切れ味
+	proficiency WORD[581,   2]: 0.0000487 切味
+	proficiency WORD[581,   3]: 0.0000487 斬れ味
+TOKEN[582]: 0.0001449    2 quiet
+	quiet WORD[582,   1]: 0.0000689 渋味
+	quiet WORD[582,   2]: 0.0000380 地味
+TOKEN[583]: 0.0001447    3 sharpness
+	sharpness WORD[583,   1]: 0.0000482 切れ味
+	sharpness WORD[583,   2]: 0.0000482 切味
+	sharpness WORD[583,   3]: 0.0000482 斬れ味
+TOKEN[584]: 0.0001437    1 least
+	least WORD[584,   1]: 0.0001437 未だ
+TOKEN[585]: 0.0001421    3 technical
+	technical WORD[585,   1]: 0.0000474 切れ味
+	technical WORD[585,   2]: 0.0000474 切味
+	technical WORD[585,   3]: 0.0000474 斬れ味
+TOKEN[586]: 0.0001415    3 quality
+	quality WORD[586,   1]: 0.0000484 持ち味
+	quality WORD[586,   2]: 0.0000484 持味
+	quality WORD[586,   3]: 0.0000447 ひと味
+TOKEN[587]: 0.0001386    2 sugary
+	sugary WORD[587,   1]: 0.0000462 あま味
+	sugary WORD[587,   2]: 0.0000462 甘味
+TOKEN[588]: 0.0001386    2 sweetness
+	sweetness WORD[588,   1]: 0.0000462 あま味
+	sweetness WORD[588,   2]: 0.0000462 甘味
+TOKEN[589]: 0.0001382    1 scum
+	scum WORD[589,   1]: 0.0001382 青味泥
+TOKEN[590]: 0.0001379    1 come
+	come WORD[590,   1]: 0.0001379 未来
+TOKEN[591]: 0.0001375    1 court
+	court WORD[591,   1]: 0.0001375 土蜘蛛
+TOKEN[592]: 0.0001374    3 nice
+	nice WORD[592,   1]: 0.0000577 妙味
+	nice WORD[592,   2]: 0.0000400 美味しい
+	nice WORD[592,   3]: 0.0000397 美味い
+TOKEN[593]: 0.0001364    1 man
+	man WORD[593,   1]: 0.0001364 妹背
+TOKEN[594]: 0.0001356    3 snide
+	snide WORD[594,   1]: 0.0000452 いや味
+	snide WORD[594,   2]: 0.0000452 厭味
+	snide WORD[594,   3]: 0.0000452 嫌味
+TOKEN[595]: 0.0001347    3 wit
+	wit WORD[595,   1]: 0.0000449 切れ味
+	wit WORD[595,   2]: 0.0000449 切味
+	wit WORD[595,   3]: 0.0000449 斬れ味
+TOKEN[596]: 0.0001346    1 ancient
+	ancient WORD[596,   1]: 0.0001346 土蜘蛛
+TOKEN[597]: 0.0001343    3 sweet
+	sweet WORD[597,   1]: 0.0000503 六味
+	sweet WORD[597,   2]: 0.0000477 味醂
+	sweet WORD[597,   3]: 0.0000363 五味
+TOKEN[598]: 0.0001338    1 Zen
+	Zen WORD[598,   1]: 0.0001338 禅味
+TOKEN[599]: 0.0001325    1 adopted
+	adopted WORD[599,   1]: 0.0001325 義妹
+TOKEN[600]: 0.0001318    2 saltiness
+	saltiness WORD[600,   1]: 0.0000785 鹹味
+	saltiness WORD[600,   2]: 0.0000534 塩味
+TOKEN[601]: 0.0001316    3 advantage
+	advantage WORD[601,   1]: 0.0000554 妙味
+	advantage WORD[601,   2]: 0.0000381 うま味
+	advantage WORD[601,   3]: 0.0000381 旨味
+TOKEN[602]: 0.0001305    3 disagreeable
+	disagreeable WORD[602,   1]: 0.0000435 いや味
+	disagreeable WORD[602,   2]: 0.0000435 厭味
+	disagreeable WORD[602,   3]: 0.0000435 嫌味
+TOKEN[603]: 0.0001305    3 sarcastic
+	sarcastic WORD[603,   1]: 0.0000435 いや味
+	sarcastic WORD[603,   2]: 0.0000435 厭味
+	sarcastic WORD[603,   3]: 0.0000435 嫌味
+TOKEN[604]: 0.0001293    3 gain
+	gain WORD[604,   1]: 0.0000544 妙味
+	gain WORD[604,   2]: 0.0000375 うま味
+	gain WORD[604,   3]: 0.0000375 旨味
+TOKEN[605]: 0.0001293    3 significance
+	significance WORD[605,   1]: 0.0000446 重味
+	significance WORD[605,   2]: 0.0000428 意味
+	significance WORD[605,   3]: 0.0000419 味わい
+TOKEN[606]: 0.0001288    1 pleasure
+	pleasure WORD[606,   1]: 0.0001288 快味
+TOKEN[607]: 0.0001281    1 Japan
+	Japan WORD[607,   1]: 0.0001281 土蜘蛛
+TOKEN[608]: 0.0001274    1 done
+	done WORD[608,   1]: 0.0001274 未だ
+TOKEN[609]: 0.0001268    1 forming
+	forming WORD[609,   1]: 0.0001268 青味泥
+TOKEN[610]: 0.0001267    2 color
+	color WORD[610,   1]: 0.0000752 色味
+	color WORD[610,   2]: 0.0000515 黒味
+TOKEN[611]: 0.0001263    1 bud
+	bud WORD[611,   1]: 0.0001263 味蕾
+TOKEN[612]: 0.0001262    2 plain
+	plain WORD[612,   1]: 0.0000485 不味い
+	plain WORD[612,   2]: 0.0000389 地味
+TOKEN[613]: 0.0001262    2 dessert
+	dessert WORD[613,   1]: 0.0000421 あま味
+	dessert WORD[613,   2]: 0.0000421 甘味
+TOKEN[614]: 0.0001262    1 sensation
+	sensation WORD[614,   1]: 0.0000421 気味
+TOKEN[615]: 0.0001259    1 spouse
+	spouse WORD[615,   1]: 0.0001259 義妹
+TOKEN[616]: 0.0001257    1 tendency
+	tendency WORD[616,   1]: 0.0000419 気味
+TOKEN[617]: 0.0001229    1 milk
+	milk WORD[617,   1]: 0.0001229 五味
+TOKEN[618]: 0.0001224    2 spicy
+	spicy WORD[618,   1]: 0.0000711 六味
+	spicy WORD[618,   2]: 0.0000512 五味
+TOKEN[619]: 0.0001200    1 net
+	net WORD[619,   1]: 0.0001200 正味
+TOKEN[620]: 0.0001197    1 nutriment
+	nutriment WORD[620,   1]: 0.0001197 滋味
+TOKEN[621]: 0.0001197    1 savoriness
+	savoriness WORD[621,   1]: 0.0001197 滋味
+TOKEN[622]: 0.0001196    1 ghee
+	ghee WORD[622,   1]: 0.0001196 五味
+TOKEN[623]: 0.0001195    1 pond
+	pond WORD[623,   1]: 0.0001195 青味泥
+TOKEN[624]: 0.0001188    2 characteristic
+	characteristic WORD[624,   1]: 0.0000594 持ち味
+	characteristic WORD[624,   2]: 0.0000594 持味
+TOKEN[625]: 0.0001178    1 unrefined
+	unrefined WORD[625,   1]: 0.0001178 諸味
+TOKEN[626]: 0.0001175    1 older
+	older WORD[626,   1]: 0.0001175 兄妹
+TOKEN[627]: 0.0001169    1 tint
+	tint WORD[627,   1]: 0.0001169 色味
+TOKEN[628]: 0.0001148    2 relishing
+	relishing WORD[628,   1]: 0.0000574 玩味
+	relishing WORD[628,   2]: 0.0000574 翫味
+TOKEN[629]: 0.0001135    1 universality
+	universality WORD[629,   1]: 0.0000567 一味
+TOKEN[630]: 0.0001124    1 hue
+	hue WORD[630,   1]: 0.0001124 色味
+TOKEN[631]: 0.0001119    1 tartness
+	tartness WORD[631,   1]: 0.0001119 渋味
+TOKEN[632]: 0.0001113    1 true
+	true WORD[632,   1]: 0.0001113 真味
+TOKEN[633]: 0.0001112    1 monosodium
+	monosodium WORD[633,   1]: 0.0000556 味の素
+TOKEN[634]: 0.0001108    2 medicine
+	medicine WORD[634,   1]: 0.0000485 六味
+	medicine WORD[634,   2]: 0.0000311 一味
+TOKEN[635]: 0.0001103    2 sour
+	sour WORD[635,   1]: 0.0000641 六味
+	sour WORD[635,   2]: 0.0000462 五味
+TOKEN[636]: 0.0001101    1 roundness
+	roundness WORD[636,   1]: 0.0001101 丸味
+TOKEN[637]: 0.0001101    1 rotundity
+	rotundity WORD[637,   1]: 0.0001101 丸味
+TOKEN[638]: 0.0001097    2 clever
+	clever WORD[638,   1]: 0.0000375 美味い
+	clever WORD[638,   2]: 0.0000361 味
+TOKEN[639]: 0.0001086    1 unobtrusive
+	unobtrusive WORD[639,   1]: 0.0000543 地味
+TOKEN[640]: 0.0001083    2 cake
+	cake WORD[640,   1]: 0.0000361 あま味
+	cake WORD[640,   2]: 0.0000361 甘味
+TOKEN[641]: 0.0001077    1 disinterestedness
+	disinterestedness WORD[641,   1]: 0.0001077 禅味
+TOKEN[642]: 0.0001063    2 pepper
+	pepper WORD[642,   1]: 0.0000605 薬味
+	pepper WORD[642,   2]: 0.0000458 七味
+TOKEN[643]: 0.0001049    1 wholesome
+	wholesome WORD[643,   1]: 0.0001049 滋味
+TOKEN[644]: 0.0001046    1 mellowness
+	mellowness WORD[644,   1]: 0.0001046 丸味
+TOKEN[645]: 0.0001041    2 deliciousness
+	deliciousness WORD[645,   1]: 0.0000520 うま味
+	deliciousness WORD[645,   2]: 0.0000520 旨味
+TOKEN[646]: 0.0001033    1 soy
+	soy WORD[646,   1]: 0.0001033 諸味
+TOKEN[647]: 0.0001027    1 uninteresting
+	uninteresting WORD[647,   1]: 0.0001027 無味
+TOKEN[648]: 0.0001003    1 uniqueness
+	uniqueness WORD[648,   1]: 0.0000502 味
+TOKEN[649]: 0.0001003    1 tasteless
+	tasteless WORD[649,   1]: 0.0001003 無味
+TOKEN[650]: 0.0001002    3 interest
+	interest WORD[650,   1]: 0.0000350 興味
+	interest WORD[650,   2]: 0.0000336 面白味
+	interest WORD[650,   3]: 0.0000316 味わい
+TOKEN[651]: 0.0000998    2 experience
+	experience WORD[651,   1]: 0.0000333 味わう
+	experience WORD[651,   2]: 0.0000332 味
+TOKEN[652]: 0.0000997    1 reserved
+	reserved WORD[652,   1]: 0.0000499 地味
+TOKEN[653]: 0.0000997    1 modest
+	modest WORD[653,   1]: 0.0000499 地味
+TOKEN[654]: 0.0000997    1 guitar
+	guitar WORD[654,   1]: 0.0000997 三味
+TOKEN[655]: 0.0000982    1 sober
+	sober WORD[655,   1]: 0.0000491 地味
+TOKEN[656]: 0.0000980    1 subtlety
+	subtlety WORD[656,   1]: 0.0000980 小味
+TOKEN[657]: 0.0000975    1 nourishment
+	nourishment WORD[657,   1]: 0.0000975 滋味
+TOKEN[658]: 0.0000972    1 astringency
+	astringency WORD[658,   1]: 0.0000972 渋味
+TOKEN[659]: 0.0000970    2 Buddha
+	Buddha WORD[659,   1]: 0.0000349 五味
+	Buddha WORD[659,   2]: 0.0000311 一味
+TOKEN[660]: 0.0000964    2 fresh
+	fresh WORD[660,   1]: 0.0000593 新味
+	fresh WORD[660,   2]: 0.0000372 五味
+TOKEN[661]: 0.0000948    2 depth
+	depth WORD[661,   1]: 0.0000556 深味
+	depth WORD[661,   2]: 0.0000392 厚味
+TOKEN[662]: 0.0000941    1 unimaginative
+	unimaginative WORD[662,   1]: 0.0000941 大味
+TOKEN[663]: 0.0000935    2 art
+	art WORD[663,   1]: 0.0000467 味得
+	art WORD[663,   2]: 0.0000467 味到
+TOKEN[664]: 0.0000928    2 cleverness
+	cleverness WORD[664,   1]: 0.0000464 うま味
+	cleverness WORD[664,   2]: 0.0000464 旨味
+TOKEN[665]: 0.0000926    1 shade
+	shade WORD[665,   1]: 0.0000926 色味
+TOKEN[666]: 0.0000919    1 witty
+	witty WORD[666,   1]: 0.0000460 味
+TOKEN[667]: 0.0000919    1 maturity
+	maturity WORD[667,   1]: 0.0000919 丸味
+TOKEN[668]: 0.0000912    1 simplicity
+	simplicity WORD[668,   1]: 0.0000912 渋味
+TOKEN[669]: 0.0000903    2 enjoyment
+	enjoyment WORD[669,   1]: 0.0000451 玩味
+	enjoyment WORD[669,   2]: 0.0000451 翫味
+TOKEN[670]: 0.0000892    1 crew
+	crew WORD[670,   1]: 0.0000446 一味
+TOKEN[671]: 0.0000890    1 originality
+	originality WORD[671,   1]: 0.0000890 新味
+TOKEN[672]: 0.0000890    2 main
+	main WORD[672,   1]: 0.0000451 諸味
+	main WORD[672,   2]: 0.0000439 味噌
+TOKEN[673]: 0.0000880    2 traditional
+	traditional WORD[673,   1]: 0.0000311 吟味
+	traditional WORD[673,   2]: 0.0000284 一味
+TOKEN[674]: 0.0000873    1 tone
+	tone WORD[674,   1]: 0.0000873 色味
+TOKEN[675]: 0.0000859    1 elegance
+	elegance WORD[675,   1]: 0.0000859 渋味
+TOKEN[676]: 0.0000857    1 greenness
+	greenness WORD[676,   1]: 0.0000857 青味
+TOKEN[677]: 0.0000857    1 blueness
+	blueness WORD[677,   1]: 0.0000857 青味
+TOKEN[678]: 0.0000849    2 profitable
+	profitable WORD[678,   1]: 0.0000426 美味しい
+	profitable WORD[678,   2]: 0.0000423 美味い
+TOKEN[679]: 0.0000848    1 participation
+	participation WORD[679,   1]: 0.0000424 一味
+TOKEN[680]: 0.0000840    2 fifth
+	fifth WORD[680,   1]: 0.0000420 うま味
+	fifth WORD[680,   2]: 0.0000420 旨味
+TOKEN[681]: 0.0000839    1 freshness
+	freshness WORD[681,   1]: 0.0000839 新味
+TOKEN[682]: 0.0000839    1 bit
+	bit WORD[682,   1]: 0.0000419 地味
+TOKEN[683]: 0.0000839    1 mild
+	mild WORD[683,   1]: 0.0000839 薄味
+TOKEN[684]: 0.0000831    1 behaviour
+	behaviour WORD[684,   1]: 0.0000415 地味
+TOKEN[685]: 0.0000821    1 distaste
+	distaste WORD[685,   1]: 0.0000821 不味
+TOKEN[686]: 0.0000821    1 unsavoriness
+	unsavoriness WORD[686,   1]: 0.0000821 不味
+TOKEN[687]: 0.0000821    1 bungling
+	bungling WORD[687,   1]: 0.0000821 不味い
+TOKEN[688]: 0.0000821    1 unsavory
+	unsavory WORD[688,   1]: 0.0000821 不味い
+TOKEN[689]: 0.0000821    1 unpalatable
+	unpalatable WORD[689,   1]: 0.0000821 不味い
+TOKEN[690]: 0.0000821    1 unskilful
+	unskilful WORD[690,   1]: 0.0000821 不味い
+TOKEN[691]: 0.0000820    1 forte
+	forte WORD[691,   1]: 0.0000820 強味
+TOKEN[692]: 0.0000820    1 inquiry
+	inquiry WORD[692,   1]: 0.0000820 吟味
+TOKEN[693]: 0.0000818    1 refinement
+	refinement WORD[693,   1]: 0.0000818 渋味
+TOKEN[694]: 0.0000817    1 pungent
+	pungent WORD[694,   1]: 0.0000817 辛味
+TOKEN[695]: 0.0000817    1 gang
+	gang WORD[695,   1]: 0.0000409 一味
+TOKEN[696]: 0.0000817    1 attitude
+	attitude WORD[696,   1]: 0.0000408 地味
+TOKEN[697]: 0.0000815    1 investigation
+	investigation WORD[697,   1]: 0.0000815 吟味
+TOKEN[698]: 0.0000815    1 careful
+	careful WORD[698,   1]: 0.0000815 吟味
+TOKEN[699]: 0.0000815    2 category
+	category WORD[699,   1]: 0.0000407 うま味
+	category WORD[699,   2]: 0.0000407 旨味
+TOKEN[700]: 0.0000807    1 novelty
+	novelty WORD[700,   1]: 0.0000807 新味
+TOKEN[701]: 0.0000806    2 sense
+	sense WORD[701,   1]: 0.0000478 味覚
+	sense WORD[701,   2]: 0.0000328 意味
+TOKEN[702]: 0.0000788    1 elegant
+	elegant WORD[702,   1]: 0.0000788 渋味
+TOKEN[703]: 0.0000786    1 exquisiteness
+	exquisiteness WORD[703,   1]: 0.0000786 妙味
+TOKEN[704]: 0.0000781    1 weakling
+	weakling WORD[704,   1]: 0.0000781 味噌
+TOKEN[705]: 0.0000777    1 simple
+	simple WORD[705,   1]: 0.0000389 地味
+TOKEN[706]: 0.0000773    1 rich
+	rich WORD[706,   1]: 0.0000773 滋味
+TOKEN[707]: 0.0000772    1 poetic
+	poetic WORD[707,   1]: 0.0000772 俳味
+TOKEN[708]: 0.0000772    1 humanity
+	humanity WORD[708,   1]: 0.0000772 情味
+TOKEN[709]: 0.0000771    1 shortcoming
+	shortcoming WORD[709,   1]: 0.0000771 弱味
+TOKEN[710]: 0.0000769    1 smart
+	smart WORD[710,   1]: 0.0000384 味
+TOKEN[711]: 0.0000767    1 clan
+	clan WORD[711,   1]: 0.0000383 一味
+TOKEN[712]: 0.0000766    1 yellowish
+	yellowish WORD[712,   1]: 0.0000766 黄味
+TOKEN[713]: 0.0000764    2 benefit
+	benefit WORD[713,   1]: 0.0000382 うま味
+	benefit WORD[713,   2]: 0.0000382 旨味
+TOKEN[714]: 0.0000751    1 spice
+	spice WORD[714,   1]: 0.0000751 薬味
+TOKEN[715]: 0.0000742    1 brand
+	brand WORD[715,   1]: 0.0000371 味の素
+TOKEN[716]: 0.0000742    1 coolness
+	coolness WORD[716,   1]: 0.0000742 涼味
+TOKEN[717]: 0.0000740    1 boring
+	boring WORD[717,   1]: 0.0000740 大味
+TOKEN[718]: 0.0000721    1 patent
+	patent WORD[718,   1]: 0.0000721 六味
+TOKEN[719]: 0.0000719    1 problematic
+	problematic WORD[719,   1]: 0.0000719 不味い
+TOKEN[720]: 0.0000719    1 unwise
+	unwise WORD[720,   1]: 0.0000719 不味い
+TOKEN[721]: 0.0000716    1 poison
+	poison WORD[721,   1]: 0.0000716 毒味
+TOKEN[722]: 0.0000709    1 refined
+	refined WORD[722,   1]: 0.0000709 俳味
+TOKEN[723]: 0.0000708    1 wasabi
+	wasabi WORD[723,   1]: 0.0000708 薬味
+TOKEN[724]: 0.0000707    1 close
+	close WORD[724,   1]: 0.0000707 吟味
+TOKEN[725]: 0.0000698    2 taking
+	taking WORD[725,   1]: 0.0000403 味方
+	taking WORD[725,   2]: 0.0000295 加味
+TOKEN[726]: 0.0000695    1 price
+	price WORD[726,   1]: 0.0000695 正味
+TOKEN[727]: 0.0000690    1 unskillful
+	unskillful WORD[727,   1]: 0.0000690 不味い
+TOKEN[728]: 0.0000690    1 unattractive
+	unattractive WORD[728,   1]: 0.0000690 不味い
+TOKEN[729]: 0.0000685    1 dry
+	dry WORD[729,   1]: 0.0000685 無味
+TOKEN[730]: 0.0000685    1 palate
+	palate WORD[730,   1]: 0.0000685 味覚
+TOKEN[731]: 0.0000683    1 delicate
+	delicate WORD[731,   1]: 0.0000683 小味
+TOKEN[732]: 0.0000676    1 seeing
+	seeing WORD[732,   1]: 0.0000676 毒味
+TOKEN[733]: 0.0000672    1 ring
+	ring WORD[733,   1]: 0.0000336 一味
+TOKEN[734]: 0.0000670    1 garnish
+	garnish WORD[734,   1]: 0.0000670 青味
+TOKEN[735]: 0.0000669    1 unfavorable
+	unfavorable WORD[735,   1]: 0.0000669 不味い
+TOKEN[736]: 0.0000667    1 topping
+	topping WORD[736,   1]: 0.0000667 薬味
+TOKEN[737]: 0.0000662    1 sore
+	sore WORD[737,   1]: 0.0000662 弱味
+TOKEN[738]: 0.0000661    1 ginger
+	ginger WORD[738,   1]: 0.0000661 薬味
+TOKEN[739]: 0.0000654    1 mash
+	mash WORD[739,   1]: 0.0000654 諸味
+TOKEN[740]: 0.0000654    1 gusto
+	gusto WORD[740,   1]: 0.0000654 賞味
+TOKEN[741]: 0.0000650    1 enjoying
+	enjoying WORD[741,   1]: 0.0000650 味読
+TOKEN[742]: 0.0000644    1 graceful
+	graceful WORD[742,   1]: 0.0000644 雅味
+TOKEN[743]: 0.0000628    1 chopped
+	chopped WORD[743,   1]: 0.0000628 薬味
+TOKEN[744]: 0.0000621    1 weirdness
+	weirdness WORD[744,   1]: 0.0000621 凄味
+TOKEN[745]: 0.0000621    1 dreadfulness
+	dreadfulness WORD[745,   1]: 0.0000621 凄味
+TOKEN[746]: 0.0000621    1 grimness
+	grimness WORD[746,   1]: 0.0000621 凄味
+TOKEN[747]: 0.0000621    1 ghastliness
+	ghastliness WORD[747,   1]: 0.0000621 凄味
+TOKEN[748]: 0.0000617    1 zest
+	zest WORD[748,   1]: 0.0000617 興味
+TOKEN[749]: 0.0000615    1 weakness
+	weakness WORD[749,   1]: 0.0000615 弱味
+TOKEN[750]: 0.0000615    1 yellow
+	yellow WORD[750,   1]: 0.0000615 黄味
+TOKEN[751]: 0.0000611    1 supporting
+	supporting WORD[751,   1]: 0.0000611 味方
+TOKEN[752]: 0.0000608    1 daikon
+	daikon WORD[752,   1]: 0.0000608 薬味
+TOKEN[753]: 0.0000604    1 dish
+	dish WORD[753,   1]: 0.0000604 毒味
+TOKEN[754]: 0.0000602    1 awful
+	awful WORD[754,   1]: 0.0000602 不味い
+TOKEN[755]: 0.0000595    1 clumsy
+	clumsy WORD[755,   1]: 0.0000595 不味い
+TOKEN[756]: 0.0000592    1 vegetable
+	vegetable WORD[756,   1]: 0.0000592 青味
+TOKEN[757]: 0.0000591    1 troublesome
+	troublesome WORD[757,   1]: 0.0000591 不味い
+TOKEN[758]: 0.0000591    1 awkward
+	awkward WORD[758,   1]: 0.0000591 不味い
+TOKEN[759]: 0.0000591    1 supporter
+	supporter WORD[759,   1]: 0.0000591 味方
+TOKEN[760]: 0.0000586    1 air
+	air WORD[760,   1]: 0.0000586 禅味
+TOKEN[761]: 0.0000582    1 drink
+	drink WORD[761,   1]: 0.0000582 毒味
+TOKEN[762]: 0.0000578    1 strong
+	strong WORD[762,   1]: 0.0000578 強味
+TOKEN[763]: 0.0000575    1 sharp
+	sharp WORD[763,   1]: 0.0000575 辛味
+TOKEN[764]: 0.0000563    1 spot
+	spot WORD[764,   1]: 0.0000563 黒味
+TOKEN[765]: 0.0000559    1 flat
+	flat WORD[765,   1]: 0.0000559 大味
+TOKEN[766]: 0.0000556    1 savor
+	savor WORD[766,   1]: 0.0000556 味わう
+TOKEN[767]: 0.0000556    1 savour
+	savour WORD[767,   1]: 0.0000556 味わう
+TOKEN[768]: 0.0000555    1 cayenne
+	cayenne WORD[768,   1]: 0.0000555 七味
+TOKEN[769]: 0.0000554    1 contents
+	contents WORD[769,   1]: 0.0000554 中味
+TOKEN[770]: 0.0000553    1 backing
+	backing WORD[770,   1]: 0.0000553 味方
+TOKEN[771]: 0.0000551    1 unpleasant
+	unpleasant WORD[771,   1]: 0.0000551 不味い
+TOKEN[772]: 0.0000551    1 terrible
+	terrible WORD[772,   1]: 0.0000551 不味い
+TOKEN[773]: 0.0000549    1 class
+	class WORD[773,   1]: 0.0000549 雅味
+TOKEN[774]: 0.0000547    1 cool
+	cool WORD[774,   1]: 0.0000547 涼味
+TOKEN[775]: 0.0000543    1 name
+	name WORD[775,   1]: 0.0000272 味の素
+TOKEN[776]: 0.0000537    1 production
+	production WORD[776,   1]: 0.0000537 諸味
+TOKEN[777]: 0.0000536    1 try
+	try WORD[777,   1]: 0.0000536 味噌
+TOKEN[778]: 0.0000536    1 dark
+	dark WORD[778,   1]: 0.0000536 黒味
+TOKEN[779]: 0.0000535    1 grandeur
+	grandeur WORD[779,   1]: 0.0000535 重味
+TOKEN[780]: 0.0000532    1 preference
+	preference WORD[780,   1]: 0.0000532 趣味
+TOKEN[781]: 0.0000530    1 blue
+	blue WORD[781,   1]: 0.0000530 青味
+TOKEN[782]: 0.0000526    1 intimidation
+	intimidation WORD[782,   1]: 0.0000526 凄味
+TOKEN[783]: 0.0000525    1 appealing
+	appealing WORD[783,   1]: 0.0000525 美味しい
+TOKEN[784]: 0.0000524    1 sides
+	sides WORD[784,   1]: 0.0000524 味方
+TOKEN[785]: 0.0000520    1 redness
+	redness WORD[785,   1]: 0.0000520 赤味
+TOKEN[786]: 0.0000520    1 reddishness
+	reddishness WORD[786,   1]: 0.0000520 赤味
+TOKEN[787]: 0.0000519    1 pastime
+	pastime WORD[787,   1]: 0.0000519 趣味
+TOKEN[788]: 0.0000515    1 key
+	key WORD[788,   1]: 0.0000515 味噌
+TOKEN[789]: 0.0000513    1 testing
+	testing WORD[789,   1]: 0.0000513 吟味
+TOKEN[790]: 0.0000513    1 scrutiny
+	scrutiny WORD[790,   1]: 0.0000513 吟味
+TOKEN[791]: 0.0000512    1 butter
+	butter WORD[791,   1]: 0.0000512 五味
+TOKEN[792]: 0.0000512    1 hot
+	hot WORD[792,   1]: 0.0000512 辛味
+TOKEN[793]: 0.0000510    1 menace
+	menace WORD[793,   1]: 0.0000510 凄味
+TOKEN[794]: 0.0000510    1 cooking
+	cooking WORD[794,   1]: 0.0000510 味醂
+TOKEN[795]: 0.0000509    1 hobby
+	hobby WORD[795,   1]: 0.0000509 趣味
+TOKEN[796]: 0.0000506    1 guilt
+	guilt WORD[796,   1]: 0.0000506 吟味
+TOKEN[797]: 0.0000503    1 curiosity
+	curiosity WORD[797,   1]: 0.0000503 興味
+TOKEN[798]: 0.0000501    1 beauty
+	beauty WORD[798,   1]: 0.0000501 妙味
+TOKEN[799]: 0.0000496    1 degree
+	degree WORD[799,   1]: 0.0000496 ひと味
+TOKEN[800]: 0.0000496    1 sesame
+	sesame WORD[800,   1]: 0.0000496 七味
+TOKEN[801]: 0.0000495    1 secret
+	secret WORD[801,   1]: 0.0000495 隠し味
+TOKEN[802]: 0.0000494    1 interior
+	interior WORD[802,   1]: 0.0000494 中味
+TOKEN[803]: 0.0000493    1 weak
+	weak WORD[803,   1]: 0.0000493 味噌
+TOKEN[804]: 0.0000492    1 rough
+	rough WORD[804,   1]: 0.0000492 諸味
+TOKEN[805]: 0.0000492    1 citrus
+	citrus WORD[805,   1]: 0.0000492 七味
+TOKEN[806]: 0.0000492    1 liking
+	liking WORD[806,   1]: 0.0000492 趣味
+TOKEN[807]: 0.0000490    1 substance
+	substance WORD[807,   1]: 0.0000490 中味
+TOKEN[808]: 0.0000485    1 bitterness
+	bitterness WORD[808,   1]: 0.0000485 苦味
+TOKEN[809]: 0.0000485    1 dainty
+	dainty WORD[809,   1]: 0.0000485 美味
+TOKEN[810]: 0.0000480    1 filling
+	filling WORD[810,   1]: 0.0000480 中味
+TOKEN[811]: 0.0000478    1 profundity
+	profundity WORD[811,   1]: 0.0000478 厚味
+TOKEN[812]: 0.0000477    1 threat
+	threat WORD[812,   1]: 0.0000477 凄味
+TOKEN[813]: 0.0000465    1 poor
+	poor WORD[813,   1]: 0.0000465 不味い
+TOKEN[814]: 0.0000464    1 inclusion
+	inclusion WORD[814,   1]: 0.0000464 加味
+TOKEN[815]: 0.0000462    1 blend
+	blend WORD[815,   1]: 0.0000462 七味
+TOKEN[816]: 0.0000462    1 desirable
+	desirable WORD[816,   1]: 0.0000462 美味しい
+TOKEN[817]: 0.0000462    1 useful
+	useful WORD[817,   1]: 0.0000462 正味
+TOKEN[818]: 0.0000460    1 sampling
+	sampling WORD[818,   1]: 0.0000460 味見
+TOKEN[819]: 0.0000459    1 cream
+	cream WORD[819,   1]: 0.0000459 五味
+TOKEN[820]: 0.0000458    1 fortunate
+	fortunate WORD[820,   1]: 0.0000458 美味い
+TOKEN[821]: 0.0000452    1 winner
+	winner WORD[821,   1]: 0.0000452 吟味
+TOKEN[822]: 0.0000451    1 reading
+	reading WORD[822,   1]: 0.0000451 味読
+TOKEN[823]: 0.0000449    1 blade
+	blade WORD[823,   1]: 0.0000449 中味
+TOKEN[824]: 0.0000449    1 aftertaste
+	aftertaste WORD[824,   1]: 0.0000449 後味
+TOKEN[825]: 0.0000449    1 type
+	type WORD[825,   1]: 0.0000449 味醂
+TOKEN[826]: 0.0000448    1 thickness
+	thickness WORD[826,   1]: 0.0000448 厚味
+TOKEN[827]: 0.0000447    1 digest
+	digest WORD[827,   1]: 0.0000447 味わう
+TOKEN[828]: 0.0000446    1 standing
+	standing WORD[828,   1]: 0.0000446 味方
+TOKEN[829]: 0.0000446    1 peel
+	peel WORD[829,   1]: 0.0000446 七味
+TOKEN[830]: 0.0000443    1 importance
+	importance WORD[830,   1]: 0.0000443 重味
+TOKEN[831]: 0.0000439    1 cost
+	cost WORD[831,   1]: 0.0000439 正味
+TOKEN[832]: 0.0000435    1 attractive
+	attractive WORD[832,   1]: 0.0000435 美味しい
+TOKEN[833]: 0.0000432    1 convenient
+	convenient WORD[833,   1]: 0.0000432 美味しい
+TOKEN[834]: 0.0000426    1 actual
+	actual WORD[834,   1]: 0.0000426 正味
+TOKEN[835]: 0.0000425    1 enjoy
+	enjoy WORD[835,   1]: 0.0000425 味わう
+TOKEN[836]: 0.0000424    1 blush
+	blush WORD[836,   1]: 0.0000424 赤味
+TOKEN[837]: 0.0000418    1 enquiry
+	enquiry WORD[837,   1]: 0.0000418 吟味
+TOKEN[838]: 0.0000415    1 promising
+	promising WORD[838,   1]: 0.0000415 美味い
+TOKEN[839]: 0.0000413    1 dignity
+	dignity WORD[839,   1]: 0.0000413 重味
+TOKEN[840]: 0.0000408    1 book
+	book WORD[840,   1]: 0.0000408 味読
+TOKEN[841]: 0.0000407    1 satisfactory
+	satisfactory WORD[841,   1]: 0.0000407 美味い
+TOKEN[842]: 0.0000405    1 appreciate
+	appreciate WORD[842,   1]: 0.0000405 味わう
+TOKEN[843]: 0.0000402    1 selection
+	selection WORD[843,   1]: 0.0000402 吟味
+TOKEN[844]: 0.0000400    1 burden
+	burden WORD[844,   1]: 0.0000400 重味
+TOKEN[845]: 0.0000399    1 favorable
+	favorable WORD[845,   1]: 0.0000399 美味しい
+TOKEN[846]: 0.0000397    1 skillful
+	skillful WORD[846,   1]: 0.0000397 美味い
+TOKEN[847]: 0.0000395    1 successful
+	successful WORD[847,   1]: 0.0000395 美味い
+TOKEN[848]: 0.0000393    1 thinking
+	thinking WORD[848,   1]: 0.0000393 含味
+TOKEN[849]: 0.0000390    1 inspection
+	inspection WORD[849,   1]: 0.0000390 吟味
+TOKEN[850]: 0.0000388    1 expert
+	expert WORD[850,   1]: 0.0000388 美味い
+TOKEN[851]: 0.0000384    1 examination
+	examination WORD[851,   1]: 0.0000384 吟味
+TOKEN[852]: 0.0000377    1 skilled
+	skilled WORD[852,   1]: 0.0000377 美味い
+TOKEN[853]: 0.0000376    1 appropriate
+	appropriate WORD[853,   1]: 0.0000376 美味い
+TOKEN[854]: 0.0000376    1 lucky
+	lucky WORD[854,   1]: 0.0000376 美味い
+TOKEN[855]: 0.0000375    1 fun
+	fun WORD[855,   1]: 0.0000375 面白味
+TOKEN[856]: 0.0000375    1 addition
+	addition WORD[856,   1]: 0.0000375 加味
+TOKEN[857]: 0.0000371    1 working
+	working WORD[857,   1]: 0.0000371 正味
+TOKEN[858]: 0.0000370    1 various
+	various WORD[858,   1]: 0.0000370 五味
+TOKEN[859]: 0.0000369    1 poetry
+	poetry WORD[859,   1]: 0.0000369 吟味
+TOKEN[860]: 0.0000369    1 rice
+	rice WORD[860,   1]: 0.0000369 味醂
+TOKEN[861]: 0.0000368    1 opportunity
+	opportunity WORD[861,   1]: 0.0000368 美味しい
+TOKEN[862]: 0.0000368    1 splendid
+	splendid WORD[862,   1]: 0.0000368 美味い
+TOKEN[863]: 0.0000367    1 amount
+	amount WORD[863,   1]: 0.0000367 正味
+TOKEN[864]: 0.0000366    1 mixture
+	mixture WORD[864,   1]: 0.0000366 味塩
+TOKEN[865]: 0.0000364    1 account
+	account WORD[865,   1]: 0.0000364 加味
+TOKEN[866]: 0.0000359    1 offer
+	offer WORD[866,   1]: 0.0000359 美味しい
+TOKEN[867]: 0.0000353    1 slight
+	slight WORD[867,   1]: 0.0000353 赤味
+TOKEN[868]: 0.0000344    1 deal
+	deal WORD[868,   1]: 0.0000344 美味い
+TOKEN[869]: 0.0000340    1 pain
+	pain WORD[869,   1]: 0.0000340 味わう
+TOKEN[870]: 0.0000334    1 trick
+	trick WORD[870,   1]: 0.0000334 美味い
+TOKEN[871]: 0.0000327    1 idea
+	idea WORD[871,   1]: 0.0000327 美味い
+TOKEN[872]: 0.0000322    1 salt
+	salt WORD[872,   1]: 0.0000322 味塩
+TOKEN[873]: 0.0000320    1 expression
+	expression WORD[873,   1]: 0.0000320 美味い

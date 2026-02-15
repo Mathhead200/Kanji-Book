@@ -1,0 +1,932 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0446645   16 cutting        : 断切, 断機, 断点, 横断, 断截, 断裁, 縦断, 断ち落とし, 轢断, 断髪, ...
+0.0350433   15 decision       : 妄断, 断, 独断, 英断, 断案, 聖断, 勇断, 判断, 断定, 速断, ...
+0.0323299    1 tail           : 断尾
+0.0214066    8 cut            : 断ち割る, 断ち切る, 断切る, 断金, 断つ, 断ち切り, 断切り, 遮断
+0.0206322    8 resolute       : 断々乎, 断断乎, 果断, 勇断, 断行, 断乎, 断固, 英断
+0.0188071    2 shearing       : 剪断, せん断
+0.0181485    2 shear          : 剪断, せん断
+0.0175537    8 judgment       : 断, 明断, 判断, 独断, 断罪, 即断, 処断, 裁断
+0.0130909    4 disconnection  : 離断, 断線, 切断, 截断
+0.0113336    6 conclusion     : 断案, 論断, 予断, 判断, 断定, 速断
+0.0100912    4 decisive       : 果断, 断トツ, 断行, 英断
+0.0094744    5 firm           : 断々乎, 断断乎, 断乎, 断固, 英断
+0.0094338    5 notice         : 無断, 断る, 断わる, 断り, 断わり
+0.0093191    5 break          : 断ち切る, 断切る, 破断, 中断, 間断
+0.0093035    2 abstinence     : 断酒, 塩断ち
+0.0091708    1 fortunetelling : 易断
+0.0091353    2 divination     : 易断, 判断
+0.0077958    3 permission     : 無断, 断り, 断わり
+0.0076934    2 death          : 断末魔, 断獄
+0.0074727    1 loom           : 断機
+0.0071632    1 diaeresis      : 離断
+0.0070341    6 one            : 断筆, 専断, 擅断, 断末魔, 断ち物, 独断
+0.0070123    3 severance      : 断絶, 切断, 截断
+0.0063951    3 section        : 断面, 切断, 截断
+0.0063551    5 give           : 断つ, 断ち切る, 断切る, 断る, 断わる
+0.0062406    3 arbitrary      : 独断, 専断, 擅断
+0.0061354    1 dissection     : 離断
+0.0060452    3 sever          : 断つ, 断ち切る, 断切る
+0.0060341    4 excuse         : 断る, 断わる, 断り, 断わり
+0.0058492    2 condemnation   : 断獄, 断罪
+0.0057791    1 flicker        : 瞬断
+0.0053698    3 interruption   : 中断, 断線, 間断
+0.0052510    1 friendship     : 断金
+0.0052432    2 broken         : 断碑, 断橋
+0.0051666    2 execution      : 断行, 処断
+0.0051084    2 decapitation   : 断頭, 断罪
+0.0051039    2 conviction     : 断獄, 断罪
+0.0049333    1 resolution     : 断
+0.0048919    1 alcohol        : 断酒
+0.0048747    3 supply         : 断水, 断ち切る, 断切る
+0.0048140    2 amputation     : 切断, 截断
+0.0047109    1 metal          : 断金
+0.0046317    2 carrying       : 断行, 処断
+0.0046056    1 point          : 断点
+0.0045909    2 rash           : 妄断, 速断
+0.0045722    3 advance        : 無断, 断る, 断わる
+0.0045264    2 conclusive     : 断乎, 断固
+0.0044803    2 rupture        : 破断, 断絶
+0.0044293    1 absence        : 無断
+0.0043895    2 nonacceptance  : 断り, 断わり
+0.0043842    1 strong         : 断金
+0.0041976    2 network        : 断ち切る, 断切る
+0.0041736    1 lack           : 無断
+0.0041679    2 declination    : 断り, 断わり
+0.0041549    1 enforcement    : 断行
+0.0041485    2 apart          : 断ち切り, 断切り
+0.0041288    1 militarism     : 武断
+0.0040219    2 plea           : 断り, 断わり
+0.0040102    2 crime          : 断獄, 断罪
+0.0039784    2 determined     : 断乎, 断固
+0.0039232    2 conclude       : 断ずる, 断じる
+0.0039016    2 vicious        : 断ち切る, 断切る
+0.0038677    2 giving         : 茶断ち, 断念
+0.0038499    1 power          : 瞬断
+0.0038286    2 determine      : 断ずる, 断じる
+0.0038077    2 declaration    : 断定, 断言
+0.0037686    2 fragment       : 断片, 断章
+0.0037322    2 decide         : 断ずる, 断じる
+0.0037215    2 dismiss        : 断る, 断わる
+0.0037115    1 snap           : 即断
+0.0036916    2 inform         : 断る, 断わる
+0.0036633    2 refusal        : 断り, 断わり
+0.0036540    3 paper          : 断ち切る, 断切る, 裁断
+0.0036302    2 discretion     : 専断, 擅断
+0.0035930    2 attachment     : 断ち切る, 断切る
+0.0035810    1 ditto          : 同断
+0.0035791    2 intelligence   : 断ち切る, 断切る
+0.0035363    1 heartbreak     : 断腸
+0.0035353    1 fragmentary    : 断想
+0.0034877    1 divide         : 断ち割る
+0.0034874    2 rejection      : 断り, 断わり
+0.0034811    2 judge          : 断ずる, 断じる
+0.0034527    2 notification   : 断り, 断わり
+0.0033996    2 retreat        : 断ち切る, 断切る
+0.0033935    1 insulation     : 断熱
+0.0033881    1 split          : 断ち割る
+0.0033803    2 gap            : 断層, 断絶
+0.0033509    1 presupposition : 予断
+0.0033509    1 prejudgment    : 予断
+0.0033386    2 habit          : 断ち切る, 断切る
+0.0033311    2 suspension     : 中断, 断水
+0.0032883    2 refuse         : 断る, 断わる
+0.0032768    2 warning        : 断り, 断わり
+0.0032449    2 reject         : 断る, 断わる
+0.0032276    2 acting         : 専断, 擅断
+0.0032206    2 authority      : 専断, 擅断
+0.0031780    2 ask            : 断る, 断わる
+0.0031778    1 bisection      : 両断
+0.0031751    2 route          : 断ち切る, 断切る
+0.0031694    2 cycle          : 断ち切る, 断切る
+0.0031595    1 action         : 断行
+0.0031582    2 block          : 断ち切る, 断切る
+0.0031549    1 best           : 断トツ
+0.0031439    1 foregone       : 予断
+0.0031277    2 consent        : 断り, 断わり
+0.0031248    2 breaking       : 断絶, 断交
+0.0030906    1 monument       : 断碑
+0.0030507    1 indecisiveness : 不断
+0.0030382    1 snapping       : 断裂
+0.0030233    2 tell           : 断る, 断わる
+0.0030067    1 lead           : 断トツ
+0.0029993    1 reckless       : 妄断
+0.0029494    2 decline        : 断る, 断わる
+0.0029081    1 drastic        : 果断
+0.0029078    1 monopoly       : 壟断
+0.0028833    1 crossing       : 横断
+0.0028701    2 enemy          : 断ち切る, 断切る
+0.0028622    1 unremitting    : 不断
+0.0028583    2 stop           : 断ち切る, 断切る
+0.0028486    1 random         : 断想
+0.0028462    1 inattention    : 油断
+0.0028462    1 unpreparedness : 油断
+0.0027997    1 open           : 断ち割る
+0.0027967    1 dogmatism      : 独断
+0.0027967    1 consulting     : 独断
+0.0027768    1 adjudication   : 判断
+0.0027697    1 vow            : 塩断ち
+0.0027674    1 verdict        : 論断
+0.0027339    1 trying         : 断獄
+0.0027302    1 sewing         : 断ち落とし
+0.0026875    1 spiritual      : 塩断ち
+0.0026737    1 sorrow         : 断腸
+0.0026732    1 hour           : 断末魔
+0.0026130    1 ceaseless      : 不断
+0.0025819    1 hasty          : 臆断
+0.0025720    1 hair           : 断髪
+0.0025593    1 conjecture     : 臆断
+0.0025305    2 leave          : 断る, 断わる
+0.0025207    1 negligence     : 油断
+0.0025119    1 grief          : 断腸
+0.0025016    1 carelessness   : 油断
+0.0024795    1 haircutting    : 断髪
+0.0024415    1 prediction     : 予断
+0.0024330    1 river          : 横断
+0.0024264    1 bridge         : 断橋
+0.0024245    1 habitual       : 不断
+0.0024221    1 cooking        : 断ち落とし
+0.0023928    1 desire         : 断ち物
+0.0023905    2 turn           : 断る, 断わる
+0.0023840    1 bob            : 断髪
+0.0023840    1 bobbed         : 断髪
+0.0023838    1 intermittence  : 断続
+0.0023838    1 dislocation    : 断層
+0.0023836    1 outage         : 断水
+0.0023836    1 castration     : 断種
+0.0023692    1 printing       : 断ち落とし
+0.0023531    1 persistent     : 不断
+0.0023428    1 dividing       : 分断
+0.0023278    1 fracture       : 破断
+0.0023162    1 shred          : 断片
+0.0023161    1 affirmative    : 断定
+0.0022948    1 definite       : 明断
+0.0022687    1 water          : 断水
+0.0022637    1 profile        : 断面
+0.0022632    1 affirmation    : 断言
+0.0022416    1 exterminate    : 断つ
+0.0022120    1 salt           : 塩断ち
+0.0021980    1 constant       : 不断
+0.0021939    1 blockade       : 遮断
+0.0021939    1 deprivation    : 遮断
+0.0021842    1 intermittent   : 断続
+0.0021840    1 sterilization  : 断種
+0.0021527    1 extinction     : 断絶
+0.0021525    1 assertion      : 断言
+0.0021445    1 everyday       : 不断
+0.0021430    1 misjudgement   : 誤断
+0.0021369    1 last           : 断末魔
+0.0021250    1 discontinuation: 断絶
+0.0021247    1 bluff          : 断崖
+0.0021201    1 stone          : 断碑
+0.0021195    1 tea            : 茶断ち
+0.0021045    1 eradicate      : 断つ
+0.0021034    1 quarantine     : 遮断
+0.0021034    1 interception   : 遮断
+0.0021000    1 fasting        : 断食
+0.0020861    1 interdiction   : 禁断
+0.0020820    1 diagnosis      : 診断
+0.0020799    1 abstain        : 断つ
+0.0020645    1 imperial       : 聖断
+0.0020569    1 precipice      : 断崖
+0.0020385    1 retiring       : 断筆
+0.0020384    1 commanding     : 断トツ
+0.0020342    1 normal         : 不断
+0.0020192    2 something      : 断ち切り, 断切り
+0.0020181    1 traversing     : 横断
+0.0020109    1 tearing        : 寸断
+0.0020000    1 forbidden      : 禁断
+0.0019896    1 inference      : 推断
+0.0019895    1 discrepancy    : 断層
+0.0019893    1 context        : 断章
+0.0019352    1 deduction      : 推断
+0.0019283    1 usual          : 不断
+0.0019040    1 cream          : 断トツ
+0.0018976    1 train          : 轢断
+0.0018940    1 writer         : 断筆
+0.0018938    1 regard         : 断章
+0.0018606    1 explanatory    : 断り書き
+0.0018460    1 prompt         : 即断
+0.0018412    1 fast           : 断食
+0.0018411    1 cliff          : 断崖
+0.0018336    1 shot           : 断然
+0.0018269    1 ordinary       : 不断
+0.0018135    1 isolation      : 遮断
+0.0017920    1 generation     : 断絶
+0.0017679    1 scrap          : 断片
+0.0017507    1 suppress       : 断つ
+0.0017475    1 determination  : 決断
+0.0017460    1 pen            : 断筆
+0.0017211    1 hope           : 断念
+0.0017163    1 two            : 轢断
+0.0017095    1 clear          : 明断
+0.0016900    1 literary       : 断章
+0.0016630    1 cross          : 断面
+0.0016522    1 length         : 断髪
+0.0016516    1 prohibition    : 禁断
+0.0016486    1 dying          : 断絶
+0.0016418    1 fault          : 断層
+0.0016385    1 crop           : 断トツ
+0.0016161    1 passage        : 断章
+0.0015934    1 write          : 断筆
+0.0015922    1 medical        : 診断
+0.0015874    1 sailing        : 横断
+0.0015825    1 wrong          : 断然
+0.0015687    1 pause          : 間断
+0.0015586    1 examination    : 診断
+0.0015045    1 sentence       : 処断
+0.0014693    1 track          : 横断
+0.0014380    1 railway        : 横断
+0.0014355    1 different      : 断然
+0.0014301    1 piece          : 断片
+0.0014236    1 note           : 断り書き
+0.0013853    1 short          : 断髪
+0.0013841    1 long           : 断然
+0.0013658    1 flying         : 横断
+0.0013604    1 measure        : 英断
+0.0013447    1 running        : 縦断
+0.0013273    1 writing        : 断筆
+0.0013258    1 made           : 独断
+0.0013255    1 excellent      : 英断
+0.0013172    1 cloth          : 裁断
+0.0013072    1 step           : 英断
+0.0012979    1 town           : 横断
+0.0012208    1 family         : 断絶
+0.0011961    1 road           : 横断
+0.0009923    1 time           : 間断
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0446645   16 cutting
+	cutting WORD[ 1,   1]: 0.0079951 断切
+	cutting WORD[ 1,   2]: 0.0055117 断機
+	cutting WORD[ 1,   3]: 0.0053696 断点
+	cutting WORD[ 1,   4]: 0.0036283 横断
+	cutting WORD[ 1,   5]: 0.0028569 断截
+	cutting WORD[ 1,   6]: 0.0028569 断裁
+	cutting WORD[ 1,   7]: 0.0027292 縦断
+	cutting WORD[ 1,   8]: 0.0021527 断ち落とし
+	cutting WORD[ 1,   9]: 0.0018336 轢断
+	cutting WORD[ 1,  10]: 0.0014287 断髪
+	cutting WORD[ 1,  11]: 0.0014109 断ち切り
+	cutting WORD[ 1,  12]: 0.0014109 断切り
+	cutting WORD[ 1,  13]: 0.0013869 切断
+	cutting WORD[ 1,  14]: 0.0013869 截断
+	cutting WORD[ 1,  15]: 0.0013826 寸断
+	cutting WORD[ 1,  16]: 0.0013234 裁断
+TOKEN[ 2]: 0.0350433   15 decision
+	decision WORD[ 2,   1]: 0.0054972 妄断
+	decision WORD[ 2,   2]: 0.0042046 断
+	decision WORD[ 2,   3]: 0.0033666 独断
+	decision WORD[ 2,   4]: 0.0026775 英断
+	decision WORD[ 2,   5]: 0.0024259 断案
+	decision WORD[ 2,   6]: 0.0023839 聖断
+	decision WORD[ 2,   7]: 0.0019959 勇断
+	decision WORD[ 2,   8]: 0.0017813 判断
+	decision WORD[ 2,   9]: 0.0015906 断定
+	decision WORD[ 2,  10]: 0.0015503 速断
+	decision WORD[ 2,  11]: 0.0015503 即断
+	decision WORD[ 2,  12]: 0.0015470 専断
+	decision WORD[ 2,  13]: 0.0015470 擅断
+	decision WORD[ 2,  14]: 0.0014734 裁断
+	decision WORD[ 2,  15]: 0.0014519 決断
+TOKEN[ 3]: 0.0323299    1 tail
+	tail WORD[ 3,   1]: 0.0323299 断尾
+TOKEN[ 4]: 0.0214066    8 cut
+	cut WORD[ 4,   1]: 0.0050880 断ち割る
+	cut WORD[ 4,   2]: 0.0037511 断ち切る
+	cut WORD[ 4,   3]: 0.0037511 断切る
+	cut WORD[ 4,   4]: 0.0019313 断金
+	cut WORD[ 4,   5]: 0.0012538 断つ
+	cut WORD[ 4,   6]: 0.0012503 断ち切り
+	cut WORD[ 4,   7]: 0.0012503 断切り
+	cut WORD[ 4,   8]: 0.0011992 遮断
+TOKEN[ 5]: 0.0206322    8 resolute
+	resolute WORD[ 5,   1]: 0.0029945 断々乎
+	resolute WORD[ 5,   2]: 0.0029945 断断乎
+	resolute WORD[ 5,   3]: 0.0026846 果断
+	resolute WORD[ 5,   4]: 0.0024616 勇断
+	resolute WORD[ 5,   5]: 0.0019615 断行
+	resolute WORD[ 5,   6]: 0.0019615 断乎
+	resolute WORD[ 5,   7]: 0.0019615 断固
+	resolute WORD[ 5,   8]: 0.0016512 英断
+TOKEN[ 6]: 0.0188071    2 shearing
+	shearing WORD[ 6,   1]: 0.0166056 剪断
+	shearing WORD[ 6,   2]: 0.0022015 せん断
+TOKEN[ 7]: 0.0181485    2 shear
+	shear WORD[ 7,   1]: 0.0160241 剪断
+	shear WORD[ 7,   2]: 0.0021244 せん断
+TOKEN[ 8]: 0.0175537    8 judgment
+	judgment WORD[ 8,   1]: 0.0046885 断
+	judgment WORD[ 8,   2]: 0.0021706 明断
+	judgment WORD[ 8,   3]: 0.0019864 判断
+	judgment WORD[ 8,   4]: 0.0018770 独断
+	judgment WORD[ 8,   5]: 0.0017734 断罪
+	judgment WORD[ 8,   6]: 0.0017287 即断
+	judgment WORD[ 8,   7]: 0.0016861 処断
+	judgment WORD[ 8,   8]: 0.0016430 裁断
+TOKEN[ 9]: 0.0130909    4 disconnection
+	disconnection WORD[ 9,   1]: 0.0062779 離断
+	disconnection WORD[ 9,   2]: 0.0023160 断線
+	disconnection WORD[ 9,   3]: 0.0022485 切断
+	disconnection WORD[ 9,   4]: 0.0022485 截断
+TOKEN[10]: 0.0113336    6 conclusion
+	conclusion WORD[10,   1]: 0.0024097 断案
+	conclusion WORD[10,   2]: 0.0020311 論断
+	conclusion WORD[10,   3]: 0.0020034 予断
+	conclusion WORD[10,   4]: 0.0017695 判断
+	conclusion WORD[10,   5]: 0.0015800 断定
+	conclusion WORD[10,   6]: 0.0015400 速断
+TOKEN[11]: 0.0100912    4 decisive
+	decisive WORD[11,   1]: 0.0026507 果断
+	decisive WORD[11,   2]: 0.0019370 断トツ
+	decisive WORD[11,   3]: 0.0019366 断行
+	decisive WORD[11,   4]: 0.0016303 英断
+TOKEN[12]: 0.0094744    5 firm
+	firm WORD[12,   1]: 0.0024536 断々乎
+	firm WORD[12,   2]: 0.0024536 断断乎
+	firm WORD[12,   3]: 0.0016072 断乎
+	firm WORD[12,   4]: 0.0016072 断固
+	firm WORD[12,   5]: 0.0013529 英断
+TOKEN[13]: 0.0094338    5 notice
+	notice WORD[13,   1]: 0.0037637 無断
+	notice WORD[13,   2]: 0.0014176 断る
+	notice WORD[13,   3]: 0.0014176 断わる
+	notice WORD[13,   4]: 0.0014175 断り
+	notice WORD[13,   5]: 0.0014175 断わり
+TOKEN[14]: 0.0093191    5 break
+	break WORD[14,   1]: 0.0026488 断ち切る
+	break WORD[14,   2]: 0.0026488 断切る
+	break WORD[14,   3]: 0.0014863 破断
+	break WORD[14,   4]: 0.0013454 中断
+	break WORD[14,   5]: 0.0011899 間断
+TOKEN[15]: 0.0093035    2 abstinence
+	abstinence WORD[15,   1]: 0.0063272 断酒
+	abstinence WORD[15,   2]: 0.0029763 塩断ち
+TOKEN[16]: 0.0091708    1 fortunetelling
+	fortunetelling WORD[16,   1]: 0.0091708 易断
+TOKEN[17]: 0.0091353    2 divination
+	divination WORD[17,   1]: 0.0071211 易断
+	divination WORD[17,   2]: 0.0020142 判断
+TOKEN[18]: 0.0077958    3 permission
+	permission WORD[18,   1]: 0.0044465 無断
+	permission WORD[18,   2]: 0.0016746 断り
+	permission WORD[18,   3]: 0.0016746 断わり
+TOKEN[19]: 0.0076934    2 death
+	death WORD[19,   1]: 0.0057753 断末魔
+	death WORD[19,   2]: 0.0019182 断獄
+TOKEN[20]: 0.0074727    1 loom
+	loom WORD[20,   1]: 0.0074727 断機
+TOKEN[21]: 0.0071632    1 diaeresis
+	diaeresis WORD[21,   1]: 0.0071632 離断
+TOKEN[22]: 0.0070341    6 one
+	one WORD[22,   1]: 0.0014084 断筆
+	one WORD[22,   2]: 0.0013697 専断
+	one WORD[22,   3]: 0.0013697 擅断
+	one WORD[22,   4]: 0.0010782 断末魔
+	one WORD[22,   5]: 0.0010629 断ち物
+	one WORD[22,   6]: 0.0007452 独断
+TOKEN[23]: 0.0070123    3 severance
+	severance WORD[23,   1]: 0.0023838 断絶
+	severance WORD[23,   2]: 0.0023143 切断
+	severance WORD[23,   3]: 0.0023143 截断
+TOKEN[24]: 0.0063951    3 section
+	section WORD[24,   1]: 0.0032450 断面
+	section WORD[24,   2]: 0.0015751 切断
+	section WORD[24,   3]: 0.0015750 截断
+TOKEN[25]: 0.0063551    5 give
+	give WORD[25,   1]: 0.0013092 断つ
+	give WORD[25,   2]: 0.0013057 断ち切る
+	give WORD[25,   3]: 0.0013057 断切る
+	give WORD[25,   4]: 0.0012172 断る
+	give WORD[25,   5]: 0.0012172 断わる
+TOKEN[26]: 0.0062406    3 arbitrary
+	arbitrary WORD[26,   1]: 0.0021989 独断
+	arbitrary WORD[26,   2]: 0.0020209 専断
+	arbitrary WORD[26,   3]: 0.0020209 擅断
+TOKEN[27]: 0.0061354    1 dissection
+	dissection WORD[27,   1]: 0.0061354 離断
+TOKEN[28]: 0.0060452    3 sever
+	sever WORD[28,   1]: 0.0020187 断つ
+	sever WORD[28,   2]: 0.0020132 断ち切る
+	sever WORD[28,   3]: 0.0020132 断切る
+TOKEN[29]: 0.0060341    4 excuse
+	excuse WORD[29,   1]: 0.0015086 断る
+	excuse WORD[29,   2]: 0.0015086 断わる
+	excuse WORD[29,   3]: 0.0015085 断り
+	excuse WORD[29,   4]: 0.0015085 断わり
+TOKEN[30]: 0.0058492    2 condemnation
+	condemnation WORD[30,   1]: 0.0035334 断獄
+	condemnation WORD[30,   2]: 0.0023158 断罪
+TOKEN[31]: 0.0057791    1 flicker
+	flicker WORD[31,   1]: 0.0057791 瞬断
+TOKEN[32]: 0.0053698    3 interruption
+	interruption WORD[32,   1]: 0.0018638 中断
+	interruption WORD[32,   2]: 0.0018576 断線
+	interruption WORD[32,   3]: 0.0016484 間断
+TOKEN[33]: 0.0052510    1 friendship
+	friendship WORD[33,   1]: 0.0026255 断金
+TOKEN[34]: 0.0052432    2 broken
+	broken WORD[34,   1]: 0.0026248 断碑
+	broken WORD[34,   2]: 0.0026184 断橋
+TOKEN[35]: 0.0051666    2 execution
+	execution WORD[35,   1]: 0.0017509 断行
+	execution WORD[35,   2]: 0.0016648 処断
+TOKEN[36]: 0.0051084    2 decapitation
+	decapitation WORD[36,   1]: 0.0030877 断頭
+	decapitation WORD[36,   2]: 0.0020207 断罪
+TOKEN[37]: 0.0051039    2 conviction
+	conviction WORD[37,   1]: 0.0030832 断獄
+	conviction WORD[37,   2]: 0.0020207 断罪
+TOKEN[38]: 0.0049333    1 resolution
+	resolution WORD[38,   1]: 0.0049333 断
+TOKEN[39]: 0.0048919    1 alcohol
+	alcohol WORD[39,   1]: 0.0048919 断酒
+TOKEN[40]: 0.0048747    3 supply
+	supply WORD[40,   1]: 0.0016383 断水
+	supply WORD[40,   2]: 0.0016182 断ち切る
+	supply WORD[40,   3]: 0.0016182 断切る
+TOKEN[41]: 0.0048140    2 amputation
+	amputation WORD[41,   1]: 0.0024070 切断
+	amputation WORD[41,   2]: 0.0024070 截断
+TOKEN[42]: 0.0047109    1 metal
+	metal WORD[42,   1]: 0.0023555 断金
+TOKEN[43]: 0.0046317    2 carrying
+	carrying WORD[43,   1]: 0.0015696 断行
+	carrying WORD[43,   2]: 0.0014924 処断
+TOKEN[44]: 0.0046056    1 point
+	point WORD[44,   1]: 0.0046056 断点
+TOKEN[45]: 0.0045909    2 rash
+	rash WORD[45,   1]: 0.0029353 妄断
+	rash WORD[45,   2]: 0.0016556 速断
+TOKEN[46]: 0.0045722    3 advance
+	advance WORD[46,   1]: 0.0018241 無断
+	advance WORD[46,   2]: 0.0013741 断る
+	advance WORD[46,   3]: 0.0013741 断わる
+TOKEN[47]: 0.0045264    2 conclusive
+	conclusive WORD[47,   1]: 0.0022632 断乎
+	conclusive WORD[47,   2]: 0.0022632 断固
+TOKEN[48]: 0.0044803    2 rupture
+	rupture WORD[48,   1]: 0.0023553 破断
+	rupture WORD[48,   2]: 0.0021250 断絶
+TOKEN[49]: 0.0044293    1 absence
+	absence WORD[49,   1]: 0.0044293 無断
+TOKEN[50]: 0.0043895    2 nonacceptance
+	nonacceptance WORD[50,   1]: 0.0021947 断り
+	nonacceptance WORD[50,   2]: 0.0021947 断わり
+TOKEN[51]: 0.0043842    1 strong
+	strong WORD[51,   1]: 0.0021921 断金
+TOKEN[52]: 0.0041976    2 network
+	network WORD[52,   1]: 0.0020988 断ち切る
+	network WORD[52,   2]: 0.0020988 断切る
+TOKEN[53]: 0.0041736    1 lack
+	lack WORD[53,   1]: 0.0041736 無断
+TOKEN[54]: 0.0041679    2 declination
+	declination WORD[54,   1]: 0.0020839 断り
+	declination WORD[54,   2]: 0.0020839 断わり
+TOKEN[55]: 0.0041549    1 enforcement
+	enforcement WORD[55,   1]: 0.0020775 断行
+TOKEN[56]: 0.0041485    2 apart
+	apart WORD[56,   1]: 0.0020742 断ち切り
+	apart WORD[56,   2]: 0.0020742 断切り
+TOKEN[57]: 0.0041288    1 militarism
+	militarism WORD[57,   1]: 0.0041288 武断
+TOKEN[58]: 0.0040219    2 plea
+	plea WORD[58,   1]: 0.0020110 断り
+	plea WORD[58,   2]: 0.0020110 断わり
+TOKEN[59]: 0.0040102    2 crime
+	crime WORD[59,   1]: 0.0024225 断獄
+	crime WORD[59,   2]: 0.0015877 断罪
+TOKEN[60]: 0.0039784    2 determined
+	determined WORD[60,   1]: 0.0019892 断乎
+	determined WORD[60,   2]: 0.0019892 断固
+TOKEN[61]: 0.0039232    2 conclude
+	conclude WORD[61,   1]: 0.0019616 断ずる
+	conclude WORD[61,   2]: 0.0019616 断じる
+TOKEN[62]: 0.0039016    2 vicious
+	vicious WORD[62,   1]: 0.0019508 断ち切る
+	vicious WORD[62,   2]: 0.0019508 断切る
+TOKEN[63]: 0.0038677    2 giving
+	giving WORD[63,   1]: 0.0023643 茶断ち
+	giving WORD[63,   2]: 0.0015034 断念
+TOKEN[64]: 0.0038499    1 power
+	power WORD[64,   1]: 0.0038499 瞬断
+TOKEN[65]: 0.0038286    2 determine
+	determine WORD[65,   1]: 0.0019143 断ずる
+	determine WORD[65,   2]: 0.0019143 断じる
+TOKEN[66]: 0.0038077    2 declaration
+	declaration WORD[66,   1]: 0.0019040 断定
+	declaration WORD[66,   2]: 0.0019037 断言
+TOKEN[67]: 0.0037686    2 fragment
+	fragment WORD[67,   1]: 0.0018844 断片
+	fragment WORD[67,   2]: 0.0018841 断章
+TOKEN[68]: 0.0037322    2 decide
+	decide WORD[68,   1]: 0.0018661 断ずる
+	decide WORD[68,   2]: 0.0018661 断じる
+TOKEN[69]: 0.0037215    2 dismiss
+	dismiss WORD[69,   1]: 0.0018608 断る
+	dismiss WORD[69,   2]: 0.0018607 断わる
+TOKEN[70]: 0.0037115    1 snap
+	snap WORD[70,   1]: 0.0037115 即断
+TOKEN[71]: 0.0036916    2 inform
+	inform WORD[71,   1]: 0.0018458 断る
+	inform WORD[71,   2]: 0.0018458 断わる
+TOKEN[72]: 0.0036633    2 refusal
+	refusal WORD[72,   1]: 0.0018317 断り
+	refusal WORD[72,   2]: 0.0018317 断わり
+TOKEN[73]: 0.0036540    3 paper
+	paper WORD[73,   1]: 0.0012437 断ち切る
+	paper WORD[73,   2]: 0.0012437 断切る
+	paper WORD[73,   3]: 0.0011665 裁断
+TOKEN[74]: 0.0036302    2 discretion
+	discretion WORD[74,   1]: 0.0018151 専断
+	discretion WORD[74,   2]: 0.0018151 擅断
+TOKEN[75]: 0.0035930    2 attachment
+	attachment WORD[75,   1]: 0.0017965 断ち切る
+	attachment WORD[75,   2]: 0.0017965 断切る
+TOKEN[76]: 0.0035810    1 ditto
+	ditto WORD[76,   1]: 0.0035810 同断
+TOKEN[77]: 0.0035791    2 intelligence
+	intelligence WORD[77,   1]: 0.0017895 断ち切る
+	intelligence WORD[77,   2]: 0.0017895 断切る
+TOKEN[78]: 0.0035363    1 heartbreak
+	heartbreak WORD[78,   1]: 0.0035363 断腸
+TOKEN[79]: 0.0035353    1 fragmentary
+	fragmentary WORD[79,   1]: 0.0035353 断想
+TOKEN[80]: 0.0034877    1 divide
+	divide WORD[80,   1]: 0.0034877 断ち割る
+TOKEN[81]: 0.0034874    2 rejection
+	rejection WORD[81,   1]: 0.0017437 断り
+	rejection WORD[81,   2]: 0.0017437 断わり
+TOKEN[82]: 0.0034811    2 judge
+	judge WORD[82,   1]: 0.0017406 断ずる
+	judge WORD[82,   2]: 0.0017405 断じる
+TOKEN[83]: 0.0034527    2 notification
+	notification WORD[83,   1]: 0.0017264 断り
+	notification WORD[83,   2]: 0.0017264 断わり
+TOKEN[84]: 0.0033996    2 retreat
+	retreat WORD[84,   1]: 0.0016998 断ち切る
+	retreat WORD[84,   2]: 0.0016998 断切る
+TOKEN[85]: 0.0033935    1 insulation
+	insulation WORD[85,   1]: 0.0033935 断熱
+TOKEN[86]: 0.0033881    1 split
+	split WORD[86,   1]: 0.0033881 断ち割る
+TOKEN[87]: 0.0033803    2 gap
+	gap WORD[87,   1]: 0.0016902 断層
+	gap WORD[87,   2]: 0.0016901 断絶
+TOKEN[88]: 0.0033509    1 presupposition
+	presupposition WORD[88,   1]: 0.0033509 予断
+TOKEN[89]: 0.0033509    1 prejudgment
+	prejudgment WORD[89,   1]: 0.0033509 予断
+TOKEN[90]: 0.0033386    2 habit
+	habit WORD[90,   1]: 0.0016693 断ち切る
+	habit WORD[90,   2]: 0.0016693 断切る
+TOKEN[91]: 0.0033311    2 suspension
+	suspension WORD[91,   1]: 0.0016684 中断
+	suspension WORD[91,   2]: 0.0016627 断水
+TOKEN[92]: 0.0032883    2 refuse
+	refuse WORD[92,   1]: 0.0016442 断る
+	refuse WORD[92,   2]: 0.0016442 断わる
+TOKEN[93]: 0.0032768    2 warning
+	warning WORD[93,   1]: 0.0016384 断り
+	warning WORD[93,   2]: 0.0016384 断わり
+TOKEN[94]: 0.0032449    2 reject
+	reject WORD[94,   1]: 0.0016224 断る
+	reject WORD[94,   2]: 0.0016224 断わる
+TOKEN[95]: 0.0032276    2 acting
+	acting WORD[95,   1]: 0.0016138 専断
+	acting WORD[95,   2]: 0.0016138 擅断
+TOKEN[96]: 0.0032206    2 authority
+	authority WORD[96,   1]: 0.0016103 専断
+	authority WORD[96,   2]: 0.0016103 擅断
+TOKEN[97]: 0.0031780    2 ask
+	ask WORD[97,   1]: 0.0015890 断る
+	ask WORD[97,   2]: 0.0015890 断わる
+TOKEN[98]: 0.0031778    1 bisection
+	bisection WORD[98,   1]: 0.0031778 両断
+TOKEN[99]: 0.0031751    2 route
+	route WORD[99,   1]: 0.0015876 断ち切る
+	route WORD[99,   2]: 0.0015875 断切る
+TOKEN[100]: 0.0031694    2 cycle
+	cycle WORD[100,   1]: 0.0015847 断ち切る
+	cycle WORD[100,   2]: 0.0015847 断切る
+TOKEN[101]: 0.0031595    1 action
+	action WORD[101,   1]: 0.0015798 断行
+TOKEN[102]: 0.0031582    2 block
+	block WORD[102,   1]: 0.0015791 断ち切る
+	block WORD[102,   2]: 0.0015791 断切る
+TOKEN[103]: 0.0031549    1 best
+	best WORD[103,   1]: 0.0031549 断トツ
+TOKEN[104]: 0.0031439    1 foregone
+	foregone WORD[104,   1]: 0.0031439 予断
+TOKEN[105]: 0.0031277    2 consent
+	consent WORD[105,   1]: 0.0015638 断り
+	consent WORD[105,   2]: 0.0015638 断わり
+TOKEN[106]: 0.0031248    2 breaking
+	breaking WORD[106,   1]: 0.0015625 断絶
+	breaking WORD[106,   2]: 0.0015623 断交
+TOKEN[107]: 0.0030906    1 monument
+	monument WORD[107,   1]: 0.0030906 断碑
+TOKEN[108]: 0.0030507    1 indecisiveness
+	indecisiveness WORD[108,   1]: 0.0030507 不断
+TOKEN[109]: 0.0030382    1 snapping
+	snapping WORD[109,   1]: 0.0030382 断裂
+TOKEN[110]: 0.0030233    2 tell
+	tell WORD[110,   1]: 0.0015116 断る
+	tell WORD[110,   2]: 0.0015116 断わる
+TOKEN[111]: 0.0030067    1 lead
+	lead WORD[111,   1]: 0.0030067 断トツ
+TOKEN[112]: 0.0029993    1 reckless
+	reckless WORD[112,   1]: 0.0029993 妄断
+TOKEN[113]: 0.0029494    2 decline
+	decline WORD[113,   1]: 0.0014747 断る
+	decline WORD[113,   2]: 0.0014747 断わる
+TOKEN[114]: 0.0029081    1 drastic
+	drastic WORD[114,   1]: 0.0029081 果断
+TOKEN[115]: 0.0029078    1 monopoly
+	monopoly WORD[115,   1]: 0.0029078 壟断
+TOKEN[116]: 0.0028833    1 crossing
+	crossing WORD[116,   1]: 0.0028833 横断
+TOKEN[117]: 0.0028701    2 enemy
+	enemy WORD[117,   1]: 0.0014351 断ち切る
+	enemy WORD[117,   2]: 0.0014350 断切る
+TOKEN[118]: 0.0028622    1 unremitting
+	unremitting WORD[118,   1]: 0.0028622 不断
+TOKEN[119]: 0.0028583    2 stop
+	stop WORD[119,   1]: 0.0014292 断ち切る
+	stop WORD[119,   2]: 0.0014292 断切る
+TOKEN[120]: 0.0028486    1 random
+	random WORD[120,   1]: 0.0028486 断想
+TOKEN[121]: 0.0028462    1 inattention
+	inattention WORD[121,   1]: 0.0028462 油断
+TOKEN[122]: 0.0028462    1 unpreparedness
+	unpreparedness WORD[122,   1]: 0.0028462 油断
+TOKEN[123]: 0.0027997    1 open
+	open WORD[123,   1]: 0.0027997 断ち割る
+TOKEN[124]: 0.0027967    1 dogmatism
+	dogmatism WORD[124,   1]: 0.0027967 独断
+TOKEN[125]: 0.0027967    1 consulting
+	consulting WORD[125,   1]: 0.0027967 独断
+TOKEN[126]: 0.0027768    1 adjudication
+	adjudication WORD[126,   1]: 0.0027768 判断
+TOKEN[127]: 0.0027697    1 vow
+	vow WORD[127,   1]: 0.0027697 塩断ち
+TOKEN[128]: 0.0027674    1 verdict
+	verdict WORD[128,   1]: 0.0027674 論断
+TOKEN[129]: 0.0027339    1 trying
+	trying WORD[129,   1]: 0.0027339 断獄
+TOKEN[130]: 0.0027302    1 sewing
+	sewing WORD[130,   1]: 0.0027302 断ち落とし
+TOKEN[131]: 0.0026875    1 spiritual
+	spiritual WORD[131,   1]: 0.0026875 塩断ち
+TOKEN[132]: 0.0026737    1 sorrow
+	sorrow WORD[132,   1]: 0.0026737 断腸
+TOKEN[133]: 0.0026732    1 hour
+	hour WORD[133,   1]: 0.0026732 断末魔
+TOKEN[134]: 0.0026130    1 ceaseless
+	ceaseless WORD[134,   1]: 0.0026130 不断
+TOKEN[135]: 0.0025819    1 hasty
+	hasty WORD[135,   1]: 0.0025819 臆断
+TOKEN[136]: 0.0025720    1 hair
+	hair WORD[136,   1]: 0.0025720 断髪
+TOKEN[137]: 0.0025593    1 conjecture
+	conjecture WORD[137,   1]: 0.0025593 臆断
+TOKEN[138]: 0.0025305    2 leave
+	leave WORD[138,   1]: 0.0012652 断る
+	leave WORD[138,   2]: 0.0012652 断わる
+TOKEN[139]: 0.0025207    1 negligence
+	negligence WORD[139,   1]: 0.0025207 油断
+TOKEN[140]: 0.0025119    1 grief
+	grief WORD[140,   1]: 0.0025119 断腸
+TOKEN[141]: 0.0025016    1 carelessness
+	carelessness WORD[141,   1]: 0.0025016 油断
+TOKEN[142]: 0.0024795    1 haircutting
+	haircutting WORD[142,   1]: 0.0024795 断髪
+TOKEN[143]: 0.0024415    1 prediction
+	prediction WORD[143,   1]: 0.0024415 予断
+TOKEN[144]: 0.0024330    1 river
+	river WORD[144,   1]: 0.0024330 横断
+TOKEN[145]: 0.0024264    1 bridge
+	bridge WORD[145,   1]: 0.0024264 断橋
+TOKEN[146]: 0.0024245    1 habitual
+	habitual WORD[146,   1]: 0.0024245 不断
+TOKEN[147]: 0.0024221    1 cooking
+	cooking WORD[147,   1]: 0.0024221 断ち落とし
+TOKEN[148]: 0.0023928    1 desire
+	desire WORD[148,   1]: 0.0023928 断ち物
+TOKEN[149]: 0.0023905    2 turn
+	turn WORD[149,   1]: 0.0011953 断る
+	turn WORD[149,   2]: 0.0011952 断わる
+TOKEN[150]: 0.0023840    1 bob
+	bob WORD[150,   1]: 0.0023840 断髪
+TOKEN[151]: 0.0023840    1 bobbed
+	bobbed WORD[151,   1]: 0.0023840 断髪
+TOKEN[152]: 0.0023838    1 intermittence
+	intermittence WORD[152,   1]: 0.0023838 断続
+TOKEN[153]: 0.0023838    1 dislocation
+	dislocation WORD[153,   1]: 0.0023838 断層
+TOKEN[154]: 0.0023836    1 outage
+	outage WORD[154,   1]: 0.0023836 断水
+TOKEN[155]: 0.0023836    1 castration
+	castration WORD[155,   1]: 0.0023836 断種
+TOKEN[156]: 0.0023692    1 printing
+	printing WORD[156,   1]: 0.0023692 断ち落とし
+TOKEN[157]: 0.0023531    1 persistent
+	persistent WORD[157,   1]: 0.0023531 不断
+TOKEN[158]: 0.0023428    1 dividing
+	dividing WORD[158,   1]: 0.0023428 分断
+TOKEN[159]: 0.0023278    1 fracture
+	fracture WORD[159,   1]: 0.0023278 破断
+TOKEN[160]: 0.0023162    1 shred
+	shred WORD[160,   1]: 0.0023162 断片
+TOKEN[161]: 0.0023161    1 affirmative
+	affirmative WORD[161,   1]: 0.0023161 断定
+TOKEN[162]: 0.0022948    1 definite
+	definite WORD[162,   1]: 0.0022948 明断
+TOKEN[163]: 0.0022687    1 water
+	water WORD[163,   1]: 0.0022687 断水
+TOKEN[164]: 0.0022637    1 profile
+	profile WORD[164,   1]: 0.0022637 断面
+TOKEN[165]: 0.0022632    1 affirmation
+	affirmation WORD[165,   1]: 0.0022632 断言
+TOKEN[166]: 0.0022416    1 exterminate
+	exterminate WORD[166,   1]: 0.0022416 断つ
+TOKEN[167]: 0.0022120    1 salt
+	salt WORD[167,   1]: 0.0022120 塩断ち
+TOKEN[168]: 0.0021980    1 constant
+	constant WORD[168,   1]: 0.0021980 不断
+TOKEN[169]: 0.0021939    1 blockade
+	blockade WORD[169,   1]: 0.0021939 遮断
+TOKEN[170]: 0.0021939    1 deprivation
+	deprivation WORD[170,   1]: 0.0021939 遮断
+TOKEN[171]: 0.0021842    1 intermittent
+	intermittent WORD[171,   1]: 0.0021842 断続
+TOKEN[172]: 0.0021840    1 sterilization
+	sterilization WORD[172,   1]: 0.0021840 断種
+TOKEN[173]: 0.0021527    1 extinction
+	extinction WORD[173,   1]: 0.0021527 断絶
+TOKEN[174]: 0.0021525    1 assertion
+	assertion WORD[174,   1]: 0.0021525 断言
+TOKEN[175]: 0.0021445    1 everyday
+	everyday WORD[175,   1]: 0.0021445 不断
+TOKEN[176]: 0.0021430    1 misjudgement
+	misjudgement WORD[176,   1]: 0.0021430 誤断
+TOKEN[177]: 0.0021369    1 last
+	last WORD[177,   1]: 0.0021369 断末魔
+TOKEN[178]: 0.0021250    1 discontinuation
+	discontinuation WORD[178,   1]: 0.0021250 断絶
+TOKEN[179]: 0.0021247    1 bluff
+	bluff WORD[179,   1]: 0.0021247 断崖
+TOKEN[180]: 0.0021201    1 stone
+	stone WORD[180,   1]: 0.0021201 断碑
+TOKEN[181]: 0.0021195    1 tea
+	tea WORD[181,   1]: 0.0021195 茶断ち
+TOKEN[182]: 0.0021045    1 eradicate
+	eradicate WORD[182,   1]: 0.0021045 断つ
+TOKEN[183]: 0.0021034    1 quarantine
+	quarantine WORD[183,   1]: 0.0021034 遮断
+TOKEN[184]: 0.0021034    1 interception
+	interception WORD[184,   1]: 0.0021034 遮断
+TOKEN[185]: 0.0021000    1 fasting
+	fasting WORD[185,   1]: 0.0021000 断食
+TOKEN[186]: 0.0020861    1 interdiction
+	interdiction WORD[186,   1]: 0.0020861 禁断
+TOKEN[187]: 0.0020820    1 diagnosis
+	diagnosis WORD[187,   1]: 0.0020820 診断
+TOKEN[188]: 0.0020799    1 abstain
+	abstain WORD[188,   1]: 0.0020799 断つ
+TOKEN[189]: 0.0020645    1 imperial
+	imperial WORD[189,   1]: 0.0020645 聖断
+TOKEN[190]: 0.0020569    1 precipice
+	precipice WORD[190,   1]: 0.0020569 断崖
+TOKEN[191]: 0.0020385    1 retiring
+	retiring WORD[191,   1]: 0.0020385 断筆
+TOKEN[192]: 0.0020384    1 commanding
+	commanding WORD[192,   1]: 0.0020384 断トツ
+TOKEN[193]: 0.0020342    1 normal
+	normal WORD[193,   1]: 0.0020342 不断
+TOKEN[194]: 0.0020192    2 something
+	something WORD[194,   1]: 0.0010096 断ち切り
+	something WORD[194,   2]: 0.0010096 断切り
+TOKEN[195]: 0.0020181    1 traversing
+	traversing WORD[195,   1]: 0.0020181 横断
+TOKEN[196]: 0.0020109    1 tearing
+	tearing WORD[196,   1]: 0.0020109 寸断
+TOKEN[197]: 0.0020000    1 forbidden
+	forbidden WORD[197,   1]: 0.0020000 禁断
+TOKEN[198]: 0.0019896    1 inference
+	inference WORD[198,   1]: 0.0019896 推断
+TOKEN[199]: 0.0019895    1 discrepancy
+	discrepancy WORD[199,   1]: 0.0019895 断層
+TOKEN[200]: 0.0019893    1 context
+	context WORD[200,   1]: 0.0019893 断章
+TOKEN[201]: 0.0019352    1 deduction
+	deduction WORD[201,   1]: 0.0019352 推断
+TOKEN[202]: 0.0019283    1 usual
+	usual WORD[202,   1]: 0.0019283 不断
+TOKEN[203]: 0.0019040    1 cream
+	cream WORD[203,   1]: 0.0019040 断トツ
+TOKEN[204]: 0.0018976    1 train
+	train WORD[204,   1]: 0.0018976 轢断
+TOKEN[205]: 0.0018940    1 writer
+	writer WORD[205,   1]: 0.0018940 断筆
+TOKEN[206]: 0.0018938    1 regard
+	regard WORD[206,   1]: 0.0018938 断章
+TOKEN[207]: 0.0018606    1 explanatory
+	explanatory WORD[207,   1]: 0.0018606 断り書き
+TOKEN[208]: 0.0018460    1 prompt
+	prompt WORD[208,   1]: 0.0018460 即断
+TOKEN[209]: 0.0018412    1 fast
+	fast WORD[209,   1]: 0.0018412 断食
+TOKEN[210]: 0.0018411    1 cliff
+	cliff WORD[210,   1]: 0.0018411 断崖
+TOKEN[211]: 0.0018336    1 shot
+	shot WORD[211,   1]: 0.0018336 断然
+TOKEN[212]: 0.0018269    1 ordinary
+	ordinary WORD[212,   1]: 0.0018269 不断
+TOKEN[213]: 0.0018135    1 isolation
+	isolation WORD[213,   1]: 0.0018135 遮断
+TOKEN[214]: 0.0017920    1 generation
+	generation WORD[214,   1]: 0.0017920 断絶
+TOKEN[215]: 0.0017679    1 scrap
+	scrap WORD[215,   1]: 0.0017679 断片
+TOKEN[216]: 0.0017507    1 suppress
+	suppress WORD[216,   1]: 0.0017507 断つ
+TOKEN[217]: 0.0017475    1 determination
+	determination WORD[217,   1]: 0.0017475 決断
+TOKEN[218]: 0.0017460    1 pen
+	pen WORD[218,   1]: 0.0017460 断筆
+TOKEN[219]: 0.0017211    1 hope
+	hope WORD[219,   1]: 0.0017211 断念
+TOKEN[220]: 0.0017163    1 two
+	two WORD[220,   1]: 0.0017163 轢断
+TOKEN[221]: 0.0017095    1 clear
+	clear WORD[221,   1]: 0.0017095 明断
+TOKEN[222]: 0.0016900    1 literary
+	literary WORD[222,   1]: 0.0016900 断章
+TOKEN[223]: 0.0016630    1 cross
+	cross WORD[223,   1]: 0.0016630 断面
+TOKEN[224]: 0.0016522    1 length
+	length WORD[224,   1]: 0.0016522 断髪
+TOKEN[225]: 0.0016516    1 prohibition
+	prohibition WORD[225,   1]: 0.0016516 禁断
+TOKEN[226]: 0.0016486    1 dying
+	dying WORD[226,   1]: 0.0016486 断絶
+TOKEN[227]: 0.0016418    1 fault
+	fault WORD[227,   1]: 0.0016418 断層
+TOKEN[228]: 0.0016385    1 crop
+	crop WORD[228,   1]: 0.0016385 断トツ
+TOKEN[229]: 0.0016161    1 passage
+	passage WORD[229,   1]: 0.0016161 断章
+TOKEN[230]: 0.0015934    1 write
+	write WORD[230,   1]: 0.0015934 断筆
+TOKEN[231]: 0.0015922    1 medical
+	medical WORD[231,   1]: 0.0015922 診断
+TOKEN[232]: 0.0015874    1 sailing
+	sailing WORD[232,   1]: 0.0015874 横断
+TOKEN[233]: 0.0015825    1 wrong
+	wrong WORD[233,   1]: 0.0015825 断然
+TOKEN[234]: 0.0015687    1 pause
+	pause WORD[234,   1]: 0.0015687 間断
+TOKEN[235]: 0.0015586    1 examination
+	examination WORD[235,   1]: 0.0015586 診断
+TOKEN[236]: 0.0015045    1 sentence
+	sentence WORD[236,   1]: 0.0015045 処断
+TOKEN[237]: 0.0014693    1 track
+	track WORD[237,   1]: 0.0014693 横断
+TOKEN[238]: 0.0014380    1 railway
+	railway WORD[238,   1]: 0.0014380 横断
+TOKEN[239]: 0.0014355    1 different
+	different WORD[239,   1]: 0.0014355 断然
+TOKEN[240]: 0.0014301    1 piece
+	piece WORD[240,   1]: 0.0014301 断片
+TOKEN[241]: 0.0014236    1 note
+	note WORD[241,   1]: 0.0014236 断り書き
+TOKEN[242]: 0.0013853    1 short
+	short WORD[242,   1]: 0.0013853 断髪
+TOKEN[243]: 0.0013841    1 long
+	long WORD[243,   1]: 0.0013841 断然
+TOKEN[244]: 0.0013658    1 flying
+	flying WORD[244,   1]: 0.0013658 横断
+TOKEN[245]: 0.0013604    1 measure
+	measure WORD[245,   1]: 0.0013604 英断
+TOKEN[246]: 0.0013447    1 running
+	running WORD[246,   1]: 0.0013447 縦断
+TOKEN[247]: 0.0013273    1 writing
+	writing WORD[247,   1]: 0.0013273 断筆
+TOKEN[248]: 0.0013258    1 made
+	made WORD[248,   1]: 0.0013258 独断
+TOKEN[249]: 0.0013255    1 excellent
+	excellent WORD[249,   1]: 0.0013255 英断
+TOKEN[250]: 0.0013172    1 cloth
+	cloth WORD[250,   1]: 0.0013172 裁断
+TOKEN[251]: 0.0013072    1 step
+	step WORD[251,   1]: 0.0013072 英断
+TOKEN[252]: 0.0012979    1 town
+	town WORD[252,   1]: 0.0012979 横断
+TOKEN[253]: 0.0012208    1 family
+	family WORD[253,   1]: 0.0012208 断絶
+TOKEN[254]: 0.0011961    1 road
+	road WORD[254,   1]: 0.0011961 横断
+TOKEN[255]: 0.0009923    1 time
+	time WORD[255,   1]: 0.0009923 間断

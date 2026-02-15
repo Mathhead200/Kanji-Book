@@ -1,0 +1,1863 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0438109   27 music          : 式楽, 清楽, 女楽, 管弦楽, 俗楽, 正楽, 楽才, 管楽, 唐楽, 楽箏, ...
+0.0436322   50 medicine       : 補薬, 和薬, 当薬, 名薬, 漢薬, 売り薬, 薬名, 中薬, かぜ薬, 風邪薬, ...
+0.0336314   26 drug           : 痩せ薬, 薬中, 原薬, 休薬, 創薬, 売り薬, 霊薬, 薬名, 薬疹, 薬害, ...
+0.0182429    2 enjoyable      : 楽事, 楽しい
+0.0164005    1 ceremonial     : 式楽
+0.0159022    4 pleasant       : 楽事, 楽ちん, 楽チン, 楽しい
+0.0150561   11 Chinese        : 清楽, 補薬, 中薬, 唐楽, 楽府, 漢薬, 明楽, 芍薬, 薬膳, 薬種, ...
+0.0136902    4 song           : 神楽歌, 楽府, 楽舞, 唐楽
+0.0134738    3 performance    : 太神楽, 伎楽, 奏楽
+0.0127935    7 dance          : 太神楽, 神楽殿, 女楽, 楽舞, 唐楽, 田楽, 舞楽
+0.0111708    1 matter         : 楽事
+0.0096584    8 ointment       : 付け薬, 傷薬, 油薬, 脂薬, 膏薬, 塗り薬, 塗薬, 薬
+0.0095990    1 juggling       : 太神楽
+0.0095499    2 adjuvant       : 補薬, 加薬
+0.0093400    8 pharmacy       : 薬店, 薬科, 薬袋, 薬局, 薬舗, 薬鋪, 薬学, 薬屋
+0.0091671    2 century        : 清楽, 明楽
+0.0091207    9 Japanese       : 太神楽, 和薬, 催馬楽, 邦楽, 独楽鼠, 楽天, 貝独楽, 文楽, 雅楽
+0.0089928    5 potion         : ほれ薬, 惚れ薬, 傷薬, 媚薬, 水薬
+0.0087532    2 japonica       : 太神楽, 当薬
+0.0085847    6 remedy         : 合い薬, 秘薬, かぜ薬, 風邪薬, 適薬, 生薬
+0.0085611    1 cultivar       : 太神楽
+0.0085226    1 Camellia       : 太神楽
+0.0084271    3 early          : 清楽, 明楽, 古楽
+0.0079673    1 lion           : 太神楽
+0.0076107    5 Japan          : 清楽, 明楽, 散楽, 猿楽, 申楽
+0.0070830    5 used           : 痩せ薬, 当薬, 楽箏, 楽焼, 楽焼き
+0.0069364    1 grand          : 太神楽
+0.0069022   14 pleasure       : 快楽, 放楽, 法楽, 逸楽, 哀楽, 愉楽, 楽しむ, 楽しみ, 娯楽, 行楽, ...
+0.0068073    3 philter        : ほれ薬, 惚れ薬, 媚薬
+0.0065756    1 stimulant      : 補薬
+0.0065179    2 type           : 太神楽, 楽箏
+0.0062896    3 aphrodisiac    : ほれ薬, 惚れ薬, 媚薬
+0.0061093    6 traditional    : 当薬, 和薬, 中薬, 薬膳, 神楽, 邦楽
+0.0058521    6 drugstore      : 薬店, 薬舗, 薬鋪, 買い薬, 薬局, 薬屋
+0.0057893    7 court          : 正楽, 女楽, 催馬楽, 典薬, 俗楽, 舞楽, 雅楽
+0.0057622    5 gunpowder      : 硝薬, 薬袋, 装薬, 薬, 火薬
+0.0056541    5 liniment       : 油薬, 脂薬, 膏薬, 塗り薬, 塗薬
+0.0055801    6 medicinal      : 薬材, 薬草, 薬膳, 薬酒, 薬用, 薬湯
+0.0055637    3 folk           : 楽府, 和薬, 催馬楽
+0.0054699    5 chemist        : 薬店, 薬屋, 薬舗, 薬鋪, 薬局
+0.0054699    3 medication     : 休薬, 買い薬, 投薬
+0.0053080    2 mouthwash      : うがい薬, 嗽薬
+0.0052539    1 reduction      : 痩せ薬
+0.0052499    9 musical        : 楽界, 楽典, 楽節, 楽音, 奏楽, 楽曲, 楽器, 楽壇, 楽劇
+0.0050269    4 patch          : 貼り薬, 油薬, 脂薬, 膏薬
+0.0050104    3 cold           : かぜ薬, 風邪薬, 薬食い
+0.0049867    1 weight         : 痩せ薬
+0.0049289    9 medical        : 薬効, 薬礼, 薬石, 煎薬, 煎じ薬, 薬湯, 貼り薬, 塗り薬, 塗薬
+0.0044670    3 anesthetic     : しびれ薬, 痺れ薬, 眠り薬
+0.0042695    5 musician       : 楽聖, 楽人, 楽匠, 楽士, 楽師
+0.0042633    1 bulk           : 原薬
+0.0042468    1 Swertia        : 当薬
+0.0042205    1 cessation      : 休薬
+0.0041912    6 amusement      : 遊楽, 放楽, 法楽, 道楽, 楽しみ, 娯楽
+0.0041499    4 chemical       : 薬傷, 薬剤, 農薬, 薬
+0.0040387    4 cartridge      : 薬筒, 薬包, 薬きょう, 薬莢
+0.0039203    4 salve          : 傷薬, 塗り薬, 塗薬, 薬
+0.0037882    1 Lonicera       : 鶯神楽
+0.0037287    1 substance      : 原薬
+0.0037233    1 honeysuckle    : 鶯神楽
+0.0036988    3 love           : ほれ薬, 惚れ薬, 媚薬
+0.0036562    4 ammunition     : 薬筒, 薬きょう, 薬莢, 弾薬
+0.0036236    5 comfortable    : 楽ちん, 楽チン, 楽寝, 気楽, 楽
+0.0036182    3 plaster        : 油薬, 脂薬, 膏薬
+0.0035919    1 withdrawal     : 休薬
+0.0034389    4 pastime        : 放楽, 法楽, 道楽, 娯楽
+0.0034122    3 genre          : 楽府, 催馬楽, 伎楽
+0.0033864    3 spinning       : 独楽回し, 貝独楽, 独楽
+0.0033199    2 lotion         : 付け薬, 差し薬
+0.0032818    3 raku           : 楽焼, 楽焼き, 楽
+0.0031629    4 glaze          : うわ薬, 上薬, 釉薬, 薬
+0.0031559    1 electuary      : 練り薬
+0.0031521    4 pottery        : 楽焼, 楽焼き, 薬, 楽
+0.0031079    1 addict         : 薬中
+0.0030844    4 dancing        : 楽舞, 独楽鼠, 神楽, 田楽
+0.0030739    1 orchestral     : 管弦楽
+0.0030709    3 fooling        : 散楽, 猿楽, 申楽
+0.0029792    2 patent         : 売り薬, 売薬
+0.0029550    1 addiction      : 薬中
+0.0029332    3 prescription   : 薬袋, 買い薬, 薬方
+0.0029081    4 easy           : 楽勝, 楽ちん, 楽チン, 楽
+0.0028095    2 bag            : 薬袋, 薬玉
+0.0027044    4 popular        : 俗楽, 散楽, 猿楽, 申楽
+0.0026962    2 laxative       : 下薬, 下し薬
+0.0026894    2 specific       : 合い薬, 適薬
+0.0026732    4 rice           : 薬食, 田楽, 薬石, 加薬
+0.0026402    3 narcotic       : 眠り薬, 麻薬, 薬
+0.0025703    3 decoction      : 煎薬, 煎じ薬, 薬湯
+0.0025613    3 entertainment  : 法楽, 放楽, 娯楽
+0.0025505    2 bottle         : 薬瓶, 薬袋
+0.0025278    3 bald           : 薬缶, 薬罐, 薬鑵
+0.0025236    3 top            : 独楽回し, 貝独楽, 独楽
+0.0025017    1 dried          : 当薬
+0.0024932    2 bandsman       : 楽員, 楽士
+0.0024666    3 kettle         : 薬缶, 薬罐, 薬鑵
+0.0024555    3 wonder         : 霊薬, 妙薬, 秘薬
+0.0023453    3 enamel         : うわ薬, 上薬, 釉薬
+0.0023287    2 comfy          : 楽ちん, 楽チン
+0.0023163    4 powder         : 爆薬, 眠り薬, 粉薬, 火薬
+0.0022507    3 infusion       : 煎薬, 煎じ薬, 薬湯
+0.0022397    4 poison         : 薬毒, 薬殺, 毒薬, 劇薬
+0.0022191    2 herbal         : 漢薬, 生薬
+0.0022021    3 free           : 楽座, 法楽, 施薬
+0.0021337    3 paradise       : 楽土, 極楽, 楽園
+0.0020792    2 glazed         : 楽焼, 楽焼き
+0.0020677    3 hobby          : 道楽, 楽しみ, 娯楽
+0.0020564    1 feeder         : 薬筒
+0.0020563    1 tantric        : 勝楽
+0.0020406    3 eye            : 差し薬, 点薬, 目薬
+0.0020310    3 simple         : 楽ちん, 楽チン, 楽
+0.0020108    2 deity          : 勝楽, 法楽
+0.0019748    1 supper         : 薬石
+0.0019654    1 chlorine       : 薬筒
+0.0019232    2 elixir         : 妙薬, 仙薬
+0.0019116    1 finger         : 薬指
+0.0018852    1 species        : 鶯神楽
+0.0018702    3 ancient        : 楽箏, 唐楽, 古楽
+0.0018658    3 form           : 散楽, 猿楽, 申楽
+0.0018592    1 sacred         : 神楽殿
+0.0018431    1 placebo        : 偽薬
+0.0018416    2 miracle        : 霊薬, 妙薬
+0.0018189    1 talent         : 楽才
+0.0018107    1 hall           : 神楽殿
+0.0018056    2 bribe          : 鼻薬, 薬
+0.0017682    2 suppository    : 坐薬, 座薬
+0.0017604    1 vial           : 薬瓶
+0.0017419    2 peace          : 和楽, 楽
+0.0017314    2 world          : 楽界, 楽壇
+0.0017295    2 pesticide      : 農薬, 薬
+0.0017081    2 subject        : 薬科, 楽想
+0.0016986    2 fired          : 楽焼, 楽焼き
+0.0016676    2 earthenware    : 楽焼, 楽焼き
+0.0016538    2 ware           : 楽焼, 楽焼き
+0.0016506    2 pill           : 丸薬, 薬
+0.0016338    3 head           : 薬缶, 薬罐, 薬鑵
+0.0016238    1 stage          : 神楽殿
+0.0015948    2 druggist       : 薬研, 薬屋
+0.0015869    2 doodle         : 楽書, 楽書き
+0.0015640    1 shrine         : 神楽殿
+0.0015486    1 eruption       : 薬疹
+0.0015357    1 ingredient     : 薬材
+0.0015297    1 tournament     : 楽日
+0.0015287    2 new            : 創薬, 新薬
+0.0015274    1 wind           : 管楽
+0.0015230    2 Buddha         : 法楽, 薬師
+0.0015067    1 prepare        : 薬店
+0.0015047    3 ease           : 気楽, 楽, 安楽
+0.0015044    2 style          : 楽府, 唐楽
+0.0014788    1 tube           : 薬筒
+0.0014748    1 effective      : 名薬
+0.0014452    1 Zen            : 薬石
+0.0014415    2 small          : 薬袋, 薬
+0.0014356    3 shell          : 薬きょう, 薬莢, 貝独楽
+0.0014305    1 conglomerate   : 楽天
+0.0014199    2 harmful        : 薬害, 薬禍
+0.0014174    1 discovery      : 創薬
+0.0014088    1 chamber        : 薬室
+0.0013780    2 scribble       : 楽書, 楽書き
+0.0013780    2 scrawl         : 楽書, 楽書き
+0.0013736    1 responsible    : 楽府
+0.0013627    3 enjoyment      : 楽しみ, 享楽, 歓楽
+0.0013616    1 prodigality    : 道楽
+0.0013560    1 koto           : 楽箏
+0.0013554    1 rash           : 薬疹
+0.0013549    3 dependence     : 薬づけ, 薬漬, 薬漬け
+0.0013467    1 sleeping       : 眠り薬
+0.0013419    2 effects        : 薬害, 薬禍
+0.0013396    2 celebrated     : 楽聖, 楽匠
+0.0013338    2 powdered       : 散薬, 粉薬
+0.0013170    4 one            : 薬店, 持薬, 楽髪, 田楽
+0.0013140    2 based          : 薬膳, 唐楽
+0.0013073    1 fourth         : 薬指
+0.0013064    2 lead           : 楽焼, 楽焼き
+0.0013064    1 composed       : 楽府
+0.0013021    1 Korean         : 薬食
+0.0012939    2 liquid         : 薬液, 水薬
+0.0012578    1 sole           : 楽座
+0.0012536    1 profligacy     : 道楽
+0.0012536    1 indulging      : 道楽
+0.0012476    1 phrase         : 楽句
+0.0012406    2 low            : 楽焼, 楽焼き
+0.0012253    1 temple         : 薬石
+0.0012252    1 gun            : 薬室
+0.0012199    1 singing        : 楽舞
+0.0012149    2 comfort        : 楽, 安楽
+0.0012127    1 myrrh          : 没薬
+0.0012072    1 sweet          : 薬食
+0.0012052    1 carrying       : 薬袋
+0.0012035    1 chartula       : 薬包
+0.0012006    1 poetry         : 楽府
+0.0011986    2 ceremony       : 楽焼, 楽焼き
+0.0011969    1 burn           : 薬傷
+0.0011938    1 secret         : 秘薬
+0.0011926    1 dynasty        : 楽府
+0.0011925    1 dish           : 薬食
+0.0011922    3 fun            : 楽しむ, 楽しい, 歓楽
+0.0011870    1 injury         : 薬傷
+0.0011865    1 last           : 楽日
+0.0011846    1 Buddhist       : 勝楽
+0.0011808    2 tea            : 楽焼, 楽焼き
+0.0011718    1 harmony        : 和楽
+0.0011686    2 sorority       : 俱楽部, 倶楽部
+0.0011664    1 nostrum        : 秘薬
+0.0011510    1 efficacious    : 薬
+0.0011504    1 debauchery     : 道楽
+0.0011444    1 bat            : 神楽蝙蝠
+0.0011378    2 orchestra      : 楽隊, 楽団
+0.0011360    2 effect         : 薬効, 薬理
+0.0011357    1 sitting        : 楽座
+0.0011355    1 lesser         : 神楽蝙蝠
+0.0011329    1 box            : 薬箱
+0.0011276    2 clubhouse      : 俱楽部, 倶楽部
+0.0011213    1 apothecary     : 薬屋
+0.0011074    1 design         : 創薬
+0.0011049    2 string         : 弦楽, 絃楽
+0.0010960    3 play           : 楽勝, 能楽, 楽劇
+0.0010901    1 dissipation    : 道楽
+0.0010813    1 name           : 薬名
+0.0010644    1 development    : 創薬
+0.0010604    1 Paeonia        : 芍薬
+0.0010441    1 day            : 楽日
+0.0010422    1 peony          : 芍薬
+0.0010351    1 office         : 楽府
+0.0010283    2 fraternity     : 俱楽部, 倶楽部
+0.0010278    2 cream          : 塗り薬, 塗薬
+0.0010274    1 enjoying       : 偕楽
+0.0010115    1 natural        : 生薬
+0.0010090    1 government     : 楽府
+0.0010030    2 meat           : 薬食い, 加薬
+0.0010020    2 life           : 法楽, 仙薬
+0.0009989    1 open           : 楽座
+0.0009989    1 ground         : 楽座
+0.0009984    1 cattle         : 伯楽
+0.0009981    2 band           : 楽隊, 楽団
+0.0009965    1 panacea        : 仙薬
+0.0009956    1 blasting       : 爆薬
+0.0009810    2 side           : 薬害, 薬禍
+0.0009695    1 galenical      : 生薬
+0.0009666    1 favorite       : 道楽
+0.0009541    1 nervousness    : 虫薬
+0.0009512    1 porridge       : 薬石
+0.0009417    3 good           : 良薬, 伯楽, 楽しむ
+0.0009375    2 child          : 鼻薬, 楽勝
+0.0009349    1 soothing       : 鼻薬
+0.0009346    1 part           : 楽部
+0.0009311    1 miraculous     : 霊薬
+0.0009311    1 bandmaster     : 楽長
+0.0009255    1 cabinet        : 薬棚
+0.0009211    1 manufacture    : 製薬
+0.0009166    2 case           : 薬きょう, 薬莢
+0.0009127    1 pious          : 法楽
+0.0009102    1 gambling       : 道楽
+0.0009087    1 chameleon      : 十薬
+0.0008909    1 beverage       : 薬酒
+0.0008891    1 loose          : 道楽
+0.0008883    1 dispensation   : 施薬
+0.0008852    1 relaxation     : 楽
+0.0008849    1 efficacy       : 薬効
+0.0008783    1 compositional  : 楽典
+0.0008774    1 information    : 楽天
+0.0008758    1 herb           : 薬草
+0.0008730    1 evacuant       : 下し薬
+0.0008717    1 peasy          : 楽勝
+0.0008717    1 cakewalk       : 楽勝
+0.0008631    1 mortar         : 薬研
+0.0008510    1 Mus            : 独楽鼠
+0.0008461    1 hush           : 鼻薬
+0.0008454    1 purgative      : 下し薬
+0.0008432    1 way            : 楽座
+0.0008377    2 use            : 田楽, 薬用
+0.0008270    1 alcoholic      : 薬酒
+0.0008246    1 alcohol        : 道楽
+0.0008244    2 fish           : 加薬, 田楽
+0.0008223    1 walkover       : 楽勝
+0.0008212    1 pharmaceutics  : 薬学
+0.0008206    2 master         : 楽聖, 楽師
+0.0008108    1 explosive      : 爆薬
+0.0008092    1 cure           : 妙薬
+0.0008090    2 taking         : 楽観, 服薬
+0.0007985    1 illegal        : 薬
+0.0007953    2 shop           : 薬局, 薬屋
+0.0007948    1 melodic        : 楽想
+0.0007923    1 etiquette      : 礼楽
+0.0007828    1 happiness      : 楽
+0.0007796    1 pouring        : 灰神楽
+0.0007745    1 dispensary     : 薬局
+0.0007729    1 Eden           : 楽園
+0.0007729    1 masked         : 伎楽
+0.0007720    1 nasal          : 鼻薬
+0.0007609    1 admission      : 法楽
+0.0007560    2 club           : 俱楽部, 倶楽部
+0.0007530    2 green          : 薬味, 楽屋
+0.0007495    1 spray          : 鼻薬
+0.0007476    1 bought         : 買い薬
+0.0007458    1 physician      : 典薬
+0.0007449    1 place          : 楽所
+0.0007442    1 eyewash        : 目薬
+0.0007408    1 ashes          : 灰神楽
+0.0007387    1 container      : 薬籠
+0.0007376    1 relief         : 楽
+0.0007325    1 living         : 道楽
+0.0007315    1 legal          : 薬
+0.0007202    1 boar           : 薬食い
+0.0007201    1 usual          : 持薬
+0.0007169    1 chest          : 薬籠
+0.0007144    1 Amitabha       : 極楽
+0.0007071    1 excellent      : 秘薬
+0.0007032    1 motif          : 楽想
+0.0007011    1 optimism       : 楽観
+0.0007002    1 treatment      : 薬石
+0.0006991    1 fee            : 薬礼
+0.0006965    1 mouse          : 独楽鼠
+0.0006964    1 dope           : 麻薬
+0.0006941    1 spice          : 薬味
+0.0006932    1 herbicide      : 農薬
+0.0006908    1 sleep          : 楽寝
+0.0006907    1 cooking        : 薬膳
+0.0006862    1 conductor      : 楽長
+0.0006843    2 charge         : 装薬, 薬代
+0.0006836    1 toe            : 薬指
+0.0006831    1 condiment      : 薬味
+0.0006779    1 pharmaceutical : 薬事
+0.0006776    1 garden         : 薬園
+0.0006769    1 rest           : 楽寝
+0.0006660    1 optimistic     : 楽観
+0.0006655    1 coated         : 田楽
+0.0006638    1 various        : 薬石
+0.0006622    1 sundry         : 百薬
+0.0006606    1 theme          : 楽想
+0.0006602    1 ammo           : 弾薬
+0.0006602    1 cloud          : 灰神楽
+0.0006584    1 trouble        : 楽
+0.0006543    1 wasabi         : 薬味
+0.0006537    1 deer           : 薬食い
+0.0006524    1 seasoning      : 加薬
+0.0006509    1 added          : 加薬
+0.0006503    1 ward           : 薬食い
+0.0006481    1 principal      : 主薬
+0.0006478    1 topping        : 薬味
+0.0006467    1 relaxed        : 楽髪
+0.0006466    1 pursuit        : 逸楽
+0.0006449    1 nose           : 鼻薬
+0.0006362    1 Indian         : 唐楽
+0.0006350    1 grammar        : 楽典
+0.0006308    1 crude          : 生薬
+0.0006085    1 dosage         : 投薬
+0.0006050    1 chopped        : 薬味
+0.0006038    1 reagent        : 試薬
+0.0006003    1 opposed        : 俗楽
+0.0005997    1 baked          : 田楽
+0.0005916    1 room           : 楽屋
+0.0005910    1 agent          : 主薬
+0.0005898    1 ginger         : 薬味
+0.0005882    1 rapid          : 楽髪
+0.0005868    1 poisoning      : 薬殺
+0.0005845    1 cook           : 田楽
+0.0005745    1 eating         : 薬食い
+0.0005737    1 addition       : 加薬
+0.0005669    1 idle           : 逸楽
+0.0005656    1 passage        : 楽節
+0.0005640    1 growth         : 楽髪
+0.0005628    1 pepper         : 薬味
+0.0005624    1 third          : 薬指
+0.0005621    1 grief          : 哀楽
+0.0005620    1 ring           : 薬指
+0.0005611    1 ritual         : 田楽
+0.0005606    1 pharmacist     : 薬屋
+0.0005605    1 park           : 楽勝
+0.0005584    1 adhesive       : 貼り薬
+0.0005552    1 practice       : 薬食い
+0.0005539    1 hospital       : 薬局
+0.0005532    1 onion          : 薬味
+0.0005527    1 earth          : 極楽
+0.0005521    1 trader         : 伯楽
+0.0005440    1 daikon         : 薬味
+0.0005432    1 picnic         : 行楽
+0.0005416    1 killing        : 薬殺
+0.0005411    1 puppet         : 文楽
+0.0005406    1 tofu           : 田楽
+0.0005395    1 sides          : 田楽
+0.0005338    1 victory        : 楽勝
+0.0005329    1 Shinto         : 神楽
+0.0005311    1 section        : 楽節
+0.0005257    1 note           : 楽音
+0.0005188    1 walk           : 楽勝
+0.0005179    1 European       : 洋楽
+0.0005153    1 fire           : 灰神楽
+0.0005133    1 money          : 鼻薬
+0.0005129    1 common         : 俗楽
+0.0005126    1 freeing        : 快楽
+0.0005125    1 turning        : 田楽
+0.0005116    1 delightful     : 楽しい
+0.0005058    1 manner         : 田楽
+0.0005053    1 cost           : 薬価
+0.0005048    1 theater        : 文楽
+0.0005038    1 agricultural   : 農薬
+0.0005002    1 plant          : 十薬
+0.0004999    1 festival       : 田楽
+0.0004986    1 oral           : 飲み薬
+0.0004982    1 charging       : 装薬
+0.0004925    1 bath           : 薬湯
+0.0004908    1 dose           : 調薬
+0.0004829    1 celebratory    : 薬玉
+0.0004811    1 training       : 楽所
+0.0004808    1 judge          : 伯楽
+0.0004791    1 anticipation   : 楽しみ
+0.0004719    1 enjoy          : 楽しむ
+0.0004717    1 backstage      : 楽屋
+0.0004705    1 diversion      : 楽しみ
+0.0004704    1 earthly        : 快楽
+0.0004682    1 study          : 薬学
+0.0004644    1 vocal          : 声楽
+0.0004641    1 hair           : 楽髪
+0.0004634    1 recreation     : 娯楽
+0.0004612    1 view           : 楽観
+0.0004610    1 excursion      : 行楽
+0.0004610    1 outing         : 行楽
+0.0004604    1 people         : 俗楽
+0.0004596    1 water          : 灰神楽
+0.0004570    1 internal       : 飲み薬
+0.0004550    1 administration : 投薬
+0.0004513    1 instrumental   : 器楽
+0.0004501    1 hot            : 薬湯
+0.0004454    1 era            : 楽所
+0.0004447    1 junk           : 我楽多
+0.0004344    1 odds           : 我楽多
+0.0004339    1 carefree       : 気楽
+0.0004333    1 price          : 薬価
+0.0004327    1 opera          : 楽劇
+0.0004298    1 easygoing      : 気楽
+0.0004298    1 inside         : 楽屋
+0.0004294    1 spring         : 薬湯
+0.0004272    1 trash          : 我楽多
+0.0004262    1 scent          : 薬玉
+0.0004171    1 red            : 薬味
+0.0004167    1 happy          : 楽しい
+0.0004128    1 ornamental     : 薬玉
+0.0004127    1 gray           : 聚楽
+0.0004121    1 powerful       : 劇薬
+0.0004109    1 skin           : 貼り薬
+0.0004100    1 supreme        : 快楽
+0.0004071    1 grey           : 聚楽
+0.0004058    1 tune           : 楽曲
+0.0004041    1 rubbish        : 我楽多
+0.0004029    1 covering       : 聚楽
+0.0004027    1 decorative     : 薬玉
+0.0004026    1 delight        : 悦楽
+0.0003986    1 release        : 薬玉
+0.0003948    1 dressing       : 楽屋
+0.0003908    1 score          : 楽譜
+0.0003882    1 make           : 加薬
+0.0003878    1 composition    : 楽曲
+0.0003865    1 horse          : 伯楽
+0.0003737    1 garbage        : 我楽多
+0.0003701    1 joy            : 悦楽
+0.0003688    1 sheet          : 楽譜
+0.0003655    1 trip           : 行楽
+0.0003642    1 made           : 貝独楽
+0.0003622    1 material       : 聚楽
+0.0003619    1 looking        : 楽しみ
+0.0003598    1 hanging        : 薬玉
+0.0003586    1 pain           : 苦楽
+0.0003555    1 half           : 薬玉
+0.0003550    1 wall           : 聚楽
+0.0003498    1 ball           : 薬玉
+0.0003480    1 instrument     : 楽器
+0.0003448    1 movement       : 楽章
+0.0003382    1 stomach        : 胃薬
+0.0003367    1 strong         : 劇薬
+0.0003326    1 something      : 田楽
+0.0003151    1 military       : 軍楽
+0.0003131    1 look           : 楽しむ
+0.0002917    1 going          : 行楽
+0.0002789    1 take           : 楽しむ
+0.0002719    1 old            : 雅楽
+0.0002709    1 great          : 神楽蝙蝠
+0.0002616    1 time           : 楽しむ
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0438109   27 music
+	music WORD[ 1,   1]: 0.0136662 式楽
+	music WORD[ 1,   2]: 0.0070450 清楽
+	music WORD[ 1,   3]: 0.0028530 女楽
+	music WORD[ 1,   4]: 0.0017245 管弦楽
+	music WORD[ 1,   5]: 0.0016959 俗楽
+	music WORD[ 1,   6]: 0.0016954 正楽
+	music WORD[ 1,   7]: 0.0016207 楽才
+	music WORD[ 1,   8]: 0.0016186 管楽
+	music WORD[ 1,   9]: 0.0011145 唐楽
+	music WORD[ 1,  10]: 0.0010497 楽箏
+	music WORD[ 1,  11]: 0.0010258 弦楽
+	music WORD[ 1,  12]: 0.0010258 絃楽
+	music WORD[ 1,  13]: 0.0009480 催馬楽
+	music WORD[ 1,  14]: 0.0009110 洋楽
+	music WORD[ 1,  15]: 0.0008465 邦楽
+	music WORD[ 1,  16]: 0.0006599 明楽
+	music WORD[ 1,  17]: 0.0006351 礼楽
+	music WORD[ 1,  18]: 0.0004929 神楽
+	music WORD[ 1,  19]: 0.0004779 田楽
+	music WORD[ 1,  20]: 0.0004209 舞楽
+	music WORD[ 1,  21]: 0.0003497 声楽
+	music WORD[ 1,  22]: 0.0003312 古楽
+	music WORD[ 1,  23]: 0.0003290 軍楽
+	music WORD[ 1,  24]: 0.0003211 器楽
+	music WORD[ 1,  25]: 0.0003206 楽譜
+	music WORD[ 1,  26]: 0.0003206 雅楽
+	music WORD[ 1,  27]: 0.0003116 音楽
+TOKEN[ 2]: 0.0436322   50 medicine
+	medicine WORD[ 2,   1]: 0.0044513 補薬
+	medicine WORD[ 2,   2]: 0.0029095 和薬
+	medicine WORD[ 2,   3]: 0.0024273 当薬
+	medicine WORD[ 2,   4]: 0.0022764 名薬
+	medicine WORD[ 2,   5]: 0.0020485 漢薬
+	medicine WORD[ 2,   6]: 0.0016417 売り薬
+	medicine WORD[ 2,   7]: 0.0012121 薬名
+	medicine WORD[ 2,   8]: 0.0011757 中薬
+	medicine WORD[ 2,   9]: 0.0011608 かぜ薬
+	medicine WORD[ 2,  10]: 0.0011608 風邪薬
+	medicine WORD[ 2,  11]: 0.0011374 薬箱
+	medicine WORD[ 2,  12]: 0.0011368 薬材
+	medicine WORD[ 2,  13]: 0.0010890 薬瓶
+	medicine WORD[ 2,  14]: 0.0007960 飲み薬
+	medicine WORD[ 2,  15]: 0.0007476 薬棚
+	medicine WORD[ 2,  16]: 0.0006414 霊薬
+	medicine WORD[ 2,  17]: 0.0006348 持薬
+	medicine WORD[ 2,  18]: 0.0006274 薬効
+	medicine WORD[ 2,  19]: 0.0006261 薬籠
+	medicine WORD[ 2,  20]: 0.0006261 薬毒
+	medicine WORD[ 2,  21]: 0.0006261 薬膳
+	medicine WORD[ 2,  22]: 0.0006261 薬種
+	medicine WORD[ 2,  23]: 0.0006261 薬餌
+	medicine WORD[ 2,  24]: 0.0006260 薬害
+	medicine WORD[ 2,  25]: 0.0006260 薬液
+	medicine WORD[ 2,  26]: 0.0006228 虫薬
+	medicine WORD[ 2,  27]: 0.0006068 秘薬
+	medicine WORD[ 2,  28]: 0.0005859 鼻薬
+	medicine WORD[ 2,  29]: 0.0005833 売薬
+	medicine WORD[ 2,  30]: 0.0005709 適薬
+	medicine WORD[ 2,  31]: 0.0005567 施薬
+	medicine WORD[ 2,  32]: 0.0005376 水薬
+	medicine WORD[ 2,  33]: 0.0005362 主薬
+	medicine WORD[ 2,  34]: 0.0005252 散薬
+	medicine WORD[ 2,  35]: 0.0005217 粉薬
+	medicine WORD[ 2,  36]: 0.0005044 生薬
+	medicine WORD[ 2,  37]: 0.0005035 加薬
+	medicine WORD[ 2,  38]: 0.0004667 良薬
+	medicine WORD[ 2,  39]: 0.0004544 薬禍
+	medicine WORD[ 2,  40]: 0.0004544 薬価
+	medicine WORD[ 2,  41]: 0.0004531 薬品
+	medicine WORD[ 2,  42]: 0.0004529 薬剤
+	medicine WORD[ 2,  43]: 0.0004193 服薬
+	medicine WORD[ 2,  44]: 0.0003530 製薬
+	medicine WORD[ 2,  45]: 0.0003472 新薬
+	medicine WORD[ 2,  46]: 0.0003329 劇薬
+	medicine WORD[ 2,  47]: 0.0003289 薬代
+	medicine WORD[ 2,  48]: 0.0003289 薬
+	medicine WORD[ 2,  49]: 0.0003007 医薬
+	medicine WORD[ 2,  50]: 0.0002990 胃薬
+TOKEN[ 3]: 0.0336314   26 drug
+	drug WORD[ 3,   1]: 0.0050594 痩せ薬
+	drug WORD[ 3,   2]: 0.0047060 薬中
+	drug WORD[ 3,   3]: 0.0034962 原薬
+	drug WORD[ 3,   4]: 0.0031954 休薬
+	drug WORD[ 3,   5]: 0.0021840 創薬
+	drug WORD[ 3,   6]: 0.0018361 売り薬
+	drug WORD[ 3,   7]: 0.0014347 霊薬
+	drug WORD[ 3,   8]: 0.0013557 薬名
+	drug WORD[ 3,   9]: 0.0012524 薬疹
+	drug WORD[ 3,  10]: 0.0007002 薬害
+	drug WORD[ 3,  11]: 0.0006936 妙薬
+	drug WORD[ 3,  12]: 0.0006787 秘薬
+	drug WORD[ 3,  13]: 0.0006524 売薬
+	drug WORD[ 3,  14]: 0.0006484 眠り薬
+	drug WORD[ 3,  15]: 0.0005978 買い薬
+	drug WORD[ 3,  16]: 0.0005082 薬禍
+	drug WORD[ 3,  17]: 0.0005082 薬価
+	drug WORD[ 3,  18]: 0.0005068 薬理
+	drug WORD[ 3,  19]: 0.0005065 薬剤
+	drug WORD[ 3,  20]: 0.0004882 麻薬
+	drug WORD[ 3,  21]: 0.0003948 製薬
+	drug WORD[ 3,  22]: 0.0003883 新薬
+	drug WORD[ 3,  23]: 0.0003679 薬づけ
+	drug WORD[ 3,  24]: 0.0003679 薬漬
+	drug WORD[ 3,  25]: 0.0003679 薬漬け
+	drug WORD[ 3,  26]: 0.0003679 薬
+TOKEN[ 4]: 0.0182429    2 enjoyable
+	enjoyable WORD[ 4,   1]: 0.0177031 楽事
+	enjoyable WORD[ 4,   2]: 0.0005399 楽しい
+TOKEN[ 5]: 0.0164005    1 ceremonial
+	ceremonial WORD[ 5,   1]: 0.0164005 式楽
+TOKEN[ 6]: 0.0159022    4 pleasant
+	pleasant WORD[ 6,   1]: 0.0139294 楽事
+	pleasant WORD[ 6,   2]: 0.0007740 楽ちん
+	pleasant WORD[ 6,   3]: 0.0007740 楽チン
+	pleasant WORD[ 6,   4]: 0.0004248 楽しい
+TOKEN[ 7]: 0.0150561   11 Chinese
+	Chinese WORD[ 7,   1]: 0.0055511 清楽
+	Chinese WORD[ 7,   2]: 0.0035681 補薬
+	Chinese WORD[ 7,   3]: 0.0009424 中薬
+	Chinese WORD[ 7,   4]: 0.0008782 唐楽
+	Chinese WORD[ 7,   5]: 0.0008590 楽府
+	Chinese WORD[ 7,   6]: 0.0008210 漢薬
+	Chinese WORD[ 7,   7]: 0.0005199 明楽
+	Chinese WORD[ 7,   8]: 0.0005091 芍薬
+	Chinese WORD[ 7,   9]: 0.0005019 薬膳
+	Chinese WORD[ 7,  10]: 0.0005018 薬種
+	Chinese WORD[ 7,  11]: 0.0004036 加薬
+TOKEN[ 8]: 0.0136902    4 song
+	song WORD[ 8,   1]: 0.0109274 神楽歌
+	song WORD[ 8,   2]: 0.0011189 楽府
+	song WORD[ 8,   3]: 0.0010719 楽舞
+	song WORD[ 8,   4]: 0.0005720 唐楽
+TOKEN[ 9]: 0.0134738    3 performance
+	performance WORD[ 9,   1]: 0.0125987 太神楽
+	performance WORD[ 9,   2]: 0.0005132 伎楽
+	performance WORD[ 9,   3]: 0.0003618 奏楽
+TOKEN[10]: 0.0127935    7 dance
+	dance WORD[10,   1]: 0.0067061 太神楽
+	dance WORD[10,   2]: 0.0017844 神楽殿
+	dance WORD[10,   3]: 0.0015631 女楽
+	dance WORD[10,   4]: 0.0011443 楽舞
+	dance WORD[10,   5]: 0.0006106 唐楽
+	dance WORD[10,   6]: 0.0005237 田楽
+	dance WORD[10,   7]: 0.0004612 舞楽
+TOKEN[11]: 0.0111708    1 matter
+	matter WORD[11,   1]: 0.0111708 楽事
+TOKEN[12]: 0.0096584    8 ointment
+	ointment WORD[12,   1]: 0.0022875 付け薬
+	ointment WORD[12,   2]: 0.0015809 傷薬
+	ointment WORD[12,   3]: 0.0015436 油薬
+	ointment WORD[12,   4]: 0.0015436 脂薬
+	ointment WORD[12,   5]: 0.0006885 膏薬
+	ointment WORD[12,   6]: 0.0005488 塗り薬
+	ointment WORD[12,   7]: 0.0005488 塗薬
+	ointment WORD[12,   8]: 0.0004583 薬
+TOKEN[13]: 0.0095990    1 juggling
+	juggling WORD[13,   1]: 0.0095990 太神楽
+TOKEN[14]: 0.0095499    2 adjuvant
+	adjuvant WORD[14,   1]: 0.0077881 補薬
+	adjuvant WORD[14,   2]: 0.0017618 加薬
+TOKEN[15]: 0.0093400    8 pharmacy
+	pharmacy WORD[15,   1]: 0.0016959 薬店
+	pharmacy WORD[15,   2]: 0.0016589 薬科
+	pharmacy WORD[15,   3]: 0.0016101 薬袋
+	pharmacy WORD[15,   4]: 0.0013511 薬局
+	pharmacy WORD[15,   5]: 0.0009309 薬舗
+	pharmacy WORD[15,   6]: 0.0009309 薬鋪
+	pharmacy WORD[15,   7]: 0.0006733 薬学
+	pharmacy WORD[15,   8]: 0.0004890 薬屋
+TOKEN[16]: 0.0091671    2 century
+	century WORD[16,   1]: 0.0083820 清楽
+	century WORD[16,   2]: 0.0007851 明楽
+TOKEN[17]: 0.0091207    9 Japanese
+	Japanese WORD[17,   1]: 0.0041378 太神楽
+	Japanese WORD[17,   2]: 0.0020011 和薬
+	Japanese WORD[17,   3]: 0.0006409 催馬楽
+	Japanese WORD[17,   4]: 0.0005723 邦楽
+	Japanese WORD[17,   5]: 0.0003567 独楽鼠
+	Japanese WORD[17,   6]: 0.0003119 楽天
+	Japanese WORD[17,   7]: 0.0002859 貝独楽
+	Japanese WORD[17,   8]: 0.0002853 文楽
+	Japanese WORD[17,   9]: 0.0002167 雅楽
+TOKEN[18]: 0.0089928    5 potion
+	potion WORD[18,   1]: 0.0026543 ほれ薬
+	potion WORD[18,   2]: 0.0026543 惚れ薬
+	potion WORD[18,   3]: 0.0018342 傷薬
+	potion WORD[18,   4]: 0.0009810 媚薬
+	potion WORD[18,   5]: 0.0008690 水薬
+TOKEN[19]: 0.0087532    2 japonica
+	japonica WORD[19,   1]: 0.0062368 太神楽
+	japonica WORD[19,   2]: 0.0025164 当薬
+TOKEN[20]: 0.0085847    6 remedy
+	remedy WORD[20,   1]: 0.0022541 合い薬
+	remedy WORD[20,   2]: 0.0016664 秘薬
+	remedy WORD[20,   3]: 0.0015939 かぜ薬
+	remedy WORD[20,   4]: 0.0015938 風邪薬
+	remedy WORD[20,   5]: 0.0007839 適薬
+	remedy WORD[20,   6]: 0.0006926 生薬
+TOKEN[21]: 0.0085611    1 cultivar
+	cultivar WORD[21,   1]: 0.0085611 太神楽
+TOKEN[22]: 0.0085226    1 Camellia
+	Camellia WORD[22,   1]: 0.0085226 太神楽
+TOKEN[23]: 0.0084271    3 early
+	early WORD[23,   1]: 0.0073879 清楽
+	early WORD[23,   2]: 0.0006920 明楽
+	early WORD[23,   3]: 0.0003473 古楽
+TOKEN[24]: 0.0079673    1 lion
+	lion WORD[24,   1]: 0.0079673 太神楽
+TOKEN[25]: 0.0076107    5 Japan
+	Japan WORD[25,   1]: 0.0054678 清楽
+	Japan WORD[25,   2]: 0.0005121 明楽
+	Japan WORD[25,   3]: 0.0004077 散楽
+	Japan WORD[25,   4]: 0.0004077 猿楽
+	Japan WORD[25,   5]: 0.0004077 申楽
+TOKEN[26]: 0.0070830    5 used
+	used WORD[26,   1]: 0.0034721 痩せ薬
+	used WORD[26,   2]: 0.0018630 当薬
+	used WORD[26,   3]: 0.0007920 楽箏
+	used WORD[26,   4]: 0.0004780 楽焼
+	used WORD[26,   5]: 0.0004780 楽焼き
+TOKEN[27]: 0.0069364    1 grand
+	grand WORD[27,   1]: 0.0069364 太神楽
+TOKEN[28]: 0.0069022   14 pleasure
+	pleasure WORD[28,   1]: 0.0007253 快楽
+	pleasure WORD[28,   2]: 0.0007095 放楽
+	pleasure WORD[28,   3]: 0.0007095 法楽
+	pleasure WORD[28,   4]: 0.0005600 逸楽
+	pleasure WORD[28,   5]: 0.0005559 哀楽
+	pleasure WORD[28,   6]: 0.0005556 愉楽
+	pleasure WORD[28,   7]: 0.0004163 楽しむ
+	pleasure WORD[28,   8]: 0.0004163 楽しみ
+	pleasure WORD[28,   9]: 0.0003880 娯楽
+	pleasure WORD[28,  10]: 0.0003844 行楽
+	pleasure WORD[28,  11]: 0.0003806 苦楽
+	pleasure WORD[28,  12]: 0.0003756 享楽
+	pleasure WORD[28,  13]: 0.0003721 歓楽
+	pleasure WORD[28,  14]: 0.0003531 悦楽
+TOKEN[29]: 0.0068073    3 philter
+	philter WORD[29,   1]: 0.0028728 ほれ薬
+	philter WORD[29,   2]: 0.0028728 惚れ薬
+	philter WORD[29,   3]: 0.0010617 媚薬
+TOKEN[30]: 0.0065756    1 stimulant
+	stimulant WORD[30,   1]: 0.0065756 補薬
+TOKEN[31]: 0.0065179    2 type
+	type WORD[31,   1]: 0.0055637 太神楽
+	type WORD[31,   2]: 0.0009542 楽箏
+TOKEN[32]: 0.0062896    3 aphrodisiac
+	aphrodisiac WORD[32,   1]: 0.0026543 ほれ薬
+	aphrodisiac WORD[32,   2]: 0.0026543 惚れ薬
+	aphrodisiac WORD[32,   3]: 0.0009810 媚薬
+TOKEN[33]: 0.0061093    6 traditional
+	traditional WORD[33,   1]: 0.0022522 当薬
+	traditional WORD[33,   2]: 0.0013498 和薬
+	traditional WORD[33,   3]: 0.0010909 中薬
+	traditional WORD[33,   4]: 0.0005809 薬膳
+	traditional WORD[33,   5]: 0.0004495 神楽
+	traditional WORD[33,   6]: 0.0003860 邦楽
+TOKEN[34]: 0.0058521    6 drugstore
+	drugstore WORD[34,   1]: 0.0017989 薬店
+	drugstore WORD[34,   2]: 0.0009874 薬舗
+	drugstore WORD[34,   3]: 0.0009874 薬鋪
+	drugstore WORD[34,   4]: 0.0008429 買い薬
+	drugstore WORD[34,   5]: 0.0007166 薬局
+	drugstore WORD[34,   6]: 0.0005188 薬屋
+TOKEN[35]: 0.0057893    7 court
+	court WORD[35,   1]: 0.0016501 正楽
+	court WORD[35,   2]: 0.0013885 女楽
+	court WORD[35,   3]: 0.0009227 催馬楽
+	court WORD[35,   4]: 0.0005561 典薬
+	court WORD[35,   5]: 0.0005502 俗楽
+	court WORD[35,   6]: 0.0004097 舞楽
+	court WORD[35,   7]: 0.0003120 雅楽
+TOKEN[36]: 0.0057622    5 gunpowder
+	gunpowder WORD[36,   1]: 0.0016415 硝薬
+	gunpowder WORD[36,   2]: 0.0016101 薬袋
+	gunpowder WORD[36,   3]: 0.0010548 装薬
+	gunpowder WORD[36,   4]: 0.0004890 薬
+	gunpowder WORD[36,   5]: 0.0004777 火薬
+TOKEN[37]: 0.0056541    5 liniment
+	liniment WORD[37,   1]: 0.0017909 油薬
+	liniment WORD[37,   2]: 0.0017909 脂薬
+	liniment WORD[37,   3]: 0.0007988 膏薬
+	liniment WORD[37,   4]: 0.0006367 塗り薬
+	liniment WORD[37,   5]: 0.0006367 塗薬
+TOKEN[38]: 0.0055801    6 medicinal
+	medicinal WORD[38,   1]: 0.0016177 薬材
+	medicinal WORD[38,   2]: 0.0008910 薬草
+	medicinal WORD[38,   3]: 0.0008910 薬膳
+	medicinal WORD[38,   4]: 0.0008909 薬酒
+	medicinal WORD[38,   5]: 0.0006448 薬用
+	medicinal WORD[38,   6]: 0.0006448 薬湯
+TOKEN[39]: 0.0055637    3 folk
+	folk WORD[39,   1]: 0.0026324 楽府
+	folk WORD[39,   2]: 0.0017867 和薬
+	folk WORD[39,   3]: 0.0011445 催馬楽
+TOKEN[40]: 0.0054699    5 chemist
+	chemist WORD[40,   1]: 0.0017801 薬店
+	chemist WORD[40,   2]: 0.0010266 薬屋
+	chemist WORD[40,   3]: 0.0009771 薬舗
+	chemist WORD[40,   4]: 0.0009771 薬鋪
+	chemist WORD[40,   5]: 0.0007091 薬局
+TOKEN[41]: 0.0054699    3 medication
+	medication WORD[41,   1]: 0.0041475 休薬
+	medication WORD[41,   2]: 0.0007759 買い薬
+	medication WORD[41,   3]: 0.0005465 投薬
+TOKEN[42]: 0.0053080    2 mouthwash
+	mouthwash WORD[42,   1]: 0.0026540 うがい薬
+	mouthwash WORD[42,   2]: 0.0026540 嗽薬
+TOKEN[43]: 0.0052539    1 reduction
+	reduction WORD[43,   1]: 0.0052539 痩せ薬
+TOKEN[44]: 0.0052499    9 musical
+	musical WORD[44,   1]: 0.0017924 楽界
+	musical WORD[44,   2]: 0.0005474 楽典
+	musical WORD[44,   3]: 0.0005474 楽節
+	musical WORD[44,   4]: 0.0005473 楽音
+	musical WORD[44,   5]: 0.0003905 奏楽
+	musical WORD[44,   6]: 0.0003562 楽曲
+	musical WORD[44,   7]: 0.0003562 楽器
+	musical WORD[44,   8]: 0.0003562 楽壇
+	musical WORD[44,   9]: 0.0003561 楽劇
+TOKEN[45]: 0.0050269    4 patch
+	patch WORD[45,   1]: 0.0015606 貼り薬
+	patch WORD[45,   2]: 0.0014171 油薬
+	patch WORD[45,   3]: 0.0014171 脂薬
+	patch WORD[45,   4]: 0.0006321 膏薬
+TOKEN[46]: 0.0050104    3 cold
+	cold WORD[46,   1]: 0.0022517 かぜ薬
+	cold WORD[46,   2]: 0.0022517 風邪薬
+	cold WORD[46,   3]: 0.0005070 薬食い
+TOKEN[47]: 0.0049867    1 weight
+	weight WORD[47,   1]: 0.0049867 痩せ薬
+TOKEN[48]: 0.0049289    9 medical
+	medical WORD[48,   1]: 0.0006664 薬効
+	medical WORD[48,   2]: 0.0006650 薬礼
+	medical WORD[48,   3]: 0.0006650 薬石
+	medical WORD[48,   4]: 0.0006049 煎薬
+	medical WORD[48,   5]: 0.0005777 煎じ薬
+	medical WORD[48,   6]: 0.0004812 薬湯
+	medical WORD[48,   7]: 0.0004319 貼り薬
+	medical WORD[48,   8]: 0.0004183 塗り薬
+	medical WORD[48,   9]: 0.0004183 塗薬
+TOKEN[49]: 0.0044670    3 anesthetic
+	anesthetic WORD[49,   1]: 0.0017811 しびれ薬
+	anesthetic WORD[49,   2]: 0.0017811 痺れ薬
+	anesthetic WORD[49,   3]: 0.0009048 眠り薬
+TOKEN[50]: 0.0042695    5 musician
+	musician WORD[50,   1]: 0.0013551 楽聖
+	musician WORD[50,   2]: 0.0006776 楽人
+	musician WORD[50,   3]: 0.0006776 楽匠
+	musician WORD[50,   4]: 0.0004408 楽士
+	musician WORD[50,   5]: 0.0004408 楽師
+TOKEN[51]: 0.0042633    1 bulk
+	bulk WORD[51,   1]: 0.0042633 原薬
+TOKEN[52]: 0.0042468    1 Swertia
+	Swertia WORD[52,   1]: 0.0042468 当薬
+TOKEN[53]: 0.0042205    1 cessation
+	cessation WORD[53,   1]: 0.0042205 休薬
+TOKEN[54]: 0.0041912    6 amusement
+	amusement WORD[54,   1]: 0.0008087 遊楽
+	amusement WORD[54,   2]: 0.0007716 放楽
+	amusement WORD[54,   3]: 0.0007716 法楽
+	amusement WORD[54,   4]: 0.0004823 道楽
+	amusement WORD[54,   5]: 0.0004527 楽しみ
+	amusement WORD[54,   6]: 0.0004220 娯楽
+TOKEN[55]: 0.0041499    4 chemical
+	chemical WORD[55,   1]: 0.0023524 薬傷
+	chemical WORD[55,   2]: 0.0005402 薬剤
+	chemical WORD[55,   3]: 0.0004726 農薬
+	chemical WORD[55,   4]: 0.0003923 薬
+TOKEN[56]: 0.0040387    4 cartridge
+	cartridge WORD[56,   1]: 0.0017981 薬筒
+	cartridge WORD[56,   2]: 0.0009140 薬包
+	cartridge WORD[56,   3]: 0.0006633 薬きょう
+	cartridge WORD[56,   4]: 0.0006633 薬莢
+TOKEN[57]: 0.0039203    4 salve
+	salve WORD[57,   1]: 0.0017239 傷薬
+	salve WORD[57,   2]: 0.0005984 塗り薬
+	salve WORD[57,   3]: 0.0005984 塗薬
+	salve WORD[57,   4]: 0.0004998 薬
+TOKEN[58]: 0.0037882    1 Lonicera
+	Lonicera WORD[58,   1]: 0.0037882 鶯神楽
+TOKEN[59]: 0.0037287    1 substance
+	substance WORD[59,   1]: 0.0037287 原薬
+TOKEN[60]: 0.0037233    1 honeysuckle
+	honeysuckle WORD[60,   1]: 0.0037233 鶯神楽
+TOKEN[61]: 0.0036988    3 love
+	love WORD[61,   1]: 0.0015610 ほれ薬
+	love WORD[61,   2]: 0.0015610 惚れ薬
+	love WORD[61,   3]: 0.0005769 媚薬
+TOKEN[62]: 0.0036562    4 ammunition
+	ammunition WORD[62,   1]: 0.0017981 薬筒
+	ammunition WORD[62,   2]: 0.0006633 薬きょう
+	ammunition WORD[62,   3]: 0.0006633 薬莢
+	ammunition WORD[62,   4]: 0.0005315 弾薬
+TOKEN[63]: 0.0036236    5 comfortable
+	comfortable WORD[63,   1]: 0.0008149 楽ちん
+	comfortable WORD[63,   2]: 0.0008149 楽チン
+	comfortable WORD[63,   3]: 0.0007903 楽寝
+	comfortable WORD[63,   4]: 0.0004038 気楽
+	comfortable WORD[63,   5]: 0.0003999 楽
+TOKEN[64]: 0.0036182    3 plaster
+	plaster WORD[64,   1]: 0.0014792 油薬
+	plaster WORD[64,   2]: 0.0014792 脂薬
+	plaster WORD[64,   3]: 0.0006598 膏薬
+TOKEN[65]: 0.0035919    1 withdrawal
+	withdrawal WORD[65,   1]: 0.0035919 休薬
+TOKEN[66]: 0.0034389    4 pastime
+	pastime WORD[66,   1]: 0.0009057 放楽
+	pastime WORD[66,   2]: 0.0009057 法楽
+	pastime WORD[66,   3]: 0.0005661 道楽
+	pastime WORD[66,   4]: 0.0004953 娯楽
+TOKEN[67]: 0.0034122    3 genre
+	genre WORD[67,   1]: 0.0014664 楽府
+	genre WORD[67,   2]: 0.0012751 催馬楽
+	genre WORD[67,   3]: 0.0006706 伎楽
+TOKEN[68]: 0.0033864    3 spinning
+	spinning WORD[68,   1]: 0.0024262 独楽回し
+	spinning WORD[68,   2]: 0.0005373 貝独楽
+	spinning WORD[68,   3]: 0.0004228 独楽
+TOKEN[69]: 0.0033199    2 lotion
+	lotion WORD[69,   1]: 0.0025150 付け薬
+	lotion WORD[69,   2]: 0.0008049 差し薬
+TOKEN[70]: 0.0032818    3 raku
+	raku WORD[70,   1]: 0.0010895 楽焼
+	raku WORD[70,   2]: 0.0010895 楽焼き
+	raku WORD[70,   3]: 0.0005513 楽
+TOKEN[71]: 0.0031629    4 glaze
+	glaze WORD[71,   1]: 0.0007392 うわ薬
+	glaze WORD[71,   2]: 0.0007392 上薬
+	glaze WORD[71,   3]: 0.0007392 釉薬
+	glaze WORD[71,   4]: 0.0004726 薬
+TOKEN[72]: 0.0031559    1 electuary
+	electuary WORD[72,   1]: 0.0031559 練り薬
+TOKEN[73]: 0.0031521    4 pottery
+	pottery WORD[73,   1]: 0.0007748 楽焼
+	pottery WORD[73,   2]: 0.0007748 楽焼き
+	pottery WORD[73,   3]: 0.0004092 薬
+	pottery WORD[73,   4]: 0.0003921 楽
+TOKEN[74]: 0.0031079    1 addict
+	addict WORD[74,   1]: 0.0031079 薬中
+TOKEN[75]: 0.0030844    4 dancing
+	dancing WORD[75,   1]: 0.0012668 楽舞
+	dancing WORD[75,   2]: 0.0006400 独楽鼠
+	dancing WORD[75,   3]: 0.0005979 神楽
+	dancing WORD[75,   4]: 0.0005797 田楽
+TOKEN[76]: 0.0030739    1 orchestral
+	orchestral WORD[76,   1]: 0.0030739 管弦楽
+TOKEN[77]: 0.0030709    3 fooling
+	fooling WORD[77,   1]: 0.0007677 散楽
+	fooling WORD[77,   2]: 0.0007677 猿楽
+	fooling WORD[77,   3]: 0.0007677 申楽
+TOKEN[78]: 0.0029792    2 patent
+	patent WORD[78,   1]: 0.0021982 売り薬
+	patent WORD[78,   2]: 0.0007810 売薬
+TOKEN[79]: 0.0029550    1 addiction
+	addiction WORD[79,   1]: 0.0029550 薬中
+TOKEN[80]: 0.0029332    3 prescription
+	prescription WORD[80,   1]: 0.0015342 薬袋
+	prescription WORD[80,   2]: 0.0007572 買い薬
+	prescription WORD[80,   3]: 0.0006419 薬方
+TOKEN[81]: 0.0029081    4 easy
+	easy WORD[81,   1]: 0.0009348 楽勝
+	easy WORD[81,   2]: 0.0006618 楽ちん
+	easy WORD[81,   3]: 0.0006618 楽チン
+	easy WORD[81,   4]: 0.0003248 楽
+TOKEN[82]: 0.0028095    2 bag
+	bag WORD[82,   1]: 0.0024391 薬袋
+	bag WORD[82,   2]: 0.0003704 薬玉
+TOKEN[83]: 0.0027044    4 popular
+	popular WORD[83,   1]: 0.0005733 俗楽
+	popular WORD[83,   2]: 0.0005328 散楽
+	popular WORD[83,   3]: 0.0005328 猿楽
+	popular WORD[83,   4]: 0.0005328 申楽
+TOKEN[84]: 0.0026962    2 laxative
+	laxative WORD[84,   1]: 0.0018715 下薬
+	laxative WORD[84,   2]: 0.0008247 下し薬
+TOKEN[85]: 0.0026894    2 specific
+	specific WORD[85,   1]: 0.0019955 合い薬
+	specific WORD[85,   2]: 0.0006940 適薬
+TOKEN[86]: 0.0026732    4 rice
+	rice WORD[86,   1]: 0.0009700 薬食
+	rice WORD[86,   2]: 0.0007734 田楽
+	rice WORD[86,   3]: 0.0005153 薬石
+	rice WORD[86,   4]: 0.0004144 加薬
+TOKEN[87]: 0.0026402    3 narcotic
+	narcotic WORD[87,   1]: 0.0009143 眠り薬
+	narcotic WORD[87,   2]: 0.0006884 麻薬
+	narcotic WORD[87,   3]: 0.0005187 薬
+TOKEN[88]: 0.0025703    3 decoction
+	decoction WORD[88,   1]: 0.0009345 煎薬
+	decoction WORD[88,   2]: 0.0008924 煎じ薬
+	decoction WORD[88,   3]: 0.0007434 薬湯
+TOKEN[89]: 0.0025613    3 entertainment
+	entertainment WORD[89,   1]: 0.0014443 法楽
+	entertainment WORD[89,   2]: 0.0007221 放楽
+	entertainment WORD[89,   3]: 0.0003949 娯楽
+TOKEN[90]: 0.0025505    2 bottle
+	bottle WORD[90,   1]: 0.0012788 薬瓶
+	bottle WORD[90,   2]: 0.0012717 薬袋
+TOKEN[91]: 0.0025278    3 bald
+	bald WORD[91,   1]: 0.0008426 薬缶
+	bald WORD[91,   2]: 0.0008426 薬罐
+	bald WORD[91,   3]: 0.0008426 薬鑵
+TOKEN[92]: 0.0025236    3 top
+	top WORD[92,   1]: 0.0018081 独楽回し
+	top WORD[92,   2]: 0.0004004 貝独楽
+	top WORD[92,   3]: 0.0003151 独楽
+TOKEN[93]: 0.0025017    1 dried
+	dried WORD[93,   1]: 0.0025017 当薬
+TOKEN[94]: 0.0024932    2 bandsman
+	bandsman WORD[94,   1]: 0.0019561 楽員
+	bandsman WORD[94,   2]: 0.0005371 楽士
+TOKEN[95]: 0.0024666    3 kettle
+	kettle WORD[95,   1]: 0.0008222 薬缶
+	kettle WORD[95,   2]: 0.0008222 薬罐
+	kettle WORD[95,   3]: 0.0008222 薬鑵
+TOKEN[96]: 0.0024555    3 wonder
+	wonder WORD[96,   1]: 0.0008430 霊薬
+	wonder WORD[96,   2]: 0.0008151 妙薬
+	wonder WORD[96,   3]: 0.0007975 秘薬
+TOKEN[97]: 0.0023453    3 enamel
+	enamel WORD[97,   1]: 0.0007818 うわ薬
+	enamel WORD[97,   2]: 0.0007818 上薬
+	enamel WORD[97,   3]: 0.0007818 釉薬
+TOKEN[98]: 0.0023287    2 comfy
+	comfy WORD[98,   1]: 0.0011644 楽ちん
+	comfy WORD[98,   2]: 0.0011644 楽チン
+TOKEN[99]: 0.0023163    4 powder
+	powder WORD[99,   1]: 0.0006742 爆薬
+	powder WORD[99,   2]: 0.0006692 眠り薬
+	powder WORD[99,   3]: 0.0006021 粉薬
+	powder WORD[99,   4]: 0.0003709 火薬
+TOKEN[100]: 0.0022507    3 infusion
+	infusion WORD[100,   1]: 0.0008183 煎薬
+	infusion WORD[100,   2]: 0.0007814 煎じ薬
+	infusion WORD[100,   3]: 0.0006510 薬湯
+TOKEN[101]: 0.0022397    4 poison
+	poison WORD[101,   1]: 0.0007803 薬毒
+	poison WORD[101,   2]: 0.0005644 薬殺
+	poison WORD[101,   3]: 0.0004802 毒薬
+	poison WORD[101,   4]: 0.0004149 劇薬
+TOKEN[102]: 0.0022191    2 herbal
+	herbal WORD[102,   1]: 0.0014869 漢薬
+	herbal WORD[102,   2]: 0.0007322 生薬
+TOKEN[103]: 0.0022021    3 free
+	free WORD[103,   1]: 0.0010379 楽座
+	free WORD[103,   2]: 0.0006042 法楽
+	free WORD[103,   3]: 0.0005600 施薬
+TOKEN[104]: 0.0021337    3 paradise
+	paradise WORD[104,   1]: 0.0008362 楽土
+	paradise WORD[104,   2]: 0.0006885 極楽
+	paradise WORD[104,   3]: 0.0006090 楽園
+TOKEN[105]: 0.0020792    2 glazed
+	glazed WORD[105,   1]: 0.0010396 楽焼
+	glazed WORD[105,   2]: 0.0010396 楽焼き
+TOKEN[106]: 0.0020677    3 hobby
+	hobby WORD[106,   1]: 0.0005422 道楽
+	hobby WORD[106,   2]: 0.0005089 楽しみ
+	hobby WORD[106,   3]: 0.0004744 娯楽
+TOKEN[107]: 0.0020564    1 feeder
+	feeder WORD[107,   1]: 0.0020564 薬筒
+TOKEN[108]: 0.0020563    1 tantric
+	tantric WORD[108,   1]: 0.0020563 勝楽
+TOKEN[109]: 0.0020406    3 eye
+	eye WORD[109,   1]: 0.0010418 差し薬
+	eye WORD[109,   2]: 0.0005568 点薬
+	eye WORD[109,   3]: 0.0004420 目薬
+TOKEN[110]: 0.0020310    3 simple
+	simple WORD[110,   1]: 0.0006812 楽ちん
+	simple WORD[110,   2]: 0.0006812 楽チン
+	simple WORD[110,   3]: 0.0003343 楽
+TOKEN[111]: 0.0020108    2 deity
+	deity WORD[111,   1]: 0.0013516 勝楽
+	deity WORD[111,   2]: 0.0006592 法楽
+TOKEN[112]: 0.0019748    1 supper
+	supper WORD[112,   1]: 0.0019748 薬石
+TOKEN[113]: 0.0019654    1 chlorine
+	chlorine WORD[113,   1]: 0.0019654 薬筒
+TOKEN[114]: 0.0019232    2 elixir
+	elixir WORD[114,   1]: 0.0010026 妙薬
+	elixir WORD[114,   2]: 0.0009207 仙薬
+TOKEN[115]: 0.0019116    1 finger
+	finger WORD[115,   1]: 0.0019116 薬指
+TOKEN[116]: 0.0018852    1 species
+	species WORD[116,   1]: 0.0018852 鶯神楽
+TOKEN[117]: 0.0018702    3 ancient
+	ancient WORD[117,   1]: 0.0010129 楽箏
+	ancient WORD[117,   2]: 0.0005377 唐楽
+	ancient WORD[117,   3]: 0.0003196 古楽
+TOKEN[118]: 0.0018658    3 form
+	form WORD[118,   1]: 0.0004665 散楽
+	form WORD[118,   2]: 0.0004665 猿楽
+	form WORD[118,   3]: 0.0004665 申楽
+TOKEN[119]: 0.0018592    1 sacred
+	sacred WORD[119,   1]: 0.0018592 神楽殿
+TOKEN[120]: 0.0018431    1 placebo
+	placebo WORD[120,   1]: 0.0018431 偽薬
+TOKEN[121]: 0.0018416    2 miracle
+	miracle WORD[121,   1]: 0.0009363 霊薬
+	miracle WORD[121,   2]: 0.0009053 妙薬
+TOKEN[122]: 0.0018189    1 talent
+	talent WORD[122,   1]: 0.0018189 楽才
+TOKEN[123]: 0.0018107    1 hall
+	hall WORD[123,   1]: 0.0018107 神楽殿
+TOKEN[124]: 0.0018056    2 bribe
+	bribe WORD[124,   1]: 0.0008506 鼻薬
+	bribe WORD[124,   2]: 0.0004775 薬
+TOKEN[125]: 0.0017682    2 suppository
+	suppository WORD[125,   1]: 0.0008841 坐薬
+	suppository WORD[125,   2]: 0.0008841 座薬
+TOKEN[126]: 0.0017604    1 vial
+	vial WORD[126,   1]: 0.0017604 薬瓶
+TOKEN[127]: 0.0017419    2 peace
+	peace WORD[127,   1]: 0.0005164 和楽
+	peace WORD[127,   2]: 0.0003546 楽
+TOKEN[128]: 0.0017314    2 world
+	world WORD[128,   1]: 0.0014444 楽界
+	world WORD[128,   2]: 0.0002870 楽壇
+TOKEN[129]: 0.0017295    2 pesticide
+	pesticide WORD[129,   1]: 0.0006501 農薬
+	pesticide WORD[129,   2]: 0.0005397 薬
+TOKEN[130]: 0.0017081    2 subject
+	subject WORD[130,   1]: 0.0011911 薬科
+	subject WORD[130,   2]: 0.0005171 楽想
+TOKEN[131]: 0.0016986    2 fired
+	fired WORD[131,   1]: 0.0008493 楽焼
+	fired WORD[131,   2]: 0.0008493 楽焼き
+TOKEN[132]: 0.0016676    2 earthenware
+	earthenware WORD[132,   1]: 0.0008338 楽焼
+	earthenware WORD[132,   2]: 0.0008338 楽焼き
+TOKEN[133]: 0.0016538    2 ware
+	ware WORD[133,   1]: 0.0008269 楽焼
+	ware WORD[133,   2]: 0.0008269 楽焼き
+TOKEN[134]: 0.0016506    2 pill
+	pill WORD[134,   1]: 0.0007144 丸薬
+	pill WORD[134,   2]: 0.0004681 薬
+TOKEN[135]: 0.0016338    3 head
+	head WORD[135,   1]: 0.0005446 薬缶
+	head WORD[135,   2]: 0.0005446 薬罐
+	head WORD[135,   3]: 0.0005446 薬鑵
+TOKEN[136]: 0.0016238    1 stage
+	stage WORD[136,   1]: 0.0016238 神楽殿
+TOKEN[137]: 0.0015948    2 druggist
+	druggist WORD[137,   1]: 0.0010457 薬研
+	druggist WORD[137,   2]: 0.0005491 薬屋
+TOKEN[138]: 0.0015869    2 doodle
+	doodle WORD[138,   1]: 0.0007934 楽書
+	doodle WORD[138,   2]: 0.0007934 楽書き
+TOKEN[139]: 0.0015640    1 shrine
+	shrine WORD[139,   1]: 0.0015640 神楽殿
+TOKEN[140]: 0.0015486    1 eruption
+	eruption WORD[140,   1]: 0.0015486 薬疹
+TOKEN[141]: 0.0015357    1 ingredient
+	ingredient WORD[141,   1]: 0.0015357 薬材
+TOKEN[142]: 0.0015297    1 tournament
+	tournament WORD[142,   1]: 0.0007648 楽日
+TOKEN[143]: 0.0015287    2 new
+	new WORD[143,   1]: 0.0008934 創薬
+	new WORD[143,   2]: 0.0006353 新薬
+TOKEN[144]: 0.0015274    1 wind
+	wind WORD[144,   1]: 0.0015274 管楽
+TOKEN[145]: 0.0015230    2 Buddha
+	Buddha WORD[145,   1]: 0.0006073 法楽
+	Buddha WORD[145,   2]: 0.0004579 薬師
+TOKEN[146]: 0.0015067    1 prepare
+	prepare WORD[146,   1]: 0.0015067 薬店
+TOKEN[147]: 0.0015047    3 ease
+	ease WORD[147,   1]: 0.0003867 気楽
+	ease WORD[147,   2]: 0.0003830 楽
+	ease WORD[147,   3]: 0.0003519 安楽
+TOKEN[148]: 0.0015044    2 style
+	style WORD[148,   1]: 0.0009955 楽府
+	style WORD[148,   2]: 0.0005089 唐楽
+TOKEN[149]: 0.0014788    1 tube
+	tube WORD[149,   1]: 0.0014788 薬筒
+TOKEN[150]: 0.0014748    1 effective
+	effective WORD[150,   1]: 0.0014748 名薬
+TOKEN[151]: 0.0014452    1 Zen
+	Zen WORD[151,   1]: 0.0014452 薬石
+TOKEN[152]: 0.0014415    2 small
+	small WORD[152,   1]: 0.0008968 薬袋
+	small WORD[152,   2]: 0.0002724 薬
+TOKEN[153]: 0.0014356    3 shell
+	shell WORD[153,   1]: 0.0004925 薬きょう
+	shell WORD[153,   2]: 0.0004925 薬莢
+	shell WORD[153,   3]: 0.0004505 貝独楽
+TOKEN[154]: 0.0014305    1 conglomerate
+	conglomerate WORD[154,   1]: 0.0007152 楽天
+TOKEN[155]: 0.0014199    2 harmful
+	harmful WORD[155,   1]: 0.0008228 薬害
+	harmful WORD[155,   2]: 0.0005972 薬禍
+TOKEN[156]: 0.0014174    1 discovery
+	discovery WORD[156,   1]: 0.0014174 創薬
+TOKEN[157]: 0.0014088    1 chamber
+	chamber WORD[157,   1]: 0.0014088 薬室
+TOKEN[158]: 0.0013780    2 scribble
+	scribble WORD[158,   1]: 0.0006890 楽書
+	scribble WORD[158,   2]: 0.0006890 楽書き
+TOKEN[159]: 0.0013780    2 scrawl
+	scrawl WORD[159,   1]: 0.0006890 楽書
+	scrawl WORD[159,   2]: 0.0006890 楽書き
+TOKEN[160]: 0.0013736    1 responsible
+	responsible WORD[160,   1]: 0.0013736 楽府
+TOKEN[161]: 0.0013627    3 enjoyment
+	enjoyment WORD[161,   1]: 0.0004874 楽しみ
+	enjoyment WORD[161,   2]: 0.0004398 享楽
+	enjoyment WORD[161,   3]: 0.0004356 歓楽
+TOKEN[162]: 0.0013616    1 prodigality
+	prodigality WORD[162,   1]: 0.0006808 道楽
+TOKEN[163]: 0.0013560    1 koto
+	koto WORD[163,   1]: 0.0013560 楽箏
+TOKEN[164]: 0.0013554    1 rash
+	rash WORD[164,   1]: 0.0013554 薬疹
+TOKEN[165]: 0.0013549    3 dependence
+	dependence WORD[165,   1]: 0.0004516 薬づけ
+	dependence WORD[165,   2]: 0.0004516 薬漬
+	dependence WORD[165,   3]: 0.0004516 薬漬け
+TOKEN[166]: 0.0013467    1 sleeping
+	sleeping WORD[166,   1]: 0.0013467 眠り薬
+TOKEN[167]: 0.0013419    2 effects
+	effects WORD[167,   1]: 0.0007776 薬害
+	effects WORD[167,   2]: 0.0005644 薬禍
+TOKEN[168]: 0.0013396    2 celebrated
+	celebrated WORD[168,   1]: 0.0006698 楽聖
+	celebrated WORD[168,   2]: 0.0006698 楽匠
+TOKEN[169]: 0.0013338    2 powdered
+	powdered WORD[169,   1]: 0.0006692 散薬
+	powdered WORD[169,   2]: 0.0006646 粉薬
+TOKEN[170]: 0.0013170    4 one
+	one WORD[170,   1]: 0.0005478 薬店
+	one WORD[170,   2]: 0.0003049 持薬
+	one WORD[170,   3]: 0.0002386 楽髪
+	one WORD[170,   4]: 0.0002256 田楽
+TOKEN[171]: 0.0013140    2 based
+	based WORD[171,   1]: 0.0007008 薬膳
+	based WORD[171,   2]: 0.0006132 唐楽
+TOKEN[172]: 0.0013073    1 fourth
+	fourth WORD[172,   1]: 0.0013073 薬指
+TOKEN[173]: 0.0013064    2 lead
+	lead WORD[173,   1]: 0.0006532 楽焼
+	lead WORD[173,   2]: 0.0006532 楽焼き
+TOKEN[174]: 0.0013064    1 composed
+	composed WORD[174,   1]: 0.0013064 楽府
+TOKEN[175]: 0.0013021    1 Korean
+	Korean WORD[175,   1]: 0.0013021 薬食
+TOKEN[176]: 0.0012939    2 liquid
+	liquid WORD[176,   1]: 0.0006961 薬液
+	liquid WORD[176,   2]: 0.0005978 水薬
+TOKEN[177]: 0.0012578    1 sole
+	sole WORD[177,   1]: 0.0012578 楽座
+TOKEN[178]: 0.0012536    1 profligacy
+	profligacy WORD[178,   1]: 0.0006268 道楽
+TOKEN[179]: 0.0012536    1 indulging
+	indulging WORD[179,   1]: 0.0006268 道楽
+TOKEN[180]: 0.0012476    1 phrase
+	phrase WORD[180,   1]: 0.0012476 楽句
+TOKEN[181]: 0.0012406    2 low
+	low WORD[181,   1]: 0.0006203 楽焼
+	low WORD[181,   2]: 0.0006203 楽焼き
+TOKEN[182]: 0.0012253    1 temple
+	temple WORD[182,   1]: 0.0012253 薬石
+TOKEN[183]: 0.0012252    1 gun
+	gun WORD[183,   1]: 0.0012252 薬室
+TOKEN[184]: 0.0012199    1 singing
+	singing WORD[184,   1]: 0.0012199 楽舞
+TOKEN[185]: 0.0012149    2 comfort
+	comfort WORD[185,   1]: 0.0004162 楽
+	comfort WORD[185,   2]: 0.0003825 安楽
+TOKEN[186]: 0.0012127    1 myrrh
+	myrrh WORD[186,   1]: 0.0012127 没薬
+TOKEN[187]: 0.0012072    1 sweet
+	sweet WORD[187,   1]: 0.0012072 薬食
+TOKEN[188]: 0.0012052    1 carrying
+	carrying WORD[188,   1]: 0.0012052 薬袋
+TOKEN[189]: 0.0012035    1 chartula
+	chartula WORD[189,   1]: 0.0012035 薬包
+TOKEN[190]: 0.0012006    1 poetry
+	poetry WORD[190,   1]: 0.0012006 楽府
+TOKEN[191]: 0.0011986    2 ceremony
+	ceremony WORD[191,   1]: 0.0005993 楽焼
+	ceremony WORD[191,   2]: 0.0005993 楽焼き
+TOKEN[192]: 0.0011969    1 burn
+	burn WORD[192,   1]: 0.0011969 薬傷
+TOKEN[193]: 0.0011938    1 secret
+	secret WORD[193,   1]: 0.0011938 秘薬
+TOKEN[194]: 0.0011926    1 dynasty
+	dynasty WORD[194,   1]: 0.0011926 楽府
+TOKEN[195]: 0.0011925    1 dish
+	dish WORD[195,   1]: 0.0011925 薬食
+TOKEN[196]: 0.0011922    3 fun
+	fun WORD[196,   1]: 0.0004120 楽しむ
+	fun WORD[196,   2]: 0.0004120 楽しい
+	fun WORD[196,   3]: 0.0003682 歓楽
+TOKEN[197]: 0.0011870    1 injury
+	injury WORD[197,   1]: 0.0011870 薬傷
+TOKEN[198]: 0.0011865    1 last
+	last WORD[198,   1]: 0.0005932 楽日
+TOKEN[199]: 0.0011846    1 Buddhist
+	Buddhist WORD[199,   1]: 0.0011846 勝楽
+TOKEN[200]: 0.0011808    2 tea
+	tea WORD[200,   1]: 0.0005904 楽焼
+	tea WORD[200,   2]: 0.0005904 楽焼き
+TOKEN[201]: 0.0011718    1 harmony
+	harmony WORD[201,   1]: 0.0005859 和楽
+TOKEN[202]: 0.0011686    2 sorority
+	sorority WORD[202,   1]: 0.0005843 俱楽部
+	sorority WORD[202,   2]: 0.0005843 倶楽部
+TOKEN[203]: 0.0011664    1 nostrum
+	nostrum WORD[203,   1]: 0.0011664 秘薬
+TOKEN[204]: 0.0011510    1 efficacious
+	efficacious WORD[204,   1]: 0.0005755 薬
+TOKEN[205]: 0.0011504    1 debauchery
+	debauchery WORD[205,   1]: 0.0005752 道楽
+TOKEN[206]: 0.0011444    1 bat
+	bat WORD[206,   1]: 0.0011444 神楽蝙蝠
+TOKEN[207]: 0.0011378    2 orchestra
+	orchestra WORD[207,   1]: 0.0006893 楽隊
+	orchestra WORD[207,   2]: 0.0004485 楽団
+TOKEN[208]: 0.0011360    2 effect
+	effect WORD[208,   1]: 0.0006596 薬効
+	effect WORD[208,   2]: 0.0004764 薬理
+TOKEN[209]: 0.0011357    1 sitting
+	sitting WORD[209,   1]: 0.0011357 楽座
+TOKEN[210]: 0.0011355    1 lesser
+	lesser WORD[210,   1]: 0.0011355 神楽蝙蝠
+TOKEN[211]: 0.0011329    1 box
+	box WORD[211,   1]: 0.0011329 薬箱
+TOKEN[212]: 0.0011276    2 clubhouse
+	clubhouse WORD[212,   1]: 0.0005638 俱楽部
+	clubhouse WORD[212,   2]: 0.0005638 倶楽部
+TOKEN[213]: 0.0011213    1 apothecary
+	apothecary WORD[213,   1]: 0.0011213 薬屋
+TOKEN[214]: 0.0011074    1 design
+	design WORD[214,   1]: 0.0011074 創薬
+TOKEN[215]: 0.0011049    2 string
+	string WORD[215,   1]: 0.0005524 弦楽
+	string WORD[215,   2]: 0.0005524 絃楽
+TOKEN[216]: 0.0010960    3 play
+	play WORD[216,   1]: 0.0004304 楽勝
+	play WORD[216,   2]: 0.0003665 能楽
+	play WORD[216,   3]: 0.0002991 楽劇
+TOKEN[217]: 0.0010901    1 dissipation
+	dissipation WORD[217,   1]: 0.0005451 道楽
+TOKEN[218]: 0.0010813    1 name
+	name WORD[218,   1]: 0.0010813 薬名
+TOKEN[219]: 0.0010644    1 development
+	development WORD[219,   1]: 0.0010644 創薬
+TOKEN[220]: 0.0010604    1 Paeonia
+	Paeonia WORD[220,   1]: 0.0010604 芍薬
+TOKEN[221]: 0.0010441    1 day
+	day WORD[221,   1]: 0.0005220 楽日
+TOKEN[222]: 0.0010422    1 peony
+	peony WORD[222,   1]: 0.0010422 芍薬
+TOKEN[223]: 0.0010351    1 office
+	office WORD[223,   1]: 0.0010351 楽府
+TOKEN[224]: 0.0010283    2 fraternity
+	fraternity WORD[224,   1]: 0.0005142 俱楽部
+	fraternity WORD[224,   2]: 0.0005142 倶楽部
+TOKEN[225]: 0.0010278    2 cream
+	cream WORD[225,   1]: 0.0005139 塗り薬
+	cream WORD[225,   2]: 0.0005139 塗薬
+TOKEN[226]: 0.0010274    1 enjoying
+	enjoying WORD[226,   1]: 0.0010274 偕楽
+TOKEN[227]: 0.0010115    1 natural
+	natural WORD[227,   1]: 0.0010115 生薬
+TOKEN[228]: 0.0010090    1 government
+	government WORD[228,   1]: 0.0010090 楽府
+TOKEN[229]: 0.0010030    2 meat
+	meat WORD[229,   1]: 0.0005109 薬食い
+	meat WORD[229,   2]: 0.0004921 加薬
+TOKEN[230]: 0.0010020    2 life
+	life WORD[230,   1]: 0.0005143 法楽
+	life WORD[230,   2]: 0.0004876 仙薬
+TOKEN[231]: 0.0009989    1 open
+	open WORD[231,   1]: 0.0009989 楽座
+TOKEN[232]: 0.0009989    1 ground
+	ground WORD[232,   1]: 0.0009989 楽座
+TOKEN[233]: 0.0009984    1 cattle
+	cattle WORD[233,   1]: 0.0009984 伯楽
+TOKEN[234]: 0.0009981    2 band
+	band WORD[234,   1]: 0.0006047 楽隊
+	band WORD[234,   2]: 0.0003934 楽団
+TOKEN[235]: 0.0009965    1 panacea
+	panacea WORD[235,   1]: 0.0009965 仙薬
+TOKEN[236]: 0.0009956    1 blasting
+	blasting WORD[236,   1]: 0.0009956 爆薬
+TOKEN[237]: 0.0009810    2 side
+	side WORD[237,   1]: 0.0005684 薬害
+	side WORD[237,   2]: 0.0004126 薬禍
+TOKEN[238]: 0.0009695    1 galenical
+	galenical WORD[238,   1]: 0.0009695 生薬
+TOKEN[239]: 0.0009666    1 favorite
+	favorite WORD[239,   1]: 0.0004833 道楽
+TOKEN[240]: 0.0009541    1 nervousness
+	nervousness WORD[240,   1]: 0.0009541 虫薬
+TOKEN[241]: 0.0009512    1 porridge
+	porridge WORD[241,   1]: 0.0009512 薬石
+TOKEN[242]: 0.0009417    3 good
+	good WORD[242,   1]: 0.0003612 良薬
+	good WORD[242,   2]: 0.0003078 伯楽
+	good WORD[242,   3]: 0.0002727 楽しむ
+TOKEN[243]: 0.0009375    2 child
+	child WORD[243,   1]: 0.0005284 鼻薬
+	child WORD[243,   2]: 0.0004090 楽勝
+TOKEN[244]: 0.0009349    1 soothing
+	soothing WORD[244,   1]: 0.0009349 鼻薬
+TOKEN[245]: 0.0009346    1 part
+	part WORD[245,   1]: 0.0009346 楽部
+TOKEN[246]: 0.0009311    1 miraculous
+	miraculous WORD[246,   1]: 0.0009311 霊薬
+TOKEN[247]: 0.0009311    1 bandmaster
+	bandmaster WORD[247,   1]: 0.0009311 楽長
+TOKEN[248]: 0.0009255    1 cabinet
+	cabinet WORD[248,   1]: 0.0009255 薬棚
+TOKEN[249]: 0.0009211    1 manufacture
+	manufacture WORD[249,   1]: 0.0009211 製薬
+TOKEN[250]: 0.0009166    2 case
+	case WORD[250,   1]: 0.0004583 薬きょう
+	case WORD[250,   2]: 0.0004583 薬莢
+TOKEN[251]: 0.0009127    1 pious
+	pious WORD[251,   1]: 0.0009127 法楽
+TOKEN[252]: 0.0009102    1 gambling
+	gambling WORD[252,   1]: 0.0004551 道楽
+TOKEN[253]: 0.0009087    1 chameleon
+	chameleon WORD[253,   1]: 0.0009087 十薬
+TOKEN[254]: 0.0008909    1 beverage
+	beverage WORD[254,   1]: 0.0008909 薬酒
+TOKEN[255]: 0.0008891    1 loose
+	loose WORD[255,   1]: 0.0004445 道楽
+TOKEN[256]: 0.0008883    1 dispensation
+	dispensation WORD[256,   1]: 0.0008883 施薬
+TOKEN[257]: 0.0008852    1 relaxation
+	relaxation WORD[257,   1]: 0.0004426 楽
+TOKEN[258]: 0.0008849    1 efficacy
+	efficacy WORD[258,   1]: 0.0008849 薬効
+TOKEN[259]: 0.0008783    1 compositional
+	compositional WORD[259,   1]: 0.0008783 楽典
+TOKEN[260]: 0.0008774    1 information
+	information WORD[260,   1]: 0.0004387 楽天
+TOKEN[261]: 0.0008758    1 herb
+	herb WORD[261,   1]: 0.0008758 薬草
+TOKEN[262]: 0.0008730    1 evacuant
+	evacuant WORD[262,   1]: 0.0008730 下し薬
+TOKEN[263]: 0.0008717    1 peasy
+	peasy WORD[263,   1]: 0.0008717 楽勝
+TOKEN[264]: 0.0008717    1 cakewalk
+	cakewalk WORD[264,   1]: 0.0008717 楽勝
+TOKEN[265]: 0.0008631    1 mortar
+	mortar WORD[265,   1]: 0.0008631 薬研
+TOKEN[266]: 0.0008510    1 Mus
+	Mus WORD[266,   1]: 0.0008510 独楽鼠
+TOKEN[267]: 0.0008461    1 hush
+	hush WORD[267,   1]: 0.0008461 鼻薬
+TOKEN[268]: 0.0008454    1 purgative
+	purgative WORD[268,   1]: 0.0008454 下し薬
+TOKEN[269]: 0.0008432    1 way
+	way WORD[269,   1]: 0.0008432 楽座
+TOKEN[270]: 0.0008377    2 use
+	use WORD[270,   1]: 0.0004264 田楽
+	use WORD[270,   2]: 0.0004113 薬用
+TOKEN[271]: 0.0008270    1 alcoholic
+	alcoholic WORD[271,   1]: 0.0008270 薬酒
+TOKEN[272]: 0.0008246    1 alcohol
+	alcohol WORD[272,   1]: 0.0004123 道楽
+TOKEN[273]: 0.0008244    2 fish
+	fish WORD[273,   1]: 0.0004265 加薬
+	fish WORD[273,   2]: 0.0003980 田楽
+TOKEN[274]: 0.0008223    1 walkover
+	walkover WORD[274,   1]: 0.0008223 楽勝
+TOKEN[275]: 0.0008212    1 pharmaceutics
+	pharmaceutics WORD[275,   1]: 0.0008212 薬学
+TOKEN[276]: 0.0008206    2 master
+	master WORD[276,   1]: 0.0004972 楽聖
+	master WORD[276,   2]: 0.0003235 楽師
+TOKEN[277]: 0.0008108    1 explosive
+	explosive WORD[277,   1]: 0.0008108 爆薬
+TOKEN[278]: 0.0008092    1 cure
+	cure WORD[278,   1]: 0.0008092 妙薬
+TOKEN[279]: 0.0008090    2 taking
+	taking WORD[279,   1]: 0.0004204 楽観
+	taking WORD[279,   2]: 0.0003886 服薬
+TOKEN[280]: 0.0007985    1 illegal
+	illegal WORD[280,   1]: 0.0003992 薬
+TOKEN[281]: 0.0007953    2 shop
+	shop WORD[281,   1]: 0.0004614 薬局
+	shop WORD[281,   2]: 0.0003340 薬屋
+TOKEN[282]: 0.0007948    1 melodic
+	melodic WORD[282,   1]: 0.0007948 楽想
+TOKEN[283]: 0.0007923    1 etiquette
+	etiquette WORD[283,   1]: 0.0007923 礼楽
+TOKEN[284]: 0.0007828    1 happiness
+	happiness WORD[284,   1]: 0.0003914 楽
+TOKEN[285]: 0.0007796    1 pouring
+	pouring WORD[285,   1]: 0.0007796 灰神楽
+TOKEN[286]: 0.0007745    1 dispensary
+	dispensary WORD[286,   1]: 0.0007745 薬局
+TOKEN[287]: 0.0007729    1 Eden
+	Eden WORD[287,   1]: 0.0007729 楽園
+TOKEN[288]: 0.0007729    1 masked
+	masked WORD[288,   1]: 0.0007729 伎楽
+TOKEN[289]: 0.0007720    1 nasal
+	nasal WORD[289,   1]: 0.0007720 鼻薬
+TOKEN[290]: 0.0007609    1 admission
+	admission WORD[290,   1]: 0.0007609 法楽
+TOKEN[291]: 0.0007560    2 club
+	club WORD[291,   1]: 0.0003780 俱楽部
+	club WORD[291,   2]: 0.0003780 倶楽部
+TOKEN[292]: 0.0007530    2 green
+	green WORD[292,   1]: 0.0004441 薬味
+	green WORD[292,   2]: 0.0003089 楽屋
+TOKEN[293]: 0.0007495    1 spray
+	spray WORD[293,   1]: 0.0007495 鼻薬
+TOKEN[294]: 0.0007476    1 bought
+	bought WORD[294,   1]: 0.0007476 買い薬
+TOKEN[295]: 0.0007458    1 physician
+	physician WORD[295,   1]: 0.0007458 典薬
+TOKEN[296]: 0.0007449    1 place
+	place WORD[296,   1]: 0.0007449 楽所
+TOKEN[297]: 0.0007442    1 eyewash
+	eyewash WORD[297,   1]: 0.0007442 目薬
+TOKEN[298]: 0.0007408    1 ashes
+	ashes WORD[298,   1]: 0.0007408 灰神楽
+TOKEN[299]: 0.0007387    1 container
+	container WORD[299,   1]: 0.0007387 薬籠
+TOKEN[300]: 0.0007376    1 relief
+	relief WORD[300,   1]: 0.0003688 楽
+TOKEN[301]: 0.0007325    1 living
+	living WORD[301,   1]: 0.0003663 道楽
+TOKEN[302]: 0.0007315    1 legal
+	legal WORD[302,   1]: 0.0003658 薬
+TOKEN[303]: 0.0007202    1 boar
+	boar WORD[303,   1]: 0.0007202 薬食い
+TOKEN[304]: 0.0007201    1 usual
+	usual WORD[304,   1]: 0.0007201 持薬
+TOKEN[305]: 0.0007169    1 chest
+	chest WORD[305,   1]: 0.0007169 薬籠
+TOKEN[306]: 0.0007144    1 Amitabha
+	Amitabha WORD[306,   1]: 0.0007144 極楽
+TOKEN[307]: 0.0007071    1 excellent
+	excellent WORD[307,   1]: 0.0007071 秘薬
+TOKEN[308]: 0.0007032    1 motif
+	motif WORD[308,   1]: 0.0007032 楽想
+TOKEN[309]: 0.0007011    1 optimism
+	optimism WORD[309,   1]: 0.0007011 楽観
+TOKEN[310]: 0.0007002    1 treatment
+	treatment WORD[310,   1]: 0.0007002 薬石
+TOKEN[311]: 0.0006991    1 fee
+	fee WORD[311,   1]: 0.0006991 薬礼
+TOKEN[312]: 0.0006965    1 mouse
+	mouse WORD[312,   1]: 0.0006965 独楽鼠
+TOKEN[313]: 0.0006964    1 dope
+	dope WORD[313,   1]: 0.0006964 麻薬
+TOKEN[314]: 0.0006941    1 spice
+	spice WORD[314,   1]: 0.0006941 薬味
+TOKEN[315]: 0.0006932    1 herbicide
+	herbicide WORD[315,   1]: 0.0006932 農薬
+TOKEN[316]: 0.0006908    1 sleep
+	sleep WORD[316,   1]: 0.0006908 楽寝
+TOKEN[317]: 0.0006907    1 cooking
+	cooking WORD[317,   1]: 0.0006907 薬膳
+TOKEN[318]: 0.0006862    1 conductor
+	conductor WORD[318,   1]: 0.0006862 楽長
+TOKEN[319]: 0.0006843    2 charge
+	charge WORD[319,   1]: 0.0003550 装薬
+	charge WORD[319,   2]: 0.0003292 薬代
+TOKEN[320]: 0.0006836    1 toe
+	toe WORD[320,   1]: 0.0006836 薬指
+TOKEN[321]: 0.0006831    1 condiment
+	condiment WORD[321,   1]: 0.0006831 薬味
+TOKEN[322]: 0.0006779    1 pharmaceutical
+	pharmaceutical WORD[322,   1]: 0.0006779 薬事
+TOKEN[323]: 0.0006776    1 garden
+	garden WORD[323,   1]: 0.0006776 薬園
+TOKEN[324]: 0.0006769    1 rest
+	rest WORD[324,   1]: 0.0006769 楽寝
+TOKEN[325]: 0.0006660    1 optimistic
+	optimistic WORD[325,   1]: 0.0006660 楽観
+TOKEN[326]: 0.0006655    1 coated
+	coated WORD[326,   1]: 0.0006655 田楽
+TOKEN[327]: 0.0006638    1 various
+	various WORD[327,   1]: 0.0006638 薬石
+TOKEN[328]: 0.0006622    1 sundry
+	sundry WORD[328,   1]: 0.0006622 百薬
+TOKEN[329]: 0.0006606    1 theme
+	theme WORD[329,   1]: 0.0006606 楽想
+TOKEN[330]: 0.0006602    1 ammo
+	ammo WORD[330,   1]: 0.0006602 弾薬
+TOKEN[331]: 0.0006602    1 cloud
+	cloud WORD[331,   1]: 0.0006602 灰神楽
+TOKEN[332]: 0.0006584    1 trouble
+	trouble WORD[332,   1]: 0.0003292 楽
+TOKEN[333]: 0.0006543    1 wasabi
+	wasabi WORD[333,   1]: 0.0006543 薬味
+TOKEN[334]: 0.0006537    1 deer
+	deer WORD[334,   1]: 0.0006537 薬食い
+TOKEN[335]: 0.0006524    1 seasoning
+	seasoning WORD[335,   1]: 0.0006524 加薬
+TOKEN[336]: 0.0006509    1 added
+	added WORD[336,   1]: 0.0006509 加薬
+TOKEN[337]: 0.0006503    1 ward
+	ward WORD[337,   1]: 0.0006503 薬食い
+TOKEN[338]: 0.0006481    1 principal
+	principal WORD[338,   1]: 0.0006481 主薬
+TOKEN[339]: 0.0006478    1 topping
+	topping WORD[339,   1]: 0.0006478 薬味
+TOKEN[340]: 0.0006467    1 relaxed
+	relaxed WORD[340,   1]: 0.0006467 楽髪
+TOKEN[341]: 0.0006466    1 pursuit
+	pursuit WORD[341,   1]: 0.0006466 逸楽
+TOKEN[342]: 0.0006449    1 nose
+	nose WORD[342,   1]: 0.0006449 鼻薬
+TOKEN[343]: 0.0006362    1 Indian
+	Indian WORD[343,   1]: 0.0006362 唐楽
+TOKEN[344]: 0.0006350    1 grammar
+	grammar WORD[344,   1]: 0.0006350 楽典
+TOKEN[345]: 0.0006308    1 crude
+	crude WORD[345,   1]: 0.0006308 生薬
+TOKEN[346]: 0.0006085    1 dosage
+	dosage WORD[346,   1]: 0.0006085 投薬
+TOKEN[347]: 0.0006050    1 chopped
+	chopped WORD[347,   1]: 0.0006050 薬味
+TOKEN[348]: 0.0006038    1 reagent
+	reagent WORD[348,   1]: 0.0006038 試薬
+TOKEN[349]: 0.0006003    1 opposed
+	opposed WORD[349,   1]: 0.0006003 俗楽
+TOKEN[350]: 0.0005997    1 baked
+	baked WORD[350,   1]: 0.0005997 田楽
+TOKEN[351]: 0.0005916    1 room
+	room WORD[351,   1]: 0.0005916 楽屋
+TOKEN[352]: 0.0005910    1 agent
+	agent WORD[352,   1]: 0.0005910 主薬
+TOKEN[353]: 0.0005898    1 ginger
+	ginger WORD[353,   1]: 0.0005898 薬味
+TOKEN[354]: 0.0005882    1 rapid
+	rapid WORD[354,   1]: 0.0005882 楽髪
+TOKEN[355]: 0.0005868    1 poisoning
+	poisoning WORD[355,   1]: 0.0005868 薬殺
+TOKEN[356]: 0.0005845    1 cook
+	cook WORD[356,   1]: 0.0005845 田楽
+TOKEN[357]: 0.0005745    1 eating
+	eating WORD[357,   1]: 0.0005745 薬食い
+TOKEN[358]: 0.0005737    1 addition
+	addition WORD[358,   1]: 0.0005737 加薬
+TOKEN[359]: 0.0005669    1 idle
+	idle WORD[359,   1]: 0.0005669 逸楽
+TOKEN[360]: 0.0005656    1 passage
+	passage WORD[360,   1]: 0.0005656 楽節
+TOKEN[361]: 0.0005640    1 growth
+	growth WORD[361,   1]: 0.0005640 楽髪
+TOKEN[362]: 0.0005628    1 pepper
+	pepper WORD[362,   1]: 0.0005628 薬味
+TOKEN[363]: 0.0005624    1 third
+	third WORD[363,   1]: 0.0005624 薬指
+TOKEN[364]: 0.0005621    1 grief
+	grief WORD[364,   1]: 0.0005621 哀楽
+TOKEN[365]: 0.0005620    1 ring
+	ring WORD[365,   1]: 0.0005620 薬指
+TOKEN[366]: 0.0005611    1 ritual
+	ritual WORD[366,   1]: 0.0005611 田楽
+TOKEN[367]: 0.0005606    1 pharmacist
+	pharmacist WORD[367,   1]: 0.0005606 薬屋
+TOKEN[368]: 0.0005605    1 park
+	park WORD[368,   1]: 0.0005605 楽勝
+TOKEN[369]: 0.0005584    1 adhesive
+	adhesive WORD[369,   1]: 0.0005584 貼り薬
+TOKEN[370]: 0.0005552    1 practice
+	practice WORD[370,   1]: 0.0005552 薬食い
+TOKEN[371]: 0.0005539    1 hospital
+	hospital WORD[371,   1]: 0.0005539 薬局
+TOKEN[372]: 0.0005532    1 onion
+	onion WORD[372,   1]: 0.0005532 薬味
+TOKEN[373]: 0.0005527    1 earth
+	earth WORD[373,   1]: 0.0005527 極楽
+TOKEN[374]: 0.0005521    1 trader
+	trader WORD[374,   1]: 0.0005521 伯楽
+TOKEN[375]: 0.0005440    1 daikon
+	daikon WORD[375,   1]: 0.0005440 薬味
+TOKEN[376]: 0.0005432    1 picnic
+	picnic WORD[376,   1]: 0.0005432 行楽
+TOKEN[377]: 0.0005416    1 killing
+	killing WORD[377,   1]: 0.0005416 薬殺
+TOKEN[378]: 0.0005411    1 puppet
+	puppet WORD[378,   1]: 0.0005411 文楽
+TOKEN[379]: 0.0005406    1 tofu
+	tofu WORD[379,   1]: 0.0005406 田楽
+TOKEN[380]: 0.0005395    1 sides
+	sides WORD[380,   1]: 0.0005395 田楽
+TOKEN[381]: 0.0005338    1 victory
+	victory WORD[381,   1]: 0.0005338 楽勝
+TOKEN[382]: 0.0005329    1 Shinto
+	Shinto WORD[382,   1]: 0.0005329 神楽
+TOKEN[383]: 0.0005311    1 section
+	section WORD[383,   1]: 0.0005311 楽節
+TOKEN[384]: 0.0005257    1 note
+	note WORD[384,   1]: 0.0005257 楽音
+TOKEN[385]: 0.0005188    1 walk
+	walk WORD[385,   1]: 0.0005188 楽勝
+TOKEN[386]: 0.0005179    1 European
+	European WORD[386,   1]: 0.0005179 洋楽
+TOKEN[387]: 0.0005153    1 fire
+	fire WORD[387,   1]: 0.0005153 灰神楽
+TOKEN[388]: 0.0005133    1 money
+	money WORD[388,   1]: 0.0005133 鼻薬
+TOKEN[389]: 0.0005129    1 common
+	common WORD[389,   1]: 0.0005129 俗楽
+TOKEN[390]: 0.0005126    1 freeing
+	freeing WORD[390,   1]: 0.0005126 快楽
+TOKEN[391]: 0.0005125    1 turning
+	turning WORD[391,   1]: 0.0005125 田楽
+TOKEN[392]: 0.0005116    1 delightful
+	delightful WORD[392,   1]: 0.0005116 楽しい
+TOKEN[393]: 0.0005058    1 manner
+	manner WORD[393,   1]: 0.0005058 田楽
+TOKEN[394]: 0.0005053    1 cost
+	cost WORD[394,   1]: 0.0005053 薬価
+TOKEN[395]: 0.0005048    1 theater
+	theater WORD[395,   1]: 0.0005048 文楽
+TOKEN[396]: 0.0005038    1 agricultural
+	agricultural WORD[396,   1]: 0.0005038 農薬
+TOKEN[397]: 0.0005002    1 plant
+	plant WORD[397,   1]: 0.0005002 十薬
+TOKEN[398]: 0.0004999    1 festival
+	festival WORD[398,   1]: 0.0004999 田楽
+TOKEN[399]: 0.0004986    1 oral
+	oral WORD[399,   1]: 0.0004986 飲み薬
+TOKEN[400]: 0.0004982    1 charging
+	charging WORD[400,   1]: 0.0004982 装薬
+TOKEN[401]: 0.0004925    1 bath
+	bath WORD[401,   1]: 0.0004925 薬湯
+TOKEN[402]: 0.0004908    1 dose
+	dose WORD[402,   1]: 0.0004908 調薬
+TOKEN[403]: 0.0004829    1 celebratory
+	celebratory WORD[403,   1]: 0.0004829 薬玉
+TOKEN[404]: 0.0004811    1 training
+	training WORD[404,   1]: 0.0004811 楽所
+TOKEN[405]: 0.0004808    1 judge
+	judge WORD[405,   1]: 0.0004808 伯楽
+TOKEN[406]: 0.0004791    1 anticipation
+	anticipation WORD[406,   1]: 0.0004791 楽しみ
+TOKEN[407]: 0.0004719    1 enjoy
+	enjoy WORD[407,   1]: 0.0004719 楽しむ
+TOKEN[408]: 0.0004717    1 backstage
+	backstage WORD[408,   1]: 0.0004717 楽屋
+TOKEN[409]: 0.0004705    1 diversion
+	diversion WORD[409,   1]: 0.0004705 楽しみ
+TOKEN[410]: 0.0004704    1 earthly
+	earthly WORD[410,   1]: 0.0004704 快楽
+TOKEN[411]: 0.0004682    1 study
+	study WORD[411,   1]: 0.0004682 薬学
+TOKEN[412]: 0.0004644    1 vocal
+	vocal WORD[412,   1]: 0.0004644 声楽
+TOKEN[413]: 0.0004641    1 hair
+	hair WORD[413,   1]: 0.0004641 楽髪
+TOKEN[414]: 0.0004634    1 recreation
+	recreation WORD[414,   1]: 0.0004634 娯楽
+TOKEN[415]: 0.0004612    1 view
+	view WORD[415,   1]: 0.0004612 楽観
+TOKEN[416]: 0.0004610    1 excursion
+	excursion WORD[416,   1]: 0.0004610 行楽
+TOKEN[417]: 0.0004610    1 outing
+	outing WORD[417,   1]: 0.0004610 行楽
+TOKEN[418]: 0.0004604    1 people
+	people WORD[418,   1]: 0.0004604 俗楽
+TOKEN[419]: 0.0004596    1 water
+	water WORD[419,   1]: 0.0004596 灰神楽
+TOKEN[420]: 0.0004570    1 internal
+	internal WORD[420,   1]: 0.0004570 飲み薬
+TOKEN[421]: 0.0004550    1 administration
+	administration WORD[421,   1]: 0.0004550 投薬
+TOKEN[422]: 0.0004513    1 instrumental
+	instrumental WORD[422,   1]: 0.0004513 器楽
+TOKEN[423]: 0.0004501    1 hot
+	hot WORD[423,   1]: 0.0004501 薬湯
+TOKEN[424]: 0.0004454    1 era
+	era WORD[424,   1]: 0.0004454 楽所
+TOKEN[425]: 0.0004447    1 junk
+	junk WORD[425,   1]: 0.0004447 我楽多
+TOKEN[426]: 0.0004344    1 odds
+	odds WORD[426,   1]: 0.0004344 我楽多
+TOKEN[427]: 0.0004339    1 carefree
+	carefree WORD[427,   1]: 0.0004339 気楽
+TOKEN[428]: 0.0004333    1 price
+	price WORD[428,   1]: 0.0004333 薬価
+TOKEN[429]: 0.0004327    1 opera
+	opera WORD[429,   1]: 0.0004327 楽劇
+TOKEN[430]: 0.0004298    1 easygoing
+	easygoing WORD[430,   1]: 0.0004298 気楽
+TOKEN[431]: 0.0004298    1 inside
+	inside WORD[431,   1]: 0.0004298 楽屋
+TOKEN[432]: 0.0004294    1 spring
+	spring WORD[432,   1]: 0.0004294 薬湯
+TOKEN[433]: 0.0004272    1 trash
+	trash WORD[433,   1]: 0.0004272 我楽多
+TOKEN[434]: 0.0004262    1 scent
+	scent WORD[434,   1]: 0.0004262 薬玉
+TOKEN[435]: 0.0004171    1 red
+	red WORD[435,   1]: 0.0004171 薬味
+TOKEN[436]: 0.0004167    1 happy
+	happy WORD[436,   1]: 0.0004167 楽しい
+TOKEN[437]: 0.0004128    1 ornamental
+	ornamental WORD[437,   1]: 0.0004128 薬玉
+TOKEN[438]: 0.0004127    1 gray
+	gray WORD[438,   1]: 0.0004127 聚楽
+TOKEN[439]: 0.0004121    1 powerful
+	powerful WORD[439,   1]: 0.0004121 劇薬
+TOKEN[440]: 0.0004109    1 skin
+	skin WORD[440,   1]: 0.0004109 貼り薬
+TOKEN[441]: 0.0004100    1 supreme
+	supreme WORD[441,   1]: 0.0004100 快楽
+TOKEN[442]: 0.0004071    1 grey
+	grey WORD[442,   1]: 0.0004071 聚楽
+TOKEN[443]: 0.0004058    1 tune
+	tune WORD[443,   1]: 0.0004058 楽曲
+TOKEN[444]: 0.0004041    1 rubbish
+	rubbish WORD[444,   1]: 0.0004041 我楽多
+TOKEN[445]: 0.0004029    1 covering
+	covering WORD[445,   1]: 0.0004029 聚楽
+TOKEN[446]: 0.0004027    1 decorative
+	decorative WORD[446,   1]: 0.0004027 薬玉
+TOKEN[447]: 0.0004026    1 delight
+	delight WORD[447,   1]: 0.0004026 悦楽
+TOKEN[448]: 0.0003986    1 release
+	release WORD[448,   1]: 0.0003986 薬玉
+TOKEN[449]: 0.0003948    1 dressing
+	dressing WORD[449,   1]: 0.0003948 楽屋
+TOKEN[450]: 0.0003908    1 score
+	score WORD[450,   1]: 0.0003908 楽譜
+TOKEN[451]: 0.0003882    1 make
+	make WORD[451,   1]: 0.0003882 加薬
+TOKEN[452]: 0.0003878    1 composition
+	composition WORD[452,   1]: 0.0003878 楽曲
+TOKEN[453]: 0.0003865    1 horse
+	horse WORD[453,   1]: 0.0003865 伯楽
+TOKEN[454]: 0.0003737    1 garbage
+	garbage WORD[454,   1]: 0.0003737 我楽多
+TOKEN[455]: 0.0003701    1 joy
+	joy WORD[455,   1]: 0.0003701 悦楽
+TOKEN[456]: 0.0003688    1 sheet
+	sheet WORD[456,   1]: 0.0003688 楽譜
+TOKEN[457]: 0.0003655    1 trip
+	trip WORD[457,   1]: 0.0003655 行楽
+TOKEN[458]: 0.0003642    1 made
+	made WORD[458,   1]: 0.0003642 貝独楽
+TOKEN[459]: 0.0003622    1 material
+	material WORD[459,   1]: 0.0003622 聚楽
+TOKEN[460]: 0.0003619    1 looking
+	looking WORD[460,   1]: 0.0003619 楽しみ
+TOKEN[461]: 0.0003598    1 hanging
+	hanging WORD[461,   1]: 0.0003598 薬玉
+TOKEN[462]: 0.0003586    1 pain
+	pain WORD[462,   1]: 0.0003586 苦楽
+TOKEN[463]: 0.0003555    1 half
+	half WORD[463,   1]: 0.0003555 薬玉
+TOKEN[464]: 0.0003550    1 wall
+	wall WORD[464,   1]: 0.0003550 聚楽
+TOKEN[465]: 0.0003498    1 ball
+	ball WORD[465,   1]: 0.0003498 薬玉
+TOKEN[466]: 0.0003480    1 instrument
+	instrument WORD[466,   1]: 0.0003480 楽器
+TOKEN[467]: 0.0003448    1 movement
+	movement WORD[467,   1]: 0.0003448 楽章
+TOKEN[468]: 0.0003382    1 stomach
+	stomach WORD[468,   1]: 0.0003382 胃薬
+TOKEN[469]: 0.0003367    1 strong
+	strong WORD[469,   1]: 0.0003367 劇薬
+TOKEN[470]: 0.0003326    1 something
+	something WORD[470,   1]: 0.0003326 田楽
+TOKEN[471]: 0.0003151    1 military
+	military WORD[471,   1]: 0.0003151 軍楽
+TOKEN[472]: 0.0003131    1 look
+	look WORD[472,   1]: 0.0003131 楽しむ
+TOKEN[473]: 0.0002917    1 going
+	going WORD[473,   1]: 0.0002917 行楽
+TOKEN[474]: 0.0002789    1 take
+	take WORD[474,   1]: 0.0002789 楽しむ
+TOKEN[475]: 0.0002719    1 old
+	old WORD[475,   1]: 0.0002719 雅楽
+TOKEN[476]: 0.0002709    1 great
+	great WORD[476,   1]: 0.0002709 神楽蝙蝠
+TOKEN[477]: 0.0002616    1 time
+	time WORD[477,   1]: 0.0002616 楽しむ

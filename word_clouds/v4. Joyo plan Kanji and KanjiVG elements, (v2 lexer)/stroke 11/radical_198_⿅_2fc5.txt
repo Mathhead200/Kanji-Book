@@ -1,0 +1,707 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1111111    1 musk           : 麝香
+0.0775420   17 deer           : 麋, 麈尾, 白鹿, 赤鹿, のろ鹿, 神鹿, 鹿肉, 鹿狩, 鹿狩り, 牝鹿, ...
+0.0313594    2 mountain       : 山麓, 麓
+0.0287168    3 large          : 麈尾, 麋, 大鹿
+0.0251043    2 foot           : 麓, 山麓
+0.0250047    1 giraffe        : 麒麟
+0.0250047    1 unicorn        : 麒麟
+0.0250047    1 Giraffa        : 麒麟
+0.0249744    3 moose          : 麋, 大鹿, 篦鹿
+0.0249744    3 elk            : 麋, 大鹿, 篦鹿
+0.0243338    2 base           : 麓, 山麓
+0.0211468    1 tail           : 麈尾
+0.0197707    2 used           : 獲麟, 鹿威し
+0.0194951    2 day            : 麒麟, 麗日
+0.0165205    1 hill           : 麓
+0.0161129    1 ride           : 麒麟
+0.0160046    1 flapper        : 麈尾
+0.0153124    4 horse          : 麒麟, 青鹿毛, 黒鹿毛, 鹿毛
+0.0152425    1 hour           : 獲麟
+0.0150590    4 red            : 麋, 赤鹿, 鹿の子, 大鹿
+0.0143934    1 dying          : 獲麟
+0.0137931    1 bottom         : 麓
+0.0129998   15 beautiful      : 瑰麗, 麗容, 麗筆, 麗人, 麗姿, 豊麗, 麗しい, 端麗, 麗か, 麗らか, ...
+0.0123096    4 glorious       : 麗日, 麗か, 麗らか, 麗ら
+0.0122955    1 one            : 獲麟
+0.0121848    1 last           : 獲麟
+0.0121438    4 gorgeous       : 瑰麗, 鮮麗, 美麗, 華麗
+0.0115925    1 gift           : 麁品
+0.0110051    1 Chinese        : 麒麟
+0.0109770    1 death          : 獲麟
+0.0104658    1 end            : 獲麟
+0.0101161    1 attached       : 麈尾
+0.0096210    2 magnificent    : 瑰麗, 華麗
+0.0091504    1 priest         : 麈尾
+0.0089439    1 stick          : 麈尾
+0.0086693    1 marketing      : 麁品
+0.0079542    1 incentive      : 麁品
+0.0078297    1 spring         : 麗日
+0.0075868    1 made           : 麈尾
+0.0073430    1 token          : 麁品
+0.0072077    1 simple         : 麁食
+0.0067822    1 trifling       : 麁品
+0.0067318    1 inferior       : 麁品
+0.0067076    1 gratitude      : 麁品
+0.0057795    1 given          : 麁品
+0.0056418    1 food           : 麁食
+0.0054792    1 article        : 麁品
+0.0053526    1 present        : 麁品
+0.0052602    1 goods          : 麁品
+0.0049703    1 antler         : 鹿の角
+0.0047581    1 series         : 春麗
+0.0047450    1 frugal         : 麁食
+0.0045750    2 venison        : 鹿肉, 鹿
+0.0043753    1 small          : 麁品
+0.0043683    1 diet           : 麁食
+0.0041821    6 fawn           : 仔鹿, 子鹿, 小鹿, 鹿の子, 鹿子, 鹿毛
+0.0036039    1 plain          : 麁食
+0.0035871    1 roe            : のろ鹿
+0.0035169    1 meal           : 麁食
+0.0026114    2 doe            : 牝鹿, 雌鹿
+0.0025852    4 ostentatious   : 麗々, 麗麗, 麗々しい, 麗麗しい
+0.0025682    2 deerskin       : 鹿皮, 鹿革
+0.0025005    3 abatis         : 鹿柴, 鹿砦, 鹿垣
+0.0024943    4 gaudy          : 麗々, 麗麗, 麗々しい, 麗麗しい
+0.0024943    4 showy          : 麗々, 麗麗, 麗々しい, 麗麗しい
+0.0024133    1 Cervus         : 赤鹿
+0.0024011    2 coat           : 青鹿毛, 黒鹿毛
+0.0023996    1 Capreolus      : のろ鹿
+0.0022507    2 boar           : 鹿狩, 鹿狩り
+0.0021862    5 beauty         : 麗人, 麗質, 鮮麗, 佳麗, 艶麗
+0.0020859    2 color          : 青鹿毛, 黒鹿毛
+0.0020279    5 splendid       : 豊麗, 麗か, 麗らか, 麗ら, 華麗
+0.0018948    2 hunting        : 鹿狩, 鹿狩り
+0.0018828    2 white          : 白鹿, 鹿の子
+0.0017384    1 European       : のろ鹿
+0.0015510    4 bright         : 鮮麗, 麗か, 麗らか, 麗ら
+0.0015272    2 female         : 牝鹿, 雌鹿
+0.0015184    3 elegant        : 流麗, 麗句, 端麗
+0.0014882    5 clear          : 麗か, 麗らか, 麗ら, 奇麗, 綺麗
+0.0014364    1 saltwort       : 陸鹿尾菜
+0.0014364    1 Salsola        : 陸鹿尾菜
+0.0013768    3 cheerful       : 麗か, 麗らか, 麗ら
+0.0013764    1 bay            : 黒鹿毛
+0.0013723    2 dark           : 黒鹿毛, 鹿尾菜
+0.0013706    1 grounds        : 神鹿
+0.0013344    1 raised         : 神鹿
+0.0013228    1 serve          : 神鹿
+0.0012770    3 graceful       : 典麗, 端麗, 秀麗
+0.0012276    1 brown          : 青鹿毛
+0.0012131    3 mood           : 麗か, 麗らか, 麗ら
+0.0011712    3 ridiculous     : 馬鹿馬鹿しい, 馬鹿げる, 馬鹿
+0.0011528    3 weather        : 麗か, 麗らか, 麗ら
+0.0010994    1 shrine         : 神鹿
+0.0010969    3 fine           : 麗か, 麗らか, 麗ら
+0.0010573    3 voice          : 麗か, 麗らか, 麗ら
+0.0010309    3 foolish        : 馬鹿馬鹿しい, 馬鹿げる, 馬鹿
+0.0010226    2 trough         : 鹿追, 馬鹿
+0.0010040    3 clean          : 淡麗, 奇麗, 綺麗
+0.0009920    2 species        : 陸鹿尾菜, 馬鹿
+0.0009487    2 frog           : 河鹿蛙, 河鹿
+0.0009404    1 hedge          : 鹿垣
+0.0009069    1 kingdom        : 高句麗
+0.0008849    1 percussive     : 鹿追
+0.0008472    2 bamboo         : 鹿追, 鹿威し
+0.0007839    1 Korean         : 高句麗
+0.0007405    1 belle          : 麗人
+0.0007062    1 pattern        : 鹿の子
+0.0007008    2 absurd         : 馬鹿馬鹿しい, 馬鹿
+0.0006984    2 stupid         : 馬鹿げる, 馬鹿
+0.0006913    2 buck           : 雄鹿, 牡鹿
+0.0006889    1 fluent         : 流麗
+0.0006798    1 wild           : 鹿垣
+0.0006791    1 brushwork      : 麗筆
+0.0006597    1 keep           : 鹿垣
+0.0006584    1 resplendent    : 鮮麗
+0.0006477    2 tidy           : 奇麗, 綺麗
+0.0006428    1 wildlife       : 鹿威し
+0.0006421    2 neat           : 奇麗, 綺麗
+0.0006390    1 field          : 鹿垣
+0.0006371    1 ancient        : 高句麗
+0.0006361    1 dappled        : 鹿の子
+0.0006151    1 Mus            : 高麗鼠
+0.0006130    1 Alces          : 篦鹿
+0.0005745    1 genius         : 麗質
+0.0005712    1 flowing        : 流麗
+0.0005654    2 fair           : 奇麗, 綺麗
+0.0005616    1 handsome       : 端麗
+0.0005532    1 cup            : 鹿追
+0.0005437    1 pompous        : 鹿爪らしい
+0.0005287    1 vivid          : 鮮麗
+0.0005268    1 refreshing     : 淡麗
+0.0005260    1 mouse          : 高麗鼠
+0.0005186    1 asinine        : 馬鹿馬鹿しい
+0.0005177    1 charm          : 麗質
+0.0005107    2 pure           : 奇麗, 綺麗
+0.0005103    1 rich           : 豊麗
+0.0005091    1 dynasty        : 高麗
+0.0004938    1 phrase         : 麗句
+0.0004910    1 tube           : 鹿威し
+0.0004866    1 ludicrous      : 馬鹿馬鹿しい
+0.0004858    1 design         : 豊麗
+0.0004832    1 stern          : 鹿爪らしい
+0.0004832    1 solemn         : 鹿爪らしい
+0.0004818    1 Rangifer       : 馴鹿
+0.0004788    1 stiff          : 鹿爪らしい
+0.0004675    1 figure         : 麗姿
+0.0004624    1 dancing        : 高麗鼠
+0.0004569    1 smooth         : 淡麗
+0.0004546    1 pompousness    : 壮麗
+0.0004544    1 moron          : 馬鹿
+0.0004544    1 Mactra         : 馬鹿
+0.0004521    1 reindeer       : 馴鹿
+0.0004503    1 sound          : 鹿追
+0.0004482    2 male           : 雄鹿, 牡鹿
+0.0004414    1 shape          : 麗容
+0.0004286    1 nonsensical    : 馬鹿馬鹿しい
+0.0004286    1 formal         : 鹿爪らしい
+0.0004277    1 grave          : 鹿爪らしい
+0.0004224    1 absurdity      : 馬鹿
+0.0004127    1 writing        : 麗筆
+0.0004124    1 keeping        : 鹿威し
+0.0004104    1 form           : 麗容
+0.0004100    1 finish         : 淡麗
+0.0004062    1 woman          : 麗人
+0.0004000    1 fervent        : 馬鹿
+0.0003965    1 enthusiast     : 馬鹿
+0.0003905    1 bean           : 鹿の子
+0.0003894    1 magnificence   : 壮麗
+0.0003835    1 paste          : 鹿の子
+0.0003819    1 sake           : 淡麗
+0.0003799    1 water          : 鹿追
+0.0003778    1 nut            : 馬鹿
+0.0003688    1 sold           : 鹿尾菜
+0.0003645    1 trivial        : 馬鹿
+0.0003613    1 idiot          : 馬鹿
+0.0003613    1 splendor       : 壮麗
+0.0003594    1 stone          : 鹿威し
+0.0003456    1 edible         : 鹿尾菜
+0.0003386    1 dull           : 馬鹿
+0.0003356    1 seaweed        : 鹿尾菜
+0.0003346    1 colour         : 鹿毛
+0.0003325    1 fool           : 馬鹿
+0.0003277    1 light          : 淡麗
+0.0003100    1 shell          : 馬鹿
+0.0002916    1 dried          : 鹿尾菜
+0.0002822    1 matter         : 馬鹿
+0.0002815    1 black          : 鹿尾菜
+0.0002652    1 Japanese       : 高麗鼠
+0.0002488    1 prefecture     : 鹿児島
+0.0002222    1 city           : 鹿児島
+0.0002006    1 something      : 馬鹿
+0.0001930    1 person         : 馬鹿
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1111111    1 musk
+	musk WORD[ 1,   1]: 0.1111111 麝香
+TOKEN[ 2]: 0.0775420   17 deer
+	deer WORD[ 2,   1]: 0.0373423 麋
+	deer WORD[ 2,   2]: 0.0226044 麈尾
+	deer WORD[ 2,   3]: 0.0021620 白鹿
+	deer WORD[ 2,   4]: 0.0017042 赤鹿
+	deer WORD[ 2,   5]: 0.0016946 のろ鹿
+	deer WORD[ 2,   6]: 0.0014943 神鹿
+	deer WORD[ 2,   7]: 0.0013834 鹿肉
+	deer WORD[ 2,   8]: 0.0010633 鹿狩
+	deer WORD[ 2,   9]: 0.0010632 鹿狩り
+	deer WORD[ 2,  10]: 0.0009828 牝鹿
+	deer WORD[ 2,  11]: 0.0009828 雌鹿
+	deer WORD[ 2,  12]: 0.0008945 大鹿
+	deer WORD[ 2,  13]: 0.0004492 鹿子
+	deer WORD[ 2,  14]: 0.0004305 鹿垣
+	deer WORD[ 2,  15]: 0.0003065 鹿
+	deer WORD[ 2,  16]: 0.0002788 雄鹿
+	deer WORD[ 2,  17]: 0.0002783 牡鹿
+TOKEN[ 3]: 0.0313594    2 mountain
+	mountain WORD[ 3,   1]: 0.0193758 山麓
+	mountain WORD[ 3,   2]: 0.0119837 麓
+TOKEN[ 4]: 0.0287168    3 large
+	large WORD[ 4,   1]: 0.0155581 麈尾
+	large WORD[ 4,   2]: 0.0128509 麋
+	large WORD[ 4,   3]: 0.0003078 大鹿
+TOKEN[ 5]: 0.0251043    2 foot
+	foot WORD[ 5,   1]: 0.0138819 麓
+	foot WORD[ 5,   2]: 0.0112224 山麓
+TOKEN[ 6]: 0.0250047    1 giraffe
+	giraffe WORD[ 6,   1]: 0.0250047 麒麟
+TOKEN[ 7]: 0.0250047    1 unicorn
+	unicorn WORD[ 7,   1]: 0.0250047 麒麟
+TOKEN[ 8]: 0.0250047    1 Giraffa
+	Giraffa WORD[ 8,   1]: 0.0250047 麒麟
+TOKEN[ 9]: 0.0249744    3 moose
+	moose WORD[ 9,   1]: 0.0238500 麋
+	moose WORD[ 9,   2]: 0.0005713 大鹿
+	moose WORD[ 9,   3]: 0.0005530 篦鹿
+TOKEN[10]: 0.0249744    3 elk
+	elk WORD[10,   1]: 0.0238500 麋
+	elk WORD[10,   2]: 0.0005713 大鹿
+	elk WORD[10,   3]: 0.0005530 篦鹿
+TOKEN[11]: 0.0243338    2 base
+	base WORD[11,   1]: 0.0134558 麓
+	base WORD[11,   2]: 0.0108780 山麓
+TOKEN[12]: 0.0211468    1 tail
+	tail WORD[12,   1]: 0.0211468 麈尾
+TOKEN[13]: 0.0197707    2 used
+	used WORD[13,   1]: 0.0194814 獲麟
+	used WORD[13,   2]: 0.0002893 鹿威し
+TOKEN[14]: 0.0194951    2 day
+	day WORD[14,   1]: 0.0120983 麒麟
+	day WORD[14,   2]: 0.0073967 麗日
+TOKEN[15]: 0.0165205    1 hill
+	hill WORD[15,   1]: 0.0165205 麓
+TOKEN[16]: 0.0161129    1 ride
+	ride WORD[16,   1]: 0.0161129 麒麟
+TOKEN[17]: 0.0160046    1 flapper
+	flapper WORD[17,   1]: 0.0160046 麈尾
+TOKEN[18]: 0.0153124    4 horse
+	horse WORD[18,   1]: 0.0129516 麒麟
+	horse WORD[18,   2]: 0.0010193 青鹿毛
+	horse WORD[18,   3]: 0.0010142 黒鹿毛
+	horse WORD[18,   4]: 0.0003273 鹿毛
+TOKEN[19]: 0.0152425    1 hour
+	hour WORD[19,   1]: 0.0152425 獲麟
+TOKEN[20]: 0.0150590    4 red
+	red WORD[20,   1]: 0.0132179 麋
+	red WORD[20,   2]: 0.0012065 赤鹿
+	red WORD[20,   3]: 0.0003180 鹿の子
+	red WORD[20,   4]: 0.0003166 大鹿
+TOKEN[21]: 0.0143934    1 dying
+	dying WORD[21,   1]: 0.0143934 獲麟
+TOKEN[22]: 0.0137931    1 bottom
+	bottom WORD[22,   1]: 0.0137931 麓
+TOKEN[23]: 0.0129998   15 beautiful
+	beautiful WORD[23,   1]: 0.0077715 瑰麗
+	beautiful WORD[23,   2]: 0.0004588 麗容
+	beautiful WORD[23,   3]: 0.0004586 麗筆
+	beautiful WORD[23,   4]: 0.0004582 麗人
+	beautiful WORD[23,   5]: 0.0004582 麗姿
+	beautiful WORD[23,   6]: 0.0004409 豊麗
+	beautiful WORD[23,   7]: 0.0004378 麗しい
+	beautiful WORD[23,   8]: 0.0003987 端麗
+	beautiful WORD[23,   9]: 0.0003677 麗か
+	beautiful WORD[23,  10]: 0.0003677 麗らか
+	beautiful WORD[23,  11]: 0.0003677 麗ら
+	beautiful WORD[23,  12]: 0.0002983 美麗
+	beautiful WORD[23,  13]: 0.0002470 秀麗
+	beautiful WORD[23,  14]: 0.0002344 奇麗
+	beautiful WORD[23,  15]: 0.0002344 綺麗
+TOKEN[24]: 0.0123096    4 glorious
+	glorious WORD[24,   1]: 0.0109007 麗日
+	glorious WORD[24,   2]: 0.0004696 麗か
+	glorious WORD[24,   3]: 0.0004696 麗らか
+	glorious WORD[24,   4]: 0.0004696 麗ら
+TOKEN[25]: 0.0122955    1 one
+	one WORD[25,   1]: 0.0122955 獲麟
+TOKEN[26]: 0.0121848    1 last
+	last WORD[26,   1]: 0.0121848 獲麟
+TOKEN[27]: 0.0121438    4 gorgeous
+	gorgeous WORD[27,   1]: 0.0108383 瑰麗
+	gorgeous WORD[27,   2]: 0.0005682 鮮麗
+	gorgeous WORD[27,   3]: 0.0004161 美麗
+	gorgeous WORD[27,   4]: 0.0003213 華麗
+TOKEN[28]: 0.0115925    1 gift
+	gift WORD[28,   1]: 0.0115925 麁品
+TOKEN[29]: 0.0110051    1 Chinese
+	Chinese WORD[29,   1]: 0.0110051 麒麟
+TOKEN[30]: 0.0109770    1 death
+	death WORD[30,   1]: 0.0109770 獲麟
+TOKEN[31]: 0.0104658    1 end
+	end WORD[31,   1]: 0.0104658 獲麟
+TOKEN[32]: 0.0101161    1 attached
+	attached WORD[32,   1]: 0.0101161 麈尾
+TOKEN[33]: 0.0096210    2 magnificent
+	magnificent WORD[33,   1]: 0.0093440 瑰麗
+	magnificent WORD[33,   2]: 0.0002770 華麗
+TOKEN[34]: 0.0091504    1 priest
+	priest WORD[34,   1]: 0.0091504 麈尾
+TOKEN[35]: 0.0089439    1 stick
+	stick WORD[35,   1]: 0.0089439 麈尾
+TOKEN[36]: 0.0086693    1 marketing
+	marketing WORD[36,   1]: 0.0086693 麁品
+TOKEN[37]: 0.0079542    1 incentive
+	incentive WORD[37,   1]: 0.0079542 麁品
+TOKEN[38]: 0.0078297    1 spring
+	spring WORD[38,   1]: 0.0078297 麗日
+TOKEN[39]: 0.0075868    1 made
+	made WORD[39,   1]: 0.0075868 麈尾
+TOKEN[40]: 0.0073430    1 token
+	token WORD[40,   1]: 0.0073430 麁品
+TOKEN[41]: 0.0072077    1 simple
+	simple WORD[41,   1]: 0.0072077 麁食
+TOKEN[42]: 0.0067822    1 trifling
+	trifling WORD[42,   1]: 0.0067822 麁品
+TOKEN[43]: 0.0067318    1 inferior
+	inferior WORD[43,   1]: 0.0067318 麁品
+TOKEN[44]: 0.0067076    1 gratitude
+	gratitude WORD[44,   1]: 0.0067076 麁品
+TOKEN[45]: 0.0057795    1 given
+	given WORD[45,   1]: 0.0057795 麁品
+TOKEN[46]: 0.0056418    1 food
+	food WORD[46,   1]: 0.0056418 麁食
+TOKEN[47]: 0.0054792    1 article
+	article WORD[47,   1]: 0.0054792 麁品
+TOKEN[48]: 0.0053526    1 present
+	present WORD[48,   1]: 0.0053526 麁品
+TOKEN[49]: 0.0052602    1 goods
+	goods WORD[49,   1]: 0.0052602 麁品
+TOKEN[50]: 0.0049703    1 antler
+	antler WORD[50,   1]: 0.0049703 鹿の角
+TOKEN[51]: 0.0047581    1 series
+	series WORD[51,   1]: 0.0047581 春麗
+TOKEN[52]: 0.0047450    1 frugal
+	frugal WORD[52,   1]: 0.0047450 麁食
+TOKEN[53]: 0.0045750    2 venison
+	venison WORD[53,   1]: 0.0017169 鹿肉
+	venison WORD[53,   2]: 0.0003804 鹿
+TOKEN[54]: 0.0043753    1 small
+	small WORD[54,   1]: 0.0043753 麁品
+TOKEN[55]: 0.0043683    1 diet
+	diet WORD[55,   1]: 0.0043683 麁食
+TOKEN[56]: 0.0041821    6 fawn
+	fawn WORD[56,   1]: 0.0010072 仔鹿
+	fawn WORD[56,   2]: 0.0010072 子鹿
+	fawn WORD[56,   3]: 0.0006854 小鹿
+	fawn WORD[56,   4]: 0.0004952 鹿の子
+	fawn WORD[56,   5]: 0.0004952 鹿子
+	fawn WORD[56,   6]: 0.0004920 鹿毛
+TOKEN[57]: 0.0036039    1 plain
+	plain WORD[57,   1]: 0.0036039 麁食
+TOKEN[58]: 0.0035871    1 roe
+	roe WORD[58,   1]: 0.0035871 のろ鹿
+TOKEN[59]: 0.0035169    1 meal
+	meal WORD[59,   1]: 0.0035169 麁食
+TOKEN[60]: 0.0026114    2 doe
+	doe WORD[60,   1]: 0.0013057 牝鹿
+	doe WORD[60,   2]: 0.0013057 雌鹿
+TOKEN[61]: 0.0025852    4 ostentatious
+	ostentatious WORD[61,   1]: 0.0006463 麗々
+	ostentatious WORD[61,   2]: 0.0006463 麗麗
+	ostentatious WORD[61,   3]: 0.0006463 麗々しい
+	ostentatious WORD[61,   4]: 0.0006463 麗麗しい
+TOKEN[62]: 0.0025682    2 deerskin
+	deerskin WORD[62,   1]: 0.0012841 鹿皮
+	deerskin WORD[62,   2]: 0.0012841 鹿革
+TOKEN[63]: 0.0025005    3 abatis
+	abatis WORD[63,   1]: 0.0007160 鹿柴
+	abatis WORD[63,   2]: 0.0007160 鹿砦
+	abatis WORD[63,   3]: 0.0005342 鹿垣
+TOKEN[64]: 0.0024943    4 gaudy
+	gaudy WORD[64,   1]: 0.0006236 麗々
+	gaudy WORD[64,   2]: 0.0006236 麗麗
+	gaudy WORD[64,   3]: 0.0006235 麗々しい
+	gaudy WORD[64,   4]: 0.0006235 麗麗しい
+TOKEN[65]: 0.0024943    4 showy
+	showy WORD[65,   1]: 0.0006236 麗々
+	showy WORD[65,   2]: 0.0006236 麗麗
+	showy WORD[65,   3]: 0.0006235 麗々しい
+	showy WORD[65,   4]: 0.0006235 麗麗しい
+TOKEN[66]: 0.0024133    1 Cervus
+	Cervus WORD[66,   1]: 0.0024133 赤鹿
+TOKEN[67]: 0.0024011    2 coat
+	coat WORD[67,   1]: 0.0012035 青鹿毛
+	coat WORD[67,   2]: 0.0011976 黒鹿毛
+TOKEN[68]: 0.0023996    1 Capreolus
+	Capreolus WORD[68,   1]: 0.0023996 のろ鹿
+TOKEN[69]: 0.0022507    2 boar
+	boar WORD[69,   1]: 0.0011253 鹿狩
+	boar WORD[69,   2]: 0.0011253 鹿狩り
+TOKEN[70]: 0.0021862    5 beauty
+	beauty WORD[70,   1]: 0.0004908 麗人
+	beauty WORD[70,   2]: 0.0004908 麗質
+	beauty WORD[70,   3]: 0.0004364 鮮麗
+	beauty WORD[70,   4]: 0.0003873 佳麗
+	beauty WORD[70,   5]: 0.0003809 艶麗
+TOKEN[71]: 0.0020859    2 color
+	color WORD[71,   1]: 0.0010455 青鹿毛
+	color WORD[71,   2]: 0.0010403 黒鹿毛
+TOKEN[72]: 0.0020279    5 splendid
+	splendid WORD[72,   1]: 0.0005039 豊麗
+	splendid WORD[72,   2]: 0.0004202 麗か
+	splendid WORD[72,   3]: 0.0004202 麗らか
+	splendid WORD[72,   4]: 0.0004202 麗ら
+	splendid WORD[72,   5]: 0.0002633 華麗
+TOKEN[73]: 0.0018948    2 hunting
+	hunting WORD[73,   1]: 0.0009474 鹿狩
+	hunting WORD[73,   2]: 0.0009474 鹿狩り
+TOKEN[74]: 0.0018828    2 white
+	white WORD[74,   1]: 0.0015589 白鹿
+	white WORD[74,   2]: 0.0003239 鹿の子
+TOKEN[75]: 0.0017384    1 European
+	European WORD[75,   1]: 0.0017384 のろ鹿
+TOKEN[76]: 0.0015510    4 bright
+	bright WORD[76,   1]: 0.0004184 鮮麗
+	bright WORD[76,   2]: 0.0003775 麗か
+	bright WORD[76,   3]: 0.0003775 麗らか
+	bright WORD[76,   4]: 0.0003775 麗ら
+TOKEN[77]: 0.0015272    2 female
+	female WORD[77,   1]: 0.0007636 牝鹿
+	female WORD[77,   2]: 0.0007636 雌鹿
+TOKEN[78]: 0.0015184    3 elegant
+	elegant WORD[78,   1]: 0.0005416 流麗
+	elegant WORD[78,   2]: 0.0005049 麗句
+	elegant WORD[78,   3]: 0.0004719 端麗
+TOKEN[79]: 0.0014882    5 clear
+	clear WORD[79,   1]: 0.0003481 麗か
+	clear WORD[79,   2]: 0.0003481 麗らか
+	clear WORD[79,   3]: 0.0003481 麗ら
+	clear WORD[79,   4]: 0.0002219 奇麗
+	clear WORD[79,   5]: 0.0002219 綺麗
+TOKEN[80]: 0.0014364    1 saltwort
+	saltwort WORD[80,   1]: 0.0014364 陸鹿尾菜
+TOKEN[81]: 0.0014364    1 Salsola
+	Salsola WORD[81,   1]: 0.0014364 陸鹿尾菜
+TOKEN[82]: 0.0013768    3 cheerful
+	cheerful WORD[82,   1]: 0.0004589 麗か
+	cheerful WORD[82,   2]: 0.0004589 麗らか
+	cheerful WORD[82,   3]: 0.0004589 麗ら
+TOKEN[83]: 0.0013764    1 bay
+	bay WORD[83,   1]: 0.0013764 黒鹿毛
+TOKEN[84]: 0.0013723    2 dark
+	dark WORD[84,   1]: 0.0010823 黒鹿毛
+	dark WORD[84,   2]: 0.0002900 鹿尾菜
+TOKEN[85]: 0.0013706    1 grounds
+	grounds WORD[85,   1]: 0.0013706 神鹿
+TOKEN[86]: 0.0013344    1 raised
+	raised WORD[86,   1]: 0.0013344 神鹿
+TOKEN[87]: 0.0013228    1 serve
+	serve WORD[87,   1]: 0.0013228 神鹿
+TOKEN[88]: 0.0012770    3 graceful
+	graceful WORD[88,   1]: 0.0004898 典麗
+	graceful WORD[88,   2]: 0.0004861 端麗
+	graceful WORD[88,   3]: 0.0003011 秀麗
+TOKEN[89]: 0.0012276    1 brown
+	brown WORD[89,   1]: 0.0012276 青鹿毛
+TOKEN[90]: 0.0012131    3 mood
+	mood WORD[90,   1]: 0.0004044 麗か
+	mood WORD[90,   2]: 0.0004044 麗らか
+	mood WORD[90,   3]: 0.0004044 麗ら
+TOKEN[91]: 0.0011712    3 ridiculous
+	ridiculous WORD[91,   1]: 0.0003904 馬鹿馬鹿しい
+	ridiculous WORD[91,   2]: 0.0003904 馬鹿げる
+	ridiculous WORD[91,   3]: 0.0003904 馬鹿
+TOKEN[92]: 0.0011528    3 weather
+	weather WORD[92,   1]: 0.0003843 麗か
+	weather WORD[92,   2]: 0.0003843 麗らか
+	weather WORD[92,   3]: 0.0003843 麗ら
+TOKEN[93]: 0.0010994    1 shrine
+	shrine WORD[93,   1]: 0.0010994 神鹿
+TOKEN[94]: 0.0010969    3 fine
+	fine WORD[94,   1]: 0.0003656 麗か
+	fine WORD[94,   2]: 0.0003656 麗らか
+	fine WORD[94,   3]: 0.0003656 麗ら
+TOKEN[95]: 0.0010573    3 voice
+	voice WORD[95,   1]: 0.0003524 麗か
+	voice WORD[95,   2]: 0.0003524 麗らか
+	voice WORD[95,   3]: 0.0003524 麗ら
+TOKEN[96]: 0.0010309    3 foolish
+	foolish WORD[96,   1]: 0.0003437 馬鹿馬鹿しい
+	foolish WORD[96,   2]: 0.0003436 馬鹿げる
+	foolish WORD[96,   3]: 0.0003436 馬鹿
+TOKEN[97]: 0.0010226    2 trough
+	trough WORD[97,   1]: 0.0006448 鹿追
+	trough WORD[97,   2]: 0.0003778 馬鹿
+TOKEN[98]: 0.0010040    3 clean
+	clean WORD[98,   1]: 0.0004615 淡麗
+	clean WORD[98,   2]: 0.0002712 奇麗
+	clean WORD[98,   3]: 0.0002712 綺麗
+TOKEN[99]: 0.0009920    2 species
+	species WORD[99,   1]: 0.0007289 陸鹿尾菜
+	species WORD[99,   2]: 0.0002631 馬鹿
+TOKEN[100]: 0.0009487    2 frog
+	frog WORD[100,   1]: 0.0004744 河鹿蛙
+	frog WORD[100,   2]: 0.0004744 河鹿
+TOKEN[101]: 0.0009404    1 hedge
+	hedge WORD[101,   1]: 0.0004702 鹿垣
+TOKEN[102]: 0.0009069    1 kingdom
+	kingdom WORD[102,   1]: 0.0009069 高句麗
+TOKEN[103]: 0.0008849    1 percussive
+	percussive WORD[103,   1]: 0.0008849 鹿追
+TOKEN[104]: 0.0008472    2 bamboo
+	bamboo WORD[104,   1]: 0.0004775 鹿追
+	bamboo WORD[104,   2]: 0.0003697 鹿威し
+TOKEN[105]: 0.0007839    1 Korean
+	Korean WORD[105,   1]: 0.0007839 高句麗
+TOKEN[106]: 0.0007405    1 belle
+	belle WORD[106,   1]: 0.0007405 麗人
+TOKEN[107]: 0.0007062    1 pattern
+	pattern WORD[107,   1]: 0.0007062 鹿の子
+TOKEN[108]: 0.0007008    2 absurd
+	absurd WORD[108,   1]: 0.0003504 馬鹿馬鹿しい
+	absurd WORD[108,   2]: 0.0003504 馬鹿
+TOKEN[109]: 0.0006984    2 stupid
+	stupid WORD[109,   1]: 0.0003492 馬鹿げる
+	stupid WORD[109,   2]: 0.0003492 馬鹿
+TOKEN[110]: 0.0006913    2 buck
+	buck WORD[110,   1]: 0.0003460 雄鹿
+	buck WORD[110,   2]: 0.0003453 牡鹿
+TOKEN[111]: 0.0006889    1 fluent
+	fluent WORD[111,   1]: 0.0006889 流麗
+TOKEN[112]: 0.0006798    1 wild
+	wild WORD[112,   1]: 0.0003399 鹿垣
+TOKEN[113]: 0.0006791    1 brushwork
+	brushwork WORD[113,   1]: 0.0006791 麗筆
+TOKEN[114]: 0.0006597    1 keep
+	keep WORD[114,   1]: 0.0003299 鹿垣
+TOKEN[115]: 0.0006584    1 resplendent
+	resplendent WORD[115,   1]: 0.0006584 鮮麗
+TOKEN[116]: 0.0006477    2 tidy
+	tidy WORD[116,   1]: 0.0003238 奇麗
+	tidy WORD[116,   2]: 0.0003238 綺麗
+TOKEN[117]: 0.0006428    1 wildlife
+	wildlife WORD[117,   1]: 0.0006428 鹿威し
+TOKEN[118]: 0.0006421    2 neat
+	neat WORD[118,   1]: 0.0003211 奇麗
+	neat WORD[118,   2]: 0.0003211 綺麗
+TOKEN[119]: 0.0006390    1 field
+	field WORD[119,   1]: 0.0003195 鹿垣
+TOKEN[120]: 0.0006371    1 ancient
+	ancient WORD[120,   1]: 0.0006371 高句麗
+TOKEN[121]: 0.0006361    1 dappled
+	dappled WORD[121,   1]: 0.0006361 鹿の子
+TOKEN[122]: 0.0006151    1 Mus
+	Mus WORD[122,   1]: 0.0006151 高麗鼠
+TOKEN[123]: 0.0006130    1 Alces
+	Alces WORD[123,   1]: 0.0006130 篦鹿
+TOKEN[124]: 0.0005745    1 genius
+	genius WORD[124,   1]: 0.0005745 麗質
+TOKEN[125]: 0.0005712    1 flowing
+	flowing WORD[125,   1]: 0.0005712 流麗
+TOKEN[126]: 0.0005654    2 fair
+	fair WORD[126,   1]: 0.0002827 奇麗
+	fair WORD[126,   2]: 0.0002827 綺麗
+TOKEN[127]: 0.0005616    1 handsome
+	handsome WORD[127,   1]: 0.0005616 端麗
+TOKEN[128]: 0.0005532    1 cup
+	cup WORD[128,   1]: 0.0005532 鹿追
+TOKEN[129]: 0.0005437    1 pompous
+	pompous WORD[129,   1]: 0.0005437 鹿爪らしい
+TOKEN[130]: 0.0005287    1 vivid
+	vivid WORD[130,   1]: 0.0005287 鮮麗
+TOKEN[131]: 0.0005268    1 refreshing
+	refreshing WORD[131,   1]: 0.0005268 淡麗
+TOKEN[132]: 0.0005260    1 mouse
+	mouse WORD[132,   1]: 0.0005260 高麗鼠
+TOKEN[133]: 0.0005186    1 asinine
+	asinine WORD[133,   1]: 0.0005186 馬鹿馬鹿しい
+TOKEN[134]: 0.0005177    1 charm
+	charm WORD[134,   1]: 0.0005177 麗質
+TOKEN[135]: 0.0005107    2 pure
+	pure WORD[135,   1]: 0.0002554 奇麗
+	pure WORD[135,   2]: 0.0002554 綺麗
+TOKEN[136]: 0.0005103    1 rich
+	rich WORD[136,   1]: 0.0005103 豊麗
+TOKEN[137]: 0.0005091    1 dynasty
+	dynasty WORD[137,   1]: 0.0002545 高麗
+TOKEN[138]: 0.0004938    1 phrase
+	phrase WORD[138,   1]: 0.0004938 麗句
+TOKEN[139]: 0.0004910    1 tube
+	tube WORD[139,   1]: 0.0004910 鹿威し
+TOKEN[140]: 0.0004866    1 ludicrous
+	ludicrous WORD[140,   1]: 0.0004866 馬鹿馬鹿しい
+TOKEN[141]: 0.0004858    1 design
+	design WORD[141,   1]: 0.0004858 豊麗
+TOKEN[142]: 0.0004832    1 stern
+	stern WORD[142,   1]: 0.0004832 鹿爪らしい
+TOKEN[143]: 0.0004832    1 solemn
+	solemn WORD[143,   1]: 0.0004832 鹿爪らしい
+TOKEN[144]: 0.0004818    1 Rangifer
+	Rangifer WORD[144,   1]: 0.0004818 馴鹿
+TOKEN[145]: 0.0004788    1 stiff
+	stiff WORD[145,   1]: 0.0004788 鹿爪らしい
+TOKEN[146]: 0.0004675    1 figure
+	figure WORD[146,   1]: 0.0004675 麗姿
+TOKEN[147]: 0.0004624    1 dancing
+	dancing WORD[147,   1]: 0.0004624 高麗鼠
+TOKEN[148]: 0.0004569    1 smooth
+	smooth WORD[148,   1]: 0.0004569 淡麗
+TOKEN[149]: 0.0004546    1 pompousness
+	pompousness WORD[149,   1]: 0.0004546 壮麗
+TOKEN[150]: 0.0004544    1 moron
+	moron WORD[150,   1]: 0.0004544 馬鹿
+TOKEN[151]: 0.0004544    1 Mactra
+	Mactra WORD[151,   1]: 0.0004544 馬鹿
+TOKEN[152]: 0.0004521    1 reindeer
+	reindeer WORD[152,   1]: 0.0004521 馴鹿
+TOKEN[153]: 0.0004503    1 sound
+	sound WORD[153,   1]: 0.0004503 鹿追
+TOKEN[154]: 0.0004482    2 male
+	male WORD[154,   1]: 0.0002243 雄鹿
+	male WORD[154,   2]: 0.0002239 牡鹿
+TOKEN[155]: 0.0004414    1 shape
+	shape WORD[155,   1]: 0.0004414 麗容
+TOKEN[156]: 0.0004286    1 nonsensical
+	nonsensical WORD[156,   1]: 0.0004286 馬鹿馬鹿しい
+TOKEN[157]: 0.0004286    1 formal
+	formal WORD[157,   1]: 0.0004286 鹿爪らしい
+TOKEN[158]: 0.0004277    1 grave
+	grave WORD[158,   1]: 0.0004277 鹿爪らしい
+TOKEN[159]: 0.0004224    1 absurdity
+	absurdity WORD[159,   1]: 0.0004224 馬鹿
+TOKEN[160]: 0.0004127    1 writing
+	writing WORD[160,   1]: 0.0004127 麗筆
+TOKEN[161]: 0.0004124    1 keeping
+	keeping WORD[161,   1]: 0.0004124 鹿威し
+TOKEN[162]: 0.0004104    1 form
+	form WORD[162,   1]: 0.0004104 麗容
+TOKEN[163]: 0.0004100    1 finish
+	finish WORD[163,   1]: 0.0004100 淡麗
+TOKEN[164]: 0.0004062    1 woman
+	woman WORD[164,   1]: 0.0004062 麗人
+TOKEN[165]: 0.0004000    1 fervent
+	fervent WORD[165,   1]: 0.0004000 馬鹿
+TOKEN[166]: 0.0003965    1 enthusiast
+	enthusiast WORD[166,   1]: 0.0003965 馬鹿
+TOKEN[167]: 0.0003905    1 bean
+	bean WORD[167,   1]: 0.0003905 鹿の子
+TOKEN[168]: 0.0003894    1 magnificence
+	magnificence WORD[168,   1]: 0.0003894 壮麗
+TOKEN[169]: 0.0003835    1 paste
+	paste WORD[169,   1]: 0.0003835 鹿の子
+TOKEN[170]: 0.0003819    1 sake
+	sake WORD[170,   1]: 0.0003819 淡麗
+TOKEN[171]: 0.0003799    1 water
+	water WORD[171,   1]: 0.0003799 鹿追
+TOKEN[172]: 0.0003778    1 nut
+	nut WORD[172,   1]: 0.0003778 馬鹿
+TOKEN[173]: 0.0003688    1 sold
+	sold WORD[173,   1]: 0.0003688 鹿尾菜
+TOKEN[174]: 0.0003645    1 trivial
+	trivial WORD[174,   1]: 0.0003645 馬鹿
+TOKEN[175]: 0.0003613    1 idiot
+	idiot WORD[175,   1]: 0.0003613 馬鹿
+TOKEN[176]: 0.0003613    1 splendor
+	splendor WORD[176,   1]: 0.0003613 壮麗
+TOKEN[177]: 0.0003594    1 stone
+	stone WORD[177,   1]: 0.0003594 鹿威し
+TOKEN[178]: 0.0003456    1 edible
+	edible WORD[178,   1]: 0.0003456 鹿尾菜
+TOKEN[179]: 0.0003386    1 dull
+	dull WORD[179,   1]: 0.0003386 馬鹿
+TOKEN[180]: 0.0003356    1 seaweed
+	seaweed WORD[180,   1]: 0.0003356 鹿尾菜
+TOKEN[181]: 0.0003346    1 colour
+	colour WORD[181,   1]: 0.0003346 鹿毛
+TOKEN[182]: 0.0003325    1 fool
+	fool WORD[182,   1]: 0.0003325 馬鹿
+TOKEN[183]: 0.0003277    1 light
+	light WORD[183,   1]: 0.0003277 淡麗
+TOKEN[184]: 0.0003100    1 shell
+	shell WORD[184,   1]: 0.0003100 馬鹿
+TOKEN[185]: 0.0002916    1 dried
+	dried WORD[185,   1]: 0.0002916 鹿尾菜
+TOKEN[186]: 0.0002822    1 matter
+	matter WORD[186,   1]: 0.0002822 馬鹿
+TOKEN[187]: 0.0002815    1 black
+	black WORD[187,   1]: 0.0002815 鹿尾菜
+TOKEN[188]: 0.0002652    1 Japanese
+	Japanese WORD[188,   1]: 0.0002652 高麗鼠
+TOKEN[189]: 0.0002488    1 prefecture
+	prefecture WORD[189,   1]: 0.0002488 鹿児島
+TOKEN[190]: 0.0002222    1 city
+	city WORD[190,   1]: 0.0002222 鹿児島
+TOKEN[191]: 0.0002006    1 something
+	something WORD[191,   1]: 0.0002006 馬鹿
+TOKEN[192]: 0.0001930    1 person
+	person WORD[192,   1]: 0.0001930 馬鹿

@@ -1,0 +1,718 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0425603   15 samurai        : 士族, 士庶, 諸士, 士民, 士分, 士人, 士魂, 郷士, 徒士, 浪士, ...
+0.0417503    4 private        : 二士, ２士, 士長, 一士
+0.0289686    1 recruit        : 三士
+0.0248919   11 man            : 文士, 人士, 遊士, 烈士, 壮士, 士君子, 傑士, 力士, 勇士, 高士, ...
+0.0242690    3 rank           : 三士, 範士, 陸士
+0.0206847    2 former         : 三士, 士族
+0.0169191    2 sorcerer       : 術士, 方士
+0.0153609    2 judge          : 士師, 判士
+0.0138528    2 professional   : 士業, 棋士
+0.0135607    5 soldier        : 隊士, 徒士, 兵士, 戦士, 武士
+0.0132442    3 people         : 士庶, 士民, 人士
+0.0130999    2 tactician      : 術士, 策士
+0.0124290    2 ancient        : 士師, 方士
+0.0121691    6 person         : 士人, 道士, 士族, 策士, 博士, 士
+0.0111810    1 barnacle       : 富士壺
+0.0107847    4 Edo            : 徒士組, 上士, 徒士, 士
+0.0107503    1 acorn          : 富士壺
+0.0105658    4 warrior        : 勇士, 戦士, 士, 武士
+0.0105523    4 retainer       : 藩士, 上士, 義士, 士
+0.0103000    4 period         : 徒士組, 徒士, 博士, 士
+0.0098828    3 standing       : 士庶, 士人, 士
+0.0093167    2 wizard         : 方士, 道士
+0.0090954    3 high           : 士庶, 道士, 士
+0.0087005    2 hermit         : 方士, 隠士
+0.0083456    3 hero           : 烈士, 傑士, 勇士
+0.0082619    2 social         : 士庶, 士人
+0.0078699    3 gentleman      : 人士, 士君子, 紳士
+0.0078154    1 many           : 諸士
+0.0077962    1 Israel         : 士師
+0.0076728    2 player         : 雀士, 棋士
+0.0074539    1 musketeer      : 銃士
+0.0074199    1 examination    : 進士
+0.0071841    1 regimental     : 隊士
+0.0070775    1 gentlefolk     : 諸士
+0.0068634    1 outing         : 徒士組
+0.0066550    3 master         : 範士, 達士, 修士
+0.0066002    1 normal         : 士庶
+0.0064937    1 advocate       : 判士
+0.0063482    2 male           : 信士, 海士
+0.0063332    1 diver          : 海士
+0.0063010    2 patriot        : 烈士, 国士
+0.0062270    1 shogun         : 徒士組
+0.0061791    1 immortal       : 道士
+0.0061573    1 believer       : 信士
+0.0061130    1 Taoist         : 道士
+0.0060102    1 enthusiast     : 雀士
+0.0059376    1 opposed        : 士庶
+0.0059342    1 foot           : 徒士
+0.0056090    1 fisherman      : 海士
+0.0055394    1 walk           : 徒士組
+0.0055360    1 liturgical     : 博士
+0.0055242    2 image          : 富士塚, 脇士
+0.0054413    1 fencing        : 範士
+0.0054077    2 expert         : 博士, 達士
+0.0054036    1 occupation     : 士業
+0.0049078    2 Buddhist       : 道士, 博士
+0.0048430    1 service        : 徒士組
+0.0047420    1 leader         : 士師
+0.0047291    1 seaweed        : 海士
+0.0047143    2 learning       : 士人, 士君子
+0.0046763    1 practice       : 士業
+0.0044516    1 instructor     : 博士
+0.0043172    2 military       : 陸士, 士
+0.0043096    1 learned        : 博士
+0.0042866    1 gate           : 衛士
+0.0042470    1 orator         : 弁士
+0.0042470    1 rhetorician    : 弁士
+0.0041720    1 brave          : 勇士
+0.0041189    2 imperial       : 博士, 志士
+0.0040275    1 drifter        : 遊士
+0.0040027    2 officer        : 下士, 士官
+0.0039671    2 young          : 壮士, 衛士
+0.0039400    1 swaggerer      : 壮士
+0.0039186    1 bachelor       : 学士
+0.0039094    1 chant          : 博士
+0.0039011    1 system         : 衛士
+0.0038870    1 flanking       : 脇士
+0.0038412    1 accompany      : 博士
+0.0038310    1 lecturer       : 弁士
+0.0037988    1 triad          : 脇士
+0.0036857    1 top            : 範士
+0.0036465    1 pitch          : 博士
+0.0036465    1 doctor         : 博士
+0.0036214    1 intriguer      : 策士
+0.0035802    1 swordswoman    : 剣士
+0.0035686    1 interpreter    : 弁士
+0.0034900    2 great          : 士人, 傑士
+0.0034757    1 wanderer       : 遊士
+0.0034609    1 length         : 博士
+0.0034597    1 cinema         : 弁士
+0.0033581    1 widow          : 富士額
+0.0033391    1 narrator       : 弁士
+0.0033122    1 devotee        : 信士
+0.0032922    1 mound          : 富士塚
+0.0032295    1 fencer         : 剣士
+0.0032212    1 hairline       : 富士額
+0.0031377    1 swordsman      : 剣士
+0.0031146    1 noncommissioned: 下士
+0.0030430    1 resourceful    : 策士
+0.0030340    1 lordless       : 浪士
+0.0030319    1 based          : 進士
+0.0029932    1 schemer        : 策士
+0.0029894    1 attendance     : 士
+0.0029704    1 court          : 博士
+0.0029702    1 recluse        : 隠士
+0.0029496    1 elegant        : 遊士
+0.0029449    1 ruffian        : 壮士
+0.0029358    1 loyal          : 義士
+0.0029284    2 degree         : 修士, 学士
+0.0029225    1 forehead       : 富士額
+0.0028698    1 refined        : 遊士
+0.0028666    1 upright        : 烈士
+0.0027961    1 status         : 士分
+0.0027720    1 morals         : 道士
+0.0027510    1 silent         : 弁士
+0.0027349    1 peak           : 富士額
+0.0027067    1 academy        : 陸士
+0.0026994    1 celebrity      : 名士
+0.0026961    1 literary       : 文士
+0.0026912    1 prime          : 壮士
+0.0025730    1 classes        : 士族
+0.0025598    1 culture        : 士人
+0.0025598    1 extensive      : 士人
+0.0025457    1 personage      : 名士
+0.0025150    1 film           : 弁士
+0.0025089    1 lineage        : 士族
+0.0024814    1 guardian       : 衛士
+0.0024612    1 soul           : 士魂
+0.0024501    1 silk           : 富士絹
+0.0024479    1 combatant      : 戦士
+0.0024403    1 boxer          : 闘士
+0.0024403    1 militant       : 闘士
+0.0024285    1 Buddha         : 脇士
+0.0024152    1 monk           : 道士
+0.0024099    1 forced         : 衛士
+0.0023445    1 men            : 将士
+0.0023311    1 middle         : 富士額
+0.0023238    1 virtue         : 士君子
+0.0023009    1 superior       : 士人
+0.0022848    1 made           : 富士塚
+0.0022833    1 common         : 士民
+0.0022746    1 lay            : 信士
+0.0022545    1 labour         : 衛士
+0.0022202    1 loyalist       : 志士
+0.0021856    1 fighter        : 闘士
+0.0021342    1 wrestler       : 力士
+0.0021266    1 three          : 士族
+0.0021264    1 guard          : 衛士
+0.0021189    1 champion       : 闘士
+0.0021111    1 Chinese        : 進士
+0.0020975    1 king           : 力士
+0.0020975    1 bandsman       : 楽士
+0.0020740    1 willing        : 志士
+0.0020377    1 walking        : 徒士
+0.0020363    1 comrade        : 同士
+0.0020114    1 second         : 士族
+0.0019738    1 army           : 陸士
+0.0019595    1 official       : 士族
+0.0019544    1 spirit         : 士魂
+0.0019433    1 country        : 郷士
+0.0019363    1 point          : 富士額
+0.0019262    1 mountain       : 道士
+0.0019248    1 corps          : 士気
+0.0019234    1 medieval       : 騎士
+0.0018778    1 morale         : 士気
+0.0018689    1 Japan          : 士族
+0.0018607    1 layman         : 居士
+0.0018554    1 companion      : 同士
+0.0018293    1 knight         : 騎士
+0.0017998    1 chivalry       : 士道
+0.0017929    1 someone        : 進士
+0.0017926    1 classic        : 進士
+0.0017512    1 strong         : 力士
+0.0017390    1 mutual         : 同士
+0.0017269    1 family         : 士族
+0.0017097    1 musician       : 楽士
+0.0017065    1 scholar        : 居士
+0.0017033    1 citizen        : 国士
+0.0016989    1 fellow         : 同士
+0.0016906    1 horseback      : 騎士
+0.0016763    1 posthumous     : 居士
+0.0016763    1 suffix         : 居士
+0.0016703    1 academic       : 修士
+0.0016515    1 Japanese       : 弁士
+0.0016463    1 code           : 士道
+0.0016290    1 skilled        : 達士
+0.0016263    1 literature     : 進士
+0.0016087    1 going          : 徒士
+0.0016022    1 graduate       : 学士
+0.0015942    1 civil          : 進士
+0.0015936    1 nation         : 志士
+0.0015879    1 distinguished  : 国士
+0.0015730    1 sacrifice      : 志士
+0.0015432    1 noble          : 高士
+0.0015347    1 team           : 士気
+0.0015302    1 promotion      : 進士
+0.0015021    1 leading        : 士長
+0.0014781    1 servant        : 進士
+0.0014753    1 political      : 進士
+0.0014753    1 palace         : 進士
+0.0014443    1 university     : 学士
+0.0014387    1 national       : 進士
+0.0014162    1 shogi          : 棋士
+0.0012960    1 character      : 高士
+0.0012781    1 class          : 一士
+0.0011893    1 hand           : 達士
+0.0011815    1 first          : 一士
+0.0010492    1 good           : 志士
+0.0009769    1 used           : 居士
+0.0009728    1 go             : 棋士
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0425603   15 samurai
+	samurai WORD[ 1,   1]: 0.0067161 士族
+	samurai WORD[ 1,   2]: 0.0059277 士庶
+	samurai WORD[ 1,   3]: 0.0042384 諸士
+	samurai WORD[ 1,   4]: 0.0026213 士民
+	samurai WORD[ 1,   5]: 0.0026116 士分
+	samurai WORD[ 1,   6]: 0.0022358 士人
+	samurai WORD[ 1,   7]: 0.0022310 士魂
+	samurai WORD[ 1,   8]: 0.0021507 郷士
+	samurai WORD[ 1,   9]: 0.0020639 徒士
+	samurai WORD[ 1,  10]: 0.0019366 浪士
+	samurai WORD[ 1,  11]: 0.0014208 士道
+	samurai WORD[ 1,  12]: 0.0014172 志士
+	samurai WORD[ 1,  13]: 0.0014129 士
+	samurai WORD[ 1,  14]: 0.0014093 武士
+	samurai WORD[ 1,  15]: 0.0013448 騎士
+TOKEN[ 2]: 0.0417503    4 private
+	private WORD[ 2,   1]: 0.0196131 二士
+	private WORD[ 2,   2]: 0.0196127 ２士
+	private WORD[ 2,   3]: 0.0013077 士長
+	private WORD[ 2,   4]: 0.0012168 一士
+TOKEN[ 3]: 0.0289686    1 recruit
+	recruit WORD[ 3,   1]: 0.0289686 三士
+TOKEN[ 4]: 0.0248919   11 man
+	man WORD[ 4,   1]: 0.0042232 文士
+	man WORD[ 4,   2]: 0.0037862 人士
+	man WORD[ 4,   3]: 0.0022365 遊士
+	man WORD[ 4,   4]: 0.0022226 烈士
+	man WORD[ 4,   5]: 0.0019736 壮士
+	man WORD[ 4,   6]: 0.0018659 士君子
+	man WORD[ 4,   7]: 0.0017888 傑士
+	man WORD[ 4,   8]: 0.0016133 力士
+	man WORD[ 4,   9]: 0.0015816 勇士
+	man WORD[ 4,  10]: 0.0012365 高士
+	man WORD[ 4,  11]: 0.0011818 士
+TOKEN[ 5]: 0.0242690    3 rank
+	rank WORD[ 5,   1]: 0.0188283 三士
+	rank WORD[ 5,   2]: 0.0037351 範士
+	rank WORD[ 5,   3]: 0.0017055 陸士
+TOKEN[ 6]: 0.0206847    2 former
+	former WORD[ 6,   1]: 0.0187171 三士
+	former WORD[ 6,   2]: 0.0019676 士族
+TOKEN[ 7]: 0.0169191    2 sorcerer
+	sorcerer WORD[ 7,   1]: 0.0099980 術士
+	sorcerer WORD[ 7,   2]: 0.0069210 方士
+TOKEN[ 8]: 0.0153609    2 judge
+	judge WORD[ 8,   1]: 0.0102705 士師
+	judge WORD[ 8,   2]: 0.0050904 判士
+TOKEN[ 9]: 0.0138528    2 professional
+	professional WORD[ 9,   1]: 0.0108073 士業
+	professional WORD[ 9,   2]: 0.0030455 棋士
+TOKEN[10]: 0.0135607    5 soldier
+	soldier WORD[10,   1]: 0.0048974 隊士
+	soldier WORD[10,   2]: 0.0022042 徒士
+	soldier WORD[10,   3]: 0.0018832 兵士
+	soldier WORD[10,   4]: 0.0015656 戦士
+	soldier WORD[10,   5]: 0.0015052 武士
+TOKEN[11]: 0.0132442    3 people
+	people WORD[11,   1]: 0.0093797 士庶
+	people WORD[11,   2]: 0.0020739 士民
+	people WORD[11,   3]: 0.0017906 人士
+TOKEN[12]: 0.0130999    2 tactician
+	tactician WORD[12,   1]: 0.0099980 術士
+	tactician WORD[12,   2]: 0.0031018 策士
+TOKEN[13]: 0.0124290    2 ancient
+	ancient WORD[13,   1]: 0.0081866 士師
+	ancient WORD[13,   2]: 0.0042425 方士
+TOKEN[14]: 0.0121691    6 person
+	person WORD[14,   1]: 0.0041679 士人
+	person WORD[14,   2]: 0.0014466 道士
+	person WORD[14,   3]: 0.0013911 士族
+	person WORD[14,   4]: 0.0013476 策士
+	person WORD[14,   5]: 0.0010300 博士
+	person WORD[14,   6]: 0.0008779 士
+TOKEN[15]: 0.0111810    1 barnacle
+	barnacle WORD[15,   1]: 0.0111810 富士壺
+TOKEN[16]: 0.0107847    4 Edo
+	Edo WORD[16,   1]: 0.0046089 徒士組
+	Edo WORD[16,   2]: 0.0019467 上士
+	Edo WORD[16,   3]: 0.0017851 徒士
+	Edo WORD[16,   4]: 0.0012220 士
+TOKEN[17]: 0.0107503    1 acorn
+	acorn WORD[17,   1]: 0.0107503 富士壺
+TOKEN[18]: 0.0105658    4 warrior
+	warrior WORD[18,   1]: 0.0022196 勇士
+	warrior WORD[18,   2]: 0.0017207 戦士
+	warrior WORD[18,   3]: 0.0016585 士
+	warrior WORD[18,   4]: 0.0016543 武士
+TOKEN[19]: 0.0105523    4 retainer
+	retainer WORD[19,   1]: 0.0026902 藩士
+	retainer WORD[19,   2]: 0.0024683 上士
+	retainer WORD[19,   3]: 0.0022947 義士
+	retainer WORD[19,   4]: 0.0015495 士
+TOKEN[20]: 0.0103000    4 period
+	period WORD[20,   1]: 0.0040555 徒士組
+	period WORD[20,   2]: 0.0015708 徒士
+	period WORD[20,   3]: 0.0012616 博士
+	period WORD[20,   4]: 0.0010753 士
+TOKEN[21]: 0.0098828    3 standing
+	standing WORD[21,   1]: 0.0053309 士庶
+	standing WORD[21,   2]: 0.0020107 士人
+	standing WORD[21,   3]: 0.0012706 士
+TOKEN[22]: 0.0093167    2 wizard
+	wizard WORD[22,   1]: 0.0062904 方士
+	wizard WORD[22,   2]: 0.0030263 道士
+TOKEN[23]: 0.0090954    3 high
+	high WORD[23,   1]: 0.0048653 士庶
+	high WORD[23,   2]: 0.0019108 道士
+	high WORD[23,   3]: 0.0011597 士
+TOKEN[24]: 0.0087005    2 hermit
+	hermit WORD[24,   1]: 0.0061296 方士
+	hermit WORD[24,   2]: 0.0025708 隠士
+TOKEN[25]: 0.0083456    3 hero
+	hero WORD[25,   1]: 0.0033164 烈士
+	hero WORD[25,   2]: 0.0026692 傑士
+	hero WORD[25,   3]: 0.0023600 勇士
+TOKEN[26]: 0.0082619    2 social
+	social WORD[26,   1]: 0.0059992 士庶
+	social WORD[26,   2]: 0.0022627 士人
+TOKEN[27]: 0.0078699    3 gentleman
+	gentleman WORD[27,   1]: 0.0030035 人士
+	gentleman WORD[27,   2]: 0.0029604 士君子
+	gentleman WORD[27,   3]: 0.0019060 紳士
+TOKEN[28]: 0.0078154    1 many
+	many WORD[28,   1]: 0.0078154 諸士
+TOKEN[29]: 0.0077962    1 Israel
+	Israel WORD[29,   1]: 0.0077962 士師
+TOKEN[30]: 0.0076728    2 player
+	player WORD[30,   1]: 0.0048826 雀士
+	player WORD[30,   2]: 0.0027902 棋士
+TOKEN[31]: 0.0074539    1 musketeer
+	musketeer WORD[31,   1]: 0.0074539 銃士
+TOKEN[32]: 0.0074199    1 examination
+	examination WORD[32,   1]: 0.0074199 進士
+TOKEN[33]: 0.0071841    1 regimental
+	regimental WORD[33,   1]: 0.0071841 隊士
+TOKEN[34]: 0.0070775    1 gentlefolk
+	gentlefolk WORD[34,   1]: 0.0070775 諸士
+TOKEN[35]: 0.0068634    1 outing
+	outing WORD[35,   1]: 0.0068634 徒士組
+TOKEN[36]: 0.0066550    3 master
+	master WORD[36,   1]: 0.0039334 範士
+	master WORD[36,   2]: 0.0013908 達士
+	master WORD[36,   3]: 0.0013308 修士
+TOKEN[37]: 0.0066002    1 normal
+	normal WORD[37,   1]: 0.0066002 士庶
+TOKEN[38]: 0.0064937    1 advocate
+	advocate WORD[38,   1]: 0.0064937 判士
+TOKEN[39]: 0.0063482    2 male
+	male WORD[39,   1]: 0.0021472 信士
+	male WORD[39,   2]: 0.0021005 海士
+TOKEN[40]: 0.0063332    1 diver
+	diver WORD[40,   1]: 0.0031666 海士
+TOKEN[41]: 0.0063010    2 patriot
+	patriot WORD[41,   1]: 0.0041629 烈士
+	patriot WORD[41,   2]: 0.0021381 国士
+TOKEN[42]: 0.0062270    1 shogun
+	shogun WORD[42,   1]: 0.0062270 徒士組
+TOKEN[43]: 0.0061791    1 immortal
+	immortal WORD[43,   1]: 0.0061791 道士
+TOKEN[44]: 0.0061573    1 believer
+	believer WORD[44,   1]: 0.0061573 信士
+TOKEN[45]: 0.0061130    1 Taoist
+	Taoist WORD[45,   1]: 0.0061130 道士
+TOKEN[46]: 0.0060102    1 enthusiast
+	enthusiast WORD[46,   1]: 0.0060102 雀士
+TOKEN[47]: 0.0059376    1 opposed
+	opposed WORD[47,   1]: 0.0059376 士庶
+TOKEN[48]: 0.0059342    1 foot
+	foot WORD[48,   1]: 0.0059342 徒士
+TOKEN[49]: 0.0056090    1 fisherman
+	fisherman WORD[49,   1]: 0.0028045 海士
+TOKEN[50]: 0.0055394    1 walk
+	walk WORD[50,   1]: 0.0055394 徒士組
+TOKEN[51]: 0.0055360    1 liturgical
+	liturgical WORD[51,   1]: 0.0027680 博士
+TOKEN[52]: 0.0055242    2 image
+	image WORD[52,   1]: 0.0028769 富士塚
+	image WORD[52,   2]: 0.0026473 脇士
+TOKEN[53]: 0.0054413    1 fencing
+	fencing WORD[53,   1]: 0.0054413 範士
+TOKEN[54]: 0.0054077    2 expert
+	expert WORD[54,   1]: 0.0018640 博士
+	expert WORD[54,   2]: 0.0016798 達士
+TOKEN[55]: 0.0054036    1 occupation
+	occupation WORD[55,   1]: 0.0054036 士業
+TOKEN[56]: 0.0049078    2 Buddhist
+	Buddhist WORD[56,   1]: 0.0020247 道士
+	Buddhist WORD[56,   2]: 0.0014416 博士
+TOKEN[57]: 0.0048430    1 service
+	service WORD[57,   1]: 0.0048430 徒士組
+TOKEN[58]: 0.0047420    1 leader
+	leader WORD[58,   1]: 0.0047420 士師
+TOKEN[59]: 0.0047291    1 seaweed
+	seaweed WORD[59,   1]: 0.0023645 海士
+TOKEN[60]: 0.0047143    2 learning
+	learning WORD[60,   1]: 0.0023598 士人
+	learning WORD[60,   2]: 0.0023545 士君子
+TOKEN[61]: 0.0046763    1 practice
+	practice WORD[61,   1]: 0.0046763 士業
+TOKEN[62]: 0.0044516    1 instructor
+	instructor WORD[62,   1]: 0.0022258 博士
+TOKEN[63]: 0.0043172    2 military
+	military WORD[63,   1]: 0.0017515 陸士
+	military WORD[63,   2]: 0.0012829 士
+TOKEN[64]: 0.0043096    1 learned
+	learned WORD[64,   1]: 0.0021548 博士
+TOKEN[65]: 0.0042866    1 gate
+	gate WORD[65,   1]: 0.0042866 衛士
+TOKEN[66]: 0.0042470    1 orator
+	orator WORD[66,   1]: 0.0042470 弁士
+TOKEN[67]: 0.0042470    1 rhetorician
+	rhetorician WORD[67,   1]: 0.0042470 弁士
+TOKEN[68]: 0.0041720    1 brave
+	brave WORD[68,   1]: 0.0041720 勇士
+TOKEN[69]: 0.0041189    2 imperial
+	imperial WORD[69,   1]: 0.0014427 博士
+	imperial WORD[69,   2]: 0.0012335 志士
+TOKEN[70]: 0.0040275    1 drifter
+	drifter WORD[70,   1]: 0.0040275 遊士
+TOKEN[71]: 0.0040027    2 officer
+	officer WORD[71,   1]: 0.0023765 下士
+	officer WORD[71,   2]: 0.0016261 士官
+TOKEN[72]: 0.0039671    2 young
+	young WORD[72,   1]: 0.0020755 壮士
+	young WORD[72,   2]: 0.0018915 衛士
+TOKEN[73]: 0.0039400    1 swaggerer
+	swaggerer WORD[73,   1]: 0.0039400 壮士
+TOKEN[74]: 0.0039186    1 bachelor
+	bachelor WORD[74,   1]: 0.0039186 学士
+TOKEN[75]: 0.0039094    1 chant
+	chant WORD[75,   1]: 0.0019547 博士
+TOKEN[76]: 0.0039011    1 system
+	system WORD[76,   1]: 0.0039011 衛士
+TOKEN[77]: 0.0038870    1 flanking
+	flanking WORD[77,   1]: 0.0038870 脇士
+TOKEN[78]: 0.0038412    1 accompany
+	accompany WORD[78,   1]: 0.0019206 博士
+TOKEN[79]: 0.0038310    1 lecturer
+	lecturer WORD[79,   1]: 0.0038310 弁士
+TOKEN[80]: 0.0037988    1 triad
+	triad WORD[80,   1]: 0.0037988 脇士
+TOKEN[81]: 0.0036857    1 top
+	top WORD[81,   1]: 0.0036857 範士
+TOKEN[82]: 0.0036465    1 pitch
+	pitch WORD[82,   1]: 0.0018232 博士
+TOKEN[83]: 0.0036465    1 doctor
+	doctor WORD[83,   1]: 0.0018232 博士
+TOKEN[84]: 0.0036214    1 intriguer
+	intriguer WORD[84,   1]: 0.0036214 策士
+TOKEN[85]: 0.0035802    1 swordswoman
+	swordswoman WORD[85,   1]: 0.0035802 剣士
+TOKEN[86]: 0.0035686    1 interpreter
+	interpreter WORD[86,   1]: 0.0035686 弁士
+TOKEN[87]: 0.0034900    2 great
+	great WORD[87,   1]: 0.0017838 士人
+	great WORD[87,   2]: 0.0017062 傑士
+TOKEN[88]: 0.0034757    1 wanderer
+	wanderer WORD[88,   1]: 0.0034757 遊士
+TOKEN[89]: 0.0034609    1 length
+	length WORD[89,   1]: 0.0017304 博士
+TOKEN[90]: 0.0034597    1 cinema
+	cinema WORD[90,   1]: 0.0034597 弁士
+TOKEN[91]: 0.0033581    1 widow
+	widow WORD[91,   1]: 0.0033581 富士額
+TOKEN[92]: 0.0033391    1 narrator
+	narrator WORD[92,   1]: 0.0033391 弁士
+TOKEN[93]: 0.0033122    1 devotee
+	devotee WORD[93,   1]: 0.0033122 信士
+TOKEN[94]: 0.0032922    1 mound
+	mound WORD[94,   1]: 0.0032922 富士塚
+TOKEN[95]: 0.0032295    1 fencer
+	fencer WORD[95,   1]: 0.0032295 剣士
+TOKEN[96]: 0.0032212    1 hairline
+	hairline WORD[96,   1]: 0.0032212 富士額
+TOKEN[97]: 0.0031377    1 swordsman
+	swordsman WORD[97,   1]: 0.0031377 剣士
+TOKEN[98]: 0.0031146    1 noncommissioned
+	noncommissioned WORD[98,   1]: 0.0031146 下士
+TOKEN[99]: 0.0030430    1 resourceful
+	resourceful WORD[99,   1]: 0.0030430 策士
+TOKEN[100]: 0.0030340    1 lordless
+	lordless WORD[100,   1]: 0.0030340 浪士
+TOKEN[101]: 0.0030319    1 based
+	based WORD[101,   1]: 0.0030319 進士
+TOKEN[102]: 0.0029932    1 schemer
+	schemer WORD[102,   1]: 0.0029932 策士
+TOKEN[103]: 0.0029894    1 attendance
+	attendance WORD[103,   1]: 0.0014947 士
+TOKEN[104]: 0.0029704    1 court
+	court WORD[104,   1]: 0.0014852 博士
+TOKEN[105]: 0.0029702    1 recluse
+	recluse WORD[105,   1]: 0.0029702 隠士
+TOKEN[106]: 0.0029496    1 elegant
+	elegant WORD[106,   1]: 0.0029496 遊士
+TOKEN[107]: 0.0029449    1 ruffian
+	ruffian WORD[107,   1]: 0.0029449 壮士
+TOKEN[108]: 0.0029358    1 loyal
+	loyal WORD[108,   1]: 0.0029358 義士
+TOKEN[109]: 0.0029284    2 degree
+	degree WORD[109,   1]: 0.0015121 修士
+	degree WORD[109,   2]: 0.0014163 学士
+TOKEN[110]: 0.0029225    1 forehead
+	forehead WORD[110,   1]: 0.0029225 富士額
+TOKEN[111]: 0.0028698    1 refined
+	refined WORD[111,   1]: 0.0028698 遊士
+TOKEN[112]: 0.0028666    1 upright
+	upright WORD[112,   1]: 0.0028666 烈士
+TOKEN[113]: 0.0027961    1 status
+	status WORD[113,   1]: 0.0027961 士分
+TOKEN[114]: 0.0027720    1 morals
+	morals WORD[114,   1]: 0.0027720 道士
+TOKEN[115]: 0.0027510    1 silent
+	silent WORD[115,   1]: 0.0027510 弁士
+TOKEN[116]: 0.0027349    1 peak
+	peak WORD[116,   1]: 0.0027349 富士額
+TOKEN[117]: 0.0027067    1 academy
+	academy WORD[117,   1]: 0.0027067 陸士
+TOKEN[118]: 0.0026994    1 celebrity
+	celebrity WORD[118,   1]: 0.0026994 名士
+TOKEN[119]: 0.0026961    1 literary
+	literary WORD[119,   1]: 0.0026961 文士
+TOKEN[120]: 0.0026912    1 prime
+	prime WORD[120,   1]: 0.0026912 壮士
+TOKEN[121]: 0.0025730    1 classes
+	classes WORD[121,   1]: 0.0025730 士族
+TOKEN[122]: 0.0025598    1 culture
+	culture WORD[122,   1]: 0.0025598 士人
+TOKEN[123]: 0.0025598    1 extensive
+	extensive WORD[123,   1]: 0.0025598 士人
+TOKEN[124]: 0.0025457    1 personage
+	personage WORD[124,   1]: 0.0025457 名士
+TOKEN[125]: 0.0025150    1 film
+	film WORD[125,   1]: 0.0025150 弁士
+TOKEN[126]: 0.0025089    1 lineage
+	lineage WORD[126,   1]: 0.0025089 士族
+TOKEN[127]: 0.0024814    1 guardian
+	guardian WORD[127,   1]: 0.0024814 衛士
+TOKEN[128]: 0.0024612    1 soul
+	soul WORD[128,   1]: 0.0024612 士魂
+TOKEN[129]: 0.0024501    1 silk
+	silk WORD[129,   1]: 0.0024501 富士絹
+TOKEN[130]: 0.0024479    1 combatant
+	combatant WORD[130,   1]: 0.0024479 戦士
+TOKEN[131]: 0.0024403    1 boxer
+	boxer WORD[131,   1]: 0.0024403 闘士
+TOKEN[132]: 0.0024403    1 militant
+	militant WORD[132,   1]: 0.0024403 闘士
+TOKEN[133]: 0.0024285    1 Buddha
+	Buddha WORD[133,   1]: 0.0024285 脇士
+TOKEN[134]: 0.0024152    1 monk
+	monk WORD[134,   1]: 0.0024152 道士
+TOKEN[135]: 0.0024099    1 forced
+	forced WORD[135,   1]: 0.0024099 衛士
+TOKEN[136]: 0.0023445    1 men
+	men WORD[136,   1]: 0.0023445 将士
+TOKEN[137]: 0.0023311    1 middle
+	middle WORD[137,   1]: 0.0023311 富士額
+TOKEN[138]: 0.0023238    1 virtue
+	virtue WORD[138,   1]: 0.0023238 士君子
+TOKEN[139]: 0.0023009    1 superior
+	superior WORD[139,   1]: 0.0023009 士人
+TOKEN[140]: 0.0022848    1 made
+	made WORD[140,   1]: 0.0022848 富士塚
+TOKEN[141]: 0.0022833    1 common
+	common WORD[141,   1]: 0.0022833 士民
+TOKEN[142]: 0.0022746    1 lay
+	lay WORD[142,   1]: 0.0022746 信士
+TOKEN[143]: 0.0022545    1 labour
+	labour WORD[143,   1]: 0.0022545 衛士
+TOKEN[144]: 0.0022202    1 loyalist
+	loyalist WORD[144,   1]: 0.0022202 志士
+TOKEN[145]: 0.0021856    1 fighter
+	fighter WORD[145,   1]: 0.0021856 闘士
+TOKEN[146]: 0.0021342    1 wrestler
+	wrestler WORD[146,   1]: 0.0021342 力士
+TOKEN[147]: 0.0021266    1 three
+	three WORD[147,   1]: 0.0021266 士族
+TOKEN[148]: 0.0021264    1 guard
+	guard WORD[148,   1]: 0.0021264 衛士
+TOKEN[149]: 0.0021189    1 champion
+	champion WORD[149,   1]: 0.0021189 闘士
+TOKEN[150]: 0.0021111    1 Chinese
+	Chinese WORD[150,   1]: 0.0021111 進士
+TOKEN[151]: 0.0020975    1 king
+	king WORD[151,   1]: 0.0020975 力士
+TOKEN[152]: 0.0020975    1 bandsman
+	bandsman WORD[152,   1]: 0.0020975 楽士
+TOKEN[153]: 0.0020740    1 willing
+	willing WORD[153,   1]: 0.0020740 志士
+TOKEN[154]: 0.0020377    1 walking
+	walking WORD[154,   1]: 0.0020377 徒士
+TOKEN[155]: 0.0020363    1 comrade
+	comrade WORD[155,   1]: 0.0020363 同士
+TOKEN[156]: 0.0020114    1 second
+	second WORD[156,   1]: 0.0020114 士族
+TOKEN[157]: 0.0019738    1 army
+	army WORD[157,   1]: 0.0019738 陸士
+TOKEN[158]: 0.0019595    1 official
+	official WORD[158,   1]: 0.0019595 士族
+TOKEN[159]: 0.0019544    1 spirit
+	spirit WORD[159,   1]: 0.0019544 士魂
+TOKEN[160]: 0.0019433    1 country
+	country WORD[160,   1]: 0.0019433 郷士
+TOKEN[161]: 0.0019363    1 point
+	point WORD[161,   1]: 0.0019363 富士額
+TOKEN[162]: 0.0019262    1 mountain
+	mountain WORD[162,   1]: 0.0019262 道士
+TOKEN[163]: 0.0019248    1 corps
+	corps WORD[163,   1]: 0.0019248 士気
+TOKEN[164]: 0.0019234    1 medieval
+	medieval WORD[164,   1]: 0.0019234 騎士
+TOKEN[165]: 0.0018778    1 morale
+	morale WORD[165,   1]: 0.0018778 士気
+TOKEN[166]: 0.0018689    1 Japan
+	Japan WORD[166,   1]: 0.0018689 士族
+TOKEN[167]: 0.0018607    1 layman
+	layman WORD[167,   1]: 0.0018607 居士
+TOKEN[168]: 0.0018554    1 companion
+	companion WORD[168,   1]: 0.0018554 同士
+TOKEN[169]: 0.0018293    1 knight
+	knight WORD[169,   1]: 0.0018293 騎士
+TOKEN[170]: 0.0017998    1 chivalry
+	chivalry WORD[170,   1]: 0.0017998 士道
+TOKEN[171]: 0.0017929    1 someone
+	someone WORD[171,   1]: 0.0017929 進士
+TOKEN[172]: 0.0017926    1 classic
+	classic WORD[172,   1]: 0.0017926 進士
+TOKEN[173]: 0.0017512    1 strong
+	strong WORD[173,   1]: 0.0017512 力士
+TOKEN[174]: 0.0017390    1 mutual
+	mutual WORD[174,   1]: 0.0017390 同士
+TOKEN[175]: 0.0017269    1 family
+	family WORD[175,   1]: 0.0017269 士族
+TOKEN[176]: 0.0017097    1 musician
+	musician WORD[176,   1]: 0.0017097 楽士
+TOKEN[177]: 0.0017065    1 scholar
+	scholar WORD[177,   1]: 0.0017065 居士
+TOKEN[178]: 0.0017033    1 citizen
+	citizen WORD[178,   1]: 0.0017033 国士
+TOKEN[179]: 0.0016989    1 fellow
+	fellow WORD[179,   1]: 0.0016989 同士
+TOKEN[180]: 0.0016906    1 horseback
+	horseback WORD[180,   1]: 0.0016906 騎士
+TOKEN[181]: 0.0016763    1 posthumous
+	posthumous WORD[181,   1]: 0.0016763 居士
+TOKEN[182]: 0.0016763    1 suffix
+	suffix WORD[182,   1]: 0.0016763 居士
+TOKEN[183]: 0.0016703    1 academic
+	academic WORD[183,   1]: 0.0016703 修士
+TOKEN[184]: 0.0016515    1 Japanese
+	Japanese WORD[184,   1]: 0.0016515 弁士
+TOKEN[185]: 0.0016463    1 code
+	code WORD[185,   1]: 0.0016463 士道
+TOKEN[186]: 0.0016290    1 skilled
+	skilled WORD[186,   1]: 0.0016290 達士
+TOKEN[187]: 0.0016263    1 literature
+	literature WORD[187,   1]: 0.0016263 進士
+TOKEN[188]: 0.0016087    1 going
+	going WORD[188,   1]: 0.0016087 徒士
+TOKEN[189]: 0.0016022    1 graduate
+	graduate WORD[189,   1]: 0.0016022 学士
+TOKEN[190]: 0.0015942    1 civil
+	civil WORD[190,   1]: 0.0015942 進士
+TOKEN[191]: 0.0015936    1 nation
+	nation WORD[191,   1]: 0.0015936 志士
+TOKEN[192]: 0.0015879    1 distinguished
+	distinguished WORD[192,   1]: 0.0015879 国士
+TOKEN[193]: 0.0015730    1 sacrifice
+	sacrifice WORD[193,   1]: 0.0015730 志士
+TOKEN[194]: 0.0015432    1 noble
+	noble WORD[194,   1]: 0.0015432 高士
+TOKEN[195]: 0.0015347    1 team
+	team WORD[195,   1]: 0.0015347 士気
+TOKEN[196]: 0.0015302    1 promotion
+	promotion WORD[196,   1]: 0.0015302 進士
+TOKEN[197]: 0.0015021    1 leading
+	leading WORD[197,   1]: 0.0015021 士長
+TOKEN[198]: 0.0014781    1 servant
+	servant WORD[198,   1]: 0.0014781 進士
+TOKEN[199]: 0.0014753    1 political
+	political WORD[199,   1]: 0.0014753 進士
+TOKEN[200]: 0.0014753    1 palace
+	palace WORD[200,   1]: 0.0014753 進士
+TOKEN[201]: 0.0014443    1 university
+	university WORD[201,   1]: 0.0014443 学士
+TOKEN[202]: 0.0014387    1 national
+	national WORD[202,   1]: 0.0014387 進士
+TOKEN[203]: 0.0014162    1 shogi
+	shogi WORD[203,   1]: 0.0014162 棋士
+TOKEN[204]: 0.0012960    1 character
+	character WORD[204,   1]: 0.0012960 高士
+TOKEN[205]: 0.0012781    1 class
+	class WORD[205,   1]: 0.0012781 一士
+TOKEN[206]: 0.0011893    1 hand
+	hand WORD[206,   1]: 0.0011893 達士
+TOKEN[207]: 0.0011815    1 first
+	first WORD[207,   1]: 0.0011815 一士
+TOKEN[208]: 0.0010492    1 good
+	good WORD[208,   1]: 0.0010492 志士
+TOKEN[209]: 0.0009769    1 used
+	used WORD[209,   1]: 0.0009769 居士
+TOKEN[210]: 0.0009728    1 go
+	go WORD[210,   1]: 0.0009728 棋士

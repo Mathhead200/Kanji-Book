@@ -1,0 +1,524 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1012519   17 cow            : 牛柄, 斑牛, 母牛, 乳牛, 牛屋, 牝牛, 雌牛, 仔牛, 子牛, 小牛, ...
+0.0749005   14 beef           : 吉牛, 牛屋, 牛すじ, 牛スジ, 牛筋, 牛タン, 牛飯, 和牛, 牛缶, 牛骨, ...
+0.0644166    8 ox             : 斑牛, 牛蠅, 牛黄, 牛タン, 雄牛, 牡牛, 牛耳, 牛車
+0.0574433   16 cattle         : 成牛, 牛黄, 牛飼い, 牧牛, 黒牛, 牛骨, 斃牛馬, 肉牛, 乳牛, 屠牛, ...
+0.0427523    7 bull           : 暴れ牛, 猛牛, 特牛, 雄牛, 牡牛, 闘牛, 種牛
+0.0337696    1 pattern        : 牛柄
+0.0220775    1 spotted        : 斑牛
+0.0199540    1 hide           : 牛柄
+0.0187438    3 rice           : 吉牛, 牛飯, 牛丼
+0.0174688    1 spot           : 牛柄
+0.0168833    1 gallstone      : 牛黄
+0.0168833    1 bezoar         : 牛黄
+0.0165865    1 warble         : 牛蠅
+0.0126196    1 calculus       : 牛黄
+0.0117601    3 sinew          : 牛すじ, 牛スジ, 牛筋
+0.0114719    3 tendon         : 牛すじ, 牛スジ, 牛筋
+0.0111755    1 zebu           : 瘤牛
+0.0109979    1 tongue         : 牛タン
+0.0101458    1 fly            : 牛蠅
+0.0100651    1 par            : 牛角
+0.0100180    3 calf           : 仔牛, 子牛, 小牛
+0.0099118    1 bone           : 牛骨
+0.0084512    1 gnu            : 牛羚羊
+0.0084512    1 wildebeest     : 牛羚羊
+0.0082826    2 heifer         : 牝牛, 雌牛
+0.0081934    1 equal          : 牛角
+0.0081548    1 Photinia       : 牛殺し
+0.0080886    1 restive        : 暴れ牛
+0.0080746    2 buffalo        : 水牛, 野牛
+0.0074414    1 ability        : 牛角
+0.0072927    1 cattleman      : 牛飼い
+0.0068324    1 tying          : 牛裂き
+0.0067155    2 oxhide         : 牛革, 牛皮
+0.0064797    2 cowhide        : 牛革, 牛皮
+0.0064298    2 steer          : 雄牛, 牡牛
+0.0063780    1 penalty        : 牛裂き
+0.0062837    1 mature         : 成牛
+0.0061689    1 ferocious      : 猛牛
+0.0061053    1 raging         : 猛牛
+0.0060985    1 cowshed        : 牛屋
+0.0060732    1 riding         : 暴れ牛
+0.0059416    2 covered        : 牛飯, 牛丼
+0.0058947    1 adult          : 成牛
+0.0058557    3 small          : 仔牛, 子牛, 小牛
+0.0057988    1 Oriental       : 牛殺し
+0.0051965    1 four           : 牛裂き
+0.0049788    1 different      : 牛裂き
+0.0048610    1 raising        : 牛飼い
+0.0048200    1 sirenian       : 海牛
+0.0048200    1 Sirenia        : 海牛
+0.0047778    1 strong         : 特牛
+0.0047006    1 run            : 牛裂き
+0.0046635    1 farmer         : 牛屋
+0.0045738    1 bovine         : 牛骨
+0.0045687    1 making         : 牛裂き
+0.0043672    1 death          : 牛裂き
+0.0042934    1 two            : 牛裂き
+0.0042408    1 dairy          : 乳牛
+0.0042207    1 canned         : 牛缶
+0.0039823    1 restaurant     : 牛屋
+0.0038489    1 acquire        : 斃牛馬
+0.0037109    1 store          : 牛屋
+0.0037043    1 mammal         : 海牛
+0.0035525    1 aquatic        : 海牛
+0.0032540    1 person         : 牛裂き
+0.0031173    2 snail          : 牛歩, 蝸牛
+0.0030335    1 knife          : 牛刀
+0.0029098    1 Oxford         : 牛津
+0.0028334    1 dead           : 斃牛馬
+0.0028013    1 black          : 黒牛
+0.0027900    1 water          : 水牛
+0.0027786    1 stock          : 牛骨
+0.0027409    1 cochlea        : 蝸牛
+0.0026712    1 bullfighting   : 闘牛
+0.0026029    1 right          : 斃牛馬
+0.0025798    2 milk           : 乳牛, 牛乳
+0.0025727    1 Edo            : 斃牛馬
+0.0025395    1 radical        : 牛偏
+0.0025200    1 bullfight      : 闘牛
+0.0024953    1 milch          : 乳牛
+0.0024348    1 vaccinia       : 牛痘
+0.0024348    1 cowpox         : 牛痘
+0.0024246    1 rinderpest     : 牛疫
+0.0024213    1 sea            : 海牛
+0.0024209    1 pimp           : 牛
+0.0023477    1 sliced         : 牛丼
+0.0023163    1 Achyranthes    : 牛膝
+0.0023101    1 cowpuncher     : 牛追い
+0.0023101    1 drover         : 牛追い
+0.0022518    1 period         : 斃牛馬
+0.0021902    1 order          : 海牛
+0.0021814    1 make           : 牛骨
+0.0021793    1 oxcart         : 牛車
+0.0021716    1 used           : 牛骨
+0.0021516    1 tout           : 牛
+0.0021230    1 work           : 役牛
+0.0020988    1 Altair         : 牽牛
+0.0020485    1 bullfrog       : 牛蛙
+0.0019962    1 Aquila         : 牽牛
+0.0019927    1 slaughter      : 屠牛
+0.0019621    1 Asian          : 水牛
+0.0019200    2 Japanese       : 和牛, 牛膝
+0.0019194    1 tallow         : 牛脂
+0.0019098    1 sukiyaki       : 牛鍋
+0.0019018    1 plague         : 牛疫
+0.0018913    1 barn           : 牛舎
+0.0018763    1 rump           : 牛後
+0.0018760    1 brothel        : 牛
+0.0018199    1 butcher        : 牛刀
+0.0017867    1 chef           : 牛刀
+0.0017455    1 breeding       : 種牛
+0.0016926    1 chaff          : 牛膝
+0.0016842    1 butter         : 牛酪
+0.0016588    1 demon          : 牛頭
+0.0016564    1 bubalis        : 水牛
+0.0016564    1 arnee          : 水牛
+0.0016162    1 shed           : 牛舎
+0.0016015    1 gobo           : 牛蒡
+0.0016015    1 Arctium        : 牛蒡
+0.0015668    1 hell           : 牛頭
+0.0015466    1 fighting       : 闘牛
+0.0014630    1 carriage       : 牛車
+0.0013904    1 star           : 牽牛
+0.0013511    1 American       : 牛蛙
+0.0013304    1 constellation  : 牽牛
+0.0013184    1 indifferent    : 風馬牛
+0.0013098    1 member         : 牛後
+0.0012493    1 japonica       : 牛膝
+0.0012323    1 running        : 牛追い
+0.0012232    1 dung           : 牛糞
+0.0012183    1 flower         : 牛膝
+0.0012016    1 food           : 屠牛
+0.0011912    1 burdock        : 牛蒡
+0.0011730    1 left           : 牛偏
+0.0011682    1 group          : 牛後
+0.0011518    1 large          : 牛後
+0.0011102    1 manure         : 牛糞
+0.0010959    1 thumb          : 牛耳る
+0.0010256    1 pace           : 牛歩
+0.0009926    1 domestic       : 水牛
+0.0009766    1 progress       : 牛歩
+0.0009177    1 slow           : 牛歩
+0.0009114    1 wild           : 水牛
+0.0008509    1 lead           : 牛耳る
+0.0007848    1 control        : 牛耳る
+0.0007302    1 great          : 牛蒡
+0.0006419    1 take           : 牛耳る
+0.0003896    1 one            : 牛耳る
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1012519   17 cow
+	cow WORD[ 1,   1]: 0.0402027 牛柄
+	cow WORD[ 1,   2]: 0.0196885 斑牛
+	cow WORD[ 1,   3]: 0.0056150 母牛
+	cow WORD[ 1,   4]: 0.0052391 乳牛
+	cow WORD[ 1,   5]: 0.0044731 牛屋
+	cow WORD[ 1,   6]: 0.0031934 牝牛
+	cow WORD[ 1,   7]: 0.0029878 雌牛
+	cow WORD[ 1,   8]: 0.0028863 仔牛
+	cow WORD[ 1,   9]: 0.0028863 子牛
+	cow WORD[ 1,  10]: 0.0028863 小牛
+	cow WORD[ 1,  11]: 0.0015716 役牛
+	cow WORD[ 1,  12]: 0.0015471 牛舎
+	cow WORD[ 1,  13]: 0.0015453 牛後
+	cow WORD[ 1,  14]: 0.0015353 海牛
+	cow WORD[ 1,  15]: 0.0014719 牛偏
+	cow WORD[ 1,  16]: 0.0009934 牛糞
+	cow WORD[ 1,  17]: 0.0009934 牛乳
+TOKEN[ 2]: 0.0749005   14 beef
+	beef WORD[ 2,   1]: 0.0208418 吉牛
+	beef WORD[ 2,   2]: 0.0087371 牛屋
+	beef WORD[ 2,   3]: 0.0060660 牛すじ
+	beef WORD[ 2,   4]: 0.0060660 牛スジ
+	beef WORD[ 2,   5]: 0.0060660 牛筋
+	beef WORD[ 2,   6]: 0.0058082 牛タン
+	beef WORD[ 2,   7]: 0.0041818 牛飯
+	beef WORD[ 2,   8]: 0.0037943 和牛
+	beef WORD[ 2,   9]: 0.0035130 牛缶
+	beef WORD[ 2,  10]: 0.0033835 牛骨
+	beef WORD[ 2,  11]: 0.0022080 牛丼
+	beef WORD[ 2,  12]: 0.0017539 肉牛
+	beef WORD[ 2,  13]: 0.0015107 牛脂
+	beef WORD[ 2,  14]: 0.0009702 牛肉
+TOKEN[ 3]: 0.0644166    8 ox
+	ox WORD[ 3,   1]: 0.0225842 斑牛
+	ox WORD[ 3,   2]: 0.0133154 牛蠅
+	ox WORD[ 3,   3]: 0.0123372 牛黄
+	ox WORD[ 3,   4]: 0.0068220 牛タン
+	ox WORD[ 3,   5]: 0.0034270 雄牛
+	ox WORD[ 3,   6]: 0.0024683 牡牛
+	ox WORD[ 3,   7]: 0.0017745 牛耳
+	ox WORD[ 3,   8]: 0.0016881 牛車
+TOKEN[ 4]: 0.0574433   16 cattle
+	cattle WORD[ 4,   1]: 0.0119706 成牛
+	cattle WORD[ 4,   2]: 0.0110231 牛黄
+	cattle WORD[ 4,   3]: 0.0050472 牛飼い
+	cattle WORD[ 4,   4]: 0.0044681 牧牛
+	cattle WORD[ 4,   5]: 0.0036011 黒牛
+	cattle WORD[ 4,   6]: 0.0035508 牛骨
+	cattle WORD[ 4,   7]: 0.0035055 斃牛馬
+	cattle WORD[ 4,   8]: 0.0018406 肉牛
+	cattle WORD[ 4,   9]: 0.0017899 乳牛
+	cattle WORD[ 4,  10]: 0.0017491 屠牛
+	cattle WORD[ 4,  11]: 0.0016107 役牛
+	cattle WORD[ 4,  12]: 0.0015915 牛馬
+	cattle WORD[ 4,  13]: 0.0015856 牛舎
+	cattle WORD[ 4,  14]: 0.0015830 牛疫
+	cattle WORD[ 4,  15]: 0.0015083 牛追い
+	cattle WORD[ 4,  16]: 0.0010181 牛糞
+TOKEN[ 5]: 0.0427523    7 bull
+	bull WORD[ 5,   1]: 0.0141767 暴れ牛
+	bull WORD[ 5,   2]: 0.0120400 猛牛
+	bull WORD[ 5,   3]: 0.0066917 特牛
+	bull WORD[ 5,   4]: 0.0034565 雄牛
+	bull WORD[ 5,   5]: 0.0024895 牡牛
+	bull WORD[ 5,   6]: 0.0019687 闘牛
+	bull WORD[ 5,   7]: 0.0019291 種牛
+TOKEN[ 6]: 0.0337696    1 pattern
+	pattern WORD[ 6,   1]: 0.0337696 牛柄
+TOKEN[ 7]: 0.0220775    1 spotted
+	spotted WORD[ 7,   1]: 0.0220775 斑牛
+TOKEN[ 8]: 0.0199540    1 hide
+	hide WORD[ 8,   1]: 0.0199540 牛柄
+TOKEN[ 9]: 0.0187438    3 rice
+	rice WORD[ 9,   1]: 0.0143457 吉牛
+	rice WORD[ 9,   2]: 0.0028784 牛飯
+	rice WORD[ 9,   3]: 0.0015198 牛丼
+TOKEN[10]: 0.0174688    1 spot
+	spot WORD[10,   1]: 0.0174688 牛柄
+TOKEN[11]: 0.0168833    1 gallstone
+	gallstone WORD[11,   1]: 0.0168833 牛黄
+TOKEN[12]: 0.0168833    1 bezoar
+	bezoar WORD[12,   1]: 0.0168833 牛黄
+TOKEN[13]: 0.0165865    1 warble
+	warble WORD[13,   1]: 0.0165865 牛蠅
+TOKEN[14]: 0.0126196    1 calculus
+	calculus WORD[14,   1]: 0.0126196 牛黄
+TOKEN[15]: 0.0117601    3 sinew
+	sinew WORD[15,   1]: 0.0039200 牛すじ
+	sinew WORD[15,   2]: 0.0039200 牛スジ
+	sinew WORD[15,   3]: 0.0039200 牛筋
+TOKEN[16]: 0.0114719    3 tendon
+	tendon WORD[16,   1]: 0.0038240 牛すじ
+	tendon WORD[16,   2]: 0.0038240 牛スジ
+	tendon WORD[16,   3]: 0.0038240 牛筋
+TOKEN[17]: 0.0111755    1 zebu
+	zebu WORD[17,   1]: 0.0111755 瘤牛
+TOKEN[18]: 0.0109979    1 tongue
+	tongue WORD[18,   1]: 0.0109979 牛タン
+TOKEN[19]: 0.0101458    1 fly
+	fly WORD[19,   1]: 0.0101458 牛蠅
+TOKEN[20]: 0.0100651    1 par
+	par WORD[20,   1]: 0.0050325 牛角
+TOKEN[21]: 0.0100180    3 calf
+	calf WORD[21,   1]: 0.0033393 仔牛
+	calf WORD[21,   2]: 0.0033393 子牛
+	calf WORD[21,   3]: 0.0033393 小牛
+TOKEN[22]: 0.0099118    1 bone
+	bone WORD[22,   1]: 0.0099118 牛骨
+TOKEN[23]: 0.0084512    1 gnu
+	gnu WORD[23,   1]: 0.0084512 牛羚羊
+TOKEN[24]: 0.0084512    1 wildebeest
+	wildebeest WORD[24,   1]: 0.0084512 牛羚羊
+TOKEN[25]: 0.0082826    2 heifer
+	heifer WORD[25,   1]: 0.0042791 牝牛
+	heifer WORD[25,   2]: 0.0040035 雌牛
+TOKEN[26]: 0.0081934    1 equal
+	equal WORD[26,   1]: 0.0040967 牛角
+TOKEN[27]: 0.0081548    1 Photinia
+	Photinia WORD[27,   1]: 0.0081548 牛殺し
+TOKEN[28]: 0.0080886    1 restive
+	restive WORD[28,   1]: 0.0080886 暴れ牛
+TOKEN[29]: 0.0080746    2 buffalo
+	buffalo WORD[29,   1]: 0.0055723 水牛
+	buffalo WORD[29,   2]: 0.0025023 野牛
+TOKEN[30]: 0.0074414    1 ability
+	ability WORD[30,   1]: 0.0037207 牛角
+TOKEN[31]: 0.0072927    1 cattleman
+	cattleman WORD[31,   1]: 0.0072927 牛飼い
+TOKEN[32]: 0.0068324    1 tying
+	tying WORD[32,   1]: 0.0068324 牛裂き
+TOKEN[33]: 0.0067155    2 oxhide
+	oxhide WORD[33,   1]: 0.0044159 牛革
+	oxhide WORD[33,   2]: 0.0022996 牛皮
+TOKEN[34]: 0.0064797    2 cowhide
+	cowhide WORD[34,   1]: 0.0042608 牛革
+	cowhide WORD[34,   2]: 0.0022189 牛皮
+TOKEN[35]: 0.0064298    2 steer
+	steer WORD[35,   1]: 0.0037378 雄牛
+	steer WORD[35,   2]: 0.0026920 牡牛
+TOKEN[36]: 0.0063780    1 penalty
+	penalty WORD[36,   1]: 0.0063780 牛裂き
+TOKEN[37]: 0.0062837    1 mature
+	mature WORD[37,   1]: 0.0062837 成牛
+TOKEN[38]: 0.0061689    1 ferocious
+	ferocious WORD[38,   1]: 0.0061689 猛牛
+TOKEN[39]: 0.0061053    1 raging
+	raging WORD[39,   1]: 0.0061053 猛牛
+TOKEN[40]: 0.0060985    1 cowshed
+	cowshed WORD[40,   1]: 0.0060985 牛屋
+TOKEN[41]: 0.0060732    1 riding
+	riding WORD[41,   1]: 0.0060732 暴れ牛
+TOKEN[42]: 0.0059416    2 covered
+	covered WORD[42,   1]: 0.0038885 牛飯
+	covered WORD[42,   2]: 0.0020531 牛丼
+TOKEN[43]: 0.0058947    1 adult
+	adult WORD[43,   1]: 0.0058947 成牛
+TOKEN[44]: 0.0058557    3 small
+	small WORD[44,   1]: 0.0019519 仔牛
+	small WORD[44,   2]: 0.0019519 子牛
+	small WORD[44,   3]: 0.0019519 小牛
+TOKEN[45]: 0.0057988    1 Oriental
+	Oriental WORD[45,   1]: 0.0057988 牛殺し
+TOKEN[46]: 0.0051965    1 four
+	four WORD[46,   1]: 0.0051965 牛裂き
+TOKEN[47]: 0.0049788    1 different
+	different WORD[47,   1]: 0.0049788 牛裂き
+TOKEN[48]: 0.0048610    1 raising
+	raising WORD[48,   1]: 0.0048610 牛飼い
+TOKEN[49]: 0.0048200    1 sirenian
+	sirenian WORD[49,   1]: 0.0024100 海牛
+TOKEN[50]: 0.0048200    1 Sirenia
+	Sirenia WORD[50,   1]: 0.0024100 海牛
+TOKEN[51]: 0.0047778    1 strong
+	strong WORD[51,   1]: 0.0047778 特牛
+TOKEN[52]: 0.0047006    1 run
+	run WORD[52,   1]: 0.0047006 牛裂き
+TOKEN[53]: 0.0046635    1 farmer
+	farmer WORD[53,   1]: 0.0046635 牛屋
+TOKEN[54]: 0.0045738    1 bovine
+	bovine WORD[54,   1]: 0.0045738 牛骨
+TOKEN[55]: 0.0045687    1 making
+	making WORD[55,   1]: 0.0045687 牛裂き
+TOKEN[56]: 0.0043672    1 death
+	death WORD[56,   1]: 0.0043672 牛裂き
+TOKEN[57]: 0.0042934    1 two
+	two WORD[57,   1]: 0.0042934 牛裂き
+TOKEN[58]: 0.0042408    1 dairy
+	dairy WORD[58,   1]: 0.0042408 乳牛
+TOKEN[59]: 0.0042207    1 canned
+	canned WORD[59,   1]: 0.0042207 牛缶
+TOKEN[60]: 0.0039823    1 restaurant
+	restaurant WORD[60,   1]: 0.0039823 牛屋
+TOKEN[61]: 0.0038489    1 acquire
+	acquire WORD[61,   1]: 0.0038489 斃牛馬
+TOKEN[62]: 0.0037109    1 store
+	store WORD[62,   1]: 0.0037109 牛屋
+TOKEN[63]: 0.0037043    1 mammal
+	mammal WORD[63,   1]: 0.0018522 海牛
+TOKEN[64]: 0.0035525    1 aquatic
+	aquatic WORD[64,   1]: 0.0017762 海牛
+TOKEN[65]: 0.0032540    1 person
+	person WORD[65,   1]: 0.0032540 牛裂き
+TOKEN[66]: 0.0031173    2 snail
+	snail WORD[66,   1]: 0.0010636 牛歩
+	snail WORD[66,   2]: 0.0010269 蝸牛
+TOKEN[67]: 0.0030335    1 knife
+	knife WORD[67,   1]: 0.0030335 牛刀
+TOKEN[68]: 0.0029098    1 Oxford
+	Oxford WORD[68,   1]: 0.0029098 牛津
+TOKEN[69]: 0.0028334    1 dead
+	dead WORD[69,   1]: 0.0028334 斃牛馬
+TOKEN[70]: 0.0028013    1 black
+	black WORD[70,   1]: 0.0028013 黒牛
+TOKEN[71]: 0.0027900    1 water
+	water WORD[71,   1]: 0.0027900 水牛
+TOKEN[72]: 0.0027786    1 stock
+	stock WORD[72,   1]: 0.0027786 牛骨
+TOKEN[73]: 0.0027409    1 cochlea
+	cochlea WORD[73,   1]: 0.0013704 蝸牛
+TOKEN[74]: 0.0026712    1 bullfighting
+	bullfighting WORD[74,   1]: 0.0026712 闘牛
+TOKEN[75]: 0.0026029    1 right
+	right WORD[75,   1]: 0.0026029 斃牛馬
+TOKEN[76]: 0.0025798    2 milk
+	milk WORD[76,   1]: 0.0016444 乳牛
+	milk WORD[76,   2]: 0.0009354 牛乳
+TOKEN[77]: 0.0025727    1 Edo
+	Edo WORD[77,   1]: 0.0025727 斃牛馬
+TOKEN[78]: 0.0025395    1 radical
+	radical WORD[78,   1]: 0.0025395 牛偏
+TOKEN[79]: 0.0025200    1 bullfight
+	bullfight WORD[79,   1]: 0.0025200 闘牛
+TOKEN[80]: 0.0024953    1 milch
+	milch WORD[80,   1]: 0.0024953 乳牛
+TOKEN[81]: 0.0024348    1 vaccinia
+	vaccinia WORD[81,   1]: 0.0024348 牛痘
+TOKEN[82]: 0.0024348    1 cowpox
+	cowpox WORD[82,   1]: 0.0024348 牛痘
+TOKEN[83]: 0.0024246    1 rinderpest
+	rinderpest WORD[83,   1]: 0.0024246 牛疫
+TOKEN[84]: 0.0024213    1 sea
+	sea WORD[84,   1]: 0.0012107 海牛
+TOKEN[85]: 0.0024209    1 pimp
+	pimp WORD[85,   1]: 0.0012104 牛
+TOKEN[86]: 0.0023477    1 sliced
+	sliced WORD[86,   1]: 0.0023477 牛丼
+TOKEN[87]: 0.0023163    1 Achyranthes
+	Achyranthes WORD[87,   1]: 0.0023163 牛膝
+TOKEN[88]: 0.0023101    1 cowpuncher
+	cowpuncher WORD[88,   1]: 0.0023101 牛追い
+TOKEN[89]: 0.0023101    1 drover
+	drover WORD[89,   1]: 0.0023101 牛追い
+TOKEN[90]: 0.0022518    1 period
+	period WORD[90,   1]: 0.0022518 斃牛馬
+TOKEN[91]: 0.0021902    1 order
+	order WORD[91,   1]: 0.0010951 海牛
+TOKEN[92]: 0.0021814    1 make
+	make WORD[92,   1]: 0.0021814 牛骨
+TOKEN[93]: 0.0021793    1 oxcart
+	oxcart WORD[93,   1]: 0.0021793 牛車
+TOKEN[94]: 0.0021716    1 used
+	used WORD[94,   1]: 0.0021716 牛骨
+TOKEN[95]: 0.0021516    1 tout
+	tout WORD[95,   1]: 0.0010758 牛
+TOKEN[96]: 0.0021230    1 work
+	work WORD[96,   1]: 0.0021230 役牛
+TOKEN[97]: 0.0020988    1 Altair
+	Altair WORD[97,   1]: 0.0020988 牽牛
+TOKEN[98]: 0.0020485    1 bullfrog
+	bullfrog WORD[98,   1]: 0.0020485 牛蛙
+TOKEN[99]: 0.0019962    1 Aquila
+	Aquila WORD[99,   1]: 0.0019962 牽牛
+TOKEN[100]: 0.0019927    1 slaughter
+	slaughter WORD[100,   1]: 0.0019927 屠牛
+TOKEN[101]: 0.0019621    1 Asian
+	Asian WORD[101,   1]: 0.0019621 水牛
+TOKEN[102]: 0.0019200    2 Japanese
+	Japanese WORD[102,   1]: 0.0010912 和牛
+	Japanese WORD[102,   2]: 0.0008288 牛膝
+TOKEN[103]: 0.0019194    1 tallow
+	tallow WORD[103,   1]: 0.0019194 牛脂
+TOKEN[104]: 0.0019098    1 sukiyaki
+	sukiyaki WORD[104,   1]: 0.0019098 牛鍋
+TOKEN[105]: 0.0019018    1 plague
+	plague WORD[105,   1]: 0.0019018 牛疫
+TOKEN[106]: 0.0018913    1 barn
+	barn WORD[106,   1]: 0.0018913 牛舎
+TOKEN[107]: 0.0018763    1 rump
+	rump WORD[107,   1]: 0.0018763 牛後
+TOKEN[108]: 0.0018760    1 brothel
+	brothel WORD[108,   1]: 0.0009380 牛
+TOKEN[109]: 0.0018199    1 butcher
+	butcher WORD[109,   1]: 0.0018199 牛刀
+TOKEN[110]: 0.0017867    1 chef
+	chef WORD[110,   1]: 0.0017867 牛刀
+TOKEN[111]: 0.0017455    1 breeding
+	breeding WORD[111,   1]: 0.0017455 種牛
+TOKEN[112]: 0.0016926    1 chaff
+	chaff WORD[112,   1]: 0.0016926 牛膝
+TOKEN[113]: 0.0016842    1 butter
+	butter WORD[113,   1]: 0.0016842 牛酪
+TOKEN[114]: 0.0016588    1 demon
+	demon WORD[114,   1]: 0.0016588 牛頭
+TOKEN[115]: 0.0016564    1 bubalis
+	bubalis WORD[115,   1]: 0.0016564 水牛
+TOKEN[116]: 0.0016564    1 arnee
+	arnee WORD[116,   1]: 0.0016564 水牛
+TOKEN[117]: 0.0016162    1 shed
+	shed WORD[117,   1]: 0.0016162 牛舎
+TOKEN[118]: 0.0016015    1 gobo
+	gobo WORD[118,   1]: 0.0016015 牛蒡
+TOKEN[119]: 0.0016015    1 Arctium
+	Arctium WORD[119,   1]: 0.0016015 牛蒡
+TOKEN[120]: 0.0015668    1 hell
+	hell WORD[120,   1]: 0.0015668 牛頭
+TOKEN[121]: 0.0015466    1 fighting
+	fighting WORD[121,   1]: 0.0015466 闘牛
+TOKEN[122]: 0.0014630    1 carriage
+	carriage WORD[122,   1]: 0.0014630 牛車
+TOKEN[123]: 0.0013904    1 star
+	star WORD[123,   1]: 0.0013904 牽牛
+TOKEN[124]: 0.0013511    1 American
+	American WORD[124,   1]: 0.0013511 牛蛙
+TOKEN[125]: 0.0013304    1 constellation
+	constellation WORD[125,   1]: 0.0013304 牽牛
+TOKEN[126]: 0.0013184    1 indifferent
+	indifferent WORD[126,   1]: 0.0013184 風馬牛
+TOKEN[127]: 0.0013098    1 member
+	member WORD[127,   1]: 0.0013098 牛後
+TOKEN[128]: 0.0012493    1 japonica
+	japonica WORD[128,   1]: 0.0012493 牛膝
+TOKEN[129]: 0.0012323    1 running
+	running WORD[129,   1]: 0.0012323 牛追い
+TOKEN[130]: 0.0012232    1 dung
+	dung WORD[130,   1]: 0.0012232 牛糞
+TOKEN[131]: 0.0012183    1 flower
+	flower WORD[131,   1]: 0.0012183 牛膝
+TOKEN[132]: 0.0012016    1 food
+	food WORD[132,   1]: 0.0012016 屠牛
+TOKEN[133]: 0.0011912    1 burdock
+	burdock WORD[133,   1]: 0.0011912 牛蒡
+TOKEN[134]: 0.0011730    1 left
+	left WORD[134,   1]: 0.0011730 牛偏
+TOKEN[135]: 0.0011682    1 group
+	group WORD[135,   1]: 0.0011682 牛後
+TOKEN[136]: 0.0011518    1 large
+	large WORD[136,   1]: 0.0011518 牛後
+TOKEN[137]: 0.0011102    1 manure
+	manure WORD[137,   1]: 0.0011102 牛糞
+TOKEN[138]: 0.0010959    1 thumb
+	thumb WORD[138,   1]: 0.0010959 牛耳る
+TOKEN[139]: 0.0010256    1 pace
+	pace WORD[139,   1]: 0.0010256 牛歩
+TOKEN[140]: 0.0009926    1 domestic
+	domestic WORD[140,   1]: 0.0009926 水牛
+TOKEN[141]: 0.0009766    1 progress
+	progress WORD[141,   1]: 0.0009766 牛歩
+TOKEN[142]: 0.0009177    1 slow
+	slow WORD[142,   1]: 0.0009177 牛歩
+TOKEN[143]: 0.0009114    1 wild
+	wild WORD[143,   1]: 0.0009114 水牛
+TOKEN[144]: 0.0008509    1 lead
+	lead WORD[144,   1]: 0.0008509 牛耳る
+TOKEN[145]: 0.0007848    1 control
+	control WORD[145,   1]: 0.0007848 牛耳る
+TOKEN[146]: 0.0007302    1 great
+	great WORD[146,   1]: 0.0007302 牛蒡
+TOKEN[147]: 0.0006419    1 take
+	take WORD[147,   1]: 0.0006419 牛耳る
+TOKEN[148]: 0.0003896    1 one
+	one WORD[148,   1]: 0.0003896 牛耳る

@@ -1,0 +1,28 @@
+So we have just built a data/element_stats.json file with each KanjiVG element.
+How I would like to use this data:
+
+First, go though the data/element_stats.json file we just built and identify all of the elements that happen to be kanji. Let's call these elements set {k}.
+Output how many kanji there are.
+
+Next, load my "data/2242KANJIFREQUENCYLISTVER.1.1 - MAIN.csv" file and use the "AVG FREQ" column and Zipf law to give each kanji a weight or coeficient.
+(i.e. more frequent kanji weighted more heightly.) Let's call these coeficients w(k)=1/avg_freq(k) if k is in the CSV file, otherwise, assume some default AVG FREQ, say 10000 and calculate w(k)=1/10000 from that.
+
+Next, for each element, e, whether it is a knaji or not, I want to assign an aggrigate frequency score to it based on its "kanji_list".
+For each kanji in its "kanji_list", x_i, I want to calculate the weight coeficient, w(x_i), and then sum all the weights into a single frequency score, f(e) = \Sum_i{w(x_i)}.
+If an element's "kanji_list" is empty, it gets a frequency score, f(e)=0.
+
+I want to sort the list of elements by their new frequency scores (descending order; highest scores first).
+Then I want to save that table int a CSV file in the data folder. Something like, "data/element_freq.csv".
+
+Finally, I want to figure out how many elements are needed to span the full set of kanji in elements_stats (i.e. KanjiVG but actual kanji only).
+I'm thinking we do thins by starting with the highest frequency elements from the table, and work our way down.
+We start by constructing a full kanji set with all the kanji from element_stats (only actual kanji) in the set.
+And for each kanji element, we store its element tree. This data is found in the KanjiVG "source_files". Some kanji which are also elements in other kanji,
+may have more then one accociated souce file. Go through each one, and pick the simplest sub-tree (least height, then least number of total nodes) that kanji roots.
+For each element, again, starting with elements that have the largest frequency score, we can go through the remaining kanji tree list
+and for each kanji in the element's "kanji_list", we that element from all parts of each of those kanji's trees. (Building as much of each kanji with this element as possible.)
+If the elements is not found in any remaining kanji tree, then we can skip that element. Keep going until the list of kanji trees is fully consumed. (We can remove kanji once the tree is fully built.)
+
+Does this algorithm make sence? Can we implement it?
+
+Once done, I want a list of each element used, in order, and how many kanji it ended up being a part of (when it came time to process that element).

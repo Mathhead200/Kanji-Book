@@ -1,0 +1,990 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0276241    3 brewing        : 速醸, 醸造, 醸成
+0.0269748   10 ring           : 印環, 鐶, 鉄環, 環指, 外環, 浮環, 金環, 円環, 指環, 環状
+0.0233331    1 octillion      : 穣
+0.0223770    2 announcer      : 鴬嬢, 鶯嬢
+0.0214189    3 sake           : 速醸, 吟醸, 醸す
+0.0205111    1 abundant       : 豊穣
+0.0182396    2 truck          : 鴬嬢, 鶯嬢
+0.0180087    1 harvest        : 豊穣
+0.0177439    1 crop           : 豊穣
+0.0173455    1 grain          : 豊穣
+0.0171341    3 campaign       : 鴬嬢, 鶯嬢, 一環
+0.0166191    2 election       : 鴬嬢, 鶯嬢
+0.0153692    1 ten            : 穣
+0.0150241   13 return         : 還都, 還幸, 返還, 還俗, 帰還, 還流, 還付, 還元, 還啓, 還御, ...
+0.0142405    3 soil           : 黄壌, 壌土, 土壌
+0.0130866    2 female         : 鴬嬢, 鶯嬢
+0.0129999   13 transfer       : 譲り状, 譲渡し, 譲り渡し, 譲る, 譲りうける, 譲り受ける, 譲与, 譲渡, 譲り受け, 譲受, ...
+0.0129550    2 good           : 豊穣, 令嬢
+0.0124897    1 kettle         : 鐶
+0.0124284    1 twisted        : 鐶
+0.0122619    4 woman          : 鴬嬢, 鶯嬢, 令嬢, 嬢
+0.0122483    1 signet         : 印環
+0.0121538    1 wire           : 鐶
+0.0120244    2 link           : 鐶, 一環
+0.0118249    2 public         : 鴬嬢, 鶯嬢
+0.0116104    1 loess          : 黄壌
+0.0112872    1 lift           : 鐶
+0.0107229    1 famous         : 銘醸
+0.0105283    1 Hades          : 黄壌
+0.0104157    1 underworld     : 黄壌
+0.0102340    1 metal          : 鐶
+0.0095621    1 heavy          : 鐶
+0.0093728    1 ceremony       : 鐶
+0.0093553    1 hell           : 黄壌
+0.0092348    1 open           : 鐶
+0.0091667    1 capital        : 還都
+0.0089321    1 tea            : 鐶
+0.0086476    1 winery         : 銘醸
+0.0084523    1 yellow         : 黄壌
+0.0073950    1 used           : 鐶
+0.0073253    6 home           : 還る, 召還, 送還, 生還, 帰還, 還す
+0.0072663    1 brewery        : 銘醸
+0.0071685    1 dead           : 黄壌
+0.0070785    4 loop           : 遊環, 外環, 循環, 環状
+0.0068304    1 world          : 黄壌
+0.0065803    2 unmarried      : 貴嬢, 嬢
+0.0060462    5 assignment     : 譲渡し, 譲り渡し, 譲渡, 移譲, 委譲
+0.0055854    3 conveyance     : 譲渡し, 譲り渡し, 譲渡
+0.0052692    2 engender       : 醸しだす, 醸し出す
+0.0049080    4 give           : 譲る, 醸す, 譲り合う, 互譲
+0.0049053    3 ground         : 撃壌, 土壌, 譲る
+0.0048838    1 cell           : 印環
+0.0047291    3 abdication     : 揖譲, 禅譲, 譲位
+0.0045194    1 medical        : 印環
+0.0044885    3 earth          : 天壌, 霄壌, 雲壌
+0.0044253    4 emperor        : 揖譲, 奉還, 禅譲, 還御
+0.0043422    4 compromise     : 譲り合う, 譲り合い, 譲歩, 互譲
+0.0043080    2 atmosphere     : 醸しだす, 醸し出す
+0.0042889    5 inheritance    : 親譲り, 譲り, 譲り受け, 譲受, 譲受け
+0.0042811    1 keeper         : 遊環
+0.0041049    1 former         : 還都
+0.0041014    1 government     : 還都
+0.0039195    1 strap          : 遊環
+0.0039057    1 deed           : 譲り状
+0.0038989    1 making         : 還都
+0.0038186    1 milled         : 吟醸
+0.0037748    3 concession     : 譲許, 譲歩, 互譲
+0.0037545    2 create         : 醸しだす, 醸し出す
+0.0037264    1 clog           : 撃壌
+0.0036675    2 produce        : 醸しだす, 醸し出す
+0.0035641    1 elbow          : 環
+0.0035036    1 fermentation   : 吟醸
+0.0034931    2 cede           : 譲りわたす, 譲り渡す
+0.0033594    3 mutual         : 譲り合う, 譲り合い, 互譲
+0.0033238    1 watch          : 遊環
+0.0032951    3 restoration    : 返還, 還付, 還元
+0.0032025    2 successor      : 揖譲, 禅譲
+0.0031985    2 feeling        : 醸しだす, 醸し出す
+0.0030878    1 bring          : 醸す
+0.0030344    1 outer          : 外環
+0.0029443    1 stamp          : 撃壌
+0.0029340    1 temperature    : 吟醸
+0.0028779    4 one            : 揖譲, 還暦, 譲る, 愛嬢
+0.0028629    1 throwing       : 撃壌
+0.0028126    1 singing        : 撃壌
+0.0026863    2 Chinese        : 撃壌, 禅譲
+0.0025712    1 loamy          : 壌土
+0.0025712    1 loam           : 壌土
+0.0025330    2 finger         : 環指, 指環
+0.0025217    2 repatriation   : 送還, 帰還
+0.0024587    3 turn           : 譲りわたす, 譲り渡す, 譲る
+0.0024550    1 gymnastic      : 吊環
+0.0024191    1 wooden         : 撃壌
+0.0024065    4 take           : 譲り合う, 譲りうける, 譲り受ける, 互譲
+0.0023863    3 hand           : 譲りわたす, 譲り渡す, 譲る
+0.0023805    1 bowing         : 揖譲
+0.0023671    1 ancient        : 撃壌
+0.0023488    1 brew           : 醸す
+0.0023487    1 low            : 吟醸
+0.0023198    1 causing        : 醸成
+0.0022974    1 game           : 撃壌
+0.0022187    1 white          : 吟醸
+0.0021196    1 ambassador     : 召還
+0.0021114    2 empress        : 還啓, 還御
+0.0020486    2 convection     : 還流, 環流
+0.0020422    1 bracer         : 環
+0.0020034    1 bracelet       : 環
+0.0019999    2 someone        : 還す, 召還
+0.0019707    1 archer         : 環
+0.0019606    2 inherit        : 譲りうける, 譲り受ける
+0.0019512    3 daughter       : 令嬢, 嬢核, 愛嬢
+0.0019452    2 reflux         : 還流, 環流
+0.0019183    1 rice           : 吟醸
+0.0018772    1 summons        : 召還
+0.0018630    1 envoy          : 召還
+0.0018599    1 chest          : 揖譲
+0.0018446    2 plate          : 生還, 還る
+0.0018233    1 stringed       : 環
+0.0018157    1 clay           : 壌土
+0.0017948    1 comity         : 礼譲
+0.0017936    2 life           : 浮環, 還俗
+0.0017243    1 recall         : 召還
+0.0017041    2 obtain         : 譲りうける, 譲り受ける
+0.0016611    1 content        : 壌土
+0.0016607    2 purchase       : 譲りうける, 譲り受ける
+0.0016402    1 send           : 還す
+0.0016327    2 circular       : 環礁, 環濠
+0.0016261    1 front          : 揖譲
+0.0016127    2 conciliation   : 譲歩, 互譲
+0.0016110    1 cause          : 醸す
+0.0016097    2 buy            : 譲りうける, 譲り受ける
+0.0016079    1 title          : 推譲
+0.0016072    1 calling        : 召還
+0.0016038    2 system         : 帰還, 還暦
+0.0015858    1 iron           : 鉄環
+0.0015734    2 chain          : 連環, 一環
+0.0015651    2 receive        : 譲りうける, 譲り受ける
+0.0015519    1 rise           : 醸す
+0.0015432    1 hostess        : キャバ嬢
+0.0015392    2 coming         : 還り, 往還
+0.0015383    1 difference     : 雲壌
+0.0014964    1 transference   : 禅譲
+0.0014835    1 links          : 連環
+0.0014835    1 shackle        : 連環
+0.0014777    1 feedback       : 帰還
+0.0014732    1 deoxidization  : 還元
+0.0014539    1 recapture      : 奪還
+0.0014260    1 secularization : 還俗
+0.0014179    1 deportation    : 送還
+0.0014159    2 cycle          : 還暦, 循環
+0.0014130    1 looking        : 環視
+0.0013901    1 fertile        : 土壌
+0.0013822    1 amortization   : 償還
+0.0013822    1 deoxidation    : 還元
+0.0013765    1 helix          : 耳環
+0.0013765    1 earring        : 耳環
+0.0013597    1 worn           : 環
+0.0013578    2 current        : 還流, 環流
+0.0013256    1 position       : 推譲
+0.0013112    1 surviving      : 生還
+0.0012721    1 breeding       : 土壌
+0.0012471    1 go             : 還る
+0.0012432    1 linking        : 連環
+0.0012391    1 drawback       : 還付
+0.0012359    1 atoll          : 環礁
+0.0012222    1 secular        : 還俗
+0.0012213    1 electronic     : 帰還
+0.0012190    1 lived          : 還暦
+0.0012165    1 redemption     : 償還
+0.0012155    1 torus          : 円環
+0.0011858    1 refund         : 還付
+0.0011721    1 reckoning      : 還暦
+0.0011709    1 trait          : 親譲り
+0.0011708    1 repayment      : 償還
+0.0011661    1 reaching       : 生還
+0.0011601    1 great          : 雲壌
+0.0011464    1 foundation     : 土壌
+0.0011398    1 circuit        : 帰還
+0.0011398    1 biological     : 帰還
+0.0011367    1 alive          : 生還
+0.0011316    1 development    : 土壌
+0.0011302    1 made           : 環
+0.0011263    1 heir           : 禅譲
+0.0011263    1 virtuous       : 禅譲
+0.0011236    1 concede        : 譲る
+0.0011236    1 bequeath       : 譲る
+0.0011061    1 recovery       : 奪還
+0.0010626    1 birthday       : 還暦
+0.0010567    1 physique       : 親譲り
+0.0010541    1 false          : 譲葉
+0.0010404    1 resolution     : 還元
+0.0010373    1 sending        : 送還
+0.0010308    1 shogun         : 還御
+0.0010201    1 smooth         : 禅譲
+0.0010189    1 defer          : 譲る
+0.0010105    1 favor          : 禅譲
+0.0010062    1 prince         : 還啓
+0.0010029    1 customer       : 還る
+0.0009889    1 convey         : 譲る
+0.0009841    1 highway        : 往還
+0.0009717    1 coral          : 環礁
+0.0009701    1 responsibility : 禅譲
+0.0009699    1 parent         : 親譲り
+0.0009596    1 property       : 親譲り
+0.0009594    1 crown          : 還啓
+0.0009567    1 opposed        : 禅譲
+0.0009535    1 segment        : 環節
+0.0009481    1 nucleus        : 嬢核
+0.0009473    1 lots           : 分譲
+0.0009447    1 surrounded     : 環海
+0.0009426    1 guest          : 還る
+0.0009305    1 reef           : 環礁
+0.0009301    1 sexagenary     : 還暦
+0.0009288    1 postpone       : 譲る
+0.0009237    1 assign         : 譲る
+0.0009236    1 traffic        : 往還
+0.0009234    1 moat           : 環濠
+0.0009152    1 reduction      : 還元
+0.0009061    1 palace         : 還啓
+0.0008972    1 cession        : 割譲
+0.0008893    1 make           : 譲り合う
+0.0008789    1 received       : 譲り
+0.0008774    1 duty           : 還付
+0.0008730    1 worm           : 環節
+0.0008729    1 wreath         : 花環
+0.0008656    1 power          : 禅譲
+0.0008549    1 surrender      : 譲る
+0.0008546    1 shape          : 環状
+0.0008402    1 visit          : 還幸
+0.0008319    1 surrounding    : 環海
+0.0008220    1 sell           : 譲る
+0.0008200    1 yield          : 譲る
+0.0008063    1 taking         : 奪還
+0.0008009    1 garland        : 花環
+0.0007985    1 humility       : 謙譲
+0.0007956    1 annulation     : 環状
+0.0007857    1 age            : 還暦
+0.0007857    1 full           : 還暦
+0.0007716    1 seat           : 譲る
+0.0007655    1 shrine         : 還幸
+0.0007647    1 gold           : 金環
+0.0007552    1 circle         : 円環
+0.0007489    1 given          : 譲り
+0.0007485    1 leave          : 還る
+0.0007393    1 traditional    : 還暦
+0.0007392    1 monocyclic     : 一環
+0.0007187    1 custard        : 苧環
+0.0007187    1 columbine      : 苧環
+0.0007187    1 Aquilegia      : 苧環
+0.0007072    1 modesty        : 謙譲
+0.0007005    1 selling        : 分譲
+0.0006717    1 preserver      : 浮環
+0.0006717    1 lifesaver      : 浮環
+0.0006680    1 come           : 還る
+0.0006564    1 going          : 往還
+0.0006478    1 circumstance   : 環境
+0.0006464    1 bar            : キャバ嬢
+0.0006360    1 sea            : 環海
+0.0006210    1 circulation    : 循環
+0.0006134    1 environment    : 環境
+0.0006112    1 rotation       : 循環
+0.0006002    1 put            : 譲る
+0.0005855    1 buoy           : 浮環
+0.0005820    1 way            : 譲る
+0.0005711    1 territory      : 割譲
+0.0005659    1 spinster       : 老嬢
+0.0005395    1 swim           : 浮環
+0.0005316    1 hemp           : 苧環
+0.0005141    1 yarn           : 苧環
+0.0004962    1 hollow         : 苧環
+0.0004958    1 something      : 譲り
+0.0004937    1 fan            : 苧環
+0.0004837    1 swimming       : 浮環
+0.0004677    1 wound          : 苧環
+0.0004589    1 belt           : 浮環
+0.0004530    1 egg            : 苧環
+0.0004337    1 dish           : 苧環
+0.0004321    1 ball           : 苧環
+0.0004301    1 elderly        : 老嬢
+0.0004262    1 base           : 苧環
+0.0003891    1 plan           : 一環
+0.0003490    1 part           : 一環
+0.0003248    1 beloved        : 愛嬢
+0.0003168    1 young          : 令嬢
+0.0002778    1 family         : 令嬢
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0276241    3 brewing
+	brewing WORD[ 1,   1]: 0.0225933 速醸
+	brewing WORD[ 1,   2]: 0.0025154 醸造
+	brewing WORD[ 1,   3]: 0.0025154 醸成
+TOKEN[ 2]: 0.0269748   10 ring
+	ring WORD[ 2,   1]: 0.0084682 印環
+	ring WORD[ 2,   2]: 0.0051863 鐶
+	ring WORD[ 2,   3]: 0.0016164 鉄環
+	ring WORD[ 2,   4]: 0.0016022 環指
+	ring WORD[ 2,   5]: 0.0014182 外環
+	ring WORD[ 2,   6]: 0.0008819 浮環
+	ring WORD[ 2,   7]: 0.0007562 金環
+	ring WORD[ 2,   8]: 0.0007198 円環
+	ring WORD[ 2,   9]: 0.0006682 指環
+	ring WORD[ 2,  10]: 0.0004711 環状
+TOKEN[ 3]: 0.0233331    1 octillion
+	octillion WORD[ 3,   1]: 0.0233331 穣
+TOKEN[ 4]: 0.0223770    2 announcer
+	announcer WORD[ 4,   1]: 0.0111888 鴬嬢
+	announcer WORD[ 4,   2]: 0.0111882 鶯嬢
+TOKEN[ 5]: 0.0214189    3 sake
+	sake WORD[ 5,   1]: 0.0151986 速醸
+	sake WORD[ 5,   2]: 0.0046587 吟醸
+	sake WORD[ 5,   3]: 0.0015616 醸す
+TOKEN[ 6]: 0.0205111    1 abundant
+	abundant WORD[ 6,   1]: 0.0205111 豊穣
+TOKEN[ 7]: 0.0182396    2 truck
+	truck WORD[ 7,   1]: 0.0091200 鴬嬢
+	truck WORD[ 7,   2]: 0.0091196 鶯嬢
+TOKEN[ 8]: 0.0180087    1 harvest
+	harvest WORD[ 8,   1]: 0.0180087 豊穣
+TOKEN[ 9]: 0.0177439    1 crop
+	crop WORD[ 9,   1]: 0.0177439 豊穣
+TOKEN[10]: 0.0173455    1 grain
+	grain WORD[10,   1]: 0.0173455 豊穣
+TOKEN[11]: 0.0171341    3 campaign
+	campaign WORD[11,   1]: 0.0083098 鴬嬢
+	campaign WORD[11,   2]: 0.0083093 鶯嬢
+	campaign WORD[11,   3]: 0.0005150 一環
+TOKEN[12]: 0.0166191    2 election
+	election WORD[12,   1]: 0.0083098 鴬嬢
+	election WORD[12,   2]: 0.0083093 鶯嬢
+TOKEN[13]: 0.0153692    1 ten
+	ten WORD[13,   1]: 0.0153692 穣
+TOKEN[14]: 0.0150241   13 return
+	return WORD[14,   1]: 0.0043833 還都
+	return WORD[14,   2]: 0.0016561 還幸
+	return WORD[14,   3]: 0.0010934 返還
+	return WORD[14,   4]: 0.0008543 還俗
+	return WORD[14,   5]: 0.0008305 帰還
+	return WORD[14,   6]: 0.0008289 還流
+	return WORD[14,   7]: 0.0008288 還付
+	return WORD[14,   8]: 0.0008280 還元
+	return WORD[14,   9]: 0.0008280 還啓
+	return WORD[14,  10]: 0.0008279 還御
+	return WORD[14,  11]: 0.0008090 還る
+	return WORD[14,  12]: 0.0008084 還り
+	return WORD[14,  13]: 0.0004475 環流
+TOKEN[15]: 0.0142405    3 soil
+	soil WORD[15,   1]: 0.0082819 黄壌
+	soil WORD[15,   2]: 0.0048222 壌土
+	soil WORD[15,   3]: 0.0011364 土壌
+TOKEN[16]: 0.0130866    2 female
+	female WORD[16,   1]: 0.0065434 鴬嬢
+	female WORD[16,   2]: 0.0065431 鶯嬢
+TOKEN[17]: 0.0129999   13 transfer
+	transfer WORD[17,   1]: 0.0033699 譲り状
+	transfer WORD[17,   2]: 0.0026198 譲渡し
+	transfer WORD[17,   3]: 0.0010643 譲り渡し
+	transfer WORD[17,   4]: 0.0007330 譲る
+	transfer WORD[17,   5]: 0.0007329 譲りうける
+	transfer WORD[17,   6]: 0.0007329 譲り受ける
+	transfer WORD[17,   7]: 0.0005578 譲与
+	transfer WORD[17,   8]: 0.0005577 譲渡
+	transfer WORD[17,   9]: 0.0005576 譲り受け
+	transfer WORD[17,  10]: 0.0005576 譲受
+	transfer WORD[17,  11]: 0.0005576 譲受け
+	transfer WORD[17,  12]: 0.0004794 移譲
+	transfer WORD[17,  13]: 0.0004794 委譲
+TOKEN[18]: 0.0129550    2 good
+	good WORD[18,   1]: 0.0126884 豊穣
+	good WORD[18,   2]: 0.0002666 令嬢
+TOKEN[19]: 0.0124897    1 kettle
+	kettle WORD[19,   1]: 0.0062448 鐶
+TOKEN[20]: 0.0124284    1 twisted
+	twisted WORD[20,   1]: 0.0062142 鐶
+TOKEN[21]: 0.0122619    4 woman
+	woman WORD[21,   1]: 0.0059015 鴬嬢
+	woman WORD[21,   2]: 0.0059012 鶯嬢
+	woman WORD[21,   3]: 0.0002976 令嬢
+	woman WORD[21,   4]: 0.0001617 嬢
+TOKEN[22]: 0.0122483    1 signet
+	signet WORD[22,   1]: 0.0122483 印環
+TOKEN[23]: 0.0121538    1 wire
+	wire WORD[23,   1]: 0.0060769 鐶
+TOKEN[24]: 0.0120244    2 link
+	link WORD[24,   1]: 0.0057688 鐶
+	link WORD[24,   2]: 0.0004869 一環
+TOKEN[25]: 0.0118249    2 public
+	public WORD[25,   1]: 0.0059126 鴬嬢
+	public WORD[25,   2]: 0.0059123 鶯嬢
+TOKEN[26]: 0.0116104    1 loess
+	loess WORD[26,   1]: 0.0116104 黄壌
+TOKEN[27]: 0.0112872    1 lift
+	lift WORD[27,   1]: 0.0056436 鐶
+TOKEN[28]: 0.0107229    1 famous
+	famous WORD[28,   1]: 0.0107229 銘醸
+TOKEN[29]: 0.0105283    1 Hades
+	Hades WORD[29,   1]: 0.0105283 黄壌
+TOKEN[30]: 0.0104157    1 underworld
+	underworld WORD[30,   1]: 0.0104157 黄壌
+TOKEN[31]: 0.0102340    1 metal
+	metal WORD[31,   1]: 0.0051170 鐶
+TOKEN[32]: 0.0095621    1 heavy
+	heavy WORD[32,   1]: 0.0047810 鐶
+TOKEN[33]: 0.0093728    1 ceremony
+	ceremony WORD[33,   1]: 0.0046864 鐶
+TOKEN[34]: 0.0093553    1 hell
+	hell WORD[34,   1]: 0.0093553 黄壌
+TOKEN[35]: 0.0092348    1 open
+	open WORD[35,   1]: 0.0046174 鐶
+TOKEN[36]: 0.0091667    1 capital
+	capital WORD[36,   1]: 0.0091667 還都
+TOKEN[37]: 0.0089321    1 tea
+	tea WORD[37,   1]: 0.0044661 鐶
+TOKEN[38]: 0.0086476    1 winery
+	winery WORD[38,   1]: 0.0086476 銘醸
+TOKEN[39]: 0.0084523    1 yellow
+	yellow WORD[39,   1]: 0.0084523 黄壌
+TOKEN[40]: 0.0073950    1 used
+	used WORD[40,   1]: 0.0036975 鐶
+TOKEN[41]: 0.0073253    6 home
+	home WORD[41,   1]: 0.0029339 還る
+	home WORD[41,   2]: 0.0012610 召還
+	home WORD[41,   3]: 0.0008244 送還
+	home WORD[41,   4]: 0.0008202 生還
+	home WORD[41,   5]: 0.0007530 帰還
+	home WORD[41,   6]: 0.0007328 還す
+TOKEN[42]: 0.0072663    1 brewery
+	brewery WORD[42,   1]: 0.0072663 銘醸
+TOKEN[43]: 0.0071685    1 dead
+	dead WORD[43,   1]: 0.0071685 黄壌
+TOKEN[44]: 0.0070785    4 loop
+	loop WORD[44,   1]: 0.0040933 遊環
+	loop WORD[44,   2]: 0.0017662 外環
+	loop WORD[44,   3]: 0.0006322 循環
+	loop WORD[44,   4]: 0.0005868 環状
+TOKEN[45]: 0.0068304    1 world
+	world WORD[45,   1]: 0.0068304 黄壌
+TOKEN[46]: 0.0065803    2 unmarried
+	unmarried WORD[46,   1]: 0.0063545 貴嬢
+	unmarried WORD[46,   2]: 0.0002258 嬢
+TOKEN[47]: 0.0060462    5 assignment
+	assignment WORD[47,   1]: 0.0030457 譲渡し
+	assignment WORD[47,   2]: 0.0012374 譲り渡し
+	assignment WORD[47,   3]: 0.0006484 譲渡
+	assignment WORD[47,   4]: 0.0005574 移譲
+	assignment WORD[47,   5]: 0.0005573 委譲
+TOKEN[48]: 0.0055854    3 conveyance
+	conveyance WORD[48,   1]: 0.0034496 譲渡し
+	conveyance WORD[48,   2]: 0.0014014 譲り渡し
+	conveyance WORD[48,   3]: 0.0007344 譲渡
+TOKEN[49]: 0.0052692    2 engender
+	engender WORD[49,   1]: 0.0026346 醸しだす
+	engender WORD[49,   2]: 0.0026346 醸し出す
+TOKEN[50]: 0.0049080    4 give
+	give WORD[50,   1]: 0.0019240 譲る
+	give WORD[50,   2]: 0.0014612 醸す
+	give WORD[50,   3]: 0.0010506 譲り合う
+	give WORD[50,   4]: 0.0004721 互譲
+TOKEN[51]: 0.0049053    3 ground
+	ground WORD[51,   1]: 0.0023462 撃壌
+	ground WORD[51,   2]: 0.0018919 土壌
+	ground WORD[51,   3]: 0.0006672 譲る
+TOKEN[52]: 0.0048838    1 cell
+	cell WORD[52,   1]: 0.0048838 印環
+TOKEN[53]: 0.0047291    3 abdication
+	abdication WORD[53,   1]: 0.0025694 揖譲
+	abdication WORD[53,   2]: 0.0013402 禅譲
+	abdication WORD[53,   3]: 0.0008194 譲位
+TOKEN[54]: 0.0045194    1 medical
+	medical WORD[54,   1]: 0.0045194 印環
+TOKEN[55]: 0.0044885    3 earth
+	earth WORD[55,   1]: 0.0015541 天壌
+	earth WORD[55,   2]: 0.0015074 霄壌
+	earth WORD[55,   3]: 0.0014270 雲壌
+TOKEN[56]: 0.0044253    4 emperor
+	emperor WORD[56,   1]: 0.0016761 揖譲
+	emperor WORD[56,   2]: 0.0010677 奉還
+	emperor WORD[56,   3]: 0.0008742 禅譲
+	emperor WORD[56,   4]: 0.0008073 還御
+TOKEN[57]: 0.0043422    4 compromise
+	compromise WORD[57,   1]: 0.0014902 譲り合う
+	compromise WORD[57,   2]: 0.0014902 譲り合い
+	compromise WORD[57,   3]: 0.0006922 譲歩
+	compromise WORD[57,   4]: 0.0006696 互譲
+TOKEN[58]: 0.0043080    2 atmosphere
+	atmosphere WORD[58,   1]: 0.0021540 醸しだす
+	atmosphere WORD[58,   2]: 0.0021540 醸し出す
+TOKEN[59]: 0.0042889    5 inheritance
+	inheritance WORD[59,   1]: 0.0011211 親譲り
+	inheritance WORD[59,   2]: 0.0009650 譲り
+	inheritance WORD[59,   3]: 0.0007343 譲り受け
+	inheritance WORD[59,   4]: 0.0007343 譲受
+	inheritance WORD[59,   5]: 0.0007343 譲受け
+TOKEN[60]: 0.0042811    1 keeper
+	keeper WORD[60,   1]: 0.0042811 遊環
+TOKEN[61]: 0.0041049    1 former
+	former WORD[61,   1]: 0.0041049 還都
+TOKEN[62]: 0.0041014    1 government
+	government WORD[62,   1]: 0.0041014 還都
+TOKEN[63]: 0.0039195    1 strap
+	strap WORD[63,   1]: 0.0039195 遊環
+TOKEN[64]: 0.0039057    1 deed
+	deed WORD[64,   1]: 0.0039057 譲り状
+TOKEN[65]: 0.0038989    1 making
+	making WORD[65,   1]: 0.0038989 還都
+TOKEN[66]: 0.0038186    1 milled
+	milled WORD[66,   1]: 0.0038186 吟醸
+TOKEN[67]: 0.0037748    3 concession
+	concession WORD[67,   1]: 0.0022113 譲許
+	concession WORD[67,   2]: 0.0007947 譲歩
+	concession WORD[67,   3]: 0.0007688 互譲
+TOKEN[68]: 0.0037545    2 create
+	create WORD[68,   1]: 0.0018773 醸しだす
+	create WORD[68,   2]: 0.0018773 醸し出す
+TOKEN[69]: 0.0037264    1 clog
+	clog WORD[69,   1]: 0.0037264 撃壌
+TOKEN[70]: 0.0036675    2 produce
+	produce WORD[70,   1]: 0.0018338 醸しだす
+	produce WORD[70,   2]: 0.0018338 醸し出す
+TOKEN[71]: 0.0035641    1 elbow
+	elbow WORD[71,   1]: 0.0011880 環
+TOKEN[72]: 0.0035036    1 fermentation
+	fermentation WORD[72,   1]: 0.0035036 吟醸
+TOKEN[73]: 0.0034931    2 cede
+	cede WORD[73,   1]: 0.0017466 譲りわたす
+	cede WORD[73,   2]: 0.0017466 譲り渡す
+TOKEN[74]: 0.0033594    3 mutual
+	mutual WORD[74,   1]: 0.0013715 譲り合う
+	mutual WORD[74,   2]: 0.0013715 譲り合い
+	mutual WORD[74,   3]: 0.0006163 互譲
+TOKEN[75]: 0.0033238    1 watch
+	watch WORD[75,   1]: 0.0033238 遊環
+TOKEN[76]: 0.0032951    3 restoration
+	restoration WORD[76,   1]: 0.0013100 返還
+	restoration WORD[76,   2]: 0.0009930 還付
+	restoration WORD[76,   3]: 0.0009921 還元
+TOKEN[77]: 0.0032025    2 successor
+	successor WORD[77,   1]: 0.0021047 揖譲
+	successor WORD[77,   2]: 0.0010978 禅譲
+TOKEN[78]: 0.0031985    2 feeling
+	feeling WORD[78,   1]: 0.0015992 醸しだす
+	feeling WORD[78,   2]: 0.0015992 醸し出す
+TOKEN[79]: 0.0030878    1 bring
+	bring WORD[79,   1]: 0.0030878 醸す
+TOKEN[80]: 0.0030344    1 outer
+	outer WORD[80,   1]: 0.0030344 外環
+TOKEN[81]: 0.0029443    1 stamp
+	stamp WORD[81,   1]: 0.0029443 撃壌
+TOKEN[82]: 0.0029340    1 temperature
+	temperature WORD[82,   1]: 0.0029340 吟醸
+TOKEN[83]: 0.0028779    4 one
+	one WORD[83,   1]: 0.0016296 揖譲
+	one WORD[83,   2]: 0.0007860 還暦
+	one WORD[83,   3]: 0.0003416 譲る
+	one WORD[83,   4]: 0.0001208 愛嬢
+TOKEN[84]: 0.0028629    1 throwing
+	throwing WORD[84,   1]: 0.0028629 撃壌
+TOKEN[85]: 0.0028126    1 singing
+	singing WORD[85,   1]: 0.0028126 撃壌
+TOKEN[86]: 0.0026863    2 Chinese
+	Chinese WORD[86,   1]: 0.0019843 撃壌
+	Chinese WORD[86,   2]: 0.0007020 禅譲
+TOKEN[87]: 0.0025712    1 loamy
+	loamy WORD[87,   1]: 0.0025712 壌土
+TOKEN[88]: 0.0025712    1 loam
+	loam WORD[88,   1]: 0.0025712 壌土
+TOKEN[89]: 0.0025330    2 finger
+	finger WORD[89,   1]: 0.0017875 環指
+	finger WORD[89,   2]: 0.0007455 指環
+TOKEN[90]: 0.0025217    2 repatriation
+	repatriation WORD[90,   1]: 0.0013179 送還
+	repatriation WORD[90,   2]: 0.0012038 帰還
+TOKEN[91]: 0.0024587    3 turn
+	turn WORD[91,   1]: 0.0009145 譲りわたす
+	turn WORD[91,   2]: 0.0009145 譲り渡す
+	turn WORD[91,   3]: 0.0006298 譲る
+TOKEN[92]: 0.0024550    1 gymnastic
+	gymnastic WORD[92,   1]: 0.0024550 吊環
+TOKEN[93]: 0.0024191    1 wooden
+	wooden WORD[93,   1]: 0.0024191 撃壌
+TOKEN[94]: 0.0024065    4 take
+	take WORD[94,   1]: 0.0009013 譲り合う
+	take WORD[94,   2]: 0.0005501 譲りうける
+	take WORD[94,   3]: 0.0005501 譲り受ける
+	take WORD[94,   4]: 0.0004050 互譲
+TOKEN[95]: 0.0023863    3 hand
+	hand WORD[95,   1]: 0.0008875 譲りわたす
+	hand WORD[95,   2]: 0.0008875 譲り渡す
+	hand WORD[95,   3]: 0.0006112 譲る
+TOKEN[96]: 0.0023805    1 bowing
+	bowing WORD[96,   1]: 0.0023805 揖譲
+TOKEN[97]: 0.0023671    1 ancient
+	ancient WORD[97,   1]: 0.0023671 撃壌
+TOKEN[98]: 0.0023488    1 brew
+	brew WORD[98,   1]: 0.0023488 醸す
+TOKEN[99]: 0.0023487    1 low
+	low WORD[99,   1]: 0.0023487 吟醸
+TOKEN[100]: 0.0023198    1 causing
+	causing WORD[100,   1]: 0.0023198 醸成
+TOKEN[101]: 0.0022974    1 game
+	game WORD[101,   1]: 0.0022974 撃壌
+TOKEN[102]: 0.0022187    1 white
+	white WORD[102,   1]: 0.0022187 吟醸
+TOKEN[103]: 0.0021196    1 ambassador
+	ambassador WORD[103,   1]: 0.0021196 召還
+TOKEN[104]: 0.0021114    2 empress
+	empress WORD[104,   1]: 0.0010558 還啓
+	empress WORD[104,   2]: 0.0010556 還御
+TOKEN[105]: 0.0020486    2 convection
+	convection WORD[105,   1]: 0.0013304 還流
+	convection WORD[105,   2]: 0.0007182 環流
+TOKEN[106]: 0.0020422    1 bracer
+	bracer WORD[106,   1]: 0.0006807 環
+TOKEN[107]: 0.0020034    1 bracelet
+	bracelet WORD[107,   1]: 0.0006678 環
+TOKEN[108]: 0.0019999    2 someone
+	someone WORD[108,   1]: 0.0010750 還す
+	someone WORD[108,   2]: 0.0009249 召還
+TOKEN[109]: 0.0019707    1 archer
+	archer WORD[109,   1]: 0.0006569 環
+TOKEN[110]: 0.0019606    2 inherit
+	inherit WORD[110,   1]: 0.0009803 譲りうける
+	inherit WORD[110,   2]: 0.0009803 譲り受ける
+TOKEN[111]: 0.0019512    3 daughter
+	daughter WORD[111,   1]: 0.0008278 令嬢
+	daughter WORD[111,   2]: 0.0008115 嬢核
+	daughter WORD[111,   3]: 0.0003120 愛嬢
+TOKEN[112]: 0.0019452    2 reflux
+	reflux WORD[112,   1]: 0.0012632 還流
+	reflux WORD[112,   2]: 0.0006820 環流
+TOKEN[113]: 0.0019183    1 rice
+	rice WORD[113,   1]: 0.0019183 吟醸
+TOKEN[114]: 0.0018772    1 summons
+	summons WORD[114,   1]: 0.0018772 召還
+TOKEN[115]: 0.0018630    1 envoy
+	envoy WORD[115,   1]: 0.0018630 召還
+TOKEN[116]: 0.0018599    1 chest
+	chest WORD[116,   1]: 0.0018599 揖譲
+TOKEN[117]: 0.0018446    2 plate
+	plate WORD[117,   1]: 0.0009738 生還
+	plate WORD[117,   2]: 0.0008708 還る
+TOKEN[118]: 0.0018233    1 stringed
+	stringed WORD[118,   1]: 0.0006078 環
+TOKEN[119]: 0.0018157    1 clay
+	clay WORD[119,   1]: 0.0018157 壌土
+TOKEN[120]: 0.0017948    1 comity
+	comity WORD[120,   1]: 0.0017948 礼譲
+TOKEN[121]: 0.0017936    2 life
+	life WORD[121,   1]: 0.0010674 浮環
+	life WORD[121,   2]: 0.0007262 還俗
+TOKEN[122]: 0.0017243    1 recall
+	recall WORD[122,   1]: 0.0017243 召還
+TOKEN[123]: 0.0017041    2 obtain
+	obtain WORD[123,   1]: 0.0008521 譲りうける
+	obtain WORD[123,   2]: 0.0008521 譲り受ける
+TOKEN[124]: 0.0016611    1 content
+	content WORD[124,   1]: 0.0016611 壌土
+TOKEN[125]: 0.0016607    2 purchase
+	purchase WORD[125,   1]: 0.0008303 譲りうける
+	purchase WORD[125,   2]: 0.0008303 譲り受ける
+TOKEN[126]: 0.0016402    1 send
+	send WORD[126,   1]: 0.0016402 還す
+TOKEN[127]: 0.0016327    2 circular
+	circular WORD[127,   1]: 0.0008165 環礁
+	circular WORD[127,   2]: 0.0008162 環濠
+TOKEN[128]: 0.0016261    1 front
+	front WORD[128,   1]: 0.0016261 揖譲
+TOKEN[129]: 0.0016127    2 conciliation
+	conciliation WORD[129,   1]: 0.0008197 譲歩
+	conciliation WORD[129,   2]: 0.0007930 互譲
+TOKEN[130]: 0.0016110    1 cause
+	cause WORD[130,   1]: 0.0016110 醸す
+TOKEN[131]: 0.0016097    2 buy
+	buy WORD[131,   1]: 0.0008048 譲りうける
+	buy WORD[131,   2]: 0.0008048 譲り受ける
+TOKEN[132]: 0.0016079    1 title
+	title WORD[132,   1]: 0.0016079 推譲
+TOKEN[133]: 0.0016072    1 calling
+	calling WORD[133,   1]: 0.0016072 召還
+TOKEN[134]: 0.0016038    2 system
+	system WORD[134,   1]: 0.0008027 帰還
+	system WORD[134,   2]: 0.0008011 還暦
+TOKEN[135]: 0.0015858    1 iron
+	iron WORD[135,   1]: 0.0015858 鉄環
+TOKEN[136]: 0.0015734    2 chain
+	chain WORD[136,   1]: 0.0010722 連環
+	chain WORD[136,   2]: 0.0005012 一環
+TOKEN[137]: 0.0015651    2 receive
+	receive WORD[137,   1]: 0.0007825 譲りうける
+	receive WORD[137,   2]: 0.0007825 譲り受ける
+TOKEN[138]: 0.0015519    1 rise
+	rise WORD[138,   1]: 0.0015519 醸す
+TOKEN[139]: 0.0015432    1 hostess
+	hostess WORD[139,   1]: 0.0015432 キャバ嬢
+TOKEN[140]: 0.0015392    2 coming
+	coming WORD[140,   1]: 0.0007783 還り
+	coming WORD[140,   2]: 0.0007609 往還
+TOKEN[141]: 0.0015383    1 difference
+	difference WORD[141,   1]: 0.0015383 雲壌
+TOKEN[142]: 0.0014964    1 transference
+	transference WORD[142,   1]: 0.0014964 禅譲
+TOKEN[143]: 0.0014835    1 links
+	links WORD[143,   1]: 0.0014835 連環
+TOKEN[144]: 0.0014835    1 shackle
+	shackle WORD[144,   1]: 0.0014835 連環
+TOKEN[145]: 0.0014777    1 feedback
+	feedback WORD[145,   1]: 0.0014777 帰還
+TOKEN[146]: 0.0014732    1 deoxidization
+	deoxidization WORD[146,   1]: 0.0014732 還元
+TOKEN[147]: 0.0014539    1 recapture
+	recapture WORD[147,   1]: 0.0014539 奪還
+TOKEN[148]: 0.0014260    1 secularization
+	secularization WORD[148,   1]: 0.0014260 還俗
+TOKEN[149]: 0.0014179    1 deportation
+	deportation WORD[149,   1]: 0.0014179 送還
+TOKEN[150]: 0.0014159    2 cycle
+	cycle WORD[150,   1]: 0.0008954 還暦
+	cycle WORD[150,   2]: 0.0005204 循環
+TOKEN[151]: 0.0014130    1 looking
+	looking WORD[151,   1]: 0.0014130 環視
+TOKEN[152]: 0.0013901    1 fertile
+	fertile WORD[152,   1]: 0.0013901 土壌
+TOKEN[153]: 0.0013822    1 amortization
+	amortization WORD[153,   1]: 0.0013822 償還
+TOKEN[154]: 0.0013822    1 deoxidation
+	deoxidation WORD[154,   1]: 0.0013822 還元
+TOKEN[155]: 0.0013765    1 helix
+	helix WORD[155,   1]: 0.0013765 耳環
+TOKEN[156]: 0.0013765    1 earring
+	earring WORD[156,   1]: 0.0013765 耳環
+TOKEN[157]: 0.0013597    1 worn
+	worn WORD[157,   1]: 0.0004532 環
+TOKEN[158]: 0.0013578    2 current
+	current WORD[158,   1]: 0.0008817 還流
+	current WORD[158,   2]: 0.0004760 環流
+TOKEN[159]: 0.0013256    1 position
+	position WORD[159,   1]: 0.0013256 推譲
+TOKEN[160]: 0.0013112    1 surviving
+	surviving WORD[160,   1]: 0.0013112 生還
+TOKEN[161]: 0.0012721    1 breeding
+	breeding WORD[161,   1]: 0.0012721 土壌
+TOKEN[162]: 0.0012471    1 go
+	go WORD[162,   1]: 0.0012471 還る
+TOKEN[163]: 0.0012432    1 linking
+	linking WORD[163,   1]: 0.0012432 連環
+TOKEN[164]: 0.0012391    1 drawback
+	drawback WORD[164,   1]: 0.0012391 還付
+TOKEN[165]: 0.0012359    1 atoll
+	atoll WORD[165,   1]: 0.0012359 環礁
+TOKEN[166]: 0.0012222    1 secular
+	secular WORD[166,   1]: 0.0012222 還俗
+TOKEN[167]: 0.0012213    1 electronic
+	electronic WORD[167,   1]: 0.0012213 帰還
+TOKEN[168]: 0.0012190    1 lived
+	lived WORD[168,   1]: 0.0012190 還暦
+TOKEN[169]: 0.0012165    1 redemption
+	redemption WORD[169,   1]: 0.0012165 償還
+TOKEN[170]: 0.0012155    1 torus
+	torus WORD[170,   1]: 0.0012155 円環
+TOKEN[171]: 0.0011858    1 refund
+	refund WORD[171,   1]: 0.0011858 還付
+TOKEN[172]: 0.0011721    1 reckoning
+	reckoning WORD[172,   1]: 0.0011721 還暦
+TOKEN[173]: 0.0011709    1 trait
+	trait WORD[173,   1]: 0.0011709 親譲り
+TOKEN[174]: 0.0011708    1 repayment
+	repayment WORD[174,   1]: 0.0011708 償還
+TOKEN[175]: 0.0011661    1 reaching
+	reaching WORD[175,   1]: 0.0011661 生還
+TOKEN[176]: 0.0011601    1 great
+	great WORD[176,   1]: 0.0011601 雲壌
+TOKEN[177]: 0.0011464    1 foundation
+	foundation WORD[177,   1]: 0.0011464 土壌
+TOKEN[178]: 0.0011398    1 circuit
+	circuit WORD[178,   1]: 0.0011398 帰還
+TOKEN[179]: 0.0011398    1 biological
+	biological WORD[179,   1]: 0.0011398 帰還
+TOKEN[180]: 0.0011367    1 alive
+	alive WORD[180,   1]: 0.0011367 生還
+TOKEN[181]: 0.0011316    1 development
+	development WORD[181,   1]: 0.0011316 土壌
+TOKEN[182]: 0.0011302    1 made
+	made WORD[182,   1]: 0.0003767 環
+TOKEN[183]: 0.0011263    1 heir
+	heir WORD[183,   1]: 0.0011263 禅譲
+TOKEN[184]: 0.0011263    1 virtuous
+	virtuous WORD[184,   1]: 0.0011263 禅譲
+TOKEN[185]: 0.0011236    1 concede
+	concede WORD[185,   1]: 0.0011236 譲る
+TOKEN[186]: 0.0011236    1 bequeath
+	bequeath WORD[186,   1]: 0.0011236 譲る
+TOKEN[187]: 0.0011061    1 recovery
+	recovery WORD[187,   1]: 0.0011061 奪還
+TOKEN[188]: 0.0010626    1 birthday
+	birthday WORD[188,   1]: 0.0010626 還暦
+TOKEN[189]: 0.0010567    1 physique
+	physique WORD[189,   1]: 0.0010567 親譲り
+TOKEN[190]: 0.0010541    1 false
+	false WORD[190,   1]: 0.0010541 譲葉
+TOKEN[191]: 0.0010404    1 resolution
+	resolution WORD[191,   1]: 0.0010404 還元
+TOKEN[192]: 0.0010373    1 sending
+	sending WORD[192,   1]: 0.0010373 送還
+TOKEN[193]: 0.0010308    1 shogun
+	shogun WORD[193,   1]: 0.0010308 還御
+TOKEN[194]: 0.0010201    1 smooth
+	smooth WORD[194,   1]: 0.0010201 禅譲
+TOKEN[195]: 0.0010189    1 defer
+	defer WORD[195,   1]: 0.0010189 譲る
+TOKEN[196]: 0.0010105    1 favor
+	favor WORD[196,   1]: 0.0010105 禅譲
+TOKEN[197]: 0.0010062    1 prince
+	prince WORD[197,   1]: 0.0010062 還啓
+TOKEN[198]: 0.0010029    1 customer
+	customer WORD[198,   1]: 0.0010029 還る
+TOKEN[199]: 0.0009889    1 convey
+	convey WORD[199,   1]: 0.0009889 譲る
+TOKEN[200]: 0.0009841    1 highway
+	highway WORD[200,   1]: 0.0009841 往還
+TOKEN[201]: 0.0009717    1 coral
+	coral WORD[201,   1]: 0.0009717 環礁
+TOKEN[202]: 0.0009701    1 responsibility
+	responsibility WORD[202,   1]: 0.0009701 禅譲
+TOKEN[203]: 0.0009699    1 parent
+	parent WORD[203,   1]: 0.0009699 親譲り
+TOKEN[204]: 0.0009596    1 property
+	property WORD[204,   1]: 0.0009596 親譲り
+TOKEN[205]: 0.0009594    1 crown
+	crown WORD[205,   1]: 0.0009594 還啓
+TOKEN[206]: 0.0009567    1 opposed
+	opposed WORD[206,   1]: 0.0009567 禅譲
+TOKEN[207]: 0.0009535    1 segment
+	segment WORD[207,   1]: 0.0009535 環節
+TOKEN[208]: 0.0009481    1 nucleus
+	nucleus WORD[208,   1]: 0.0009481 嬢核
+TOKEN[209]: 0.0009473    1 lots
+	lots WORD[209,   1]: 0.0009473 分譲
+TOKEN[210]: 0.0009447    1 surrounded
+	surrounded WORD[210,   1]: 0.0009447 環海
+TOKEN[211]: 0.0009426    1 guest
+	guest WORD[211,   1]: 0.0009426 還る
+TOKEN[212]: 0.0009305    1 reef
+	reef WORD[212,   1]: 0.0009305 環礁
+TOKEN[213]: 0.0009301    1 sexagenary
+	sexagenary WORD[213,   1]: 0.0009301 還暦
+TOKEN[214]: 0.0009288    1 postpone
+	postpone WORD[214,   1]: 0.0009288 譲る
+TOKEN[215]: 0.0009237    1 assign
+	assign WORD[215,   1]: 0.0009237 譲る
+TOKEN[216]: 0.0009236    1 traffic
+	traffic WORD[216,   1]: 0.0009236 往還
+TOKEN[217]: 0.0009234    1 moat
+	moat WORD[217,   1]: 0.0009234 環濠
+TOKEN[218]: 0.0009152    1 reduction
+	reduction WORD[218,   1]: 0.0009152 還元
+TOKEN[219]: 0.0009061    1 palace
+	palace WORD[219,   1]: 0.0009061 還啓
+TOKEN[220]: 0.0008972    1 cession
+	cession WORD[220,   1]: 0.0008972 割譲
+TOKEN[221]: 0.0008893    1 make
+	make WORD[221,   1]: 0.0008893 譲り合う
+TOKEN[222]: 0.0008789    1 received
+	received WORD[222,   1]: 0.0008789 譲り
+TOKEN[223]: 0.0008774    1 duty
+	duty WORD[223,   1]: 0.0008774 還付
+TOKEN[224]: 0.0008730    1 worm
+	worm WORD[224,   1]: 0.0008730 環節
+TOKEN[225]: 0.0008729    1 wreath
+	wreath WORD[225,   1]: 0.0008729 花環
+TOKEN[226]: 0.0008656    1 power
+	power WORD[226,   1]: 0.0008656 禅譲
+TOKEN[227]: 0.0008549    1 surrender
+	surrender WORD[227,   1]: 0.0008549 譲る
+TOKEN[228]: 0.0008546    1 shape
+	shape WORD[228,   1]: 0.0008546 環状
+TOKEN[229]: 0.0008402    1 visit
+	visit WORD[229,   1]: 0.0008402 還幸
+TOKEN[230]: 0.0008319    1 surrounding
+	surrounding WORD[230,   1]: 0.0008319 環海
+TOKEN[231]: 0.0008220    1 sell
+	sell WORD[231,   1]: 0.0008220 譲る
+TOKEN[232]: 0.0008200    1 yield
+	yield WORD[232,   1]: 0.0008200 譲る
+TOKEN[233]: 0.0008063    1 taking
+	taking WORD[233,   1]: 0.0008063 奪還
+TOKEN[234]: 0.0008009    1 garland
+	garland WORD[234,   1]: 0.0008009 花環
+TOKEN[235]: 0.0007985    1 humility
+	humility WORD[235,   1]: 0.0007985 謙譲
+TOKEN[236]: 0.0007956    1 annulation
+	annulation WORD[236,   1]: 0.0007956 環状
+TOKEN[237]: 0.0007857    1 age
+	age WORD[237,   1]: 0.0007857 還暦
+TOKEN[238]: 0.0007857    1 full
+	full WORD[238,   1]: 0.0007857 還暦
+TOKEN[239]: 0.0007716    1 seat
+	seat WORD[239,   1]: 0.0007716 譲る
+TOKEN[240]: 0.0007655    1 shrine
+	shrine WORD[240,   1]: 0.0007655 還幸
+TOKEN[241]: 0.0007647    1 gold
+	gold WORD[241,   1]: 0.0007647 金環
+TOKEN[242]: 0.0007552    1 circle
+	circle WORD[242,   1]: 0.0007552 円環
+TOKEN[243]: 0.0007489    1 given
+	given WORD[243,   1]: 0.0007489 譲り
+TOKEN[244]: 0.0007485    1 leave
+	leave WORD[244,   1]: 0.0007485 還る
+TOKEN[245]: 0.0007393    1 traditional
+	traditional WORD[245,   1]: 0.0007393 還暦
+TOKEN[246]: 0.0007392    1 monocyclic
+	monocyclic WORD[246,   1]: 0.0007392 一環
+TOKEN[247]: 0.0007187    1 custard
+	custard WORD[247,   1]: 0.0007187 苧環
+TOKEN[248]: 0.0007187    1 columbine
+	columbine WORD[248,   1]: 0.0007187 苧環
+TOKEN[249]: 0.0007187    1 Aquilegia
+	Aquilegia WORD[249,   1]: 0.0007187 苧環
+TOKEN[250]: 0.0007072    1 modesty
+	modesty WORD[250,   1]: 0.0007072 謙譲
+TOKEN[251]: 0.0007005    1 selling
+	selling WORD[251,   1]: 0.0007005 分譲
+TOKEN[252]: 0.0006717    1 preserver
+	preserver WORD[252,   1]: 0.0006717 浮環
+TOKEN[253]: 0.0006717    1 lifesaver
+	lifesaver WORD[253,   1]: 0.0006717 浮環
+TOKEN[254]: 0.0006680    1 come
+	come WORD[254,   1]: 0.0006680 還る
+TOKEN[255]: 0.0006564    1 going
+	going WORD[255,   1]: 0.0006564 往還
+TOKEN[256]: 0.0006478    1 circumstance
+	circumstance WORD[256,   1]: 0.0006478 環境
+TOKEN[257]: 0.0006464    1 bar
+	bar WORD[257,   1]: 0.0006464 キャバ嬢
+TOKEN[258]: 0.0006360    1 sea
+	sea WORD[258,   1]: 0.0006360 環海
+TOKEN[259]: 0.0006210    1 circulation
+	circulation WORD[259,   1]: 0.0006210 循環
+TOKEN[260]: 0.0006134    1 environment
+	environment WORD[260,   1]: 0.0006134 環境
+TOKEN[261]: 0.0006112    1 rotation
+	rotation WORD[261,   1]: 0.0006112 循環
+TOKEN[262]: 0.0006002    1 put
+	put WORD[262,   1]: 0.0006002 譲る
+TOKEN[263]: 0.0005855    1 buoy
+	buoy WORD[263,   1]: 0.0005855 浮環
+TOKEN[264]: 0.0005820    1 way
+	way WORD[264,   1]: 0.0005820 譲る
+TOKEN[265]: 0.0005711    1 territory
+	territory WORD[265,   1]: 0.0005711 割譲
+TOKEN[266]: 0.0005659    1 spinster
+	spinster WORD[266,   1]: 0.0005659 老嬢
+TOKEN[267]: 0.0005395    1 swim
+	swim WORD[267,   1]: 0.0005395 浮環
+TOKEN[268]: 0.0005316    1 hemp
+	hemp WORD[268,   1]: 0.0005316 苧環
+TOKEN[269]: 0.0005141    1 yarn
+	yarn WORD[269,   1]: 0.0005141 苧環
+TOKEN[270]: 0.0004962    1 hollow
+	hollow WORD[270,   1]: 0.0004962 苧環
+TOKEN[271]: 0.0004958    1 something
+	something WORD[271,   1]: 0.0004958 譲り
+TOKEN[272]: 0.0004937    1 fan
+	fan WORD[272,   1]: 0.0004937 苧環
+TOKEN[273]: 0.0004837    1 swimming
+	swimming WORD[273,   1]: 0.0004837 浮環
+TOKEN[274]: 0.0004677    1 wound
+	wound WORD[274,   1]: 0.0004677 苧環
+TOKEN[275]: 0.0004589    1 belt
+	belt WORD[275,   1]: 0.0004589 浮環
+TOKEN[276]: 0.0004530    1 egg
+	egg WORD[276,   1]: 0.0004530 苧環
+TOKEN[277]: 0.0004337    1 dish
+	dish WORD[277,   1]: 0.0004337 苧環
+TOKEN[278]: 0.0004321    1 ball
+	ball WORD[278,   1]: 0.0004321 苧環
+TOKEN[279]: 0.0004301    1 elderly
+	elderly WORD[279,   1]: 0.0004301 老嬢
+TOKEN[280]: 0.0004262    1 base
+	base WORD[280,   1]: 0.0004262 苧環
+TOKEN[281]: 0.0003891    1 plan
+	plan WORD[281,   1]: 0.0003891 一環
+TOKEN[282]: 0.0003490    1 part
+	part WORD[282,   1]: 0.0003490 一環
+TOKEN[283]: 0.0003248    1 beloved
+	beloved WORD[283,   1]: 0.0003248 愛嬢
+TOKEN[284]: 0.0003168    1 young
+	young WORD[284,   1]: 0.0003168 令嬢
+TOKEN[285]: 0.0002778    1 family
+	family WORD[285,   1]: 0.0002778 令嬢

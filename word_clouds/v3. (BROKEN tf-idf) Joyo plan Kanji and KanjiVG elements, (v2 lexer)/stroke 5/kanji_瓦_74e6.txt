@@ -1,0 +1,238 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.4523436    1 ridge          : 棟瓦
+0.4168373   10 tile           : 棟瓦, 石瓦, 瓦屋, 瓦窯, 丸瓦, 屋根瓦, 巴瓦, 鬼瓦, 瓦当, 瓦石
+0.0244034    8 roof           : 石瓦, 瓦屋, 瓦屋根, 丸瓦, 平瓦, 屋根瓦, 瓦当, 瓦石
+0.0151885    1 slate          : 石瓦
+0.0074167    2 tiled          : 瓦屋, 瓦屋根
+0.0064714    2 kiln           : 瓦窯, 瓦屋
+0.0043512    1 Trametes       : 瓦茸
+0.0043499    1 tiler          : 瓦屋
+0.0039786    2 house          : 瓦家, 瓦屋
+0.0037791    1 versicolor     : 瓦茸
+0.0037143    1 turkey         : 瓦茸
+0.0032941    1 concave        : 平瓦
+0.0031830    1 convex         : 丸瓦
+0.0031425    2 decorative     : 鬼瓦, 瓦当
+0.0031396    1 face           : 鬼瓦
+0.0029389    1 gargoyle       : 鬼瓦
+0.0028556    1 maker          : 瓦屋
+0.0027874    1 hideous        : 鬼瓦
+0.0027547    1 dealer         : 瓦屋
+0.0026968    1 mushroom       : 瓦茸
+0.0026644    1 tail           : 瓦茸
+0.0025331    1 newspaper      : 瓦版
+0.0021563    1 demon          : 鬼瓦
+0.0020928    1 type           : 瓦版
+0.0020091    1 bearing        : 鬼瓦
+0.0018028    1 gas            : 瓦斯
+0.0010550    1 cap            : 瓦当
+0.0008647    2 brick          : 瓦石, 煉瓦
+0.0007671    1 gramme         : 瓦
+0.0006451    1 gram           : 瓦
+0.0006125    1 stock          : 瓦落
+0.0006042    2 garbage        : 瓦石, 瓦落多
+0.0005710    1 meaningless    : 瓦全
+0.0005425    2 trash          : 瓦礫, 瓦落多
+0.0005273    1 fog            : 瓦斯
+0.0005160    1 existence      : 瓦全
+0.0005132    2 rubbish        : 瓦礫, 瓦落多
+0.0004153    1 conical        : 瓦灯
+0.0004035    1 curved         : 瓦灯
+0.0003981    1 crash          : 瓦落
+0.0003847    1 pottery        : 瓦灯
+0.0003832    1 worthless      : 瓦石
+0.0003693    1 lantern        : 瓦灯
+0.0003630    1 wreckage       : 瓦礫
+0.0003500    1 sudden         : 瓦落
+0.0003412    1 rubble         : 瓦礫
+0.0003411    1 flatulence     : 瓦斯
+0.0003137    1 shape          : 瓦灯
+0.0003096    1 market         : 瓦落
+0.0003067    1 debris         : 瓦礫
+0.0003065    1 petrol         : 瓦斯
+0.0003065    1 downfall       : 瓦解
+0.0003063    1 stone          : 瓦石
+0.0002992    1 thing          : 瓦石
+0.0002975    1 cooker         : 瓦斯
+0.0002936    1 fall           : 瓦落
+0.0002905    1 gasoline       : 瓦斯
+0.0002890    1 stove          : 瓦斯
+0.0002824    1 junk           : 瓦落多
+0.0002758    1 odds           : 瓦落多
+0.0002581    1 dense          : 瓦斯
+0.0002539    1 yarn           : 瓦斯
+0.0002494    1 poison         : 瓦斯
+0.0002450    1 fuel           : 瓦斯
+0.0002446    1 collapse       : 瓦解
+0.0002314    1 range          : 瓦斯
+0.0002160    1 thick          : 瓦斯
+0.0001934    1 matter         : 瓦斯
+0.0001921    1 wind           : 瓦斯
+0.0001855    1 state          : 瓦斯
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.4523436    1 ridge
+	ridge WORD[ 1,   1]: 0.4523436 棟瓦
+TOKEN[ 2]: 0.4168373   10 tile
+	tile WORD[ 2,   1]: 0.3849234 棟瓦
+	tile WORD[ 2,   2]: 0.0116436 石瓦
+	tile WORD[ 2,   3]: 0.0075556 瓦屋
+	tile WORD[ 2,   4]: 0.0025187 瓦窯
+	tile WORD[ 2,   5]: 0.0025114 丸瓦
+	tile WORD[ 2,   6]: 0.0025111 屋根瓦
+	tile WORD[ 2,   7]: 0.0019729 巴瓦
+	tile WORD[ 2,   8]: 0.0019189 鬼瓦
+	tile WORD[ 2,   9]: 0.0009372 瓦当
+	tile WORD[ 2,  10]: 0.0003444 瓦石
+TOKEN[ 3]: 0.0244034    8 roof
+	roof WORD[ 3,   1]: 0.0111474 石瓦
+	roof WORD[ 3,   2]: 0.0024112 瓦屋
+	roof WORD[ 3,   3]: 0.0024049 瓦屋根
+	roof WORD[ 3,   4]: 0.0024044 丸瓦
+	roof WORD[ 3,   5]: 0.0024043 平瓦
+	roof WORD[ 3,   6]: 0.0024041 屋根瓦
+	roof WORD[ 3,   7]: 0.0008973 瓦当
+	roof WORD[ 3,   8]: 0.0003298 瓦石
+TOKEN[ 4]: 0.0151885    1 slate
+	slate WORD[ 4,   1]: 0.0151885 石瓦
+TOKEN[ 5]: 0.0074167    2 tiled
+	tiled WORD[ 5,   1]: 0.0037132 瓦屋
+	tiled WORD[ 5,   2]: 0.0037035 瓦屋根
+TOKEN[ 6]: 0.0064714    2 kiln
+	kiln WORD[ 6,   1]: 0.0032358 瓦窯
+	kiln WORD[ 6,   2]: 0.0032356 瓦屋
+TOKEN[ 7]: 0.0043512    1 Trametes
+	Trametes WORD[ 7,   1]: 0.0043512 瓦茸
+TOKEN[ 8]: 0.0043499    1 tiler
+	tiler WORD[ 8,   1]: 0.0043499 瓦屋
+TOKEN[ 9]: 0.0039786    2 house
+	house WORD[ 9,   1]: 0.0019893 瓦家
+	house WORD[ 9,   2]: 0.0019893 瓦屋
+TOKEN[10]: 0.0037791    1 versicolor
+	versicolor WORD[10,   1]: 0.0037791 瓦茸
+TOKEN[11]: 0.0037143    1 turkey
+	turkey WORD[11,   1]: 0.0037143 瓦茸
+TOKEN[12]: 0.0032941    1 concave
+	concave WORD[12,   1]: 0.0032941 平瓦
+TOKEN[13]: 0.0031830    1 convex
+	convex WORD[13,   1]: 0.0031830 丸瓦
+TOKEN[14]: 0.0031425    2 decorative
+	decorative WORD[14,   1]: 0.0021113 鬼瓦
+	decorative WORD[14,   2]: 0.0010312 瓦当
+TOKEN[15]: 0.0031396    1 face
+	face WORD[15,   1]: 0.0031396 鬼瓦
+TOKEN[16]: 0.0029389    1 gargoyle
+	gargoyle WORD[16,   1]: 0.0029389 鬼瓦
+TOKEN[17]: 0.0028556    1 maker
+	maker WORD[17,   1]: 0.0028556 瓦屋
+TOKEN[18]: 0.0027874    1 hideous
+	hideous WORD[18,   1]: 0.0027874 鬼瓦
+TOKEN[19]: 0.0027547    1 dealer
+	dealer WORD[19,   1]: 0.0027547 瓦屋
+TOKEN[20]: 0.0026968    1 mushroom
+	mushroom WORD[20,   1]: 0.0026968 瓦茸
+TOKEN[21]: 0.0026644    1 tail
+	tail WORD[21,   1]: 0.0026644 瓦茸
+TOKEN[22]: 0.0025331    1 newspaper
+	newspaper WORD[22,   1]: 0.0025331 瓦版
+TOKEN[23]: 0.0021563    1 demon
+	demon WORD[23,   1]: 0.0021563 鬼瓦
+TOKEN[24]: 0.0020928    1 type
+	type WORD[24,   1]: 0.0020928 瓦版
+TOKEN[25]: 0.0020091    1 bearing
+	bearing WORD[25,   1]: 0.0020091 鬼瓦
+TOKEN[26]: 0.0018028    1 gas
+	gas WORD[26,   1]: 0.0018028 瓦斯
+TOKEN[27]: 0.0010550    1 cap
+	cap WORD[27,   1]: 0.0010550 瓦当
+TOKEN[28]: 0.0008647    2 brick
+	brick WORD[28,   1]: 0.0004469 瓦石
+	brick WORD[28,   2]: 0.0004177 煉瓦
+TOKEN[29]: 0.0007671    1 gramme
+	gramme WORD[29,   1]: 0.0003835 瓦
+TOKEN[30]: 0.0006451    1 gram
+	gram WORD[30,   1]: 0.0003226 瓦
+TOKEN[31]: 0.0006125    1 stock
+	stock WORD[31,   1]: 0.0006125 瓦落
+TOKEN[32]: 0.0006042    2 garbage
+	garbage WORD[32,   1]: 0.0003669 瓦石
+	garbage WORD[32,   2]: 0.0002373 瓦落多
+TOKEN[33]: 0.0005710    1 meaningless
+	meaningless WORD[33,   1]: 0.0005710 瓦全
+TOKEN[34]: 0.0005425    2 trash
+	trash WORD[34,   1]: 0.0002713 瓦礫
+	trash WORD[34,   2]: 0.0002713 瓦落多
+TOKEN[35]: 0.0005273    1 fog
+	fog WORD[35,   1]: 0.0005273 瓦斯
+TOKEN[36]: 0.0005160    1 existence
+	existence WORD[36,   1]: 0.0005160 瓦全
+TOKEN[37]: 0.0005132    2 rubbish
+	rubbish WORD[37,   1]: 0.0002566 瓦礫
+	rubbish WORD[37,   2]: 0.0002566 瓦落多
+TOKEN[38]: 0.0004153    1 conical
+	conical WORD[38,   1]: 0.0004153 瓦灯
+TOKEN[39]: 0.0004035    1 curved
+	curved WORD[39,   1]: 0.0004035 瓦灯
+TOKEN[40]: 0.0003981    1 crash
+	crash WORD[40,   1]: 0.0003981 瓦落
+TOKEN[41]: 0.0003847    1 pottery
+	pottery WORD[41,   1]: 0.0003847 瓦灯
+TOKEN[42]: 0.0003832    1 worthless
+	worthless WORD[42,   1]: 0.0003832 瓦石
+TOKEN[43]: 0.0003693    1 lantern
+	lantern WORD[43,   1]: 0.0003693 瓦灯
+TOKEN[44]: 0.0003630    1 wreckage
+	wreckage WORD[44,   1]: 0.0003630 瓦礫
+TOKEN[45]: 0.0003500    1 sudden
+	sudden WORD[45,   1]: 0.0003500 瓦落
+TOKEN[46]: 0.0003412    1 rubble
+	rubble WORD[46,   1]: 0.0003412 瓦礫
+TOKEN[47]: 0.0003411    1 flatulence
+	flatulence WORD[47,   1]: 0.0003411 瓦斯
+TOKEN[48]: 0.0003137    1 shape
+	shape WORD[48,   1]: 0.0003137 瓦灯
+TOKEN[49]: 0.0003096    1 market
+	market WORD[49,   1]: 0.0003096 瓦落
+TOKEN[50]: 0.0003067    1 debris
+	debris WORD[50,   1]: 0.0003067 瓦礫
+TOKEN[51]: 0.0003065    1 petrol
+	petrol WORD[51,   1]: 0.0003065 瓦斯
+TOKEN[52]: 0.0003065    1 downfall
+	downfall WORD[52,   1]: 0.0003065 瓦解
+TOKEN[53]: 0.0003063    1 stone
+	stone WORD[53,   1]: 0.0003063 瓦石
+TOKEN[54]: 0.0002992    1 thing
+	thing WORD[54,   1]: 0.0002992 瓦石
+TOKEN[55]: 0.0002975    1 cooker
+	cooker WORD[55,   1]: 0.0002975 瓦斯
+TOKEN[56]: 0.0002936    1 fall
+	fall WORD[56,   1]: 0.0002936 瓦落
+TOKEN[57]: 0.0002905    1 gasoline
+	gasoline WORD[57,   1]: 0.0002905 瓦斯
+TOKEN[58]: 0.0002890    1 stove
+	stove WORD[58,   1]: 0.0002890 瓦斯
+TOKEN[59]: 0.0002824    1 junk
+	junk WORD[59,   1]: 0.0002824 瓦落多
+TOKEN[60]: 0.0002758    1 odds
+	odds WORD[60,   1]: 0.0002758 瓦落多
+TOKEN[61]: 0.0002581    1 dense
+	dense WORD[61,   1]: 0.0002581 瓦斯
+TOKEN[62]: 0.0002539    1 yarn
+	yarn WORD[62,   1]: 0.0002539 瓦斯
+TOKEN[63]: 0.0002494    1 poison
+	poison WORD[63,   1]: 0.0002494 瓦斯
+TOKEN[64]: 0.0002450    1 fuel
+	fuel WORD[64,   1]: 0.0002450 瓦斯
+TOKEN[65]: 0.0002446    1 collapse
+	collapse WORD[65,   1]: 0.0002446 瓦解
+TOKEN[66]: 0.0002314    1 range
+	range WORD[66,   1]: 0.0002314 瓦斯
+TOKEN[67]: 0.0002160    1 thick
+	thick WORD[67,   1]: 0.0002160 瓦斯
+TOKEN[68]: 0.0001934    1 matter
+	matter WORD[68,   1]: 0.0001934 瓦斯
+TOKEN[69]: 0.0001921    1 wind
+	wind WORD[69,   1]: 0.0001921 瓦斯
+TOKEN[70]: 0.0001855    1 state
+	state WORD[70,   1]: 0.0001855 瓦斯

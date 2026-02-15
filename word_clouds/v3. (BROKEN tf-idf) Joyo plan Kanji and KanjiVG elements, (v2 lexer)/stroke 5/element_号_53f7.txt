@@ -1,0 +1,520 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0657356    1 Shang          : 饕餮
+0.0622938    1 covetousness   : 饕餮
+0.0604567    1 mythological   : 饕餮
+0.0590318    1 motif          : 饕餮
+0.0590318    1 avarice        : 饕餮
+0.0573564    1 creature       : 饕餮
+0.0549331    1 greed          : 饕餮
+0.0495809    2 ritual         : 饕餮, 号令
+0.0451967    2 suffix         : 号車, 号
+0.0394699   21 name           : 社号, 家号, 屋号, 法号, 別号, 追号, 山号, 年号, 商号, 号する, ...
+0.0333224    1 car            : 号車
+0.0325952    1 Chinese        : 饕餮
+0.0323691    1 train          : 号車
+0.0167267    7 sign           : 負号, 等号, 正号, 根号, 符号, 表号, 記号
+0.0154572    6 issue          : 前号, 毎号, 次号, 今号, 初号, 号
+0.0148963    6 posthumous     : 追号, 法号, 諡号, 謚号, 院号, 贈号
+0.0132911    6 title          : 尊号, 宮号, 追号, 題号, 称号, 改号
+0.0114910    3 crying         : 号哭, 号泣, 呼号
+0.0087068    7 number         : 毎号, 今号, 初号, 番号, 号令, 号数, 号
+0.0074634    1 denomination   : 社号
+0.0065525    1 preceding      : 前号
+0.0059657    3 signal         : 号音, 信号, 号砲
+0.0058019    4 symbol         : 略号, 表号, 符号, 記号
+0.0056544    1 Shinto         : 社号
+0.0054028    2 lifetime       : 諡号, 謚号
+0.0050229    1 shrine         : 社号
+0.0048256    4 code           : 略号, 符号, 記号, 暗号
+0.0047202    1 company        : 社号
+0.0045771    1 borne          : 宮号
+0.0045665    2 based          : 諡号, 謚号
+0.0043948    3 era            : 年号, 元号, 改号
+0.0042995    2 magazine       : 前号, 初号
+0.0041490    2 pseudonym      : 俳号, 雅号
+0.0041424    1 surname        : 宮号
+0.0038389    1 moan           : 哀号
+0.0036993    2 proprietorship : 家号, 屋号
+0.0036847    1 prince         : 宮号
+0.0035722    1 signature      : 調号
+0.0034360    3 trade          : 家号, 屋号, 商号
+0.0033413    2 gun            : 号砲, 号音
+0.0030360    3 imperial       : 院号, 年号, 元号
+0.0030221    2 negative       : 負号, 符号
+0.0030031    2 positive       : 正号, 符号
+0.0030029    2 alias          : 雅号, 号する
+0.0029784    1 periodical     : 今号
+0.0029282    1 blood          : 宮号
+0.0029207    1 key            : 調号
+0.0028473    2 size           : 号数, 号
+0.0027896    2 sole           : 家号, 屋号
+0.0027498    2 mark           : 略号, 符号
+0.0026830    2 Buddhist       : 法号, 院号
+0.0026713    1 legal          : 前号
+0.0026417    2 temple         : 寺号, 山号
+0.0026358    2 actor          : 家号, 屋号
+0.0025950    1 text           : 前号
+0.0025830    1 next           : 次号
+0.0025375    1 gradational    : 号俸
+0.0025216    1 house          : 宮号
+0.0025027    1 item           : 前号
+0.0024970    1 head           : 宮号
+0.0024191    1 renown         : 名号
+0.0023919    2 starting       : 号音, 号砲
+0.0023675    3 one            : 諡号, 謚号, 号泣
+0.0023441    1 prefixed       : 山号
+0.0023246    2 store          : 家号, 屋号
+0.0023212    2 stage          : 家号, 屋号
+0.0022885    1 last           : 前号
+0.0021426    1 siren          : 号笛
+0.0020777    1 emblem         : 表号
+0.0020633    1 honorary       : 尊号
+0.0020572    2 type           : 初号, 号数
+0.0020491    1 poet           : 俳号
+0.0020016    1 equality       : 等号
+0.0019941    1 fame           : 名号
+0.0019668    1 traffic        : 信号
+0.0019558    1 honorific      : 山号
+0.0018999    1 plume          : 雅号
+0.0018532    1 prayer         : 名号
+0.0018013    1 deceased       : 追号
+0.0017930    1 whistle        : 号笛
+0.0017223    1 priest         : 法号
+0.0016597    1 salary         : 号俸
+0.0016566    1 empress        : 院号
+0.0015824    1 Buddha         : 名号
+0.0015726    1 bellow         : 怒号
+0.0015626    1 given          : 追号
+0.0015615    1 honor          : 尊号
+0.0015412    1 sobriquet      : 号
+0.0015103    1 root           : 根号
+0.0015069    1 pen            : 雅号
+0.0014756    1 change         : 改号
+0.0014393    1 proclaiming    : 呼号
+0.0014228    1 radical        : 根号
+0.0013000    1 country        : 国号
+0.0012908    1 mountain       : 山号
+0.0012783    1 first          : 初号
+0.0012765    1 emperor        : 院号
+0.0012692    1 roar           : 怒号
+0.0012692    1 sound          : 号音
+0.0012659    2 Japanese       : 年号, 元号
+0.0012339    1 needles        : 号
+0.0012307    1 former         : 院号
+0.0012276    1 bowing         : 号令
+0.0012275    1 boast          : 号する
+0.0012213    1 announce       : 号する
+0.0012063    1 angry          : 怒号
+0.0012013    1 used           : 名号
+0.0011890    1 lamentation    : 号泣
+0.0011844    1 declare        : 号する
+0.0011699    1 cipher         : 暗号
+0.0011635    1 exaggerated    : 呼号
+0.0011381    1 knitting       : 号
+0.0011295    1 character      : 院号
+0.0011285    1 series         : 番号
+0.0010851    1 flood          : 号泣
+0.0010829    1 noise          : 号泣
+0.0010766    1 weeping        : 号泣
+0.0010718    1 password       : 暗号
+0.0010597    1 claim          : 呼号
+0.0010442    1 notation       : 記号
+0.0010101    1 extra          : 号外
+0.0010076    1 edition        : 号
+0.0009827    1 firm           : 商号
+0.0009742    1 attached       : 号
+0.0009634    1 degree         : 称号
+0.0009597    1 model          : 号
+0.0009539    1 breaking       : 号泣
+0.0009515    1 newspaper      : 号外
+0.0009476    1 command        : 号令
+0.0009306    1 printing       : 号
+0.0008332    1 class          : 号令
+0.0008188    1 start          : 号令
+0.0008057    1 second         : 号する
+0.0007889    1 making         : 号泣
+0.0007868    1 group          : 号
+0.0007699    1 part           : 号
+0.0007583    1 light          : 信号
+0.0007425    1 order          : 号令
+0.0007230    1 end            : 号令
+0.0007111    1 school         : 号令
+0.0007043    1 people         : 号令
+0.0006726    1 take           : 号する
+0.0006553    1 make           : 号
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0657356    1 Shang
+	Shang WORD[ 1,   1]: 0.0657356 饕餮
+TOKEN[ 2]: 0.0622938    1 covetousness
+	covetousness WORD[ 2,   1]: 0.0622938 饕餮
+TOKEN[ 3]: 0.0604567    1 mythological
+	mythological WORD[ 3,   1]: 0.0604567 饕餮
+TOKEN[ 4]: 0.0590318    1 motif
+	motif WORD[ 4,   1]: 0.0590318 饕餮
+TOKEN[ 5]: 0.0590318    1 avarice
+	avarice WORD[ 5,   1]: 0.0590318 饕餮
+TOKEN[ 6]: 0.0573564    1 creature
+	creature WORD[ 6,   1]: 0.0573564 饕餮
+TOKEN[ 7]: 0.0549331    1 greed
+	greed WORD[ 7,   1]: 0.0549331 饕餮
+TOKEN[ 8]: 0.0495809    2 ritual
+	ritual WORD[ 8,   1]: 0.0485656 饕餮
+	ritual WORD[ 8,   2]: 0.0010153 号令
+TOKEN[ 9]: 0.0451967    2 suffix
+	suffix WORD[ 9,   1]: 0.0440412 号車
+	suffix WORD[ 9,   2]: 0.0011554 号
+TOKEN[10]: 0.0394699   21 name
+	name WORD[10,   1]: 0.0045861 社号
+	name WORD[10,   2]: 0.0030620 家号
+	name WORD[10,   3]: 0.0030620 屋号
+	name WORD[10,   4]: 0.0027700 法号
+	name WORD[10,   5]: 0.0026526 別号
+	name WORD[10,   6]: 0.0026439 追号
+	name WORD[10,   7]: 0.0023903 山号
+	name WORD[10,   8]: 0.0017838 年号
+	name WORD[10,   9]: 0.0015568 商号
+	name WORD[10,  10]: 0.0015165 号する
+	name WORD[10,  11]: 0.0014998 元号
+	name WORD[10,  12]: 0.0013962 名号
+	name WORD[10,  13]: 0.0012130 寺号
+	name WORD[10,  14]: 0.0012130 諡号
+	name WORD[10,  15]: 0.0012130 謚号
+	name WORD[10,  16]: 0.0011813 国号
+	name WORD[10,  17]: 0.0011241 雅号
+	name WORD[10,  18]: 0.0011036 院号
+	name WORD[10,  19]: 0.0008018 贈号
+	name WORD[10,  20]: 0.0007784 称号
+	name WORD[10,  21]: 0.0007085 改号
+TOKEN[11]: 0.0333224    1 car
+	car WORD[11,   1]: 0.0333224 号車
+TOKEN[12]: 0.0325952    1 Chinese
+	Chinese WORD[12,   1]: 0.0325952 饕餮
+TOKEN[13]: 0.0323691    1 train
+	train WORD[13,   1]: 0.0323691 号車
+TOKEN[14]: 0.0167267    7 sign
+	sign WORD[14,   1]: 0.0032316 負号
+	sign WORD[14,   2]: 0.0030107 等号
+	sign WORD[14,   3]: 0.0029162 正号
+	sign WORD[14,   4]: 0.0028578 根号
+	sign WORD[14,   5]: 0.0022472 符号
+	sign WORD[14,   6]: 0.0015938 表号
+	sign WORD[14,   7]: 0.0008694 記号
+TOKEN[15]: 0.0154572    6 issue
+	issue WORD[15,   1]: 0.0052299 前号
+	issue WORD[15,   2]: 0.0030417 毎号
+	issue WORD[15,   3]: 0.0026867 次号
+	issue WORD[15,   4]: 0.0020776 今号
+	issue WORD[15,   5]: 0.0014961 初号
+	issue WORD[15,   6]: 0.0009252 号
+TOKEN[16]: 0.0148963    6 posthumous
+	posthumous WORD[16,   1]: 0.0041139 追号
+	posthumous WORD[16,   2]: 0.0021551 法号
+	posthumous WORD[16,   3]: 0.0018875 諡号
+	posthumous WORD[16,   4]: 0.0018875 謚号
+	posthumous WORD[16,   5]: 0.0017173 院号
+	posthumous WORD[16,   6]: 0.0012476 贈号
+TOKEN[17]: 0.0132911    6 title
+	title WORD[17,   1]: 0.0047812 尊号
+	title WORD[17,   2]: 0.0032942 宮号
+	title WORD[17,   3]: 0.0017018 追号
+	title WORD[17,   4]: 0.0015997 題号
+	title WORD[17,   5]: 0.0010021 称号
+	title WORD[17,   6]: 0.0009121 改号
+TOKEN[18]: 0.0114910    3 crying
+	crying WORD[18,   1]: 0.0074523 号哭
+	crying WORD[18,   2]: 0.0030340 号泣
+	crying WORD[18,   3]: 0.0010047 呼号
+TOKEN[19]: 0.0087068    7 number
+	number WORD[19,   1]: 0.0025188 毎号
+	number WORD[19,   2]: 0.0017205 今号
+	number WORD[19,   3]: 0.0012389 初号
+	number WORD[19,   4]: 0.0009298 番号
+	number WORD[19,   5]: 0.0007663 号令
+	number WORD[19,   6]: 0.0007663 号数
+	number WORD[19,   7]: 0.0007662 号
+TOKEN[20]: 0.0074634    1 denomination
+	denomination WORD[20,   1]: 0.0074634 社号
+TOKEN[21]: 0.0065525    1 preceding
+	preceding WORD[21,   1]: 0.0065525 前号
+TOKEN[22]: 0.0059657    3 signal
+	signal WORD[22,   1]: 0.0029931 号音
+	signal WORD[22,   2]: 0.0020011 信号
+	signal WORD[22,   3]: 0.0009715 号砲
+TOKEN[23]: 0.0058019    4 symbol
+	symbol WORD[23,   1]: 0.0018749 略号
+	symbol WORD[23,   2]: 0.0017450 表号
+	symbol WORD[23,   3]: 0.0012301 符号
+	symbol WORD[23,   4]: 0.0009519 記号
+TOKEN[24]: 0.0056544    1 Shinto
+	Shinto WORD[24,   1]: 0.0056544 社号
+TOKEN[25]: 0.0054028    2 lifetime
+	lifetime WORD[25,   1]: 0.0018009 諡号
+	lifetime WORD[25,   2]: 0.0018009 謚号
+TOKEN[26]: 0.0050229    1 shrine
+	shrine WORD[26,   1]: 0.0050229 社号
+TOKEN[27]: 0.0048256    4 code
+	code WORD[27,   1]: 0.0018361 略号
+	code WORD[27,   2]: 0.0012047 符号
+	code WORD[27,   3]: 0.0009322 記号
+	code WORD[27,   4]: 0.0008527 暗号
+TOKEN[28]: 0.0047202    1 company
+	company WORD[28,   1]: 0.0047202 社号
+TOKEN[29]: 0.0045771    1 borne
+	borne WORD[29,   1]: 0.0045771 宮号
+TOKEN[30]: 0.0045665    2 based
+	based WORD[30,   1]: 0.0015222 諡号
+	based WORD[30,   2]: 0.0015222 謚号
+TOKEN[31]: 0.0043948    3 era
+	era WORD[31,   1]: 0.0019638 年号
+	era WORD[31,   2]: 0.0016511 元号
+	era WORD[31,   3]: 0.0007800 改号
+TOKEN[32]: 0.0042995    2 magazine
+	magazine WORD[32,   1]: 0.0027349 前号
+	magazine WORD[32,   2]: 0.0015647 初号
+TOKEN[33]: 0.0041490    2 pseudonym
+	pseudonym WORD[33,   1]: 0.0022344 俳号
+	pseudonym WORD[33,   2]: 0.0019146 雅号
+TOKEN[34]: 0.0041424    1 surname
+	surname WORD[34,   1]: 0.0041424 宮号
+TOKEN[35]: 0.0038389    1 moan
+	moan WORD[35,   1]: 0.0038389 哀号
+TOKEN[36]: 0.0036993    2 proprietorship
+	proprietorship WORD[36,   1]: 0.0018497 家号
+	proprietorship WORD[36,   2]: 0.0018497 屋号
+TOKEN[37]: 0.0036847    1 prince
+	prince WORD[37,   1]: 0.0036847 宮号
+TOKEN[38]: 0.0035722    1 signature
+	signature WORD[38,   1]: 0.0035722 調号
+TOKEN[39]: 0.0034360    3 trade
+	trade WORD[39,   1]: 0.0012437 家号
+	trade WORD[39,   2]: 0.0012437 屋号
+	trade WORD[39,   3]: 0.0009485 商号
+TOKEN[40]: 0.0033413    2 gun
+	gun WORD[40,   1]: 0.0018875 号砲
+	gun WORD[40,   2]: 0.0014538 号音
+TOKEN[41]: 0.0030360    3 imperial
+	imperial WORD[41,   1]: 0.0012204 院号
+	imperial WORD[41,   2]: 0.0009863 年号
+	imperial WORD[41,   3]: 0.0008292 元号
+TOKEN[42]: 0.0030221    2 negative
+	negative WORD[42,   1]: 0.0017826 負号
+	negative WORD[42,   2]: 0.0012396 符号
+TOKEN[43]: 0.0030031    2 positive
+	positive WORD[43,   1]: 0.0016961 正号
+	positive WORD[43,   2]: 0.0013070 符号
+TOKEN[44]: 0.0030029    2 alias
+	alias WORD[44,   1]: 0.0017932 雅号
+	alias WORD[44,   2]: 0.0012096 号する
+TOKEN[45]: 0.0029784    1 periodical
+	periodical WORD[45,   1]: 0.0029784 今号
+TOKEN[46]: 0.0029282    1 blood
+	blood WORD[46,   1]: 0.0029282 宮号
+TOKEN[47]: 0.0029207    1 key
+	key WORD[47,   1]: 0.0029207 調号
+TOKEN[48]: 0.0028473    2 size
+	size WORD[48,   1]: 0.0018983 号数
+	size WORD[48,   2]: 0.0009490 号
+TOKEN[49]: 0.0027896    2 sole
+	sole WORD[49,   1]: 0.0013948 家号
+	sole WORD[49,   2]: 0.0013948 屋号
+TOKEN[50]: 0.0027498    2 mark
+	mark WORD[50,   1]: 0.0016604 略号
+	mark WORD[50,   2]: 0.0010894 符号
+TOKEN[51]: 0.0026830    2 Buddhist
+	Buddhist WORD[51,   1]: 0.0014932 法号
+	Buddhist WORD[51,   2]: 0.0011898 院号
+TOKEN[52]: 0.0026713    1 legal
+	legal WORD[52,   1]: 0.0026713 前号
+TOKEN[53]: 0.0026417    2 temple
+	temple WORD[53,   1]: 0.0013307 寺号
+	temple WORD[53,   2]: 0.0013110 山号
+TOKEN[54]: 0.0026358    2 actor
+	actor WORD[54,   1]: 0.0013179 家号
+	actor WORD[54,   2]: 0.0013179 屋号
+TOKEN[55]: 0.0025950    1 text
+	text WORD[55,   1]: 0.0025950 前号
+TOKEN[56]: 0.0025830    1 next
+	next WORD[56,   1]: 0.0025830 次号
+TOKEN[57]: 0.0025375    1 gradational
+	gradational WORD[57,   1]: 0.0025375 号俸
+TOKEN[58]: 0.0025216    1 house
+	house WORD[58,   1]: 0.0025216 宮号
+TOKEN[59]: 0.0025027    1 item
+	item WORD[59,   1]: 0.0025027 前号
+TOKEN[60]: 0.0024970    1 head
+	head WORD[60,   1]: 0.0024970 宮号
+TOKEN[61]: 0.0024191    1 renown
+	renown WORD[61,   1]: 0.0024191 名号
+TOKEN[62]: 0.0023919    2 starting
+	starting WORD[62,   1]: 0.0014504 号音
+	starting WORD[62,   2]: 0.0009415 号砲
+TOKEN[63]: 0.0023675    3 one
+	one WORD[63,   1]: 0.0006531 諡号
+	one WORD[63,   2]: 0.0006531 謚号
+	one WORD[63,   3]: 0.0004082 号泣
+TOKEN[64]: 0.0023441    1 prefixed
+	prefixed WORD[64,   1]: 0.0023441 山号
+TOKEN[65]: 0.0023246    2 store
+	store WORD[65,   1]: 0.0011623 家号
+	store WORD[65,   2]: 0.0011623 屋号
+TOKEN[66]: 0.0023212    2 stage
+	stage WORD[66,   1]: 0.0011606 家号
+	stage WORD[66,   2]: 0.0011606 屋号
+TOKEN[67]: 0.0022885    1 last
+	last WORD[67,   1]: 0.0022885 前号
+TOKEN[68]: 0.0021426    1 siren
+	siren WORD[68,   1]: 0.0021426 号笛
+TOKEN[69]: 0.0020777    1 emblem
+	emblem WORD[69,   1]: 0.0020777 表号
+TOKEN[70]: 0.0020633    1 honorary
+	honorary WORD[70,   1]: 0.0020633 尊号
+TOKEN[71]: 0.0020572    2 type
+	type WORD[71,   1]: 0.0012710 初号
+	type WORD[71,   2]: 0.0007861 号数
+TOKEN[72]: 0.0020491    1 poet
+	poet WORD[72,   1]: 0.0020491 俳号
+TOKEN[73]: 0.0020016    1 equality
+	equality WORD[73,   1]: 0.0020016 等号
+TOKEN[74]: 0.0019941    1 fame
+	fame WORD[74,   1]: 0.0019941 名号
+TOKEN[75]: 0.0019668    1 traffic
+	traffic WORD[75,   1]: 0.0019668 信号
+TOKEN[76]: 0.0019558    1 honorific
+	honorific WORD[76,   1]: 0.0019558 山号
+TOKEN[77]: 0.0018999    1 plume
+	plume WORD[77,   1]: 0.0018999 雅号
+TOKEN[78]: 0.0018532    1 prayer
+	prayer WORD[78,   1]: 0.0018532 名号
+TOKEN[79]: 0.0018013    1 deceased
+	deceased WORD[79,   1]: 0.0018013 追号
+TOKEN[80]: 0.0017930    1 whistle
+	whistle WORD[80,   1]: 0.0017930 号笛
+TOKEN[81]: 0.0017223    1 priest
+	priest WORD[81,   1]: 0.0017223 法号
+TOKEN[82]: 0.0016597    1 salary
+	salary WORD[82,   1]: 0.0016597 号俸
+TOKEN[83]: 0.0016566    1 empress
+	empress WORD[83,   1]: 0.0016566 院号
+TOKEN[84]: 0.0015824    1 Buddha
+	Buddha WORD[84,   1]: 0.0015824 名号
+TOKEN[85]: 0.0015726    1 bellow
+	bellow WORD[85,   1]: 0.0015726 怒号
+TOKEN[86]: 0.0015626    1 given
+	given WORD[86,   1]: 0.0015626 追号
+TOKEN[87]: 0.0015615    1 honor
+	honor WORD[87,   1]: 0.0015615 尊号
+TOKEN[88]: 0.0015412    1 sobriquet
+	sobriquet WORD[88,   1]: 0.0015412 号
+TOKEN[89]: 0.0015103    1 root
+	root WORD[89,   1]: 0.0015103 根号
+TOKEN[90]: 0.0015069    1 pen
+	pen WORD[90,   1]: 0.0015069 雅号
+TOKEN[91]: 0.0014756    1 change
+	change WORD[91,   1]: 0.0014756 改号
+TOKEN[92]: 0.0014393    1 proclaiming
+	proclaiming WORD[92,   1]: 0.0014393 呼号
+TOKEN[93]: 0.0014228    1 radical
+	radical WORD[93,   1]: 0.0014228 根号
+TOKEN[94]: 0.0013000    1 country
+	country WORD[94,   1]: 0.0013000 国号
+TOKEN[95]: 0.0012908    1 mountain
+	mountain WORD[95,   1]: 0.0012908 山号
+TOKEN[96]: 0.0012783    1 first
+	first WORD[96,   1]: 0.0012783 初号
+TOKEN[97]: 0.0012765    1 emperor
+	emperor WORD[97,   1]: 0.0012765 院号
+TOKEN[98]: 0.0012692    1 roar
+	roar WORD[98,   1]: 0.0012692 怒号
+TOKEN[99]: 0.0012692    1 sound
+	sound WORD[99,   1]: 0.0012692 号音
+TOKEN[100]: 0.0012659    2 Japanese
+	Japanese WORD[100,   1]: 0.0006877 年号
+	Japanese WORD[100,   2]: 0.0005782 元号
+TOKEN[101]: 0.0012339    1 needles
+	needles WORD[101,   1]: 0.0012339 号
+TOKEN[102]: 0.0012307    1 former
+	former WORD[102,   1]: 0.0012307 院号
+TOKEN[103]: 0.0012276    1 bowing
+	bowing WORD[103,   1]: 0.0012276 号令
+TOKEN[104]: 0.0012275    1 boast
+	boast WORD[104,   1]: 0.0012275 号する
+TOKEN[105]: 0.0012213    1 announce
+	announce WORD[105,   1]: 0.0012213 号する
+TOKEN[106]: 0.0012063    1 angry
+	angry WORD[106,   1]: 0.0012063 怒号
+TOKEN[107]: 0.0012013    1 used
+	used WORD[107,   1]: 0.0012013 名号
+TOKEN[108]: 0.0011890    1 lamentation
+	lamentation WORD[108,   1]: 0.0011890 号泣
+TOKEN[109]: 0.0011844    1 declare
+	declare WORD[109,   1]: 0.0011844 号する
+TOKEN[110]: 0.0011699    1 cipher
+	cipher WORD[110,   1]: 0.0011699 暗号
+TOKEN[111]: 0.0011635    1 exaggerated
+	exaggerated WORD[111,   1]: 0.0011635 呼号
+TOKEN[112]: 0.0011381    1 knitting
+	knitting WORD[112,   1]: 0.0011381 号
+TOKEN[113]: 0.0011295    1 character
+	character WORD[113,   1]: 0.0011295 院号
+TOKEN[114]: 0.0011285    1 series
+	series WORD[114,   1]: 0.0011285 番号
+TOKEN[115]: 0.0010851    1 flood
+	flood WORD[115,   1]: 0.0010851 号泣
+TOKEN[116]: 0.0010829    1 noise
+	noise WORD[116,   1]: 0.0010829 号泣
+TOKEN[117]: 0.0010766    1 weeping
+	weeping WORD[117,   1]: 0.0010766 号泣
+TOKEN[118]: 0.0010718    1 password
+	password WORD[118,   1]: 0.0010718 暗号
+TOKEN[119]: 0.0010597    1 claim
+	claim WORD[119,   1]: 0.0010597 呼号
+TOKEN[120]: 0.0010442    1 notation
+	notation WORD[120,   1]: 0.0010442 記号
+TOKEN[121]: 0.0010101    1 extra
+	extra WORD[121,   1]: 0.0010101 号外
+TOKEN[122]: 0.0010076    1 edition
+	edition WORD[122,   1]: 0.0010076 号
+TOKEN[123]: 0.0009827    1 firm
+	firm WORD[123,   1]: 0.0009827 商号
+TOKEN[124]: 0.0009742    1 attached
+	attached WORD[124,   1]: 0.0009742 号
+TOKEN[125]: 0.0009634    1 degree
+	degree WORD[125,   1]: 0.0009634 称号
+TOKEN[126]: 0.0009597    1 model
+	model WORD[126,   1]: 0.0009597 号
+TOKEN[127]: 0.0009539    1 breaking
+	breaking WORD[127,   1]: 0.0009539 号泣
+TOKEN[128]: 0.0009515    1 newspaper
+	newspaper WORD[128,   1]: 0.0009515 号外
+TOKEN[129]: 0.0009476    1 command
+	command WORD[129,   1]: 0.0009476 号令
+TOKEN[130]: 0.0009306    1 printing
+	printing WORD[130,   1]: 0.0009306 号
+TOKEN[131]: 0.0008332    1 class
+	class WORD[131,   1]: 0.0008332 号令
+TOKEN[132]: 0.0008188    1 start
+	start WORD[132,   1]: 0.0008188 号令
+TOKEN[133]: 0.0008057    1 second
+	second WORD[133,   1]: 0.0008057 号する
+TOKEN[134]: 0.0007889    1 making
+	making WORD[134,   1]: 0.0007889 号泣
+TOKEN[135]: 0.0007868    1 group
+	group WORD[135,   1]: 0.0007868 号
+TOKEN[136]: 0.0007699    1 part
+	part WORD[136,   1]: 0.0007699 号
+TOKEN[137]: 0.0007583    1 light
+	light WORD[137,   1]: 0.0007583 信号
+TOKEN[138]: 0.0007425    1 order
+	order WORD[138,   1]: 0.0007425 号令
+TOKEN[139]: 0.0007230    1 end
+	end WORD[139,   1]: 0.0007230 号令
+TOKEN[140]: 0.0007111    1 school
+	school WORD[140,   1]: 0.0007111 号令
+TOKEN[141]: 0.0007043    1 people
+	people WORD[141,   1]: 0.0007043 号令
+TOKEN[142]: 0.0006726    1 take
+	take WORD[142,   1]: 0.0006726 号する
+TOKEN[143]: 0.0006553    1 make
+	make WORD[143,   1]: 0.0006553 号

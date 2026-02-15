@@ -1,0 +1,1675 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0662705   30 sentence       : 後文, 非文, 文尾, 誤文, 例文, 迷文, 独文, 文例, 複文, 訳文, ...
+0.0492431    1 kana           : 仮名文
+0.0392485   34 writing        : 仮名文, 乱文, 俗文, 迷文, 駄文, 日文, 戯文, 文章, 文調, 作文, ...
+0.0347447    2 composed       : 仮名文, 漢文
+0.0324280   21 text           : 仮名文, 平文, 異文, 日文, 正文, 梵文, 同文, 経文, 經文, 欧文, ...
+0.0295055   20 letter         : 仮名文, 結び文, 投げ文, 矢文, 小文字, 死文, 復文, 長文, 回文, 廻文, ...
+0.0211883    1 succeeding     : 後文
+0.0192164    2 ungrammatical  : 非文, 誤文
+0.0191875   25 literary       : 文園, 文苑, 文筆, 文壇, 右文, 詩文, 名文, 文名, 文藻, 文勢, ...
+0.0176784    2 verse          : 律文, 韻文
+0.0169766   18 literature     : 日文, 中文, 独文, 文芸, 文藝, 時文, 詩文, 古文, 狂文, 芸文, ...
+0.0168181   19 era            : 文安, 文和, 文永, 文暦, 文応, 文保, 文亀, 延文, 文久, 元文, ...
+0.0151699    1 following      : 後文
+0.0144623    1 legal          : 律文
+0.0085474   10 written        : 中文, 告文, 文言, 文語, 一文字, 誓文, 成文, 願文, 文体, 檄文
+0.0080585    9 Japanese       : 日文, 和文, 邦文, 落し文, 文身, 三十一文字, 文楽, 文節, 文語
+0.0076355    5 script         : 籀文, 篆文, 同文, 諺文, 古文
+0.0073595    7 prose          : 乱文, 詩文, 俳文, 美文, 文章, 散文, 作文
+0.0069634    3 figure         : 文彩, 文采, 文
+0.0065836    7 Chinese        : 中文, 古文, 文言, 漢文, 正文, 白文, 金文
+0.0065667    7 pattern        : 擦文, 刃文, 斑文, 文様, 文型, 縄文, 文
+0.0063403    2 learning       : 学文, 文弱
+0.0062141   12 style          : 文調, 文勢, 文雅, 俗文, 候文, 行文, 文言, 雅文, 文体, 文章, ...
+0.0061823   10 passage        : 訳文, 長文, 脱文, 欠文, 闕文, 本文, 文脈, 文章, 短文, 全文
+0.0061058    1 exhibition     : 文展
+0.0060757    8 document       : 下文, 文書, 文案, 回文, 廻文, 本文, 文面, 文献
+0.0060752    3 broke          : 文なし, 文無し, 無一文
+0.0060118    5 character      : 篆文, 古文, 一文字, 文字, 一文
+0.0059387    3 penniless      : 文なし, 文無し, 無一文
+0.0056269    5 clause         : 副文, 従文, 複文, 文節, 主文
+0.0051158    8 piece          : 迷文, 俗文, 長文, 駄文, 欠文, 闕文, 短文, 主文
+0.0051124    2 speech         : 文彩, 文采
+0.0045438    6 classical      : 古文, 文言, 正文, 文体, 文語, 漢文
+0.0045108    7 language       : 中文, 文語, 邦文, 復文, 同文, 欧文, 文体
+0.0043891    5 poor           : 乱文, 駄文, 不文, 拙文, 悪文
+0.0041643    1 Sanskrit       : 梵文
+0.0039121    5 part           : 異文, 欠文, 闕文, 前文, 主文
+0.0038962    6 composition    : 名文, 文章, 文範, 短文, 撰文, 作文
+0.0037884    3 study          : 学文, 斯文, 文房
+0.0035822    5 art            : 文展, 芸文, 文筆, 文芸, 文藝
+0.0035512    3 period         : 籀文, 古文, 縄文
+0.0035257    6 culture        : 右文, 文明, 文物, 文教, 文化, 人文
+0.0035186    1 scholarship    : 学文
+0.0034990    2 seal           : 籀文, 篆文
+0.0034775    3 missing        : 欠文, 闕文, 脱文
+0.0034760    1 knotted        : 結び文
+0.0033858    2 science        : 学文, 文科
+0.0033112    2 education      : 学文, 文教
+0.0031782    1 discipline     : 学文
+0.0031713    2 official       : 下文, 文官
+0.0031601    1 German         : 独文
+0.0031573    4 anthology      : 文園, 文苑, 文選, 文集
+0.0030421    2 illiterate     : 文盲, 不文
+0.0029996    2 rambling       : 乱文, 漫文
+0.0029875    3 lacuna         : 脱文, 欠文, 闕文
+0.0028739    3 civil          : 文武官, 文治, 文官
+0.0028132    1 scraped        : 擦文
+0.0028077    5 article        : 文責, 長文, 論文, 文章, 短文
+0.0027440    3 contract       : 券文, 副文, 証文
+0.0027427    3 military       : 下文, 文武官, 文武
+0.0027181    2 edict          : 下文, 告文
+0.0027135    1 branch         : 学文
+0.0026948    1 authentic      : 正文
+0.0026691    2 earthenware    : 擦文, 縄文
+0.0026365    1 antecedent     : 文展
+0.0026211    1 knowledge      : 学文
+0.0026166    1 final          : 文尾
+0.0025824    3 treaty         : 副文, 正文, 条文
+0.0025610    4 liberal        : 文芸, 文藝, 文系, 文科
+0.0025008    4 phrase         : 秘文, 文句, 文頭, 文節
+0.0024608    3 wording        : 文責, 同文, 文言
+0.0024608    1 onward         : 籀文
+0.0024517    3 essay          : 論文, 文章, 作文
+0.0024376    4 civilization   : 文明, 文物, 文化, 人文
+0.0024324    2 design         : 円文, 文様
+0.0024178    2 end            : 文尾, 文末
+0.0023829    2 subordinate    : 従文, 副文
+0.0023699    3 unit           : 文目, 文節, 一文
+0.0023564    3 book           : 異文, 文庫, 本文
+0.0023398    1 Spring         : 籀文
+0.0023106    1 ancient        : 古文
+0.0022953    2 deed           : 券文, 証文
+0.0022932    4 inscription    : 銘文, 碑文, 撰文, 石文
+0.0022625    2 love           : 投げ文, 恋文
+0.0022436    1 dating         : 籀文
+0.0022408    2 humorous       : 戯文, 狂文
+0.0022135    2 plain          : 無文, 平文
+0.0022104    4 one            : 一文, 一文字, 文身, 複文
+0.0021517    2 palindrome     : 回文, 廻文
+0.0021421    1 hangul         : 諺文
+0.0021345    1 scripture      : 梵文
+0.0021253    1 arrow          : 矢文
+0.0021243    2 bond           : 券文, 証文
+0.0021072    2 draft          : 案文, 文案
+0.0020725    1 opposed        : 正文
+0.0020692    2 scriptural     : 経文, 經文
+0.0020357    1 Welsh          : 一文字
+0.0020260    1 English        : 英文
+0.0020125    1 hydrological   : 水文
+0.0020101    2 epitaph        : 撰文, 碑文
+0.0020012    1 crest          : 文
+0.0019943    4 used           : 文箱, 古文, 前文, 金文
+0.0019931    3 collection     : 文園, 文苑, 文庫
+0.0019898    1 Allium         : 一文字
+0.0019761    2 translation    : 訳文, 正文
+0.0019113    1 coat           : 文
+0.0019040    2 demand         : 注文, 註文
+0.0018977    2 context        : 文脈, 文理
+0.0018827    2 word           : 洋文, 呪文
+0.0018744    1 g              : 文目
+0.0018637    2 cultural       : 重文, 文運
+0.0018472    3 grammar        : 文法, 文節, 文典
+0.0018322    1 suit           : 文
+0.0018306    1 lost           : 逸文
+0.0018037    1 onion          : 一文字
+0.0018017    2 request        : 注文, 註文
+0.0018016    1 arms           : 文
+0.0017949    1 proverb        : 諺文
+0.0017813    1 work           : 逸文
+0.0017587    1 French         : 仏文
+0.0017489    2 transcendent   : 文殊, 文珠
+0.0017474    2 condition      : 注文, 註文
+0.0017385    3 law            : 明文, 舞文, 法文
+0.0017337    2 telegram       : 長文, 電文
+0.0017218    1 incomprehensible: 迷文
+0.0017007    2 main           : 主文, 正文
+0.0016978    1 card           : 文
+0.0016853    2 item           : 注文, 註文
+0.0016798    1 wood           : 擦文
+0.0016706    1 surface        : 擦文
+0.0016687    1 variant        : 異文
+0.0016671    2 spell          : 秘文, 呪文
+0.0016616    2 bad            : 乱文, 悪文
+0.0016593    1 home           : 投げ文
+0.0016578    3 world          : 文園, 文苑, 文壇
+0.0016421    1 round          : 円文
+0.0016197    1 binding        : 下文
+0.0015934    2 meaning        : 文意, 作文
+0.0015917    1 manuscript     : 異文
+0.0015413    2 talent         : 文藻, 文才
+0.0015389    2 sword          : 刃文, 文武
+0.0015204    1 large          : 籀文
+0.0015063    2 skilled        : 能文, 達文
+0.0014912    1 senior         : 下文
+0.0014862    1 worn           : 湯文字
+0.0014856    1 sample         : 文例
+0.0014721    1 status         : 下文
+0.0014662    2 subject        : 斯文, 文題
+0.0014597    2 circular       : 回文, 廻文
+0.0014462    2 elegant        : 文雅, 雅文
+0.0014432    1 Java           : 文鳥
+0.0014319    3 social         : 文理, 文系, 文科
+0.0014302    2 lettering      : 陰文, 金文
+0.0014207    2 advance        : 文運, 舞文
+0.0014128    2 order          : 注文, 註文
+0.0013917    2 poetry         : 詩文, 韻文
+0.0013854    2 administration : 文治, 文政
+0.0013748    2 works          : 詩文, 文選
+0.0013742    1 temper         : 刃文
+0.0013691    2 formal         : 文語, 作文
+0.0013660    2 redundancy     : 衍文, 冗文
+0.0013539    2 modern         : 時文, 文体
+0.0013360    1 blade          : 刃文
+0.0013267    1 box            : 文箱
+0.0013216    1 secret         : 秘文
+0.0013176    1 cruciform      : 十文字
+0.0013078    1 family         : 文
+0.0013053    1 Korean         : 諺文
+0.0013035    1 older          : 古文
+0.0013002    1 poet           : 文人
+0.0012889    2 superior       : 告文, 逸文
+0.0012811    1 farthing       : 一文
+0.0012795    1 annexure       : 副文
+0.0012747    1 European       : 欧文
+0.0012738    1 commentary     : 正文
+0.0012552    1 worth          : 文目
+0.0012546    1 included       : 正文
+0.0012435    1 unfigured      : 無文
+0.0012435    1 unpatterned    : 無文
+0.0012380    2 wisdom         : 文殊, 文珠
+0.0012327    1 coin           : 文目
+0.0012267    1 silver         : 文目
+0.0012181    1 astronomy      : 天文
+0.0012176    1 physiographical: 地文
+0.0012153    1 government     : 下文
+0.0012141    2 clothes        : 無文, 衣文
+0.0012131    1 long           : 長文
+0.0012071    1 retranslation  : 復文
+0.0011962    1 bathrobe       : 湯文字
+0.0011810    1 weight         : 文目
+0.0011768    1 man            : 文士
+0.0011592    1 cent           : 一文
+0.0011520    2 expression     : 成文, 文句
+0.0011487    2 foreword       : 撰文, 序文
+0.0011487    1 physiography   : 地文
+0.0011386    2 original       : 復文, 原文
+0.0011363    2 appeal         : 告文, 檄文
+0.0011354    1 unwritten      : 不文
+0.0011272    1 paperweight    : 文鎮
+0.0011272    1 shaddock       : 文旦
+0.0011181    2 library        : 文房, 文庫
+0.0011112    2 model          : 例文, 文範
+0.0011042    1 aru            : 候文
+0.0011025    1 mon            : 一文
+0.0010872    2 address        : 弔文, 祭文
+0.0010847    1 absorbent      : 湯文字
+0.0010773    2 dead           : 死文, 空文
+0.0010761    1 addendum       : 副文
+0.0010658    1 illiteracy     : 文盲
+0.0010648    1 pomelo         : 文旦
+0.0010636    2 person         : 文盲, 文人
+0.0010581    1 underskirt     : 湯文字
+0.0010537    1 maxima         : 文旦
+0.0010512    2 independent    : 複文, 重文
+0.0010306    1 rendering      : 訳文
+0.0010202    1 penny          : 一文
+0.0010044    1 uneducated     : 不文
+0.0010034    1 loincloth      : 湯文字
+0.0009977    1 miscellany     : 雑文
+0.0009972    1 tricky         : 舞文
+0.0009864    1 explicit       : 明文
+0.0009809    1 hack           : 売文
+0.0009755    1 epistolary     : 候文
+0.0009671    2 traditional    : 文身, 文言
+0.0009663    1 appendix       : 副文
+0.0009612    1 annex          : 副文
+0.0009605    1 password       : 秘文
+0.0009464    1 Confucian      : 斯文
+0.0009435    1 meaningless    : 死文
+0.0009405    1 attraction     : 文弱
+0.0009395    1 provision      : 明文
+0.0009379    1 inadvertent    : 衍文
+0.0009350    1 subsidiary     : 副文
+0.0009247    1 manipulation   : 舞文
+0.0009208    1 theme          : 文題
+0.0009159    1 seventh        : 文月
+0.0009118    1 colloquial     : 俗文
+0.0009017    1 spotted        : 斑文
+0.0008899    1 tiny           : 一文
+0.0008892    1 deliver        : 文箱
+0.0008885    1 incantation    : 呪文
+0.0008813    1 academic       : 斯文
+0.0008809    1 Citrus         : 文旦
+0.0008809    1 cross          : 十文字
+0.0008702    1 drapery        : 衣文
+0.0008691    1 oath           : 誓文
+0.0008635    1 illustrative   : 例文
+0.0008610    1 fame           : 文名
+0.0008552    1 respect        : 右文
+0.0008541    1 Padda          : 文鳥
+0.0008540    1 unpunctuated   : 白文
+0.0008532    1 pottery        : 無文
+0.0008485    1 poetic         : 俳文
+0.0008456    1 random         : 漫文
+0.0008449    1 currency       : 一文
+0.0008448    1 tattooing      : 文身
+0.0008402    1 version        : 訳文
+0.0008363    2 line           : 文理, 文脈
+0.0008352    1 important      : 重文
+0.0008274    1 auxiliary      : 候文
+0.0008203    1 insert         : 文香
+0.0008203    1 desk           : 文机
+0.0008133    1 clever         : 舞文
+0.0008121    1 progress       : 文運
+0.0008058    1 real           : 作文
+0.0008019    1 flavour        : 俳文
+0.0007989    1 refined        : 文雅
+0.0007981    1 reply          : 復文
+0.0007954    1 writer         : 売文
+0.0007900    1 famous         : 名文
+0.0007882    1 flavor         : 俳文
+0.0007824    1 express        : 明文
+0.0007824    1 statement      : 明文
+0.0007816    1 whole          : 全文
+0.0007791    1 kimono         : 湯文字
+0.0007756    1 flowery        : 美文
+0.0007714    1 short          : 短文
+0.0007714    1 responsibility : 文責
+0.0007705    1 epilogue       : 跋文
+0.0007667    1 epigraph       : 碑文
+0.0007646    1 vulgar         : 俗文
+0.0007641    1 funeral        : 弔文
+0.0007629    1 bath           : 湯文字
+0.0007610    1 grumbling      : 文句
+0.0007564    1 treatise       : 論文
+0.0007486    1 orient         : 文蛤
+0.0007485    1 full           : 全文
+0.0007459    1 tattoo         : 文身
+0.0007428    1 paperback      : 文庫
+0.0007417    1 engraving      : 陰文
+0.0007374    1 thesis         : 論文
+0.0007338    1 little         : 作文
+0.0007280    1 finch          : 文鳥
+0.0007280    1 stationery     : 文具
+0.0007279    1 Roman          : 欧文
+0.0007236    1 magic          : 呪文
+0.0007191    1 amount         : 一文
+0.0007153    1 argument       : 舞文
+0.0007150    1 fragment       : 逸文
+0.0007133    1 alphabet       : 文字
+0.0007101    1 difficult      : 難文
+0.0007052    1 calendar       : 文月
+0.0007028    1 charm          : 呪文
+0.0007021    2 rice           : 文鳥, 杓文字
+0.0007004    1 civilian       : 文民
+0.0006962    1 carry          : 文箱
+0.0006929    1 lunar          : 文月
+0.0006916    1 sparrow        : 文鳥
+0.0006864    1 preamble       : 前文
+0.0006811    2 type           : 祭文, 金文
+0.0006759    1 field          : 斯文
+0.0006735    1 linguistic     : 文節
+0.0006717    1 remains        : 遺文
+0.0006693    1 proposal       : 案文
+0.0006643    1 tanka          : 三十一文字
+0.0006633    1 objection      : 文句
+0.0006616    1 contents       : 文面
+0.0006581    1 prayer         : 願文
+0.0006567    1 force          : 文勢
+0.0006550    1 foregoing      : 前文
+0.0006446    1 reasoning      : 文理
+0.0006405    1 insect         : 落し文
+0.0006358    1 small          : 小文字
+0.0006314    1 report         : 告文
+0.0006309    1 complaint      : 文句
+0.0006274    1 postscript     : 跋文
+0.0006267    1 month          : 文月
+0.0006222    1 correspondence : 文通
+0.0006191    1 woman          : 湯文字
+0.0006189    1 money          : 一文
+0.0006146    1 puppet         : 文楽
+0.0006090    1 educational    : 文政
+0.0006089    1 dress          : 衣文
+0.0006047    1 use            : 舞文
+0.0005996    2 someone        : 文書, 前文
+0.0005959    1 laity          : 祭文
+0.0005955    1 doctor         : 文博
+0.0005928    1 example        : 例文
+0.0005925    1 dependent      : 複文
+0.0005871    1 road           : 落し文
+0.0005812    1 manifesto      : 檄文
+0.0005795    1 stela          : 石文
+0.0005760    1 statute        : 前文
+0.0005741    1 quality        : 逸文
+0.0005738    1 imperial       : 告文
+0.0005734    1 theater        : 文楽
+0.0005728    1 perfumed       : 文香
+0.0005711    1 grammatical    : 構文
+0.0005678    1 background     : 文脈
+0.0005666    1 Yin            : 金文
+0.0005645    1 stele          : 石文
+0.0005638    1 clam           : 文蛤
+0.0005633    1 pen            : 文武
+0.0005618    1 complex        : 複文
+0.0005604    1 selection      : 文選
+0.0005580    1 scented        : 文香
+0.0005551    1 basic          : 文節
+0.0005515    1 spoon          : 杓文字
+0.0005476    1 least          : 複文
+0.0005439    1 temple         : 願文
+0.0005430    1 shrine         : 願文
+0.0005409    1 activity       : 文筆
+0.0005393    1 preface        : 序文
+0.0005367    1 department     : 文科
+0.0005345    1 Buddhist       : 願文
+0.0005333    1 paragraph      : 全文
+0.0005272    1 based          : 文語
+0.0005251    1 poem           : 三十一文字
+0.0005242    1 reference      : 文献
+0.0005211    1 humanity       : 人文
+0.0005198    1 judicial       : 主文
+0.0005183    1 place          : 候文
+0.0005126    1 asset          : 重文
+0.0005110    1 syntax         : 構文
+0.0005072    1 ladle          : 杓文字
+0.0005029    1 constitution   : 前文
+0.0005010    1 thought        : 文脈
+0.0004950    1 event          : 文脈
+0.0004943    1 fine           : 文系
+0.0004865    1 introduction   : 序文
+0.0004847    1 course         : 文科
+0.0004841    1 remark         : 前文
+0.0004835    1 master         : 文豪
+0.0004806    1 exchange       : 文通
+0.0004768    1 scoop          : 杓文字
+0.0004748    1 bronze         : 金文
+0.0004693    1 formed         : 重文
+0.0004681    1 enclose        : 文香
+0.0004675    1 lit            : 英文
+0.0004616    1 compound       : 重文
+0.0004615    1 monument       : 石文
+0.0004554    1 matter         : 文脈
+0.0004537    1 start          : 文頭
+0.0004534    1 declaration    : 檄文
+0.0004527    1 hard           : 文理
+0.0004500    1 paper          : 論文
+0.0004313    1 property       : 重文
+0.0004306    1 decision       : 主文
+0.0004262    1 simple         : 単文
+0.0004258    1 squid          : い文字
+0.0004255    1 form           : 文体
+0.0004239    1 body           : 本文
+0.0004177    1 health         : 前文
+0.0004144    1 opening        : 前文
+0.0004138    1 common         : 文蛤
+0.0004101    1 season         : 前文
+0.0004089    1 structure      : 構文
+0.0004083    1 spread         : 祭文
+0.0004056    1 memorial       : 石文
+0.0003975    1 construction   : 構文
+0.0003899    1 song           : 祭文
+0.0003890    1 metal          : 金文
+0.0003859    1 bearing        : 石文
+0.0003849    1 wooden         : 杓文字
+0.0003818    1 act            : 条文
+0.0003803    1 national       : 国文
+0.0003616    1 future         : 石文
+0.0003598    1 mountain       : 祭文
+0.0003358    1 two            : 重文
+0.0003278    1 stone          : 石文
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0662705   30 sentence
+	sentence WORD[ 1,   1]: 0.0305335 後文
+	sentence WORD[ 1,   2]: 0.0099807 非文
+	sentence WORD[ 1,   3]: 0.0053903 文尾
+	sentence WORD[ 1,   4]: 0.0020616 誤文
+	sentence WORD[ 1,   5]: 0.0017633 例文
+	sentence WORD[ 1,   6]: 0.0013930 迷文
+	sentence WORD[ 1,   7]: 0.0013447 独文
+	sentence WORD[ 1,   8]: 0.0012378 文例
+	sentence WORD[ 1,   9]: 0.0010549 複文
+	sentence WORD[ 1,  10]: 0.0007877 訳文
+	sentence WORD[ 1,  11]: 0.0007665 文意
+	sentence WORD[ 1,  12]: 0.0007434 難文
+	sentence WORD[ 1,  13]: 0.0007232 長文
+	sentence WORD[ 1,  14]: 0.0006499 欠文
+	sentence WORD[ 1,  15]: 0.0006499 闕文
+	sentence WORD[ 1,  16]: 0.0005406 本文
+	sentence WORD[ 1,  17]: 0.0005353 文末
+	sentence WORD[ 1,  18]: 0.0005353 文頭
+	sentence WORD[ 1,  19]: 0.0005353 文中
+	sentence WORD[ 1,  20]: 0.0005352 文章
+	sentence WORD[ 1,  21]: 0.0005352 文型
+	sentence WORD[ 1,  22]: 0.0005240 洋文
+	sentence WORD[ 1,  23]: 0.0004566 短文
+	sentence WORD[ 1,  24]: 0.0004566 単文
+	sentence WORD[ 1,  25]: 0.0004458 前文
+	sentence WORD[ 1,  26]: 0.0004458 全文
+	sentence WORD[ 1,  27]: 0.0004375 重文
+	sentence WORD[ 1,  28]: 0.0004199 構文
+	sentence WORD[ 1,  29]: 0.0004014 和文
+	sentence WORD[ 1,  30]: 0.0003855 英文
+TOKEN[ 2]: 0.0492431    1 kana
+	kana WORD[ 2,   1]: 0.0492431 仮名文
+TOKEN[ 3]: 0.0392485   34 writing
+	writing WORD[ 3,   1]: 0.0134286 仮名文
+	writing WORD[ 3,   2]: 0.0027278 乱文
+	writing WORD[ 3,   3]: 0.0012171 俗文
+	writing WORD[ 3,   4]: 0.0011698 迷文
+	writing WORD[ 3,   5]: 0.0011650 駄文
+	writing WORD[ 3,   6]: 0.0011613 日文
+	writing WORD[ 3,   7]: 0.0010435 戯文
+	writing WORD[ 3,   8]: 0.0008990 文章
+	writing WORD[ 3,   9]: 0.0007377 文調
+	writing WORD[ 3,  10]: 0.0007147 作文
+	writing WORD[ 3,  11]: 0.0006828 漢文
+	writing WORD[ 3,  12]: 0.0006665 死文
+	writing WORD[ 3,  13]: 0.0006589 梵文
+	writing WORD[ 3,  14]: 0.0006357 不文
+	writing WORD[ 3,  15]: 0.0006323 文机
+	writing WORD[ 3,  16]: 0.0006131 能文
+	writing WORD[ 3,  17]: 0.0006074 長文
+	writing WORD[ 3,  18]: 0.0005868 拙文
+	writing WORD[ 3,  19]: 0.0005810 達文
+	writing WORD[ 3,  20]: 0.0005772 成文
+	writing WORD[ 3,  21]: 0.0005615 古文
+	writing WORD[ 3,  22]: 0.0005524 行文
+	writing WORD[ 3,  23]: 0.0005458 欠文
+	writing WORD[ 3,  24]: 0.0005458 闕文
+	writing WORD[ 3,  25]: 0.0005259 欧文
+	writing WORD[ 3,  26]: 0.0004738 文字
+	writing WORD[ 3,  27]: 0.0004495 文筆
+	writing WORD[ 3,  28]: 0.0004495 文書
+	writing WORD[ 3,  29]: 0.0004442 仏文
+	writing WORD[ 3,  30]: 0.0003834 短文
+	writing WORD[ 3,  31]: 0.0003742 撰文
+	writing WORD[ 3,  32]: 0.0003649 主文
+	writing WORD[ 3,  33]: 0.0003238 英文
+	writing WORD[ 3,  34]: 0.0003101 悪文
+TOKEN[ 4]: 0.0347447    2 composed
+	composed WORD[ 4,   1]: 0.0343086 仮名文
+	composed WORD[ 4,   2]: 0.0004361 漢文
+TOKEN[ 5]: 0.0324280   21 text
+	text WORD[ 5,   1]: 0.0152009 仮名文
+	text WORD[ 5,   2]: 0.0014266 平文
+	text WORD[ 5,   3]: 0.0013575 異文
+	text WORD[ 5,   4]: 0.0013145 日文
+	text WORD[ 5,   5]: 0.0010362 正文
+	text WORD[ 5,   6]: 0.0007459 梵文
+	text WORD[ 5,   7]: 0.0006724 同文
+	text WORD[ 5,   8]: 0.0006163 経文
+	text WORD[ 5,   9]: 0.0006163 經文
+	text WORD[ 5,  10]: 0.0005953 欧文
+	text WORD[ 5,  11]: 0.0005944 衍文
+	text WORD[ 5,  12]: 0.0005411 文言
+	text WORD[ 5,  13]: 0.0005139 本文
+	text WORD[ 5,  14]: 0.0005107 法文
+	text WORD[ 5,  15]: 0.0005088 文中
+	text WORD[ 5,  16]: 0.0004238 全文
+	text WORD[ 5,  17]: 0.0004164 条文
+	text WORD[ 5,  18]: 0.0004131 主文
+	text WORD[ 5,  19]: 0.0003983 原文
+	text WORD[ 5,  20]: 0.0003816 和文
+	text WORD[ 5,  21]: 0.0003665 英文
+TOKEN[ 6]: 0.0295055   20 letter
+	letter WORD[ 6,   1]: 0.0140659 仮名文
+	letter WORD[ 6,   2]: 0.0022480 結び文
+	letter WORD[ 6,   3]: 0.0018049 投げ文
+	letter WORD[ 6,   4]: 0.0018049 矢文
+	letter WORD[ 6,   5]: 0.0015349 小文字
+	letter WORD[ 6,   6]: 0.0006981 死文
+	letter WORD[ 6,   7]: 0.0006654 復文
+	letter WORD[ 6,   8]: 0.0006362 長文
+	letter WORD[ 6,   9]: 0.0005930 回文
+	letter WORD[ 6,  10]: 0.0005930 廻文
+	letter WORD[ 6,  11]: 0.0005847 落し文
+	letter WORD[ 6,  12]: 0.0005740 恋文
+	letter WORD[ 6,  13]: 0.0004962 文字
+	letter WORD[ 6,  14]: 0.0004755 本文
+	letter WORD[ 6,  15]: 0.0004709 文面
+	letter WORD[ 6,  16]: 0.0004708 文書
+	letter WORD[ 6,  17]: 0.0003922 前文
+	letter WORD[ 6,  18]: 0.0003635 空文
+	letter WORD[ 6,  19]: 0.0003531 一文
+	letter WORD[ 6,  20]: 0.0003273 文香
+TOKEN[ 7]: 0.0211883    1 succeeding
+	succeeding WORD[ 7,   1]: 0.0211883 後文
+TOKEN[ 8]: 0.0192164    2 ungrammatical
+	ungrammatical WORD[ 8,   1]: 0.0159266 非文
+	ungrammatical WORD[ 8,   2]: 0.0032898 誤文
+TOKEN[ 9]: 0.0191875   25 literary
+	literary WORD[ 9,   1]: 0.0015527 文園
+	literary WORD[ 9,   2]: 0.0015527 文苑
+	literary WORD[ 9,   3]: 0.0010841 文筆
+	literary WORD[ 9,   4]: 0.0010840 文壇
+	literary WORD[ 9,   5]: 0.0008229 右文
+	literary WORD[ 9,   6]: 0.0008036 詩文
+	literary WORD[ 9,   7]: 0.0007900 名文
+	literary WORD[ 9,   8]: 0.0007776 文名
+	literary WORD[ 9,   9]: 0.0007768 文藻
+	literary WORD[ 9,  10]: 0.0007767 文勢
+	literary WORD[ 9,  11]: 0.0007766 文事
+	literary WORD[ 9,  12]: 0.0007766 文士
+	literary WORD[ 9,  13]: 0.0007766 文才
+	literary WORD[ 9,  14]: 0.0006736 雑文
+	literary WORD[ 9,  15]: 0.0006212 遺文
+	literary WORD[ 9,  16]: 0.0006196 逸文
+	literary WORD[ 9,  17]: 0.0005764 文言
+	literary WORD[ 9,  18]: 0.0005519 雅文
+	literary WORD[ 9,  19]: 0.0005420 文武
+	literary WORD[ 9,  20]: 0.0005420 文体
+	literary WORD[ 9,  21]: 0.0005420 文選
+	literary WORD[ 9,  22]: 0.0005420 文飾
+	literary WORD[ 9,  23]: 0.0005420 文豪
+	literary WORD[ 9,  24]: 0.0005420 文語
+	literary WORD[ 9,  25]: 0.0005419 文科
+TOKEN[10]: 0.0176784    2 verse
+	verse WORD[10,   1]: 0.0169688 律文
+	verse WORD[10,   2]: 0.0007095 韻文
+TOKEN[11]: 0.0169766   18 literature
+	literature WORD[11,   1]: 0.0014274 日文
+	literature WORD[11,   2]: 0.0013933 中文
+	literature WORD[11,   3]: 0.0013881 独文
+	literature WORD[11,   4]: 0.0011049 文芸
+	literature WORD[11,   5]: 0.0011049 文藝
+	literature WORD[11,   6]: 0.0008192 時文
+	literature WORD[11,   7]: 0.0008192 詩文
+	literature WORD[11,   8]: 0.0006902 古文
+	literature WORD[11,   9]: 0.0006689 狂文
+	literature WORD[11,  10]: 0.0006688 芸文
+	literature WORD[11,  11]: 0.0006136 文博
+	literature WORD[11,  12]: 0.0005626 正文
+	literature WORD[11,  13]: 0.0005525 文献
+	literature WORD[11,  14]: 0.0005524 文学
+	literature WORD[11,  15]: 0.0005524 文科
+	literature WORD[11,  16]: 0.0005460 仏文
+	literature WORD[11,  17]: 0.0004339 国文
+	literature WORD[11,  18]: 0.0003980 英文
+TOKEN[12]: 0.0168181   19 era
+	era WORD[12,   1]: 0.0021478 文安
+	era WORD[12,   2]: 0.0015171 文和
+	era WORD[12,   3]: 0.0010752 文永
+	era WORD[12,   4]: 0.0010752 文暦
+	era WORD[12,   5]: 0.0010752 文応
+	era WORD[12,   6]: 0.0010752 文保
+	era WORD[12,   7]: 0.0010752 文亀
+	era WORD[12,   8]: 0.0010749 延文
+	era WORD[12,   9]: 0.0010741 文久
+	era WORD[12,  10]: 0.0010740 元文
+	era WORD[12,  11]: 0.0007587 文正
+	era WORD[12,  12]: 0.0006631 文治
+	era WORD[12,  13]: 0.0004626 文禄
+	era WORD[12,  14]: 0.0004626 文明
+	era WORD[12,  15]: 0.0004626 文中
+	era WORD[12,  16]: 0.0004626 文政
+	era WORD[12,  17]: 0.0004625 文化
+	era WORD[12,  18]: 0.0004529 寛文
+	era WORD[12,  19]: 0.0003667 祭文
+TOKEN[13]: 0.0151699    1 following
+	following WORD[13,   1]: 0.0151699 後文
+TOKEN[14]: 0.0144623    1 legal
+	legal WORD[14,   1]: 0.0144623 律文
+TOKEN[15]: 0.0085474   10 written
+	written WORD[15,   1]: 0.0012119 中文
+	written WORD[15,   2]: 0.0011870 告文
+	written WORD[15,   3]: 0.0010221 文言
+	written WORD[15,   4]: 0.0009611 文語
+	written WORD[15,   5]: 0.0007537 一文字
+	written WORD[15,   6]: 0.0006172 誓文
+	written WORD[15,   7]: 0.0006171 成文
+	written WORD[15,   8]: 0.0005671 願文
+	written WORD[15,   9]: 0.0004806 文体
+	written WORD[15,  10]: 0.0003760 檄文
+TOKEN[16]: 0.0080585    9 Japanese
+	Japanese WORD[16,   1]: 0.0025110 日文
+	Japanese WORD[16,   2]: 0.0004859 和文
+	Japanese WORD[16,   3]: 0.0004690 邦文
+	Japanese WORD[16,   4]: 0.0004023 落し文
+	Japanese WORD[16,   5]: 0.0003724 文身
+	Japanese WORD[16,   6]: 0.0003350 三十一文字
+	Japanese WORD[16,   7]: 0.0003240 文楽
+	Japanese WORD[16,   8]: 0.0003240 文節
+	Japanese WORD[16,   9]: 0.0003240 文語
+TOKEN[17]: 0.0076355    5 script
+	script WORD[17,   1]: 0.0020524 籀文
+	script WORD[17,   2]: 0.0019107 篆文
+	script WORD[17,   3]: 0.0007669 同文
+	script WORD[17,   4]: 0.0007277 諺文
+	script WORD[17,   5]: 0.0007250 古文
+TOKEN[18]: 0.0073595    7 prose
+	prose WORD[18,   1]: 0.0021549 乱文
+	prose WORD[18,   2]: 0.0010530 詩文
+	prose WORD[18,   3]: 0.0009734 俳文
+	prose WORD[18,   4]: 0.0007696 美文
+	prose WORD[18,   5]: 0.0007102 文章
+	prose WORD[18,   6]: 0.0005692 散文
+	prose WORD[18,   7]: 0.0005646 作文
+TOKEN[19]: 0.0069634    3 figure
+	figure WORD[19,   1]: 0.0039886 文彩
+	figure WORD[19,   2]: 0.0012173 文采
+	figure WORD[19,   3]: 0.0003515 文
+TOKEN[20]: 0.0065836    7 Chinese
+	Chinese WORD[20,   1]: 0.0019042 中文
+	Chinese WORD[20,   2]: 0.0009434 古文
+	Chinese WORD[20,   3]: 0.0008030 文言
+	Chinese WORD[20,   4]: 0.0005735 漢文
+	Chinese WORD[20,   5]: 0.0003845 正文
+	Chinese WORD[20,   6]: 0.0003562 白文
+	Chinese WORD[20,   7]: 0.0002910 金文
+TOKEN[21]: 0.0065667    7 pattern
+	pattern WORD[21,   1]: 0.0016538 擦文
+	pattern WORD[21,   2]: 0.0011578 刃文
+	pattern WORD[21,   3]: 0.0006754 斑文
+	pattern WORD[21,   4]: 0.0005152 文様
+	pattern WORD[21,   5]: 0.0004844 文型
+	pattern WORD[21,   6]: 0.0003965 縄文
+	pattern WORD[21,   7]: 0.0003367 文
+TOKEN[22]: 0.0063403    2 learning
+	learning WORD[22,   1]: 0.0055847 学文
+	learning WORD[22,   2]: 0.0007556 文弱
+TOKEN[23]: 0.0062141   12 style
+	style WORD[23,   1]: 0.0007182 文調
+	style WORD[23,   2]: 0.0006271 文勢
+	style WORD[23,   3]: 0.0006268 文雅
+	style WORD[23,   4]: 0.0005924 俗文
+	style WORD[23,   5]: 0.0005863 候文
+	style WORD[23,   6]: 0.0005378 行文
+	style WORD[23,   7]: 0.0004653 文言
+	style WORD[23,   8]: 0.0004456 雅文
+	style WORD[23,   9]: 0.0004376 文体
+	style WORD[23,  10]: 0.0004376 文章
+	style WORD[23,  11]: 0.0004376 文語
+	style WORD[23,  12]: 0.0003019 悪文
+TOKEN[24]: 0.0061823   10 passage
+	passage WORD[24,   1]: 0.0008094 訳文
+	passage WORD[24,   2]: 0.0007432 長文
+	passage WORD[24,   3]: 0.0007110 脱文
+	passage WORD[24,   4]: 0.0006679 欠文
+	passage WORD[24,   5]: 0.0006679 闕文
+	passage WORD[24,   6]: 0.0005555 本文
+	passage WORD[24,   7]: 0.0005501 文脈
+	passage WORD[24,   8]: 0.0005500 文章
+	passage WORD[24,   9]: 0.0004692 短文
+	passage WORD[24,  10]: 0.0004581 全文
+TOKEN[25]: 0.0061058    1 exhibition
+	exhibition WORD[25,   1]: 0.0061058 文展
+TOKEN[26]: 0.0060757    8 document
+	document WORD[26,   1]: 0.0014228 下文
+	document WORD[26,   2]: 0.0010385 文書
+	document WORD[26,   3]: 0.0007435 文案
+	document WORD[26,   4]: 0.0006540 回文
+	document WORD[26,   5]: 0.0006540 廻文
+	document WORD[26,   6]: 0.0005244 本文
+	document WORD[26,   7]: 0.0005193 文面
+	document WORD[26,   8]: 0.0005192 文献
+TOKEN[27]: 0.0060752    3 broke
+	broke WORD[27,   1]: 0.0026749 文なし
+	broke WORD[27,   2]: 0.0026749 文無し
+	broke WORD[27,   3]: 0.0007255 無一文
+TOKEN[28]: 0.0060118    5 character
+	character WORD[28,   1]: 0.0014159 篆文
+	character WORD[28,   2]: 0.0010745 古文
+	character WORD[28,   3]: 0.0006744 一文字
+	character WORD[28,   4]: 0.0004532 文字
+	character WORD[28,   5]: 0.0003225 一文
+TOKEN[29]: 0.0059387    3 penniless
+	penniless WORD[29,   1]: 0.0026148 文なし
+	penniless WORD[29,   2]: 0.0026148 文無し
+	penniless WORD[29,   3]: 0.0007092 無一文
+TOKEN[30]: 0.0056269    5 clause
+	clause WORD[30,   1]: 0.0017411 副文
+	clause WORD[30,   2]: 0.0015556 従文
+	clause WORD[30,   3]: 0.0012140 複文
+	clause WORD[30,   4]: 0.0006160 文節
+	clause WORD[30,   5]: 0.0005001 主文
+TOKEN[31]: 0.0051158    8 piece
+	piece WORD[31,   1]: 0.0012447 迷文
+	piece WORD[31,   2]: 0.0006475 俗文
+	piece WORD[31,   3]: 0.0006462 長文
+	piece WORD[31,   4]: 0.0006198 駄文
+	piece WORD[31,   5]: 0.0005807 欠文
+	piece WORD[31,   6]: 0.0005807 闕文
+	piece WORD[31,   7]: 0.0004079 短文
+	piece WORD[31,   8]: 0.0003883 主文
+TOKEN[32]: 0.0051124    2 speech
+	speech WORD[32,   1]: 0.0039170 文彩
+	speech WORD[32,   2]: 0.0011955 文采
+TOKEN[33]: 0.0045438    6 classical
+	classical WORD[33,   1]: 0.0006792 古文
+	classical WORD[33,   2]: 0.0005781 文言
+	classical WORD[33,   3]: 0.0005536 正文
+	classical WORD[33,   4]: 0.0005437 文体
+	classical WORD[33,   5]: 0.0005436 文語
+	classical WORD[33,   6]: 0.0004129 漢文
+TOKEN[34]: 0.0045108    7 language
+	language WORD[34,   1]: 0.0010461 中文
+	language WORD[34,   2]: 0.0008296 文語
+	language WORD[34,   3]: 0.0006006 邦文
+	language WORD[34,   4]: 0.0005862 復文
+	language WORD[34,   5]: 0.0005482 同文
+	language WORD[34,   6]: 0.0004853 欧文
+	language WORD[34,   7]: 0.0004148 文体
+TOKEN[35]: 0.0043891    5 poor
+	poor WORD[35,   1]: 0.0014739 乱文
+	poor WORD[35,   2]: 0.0012590 駄文
+	poor WORD[35,   3]: 0.0006870 不文
+	poor WORD[35,   4]: 0.0006341 拙文
+	poor WORD[35,   5]: 0.0003352 悪文
+TOKEN[36]: 0.0041643    1 Sanskrit
+	Sanskrit WORD[36,   1]: 0.0041643 梵文
+TOKEN[37]: 0.0039121    5 part
+	part WORD[37,   1]: 0.0011382 異文
+	part WORD[37,   2]: 0.0010361 欠文
+	part WORD[37,   3]: 0.0010361 闕文
+	part WORD[37,   4]: 0.0003554 前文
+	part WORD[37,   5]: 0.0003464 主文
+TOKEN[38]: 0.0038962    6 composition
+	composition WORD[38,   1]: 0.0008446 名文
+	composition WORD[38,   2]: 0.0005794 文章
+	composition WORD[38,   3]: 0.0005743 文範
+	composition WORD[38,   4]: 0.0004942 短文
+	composition WORD[38,   5]: 0.0004823 撰文
+	composition WORD[38,   6]: 0.0004607 作文
+TOKEN[39]: 0.0037884    3 study
+	study WORD[39,   1]: 0.0025793 学文
+	study WORD[39,   2]: 0.0007221 斯文
+	study WORD[39,   3]: 0.0004871 文房
+TOKEN[40]: 0.0035822    5 art
+	art WORD[40,   1]: 0.0016033 文展
+	art WORD[40,   2]: 0.0005689 芸文
+	art WORD[40,   3]: 0.0004700 文筆
+	art WORD[40,   4]: 0.0004700 文芸
+	art WORD[40,   5]: 0.0004700 文藝
+TOKEN[41]: 0.0035512    3 period
+	period WORD[41,   1]: 0.0013429 籀文
+	period WORD[41,   2]: 0.0009488 古文
+	period WORD[41,   3]: 0.0003108 縄文
+TOKEN[42]: 0.0035257    6 culture
+	culture WORD[42,   1]: 0.0008447 右文
+	culture WORD[42,   2]: 0.0005564 文明
+	culture WORD[42,   3]: 0.0005564 文物
+	culture WORD[42,   4]: 0.0005563 文教
+	culture WORD[42,   5]: 0.0005563 文化
+	culture WORD[42,   6]: 0.0004556 人文
+TOKEN[43]: 0.0035186    1 scholarship
+	scholarship WORD[43,   1]: 0.0035186 学文
+TOKEN[44]: 0.0034990    2 seal
+	seal WORD[44,   1]: 0.0018120 籀文
+	seal WORD[44,   2]: 0.0016870 篆文
+TOKEN[45]: 0.0034775    3 missing
+	missing WORD[45,   1]: 0.0013733 欠文
+	missing WORD[45,   2]: 0.0013733 闕文
+	missing WORD[45,   3]: 0.0007310 脱文
+TOKEN[46]: 0.0034760    1 knotted
+	knotted WORD[46,   1]: 0.0034760 結び文
+TOKEN[47]: 0.0033858    2 science
+	science WORD[47,   1]: 0.0028481 学文
+	science WORD[47,   2]: 0.0005377 文科
+TOKEN[48]: 0.0033112    2 education
+	education WORD[48,   1]: 0.0027853 学文
+	education WORD[48,   2]: 0.0005259 文教
+TOKEN[49]: 0.0031782    1 discipline
+	discipline WORD[49,   1]: 0.0031782 学文
+TOKEN[50]: 0.0031713    2 official
+	official WORD[50,   1]: 0.0025141 下文
+	official WORD[50,   2]: 0.0006572 文官
+TOKEN[51]: 0.0031601    1 German
+	German WORD[51,   1]: 0.0031601 独文
+TOKEN[52]: 0.0031573    4 anthology
+	anthology WORD[52,   1]: 0.0009296 文園
+	anthology WORD[52,   2]: 0.0009296 文苑
+	anthology WORD[52,   3]: 0.0006490 文選
+	anthology WORD[52,   4]: 0.0006490 文集
+TOKEN[53]: 0.0030421    2 illiterate
+	illiterate WORD[53,   1]: 0.0020378 文盲
+	illiterate WORD[53,   2]: 0.0010044 不文
+TOKEN[54]: 0.0029996    2 rambling
+	rambling WORD[54,   1]: 0.0020340 乱文
+	rambling WORD[54,   2]: 0.0009656 漫文
+TOKEN[55]: 0.0029875    3 lacuna
+	lacuna WORD[55,   1]: 0.0010378 脱文
+	lacuna WORD[55,   2]: 0.0009748 欠文
+	lacuna WORD[55,   3]: 0.0009748 闕文
+TOKEN[56]: 0.0028739    3 civil
+	civil WORD[56,   1]: 0.0012595 文武官
+	civil WORD[56,   2]: 0.0008075 文治
+	civil WORD[56,   3]: 0.0008069 文官
+TOKEN[57]: 0.0028132    1 scraped
+	scraped WORD[57,   1]: 0.0028132 擦文
+TOKEN[58]: 0.0028077    5 article
+	article WORD[58,   1]: 0.0007013 文責
+	article WORD[58,   2]: 0.0006613 長文
+	article WORD[58,   3]: 0.0005383 論文
+	article WORD[58,   4]: 0.0004894 文章
+	article WORD[58,   5]: 0.0004174 短文
+TOKEN[59]: 0.0027440    3 contract
+	contract WORD[59,   1]: 0.0013645 券文
+	contract WORD[59,   2]: 0.0007294 副文
+	contract WORD[59,   3]: 0.0006501 証文
+TOKEN[60]: 0.0027427    3 military
+	military WORD[60,   1]: 0.0012576 下文
+	military WORD[60,   2]: 0.0010262 文武官
+	military WORD[60,   3]: 0.0004590 文武
+TOKEN[61]: 0.0027181    2 edict
+	edict WORD[61,   1]: 0.0018737 下文
+	edict WORD[61,   2]: 0.0008444 告文
+TOKEN[62]: 0.0027135    1 branch
+	branch WORD[62,   1]: 0.0027135 学文
+TOKEN[63]: 0.0026948    1 authentic
+	authentic WORD[63,   1]: 0.0013474 正文
+TOKEN[64]: 0.0026691    2 earthenware
+	earthenware WORD[64,   1]: 0.0021529 擦文
+	earthenware WORD[64,   2]: 0.0005162 縄文
+TOKEN[65]: 0.0026365    1 antecedent
+	antecedent WORD[65,   1]: 0.0026365 文展
+TOKEN[66]: 0.0026211    1 knowledge
+	knowledge WORD[66,   1]: 0.0026211 学文
+TOKEN[67]: 0.0026166    1 final
+	final WORD[67,   1]: 0.0026166 文尾
+TOKEN[68]: 0.0025824    3 treaty
+	treaty WORD[68,   1]: 0.0008550 副文
+	treaty WORD[68,   2]: 0.0006161 正文
+	treaty WORD[68,   3]: 0.0004952 条文
+TOKEN[69]: 0.0025610    4 liberal
+	liberal WORD[69,   1]: 0.0006403 文芸
+	liberal WORD[69,   2]: 0.0006403 文藝
+	liberal WORD[69,   3]: 0.0006403 文系
+	liberal WORD[69,   4]: 0.0006402 文科
+TOKEN[70]: 0.0025008    4 phrase
+	phrase WORD[70,   1]: 0.0007944 秘文
+	phrase WORD[70,   2]: 0.0005923 文句
+	phrase WORD[70,   3]: 0.0005570 文頭
+	phrase WORD[70,   4]: 0.0005570 文節
+TOKEN[71]: 0.0024608    3 wording
+	wording WORD[71,   1]: 0.0009237 文責
+	wording WORD[71,   2]: 0.0008518 同文
+	wording WORD[71,   3]: 0.0006854 文言
+TOKEN[72]: 0.0024608    1 onward
+	onward WORD[72,   1]: 0.0024608 籀文
+TOKEN[73]: 0.0024517    3 essay
+	essay WORD[73,   1]: 0.0007308 論文
+	essay WORD[73,   2]: 0.0006644 文章
+	essay WORD[73,   3]: 0.0005282 作文
+TOKEN[74]: 0.0024376    4 civilization
+	civilization WORD[74,   1]: 0.0006383 文明
+	civilization WORD[74,   2]: 0.0006383 文物
+	civilization WORD[74,   3]: 0.0006382 文化
+	civilization WORD[74,   4]: 0.0005227 人文
+TOKEN[75]: 0.0024324    2 design
+	design WORD[75,   1]: 0.0018642 円文
+	design WORD[75,   2]: 0.0005682 文様
+TOKEN[76]: 0.0024178    2 end
+	end WORD[76,   1]: 0.0020171 文尾
+	end WORD[76,   2]: 0.0004006 文末
+TOKEN[77]: 0.0023829    2 subordinate
+	subordinate WORD[77,   1]: 0.0015279 従文
+	subordinate WORD[77,   2]: 0.0008550 副文
+TOKEN[78]: 0.0023699    3 unit
+	unit WORD[78,   1]: 0.0005645 文目
+	unit WORD[78,   2]: 0.0004964 文節
+	unit WORD[78,   3]: 0.0003723 一文
+TOKEN[79]: 0.0023564    3 book
+	book WORD[79,   1]: 0.0011073 異文
+	book WORD[79,   2]: 0.0008300 文庫
+	book WORD[79,   3]: 0.0004191 本文
+TOKEN[80]: 0.0023398    1 Spring
+	Spring WORD[80,   1]: 0.0023398 籀文
+TOKEN[81]: 0.0023106    1 ancient
+	ancient WORD[81,   1]: 0.0011553 古文
+TOKEN[82]: 0.0022953    2 deed
+	deed WORD[82,   1]: 0.0015546 券文
+	deed WORD[82,   2]: 0.0007407 証文
+TOKEN[83]: 0.0022932    4 inscription
+	inscription WORD[83,   1]: 0.0006750 銘文
+	inscription WORD[83,   2]: 0.0006285 碑文
+	inscription WORD[83,   3]: 0.0005365 撰文
+	inscription WORD[83,   4]: 0.0004532 石文
+TOKEN[84]: 0.0022625    2 love
+	love WORD[84,   1]: 0.0017167 投げ文
+	love WORD[84,   2]: 0.0005459 恋文
+TOKEN[85]: 0.0022436    1 dating
+	dating WORD[85,   1]: 0.0022436 籀文
+TOKEN[86]: 0.0022408    2 humorous
+	humorous WORD[86,   1]: 0.0014727 戯文
+	humorous WORD[86,   2]: 0.0007681 狂文
+TOKEN[87]: 0.0022135    2 plain
+	plain WORD[87,   1]: 0.0007566 無文
+	plain WORD[87,   2]: 0.0007285 平文
+TOKEN[88]: 0.0022104    4 one
+	one WORD[88,   1]: 0.0005090 一文
+	one WORD[88,   2]: 0.0003548 一文字
+	one WORD[88,   3]: 0.0002600 文身
+	one WORD[88,   4]: 0.0002229 複文
+TOKEN[89]: 0.0021517    2 palindrome
+	palindrome WORD[89,   1]: 0.0010758 回文
+	palindrome WORD[89,   2]: 0.0010758 廻文
+TOKEN[90]: 0.0021421    1 hangul
+	hangul WORD[90,   1]: 0.0010711 諺文
+TOKEN[91]: 0.0021345    1 scripture
+	scripture WORD[91,   1]: 0.0021345 梵文
+TOKEN[92]: 0.0021253    1 arrow
+	arrow WORD[92,   1]: 0.0021253 矢文
+TOKEN[93]: 0.0021243    2 bond
+	bond WORD[93,   1]: 0.0014388 券文
+	bond WORD[93,   2]: 0.0006855 証文
+TOKEN[94]: 0.0021072    2 draft
+	draft WORD[94,   1]: 0.0012985 案文
+	draft WORD[94,   2]: 0.0008087 文案
+TOKEN[95]: 0.0020725    1 opposed
+	opposed WORD[95,   1]: 0.0010362 正文
+TOKEN[96]: 0.0020692    2 scriptural
+	scriptural WORD[96,   1]: 0.0010346 経文
+	scriptural WORD[96,   2]: 0.0010346 經文
+TOKEN[97]: 0.0020357    1 Welsh
+	Welsh WORD[97,   1]: 0.0010179 一文字
+TOKEN[98]: 0.0020260    1 English
+	English WORD[98,   1]: 0.0020260 英文
+TOKEN[99]: 0.0020125    1 hydrological
+	hydrological WORD[99,   1]: 0.0020125 水文
+TOKEN[100]: 0.0020101    2 epitaph
+	epitaph WORD[100,   1]: 0.0012676 撰文
+	epitaph WORD[100,   2]: 0.0007425 碑文
+TOKEN[101]: 0.0020012    1 crest
+	crest WORD[101,   1]: 0.0004002 文
+TOKEN[102]: 0.0019943    4 used
+	used WORD[102,   1]: 0.0005112 文箱
+	used WORD[102,   2]: 0.0004517 古文
+	used WORD[102,   3]: 0.0003011 前文
+	used WORD[102,   4]: 0.0002787 金文
+TOKEN[103]: 0.0019931    3 collection
+	collection WORD[103,   1]: 0.0007387 文園
+	collection WORD[103,   2]: 0.0007387 文苑
+	collection WORD[103,   3]: 0.0005157 文庫
+TOKEN[104]: 0.0019898    1 Allium
+	Allium WORD[104,   1]: 0.0009949 一文字
+TOKEN[105]: 0.0019761    2 translation
+	translation WORD[105,   1]: 0.0008289 訳文
+	translation WORD[105,   2]: 0.0005736 正文
+TOKEN[106]: 0.0019113    1 coat
+	coat WORD[106,   1]: 0.0003823 文
+TOKEN[107]: 0.0019040    2 demand
+	demand WORD[107,   1]: 0.0004760 注文
+	demand WORD[107,   2]: 0.0004760 註文
+TOKEN[108]: 0.0018977    2 context
+	context WORD[108,   1]: 0.0012651 文脈
+	context WORD[108,   2]: 0.0006326 文理
+TOKEN[109]: 0.0018827    2 word
+	word WORD[109,   1]: 0.0013175 洋文
+	word WORD[109,   2]: 0.0005653 呪文
+TOKEN[110]: 0.0018744    1 g
+	g WORD[110,   1]: 0.0009372 文目
+TOKEN[111]: 0.0018637    2 cultural
+	cultural WORD[111,   1]: 0.0009933 重文
+	cultural WORD[111,   2]: 0.0008704 文運
+TOKEN[112]: 0.0018472    3 grammar
+	grammar WORD[112,   1]: 0.0006176 文法
+	grammar WORD[112,   2]: 0.0006175 文節
+	grammar WORD[112,   3]: 0.0006121 文典
+TOKEN[113]: 0.0018322    1 suit
+	suit WORD[113,   1]: 0.0003664 文
+TOKEN[114]: 0.0018306    1 lost
+	lost WORD[114,   1]: 0.0018306 逸文
+TOKEN[115]: 0.0018037    1 onion
+	onion WORD[115,   1]: 0.0009018 一文字
+TOKEN[116]: 0.0018017    2 request
+	request WORD[116,   1]: 0.0004504 注文
+	request WORD[116,   2]: 0.0004504 註文
+TOKEN[117]: 0.0018016    1 arms
+	arms WORD[117,   1]: 0.0003603 文
+TOKEN[118]: 0.0017949    1 proverb
+	proverb WORD[118,   1]: 0.0008974 諺文
+TOKEN[119]: 0.0017813    1 work
+	work WORD[119,   1]: 0.0017813 逸文
+TOKEN[120]: 0.0017587    1 French
+	French WORD[120,   1]: 0.0017587 仏文
+TOKEN[121]: 0.0017489    2 transcendent
+	transcendent WORD[121,   1]: 0.0008745 文殊
+	transcendent WORD[121,   2]: 0.0008745 文珠
+TOKEN[122]: 0.0017474    2 condition
+	condition WORD[122,   1]: 0.0004369 注文
+	condition WORD[122,   2]: 0.0004369 註文
+TOKEN[123]: 0.0017385    3 law
+	law WORD[123,   1]: 0.0006538 明文
+	law WORD[123,   2]: 0.0006344 舞文
+	law WORD[123,   3]: 0.0004502 法文
+TOKEN[124]: 0.0017337    2 telegram
+	telegram WORD[124,   1]: 0.0008770 長文
+	telegram WORD[124,   2]: 0.0008567 電文
+TOKEN[125]: 0.0017218    1 incomprehensible
+	incomprehensible WORD[125,   1]: 0.0017218 迷文
+TOKEN[126]: 0.0017007    2 main
+	main WORD[126,   1]: 0.0007544 主文
+	main WORD[126,   2]: 0.0004731 正文
+TOKEN[127]: 0.0016978    1 card
+	card WORD[127,   1]: 0.0003396 文
+TOKEN[128]: 0.0016853    2 item
+	item WORD[128,   1]: 0.0004213 注文
+	item WORD[128,   2]: 0.0004213 註文
+TOKEN[129]: 0.0016798    1 wood
+	wood WORD[129,   1]: 0.0016798 擦文
+TOKEN[130]: 0.0016706    1 surface
+	surface WORD[130,   1]: 0.0016706 擦文
+TOKEN[131]: 0.0016687    1 variant
+	variant WORD[131,   1]: 0.0016687 異文
+TOKEN[132]: 0.0016671    2 spell
+	spell WORD[132,   1]: 0.0008851 秘文
+	spell WORD[132,   2]: 0.0007821 呪文
+TOKEN[133]: 0.0016616    2 bad
+	bad WORD[133,   1]: 0.0013538 乱文
+	bad WORD[133,   2]: 0.0003078 悪文
+TOKEN[134]: 0.0016593    1 home
+	home WORD[134,   1]: 0.0016593 投げ文
+TOKEN[135]: 0.0016578    3 world
+	world WORD[135,   1]: 0.0006144 文園
+	world WORD[135,   2]: 0.0006144 文苑
+	world WORD[135,   3]: 0.0004290 文壇
+TOKEN[136]: 0.0016421    1 round
+	round WORD[136,   1]: 0.0016421 円文
+TOKEN[137]: 0.0016197    1 binding
+	binding WORD[137,   1]: 0.0016197 下文
+TOKEN[138]: 0.0015934    2 meaning
+	meaning WORD[138,   1]: 0.0007550 文意
+	meaning WORD[138,   2]: 0.0004192 作文
+TOKEN[139]: 0.0015917    1 manuscript
+	manuscript WORD[139,   1]: 0.0015917 異文
+TOKEN[140]: 0.0015413    2 talent
+	talent WORD[140,   1]: 0.0007707 文藻
+	talent WORD[140,   2]: 0.0007706 文才
+TOKEN[141]: 0.0015389    2 sword
+	sword WORD[141,   1]: 0.0010849 刃文
+	sword WORD[141,   2]: 0.0004540 文武
+TOKEN[142]: 0.0015204    1 large
+	large WORD[142,   1]: 0.0015204 籀文
+TOKEN[143]: 0.0015063    2 skilled
+	skilled WORD[143,   1]: 0.0007734 能文
+	skilled WORD[143,   2]: 0.0007329 達文
+TOKEN[144]: 0.0014912    1 senior
+	senior WORD[144,   1]: 0.0014912 下文
+TOKEN[145]: 0.0014862    1 worn
+	worn WORD[145,   1]: 0.0014862 湯文字
+TOKEN[146]: 0.0014856    1 sample
+	sample WORD[146,   1]: 0.0014856 文例
+TOKEN[147]: 0.0014721    1 status
+	status WORD[147,   1]: 0.0014721 下文
+TOKEN[148]: 0.0014662    2 subject
+	subject WORD[148,   1]: 0.0007455 斯文
+	subject WORD[148,   2]: 0.0007207 文題
+TOKEN[149]: 0.0014597    2 circular
+	circular WORD[149,   1]: 0.0007298 回文
+	circular WORD[149,   2]: 0.0007298 廻文
+TOKEN[150]: 0.0014462    2 elegant
+	elegant WORD[150,   1]: 0.0008453 文雅
+	elegant WORD[150,   2]: 0.0006009 雅文
+TOKEN[151]: 0.0014432    1 Java
+	Java WORD[151,   1]: 0.0014432 文鳥
+TOKEN[152]: 0.0014319    3 social
+	social WORD[152,   1]: 0.0004774 文理
+	social WORD[152,   2]: 0.0004773 文系
+	social WORD[152,   3]: 0.0004773 文科
+TOKEN[153]: 0.0014302    2 lettering
+	lettering WORD[153,   1]: 0.0008577 陰文
+	lettering WORD[153,   2]: 0.0005726 金文
+TOKEN[154]: 0.0014207    2 advance
+	advance WORD[154,   1]: 0.0007148 文運
+	advance WORD[154,   2]: 0.0007058 舞文
+TOKEN[155]: 0.0014128    2 order
+	order WORD[155,   1]: 0.0003532 注文
+	order WORD[155,   2]: 0.0003532 註文
+TOKEN[156]: 0.0013917    2 poetry
+	poetry WORD[156,   1]: 0.0007824 詩文
+	poetry WORD[156,   2]: 0.0006093 韻文
+TOKEN[157]: 0.0013854    2 administration
+	administration WORD[157,   1]: 0.0008161 文治
+	administration WORD[157,   2]: 0.0005693 文政
+TOKEN[158]: 0.0013748    2 works
+	works WORD[158,   1]: 0.0008211 詩文
+	works WORD[158,   2]: 0.0005538 文選
+TOKEN[159]: 0.0013742    1 temper
+	temper WORD[159,   1]: 0.0013742 刃文
+TOKEN[160]: 0.0013691    2 formal
+	formal WORD[160,   1]: 0.0005286 文語
+	formal WORD[160,   2]: 0.0004203 作文
+TOKEN[161]: 0.0013660    2 redundancy
+	redundancy WORD[161,   1]: 0.0008033 衍文
+	redundancy WORD[161,   2]: 0.0005627 冗文
+TOKEN[162]: 0.0013539    2 modern
+	modern WORD[162,   1]: 0.0008086 時文
+	modern WORD[162,   2]: 0.0005453 文体
+TOKEN[163]: 0.0013360    1 blade
+	blade WORD[163,   1]: 0.0013360 刃文
+TOKEN[164]: 0.0013267    1 box
+	box WORD[164,   1]: 0.0013267 文箱
+TOKEN[165]: 0.0013216    1 secret
+	secret WORD[165,   1]: 0.0013216 秘文
+TOKEN[166]: 0.0013176    1 cruciform
+	cruciform WORD[166,   1]: 0.0013176 十文字
+TOKEN[167]: 0.0013078    1 family
+	family WORD[167,   1]: 0.0002616 文
+TOKEN[168]: 0.0013053    1 Korean
+	Korean WORD[168,   1]: 0.0006526 諺文
+TOKEN[169]: 0.0013035    1 older
+	older WORD[169,   1]: 0.0006517 古文
+TOKEN[170]: 0.0013002    1 poet
+	poet WORD[170,   1]: 0.0006501 文人
+TOKEN[171]: 0.0012889    2 superior
+	superior WORD[171,   1]: 0.0006693 告文
+	superior WORD[171,   2]: 0.0006196 逸文
+TOKEN[172]: 0.0012811    1 farthing
+	farthing WORD[172,   1]: 0.0006406 一文
+TOKEN[173]: 0.0012795    1 annexure
+	annexure WORD[173,   1]: 0.0012795 副文
+TOKEN[174]: 0.0012747    1 European
+	European WORD[174,   1]: 0.0012747 欧文
+TOKEN[175]: 0.0012738    1 commentary
+	commentary WORD[175,   1]: 0.0006369 正文
+TOKEN[176]: 0.0012552    1 worth
+	worth WORD[176,   1]: 0.0006276 文目
+TOKEN[177]: 0.0012546    1 included
+	included WORD[177,   1]: 0.0006273 正文
+TOKEN[178]: 0.0012435    1 unfigured
+	unfigured WORD[178,   1]: 0.0012435 無文
+TOKEN[179]: 0.0012435    1 unpatterned
+	unpatterned WORD[179,   1]: 0.0012435 無文
+TOKEN[180]: 0.0012380    2 wisdom
+	wisdom WORD[180,   1]: 0.0006190 文殊
+	wisdom WORD[180,   2]: 0.0006190 文珠
+TOKEN[181]: 0.0012327    1 coin
+	coin WORD[181,   1]: 0.0006164 文目
+TOKEN[182]: 0.0012267    1 silver
+	silver WORD[182,   1]: 0.0006133 文目
+TOKEN[183]: 0.0012181    1 astronomy
+	astronomy WORD[183,   1]: 0.0006091 天文
+TOKEN[184]: 0.0012176    1 physiographical
+	physiographical WORD[184,   1]: 0.0012176 地文
+TOKEN[185]: 0.0012153    1 government
+	government WORD[185,   1]: 0.0012153 下文
+TOKEN[186]: 0.0012141    2 clothes
+	clothes WORD[186,   1]: 0.0006802 無文
+	clothes WORD[186,   2]: 0.0005339 衣文
+TOKEN[187]: 0.0012131    1 long
+	long WORD[187,   1]: 0.0012131 長文
+TOKEN[188]: 0.0012071    1 retranslation
+	retranslation WORD[188,   1]: 0.0012071 復文
+TOKEN[189]: 0.0011962    1 bathrobe
+	bathrobe WORD[189,   1]: 0.0011962 湯文字
+TOKEN[190]: 0.0011810    1 weight
+	weight WORD[190,   1]: 0.0005905 文目
+TOKEN[191]: 0.0011768    1 man
+	man WORD[191,   1]: 0.0011768 文士
+TOKEN[192]: 0.0011592    1 cent
+	cent WORD[192,   1]: 0.0005796 一文
+TOKEN[193]: 0.0011520    2 expression
+	expression WORD[193,   1]: 0.0006302 成文
+	expression WORD[193,   2]: 0.0005218 文句
+TOKEN[194]: 0.0011487    2 foreword
+	foreword WORD[194,   1]: 0.0005792 撰文
+	foreword WORD[194,   2]: 0.0005695 序文
+TOKEN[195]: 0.0011487    1 physiography
+	physiography WORD[195,   1]: 0.0011487 地文
+TOKEN[196]: 0.0011386    2 original
+	original WORD[196,   1]: 0.0007327 復文
+	original WORD[196,   2]: 0.0004059 原文
+TOKEN[197]: 0.0011363    2 appeal
+	appeal WORD[197,   1]: 0.0006956 告文
+	appeal WORD[197,   2]: 0.0004407 檄文
+TOKEN[198]: 0.0011354    1 unwritten
+	unwritten WORD[198,   1]: 0.0011354 不文
+TOKEN[199]: 0.0011272    1 paperweight
+	paperweight WORD[199,   1]: 0.0011272 文鎮
+TOKEN[200]: 0.0011272    1 shaddock
+	shaddock WORD[200,   1]: 0.0011272 文旦
+TOKEN[201]: 0.0011181    2 library
+	library WORD[201,   1]: 0.0005591 文房
+	library WORD[201,   2]: 0.0005590 文庫
+TOKEN[202]: 0.0011112    2 model
+	model WORD[202,   1]: 0.0005841 例文
+	model WORD[202,   2]: 0.0005272 文範
+TOKEN[203]: 0.0011042    1 aru
+	aru WORD[203,   1]: 0.0011042 候文
+TOKEN[204]: 0.0011025    1 mon
+	mon WORD[204,   1]: 0.0005513 一文
+TOKEN[205]: 0.0010872    2 address
+	address WORD[205,   1]: 0.0006852 弔文
+	address WORD[205,   2]: 0.0004020 祭文
+TOKEN[206]: 0.0010847    1 absorbent
+	absorbent WORD[206,   1]: 0.0010847 湯文字
+TOKEN[207]: 0.0010773    2 dead
+	dead WORD[207,   1]: 0.0007084 死文
+	dead WORD[207,   2]: 0.0003689 空文
+TOKEN[208]: 0.0010761    1 addendum
+	addendum WORD[208,   1]: 0.0010761 副文
+TOKEN[209]: 0.0010658    1 illiteracy
+	illiteracy WORD[209,   1]: 0.0010658 文盲
+TOKEN[210]: 0.0010648    1 pomelo
+	pomelo WORD[210,   1]: 0.0010648 文旦
+TOKEN[211]: 0.0010636    2 person
+	person WORD[211,   1]: 0.0004467 文盲
+	person WORD[211,   2]: 0.0003084 文人
+TOKEN[212]: 0.0010581    1 underskirt
+	underskirt WORD[212,   1]: 0.0010581 湯文字
+TOKEN[213]: 0.0010537    1 maxima
+	maxima WORD[213,   1]: 0.0010537 文旦
+TOKEN[214]: 0.0010512    2 independent
+	independent WORD[214,   1]: 0.0005746 複文
+	independent WORD[214,   2]: 0.0004766 重文
+TOKEN[215]: 0.0010306    1 rendering
+	rendering WORD[215,   1]: 0.0010306 訳文
+TOKEN[216]: 0.0010202    1 penny
+	penny WORD[216,   1]: 0.0005101 一文
+TOKEN[217]: 0.0010044    1 uneducated
+	uneducated WORD[217,   1]: 0.0010044 不文
+TOKEN[218]: 0.0010034    1 loincloth
+	loincloth WORD[218,   1]: 0.0010034 湯文字
+TOKEN[219]: 0.0009977    1 miscellany
+	miscellany WORD[219,   1]: 0.0009977 雑文
+TOKEN[220]: 0.0009972    1 tricky
+	tricky WORD[220,   1]: 0.0009972 舞文
+TOKEN[221]: 0.0009864    1 explicit
+	explicit WORD[221,   1]: 0.0009864 明文
+TOKEN[222]: 0.0009809    1 hack
+	hack WORD[222,   1]: 0.0009809 売文
+TOKEN[223]: 0.0009755    1 epistolary
+	epistolary WORD[223,   1]: 0.0009755 候文
+TOKEN[224]: 0.0009671    2 traditional
+	traditional WORD[224,   1]: 0.0005023 文身
+	traditional WORD[224,   2]: 0.0004648 文言
+TOKEN[225]: 0.0009663    1 appendix
+	appendix WORD[225,   1]: 0.0009663 副文
+TOKEN[226]: 0.0009612    1 annex
+	annex WORD[226,   1]: 0.0009612 副文
+TOKEN[227]: 0.0009605    1 password
+	password WORD[227,   1]: 0.0009605 秘文
+TOKEN[228]: 0.0009464    1 Confucian
+	Confucian WORD[228,   1]: 0.0009464 斯文
+TOKEN[229]: 0.0009435    1 meaningless
+	meaningless WORD[229,   1]: 0.0009435 死文
+TOKEN[230]: 0.0009405    1 attraction
+	attraction WORD[230,   1]: 0.0009405 文弱
+TOKEN[231]: 0.0009395    1 provision
+	provision WORD[231,   1]: 0.0009395 明文
+TOKEN[232]: 0.0009379    1 inadvertent
+	inadvertent WORD[232,   1]: 0.0009379 衍文
+TOKEN[233]: 0.0009350    1 subsidiary
+	subsidiary WORD[233,   1]: 0.0009350 副文
+TOKEN[234]: 0.0009247    1 manipulation
+	manipulation WORD[234,   1]: 0.0009247 舞文
+TOKEN[235]: 0.0009208    1 theme
+	theme WORD[235,   1]: 0.0009208 文題
+TOKEN[236]: 0.0009159    1 seventh
+	seventh WORD[236,   1]: 0.0009159 文月
+TOKEN[237]: 0.0009118    1 colloquial
+	colloquial WORD[237,   1]: 0.0009118 俗文
+TOKEN[238]: 0.0009017    1 spotted
+	spotted WORD[238,   1]: 0.0009017 斑文
+TOKEN[239]: 0.0008899    1 tiny
+	tiny WORD[239,   1]: 0.0004449 一文
+TOKEN[240]: 0.0008892    1 deliver
+	deliver WORD[240,   1]: 0.0008892 文箱
+TOKEN[241]: 0.0008885    1 incantation
+	incantation WORD[241,   1]: 0.0008885 呪文
+TOKEN[242]: 0.0008813    1 academic
+	academic WORD[242,   1]: 0.0008813 斯文
+TOKEN[243]: 0.0008809    1 Citrus
+	Citrus WORD[243,   1]: 0.0008809 文旦
+TOKEN[244]: 0.0008809    1 cross
+	cross WORD[244,   1]: 0.0008809 十文字
+TOKEN[245]: 0.0008702    1 drapery
+	drapery WORD[245,   1]: 0.0008702 衣文
+TOKEN[246]: 0.0008691    1 oath
+	oath WORD[246,   1]: 0.0008691 誓文
+TOKEN[247]: 0.0008635    1 illustrative
+	illustrative WORD[247,   1]: 0.0008635 例文
+TOKEN[248]: 0.0008610    1 fame
+	fame WORD[248,   1]: 0.0008610 文名
+TOKEN[249]: 0.0008552    1 respect
+	respect WORD[249,   1]: 0.0008552 右文
+TOKEN[250]: 0.0008541    1 Padda
+	Padda WORD[250,   1]: 0.0008541 文鳥
+TOKEN[251]: 0.0008540    1 unpunctuated
+	unpunctuated WORD[251,   1]: 0.0008540 白文
+TOKEN[252]: 0.0008532    1 pottery
+	pottery WORD[252,   1]: 0.0008532 無文
+TOKEN[253]: 0.0008485    1 poetic
+	poetic WORD[253,   1]: 0.0008485 俳文
+TOKEN[254]: 0.0008456    1 random
+	random WORD[254,   1]: 0.0008456 漫文
+TOKEN[255]: 0.0008449    1 currency
+	currency WORD[255,   1]: 0.0004224 一文
+TOKEN[256]: 0.0008448    1 tattooing
+	tattooing WORD[256,   1]: 0.0008448 文身
+TOKEN[257]: 0.0008402    1 version
+	version WORD[257,   1]: 0.0008402 訳文
+TOKEN[258]: 0.0008363    2 line
+	line WORD[258,   1]: 0.0004181 文理
+	line WORD[258,   2]: 0.0004181 文脈
+TOKEN[259]: 0.0008352    1 important
+	important WORD[259,   1]: 0.0008352 重文
+TOKEN[260]: 0.0008274    1 auxiliary
+	auxiliary WORD[260,   1]: 0.0008274 候文
+TOKEN[261]: 0.0008203    1 insert
+	insert WORD[261,   1]: 0.0008203 文香
+TOKEN[262]: 0.0008203    1 desk
+	desk WORD[262,   1]: 0.0008203 文机
+TOKEN[263]: 0.0008133    1 clever
+	clever WORD[263,   1]: 0.0008133 舞文
+TOKEN[264]: 0.0008121    1 progress
+	progress WORD[264,   1]: 0.0008121 文運
+TOKEN[265]: 0.0008058    1 real
+	real WORD[265,   1]: 0.0004029 作文
+TOKEN[266]: 0.0008019    1 flavour
+	flavour WORD[266,   1]: 0.0008019 俳文
+TOKEN[267]: 0.0007989    1 refined
+	refined WORD[267,   1]: 0.0007989 文雅
+TOKEN[268]: 0.0007981    1 reply
+	reply WORD[268,   1]: 0.0007981 復文
+TOKEN[269]: 0.0007954    1 writer
+	writer WORD[269,   1]: 0.0007954 売文
+TOKEN[270]: 0.0007900    1 famous
+	famous WORD[270,   1]: 0.0007900 名文
+TOKEN[271]: 0.0007882    1 flavor
+	flavor WORD[271,   1]: 0.0007882 俳文
+TOKEN[272]: 0.0007824    1 express
+	express WORD[272,   1]: 0.0007824 明文
+TOKEN[273]: 0.0007824    1 statement
+	statement WORD[273,   1]: 0.0007824 明文
+TOKEN[274]: 0.0007816    1 whole
+	whole WORD[274,   1]: 0.0007816 全文
+TOKEN[275]: 0.0007791    1 kimono
+	kimono WORD[275,   1]: 0.0007791 湯文字
+TOKEN[276]: 0.0007756    1 flowery
+	flowery WORD[276,   1]: 0.0007756 美文
+TOKEN[277]: 0.0007714    1 short
+	short WORD[277,   1]: 0.0007714 短文
+TOKEN[278]: 0.0007714    1 responsibility
+	responsibility WORD[278,   1]: 0.0007714 文責
+TOKEN[279]: 0.0007705    1 epilogue
+	epilogue WORD[279,   1]: 0.0007705 跋文
+TOKEN[280]: 0.0007667    1 epigraph
+	epigraph WORD[280,   1]: 0.0007667 碑文
+TOKEN[281]: 0.0007646    1 vulgar
+	vulgar WORD[281,   1]: 0.0007646 俗文
+TOKEN[282]: 0.0007641    1 funeral
+	funeral WORD[282,   1]: 0.0007641 弔文
+TOKEN[283]: 0.0007629    1 bath
+	bath WORD[283,   1]: 0.0007629 湯文字
+TOKEN[284]: 0.0007610    1 grumbling
+	grumbling WORD[284,   1]: 0.0007610 文句
+TOKEN[285]: 0.0007564    1 treatise
+	treatise WORD[285,   1]: 0.0007564 論文
+TOKEN[286]: 0.0007486    1 orient
+	orient WORD[286,   1]: 0.0007486 文蛤
+TOKEN[287]: 0.0007485    1 full
+	full WORD[287,   1]: 0.0007485 全文
+TOKEN[288]: 0.0007459    1 tattoo
+	tattoo WORD[288,   1]: 0.0007459 文身
+TOKEN[289]: 0.0007428    1 paperback
+	paperback WORD[289,   1]: 0.0007428 文庫
+TOKEN[290]: 0.0007417    1 engraving
+	engraving WORD[290,   1]: 0.0007417 陰文
+TOKEN[291]: 0.0007374    1 thesis
+	thesis WORD[291,   1]: 0.0007374 論文
+TOKEN[292]: 0.0007338    1 little
+	little WORD[292,   1]: 0.0003669 作文
+TOKEN[293]: 0.0007280    1 finch
+	finch WORD[293,   1]: 0.0007280 文鳥
+TOKEN[294]: 0.0007280    1 stationery
+	stationery WORD[294,   1]: 0.0007280 文具
+TOKEN[295]: 0.0007279    1 Roman
+	Roman WORD[295,   1]: 0.0007279 欧文
+TOKEN[296]: 0.0007236    1 magic
+	magic WORD[296,   1]: 0.0007236 呪文
+TOKEN[297]: 0.0007191    1 amount
+	amount WORD[297,   1]: 0.0003595 一文
+TOKEN[298]: 0.0007153    1 argument
+	argument WORD[298,   1]: 0.0007153 舞文
+TOKEN[299]: 0.0007150    1 fragment
+	fragment WORD[299,   1]: 0.0007150 逸文
+TOKEN[300]: 0.0007133    1 alphabet
+	alphabet WORD[300,   1]: 0.0007133 文字
+TOKEN[301]: 0.0007101    1 difficult
+	difficult WORD[301,   1]: 0.0007101 難文
+TOKEN[302]: 0.0007052    1 calendar
+	calendar WORD[302,   1]: 0.0007052 文月
+TOKEN[303]: 0.0007028    1 charm
+	charm WORD[303,   1]: 0.0007028 呪文
+TOKEN[304]: 0.0007021    2 rice
+	rice WORD[304,   1]: 0.0003877 文鳥
+	rice WORD[304,   2]: 0.0003144 杓文字
+TOKEN[305]: 0.0007004    1 civilian
+	civilian WORD[305,   1]: 0.0007004 文民
+TOKEN[306]: 0.0006962    1 carry
+	carry WORD[306,   1]: 0.0006962 文箱
+TOKEN[307]: 0.0006929    1 lunar
+	lunar WORD[307,   1]: 0.0006929 文月
+TOKEN[308]: 0.0006916    1 sparrow
+	sparrow WORD[308,   1]: 0.0006916 文鳥
+TOKEN[309]: 0.0006864    1 preamble
+	preamble WORD[309,   1]: 0.0006864 前文
+TOKEN[310]: 0.0006811    2 type
+	type WORD[310,   1]: 0.0003454 祭文
+	type WORD[310,   2]: 0.0003358 金文
+TOKEN[311]: 0.0006759    1 field
+	field WORD[311,   1]: 0.0006759 斯文
+TOKEN[312]: 0.0006735    1 linguistic
+	linguistic WORD[312,   1]: 0.0006735 文節
+TOKEN[313]: 0.0006717    1 remains
+	remains WORD[313,   1]: 0.0006717 遺文
+TOKEN[314]: 0.0006693    1 proposal
+	proposal WORD[314,   1]: 0.0006693 案文
+TOKEN[315]: 0.0006643    1 tanka
+	tanka WORD[315,   1]: 0.0006643 三十一文字
+TOKEN[316]: 0.0006633    1 objection
+	objection WORD[316,   1]: 0.0006633 文句
+TOKEN[317]: 0.0006616    1 contents
+	contents WORD[317,   1]: 0.0006616 文面
+TOKEN[318]: 0.0006581    1 prayer
+	prayer WORD[318,   1]: 0.0006581 願文
+TOKEN[319]: 0.0006567    1 force
+	force WORD[319,   1]: 0.0006567 文勢
+TOKEN[320]: 0.0006550    1 foregoing
+	foregoing WORD[320,   1]: 0.0006550 前文
+TOKEN[321]: 0.0006446    1 reasoning
+	reasoning WORD[321,   1]: 0.0006446 文理
+TOKEN[322]: 0.0006405    1 insect
+	insect WORD[322,   1]: 0.0006405 落し文
+TOKEN[323]: 0.0006358    1 small
+	small WORD[323,   1]: 0.0006358 小文字
+TOKEN[324]: 0.0006314    1 report
+	report WORD[324,   1]: 0.0006314 告文
+TOKEN[325]: 0.0006309    1 complaint
+	complaint WORD[325,   1]: 0.0006309 文句
+TOKEN[326]: 0.0006274    1 postscript
+	postscript WORD[326,   1]: 0.0006274 跋文
+TOKEN[327]: 0.0006267    1 month
+	month WORD[327,   1]: 0.0006267 文月
+TOKEN[328]: 0.0006222    1 correspondence
+	correspondence WORD[328,   1]: 0.0006222 文通
+TOKEN[329]: 0.0006191    1 woman
+	woman WORD[329,   1]: 0.0006191 湯文字
+TOKEN[330]: 0.0006189    1 money
+	money WORD[330,   1]: 0.0003094 一文
+TOKEN[331]: 0.0006146    1 puppet
+	puppet WORD[331,   1]: 0.0006146 文楽
+TOKEN[332]: 0.0006090    1 educational
+	educational WORD[332,   1]: 0.0006090 文政
+TOKEN[333]: 0.0006089    1 dress
+	dress WORD[333,   1]: 0.0006089 衣文
+TOKEN[334]: 0.0006047    1 use
+	use WORD[334,   1]: 0.0006047 舞文
+TOKEN[335]: 0.0005996    2 someone
+	someone WORD[335,   1]: 0.0003271 文書
+	someone WORD[335,   2]: 0.0002725 前文
+TOKEN[336]: 0.0005959    1 laity
+	laity WORD[336,   1]: 0.0005959 祭文
+TOKEN[337]: 0.0005955    1 doctor
+	doctor WORD[337,   1]: 0.0005955 文博
+TOKEN[338]: 0.0005928    1 example
+	example WORD[338,   1]: 0.0005928 例文
+TOKEN[339]: 0.0005925    1 dependent
+	dependent WORD[339,   1]: 0.0005925 複文
+TOKEN[340]: 0.0005871    1 road
+	road WORD[340,   1]: 0.0005871 落し文
+TOKEN[341]: 0.0005812    1 manifesto
+	manifesto WORD[341,   1]: 0.0005812 檄文
+TOKEN[342]: 0.0005795    1 stela
+	stela WORD[342,   1]: 0.0005795 石文
+TOKEN[343]: 0.0005760    1 statute
+	statute WORD[343,   1]: 0.0005760 前文
+TOKEN[344]: 0.0005741    1 quality
+	quality WORD[344,   1]: 0.0005741 逸文
+TOKEN[345]: 0.0005738    1 imperial
+	imperial WORD[345,   1]: 0.0005738 告文
+TOKEN[346]: 0.0005734    1 theater
+	theater WORD[346,   1]: 0.0005734 文楽
+TOKEN[347]: 0.0005728    1 perfumed
+	perfumed WORD[347,   1]: 0.0005728 文香
+TOKEN[348]: 0.0005711    1 grammatical
+	grammatical WORD[348,   1]: 0.0005711 構文
+TOKEN[349]: 0.0005678    1 background
+	background WORD[349,   1]: 0.0005678 文脈
+TOKEN[350]: 0.0005666    1 Yin
+	Yin WORD[350,   1]: 0.0005666 金文
+TOKEN[351]: 0.0005645    1 stele
+	stele WORD[351,   1]: 0.0005645 石文
+TOKEN[352]: 0.0005638    1 clam
+	clam WORD[352,   1]: 0.0005638 文蛤
+TOKEN[353]: 0.0005633    1 pen
+	pen WORD[353,   1]: 0.0005633 文武
+TOKEN[354]: 0.0005618    1 complex
+	complex WORD[354,   1]: 0.0005618 複文
+TOKEN[355]: 0.0005604    1 selection
+	selection WORD[355,   1]: 0.0005604 文選
+TOKEN[356]: 0.0005580    1 scented
+	scented WORD[356,   1]: 0.0005580 文香
+TOKEN[357]: 0.0005551    1 basic
+	basic WORD[357,   1]: 0.0005551 文節
+TOKEN[358]: 0.0005515    1 spoon
+	spoon WORD[358,   1]: 0.0005515 杓文字
+TOKEN[359]: 0.0005476    1 least
+	least WORD[359,   1]: 0.0005476 複文
+TOKEN[360]: 0.0005439    1 temple
+	temple WORD[360,   1]: 0.0005439 願文
+TOKEN[361]: 0.0005430    1 shrine
+	shrine WORD[361,   1]: 0.0005430 願文
+TOKEN[362]: 0.0005409    1 activity
+	activity WORD[362,   1]: 0.0005409 文筆
+TOKEN[363]: 0.0005393    1 preface
+	preface WORD[363,   1]: 0.0005393 序文
+TOKEN[364]: 0.0005367    1 department
+	department WORD[364,   1]: 0.0005367 文科
+TOKEN[365]: 0.0005345    1 Buddhist
+	Buddhist WORD[365,   1]: 0.0005345 願文
+TOKEN[366]: 0.0005333    1 paragraph
+	paragraph WORD[366,   1]: 0.0005333 全文
+TOKEN[367]: 0.0005272    1 based
+	based WORD[367,   1]: 0.0005272 文語
+TOKEN[368]: 0.0005251    1 poem
+	poem WORD[368,   1]: 0.0005251 三十一文字
+TOKEN[369]: 0.0005242    1 reference
+	reference WORD[369,   1]: 0.0005242 文献
+TOKEN[370]: 0.0005211    1 humanity
+	humanity WORD[370,   1]: 0.0005211 人文
+TOKEN[371]: 0.0005198    1 judicial
+	judicial WORD[371,   1]: 0.0005198 主文
+TOKEN[372]: 0.0005183    1 place
+	place WORD[372,   1]: 0.0005183 候文
+TOKEN[373]: 0.0005126    1 asset
+	asset WORD[373,   1]: 0.0005126 重文
+TOKEN[374]: 0.0005110    1 syntax
+	syntax WORD[374,   1]: 0.0005110 構文
+TOKEN[375]: 0.0005072    1 ladle
+	ladle WORD[375,   1]: 0.0005072 杓文字
+TOKEN[376]: 0.0005029    1 constitution
+	constitution WORD[376,   1]: 0.0005029 前文
+TOKEN[377]: 0.0005010    1 thought
+	thought WORD[377,   1]: 0.0005010 文脈
+TOKEN[378]: 0.0004950    1 event
+	event WORD[378,   1]: 0.0004950 文脈
+TOKEN[379]: 0.0004943    1 fine
+	fine WORD[379,   1]: 0.0004943 文系
+TOKEN[380]: 0.0004865    1 introduction
+	introduction WORD[380,   1]: 0.0004865 序文
+TOKEN[381]: 0.0004847    1 course
+	course WORD[381,   1]: 0.0004847 文科
+TOKEN[382]: 0.0004841    1 remark
+	remark WORD[382,   1]: 0.0004841 前文
+TOKEN[383]: 0.0004835    1 master
+	master WORD[383,   1]: 0.0004835 文豪
+TOKEN[384]: 0.0004806    1 exchange
+	exchange WORD[384,   1]: 0.0004806 文通
+TOKEN[385]: 0.0004768    1 scoop
+	scoop WORD[385,   1]: 0.0004768 杓文字
+TOKEN[386]: 0.0004748    1 bronze
+	bronze WORD[386,   1]: 0.0004748 金文
+TOKEN[387]: 0.0004693    1 formed
+	formed WORD[387,   1]: 0.0004693 重文
+TOKEN[388]: 0.0004681    1 enclose
+	enclose WORD[388,   1]: 0.0004681 文香
+TOKEN[389]: 0.0004675    1 lit
+	lit WORD[389,   1]: 0.0004675 英文
+TOKEN[390]: 0.0004616    1 compound
+	compound WORD[390,   1]: 0.0004616 重文
+TOKEN[391]: 0.0004615    1 monument
+	monument WORD[391,   1]: 0.0004615 石文
+TOKEN[392]: 0.0004554    1 matter
+	matter WORD[392,   1]: 0.0004554 文脈
+TOKEN[393]: 0.0004537    1 start
+	start WORD[393,   1]: 0.0004537 文頭
+TOKEN[394]: 0.0004534    1 declaration
+	declaration WORD[394,   1]: 0.0004534 檄文
+TOKEN[395]: 0.0004527    1 hard
+	hard WORD[395,   1]: 0.0004527 文理
+TOKEN[396]: 0.0004500    1 paper
+	paper WORD[396,   1]: 0.0004500 論文
+TOKEN[397]: 0.0004313    1 property
+	property WORD[397,   1]: 0.0004313 重文
+TOKEN[398]: 0.0004306    1 decision
+	decision WORD[398,   1]: 0.0004306 主文
+TOKEN[399]: 0.0004262    1 simple
+	simple WORD[399,   1]: 0.0004262 単文
+TOKEN[400]: 0.0004258    1 squid
+	squid WORD[400,   1]: 0.0004258 い文字
+TOKEN[401]: 0.0004255    1 form
+	form WORD[401,   1]: 0.0004255 文体
+TOKEN[402]: 0.0004239    1 body
+	body WORD[402,   1]: 0.0004239 本文
+TOKEN[403]: 0.0004177    1 health
+	health WORD[403,   1]: 0.0004177 前文
+TOKEN[404]: 0.0004144    1 opening
+	opening WORD[404,   1]: 0.0004144 前文
+TOKEN[405]: 0.0004138    1 common
+	common WORD[405,   1]: 0.0004138 文蛤
+TOKEN[406]: 0.0004101    1 season
+	season WORD[406,   1]: 0.0004101 前文
+TOKEN[407]: 0.0004089    1 structure
+	structure WORD[407,   1]: 0.0004089 構文
+TOKEN[408]: 0.0004083    1 spread
+	spread WORD[408,   1]: 0.0004083 祭文
+TOKEN[409]: 0.0004056    1 memorial
+	memorial WORD[409,   1]: 0.0004056 石文
+TOKEN[410]: 0.0003975    1 construction
+	construction WORD[410,   1]: 0.0003975 構文
+TOKEN[411]: 0.0003899    1 song
+	song WORD[411,   1]: 0.0003899 祭文
+TOKEN[412]: 0.0003890    1 metal
+	metal WORD[412,   1]: 0.0003890 金文
+TOKEN[413]: 0.0003859    1 bearing
+	bearing WORD[413,   1]: 0.0003859 石文
+TOKEN[414]: 0.0003849    1 wooden
+	wooden WORD[414,   1]: 0.0003849 杓文字
+TOKEN[415]: 0.0003818    1 act
+	act WORD[415,   1]: 0.0003818 条文
+TOKEN[416]: 0.0003803    1 national
+	national WORD[416,   1]: 0.0003803 国文
+TOKEN[417]: 0.0003616    1 future
+	future WORD[417,   1]: 0.0003616 石文
+TOKEN[418]: 0.0003598    1 mountain
+	mountain WORD[418,   1]: 0.0003598 祭文
+TOKEN[419]: 0.0003358    1 two
+	two WORD[419,   1]: 0.0003358 重文
+TOKEN[420]: 0.0003278    1 stone
+	stone WORD[420,   1]: 0.0003278 石文

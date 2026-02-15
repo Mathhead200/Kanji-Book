@@ -1,0 +1,297 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1000485    2 poppy          : 雛罌粟, 罌粟
+0.0707753   13 canned         : 猫缶, 桃缶, 罐詰, 罐詰め, 罐, さけ缶, 鮭缶, 蟹缶, 缶入り, 牛缶, ...
+0.0553006    4 crack          : 罅隙, 罅割れる, 罅, 罅割れ
+0.0511133    8 food           : 猫缶, 罐詰, 罐詰め, 食缶, 罐, 缶詰, 缶詰め, 缶
+0.0362888    4 tin            : 猫缶, 罐, 缶入り, 缶
+0.0314794    2 Papaver        : 雛罌粟, 罌粟
+0.0306358    1 crevasse       : 罅隙
+0.0301322    2 crevice        : 罅隙, 罅割れ
+0.0259872    6 tinned         : 罐詰, 罐詰め, さけ缶, 鮭缶, 缶詰, 缶詰め
+0.0250131    1 cat            : 猫缶
+0.0242591    3 fissure        : 裂罅, 罅割れ, 罅
+0.0220724    1 slit           : 罅隙
+0.0202041    1 corn           : 雛罌粟
+0.0171509    2 salmon         : さけ缶, 鮭缶
+0.0158608    4 confining      : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0138485    1 field          : 雛罌粟
+0.0137816    1 common         : 雛罌粟
+0.0136570    4 concentrate    : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0135293    2 wane           : 缺ける, 缺け
+0.0132081    1 red            : 雛罌粟
+0.0131415    2 bald           : 薬罐, 薬缶
+0.0128489    4 confined       : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0127848    2 kettle         : 薬罐, 薬缶
+0.0125780    2 stoker         : 罐焚き, 缶焚き
+0.0123476    4 stuck          : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0117407    1 lacuna         : 欠缺
+0.0116912    2 fireman        : 罐焚き, 缶焚き
+0.0108828    4 space          : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0104827    1 flawless       : 無缺
+0.0103345    1 cracked        : 罅割れる
+0.0092902    1 develop        : 罅割れる
+0.0089921    1 transport      : 食缶
+0.0085679    1 gap            : 欠缺
+0.0084225    2 head           : 薬罐, 薬缶
+0.0084199    1 dearth         : 缺乏
+0.0083963    4 work           : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0079949    1 insufficiency  : 缺乏
+0.0079922    1 container      : 食缶
+0.0078432    1 scarcity       : 缺乏
+0.0078299    1 deficient      : 缺ける
+0.0075069    1 absent         : 缺ける
+0.0074297    1 opium          : 罌粟
+0.0073842    1 chipped        : 缺ける
+0.0070807    1 deficiency     : 缺乏
+0.0069290    1 want           : 缺乏
+0.0069214    4 someone        : 罐詰, 罐詰め, 缶詰, 缶詰め
+0.0068395    1 rift           : 罅
+0.0068321    1 eclipse        : 缺ける
+0.0067772    1 wanting        : 缺ける
+0.0066556    1 shortage       : 缺乏
+0.0066528    1 splinter       : 缺け
+0.0063467    1 fragment       : 缺け
+0.0060304    1 lack           : 缺乏
+0.0059960    1 chip           : 缺ける
+0.0058025    1 team           : 缺ける
+0.0057965    1 split          : 罅
+0.0057424    1 missing        : 缺ける
+0.0056731    1 lost           : 缺ける
+0.0053680    1 moon           : 缺ける
+0.0053393    1 relationship   : 罅
+0.0051819    1 something      : 欠缺
+0.0046829    1 short          : 缺ける
+0.0045333    1 break          : 缺ける
+0.0044128    1 set            : 缺ける
+0.0041328    1 become         : 缺ける
+0.0038703    1 go             : 缺ける
+0.0038678    1 boiler         : 製缶
+0.0033941    1 crab           : 蟹缶
+0.0024358    1 beef           : 牛缶
+0.0017422    1 bottom         : 缶底
+0.0015847    3 empty          : あき缶, 空き缶, 空缶
+0.0013863    1 opener         : 缶切り
+0.0008201    1 aluminium      : アルミ缶
+0.0007967    1 aluminum       : アルミ缶
+0.0006225    1 kick           : 缶蹴り
+0.0005042    1 game           : 缶蹴り
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1000485    2 poppy
+	poppy WORD[ 1,   1]: 0.0926188 雛罌粟
+	poppy WORD[ 1,   2]: 0.0074297 罌粟
+TOKEN[ 2]: 0.0707753   13 canned
+	canned WORD[ 2,   1]: 0.0158085 猫缶
+	canned WORD[ 2,   2]: 0.0064591 桃缶
+	canned WORD[ 2,   3]: 0.0063234 罐詰
+	canned WORD[ 2,   4]: 0.0063234 罐詰め
+	canned WORD[ 2,   5]: 0.0062797 罐
+	canned WORD[ 2,   6]: 0.0047450 さけ缶
+	canned WORD[ 2,   7]: 0.0047450 鮭缶
+	canned WORD[ 2,   8]: 0.0038140 蟹缶
+	canned WORD[ 2,   9]: 0.0034304 缶入り
+	canned WORD[ 2,  10]: 0.0027846 牛缶
+	canned WORD[ 2,  11]: 0.0007572 缶詰
+	canned WORD[ 2,  12]: 0.0007572 缶詰め
+	canned WORD[ 2,  13]: 0.0007561 缶
+TOKEN[ 3]: 0.0553006    4 crack
+	crack WORD[ 3,   1]: 0.0200632 罅隙
+	crack WORD[ 3,   2]: 0.0173877 罅割れる
+	crack WORD[ 3,   3]: 0.0118995 罅
+	crack WORD[ 3,   4]: 0.0059502 罅割れ
+TOKEN[ 4]: 0.0511133    8 food
+	food WORD[ 4,   1]: 0.0191343 猫缶
+	food WORD[ 4,   2]: 0.0076537 罐詰
+	food WORD[ 4,   3]: 0.0076537 罐詰め
+	food WORD[ 4,   4]: 0.0058652 食缶
+	food WORD[ 4,   5]: 0.0038004 罐
+	food WORD[ 4,   6]: 0.0009165 缶詰
+	food WORD[ 4,   7]: 0.0009165 缶詰め
+	food WORD[ 4,   8]: 0.0004576 缶
+TOKEN[ 5]: 0.0362888    4 tin
+	tin WORD[ 5,   1]: 0.0168397 猫缶
+	tin WORD[ 5,   2]: 0.0066894 罐
+	tin WORD[ 5,   3]: 0.0036542 缶入り
+	tin WORD[ 5,   4]: 0.0008054 缶
+TOKEN[ 6]: 0.0314794    2 Papaver
+	Papaver WORD[ 6,   1]: 0.0238323 雛罌粟
+	Papaver WORD[ 6,   2]: 0.0076472 罌粟
+TOKEN[ 7]: 0.0306358    1 crevasse
+	crevasse WORD[ 7,   1]: 0.0306358 罅隙
+TOKEN[ 8]: 0.0301322    2 crevice
+	crevice WORD[ 8,   1]: 0.0232398 罅隙
+	crevice WORD[ 8,   2]: 0.0068923 罅割れ
+TOKEN[ 9]: 0.0259872    6 tinned
+	tinned WORD[ 9,   1]: 0.0069479 罐詰
+	tinned WORD[ 9,   2]: 0.0069479 罐詰め
+	tinned WORD[ 9,   3]: 0.0052137 さけ缶
+	tinned WORD[ 9,   4]: 0.0052136 鮭缶
+	tinned WORD[ 9,   5]: 0.0008320 缶詰
+	tinned WORD[ 9,   6]: 0.0008320 缶詰め
+TOKEN[10]: 0.0250131    1 cat
+	cat WORD[10,   1]: 0.0250131 猫缶
+TOKEN[11]: 0.0242591    3 fissure
+	fissure WORD[11,   1]: 0.0105795 裂罅
+	fissure WORD[11,   2]: 0.0068401 罅割れ
+	fissure WORD[11,   3]: 0.0068395 罅
+TOKEN[12]: 0.0220724    1 slit
+	slit WORD[12,   1]: 0.0220724 罅隙
+TOKEN[13]: 0.0202041    1 corn
+	corn WORD[13,   1]: 0.0202041 雛罌粟
+TOKEN[14]: 0.0171509    2 salmon
+	salmon WORD[14,   1]: 0.0085755 さけ缶
+	salmon WORD[14,   2]: 0.0085754 鮭缶
+TOKEN[15]: 0.0158608    4 confining
+	confining WORD[15,   1]: 0.0070823 罐詰
+	confining WORD[15,   2]: 0.0070823 罐詰め
+	confining WORD[15,   3]: 0.0008481 缶詰
+	confining WORD[15,   4]: 0.0008481 缶詰め
+TOKEN[16]: 0.0138485    1 field
+	field WORD[16,   1]: 0.0138485 雛罌粟
+TOKEN[17]: 0.0137816    1 common
+	common WORD[17,   1]: 0.0137816 雛罌粟
+TOKEN[18]: 0.0136570    4 concentrate
+	concentrate WORD[18,   1]: 0.0060983 罐詰
+	concentrate WORD[18,   2]: 0.0060983 罐詰め
+	concentrate WORD[18,   3]: 0.0007303 缶詰
+	concentrate WORD[18,   4]: 0.0007303 缶詰め
+TOKEN[19]: 0.0135293    2 wane
+	wane WORD[19,   1]: 0.0067772 缺ける
+	wane WORD[19,   2]: 0.0067521 缺け
+TOKEN[20]: 0.0132081    1 red
+	red WORD[20,   1]: 0.0132081 雛罌粟
+TOKEN[21]: 0.0131415    2 bald
+	bald WORD[21,   1]: 0.0117361 薬罐
+	bald WORD[21,   2]: 0.0014054 薬缶
+TOKEN[22]: 0.0128489    4 confined
+	confined WORD[22,   1]: 0.0057374 罐詰
+	confined WORD[22,   2]: 0.0057374 罐詰め
+	confined WORD[22,   3]: 0.0006870 缶詰
+	confined WORD[22,   4]: 0.0006870 缶詰め
+TOKEN[23]: 0.0127848    2 kettle
+	kettle WORD[23,   1]: 0.0114176 薬罐
+	kettle WORD[23,   2]: 0.0013672 薬缶
+TOKEN[24]: 0.0125780    2 stoker
+	stoker WORD[24,   1]: 0.0112329 罐焚き
+	stoker WORD[24,   2]: 0.0013451 缶焚き
+TOKEN[25]: 0.0123476    4 stuck
+	stuck WORD[25,   1]: 0.0055135 罐詰
+	stuck WORD[25,   2]: 0.0055135 罐詰め
+	stuck WORD[25,   3]: 0.0006602 缶詰
+	stuck WORD[25,   4]: 0.0006602 缶詰め
+TOKEN[26]: 0.0117407    1 lacuna
+	lacuna WORD[26,   1]: 0.0117407 欠缺
+TOKEN[27]: 0.0116912    2 fireman
+	fireman WORD[27,   1]: 0.0104409 罐焚き
+	fireman WORD[27,   2]: 0.0012503 缶焚き
+TOKEN[28]: 0.0108828    4 space
+	space WORD[28,   1]: 0.0048595 罐詰
+	space WORD[28,   2]: 0.0048595 罐詰め
+	space WORD[28,   3]: 0.0005819 缶詰
+	space WORD[28,   4]: 0.0005819 缶詰め
+TOKEN[29]: 0.0104827    1 flawless
+	flawless WORD[29,   1]: 0.0104827 無缺
+TOKEN[30]: 0.0103345    1 cracked
+	cracked WORD[30,   1]: 0.0103345 罅割れる
+TOKEN[31]: 0.0092902    1 develop
+	develop WORD[31,   1]: 0.0092902 罅割れる
+TOKEN[32]: 0.0089921    1 transport
+	transport WORD[32,   1]: 0.0089921 食缶
+TOKEN[33]: 0.0085679    1 gap
+	gap WORD[33,   1]: 0.0085679 欠缺
+TOKEN[34]: 0.0084225    2 head
+	head WORD[34,   1]: 0.0075218 薬罐
+	head WORD[34,   2]: 0.0009007 薬缶
+TOKEN[35]: 0.0084199    1 dearth
+	dearth WORD[35,   1]: 0.0084199 缺乏
+TOKEN[36]: 0.0083963    4 work
+	work WORD[36,   1]: 0.0037492 罐詰
+	work WORD[36,   2]: 0.0037492 罐詰め
+	work WORD[36,   3]: 0.0004490 缶詰
+	work WORD[36,   4]: 0.0004490 缶詰め
+TOKEN[37]: 0.0079949    1 insufficiency
+	insufficiency WORD[37,   1]: 0.0079949 缺乏
+TOKEN[38]: 0.0079922    1 container
+	container WORD[38,   1]: 0.0079922 食缶
+TOKEN[39]: 0.0078432    1 scarcity
+	scarcity WORD[39,   1]: 0.0078432 缺乏
+TOKEN[40]: 0.0078299    1 deficient
+	deficient WORD[40,   1]: 0.0078299 缺ける
+TOKEN[41]: 0.0075069    1 absent
+	absent WORD[41,   1]: 0.0075069 缺ける
+TOKEN[42]: 0.0074297    1 opium
+	opium WORD[42,   1]: 0.0074297 罌粟
+TOKEN[43]: 0.0073842    1 chipped
+	chipped WORD[43,   1]: 0.0073842 缺ける
+TOKEN[44]: 0.0070807    1 deficiency
+	deficiency WORD[44,   1]: 0.0070807 缺乏
+TOKEN[45]: 0.0069290    1 want
+	want WORD[45,   1]: 0.0069290 缺乏
+TOKEN[46]: 0.0069214    4 someone
+	someone WORD[46,   1]: 0.0030906 罐詰
+	someone WORD[46,   2]: 0.0030906 罐詰め
+	someone WORD[46,   3]: 0.0003701 缶詰
+	someone WORD[46,   4]: 0.0003701 缶詰め
+TOKEN[47]: 0.0068395    1 rift
+	rift WORD[47,   1]: 0.0068395 罅
+TOKEN[48]: 0.0068321    1 eclipse
+	eclipse WORD[48,   1]: 0.0068321 缺ける
+TOKEN[49]: 0.0067772    1 wanting
+	wanting WORD[49,   1]: 0.0067772 缺ける
+TOKEN[50]: 0.0066556    1 shortage
+	shortage WORD[50,   1]: 0.0066556 缺乏
+TOKEN[51]: 0.0066528    1 splinter
+	splinter WORD[51,   1]: 0.0066528 缺け
+TOKEN[52]: 0.0063467    1 fragment
+	fragment WORD[52,   1]: 0.0063467 缺け
+TOKEN[53]: 0.0060304    1 lack
+	lack WORD[53,   1]: 0.0060304 缺乏
+TOKEN[54]: 0.0059960    1 chip
+	chip WORD[54,   1]: 0.0059960 缺ける
+TOKEN[55]: 0.0058025    1 team
+	team WORD[55,   1]: 0.0058025 缺ける
+TOKEN[56]: 0.0057965    1 split
+	split WORD[56,   1]: 0.0057965 罅
+TOKEN[57]: 0.0057424    1 missing
+	missing WORD[57,   1]: 0.0057424 缺ける
+TOKEN[58]: 0.0056731    1 lost
+	lost WORD[58,   1]: 0.0056731 缺ける
+TOKEN[59]: 0.0053680    1 moon
+	moon WORD[59,   1]: 0.0053680 缺ける
+TOKEN[60]: 0.0053393    1 relationship
+	relationship WORD[60,   1]: 0.0053393 罅
+TOKEN[61]: 0.0051819    1 something
+	something WORD[61,   1]: 0.0051819 欠缺
+TOKEN[62]: 0.0046829    1 short
+	short WORD[62,   1]: 0.0046829 缺ける
+TOKEN[63]: 0.0045333    1 break
+	break WORD[63,   1]: 0.0045333 缺ける
+TOKEN[64]: 0.0044128    1 set
+	set WORD[64,   1]: 0.0044128 缺ける
+TOKEN[65]: 0.0041328    1 become
+	become WORD[65,   1]: 0.0041328 缺ける
+TOKEN[66]: 0.0038703    1 go
+	go WORD[66,   1]: 0.0038703 缺ける
+TOKEN[67]: 0.0038678    1 boiler
+	boiler WORD[67,   1]: 0.0038678 製缶
+TOKEN[68]: 0.0033941    1 crab
+	crab WORD[68,   1]: 0.0033941 蟹缶
+TOKEN[69]: 0.0024358    1 beef
+	beef WORD[69,   1]: 0.0024358 牛缶
+TOKEN[70]: 0.0017422    1 bottom
+	bottom WORD[70,   1]: 0.0017422 缶底
+TOKEN[71]: 0.0015847    3 empty
+	empty WORD[71,   1]: 0.0005282 あき缶
+	empty WORD[71,   2]: 0.0005282 空き缶
+	empty WORD[71,   3]: 0.0005282 空缶
+TOKEN[72]: 0.0013863    1 opener
+	opener WORD[72,   1]: 0.0013863 缶切り
+TOKEN[73]: 0.0008201    1 aluminium
+	aluminium WORD[73,   1]: 0.0008201 アルミ缶
+TOKEN[74]: 0.0007967    1 aluminum
+	aluminum WORD[74,   1]: 0.0007967 アルミ缶
+TOKEN[75]: 0.0006225    1 kick
+	kick WORD[75,   1]: 0.0006225 缶蹴り
+TOKEN[76]: 0.0005042    1 game
+	game WORD[76,   1]: 0.0005042 缶蹴り

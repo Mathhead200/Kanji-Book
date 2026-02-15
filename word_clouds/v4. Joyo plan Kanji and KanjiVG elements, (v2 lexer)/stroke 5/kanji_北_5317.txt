@@ -1,0 +1,368 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2318885   31 north          : 正北, 磁北, 北征, 北面, 北向き, 北行, 北寄り, 北家, 北進, 北壁, ...
+0.1281996   22 northern       : 北征, 北光, 北半, 北向き, 北軍, 北天, 北国, 北方, 北境, 北回り, ...
+0.0604898    1 due            : 正北
+0.0449434    5 dynasty        : 北斉, 北周, 北宋, 北魏, 北狄
+0.0236030    1 magnetic       : 磁北
+0.0208800    1 expedition     : 北征
+0.0199688    1 campaign       : 北征
+0.0159543    3 Japan          : 北陸道, 南北朝, 北朝
+0.0155827    1 military       : 北征
+0.0130776    1 Vulpes         : 北狐
+0.0129556    3 region         : 北陸道, 北陸, 北部
+0.0126892    3 facing         : 北向き, 北の方, 北面
+0.0118265    2 northward      : 北行, 以北
+0.0117113    1 player         : 北家
+0.0106678    3 wind           : 北寄り, 北風, 北
+0.0103035    1 highway        : 北陸道
+0.0102686    2 route          : 北回り, 北廻り
+0.0101524    1 Chou           : 北周
+0.0101038    1 northernmost   : 最北
+0.0100947    1 seven          : 北陸道
+0.0099785    1 fox            : 北狐
+0.0078432    1 running        : 北陸道
+0.0077302    1 ancient        : 北陸道
+0.0074703    1 exposure       : 北向き
+0.0074338    1 Peking         : 北京
+0.0074190    2 Pole           : 極北, 北極
+0.0074155    1 half           : 北半
+0.0072704    1 American       : 北軍
+0.0072477    1 red            : 北狐
+0.0070625    1 geodetic       : 真北
+0.0070617    1 Wei            : 北魏
+0.0070295    1 proceeding     : 北進
+0.0069588    1 heading        : 北行
+0.0069443    2 true           : 北の方, 真北
+0.0069050    2 extremity      : 北辺, 北端
+0.0065935    1 civil          : 北軍
+0.0060819    2 face           : 北壁, 北面
+0.0060783    1 army           : 北軍
+0.0059833    2 going          : 北行, 北上
+0.0058596    1 flowing        : 北流
+0.0057763    1 boundary       : 北境
+0.0055245    1 sky            : 北天
+0.0054886    1 war            : 北軍
+0.0051370    2 one            : 北陸道, 北枕
+0.0050542    3 part           : 洛北, 北部, 北方
+0.0050436    1 gloat          : 北叟笑む
+0.0048657    1 wall           : 北壁
+0.0048493    1 chuckle        : 北叟笑む
+0.0045726    1 river          : 北流
+0.0044848    1 south          : 南北
+0.0043893    1 mountain       : 北壁
+0.0039012    2 bank           : 北岸, 北側
+0.0037253    1 Scandinavia    : 北欧
+0.0037253    1 Nordic         : 北欧
+0.0035464    1 puffer         : 北枕
+0.0035139    1 taboo          : 北枕
+0.0033969    1 limit          : 北限
+0.0032140    1 oneself        : 北叟笑む
+0.0031302    1 latitude       : 北緯
+0.0031179    2 side           : 北面, 北側
+0.0031117    1 nobleman       : 北の方
+0.0030791    1 northeast      : 北東
+0.0030644    2 country        : 北国, 北方
+0.0030218    1 term           : 北狄
+0.0030007    1 lying          : 北枕
+0.0029356    1 sleeping       : 北枕
+0.0028316    1 northland      : 北国
+0.0027474    1 coast          : 北岸
+0.0027436    1 extreme        : 極北
+0.0027383    1 setback        : 敗北
+0.0027305    1 America        : 北米
+0.0026876    1 administrative : 北海道
+0.0025726    1 wife           : 北の方
+0.0025473    1 people         : 北狄
+0.0024651    1 dead           : 北枕
+0.0024382    1 capital        : 洛北
+0.0024041    1 South          : 南北
+0.0023858    1 island         : 北海道
+0.0023701    1 reverse        : 敗北
+0.0023663    1 Chinese        : 北狄
+0.0023116    1 species        : 北枕
+0.0022902    1 unit           : 北海道
+0.0022529    1 position       : 北枕
+0.0021797    1 six            : 東北
+0.0021400    1 head           : 北枕
+0.0020883    1 Russia         : 北オセチア
+0.0020349    1 defeat         : 敗北
+0.0020196    1 lake           : 湖北
+0.0020091    1 exit           : 北口
+0.0019862    1 loss           : 敗北
+0.0019205    1 sea            : 北海
+0.0017101    1 district       : 北方
+0.0017072    1 entrance       : 北口
+0.0016911    1 gate           : 北門
+0.0016768    1 direction      : 北方
+0.0015552    1 city           : 北九州
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2318885   31 north
+	north WORD[ 1,   1]: 0.0655542 正北
+	north WORD[ 1,   2]: 0.0198383 磁北
+	north WORD[ 1,   3]: 0.0184202 北征
+	north WORD[ 1,   4]: 0.0095781 北面
+	north WORD[ 1,   5]: 0.0072010 北向き
+	north WORD[ 1,   6]: 0.0064192 北行
+	north WORD[ 1,   7]: 0.0061280 北寄り
+	north WORD[ 1,   8]: 0.0060583 北家
+	north WORD[ 1,   9]: 0.0059083 北進
+	north WORD[ 1,  10]: 0.0056940 北壁
+	north WORD[ 1,  11]: 0.0054052 北流
+	north WORD[ 1,  12]: 0.0048384 真北
+	north WORD[ 1,  13]: 0.0047889 北岸
+	north WORD[ 1,  14]: 0.0043763 南北
+	north WORD[ 1,  15]: 0.0038472 北山
+	north WORD[ 1,  16]: 0.0037569 湖北
+	north WORD[ 1,  17]: 0.0036400 北口
+	north WORD[ 1,  18]: 0.0036400 北側
+	north WORD[ 1,  19]: 0.0036396 北
+	north WORD[ 1,  20]: 0.0034557 北狄
+	north WORD[ 1,  21]: 0.0029281 北枕
+	north WORD[ 1,  22]: 0.0029281 北の方
+	north WORD[ 1,  23]: 0.0028886 極北
+	north WORD[ 1,  24]: 0.0026667 洛北
+	north WORD[ 1,  25]: 0.0023945 北部
+	north WORD[ 1,  26]: 0.0023944 北緯
+	north WORD[ 1,  27]: 0.0018210 北門
+	north WORD[ 1,  28]: 0.0018200 北上
+	north WORD[ 1,  29]: 0.0018200 北方
+	north WORD[ 1,  30]: 0.0018200 北風
+	north WORD[ 1,  31]: 0.0016830 以北
+TOKEN[ 2]: 0.1281996   22 northern
+	northern WORD[ 2,   1]: 0.0188218 北征
+	northern WORD[ 2,   2]: 0.0158987 北光
+	northern WORD[ 2,   3]: 0.0082371 北半
+	northern WORD[ 2,   4]: 0.0073580 北向き
+	northern WORD[ 2,   5]: 0.0065149 北軍
+	northern WORD[ 2,   6]: 0.0062366 北天
+	northern WORD[ 2,   7]: 0.0055791 北国
+	northern WORD[ 2,   8]: 0.0055790 北方
+	northern WORD[ 2,   9]: 0.0055541 北境
+	northern WORD[ 2,  10]: 0.0055439 北回り
+	northern WORD[ 2,  11]: 0.0055439 北廻り
+	northern WORD[ 2,  12]: 0.0054905 北郊
+	northern WORD[ 2,  13]: 0.0039311 北山
+	northern WORD[ 2,  14]: 0.0035316 北洋
+	northern WORD[ 2,  15]: 0.0035316 北辺
+	northern WORD[ 2,  16]: 0.0035311 北狄
+	northern WORD[ 2,  17]: 0.0035296 北限
+	northern WORD[ 2,  18]: 0.0027248 洛北
+	northern WORD[ 2,  19]: 0.0024500 北海
+	northern WORD[ 2,  20]: 0.0024467 北部
+	northern WORD[ 2,  21]: 0.0024467 北端
+	northern WORD[ 2,  22]: 0.0018595 北
+TOKEN[ 3]: 0.0604898    1 due
+	due WORD[ 3,   1]: 0.0604898 正北
+TOKEN[ 4]: 0.0449434    5 dynasty
+	dynasty WORD[ 4,   1]: 0.0150308 北斉
+	dynasty WORD[ 4,   2]: 0.0141046 北周
+	dynasty WORD[ 4,   3]: 0.0074515 北宋
+	dynasty WORD[ 4,   4]: 0.0051577 北魏
+	dynasty WORD[ 4,   5]: 0.0031989 北狄
+TOKEN[ 5]: 0.0236030    1 magnetic
+	magnetic WORD[ 5,   1]: 0.0236030 磁北
+TOKEN[ 6]: 0.0208800    1 expedition
+	expedition WORD[ 6,   1]: 0.0208800 北征
+TOKEN[ 7]: 0.0199688    1 campaign
+	campaign WORD[ 7,   1]: 0.0199688 北征
+TOKEN[ 8]: 0.0159543    3 Japan
+	Japan WORD[ 8,   1]: 0.0073606 北陸道
+	Japan WORD[ 8,   2]: 0.0044755 南北朝
+	Japan WORD[ 8,   3]: 0.0041182 北朝
+TOKEN[ 9]: 0.0155827    1 military
+	military WORD[ 9,   1]: 0.0155827 北征
+TOKEN[10]: 0.0130776    1 Vulpes
+	Vulpes WORD[10,   1]: 0.0130776 北狐
+TOKEN[11]: 0.0129556    3 region
+	region WORD[11,   1]: 0.0086023 北陸道
+	region WORD[11,   2]: 0.0021766 北陸
+	region WORD[11,   3]: 0.0021766 北部
+TOKEN[12]: 0.0126892    3 facing
+	facing WORD[12,   1]: 0.0072962 北向き
+	facing WORD[12,   2]: 0.0029668 北の方
+	facing WORD[12,   3]: 0.0024262 北面
+TOKEN[13]: 0.0118265    2 northward
+	northward WORD[13,   1]: 0.0093699 北行
+	northward WORD[13,   2]: 0.0024566 以北
+TOKEN[14]: 0.0117113    1 player
+	player WORD[14,   1]: 0.0058556 北家
+TOKEN[15]: 0.0106678    3 wind
+	wind WORD[15,   1]: 0.0048758 北寄り
+	wind WORD[15,   2]: 0.0028962 北風
+	wind WORD[15,   3]: 0.0014479 北
+TOKEN[16]: 0.0103035    1 highway
+	highway WORD[16,   1]: 0.0103035 北陸道
+TOKEN[17]: 0.0102686    2 route
+	route WORD[17,   1]: 0.0051343 北回り
+	route WORD[17,   2]: 0.0051343 北廻り
+TOKEN[18]: 0.0101524    1 Chou
+	Chou WORD[18,   1]: 0.0101524 北周
+TOKEN[19]: 0.0101038    1 northernmost
+	northernmost WORD[19,   1]: 0.0101038 最北
+TOKEN[20]: 0.0100947    1 seven
+	seven WORD[20,   1]: 0.0100947 北陸道
+TOKEN[21]: 0.0099785    1 fox
+	fox WORD[21,   1]: 0.0099785 北狐
+TOKEN[22]: 0.0078432    1 running
+	running WORD[22,   1]: 0.0078432 北陸道
+TOKEN[23]: 0.0077302    1 ancient
+	ancient WORD[23,   1]: 0.0077302 北陸道
+TOKEN[24]: 0.0074703    1 exposure
+	exposure WORD[24,   1]: 0.0074703 北向き
+TOKEN[25]: 0.0074338    1 Peking
+	Peking WORD[25,   1]: 0.0037169 北京
+TOKEN[26]: 0.0074190    2 Pole
+	Pole WORD[26,   1]: 0.0040540 極北
+	Pole WORD[26,   2]: 0.0033650 北極
+TOKEN[27]: 0.0074155    1 half
+	half WORD[27,   1]: 0.0074155 北半
+TOKEN[28]: 0.0072704    1 American
+	American WORD[28,   1]: 0.0072704 北軍
+TOKEN[29]: 0.0072477    1 red
+	red WORD[29,   1]: 0.0072477 北狐
+TOKEN[30]: 0.0070625    1 geodetic
+	geodetic WORD[30,   1]: 0.0035312 真北
+TOKEN[31]: 0.0070617    1 Wei
+	Wei WORD[31,   1]: 0.0070617 北魏
+TOKEN[32]: 0.0070295    1 proceeding
+	proceeding WORD[32,   1]: 0.0070295 北進
+TOKEN[33]: 0.0069588    1 heading
+	heading WORD[33,   1]: 0.0069588 北行
+TOKEN[34]: 0.0069443    2 true
+	true WORD[34,   1]: 0.0026181 北の方
+	true WORD[34,   2]: 0.0021631 真北
+TOKEN[35]: 0.0069050    2 extremity
+	extremity WORD[35,   1]: 0.0040790 北辺
+	extremity WORD[35,   2]: 0.0028260 北端
+TOKEN[36]: 0.0065935    1 civil
+	civil WORD[36,   1]: 0.0065935 北軍
+TOKEN[37]: 0.0060819    2 face
+	face WORD[37,   1]: 0.0042814 北壁
+	face WORD[37,   2]: 0.0018005 北面
+TOKEN[38]: 0.0060783    1 army
+	army WORD[38,   1]: 0.0060783 北軍
+TOKEN[39]: 0.0059833    2 going
+	going WORD[39,   1]: 0.0046617 北行
+	going WORD[39,   2]: 0.0013217 北上
+TOKEN[40]: 0.0058596    1 flowing
+	flowing WORD[40,   1]: 0.0058596 北流
+TOKEN[41]: 0.0057763    1 boundary
+	boundary WORD[41,   1]: 0.0057763 北境
+TOKEN[42]: 0.0055245    1 sky
+	sky WORD[42,   1]: 0.0055245 北天
+TOKEN[43]: 0.0054886    1 war
+	war WORD[43,   1]: 0.0054886 北軍
+TOKEN[44]: 0.0051370    2 one
+	one WORD[44,   1]: 0.0039231 北陸道
+	one WORD[44,   2]: 0.0012139 北枕
+TOKEN[45]: 0.0050542    3 part
+	part WORD[45,   1]: 0.0019587 洛北
+	part WORD[45,   2]: 0.0017588 北部
+	part WORD[45,   3]: 0.0013368 北方
+TOKEN[46]: 0.0050436    1 gloat
+	gloat WORD[46,   1]: 0.0050436 北叟笑む
+TOKEN[47]: 0.0048657    1 wall
+	wall WORD[47,   1]: 0.0048657 北壁
+TOKEN[48]: 0.0048493    1 chuckle
+	chuckle WORD[48,   1]: 0.0048493 北叟笑む
+TOKEN[49]: 0.0045726    1 river
+	river WORD[49,   1]: 0.0045726 北流
+TOKEN[50]: 0.0044848    1 south
+	south WORD[50,   1]: 0.0044848 南北
+TOKEN[51]: 0.0043893    1 mountain
+	mountain WORD[51,   1]: 0.0043893 北壁
+TOKEN[52]: 0.0039012    2 bank
+	bank WORD[52,   1]: 0.0022165 北岸
+	bank WORD[52,   2]: 0.0016847 北側
+TOKEN[53]: 0.0037253    1 Scandinavia
+	Scandinavia WORD[53,   1]: 0.0037253 北欧
+TOKEN[54]: 0.0037253    1 Nordic
+	Nordic WORD[54,   1]: 0.0037253 北欧
+TOKEN[55]: 0.0035464    1 puffer
+	puffer WORD[55,   1]: 0.0035464 北枕
+TOKEN[56]: 0.0035139    1 taboo
+	taboo WORD[56,   1]: 0.0035139 北枕
+TOKEN[57]: 0.0033969    1 limit
+	limit WORD[57,   1]: 0.0033969 北限
+TOKEN[58]: 0.0032140    1 oneself
+	oneself WORD[58,   1]: 0.0032140 北叟笑む
+TOKEN[59]: 0.0031302    1 latitude
+	latitude WORD[59,   1]: 0.0031302 北緯
+TOKEN[60]: 0.0031179    2 side
+	side WORD[60,   1]: 0.0017715 北面
+	side WORD[60,   2]: 0.0013464 北側
+TOKEN[61]: 0.0031117    1 nobleman
+	nobleman WORD[61,   1]: 0.0031117 北の方
+TOKEN[62]: 0.0030791    1 northeast
+	northeast WORD[62,   1]: 0.0030791 北東
+TOKEN[63]: 0.0030644    2 country
+	country WORD[63,   1]: 0.0015322 北国
+	country WORD[63,   2]: 0.0015322 北方
+TOKEN[64]: 0.0030218    1 term
+	term WORD[64,   1]: 0.0030218 北狄
+TOKEN[65]: 0.0030007    1 lying
+	lying WORD[65,   1]: 0.0030007 北枕
+TOKEN[66]: 0.0029356    1 sleeping
+	sleeping WORD[66,   1]: 0.0029356 北枕
+TOKEN[67]: 0.0028316    1 northland
+	northland WORD[67,   1]: 0.0028316 北国
+TOKEN[68]: 0.0027474    1 coast
+	coast WORD[68,   1]: 0.0027474 北岸
+TOKEN[69]: 0.0027436    1 extreme
+	extreme WORD[69,   1]: 0.0027436 極北
+TOKEN[70]: 0.0027383    1 setback
+	setback WORD[70,   1]: 0.0027383 敗北
+TOKEN[71]: 0.0027305    1 America
+	America WORD[71,   1]: 0.0027305 北米
+TOKEN[72]: 0.0026876    1 administrative
+	administrative WORD[72,   1]: 0.0026876 北海道
+TOKEN[73]: 0.0025726    1 wife
+	wife WORD[73,   1]: 0.0025726 北の方
+TOKEN[74]: 0.0025473    1 people
+	people WORD[74,   1]: 0.0025473 北狄
+TOKEN[75]: 0.0024651    1 dead
+	dead WORD[75,   1]: 0.0024651 北枕
+TOKEN[76]: 0.0024382    1 capital
+	capital WORD[76,   1]: 0.0024382 洛北
+TOKEN[77]: 0.0024041    1 South
+	South WORD[77,   1]: 0.0024041 南北
+TOKEN[78]: 0.0023858    1 island
+	island WORD[78,   1]: 0.0023858 北海道
+TOKEN[79]: 0.0023701    1 reverse
+	reverse WORD[79,   1]: 0.0023701 敗北
+TOKEN[80]: 0.0023663    1 Chinese
+	Chinese WORD[80,   1]: 0.0023663 北狄
+TOKEN[81]: 0.0023116    1 species
+	species WORD[81,   1]: 0.0023116 北枕
+TOKEN[82]: 0.0022902    1 unit
+	unit WORD[82,   1]: 0.0022902 北海道
+TOKEN[83]: 0.0022529    1 position
+	position WORD[83,   1]: 0.0022529 北枕
+TOKEN[84]: 0.0021797    1 six
+	six WORD[84,   1]: 0.0021797 東北
+TOKEN[85]: 0.0021400    1 head
+	head WORD[85,   1]: 0.0021400 北枕
+TOKEN[86]: 0.0020883    1 Russia
+	Russia WORD[86,   1]: 0.0020883 北オセチア
+TOKEN[87]: 0.0020349    1 defeat
+	defeat WORD[87,   1]: 0.0020349 敗北
+TOKEN[88]: 0.0020196    1 lake
+	lake WORD[88,   1]: 0.0020196 湖北
+TOKEN[89]: 0.0020091    1 exit
+	exit WORD[89,   1]: 0.0020091 北口
+TOKEN[90]: 0.0019862    1 loss
+	loss WORD[90,   1]: 0.0019862 敗北
+TOKEN[91]: 0.0019205    1 sea
+	sea WORD[91,   1]: 0.0019205 北海
+TOKEN[92]: 0.0017101    1 district
+	district WORD[92,   1]: 0.0017101 北方
+TOKEN[93]: 0.0017072    1 entrance
+	entrance WORD[93,   1]: 0.0017072 北口
+TOKEN[94]: 0.0016911    1 gate
+	gate WORD[94,   1]: 0.0016911 北門
+TOKEN[95]: 0.0016768    1 direction
+	direction WORD[95,   1]: 0.0016768 北方
+TOKEN[96]: 0.0015552    1 city
+	city WORD[96,   1]: 0.0015552 北九州

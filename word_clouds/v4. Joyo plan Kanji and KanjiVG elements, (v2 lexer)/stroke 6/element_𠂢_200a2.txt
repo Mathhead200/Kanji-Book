@@ -1,0 +1,723 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2098295    1 cat            : 猫派
+0.1290603    1 person         : 猫派
+0.0336865    8 pulse          : 脈診, 脈拍, 脈搏, 死脈, 脈所, 平脈, 脈, 脈打つ
+0.0255593   10 vein           : 門脈, 死脈, 分脈, 主脈, 静脈, 脈, 一脈, 脈打つ, 鉱脈, 金脈
+0.0238314    5 flashy         : ど派手, ド派手, 派手派手しい, 派手やか, 派手
+0.0227285    2 cheesy         : ど派手, ド派手
+0.0213976    4 gaudy          : ど派手, ド派手, 派手派手しい, 派手
+0.0168956    1 bradycardia    : 徐脈
+0.0168213    1 tachycardia    : 頻脈
+0.0128239    5 vessel         : 脈管, 分脈, 気脈, 血脈, 脈絡
+0.0128207    5 blood          : 脈管, 血脈, 分脈, 気脈, 脈絡
+0.0126310    2 undulating     : 竜脈, 龍脈
+0.0118203    4 range          : 竜脈, 龍脈, 主脈, 山脈
+0.0104444    4 mountain       : 竜脈, 龍脈, 山脈, 主脈
+0.0093809    2 flowing        : 竜脈, 龍脈
+0.0089636    2 medicine       : 脈診, 経脈
+0.0085096    2 energy         : 竜脈, 龍脈
+0.0084281    1 diagnostic     : 脈診
+0.0081887    2 traditional    : 脈診, 経脈
+0.0079484    1 diagnosis      : 脈診
+0.0076194    5 branch         : 支脈, 分脈, 語派, 門派, 分派
+0.0073276    2 air            : 竜脈, 龍脈
+0.0072563    1 portal         : 門脈
+0.0071901    2 Chinese        : 脈診, 経脈
+0.0069818    3 pulsation      : 脈拍, 脈搏, 脈動
+0.0069136    1 dike           : 岩脈
+0.0067985    1 striae         : 脈理
+0.0067985    1 cording        : 脈理
+0.0065704   12 school         : 異派, 画派, 琳派, 流派, 門派, 別派, 新派, 旧派, 派, 宗派, ...
+0.0062743    2 context        : 文脈, 脈絡
+0.0062472    3 flamboyant     : 派手派手しい, 派手好み, 派手やか
+0.0062166    4 wing           : 翅脈, 派, 左派, 右派
+0.0061327    1 stria          : 脈理
+0.0060784    1 medical        : 脈診
+0.0060421   11 faction        : 自派, 分派, 派閥, 派, 同派, 党派, たか派, タカ派, 鷹派, 各派, ...
+0.0059957    3 thread         : 命脈, 脈, 一脈
+0.0058896    1 meridian       : 経脈
+0.0056039    3 connection     : 気脈, 脈絡, 一脈
+0.0054402    1 duct           : 脈管
+0.0052657    1 feeling        : 脈診
+0.0052422   10 sect           : 末派, 門派, 別派, 教派, 分派, 派, 同派, 宗派, 学派, 一派
+0.0047446    2 ceaseless      : 脈々, 脈脈
+0.0046826    1 waterway       : 水脈
+0.0043481    1 cord           : 脈理
+0.0042911    1 insect         : 翅脈
+0.0042362    2 unbroken       : 脈々, 脈脈
+0.0042259    1 wake           : 水脈
+0.0042259    1 channel        : 水脈
+0.0041580    1 flow           : 経脈
+0.0040896    2 chain          : 脈, 脈絡
+0.0039118    2 continuous     : 脈々, 脈脈
+0.0038219    2 leaf           : 主脈, 葉脈
+0.0037055    1 life           : 命脈
+0.0035350    1 main           : 主脈
+0.0034630    2 rate           : 脈拍, 脈搏
+0.0034373    3 showy          : 派手好み, 派手やか, 派手
+0.0034073    2 stroke         : 脈拍, 脈搏
+0.0033525    1 costa          : 主脈
+0.0033450    1 tributary      : 分脈
+0.0033450    1 ramification   : 分脈
+0.0032242    1 weakening      : 死脈
+0.0032228    1 ship           : 水脈
+0.0032117    2 different      : 別派, 異派
+0.0032070    1 offshoot       : 分脈
+0.0031702    7 party          : 自派, 別派, 派, 軟派, 党派, 各派, 一派
+0.0031453    1 midrib         : 主脈
+0.0030710    2 one            : 脈診, 自派
+0.0030529    1 exhausted      : 死脈
+0.0029009    1 spur           : 支脈
+0.0028953    1 vital          : 脈所
+0.0028366    1 mining         : 死脈
+0.0027698    1 feed           : 支脈
+0.0027697    1 pulsatory      : 脈動
+0.0027695    1 pulsate        : 脈打つ
+0.0027214    1 nerve          : 分脈
+0.0026482    1 fork           : 分脈
+0.0026458    1 linkage        : 語脈
+0.0026228    5 denomination   : 教派, 分派, 派, 宗派, 会派
+0.0025466    1 normal         : 平脈
+0.0025318    1 tacit          : 気脈
+0.0024656    1 taken          : 脈所
+0.0024573    1 collusion      : 気脈
+0.0024085    1 arterial       : 動脈
+0.0023948    1 coherence      : 脈絡
+0.0022685    1 reasoning      : 脈絡
+0.0022473    1 spot           : 脈所
+0.0022223    1 logical        : 脈絡
+0.0021731    1 extravagant    : 派手好み
+0.0021726    1 artery         : 動脈
+0.0021134    2 painting       : 画派, 琳派
+0.0020871    1 lode           : 鉱脈
+0.0020692    2 thought        : 文脈, 新派
+0.0020657    1 chaos          : 乱脈
+0.0019954    1 pound          : 脈打つ
+0.0019652    1 hope           : 脈
+0.0019351    1 confusion      : 乱脈
+0.0019292    1 disorder       : 乱脈
+0.0018918    1 motion         : 脈動
+0.0018807    1 understanding  : 気脈
+0.0017961    1 point          : 脈所
+0.0017727    1 relationship   : 血脈
+0.0017523    1 word           : 語脈
+0.0017412    1 argument       : 脈
+0.0017374    1 background     : 文脈
+0.0016714    1 personal       : 人脈
+0.0016272    1 passage        : 文脈
+0.0015906    1 event          : 文脈
+0.0015713    1 reef           : 鉱脈
+0.0015617    3 clique         : 派閥, 派, 党派
+0.0015481    1 major          : 動脈
+0.0015298    1 streak         : 鉱脈
+0.0014855    1 patron         : 金脈
+0.0014809    1 ore            : 鉱脈
+0.0014650    1 route          : 動脈
+0.0014481    1 matter         : 文脈
+0.0014334    1 heart          : 脈打つ
+0.0013366    3 dispatch       : 派兵, 派遣, 急派
+0.0013213    1 financial      : 金脈
+0.0013141    1 belt           : 山脈
+0.0012961    1 line           : 文脈
+0.0012876    1 road           : 動脈
+0.0012736    2 group          : 他派, 派
+0.0012450    1 source         : 金脈
+0.0012279    1 gold           : 金脈
+0.0011955    2 man            : 硬派, 軟派
+0.0011598    1 century        : 琳派
+0.0011055    3 political      : 派, 硬派, 会派
+0.0009642    1 money          : 金脈
+0.0009514    1 agency         : 派遣
+0.0009224    1 moderate       : 軟派
+0.0009195    1 new            : 新派
+0.0009063    1 language       : 語派
+0.0008635    1 newspaper      : 軟派
+0.0008344    1 temporary      : 派遣
+0.0008159    1 old            : 旧派
+0.0008047    1 underling      : 末派
+0.0007991    1 creditable     : 立派
+0.0007991    1 undeniable     : 立派
+0.0007991    1 indisputable   : 立派
+0.0007646    1 family         : 語派
+0.0006884    1 temp           : 派遣
+0.0006714    1 lawful         : 立派
+0.0006700    1 columnist      : 軟派
+0.0006533    1 drama          : 新派
+0.0006510    1 praiseworthy   : 立派
+0.0006488    1 division       : 門派
+0.0006465    1 religious      : 門派
+0.0006428    1 coterie        : 派
+0.0006394    1 branching      : 分派
+0.0006286    1 seducer        : 軟派
+0.0006283    1 handsome       : 立派
+0.0006111    1 legitimate     : 立派
+0.0006044    1 talker         : 軟派
+0.0006016    1 imposing       : 立派
+0.0005973    1 worthy         : 立派
+0.0005922    1 derivation     : 派生
+0.0005872    1 playboy        : 軟派
+0.0005789    1 prominent      : 立派
+0.0005757    1 impressive     : 立派
+0.0005739    1 bearish        : 軟派
+0.0005608    1 deployment     : 派遣
+0.0005399    1 communion      : 会派
+0.0005328    1 solid          : 立派
+0.0005279    1 elegant        : 立派
+0.0005176    1 legal          : 立派
+0.0005098    1 splendid       : 立派
+0.0005015    1 reporter       : 硬派
+0.0005008    1 trader         : 軟派
+0.0004874    1 envoy          : 特派
+0.0004854    1 ladies         : 軟派
+0.0004808    1 bullish        : 硬派
+0.0004801    1 crime          : 立派
+0.0004729    1 masculine      : 硬派
+0.0004679    1 camp           : 派
+0.0004576    1 employee       : 派遣
+0.0004574    1 loud           : 派手
+0.0004555    1 style          : 旧派
+0.0004447    1 worker         : 派遣
+0.0004436    1 fine           : 立派
+0.0004421    1 sending        : 派出
+0.0004285    1 smooth         : 軟派
+0.0004220    1 economic       : 硬派
+0.0004198    1 society        : 軟派
+0.0004061    1 social         : 軟派
+0.0003938    1 bear           : 軟派
+0.0003840    1 tough          : 硬派
+0.0003787    1 minor          : 諸派
+0.0003780    1 boy            : 硬派
+0.0003692    1 send           : 特派
+0.0003669    1 respect        : 硬派
+0.0003630    1 special        : 特派
+0.0003622    1 story          : 軟派
+0.0003522    1 poetry         : 宗派
+0.0003462    1 news           : 硬派
+0.0003448    1 various        : 諸派
+0.0003078    1 left           : 左派
+0.0003062    1 type           : 硬派
+0.0003051    1 hard           : 硬派
+0.0003014    1 young          : 硬派
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2098295    1 cat
+	cat WORD[ 1,   1]: 0.2098295 猫派
+TOKEN[ 2]: 0.1290603    1 person
+	person WORD[ 2,   1]: 0.1290603 猫派
+TOKEN[ 3]: 0.0336865    8 pulse
+	pulse WORD[ 3,   1]: 0.0074177 脈診
+	pulse WORD[ 3,   2]: 0.0064091 脈拍
+	pulse WORD[ 3,   3]: 0.0064091 脈搏
+	pulse WORD[ 3,   4]: 0.0030529 死脈
+	pulse WORD[ 3,   5]: 0.0029879 脈所
+	pulse WORD[ 3,   6]: 0.0029459 平脈
+	pulse WORD[ 3,   7]: 0.0023276 脈
+	pulse WORD[ 3,   8]: 0.0021363 脈打つ
+TOKEN[ 4]: 0.0255593   10 vein
+	vein WORD[ 4,   1]: 0.0053516 門脈
+	vein WORD[ 4,   2]: 0.0029190 死脈
+	vein WORD[ 4,   3]: 0.0028148 分脈
+	vein WORD[ 4,   4]: 0.0024725 主脈
+	vein WORD[ 4,   5]: 0.0024712 静脈
+	vein WORD[ 4,   6]: 0.0022255 脈
+	vein WORD[ 4,   7]: 0.0022106 一脈
+	vein WORD[ 4,   8]: 0.0020426 脈打つ
+	vein WORD[ 4,   9]: 0.0015393 鉱脈
+	vein WORD[ 4,  10]: 0.0015123 金脈
+TOKEN[ 5]: 0.0238314    5 flashy
+	flashy WORD[ 5,   1]: 0.0098674 ど派手
+	flashy WORD[ 5,   2]: 0.0098672 ド派手
+	flashy WORD[ 5,   3]: 0.0026796 派手派手しい
+	flashy WORD[ 5,   4]: 0.0008532 派手やか
+	flashy WORD[ 5,   5]: 0.0005641 派手
+TOKEN[ 6]: 0.0227285    2 cheesy
+	cheesy WORD[ 6,   1]: 0.0113644 ど派手
+	cheesy WORD[ 6,   2]: 0.0113641 ド派手
+TOKEN[ 7]: 0.0213976    4 gaudy
+	gaudy WORD[ 7,   1]: 0.0091886 ど派手
+	gaudy WORD[ 7,   2]: 0.0091884 ド派手
+	gaudy WORD[ 7,   3]: 0.0024953 派手派手しい
+	gaudy WORD[ 7,   4]: 0.0005252 派手
+TOKEN[ 8]: 0.0168956    1 bradycardia
+	bradycardia WORD[ 8,   1]: 0.0168956 徐脈
+TOKEN[ 9]: 0.0168213    1 tachycardia
+	tachycardia WORD[ 9,   1]: 0.0168213 頻脈
+TOKEN[10]: 0.0128239    5 vessel
+	vessel WORD[10,   1]: 0.0044474 脈管
+	vessel WORD[10,   2]: 0.0024532 分脈
+	vessel WORD[10,   3]: 0.0020477 気脈
+	vessel WORD[10,   4]: 0.0019388 血脈
+	vessel WORD[10,   5]: 0.0019368 脈絡
+TOKEN[11]: 0.0128207    5 blood
+	blood WORD[11,   1]: 0.0038624 脈管
+	blood WORD[11,   2]: 0.0033675 血脈
+	blood WORD[11,   3]: 0.0021305 分脈
+	blood WORD[11,   4]: 0.0017783 気脈
+	blood WORD[11,   5]: 0.0016820 脈絡
+TOKEN[12]: 0.0126310    2 undulating
+	undulating WORD[12,   1]: 0.0063155 竜脈
+	undulating WORD[12,   2]: 0.0063155 龍脈
+TOKEN[13]: 0.0118203    4 range
+	range WORD[13,   1]: 0.0041994 竜脈
+	range WORD[13,   2]: 0.0041994 龍脈
+	range WORD[13,   3]: 0.0020914 主脈
+	range WORD[13,   4]: 0.0013301 山脈
+TOKEN[14]: 0.0104444    4 mountain
+	mountain WORD[14,   1]: 0.0033353 竜脈
+	mountain WORD[14,   2]: 0.0033352 龍脈
+	mountain WORD[14,   3]: 0.0021129 山脈
+	mountain WORD[14,   4]: 0.0016610 主脈
+TOKEN[15]: 0.0093809    2 flowing
+	flowing WORD[15,   1]: 0.0046904 竜脈
+	flowing WORD[15,   2]: 0.0046904 龍脈
+TOKEN[16]: 0.0089636    2 medicine
+	medicine WORD[16,   1]: 0.0052765 脈診
+	medicine WORD[16,   2]: 0.0036872 経脈
+TOKEN[17]: 0.0085096    2 energy
+	energy WORD[17,   1]: 0.0042548 竜脈
+	energy WORD[17,   2]: 0.0042548 龍脈
+TOKEN[18]: 0.0084281    1 diagnostic
+	diagnostic WORD[18,   1]: 0.0084281 脈診
+TOKEN[19]: 0.0081887    2 traditional
+	traditional WORD[19,   1]: 0.0048203 脈診
+	traditional WORD[19,   2]: 0.0033684 経脈
+TOKEN[20]: 0.0079484    1 diagnosis
+	diagnosis WORD[20,   1]: 0.0079484 脈診
+TOKEN[21]: 0.0076194    5 branch
+	branch WORD[21,   1]: 0.0023401 支脈
+	branch WORD[21,   2]: 0.0022566 分脈
+	branch WORD[21,   3]: 0.0019572 語派
+	branch WORD[21,   4]: 0.0006340 門派
+	branch WORD[21,   5]: 0.0004314 分派
+TOKEN[22]: 0.0073276    2 air
+	air WORD[22,   1]: 0.0036638 竜脈
+	air WORD[22,   2]: 0.0036638 龍脈
+TOKEN[23]: 0.0072563    1 portal
+	portal WORD[23,   1]: 0.0072563 門脈
+TOKEN[24]: 0.0071901    2 Chinese
+	Chinese WORD[24,   1]: 0.0042324 脈診
+	Chinese WORD[24,   2]: 0.0029576 経脈
+TOKEN[25]: 0.0069818    3 pulsation
+	pulsation WORD[25,   1]: 0.0023273 脈拍
+	pulsation WORD[25,   2]: 0.0023273 脈搏
+	pulsation WORD[25,   3]: 0.0023273 脈動
+TOKEN[26]: 0.0069136    1 dike
+	dike WORD[26,   1]: 0.0069136 岩脈
+TOKEN[27]: 0.0067985    1 striae
+	striae WORD[27,   1]: 0.0067985 脈理
+TOKEN[28]: 0.0067985    1 cording
+	cording WORD[28,   1]: 0.0067985 脈理
+TOKEN[29]: 0.0065704   12 school
+	school WORD[29,   1]: 0.0013348 異派
+	school WORD[29,   2]: 0.0009318 画派
+	school WORD[29,   3]: 0.0007856 琳派
+	school WORD[29,   4]: 0.0005246 流派
+	school WORD[29,   5]: 0.0005129 門派
+	school WORD[29,   6]: 0.0004977 別派
+	school WORD[29,   7]: 0.0004404 新派
+	school WORD[29,   8]: 0.0004206 旧派
+	school WORD[29,   9]: 0.0003277 派
+	school WORD[29,  10]: 0.0002831 宗派
+	school WORD[29,  11]: 0.0002652 学派
+	school WORD[29,  12]: 0.0002461 一派
+TOKEN[30]: 0.0062743    2 context
+	context WORD[30,   1]: 0.0040058 文脈
+	context WORD[30,   2]: 0.0022685 脈絡
+TOKEN[31]: 0.0062472    3 flamboyant
+	flamboyant WORD[31,   1]: 0.0028829 派手派手しい
+	flamboyant WORD[31,   2]: 0.0024465 派手好み
+	flamboyant WORD[31,   3]: 0.0009179 派手やか
+TOKEN[32]: 0.0062166    4 wing
+	wing WORD[32,   1]: 0.0049635 翅脈
+	wing WORD[32,   2]: 0.0004794 派
+	wing WORD[32,   3]: 0.0004079 左派
+	wing WORD[32,   4]: 0.0003657 右派
+TOKEN[33]: 0.0061327    1 stria
+	stria WORD[33,   1]: 0.0061327 脈理
+TOKEN[34]: 0.0060784    1 medical
+	medical WORD[34,   1]: 0.0060784 脈診
+TOKEN[35]: 0.0060421   11 faction
+	faction WORD[35,   1]: 0.0013989 自派
+	faction WORD[35,   2]: 0.0005347 分派
+	faction WORD[35,   3]: 0.0005088 派閥
+	faction WORD[35,   4]: 0.0005021 派
+	faction WORD[35,   5]: 0.0004841 同派
+	faction WORD[35,   6]: 0.0004730 党派
+	faction WORD[35,   7]: 0.0004488 たか派
+	faction WORD[35,   8]: 0.0004488 タカ派
+	faction WORD[35,   9]: 0.0004488 鷹派
+	faction WORD[35,  10]: 0.0003984 各派
+	faction WORD[35,  11]: 0.0003957 会派
+TOKEN[36]: 0.0059957    3 thread
+	thread WORD[36,   1]: 0.0023502 命脈
+	thread WORD[36,   2]: 0.0018289 脈
+	thread WORD[36,   3]: 0.0018166 一脈
+TOKEN[37]: 0.0058896    1 meridian
+	meridian WORD[37,   1]: 0.0058896 経脈
+TOKEN[38]: 0.0056039    3 connection
+	connection WORD[38,   1]: 0.0019413 気脈
+	connection WORD[38,   2]: 0.0018362 脈絡
+	connection WORD[38,   3]: 0.0018265 一脈
+TOKEN[39]: 0.0054402    1 duct
+	duct WORD[39,   1]: 0.0054402 脈管
+TOKEN[40]: 0.0052657    1 feeling
+	feeling WORD[40,   1]: 0.0052657 脈診
+TOKEN[41]: 0.0052422   10 sect
+	sect WORD[41,   1]: 0.0007389 末派
+	sect WORD[41,   2]: 0.0007173 門派
+	sect WORD[41,   3]: 0.0006961 別派
+	sect WORD[41,   4]: 0.0005908 教派
+	sect WORD[41,   5]: 0.0004880 分派
+	sect WORD[41,   6]: 0.0004583 派
+	sect WORD[41,   7]: 0.0004418 同派
+	sect WORD[41,   8]: 0.0003960 宗派
+	sect WORD[41,   9]: 0.0003709 学派
+	sect WORD[41,  10]: 0.0003442 一派
+TOKEN[42]: 0.0047446    2 ceaseless
+	ceaseless WORD[42,   1]: 0.0023723 脈々
+	ceaseless WORD[42,   2]: 0.0023723 脈脈
+TOKEN[43]: 0.0046826    1 waterway
+	waterway WORD[43,   1]: 0.0023413 水脈
+TOKEN[44]: 0.0043481    1 cord
+	cord WORD[44,   1]: 0.0043481 脈理
+TOKEN[45]: 0.0042911    1 insect
+	insect WORD[45,   1]: 0.0042911 翅脈
+TOKEN[46]: 0.0042362    2 unbroken
+	unbroken WORD[46,   1]: 0.0021181 脈々
+	unbroken WORD[46,   2]: 0.0021181 脈脈
+TOKEN[47]: 0.0042259    1 wake
+	wake WORD[47,   1]: 0.0021130 水脈
+TOKEN[48]: 0.0042259    1 channel
+	channel WORD[48,   1]: 0.0021130 水脈
+TOKEN[49]: 0.0041580    1 flow
+	flow WORD[49,   1]: 0.0041580 経脈
+TOKEN[50]: 0.0040896    2 chain
+	chain WORD[50,   1]: 0.0020462 脈
+	chain WORD[50,   2]: 0.0020433 脈絡
+TOKEN[51]: 0.0039118    2 continuous
+	continuous WORD[51,   1]: 0.0019559 脈々
+	continuous WORD[51,   2]: 0.0019559 脈脈
+TOKEN[52]: 0.0038219    2 leaf
+	leaf WORD[52,   1]: 0.0020212 主脈
+	leaf WORD[52,   2]: 0.0018007 葉脈
+TOKEN[53]: 0.0037055    1 life
+	life WORD[53,   1]: 0.0037055 命脈
+TOKEN[54]: 0.0035350    1 main
+	main WORD[54,   1]: 0.0035350 主脈
+TOKEN[55]: 0.0034630    2 rate
+	rate WORD[55,   1]: 0.0017315 脈拍
+	rate WORD[55,   2]: 0.0017315 脈搏
+TOKEN[56]: 0.0034373    3 showy
+	showy WORD[56,   1]: 0.0021176 派手好み
+	showy WORD[56,   2]: 0.0007945 派手やか
+	showy WORD[56,   3]: 0.0005252 派手
+TOKEN[57]: 0.0034073    2 stroke
+	stroke WORD[57,   1]: 0.0017037 脈拍
+	stroke WORD[57,   2]: 0.0017037 脈搏
+TOKEN[58]: 0.0033525    1 costa
+	costa WORD[58,   1]: 0.0033525 主脈
+TOKEN[59]: 0.0033450    1 tributary
+	tributary WORD[59,   1]: 0.0033450 分脈
+TOKEN[60]: 0.0033450    1 ramification
+	ramification WORD[60,   1]: 0.0033450 分脈
+TOKEN[61]: 0.0032242    1 weakening
+	weakening WORD[61,   1]: 0.0032242 死脈
+TOKEN[62]: 0.0032228    1 ship
+	ship WORD[62,   1]: 0.0016114 水脈
+TOKEN[63]: 0.0032117    2 different
+	different WORD[63,   1]: 0.0016957 別派
+	different WORD[63,   2]: 0.0015159 異派
+TOKEN[64]: 0.0032070    1 offshoot
+	offshoot WORD[64,   1]: 0.0032070 分脈
+TOKEN[65]: 0.0031702    7 party
+	party WORD[65,   1]: 0.0010071 自派
+	party WORD[65,   2]: 0.0005491 別派
+	party WORD[65,   3]: 0.0003615 派
+	party WORD[65,   4]: 0.0003536 軟派
+	party WORD[65,   5]: 0.0003405 党派
+	party WORD[65,   6]: 0.0002869 各派
+	party WORD[65,   7]: 0.0002715 一派
+TOKEN[66]: 0.0031453    1 midrib
+	midrib WORD[66,   1]: 0.0031453 主脈
+TOKEN[67]: 0.0030710    2 one
+	one WORD[67,   1]: 0.0025624 脈診
+	one WORD[67,   2]: 0.0005086 自派
+TOKEN[68]: 0.0030529    1 exhausted
+	exhausted WORD[68,   1]: 0.0030529 死脈
+TOKEN[69]: 0.0029009    1 spur
+	spur WORD[69,   1]: 0.0029009 支脈
+TOKEN[70]: 0.0028953    1 vital
+	vital WORD[70,   1]: 0.0028953 脈所
+TOKEN[71]: 0.0028366    1 mining
+	mining WORD[71,   1]: 0.0028366 死脈
+TOKEN[72]: 0.0027698    1 feed
+	feed WORD[72,   1]: 0.0027698 支脈
+TOKEN[73]: 0.0027697    1 pulsatory
+	pulsatory WORD[73,   1]: 0.0027697 脈動
+TOKEN[74]: 0.0027695    1 pulsate
+	pulsate WORD[74,   1]: 0.0027695 脈打つ
+TOKEN[75]: 0.0027214    1 nerve
+	nerve WORD[75,   1]: 0.0027214 分脈
+TOKEN[76]: 0.0026482    1 fork
+	fork WORD[76,   1]: 0.0026482 分脈
+TOKEN[77]: 0.0026458    1 linkage
+	linkage WORD[77,   1]: 0.0026458 語脈
+TOKEN[78]: 0.0026228    5 denomination
+	denomination WORD[78,   1]: 0.0006754 教派
+	denomination WORD[78,   2]: 0.0005579 分派
+	denomination WORD[78,   3]: 0.0005239 派
+	denomination WORD[78,   4]: 0.0004527 宗派
+	denomination WORD[78,   5]: 0.0004129 会派
+TOKEN[79]: 0.0025466    1 normal
+	normal WORD[79,   1]: 0.0025466 平脈
+TOKEN[80]: 0.0025318    1 tacit
+	tacit WORD[80,   1]: 0.0025318 気脈
+TOKEN[81]: 0.0024656    1 taken
+	taken WORD[81,   1]: 0.0024656 脈所
+TOKEN[82]: 0.0024573    1 collusion
+	collusion WORD[82,   1]: 0.0024573 気脈
+TOKEN[83]: 0.0024085    1 arterial
+	arterial WORD[83,   1]: 0.0024085 動脈
+TOKEN[84]: 0.0023948    1 coherence
+	coherence WORD[84,   1]: 0.0023948 脈絡
+TOKEN[85]: 0.0022685    1 reasoning
+	reasoning WORD[85,   1]: 0.0022685 脈絡
+TOKEN[86]: 0.0022473    1 spot
+	spot WORD[86,   1]: 0.0022473 脈所
+TOKEN[87]: 0.0022223    1 logical
+	logical WORD[87,   1]: 0.0022223 脈絡
+TOKEN[88]: 0.0021731    1 extravagant
+	extravagant WORD[88,   1]: 0.0021731 派手好み
+TOKEN[89]: 0.0021726    1 artery
+	artery WORD[89,   1]: 0.0021726 動脈
+TOKEN[90]: 0.0021134    2 painting
+	painting WORD[90,   1]: 0.0011467 画派
+	painting WORD[90,   2]: 0.0009667 琳派
+TOKEN[91]: 0.0020871    1 lode
+	lode WORD[91,   1]: 0.0020871 鉱脈
+TOKEN[92]: 0.0020692    2 thought
+	thought WORD[92,   1]: 0.0015372 文脈
+	thought WORD[92,   2]: 0.0005320 新派
+TOKEN[93]: 0.0020657    1 chaos
+	chaos WORD[93,   1]: 0.0020657 乱脈
+TOKEN[94]: 0.0019954    1 pound
+	pound WORD[94,   1]: 0.0019954 脈打つ
+TOKEN[95]: 0.0019652    1 hope
+	hope WORD[95,   1]: 0.0019652 脈
+TOKEN[96]: 0.0019351    1 confusion
+	confusion WORD[96,   1]: 0.0019351 乱脈
+TOKEN[97]: 0.0019292    1 disorder
+	disorder WORD[97,   1]: 0.0019292 乱脈
+TOKEN[98]: 0.0018918    1 motion
+	motion WORD[98,   1]: 0.0018918 脈動
+TOKEN[99]: 0.0018807    1 understanding
+	understanding WORD[99,   1]: 0.0018807 気脈
+TOKEN[100]: 0.0017961    1 point
+	point WORD[100,   1]: 0.0017961 脈所
+TOKEN[101]: 0.0017727    1 relationship
+	relationship WORD[101,   1]: 0.0017727 血脈
+TOKEN[102]: 0.0017523    1 word
+	word WORD[102,   1]: 0.0017523 語脈
+TOKEN[103]: 0.0017412    1 argument
+	argument WORD[103,   1]: 0.0017412 脈
+TOKEN[104]: 0.0017374    1 background
+	background WORD[104,   1]: 0.0017374 文脈
+TOKEN[105]: 0.0016714    1 personal
+	personal WORD[105,   1]: 0.0016714 人脈
+TOKEN[106]: 0.0016272    1 passage
+	passage WORD[106,   1]: 0.0016272 文脈
+TOKEN[107]: 0.0015906    1 event
+	event WORD[107,   1]: 0.0015906 文脈
+TOKEN[108]: 0.0015713    1 reef
+	reef WORD[108,   1]: 0.0015713 鉱脈
+TOKEN[109]: 0.0015617    3 clique
+	clique WORD[109,   1]: 0.0005354 派閥
+	clique WORD[109,   2]: 0.0005284 派
+	clique WORD[109,   3]: 0.0004978 党派
+TOKEN[110]: 0.0015481    1 major
+	major WORD[110,   1]: 0.0015481 動脈
+TOKEN[111]: 0.0015298    1 streak
+	streak WORD[111,   1]: 0.0015298 鉱脈
+TOKEN[112]: 0.0014855    1 patron
+	patron WORD[112,   1]: 0.0014855 金脈
+TOKEN[113]: 0.0014809    1 ore
+	ore WORD[113,   1]: 0.0014809 鉱脈
+TOKEN[114]: 0.0014650    1 route
+	route WORD[114,   1]: 0.0014650 動脈
+TOKEN[115]: 0.0014481    1 matter
+	matter WORD[115,   1]: 0.0014481 文脈
+TOKEN[116]: 0.0014334    1 heart
+	heart WORD[116,   1]: 0.0014334 脈打つ
+TOKEN[117]: 0.0013366    3 dispatch
+	dispatch WORD[117,   1]: 0.0004780 派兵
+	dispatch WORD[117,   2]: 0.0004738 派遣
+	dispatch WORD[117,   3]: 0.0003848 急派
+TOKEN[118]: 0.0013213    1 financial
+	financial WORD[118,   1]: 0.0013213 金脈
+TOKEN[119]: 0.0013141    1 belt
+	belt WORD[119,   1]: 0.0013141 山脈
+TOKEN[120]: 0.0012961    1 line
+	line WORD[120,   1]: 0.0012961 文脈
+TOKEN[121]: 0.0012876    1 road
+	road WORD[121,   1]: 0.0012876 動脈
+TOKEN[122]: 0.0012736    2 group
+	group WORD[122,   1]: 0.0009067 他派
+	group WORD[122,   2]: 0.0003669 派
+TOKEN[123]: 0.0012450    1 source
+	source WORD[123,   1]: 0.0012450 金脈
+TOKEN[124]: 0.0012279    1 gold
+	gold WORD[124,   1]: 0.0012279 金脈
+TOKEN[125]: 0.0011955    2 man
+	man WORD[125,   1]: 0.0008599 硬派
+	man WORD[125,   2]: 0.0003356 軟派
+TOKEN[126]: 0.0011598    1 century
+	century WORD[126,   1]: 0.0011598 琳派
+TOKEN[127]: 0.0011055    3 political
+	political WORD[127,   1]: 0.0004214 派
+	political WORD[127,   2]: 0.0003520 硬派
+	political WORD[127,   3]: 0.0003321 会派
+TOKEN[128]: 0.0009642    1 money
+	money WORD[128,   1]: 0.0009642 金脈
+TOKEN[129]: 0.0009514    1 agency
+	agency WORD[129,   1]: 0.0009514 派遣
+TOKEN[130]: 0.0009224    1 moderate
+	moderate WORD[130,   1]: 0.0009224 軟派
+TOKEN[131]: 0.0009195    1 new
+	new WORD[131,   1]: 0.0009195 新派
+TOKEN[132]: 0.0009063    1 language
+	language WORD[132,   1]: 0.0009063 語派
+TOKEN[133]: 0.0008635    1 newspaper
+	newspaper WORD[133,   1]: 0.0008635 軟派
+TOKEN[134]: 0.0008344    1 temporary
+	temporary WORD[134,   1]: 0.0008344 派遣
+TOKEN[135]: 0.0008159    1 old
+	old WORD[135,   1]: 0.0008159 旧派
+TOKEN[136]: 0.0008047    1 underling
+	underling WORD[136,   1]: 0.0008047 末派
+TOKEN[137]: 0.0007991    1 creditable
+	creditable WORD[137,   1]: 0.0007991 立派
+TOKEN[138]: 0.0007991    1 undeniable
+	undeniable WORD[138,   1]: 0.0007991 立派
+TOKEN[139]: 0.0007991    1 indisputable
+	indisputable WORD[139,   1]: 0.0007991 立派
+TOKEN[140]: 0.0007646    1 family
+	family WORD[140,   1]: 0.0007646 語派
+TOKEN[141]: 0.0006884    1 temp
+	temp WORD[141,   1]: 0.0006884 派遣
+TOKEN[142]: 0.0006714    1 lawful
+	lawful WORD[142,   1]: 0.0006714 立派
+TOKEN[143]: 0.0006700    1 columnist
+	columnist WORD[143,   1]: 0.0006700 軟派
+TOKEN[144]: 0.0006533    1 drama
+	drama WORD[144,   1]: 0.0006533 新派
+TOKEN[145]: 0.0006510    1 praiseworthy
+	praiseworthy WORD[145,   1]: 0.0006510 立派
+TOKEN[146]: 0.0006488    1 division
+	division WORD[146,   1]: 0.0006488 門派
+TOKEN[147]: 0.0006465    1 religious
+	religious WORD[147,   1]: 0.0006465 門派
+TOKEN[148]: 0.0006428    1 coterie
+	coterie WORD[148,   1]: 0.0006428 派
+TOKEN[149]: 0.0006394    1 branching
+	branching WORD[149,   1]: 0.0006394 分派
+TOKEN[150]: 0.0006286    1 seducer
+	seducer WORD[150,   1]: 0.0006286 軟派
+TOKEN[151]: 0.0006283    1 handsome
+	handsome WORD[151,   1]: 0.0006283 立派
+TOKEN[152]: 0.0006111    1 legitimate
+	legitimate WORD[152,   1]: 0.0006111 立派
+TOKEN[153]: 0.0006044    1 talker
+	talker WORD[153,   1]: 0.0006044 軟派
+TOKEN[154]: 0.0006016    1 imposing
+	imposing WORD[154,   1]: 0.0006016 立派
+TOKEN[155]: 0.0005973    1 worthy
+	worthy WORD[155,   1]: 0.0005973 立派
+TOKEN[156]: 0.0005922    1 derivation
+	derivation WORD[156,   1]: 0.0005922 派生
+TOKEN[157]: 0.0005872    1 playboy
+	playboy WORD[157,   1]: 0.0005872 軟派
+TOKEN[158]: 0.0005789    1 prominent
+	prominent WORD[158,   1]: 0.0005789 立派
+TOKEN[159]: 0.0005757    1 impressive
+	impressive WORD[159,   1]: 0.0005757 立派
+TOKEN[160]: 0.0005739    1 bearish
+	bearish WORD[160,   1]: 0.0005739 軟派
+TOKEN[161]: 0.0005608    1 deployment
+	deployment WORD[161,   1]: 0.0005608 派遣
+TOKEN[162]: 0.0005399    1 communion
+	communion WORD[162,   1]: 0.0005399 会派
+TOKEN[163]: 0.0005328    1 solid
+	solid WORD[163,   1]: 0.0005328 立派
+TOKEN[164]: 0.0005279    1 elegant
+	elegant WORD[164,   1]: 0.0005279 立派
+TOKEN[165]: 0.0005176    1 legal
+	legal WORD[165,   1]: 0.0005176 立派
+TOKEN[166]: 0.0005098    1 splendid
+	splendid WORD[166,   1]: 0.0005098 立派
+TOKEN[167]: 0.0005015    1 reporter
+	reporter WORD[167,   1]: 0.0005015 硬派
+TOKEN[168]: 0.0005008    1 trader
+	trader WORD[168,   1]: 0.0005008 軟派
+TOKEN[169]: 0.0004874    1 envoy
+	envoy WORD[169,   1]: 0.0004874 特派
+TOKEN[170]: 0.0004854    1 ladies
+	ladies WORD[170,   1]: 0.0004854 軟派
+TOKEN[171]: 0.0004808    1 bullish
+	bullish WORD[171,   1]: 0.0004808 硬派
+TOKEN[172]: 0.0004801    1 crime
+	crime WORD[172,   1]: 0.0004801 立派
+TOKEN[173]: 0.0004729    1 masculine
+	masculine WORD[173,   1]: 0.0004729 硬派
+TOKEN[174]: 0.0004679    1 camp
+	camp WORD[174,   1]: 0.0004679 派
+TOKEN[175]: 0.0004576    1 employee
+	employee WORD[175,   1]: 0.0004576 派遣
+TOKEN[176]: 0.0004574    1 loud
+	loud WORD[176,   1]: 0.0004574 派手
+TOKEN[177]: 0.0004555    1 style
+	style WORD[177,   1]: 0.0004555 旧派
+TOKEN[178]: 0.0004447    1 worker
+	worker WORD[178,   1]: 0.0004447 派遣
+TOKEN[179]: 0.0004436    1 fine
+	fine WORD[179,   1]: 0.0004436 立派
+TOKEN[180]: 0.0004421    1 sending
+	sending WORD[180,   1]: 0.0004421 派出
+TOKEN[181]: 0.0004285    1 smooth
+	smooth WORD[181,   1]: 0.0004285 軟派
+TOKEN[182]: 0.0004220    1 economic
+	economic WORD[182,   1]: 0.0004220 硬派
+TOKEN[183]: 0.0004198    1 society
+	society WORD[183,   1]: 0.0004198 軟派
+TOKEN[184]: 0.0004061    1 social
+	social WORD[184,   1]: 0.0004061 軟派
+TOKEN[185]: 0.0003938    1 bear
+	bear WORD[185,   1]: 0.0003938 軟派
+TOKEN[186]: 0.0003840    1 tough
+	tough WORD[186,   1]: 0.0003840 硬派
+TOKEN[187]: 0.0003787    1 minor
+	minor WORD[187,   1]: 0.0003787 諸派
+TOKEN[188]: 0.0003780    1 boy
+	boy WORD[188,   1]: 0.0003780 硬派
+TOKEN[189]: 0.0003692    1 send
+	send WORD[189,   1]: 0.0003692 特派
+TOKEN[190]: 0.0003669    1 respect
+	respect WORD[190,   1]: 0.0003669 硬派
+TOKEN[191]: 0.0003630    1 special
+	special WORD[191,   1]: 0.0003630 特派
+TOKEN[192]: 0.0003622    1 story
+	story WORD[192,   1]: 0.0003622 軟派
+TOKEN[193]: 0.0003522    1 poetry
+	poetry WORD[193,   1]: 0.0003522 宗派
+TOKEN[194]: 0.0003462    1 news
+	news WORD[194,   1]: 0.0003462 硬派
+TOKEN[195]: 0.0003448    1 various
+	various WORD[195,   1]: 0.0003448 諸派
+TOKEN[196]: 0.0003078    1 left
+	left WORD[196,   1]: 0.0003078 左派
+TOKEN[197]: 0.0003062    1 type
+	type WORD[197,   1]: 0.0003062 硬派
+TOKEN[198]: 0.0003051    1 hard
+	hard WORD[198,   1]: 0.0003051 硬派
+TOKEN[199]: 0.0003014    1 young
+	young WORD[199,   1]: 0.0003014 硬派

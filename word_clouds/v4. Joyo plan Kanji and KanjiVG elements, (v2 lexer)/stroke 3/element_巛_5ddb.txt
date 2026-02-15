@@ -1,0 +1,913 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0769231    1 annihilation   : 剿滅
+0.0473234    1 scriptural     : 經文
+0.0365184    1 priest         : 緇衣
+0.0322837    1 mullet         : 鯔
+0.0295997    1 text           : 經文
+0.0279776    1 slitting       : 自剄
+0.0269289    1 military       : 輜重
+0.0247625    1 transported    : 輜重
+0.0232686    1 robe           : 緇衣
+0.0225216    2 black          : 緇衣, 鯔
+0.0207786    1 throat         : 自剄
+0.0202210    1 suicide        : 自剄
+0.0188206    5 neck           : 頸根, 斜頸, 頸筋, 頸部, 頸
+0.0187754    2 scruff         : 頸根, 頸筋
+0.0164938    3 front          : 輜重, 向う脛, 向こう脛
+0.0153801   16 disaster       : 減災, 災異, 防災, 厄災, 水災, 発災, 変災, 災厄, 災禍, 災い, ...
+0.0149451    5 shin           : 脛楯, 脛当て, 向う脛, 向こう脛, 脛
+0.0143071    2 tibia          : 脛節, 脛骨
+0.0140186    1 small          : 小逕
+0.0133177    1 spasticity     : 痙縮
+0.0133177    1 contracture    : 痙縮
+0.0130978    1 radius         : 小逕
+0.0123364    1 diameter       : 小逕
+0.0120636    1 line           : 輜重
+0.0117932    5 one            : 自剄, 一巡, 脛齧り, 巡らす, 巡邏
+0.0115458    1 lane           : 小逕
+0.0102725    1 stiffness      : 痙縮
+0.0095231    1 difference     : 逕庭
+0.0094048    1 muscle         : 痙縮
+0.0092193    1 path           : 小逕
+0.0090539    1 Mugil          : 鯔
+0.0089806    6 leg            : 向う脛, 向こう脛, ふくら脛, 脹ら脛, 脹脛, 脛
+0.0085969    1 flathead       : 鯔
+0.0085367    1 terse          : 簡勁
+0.0085367    1 laconic        : 簡勁
+0.0083125    1 vigorous       : 雄勁
+0.0082173    1 insect         : 脛節
+0.0078890    1 powerful       : 雄勁
+0.0078144    3 cervical       : 頸髄, 頸管, 頸椎
+0.0076456    1 crisp          : 簡勁
+0.0075862    1 resistant      : 勁草
+0.0073167    1 curt           : 簡勁
+0.0071820    1 great          : 逕庭
+0.0070130    4 natural        : 減災, 災異, 防災, 天災
+0.0069970   16 tour           : 一巡, 湯巡り, 島巡り, 巡錫, 巡る, 巡り, 巡歴, 巡覧, 巡遊, 巡視, ...
+0.0069643    1 striped        : 鯔
+0.0068172   11 calamity       : 災異, 厄災, 災厄, 災禍, 災い, り災, 罹災, 天災, 人災, 災難, ...
+0.0066926    1 grey           : 鯔
+0.0058195    1 spare          : 簡勁
+0.0053243    1 blade          : 勁草
+0.0052642    1 reduction      : 減災
+0.0050501    1 grass          : 勁草
+0.0049091    5 round          : 一巡り, 一巡, 巡察, 巡回, 巡廻
+0.0049058    1 idea           : 勁草
+0.0047937    3 calf           : ふくら脛, 脹ら脛, 脹脛
+0.0047578    2 cramp          : 書痙, 痙攣
+0.0046310    3 lower          : 向う脛, 向こう脛, 脛
+0.0044180    1 protector      : 脛楯
+0.0043382    1 spasmolytic    : 鎮痙
+0.0043382    1 anticonvulsive : 鎮痙
+0.0043382    1 antispasmodic  : 鎮痙
+0.0040096    2 flood          : 三災, 水災
+0.0037865    1 torticollis    : 斜頸
+0.0037865    1 wryneck        : 斜頸
+0.0033829    2 storm          : 三災, 風災
+0.0031266    5 accident       : 厄災, 変災, 災厄, 災禍, 労災
+0.0029861    1 dashing        : 鯔背
+0.0029049    1 effects        : 減災
+0.0028893    1 writer         : 書痙
+0.0028784    4 meet           : 巡りあう, 巡り会う, 巡り合う, 巡り逢う
+0.0028244    1 stiff          : 斜頸
+0.0027732    1 cord           : 頸髄
+0.0027260    4 patrol         : 一巡, 巡行, 巡回, 巡廻
+0.0026437    4 damage         : 風災, 水災, 防災, 戦災
+0.0026056    1 gallant        : 鯔背
+0.0025492    1 sponger        : 脛齧り
+0.0025492    1 sponging       : 脛齧り
+0.0024599    1 tic            : 痙攣
+0.0024101    1 three          : 三災
+0.0023813    1 greaves        : 脛当て
+0.0023546    2 circuit        : 一巡, 巡拝
+0.0023545    1 smart          : 鯔背
+0.0023200    2 fire           : 三災, 火災
+0.0022991    8 chance         : 巡りあう, 巡り会う, 巡り合う, 巡り逢う, 巡り合い, 巡りあわせ, 巡り合せ, 巡り合わせ
+0.0022823    2 anniversary    : 一巡り, 巡る
+0.0021559    1 convulsion     : 痙攣
+0.0020039    1 twitch         : 痙攣
+0.0019989    1 hairy          : 毛脛
+0.0018811    1 spasm          : 痙攣
+0.0017230    1 spinal         : 頸髄
+0.0017177    3 turn           : 一巡り, 巡る, 巡らす
+0.0016682    3 making         : 一巡り, 巡邏, 巡察
+0.0016672    1 shinbone       : 脛骨
+0.0016611    1 multiple       : 湯巡り
+0.0016569    2 death          : 一巡り, 労災
+0.0016325    1 duct           : 頸管
+0.0015998    1 visiting       : 湯巡り
+0.0015881    2 cruiser        : 軽巡, 重巡
+0.0015575    3 going          : 一巡り, 巡回, 巡廻
+0.0015437    4 luck           : 除災, 巡りあわせ, 巡り合せ, 巡り合わせ
+0.0015314    1 canal          : 頸管
+0.0015082    4 misfortune     : 災い, 息災, 災難, 災害
+0.0014869    4 happen         : 巡りあう, 巡り会う, 巡り合う, 巡り逢う
+0.0014841    4 friend         : 巡りあう, 巡り会う, 巡り合う, 巡り逢う
+0.0014478    1 fit            : 痙攣
+0.0014347    1 shank          : 脛
+0.0013745    2 choker         : 頸飾り, 頸輪
+0.0013650    3 suffering      : り災, 罹災, 被災
+0.0013132    1 hot            : 湯巡り
+0.0013089    1 warding        : 除災
+0.0013072    2 necklace       : 頸飾り, 頸輪
+0.0012927    4 running        : 巡りあう, 巡り会う, 巡り合う, 巡り逢う
+0.0011595    2 affliction     : り災, 罹災
+0.0011257    4 old            : 巡りあう, 巡り会う, 巡り合う, 巡り逢う
+0.0011128    1 outbreak       : 発災
+0.0010511    1 occurrence     : 発災
+0.0010498    1 rid            : 除災
+0.0010301    1 person         : 一巡り
+0.0010266    3 travel         : 巡り歩く, 経巡る, 巡る
+0.0008910    1 decapitation   : 刎頸
+0.0008792    1 pillory        : 頸枷
+0.0008475    1 getting        : 除災
+0.0008404    2 earthquake     : 被災, 震災
+0.0008168    3 coincidence    : 巡りあわせ, 巡り合せ, 巡り合わせ
+0.0008081    1 island         : 島巡り
+0.0008055    1 yoke           : 頸木
+0.0007962    2 surround       : 巡る, 巡らす
+0.0007956    1 bad            : 除災
+0.0007940    1 muffler        : 頸巻
+0.0007696    3 circle         : 巡る, お巡り, 御巡り
+0.0007587    1 oppression     : 頸木
+0.0007394    1 scarf          : 頸巻
+0.0007177    2 ponder         : 思い巡らす, 巡らす
+0.0007011    1 visit          : 巡狩
+0.0006992    1 catastrophe    : 災禍
+0.0006989    3 fate           : 巡りあわせ, 巡り合せ, 巡り合わせ
+0.0006797    3 pilgrimage     : 巡り, 巡礼, 巡拝
+0.0006722    3 stroke         : 巡りあわせ, 巡り合せ, 巡り合わせ
+0.0006586    1 burden         : 頸枷
+0.0006413    3 fortune        : 巡りあわせ, 巡り合せ, 巡り合わせ
+0.0006408    1 water          : 水災
+0.0006026    3 policeman      : 巡査, お巡り, 御巡り
+0.0005902    1 wrist          : 手頸
+0.0005799    2 think          : 思い巡らす, 巡らす
+0.0005527    1 ruminate       : 思い巡らす
+0.0005436    1 vertebrae      : 頸椎
+0.0005427    1 resulting      : 防災
+0.0005373    2 enclose        : 巡る, 巡らす
+0.0005353    3 inspection     : 巡視, 巡察, 巡検
+0.0005294    1 sacking        : 頸
+0.0005236    1 insurance      : 労災
+0.0005008    1 typhoon        : 被災
+0.0004998    3 police         : 巡査, お巡り, 御巡り
+0.0004981    1 preparedness   : 防災
+0.0004880    1 compensation   : 労災
+0.0004813    1 prevention     : 防災
+0.0004804    1 heavy          : 重巡
+0.0004786    2 cop            : お巡り, 御巡り
+0.0004722    1 ankle          : 足頸
+0.0004709    1 nape           : 頸筋
+0.0004675    1 wind           : 風災
+0.0004671    2 head           : 頸, 巡らす
+0.0004584    1 counter        : 巡
+0.0004569    1 injury         : 労災
+0.0004450    1 dismissal      : 頸
+0.0004443    1 fortuitous     : 巡り合い
+0.0004410    1 victim         : 被災
+0.0004222    1 reflect        : 思い巡らす
+0.0004211    1 illness        : 労災
+0.0004179    1 protection     : 防災
+0.0004164    1 conflagration  : 火災
+0.0004126    1 firing         : 頸
+0.0004104    1 collar         : 頸輪
+0.0004092    1 trouble        : 災い
+0.0004067    2 blood          : 巡る, 巡り
+0.0004040    1 light          : 軽巡
+0.0003968    1 walk           : 巡り歩く
+0.0003709    1 falling        : 被災
+0.0003708    1 region         : 頸部
+0.0003695    2 ladies         : お巡り, 御巡り
+0.0003675    1 stopping       : 息災
+0.0003598    1 hit            : 被災
+0.0003589    1 job            : 頸
+0.0003564    1 encounter      : 巡り合い
+0.0003539    2 accompany      : お巡り, 御巡り
+0.0003505    1 preaching      : 巡錫
+0.0003472    1 animal         : 頸輪
+0.0003381    1 health         : 息災
+0.0003360    2 doctor         : お巡り, 御巡り
+0.0003085    1 make           : 巡る
+0.0003045    2 dog            : お巡り, 御巡り
+0.0003016    2 beat           : お巡り, 御巡り
+0.0003016    2 walking        : お巡り, 御巡り
+0.0003000    1 antenna        : 張り巡らす
+0.0002992    1 war            : 戦災
+0.0002955    2 trick          : お巡り, 御巡り
+0.0002929    1 girth          : 巡り
+0.0002929    1 encircle       : 巡らす
+0.0002895    1 notify         : 巡らす
+0.0002793    2 language       : お巡り, 御巡り
+0.0002763    1 circumference  : 巡り
+0.0002748    1 dragnet        : 張り巡らす
+0.0002748    1 rigging        : 張り巡らす
+0.0002737    2 court          : お巡り, 御巡り
+0.0002725    1 meeting        : 巡り合い
+0.0002722    1 heel           : 巡らす
+0.0002689    2 secret         : お巡り, 御巡り
+0.0002674    1 network        : 張り巡らす
+0.0002667    1 itinerancy     : 巡歴
+0.0002654    1 circulate      : 巡る
+0.0002654    1 devise         : 巡らす
+0.0002639    1 circulation    : 巡り
+0.0002585    1 repeat         : 巡る
+0.0002527    1 consider       : 巡らす
+0.0002522    1 wiring         : 張り巡らす
+0.0002403    1 good           : 息災
+0.0002389    1 pilgrim        : 巡礼
+0.0002388    1 constable      : 巡査
+0.0002371    1 indecision     : 逡巡
+0.0002319    1 concern        : 巡る
+0.0002315    1 cruise         : 巡航
+0.0002246    2 rice           : お巡り, 御巡り
+0.0002122    1 fence          : 張り巡らす
+0.0002083    1 stretch        : 張り巡らす
+0.0002068    1 hesitation     : 逡巡
+0.0002057    1 season         : 巡る
+0.0002048    1 return         : 巡る
+0.0002045    1 string         : 張り巡らす
+0.0002007    1 royal          : 巡幸
+0.0002001    1 lay            : 張り巡らす
+0.0001983    1 matter         : 巡る
+0.0001956    1 officer        : 巡査
+0.0001917    1 plan           : 巡らす
+0.0001883    1 provincial     : 巡業
+0.0001829    1 writing        : 巡らす
+0.0001806    1 system         : 張り巡らす
+0.0001799    1 ship           : 張り巡らす
+0.0001796    1 progress       : 巡幸
+0.0001733    1 trip           : 巡歴
+0.0001713    1 money          : 巡る
+0.0001691    1 come           : 巡る
+0.0001651    1 work           : 巡らす
+0.0001588    1 performance    : 巡演
+0.0001578    1 go             : 巡る
+0.0001547    1 rush           : 駆け巡る
+0.0001289    1 run            : 駆け巡る
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0769231    1 annihilation
+	annihilation WORD[ 1,   1]: 0.0769231 剿滅
+TOKEN[ 2]: 0.0473234    1 scriptural
+	scriptural WORD[ 2,   1]: 0.0473234 經文
+TOKEN[ 3]: 0.0365184    1 priest
+	priest WORD[ 3,   1]: 0.0365184 緇衣
+TOKEN[ 4]: 0.0322837    1 mullet
+	mullet WORD[ 4,   1]: 0.0107612 鯔
+TOKEN[ 5]: 0.0295997    1 text
+	text WORD[ 5,   1]: 0.0295997 經文
+TOKEN[ 6]: 0.0279776    1 slitting
+	slitting WORD[ 6,   1]: 0.0279776 自剄
+TOKEN[ 7]: 0.0269289    1 military
+	military WORD[ 7,   1]: 0.0269289 輜重
+TOKEN[ 8]: 0.0247625    1 transported
+	transported WORD[ 8,   1]: 0.0247625 輜重
+TOKEN[ 9]: 0.0232686    1 robe
+	robe WORD[ 9,   1]: 0.0232686 緇衣
+TOKEN[10]: 0.0225216    2 black
+	black WORD[10,   1]: 0.0171361 緇衣
+	black WORD[10,   2]: 0.0017952 鯔
+TOKEN[11]: 0.0207786    1 throat
+	throat WORD[11,   1]: 0.0207786 自剄
+TOKEN[12]: 0.0202210    1 suicide
+	suicide WORD[12,   1]: 0.0202210 自剄
+TOKEN[13]: 0.0188206    5 neck
+	neck WORD[13,   1]: 0.0142958 頸根
+	neck WORD[13,   2]: 0.0025396 斜頸
+	neck WORD[13,   3]: 0.0011894 頸筋
+	neck WORD[13,   4]: 0.0003993 頸部
+	neck WORD[13,   5]: 0.0003965 頸
+TOKEN[14]: 0.0187754    2 scruff
+	scruff WORD[14,   1]: 0.0182688 頸根
+	scruff WORD[14,   2]: 0.0005067 頸筋
+TOKEN[15]: 0.0164938    3 front
+	front WORD[15,   1]: 0.0131680 輜重
+	front WORD[15,   2]: 0.0016629 向う脛
+	front WORD[15,   3]: 0.0016629 向こう脛
+TOKEN[16]: 0.0153801   16 disaster
+	disaster WORD[16,   1]: 0.0054464 減災
+	disaster WORD[16,   2]: 0.0015442 災異
+	disaster WORD[16,   3]: 0.0012661 防災
+	disaster WORD[16,   4]: 0.0009986 厄災
+	disaster WORD[16,   5]: 0.0009595 水災
+	disaster WORD[16,   6]: 0.0009273 発災
+	disaster WORD[16,   7]: 0.0006029 変災
+	disaster WORD[16,   8]: 0.0005253 災厄
+	disaster WORD[16,   9]: 0.0005247 災禍
+	disaster WORD[16,  10]: 0.0004612 災い
+	disaster WORD[16,  11]: 0.0004051 被災
+	disaster WORD[16,  12]: 0.0003678 天災
+	disaster WORD[16,  13]: 0.0003484 息災
+	disaster WORD[16,  14]: 0.0003406 震災
+	disaster WORD[16,  15]: 0.0003312 災難
+	disaster WORD[16,  16]: 0.0003310 災害
+TOKEN[17]: 0.0149451    5 shin
+	shin WORD[17,   1]: 0.0043708 脛楯
+	shin WORD[17,   2]: 0.0042725 脛当て
+	shin WORD[17,   3]: 0.0024586 向う脛
+	shin WORD[17,   4]: 0.0024585 向こう脛
+	shin WORD[17,   5]: 0.0013847 脛
+TOKEN[18]: 0.0143071    2 tibia
+	tibia WORD[18,   1]: 0.0127429 脛節
+	tibia WORD[18,   2]: 0.0015642 脛骨
+TOKEN[19]: 0.0140186    1 small
+	small WORD[19,   1]: 0.0140186 小逕
+TOKEN[20]: 0.0133177    1 spasticity
+	spasticity WORD[20,   1]: 0.0133177 痙縮
+TOKEN[21]: 0.0133177    1 contracture
+	contracture WORD[21,   1]: 0.0133177 痙縮
+TOKEN[22]: 0.0130978    1 radius
+	radius WORD[22,   1]: 0.0130978 小逕
+TOKEN[23]: 0.0123364    1 diameter
+	diameter WORD[23,   1]: 0.0123364 小逕
+TOKEN[24]: 0.0120636    1 line
+	line WORD[24,   1]: 0.0120636 輜重
+TOKEN[25]: 0.0117932    5 one
+	one WORD[25,   1]: 0.0079458 自剄
+	one WORD[25,   2]: 0.0029506 一巡
+	one WORD[25,   3]: 0.0007240 脛齧り
+	one WORD[25,   4]: 0.0000971 巡らす
+	one WORD[25,   5]: 0.0000758 巡邏
+TOKEN[26]: 0.0115458    1 lane
+	lane WORD[26,   1]: 0.0115458 小逕
+TOKEN[27]: 0.0102725    1 stiffness
+	stiffness WORD[27,   1]: 0.0102725 痙縮
+TOKEN[28]: 0.0095231    1 difference
+	difference WORD[28,   1]: 0.0095231 逕庭
+TOKEN[29]: 0.0094048    1 muscle
+	muscle WORD[29,   1]: 0.0094048 痙縮
+TOKEN[30]: 0.0092193    1 path
+	path WORD[30,   1]: 0.0092193 小逕
+TOKEN[31]: 0.0090539    1 Mugil
+	Mugil WORD[31,   1]: 0.0030180 鯔
+TOKEN[32]: 0.0089806    6 leg
+	leg WORD[32,   1]: 0.0019591 向う脛
+	leg WORD[32,   2]: 0.0019591 向こう脛
+	leg WORD[32,   3]: 0.0013197 ふくら脛
+	leg WORD[32,   4]: 0.0013197 脹ら脛
+	leg WORD[32,   5]: 0.0013197 脹脛
+	leg WORD[32,   6]: 0.0011034 脛
+TOKEN[33]: 0.0085969    1 flathead
+	flathead WORD[33,   1]: 0.0028656 鯔
+TOKEN[34]: 0.0085367    1 terse
+	terse WORD[34,   1]: 0.0085367 簡勁
+TOKEN[35]: 0.0085367    1 laconic
+	laconic WORD[35,   1]: 0.0085367 簡勁
+TOKEN[36]: 0.0083125    1 vigorous
+	vigorous WORD[36,   1]: 0.0083125 雄勁
+TOKEN[37]: 0.0082173    1 insect
+	insect WORD[37,   1]: 0.0082173 脛節
+TOKEN[38]: 0.0078890    1 powerful
+	powerful WORD[38,   1]: 0.0078890 雄勁
+TOKEN[39]: 0.0078144    3 cervical
+	cervical WORD[39,   1]: 0.0037139 頸髄
+	cervical WORD[39,   2]: 0.0035570 頸管
+	cervical WORD[39,   3]: 0.0005436 頸椎
+TOKEN[40]: 0.0076456    1 crisp
+	crisp WORD[40,   1]: 0.0076456 簡勁
+TOKEN[41]: 0.0075862    1 resistant
+	resistant WORD[41,   1]: 0.0075862 勁草
+TOKEN[42]: 0.0073167    1 curt
+	curt WORD[42,   1]: 0.0073167 簡勁
+TOKEN[43]: 0.0071820    1 great
+	great WORD[43,   1]: 0.0071820 逕庭
+TOKEN[44]: 0.0070130    4 natural
+	natural WORD[44,   1]: 0.0049092 減災
+	natural WORD[44,   2]: 0.0013919 災異
+	natural WORD[44,   3]: 0.0003804 防災
+	natural WORD[44,   4]: 0.0003315 天災
+TOKEN[45]: 0.0069970   16 tour
+	tour WORD[45,   1]: 0.0018459 一巡
+	tour WORD[45,   2]: 0.0016334 湯巡り
+	tour WORD[45,   3]: 0.0008425 島巡り
+	tour WORD[45,   4]: 0.0002941 巡錫
+	tour WORD[45,   5]: 0.0002429 巡る
+	tour WORD[45,   6]: 0.0002429 巡り
+	tour WORD[45,   7]: 0.0001896 巡歴
+	tour WORD[45,   8]: 0.0001896 巡覧
+	tour WORD[45,   9]: 0.0001896 巡遊
+	tour WORD[45,  10]: 0.0001895 巡視
+	tour WORD[45,  11]: 0.0001895 巡幸
+	tour WORD[45,  12]: 0.0001895 巡検
+	tour WORD[45,  13]: 0.0001895 巡業
+	tour WORD[45,  14]: 0.0001895 巡回
+	tour WORD[45,  15]: 0.0001895 巡廻
+	tour WORD[45,  16]: 0.0001895 巡演
+TOKEN[46]: 0.0069643    1 striped
+	striped WORD[46,   1]: 0.0023214 鯔
+TOKEN[47]: 0.0068172   11 calamity
+	calamity WORD[47,   1]: 0.0016602 災異
+	calamity WORD[47,   2]: 0.0010736 厄災
+	calamity WORD[47,   3]: 0.0005648 災厄
+	calamity WORD[47,   4]: 0.0005641 災禍
+	calamity WORD[47,   5]: 0.0004958 災い
+	calamity WORD[47,   6]: 0.0004918 り災
+	calamity WORD[47,   7]: 0.0004918 罹災
+	calamity WORD[47,   8]: 0.0003954 天災
+	calamity WORD[47,   9]: 0.0003677 人災
+	calamity WORD[47,  10]: 0.0003561 災難
+	calamity WORD[47,  11]: 0.0003559 災害
+TOKEN[48]: 0.0066926    1 grey
+	grey WORD[48,   1]: 0.0022309 鯔
+TOKEN[49]: 0.0058195    1 spare
+	spare WORD[49,   1]: 0.0058195 簡勁
+TOKEN[50]: 0.0053243    1 blade
+	blade WORD[50,   1]: 0.0053243 勁草
+TOKEN[51]: 0.0052642    1 reduction
+	reduction WORD[51,   1]: 0.0052642 減災
+TOKEN[52]: 0.0050501    1 grass
+	grass WORD[52,   1]: 0.0050501 勁草
+TOKEN[53]: 0.0049091    5 round
+	round WORD[53,   1]: 0.0029680 一巡り
+	round WORD[53,   2]: 0.0014840 一巡
+	round WORD[53,   3]: 0.0001524 巡察
+	round WORD[53,   4]: 0.0001524 巡回
+	round WORD[53,   5]: 0.0001524 巡廻
+TOKEN[54]: 0.0049058    1 idea
+	idea WORD[54,   1]: 0.0049058 勁草
+TOKEN[55]: 0.0047937    3 calf
+	calf WORD[55,   1]: 0.0015979 ふくら脛
+	calf WORD[55,   2]: 0.0015979 脹ら脛
+	calf WORD[55,   3]: 0.0015979 脹脛
+TOKEN[56]: 0.0047578    2 cramp
+	cramp WORD[56,   1]: 0.0029548 書痙
+	cramp WORD[56,   2]: 0.0018029 痙攣
+TOKEN[57]: 0.0046310    3 lower
+	lower WORD[57,   1]: 0.0018067 向う脛
+	lower WORD[57,   2]: 0.0018067 向こう脛
+	lower WORD[57,   3]: 0.0010176 脛
+TOKEN[58]: 0.0044180    1 protector
+	protector WORD[58,   1]: 0.0044180 脛楯
+TOKEN[59]: 0.0043382    1 spasmolytic
+	spasmolytic WORD[59,   1]: 0.0043382 鎮痙
+TOKEN[60]: 0.0043382    1 anticonvulsive
+	anticonvulsive WORD[60,   1]: 0.0043382 鎮痙
+TOKEN[61]: 0.0043382    1 antispasmodic
+	antispasmodic WORD[61,   1]: 0.0043382 鎮痙
+TOKEN[62]: 0.0040096    2 flood
+	flood WORD[62,   1]: 0.0029649 三災
+	flood WORD[62,   2]: 0.0010446 水災
+TOKEN[63]: 0.0037865    1 torticollis
+	torticollis WORD[63,   1]: 0.0037865 斜頸
+TOKEN[64]: 0.0037865    1 wryneck
+	wryneck WORD[64,   1]: 0.0037865 斜頸
+TOKEN[65]: 0.0033829    2 storm
+	storm WORD[65,   1]: 0.0027825 三災
+	storm WORD[65,   2]: 0.0006004 風災
+TOKEN[66]: 0.0031266    5 accident
+	accident WORD[66,   1]: 0.0010037 厄災
+	accident WORD[66,   2]: 0.0006060 変災
+	accident WORD[66,   3]: 0.0005280 災厄
+	accident WORD[66,   4]: 0.0005274 災禍
+	accident WORD[66,   5]: 0.0004615 労災
+TOKEN[67]: 0.0029861    1 dashing
+	dashing WORD[67,   1]: 0.0029861 鯔背
+TOKEN[68]: 0.0029049    1 effects
+	effects WORD[68,   1]: 0.0029049 減災
+TOKEN[69]: 0.0028893    1 writer
+	writer WORD[69,   1]: 0.0028893 書痙
+TOKEN[70]: 0.0028784    4 meet
+	meet WORD[70,   1]: 0.0007196 巡りあう
+	meet WORD[70,   2]: 0.0007196 巡り会う
+	meet WORD[70,   3]: 0.0007196 巡り合う
+	meet WORD[70,   4]: 0.0007196 巡り逢う
+TOKEN[71]: 0.0028244    1 stiff
+	stiff WORD[71,   1]: 0.0028244 斜頸
+TOKEN[72]: 0.0027732    1 cord
+	cord WORD[72,   1]: 0.0027732 頸髄
+TOKEN[73]: 0.0027260    4 patrol
+	patrol WORD[73,   1]: 0.0020841 一巡
+	patrol WORD[73,   2]: 0.0002140 巡行
+	patrol WORD[73,   3]: 0.0002140 巡回
+	patrol WORD[73,   4]: 0.0002140 巡廻
+TOKEN[74]: 0.0026437    4 damage
+	damage WORD[74,   1]: 0.0010697 風災
+	damage WORD[74,   2]: 0.0008734 水災
+	damage WORD[74,   3]: 0.0003842 防災
+	damage WORD[74,   4]: 0.0003164 戦災
+TOKEN[75]: 0.0026056    1 gallant
+	gallant WORD[75,   1]: 0.0026056 鯔背
+TOKEN[76]: 0.0025492    1 sponger
+	sponger WORD[76,   1]: 0.0025492 脛齧り
+TOKEN[77]: 0.0025492    1 sponging
+	sponging WORD[77,   1]: 0.0025492 脛齧り
+TOKEN[78]: 0.0024599    1 tic
+	tic WORD[78,   1]: 0.0024599 痙攣
+TOKEN[79]: 0.0024101    1 three
+	three WORD[79,   1]: 0.0024101 三災
+TOKEN[80]: 0.0023813    1 greaves
+	greaves WORD[80,   1]: 0.0023813 脛当て
+TOKEN[81]: 0.0023546    2 circuit
+	circuit WORD[81,   1]: 0.0021353 一巡
+	circuit WORD[81,   2]: 0.0002193 巡拝
+TOKEN[82]: 0.0023545    1 smart
+	smart WORD[82,   1]: 0.0023545 鯔背
+TOKEN[83]: 0.0023200    2 fire
+	fire WORD[83,   1]: 0.0020812 三災
+	fire WORD[83,   2]: 0.0002388 火災
+TOKEN[84]: 0.0022991    8 chance
+	chance WORD[84,   1]: 0.0003464 巡りあう
+	chance WORD[84,   2]: 0.0003464 巡り会う
+	chance WORD[84,   3]: 0.0003464 巡り合う
+	chance WORD[84,   4]: 0.0003464 巡り逢う
+	chance WORD[84,   5]: 0.0002895 巡り合い
+	chance WORD[84,   6]: 0.0002080 巡りあわせ
+	chance WORD[84,   7]: 0.0002080 巡り合せ
+	chance WORD[84,   8]: 0.0002080 巡り合わせ
+TOKEN[85]: 0.0022823    2 anniversary
+	anniversary WORD[85,   1]: 0.0020169 一巡り
+	anniversary WORD[85,   2]: 0.0002654 巡る
+TOKEN[86]: 0.0021559    1 convulsion
+	convulsion WORD[86,   1]: 0.0021559 痙攣
+TOKEN[87]: 0.0020039    1 twitch
+	twitch WORD[87,   1]: 0.0020039 痙攣
+TOKEN[88]: 0.0019989    1 hairy
+	hairy WORD[88,   1]: 0.0019989 毛脛
+TOKEN[89]: 0.0018811    1 spasm
+	spasm WORD[89,   1]: 0.0018811 痙攣
+TOKEN[90]: 0.0017230    1 spinal
+	spinal WORD[90,   1]: 0.0017230 頸髄
+TOKEN[91]: 0.0017177    3 turn
+	turn WORD[91,   1]: 0.0013598 一巡り
+	turn WORD[91,   2]: 0.0001790 巡る
+	turn WORD[91,   3]: 0.0001789 巡らす
+TOKEN[92]: 0.0016682    3 making
+	making WORD[92,   1]: 0.0013839 一巡り
+	making WORD[92,   2]: 0.0001421 巡邏
+	making WORD[92,   3]: 0.0001421 巡察
+TOKEN[93]: 0.0016672    1 shinbone
+	shinbone WORD[93,   1]: 0.0016672 脛骨
+TOKEN[94]: 0.0016611    1 multiple
+	multiple WORD[94,   1]: 0.0016611 湯巡り
+TOKEN[95]: 0.0016569    2 death
+	death WORD[95,   1]: 0.0013170 一巡り
+	death WORD[95,   2]: 0.0003399 労災
+TOKEN[96]: 0.0016325    1 duct
+	duct WORD[96,   1]: 0.0016325 頸管
+TOKEN[97]: 0.0015998    1 visiting
+	visiting WORD[97,   1]: 0.0015998 湯巡り
+TOKEN[98]: 0.0015881    2 cruiser
+	cruiser WORD[98,   1]: 0.0007943 軽巡
+	cruiser WORD[98,   2]: 0.0007938 重巡
+TOKEN[99]: 0.0015575    3 going
+	going WORD[99,   1]: 0.0012921 一巡り
+	going WORD[99,   2]: 0.0001327 巡回
+	going WORD[99,   3]: 0.0001327 巡廻
+TOKEN[100]: 0.0015437    4 luck
+	luck WORD[100,   1]: 0.0008914 除災
+	luck WORD[100,   2]: 0.0002174 巡りあわせ
+	luck WORD[100,   3]: 0.0002174 巡り合せ
+	luck WORD[100,   4]: 0.0002174 巡り合わせ
+TOKEN[101]: 0.0015314    1 canal
+	canal WORD[101,   1]: 0.0015314 頸管
+TOKEN[102]: 0.0015082    4 misfortune
+	misfortune WORD[102,   1]: 0.0004726 災い
+	misfortune WORD[102,   2]: 0.0003570 息災
+	misfortune WORD[102,   3]: 0.0003394 災難
+	misfortune WORD[102,   4]: 0.0003392 災害
+TOKEN[103]: 0.0014869    4 happen
+	happen WORD[103,   1]: 0.0003717 巡りあう
+	happen WORD[103,   2]: 0.0003717 巡り会う
+	happen WORD[103,   3]: 0.0003717 巡り合う
+	happen WORD[103,   4]: 0.0003717 巡り逢う
+TOKEN[104]: 0.0014841    4 friend
+	friend WORD[104,   1]: 0.0003710 巡りあう
+	friend WORD[104,   2]: 0.0003710 巡り会う
+	friend WORD[104,   3]: 0.0003710 巡り合う
+	friend WORD[104,   4]: 0.0003710 巡り逢う
+TOKEN[105]: 0.0014478    1 fit
+	fit WORD[105,   1]: 0.0014478 痙攣
+TOKEN[106]: 0.0014347    1 shank
+	shank WORD[106,   1]: 0.0014347 脛
+TOKEN[107]: 0.0013745    2 choker
+	choker WORD[107,   1]: 0.0008348 頸飾り
+	choker WORD[107,   2]: 0.0005397 頸輪
+TOKEN[108]: 0.0013650    3 suffering
+	suffering WORD[108,   1]: 0.0004731 り災
+	suffering WORD[108,   2]: 0.0004731 罹災
+	suffering WORD[108,   3]: 0.0004189 被災
+TOKEN[109]: 0.0013132    1 hot
+	hot WORD[109,   1]: 0.0013132 湯巡り
+TOKEN[110]: 0.0013089    1 warding
+	warding WORD[110,   1]: 0.0013089 除災
+TOKEN[111]: 0.0013072    2 necklace
+	necklace WORD[111,   1]: 0.0007939 頸飾り
+	necklace WORD[111,   2]: 0.0005133 頸輪
+TOKEN[112]: 0.0012927    4 running
+	running WORD[112,   1]: 0.0003232 巡りあう
+	running WORD[112,   2]: 0.0003232 巡り会う
+	running WORD[112,   3]: 0.0003232 巡り合う
+	running WORD[112,   4]: 0.0003232 巡り逢う
+TOKEN[113]: 0.0011595    2 affliction
+	affliction WORD[113,   1]: 0.0005798 り災
+	affliction WORD[113,   2]: 0.0005798 罹災
+TOKEN[114]: 0.0011257    4 old
+	old WORD[114,   1]: 0.0002814 巡りあう
+	old WORD[114,   2]: 0.0002814 巡り会う
+	old WORD[114,   3]: 0.0002814 巡り合う
+	old WORD[114,   4]: 0.0002814 巡り逢う
+TOKEN[115]: 0.0011128    1 outbreak
+	outbreak WORD[115,   1]: 0.0011128 発災
+TOKEN[116]: 0.0010511    1 occurrence
+	occurrence WORD[116,   1]: 0.0010511 発災
+TOKEN[117]: 0.0010498    1 rid
+	rid WORD[117,   1]: 0.0010498 除災
+TOKEN[118]: 0.0010301    1 person
+	person WORD[118,   1]: 0.0010301 一巡り
+TOKEN[119]: 0.0010266    3 travel
+	travel WORD[119,   1]: 0.0004354 巡り歩く
+	travel WORD[119,   2]: 0.0003423 経巡る
+	travel WORD[119,   3]: 0.0002488 巡る
+TOKEN[120]: 0.0008910    1 decapitation
+	decapitation WORD[120,   1]: 0.0008910 刎頸
+TOKEN[121]: 0.0008792    1 pillory
+	pillory WORD[121,   1]: 0.0008792 頸枷
+TOKEN[122]: 0.0008475    1 getting
+	getting WORD[122,   1]: 0.0008475 除災
+TOKEN[123]: 0.0008404    2 earthquake
+	earthquake WORD[123,   1]: 0.0004565 被災
+	earthquake WORD[123,   2]: 0.0003838 震災
+TOKEN[124]: 0.0008168    3 coincidence
+	coincidence WORD[124,   1]: 0.0002723 巡りあわせ
+	coincidence WORD[124,   2]: 0.0002723 巡り合せ
+	coincidence WORD[124,   3]: 0.0002723 巡り合わせ
+TOKEN[125]: 0.0008081    1 island
+	island WORD[125,   1]: 0.0008081 島巡り
+TOKEN[126]: 0.0008055    1 yoke
+	yoke WORD[126,   1]: 0.0008055 頸木
+TOKEN[127]: 0.0007962    2 surround
+	surround WORD[127,   1]: 0.0005308 巡る
+	surround WORD[127,   2]: 0.0002654 巡らす
+TOKEN[128]: 0.0007956    1 bad
+	bad WORD[128,   1]: 0.0007956 除災
+TOKEN[129]: 0.0007940    1 muffler
+	muffler WORD[129,   1]: 0.0007940 頸巻
+TOKEN[130]: 0.0007696    3 circle
+	circle WORD[130,   1]: 0.0004526 巡る
+	circle WORD[130,   2]: 0.0001585 お巡り
+	circle WORD[130,   3]: 0.0001585 御巡り
+TOKEN[131]: 0.0007587    1 oppression
+	oppression WORD[131,   1]: 0.0007587 頸木
+TOKEN[132]: 0.0007394    1 scarf
+	scarf WORD[132,   1]: 0.0007394 頸巻
+TOKEN[133]: 0.0007177    2 ponder
+	ponder WORD[133,   1]: 0.0004435 思い巡らす
+	ponder WORD[133,   2]: 0.0002742 巡らす
+TOKEN[134]: 0.0007011    1 visit
+	visit WORD[134,   1]: 0.0007011 巡狩
+TOKEN[135]: 0.0006992    1 catastrophe
+	catastrophe WORD[135,   1]: 0.0006992 災禍
+TOKEN[136]: 0.0006989    3 fate
+	fate WORD[136,   1]: 0.0002330 巡りあわせ
+	fate WORD[136,   2]: 0.0002330 巡り合せ
+	fate WORD[136,   3]: 0.0002330 巡り合わせ
+TOKEN[137]: 0.0006797    3 pilgrimage
+	pilgrimage WORD[137,   1]: 0.0002654 巡り
+	pilgrimage WORD[137,   2]: 0.0002072 巡礼
+	pilgrimage WORD[137,   3]: 0.0002071 巡拝
+TOKEN[138]: 0.0006722    3 stroke
+	stroke WORD[138,   1]: 0.0002241 巡りあわせ
+	stroke WORD[138,   2]: 0.0002241 巡り合せ
+	stroke WORD[138,   3]: 0.0002241 巡り合わせ
+TOKEN[139]: 0.0006586    1 burden
+	burden WORD[139,   1]: 0.0006586 頸枷
+TOKEN[140]: 0.0006413    3 fortune
+	fortune WORD[140,   1]: 0.0002138 巡りあわせ
+	fortune WORD[140,   2]: 0.0002138 巡り合せ
+	fortune WORD[140,   3]: 0.0002138 巡り合わせ
+TOKEN[141]: 0.0006408    1 water
+	water WORD[141,   1]: 0.0006408 水災
+TOKEN[142]: 0.0006026    3 policeman
+	policeman WORD[142,   1]: 0.0002156 巡査
+	policeman WORD[142,   2]: 0.0001935 お巡り
+	policeman WORD[142,   3]: 0.0001935 御巡り
+TOKEN[143]: 0.0005902    1 wrist
+	wrist WORD[143,   1]: 0.0005902 手頸
+TOKEN[144]: 0.0005799    2 think
+	think WORD[144,   1]: 0.0003583 思い巡らす
+	think WORD[144,   2]: 0.0002215 巡らす
+TOKEN[145]: 0.0005527    1 ruminate
+	ruminate WORD[145,   1]: 0.0005527 思い巡らす
+TOKEN[146]: 0.0005436    1 vertebrae
+	vertebrae WORD[146,   1]: 0.0005436 頸椎
+TOKEN[147]: 0.0005427    1 resulting
+	resulting WORD[147,   1]: 0.0005427 防災
+TOKEN[148]: 0.0005373    2 enclose
+	enclose WORD[148,   1]: 0.0002687 巡る
+	enclose WORD[148,   2]: 0.0002686 巡らす
+TOKEN[149]: 0.0005353    3 inspection
+	inspection WORD[149,   1]: 0.0001785 巡視
+	inspection WORD[149,   2]: 0.0001784 巡察
+	inspection WORD[149,   3]: 0.0001784 巡検
+TOKEN[150]: 0.0005294    1 sacking
+	sacking WORD[150,   1]: 0.0005294 頸
+TOKEN[151]: 0.0005236    1 insurance
+	insurance WORD[151,   1]: 0.0005236 労災
+TOKEN[152]: 0.0005008    1 typhoon
+	typhoon WORD[152,   1]: 0.0005008 被災
+TOKEN[153]: 0.0004998    3 police
+	police WORD[153,   1]: 0.0001788 巡査
+	police WORD[153,   2]: 0.0001605 お巡り
+	police WORD[153,   3]: 0.0001605 御巡り
+TOKEN[154]: 0.0004981    1 preparedness
+	preparedness WORD[154,   1]: 0.0004981 防災
+TOKEN[155]: 0.0004880    1 compensation
+	compensation WORD[155,   1]: 0.0004880 労災
+TOKEN[156]: 0.0004813    1 prevention
+	prevention WORD[156,   1]: 0.0004813 防災
+TOKEN[157]: 0.0004804    1 heavy
+	heavy WORD[157,   1]: 0.0004804 重巡
+TOKEN[158]: 0.0004786    2 cop
+	cop WORD[158,   1]: 0.0002393 お巡り
+	cop WORD[158,   2]: 0.0002393 御巡り
+TOKEN[159]: 0.0004722    1 ankle
+	ankle WORD[159,   1]: 0.0004722 足頸
+TOKEN[160]: 0.0004709    1 nape
+	nape WORD[160,   1]: 0.0004709 頸筋
+TOKEN[161]: 0.0004675    1 wind
+	wind WORD[161,   1]: 0.0004675 風災
+TOKEN[162]: 0.0004671    2 head
+	head WORD[162,   1]: 0.0002960 頸
+	head WORD[162,   2]: 0.0001711 巡らす
+TOKEN[163]: 0.0004584    1 counter
+	counter WORD[163,   1]: 0.0004584 巡
+TOKEN[164]: 0.0004569    1 injury
+	injury WORD[164,   1]: 0.0004569 労災
+TOKEN[165]: 0.0004450    1 dismissal
+	dismissal WORD[165,   1]: 0.0004450 頸
+TOKEN[166]: 0.0004443    1 fortuitous
+	fortuitous WORD[166,   1]: 0.0004443 巡り合い
+TOKEN[167]: 0.0004410    1 victim
+	victim WORD[167,   1]: 0.0004410 被災
+TOKEN[168]: 0.0004222    1 reflect
+	reflect WORD[168,   1]: 0.0004222 思い巡らす
+TOKEN[169]: 0.0004211    1 illness
+	illness WORD[169,   1]: 0.0004211 労災
+TOKEN[170]: 0.0004179    1 protection
+	protection WORD[170,   1]: 0.0004179 防災
+TOKEN[171]: 0.0004164    1 conflagration
+	conflagration WORD[171,   1]: 0.0004164 火災
+TOKEN[172]: 0.0004126    1 firing
+	firing WORD[172,   1]: 0.0004126 頸
+TOKEN[173]: 0.0004104    1 collar
+	collar WORD[173,   1]: 0.0004104 頸輪
+TOKEN[174]: 0.0004092    1 trouble
+	trouble WORD[174,   1]: 0.0004092 災い
+TOKEN[175]: 0.0004067    2 blood
+	blood WORD[175,   1]: 0.0002034 巡る
+	blood WORD[175,   2]: 0.0002033 巡り
+TOKEN[176]: 0.0004040    1 light
+	light WORD[176,   1]: 0.0004040 軽巡
+TOKEN[177]: 0.0003968    1 walk
+	walk WORD[177,   1]: 0.0003968 巡り歩く
+TOKEN[178]: 0.0003709    1 falling
+	falling WORD[178,   1]: 0.0003709 被災
+TOKEN[179]: 0.0003708    1 region
+	region WORD[179,   1]: 0.0003708 頸部
+TOKEN[180]: 0.0003695    2 ladies
+	ladies WORD[180,   1]: 0.0001848 お巡り
+	ladies WORD[180,   2]: 0.0001848 御巡り
+TOKEN[181]: 0.0003675    1 stopping
+	stopping WORD[181,   1]: 0.0003675 息災
+TOKEN[182]: 0.0003598    1 hit
+	hit WORD[182,   1]: 0.0003598 被災
+TOKEN[183]: 0.0003589    1 job
+	job WORD[183,   1]: 0.0003589 頸
+TOKEN[184]: 0.0003564    1 encounter
+	encounter WORD[184,   1]: 0.0003564 巡り合い
+TOKEN[185]: 0.0003539    2 accompany
+	accompany WORD[185,   1]: 0.0001770 お巡り
+	accompany WORD[185,   2]: 0.0001770 御巡り
+TOKEN[186]: 0.0003505    1 preaching
+	preaching WORD[186,   1]: 0.0003505 巡錫
+TOKEN[187]: 0.0003472    1 animal
+	animal WORD[187,   1]: 0.0003472 頸輪
+TOKEN[188]: 0.0003381    1 health
+	health WORD[188,   1]: 0.0003381 息災
+TOKEN[189]: 0.0003360    2 doctor
+	doctor WORD[189,   1]: 0.0001680 お巡り
+	doctor WORD[189,   2]: 0.0001680 御巡り
+TOKEN[190]: 0.0003085    1 make
+	make WORD[190,   1]: 0.0003085 巡る
+TOKEN[191]: 0.0003045    2 dog
+	dog WORD[191,   1]: 0.0001522 お巡り
+	dog WORD[191,   2]: 0.0001522 御巡り
+TOKEN[192]: 0.0003016    2 beat
+	beat WORD[192,   1]: 0.0001508 お巡り
+	beat WORD[192,   2]: 0.0001508 御巡り
+TOKEN[193]: 0.0003016    2 walking
+	walking WORD[193,   1]: 0.0001508 お巡り
+	walking WORD[193,   2]: 0.0001508 御巡り
+TOKEN[194]: 0.0003000    1 antenna
+	antenna WORD[194,   1]: 0.0003000 張り巡らす
+TOKEN[195]: 0.0002992    1 war
+	war WORD[195,   1]: 0.0002992 戦災
+TOKEN[196]: 0.0002955    2 trick
+	trick WORD[196,   1]: 0.0001478 お巡り
+	trick WORD[196,   2]: 0.0001478 御巡り
+TOKEN[197]: 0.0002929    1 girth
+	girth WORD[197,   1]: 0.0002929 巡り
+TOKEN[198]: 0.0002929    1 encircle
+	encircle WORD[198,   1]: 0.0002929 巡らす
+TOKEN[199]: 0.0002895    1 notify
+	notify WORD[199,   1]: 0.0002895 巡らす
+TOKEN[200]: 0.0002793    2 language
+	language WORD[200,   1]: 0.0001397 お巡り
+	language WORD[200,   2]: 0.0001397 御巡り
+TOKEN[201]: 0.0002763    1 circumference
+	circumference WORD[201,   1]: 0.0002763 巡り
+TOKEN[202]: 0.0002748    1 dragnet
+	dragnet WORD[202,   1]: 0.0002748 張り巡らす
+TOKEN[203]: 0.0002748    1 rigging
+	rigging WORD[203,   1]: 0.0002748 張り巡らす
+TOKEN[204]: 0.0002737    2 court
+	court WORD[204,   1]: 0.0001369 お巡り
+	court WORD[204,   2]: 0.0001369 御巡り
+TOKEN[205]: 0.0002725    1 meeting
+	meeting WORD[205,   1]: 0.0002725 巡り合い
+TOKEN[206]: 0.0002722    1 heel
+	heel WORD[206,   1]: 0.0002722 巡らす
+TOKEN[207]: 0.0002689    2 secret
+	secret WORD[207,   1]: 0.0001345 お巡り
+	secret WORD[207,   2]: 0.0001345 御巡り
+TOKEN[208]: 0.0002674    1 network
+	network WORD[208,   1]: 0.0002674 張り巡らす
+TOKEN[209]: 0.0002667    1 itinerancy
+	itinerancy WORD[209,   1]: 0.0002667 巡歴
+TOKEN[210]: 0.0002654    1 circulate
+	circulate WORD[210,   1]: 0.0002654 巡る
+TOKEN[211]: 0.0002654    1 devise
+	devise WORD[211,   1]: 0.0002654 巡らす
+TOKEN[212]: 0.0002639    1 circulation
+	circulation WORD[212,   1]: 0.0002639 巡り
+TOKEN[213]: 0.0002585    1 repeat
+	repeat WORD[213,   1]: 0.0002585 巡る
+TOKEN[214]: 0.0002527    1 consider
+	consider WORD[214,   1]: 0.0002527 巡らす
+TOKEN[215]: 0.0002522    1 wiring
+	wiring WORD[215,   1]: 0.0002522 張り巡らす
+TOKEN[216]: 0.0002403    1 good
+	good WORD[216,   1]: 0.0002403 息災
+TOKEN[217]: 0.0002389    1 pilgrim
+	pilgrim WORD[217,   1]: 0.0002389 巡礼
+TOKEN[218]: 0.0002388    1 constable
+	constable WORD[218,   1]: 0.0002388 巡査
+TOKEN[219]: 0.0002371    1 indecision
+	indecision WORD[219,   1]: 0.0002371 逡巡
+TOKEN[220]: 0.0002319    1 concern
+	concern WORD[220,   1]: 0.0002319 巡る
+TOKEN[221]: 0.0002315    1 cruise
+	cruise WORD[221,   1]: 0.0002315 巡航
+TOKEN[222]: 0.0002246    2 rice
+	rice WORD[222,   1]: 0.0001123 お巡り
+	rice WORD[222,   2]: 0.0001123 御巡り
+TOKEN[223]: 0.0002122    1 fence
+	fence WORD[223,   1]: 0.0002122 張り巡らす
+TOKEN[224]: 0.0002083    1 stretch
+	stretch WORD[224,   1]: 0.0002083 張り巡らす
+TOKEN[225]: 0.0002068    1 hesitation
+	hesitation WORD[225,   1]: 0.0002068 逡巡
+TOKEN[226]: 0.0002057    1 season
+	season WORD[226,   1]: 0.0002057 巡る
+TOKEN[227]: 0.0002048    1 return
+	return WORD[227,   1]: 0.0002048 巡る
+TOKEN[228]: 0.0002045    1 string
+	string WORD[228,   1]: 0.0002045 張り巡らす
+TOKEN[229]: 0.0002007    1 royal
+	royal WORD[229,   1]: 0.0002007 巡幸
+TOKEN[230]: 0.0002001    1 lay
+	lay WORD[230,   1]: 0.0002001 張り巡らす
+TOKEN[231]: 0.0001983    1 matter
+	matter WORD[231,   1]: 0.0001983 巡る
+TOKEN[232]: 0.0001956    1 officer
+	officer WORD[232,   1]: 0.0001956 巡査
+TOKEN[233]: 0.0001917    1 plan
+	plan WORD[233,   1]: 0.0001917 巡らす
+TOKEN[234]: 0.0001883    1 provincial
+	provincial WORD[234,   1]: 0.0001883 巡業
+TOKEN[235]: 0.0001829    1 writing
+	writing WORD[235,   1]: 0.0001829 巡らす
+TOKEN[236]: 0.0001806    1 system
+	system WORD[236,   1]: 0.0001806 張り巡らす
+TOKEN[237]: 0.0001799    1 ship
+	ship WORD[237,   1]: 0.0001799 張り巡らす
+TOKEN[238]: 0.0001796    1 progress
+	progress WORD[238,   1]: 0.0001796 巡幸
+TOKEN[239]: 0.0001733    1 trip
+	trip WORD[239,   1]: 0.0001733 巡歴
+TOKEN[240]: 0.0001713    1 money
+	money WORD[240,   1]: 0.0001713 巡る
+TOKEN[241]: 0.0001691    1 come
+	come WORD[241,   1]: 0.0001691 巡る
+TOKEN[242]: 0.0001651    1 work
+	work WORD[242,   1]: 0.0001651 巡らす
+TOKEN[243]: 0.0001588    1 performance
+	performance WORD[243,   1]: 0.0001588 巡演
+TOKEN[244]: 0.0001578    1 go
+	go WORD[244,   1]: 0.0001578 巡る
+TOKEN[245]: 0.0001547    1 rush
+	rush WORD[245,   1]: 0.0001547 駆け巡る
+TOKEN[246]: 0.0001289    1 run
+	run WORD[246,   1]: 0.0001289 駆け巡る

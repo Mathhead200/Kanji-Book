@@ -1,0 +1,660 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0288505   10 heir           : 世継, 世継ぎ, 継嗣, 後継ぎ, 跡継, 跡継ぎ, 継ぎ, 継ぎ手, 継手, 後継
+0.0288505   10 successor      : 世継, 世継ぎ, 継嗣, 後継ぎ, 跡継, 跡継ぎ, 継ぎ, 継ぎ手, 継手, 後継
+0.0196796    7 joint          : 留め継ぎ, 継ぎ目, 継目, 中継ぎ, 継ぎ手, 継手, 中継
+0.0171003    1 lacquer        : 金継ぎ
+0.0165976    1 pottery        : 金継ぎ
+0.0161111    3 patchwork      : 継ぎ当て, 継ぎ物, 継物
+0.0161075    5 relay          : 継ぎ立て, 継立て, 取り継ぐ, 継走, 継泳
+0.0154848    5 grafting       : 継ぎ台, 継台, 切り継ぎ, 切継ぎ, 継ぎ木
+0.0152751    1 silver         : 金継ぎ
+0.0151993    2 middle         : 中継ぎ, 中継
+0.0148257    4 inheritor      : 後継ぎ, 跡継, 跡継ぎ, 後継
+0.0147869    1 gold           : 金継ぎ
+0.0146892    7 taking         : 継受, 引き継ぎ, 引継, 引継ぎ, 中継ぎ, 中継, 息継ぎ
+0.0146794    5 joining        : 継ぎ目, 継目, 中継ぎ, 継ぎ, 中継
+0.0139851    1 mixed          : 金継ぎ
+0.0136280    4 inheritance    : 継受, 継承, 承継, 紹継
+0.0133944    5 join           : 継ぎ合せる, 継ぎ合わせる, 中継ぎ, 継ぎ, 中継
+0.0129983    1 stepsister     : 継妹
+0.0127423    4 accession      : 継統, 承継, 紹継, 継承
+0.0120515    1 stepdaughter   : 継娘
+0.0112185    3 stood          : 継ぎ台, 継台, 足継ぎ
+0.0105883    4 patch          : 継ぎ合せる, 継ぎ合わせる, 継ぐ, 継ぎ
+0.0103445    4 item           : 継ぎ物, 継物, 中継ぎ, 中継
+0.0098493    3 continue       : 継ぎ穂, 継ぎ端, 継端
+0.0098256    1 mitre          : 留め継ぎ
+0.0098008    3 intermediary   : 取り継ぐ, 中継ぎ, 中継
+0.0097758    1 younger        : 継妹
+0.0097114    3 stool          : 継ぎ台, 継台, 足継ぎ
+0.0094564    5 succession     : 読み継ぐ, 承継, 紹継, 継承, 継起
+0.0092490    5 transfer       : 引き継ぎ, 引継, 引継ぎ, 乗り継ぎ, 乗継
+0.0092490    2 capped         : 継ぎ歯, 継歯
+0.0091165    2 transmit       : 言い継ぐ, 取り継ぐ
+0.0089437    1 miter          : 留め継ぎ
+0.0088403    3 conversation   : 継ぎ穂, 継ぎ端, 継端
+0.0086822    2 jointed        : 継ぎ竿, 継竿
+0.0084743    3 opportunity    : 継ぎ穂, 継ぎ端, 継端
+0.0083412    3 cobbling       : 継ぎはぎ, 継ぎ接ぎ, 継接ぎ
+0.0081858    3 pitcher        : 中継ぎ, 中継, 継投
+0.0080017    4 flight         : 乗り継ぐ, 乗継ぐ, 乗り継ぎ, 乗継
+0.0079757    3 baton          : 引き継ぎ, 引継, 引継ぎ
+0.0079065    3 reach          : 継ぎ台, 継台, 足継ぎ
+0.0077666    1 woodworking    : 留め継ぎ
+0.0077073    2 continuation   : 継戦, 継続
+0.0076981    2 reliever       : 中継ぎ, 中継
+0.0076962    2 needing        : 継ぎ物, 継物
+0.0075291    2 intermediation : 中継ぎ, 中継
+0.0075187    3 darning        : 継ぎはぎ, 継ぎ接ぎ, 継接ぎ
+0.0071606    2 splicing       : 切り継ぎ, 切継ぎ
+0.0069601    2 seam           : 継ぎ目, 継目
+0.0067915    2 dental         : 継ぎ歯, 継歯
+0.0064984    2 tooth          : 継ぎ歯, 継歯
+0.0063927    2 rod            : 継ぎ竿, 継竿
+0.0063729    2 lid            : 中継ぎ, 中継
+0.0063325    3 high           : 継ぎ台, 継台, 足継ぎ
+0.0062551    2 crown          : 継ぎ歯, 継歯
+0.0058873    3 passing        : 引き継ぎ, 引継, 引継ぎ
+0.0058806    1 visitor        : 取り継ぐ
+0.0056944    2 ink            : 墨継, 墨継ぎ
+0.0056919    2 container      : 中継ぎ, 中継
+0.0056464    2 relief         : 中継ぎ, 中継
+0.0055030    2 acting         : 中継ぎ, 中継
+0.0054902    1 phone          : 取り継ぐ
+0.0053870    2 size           : 中継ぎ, 中継
+0.0053514    1 throne         : 継統
+0.0053308    2 fishing        : 継ぎ竿, 継竿
+0.0053056    3 gathering      : 継ぎはぎ, 継ぎ接ぎ, 継接ぎ
+0.0051643    2 brush          : 墨継, 墨継ぎ
+0.0051544    3 control        : 引き継ぎ, 引継, 引継ぎ
+0.0051061    4 take           : 引き継ぐ, 引継ぐ, 継ぐ, 受け継ぐ
+0.0050712    2 coupler        : 継ぎ手, 継手
+0.0050035    2 stock          : 継ぎ台, 継台
+0.0049662    2 add            : 継ぎ足す, 継ぐ
+0.0049385    1 property       : 継受
+0.0048985    3 clothing       : 継ぎはぎ, 継ぎ接ぎ, 継接ぎ
+0.0048584    1 act            : 取り継ぐ
+0.0048289    2 splice         : 継ぎ手, 継手
+0.0046395    2 coupling       : 継ぎ手, 継手
+0.0045916    2 connect        : 乗り継ぐ, 乗継ぐ
+0.0045872    2 cutting        : 切り継ぎ, 切継ぎ
+0.0045743    2 tea            : 中継ぎ, 中継
+0.0045550    2 transit        : 乗り継ぎ, 乗継
+0.0044706    2 writing        : 墨継, 墨継ぎ
+0.0043971    2 point          : 継ぎ目, 継目
+0.0043763    3 hand           : 引き継ぐ, 引継ぐ, 語り継ぐ
+0.0043762    2 passenger      : 乗り継ぎ, 乗継
+0.0043479    1 cion           : 継ぎ穂
+0.0042995    2 body           : 中継ぎ, 中継
+0.0041971    2 swimming       : 継泳, 息継ぎ
+0.0041886    2 inherit        : 継ぐ, 受け継ぐ
+0.0041855    1 horticultural  : 継ぎ穂
+0.0040842    4 one            : 墨継, 墨継ぎ, 継父母, 継ぐ
+0.0040645    1 war            : 継戦
+0.0040350    1 stepmother     : 継母
+0.0039884    1 business       : 継受
+0.0039855    2 pass           : 取り継ぐ, 語り継ぐ
+0.0039719    1 mouth          : 言い継ぐ
+0.0039499    3 people         : 継ぎはぎ, 継ぎ接ぎ, 継接ぎ
+0.0038932    1 stepfather     : 継父
+0.0038461    1 scion          : 継ぎ穂
+0.0037956    2 connection     : 乗り継ぐ, 乗継ぐ
+0.0037927    2 ticket         : 乗り継ぎ, 乗継
+0.0037587    2 fire           : 継ぎ足す, 継ぐ
+0.0037454    1 graft          : 継ぎ穂
+0.0037104    1 heiress        : 継嗣
+0.0036739    2 succeed        : 継ぐ, 受け継ぐ
+0.0036199    1 lump           : 継粉
+0.0036182    2 second         : 継室, 継夫
+0.0035809    1 follow         : 継ぐ
+0.0035799    1 convey         : 取り継ぐ
+0.0035601    1 usher          : 取り継ぐ
+0.0035601    1 inform         : 取り継ぐ
+0.0035234    1 announce       : 取り継ぐ
+0.0035063    1 wholesaler     : 取り継ぐ
+0.0035040    1 word           : 言い継ぐ
+0.0034955    1 stepladder     : 足継ぎ
+0.0034880    2 different      : 乗り継ぐ, 乗継ぐ
+0.0034615    2 breath         : 継ぐ, 息継ぎ
+0.0034455    2 train          : 乗り継ぐ, 乗継ぐ
+0.0033446    1 manufacturer   : 取り継ぐ
+0.0033232    1 behalf         : 取り継ぐ
+0.0032271    1 flour          : 継粉
+0.0032057    1 generation     : 語り継ぐ
+0.0032036    2 change         : 乗り継ぐ, 乗継ぐ
+0.0031544    1 extend         : 継ぎ足す
+0.0029071    1 guest          : 取り継ぐ
+0.0028276    1 handle         : 取り継ぐ
+0.0028219    1 answer         : 取り継ぐ
+0.0027474    1 message        : 取り継ぐ
+0.0027428    1 tell           : 取り継ぐ
+0.0027034    1 agent          : 取り継ぐ
+0.0026588    2 make           : 乗り継ぐ, 乗継ぐ
+0.0025140    1 replenish      : 継ぐ
+0.0025096    1 door           : 取り継ぐ
+0.0024799    1 elongation     : 継ぎ足し
+0.0024451    1 relieving      : 継投
+0.0024440    1 stepchild      : 継子
+0.0024432    1 race           : 継走
+0.0024055    1 call           : 取り継ぐ
+0.0023699    1 mend           : 継ぐ
+0.0023619    1 goods          : 取り継ぐ
+0.0023536    1 continuance    : 継続
+0.0022949    1 wife           : 継室
+0.0022699    1 read           : 読み継ぐ
+0.0022516    1 company        : 取り継ぐ
+0.0022398    1 house          : 継ぎ足す
+0.0020268    1 feed           : 継ぐ
+0.0020190    1 repair         : 継ぐ
+0.0019804    1 extension      : 継ぎ足し
+0.0019324    1 many           : 読み継ぐ
+0.0019240    1 charcoal       : 継ぐ
+0.0018820    1 breather       : 息継ぎ
+0.0018698    1 gather         : 継ぐ
+0.0018108    1 addition       : 継ぎ足し
+0.0017954    1 husband        : 継夫
+0.0017033    1 someone        : 取り継ぐ
+0.0015888    1 starting       : 継投
+0.0015810    1 clothes        : 継ぐ
+0.0015321    1 singing        : 息継ぎ
+0.0014854    1 position       : 継ぐ
+0.0013651    1 story          : 語り継ぐ
+0.0012857    1 going          : 継続
+0.0012395    1 break          : 息継ぎ
+0.0012377    1 short          : 息継ぎ
+0.0010538    1 person         : 継ぐ
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0288505   10 heir
+	heir WORD[ 1,   1]: 0.0036628 世継
+	heir WORD[ 1,   2]: 0.0036628 世継ぎ
+	heir WORD[ 1,   3]: 0.0029593 継嗣
+	heir WORD[ 1,   4]: 0.0027921 後継ぎ
+	heir WORD[ 1,   5]: 0.0027921 跡継
+	heir WORD[ 1,   6]: 0.0027921 跡継ぎ
+	heir WORD[ 1,   7]: 0.0021224 継ぎ
+	heir WORD[ 1,   8]: 0.0021159 継ぎ手
+	heir WORD[ 1,   9]: 0.0021159 継手
+	heir WORD[ 1,  10]: 0.0019176 後継
+TOKEN[ 2]: 0.0288505   10 successor
+	successor WORD[ 2,   1]: 0.0036628 世継
+	successor WORD[ 2,   2]: 0.0036628 世継ぎ
+	successor WORD[ 2,   3]: 0.0029593 継嗣
+	successor WORD[ 2,   4]: 0.0027921 後継ぎ
+	successor WORD[ 2,   5]: 0.0027921 跡継
+	successor WORD[ 2,   6]: 0.0027921 跡継ぎ
+	successor WORD[ 2,   7]: 0.0021224 継ぎ
+	successor WORD[ 2,   8]: 0.0021159 継ぎ手
+	successor WORD[ 2,   9]: 0.0021159 継手
+	successor WORD[ 2,  10]: 0.0019176 後継
+TOKEN[ 3]: 0.0196796    7 joint
+	joint WORD[ 3,   1]: 0.0055219 留め継ぎ
+	joint WORD[ 3,   2]: 0.0027564 継ぎ目
+	joint WORD[ 3,   3]: 0.0027564 継目
+	joint WORD[ 3,   4]: 0.0018028 中継ぎ
+	joint WORD[ 3,   5]: 0.0017166 継ぎ手
+	joint WORD[ 3,   6]: 0.0017166 継手
+	joint WORD[ 3,   7]: 0.0017044 中継
+TOKEN[ 4]: 0.0171003    1 lacquer
+	lacquer WORD[ 4,   1]: 0.0171003 金継ぎ
+TOKEN[ 5]: 0.0165976    1 pottery
+	pottery WORD[ 5,   1]: 0.0165976 金継ぎ
+TOKEN[ 6]: 0.0161111    3 patchwork
+	patchwork WORD[ 6,   1]: 0.0078592 継ぎ当て
+	patchwork WORD[ 6,   2]: 0.0041259 継ぎ物
+	patchwork WORD[ 6,   3]: 0.0041259 継物
+TOKEN[ 7]: 0.0161075    5 relay
+	relay WORD[ 7,   1]: 0.0034225 継ぎ立て
+	relay WORD[ 7,   2]: 0.0034225 継立て
+	relay WORD[ 7,   3]: 0.0032932 取り継ぐ
+	relay WORD[ 7,   4]: 0.0029876 継走
+	relay WORD[ 7,   5]: 0.0029818 継泳
+TOKEN[ 8]: 0.0154848    5 grafting
+	grafting WORD[ 8,   1]: 0.0035495 継ぎ台
+	grafting WORD[ 8,   2]: 0.0035495 継台
+	grafting WORD[ 8,   3]: 0.0030860 切り継ぎ
+	grafting WORD[ 8,   4]: 0.0030859 切継ぎ
+	grafting WORD[ 8,   5]: 0.0022139 継ぎ木
+TOKEN[ 9]: 0.0152751    1 silver
+	silver WORD[ 9,   1]: 0.0152751 金継ぎ
+TOKEN[10]: 0.0151993    2 middle
+	middle WORD[10,   1]: 0.0052578 中継ぎ
+	middle WORD[10,   2]: 0.0049708 中継
+TOKEN[11]: 0.0148257    4 inheritor
+	inheritor WORD[11,   1]: 0.0033899 後継ぎ
+	inheritor WORD[11,   2]: 0.0033898 跡継
+	inheritor WORD[11,   3]: 0.0033898 跡継ぎ
+	inheritor WORD[11,   4]: 0.0023281 後継
+TOKEN[12]: 0.0147869    1 gold
+	gold WORD[12,   1]: 0.0147869 金継ぎ
+TOKEN[13]: 0.0146892    7 taking
+	taking WORD[13,   1]: 0.0040852 継受
+	taking WORD[13,   2]: 0.0016460 引き継ぎ
+	taking WORD[13,   3]: 0.0016460 引継
+	taking WORD[13,   4]: 0.0016460 引継ぎ
+	taking WORD[13,   5]: 0.0015467 中継ぎ
+	taking WORD[13,   6]: 0.0014623 中継
+	taking WORD[13,   7]: 0.0011948 息継ぎ
+TOKEN[14]: 0.0146794    5 joining
+	joining WORD[14,   1]: 0.0032510 継ぎ目
+	joining WORD[14,   2]: 0.0032509 継目
+	joining WORD[14,   3]: 0.0021263 中継ぎ
+	joining WORD[14,   4]: 0.0020308 継ぎ
+	joining WORD[14,   5]: 0.0020102 中継
+TOKEN[15]: 0.0139851    1 mixed
+	mixed WORD[15,   1]: 0.0139851 金継ぎ
+TOKEN[16]: 0.0136280    4 inheritance
+	inheritance WORD[16,   1]: 0.0058535 継受
+	inheritance WORD[16,   2]: 0.0038088 継承
+	inheritance WORD[16,   3]: 0.0019829 承継
+	inheritance WORD[16,   4]: 0.0019829 紹継
+TOKEN[17]: 0.0133944    5 join
+	join WORD[17,   1]: 0.0029618 継ぎ合せる
+	join WORD[17,   2]: 0.0029618 継ぎ合わせる
+	join WORD[17,   3]: 0.0019425 中継ぎ
+	join WORD[17,   4]: 0.0018553 継ぎ
+	join WORD[17,   5]: 0.0018365 中継
+TOKEN[18]: 0.0129983    1 stepsister
+	stepsister WORD[18,   1]: 0.0129983 継妹
+TOKEN[19]: 0.0127423    4 accession
+	accession WORD[19,   1]: 0.0061251 継統
+	accession WORD[19,   2]: 0.0022352 承継
+	accession WORD[19,   3]: 0.0022352 紹継
+	accession WORD[19,   4]: 0.0021467 継承
+TOKEN[20]: 0.0120515    1 stepdaughter
+	stepdaughter WORD[20,   1]: 0.0120515 継娘
+TOKEN[21]: 0.0112185    3 stood
+	stood WORD[21,   1]: 0.0039755 継ぎ台
+	stood WORD[21,   2]: 0.0039755 継台
+	stood WORD[21,   3]: 0.0032676 足継ぎ
+TOKEN[22]: 0.0105883    4 patch
+	patch WORD[22,   1]: 0.0032551 継ぎ合せる
+	patch WORD[22,   2]: 0.0032551 継ぎ合わせる
+	patch WORD[22,   3]: 0.0020391 継ぐ
+	patch WORD[22,   4]: 0.0020390 継ぎ
+TOKEN[23]: 0.0103445    4 item
+	item WORD[23,   1]: 0.0026590 継ぎ物
+	item WORD[23,   2]: 0.0026590 継物
+	item WORD[23,   3]: 0.0017387 中継ぎ
+	item WORD[23,   4]: 0.0016438 中継
+TOKEN[24]: 0.0098493    3 continue
+	continue WORD[24,   1]: 0.0032836 継ぎ穂
+	continue WORD[24,   2]: 0.0032828 継ぎ端
+	continue WORD[24,   3]: 0.0032828 継端
+TOKEN[25]: 0.0098256    1 mitre
+	mitre WORD[25,   1]: 0.0098256 留め継ぎ
+TOKEN[26]: 0.0098008    3 intermediary
+	intermediary WORD[26,   1]: 0.0033029 取り継ぐ
+	intermediary WORD[26,   2]: 0.0022478 中継ぎ
+	intermediary WORD[26,   3]: 0.0021251 中継
+TOKEN[27]: 0.0097758    1 younger
+	younger WORD[27,   1]: 0.0097758 継妹
+TOKEN[28]: 0.0097114    3 stool
+	stool WORD[28,   1]: 0.0034414 継ぎ台
+	stool WORD[28,   2]: 0.0034414 継台
+	stool WORD[28,   3]: 0.0028286 足継ぎ
+TOKEN[29]: 0.0094564    5 succession
+	succession WORD[29,   1]: 0.0024090 読み継ぐ
+	succession WORD[29,   2]: 0.0017975 承継
+	succession WORD[29,   3]: 0.0017975 紹継
+	succession WORD[29,   4]: 0.0017263 継承
+	succession WORD[29,   5]: 0.0017260 継起
+TOKEN[30]: 0.0092490    5 transfer
+	transfer WORD[30,   1]: 0.0018717 引き継ぎ
+	transfer WORD[30,   2]: 0.0018717 引継
+	transfer WORD[30,   3]: 0.0018717 引継ぎ
+	transfer WORD[30,   4]: 0.0018170 乗り継ぎ
+	transfer WORD[30,   5]: 0.0018170 乗継
+TOKEN[31]: 0.0092490    2 capped
+	capped WORD[31,   1]: 0.0046245 継ぎ歯
+	capped WORD[31,   2]: 0.0046245 継歯
+TOKEN[32]: 0.0091165    2 transmit
+	transmit WORD[32,   1]: 0.0054704 言い継ぐ
+	transmit WORD[32,   2]: 0.0036460 取り継ぐ
+TOKEN[33]: 0.0089437    1 miter
+	miter WORD[33,   1]: 0.0089437 留め継ぎ
+TOKEN[34]: 0.0088403    3 conversation
+	conversation WORD[34,   1]: 0.0029472 継ぎ穂
+	conversation WORD[34,   2]: 0.0029465 継ぎ端
+	conversation WORD[34,   3]: 0.0029465 継端
+TOKEN[35]: 0.0086822    2 jointed
+	jointed WORD[35,   1]: 0.0043411 継ぎ竿
+	jointed WORD[35,   2]: 0.0043411 継竿
+TOKEN[36]: 0.0084743    3 opportunity
+	opportunity WORD[36,   1]: 0.0028252 継ぎ穂
+	opportunity WORD[36,   2]: 0.0028245 継ぎ端
+	opportunity WORD[36,   3]: 0.0028245 継端
+TOKEN[37]: 0.0083412    3 cobbling
+	cobbling WORD[37,   1]: 0.0027804 継ぎはぎ
+	cobbling WORD[37,   2]: 0.0027804 継ぎ接ぎ
+	cobbling WORD[37,   3]: 0.0027804 継接ぎ
+TOKEN[38]: 0.0081858    3 pitcher
+	pitcher WORD[38,   1]: 0.0021826 中継ぎ
+	pitcher WORD[38,   2]: 0.0020635 中継
+	pitcher WORD[38,   3]: 0.0018761 継投
+TOKEN[39]: 0.0080017    4 flight
+	flight WORD[39,   1]: 0.0020005 乗り継ぐ
+	flight WORD[39,   2]: 0.0020005 乗継ぐ
+	flight WORD[39,   3]: 0.0020004 乗り継ぎ
+	flight WORD[39,   4]: 0.0020004 乗継
+TOKEN[40]: 0.0079757    3 baton
+	baton WORD[40,   1]: 0.0026586 引き継ぎ
+	baton WORD[40,   2]: 0.0026586 引継
+	baton WORD[40,   3]: 0.0026586 引継ぎ
+TOKEN[41]: 0.0079065    3 reach
+	reach WORD[41,   1]: 0.0028018 継ぎ台
+	reach WORD[41,   2]: 0.0028018 継台
+	reach WORD[41,   3]: 0.0023029 足継ぎ
+TOKEN[42]: 0.0077666    1 woodworking
+	woodworking WORD[42,   1]: 0.0077666 留め継ぎ
+TOKEN[43]: 0.0077073    2 continuation
+	continuation WORD[43,   1]: 0.0057007 継戦
+	continuation WORD[43,   2]: 0.0020066 継続
+TOKEN[44]: 0.0076981    2 reliever
+	reliever WORD[44,   1]: 0.0026629 中継ぎ
+	reliever WORD[44,   2]: 0.0025176 中継
+TOKEN[45]: 0.0076962    2 needing
+	needing WORD[45,   1]: 0.0038481 継ぎ物
+	needing WORD[45,   2]: 0.0038481 継物
+TOKEN[46]: 0.0075291    2 intermediation
+	intermediation WORD[46,   1]: 0.0026045 中継ぎ
+	intermediation WORD[46,   2]: 0.0024623 中継
+TOKEN[47]: 0.0075187    3 darning
+	darning WORD[47,   1]: 0.0025062 継ぎはぎ
+	darning WORD[47,   2]: 0.0025062 継ぎ接ぎ
+	darning WORD[47,   3]: 0.0025062 継接ぎ
+TOKEN[48]: 0.0071606    2 splicing
+	splicing WORD[48,   1]: 0.0035803 切り継ぎ
+	splicing WORD[48,   2]: 0.0035803 切継ぎ
+TOKEN[49]: 0.0069601    2 seam
+	seam WORD[49,   1]: 0.0034801 継ぎ目
+	seam WORD[49,   2]: 0.0034801 継目
+TOKEN[50]: 0.0067915    2 dental
+	dental WORD[50,   1]: 0.0033957 継ぎ歯
+	dental WORD[50,   2]: 0.0033957 継歯
+TOKEN[51]: 0.0064984    2 tooth
+	tooth WORD[51,   1]: 0.0032492 継ぎ歯
+	tooth WORD[51,   2]: 0.0032492 継歯
+TOKEN[52]: 0.0063927    2 rod
+	rod WORD[52,   1]: 0.0031963 継ぎ竿
+	rod WORD[52,   2]: 0.0031963 継竿
+TOKEN[53]: 0.0063729    2 lid
+	lid WORD[53,   1]: 0.0022045 中継ぎ
+	lid WORD[53,   2]: 0.0020842 中継
+TOKEN[54]: 0.0063325    3 high
+	high WORD[54,   1]: 0.0022440 継ぎ台
+	high WORD[54,   2]: 0.0022440 継台
+	high WORD[54,   3]: 0.0018444 足継ぎ
+TOKEN[55]: 0.0062551    2 crown
+	crown WORD[55,   1]: 0.0031276 継ぎ歯
+	crown WORD[55,   2]: 0.0031276 継歯
+TOKEN[56]: 0.0058873    3 passing
+	passing WORD[56,   1]: 0.0019624 引き継ぎ
+	passing WORD[56,   2]: 0.0019624 引継
+	passing WORD[56,   3]: 0.0019624 引継ぎ
+TOKEN[57]: 0.0058806    1 visitor
+	visitor WORD[57,   1]: 0.0058806 取り継ぐ
+TOKEN[58]: 0.0056944    2 ink
+	ink WORD[58,   1]: 0.0028472 墨継
+	ink WORD[58,   2]: 0.0028472 墨継ぎ
+TOKEN[59]: 0.0056919    2 container
+	container WORD[59,   1]: 0.0019690 中継ぎ
+	container WORD[59,   2]: 0.0018615 中継
+TOKEN[60]: 0.0056464    2 relief
+	relief WORD[60,   1]: 0.0019532 中継ぎ
+	relief WORD[60,   2]: 0.0018466 中継
+TOKEN[61]: 0.0055030    2 acting
+	acting WORD[61,   1]: 0.0019036 中継ぎ
+	acting WORD[61,   2]: 0.0017997 中継
+TOKEN[62]: 0.0054902    1 phone
+	phone WORD[62,   1]: 0.0054902 取り継ぐ
+TOKEN[63]: 0.0053870    2 size
+	size WORD[63,   1]: 0.0018635 中継ぎ
+	size WORD[63,   2]: 0.0017618 中継
+TOKEN[64]: 0.0053514    1 throne
+	throne WORD[64,   1]: 0.0053514 継統
+TOKEN[65]: 0.0053308    2 fishing
+	fishing WORD[65,   1]: 0.0026654 継ぎ竿
+	fishing WORD[65,   2]: 0.0026654 継竿
+TOKEN[66]: 0.0053056    3 gathering
+	gathering WORD[66,   1]: 0.0017685 継ぎはぎ
+	gathering WORD[66,   2]: 0.0017685 継ぎ接ぎ
+	gathering WORD[66,   3]: 0.0017685 継接ぎ
+TOKEN[67]: 0.0051643    2 brush
+	brush WORD[67,   1]: 0.0025821 墨継
+	brush WORD[67,   2]: 0.0025821 墨継ぎ
+TOKEN[68]: 0.0051544    3 control
+	control WORD[68,   1]: 0.0017181 引き継ぎ
+	control WORD[68,   2]: 0.0017181 引継
+	control WORD[68,   3]: 0.0017181 引継ぎ
+TOKEN[69]: 0.0051061    4 take
+	take WORD[69,   1]: 0.0014055 引き継ぐ
+	take WORD[69,   2]: 0.0014055 引継ぐ
+	take WORD[69,   3]: 0.0012614 継ぐ
+	take WORD[69,   4]: 0.0010339 受け継ぐ
+TOKEN[70]: 0.0050712    2 coupler
+	coupler WORD[70,   1]: 0.0025356 継ぎ手
+	coupler WORD[70,   2]: 0.0025356 継手
+TOKEN[71]: 0.0050035    2 stock
+	stock WORD[71,   1]: 0.0025018 継ぎ台
+	stock WORD[71,   2]: 0.0025018 継台
+TOKEN[72]: 0.0049662    2 add
+	add WORD[72,   1]: 0.0030550 継ぎ足す
+	add WORD[72,   2]: 0.0019112 継ぐ
+TOKEN[73]: 0.0049385    1 property
+	property WORD[73,   1]: 0.0049385 継受
+TOKEN[74]: 0.0048985    3 clothing
+	clothing WORD[74,   1]: 0.0016328 継ぎはぎ
+	clothing WORD[74,   2]: 0.0016328 継ぎ接ぎ
+	clothing WORD[74,   3]: 0.0016328 継接ぎ
+TOKEN[75]: 0.0048584    1 act
+	act WORD[75,   1]: 0.0048584 取り継ぐ
+TOKEN[76]: 0.0048289    2 splice
+	splice WORD[76,   1]: 0.0024144 継ぎ手
+	splice WORD[76,   2]: 0.0024144 継手
+TOKEN[77]: 0.0046395    2 coupling
+	coupling WORD[77,   1]: 0.0023197 継ぎ手
+	coupling WORD[77,   2]: 0.0023197 継手
+TOKEN[78]: 0.0045916    2 connect
+	connect WORD[78,   1]: 0.0022958 乗り継ぐ
+	connect WORD[78,   2]: 0.0022958 乗継ぐ
+TOKEN[79]: 0.0045872    2 cutting
+	cutting WORD[79,   1]: 0.0022936 切り継ぎ
+	cutting WORD[79,   2]: 0.0022936 切継ぎ
+TOKEN[80]: 0.0045743    2 tea
+	tea WORD[80,   1]: 0.0015823 中継ぎ
+	tea WORD[80,   2]: 0.0014960 中継
+TOKEN[81]: 0.0045550    2 transit
+	transit WORD[81,   1]: 0.0022775 乗り継ぎ
+	transit WORD[81,   2]: 0.0022775 乗継
+TOKEN[82]: 0.0044706    2 writing
+	writing WORD[82,   1]: 0.0022353 墨継
+	writing WORD[82,   2]: 0.0022353 墨継ぎ
+TOKEN[83]: 0.0043971    2 point
+	point WORD[83,   1]: 0.0021986 継ぎ目
+	point WORD[83,   2]: 0.0021986 継目
+TOKEN[84]: 0.0043763    3 hand
+	hand WORD[84,   1]: 0.0015755 引き継ぐ
+	hand WORD[84,   2]: 0.0015755 引継ぐ
+	hand WORD[84,   3]: 0.0012254 語り継ぐ
+TOKEN[85]: 0.0043762    2 passenger
+	passenger WORD[85,   1]: 0.0021881 乗り継ぎ
+	passenger WORD[85,   2]: 0.0021881 乗継
+TOKEN[86]: 0.0043479    1 cion
+	cion WORD[86,   1]: 0.0043479 継ぎ穂
+TOKEN[87]: 0.0042995    2 body
+	body WORD[87,   1]: 0.0014873 中継ぎ
+	body WORD[87,   2]: 0.0014061 中継
+TOKEN[88]: 0.0041971    2 swimming
+	swimming WORD[88,   1]: 0.0026553 継泳
+	swimming WORD[88,   2]: 0.0015418 息継ぎ
+TOKEN[89]: 0.0041886    2 inherit
+	inherit WORD[89,   1]: 0.0023019 継ぐ
+	inherit WORD[89,   2]: 0.0018867 受け継ぐ
+TOKEN[90]: 0.0041855    1 horticultural
+	horticultural WORD[90,   1]: 0.0041855 継ぎ穂
+TOKEN[91]: 0.0040842    4 one
+	one WORD[91,   1]: 0.0011250 墨継
+	one WORD[91,   2]: 0.0011250 墨継ぎ
+	one WORD[91,   3]: 0.0010687 継父母
+	one WORD[91,   4]: 0.0007656 継ぐ
+TOKEN[92]: 0.0040645    1 war
+	war WORD[92,   1]: 0.0040645 継戦
+TOKEN[93]: 0.0040350    1 stepmother
+	stepmother WORD[93,   1]: 0.0040350 継母
+TOKEN[94]: 0.0039884    1 business
+	business WORD[94,   1]: 0.0039884 継受
+TOKEN[95]: 0.0039855    2 pass
+	pass WORD[95,   1]: 0.0025493 取り継ぐ
+	pass WORD[95,   2]: 0.0014362 語り継ぐ
+TOKEN[96]: 0.0039719    1 mouth
+	mouth WORD[96,   1]: 0.0039719 言い継ぐ
+TOKEN[97]: 0.0039499    3 people
+	people WORD[97,   1]: 0.0013166 継ぎはぎ
+	people WORD[97,   2]: 0.0013166 継ぎ接ぎ
+	people WORD[97,   3]: 0.0013166 継接ぎ
+TOKEN[98]: 0.0038932    1 stepfather
+	stepfather WORD[98,   1]: 0.0038932 継父
+TOKEN[99]: 0.0038461    1 scion
+	scion WORD[99,   1]: 0.0038461 継ぎ穂
+TOKEN[100]: 0.0037956    2 connection
+	connection WORD[100,   1]: 0.0018978 乗り継ぐ
+	connection WORD[100,   2]: 0.0018978 乗継ぐ
+TOKEN[101]: 0.0037927    2 ticket
+	ticket WORD[101,   1]: 0.0018963 乗り継ぎ
+	ticket WORD[101,   2]: 0.0018963 乗継
+TOKEN[102]: 0.0037587    2 fire
+	fire WORD[102,   1]: 0.0023122 継ぎ足す
+	fire WORD[102,   2]: 0.0014465 継ぐ
+TOKEN[103]: 0.0037454    1 graft
+	graft WORD[103,   1]: 0.0037454 継ぎ穂
+TOKEN[104]: 0.0037104    1 heiress
+	heiress WORD[104,   1]: 0.0037104 継嗣
+TOKEN[105]: 0.0036739    2 succeed
+	succeed WORD[105,   1]: 0.0020190 継ぐ
+	succeed WORD[105,   2]: 0.0016549 受け継ぐ
+TOKEN[106]: 0.0036199    1 lump
+	lump WORD[106,   1]: 0.0036199 継粉
+TOKEN[107]: 0.0036182    2 second
+	second WORD[107,   1]: 0.0021071 継室
+	second WORD[107,   2]: 0.0015111 継夫
+TOKEN[108]: 0.0035809    1 follow
+	follow WORD[108,   1]: 0.0035809 継ぐ
+TOKEN[109]: 0.0035799    1 convey
+	convey WORD[109,   1]: 0.0035799 取り継ぐ
+TOKEN[110]: 0.0035601    1 usher
+	usher WORD[110,   1]: 0.0035601 取り継ぐ
+TOKEN[111]: 0.0035601    1 inform
+	inform WORD[111,   1]: 0.0035601 取り継ぐ
+TOKEN[112]: 0.0035234    1 announce
+	announce WORD[112,   1]: 0.0035234 取り継ぐ
+TOKEN[113]: 0.0035063    1 wholesaler
+	wholesaler WORD[113,   1]: 0.0035063 取り継ぐ
+TOKEN[114]: 0.0035040    1 word
+	word WORD[114,   1]: 0.0035040 言い継ぐ
+TOKEN[115]: 0.0034955    1 stepladder
+	stepladder WORD[115,   1]: 0.0034955 足継ぎ
+TOKEN[116]: 0.0034880    2 different
+	different WORD[116,   1]: 0.0017440 乗り継ぐ
+	different WORD[116,   2]: 0.0017440 乗継ぐ
+TOKEN[117]: 0.0034615    2 breath
+	breath WORD[117,   1]: 0.0019137 継ぐ
+	breath WORD[117,   2]: 0.0015478 息継ぎ
+TOKEN[118]: 0.0034455    2 train
+	train WORD[118,   1]: 0.0017227 乗り継ぐ
+	train WORD[118,   2]: 0.0017227 乗継ぐ
+TOKEN[119]: 0.0033446    1 manufacturer
+	manufacturer WORD[119,   1]: 0.0033446 取り継ぐ
+TOKEN[120]: 0.0033232    1 behalf
+	behalf WORD[120,   1]: 0.0033232 取り継ぐ
+TOKEN[121]: 0.0032271    1 flour
+	flour WORD[121,   1]: 0.0032271 継粉
+TOKEN[122]: 0.0032057    1 generation
+	generation WORD[122,   1]: 0.0032057 語り継ぐ
+TOKEN[123]: 0.0032036    2 change
+	change WORD[123,   1]: 0.0016018 乗り継ぐ
+	change WORD[123,   2]: 0.0016018 乗継ぐ
+TOKEN[124]: 0.0031544    1 extend
+	extend WORD[124,   1]: 0.0031544 継ぎ足す
+TOKEN[125]: 0.0029071    1 guest
+	guest WORD[125,   1]: 0.0029071 取り継ぐ
+TOKEN[126]: 0.0028276    1 handle
+	handle WORD[126,   1]: 0.0028276 取り継ぐ
+TOKEN[127]: 0.0028219    1 answer
+	answer WORD[127,   1]: 0.0028219 取り継ぐ
+TOKEN[128]: 0.0027474    1 message
+	message WORD[128,   1]: 0.0027474 取り継ぐ
+TOKEN[129]: 0.0027428    1 tell
+	tell WORD[129,   1]: 0.0027428 取り継ぐ
+TOKEN[130]: 0.0027034    1 agent
+	agent WORD[130,   1]: 0.0027034 取り継ぐ
+TOKEN[131]: 0.0026588    2 make
+	make WORD[131,   1]: 0.0013294 乗り継ぐ
+	make WORD[131,   2]: 0.0013294 乗継ぐ
+TOKEN[132]: 0.0025140    1 replenish
+	replenish WORD[132,   1]: 0.0025140 継ぐ
+TOKEN[133]: 0.0025096    1 door
+	door WORD[133,   1]: 0.0025096 取り継ぐ
+TOKEN[134]: 0.0024799    1 elongation
+	elongation WORD[134,   1]: 0.0024799 継ぎ足し
+TOKEN[135]: 0.0024451    1 relieving
+	relieving WORD[135,   1]: 0.0024451 継投
+TOKEN[136]: 0.0024440    1 stepchild
+	stepchild WORD[136,   1]: 0.0024440 継子
+TOKEN[137]: 0.0024432    1 race
+	race WORD[137,   1]: 0.0024432 継走
+TOKEN[138]: 0.0024055    1 call
+	call WORD[138,   1]: 0.0024055 取り継ぐ
+TOKEN[139]: 0.0023699    1 mend
+	mend WORD[139,   1]: 0.0023699 継ぐ
+TOKEN[140]: 0.0023619    1 goods
+	goods WORD[140,   1]: 0.0023619 取り継ぐ
+TOKEN[141]: 0.0023536    1 continuance
+	continuance WORD[141,   1]: 0.0023536 継続
+TOKEN[142]: 0.0022949    1 wife
+	wife WORD[142,   1]: 0.0022949 継室
+TOKEN[143]: 0.0022699    1 read
+	read WORD[143,   1]: 0.0022699 読み継ぐ
+TOKEN[144]: 0.0022516    1 company
+	company WORD[144,   1]: 0.0022516 取り継ぐ
+TOKEN[145]: 0.0022398    1 house
+	house WORD[145,   1]: 0.0022398 継ぎ足す
+TOKEN[146]: 0.0020268    1 feed
+	feed WORD[146,   1]: 0.0020268 継ぐ
+TOKEN[147]: 0.0020190    1 repair
+	repair WORD[147,   1]: 0.0020190 継ぐ
+TOKEN[148]: 0.0019804    1 extension
+	extension WORD[148,   1]: 0.0019804 継ぎ足し
+TOKEN[149]: 0.0019324    1 many
+	many WORD[149,   1]: 0.0019324 読み継ぐ
+TOKEN[150]: 0.0019240    1 charcoal
+	charcoal WORD[150,   1]: 0.0019240 継ぐ
+TOKEN[151]: 0.0018820    1 breather
+	breather WORD[151,   1]: 0.0018820 息継ぎ
+TOKEN[152]: 0.0018698    1 gather
+	gather WORD[152,   1]: 0.0018698 継ぐ
+TOKEN[153]: 0.0018108    1 addition
+	addition WORD[153,   1]: 0.0018108 継ぎ足し
+TOKEN[154]: 0.0017954    1 husband
+	husband WORD[154,   1]: 0.0017954 継夫
+TOKEN[155]: 0.0017033    1 someone
+	someone WORD[155,   1]: 0.0017033 取り継ぐ
+TOKEN[156]: 0.0015888    1 starting
+	starting WORD[156,   1]: 0.0015888 継投
+TOKEN[157]: 0.0015810    1 clothes
+	clothes WORD[157,   1]: 0.0015810 継ぐ
+TOKEN[158]: 0.0015321    1 singing
+	singing WORD[158,   1]: 0.0015321 息継ぎ
+TOKEN[159]: 0.0014854    1 position
+	position WORD[159,   1]: 0.0014854 継ぐ
+TOKEN[160]: 0.0013651    1 story
+	story WORD[160,   1]: 0.0013651 語り継ぐ
+TOKEN[161]: 0.0012857    1 going
+	going WORD[161,   1]: 0.0012857 継続
+TOKEN[162]: 0.0012395    1 break
+	break WORD[162,   1]: 0.0012395 息継ぎ
+TOKEN[163]: 0.0012377    1 short
+	short WORD[163,   1]: 0.0012377 息継ぎ
+TOKEN[164]: 0.0010538    1 person
+	person WORD[164,   1]: 0.0010538 継ぐ

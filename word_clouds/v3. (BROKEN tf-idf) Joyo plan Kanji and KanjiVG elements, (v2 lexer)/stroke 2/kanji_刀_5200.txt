@@ -1,0 +1,693 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2610362   58 sword          : 大太刀, 錆刀, 一刀, 刀尖, 妖刀, 小太刀, 刀創, 納刀, 愛刀, 刀傷, ...
+0.0426461    6 blade          : 一刀, 刀刃, 刀身, 薙刀, 血刀, 長刀
+0.0408746    7 edge           : 錆刀, 足刀, 打ち刀, 打刀, 大刀, 太刀, 横刀
+0.0299566    1 stroke         : 一刀
+0.0279013    1 useless        : 錆刀
+0.0266969    1 single         : 一刀
+0.0184517    1 shears         : 剪刀
+0.0167136   10 knife          : 印刀, 刀子, 牛刀, 刀泉, 刀銭, 刀身, 小刀, 刀剣, 短刀, 刀
+0.0163403    1 scissors       : 剪刀
+0.0150312    1 punch          : 剪刀
+0.0137579    1 hole           : 剪刀
+0.0116597    1 tip            : 刀尖
+0.0108792    6 hip            : 打ち刀, 打刀, 腰刀, 大刀, 太刀, 横刀
+0.0095726    3 wound          : 刀創, 刀傷, 刀疵
+0.0095365    4 cut            : 刀創, 刀傷, 刀疵, 刀子
+0.0095146    4 swordsmith     : 刀鍛冶, 銘刀, 刀匠, 刀工
+0.0093866    5 glaive         : 薙刀, 長刀, 大刀, 太刀, 横刀
+0.0088705    6 worn           : 打ち刀, 打刀, 腰刀, 大刀, 太刀, 横刀
+0.0081685    1 karate         : 足刀
+0.0080179    5 samurai        : 打ち刀, 打刀, 大刀, 太刀, 横刀
+0.0079920    1 heel           : 足刀
+0.0074718    1 toe            : 足刀
+0.0074281    2 rack           : 刀架, 刀掛け
+0.0068590    1 outer          : 足刀
+0.0067810    3 art            : 刀術, 薙刀, 長刀
+0.0066085    3 small          : 小太刀, 刀子, 小刀
+0.0062602    4 short          : 小太刀, 腰刀, 小刀, 短刀
+0.0062270    4 razor          : 馬刀貝, 刀泉, 刀銭, 剃刀
+0.0061758    1 foot           : 足刀
+0.0059161    2 polearm        : 薙刀, 長刀
+0.0056801    2 fencing        : 刀術, 竹刀
+0.0051092    3 swordsmanship  : 太刀筋, 太刀さばき, 太刀捌き
+0.0049115    2 confiscation   : 刀狩, 刀狩り
+0.0046947    1 pirate         : 刀伊
+0.0046236    2 curved         : 薙刀, 長刀
+0.0045467    1 backup         : 助太刀
+0.0042778    1 Ninja          : 忍刀
+0.0041908    2 martial        : 薙刀, 長刀
+0.0041810    2 swordplay      : 太刀さばき, 太刀捌き
+0.0041660    2 hunt           : 刀狩, 刀狩り
+0.0041319    1 helper         : 助太刀
+0.0041125    2 saber          : 洋刀, 軍刀
+0.0040747    5 Japanese       : 作刀, 大刀, 太刀, 横刀, 刀
+0.0040397    1 tribe          : 刀伊
+0.0039885    3 dagger         : 懐刀, 刀剣, 短刀
+0.0039249    2 similar        : 薙刀, 長刀
+0.0038907    1 wedding        : 入刀
+0.0038857    1 supporter      : 助太刀
+0.0037229    1 cake           : 入刀
+0.0036940    1 magical        : 妖刀
+0.0036766    2 wearing        : 佩刀, 帯刀
+0.0036639    1 sheathing      : 納刀
+0.0035801    1 scabbard       : 納刀
+0.0035175    1 two            : 両刀
+0.0035004    1 mock           : 飾太刀
+0.0034467    1 aid            : 助太刀
+0.0034227    1 salute         : 刀礼
+0.0033953    1 assistance     : 助太刀
+0.0033644    1 demon          : 妖刀
+0.0033606    1 cutting        : 入刀
+0.0032469    3 money          : 刀, 刀泉, 刀銭
+0.0032435    1 ceremonial     : 飾太刀
+0.0031603    3 used           : 刀子, 手刀, 刀
+0.0031312    1 town           : 刀禰
+0.0031168    1 fight          : 助太刀
+0.0030917    2 bronze         : 刀泉, 刀銭
+0.0030497    1 help           : 助太刀
+0.0030087    1 mother         : 母刀自
+0.0029832    1 member         : 刀禰
+0.0029830    2 shaped         : 刀泉, 刀銭
+0.0029796    3 ancient        : 刀泉, 刀銭, 刀
+0.0029653    2 subordinate    : 太刀持, 太刀持ち
+0.0029559    2 striking       : 刀背打ち, 手刀
+0.0029525    1 alcohol        : 両刀
+0.0029436    1 favorite       : 愛刀
+0.0028573    2 straight       : 刀泉, 刀銭
+0.0028374    1 radical        : 立刀
+0.0028201    1 ornamental     : 刀子
+0.0027754    1 making         : 作刀
+0.0027202    2 coin           : 刀泉, 刀銭
+0.0026003    1 woodman        : 山刀
+0.0025692    2 carrying       : 太刀持, 太刀持ち
+0.0024820    2 ring           : 太刀持, 太刀持ち
+0.0024134    2 wooden         : 木刀, 木太刀
+0.0024116    1 use            : 飾太刀
+0.0023782    2 job            : 太刀持, 太刀持ち
+0.0023696    2 master         : 太刀持, 太刀持ち
+0.0023132    1 Solen          : 馬刀貝
+0.0022932    1 boatman        : 刀禰
+0.0022779    1 matron         : 刀自
+0.0022696    1 swordmaker     : 刀工
+0.0022218    2 ceremony       : 太刀持, 太刀持ち
+0.0022015    2 hold           : 太刀持, 太刀持ち
+0.0021755    1 open           : 刀子
+0.0021650    1 guardless      : 腰刀
+0.0021529    1 confidant      : 懐刀
+0.0021449    1 bisexual       : 両刀
+0.0021368    1 medieval       : 刀禰
+0.0021135    1 Canavalia      : 刀豆
+0.0020891    1 Trichiurus     : 太刀魚
+0.0020891    1 hairtail       : 太刀魚
+0.0020651    3 large          : 大刀, 太刀, 横刀
+0.0020649    1 captain        : 刀禰
+0.0020419    1 stiletto       : 懐刀
+0.0020360    1 bandit         : 刀禰
+0.0020199    1 housekeeper    : 刀自
+0.0019747    1 hatchet        : 山刀
+0.0019638    1 contending     : 太刀打ち
+0.0018796    1 harbor         : 刀禰
+0.0018664    1 prominent      : 刀禰
+0.0018422    1 gang           : 刀禰
+0.0018395    1 forceful       : 太刀先
+0.0018240    3 period         : 大刀, 太刀, 横刀
+0.0018161    1 scimitar       : 偃月刀
+0.0018137    3 Chinese        : 大刀, 太刀, 横刀
+0.0018052    1 liking         : 両刀
+0.0017773    1 person         : 両刀
+0.0017546    1 manager        : 刀禰
+0.0017347    1 administrative : 刀禰
+0.0017062    1 clam           : 馬刀貝
+0.0016662    1 forged         : 新刀
+0.0016436    1 expert         : 両刀
+0.0016272    1 leader         : 刀禰
+0.0016182    1 skilled        : 両刀
+0.0016138    1 bloody         : 血刀
+0.0016014    1 blunt          : 鈍刀
+0.0015943    1 priest         : 刀禰
+0.0015811    1 scar           : 刀痕
+0.0015460    1 butcher        : 牛刀
+0.0015178    1 chef           : 牛刀
+0.0015178    1 excellent      : 名刀
+0.0015173    1 four           : 刀禰
+0.0015128    1 river          : 刀禰
+0.0014989    1 famous         : 名刀
+0.0014872    1 debate         : 太刀先
+0.0014846    1 mistress       : 刀自
+0.0014789    1 dull           : 鈍刀
+0.0014615    1 bamboo         : 竹刀
+0.0014385    1 charge         : 刀禰
+0.0014101    1 lady           : 刀自
+0.0013998    1 official       : 刀禰
+0.0013920    1 defensive      : 受け太刀
+0.0013822    1 dirk           : 短刀
+0.0013743    1 crossing       : 太刀打ち
+0.0013697    1 back           : 刀背打ち
+0.0013532    1 government     : 刀禰
+0.0013441    1 doctor         : 刀圭
+0.0013337    1 bean           : 刀豆
+0.0012822    1 fighting       : 太刀打ち
+0.0012785    2 one            : 刀禰, 佩刀
+0.0012620    1 sharp          : 快刀
+0.0012515    1 right          : 立刀
+0.0012510    1 head           : 刀禰
+0.0012211    1 bayonet        : 刀剣
+0.0012208    1 saury          : 秋刀魚
+0.0012087    1 system         : 刀禰
+0.0011745    1 burin          : 刀
+0.0011620    1 name           : 銘刀
+0.0011442    1 graver         : 刀
+0.0011206    1 scalpel        : 刀
+0.0011012    1 man            : 懐刀
+0.0010635    1 hand           : 手刀
+0.0010534    1 drawn          : 抜刀
+0.0010511    1 military       : 軍刀
+0.0010431    1 year           : 新刀
+0.0010343    1 pike           : 秋刀魚
+0.0010048    1 chisel         : 刀
+0.0010048    1 commodity      : 刀
+0.0010037    1 surgical       : 執刀
+0.0009933    1 point          : 太刀先
+0.0009885    1 made           : 新刀
+0.0009759    1 fish           : 太刀魚
+0.0009445    1 old            : 古刀
+0.0009260    1 mackerel       : 秋刀魚
+0.0009070    1 drawing        : 抜刀
+0.0007809    1 operation      : 執刀
+0.0007569    1 stick          : 竹刀
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2610362   58 sword
+	sword WORD[ 1,   1]: 0.0551586 大太刀
+	sword WORD[ 1,   2]: 0.0469723 錆刀
+	sword WORD[ 1,   3]: 0.0248331 一刀
+	sword WORD[ 1,   4]: 0.0099348 刀尖
+	sword WORD[ 1,   5]: 0.0077791 妖刀
+	sword WORD[ 1,   6]: 0.0068074 小太刀
+	sword WORD[ 1,   7]: 0.0067791 刀創
+	sword WORD[ 1,   8]: 0.0046103 納刀
+	sword WORD[ 1,   9]: 0.0044080 愛刀
+	sword WORD[ 1,  10]: 0.0043744 刀傷
+	sword WORD[ 1,  11]: 0.0043744 刀疵
+	sword WORD[ 1,  12]: 0.0033254 刀架
+	sword WORD[ 1,  13]: 0.0030628 刀狩
+	sword WORD[ 1,  14]: 0.0030628 刀狩り
+	sword WORD[ 1,  15]: 0.0029769 刀刃
+	sword WORD[ 1,  16]: 0.0028820 作刀
+	sword WORD[ 1,  17]: 0.0026135 守り刀
+	sword WORD[ 1,  18]: 0.0026134 守刀
+	sword WORD[ 1,  19]: 0.0025607 飾太刀
+	sword WORD[ 1,  20]: 0.0025601 野太刀
+	sword WORD[ 1,  21]: 0.0025505 忍び刀
+	sword WORD[ 1,  22]: 0.0025505 忍刀
+	sword WORD[ 1,  23]: 0.0025109 名刀
+	sword WORD[ 1,  24]: 0.0024039 打ち刀
+	sword WORD[ 1,  25]: 0.0024039 打刀
+	sword WORD[ 1,  26]: 0.0023610 佩刀
+	sword WORD[ 1,  27]: 0.0022250 太刀持
+	sword WORD[ 1,  28]: 0.0022250 太刀持ち
+	sword WORD[ 1,  29]: 0.0022188 刀礼
+	sword WORD[ 1,  30]: 0.0021999 刀掛け
+	sword WORD[ 1,  31]: 0.0021808 大刀
+	sword WORD[ 1,  32]: 0.0021808 太刀
+	sword WORD[ 1,  33]: 0.0021808 横刀
+	sword WORD[ 1,  34]: 0.0021743 新刀
+	sword WORD[ 1,  35]: 0.0021222 小刀
+	sword WORD[ 1,  36]: 0.0016532 抜刀
+	sword WORD[ 1,  37]: 0.0012944 立刀
+	sword WORD[ 1,  38]: 0.0012555 銘刀
+	sword WORD[ 1,  39]: 0.0012535 刀背打ち
+	sword WORD[ 1,  40]: 0.0012496 木刀
+	sword WORD[ 1,  41]: 0.0012469 宝刀
+	sword WORD[ 1,  42]: 0.0011857 鈍刀
+	sword WORD[ 1,  43]: 0.0011642 刀豆
+	sword WORD[ 1,  44]: 0.0011556 手刀
+	sword WORD[ 1,  45]: 0.0011384 刀身
+	sword WORD[ 1,  46]: 0.0011381 刀痕
+	sword WORD[ 1,  47]: 0.0011288 血刀
+	sword WORD[ 1,  48]: 0.0011112 太刀先
+	sword WORD[ 1,  49]: 0.0010856 腰刀
+	sword WORD[ 1,  50]: 0.0010848 快刀
+	sword WORD[ 1,  51]: 0.0010587 木太刀
+	sword WORD[ 1,  52]: 0.0010552 古刀
+	sword WORD[ 1,  53]: 0.0010398 軍刀
+	sword WORD[ 1,  54]: 0.0007615 刀剣
+	sword WORD[ 1,  55]: 0.0007347 短刀
+	sword WORD[ 1,  56]: 0.0007216 帯刀
+	sword WORD[ 1,  57]: 0.0006947 竹刀
+	sword WORD[ 1,  58]: 0.0006470 刀
+TOKEN[ 2]: 0.0426461    6 blade
+	blade WORD[ 2,   1]: 0.0305803 一刀
+	blade WORD[ 2,   2]: 0.0036659 刀刃
+	blade WORD[ 2,   3]: 0.0028038 刀身
+	blade WORD[ 2,   4]: 0.0014301 薙刀
+	blade WORD[ 2,   5]: 0.0013901 血刀
+	blade WORD[ 2,   6]: 0.0013880 長刀
+TOKEN[ 3]: 0.0408746    7 edge
+	edge WORD[ 3,   1]: 0.0266802 錆刀
+	edge WORD[ 3,   2]: 0.0062554 足刀
+	edge WORD[ 3,   3]: 0.0027308 打ち刀
+	edge WORD[ 3,   4]: 0.0027308 打刀
+	edge WORD[ 3,   5]: 0.0008258 大刀
+	edge WORD[ 3,   6]: 0.0008258 太刀
+	edge WORD[ 3,   7]: 0.0008258 横刀
+TOKEN[ 4]: 0.0299566    1 stroke
+	stroke WORD[ 4,   1]: 0.0299566 一刀
+TOKEN[ 5]: 0.0279013    1 useless
+	useless WORD[ 5,   1]: 0.0279013 錆刀
+TOKEN[ 6]: 0.0266969    1 single
+	single WORD[ 6,   1]: 0.0266969 一刀
+TOKEN[ 7]: 0.0184517    1 shears
+	shears WORD[ 7,   1]: 0.0092258 剪刀
+TOKEN[ 8]: 0.0167136   10 knife
+	knife WORD[ 8,   1]: 0.0032200 印刀
+	knife WORD[ 8,   2]: 0.0026908 刀子
+	knife WORD[ 8,   3]: 0.0025770 牛刀
+	knife WORD[ 8,   4]: 0.0014153 刀泉
+	knife WORD[ 8,   5]: 0.0014153 刀銭
+	knife WORD[ 8,   6]: 0.0014143 刀身
+	knife WORD[ 8,   7]: 0.0013183 小刀
+	knife WORD[ 8,   8]: 0.0009460 刀剣
+	knife WORD[ 8,   9]: 0.0009127 短刀
+	knife WORD[ 8,  10]: 0.0008038 刀
+TOKEN[ 9]: 0.0163403    1 scissors
+	scissors WORD[ 9,   1]: 0.0081702 剪刀
+TOKEN[10]: 0.0150312    1 punch
+	punch WORD[10,   1]: 0.0075156 剪刀
+TOKEN[11]: 0.0137579    1 hole
+	hole WORD[11,   1]: 0.0068789 剪刀
+TOKEN[12]: 0.0116597    1 tip
+	tip WORD[12,   1]: 0.0116597 刀尖
+TOKEN[13]: 0.0108792    6 hip
+	hip WORD[13,   1]: 0.0032390 打ち刀
+	hip WORD[13,   2]: 0.0032390 打刀
+	hip WORD[13,   3]: 0.0014627 腰刀
+	hip WORD[13,   4]: 0.0009795 大刀
+	hip WORD[13,   5]: 0.0009795 太刀
+	hip WORD[13,   6]: 0.0009795 横刀
+TOKEN[14]: 0.0095726    3 wound
+	wound WORD[14,   1]: 0.0041791 刀創
+	wound WORD[14,   2]: 0.0026967 刀傷
+	wound WORD[14,   3]: 0.0026967 刀疵
+TOKEN[15]: 0.0095365    4 cut
+	cut WORD[15,   1]: 0.0032553 刀創
+	cut WORD[15,   2]: 0.0021006 刀傷
+	cut WORD[15,   3]: 0.0021006 刀疵
+	cut WORD[15,   4]: 0.0020801 刀子
+TOKEN[16]: 0.0095146    4 swordsmith
+	swordsmith WORD[16,   1]: 0.0035908 刀鍛冶
+	swordsmith WORD[16,   2]: 0.0021057 銘刀
+	swordsmith WORD[16,   3]: 0.0019092 刀匠
+	swordsmith WORD[16,   4]: 0.0019088 刀工
+TOKEN[17]: 0.0093866    5 glaive
+	glaive WORD[17,   1]: 0.0019478 薙刀
+	glaive WORD[17,   2]: 0.0018905 長刀
+	glaive WORD[17,   3]: 0.0012193 大刀
+	glaive WORD[17,   4]: 0.0012192 太刀
+	glaive WORD[17,   5]: 0.0012192 横刀
+TOKEN[18]: 0.0088705    6 worn
+	worn WORD[18,   1]: 0.0026410 打ち刀
+	worn WORD[18,   2]: 0.0026410 打刀
+	worn WORD[18,   3]: 0.0011927 腰刀
+	worn WORD[18,   4]: 0.0007986 大刀
+	worn WORD[18,   5]: 0.0007986 太刀
+	worn WORD[18,   6]: 0.0007986 横刀
+TOKEN[19]: 0.0081685    1 karate
+	karate WORD[19,   1]: 0.0081685 足刀
+TOKEN[20]: 0.0080179    5 samurai
+	samurai WORD[20,   1]: 0.0027580 打ち刀
+	samurai WORD[20,   2]: 0.0027579 打刀
+	samurai WORD[20,   3]: 0.0008340 大刀
+	samurai WORD[20,   4]: 0.0008340 太刀
+	samurai WORD[20,   5]: 0.0008340 横刀
+TOKEN[21]: 0.0079920    1 heel
+	heel WORD[21,   1]: 0.0079920 足刀
+TOKEN[22]: 0.0074718    1 toe
+	toe WORD[22,   1]: 0.0074718 足刀
+TOKEN[23]: 0.0074281    2 rack
+	rack WORD[23,   1]: 0.0044706 刀架
+	rack WORD[23,   2]: 0.0029575 刀掛け
+TOKEN[24]: 0.0068590    1 outer
+	outer WORD[24,   1]: 0.0068590 足刀
+TOKEN[25]: 0.0067810    3 art
+	art WORD[25,   1]: 0.0032449 刀術
+	art WORD[25,   2]: 0.0012022 薙刀
+	art WORD[25,   3]: 0.0011669 長刀
+TOKEN[26]: 0.0066085    3 small
+	small WORD[26,   1]: 0.0029243 小太刀
+	small WORD[26,   2]: 0.0018608 刀子
+	small WORD[26,   3]: 0.0018233 小刀
+TOKEN[27]: 0.0062602    4 short
+	short WORD[27,   1]: 0.0033902 小太刀
+	short WORD[27,   2]: 0.0010813 腰刀
+	short WORD[27,   3]: 0.0010569 小刀
+	short WORD[27,   4]: 0.0007318 短刀
+TOKEN[28]: 0.0062270    4 razor
+	razor WORD[28,   1]: 0.0019226 馬刀貝
+	razor WORD[28,   2]: 0.0016745 刀泉
+	razor WORD[28,   3]: 0.0016745 刀銭
+	razor WORD[28,   4]: 0.0009554 剃刀
+TOKEN[29]: 0.0061758    1 foot
+	foot WORD[29,   1]: 0.0061758 足刀
+TOKEN[30]: 0.0059161    2 polearm
+	polearm WORD[30,   1]: 0.0020114 薙刀
+	polearm WORD[30,   2]: 0.0019523 長刀
+TOKEN[31]: 0.0056801    2 fencing
+	fencing WORD[31,   1]: 0.0046497 刀術
+	fencing WORD[31,   2]: 0.0010305 竹刀
+TOKEN[32]: 0.0051092    3 swordsmanship
+	swordsmanship WORD[32,   1]: 0.0017031 太刀筋
+	swordsmanship WORD[32,   2]: 0.0017031 太刀さばき
+	swordsmanship WORD[32,   3]: 0.0017031 太刀捌き
+TOKEN[33]: 0.0049115    2 confiscation
+	confiscation WORD[33,   1]: 0.0024558 刀狩
+	confiscation WORD[33,   2]: 0.0024557 刀狩り
+TOKEN[34]: 0.0046947    1 pirate
+	pirate WORD[34,   1]: 0.0046947 刀伊
+TOKEN[35]: 0.0046236    2 curved
+	curved WORD[35,   1]: 0.0015720 薙刀
+	curved WORD[35,   2]: 0.0015258 長刀
+TOKEN[36]: 0.0045467    1 backup
+	backup WORD[36,   1]: 0.0045467 助太刀
+TOKEN[37]: 0.0042778    1 Ninja
+	Ninja WORD[37,   1]: 0.0042778 忍刀
+TOKEN[38]: 0.0041908    2 martial
+	martial WORD[38,   1]: 0.0014249 薙刀
+	martial WORD[38,   2]: 0.0013830 長刀
+TOKEN[39]: 0.0041810    2 swordplay
+	swordplay WORD[39,   1]: 0.0020905 太刀さばき
+	swordplay WORD[39,   2]: 0.0020905 太刀捌き
+TOKEN[40]: 0.0041660    2 hunt
+	hunt WORD[40,   1]: 0.0020830 刀狩
+	hunt WORD[40,   2]: 0.0020830 刀狩り
+TOKEN[41]: 0.0041319    1 helper
+	helper WORD[41,   1]: 0.0041319 助太刀
+TOKEN[42]: 0.0041125    2 saber
+	saber WORD[42,   1]: 0.0022738 洋刀
+	saber WORD[42,   2]: 0.0018387 軍刀
+TOKEN[43]: 0.0040747    5 Japanese
+	Japanese WORD[43,   1]: 0.0020567 作刀
+	Japanese WORD[43,   2]: 0.0005188 大刀
+	Japanese WORD[43,   3]: 0.0005188 太刀
+	Japanese WORD[43,   4]: 0.0005188 横刀
+	Japanese WORD[43,   5]: 0.0004617 刀
+TOKEN[44]: 0.0040397    1 tribe
+	tribe WORD[44,   1]: 0.0040397 刀伊
+TOKEN[45]: 0.0039885    3 dagger
+	dagger WORD[45,   1]: 0.0017894 懐刀
+	dagger WORD[45,   2]: 0.0011192 刀剣
+	dagger WORD[45,   3]: 0.0010799 短刀
+TOKEN[46]: 0.0039249    2 similar
+	similar WORD[46,   1]: 0.0013345 薙刀
+	similar WORD[46,   2]: 0.0012952 長刀
+TOKEN[47]: 0.0038907    1 wedding
+	wedding WORD[47,   1]: 0.0038907 入刀
+TOKEN[48]: 0.0038857    1 supporter
+	supporter WORD[48,   1]: 0.0038857 助太刀
+TOKEN[49]: 0.0037229    1 cake
+	cake WORD[49,   1]: 0.0037229 入刀
+TOKEN[50]: 0.0036940    1 magical
+	magical WORD[50,   1]: 0.0036940 妖刀
+TOKEN[51]: 0.0036766    2 wearing
+	wearing WORD[51,   1]: 0.0028159 佩刀
+	wearing WORD[51,   2]: 0.0008607 帯刀
+TOKEN[52]: 0.0036639    1 sheathing
+	sheathing WORD[52,   1]: 0.0036639 納刀
+TOKEN[53]: 0.0035801    1 scabbard
+	scabbard WORD[53,   1]: 0.0035801 納刀
+TOKEN[54]: 0.0035175    1 two
+	two WORD[54,   1]: 0.0035175 両刀
+TOKEN[55]: 0.0035004    1 mock
+	mock WORD[55,   1]: 0.0035004 飾太刀
+TOKEN[56]: 0.0034467    1 aid
+	aid WORD[56,   1]: 0.0034467 助太刀
+TOKEN[57]: 0.0034227    1 salute
+	salute WORD[57,   1]: 0.0034227 刀礼
+TOKEN[58]: 0.0033953    1 assistance
+	assistance WORD[58,   1]: 0.0033953 助太刀
+TOKEN[59]: 0.0033644    1 demon
+	demon WORD[59,   1]: 0.0033644 妖刀
+TOKEN[60]: 0.0033606    1 cutting
+	cutting WORD[60,   1]: 0.0033606 入刀
+TOKEN[61]: 0.0032469    3 money
+	money WORD[61,   1]: 0.0011761 刀
+	money WORD[61,   2]: 0.0010354 刀泉
+	money WORD[61,   3]: 0.0010354 刀銭
+TOKEN[62]: 0.0032435    1 ceremonial
+	ceremonial WORD[62,   1]: 0.0032435 飾太刀
+TOKEN[63]: 0.0031603    3 used
+	used WORD[63,   1]: 0.0017248 刀子
+	used WORD[63,   2]: 0.0009203 手刀
+	used WORD[63,   3]: 0.0005152 刀
+TOKEN[64]: 0.0031312    1 town
+	town WORD[64,   1]: 0.0031312 刀禰
+TOKEN[65]: 0.0031168    1 fight
+	fight WORD[65,   1]: 0.0031168 助太刀
+TOKEN[66]: 0.0030917    2 bronze
+	bronze WORD[66,   1]: 0.0015458 刀泉
+	bronze WORD[66,   2]: 0.0015458 刀銭
+TOKEN[67]: 0.0030497    1 help
+	help WORD[67,   1]: 0.0030497 助太刀
+TOKEN[68]: 0.0030087    1 mother
+	mother WORD[68,   1]: 0.0030087 母刀自
+TOKEN[69]: 0.0029832    1 member
+	member WORD[69,   1]: 0.0029832 刀禰
+TOKEN[70]: 0.0029830    2 shaped
+	shaped WORD[70,   1]: 0.0014915 刀泉
+	shaped WORD[70,   2]: 0.0014915 刀銭
+TOKEN[71]: 0.0029796    3 ancient
+	ancient WORD[71,   1]: 0.0011603 刀泉
+	ancient WORD[71,   2]: 0.0011603 刀銭
+	ancient WORD[71,   3]: 0.0006590 刀
+TOKEN[72]: 0.0029653    2 subordinate
+	subordinate WORD[72,   1]: 0.0014827 太刀持
+	subordinate WORD[72,   2]: 0.0014827 太刀持ち
+TOKEN[73]: 0.0029559    2 striking
+	striking WORD[73,   1]: 0.0015380 刀背打ち
+	striking WORD[73,   2]: 0.0014179 手刀
+TOKEN[74]: 0.0029525    1 alcohol
+	alcohol WORD[74,   1]: 0.0029525 両刀
+TOKEN[75]: 0.0029436    1 favorite
+	favorite WORD[75,   1]: 0.0029436 愛刀
+TOKEN[76]: 0.0028573    2 straight
+	straight WORD[76,   1]: 0.0014287 刀泉
+	straight WORD[76,   2]: 0.0014287 刀銭
+TOKEN[77]: 0.0028374    1 radical
+	radical WORD[77,   1]: 0.0028374 立刀
+TOKEN[78]: 0.0028201    1 ornamental
+	ornamental WORD[78,   1]: 0.0028201 刀子
+TOKEN[79]: 0.0027754    1 making
+	making WORD[79,   1]: 0.0027754 作刀
+TOKEN[80]: 0.0027202    2 coin
+	coin WORD[80,   1]: 0.0013601 刀泉
+	coin WORD[80,   2]: 0.0013601 刀銭
+TOKEN[81]: 0.0026003    1 woodman
+	woodman WORD[81,   1]: 0.0026003 山刀
+TOKEN[82]: 0.0025692    2 carrying
+	carrying WORD[82,   1]: 0.0012846 太刀持
+	carrying WORD[82,   2]: 0.0012846 太刀持ち
+TOKEN[83]: 0.0024820    2 ring
+	ring WORD[83,   1]: 0.0012410 太刀持
+	ring WORD[83,   2]: 0.0012410 太刀持ち
+TOKEN[84]: 0.0024134    2 wooden
+	wooden WORD[84,   1]: 0.0013065 木刀
+	wooden WORD[84,   2]: 0.0011069 木太刀
+TOKEN[85]: 0.0024116    1 use
+	use WORD[85,   1]: 0.0024116 飾太刀
+TOKEN[86]: 0.0023782    2 job
+	job WORD[86,   1]: 0.0011891 太刀持
+	job WORD[86,   2]: 0.0011891 太刀持ち
+TOKEN[87]: 0.0023696    2 master
+	master WORD[87,   1]: 0.0011848 太刀持
+	master WORD[87,   2]: 0.0011848 太刀持ち
+TOKEN[88]: 0.0023132    1 Solen
+	Solen WORD[88,   1]: 0.0023132 馬刀貝
+TOKEN[89]: 0.0022932    1 boatman
+	boatman WORD[89,   1]: 0.0022932 刀禰
+TOKEN[90]: 0.0022779    1 matron
+	matron WORD[90,   1]: 0.0022779 刀自
+TOKEN[91]: 0.0022696    1 swordmaker
+	swordmaker WORD[91,   1]: 0.0022696 刀工
+TOKEN[92]: 0.0022218    2 ceremony
+	ceremony WORD[92,   1]: 0.0011109 太刀持
+	ceremony WORD[92,   2]: 0.0011109 太刀持ち
+TOKEN[93]: 0.0022015    2 hold
+	hold WORD[93,   1]: 0.0011007 太刀持
+	hold WORD[93,   2]: 0.0011007 太刀持ち
+TOKEN[94]: 0.0021755    1 open
+	open WORD[94,   1]: 0.0021755 刀子
+TOKEN[95]: 0.0021650    1 guardless
+	guardless WORD[95,   1]: 0.0021650 腰刀
+TOKEN[96]: 0.0021529    1 confidant
+	confidant WORD[96,   1]: 0.0021529 懐刀
+TOKEN[97]: 0.0021449    1 bisexual
+	bisexual WORD[97,   1]: 0.0021449 両刀
+TOKEN[98]: 0.0021368    1 medieval
+	medieval WORD[98,   1]: 0.0021368 刀禰
+TOKEN[99]: 0.0021135    1 Canavalia
+	Canavalia WORD[99,   1]: 0.0021135 刀豆
+TOKEN[100]: 0.0020891    1 Trichiurus
+	Trichiurus WORD[100,   1]: 0.0020891 太刀魚
+TOKEN[101]: 0.0020891    1 hairtail
+	hairtail WORD[101,   1]: 0.0020891 太刀魚
+TOKEN[102]: 0.0020651    3 large
+	large WORD[102,   1]: 0.0006884 大刀
+	large WORD[102,   2]: 0.0006884 太刀
+	large WORD[102,   3]: 0.0006884 横刀
+TOKEN[103]: 0.0020649    1 captain
+	captain WORD[103,   1]: 0.0020649 刀禰
+TOKEN[104]: 0.0020419    1 stiletto
+	stiletto WORD[104,   1]: 0.0020419 懐刀
+TOKEN[105]: 0.0020360    1 bandit
+	bandit WORD[105,   1]: 0.0020360 刀禰
+TOKEN[106]: 0.0020199    1 housekeeper
+	housekeeper WORD[106,   1]: 0.0020199 刀自
+TOKEN[107]: 0.0019747    1 hatchet
+	hatchet WORD[107,   1]: 0.0019747 山刀
+TOKEN[108]: 0.0019638    1 contending
+	contending WORD[108,   1]: 0.0019638 太刀打ち
+TOKEN[109]: 0.0018796    1 harbor
+	harbor WORD[109,   1]: 0.0018796 刀禰
+TOKEN[110]: 0.0018664    1 prominent
+	prominent WORD[110,   1]: 0.0018664 刀禰
+TOKEN[111]: 0.0018422    1 gang
+	gang WORD[111,   1]: 0.0018422 刀禰
+TOKEN[112]: 0.0018395    1 forceful
+	forceful WORD[112,   1]: 0.0018395 太刀先
+TOKEN[113]: 0.0018240    3 period
+	period WORD[113,   1]: 0.0006080 大刀
+	period WORD[113,   2]: 0.0006080 太刀
+	period WORD[113,   3]: 0.0006080 横刀
+TOKEN[114]: 0.0018161    1 scimitar
+	scimitar WORD[114,   1]: 0.0018161 偃月刀
+TOKEN[115]: 0.0018137    3 Chinese
+	Chinese WORD[115,   1]: 0.0006046 大刀
+	Chinese WORD[115,   2]: 0.0006046 太刀
+	Chinese WORD[115,   3]: 0.0006046 横刀
+TOKEN[116]: 0.0018052    1 liking
+	liking WORD[116,   1]: 0.0018052 両刀
+TOKEN[117]: 0.0017773    1 person
+	person WORD[117,   1]: 0.0017773 両刀
+TOKEN[118]: 0.0017546    1 manager
+	manager WORD[118,   1]: 0.0017546 刀禰
+TOKEN[119]: 0.0017347    1 administrative
+	administrative WORD[119,   1]: 0.0017347 刀禰
+TOKEN[120]: 0.0017062    1 clam
+	clam WORD[120,   1]: 0.0017062 馬刀貝
+TOKEN[121]: 0.0016662    1 forged
+	forged WORD[121,   1]: 0.0016662 新刀
+TOKEN[122]: 0.0016436    1 expert
+	expert WORD[122,   1]: 0.0016436 両刀
+TOKEN[123]: 0.0016272    1 leader
+	leader WORD[123,   1]: 0.0016272 刀禰
+TOKEN[124]: 0.0016182    1 skilled
+	skilled WORD[124,   1]: 0.0016182 両刀
+TOKEN[125]: 0.0016138    1 bloody
+	bloody WORD[125,   1]: 0.0016138 血刀
+TOKEN[126]: 0.0016014    1 blunt
+	blunt WORD[126,   1]: 0.0016014 鈍刀
+TOKEN[127]: 0.0015943    1 priest
+	priest WORD[127,   1]: 0.0015943 刀禰
+TOKEN[128]: 0.0015811    1 scar
+	scar WORD[128,   1]: 0.0015811 刀痕
+TOKEN[129]: 0.0015460    1 butcher
+	butcher WORD[129,   1]: 0.0015460 牛刀
+TOKEN[130]: 0.0015178    1 chef
+	chef WORD[130,   1]: 0.0015178 牛刀
+TOKEN[131]: 0.0015178    1 excellent
+	excellent WORD[131,   1]: 0.0015178 名刀
+TOKEN[132]: 0.0015173    1 four
+	four WORD[132,   1]: 0.0015173 刀禰
+TOKEN[133]: 0.0015128    1 river
+	river WORD[133,   1]: 0.0015128 刀禰
+TOKEN[134]: 0.0014989    1 famous
+	famous WORD[134,   1]: 0.0014989 名刀
+TOKEN[135]: 0.0014872    1 debate
+	debate WORD[135,   1]: 0.0014872 太刀先
+TOKEN[136]: 0.0014846    1 mistress
+	mistress WORD[136,   1]: 0.0014846 刀自
+TOKEN[137]: 0.0014789    1 dull
+	dull WORD[137,   1]: 0.0014789 鈍刀
+TOKEN[138]: 0.0014615    1 bamboo
+	bamboo WORD[138,   1]: 0.0014615 竹刀
+TOKEN[139]: 0.0014385    1 charge
+	charge WORD[139,   1]: 0.0014385 刀禰
+TOKEN[140]: 0.0014101    1 lady
+	lady WORD[140,   1]: 0.0014101 刀自
+TOKEN[141]: 0.0013998    1 official
+	official WORD[141,   1]: 0.0013998 刀禰
+TOKEN[142]: 0.0013920    1 defensive
+	defensive WORD[142,   1]: 0.0013920 受け太刀
+TOKEN[143]: 0.0013822    1 dirk
+	dirk WORD[143,   1]: 0.0013822 短刀
+TOKEN[144]: 0.0013743    1 crossing
+	crossing WORD[144,   1]: 0.0013743 太刀打ち
+TOKEN[145]: 0.0013697    1 back
+	back WORD[145,   1]: 0.0013697 刀背打ち
+TOKEN[146]: 0.0013532    1 government
+	government WORD[146,   1]: 0.0013532 刀禰
+TOKEN[147]: 0.0013441    1 doctor
+	doctor WORD[147,   1]: 0.0013441 刀圭
+TOKEN[148]: 0.0013337    1 bean
+	bean WORD[148,   1]: 0.0013337 刀豆
+TOKEN[149]: 0.0012822    1 fighting
+	fighting WORD[149,   1]: 0.0012822 太刀打ち
+TOKEN[150]: 0.0012785    2 one
+	one WORD[150,   1]: 0.0006903 刀禰
+	one WORD[150,   2]: 0.0005883 佩刀
+TOKEN[151]: 0.0012620    1 sharp
+	sharp WORD[151,   1]: 0.0012620 快刀
+TOKEN[152]: 0.0012515    1 right
+	right WORD[152,   1]: 0.0012515 立刀
+TOKEN[153]: 0.0012510    1 head
+	head WORD[153,   1]: 0.0012510 刀禰
+TOKEN[154]: 0.0012211    1 bayonet
+	bayonet WORD[154,   1]: 0.0012211 刀剣
+TOKEN[155]: 0.0012208    1 saury
+	saury WORD[155,   1]: 0.0012208 秋刀魚
+TOKEN[156]: 0.0012087    1 system
+	system WORD[156,   1]: 0.0012087 刀禰
+TOKEN[157]: 0.0011745    1 burin
+	burin WORD[157,   1]: 0.0011745 刀
+TOKEN[158]: 0.0011620    1 name
+	name WORD[158,   1]: 0.0011620 銘刀
+TOKEN[159]: 0.0011442    1 graver
+	graver WORD[159,   1]: 0.0011442 刀
+TOKEN[160]: 0.0011206    1 scalpel
+	scalpel WORD[160,   1]: 0.0011206 刀
+TOKEN[161]: 0.0011012    1 man
+	man WORD[161,   1]: 0.0011012 懐刀
+TOKEN[162]: 0.0010635    1 hand
+	hand WORD[162,   1]: 0.0010635 手刀
+TOKEN[163]: 0.0010534    1 drawn
+	drawn WORD[163,   1]: 0.0010534 抜刀
+TOKEN[164]: 0.0010511    1 military
+	military WORD[164,   1]: 0.0010511 軍刀
+TOKEN[165]: 0.0010431    1 year
+	year WORD[165,   1]: 0.0010431 新刀
+TOKEN[166]: 0.0010343    1 pike
+	pike WORD[166,   1]: 0.0010343 秋刀魚
+TOKEN[167]: 0.0010048    1 chisel
+	chisel WORD[167,   1]: 0.0010048 刀
+TOKEN[168]: 0.0010048    1 commodity
+	commodity WORD[168,   1]: 0.0010048 刀
+TOKEN[169]: 0.0010037    1 surgical
+	surgical WORD[169,   1]: 0.0010037 執刀
+TOKEN[170]: 0.0009933    1 point
+	point WORD[170,   1]: 0.0009933 太刀先
+TOKEN[171]: 0.0009885    1 made
+	made WORD[171,   1]: 0.0009885 新刀
+TOKEN[172]: 0.0009759    1 fish
+	fish WORD[172,   1]: 0.0009759 太刀魚
+TOKEN[173]: 0.0009445    1 old
+	old WORD[173,   1]: 0.0009445 古刀
+TOKEN[174]: 0.0009260    1 mackerel
+	mackerel WORD[174,   1]: 0.0009260 秋刀魚
+TOKEN[175]: 0.0009070    1 drawing
+	drawing WORD[175,   1]: 0.0009070 抜刀
+TOKEN[176]: 0.0007809    1 operation
+	operation WORD[176,   1]: 0.0007809 執刀
+TOKEN[177]: 0.0007569    1 stick
+	stick WORD[177,   1]: 0.0007569 竹刀

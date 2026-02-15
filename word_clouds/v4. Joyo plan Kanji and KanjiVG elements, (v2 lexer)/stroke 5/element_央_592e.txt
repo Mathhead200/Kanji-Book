@@ -1,0 +1,895 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0824972    1 martingale     : 鞅
+0.0657254    1 seedling       : 秧
+0.0579454    2 discontented   : 怏々, 怏怏
+0.0531657    2 unhappy        : 怏々, 怏怏
+0.0434650    1 Aix            : 鴛鴦
+0.0411319    2 trouble        : 余殃, 殃
+0.0397027    2 rice           : 秧, 挿秧
+0.0376393    1 brought        : 余殃
+0.0372287    1 mandarin       : 鴛鴦
+0.0304174    1 duck           : 鴛鴦
+0.0286139    1 busy           : 鞅掌
+0.0266733    1 daikon         : 霙
+0.0228717    4 middle         : 年央, 月央, 央, 中央
+0.0176345    1 sleet          : 霙
+0.0144981    1 honey          : 霙
+0.0138622    1 topped         : 霙
+0.0137946    1 central        : 道央
+0.0136945    1 shavings       : 霙
+0.0133366    1 shaved         : 霙
+0.0131004    1 cinema         : 映研
+0.0122297    8 British        : 英法, 英京, 英式, 英貨, 英領, 英学, 英資, 英紙
+0.0119155    1 epicenter      : 震央
+0.0115522    5 film           : 映研, 映配, 続映, 映像, 映画
+0.0114120    1 ice            : 霙
+0.0112162    1 calamity       : 殃
+0.0110162    2 center         : 央, 中央
+0.0106911    1 misfortune     : 殃
+0.0104326    1 disaster       : 殃
+0.0095942   10 English        : 英詩, 英法, 英文, 英検, 英学, 英作, 英名, 英訳, 英字, 英語
+0.0089274    1 prefecture     : 県央
+0.0086321    1 earthquake     : 震央
+0.0078793    2 heart          : 中央, 県央
+0.0068202    3 screening      : 開映, 終映, 上映
+0.0064274    1 year           : 年央
+0.0062280    3 capital        : 中央, 英京, 英資
+0.0060790    6 movie          : 開映, 大映, 終映, 続映, 上映, 映画
+0.0059797    1 month          : 月央
+0.0059322    4 reflected      : 映り込み, 映ずる, 映じる, 映る
+0.0056830    1 planting       : 挿秧
+0.0050089    9 Britain        : 渡英, 英国, 英國, 英吉利, 米英, 日英, 全英, 英米, 英仏
+0.0047952    1 seat           : 中央
+0.0043645    1 glare          : 映り込み
+0.0041899    1 government     : 中央
+0.0039120    1 background     : 映り込み
+0.0038259    2 law            : 英法, 英米法
+0.0036502    1 window         : 映り込み
+0.0029075    1 valve          : 英式
+0.0026787    8 person         : 英霊, 英傑, 才英, 英才, 映ずる, 映じる, 着映え, 英雄
+0.0025652    3 talented       : 才英, 英霊, 集英
+0.0022749    2 intelligent    : 才英, 英明
+0.0021302    2 style          : 英法, 英式
+0.0019578    1 studio         : 大映
+0.0019450    1 starting       : 開映
+0.0018942    1 test           : 英検
+0.0018847    1 Dunlop         : 英式
+0.0018355    6 great          : 英霊, 英邁, 英主, 英傑, 英気, 英雄
+0.0017706    1 beginning      : 開映
+0.0016538    1 portrait       : 照映
+0.0015051    3 dictionary     : 英英, 和英, 英和
+0.0014174    1 departed       : 英魂
+0.0013944    3 glow           : 夕映え, 照り映える, 映える
+0.0013813    3 reflect        : 映しだす, 映し出す, 映す
+0.0012890    1 method         : 英法
+0.0012820    3 reflection     : 反映, 映像, 映り
+0.0012805    1 sterling       : 英貨
+0.0012546    5 looking        : 見映え, かわり映え, 代り映え, 代わり映え, 変わり映え
+0.0012394    2 end            : 終映, 英学
+0.0012142    2 abashed        : 面映い, 面映ゆい
+0.0011859    2 mirrored       : 映ずる, 映じる
+0.0011851    1 King           : 英王
+0.0011727    1 proficiency    : 英検
+0.0011694    1 company        : 映配
+0.0011165    1 reflecting     : 映射
+0.0011003    4 improvement    : かわり映え, 代り映え, 代わり映え, 変わり映え
+0.0010966    4 better         : かわり映え, 代り映え, 代わり映え, 変わり映え
+0.0010691    1 cherry         : 英桃
+0.0010526    1 pound          : 英貨
+0.0010344    1 shining        : 映射
+0.0010293    2 bashful        : 面映い, 面映ゆい
+0.0010274    1 resident       : 駐英
+0.0009973    2 impress        : 映ずる, 映じる
+0.0009891    3 genius         : 英俊, 俊英, 英才
+0.0009839    1 currency       : 英貨
+0.0009833    4 screen         : 映像, 映る, 映しだす, 映し出す
+0.0009723    1 spirit         : 英魂
+0.0009645    4 show           : 見映え, 続映, 映しだす, 映し出す
+0.0009379    2 embarrassed    : 面映い, 面映ゆい
+0.0009336    2 gifted         : 育英, 英才
+0.0009235    3 wisdom         : 英気, 英智, 英知
+0.0008888    1 Japanese       : 大映
+0.0008875    3 picture        : 映像, 映画, 映り
+0.0008815    2 glory          : 英名, 映え
+0.0008686    1 poetry         : 英詩
+0.0008524    3 translation    : 日英, 英訳, 英日
+0.0008434    2 shine          : 照り映える, 映える
+0.0008374    1 possession     : 英領
+0.0008179    2 hero           : 英傑, 英雄
+0.0008167    1 poem           : 英詩
+0.0008044    1 territory      : 英領
+0.0007995    2 look           : 映える, 着映え
+0.0007988    4 change         : かわり映え, 代り映え, 代わり映え, 変わり映え
+0.0007979    2 attractive     : 見映え, 映える
+0.0007933    2 wise           : 英邁, 英明
+0.0007879    3 character      : 英数字, 英資, 英字
+0.0007837    1 figure         : 英姿
+0.0007499    1 surpassing     : 英武
+0.0007402    1 valor          : 英武
+0.0007386    2 literature     : 英学, 英文
+0.0007371    2 showing        : 競映, 上映
+0.0007361    1 Nanking        : 英桃
+0.0007347    2 nice           : 見映え, 映える
+0.0007329    1 corolla        : 英
+0.0007261    3 project        : 映す, 映しだす, 映し出す
+0.0007122    2 America        : 米英, 英米
+0.0007121    1 calyx          : 英
+0.0006937    2 image          : 映像, 映り
+0.0006842    1 downy          : 英桃
+0.0006737    1 going          : 渡英
+0.0006603    2 portray        : 映しだす, 映し出す
+0.0006582    2 appearance     : 英姿, 見映え
+0.0006573    2 interpretation : 日英, 英日
+0.0006491    2 excellent      : 英気, 英断
+0.0006414    1 distinguished  : 英武
+0.0006371    2 depict         : 映しだす, 映し出す
+0.0006326    2 sagacity       : 英智, 英知
+0.0006228    1 quartz         : 石英
+0.0006205    2 brilliant      : 英明, 英資
+0.0006019    1 Prunus         : 英桃
+0.0006014    2 Japan          : 英学, 日英
+0.0006012    1 vetch          : 紫雲英
+0.0005964    2 language       : 英学, 英語
+0.0005929    2 effect         : 反映, 出来映え
+0.0005928    1 sunset         : 夕映え
+0.0005892    1 mastermind     : 英傑
+0.0005848    2 describe       : 映しだす, 映し出す
+0.0005737    1 composition    : 英作
+0.0005572    2 intelligence   : 英智, 英知
+0.0005519    2 projection     : 映写, 映り
+0.0005491    1 Englishman     : 英人
+0.0005491    1 Briton         : 英人
+0.0005458    1 education      : 育英
+0.0005367    2 fine           : 見映え, 英資
+0.0005343    2 good           : 着映え, 見映え
+0.0005327    2 mirror         : 映しだす, 映し出す
+0.0005327    2 lake           : 映しだす, 映し出す
+0.0005261    1 gallant        : 英姿
+0.0005226    1 competitive    : 競映
+0.0005180    1 acquire        : 英学
+0.0005160    1 unusual        : 英才
+0.0004999    1 lionize        : もて映やす
+0.0004957    1 impressive     : 英姿
+0.0004947    1 isolation      : 英学
+0.0004920    1 vigor          : 英気
+0.0004911    2 quality        : 出来映え, 映り
+0.0004899    1 talent         : 英才
+0.0004891    1 decision       : 英断
+0.0004812    1 Taraxacum      : 蒲公英
+0.0004812    1 dandelion      : 蒲公英
+0.0004756    1 fame           : 英名
+0.0004732    2 mood           : 映しだす, 映し出す
+0.0004681    1 glaring        : 目映い
+0.0004631    1 airing         : 放映
+0.0004573    1 extraordinary  : 英傑
+0.0004547    1 soul           : 英霊
+0.0004493    1 ruler          : 英主
+0.0004423    1 update         : 反映
+0.0004419    2 times          : 映しだす, 映し出す
+0.0004409    1 milk           : 紫雲英
+0.0004378    1 disposition    : 英気
+0.0004316    1 energy         : 英気
+0.0004301    1 noble          : 英姿
+0.0004235    1 prodigy        : 英俊
+0.0004201    1 reputation     : 英名
+0.0004133    1 outward        : 見映え
+0.0004063    1 alphabetic     : 英字
+0.0004047    2 people         : 集英, 育英
+0.0003973    1 strength       : 英気
+0.0003973    1 knowledge      : 英学
+0.0003946    1 study          : 英学
+0.0003910    1 ability        : 英霊
+0.0003808    1 war            : 英霊
+0.0003724    1 dead           : 英霊
+0.0003675    1 continued      : 続映
+0.0003562    1 heroine        : 英雄
+0.0003502    1 footage        : 映像
+0.0003484    1 workmanship    : 出来映え
+0.0003432    1 clothes        : 着映え
+0.0003423    1 tournament     : 全英
+0.0003422    1 application    : 反映
+0.0003400    1 excellence     : 俊英
+0.0003387    1 beautiful      : 目映い
+0.0003361    1 name           : 英名
+0.0003343    1 praise         : もて映やす
+0.0003300    1 face           : 英気
+0.0003278    1 much           : もて映やす
+0.0003242    1 harmonize      : 映る
+0.0003235    1 society        : 反映
+0.0003228    1 visit          : 訪英
+0.0003189    1 displayed      : 映る
+0.0003150    1 execution      : 出来映え
+0.0003147    1 bright         : 英明
+0.0003134    1 brilliance     : 英才
+0.0003113    1 finishing      : 出来映え
+0.0003112    1 period         : 英学
+0.0003086    1 providing      : 育英
+0.0003019    1 Chinese        : 紫雲英
+0.0003017    1 lit            : 英文
+0.0003016    1 resolute       : 英断
+0.0002999    1 theater        : 続映
+0.0002997    1 success        : 出来映え
+0.0002978    1 decisive       : 英断
+0.0002802    1 making         : 見映え
+0.0002781    1 result         : 出来映え
+0.0002751    1 photo          : 映る
+0.0002690    1 gathering      : 集英
+0.0002661    1 video          : 映像
+0.0002656    1 performance    : 出来映え
+0.0002651    1 motion         : 映画
+0.0002645    1 harmony        : 映り
+0.0002642    1 something      : 英気
+0.0002633    1 article        : 出来映え
+0.0002618    1 newspaper      : 英紙
+0.0002555    1 financial      : 育英
+0.0002553    1 shape          : 出来映え
+0.0002521    1 mental         : 映像
+0.0002510    1 taking         : 反映
+0.0002504    1 set            : 映える
+0.0002498    1 cast           : 映す
+0.0002485    1 measure        : 英断
+0.0002485    1 shadow         : 映す
+0.0002471    1 firm           : 英断
+0.0002451    1 group          : 集英
+0.0002450    1 reception      : 映り
+0.0002442    1 species        : 蒲公英
+0.0002434    1 sentence       : 英文
+0.0002415    1 make           : もて映やす
+0.0002388    1 step           : 英断
+0.0002385    1 text           : 英文
+0.0002369    1 light          : 反映
+0.0002240    1 run            : 続映
+0.0002239    1 support        : 育英
+0.0002166    1 match          : 映り
+0.0002159    1 letter         : 英字
+0.0002088    1 young          : 育英
+0.0002041    1 writing        : 英文
+0.0001938    1 mind           : 映像
+0.0001911    1 money          : 英資
+0.0001791    1 come           : 映る
+0.0001034    1 one            : 映像
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0824972    1 martingale
+	martingale WORD[ 1,   1]: 0.0824972 鞅
+TOKEN[ 2]: 0.0657254    1 seedling
+	seedling WORD[ 2,   1]: 0.0657254 秧
+TOKEN[ 3]: 0.0579454    2 discontented
+	discontented WORD[ 3,   1]: 0.0289727 怏々
+	discontented WORD[ 3,   2]: 0.0289727 怏怏
+TOKEN[ 4]: 0.0531657    2 unhappy
+	unhappy WORD[ 4,   1]: 0.0265829 怏々
+	unhappy WORD[ 4,   2]: 0.0265828 怏怏
+TOKEN[ 5]: 0.0434650    1 Aix
+	Aix WORD[ 5,   1]: 0.0434650 鴛鴦
+TOKEN[ 6]: 0.0411319    2 trouble
+	trouble WORD[ 6,   1]: 0.0318756 余殃
+	trouble WORD[ 6,   2]: 0.0092563 殃
+TOKEN[ 7]: 0.0397027    2 rice
+	rice WORD[ 7,   1]: 0.0359871 秧
+	rice WORD[ 7,   2]: 0.0037157 挿秧
+TOKEN[ 8]: 0.0376393    1 brought
+	brought WORD[ 8,   1]: 0.0376393 余殃
+TOKEN[ 9]: 0.0372287    1 mandarin
+	mandarin WORD[ 9,   1]: 0.0372287 鴛鴦
+TOKEN[10]: 0.0304174    1 duck
+	duck WORD[10,   1]: 0.0304174 鴛鴦
+TOKEN[11]: 0.0286139    1 busy
+	busy WORD[11,   1]: 0.0286139 鞅掌
+TOKEN[12]: 0.0266733    1 daikon
+	daikon WORD[12,   1]: 0.0266733 霙
+TOKEN[13]: 0.0228717    4 middle
+	middle WORD[13,   1]: 0.0070657 年央
+	middle WORD[13,   2]: 0.0062879 月央
+	middle WORD[13,   3]: 0.0050709 央
+	middle WORD[13,   4]: 0.0044472 中央
+TOKEN[14]: 0.0176345    1 sleet
+	sleet WORD[14,   1]: 0.0176345 霙
+TOKEN[15]: 0.0144981    1 honey
+	honey WORD[15,   1]: 0.0144981 霙
+TOKEN[16]: 0.0138622    1 topped
+	topped WORD[16,   1]: 0.0138622 霙
+TOKEN[17]: 0.0137946    1 central
+	central WORD[17,   1]: 0.0137946 道央
+TOKEN[18]: 0.0136945    1 shavings
+	shavings WORD[18,   1]: 0.0136945 霙
+TOKEN[19]: 0.0133366    1 shaved
+	shaved WORD[19,   1]: 0.0133366 霙
+TOKEN[20]: 0.0131004    1 cinema
+	cinema WORD[20,   1]: 0.0131004 映研
+TOKEN[21]: 0.0122297    8 British
+	British WORD[21,   1]: 0.0054447 英法
+	British WORD[21,   2]: 0.0018117 英京
+	British WORD[21,   3]: 0.0015353 英式
+	British WORD[21,   4]: 0.0011902 英貨
+	British WORD[21,   5]: 0.0010295 英領
+	British WORD[21,   6]: 0.0005563 英学
+	British WORD[21,   7]: 0.0003310 英資
+	British WORD[21,   8]: 0.0003310 英紙
+TOKEN[22]: 0.0119155    1 epicenter
+	epicenter WORD[22,   1]: 0.0119155 震央
+TOKEN[23]: 0.0115522    5 film
+	film WORD[23,   1]: 0.0095231 映研
+	film WORD[23,   2]: 0.0013022 映配
+	film WORD[23,   3]: 0.0002672 続映
+	film WORD[23,   4]: 0.0002299 映像
+	film WORD[23,   5]: 0.0002298 映画
+TOKEN[24]: 0.0114120    1 ice
+	ice WORD[24,   1]: 0.0114120 霙
+TOKEN[25]: 0.0112162    1 calamity
+	calamity WORD[25,   1]: 0.0112162 殃
+TOKEN[26]: 0.0110162    2 center
+	center WORD[26,   1]: 0.0058691 央
+	center WORD[26,   2]: 0.0051472 中央
+TOKEN[27]: 0.0106911    1 misfortune
+	misfortune WORD[27,   1]: 0.0106911 殃
+TOKEN[28]: 0.0104326    1 disaster
+	disaster WORD[28,   1]: 0.0104326 殃
+TOKEN[29]: 0.0095942   10 English
+	English WORD[29,   1]: 0.0021822 英詩
+	English WORD[29,   2]: 0.0016652 英法
+	English WORD[29,   3]: 0.0015187 英文
+	English WORD[29,   4]: 0.0011148 英検
+	English WORD[29,   5]: 0.0010208 英学
+	English WORD[29,   6]: 0.0006671 英作
+	English WORD[29,   7]: 0.0005144 英名
+	English WORD[29,   8]: 0.0003037 英訳
+	English WORD[29,   9]: 0.0003037 英字
+	English WORD[29,  10]: 0.0003037 英語
+TOKEN[30]: 0.0089274    1 prefecture
+	prefecture WORD[30,   1]: 0.0089274 県央
+TOKEN[31]: 0.0086321    1 earthquake
+	earthquake WORD[31,   1]: 0.0086321 震央
+TOKEN[32]: 0.0078793    2 heart
+	heart WORD[32,   1]: 0.0041235 中央
+	heart WORD[32,   2]: 0.0037558 県央
+TOKEN[33]: 0.0068202    3 screening
+	screening WORD[33,   1]: 0.0049454 開映
+	screening WORD[33,   2]: 0.0015429 終映
+	screening WORD[33,   3]: 0.0003320 上映
+TOKEN[34]: 0.0064274    1 year
+	year WORD[34,   1]: 0.0064274 年央
+TOKEN[35]: 0.0062280    3 capital
+	capital WORD[35,   1]: 0.0046822 中央
+	capital WORD[35,   2]: 0.0013070 英京
+	capital WORD[35,   3]: 0.0002388 英資
+TOKEN[36]: 0.0060790    6 movie
+	movie WORD[36,   1]: 0.0022435 開映
+	movie WORD[36,   2]: 0.0015612 大映
+	movie WORD[36,   3]: 0.0013999 終映
+	movie WORD[36,   4]: 0.0003082 続映
+	movie WORD[36,   5]: 0.0003012 上映
+	movie WORD[36,   6]: 0.0002651 映画
+TOKEN[37]: 0.0059797    1 month
+	month WORD[37,   1]: 0.0059797 月央
+TOKEN[38]: 0.0059322    4 reflected
+	reflected WORD[38,   1]: 0.0046206 映り込み
+	reflected WORD[38,   2]: 0.0005070 映ずる
+	reflected WORD[38,   3]: 0.0005070 映じる
+	reflected WORD[38,   4]: 0.0002976 映る
+TOKEN[39]: 0.0056830    1 planting
+	planting WORD[39,   1]: 0.0056830 挿秧
+TOKEN[40]: 0.0050089    9 Britain
+	Britain WORD[40,   1]: 0.0011607 渡英
+	Britain WORD[40,   2]: 0.0006534 英国
+	Britain WORD[40,   3]: 0.0006534 英國
+	Britain WORD[40,   4]: 0.0006374 英吉利
+	Britain WORD[40,   5]: 0.0004547 米英
+	Britain WORD[40,   6]: 0.0004181 日英
+	Britain WORD[40,   7]: 0.0003778 全英
+	Britain WORD[40,   8]: 0.0003268 英米
+	Britain WORD[40,   9]: 0.0003268 英仏
+TOKEN[41]: 0.0047952    1 seat
+	seat WORD[41,   1]: 0.0047952 中央
+TOKEN[42]: 0.0043645    1 glare
+	glare WORD[42,   1]: 0.0043645 映り込み
+TOKEN[43]: 0.0041899    1 government
+	government WORD[43,   1]: 0.0041899 中央
+TOKEN[44]: 0.0039120    1 background
+	background WORD[44,   1]: 0.0039120 映り込み
+TOKEN[45]: 0.0038259    2 law
+	law WORD[45,   1]: 0.0025223 英法
+	law WORD[45,   2]: 0.0013035 英米法
+TOKEN[46]: 0.0036502    1 window
+	window WORD[46,   1]: 0.0036502 映り込み
+TOKEN[47]: 0.0029075    1 valve
+	valve WORD[47,   1]: 0.0029075 英式
+TOKEN[48]: 0.0026787    8 person
+	person WORD[48,   1]: 0.0005122 英霊
+	person WORD[48,   2]: 0.0005120 英傑
+	person WORD[48,   3]: 0.0004718 才英
+	person WORD[48,   4]: 0.0003024 英才
+	person WORD[48,   5]: 0.0002446 映ずる
+	person WORD[48,   6]: 0.0002446 映じる
+	person WORD[48,   7]: 0.0002399 着映え
+	person WORD[48,   8]: 0.0001512 英雄
+TOKEN[49]: 0.0025652    3 talented
+	talented WORD[49,   1]: 0.0017667 才英
+	talented WORD[49,   2]: 0.0004796 英霊
+	talented WORD[49,   3]: 0.0003189 集英
+TOKEN[50]: 0.0022749    2 intelligent
+	intelligent WORD[50,   1]: 0.0018700 才英
+	intelligent WORD[50,   2]: 0.0004049 英明
+TOKEN[51]: 0.0021302    2 style
+	style WORD[51,   1]: 0.0011540 英法
+	style WORD[51,   2]: 0.0009762 英式
+TOKEN[52]: 0.0019578    1 studio
+	studio WORD[52,   1]: 0.0019578 大映
+TOKEN[53]: 0.0019450    1 starting
+	starting WORD[53,   1]: 0.0019450 開映
+TOKEN[54]: 0.0018942    1 test
+	test WORD[54,   1]: 0.0018942 英検
+TOKEN[55]: 0.0018847    1 Dunlop
+	Dunlop WORD[55,   1]: 0.0018847 英式
+TOKEN[56]: 0.0018355    6 great
+	great WORD[56,   1]: 0.0003288 英霊
+	great WORD[56,   2]: 0.0003288 英邁
+	great WORD[56,   3]: 0.0003287 英主
+	great WORD[56,   4]: 0.0003287 英傑
+	great WORD[56,   5]: 0.0003263 英気
+	great WORD[56,   6]: 0.0001942 英雄
+TOKEN[57]: 0.0017706    1 beginning
+	beginning WORD[57,   1]: 0.0017706 開映
+TOKEN[58]: 0.0016538    1 portrait
+	portrait WORD[58,   1]: 0.0016538 照映
+TOKEN[59]: 0.0015051    3 dictionary
+	dictionary WORD[59,   1]: 0.0009783 英英
+	dictionary WORD[59,   2]: 0.0002687 和英
+	dictionary WORD[59,   3]: 0.0002581 英和
+TOKEN[60]: 0.0014174    1 departed
+	departed WORD[60,   1]: 0.0014174 英魂
+TOKEN[61]: 0.0013944    3 glow
+	glow WORD[61,   1]: 0.0005610 夕映え
+	glow WORD[61,   2]: 0.0004858 照り映える
+	glow WORD[61,   3]: 0.0003476 映える
+TOKEN[62]: 0.0013813    3 reflect
+	reflect WORD[62,   1]: 0.0005525 映しだす
+	reflect WORD[62,   2]: 0.0005525 映し出す
+	reflect WORD[62,   3]: 0.0002763 映す
+TOKEN[63]: 0.0012890    1 method
+	method WORD[63,   1]: 0.0012890 英法
+TOKEN[64]: 0.0012820    3 reflection
+	reflection WORD[64,   1]: 0.0007328 反映
+	reflection WORD[64,   2]: 0.0002754 映像
+	reflection WORD[64,   3]: 0.0002737 映り
+TOKEN[65]: 0.0012805    1 sterling
+	sterling WORD[65,   1]: 0.0012805 英貨
+TOKEN[66]: 0.0012546    5 looking
+	looking WORD[66,   1]: 0.0003204 見映え
+	looking WORD[66,   2]: 0.0002335 かわり映え
+	looking WORD[66,   3]: 0.0002335 代り映え
+	looking WORD[66,   4]: 0.0002335 代わり映え
+	looking WORD[66,   5]: 0.0002335 変わり映え
+TOKEN[67]: 0.0012394    2 end
+	end WORD[67,   1]: 0.0009296 終映
+	end WORD[67,   2]: 0.0003098 英学
+TOKEN[68]: 0.0012142    2 abashed
+	abashed WORD[68,   1]: 0.0006071 面映い
+	abashed WORD[68,   2]: 0.0006071 面映ゆい
+TOKEN[69]: 0.0011859    2 mirrored
+	mirrored WORD[69,   1]: 0.0005930 映ずる
+	mirrored WORD[69,   2]: 0.0005929 映じる
+TOKEN[70]: 0.0011851    1 King
+	King WORD[70,   1]: 0.0011851 英王
+TOKEN[71]: 0.0011727    1 proficiency
+	proficiency WORD[71,   1]: 0.0011727 英検
+TOKEN[72]: 0.0011694    1 company
+	company WORD[72,   1]: 0.0011694 映配
+TOKEN[73]: 0.0011165    1 reflecting
+	reflecting WORD[73,   1]: 0.0011165 映射
+TOKEN[74]: 0.0011003    4 improvement
+	improvement WORD[74,   1]: 0.0002751 かわり映え
+	improvement WORD[74,   2]: 0.0002751 代り映え
+	improvement WORD[74,   3]: 0.0002751 代わり映え
+	improvement WORD[74,   4]: 0.0002751 変わり映え
+TOKEN[75]: 0.0010966    4 better
+	better WORD[75,   1]: 0.0002741 かわり映え
+	better WORD[75,   2]: 0.0002741 代り映え
+	better WORD[75,   3]: 0.0002741 代わり映え
+	better WORD[75,   4]: 0.0002741 変わり映え
+TOKEN[76]: 0.0010691    1 cherry
+	cherry WORD[76,   1]: 0.0010691 英桃
+TOKEN[77]: 0.0010526    1 pound
+	pound WORD[77,   1]: 0.0010526 英貨
+TOKEN[78]: 0.0010344    1 shining
+	shining WORD[78,   1]: 0.0010344 映射
+TOKEN[79]: 0.0010293    2 bashful
+	bashful WORD[79,   1]: 0.0005147 面映い
+	bashful WORD[79,   2]: 0.0005147 面映ゆい
+TOKEN[80]: 0.0010274    1 resident
+	resident WORD[80,   1]: 0.0010274 駐英
+TOKEN[81]: 0.0009973    2 impress
+	impress WORD[81,   1]: 0.0004986 映ずる
+	impress WORD[81,   2]: 0.0004986 映じる
+TOKEN[82]: 0.0009891    3 genius
+	genius WORD[82,   1]: 0.0003843 英俊
+	genius WORD[82,   2]: 0.0003206 俊英
+	genius WORD[82,   3]: 0.0002843 英才
+TOKEN[83]: 0.0009839    1 currency
+	currency WORD[83,   1]: 0.0009839 英貨
+TOKEN[84]: 0.0009833    4 screen
+	screen WORD[84,   1]: 0.0002471 映像
+	screen WORD[84,   2]: 0.0002456 映る
+	screen WORD[84,   3]: 0.0002453 映しだす
+	screen WORD[84,   4]: 0.0002453 映し出す
+TOKEN[85]: 0.0009723    1 spirit
+	spirit WORD[85,   1]: 0.0009723 英魂
+TOKEN[86]: 0.0009645    4 show
+	show WORD[86,   1]: 0.0003033 見映え
+	show WORD[86,   2]: 0.0002441 続映
+	show WORD[86,   3]: 0.0002086 映しだす
+	show WORD[86,   4]: 0.0002086 映し出す
+TOKEN[87]: 0.0009379    2 embarrassed
+	embarrassed WORD[87,   1]: 0.0004689 面映い
+	embarrassed WORD[87,   2]: 0.0004689 面映ゆい
+TOKEN[88]: 0.0009336    2 gifted
+	gifted WORD[88,   1]: 0.0006173 育英
+	gifted WORD[88,   2]: 0.0003163 英才
+TOKEN[89]: 0.0009235    3 wisdom
+	wisdom WORD[89,   1]: 0.0004217 英気
+	wisdom WORD[89,   2]: 0.0002509 英智
+	wisdom WORD[89,   3]: 0.0002509 英知
+TOKEN[90]: 0.0008888    1 Japanese
+	Japanese WORD[90,   1]: 0.0008888 大映
+TOKEN[91]: 0.0008875    3 picture
+	picture WORD[91,   1]: 0.0004444 映像
+	picture WORD[91,   2]: 0.0002222 映画
+	picture WORD[91,   3]: 0.0002209 映り
+TOKEN[92]: 0.0008815    2 glory
+	glory WORD[92,   1]: 0.0005076 英名
+	glory WORD[92,   2]: 0.0003739 映え
+TOKEN[93]: 0.0008686    1 poetry
+	poetry WORD[93,   1]: 0.0008686 英詩
+TOKEN[94]: 0.0008524    3 translation
+	translation WORD[94,   1]: 0.0003326 日英
+	translation WORD[94,   2]: 0.0002599 英訳
+	translation WORD[94,   3]: 0.0002599 英日
+TOKEN[95]: 0.0008434    2 shine
+	shine WORD[95,   1]: 0.0004916 照り映える
+	shine WORD[95,   2]: 0.0003518 映える
+TOKEN[96]: 0.0008374    1 possession
+	possession WORD[96,   1]: 0.0008374 英領
+TOKEN[97]: 0.0008179    2 hero
+	hero WORD[97,   1]: 0.0005142 英傑
+	hero WORD[97,   2]: 0.0003037 英雄
+TOKEN[98]: 0.0008167    1 poem
+	poem WORD[98,   1]: 0.0008167 英詩
+TOKEN[99]: 0.0008044    1 territory
+	territory WORD[99,   1]: 0.0008044 英領
+TOKEN[100]: 0.0007995    2 look
+	look WORD[100,   1]: 0.0004887 映える
+	look WORD[100,   2]: 0.0003108 着映え
+TOKEN[101]: 0.0007988    4 change
+	change WORD[101,   1]: 0.0001997 かわり映え
+	change WORD[101,   2]: 0.0001997 代り映え
+	change WORD[101,   3]: 0.0001997 代わり映え
+	change WORD[101,   4]: 0.0001997 変わり映え
+TOKEN[102]: 0.0007979    2 attractive
+	attractive WORD[102,   1]: 0.0004189 見映え
+	attractive WORD[102,   2]: 0.0003789 映える
+TOKEN[103]: 0.0007933    2 wise
+	wise WORD[103,   1]: 0.0004413 英邁
+	wise WORD[103,   2]: 0.0003520 英明
+TOKEN[104]: 0.0007879    3 character
+	character WORD[104,   1]: 0.0003613 英数字
+	character WORD[104,   2]: 0.0002133 英資
+	character WORD[104,   3]: 0.0002133 英字
+TOKEN[105]: 0.0007837    1 figure
+	figure WORD[105,   1]: 0.0007837 英姿
+TOKEN[106]: 0.0007499    1 surpassing
+	surpassing WORD[106,   1]: 0.0007499 英武
+TOKEN[107]: 0.0007402    1 valor
+	valor WORD[107,   1]: 0.0007402 英武
+TOKEN[108]: 0.0007386    2 literature
+	literature WORD[108,   1]: 0.0004631 英学
+	literature WORD[108,   2]: 0.0002756 英文
+TOKEN[109]: 0.0007371    2 showing
+	showing WORD[109,   1]: 0.0004392 競映
+	showing WORD[109,   2]: 0.0002980 上映
+TOKEN[110]: 0.0007361    1 Nanking
+	Nanking WORD[110,   1]: 0.0007361 英桃
+TOKEN[111]: 0.0007347    2 nice
+	nice WORD[111,   1]: 0.0003858 見映え
+	nice WORD[111,   2]: 0.0003490 映える
+TOKEN[112]: 0.0007329    1 corolla
+	corolla WORD[112,   1]: 0.0003664 英
+TOKEN[113]: 0.0007261    3 project
+	project WORD[113,   1]: 0.0002421 映す
+	project WORD[113,   2]: 0.0002420 映しだす
+	project WORD[113,   3]: 0.0002420 映し出す
+TOKEN[114]: 0.0007122    2 America
+	America WORD[114,   1]: 0.0004144 米英
+	America WORD[114,   2]: 0.0002978 英米
+TOKEN[115]: 0.0007121    1 calyx
+	calyx WORD[115,   1]: 0.0003560 英
+TOKEN[116]: 0.0006937    2 image
+	image WORD[116,   1]: 0.0004634 映像
+	image WORD[116,   2]: 0.0002303 映り
+TOKEN[117]: 0.0006842    1 downy
+	downy WORD[117,   1]: 0.0006842 英桃
+TOKEN[118]: 0.0006737    1 going
+	going WORD[118,   1]: 0.0006737 渡英
+TOKEN[119]: 0.0006603    2 portray
+	portray WORD[119,   1]: 0.0003301 映しだす
+	portray WORD[119,   2]: 0.0003301 映し出す
+TOKEN[120]: 0.0006582    2 appearance
+	appearance WORD[120,   1]: 0.0003627 英姿
+	appearance WORD[120,   2]: 0.0002955 見映え
+TOKEN[121]: 0.0006573    2 interpretation
+	interpretation WORD[121,   1]: 0.0003690 日英
+	interpretation WORD[121,   2]: 0.0002883 英日
+TOKEN[122]: 0.0006491    2 excellent
+	excellent WORD[122,   1]: 0.0004070 英気
+	excellent WORD[122,   2]: 0.0002421 英断
+TOKEN[123]: 0.0006414    1 distinguished
+	distinguished WORD[123,   1]: 0.0006414 英武
+TOKEN[124]: 0.0006371    2 depict
+	depict WORD[124,   1]: 0.0003186 映しだす
+	depict WORD[124,   2]: 0.0003186 映し出す
+TOKEN[125]: 0.0006326    2 sagacity
+	sagacity WORD[125,   1]: 0.0003163 英智
+	sagacity WORD[125,   2]: 0.0003163 英知
+TOKEN[126]: 0.0006228    1 quartz
+	quartz WORD[126,   1]: 0.0006228 石英
+TOKEN[127]: 0.0006205    2 brilliant
+	brilliant WORD[127,   1]: 0.0003566 英明
+	brilliant WORD[127,   2]: 0.0002639 英資
+TOKEN[128]: 0.0006019    1 Prunus
+	Prunus WORD[128,   1]: 0.0006019 英桃
+TOKEN[129]: 0.0006014    2 Japan
+	Japan WORD[129,   1]: 0.0003414 英学
+	Japan WORD[129,   2]: 0.0002600 日英
+TOKEN[130]: 0.0006012    1 vetch
+	vetch WORD[130,   1]: 0.0006012 紫雲英
+TOKEN[131]: 0.0005964    2 language
+	language WORD[131,   1]: 0.0003739 英学
+	language WORD[131,   2]: 0.0002225 英語
+TOKEN[132]: 0.0005929    2 effect
+	effect WORD[132,   1]: 0.0003087 反映
+	effect WORD[132,   2]: 0.0002842 出来映え
+TOKEN[133]: 0.0005928    1 sunset
+	sunset WORD[133,   1]: 0.0005928 夕映え
+TOKEN[134]: 0.0005892    1 mastermind
+	mastermind WORD[134,   1]: 0.0005892 英傑
+TOKEN[135]: 0.0005848    2 describe
+	describe WORD[135,   1]: 0.0002924 映しだす
+	describe WORD[135,   2]: 0.0002924 映し出す
+TOKEN[136]: 0.0005737    1 composition
+	composition WORD[136,   1]: 0.0005737 英作
+TOKEN[137]: 0.0005572    2 intelligence
+	intelligence WORD[137,   1]: 0.0002786 英智
+	intelligence WORD[137,   2]: 0.0002786 英知
+TOKEN[138]: 0.0005519    2 projection
+	projection WORD[138,   1]: 0.0002768 映写
+	projection WORD[138,   2]: 0.0002751 映り
+TOKEN[139]: 0.0005491    1 Englishman
+	Englishman WORD[139,   1]: 0.0005491 英人
+TOKEN[140]: 0.0005491    1 Briton
+	Briton WORD[140,   1]: 0.0005491 英人
+TOKEN[141]: 0.0005458    1 education
+	education WORD[141,   1]: 0.0005458 育英
+TOKEN[142]: 0.0005367    2 fine
+	fine WORD[142,   1]: 0.0003111 見映え
+	fine WORD[142,   2]: 0.0002255 英資
+TOKEN[143]: 0.0005343    2 good
+	good WORD[143,   1]: 0.0002859 着映え
+	good WORD[143,   2]: 0.0002485 見映え
+TOKEN[144]: 0.0005327    2 mirror
+	mirror WORD[144,   1]: 0.0002663 映しだす
+	mirror WORD[144,   2]: 0.0002663 映し出す
+TOKEN[145]: 0.0005327    2 lake
+	lake WORD[145,   1]: 0.0002663 映しだす
+	lake WORD[145,   2]: 0.0002663 映し出す
+TOKEN[146]: 0.0005261    1 gallant
+	gallant WORD[146,   1]: 0.0005261 英姿
+TOKEN[147]: 0.0005226    1 competitive
+	competitive WORD[147,   1]: 0.0005226 競映
+TOKEN[148]: 0.0005180    1 acquire
+	acquire WORD[148,   1]: 0.0005180 英学
+TOKEN[149]: 0.0005160    1 unusual
+	unusual WORD[149,   1]: 0.0005160 英才
+TOKEN[150]: 0.0004999    1 lionize
+	lionize WORD[150,   1]: 0.0004999 もて映やす
+TOKEN[151]: 0.0004957    1 impressive
+	impressive WORD[151,   1]: 0.0004957 英姿
+TOKEN[152]: 0.0004947    1 isolation
+	isolation WORD[152,   1]: 0.0004947 英学
+TOKEN[153]: 0.0004920    1 vigor
+	vigor WORD[153,   1]: 0.0004920 英気
+TOKEN[154]: 0.0004911    2 quality
+	quality WORD[154,   1]: 0.0002711 出来映え
+	quality WORD[154,   2]: 0.0002200 映り
+TOKEN[155]: 0.0004899    1 talent
+	talent WORD[155,   1]: 0.0004899 英才
+TOKEN[156]: 0.0004891    1 decision
+	decision WORD[156,   1]: 0.0004891 英断
+TOKEN[157]: 0.0004812    1 Taraxacum
+	Taraxacum WORD[157,   1]: 0.0004812 蒲公英
+TOKEN[158]: 0.0004812    1 dandelion
+	dandelion WORD[158,   1]: 0.0004812 蒲公英
+TOKEN[159]: 0.0004756    1 fame
+	fame WORD[159,   1]: 0.0004756 英名
+TOKEN[160]: 0.0004732    2 mood
+	mood WORD[160,   1]: 0.0002366 映しだす
+	mood WORD[160,   2]: 0.0002366 映し出す
+TOKEN[161]: 0.0004681    1 glaring
+	glaring WORD[161,   1]: 0.0004681 目映い
+TOKEN[162]: 0.0004631    1 airing
+	airing WORD[162,   1]: 0.0004631 放映
+TOKEN[163]: 0.0004573    1 extraordinary
+	extraordinary WORD[163,   1]: 0.0004573 英傑
+TOKEN[164]: 0.0004547    1 soul
+	soul WORD[164,   1]: 0.0004547 英霊
+TOKEN[165]: 0.0004493    1 ruler
+	ruler WORD[165,   1]: 0.0004493 英主
+TOKEN[166]: 0.0004423    1 update
+	update WORD[166,   1]: 0.0004423 反映
+TOKEN[167]: 0.0004419    2 times
+	times WORD[167,   1]: 0.0002209 映しだす
+	times WORD[167,   2]: 0.0002209 映し出す
+TOKEN[168]: 0.0004409    1 milk
+	milk WORD[168,   1]: 0.0004409 紫雲英
+TOKEN[169]: 0.0004378    1 disposition
+	disposition WORD[169,   1]: 0.0004378 英気
+TOKEN[170]: 0.0004316    1 energy
+	energy WORD[170,   1]: 0.0004316 英気
+TOKEN[171]: 0.0004301    1 noble
+	noble WORD[171,   1]: 0.0004301 英姿
+TOKEN[172]: 0.0004235    1 prodigy
+	prodigy WORD[172,   1]: 0.0004235 英俊
+TOKEN[173]: 0.0004201    1 reputation
+	reputation WORD[173,   1]: 0.0004201 英名
+TOKEN[174]: 0.0004133    1 outward
+	outward WORD[174,   1]: 0.0004133 見映え
+TOKEN[175]: 0.0004063    1 alphabetic
+	alphabetic WORD[175,   1]: 0.0004063 英字
+TOKEN[176]: 0.0004047    2 people
+	people WORD[176,   1]: 0.0002168 集英
+	people WORD[176,   2]: 0.0001878 育英
+TOKEN[177]: 0.0003973    1 strength
+	strength WORD[177,   1]: 0.0003973 英気
+TOKEN[178]: 0.0003973    1 knowledge
+	knowledge WORD[178,   1]: 0.0003973 英学
+TOKEN[179]: 0.0003946    1 study
+	study WORD[179,   1]: 0.0003946 英学
+TOKEN[180]: 0.0003910    1 ability
+	ability WORD[180,   1]: 0.0003910 英霊
+TOKEN[181]: 0.0003808    1 war
+	war WORD[181,   1]: 0.0003808 英霊
+TOKEN[182]: 0.0003724    1 dead
+	dead WORD[182,   1]: 0.0003724 英霊
+TOKEN[183]: 0.0003675    1 continued
+	continued WORD[183,   1]: 0.0003675 続映
+TOKEN[184]: 0.0003562    1 heroine
+	heroine WORD[184,   1]: 0.0003562 英雄
+TOKEN[185]: 0.0003502    1 footage
+	footage WORD[185,   1]: 0.0003502 映像
+TOKEN[186]: 0.0003484    1 workmanship
+	workmanship WORD[186,   1]: 0.0003484 出来映え
+TOKEN[187]: 0.0003432    1 clothes
+	clothes WORD[187,   1]: 0.0003432 着映え
+TOKEN[188]: 0.0003423    1 tournament
+	tournament WORD[188,   1]: 0.0003423 全英
+TOKEN[189]: 0.0003422    1 application
+	application WORD[189,   1]: 0.0003422 反映
+TOKEN[190]: 0.0003400    1 excellence
+	excellence WORD[190,   1]: 0.0003400 俊英
+TOKEN[191]: 0.0003387    1 beautiful
+	beautiful WORD[191,   1]: 0.0003387 目映い
+TOKEN[192]: 0.0003361    1 name
+	name WORD[192,   1]: 0.0003361 英名
+TOKEN[193]: 0.0003343    1 praise
+	praise WORD[193,   1]: 0.0003343 もて映やす
+TOKEN[194]: 0.0003300    1 face
+	face WORD[194,   1]: 0.0003300 英気
+TOKEN[195]: 0.0003278    1 much
+	much WORD[195,   1]: 0.0003278 もて映やす
+TOKEN[196]: 0.0003242    1 harmonize
+	harmonize WORD[196,   1]: 0.0003242 映る
+TOKEN[197]: 0.0003235    1 society
+	society WORD[197,   1]: 0.0003235 反映
+TOKEN[198]: 0.0003228    1 visit
+	visit WORD[198,   1]: 0.0003228 訪英
+TOKEN[199]: 0.0003189    1 displayed
+	displayed WORD[199,   1]: 0.0003189 映る
+TOKEN[200]: 0.0003150    1 execution
+	execution WORD[200,   1]: 0.0003150 出来映え
+TOKEN[201]: 0.0003147    1 bright
+	bright WORD[201,   1]: 0.0003147 英明
+TOKEN[202]: 0.0003134    1 brilliance
+	brilliance WORD[202,   1]: 0.0003134 英才
+TOKEN[203]: 0.0003113    1 finishing
+	finishing WORD[203,   1]: 0.0003113 出来映え
+TOKEN[204]: 0.0003112    1 period
+	period WORD[204,   1]: 0.0003112 英学
+TOKEN[205]: 0.0003086    1 providing
+	providing WORD[205,   1]: 0.0003086 育英
+TOKEN[206]: 0.0003019    1 Chinese
+	Chinese WORD[206,   1]: 0.0003019 紫雲英
+TOKEN[207]: 0.0003017    1 lit
+	lit WORD[207,   1]: 0.0003017 英文
+TOKEN[208]: 0.0003016    1 resolute
+	resolute WORD[208,   1]: 0.0003016 英断
+TOKEN[209]: 0.0002999    1 theater
+	theater WORD[209,   1]: 0.0002999 続映
+TOKEN[210]: 0.0002997    1 success
+	success WORD[210,   1]: 0.0002997 出来映え
+TOKEN[211]: 0.0002978    1 decisive
+	decisive WORD[211,   1]: 0.0002978 英断
+TOKEN[212]: 0.0002802    1 making
+	making WORD[212,   1]: 0.0002802 見映え
+TOKEN[213]: 0.0002781    1 result
+	result WORD[213,   1]: 0.0002781 出来映え
+TOKEN[214]: 0.0002751    1 photo
+	photo WORD[214,   1]: 0.0002751 映る
+TOKEN[215]: 0.0002690    1 gathering
+	gathering WORD[215,   1]: 0.0002690 集英
+TOKEN[216]: 0.0002661    1 video
+	video WORD[216,   1]: 0.0002661 映像
+TOKEN[217]: 0.0002656    1 performance
+	performance WORD[217,   1]: 0.0002656 出来映え
+TOKEN[218]: 0.0002651    1 motion
+	motion WORD[218,   1]: 0.0002651 映画
+TOKEN[219]: 0.0002645    1 harmony
+	harmony WORD[219,   1]: 0.0002645 映り
+TOKEN[220]: 0.0002642    1 something
+	something WORD[220,   1]: 0.0002642 英気
+TOKEN[221]: 0.0002633    1 article
+	article WORD[221,   1]: 0.0002633 出来映え
+TOKEN[222]: 0.0002618    1 newspaper
+	newspaper WORD[222,   1]: 0.0002618 英紙
+TOKEN[223]: 0.0002555    1 financial
+	financial WORD[223,   1]: 0.0002555 育英
+TOKEN[224]: 0.0002553    1 shape
+	shape WORD[224,   1]: 0.0002553 出来映え
+TOKEN[225]: 0.0002521    1 mental
+	mental WORD[225,   1]: 0.0002521 映像
+TOKEN[226]: 0.0002510    1 taking
+	taking WORD[226,   1]: 0.0002510 反映
+TOKEN[227]: 0.0002504    1 set
+	set WORD[227,   1]: 0.0002504 映える
+TOKEN[228]: 0.0002498    1 cast
+	cast WORD[228,   1]: 0.0002498 映す
+TOKEN[229]: 0.0002485    1 measure
+	measure WORD[229,   1]: 0.0002485 英断
+TOKEN[230]: 0.0002485    1 shadow
+	shadow WORD[230,   1]: 0.0002485 映す
+TOKEN[231]: 0.0002471    1 firm
+	firm WORD[231,   1]: 0.0002471 英断
+TOKEN[232]: 0.0002451    1 group
+	group WORD[232,   1]: 0.0002451 集英
+TOKEN[233]: 0.0002450    1 reception
+	reception WORD[233,   1]: 0.0002450 映り
+TOKEN[234]: 0.0002442    1 species
+	species WORD[234,   1]: 0.0002442 蒲公英
+TOKEN[235]: 0.0002434    1 sentence
+	sentence WORD[235,   1]: 0.0002434 英文
+TOKEN[236]: 0.0002415    1 make
+	make WORD[236,   1]: 0.0002415 もて映やす
+TOKEN[237]: 0.0002388    1 step
+	step WORD[237,   1]: 0.0002388 英断
+TOKEN[238]: 0.0002385    1 text
+	text WORD[238,   1]: 0.0002385 英文
+TOKEN[239]: 0.0002369    1 light
+	light WORD[239,   1]: 0.0002369 反映
+TOKEN[240]: 0.0002240    1 run
+	run WORD[240,   1]: 0.0002240 続映
+TOKEN[241]: 0.0002239    1 support
+	support WORD[241,   1]: 0.0002239 育英
+TOKEN[242]: 0.0002166    1 match
+	match WORD[242,   1]: 0.0002166 映り
+TOKEN[243]: 0.0002159    1 letter
+	letter WORD[243,   1]: 0.0002159 英字
+TOKEN[244]: 0.0002088    1 young
+	young WORD[244,   1]: 0.0002088 育英
+TOKEN[245]: 0.0002041    1 writing
+	writing WORD[245,   1]: 0.0002041 英文
+TOKEN[246]: 0.0001938    1 mind
+	mind WORD[246,   1]: 0.0001938 映像
+TOKEN[247]: 0.0001911    1 money
+	money WORD[247,   1]: 0.0001911 英資
+TOKEN[248]: 0.0001791    1 come
+	come WORD[248,   1]: 0.0001791 映る
+TOKEN[249]: 0.0001034    1 one
+	one WORD[249,   1]: 0.0001034 映像

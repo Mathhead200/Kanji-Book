@@ -1,0 +1,570 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1428571    1 husband        : 外舅
+0.1322196    1 carry          : 舁き入れる
+0.0750667    1 gangster       : 與太者
+0.0677904    1 hooligan       : 與太者
+0.0554117    7 mortar         : 舂, 搗き臼, 茶臼, 臼砲, 唐臼, 石臼, 臼
+0.0529895    1 time           : 須臾
+0.0481943    3 millstone      : 舂, 石臼, 臼
+0.0327937    1 long           : 須臾
+0.0203334    1 minute         : 須臾
+0.0187483    1 see            : 須臾
+0.0181983    4 rice           : 舂く, 搗き臼, 興, 興し
+0.0179923    1 moment         : 須臾
+0.0173830    1 acetabular     : 臼蓋
+0.0129435    5 quern          : 挽き臼, 挽臼, 碾き臼, 碾臼, 石臼
+0.0126516    5 mill           : 挽き臼, 挽臼, 碾き臼, 碾臼, 茶臼
+0.0106644    1 discoidal      : 臼玉
+0.0102536    1 pierced        : 臼玉
+0.0100436    1 roof           : 臼蓋
+0.0095222    2 destiny        : 興敗, 興廃
+0.0093950    1 jade           : 臼玉
+0.0086926    1 bead           : 臼玉
+0.0085910    7 rise           : 興敗, 勃興, 興亡, 興廃, 興隆, 興起, 興る
+0.0081367    1 hull           : 舂く
+0.0076658    1 pound          : 舂く
+0.0076534    5 fall           : 興敗, 興亡, 興廃, 興ざめる, 興醒める
+0.0075898    5 hand           : 挽き臼, 挽臼, 碾き臼, 碾臼, 茶臼
+0.0075495    1 ore            : 舂く
+0.0072676    1 polish         : 舂く
+0.0072409    1 barley         : 舂く
+0.0069484    1 stamp          : 舂く
+0.0066148    1 explicit       : 比興
+0.0064129    1 interesting    : 比興
+0.0064129    1 unfavorable    : 比興
+0.0060721    1 underhanded    : 比興
+0.0056776    1 pounding       : 搗き臼
+0.0055857    1 insignificant  : 比興
+0.0051807    1 period         : 臼玉
+0.0051554    1 unreasonable   : 比興
+0.0050348    1 literary       : 比興
+0.0047544    1 strange        : 比興
+0.0041841    2 bearer         : 駕篭舁き, 駕籠舁き
+0.0033235    1 used           : 比興
+0.0028077    7 interest       : 興ざめる, 興醒める, 興趣, 感興, 興ざめ, 興醒め, 興味
+0.0026826    1 takings        : 興収
+0.0026826    1 revenue        : 興収
+0.0025730    1 molar          : 臼歯
+0.0024699    2 sedan          : 駕篭舁き, 駕籠舁き
+0.0022639    7 fun            : 興醒し, 興醒まし, 感興, 興ざめ, 興醒め, 座興, 一興
+0.0021814    1 grinding       : 茶臼
+0.0020198    2 chair          : 駕篭舁き, 駕籠舁き
+0.0019637    2 palanquin      : 駕篭舁き, 駕籠舁き
+0.0017699    1 dislocation    : 脱臼
+0.0015752    1 tea            : 茶臼
+0.0013893    2 millet         : 興, 興し
+0.0013803    2 syrup          : 興, 興し
+0.0013502    1 stone          : 石臼
+0.0013041    2 starch         : 興, 興し
+0.0012091    2 cake           : 興, 興し
+0.0011651    2 sugar          : 興, 興し
+0.0011485    3 revival        : 中興, 復興, 再興
+0.0011176    2 prosperous     : 興国, 興す
+0.0010992    4 entertainment  : 余興, 座興, 興行, 一興
+0.0010520    4 party          : 興ざめ, 興醒め, 余興, 座興
+0.0010248    2 spoiling       : 興醒し, 興醒まし
+0.0010195    3 restoration    : 中興, 復興, 再興
+0.0009627    4 industry       : 興産, 興行, 興業, 興す
+0.0009271    2 damper         : 興ざめ, 興醒め
+0.0008962    2 merrymaking    : 酒興, 遊興
+0.0008656    1 prosper        : 興亜
+0.0008624    2 enjoyment      : 興ざめる, 興醒める
+0.0008565    1 ill            : 不興
+0.0008482    2 inspiration    : 詩興, 感興
+0.0008471    2 sour           : 興ざめる, 興醒める
+0.0008336    2 making         : 興亜, 興国
+0.0008050    2 revitalization : 村興し, 町興し
+0.0007983    2 blanket        : 興ざめ, 興醒め
+0.0007983    2 spoiled        : 興ざめ, 興醒め
+0.0007383    2 renewal        : 村興し, 町興し
+0.0006946    2 flat           : 興ざめる, 興醒める
+0.0006936    2 show           : 興行, 余興
+0.0006889    2 wet            : 興ざめ, 興醒め
+0.0006836    1 pique          : 不興
+0.0006821    1 pleasantness   : 秋興
+0.0006744    1 raising        : 興亜
+0.0006702    1 development    : 興亜
+0.0006595    2 lose           : 興ざめる, 興醒める
+0.0006518    1 resurgence     : 中興
+0.0006395    1 country        : 興国
+0.0006285    2 project        : 村興し, 町興し
+0.0006238    2 amuse          : 興ずる, 興じる
+0.0006173    2 loss           : 興ざめ, 興醒め
+0.0006130    1 village        : 村興し
+0.0006101    2 industrial     : 興銀, 興業
+0.0005855    1 displeasure    : 不興
+0.0005853    1 sudden         : 勃興
+0.0005744    2 turn           : 興ざめる, 興醒める
+0.0005744    2 prosperity     : 勃興, 興隆
+0.0005737    1 town           : 町興し
+0.0005515    1 vagary         : 酔興
+0.0005442    2 amusement      : 座興, 一興
+0.0005273    1 humour         : 不興
+0.0005243    2 merry          : 興ずる, 興じる
+0.0005186    1 humor          : 不興
+0.0005135    2 something      : 興味, 興趣
+0.0005044    2 performance    : 余興, 興行
+0.0004938    2 promotion      : 振興, 興業
+0.0004858    1 eccentricity   : 酔興
+0.0004858    1 whim           : 酔興
+0.0004807    1 caprice        : 酔興
+0.0004784    1 renaissance    : 復興
+0.0004634    3 make           : 興ずる, 興じる, 興す
+0.0004292    1 autumn         : 秋興
+0.0004289    1 poetic         : 詩興
+0.0003947    1 emergent       : 新興
+0.0003864    2 new            : 新興, 興業
+0.0003847    1 reconstruction : 復興
+0.0003793    1 ascendency     : 興起
+0.0003792    1 extempore      : 即興
+0.0003713    1 zest           : 興味
+0.0003646    1 improvisation  : 即興
+0.0003601    1 banquet        : 余興
+0.0003576    1 wine           : 遊興
+0.0003520    1 energize       : 興す
+0.0003520    1 vitalize       : 興す
+0.0003520    1 invigorate     : 興す
+0.0003190    1 recovery       : 復興
+0.0003187    1 inauguration   : 興業
+0.0003091    1 impromptu      : 即興
+0.0003025    1 curiosity      : 興味
+0.0002987    1 resuscitation  : 再興
+0.0002957    1 arousal        : 興奮
+0.0002879    1 era            : 興国
+0.0002859    1 stimulation    : 興奮
+0.0002859    1 agitation      : 興奮
+0.0002780    1 enterprise     : 興業
+0.0002715    1 commence       : 興す
+0.0002656    1 power          : 勃興
+0.0002650    1 revive         : 興す
+0.0002615    1 encouragement  : 振興
+0.0002597    1 flourish       : 興る
+0.0002594    1 excitement     : 興奮
+0.0002498    1 promote        : 興す
+0.0002488    1 side           : 余興
+0.0002453    1 establish      : 興す
+0.0002442    1 rising         : 新興
+0.0002413    1 launch         : 興す
+0.0002398    1 energy         : 興起
+0.0002378    1 brief          : 一興
+0.0002268    1 action         : 興起
+0.0002257    1 bank           : 興銀
+0.0002249    1 trick          : 座興
+0.0002113    1 act            : 興行
+0.0002098    1 build          : 興す
+0.0001956    1 business       : 興行
+0.0001872    1 company        : 興す
+0.0001739    1 set            : 興す
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1428571    1 husband
+	husband WORD[ 1,   1]: 0.1428571 外舅
+TOKEN[ 2]: 0.1322196    1 carry
+	carry WORD[ 2,   1]: 0.1322196 舁き入れる
+TOKEN[ 3]: 0.0750667    1 gangster
+	gangster WORD[ 3,   1]: 0.0750667 與太者
+TOKEN[ 4]: 0.0677904    1 hooligan
+	hooligan WORD[ 4,   1]: 0.0677904 與太者
+TOKEN[ 5]: 0.0554117    7 mortar
+	mortar WORD[ 5,   1]: 0.0399275 舂
+	mortar WORD[ 5,   2]: 0.0054948 搗き臼
+	mortar WORD[ 5,   3]: 0.0022506 茶臼
+	mortar WORD[ 5,   4]: 0.0020172 臼砲
+	mortar WORD[ 5,   5]: 0.0019819 唐臼
+	mortar WORD[ 5,   6]: 0.0018752 石臼
+	mortar WORD[ 5,   7]: 0.0018645 臼
+TOKEN[ 6]: 0.0529895    1 time
+	time WORD[ 6,   1]: 0.0264948 須臾
+TOKEN[ 7]: 0.0481943    3 millstone
+	millstone WORD[ 7,   1]: 0.0440669 舂
+	millstone WORD[ 7,   2]: 0.0020696 石臼
+	millstone WORD[ 7,   3]: 0.0020578 臼
+TOKEN[ 8]: 0.0327937    1 long
+	long WORD[ 8,   1]: 0.0163968 須臾
+TOKEN[ 9]: 0.0203334    1 minute
+	minute WORD[ 9,   1]: 0.0101667 須臾
+TOKEN[10]: 0.0187483    1 see
+	see WORD[10,   1]: 0.0093741 須臾
+TOKEN[11]: 0.0181983    4 rice
+	rice WORD[11,   1]: 0.0070269 舂く
+	rice WORD[11,   2]: 0.0033205 搗き臼
+	rice WORD[11,   3]: 0.0002570 興
+	rice WORD[11,   4]: 0.0001550 興し
+TOKEN[12]: 0.0179923    1 moment
+	moment WORD[12,   1]: 0.0089961 須臾
+TOKEN[13]: 0.0173830    1 acetabular
+	acetabular WORD[13,   1]: 0.0173830 臼蓋
+TOKEN[14]: 0.0129435    5 quern
+	quern WORD[14,   1]: 0.0026952 挽き臼
+	quern WORD[14,   2]: 0.0026952 挽臼
+	quern WORD[14,   3]: 0.0026952 碾き臼
+	quern WORD[14,   4]: 0.0026952 碾臼
+	quern WORD[14,   5]: 0.0021626 石臼
+TOKEN[15]: 0.0126516    5 mill
+	mill WORD[15,   1]: 0.0025492 挽き臼
+	mill WORD[15,   2]: 0.0025492 挽臼
+	mill WORD[15,   3]: 0.0025492 碾き臼
+	mill WORD[15,   4]: 0.0025491 碾臼
+	mill WORD[15,   5]: 0.0024550 茶臼
+TOKEN[16]: 0.0106644    1 discoidal
+	discoidal WORD[16,   1]: 0.0106644 臼玉
+TOKEN[17]: 0.0102536    1 pierced
+	pierced WORD[17,   1]: 0.0102536 臼玉
+TOKEN[18]: 0.0100436    1 roof
+	roof WORD[18,   1]: 0.0100436 臼蓋
+TOKEN[19]: 0.0095222    2 destiny
+	destiny WORD[19,   1]: 0.0091021 興敗
+	destiny WORD[19,   2]: 0.0004201 興廃
+TOKEN[20]: 0.0093950    1 jade
+	jade WORD[20,   1]: 0.0093950 臼玉
+TOKEN[21]: 0.0086926    1 bead
+	bead WORD[21,   1]: 0.0086926 臼玉
+TOKEN[22]: 0.0085910    7 rise
+	rise WORD[22,   1]: 0.0068481 興敗
+	rise WORD[22,   2]: 0.0005201 勃興
+	rise WORD[22,   3]: 0.0003162 興亡
+	rise WORD[22,   4]: 0.0003161 興廃
+	rise WORD[22,   5]: 0.0002019 興隆
+	rise WORD[22,   6]: 0.0002015 興起
+	rise WORD[22,   7]: 0.0001871 興る
+TOKEN[23]: 0.0081367    1 hull
+	hull WORD[23,   1]: 0.0040683 舂く
+TOKEN[24]: 0.0076658    1 pound
+	pound WORD[24,   1]: 0.0038329 舂く
+TOKEN[25]: 0.0076534    5 fall
+	fall WORD[25,   1]: 0.0064692 興敗
+	fall WORD[25,   2]: 0.0002987 興亡
+	fall WORD[25,   3]: 0.0002986 興廃
+	fall WORD[25,   4]: 0.0002935 興ざめる
+	fall WORD[25,   5]: 0.0002934 興醒める
+TOKEN[26]: 0.0075898    5 hand
+	hand WORD[26,   1]: 0.0015293 挽き臼
+	hand WORD[26,   2]: 0.0015293 挽臼
+	hand WORD[26,   3]: 0.0015293 碾き臼
+	hand WORD[26,   4]: 0.0015293 碾臼
+	hand WORD[26,   5]: 0.0014728 茶臼
+TOKEN[27]: 0.0075495    1 ore
+	ore WORD[27,   1]: 0.0037748 舂く
+TOKEN[28]: 0.0072676    1 polish
+	polish WORD[28,   1]: 0.0036338 舂く
+TOKEN[29]: 0.0072409    1 barley
+	barley WORD[29,   1]: 0.0036204 舂く
+TOKEN[30]: 0.0069484    1 stamp
+	stamp WORD[30,   1]: 0.0034742 舂く
+TOKEN[31]: 0.0066148    1 explicit
+	explicit WORD[31,   1]: 0.0066148 比興
+TOKEN[32]: 0.0064129    1 interesting
+	interesting WORD[32,   1]: 0.0064129 比興
+TOKEN[33]: 0.0064129    1 unfavorable
+	unfavorable WORD[33,   1]: 0.0064129 比興
+TOKEN[34]: 0.0060721    1 underhanded
+	underhanded WORD[34,   1]: 0.0060721 比興
+TOKEN[35]: 0.0056776    1 pounding
+	pounding WORD[35,   1]: 0.0056776 搗き臼
+TOKEN[36]: 0.0055857    1 insignificant
+	insignificant WORD[36,   1]: 0.0055857 比興
+TOKEN[37]: 0.0051807    1 period
+	period WORD[37,   1]: 0.0051807 臼玉
+TOKEN[38]: 0.0051554    1 unreasonable
+	unreasonable WORD[38,   1]: 0.0051554 比興
+TOKEN[39]: 0.0050348    1 literary
+	literary WORD[39,   1]: 0.0050348 比興
+TOKEN[40]: 0.0047544    1 strange
+	strange WORD[40,   1]: 0.0047544 比興
+TOKEN[41]: 0.0041841    2 bearer
+	bearer WORD[41,   1]: 0.0020921 駕篭舁き
+	bearer WORD[41,   2]: 0.0020921 駕籠舁き
+TOKEN[42]: 0.0033235    1 used
+	used WORD[42,   1]: 0.0033235 比興
+TOKEN[43]: 0.0028077    7 interest
+	interest WORD[43,   1]: 0.0006635 興ざめる
+	interest WORD[43,   2]: 0.0006635 興醒める
+	interest WORD[43,   3]: 0.0003320 興趣
+	interest WORD[43,   4]: 0.0003238 感興
+	interest WORD[43,   5]: 0.0003071 興ざめ
+	interest WORD[43,   6]: 0.0003071 興醒め
+	interest WORD[43,   7]: 0.0002107 興味
+TOKEN[44]: 0.0026826    1 takings
+	takings WORD[44,   1]: 0.0026826 興収
+TOKEN[45]: 0.0026826    1 revenue
+	revenue WORD[45,   1]: 0.0026826 興収
+TOKEN[46]: 0.0025730    1 molar
+	molar WORD[46,   1]: 0.0025730 臼歯
+TOKEN[47]: 0.0024699    2 sedan
+	sedan WORD[47,   1]: 0.0012350 駕篭舁き
+	sedan WORD[47,   2]: 0.0012350 駕籠舁き
+TOKEN[48]: 0.0022639    7 fun
+	fun WORD[48,   1]: 0.0003704 興醒し
+	fun WORD[48,   2]: 0.0003704 興醒まし
+	fun WORD[48,   3]: 0.0003615 感興
+	fun WORD[48,   4]: 0.0003429 興ざめ
+	fun WORD[48,   5]: 0.0003429 興醒め
+	fun WORD[48,   6]: 0.0002459 座興
+	fun WORD[48,   7]: 0.0002300 一興
+TOKEN[49]: 0.0021814    1 grinding
+	grinding WORD[49,   1]: 0.0021814 茶臼
+TOKEN[50]: 0.0020198    2 chair
+	chair WORD[50,   1]: 0.0010099 駕篭舁き
+	chair WORD[50,   2]: 0.0010099 駕籠舁き
+TOKEN[51]: 0.0019637    2 palanquin
+	palanquin WORD[51,   1]: 0.0009819 駕篭舁き
+	palanquin WORD[51,   2]: 0.0009819 駕籠舁き
+TOKEN[52]: 0.0017699    1 dislocation
+	dislocation WORD[52,   1]: 0.0017699 脱臼
+TOKEN[53]: 0.0015752    1 tea
+	tea WORD[53,   1]: 0.0015752 茶臼
+TOKEN[54]: 0.0013893    2 millet
+	millet WORD[54,   1]: 0.0004334 興
+	millet WORD[54,   2]: 0.0002613 興し
+TOKEN[55]: 0.0013803    2 syrup
+	syrup WORD[55,   1]: 0.0004305 興
+	syrup WORD[55,   2]: 0.0002596 興し
+TOKEN[56]: 0.0013502    1 stone
+	stone WORD[56,   1]: 0.0013502 石臼
+TOKEN[57]: 0.0013041    2 starch
+	starch WORD[57,   1]: 0.0004068 興
+	starch WORD[57,   2]: 0.0002453 興し
+TOKEN[58]: 0.0012091    2 cake
+	cake WORD[58,   1]: 0.0003772 興
+	cake WORD[58,   2]: 0.0002274 興し
+TOKEN[59]: 0.0011651    2 sugar
+	sugar WORD[59,   1]: 0.0003634 興
+	sugar WORD[59,   2]: 0.0002191 興し
+TOKEN[60]: 0.0011485    3 revival
+	revival WORD[60,   1]: 0.0004945 中興
+	revival WORD[60,   2]: 0.0003629 復興
+	revival WORD[60,   3]: 0.0002911 再興
+TOKEN[61]: 0.0011176    2 prosperous
+	prosperous WORD[61,   1]: 0.0008611 興国
+	prosperous WORD[61,   2]: 0.0002565 興す
+TOKEN[62]: 0.0010992    4 entertainment
+	entertainment WORD[62,   1]: 0.0003478 余興
+	entertainment WORD[62,   2]: 0.0002580 座興
+	entertainment WORD[62,   3]: 0.0002521 興行
+	entertainment WORD[62,   4]: 0.0002413 一興
+TOKEN[63]: 0.0010520    4 party
+	party WORD[63,   1]: 0.0002856 興ざめ
+	party WORD[63,   2]: 0.0002856 興醒め
+	party WORD[63,   3]: 0.0002761 余興
+	party WORD[63,   4]: 0.0002048 座興
+TOKEN[64]: 0.0010248    2 spoiling
+	spoiling WORD[64,   1]: 0.0005124 興醒し
+	spoiling WORD[64,   2]: 0.0005124 興醒まし
+TOKEN[65]: 0.0010195    3 restoration
+	restoration WORD[65,   1]: 0.0004390 中興
+	restoration WORD[65,   2]: 0.0003222 復興
+	restoration WORD[65,   3]: 0.0002584 再興
+TOKEN[66]: 0.0009627    4 industry
+	industry WORD[66,   1]: 0.0002451 興産
+	industry WORD[66,   2]: 0.0002451 興行
+	industry WORD[66,   3]: 0.0002451 興業
+	industry WORD[66,   4]: 0.0002274 興す
+TOKEN[67]: 0.0009271    2 damper
+	damper WORD[67,   1]: 0.0004635 興ざめ
+	damper WORD[67,   2]: 0.0004635 興醒め
+TOKEN[68]: 0.0008962    2 merrymaking
+	merrymaking WORD[68,   1]: 0.0004833 酒興
+	merrymaking WORD[68,   2]: 0.0004129 遊興
+TOKEN[69]: 0.0008656    1 prosper
+	prosper WORD[69,   1]: 0.0008656 興亜
+TOKEN[70]: 0.0008624    2 enjoyment
+	enjoyment WORD[70,   1]: 0.0004312 興ざめる
+	enjoyment WORD[70,   2]: 0.0004312 興醒める
+TOKEN[71]: 0.0008565    1 ill
+	ill WORD[71,   1]: 0.0008565 不興
+TOKEN[72]: 0.0008482    2 inspiration
+	inspiration WORD[72,   1]: 0.0004392 詩興
+	inspiration WORD[72,   2]: 0.0004090 感興
+TOKEN[73]: 0.0008471    2 sour
+	sour WORD[73,   1]: 0.0004236 興ざめる
+	sour WORD[73,   2]: 0.0004236 興醒める
+TOKEN[74]: 0.0008336    2 making
+	making WORD[74,   1]: 0.0005382 興亜
+	making WORD[74,   2]: 0.0002954 興国
+TOKEN[75]: 0.0008050    2 revitalization
+	revitalization WORD[75,   1]: 0.0004074 村興し
+	revitalization WORD[75,   2]: 0.0003976 町興し
+TOKEN[76]: 0.0007983    2 blanket
+	blanket WORD[76,   1]: 0.0003991 興ざめ
+	blanket WORD[76,   2]: 0.0003991 興醒め
+TOKEN[77]: 0.0007983    2 spoiled
+	spoiled WORD[77,   1]: 0.0003991 興ざめ
+	spoiled WORD[77,   2]: 0.0003991 興醒め
+TOKEN[78]: 0.0007383    2 renewal
+	renewal WORD[78,   1]: 0.0003736 村興し
+	renewal WORD[78,   2]: 0.0003647 町興し
+TOKEN[79]: 0.0006946    2 flat
+	flat WORD[79,   1]: 0.0003473 興ざめる
+	flat WORD[79,   2]: 0.0003473 興醒める
+TOKEN[80]: 0.0006936    2 show
+	show WORD[80,   1]: 0.0004105 興行
+	show WORD[80,   2]: 0.0002831 余興
+TOKEN[81]: 0.0006889    2 wet
+	wet WORD[81,   1]: 0.0003445 興ざめ
+	wet WORD[81,   2]: 0.0003445 興醒め
+TOKEN[82]: 0.0006836    1 pique
+	pique WORD[82,   1]: 0.0006836 不興
+TOKEN[83]: 0.0006821    1 pleasantness
+	pleasantness WORD[83,   1]: 0.0006821 秋興
+TOKEN[84]: 0.0006744    1 raising
+	raising WORD[84,   1]: 0.0006744 興亜
+TOKEN[85]: 0.0006702    1 development
+	development WORD[85,   1]: 0.0006702 興亜
+TOKEN[86]: 0.0006595    2 lose
+	lose WORD[86,   1]: 0.0003298 興ざめる
+	lose WORD[86,   2]: 0.0003298 興醒める
+TOKEN[87]: 0.0006518    1 resurgence
+	resurgence WORD[87,   1]: 0.0006518 中興
+TOKEN[88]: 0.0006395    1 country
+	country WORD[88,   1]: 0.0006395 興国
+TOKEN[89]: 0.0006285    2 project
+	project WORD[89,   1]: 0.0003181 村興し
+	project WORD[89,   2]: 0.0003105 町興し
+TOKEN[90]: 0.0006238    2 amuse
+	amuse WORD[90,   1]: 0.0003119 興ずる
+	amuse WORD[90,   2]: 0.0003119 興じる
+TOKEN[91]: 0.0006173    2 loss
+	loss WORD[91,   1]: 0.0003086 興ざめ
+	loss WORD[91,   2]: 0.0003086 興醒め
+TOKEN[92]: 0.0006130    1 village
+	village WORD[92,   1]: 0.0006130 村興し
+TOKEN[93]: 0.0006101    2 industrial
+	industrial WORD[93,   1]: 0.0003050 興銀
+	industrial WORD[93,   2]: 0.0003050 興業
+TOKEN[94]: 0.0005855    1 displeasure
+	displeasure WORD[94,   1]: 0.0005855 不興
+TOKEN[95]: 0.0005853    1 sudden
+	sudden WORD[95,   1]: 0.0005853 勃興
+TOKEN[96]: 0.0005744    2 turn
+	turn WORD[96,   1]: 0.0002872 興ざめる
+	turn WORD[96,   2]: 0.0002872 興醒める
+TOKEN[97]: 0.0005744    2 prosperity
+	prosperity WORD[97,   1]: 0.0003234 勃興
+	prosperity WORD[97,   2]: 0.0002510 興隆
+TOKEN[98]: 0.0005737    1 town
+	town WORD[98,   1]: 0.0005737 町興し
+TOKEN[99]: 0.0005515    1 vagary
+	vagary WORD[99,   1]: 0.0005515 酔興
+TOKEN[100]: 0.0005442    2 amusement
+	amusement WORD[100,   1]: 0.0002812 座興
+	amusement WORD[100,   2]: 0.0002630 一興
+TOKEN[101]: 0.0005273    1 humour
+	humour WORD[101,   1]: 0.0005273 不興
+TOKEN[102]: 0.0005243    2 merry
+	merry WORD[102,   1]: 0.0002622 興ずる
+	merry WORD[102,   2]: 0.0002621 興じる
+TOKEN[103]: 0.0005186    1 humor
+	humor WORD[103,   1]: 0.0005186 不興
+TOKEN[104]: 0.0005135    2 something
+	something WORD[104,   1]: 0.0002872 興味
+	something WORD[104,   2]: 0.0002263 興趣
+TOKEN[105]: 0.0005044    2 performance
+	performance WORD[105,   1]: 0.0002924 余興
+	performance WORD[105,   2]: 0.0002120 興行
+TOKEN[106]: 0.0004938    2 promotion
+	promotion WORD[106,   1]: 0.0002518 振興
+	promotion WORD[106,   2]: 0.0002420 興業
+TOKEN[107]: 0.0004858    1 eccentricity
+	eccentricity WORD[107,   1]: 0.0004858 酔興
+TOKEN[108]: 0.0004858    1 whim
+	whim WORD[108,   1]: 0.0004858 酔興
+TOKEN[109]: 0.0004807    1 caprice
+	caprice WORD[109,   1]: 0.0004807 酔興
+TOKEN[110]: 0.0004784    1 renaissance
+	renaissance WORD[110,   1]: 0.0004784 復興
+TOKEN[111]: 0.0004634    3 make
+	make WORD[111,   1]: 0.0001572 興ずる
+	make WORD[111,   2]: 0.0001572 興じる
+	make WORD[111,   3]: 0.0001490 興す
+TOKEN[112]: 0.0004292    1 autumn
+	autumn WORD[112,   1]: 0.0004292 秋興
+TOKEN[113]: 0.0004289    1 poetic
+	poetic WORD[113,   1]: 0.0004289 詩興
+TOKEN[114]: 0.0003947    1 emergent
+	emergent WORD[114,   1]: 0.0003947 新興
+TOKEN[115]: 0.0003864    2 new
+	new WORD[115,   1]: 0.0001971 新興
+	new WORD[115,   2]: 0.0001894 興業
+TOKEN[116]: 0.0003847    1 reconstruction
+	reconstruction WORD[116,   1]: 0.0003847 復興
+TOKEN[117]: 0.0003793    1 ascendency
+	ascendency WORD[117,   1]: 0.0003793 興起
+TOKEN[118]: 0.0003792    1 extempore
+	extempore WORD[118,   1]: 0.0003792 即興
+TOKEN[119]: 0.0003713    1 zest
+	zest WORD[119,   1]: 0.0003713 興味
+TOKEN[120]: 0.0003646    1 improvisation
+	improvisation WORD[120,   1]: 0.0003646 即興
+TOKEN[121]: 0.0003601    1 banquet
+	banquet WORD[121,   1]: 0.0003601 余興
+TOKEN[122]: 0.0003576    1 wine
+	wine WORD[122,   1]: 0.0003576 遊興
+TOKEN[123]: 0.0003520    1 energize
+	energize WORD[123,   1]: 0.0003520 興す
+TOKEN[124]: 0.0003520    1 vitalize
+	vitalize WORD[124,   1]: 0.0003520 興す
+TOKEN[125]: 0.0003520    1 invigorate
+	invigorate WORD[125,   1]: 0.0003520 興す
+TOKEN[126]: 0.0003190    1 recovery
+	recovery WORD[126,   1]: 0.0003190 復興
+TOKEN[127]: 0.0003187    1 inauguration
+	inauguration WORD[127,   1]: 0.0003187 興業
+TOKEN[128]: 0.0003091    1 impromptu
+	impromptu WORD[128,   1]: 0.0003091 即興
+TOKEN[129]: 0.0003025    1 curiosity
+	curiosity WORD[129,   1]: 0.0003025 興味
+TOKEN[130]: 0.0002987    1 resuscitation
+	resuscitation WORD[130,   1]: 0.0002987 再興
+TOKEN[131]: 0.0002957    1 arousal
+	arousal WORD[131,   1]: 0.0002957 興奮
+TOKEN[132]: 0.0002879    1 era
+	era WORD[132,   1]: 0.0002879 興国
+TOKEN[133]: 0.0002859    1 stimulation
+	stimulation WORD[133,   1]: 0.0002859 興奮
+TOKEN[134]: 0.0002859    1 agitation
+	agitation WORD[134,   1]: 0.0002859 興奮
+TOKEN[135]: 0.0002780    1 enterprise
+	enterprise WORD[135,   1]: 0.0002780 興業
+TOKEN[136]: 0.0002715    1 commence
+	commence WORD[136,   1]: 0.0002715 興す
+TOKEN[137]: 0.0002656    1 power
+	power WORD[137,   1]: 0.0002656 勃興
+TOKEN[138]: 0.0002650    1 revive
+	revive WORD[138,   1]: 0.0002650 興す
+TOKEN[139]: 0.0002615    1 encouragement
+	encouragement WORD[139,   1]: 0.0002615 振興
+TOKEN[140]: 0.0002597    1 flourish
+	flourish WORD[140,   1]: 0.0002597 興る
+TOKEN[141]: 0.0002594    1 excitement
+	excitement WORD[141,   1]: 0.0002594 興奮
+TOKEN[142]: 0.0002498    1 promote
+	promote WORD[142,   1]: 0.0002498 興す
+TOKEN[143]: 0.0002488    1 side
+	side WORD[143,   1]: 0.0002488 余興
+TOKEN[144]: 0.0002453    1 establish
+	establish WORD[144,   1]: 0.0002453 興す
+TOKEN[145]: 0.0002442    1 rising
+	rising WORD[145,   1]: 0.0002442 新興
+TOKEN[146]: 0.0002413    1 launch
+	launch WORD[146,   1]: 0.0002413 興す
+TOKEN[147]: 0.0002398    1 energy
+	energy WORD[147,   1]: 0.0002398 興起
+TOKEN[148]: 0.0002378    1 brief
+	brief WORD[148,   1]: 0.0002378 一興
+TOKEN[149]: 0.0002268    1 action
+	action WORD[149,   1]: 0.0002268 興起
+TOKEN[150]: 0.0002257    1 bank
+	bank WORD[150,   1]: 0.0002257 興銀
+TOKEN[151]: 0.0002249    1 trick
+	trick WORD[151,   1]: 0.0002249 座興
+TOKEN[152]: 0.0002113    1 act
+	act WORD[152,   1]: 0.0002113 興行
+TOKEN[153]: 0.0002098    1 build
+	build WORD[153,   1]: 0.0002098 興す
+TOKEN[154]: 0.0001956    1 business
+	business WORD[154,   1]: 0.0001956 興行
+TOKEN[155]: 0.0001872    1 company
+	company WORD[155,   1]: 0.0001872 興す
+TOKEN[156]: 0.0001739    1 set
+	set WORD[156,   1]: 0.0001739 興す

@@ -1,0 +1,1562 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0917546   67 woman          : 女連れ, 独女, 歴女, 賤女, 晴れ女, 雨女, 成女, 女男, 艶女, 孕み女, ...
+0.0583152   53 female         : 女怪, 女役, 女賊, 女相撲, 歴女, 女部屋, 女磨き, 痴女, 女主, 女豹, ...
+0.0325708   21 girl           : 女の童, 乙女心, 青女, 女顔, 女児, 幼女, 女のコ, 女の子, 乙女子, 少女子, ...
+0.0275778   16 young          : 古女, 歴女, 青女, 小女子, 公女, 乙女, 早乙女, 早少女, 手弱女, 小女, ...
+0.0154141   10 maiden         : 巫女舞, 乙女心, 乙女百合, 処女, 天女, 乙女子, 少女子, 乙女, 未通女, 巫女
+0.0124320    3 isle           : 女護, 女護が島, 女護島
+0.0123323   14 lady           : 侍女, 宮女, 女中, 女御, 女官, 小女, 官女, 女傑, 乙女, 美女, ...
+0.0112733    3 inhabited      : 女護, 女護が島, 女護島
+0.0106816    1 dried          : 古女
+0.0106690   11 daughter       : 一女, 末女, 養女, 長女, 息女, 妻女, 孝女, 二女, 次女, 女のコ, ...
+0.0106264   11 prostitute     : 傀儡女, 出女, 湯女, 売女, 浮かれ女, あそび女, 遊び女, 妓女, 女臈, 女郎, ...
+0.0096308    9 man            : 女慣れ, 女男, 女顔, おとこ女, 男女, 女好き, 女殺し, 女難, 女装
+0.0094917    7 feminine       : 女臭い, 女男, 女顔, おとこ女, 男女, 女性, 女気
+0.0093112    3 mythical       : 女護, 女護が島, 女護島
+0.0090835    8 court          : 宮女, 女楽, 青女, 女房, 女御, 女官, 官女, 女中
+0.0085267    3 island         : 女護, 女護が島, 女護島
+0.0082806    3 location       : 女護, 女護が島, 女護島
+0.0073627    3 princess       : 女御子, 公女, 王女
+0.0069488    2 bath           : 女風呂, 女湯
+0.0069115    3 vamp           : あばずれ女, 阿婆擦れ女, 妖女
+0.0066939    2 unmarried      : 独女, 巫女
+0.0061782    2 caste          : 神女, 祝女
+0.0059505    1 wench          : 糞女
+0.0059089    1 history        : 歴女
+0.0057999    2 weather        : 晴れ女, 雨女
+0.0057842    2 coquette       : あばずれ女, 阿婆擦れ女
+0.0057842    2 minx           : あばずれ女, 阿婆擦れ女
+0.0054346    2 hereditary     : 神女, 祝女
+0.0053558    4 imperial       : 女御子, 青女, 女院, 女房
+0.0052769    2 flirt          : あばずれ女, 阿婆擦れ女
+0.0052506    2 wherever       : 晴れ女, 雨女
+0.0051946    3 dance          : 巫女舞, 女楽, 歌い女
+0.0051093    2 widow          : 女やもめ, 女寡
+0.0050998    5 effeminate     : 女男, おとこ女, 女々しい, 女女しい, 男女
+0.0050403    2 tease          : あばずれ女, 阿婆擦れ女
+0.0046539    1 bitch          : 糞女
+0.0046144    2 role           : 女役, 立女形
+0.0045023    1 giantess       : 大女
+0.0044848    5 period         : 出女, 小女, 女臈, 女郎, 少女
+0.0044498    1 buff           : 歴女
+0.0043838    2 goes           : 晴れ女, 雨女
+0.0043192    1 single         : 独女
+0.0043127    2 member         : 神女, 祝女
+0.0042812    3 mannish        : 女男, おとこ女, 男女
+0.0042606    2 mountain       : 女山, 山女
+0.0041892    1 room           : 女部屋
+0.0041870    4 smaller        : 女波, 女浪, 女滝, 女
+0.0039469    1 interested     : 歴女
+0.0038927    3 medium         : 女巫, 梓巫女, 巫女
+0.0038388    3 masculine      : 女男, おとこ女, 男女
+0.0037633    4 wife           : 妻女, 女房, 貞女, 女
+0.0037095    2 music          : 女楽, 浮かれ女
+0.0036749    1 Christian      : 東女
+0.0035263    2 sorceress      : 女巫, 巫女
+0.0035049    2 section        : 女風呂, 女湯
+0.0034423    2 shrine         : 巫女舞, 巫女
+0.0034405    1 plant          : 女木
+0.0033598    3 witch          : 山女, 鬼女, 魔女
+0.0033380    4 kabuki         : 女歌舞伎, 立女形, 女方, 女形
+0.0032673    3 attendant      : 宮女, 侍女, 美女
+0.0032041    1 unused         : 青女
+0.0031863    3 goddess        : 女媧, 日女, 女神
+0.0031417    1 ceremonial     : 巫女舞
+0.0031114    2 inn            : 若女将, 女将
+0.0031096    1 doll           : 女雛
+0.0031027    4 Japanese       : 若女将, 女松, 雪女, 女将
+0.0030980    3 relationship   : 女役, 女方, 女形
+0.0030862    1 jail           : 女部屋
+0.0030836    3 restaurant     : 若女将, 女中, 女将
+0.0030835    3 virgin         : 処女, 未通女, 巫女
+0.0030492    1 daisy          : 姫女苑
+0.0030414    3 male           : 女役, 女方, 女形
+0.0030108    2 men            : 女賊, 女狐
+0.0029751    1 speech         : 歴女
+0.0029637    1 knot           : 女結び
+0.0029209    1 molester       : 痴女
+0.0029142    1 huge           : 大女
+0.0028676    3 Edo            : 出女, 女臈, 女郎
+0.0028640    2 proprietress   : 女主, 女将
+0.0028476    1 leopardess     : 女豹
+0.0028409    1 pregnant       : 孕み女
+0.0028338    2 public         : 女風呂, 女湯
+0.0027941    1 smelling       : 女臭い
+0.0027460    1 ways           : 青女
+0.0027340    3 maidservant    : 女衆, 女中, 下女
+0.0027184    2 landlady       : 女主, 女将
+0.0027137    2 part           : 女役, 女木
+0.0026977    1 serving        : 青女
+0.0026945    3 used           : 女慣れ, 女ことば, 女言葉
+0.0026188    1 making         : 歴女
+0.0025964    1 royal          : 女御子
+0.0025638    2 beauty         : 女磨き, 女色
+0.0025611    1 use            : 歴女
+0.0025557    1 Lilium         : 乙女百合
+0.0025461    3 graceful       : 優女, 手弱女, 女気
+0.0025280    3 Don            : 女たらし, 女ったらし, 女誑し
+0.0025280    3 Juan           : 女たらし, 女ったらし, 女誑し
+0.0024952    3 womanizer      : 女たらし, 女ったらし, 女誑し
+0.0024708    1 feeling        : 乙女心
+0.0024605    3 prime          : 年増女, 女ざかり, 女盛り
+0.0024469    4 actor          : 立女形, 女方, 女形, 女優
+0.0024404    1 Akebia         : 山女
+0.0024355    1 homosexual     : 女役
+0.0024272    1 passive        : 女役
+0.0024170    3 philanderer    : 女たらし, 女ったらし, 女誑し
+0.0023751    2 intersexual    : おとこ女, 男女
+0.0023539    1 geisha         : 傀儡女
+0.0023421    1 mind           : 乙女心
+0.0023267    1 pine           : 女松
+0.0023188    1 rugged         : 女山
+0.0023188    1 sloping        : 女山
+0.0022874    3 beautiful      : 優女, 天女, 美女
+0.0022807    1 unlicensed     : 出女
+0.0022524    1 bandit         : 女賊
+0.0022510    1 occupation     : 女役
+0.0022336    1 leopard        : 女豹
+0.0022277    1 Japan          : 歴女
+0.0022163    1 unlucky        : 雨女
+0.0022074    1 floozy         : 売女
+0.0021911    1 improvement    : 女磨き
+0.0021757    1 robber         : 女賊
+0.0021660    2 hermaphrodite  : おとこ女, 男女
+0.0021599    1 world          : 青女
+0.0021504    1 slut           : 売女
+0.0021488    1 face           : 女顔
+0.0021463    2 mature         : 成女, 熟女
+0.0021392    1 lucky          : 晴れ女
+0.0021386    1 indented       : 女木
+0.0021303    3 empress        : 女院, 女帝, 女皇
+0.0021170    3 servant        : 端女, 側女, 婢女
+0.0021134    2 old            : 小女, 少女
+0.0021076    1 sash           : 女帯
+0.0021062    1 whore          : 売女
+0.0020017    2 maid           : 侍女, 女中
+0.0019889    1 fit            : 女役
+0.0019609    2 heroine        : 烈女, 女傑
+0.0019503    1 woody          : 女木
+0.0019473    1 Virgo          : 乙女座
+0.0019359    1 vixen          : 女狐
+0.0019266    1 year           : 年女
+0.0018956    1 owner          : 女主
+0.0018916    1 stupid         : 痴女
+0.0018916    1 wrestling      : 女相撲
+0.0018885    1 tramp          : 売女
+0.0018770    1 less           : 女山
+0.0018692    1 chasing        : 女遊び
+0.0018493    2 nymph          : 天女, 仙女
+0.0018449    1 glamorous      : 艶女
+0.0018375    1 Erigeron       : 姫女苑
+0.0018225    1 film           : 女役
+0.0018189    2 Chinese        : 女媧, 年女
+0.0018187    1 search         : 女賊
+0.0018065    3 hostess        : 女給, 女中, 女将
+0.0017918    1 rain           : 雨女
+0.0017775    2 constellation  : 乙女座, 棚機津女
+0.0017733    3 two            : 女滝, 女坂, 女
+0.0017668    1 kimono         : 女帯
+0.0017656    1 pair           : 女山
+0.0017579    1 elderly        : 老女
+0.0017508    1 wrestler       : 女相撲
+0.0017447    1 truth          : 女賊
+0.0017350    1 noblewoman     : 公女
+0.0017308    1 lass           : 郎女
+0.0017260    1 chivalrous     : 女伊達
+0.0017232    1 fleabane       : 姫女苑
+0.0017224    1 shamaness      : 巫女
+0.0017096    1 catalpa        : 梓巫女
+0.0017028    1 apparition     : 女怪
+0.0016875    1 vulva          : 女陰
+0.0016684    1 Star           : 織女
+0.0016568    1 seductive      : 艶女
+0.0016478    2 lesser         : 女波, 女浪
+0.0016204    1 sterile        : 石女
+0.0015992    1 genitals       : 女陰
+0.0015815    1 August         : 織女
+0.0015810    2 eldest         : 一女, 長女
+0.0015769    1 July           : 織女
+0.0015768    1 mythology      : 女媧
+0.0015659    1 barren         : 石女
+0.0015601    1 Son            : 皇女
+0.0015576    1 monster        : 女怪
+0.0015482    1 adult          : 成女
+0.0015274    2 waitress       : 女給, 女中
+0.0015253    2 sissy          : 女々しい, 女女しい
+0.0015195    1 summons        : 梓巫女
+0.0015188    2 concubine      : 側女, 色女
+0.0014926    3 baby           : 女児, 女のコ, 女の子
+0.0014854    1 sounding       : 梓巫女
+0.0014514    1 zodiac         : 年女
+0.0014406    2 partner        : 女方, 女形
+0.0014404    1 ghost          : 女怪
+0.0014373    1 good           : 晴れ女
+0.0014341    1 fox            : 女狐
+0.0014256    1 display        : 女雛
+0.0014060    2 kind           : 天女, 女気
+0.0013921    4 one            : 妻女, 一女, 女狂い, 女房
+0.0013794    1 naked          : 裸女
+0.0013484    2 spirit         : 雪女, 女気
+0.0013204    1 joint          : 女木
+0.0013150    1 construction   : 女木
+0.0012984    1 luck           : 女運
+0.0012615    1 parent         : 女親
+0.0012459    1 enchantress    : 妖女
+0.0012335    2 womanhood      : 女ざかり, 女盛り
+0.0012317    1 wooden         : 女木
+0.0012274    1 born           : 年女
+0.0012218    2 attractive     : 女好き, 熟女
+0.0012194    2 planter        : 早乙女, 早少女
+0.0012186    1 radical        : 女偏
+0.0012115    1 former         : 元彼女
+0.0012110    1 God            : 皇女
+0.0012018    1 bow            : 梓巫女
+0.0011986    2 article        : 女持, 女持ち
+0.0011963    1 mother         : 女親
+0.0011596    2 mistress       : 側女, 女将
+0.0011588    1 string         : 梓巫女
+0.0011489    1 sylph          : 手弱女
+0.0011323    1 matrilinear    : 女系
+0.0011283    1 vagina         : 女子
+0.0011258    2 left           : 女結び, 女偏
+0.0011244    1 current        : 年女
+0.0011086    1 femicide       : 女殺し
+0.0011050    1 sign           : 年女
+0.0011042    1 scabious       : 女郎花
+0.0010804    1 procurer       : 女衒
+0.0010732    1 Simon          : 女竹
+0.0010704    1 madwoman       : 狂女
+0.0010676    1 emperor        : 皇女
+0.0010574    1 keener         : 泣き女
+0.0010518    1 ogress         : 鬼女
+0.0010458    1 misogynist     : 女嫌い
+0.0010369    2 worker         : 女工, 女手
+0.0010280    2 queen          : 女王, 女皇
+0.0010179    1 mourner        : 泣き女
+0.0010109    1 Pinus          : 女松
+0.0010091    1 lustful        : 女好き
+0.0010090    1 misogyny       : 女嫌い
+0.0010041    1 ama            : 海女
+0.0010017    2 head           : 女狂い, 大原女
+0.0010010    1 assist         : 湯女
+0.0009694    1 affectionate   : 優女
+0.0009643    2 love           : 女色, 女房
+0.0009632    1 pimp           : 女衒
+0.0009574    1 demoness       : 鬼女
+0.0009519    1 elf            : 仙女
+0.0009399    1 Vega           : 棚機津女
+0.0009364    1 pious          : 善女
+0.0009337    1 folklore       : 雪女
+0.0009333    1 child          : 皇女
+0.0009273    2 artist         : 女流, 女史
+0.0009202    1 admirer        : 女好き
+0.0009129    1 weaver         : 棚機津女
+0.0009127    1 people         : 女真
+0.0009086    1 waterfall      : 女滝
+0.0008983    1 devotee        : 信女
+0.0008915    1 granny         : 女結び
+0.0008914    1 infatuation    : 女狂い
+0.0008838    1 Amazon         : 女傑
+0.0008835    1 murderer       : 女殺し
+0.0008831    1 believer       : 信女
+0.0008736    1 womankind      : 婦女
+0.0008661    1 saint          : 聖女
+0.0008604    1 honey          : 貴女
+0.0008599    1 lace           : 女郎花
+0.0008544    1 sin            : 女犯
+0.0008480    1 faithful       : 貞女
+0.0008426    1 convict        : 女囚
+0.0008408    1 gentle         : 優女
+0.0008380    1 peddler        : 大原女
+0.0008339    1 umbrella       : 女松
+0.0008272    1 deity          : 女神
+0.0008158    1 virtuous       : 貞女
+0.0008155    1 dear           : 貴女
+0.0008074    1 prostitution   : 女衒
+0.0008015    1 lance          : 小女子
+0.0008006    1 celestial      : 天女
+0.0007991    1 harlot         : 遊女
+0.0007976    1 fondness       : 女好き
+0.0007954    1 fairy          : 仙女
+0.0007896    1 filial         : 孝女
+0.0007876    1 holy           : 聖女
+0.0007820    1 diver          : 海女
+0.0007816    1 reef           : 女結び
+0.0007785    1 lust           : 女色
+0.0007746    1 clothing       : 女装
+0.0007618    1 factory        : 女工
+0.0007600    1 loop           : 女結び
+0.0007593    1 mullet         : 未通女
+0.0007540    1 worked         : 浮かれ女
+0.0007489    1 sticks         : 大原女
+0.0007473    1 ladies         : 女殺し
+0.0007465    1 prisoner       : 女囚
+0.0007410    1 kept           : 側女
+0.0007319    1 murder         : 女殺し
+0.0007292    1 demon          : 醜女
+0.0007271    1 bundle         : 大原女
+0.0007269    1 professional   : 泣き女
+0.0007184    1 affair         : 女色
+0.0007170    1 title          : 女院
+0.0007127    2 second         : 二女, 次女
+0.0007104    1 snow           : 雪女
+0.0007050    1 respect        : 女尊
+0.0007034    1 nature         : 女気
+0.0007020    1 produced       : 女腹
+0.0006963    1 entertainer    : 妓女
+0.0006926    1 priest         : 女犯
+0.0006870    1 attache        : 女房
+0.0006843    1 clever         : 賢女
+0.0006829    1 foster         : 養女
+0.0006819    1 bamboo         : 女竹
+0.0006733    1 waiting        : 侍女
+0.0006731    1 little         : 幼女
+0.0006688    1 leading        : 立女形
+0.0006661    1 doctor         : 女医
+0.0006661    1 wise           : 賢女
+0.0006660    1 naive          : 未通女
+0.0006659    1 adopted        : 養女
+0.0006651    1 golden         : 女郎花
+0.0006610    1 losing         : 女狂い
+0.0006603    1 inexperienced  : 未通女
+0.0006598    2 traditional    : 女中, 女将
+0.0006595    1 aviator        : 女流
+0.0006562    1 striped        : 未通女
+0.0006545    1 lay            : 信女
+0.0006538    1 selling        : 女衒
+0.0006535    1 married        : 鬼女
+0.0006505    1 sexual         : 女犯
+0.0006478    2 word           : 女ことば, 女言葉
+0.0006478    1 star           : 棚機津女
+0.0006454    1 sand           : 小女子
+0.0006430    1 yellow         : 女郎花
+0.0006388    1 starting       : 女結び
+0.0006332    1 seaweed        : 海女
+0.0006321    1 brave          : 女傑
+0.0006259    1 red            : 女松
+0.0006257    1 square         : 女結び
+0.0006230    1 innocent       : 未通女
+0.0006055    1 unspoiled      : 処女
+0.0006014    1 housemaid      : 女中
+0.0006014    1 schoolgirl     : 女児
+0.0006014    1 Mrs            : 女史
+0.0006013    2 rice           : 早乙女, 早少女
+0.0006005    1 Buddhist       : 女犯
+0.0005991    2 language       : 女ことば, 女言葉
+0.0005846    1 innkeeper      : 女将
+0.0005812    1 living         : 女衒
+0.0005781    1 sons           : 子女
+0.0005725    1 pervert        : 淑女
+0.0005683    1 critic         : 女史
+0.0005528    1 song           : 歌い女
+0.0005502    1 actress        : 女優
+0.0005415    1 politician     : 女史
+0.0005364    1 easier         : 女坂
+0.0005254    1 body           : 女体
+0.0005229    1 line           : 女系
+0.0005165    1 beggar         : 瞽女
+0.0005161    1 debut          : 処女
+0.0005140    1 gender         : 女性
+0.0005125    1 voyage         : 処女
+0.0005091    1 champion       : 女王
+0.0004952    1 palace         : 女房
+0.0004946    1 sun            : 日女
+0.0004917    1 scholar        : 女史
+0.0004887    1 hiragana       : 女手
+0.0004852    1 romantic       : 女難
+0.0004821    1 pupil          : 女児
+0.0004798    1 itch           : 女癖
+0.0004734    1 character      : 女傑
+0.0004722    1 dressing       : 女装
+0.0004644    1 writer         : 女流
+0.0004632    1 talented       : 才女
+0.0004581    1 psychology     : 女心
+0.0004577    1 system         : 采女
+0.0004549    1 brought        : 女難
+0.0004389    1 interest       : 女房
+0.0004342    1 handwriting    : 女手
+0.0004341    1 forest         : 処女
+0.0004333    1 wearing        : 女装
+0.0004301    1 activity       : 処女
+0.0004299    1 status         : 女史
+0.0004295    1 cross          : 女装
+0.0004169    1 older          : 熟女
+0.0004138    1 someone        : 女衒
+0.0004073    1 wicked         : 悪女
+0.0003972    1 presence       : 女っ気
+0.0003938    1 trouble        : 女難
+0.0003924    1 human          : 処女
+0.0003819    1 social         : 女史
+0.0003782    1 labour         : 女手
+0.0003749    1 voice          : 女声
+0.0003747    1 labor          : 女手
+0.0003526    1 help           : 女手
+0.0003393    1 shop           : 女将
+0.0003320    1 high           : 女史
+0.0003276    1 goods          : 女物
+0.0003188    1 heart          : 女心
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0917546   67 woman
+	woman WORD[ 1,   1]: 0.0133938 女連れ
+	woman WORD[ 1,   2]: 0.0073544 独女
+	woman WORD[ 1,   3]: 0.0049779 歴女
+	woman WORD[ 1,   4]: 0.0043283 賤女
+	woman WORD[ 1,   5]: 0.0032766 晴れ女
+	woman WORD[ 1,   6]: 0.0031044 雨女
+	woman WORD[ 1,   7]: 0.0022099 成女
+	woman WORD[ 1,   8]: 0.0021295 女男
+	woman WORD[ 1,   9]: 0.0020135 艶女
+	woman WORD[ 1,  10]: 0.0019341 孕み女
+	woman WORD[ 1,  11]: 0.0018408 女臭い
+	woman WORD[ 1,  12]: 0.0017944 優女
+	woman WORD[ 1,  13]: 0.0015647 女役
+	woman WORD[ 1,  14]: 0.0015262 女狂い
+	woman WORD[ 1,  15]: 0.0014210 痴女
+	woman WORD[ 1,  16]: 0.0014025 女賊
+	woman WORD[ 1,  17]: 0.0011698 年増女
+	woman WORD[ 1,  18]: 0.0010549 京女
+	woman WORD[ 1,  19]: 0.0010461 青女
+	woman WORD[ 1,  20]: 0.0010408 女狐
+	woman WORD[ 1,  21]: 0.0010398 女色
+	woman WORD[ 1,  22]: 0.0010331 大女
+	woman WORD[ 1,  23]: 0.0010288 醜女
+	woman WORD[ 1,  24]: 0.0010175 女殺し
+	woman WORD[ 1,  25]: 0.0010048 おとこ女
+	woman WORD[ 1,  26]: 0.0009889 賢女
+	woman WORD[ 1,  27]: 0.0009747 裸女
+	woman WORD[ 1,  28]: 0.0009614 石女
+	woman WORD[ 1,  29]: 0.0009189 年女
+	woman WORD[ 1,  30]: 0.0007498 女房
+	woman WORD[ 1,  31]: 0.0006951 男女
+	woman WORD[ 1,  32]: 0.0006641 熟女
+	woman WORD[ 1,  33]: 0.0006169 雪女
+	woman WORD[ 1,  34]: 0.0006133 老女
+	woman WORD[ 1,  35]: 0.0005605 悪女
+	woman WORD[ 1,  36]: 0.0005508 女犯
+	woman WORD[ 1,  37]: 0.0005508 女人
+	woman WORD[ 1,  38]: 0.0005507 女院
+	woman WORD[ 1,  39]: 0.0005448 貞女
+	woman WORD[ 1,  40]: 0.0005437 善女
+	woman WORD[ 1,  41]: 0.0005360 天女
+	woman WORD[ 1,  42]: 0.0005273 手弱女
+	woman WORD[ 1,  43]: 0.0005217 側女
+	woman WORD[ 1,  44]: 0.0005203 聖女
+	woman WORD[ 1,  45]: 0.0005201 女体
+	woman WORD[ 1,  46]: 0.0005088 女偏
+	woman WORD[ 1,  47]: 0.0005088 女腹
+	woman WORD[ 1,  48]: 0.0005088 女好き
+	woman WORD[ 1,  49]: 0.0005064 大原女
+	woman WORD[ 1,  50]: 0.0004827 鬼女
+	woman WORD[ 1,  51]: 0.0004695 浮かれ女
+	woman WORD[ 1,  52]: 0.0004670 歌い女
+	woman WORD[ 1,  53]: 0.0004670 色女
+	woman WORD[ 1,  54]: 0.0004574 妓女
+	woman WORD[ 1,  55]: 0.0004574 女傑
+	woman WORD[ 1,  56]: 0.0004190 巫女
+	woman WORD[ 1,  57]: 0.0004009 婦女
+	woman WORD[ 1,  58]: 0.0003980 美女
+	woman WORD[ 1,  59]: 0.0003325 女流
+	woman WORD[ 1,  60]: 0.0003325 女難
+	woman WORD[ 1,  61]: 0.0003325 女性
+	woman WORD[ 1,  62]: 0.0003219 才女
+	woman WORD[ 1,  63]: 0.0003000 女のコ
+	woman WORD[ 1,  64]: 0.0003000 女の子
+	woman WORD[ 1,  65]: 0.0003000 女手
+	woman WORD[ 1,  66]: 0.0003000 女心
+	woman WORD[ 1,  67]: 0.0003000 女
+TOKEN[ 2]: 0.0583152   53 female
+	female WORD[ 2,   1]: 0.0035788 女怪
+	female WORD[ 2,   2]: 0.0035367 女役
+	female WORD[ 2,   3]: 0.0031702 女賊
+	female WORD[ 2,   4]: 0.0029484 女相撲
+	female WORD[ 2,   5]: 0.0028129 歴女
+	female WORD[ 2,   6]: 0.0022249 女部屋
+	female WORD[ 2,   7]: 0.0017311 女磨き
+	female WORD[ 2,   8]: 0.0016059 痴女
+	female WORD[ 2,   9]: 0.0014773 女主
+	female WORD[ 2,  10]: 0.0014769 女豹
+	female WORD[ 2,  11]: 0.0014704 神女
+	female WORD[ 2,  12]: 0.0013564 女手
+	female WORD[ 2,  13]: 0.0012397 女伊達
+	female WORD[ 2,  14]: 0.0012186 女木
+	female WORD[ 2,  15]: 0.0012021 祝女
+	female WORD[ 2,  16]: 0.0011762 女狐
+	female WORD[ 2,  17]: 0.0011750 女囚
+	female WORD[ 2,  18]: 0.0011499 女方
+	female WORD[ 2,  19]: 0.0011470 女形
+	female WORD[ 2,  20]: 0.0011318 宮女
+	female WORD[ 2,  21]: 0.0010982 女陰
+	female WORD[ 2,  22]: 0.0010609 女親
+	female WORD[ 2,  23]: 0.0010543 梓巫女
+	female WORD[ 2,  24]: 0.0007515 女装
+	female WORD[ 2,  25]: 0.0006565 端女
+	female WORD[ 2,  26]: 0.0006185 泣き女
+	female WORD[ 2,  27]: 0.0005941 棚機津女
+	female WORD[ 2,  28]: 0.0005936 立女形
+	female WORD[ 2,  29]: 0.0005897 側女
+	female WORD[ 2,  30]: 0.0005875 女工
+	female WORD[ 2,  31]: 0.0005873 女系
+	female WORD[ 2,  32]: 0.0005833 女医
+	female WORD[ 2,  33]: 0.0005813 醜女
+	female WORD[ 2,  34]: 0.0005794 信女
+	female WORD[ 2,  35]: 0.0005710 婢女
+	female WORD[ 2,  36]: 0.0005654 小女
+	female WORD[ 2,  37]: 0.0005208 海女
+	female WORD[ 2,  38]: 0.0004237 女房
+	female WORD[ 2,  39]: 0.0003758 女優
+	female WORD[ 2,  40]: 0.0003758 女性
+	female WORD[ 2,  41]: 0.0003758 女声
+	female WORD[ 2,  42]: 0.0003757 女神
+	female WORD[ 2,  43]: 0.0003757 女王
+	female WORD[ 2,  44]: 0.0003734 処女
+	female WORD[ 2,  45]: 0.0003731 少女
+	female WORD[ 2,  46]: 0.0003726 淑女
+	female WORD[ 2,  47]: 0.0003641 早乙女
+	female WORD[ 2,  48]: 0.0003641 早少女
+	female WORD[ 2,  49]: 0.0003635 瞽女
+	female WORD[ 2,  50]: 0.0003391 女心
+	female WORD[ 2,  51]: 0.0003391 女っ気
+	female WORD[ 2,  52]: 0.0003391 女
+	female WORD[ 2,  53]: 0.0003331 女将
+TOKEN[ 3]: 0.0325708   21 girl
+	girl WORD[ 3,   1]: 0.0122913 女の童
+	girl WORD[ 3,   2]: 0.0028233 乙女心
+	girl WORD[ 3,   3]: 0.0013114 青女
+	girl WORD[ 3,   4]: 0.0013050 女顔
+	girl WORD[ 3,   5]: 0.0012503 女児
+	girl WORD[ 3,   6]: 0.0007598 幼女
+	girl WORD[ 3,   7]: 0.0007522 女のコ
+	girl WORD[ 3,   8]: 0.0007522 女の子
+	girl WORD[ 3,   9]: 0.0006326 乙女子
+	girl WORD[ 3,  10]: 0.0006326 少女子
+	girl WORD[ 3,  11]: 0.0006271 小女
+	girl WORD[ 3,  12]: 0.0005885 浮かれ女
+	girl WORD[ 3,  13]: 0.0005684 乙女
+	girl WORD[ 3,  14]: 0.0005684 未通女
+	girl WORD[ 3,  15]: 0.0005252 巫女
+	girl WORD[ 3,  16]: 0.0004609 童女
+	girl WORD[ 3,  17]: 0.0004168 女子
+	girl WORD[ 3,  18]: 0.0004138 少女
+	girl WORD[ 3,  19]: 0.0004096 子女
+	girl WORD[ 3,  20]: 0.0004039 早乙女
+	girl WORD[ 3,  21]: 0.0004039 早少女
+TOKEN[ 4]: 0.0275778   16 young
+	young WORD[ 4,   1]: 0.0098392 古女
+	young WORD[ 4,   2]: 0.0053575 歴女
+	young WORD[ 4,   3]: 0.0011259 青女
+	young WORD[ 4,   4]: 0.0010743 小女子
+	young WORD[ 4,   5]: 0.0010444 公女
+	young WORD[ 4,   6]: 0.0009760 乙女
+	young WORD[ 4,   7]: 0.0006935 早乙女
+	young WORD[ 4,   8]: 0.0006935 早少女
+	young WORD[ 4,   9]: 0.0005675 手弱女
+	young WORD[ 4,  10]: 0.0005384 小女
+	young WORD[ 4,  11]: 0.0004880 未通女
+	young WORD[ 4,  12]: 0.0004509 巫女
+	young WORD[ 4,  13]: 0.0003957 童女
+	young WORD[ 4,  14]: 0.0003553 少女
+	young WORD[ 4,  15]: 0.0003229 女のコ
+	young WORD[ 4,  16]: 0.0003229 女の子
+TOKEN[ 5]: 0.0154141   10 maiden
+	maiden WORD[ 5,   1]: 0.0035335 巫女舞
+	maiden WORD[ 5,   2]: 0.0035057 乙女心
+	maiden WORD[ 5,   3]: 0.0022250 乙女百合
+	maiden WORD[ 5,   4]: 0.0010286 処女
+	maiden WORD[ 5,   5]: 0.0008344 天女
+	maiden WORD[ 5,   6]: 0.0007855 乙女子
+	maiden WORD[ 5,   7]: 0.0007855 少女子
+	maiden WORD[ 5,   8]: 0.0007058 乙女
+	maiden WORD[ 5,   9]: 0.0007058 未通女
+	maiden WORD[ 5,  10]: 0.0006521 巫女
+TOKEN[ 6]: 0.0124320    3 isle
+	isle WORD[ 6,   1]: 0.0102864 女護
+	isle WORD[ 6,   2]: 0.0010728 女護が島
+	isle WORD[ 6,   3]: 0.0010728 女護島
+TOKEN[ 7]: 0.0123323   14 lady
+	lady WORD[ 7,   1]: 0.0013896 侍女
+	lady WORD[ 7,   2]: 0.0013507 宮女
+	lady WORD[ 7,   3]: 0.0008969 女中
+	lady WORD[ 7,   4]: 0.0007428 女御
+	lady WORD[ 7,   5]: 0.0006905 女官
+	lady WORD[ 7,   6]: 0.0006748 小女
+	lady WORD[ 7,   7]: 0.0006460 官女
+	lady WORD[ 7,   8]: 0.0006169 女傑
+	lady WORD[ 7,   9]: 0.0006116 乙女
+	lady WORD[ 7,  10]: 0.0005369 美女
+	lady WORD[ 7,  11]: 0.0005056 女房
+	lady WORD[ 7,  12]: 0.0004484 女史
+	lady WORD[ 7,  13]: 0.0004452 少女
+	lady WORD[ 7,  14]: 0.0004447 淑女
+TOKEN[ 8]: 0.0112733    3 inhabited
+	inhabited WORD[ 8,   1]: 0.0093277 女護
+	inhabited WORD[ 8,   2]: 0.0009728 女護が島
+	inhabited WORD[ 8,   3]: 0.0009728 女護島
+TOKEN[ 9]: 0.0106816    1 dried
+	dried WORD[ 9,   1]: 0.0106816 古女
+TOKEN[10]: 0.0106690   11 daughter
+	daughter WORD[10,   1]: 0.0027112 一女
+	daughter WORD[10,   2]: 0.0014581 末女
+	daughter WORD[10,   3]: 0.0012161 養女
+	daughter WORD[10,   4]: 0.0009671 長女
+	daughter WORD[10,   5]: 0.0007545 息女
+	daughter WORD[10,   6]: 0.0007077 妻女
+	daughter WORD[10,   7]: 0.0006874 孝女
+	daughter WORD[10,   8]: 0.0004597 二女
+	daughter WORD[10,   9]: 0.0004597 次女
+	daughter WORD[10,  10]: 0.0004159 女のコ
+	daughter WORD[10,  11]: 0.0004159 女の子
+TOKEN[11]: 0.0106264   11 prostitute
+	prostitute WORD[11,   1]: 0.0022989 傀儡女
+	prostitute WORD[11,   2]: 0.0017090 出女
+	prostitute WORD[11,   3]: 0.0007459 湯女
+	prostitute WORD[11,   4]: 0.0006862 売女
+	prostitute WORD[11,   5]: 0.0005790 浮かれ女
+	prostitute WORD[11,   6]: 0.0005709 あそび女
+	prostitute WORD[11,   7]: 0.0005709 遊び女
+	prostitute WORD[11,   8]: 0.0005640 妓女
+	prostitute WORD[11,   9]: 0.0005593 女臈
+	prostitute WORD[11,  10]: 0.0005593 女郎
+	prostitute WORD[11,  11]: 0.0005377 遊女
+TOKEN[12]: 0.0096308    9 man
+	man WORD[12,   1]: 0.0024675 女慣れ
+	man WORD[12,   2]: 0.0021046 女男
+	man WORD[12,   3]: 0.0010289 女顔
+	man WORD[12,   4]: 0.0009930 おとこ女
+	man WORD[12,   5]: 0.0006870 男女
+	man WORD[12,   6]: 0.0005028 女好き
+	man WORD[12,   7]: 0.0005028 女殺し
+	man WORD[12,   8]: 0.0003286 女難
+	man WORD[12,   9]: 0.0003286 女装
+TOKEN[13]: 0.0094917    7 feminine
+	feminine WORD[13,   1]: 0.0028753 女臭い
+	feminine WORD[13,   2]: 0.0016631 女男
+	feminine WORD[13,   3]: 0.0016261 女顔
+	feminine WORD[13,   4]: 0.0007847 おとこ女
+	feminine WORD[13,   5]: 0.0005429 男女
+	feminine WORD[13,   6]: 0.0005193 女性
+	feminine WORD[13,   7]: 0.0004687 女気
+TOKEN[14]: 0.0093112    3 mythical
+	mythical WORD[14,   1]: 0.0077043 女護
+	mythical WORD[14,   2]: 0.0008035 女護が島
+	mythical WORD[14,   3]: 0.0008035 女護島
+TOKEN[15]: 0.0090835    8 court
+	court WORD[15,   1]: 0.0022482 宮女
+	court WORD[15,   2]: 0.0015418 女楽
+	court WORD[15,   3]: 0.0011742 青女
+	court WORD[15,   4]: 0.0008416 女房
+	court WORD[15,   5]: 0.0006182 女御
+	court WORD[15,   6]: 0.0005746 女官
+	court WORD[15,   7]: 0.0005376 官女
+	court WORD[15,   8]: 0.0003732 女中
+TOKEN[16]: 0.0085267    3 island
+	island WORD[16,   1]: 0.0070552 女護
+	island WORD[16,   2]: 0.0007358 女護が島
+	island WORD[16,   3]: 0.0007358 女護島
+TOKEN[17]: 0.0082806    3 location
+	location WORD[17,   1]: 0.0068515 女護
+	location WORD[17,   2]: 0.0007145 女護が島
+	location WORD[17,   3]: 0.0007145 女護島
+TOKEN[18]: 0.0073627    3 princess
+	princess WORD[18,   1]: 0.0054260 女御子
+	princess WORD[18,   2]: 0.0014862 公女
+	princess WORD[18,   3]: 0.0004506 王女
+TOKEN[19]: 0.0069488    2 bath
+	bath WORD[19,   1]: 0.0045387 女風呂
+	bath WORD[19,   2]: 0.0024102 女湯
+TOKEN[20]: 0.0069115    3 vamp
+	vamp WORD[20,   1]: 0.0028921 あばずれ女
+	vamp WORD[20,   2]: 0.0028921 阿婆擦れ女
+	vamp WORD[20,   3]: 0.0011273 妖女
+TOKEN[21]: 0.0066939    2 unmarried
+	unmarried WORD[21,   1]: 0.0054516 独女
+	unmarried WORD[21,   2]: 0.0006211 巫女
+TOKEN[22]: 0.0061782    2 caste
+	caste WORD[22,   1]: 0.0021928 神女
+	caste WORD[22,   2]: 0.0017926 祝女
+TOKEN[23]: 0.0059505    1 wench
+	wench WORD[23,   1]: 0.0059505 糞女
+TOKEN[24]: 0.0059089    1 history
+	history WORD[24,   1]: 0.0059089 歴女
+TOKEN[25]: 0.0057999    2 weather
+	weather WORD[25,   1]: 0.0039356 晴れ女
+	weather WORD[25,   2]: 0.0018644 雨女
+TOKEN[26]: 0.0057842    2 coquette
+	coquette WORD[26,   1]: 0.0028921 あばずれ女
+	coquette WORD[26,   2]: 0.0028921 阿婆擦れ女
+TOKEN[27]: 0.0057842    2 minx
+	minx WORD[27,   1]: 0.0028921 あばずれ女
+	minx WORD[27,   2]: 0.0028921 阿婆擦れ女
+TOKEN[28]: 0.0054346    2 hereditary
+	hereditary WORD[28,   1]: 0.0019289 神女
+	hereditary WORD[28,   2]: 0.0015769 祝女
+TOKEN[29]: 0.0053558    4 imperial
+	imperial WORD[29,   1]: 0.0019811 女御子
+	imperial WORD[29,   2]: 0.0011698 青女
+	imperial WORD[29,   3]: 0.0006159 女院
+	imperial WORD[29,   4]: 0.0004192 女房
+TOKEN[30]: 0.0052769    2 flirt
+	flirt WORD[30,   1]: 0.0026385 あばずれ女
+	flirt WORD[30,   2]: 0.0026385 阿婆擦れ女
+TOKEN[31]: 0.0052506    2 wherever
+	wherever WORD[31,   1]: 0.0026962 晴れ女
+	wherever WORD[31,   2]: 0.0025544 雨女
+TOKEN[32]: 0.0051946    3 dance
+	dance WORD[32,   1]: 0.0028686 巫女舞
+	dance WORD[32,   2]: 0.0017357 女楽
+	dance WORD[32,   3]: 0.0005902 歌い女
+TOKEN[33]: 0.0051093    2 widow
+	widow WORD[33,   1]: 0.0025547 女やもめ
+	widow WORD[33,   2]: 0.0025547 女寡
+TOKEN[34]: 0.0050998    5 effeminate
+	effeminate WORD[34,   1]: 0.0017430 女男
+	effeminate WORD[34,   2]: 0.0008224 おとこ女
+	effeminate WORD[34,   3]: 0.0006983 女々しい
+	effeminate WORD[34,   4]: 0.0006983 女女しい
+	effeminate WORD[34,   5]: 0.0005689 男女
+TOKEN[35]: 0.0050403    2 tease
+	tease WORD[35,   1]: 0.0025202 あばずれ女
+	tease WORD[35,   2]: 0.0025201 阿婆擦れ女
+TOKEN[36]: 0.0046539    1 bitch
+	bitch WORD[36,   1]: 0.0046539 糞女
+TOKEN[37]: 0.0046144    2 role
+	role WORD[37,   1]: 0.0039512 女役
+	role WORD[37,   2]: 0.0006632 立女形
+TOKEN[38]: 0.0045023    1 giantess
+	giantess WORD[38,   1]: 0.0022512 大女
+TOKEN[39]: 0.0044848    5 period
+	period WORD[39,   1]: 0.0012665 出女
+	period WORD[39,   2]: 0.0004572 小女
+	period WORD[39,   3]: 0.0004145 女臈
+	period WORD[39,   4]: 0.0004145 女郎
+	period WORD[39,   5]: 0.0003017 少女
+TOKEN[40]: 0.0044498    1 buff
+	buff WORD[40,   1]: 0.0044498 歴女
+TOKEN[41]: 0.0043838    2 goes
+	goes WORD[41,   1]: 0.0022511 晴れ女
+	goes WORD[41,   2]: 0.0021327 雨女
+TOKEN[42]: 0.0043192    1 single
+	single WORD[42,   1]: 0.0043192 独女
+TOKEN[43]: 0.0043127    2 member
+	member WORD[43,   1]: 0.0015307 神女
+	member WORD[43,   2]: 0.0012514 祝女
+TOKEN[44]: 0.0042812    3 mannish
+	mannish WORD[44,   1]: 0.0020150 女男
+	mannish WORD[44,   2]: 0.0009507 おとこ女
+	mannish WORD[44,   3]: 0.0006577 男女
+TOKEN[45]: 0.0042606    2 mountain
+	mountain WORD[45,   1]: 0.0029168 女山
+	mountain WORD[45,   2]: 0.0006719 山女
+TOKEN[46]: 0.0041892    1 room
+	room WORD[46,   1]: 0.0041892 女部屋
+TOKEN[47]: 0.0041870    4 smaller
+	smaller WORD[47,   1]: 0.0009271 女波
+	smaller WORD[47,   2]: 0.0009271 女浪
+	smaller WORD[47,   3]: 0.0009267 女滝
+	smaller WORD[47,   4]: 0.0004687 女
+TOKEN[48]: 0.0039469    1 interested
+	interested WORD[48,   1]: 0.0039469 歴女
+TOKEN[49]: 0.0038927    3 medium
+	medium WORD[49,   1]: 0.0015012 女巫
+	medium WORD[49,   2]: 0.0012599 梓巫女
+	medium WORD[49,   3]: 0.0005658 巫女
+TOKEN[50]: 0.0038388    3 masculine
+	masculine WORD[50,   1]: 0.0018068 女男
+	masculine WORD[50,   2]: 0.0008525 おとこ女
+	masculine WORD[50,   3]: 0.0005898 男女
+TOKEN[51]: 0.0037633    4 wife
+	wife WORD[51,   1]: 0.0011950 妻女
+	wife WORD[51,   2]: 0.0008774 女房
+	wife WORD[51,   3]: 0.0006375 貞女
+	wife WORD[51,   4]: 0.0003511 女
+TOKEN[52]: 0.0037095    2 music
+	music WORD[52,   1]: 0.0031681 女楽
+	music WORD[52,   2]: 0.0005414 浮かれ女
+TOKEN[53]: 0.0036749    1 Christian
+	Christian WORD[53,   1]: 0.0036749 東女
+TOKEN[54]: 0.0035263    2 sorceress
+	sorceress WORD[54,   1]: 0.0020107 女巫
+	sorceress WORD[54,   2]: 0.0007578 巫女
+TOKEN[55]: 0.0035049    2 section
+	section WORD[55,   1]: 0.0022892 女風呂
+	section WORD[55,   2]: 0.0012156 女湯
+TOKEN[56]: 0.0034423    2 shrine
+	shrine WORD[56,   1]: 0.0025143 巫女舞
+	shrine WORD[56,   2]: 0.0004640 巫女
+TOKEN[57]: 0.0034405    1 plant
+	plant WORD[57,   1]: 0.0034405 女木
+TOKEN[58]: 0.0033598    3 witch
+	witch WORD[58,   1]: 0.0009717 山女
+	witch WORD[58,   2]: 0.0007624 鬼女
+	witch WORD[58,   3]: 0.0006540 魔女
+TOKEN[59]: 0.0033380    4 kabuki
+	kabuki WORD[59,   1]: 0.0014102 女歌舞伎
+	kabuki WORD[59,   2]: 0.0006569 立女形
+	kabuki WORD[59,   3]: 0.0006362 女方
+	kabuki WORD[59,   4]: 0.0006347 女形
+TOKEN[60]: 0.0032673    3 attendant
+	attendant WORD[60,   1]: 0.0014148 宮女
+	attendant WORD[60,   2]: 0.0007277 侍女
+	attendant WORD[60,   3]: 0.0005623 美女
+TOKEN[61]: 0.0032041    1 unused
+	unused WORD[61,   1]: 0.0016020 青女
+TOKEN[62]: 0.0031863    3 goddess
+	goddess WORD[62,   1]: 0.0016093 女媧
+	goddess WORD[62,   2]: 0.0005887 日女
+	goddess WORD[62,   3]: 0.0004941 女神
+TOKEN[63]: 0.0031417    1 ceremonial
+	ceremonial WORD[63,   1]: 0.0031417 巫女舞
+TOKEN[64]: 0.0031114    2 inn
+	inn WORD[64,   1]: 0.0026874 若女将
+	inn WORD[64,   2]: 0.0004241 女将
+TOKEN[65]: 0.0031096    1 doll
+	doll WORD[65,   1]: 0.0031096 女雛
+TOKEN[66]: 0.0031027    4 Japanese
+	Japanese WORD[66,   1]: 0.0014565 若女将
+	Japanese WORD[66,   2]: 0.0009353 女松
+	Japanese WORD[66,   3]: 0.0004810 雪女
+	Japanese WORD[66,   4]: 0.0002298 女将
+TOKEN[67]: 0.0030980    3 relationship
+	relationship WORD[67,   1]: 0.0018782 女役
+	relationship WORD[67,   2]: 0.0006107 女方
+	relationship WORD[67,   3]: 0.0006092 女形
+TOKEN[68]: 0.0030862    1 jail
+	jail WORD[68,   1]: 0.0030862 女部屋
+TOKEN[69]: 0.0030836    3 restaurant
+	restaurant WORD[69,   1]: 0.0023085 若女将
+	restaurant WORD[69,   2]: 0.0004109 女中
+	restaurant WORD[69,   3]: 0.0003643 女将
+TOKEN[70]: 0.0030835    3 virgin
+	virgin WORD[70,   1]: 0.0010438 処女
+	virgin WORD[70,   2]: 0.0007162 未通女
+	virgin WORD[70,   3]: 0.0006618 巫女
+TOKEN[71]: 0.0030492    1 daisy
+	daisy WORD[71,   1]: 0.0030492 姫女苑
+TOKEN[72]: 0.0030414    3 male
+	male WORD[72,   1]: 0.0018439 女役
+	male WORD[72,   2]: 0.0005995 女方
+	male WORD[72,   3]: 0.0005980 女形
+TOKEN[73]: 0.0030108    2 men
+	men WORD[73,   1]: 0.0017283 女賊
+	men WORD[73,   2]: 0.0012825 女狐
+TOKEN[74]: 0.0029751    1 speech
+	speech WORD[74,   1]: 0.0029751 歴女
+TOKEN[75]: 0.0029637    1 knot
+	knot WORD[75,   1]: 0.0029637 女結び
+TOKEN[76]: 0.0029209    1 molester
+	molester WORD[76,   1]: 0.0029209 痴女
+TOKEN[77]: 0.0029142    1 huge
+	huge WORD[77,   1]: 0.0014571 大女
+TOKEN[78]: 0.0028676    3 Edo
+	Edo WORD[78,   1]: 0.0014470 出女
+	Edo WORD[78,   2]: 0.0004735 女臈
+	Edo WORD[78,   3]: 0.0004735 女郎
+TOKEN[79]: 0.0028640    2 proprietress
+	proprietress WORD[79,   1]: 0.0023370 女主
+	proprietress WORD[79,   2]: 0.0005270 女将
+TOKEN[80]: 0.0028476    1 leopardess
+	leopardess WORD[80,   1]: 0.0028476 女豹
+TOKEN[81]: 0.0028409    1 pregnant
+	pregnant WORD[81,   1]: 0.0028409 孕み女
+TOKEN[82]: 0.0028338    2 public
+	public WORD[82,   1]: 0.0018509 女風呂
+	public WORD[82,   2]: 0.0009829 女湯
+TOKEN[83]: 0.0027941    1 smelling
+	smelling WORD[83,   1]: 0.0027941 女臭い
+TOKEN[84]: 0.0027460    1 ways
+	ways WORD[84,   1]: 0.0013730 青女
+TOKEN[85]: 0.0027340    3 maidservant
+	maidservant WORD[85,   1]: 0.0015945 女衆
+	maidservant WORD[85,   2]: 0.0005826 女中
+	maidservant WORD[85,   3]: 0.0005569 下女
+TOKEN[86]: 0.0027184    2 landlady
+	landlady WORD[86,   1]: 0.0022182 女主
+	landlady WORD[86,   2]: 0.0005002 女将
+TOKEN[87]: 0.0027137    2 part
+	part WORD[87,   1]: 0.0016066 女役
+	part WORD[87,   2]: 0.0011071 女木
+TOKEN[88]: 0.0026977    1 serving
+	serving WORD[88,   1]: 0.0013488 青女
+TOKEN[89]: 0.0026945    3 used
+	used WORD[89,   1]: 0.0021724 女慣れ
+	used WORD[89,   2]: 0.0002611 女ことば
+	used WORD[89,   3]: 0.0002611 女言葉
+TOKEN[90]: 0.0026188    1 making
+	making WORD[90,   1]: 0.0026188 歴女
+TOKEN[91]: 0.0025964    1 royal
+	royal WORD[91,   1]: 0.0025964 女御子
+TOKEN[92]: 0.0025638    2 beauty
+	beauty WORD[92,   1]: 0.0019141 女磨き
+	beauty WORD[92,   2]: 0.0006497 女色
+TOKEN[93]: 0.0025611    1 use
+	use WORD[93,   1]: 0.0025611 歴女
+TOKEN[94]: 0.0025557    1 Lilium
+	Lilium WORD[94,   1]: 0.0025557 乙女百合
+TOKEN[95]: 0.0025461    3 graceful
+	graceful WORD[95,   1]: 0.0008826 優女
+	graceful WORD[95,   2]: 0.0007780 手弱女
+	graceful WORD[95,   3]: 0.0004427 女気
+TOKEN[96]: 0.0025280    3 Don
+	Don WORD[96,   1]: 0.0008427 女たらし
+	Don WORD[96,   2]: 0.0008427 女ったらし
+	Don WORD[96,   3]: 0.0008426 女誑し
+TOKEN[97]: 0.0025280    3 Juan
+	Juan WORD[97,   1]: 0.0008427 女たらし
+	Juan WORD[97,   2]: 0.0008427 女ったらし
+	Juan WORD[97,   3]: 0.0008426 女誑し
+TOKEN[98]: 0.0024952    3 womanizer
+	womanizer WORD[98,   1]: 0.0008317 女たらし
+	womanizer WORD[98,   2]: 0.0008317 女ったらし
+	womanizer WORD[98,   3]: 0.0008317 女誑し
+TOKEN[99]: 0.0024708    1 feeling
+	feeling WORD[99,   1]: 0.0024708 乙女心
+TOKEN[100]: 0.0024605    3 prime
+	prime WORD[100,   1]: 0.0016263 年増女
+	prime WORD[100,   2]: 0.0004171 女ざかり
+	prime WORD[100,   3]: 0.0004171 女盛り
+TOKEN[101]: 0.0024469    4 actor
+	actor WORD[101,   1]: 0.0006858 立女形
+	actor WORD[101,   2]: 0.0006643 女方
+	actor WORD[101,   3]: 0.0006626 女形
+	actor WORD[101,   4]: 0.0004342 女優
+TOKEN[102]: 0.0024404    1 Akebia
+	Akebia WORD[102,   1]: 0.0012202 山女
+TOKEN[103]: 0.0024355    1 homosexual
+	homosexual WORD[103,   1]: 0.0024355 女役
+TOKEN[104]: 0.0024272    1 passive
+	passive WORD[104,   1]: 0.0024272 女役
+TOKEN[105]: 0.0024170    3 philanderer
+	philanderer WORD[105,   1]: 0.0008057 女たらし
+	philanderer WORD[105,   2]: 0.0008057 女ったらし
+	philanderer WORD[105,   3]: 0.0008056 女誑し
+TOKEN[106]: 0.0023751    2 intersexual
+	intersexual WORD[106,   1]: 0.0009964 おとこ女
+	intersexual WORD[106,   2]: 0.0006893 男女
+TOKEN[107]: 0.0023539    1 geisha
+	geisha WORD[107,   1]: 0.0023539 傀儡女
+TOKEN[108]: 0.0023421    1 mind
+	mind WORD[108,   1]: 0.0023421 乙女心
+TOKEN[109]: 0.0023267    1 pine
+	pine WORD[109,   1]: 0.0023267 女松
+TOKEN[110]: 0.0023188    1 rugged
+	rugged WORD[110,   1]: 0.0023188 女山
+TOKEN[111]: 0.0023188    1 sloping
+	sloping WORD[111,   1]: 0.0023188 女山
+TOKEN[112]: 0.0022874    3 beautiful
+	beautiful WORD[112,   1]: 0.0007088 優女
+	beautiful WORD[112,   2]: 0.0006352 天女
+	beautiful WORD[112,   3]: 0.0004717 美女
+TOKEN[113]: 0.0022807    1 unlicensed
+	unlicensed WORD[113,   1]: 0.0022807 出女
+TOKEN[114]: 0.0022524    1 bandit
+	bandit WORD[114,   1]: 0.0022524 女賊
+TOKEN[115]: 0.0022510    1 occupation
+	occupation WORD[115,   1]: 0.0022510 女役
+TOKEN[116]: 0.0022336    1 leopard
+	leopard WORD[116,   1]: 0.0022336 女豹
+TOKEN[117]: 0.0022277    1 Japan
+	Japan WORD[117,   1]: 0.0022277 歴女
+TOKEN[118]: 0.0022163    1 unlucky
+	unlucky WORD[118,   1]: 0.0022163 雨女
+TOKEN[119]: 0.0022074    1 floozy
+	floozy WORD[119,   1]: 0.0011037 売女
+TOKEN[120]: 0.0021911    1 improvement
+	improvement WORD[120,   1]: 0.0021911 女磨き
+TOKEN[121]: 0.0021757    1 robber
+	robber WORD[121,   1]: 0.0021757 女賊
+TOKEN[122]: 0.0021660    2 hermaphrodite
+	hermaphrodite WORD[122,   1]: 0.0009087 おとこ女
+	hermaphrodite WORD[122,   2]: 0.0006287 男女
+TOKEN[123]: 0.0021599    1 world
+	world WORD[123,   1]: 0.0010800 青女
+TOKEN[124]: 0.0021504    1 slut
+	slut WORD[124,   1]: 0.0010752 売女
+TOKEN[125]: 0.0021488    1 face
+	face WORD[125,   1]: 0.0021488 女顔
+TOKEN[126]: 0.0021463    2 mature
+	mature WORD[126,   1]: 0.0016503 成女
+	mature WORD[126,   2]: 0.0004959 熟女
+TOKEN[127]: 0.0021392    1 lucky
+	lucky WORD[127,   1]: 0.0021392 晴れ女
+TOKEN[128]: 0.0021386    1 indented
+	indented WORD[128,   1]: 0.0021386 女木
+TOKEN[129]: 0.0021303    3 empress
+	empress WORD[129,   1]: 0.0008360 女院
+	empress WORD[129,   2]: 0.0007897 女帝
+	empress WORD[129,   3]: 0.0005046 女皇
+TOKEN[130]: 0.0021170    3 servant
+	servant WORD[130,   1]: 0.0007648 端女
+	servant WORD[130,   2]: 0.0006869 側女
+	servant WORD[130,   3]: 0.0006652 婢女
+TOKEN[131]: 0.0021134    2 old
+	old WORD[131,   1]: 0.0004893 小女
+	old WORD[131,   2]: 0.0003228 少女
+TOKEN[132]: 0.0021076    1 sash
+	sash WORD[132,   1]: 0.0021076 女帯
+TOKEN[133]: 0.0021062    1 whore
+	whore WORD[133,   1]: 0.0010531 売女
+TOKEN[134]: 0.0020017    2 maid
+	maid WORD[134,   1]: 0.0015133 侍女
+	maid WORD[134,   2]: 0.0004884 女中
+TOKEN[135]: 0.0019889    1 fit
+	fit WORD[135,   1]: 0.0019889 女役
+TOKEN[136]: 0.0019609    2 heroine
+	heroine WORD[136,   1]: 0.0011227 烈女
+	heroine WORD[136,   2]: 0.0008382 女傑
+TOKEN[137]: 0.0019503    1 woody
+	woody WORD[137,   1]: 0.0019503 女木
+TOKEN[138]: 0.0019473    1 Virgo
+	Virgo WORD[138,   1]: 0.0019473 乙女座
+TOKEN[139]: 0.0019359    1 vixen
+	vixen WORD[139,   1]: 0.0019359 女狐
+TOKEN[140]: 0.0019266    1 year
+	year WORD[140,   1]: 0.0019266 年女
+TOKEN[141]: 0.0018956    1 owner
+	owner WORD[141,   1]: 0.0018956 女主
+TOKEN[142]: 0.0018916    1 stupid
+	stupid WORD[142,   1]: 0.0018916 痴女
+TOKEN[143]: 0.0018916    1 wrestling
+	wrestling WORD[143,   1]: 0.0018916 女相撲
+TOKEN[144]: 0.0018885    1 tramp
+	tramp WORD[144,   1]: 0.0009443 売女
+TOKEN[145]: 0.0018770    1 less
+	less WORD[145,   1]: 0.0018770 女山
+TOKEN[146]: 0.0018692    1 chasing
+	chasing WORD[146,   1]: 0.0018692 女遊び
+TOKEN[147]: 0.0018493    2 nymph
+	nymph WORD[147,   1]: 0.0009392 天女
+	nymph WORD[147,   2]: 0.0009101 仙女
+TOKEN[148]: 0.0018449    1 glamorous
+	glamorous WORD[148,   1]: 0.0018449 艶女
+TOKEN[149]: 0.0018375    1 Erigeron
+	Erigeron WORD[149,   1]: 0.0018375 姫女苑
+TOKEN[150]: 0.0018225    1 film
+	film WORD[150,   1]: 0.0018225 女役
+TOKEN[151]: 0.0018189    2 Chinese
+	Chinese WORD[151,   1]: 0.0009840 女媧
+	Chinese WORD[151,   2]: 0.0008349 年女
+TOKEN[152]: 0.0018187    1 search
+	search WORD[152,   1]: 0.0018187 女賊
+TOKEN[153]: 0.0018065    3 hostess
+	hostess WORD[153,   1]: 0.0008118 女給
+	hostess WORD[153,   2]: 0.0005273 女中
+	hostess WORD[153,   3]: 0.0004674 女将
+TOKEN[154]: 0.0017918    1 rain
+	rain WORD[154,   1]: 0.0017918 雨女
+TOKEN[155]: 0.0017775    2 constellation
+	constellation WORD[155,   1]: 0.0011576 乙女座
+	constellation WORD[155,   2]: 0.0006198 棚機津女
+TOKEN[156]: 0.0017733    3 two
+	two WORD[156,   1]: 0.0005866 女滝
+	two WORD[156,   2]: 0.0002967 女坂
+	two WORD[156,   3]: 0.0002967 女
+TOKEN[157]: 0.0017668    1 kimono
+	kimono WORD[157,   1]: 0.0017668 女帯
+TOKEN[158]: 0.0017656    1 pair
+	pair WORD[158,   1]: 0.0017656 女山
+TOKEN[159]: 0.0017579    1 elderly
+	elderly WORD[159,   1]: 0.0008789 老女
+TOKEN[160]: 0.0017508    1 wrestler
+	wrestler WORD[160,   1]: 0.0017508 女相撲
+TOKEN[161]: 0.0017447    1 truth
+	truth WORD[161,   1]: 0.0017447 女賊
+TOKEN[162]: 0.0017350    1 noblewoman
+	noblewoman WORD[162,   1]: 0.0017350 公女
+TOKEN[163]: 0.0017308    1 lass
+	lass WORD[163,   1]: 0.0017308 郎女
+TOKEN[164]: 0.0017260    1 chivalrous
+	chivalrous WORD[164,   1]: 0.0017260 女伊達
+TOKEN[165]: 0.0017232    1 fleabane
+	fleabane WORD[165,   1]: 0.0017232 姫女苑
+TOKEN[166]: 0.0017224    1 shamaness
+	shamaness WORD[166,   1]: 0.0008612 巫女
+TOKEN[167]: 0.0017096    1 catalpa
+	catalpa WORD[167,   1]: 0.0017096 梓巫女
+TOKEN[168]: 0.0017028    1 apparition
+	apparition WORD[168,   1]: 0.0017028 女怪
+TOKEN[169]: 0.0016875    1 vulva
+	vulva WORD[169,   1]: 0.0016875 女陰
+TOKEN[170]: 0.0016684    1 Star
+	Star WORD[170,   1]: 0.0008342 織女
+TOKEN[171]: 0.0016568    1 seductive
+	seductive WORD[171,   1]: 0.0016568 艶女
+TOKEN[172]: 0.0016478    2 lesser
+	lesser WORD[172,   1]: 0.0008239 女波
+	lesser WORD[172,   2]: 0.0008239 女浪
+TOKEN[173]: 0.0016204    1 sterile
+	sterile WORD[173,   1]: 0.0008102 石女
+TOKEN[174]: 0.0015992    1 genitals
+	genitals WORD[174,   1]: 0.0015992 女陰
+TOKEN[175]: 0.0015815    1 August
+	August WORD[175,   1]: 0.0007907 織女
+TOKEN[176]: 0.0015810    2 eldest
+	eldest WORD[176,   1]: 0.0010299 一女
+	eldest WORD[176,   2]: 0.0005510 長女
+TOKEN[177]: 0.0015769    1 July
+	July WORD[177,   1]: 0.0007885 織女
+TOKEN[178]: 0.0015768    1 mythology
+	mythology WORD[178,   1]: 0.0015768 女媧
+TOKEN[179]: 0.0015659    1 barren
+	barren WORD[179,   1]: 0.0007829 石女
+TOKEN[180]: 0.0015601    1 Son
+	Son WORD[180,   1]: 0.0007801 皇女
+TOKEN[181]: 0.0015576    1 monster
+	monster WORD[181,   1]: 0.0015576 女怪
+TOKEN[182]: 0.0015482    1 adult
+	adult WORD[182,   1]: 0.0015482 成女
+TOKEN[183]: 0.0015274    2 waitress
+	waitress WORD[183,   1]: 0.0009260 女給
+	waitress WORD[183,   2]: 0.0006014 女中
+TOKEN[184]: 0.0015253    2 sissy
+	sissy WORD[184,   1]: 0.0007626 女々しい
+	sissy WORD[184,   2]: 0.0007626 女女しい
+TOKEN[185]: 0.0015195    1 summons
+	summons WORD[185,   1]: 0.0015195 梓巫女
+TOKEN[186]: 0.0015188    2 concubine
+	concubine WORD[186,   1]: 0.0008015 側女
+	concubine WORD[186,   2]: 0.0007173 色女
+TOKEN[187]: 0.0014926    3 baby
+	baby WORD[187,   1]: 0.0004026 女児
+	baby WORD[187,   2]: 0.0003633 女のコ
+	baby WORD[187,   3]: 0.0003633 女の子
+TOKEN[188]: 0.0014854    1 sounding
+	sounding WORD[188,   1]: 0.0014854 梓巫女
+TOKEN[189]: 0.0014514    1 zodiac
+	zodiac WORD[189,   1]: 0.0014514 年女
+TOKEN[190]: 0.0014406    2 partner
+	partner WORD[190,   1]: 0.0007212 女方
+	partner WORD[190,   2]: 0.0007194 女形
+TOKEN[191]: 0.0014404    1 ghost
+	ghost WORD[191,   1]: 0.0014404 女怪
+TOKEN[192]: 0.0014373    1 good
+	good WORD[192,   1]: 0.0014373 晴れ女
+TOKEN[193]: 0.0014341    1 fox
+	fox WORD[193,   1]: 0.0014341 女狐
+TOKEN[194]: 0.0014256    1 display
+	display WORD[194,   1]: 0.0014256 女雛
+TOKEN[195]: 0.0014060    2 kind
+	kind WORD[195,   1]: 0.0006634 天女
+	kind WORD[195,   2]: 0.0003713 女気
+TOKEN[196]: 0.0013921    4 one
+	one WORD[196,   1]: 0.0005560 妻女
+	one WORD[196,   2]: 0.0003550 一女
+	one WORD[196,   3]: 0.0002770 女狂い
+	one WORD[196,   4]: 0.0002041 女房
+TOKEN[197]: 0.0013794    1 naked
+	naked WORD[197,   1]: 0.0013794 裸女
+TOKEN[198]: 0.0013484    2 spirit
+	spirit WORD[198,   1]: 0.0006835 雪女
+	spirit WORD[198,   2]: 0.0003324 女気
+TOKEN[199]: 0.0013204    1 joint
+	joint WORD[199,   1]: 0.0013204 女木
+TOKEN[200]: 0.0013150    1 construction
+	construction WORD[200,   1]: 0.0013150 女木
+TOKEN[201]: 0.0012984    1 luck
+	luck WORD[201,   1]: 0.0012984 女運
+TOKEN[202]: 0.0012615    1 parent
+	parent WORD[202,   1]: 0.0012615 女親
+TOKEN[203]: 0.0012459    1 enchantress
+	enchantress WORD[203,   1]: 0.0012459 妖女
+TOKEN[204]: 0.0012335    2 womanhood
+	womanhood WORD[204,   1]: 0.0006168 女ざかり
+	womanhood WORD[204,   2]: 0.0006168 女盛り
+TOKEN[205]: 0.0012317    1 wooden
+	wooden WORD[205,   1]: 0.0012317 女木
+TOKEN[206]: 0.0012274    1 born
+	born WORD[206,   1]: 0.0012274 年女
+TOKEN[207]: 0.0012218    2 attractive
+	attractive WORD[207,   1]: 0.0007393 女好き
+	attractive WORD[207,   2]: 0.0004825 熟女
+TOKEN[208]: 0.0012194    2 planter
+	planter WORD[208,   1]: 0.0006097 早乙女
+	planter WORD[208,   2]: 0.0006097 早少女
+TOKEN[209]: 0.0012186    1 radical
+	radical WORD[209,   1]: 0.0012186 女偏
+TOKEN[210]: 0.0012115    1 former
+	former WORD[210,   1]: 0.0012115 元彼女
+TOKEN[211]: 0.0012110    1 God
+	God WORD[211,   1]: 0.0006055 皇女
+TOKEN[212]: 0.0012018    1 bow
+	bow WORD[212,   1]: 0.0012018 梓巫女
+TOKEN[213]: 0.0011986    2 article
+	article WORD[213,   1]: 0.0005993 女持
+	article WORD[213,   2]: 0.0005993 女持ち
+TOKEN[214]: 0.0011963    1 mother
+	mother WORD[214,   1]: 0.0011963 女親
+TOKEN[215]: 0.0011596    2 mistress
+	mistress WORD[215,   1]: 0.0007410 側女
+	mistress WORD[215,   2]: 0.0004186 女将
+TOKEN[216]: 0.0011588    1 string
+	string WORD[216,   1]: 0.0011588 梓巫女
+TOKEN[217]: 0.0011489    1 sylph
+	sylph WORD[217,   1]: 0.0011489 手弱女
+TOKEN[218]: 0.0011323    1 matrilinear
+	matrilinear WORD[218,   1]: 0.0011323 女系
+TOKEN[219]: 0.0011283    1 vagina
+	vagina WORD[219,   1]: 0.0005642 女子
+TOKEN[220]: 0.0011258    2 left
+	left WORD[220,   1]: 0.0005629 女結び
+	left WORD[220,   2]: 0.0005629 女偏
+TOKEN[221]: 0.0011244    1 current
+	current WORD[221,   1]: 0.0011244 年女
+TOKEN[222]: 0.0011086    1 femicide
+	femicide WORD[222,   1]: 0.0011086 女殺し
+TOKEN[223]: 0.0011050    1 sign
+	sign WORD[223,   1]: 0.0011050 年女
+TOKEN[224]: 0.0011042    1 scabious
+	scabious WORD[224,   1]: 0.0011042 女郎花
+TOKEN[225]: 0.0010804    1 procurer
+	procurer WORD[225,   1]: 0.0010804 女衒
+TOKEN[226]: 0.0010732    1 Simon
+	Simon WORD[226,   1]: 0.0010732 女竹
+TOKEN[227]: 0.0010704    1 madwoman
+	madwoman WORD[227,   1]: 0.0010704 狂女
+TOKEN[228]: 0.0010676    1 emperor
+	emperor WORD[228,   1]: 0.0005338 皇女
+TOKEN[229]: 0.0010574    1 keener
+	keener WORD[229,   1]: 0.0010574 泣き女
+TOKEN[230]: 0.0010518    1 ogress
+	ogress WORD[230,   1]: 0.0010518 鬼女
+TOKEN[231]: 0.0010458    1 misogynist
+	misogynist WORD[231,   1]: 0.0010458 女嫌い
+TOKEN[232]: 0.0010369    2 worker
+	worker WORD[232,   1]: 0.0006574 女工
+	worker WORD[232,   2]: 0.0003795 女手
+TOKEN[233]: 0.0010280    2 queen
+	queen WORD[233,   1]: 0.0005140 女王
+	queen WORD[233,   2]: 0.0005140 女皇
+TOKEN[234]: 0.0010179    1 mourner
+	mourner WORD[234,   1]: 0.0010179 泣き女
+TOKEN[235]: 0.0010109    1 Pinus
+	Pinus WORD[235,   1]: 0.0010109 女松
+TOKEN[236]: 0.0010091    1 lustful
+	lustful WORD[236,   1]: 0.0010091 女好き
+TOKEN[237]: 0.0010090    1 misogyny
+	misogyny WORD[237,   1]: 0.0010090 女嫌い
+TOKEN[238]: 0.0010041    1 ama
+	ama WORD[238,   1]: 0.0010041 海女
+TOKEN[239]: 0.0010017    2 head
+	head WORD[239,   1]: 0.0005020 女狂い
+	head WORD[239,   2]: 0.0004997 大原女
+TOKEN[240]: 0.0010010    1 assist
+	assist WORD[240,   1]: 0.0010010 湯女
+TOKEN[241]: 0.0009694    1 affectionate
+	affectionate WORD[241,   1]: 0.0009694 優女
+TOKEN[242]: 0.0009643    2 love
+	love WORD[242,   1]: 0.0005603 女色
+	love WORD[242,   2]: 0.0004040 女房
+TOKEN[243]: 0.0009632    1 pimp
+	pimp WORD[243,   1]: 0.0009632 女衒
+TOKEN[244]: 0.0009574    1 demoness
+	demoness WORD[244,   1]: 0.0009574 鬼女
+TOKEN[245]: 0.0009519    1 elf
+	elf WORD[245,   1]: 0.0009519 仙女
+TOKEN[246]: 0.0009399    1 Vega
+	Vega WORD[246,   1]: 0.0009399 棚機津女
+TOKEN[247]: 0.0009364    1 pious
+	pious WORD[247,   1]: 0.0009364 善女
+TOKEN[248]: 0.0009337    1 folklore
+	folklore WORD[248,   1]: 0.0009337 雪女
+TOKEN[249]: 0.0009333    1 child
+	child WORD[249,   1]: 0.0004666 皇女
+TOKEN[250]: 0.0009273    2 artist
+	artist WORD[250,   1]: 0.0004637 女流
+	artist WORD[250,   2]: 0.0004636 女史
+TOKEN[251]: 0.0009202    1 admirer
+	admirer WORD[251,   1]: 0.0009202 女好き
+TOKEN[252]: 0.0009129    1 weaver
+	weaver WORD[252,   1]: 0.0009129 棚機津女
+TOKEN[253]: 0.0009127    1 people
+	people WORD[253,   1]: 0.0009127 女真
+TOKEN[254]: 0.0009086    1 waterfall
+	waterfall WORD[254,   1]: 0.0009086 女滝
+TOKEN[255]: 0.0008983    1 devotee
+	devotee WORD[255,   1]: 0.0008983 信女
+TOKEN[256]: 0.0008915    1 granny
+	granny WORD[256,   1]: 0.0008915 女結び
+TOKEN[257]: 0.0008914    1 infatuation
+	infatuation WORD[257,   1]: 0.0008914 女狂い
+TOKEN[258]: 0.0008838    1 Amazon
+	Amazon WORD[258,   1]: 0.0008838 女傑
+TOKEN[259]: 0.0008835    1 murderer
+	murderer WORD[259,   1]: 0.0008835 女殺し
+TOKEN[260]: 0.0008831    1 believer
+	believer WORD[260,   1]: 0.0008831 信女
+TOKEN[261]: 0.0008736    1 womankind
+	womankind WORD[261,   1]: 0.0008736 婦女
+TOKEN[262]: 0.0008661    1 saint
+	saint WORD[262,   1]: 0.0008661 聖女
+TOKEN[263]: 0.0008604    1 honey
+	honey WORD[263,   1]: 0.0004302 貴女
+TOKEN[264]: 0.0008599    1 lace
+	lace WORD[264,   1]: 0.0008599 女郎花
+TOKEN[265]: 0.0008544    1 sin
+	sin WORD[265,   1]: 0.0008544 女犯
+TOKEN[266]: 0.0008480    1 faithful
+	faithful WORD[266,   1]: 0.0008480 貞女
+TOKEN[267]: 0.0008426    1 convict
+	convict WORD[267,   1]: 0.0008426 女囚
+TOKEN[268]: 0.0008408    1 gentle
+	gentle WORD[268,   1]: 0.0008408 優女
+TOKEN[269]: 0.0008380    1 peddler
+	peddler WORD[269,   1]: 0.0008380 大原女
+TOKEN[270]: 0.0008339    1 umbrella
+	umbrella WORD[270,   1]: 0.0008339 女松
+TOKEN[271]: 0.0008272    1 deity
+	deity WORD[271,   1]: 0.0004136 女神
+TOKEN[272]: 0.0008158    1 virtuous
+	virtuous WORD[272,   1]: 0.0008158 貞女
+TOKEN[273]: 0.0008155    1 dear
+	dear WORD[273,   1]: 0.0004077 貴女
+TOKEN[274]: 0.0008074    1 prostitution
+	prostitution WORD[274,   1]: 0.0008074 女衒
+TOKEN[275]: 0.0008015    1 lance
+	lance WORD[275,   1]: 0.0008015 小女子
+TOKEN[276]: 0.0008006    1 celestial
+	celestial WORD[276,   1]: 0.0008006 天女
+TOKEN[277]: 0.0007991    1 harlot
+	harlot WORD[277,   1]: 0.0007991 遊女
+TOKEN[278]: 0.0007976    1 fondness
+	fondness WORD[278,   1]: 0.0007976 女好き
+TOKEN[279]: 0.0007954    1 fairy
+	fairy WORD[279,   1]: 0.0007954 仙女
+TOKEN[280]: 0.0007896    1 filial
+	filial WORD[280,   1]: 0.0007896 孝女
+TOKEN[281]: 0.0007876    1 holy
+	holy WORD[281,   1]: 0.0007876 聖女
+TOKEN[282]: 0.0007820    1 diver
+	diver WORD[282,   1]: 0.0007820 海女
+TOKEN[283]: 0.0007816    1 reef
+	reef WORD[283,   1]: 0.0007816 女結び
+TOKEN[284]: 0.0007785    1 lust
+	lust WORD[284,   1]: 0.0007785 女色
+TOKEN[285]: 0.0007746    1 clothing
+	clothing WORD[285,   1]: 0.0007746 女装
+TOKEN[286]: 0.0007618    1 factory
+	factory WORD[286,   1]: 0.0007618 女工
+TOKEN[287]: 0.0007600    1 loop
+	loop WORD[287,   1]: 0.0007600 女結び
+TOKEN[288]: 0.0007593    1 mullet
+	mullet WORD[288,   1]: 0.0007593 未通女
+TOKEN[289]: 0.0007540    1 worked
+	worked WORD[289,   1]: 0.0007540 浮かれ女
+TOKEN[290]: 0.0007489    1 sticks
+	sticks WORD[290,   1]: 0.0007489 大原女
+TOKEN[291]: 0.0007473    1 ladies
+	ladies WORD[291,   1]: 0.0007473 女殺し
+TOKEN[292]: 0.0007465    1 prisoner
+	prisoner WORD[292,   1]: 0.0007465 女囚
+TOKEN[293]: 0.0007410    1 kept
+	kept WORD[293,   1]: 0.0007410 側女
+TOKEN[294]: 0.0007319    1 murder
+	murder WORD[294,   1]: 0.0007319 女殺し
+TOKEN[295]: 0.0007292    1 demon
+	demon WORD[295,   1]: 0.0007292 醜女
+TOKEN[296]: 0.0007271    1 bundle
+	bundle WORD[296,   1]: 0.0007271 大原女
+TOKEN[297]: 0.0007269    1 professional
+	professional WORD[297,   1]: 0.0007269 泣き女
+TOKEN[298]: 0.0007184    1 affair
+	affair WORD[298,   1]: 0.0007184 女色
+TOKEN[299]: 0.0007170    1 title
+	title WORD[299,   1]: 0.0007170 女院
+TOKEN[300]: 0.0007127    2 second
+	second WORD[300,   1]: 0.0003564 二女
+	second WORD[300,   2]: 0.0003564 次女
+TOKEN[301]: 0.0007104    1 snow
+	snow WORD[301,   1]: 0.0007104 雪女
+TOKEN[302]: 0.0007050    1 respect
+	respect WORD[302,   1]: 0.0007050 女尊
+TOKEN[303]: 0.0007034    1 nature
+	nature WORD[303,   1]: 0.0003517 女気
+TOKEN[304]: 0.0007020    1 produced
+	produced WORD[304,   1]: 0.0007020 女腹
+TOKEN[305]: 0.0006963    1 entertainer
+	entertainer WORD[305,   1]: 0.0006963 妓女
+TOKEN[306]: 0.0006926    1 priest
+	priest WORD[306,   1]: 0.0006926 女犯
+TOKEN[307]: 0.0006870    1 attache
+	attache WORD[307,   1]: 0.0006870 女房
+TOKEN[308]: 0.0006843    1 clever
+	clever WORD[308,   1]: 0.0006843 賢女
+TOKEN[309]: 0.0006829    1 foster
+	foster WORD[309,   1]: 0.0006829 養女
+TOKEN[310]: 0.0006819    1 bamboo
+	bamboo WORD[310,   1]: 0.0006819 女竹
+TOKEN[311]: 0.0006733    1 waiting
+	waiting WORD[311,   1]: 0.0006733 侍女
+TOKEN[312]: 0.0006731    1 little
+	little WORD[312,   1]: 0.0006731 幼女
+TOKEN[313]: 0.0006688    1 leading
+	leading WORD[313,   1]: 0.0006688 立女形
+TOKEN[314]: 0.0006661    1 doctor
+	doctor WORD[314,   1]: 0.0006661 女医
+TOKEN[315]: 0.0006661    1 wise
+	wise WORD[315,   1]: 0.0006661 賢女
+TOKEN[316]: 0.0006660    1 naive
+	naive WORD[316,   1]: 0.0006660 未通女
+TOKEN[317]: 0.0006659    1 adopted
+	adopted WORD[317,   1]: 0.0006659 養女
+TOKEN[318]: 0.0006651    1 golden
+	golden WORD[318,   1]: 0.0006651 女郎花
+TOKEN[319]: 0.0006610    1 losing
+	losing WORD[319,   1]: 0.0006610 女狂い
+TOKEN[320]: 0.0006603    1 inexperienced
+	inexperienced WORD[320,   1]: 0.0006603 未通女
+TOKEN[321]: 0.0006598    2 traditional
+	traditional WORD[321,   1]: 0.0003497 女中
+	traditional WORD[321,   2]: 0.0003101 女将
+TOKEN[322]: 0.0006595    1 aviator
+	aviator WORD[322,   1]: 0.0006595 女流
+TOKEN[323]: 0.0006562    1 striped
+	striped WORD[323,   1]: 0.0006562 未通女
+TOKEN[324]: 0.0006545    1 lay
+	lay WORD[324,   1]: 0.0006545 信女
+TOKEN[325]: 0.0006538    1 selling
+	selling WORD[325,   1]: 0.0006538 女衒
+TOKEN[326]: 0.0006535    1 married
+	married WORD[326,   1]: 0.0006535 鬼女
+TOKEN[327]: 0.0006505    1 sexual
+	sexual WORD[327,   1]: 0.0006505 女犯
+TOKEN[328]: 0.0006478    2 word
+	word WORD[328,   1]: 0.0003239 女ことば
+	word WORD[328,   2]: 0.0003239 女言葉
+TOKEN[329]: 0.0006478    1 star
+	star WORD[329,   1]: 0.0006478 棚機津女
+TOKEN[330]: 0.0006454    1 sand
+	sand WORD[330,   1]: 0.0006454 小女子
+TOKEN[331]: 0.0006430    1 yellow
+	yellow WORD[331,   1]: 0.0006430 女郎花
+TOKEN[332]: 0.0006388    1 starting
+	starting WORD[332,   1]: 0.0006388 女結び
+TOKEN[333]: 0.0006332    1 seaweed
+	seaweed WORD[333,   1]: 0.0006332 海女
+TOKEN[334]: 0.0006321    1 brave
+	brave WORD[334,   1]: 0.0006321 女傑
+TOKEN[335]: 0.0006259    1 red
+	red WORD[335,   1]: 0.0006259 女松
+TOKEN[336]: 0.0006257    1 square
+	square WORD[336,   1]: 0.0006257 女結び
+TOKEN[337]: 0.0006230    1 innocent
+	innocent WORD[337,   1]: 0.0006230 未通女
+TOKEN[338]: 0.0006055    1 unspoiled
+	unspoiled WORD[338,   1]: 0.0006055 処女
+TOKEN[339]: 0.0006014    1 housemaid
+	housemaid WORD[339,   1]: 0.0006014 女中
+TOKEN[340]: 0.0006014    1 schoolgirl
+	schoolgirl WORD[340,   1]: 0.0006014 女児
+TOKEN[341]: 0.0006014    1 Mrs
+	Mrs WORD[341,   1]: 0.0006014 女史
+TOKEN[342]: 0.0006013    2 rice
+	rice WORD[342,   1]: 0.0003006 早乙女
+	rice WORD[342,   2]: 0.0003006 早少女
+TOKEN[343]: 0.0006005    1 Buddhist
+	Buddhist WORD[343,   1]: 0.0006005 女犯
+TOKEN[344]: 0.0005991    2 language
+	language WORD[344,   1]: 0.0002995 女ことば
+	language WORD[344,   2]: 0.0002995 女言葉
+TOKEN[345]: 0.0005846    1 innkeeper
+	innkeeper WORD[345,   1]: 0.0005846 女将
+TOKEN[346]: 0.0005812    1 living
+	living WORD[346,   1]: 0.0005812 女衒
+TOKEN[347]: 0.0005781    1 sons
+	sons WORD[347,   1]: 0.0005781 子女
+TOKEN[348]: 0.0005725    1 pervert
+	pervert WORD[348,   1]: 0.0005725 淑女
+TOKEN[349]: 0.0005683    1 critic
+	critic WORD[349,   1]: 0.0005683 女史
+TOKEN[350]: 0.0005528    1 song
+	song WORD[350,   1]: 0.0005528 歌い女
+TOKEN[351]: 0.0005502    1 actress
+	actress WORD[351,   1]: 0.0005502 女優
+TOKEN[352]: 0.0005415    1 politician
+	politician WORD[352,   1]: 0.0005415 女史
+TOKEN[353]: 0.0005364    1 easier
+	easier WORD[353,   1]: 0.0005364 女坂
+TOKEN[354]: 0.0005254    1 body
+	body WORD[354,   1]: 0.0005254 女体
+TOKEN[355]: 0.0005229    1 line
+	line WORD[355,   1]: 0.0005229 女系
+TOKEN[356]: 0.0005165    1 beggar
+	beggar WORD[356,   1]: 0.0005165 瞽女
+TOKEN[357]: 0.0005161    1 debut
+	debut WORD[357,   1]: 0.0005161 処女
+TOKEN[358]: 0.0005140    1 gender
+	gender WORD[358,   1]: 0.0005140 女性
+TOKEN[359]: 0.0005125    1 voyage
+	voyage WORD[359,   1]: 0.0005125 処女
+TOKEN[360]: 0.0005091    1 champion
+	champion WORD[360,   1]: 0.0005091 女王
+TOKEN[361]: 0.0004952    1 palace
+	palace WORD[361,   1]: 0.0004952 女房
+TOKEN[362]: 0.0004946    1 sun
+	sun WORD[362,   1]: 0.0004946 日女
+TOKEN[363]: 0.0004917    1 scholar
+	scholar WORD[363,   1]: 0.0004917 女史
+TOKEN[364]: 0.0004887    1 hiragana
+	hiragana WORD[364,   1]: 0.0004887 女手
+TOKEN[365]: 0.0004852    1 romantic
+	romantic WORD[365,   1]: 0.0004852 女難
+TOKEN[366]: 0.0004821    1 pupil
+	pupil WORD[366,   1]: 0.0004821 女児
+TOKEN[367]: 0.0004798    1 itch
+	itch WORD[367,   1]: 0.0004798 女癖
+TOKEN[368]: 0.0004734    1 character
+	character WORD[368,   1]: 0.0004734 女傑
+TOKEN[369]: 0.0004722    1 dressing
+	dressing WORD[369,   1]: 0.0004722 女装
+TOKEN[370]: 0.0004644    1 writer
+	writer WORD[370,   1]: 0.0004644 女流
+TOKEN[371]: 0.0004632    1 talented
+	talented WORD[371,   1]: 0.0004632 才女
+TOKEN[372]: 0.0004581    1 psychology
+	psychology WORD[372,   1]: 0.0004581 女心
+TOKEN[373]: 0.0004577    1 system
+	system WORD[373,   1]: 0.0004577 采女
+TOKEN[374]: 0.0004549    1 brought
+	brought WORD[374,   1]: 0.0004549 女難
+TOKEN[375]: 0.0004389    1 interest
+	interest WORD[375,   1]: 0.0004389 女房
+TOKEN[376]: 0.0004342    1 handwriting
+	handwriting WORD[376,   1]: 0.0004342 女手
+TOKEN[377]: 0.0004341    1 forest
+	forest WORD[377,   1]: 0.0004341 処女
+TOKEN[378]: 0.0004333    1 wearing
+	wearing WORD[378,   1]: 0.0004333 女装
+TOKEN[379]: 0.0004301    1 activity
+	activity WORD[379,   1]: 0.0004301 処女
+TOKEN[380]: 0.0004299    1 status
+	status WORD[380,   1]: 0.0004299 女史
+TOKEN[381]: 0.0004295    1 cross
+	cross WORD[381,   1]: 0.0004295 女装
+TOKEN[382]: 0.0004169    1 older
+	older WORD[382,   1]: 0.0004169 熟女
+TOKEN[383]: 0.0004138    1 someone
+	someone WORD[383,   1]: 0.0004138 女衒
+TOKEN[384]: 0.0004073    1 wicked
+	wicked WORD[384,   1]: 0.0004073 悪女
+TOKEN[385]: 0.0003972    1 presence
+	presence WORD[385,   1]: 0.0003972 女っ気
+TOKEN[386]: 0.0003938    1 trouble
+	trouble WORD[386,   1]: 0.0003938 女難
+TOKEN[387]: 0.0003924    1 human
+	human WORD[387,   1]: 0.0003924 処女
+TOKEN[388]: 0.0003819    1 social
+	social WORD[388,   1]: 0.0003819 女史
+TOKEN[389]: 0.0003782    1 labour
+	labour WORD[389,   1]: 0.0003782 女手
+TOKEN[390]: 0.0003749    1 voice
+	voice WORD[390,   1]: 0.0003749 女声
+TOKEN[391]: 0.0003747    1 labor
+	labor WORD[391,   1]: 0.0003747 女手
+TOKEN[392]: 0.0003526    1 help
+	help WORD[392,   1]: 0.0003526 女手
+TOKEN[393]: 0.0003393    1 shop
+	shop WORD[393,   1]: 0.0003393 女将
+TOKEN[394]: 0.0003320    1 high
+	high WORD[394,   1]: 0.0003320 女史
+TOKEN[395]: 0.0003276    1 goods
+	goods WORD[395,   1]: 0.0003276 女物
+TOKEN[396]: 0.0003188    1 heart
+	heart WORD[396,   1]: 0.0003188 女心

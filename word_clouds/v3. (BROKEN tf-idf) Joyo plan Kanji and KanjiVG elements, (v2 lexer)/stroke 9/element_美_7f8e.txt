@@ -1,0 +1,843 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0539081   36 beautiful      : 美婦, 美ら, 美眉, 美髪, 美品, 洵美, 美形, 美乳, 美脚, 艶美, ...
+0.0467046    4 discipline     : 躾ける, 躾る, 躾, 躾け
+0.0456778    3 made           : 軽羹, 羊羹, 羹
+0.0444956    4 manners        : 躾ける, 躾る, 躾, 躾け
+0.0347565    2 impolite       : 不躾, 無躾
+0.0329629    1 bun            : 軽羹
+0.0328786    1 yam            : 軽羹
+0.0323331   15 beauty         : 美婦, 美容, 美神, 醇美, 純美, 美感, 美形, 壮美, 精美, 美姫, ...
+0.0317377    2 insolent       : 不躾, 無躾
+0.0302931    2 impudent       : 不躾, 無躾
+0.0299689    2 rude           : 不躾, 無躾
+0.0295321    2 blunt          : 不躾, 無躾
+0.0288916    1 flour          : 軽羹
+0.0276592    4 sweet          : 軽羹, 甘美, 美音, 美しい
+0.0255397    2 teach          : 躾ける, 躾る
+0.0252618    1 jellied        : 羊羹
+0.0252618    1 agar           : 羊羹
+0.0225473    2 teaching       : 躾, 躾け
+0.0214525    1 dessert        : 羊羹
+0.0205407    1 rice           : 軽羹
+0.0201215    3 training       : 躾, 躾け, 美育
+0.0183187    4 woman          : 美婦, 美人局, 美人, 美女
+0.0183136    2 train          : 躾ける, 躾る
+0.0169985    1 bean           : 羊羹
+0.0168824    1 sugar          : 羊羹
+0.0168202    1 paste          : 羊羹
+0.0141722    1 red            : 羊羹
+0.0099697    1 fish           : 羹
+0.0078968    4 virtue         : 済美, 美点, 美徳, 美質
+0.0071996   12 good           : 美名, 美味い, 美い, 美味, 美点, 善美, 美果, 美容, 美貌, 美風, ...
+0.0062391    1 item           : 美品
+0.0053992    8 fine           : 美服, 美装, 美俗, 美事, 美風, 美術, 美技, 美観
+0.0038017    4 aesthetic      : 美感, 美育, 審美, 美的
+0.0033346    6 praise         : 溢美, 称美, 賞美, 讃美, 讚美, 賛美
+0.0029869    2 exquisite      : 洵美, 美妙
+0.0029830    5 delicious      : 美果, 美食, 美味しい, 美味い, 美い
+0.0029140    1 mint           : 美品
+0.0028902    2 name           : 美名, 美称
+0.0028166    2 skin           : 美白, 美肌
+0.0024723    4 glorification  : 美化, 讃美, 讚美, 賛美
+0.0024543    2 custom         : 美風, 美俗
+0.0024516    1 hair           : 美髪
+0.0021860    2 goddess        : 伊邪那美, 美神
+0.0021563    1 condition      : 美品
+0.0021316    2 dressing       : 美装, 美粧
+0.0020945    1 sense          : 美感
+0.0020428    3 man            : 美人局, 美形, 美男
+0.0019761    2 gorgeousness   : 花美, 華美
+0.0019260    3 extolment      : 讃美, 讚美, 賛美
+0.0019215    4 admiration     : 嘆美, 歎美, 称美, 賞美
+0.0018974    3 tasty          : 美味しい, 美味い, 美い
+0.0018575    2 gaudiness      : 花美, 華美
+0.0018575    2 pomp           : 花美, 華美
+0.0018202    1 whitening      : 美白
+0.0017881    2 magnificence   : 花美, 華美
+0.0017591    3 splendid       : 美事, 美味い, 美い
+0.0017380    3 appreciation   : 審美, 称美, 賞美
+0.0017358    3 trick          : 美人局, 美味い, 美い
+0.0017252    2 flowery        : 美辞, 美文
+0.0017187    2 showiness      : 花美, 華美
+0.0017144    2 aesthetics     : 美育, 美学
+0.0017103    3 profitable     : 美味しい, 美味い, 美い
+0.0016558    2 extravagance   : 花美, 華美
+0.0016225    3 excellent      : 美事, 美果, 美技
+0.0016214    3 nice           : 美味しい, 美味い, 美い
+0.0016098    2 splendor       : 花美, 華美
+0.0015848    1 tale           : 美談
+0.0015322    1 used           : 美品
+0.0015296    2 beautification : 美容, 美化
+0.0015294    1 gourmet        : 美食
+0.0015054    2 handsome       : 美形, 美男
+0.0014814    2 luxury         : 花美, 華美
+0.0014326    2 absolute       : 醇美, 純美
+0.0014166    2 magnificent    : 壮美, 美事
+0.0013980    3 face           : 美形, 美貌, 美顔
+0.0013497    2 fortunate      : 美味い, 美い
+0.0013497    2 apt            : 美味い, 美い
+0.0013420    2 classical      : 醇美, 純美
+0.0013239    2 promising      : 美味い, 美い
+0.0013200    2 satisfactory   : 美味い, 美い
+0.0012746    2 voice          : 美声, 美音
+0.0012474    2 skillful       : 美味い, 美い
+0.0012317    1 eulogistic     : 美称
+0.0012276    1 teeth          : 美白
+0.0012189    2 appropriate    : 美味い, 美い
+0.0012149    2 successful     : 美味い, 美い
+0.0012109    2 scenery        : 美景, 明美
+0.0012063    1 clothing       : 美服
+0.0012018    2 expert         : 美味い, 美い
+0.0012000    2 clever         : 美味い, 美い
+0.0011999    1 dress          : 美装
+0.0011832    2 skilled        : 美味い, 美い
+0.0011604    1 food           : 美食
+0.0011322    2 lucky          : 美味い, 美い
+0.0011278    1 Shinto         : 伊邪那美
+0.0011183    1 attendant      : 美女
+0.0011154    1 commendable    : 美挙
+0.0011066    2 adoration      : 嘆美, 歎美
+0.0010876    1 belle          : 美形
+0.0010811    2 deal           : 美味い, 美い
+0.0010676    1 lady           : 美女
+0.0010660    1 exquisiteness  : 精美
+0.0010648    2 province       : 美作, 美濃
+0.0010581    1 compromising   : 美人局
+0.0010554    2 idea           : 美味い, 美い
+0.0010409    2 sight          : 美事, 美観
+0.0010384    1 mellifluous    : 甘美
+0.0010384    1 luscious       : 甘美
+0.0010241    2 expression     : 美味い, 美い
+0.0010218    1 august         : 美
+0.0010068    1 white          : 美白
+0.0010061    1 great          : 美脚
+0.0010028    1 university     : 美大
+0.0010000    1 euphemism      : 美称
+0.0009853    1 praiseworthy   : 美挙
+0.0009662    1 productive     : 美田
+0.0009470    2 former         : 美作, 美濃
+0.0009450    1 daintiness     : 優美
+0.0009347    1 blackmail      : 美人局
+0.0009274    1 fertile        : 美田
+0.0009182    1 sublime        : 壮美
+0.0009117    2 appearance     : 美容, 美醜
+0.0008954    2 art            : 美大, 美術
+0.0008894    1 impressive     : 美談
+0.0008879    1 Venus          : 美神
+0.0008828    1 badger         : 美人局
+0.0008612    1 undertaking    : 美挙
+0.0008433    1 voluptuous     : 艶美
+0.0008422    1 poetic         : 美称
+0.0008284    1 pretext        : 美名
+0.0008240    1 merit          : 美点
+0.0008236    1 cultural       : 美育
+0.0008178    1 elegant        : 美妙
+0.0008079    1 salary         : 美禄
+0.0008018    1 undeserved     : 溢美
+0.0007932    1 mellow         : 甘美
+0.0007849    1 supreme        : 精美
+0.0007843    1 delightful     : 甘美
+0.0007825    2 pure           : 清美, 美しい
+0.0007647    1 epicure        : 美食
+0.0007647    1 ugliness       : 美醜
+0.0007642    1 charm          : 美点
+0.0007566    1 reputation     : 美名
+0.0007481    1 prose          : 美文
+0.0007439    1 scheme         : 美人局
+0.0007296    1 northeast      : 美作
+0.0007276    1 melody         : 甘美
+0.0007129    1 education      : 美育
+0.0007120    1 geisha         : 美妓
+0.0007095    1 moving         : 美談
+0.0007057    1 alcohol        : 美禄
+0.0007023    1 admirable      : 美事
+0.0006936    1 spectacle      : 美事
+0.0006850    1 elegance       : 優美
+0.0006715    1 god            : 美神
+0.0006657    1 aestheticism   : 耽美
+0.0006601    1 study          : 美育
+0.0006590    1 gorgeous       : 美麗
+0.0006512    1 pleasant       : 甘美
+0.0006480    1 maiden         : 美姫
+0.0006445    1 refinement     : 優美
+0.0006420    1 dream          : 甘美
+0.0006315    1 act            : 美挙
+0.0006307    1 superb         : 美事
+0.0006302    1 lavish         : 美食
+0.0006273    1 utter          : 美事
+0.0006246    1 field          : 美田
+0.0006228    1 outcome        : 美果
+0.0006189    1 excessive      : 溢美
+0.0006080    1 dining         : 美食
+0.0006014    1 south          : 美濃
+0.0005967    1 grace          : 優美
+0.0005956    1 situation      : 美人局
+0.0005903    1 reward         : 褒美
+0.0005840    1 diet           : 美食
+0.0005793    1 taste          : 甘美
+0.0005660    1 high           : 美禄
+0.0005640    1 obsession      : 耽美
+0.0005630    1 language       : 美辞
+0.0005561    1 point          : 美点
+0.0005535    1 worth          : 美事
+0.0005528    1 seeing         : 美事
+0.0005468    1 prize          : 褒美
+0.0005439    1 game           : 美人局
+0.0005385    1 dainty         : 美味
+0.0005329    1 defeat         : 美事
+0.0005326    1 pursuit        : 耽美
+0.0005301    1 culture        : 美容
+0.0005257    1 college        : 美大
+0.0005226    1 result         : 美果
+0.0005220    1 appealing      : 美味しい
+0.0005211    1 sky            : 美空
+0.0005172    1 total          : 美事
+0.0005066    1 following      : 美食
+0.0005020    1 treatment      : 美容
+0.0004926    1 fruit          : 美果
+0.0004892    1 complete       : 美事
+0.0004873    1 true           : 真美
+0.0004819    1 figure         : 美容
+0.0004805    1 desirable      : 美味しい
+0.0004802    1 picturesque    : 明美
+0.0004764    1 delicacy       : 美味
+0.0004698    1 performance    : 美技
+0.0004660    1 whale          : 背美鯨
+0.0004582    1 personal       : 美醜
+0.0004561    1 view           : 美観
+0.0004402    1 sake           : 美酒
+0.0004376    1 living         : 美食
+0.0004329    1 convenient     : 美味しい
+0.0004258    1 play           : 美技
+0.0004243    1 attractive     : 美味しい
+0.0004192    1 favorable      : 美味しい
+0.0004076    1 flavour        : 美味
+0.0004034    1 friendship     : 美しい
+0.0004006    1 flavor         : 美味
+0.0003946    1 japonica       : 背美鯨
+0.0003861    1 offer          : 美味しい
+0.0003666    1 opportunity    : 美味しい
+0.0003546    1 right          : 背美鯨
+0.0003344    1 something      : 美事
+0.0003069    1 heart          : 美しい
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0539081   36 beautiful
+	beautiful WORD[ 1,   1]: 0.0196687 美婦
+	beautiful WORD[ 1,   2]: 0.0044827 美ら
+	beautiful WORD[ 1,   3]: 0.0035269 美眉
+	beautiful WORD[ 1,   4]: 0.0027434 美髪
+	beautiful WORD[ 1,   5]: 0.0020867 美品
+	beautiful WORD[ 1,   6]: 0.0014798 洵美
+	beautiful WORD[ 1,   7]: 0.0013341 美形
+	beautiful WORD[ 1,   8]: 0.0012007 美乳
+	beautiful WORD[ 1,   9]: 0.0012001 美脚
+	beautiful WORD[ 1,  10]: 0.0011179 艶美
+	beautiful WORD[ 1,  11]: 0.0009384 美容
+	beautiful WORD[ 1,  12]: 0.0008395 美尻
+	beautiful WORD[ 1,  13]: 0.0006824 美名
+	beautiful WORD[ 1,  14]: 0.0006818 美々しい
+	beautiful WORD[ 1,  15]: 0.0006818 美美しい
+	beautiful WORD[ 1,  16]: 0.0006810 美肌
+	beautiful WORD[ 1,  17]: 0.0006715 美声
+	beautiful WORD[ 1,  18]: 0.0006699 美粧
+	beautiful WORD[ 1,  19]: 0.0006682 美妓
+	beautiful WORD[ 1,  20]: 0.0006670 美景
+	beautiful WORD[ 1,  21]: 0.0005188 善美
+	beautiful WORD[ 1,  22]: 0.0004949 美空
+	beautiful WORD[ 1,  23]: 0.0004938 美事
+	beautiful WORD[ 1,  24]: 0.0004933 美姫
+	beautiful WORD[ 1,  25]: 0.0004692 美麗
+	beautiful WORD[ 1,  26]: 0.0004691 美貌
+	beautiful WORD[ 1,  27]: 0.0004691 美風
+	beautiful WORD[ 1,  28]: 0.0004690 美人
+	beautiful WORD[ 1,  29]: 0.0004690 美女
+	beautiful WORD[ 1,  30]: 0.0004689 美顔
+	beautiful WORD[ 1,  31]: 0.0004689 美観
+	beautiful WORD[ 1,  32]: 0.0004083 耽美
+	beautiful WORD[ 1,  33]: 0.0003672 清美
+	beautiful WORD[ 1,  34]: 0.0003422 美
+	beautiful WORD[ 1,  35]: 0.0003422 美しい
+	beautiful WORD[ 1,  36]: 0.0003304 明美
+TOKEN[ 2]: 0.0467046    4 discipline
+	discipline WORD[ 2,   1]: 0.0116763 躾ける
+	discipline WORD[ 2,   2]: 0.0116763 躾る
+	discipline WORD[ 2,   3]: 0.0116760 躾
+	discipline WORD[ 2,   4]: 0.0116760 躾け
+TOKEN[ 3]: 0.0456778    3 made
+	made WORD[ 3,   1]: 0.0218701 軽羹
+	made WORD[ 3,   2]: 0.0134931 羊羹
+	made WORD[ 3,   3]: 0.0103146 羹
+TOKEN[ 4]: 0.0444956    4 manners
+	manners WORD[ 4,   1]: 0.0111240 躾ける
+	manners WORD[ 4,   2]: 0.0111240 躾る
+	manners WORD[ 4,   3]: 0.0111238 躾
+	manners WORD[ 4,   4]: 0.0111238 躾け
+TOKEN[ 5]: 0.0347565    2 impolite
+	impolite WORD[ 5,   1]: 0.0173783 不躾
+	impolite WORD[ 5,   2]: 0.0173782 無躾
+TOKEN[ 6]: 0.0329629    1 bun
+	bun WORD[ 6,   1]: 0.0329629 軽羹
+TOKEN[ 7]: 0.0328786    1 yam
+	yam WORD[ 7,   1]: 0.0328786 軽羹
+TOKEN[ 8]: 0.0323331   15 beauty
+	beauty WORD[ 8,   1]: 0.0207416 美婦
+	beauty WORD[ 8,   2]: 0.0014843 美容
+	beauty WORD[ 8,   3]: 0.0014155 美神
+	beauty WORD[ 8,   4]: 0.0012818 醇美
+	beauty WORD[ 8,   5]: 0.0012818 純美
+	beauty WORD[ 8,   6]: 0.0011482 美感
+	beauty WORD[ 8,   7]: 0.0007034 美形
+	beauty WORD[ 8,   8]: 0.0006762 壮美
+	beauty WORD[ 8,   9]: 0.0006480 精美
+	beauty WORD[ 8,  10]: 0.0005202 美姫
+	beauty WORD[ 8,  11]: 0.0005176 真美
+	beauty WORD[ 8,  12]: 0.0004947 美貌
+	beauty WORD[ 8,  13]: 0.0004946 美人
+	beauty WORD[ 8,  14]: 0.0004946 美醜
+	beauty WORD[ 8,  15]: 0.0004305 耽美
+TOKEN[ 9]: 0.0317377    2 insolent
+	insolent WORD[ 9,   1]: 0.0158689 不躾
+	insolent WORD[ 9,   2]: 0.0158688 無躾
+TOKEN[10]: 0.0302931    2 impudent
+	impudent WORD[10,   1]: 0.0151465 不躾
+	impudent WORD[10,   2]: 0.0151465 無躾
+TOKEN[11]: 0.0299689    2 rude
+	rude WORD[11,   1]: 0.0149845 不躾
+	rude WORD[11,   2]: 0.0149845 無躾
+TOKEN[12]: 0.0295321    2 blunt
+	blunt WORD[12,   1]: 0.0147661 不躾
+	blunt WORD[12,   2]: 0.0147660 無躾
+TOKEN[13]: 0.0288916    1 flour
+	flour WORD[13,   1]: 0.0288916 軽羹
+TOKEN[14]: 0.0276592    4 sweet
+	sweet WORD[14,   1]: 0.0255626 軽羹
+	sweet WORD[14,   2]: 0.0011068 甘美
+	sweet WORD[14,   3]: 0.0006544 美音
+	sweet WORD[14,   4]: 0.0003354 美しい
+TOKEN[15]: 0.0255397    2 teach
+	teach WORD[15,   1]: 0.0127699 躾ける
+	teach WORD[15,   2]: 0.0127698 躾る
+TOKEN[16]: 0.0252618    1 jellied
+	jellied WORD[16,   1]: 0.0252618 羊羹
+TOKEN[17]: 0.0252618    1 agar
+	agar WORD[17,   1]: 0.0252618 羊羹
+TOKEN[18]: 0.0225473    2 teaching
+	teaching WORD[18,   1]: 0.0112737 躾
+	teaching WORD[18,   2]: 0.0112737 躾け
+TOKEN[19]: 0.0214525    1 dessert
+	dessert WORD[19,   1]: 0.0214525 羊羹
+TOKEN[20]: 0.0205407    1 rice
+	rice WORD[20,   1]: 0.0205407 軽羹
+TOKEN[21]: 0.0201215    3 training
+	training WORD[21,   1]: 0.0097221 躾
+	training WORD[21,   2]: 0.0097221 躾け
+	training WORD[21,   3]: 0.0006773 美育
+TOKEN[22]: 0.0183187    4 woman
+	woman WORD[22,   1]: 0.0165979 美婦
+	woman WORD[22,   2]: 0.0005335 美人局
+	woman WORD[22,   3]: 0.0003958 美人
+	woman WORD[22,   4]: 0.0003958 美女
+TOKEN[23]: 0.0183136    2 train
+	train WORD[23,   1]: 0.0091568 躾ける
+	train WORD[23,   2]: 0.0091568 躾る
+TOKEN[24]: 0.0169985    1 bean
+	bean WORD[24,   1]: 0.0169985 羊羹
+TOKEN[25]: 0.0168824    1 sugar
+	sugar WORD[25,   1]: 0.0168824 羊羹
+TOKEN[26]: 0.0168202    1 paste
+	paste WORD[26,   1]: 0.0168202 羊羹
+TOKEN[27]: 0.0141722    1 red
+	red WORD[27,   1]: 0.0141722 羊羹
+TOKEN[28]: 0.0099697    1 fish
+	fish WORD[28,   1]: 0.0099697 羹
+TOKEN[29]: 0.0078968    4 virtue
+	virtue WORD[29,   1]: 0.0030160 済美
+	virtue WORD[29,   2]: 0.0007802 美点
+	virtue WORD[29,   3]: 0.0005423 美徳
+	virtue WORD[29,   4]: 0.0005423 美質
+TOKEN[30]: 0.0071996   12 good
+	good WORD[30,   1]: 0.0015156 美名
+	good WORD[30,   2]: 0.0007619 美味い
+	good WORD[30,   3]: 0.0007601 美い
+	good WORD[30,   4]: 0.0005080 美味
+	good WORD[30,   5]: 0.0004995 美点
+	good WORD[30,   6]: 0.0003841 善美
+	good WORD[30,   7]: 0.0003649 美果
+	good WORD[30,   8]: 0.0003474 美容
+	good WORD[30,   9]: 0.0003473 美貌
+	good WORD[30,  10]: 0.0003473 美風
+	good WORD[30,  11]: 0.0003472 美質
+	good WORD[30,  12]: 0.0002561 美味しい
+TOKEN[31]: 0.0062391    1 item
+	item WORD[31,   1]: 0.0062391 美品
+TOKEN[32]: 0.0053992    8 fine
+	fine WORD[32,   1]: 0.0012322 美服
+	fine WORD[32,   2]: 0.0011133 美装
+	fine WORD[32,   3]: 0.0006744 美俗
+	fine WORD[32,   4]: 0.0004958 美事
+	fine WORD[32,   5]: 0.0004710 美風
+	fine WORD[32,   6]: 0.0004709 美術
+	fine WORD[32,   7]: 0.0004708 美技
+	fine WORD[32,   8]: 0.0004708 美観
+TOKEN[33]: 0.0038017    4 aesthetic
+	aesthetic WORD[33,   1]: 0.0014630 美感
+	aesthetic WORD[33,   2]: 0.0008967 美育
+	aesthetic WORD[33,   3]: 0.0008117 審美
+	aesthetic WORD[33,   4]: 0.0006302 美的
+TOKEN[34]: 0.0033346    6 praise
+	praise WORD[34,   1]: 0.0012069 溢美
+	praise WORD[34,   2]: 0.0004292 称美
+	praise WORD[34,   3]: 0.0004292 賞美
+	praise WORD[34,   4]: 0.0004231 讃美
+	praise WORD[34,   5]: 0.0004231 讚美
+	praise WORD[34,   6]: 0.0004231 賛美
+TOKEN[35]: 0.0029869    2 exquisite
+	exquisite WORD[35,   1]: 0.0020443 洵美
+	exquisite WORD[35,   2]: 0.0009426 美妙
+TOKEN[36]: 0.0029830    5 delicious
+	delicious WORD[36,   1]: 0.0006296 美果
+	delicious WORD[36,   2]: 0.0005990 美食
+	delicious WORD[36,   3]: 0.0004419 美味しい
+	delicious WORD[36,   4]: 0.0004382 美味い
+	delicious WORD[36,   5]: 0.0004371 美い
+TOKEN[37]: 0.0029140    1 mint
+	mint WORD[37,   1]: 0.0029140 美品
+TOKEN[38]: 0.0028902    2 name
+	name WORD[38,   1]: 0.0017470 美名
+	name WORD[38,   2]: 0.0011433 美称
+TOKEN[39]: 0.0028166    2 skin
+	skin WORD[39,   1]: 0.0021583 美白
+	skin WORD[39,   2]: 0.0006584 美肌
+TOKEN[40]: 0.0024723    4 glorification
+	glorification WORD[40,   1]: 0.0007158 美化
+	glorification WORD[40,   2]: 0.0005855 讃美
+	glorification WORD[40,   3]: 0.0005855 讚美
+	glorification WORD[40,   4]: 0.0005855 賛美
+TOKEN[41]: 0.0024543    2 custom
+	custom WORD[41,   1]: 0.0016613 美風
+	custom WORD[41,   2]: 0.0007930 美俗
+TOKEN[42]: 0.0024516    1 hair
+	hair WORD[42,   1]: 0.0024516 美髪
+TOKEN[43]: 0.0021860    2 goddess
+	goddess WORD[43,   1]: 0.0013443 伊邪那美
+	goddess WORD[43,   2]: 0.0008417 美神
+TOKEN[44]: 0.0021563    1 condition
+	condition WORD[44,   1]: 0.0021563 美品
+TOKEN[45]: 0.0021316    2 dressing
+	dressing WORD[45,   1]: 0.0013288 美装
+	dressing WORD[45,   2]: 0.0008028 美粧
+TOKEN[46]: 0.0020945    1 sense
+	sense WORD[46,   1]: 0.0020945 美感
+TOKEN[47]: 0.0020428    3 man
+	man WORD[47,   1]: 0.0010545 美人局
+	man WORD[47,   2]: 0.0005563 美形
+	man WORD[47,   3]: 0.0004321 美男
+TOKEN[48]: 0.0019761    2 gorgeousness
+	gorgeousness WORD[48,   1]: 0.0013503 花美
+	gorgeousness WORD[48,   2]: 0.0006258 華美
+TOKEN[49]: 0.0019260    3 extolment
+	extolment WORD[49,   1]: 0.0006420 讃美
+	extolment WORD[49,   2]: 0.0006420 讚美
+	extolment WORD[49,   3]: 0.0006420 賛美
+TOKEN[50]: 0.0019215    4 admiration
+	admiration WORD[50,   1]: 0.0004919 嘆美
+	admiration WORD[50,   2]: 0.0004919 歎美
+	admiration WORD[50,   3]: 0.0004689 称美
+	admiration WORD[50,   4]: 0.0004689 賞美
+TOKEN[51]: 0.0018974    3 tasty
+	tasty WORD[51,   1]: 0.0004779 美味しい
+	tasty WORD[51,   2]: 0.0004739 美味い
+	tasty WORD[51,   3]: 0.0004728 美い
+TOKEN[52]: 0.0018575    2 gaudiness
+	gaudiness WORD[52,   1]: 0.0012693 花美
+	gaudiness WORD[52,   2]: 0.0005882 華美
+TOKEN[53]: 0.0018575    2 pomp
+	pomp WORD[53,   1]: 0.0012693 花美
+	pomp WORD[53,   2]: 0.0005882 華美
+TOKEN[54]: 0.0018202    1 whitening
+	whitening WORD[54,   1]: 0.0018202 美白
+TOKEN[55]: 0.0017881    2 magnificence
+	magnificence WORD[55,   1]: 0.0012218 花美
+	magnificence WORD[55,   2]: 0.0005662 華美
+TOKEN[56]: 0.0017591    3 splendid
+	splendid WORD[56,   1]: 0.0005710 美事
+	splendid WORD[56,   2]: 0.0003966 美味い
+	splendid WORD[56,   3]: 0.0003957 美い
+TOKEN[57]: 0.0017380    3 appreciation
+	appreciation WORD[57,   1]: 0.0007595 審美
+	appreciation WORD[57,   2]: 0.0004892 称美
+	appreciation WORD[57,   3]: 0.0004892 賞美
+TOKEN[58]: 0.0017358    3 trick
+	trick WORD[58,   1]: 0.0006612 美人局
+	trick WORD[58,   2]: 0.0003588 美味い
+	trick WORD[58,   3]: 0.0003579 美い
+TOKEN[59]: 0.0017252    2 flowery
+	flowery WORD[59,   1]: 0.0009713 美辞
+	flowery WORD[59,   2]: 0.0007539 美文
+TOKEN[60]: 0.0017187    2 showiness
+	showiness WORD[60,   1]: 0.0011744 花美
+	showiness WORD[60,   2]: 0.0005443 華美
+TOKEN[61]: 0.0017144    2 aesthetics
+	aesthetics WORD[61,   1]: 0.0010069 美育
+	aesthetics WORD[61,   2]: 0.0007075 美学
+TOKEN[62]: 0.0017103    3 profitable
+	profitable WORD[62,   1]: 0.0004308 美味しい
+	profitable WORD[62,   2]: 0.0004272 美味い
+	profitable WORD[62,   3]: 0.0004262 美い
+TOKEN[63]: 0.0016558    2 extravagance
+	extravagance WORD[63,   1]: 0.0011314 花美
+	extravagance WORD[63,   2]: 0.0005243 華美
+TOKEN[64]: 0.0016225    3 excellent
+	excellent WORD[64,   1]: 0.0005504 美事
+	excellent WORD[64,   2]: 0.0005494 美果
+	excellent WORD[64,   3]: 0.0005227 美技
+TOKEN[65]: 0.0016214    3 nice
+	nice WORD[65,   1]: 0.0004084 美味しい
+	nice WORD[65,   2]: 0.0004050 美味い
+	nice WORD[65,   3]: 0.0004040 美い
+TOKEN[66]: 0.0016098    2 splendor
+	splendor WORD[66,   1]: 0.0011000 花美
+	splendor WORD[66,   2]: 0.0005098 華美
+TOKEN[67]: 0.0015848    1 tale
+	tale WORD[67,   1]: 0.0015848 美談
+TOKEN[68]: 0.0015322    1 used
+	used WORD[68,   1]: 0.0015322 美品
+TOKEN[69]: 0.0015296    2 beautification
+	beautification WORD[69,   1]: 0.0007650 美容
+	beautification WORD[69,   2]: 0.0007646 美化
+TOKEN[70]: 0.0015294    1 gourmet
+	gourmet WORD[70,   1]: 0.0015294 美食
+TOKEN[71]: 0.0015054    2 handsome
+	handsome WORD[71,   1]: 0.0008473 美形
+	handsome WORD[71,   2]: 0.0006581 美男
+TOKEN[72]: 0.0014814    2 luxury
+	luxury WORD[72,   1]: 0.0010123 花美
+	luxury WORD[72,   2]: 0.0004691 華美
+TOKEN[73]: 0.0014326    2 absolute
+	absolute WORD[73,   1]: 0.0007163 醇美
+	absolute WORD[73,   2]: 0.0007163 純美
+TOKEN[74]: 0.0014166    2 magnificent
+	magnificent WORD[74,   1]: 0.0008003 壮美
+	magnificent WORD[74,   2]: 0.0006163 美事
+TOKEN[75]: 0.0013980    3 face
+	face WORD[75,   1]: 0.0005810 美形
+	face WORD[75,   2]: 0.0004086 美貌
+	face WORD[75,   3]: 0.0004084 美顔
+TOKEN[76]: 0.0013497    2 fortunate
+	fortunate WORD[76,   1]: 0.0004506 美味い
+	fortunate WORD[76,   2]: 0.0004495 美い
+TOKEN[77]: 0.0013497    2 apt
+	apt WORD[77,   1]: 0.0004506 美味い
+	apt WORD[77,   2]: 0.0004495 美い
+TOKEN[78]: 0.0013420    2 classical
+	classical WORD[78,   1]: 0.0006710 醇美
+	classical WORD[78,   2]: 0.0006710 純美
+TOKEN[79]: 0.0013239    2 promising
+	promising WORD[79,   1]: 0.0004420 美味い
+	promising WORD[79,   2]: 0.0004410 美い
+TOKEN[80]: 0.0013200    2 satisfactory
+	satisfactory WORD[80,   1]: 0.0004407 美味い
+	satisfactory WORD[80,   2]: 0.0004397 美い
+TOKEN[81]: 0.0012746    2 voice
+	voice WORD[81,   1]: 0.0006391 美声
+	voice WORD[81,   2]: 0.0006355 美音
+TOKEN[82]: 0.0012474    2 skillful
+	skillful WORD[82,   1]: 0.0004165 美味い
+	skillful WORD[82,   2]: 0.0004155 美い
+TOKEN[83]: 0.0012317    1 eulogistic
+	eulogistic WORD[83,   1]: 0.0012317 美称
+TOKEN[84]: 0.0012276    1 teeth
+	teeth WORD[84,   1]: 0.0012276 美白
+TOKEN[85]: 0.0012189    2 appropriate
+	appropriate WORD[85,   1]: 0.0004069 美味い
+	appropriate WORD[85,   2]: 0.0004060 美い
+TOKEN[86]: 0.0012149    2 successful
+	successful WORD[86,   1]: 0.0004056 美味い
+	successful WORD[86,   2]: 0.0004047 美い
+TOKEN[87]: 0.0012109    2 scenery
+	scenery WORD[87,   1]: 0.0008098 美景
+	scenery WORD[87,   2]: 0.0004011 明美
+TOKEN[88]: 0.0012063    1 clothing
+	clothing WORD[88,   1]: 0.0012063 美服
+TOKEN[89]: 0.0012018    2 expert
+	expert WORD[89,   1]: 0.0004012 美味い
+	expert WORD[89,   2]: 0.0004003 美い
+TOKEN[90]: 0.0012000    2 clever
+	clever WORD[90,   1]: 0.0004006 美味い
+	clever WORD[90,   2]: 0.0003997 美い
+TOKEN[91]: 0.0011999    1 dress
+	dress WORD[91,   1]: 0.0011999 美装
+TOKEN[92]: 0.0011832    2 skilled
+	skilled WORD[92,   1]: 0.0003950 美味い
+	skilled WORD[92,   2]: 0.0003941 美い
+TOKEN[93]: 0.0011604    1 food
+	food WORD[93,   1]: 0.0011604 美食
+TOKEN[94]: 0.0011322    2 lucky
+	lucky WORD[94,   1]: 0.0003780 美味い
+	lucky WORD[94,   2]: 0.0003771 美い
+TOKEN[95]: 0.0011278    1 Shinto
+	Shinto WORD[95,   1]: 0.0011278 伊邪那美
+TOKEN[96]: 0.0011183    1 attendant
+	attendant WORD[96,   1]: 0.0005591 美女
+TOKEN[97]: 0.0011154    1 commendable
+	commendable WORD[97,   1]: 0.0011154 美挙
+TOKEN[98]: 0.0011066    2 adoration
+	adoration WORD[98,   1]: 0.0005533 嘆美
+	adoration WORD[98,   2]: 0.0005533 歎美
+TOKEN[99]: 0.0010876    1 belle
+	belle WORD[99,   1]: 0.0010876 美形
+TOKEN[100]: 0.0010811    2 deal
+	deal WORD[100,   1]: 0.0003609 美味い
+	deal WORD[100,   2]: 0.0003601 美い
+TOKEN[101]: 0.0010676    1 lady
+	lady WORD[101,   1]: 0.0005338 美女
+TOKEN[102]: 0.0010660    1 exquisiteness
+	exquisiteness WORD[102,   1]: 0.0010660 精美
+TOKEN[103]: 0.0010648    2 province
+	province WORD[103,   1]: 0.0005327 美作
+	province WORD[103,   2]: 0.0005321 美濃
+TOKEN[104]: 0.0010581    1 compromising
+	compromising WORD[104,   1]: 0.0010581 美人局
+TOKEN[105]: 0.0010554    2 idea
+	idea WORD[105,   1]: 0.0003524 美味い
+	idea WORD[105,   2]: 0.0003515 美い
+TOKEN[106]: 0.0010409    2 sight
+	sight WORD[106,   1]: 0.0005339 美事
+	sight WORD[106,   2]: 0.0005070 美観
+TOKEN[107]: 0.0010384    1 mellifluous
+	mellifluous WORD[107,   1]: 0.0010384 甘美
+TOKEN[108]: 0.0010384    1 luscious
+	luscious WORD[108,   1]: 0.0010384 甘美
+TOKEN[109]: 0.0010241    2 expression
+	expression WORD[109,   1]: 0.0003419 美味い
+	expression WORD[109,   2]: 0.0003411 美い
+TOKEN[110]: 0.0010218    1 august
+	august WORD[110,   1]: 0.0005109 美
+TOKEN[111]: 0.0010068    1 white
+	white WORD[111,   1]: 0.0010068 美白
+TOKEN[112]: 0.0010061    1 great
+	great WORD[112,   1]: 0.0010061 美脚
+TOKEN[113]: 0.0010028    1 university
+	university WORD[113,   1]: 0.0010028 美大
+TOKEN[114]: 0.0010000    1 euphemism
+	euphemism WORD[114,   1]: 0.0010000 美称
+TOKEN[115]: 0.0009853    1 praiseworthy
+	praiseworthy WORD[115,   1]: 0.0009853 美挙
+TOKEN[116]: 0.0009662    1 productive
+	productive WORD[116,   1]: 0.0009662 美田
+TOKEN[117]: 0.0009470    2 former
+	former WORD[117,   1]: 0.0004738 美作
+	former WORD[117,   2]: 0.0004732 美濃
+TOKEN[118]: 0.0009450    1 daintiness
+	daintiness WORD[118,   1]: 0.0009450 優美
+TOKEN[119]: 0.0009347    1 blackmail
+	blackmail WORD[119,   1]: 0.0009347 美人局
+TOKEN[120]: 0.0009274    1 fertile
+	fertile WORD[120,   1]: 0.0009274 美田
+TOKEN[121]: 0.0009182    1 sublime
+	sublime WORD[121,   1]: 0.0009182 壮美
+TOKEN[122]: 0.0009117    2 appearance
+	appearance WORD[122,   1]: 0.0004559 美容
+	appearance WORD[122,   2]: 0.0004557 美醜
+TOKEN[123]: 0.0008954    2 art
+	art WORD[123,   1]: 0.0004477 美大
+	art WORD[123,   2]: 0.0004477 美術
+TOKEN[124]: 0.0008894    1 impressive
+	impressive WORD[124,   1]: 0.0008894 美談
+TOKEN[125]: 0.0008879    1 Venus
+	Venus WORD[125,   1]: 0.0008879 美神
+TOKEN[126]: 0.0008828    1 badger
+	badger WORD[126,   1]: 0.0008828 美人局
+TOKEN[127]: 0.0008612    1 undertaking
+	undertaking WORD[127,   1]: 0.0008612 美挙
+TOKEN[128]: 0.0008433    1 voluptuous
+	voluptuous WORD[128,   1]: 0.0008433 艶美
+TOKEN[129]: 0.0008422    1 poetic
+	poetic WORD[129,   1]: 0.0008422 美称
+TOKEN[130]: 0.0008284    1 pretext
+	pretext WORD[130,   1]: 0.0008284 美名
+TOKEN[131]: 0.0008240    1 merit
+	merit WORD[131,   1]: 0.0008240 美点
+TOKEN[132]: 0.0008236    1 cultural
+	cultural WORD[132,   1]: 0.0008236 美育
+TOKEN[133]: 0.0008178    1 elegant
+	elegant WORD[133,   1]: 0.0008178 美妙
+TOKEN[134]: 0.0008079    1 salary
+	salary WORD[134,   1]: 0.0008079 美禄
+TOKEN[135]: 0.0008018    1 undeserved
+	undeserved WORD[135,   1]: 0.0008018 溢美
+TOKEN[136]: 0.0007932    1 mellow
+	mellow WORD[136,   1]: 0.0007932 甘美
+TOKEN[137]: 0.0007849    1 supreme
+	supreme WORD[137,   1]: 0.0007849 精美
+TOKEN[138]: 0.0007843    1 delightful
+	delightful WORD[138,   1]: 0.0007843 甘美
+TOKEN[139]: 0.0007825    2 pure
+	pure WORD[139,   1]: 0.0004050 清美
+	pure WORD[139,   2]: 0.0003775 美しい
+TOKEN[140]: 0.0007647    1 epicure
+	epicure WORD[140,   1]: 0.0007647 美食
+TOKEN[141]: 0.0007647    1 ugliness
+	ugliness WORD[141,   1]: 0.0007647 美醜
+TOKEN[142]: 0.0007642    1 charm
+	charm WORD[142,   1]: 0.0007642 美点
+TOKEN[143]: 0.0007566    1 reputation
+	reputation WORD[143,   1]: 0.0007566 美名
+TOKEN[144]: 0.0007481    1 prose
+	prose WORD[144,   1]: 0.0007481 美文
+TOKEN[145]: 0.0007439    1 scheme
+	scheme WORD[145,   1]: 0.0007439 美人局
+TOKEN[146]: 0.0007296    1 northeast
+	northeast WORD[146,   1]: 0.0007296 美作
+TOKEN[147]: 0.0007276    1 melody
+	melody WORD[147,   1]: 0.0007276 甘美
+TOKEN[148]: 0.0007129    1 education
+	education WORD[148,   1]: 0.0007129 美育
+TOKEN[149]: 0.0007120    1 geisha
+	geisha WORD[149,   1]: 0.0007120 美妓
+TOKEN[150]: 0.0007095    1 moving
+	moving WORD[150,   1]: 0.0007095 美談
+TOKEN[151]: 0.0007057    1 alcohol
+	alcohol WORD[151,   1]: 0.0007057 美禄
+TOKEN[152]: 0.0007023    1 admirable
+	admirable WORD[152,   1]: 0.0007023 美事
+TOKEN[153]: 0.0006936    1 spectacle
+	spectacle WORD[153,   1]: 0.0006936 美事
+TOKEN[154]: 0.0006850    1 elegance
+	elegance WORD[154,   1]: 0.0006850 優美
+TOKEN[155]: 0.0006715    1 god
+	god WORD[155,   1]: 0.0006715 美神
+TOKEN[156]: 0.0006657    1 aestheticism
+	aestheticism WORD[156,   1]: 0.0006657 耽美
+TOKEN[157]: 0.0006601    1 study
+	study WORD[157,   1]: 0.0006601 美育
+TOKEN[158]: 0.0006590    1 gorgeous
+	gorgeous WORD[158,   1]: 0.0006590 美麗
+TOKEN[159]: 0.0006512    1 pleasant
+	pleasant WORD[159,   1]: 0.0006512 甘美
+TOKEN[160]: 0.0006480    1 maiden
+	maiden WORD[160,   1]: 0.0006480 美姫
+TOKEN[161]: 0.0006445    1 refinement
+	refinement WORD[161,   1]: 0.0006445 優美
+TOKEN[162]: 0.0006420    1 dream
+	dream WORD[162,   1]: 0.0006420 甘美
+TOKEN[163]: 0.0006315    1 act
+	act WORD[163,   1]: 0.0006315 美挙
+TOKEN[164]: 0.0006307    1 superb
+	superb WORD[164,   1]: 0.0006307 美事
+TOKEN[165]: 0.0006302    1 lavish
+	lavish WORD[165,   1]: 0.0006302 美食
+TOKEN[166]: 0.0006273    1 utter
+	utter WORD[166,   1]: 0.0006273 美事
+TOKEN[167]: 0.0006246    1 field
+	field WORD[167,   1]: 0.0006246 美田
+TOKEN[168]: 0.0006228    1 outcome
+	outcome WORD[168,   1]: 0.0006228 美果
+TOKEN[169]: 0.0006189    1 excessive
+	excessive WORD[169,   1]: 0.0006189 溢美
+TOKEN[170]: 0.0006080    1 dining
+	dining WORD[170,   1]: 0.0006080 美食
+TOKEN[171]: 0.0006014    1 south
+	south WORD[171,   1]: 0.0006014 美濃
+TOKEN[172]: 0.0005967    1 grace
+	grace WORD[172,   1]: 0.0005967 優美
+TOKEN[173]: 0.0005956    1 situation
+	situation WORD[173,   1]: 0.0005956 美人局
+TOKEN[174]: 0.0005903    1 reward
+	reward WORD[174,   1]: 0.0005903 褒美
+TOKEN[175]: 0.0005840    1 diet
+	diet WORD[175,   1]: 0.0005840 美食
+TOKEN[176]: 0.0005793    1 taste
+	taste WORD[176,   1]: 0.0005793 甘美
+TOKEN[177]: 0.0005660    1 high
+	high WORD[177,   1]: 0.0005660 美禄
+TOKEN[178]: 0.0005640    1 obsession
+	obsession WORD[178,   1]: 0.0005640 耽美
+TOKEN[179]: 0.0005630    1 language
+	language WORD[179,   1]: 0.0005630 美辞
+TOKEN[180]: 0.0005561    1 point
+	point WORD[180,   1]: 0.0005561 美点
+TOKEN[181]: 0.0005535    1 worth
+	worth WORD[181,   1]: 0.0005535 美事
+TOKEN[182]: 0.0005528    1 seeing
+	seeing WORD[182,   1]: 0.0005528 美事
+TOKEN[183]: 0.0005468    1 prize
+	prize WORD[183,   1]: 0.0005468 褒美
+TOKEN[184]: 0.0005439    1 game
+	game WORD[184,   1]: 0.0005439 美人局
+TOKEN[185]: 0.0005385    1 dainty
+	dainty WORD[185,   1]: 0.0005385 美味
+TOKEN[186]: 0.0005329    1 defeat
+	defeat WORD[186,   1]: 0.0005329 美事
+TOKEN[187]: 0.0005326    1 pursuit
+	pursuit WORD[187,   1]: 0.0005326 耽美
+TOKEN[188]: 0.0005301    1 culture
+	culture WORD[188,   1]: 0.0005301 美容
+TOKEN[189]: 0.0005257    1 college
+	college WORD[189,   1]: 0.0005257 美大
+TOKEN[190]: 0.0005226    1 result
+	result WORD[190,   1]: 0.0005226 美果
+TOKEN[191]: 0.0005220    1 appealing
+	appealing WORD[191,   1]: 0.0005220 美味しい
+TOKEN[192]: 0.0005211    1 sky
+	sky WORD[192,   1]: 0.0005211 美空
+TOKEN[193]: 0.0005172    1 total
+	total WORD[193,   1]: 0.0005172 美事
+TOKEN[194]: 0.0005066    1 following
+	following WORD[194,   1]: 0.0005066 美食
+TOKEN[195]: 0.0005020    1 treatment
+	treatment WORD[195,   1]: 0.0005020 美容
+TOKEN[196]: 0.0004926    1 fruit
+	fruit WORD[196,   1]: 0.0004926 美果
+TOKEN[197]: 0.0004892    1 complete
+	complete WORD[197,   1]: 0.0004892 美事
+TOKEN[198]: 0.0004873    1 true
+	true WORD[198,   1]: 0.0004873 真美
+TOKEN[199]: 0.0004819    1 figure
+	figure WORD[199,   1]: 0.0004819 美容
+TOKEN[200]: 0.0004805    1 desirable
+	desirable WORD[200,   1]: 0.0004805 美味しい
+TOKEN[201]: 0.0004802    1 picturesque
+	picturesque WORD[201,   1]: 0.0004802 明美
+TOKEN[202]: 0.0004764    1 delicacy
+	delicacy WORD[202,   1]: 0.0004764 美味
+TOKEN[203]: 0.0004698    1 performance
+	performance WORD[203,   1]: 0.0004698 美技
+TOKEN[204]: 0.0004660    1 whale
+	whale WORD[204,   1]: 0.0004660 背美鯨
+TOKEN[205]: 0.0004582    1 personal
+	personal WORD[205,   1]: 0.0004582 美醜
+TOKEN[206]: 0.0004561    1 view
+	view WORD[206,   1]: 0.0004561 美観
+TOKEN[207]: 0.0004402    1 sake
+	sake WORD[207,   1]: 0.0004402 美酒
+TOKEN[208]: 0.0004376    1 living
+	living WORD[208,   1]: 0.0004376 美食
+TOKEN[209]: 0.0004329    1 convenient
+	convenient WORD[209,   1]: 0.0004329 美味しい
+TOKEN[210]: 0.0004258    1 play
+	play WORD[210,   1]: 0.0004258 美技
+TOKEN[211]: 0.0004243    1 attractive
+	attractive WORD[211,   1]: 0.0004243 美味しい
+TOKEN[212]: 0.0004192    1 favorable
+	favorable WORD[212,   1]: 0.0004192 美味しい
+TOKEN[213]: 0.0004076    1 flavour
+	flavour WORD[213,   1]: 0.0004076 美味
+TOKEN[214]: 0.0004034    1 friendship
+	friendship WORD[214,   1]: 0.0004034 美しい
+TOKEN[215]: 0.0004006    1 flavor
+	flavor WORD[215,   1]: 0.0004006 美味
+TOKEN[216]: 0.0003946    1 japonica
+	japonica WORD[216,   1]: 0.0003946 背美鯨
+TOKEN[217]: 0.0003861    1 offer
+	offer WORD[217,   1]: 0.0003861 美味しい
+TOKEN[218]: 0.0003666    1 opportunity
+	opportunity WORD[218,   1]: 0.0003666 美味しい
+TOKEN[219]: 0.0003546    1 right
+	right WORD[219,   1]: 0.0003546 背美鯨
+TOKEN[220]: 0.0003344    1 something
+	something WORD[220,   1]: 0.0003344 美事
+TOKEN[221]: 0.0003069    1 heart
+	heart WORD[221,   1]: 0.0003069 美しい

@@ -1,0 +1,47 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.3044250    7 queen          : 后宮, 天后, 王后, 后妃, 太后, 后, 皇后
+0.2409654    6 empress        : 后宮, 母后, 后妃, 太后, 后, 皇后
+0.2277150    2 palace         : 后宮, 后町
+0.0909530    1 pavilion       : 后町
+0.0632421    1 inner          : 后町
+0.0296085    1 heaven         : 天后
+0.0251043    2 dowager        : 母后, 太后
+0.0083353    1 mother         : 太后
+0.0063028    1 afternoon      : 午后
+0.0033488    1 Japanese       : 皇后
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.3044250    7 queen
+	queen WORD[ 1,   1]: 0.1958573 后宮
+	queen WORD[ 1,   2]: 0.0336380 天后
+	queen WORD[ 1,   3]: 0.0296750 王后
+	queen WORD[ 1,   4]: 0.0101681 后妃
+	queen WORD[ 1,   5]: 0.0100587 太后
+	queen WORD[ 1,   6]: 0.0092724 后
+	queen WORD[ 1,   7]: 0.0064832 皇后
+TOKEN[ 2]: 0.2409654    6 empress
+	empress WORD[ 2,   1]: 0.1864535 后宮
+	empress WORD[ 2,   2]: 0.0114299 母后
+	empress WORD[ 2,   3]: 0.0096799 后妃
+	empress WORD[ 2,   4]: 0.0095757 太后
+	empress WORD[ 2,   5]: 0.0088272 后
+	empress WORD[ 2,   6]: 0.0061720 皇后
+TOKEN[ 3]: 0.2277150    2 palace
+	palace WORD[ 3,   1]: 0.1600270 后宮
+	palace WORD[ 3,   2]: 0.0676879 后町
+TOKEN[ 4]: 0.0909530    1 pavilion
+	pavilion WORD[ 4,   1]: 0.0909530 后町
+TOKEN[ 5]: 0.0632421    1 inner
+	inner WORD[ 5,   1]: 0.0632421 后町
+TOKEN[ 6]: 0.0296085    1 heaven
+	heaven WORD[ 6,   1]: 0.0296085 天后
+TOKEN[ 7]: 0.0251043    2 dowager
+	dowager WORD[ 7,   1]: 0.0136601 母后
+	dowager WORD[ 7,   2]: 0.0114441 太后
+TOKEN[ 8]: 0.0083353    1 mother
+	mother WORD[ 8,   1]: 0.0083353 太后
+TOKEN[ 9]: 0.0063028    1 afternoon
+	afternoon WORD[ 9,   1]: 0.0063028 午后
+TOKEN[10]: 0.0033488    1 Japanese
+	Japanese WORD[10,   1]: 0.0033488 皇后

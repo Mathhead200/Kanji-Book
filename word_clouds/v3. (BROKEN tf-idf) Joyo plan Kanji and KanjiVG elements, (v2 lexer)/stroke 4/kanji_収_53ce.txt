@@ -1,0 +1,656 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0439627    3 yield          : 収率, 収量, 増収
+0.0342835    4 revenue        : 興収, 税収, 収入, 収益
+0.0306431    1 salvage        : 揚収
+0.0283831    1 takings        : 興収
+0.0270939    3 convergence    : 収れん, 収斂, 収束
+0.0264132    1 lifting        : 揚収
+0.0258983    2 recovery       : 揚収, 回収
+0.0256581    6 collection     : 収集, 収取, 収税, 徴収, 収蔵, 回収
+0.0237208    1 marine         : 揚収
+0.0224252    3 crop           : 収繭, 米収, 収穫
+0.0204719    7 income         : 日収, 実収, 年収, 収入, 収支, 減収, 月収
+0.0189897    1 cocoon         : 収繭
+0.0135493    4 receipt        : 検収, 領収, 収納, 査収
+0.0122457    4 seizure        : 没収, 接収, 収用, 押収
+0.0120054    2 acquisition    : 収取, 買収
+0.0115082    1 net            : 実収
+0.0111493    3 harvest        : 米収, 収量, 収穫
+0.0107855    3 constriction   : 収れん, 収斂, 収縮
+0.0107076    3 confiscation   : 没収, 接収, 押収
+0.0091020    3 corruption     : 買収, 贈収賄, 収賄
+0.0089650    3 contraction    : 収れん, 収斂, 収縮
+0.0080735    2 recording      : 収録, 収載
+0.0077184    1 inspection     : 検収
+0.0071629    2 bribery        : 買収, 贈収賄
+0.0070171    2 settle         : 収まる, 収める
+0.0069929    2 astringency    : 収れん, 収斂
+0.0069211    1 look           : 見収め
+0.0064020    2 tax            : 収税, 税収
+0.0063464    2 tan            : 反収, 段収
+0.0061557    2 extraction     : 収れん, 収斂
+0.0057880    2 imprisonment   : 収容, 収監
+0.0056932    3 light          : 収れん, 収斂, 収束
+0.0056767    2 haul           : 収獲, 収穫
+0.0056524    2 pay            : 実収, 収める
+0.0055832    2 last           : 見収め, 収め
+0.0054927    2 withdrawal     : 撤収, 回収
+0.0053733    1 taxation       : 収税
+0.0051507    2 hunting        : 収獲, 収穫
+0.0051342    2 production     : 反収, 段収
+0.0051299    1 put            : 収める
+0.0050937    1 aberration     : 収差
+0.0049719    1 farewell       : 見収め
+0.0049338    2 bag            : 収獲, 収穫
+0.0048764    2 gathering      : 収束, 収集
+0.0048379    2 conclusion     : 収束, 収まり
+0.0047549    2 gain           : 収穫, 収める
+0.0046964    1 outstanding    : 未収
+0.0045849    2 fishing        : 収獲, 収穫
+0.0045543    2 catch          : 収獲, 収穫
+0.0045195    1 included       : 所収
+0.0044789    1 forfeiture     : 没収
+0.0043161    2 money          : 領収, 収める
+0.0043129    1 daily          : 日収
+0.0042386    1 control        : 収拾
+0.0042106    1 ingathering    : 収穫
+0.0041625    1 acceptance     : 検収
+0.0041581    2 set            : 撤収, 収録
+0.0041488    1 publication    : 所収
+0.0041169    1 printed        : 所収
+0.0040052    1 carried        : 所収
+0.0039725    1 deflation      : 収縮
+0.0038843    2 one            : 収まる, 収穫
+0.0038823    1 keep           : 収める
+0.0038397    2 fall           : 減収, 収まる
+0.0038370    1 optical        : 収差
+0.0037791    1 size           : 収量
+0.0037746    2 wind           : 収める, 収まる
+0.0037002    1 levy           : 徴収
+0.0036634    1 position       : 収まる
+0.0036577    1 plundering     : 収奪
+0.0035954    1 expropriation  : 収用
+0.0035507    1 tent           : 撤収
+0.0035423    1 internment     : 収容
+0.0034992    1 requisition    : 接収
+0.0034656    1 retaining      : 接収
+0.0034551    1 shrinking      : 収縮
+0.0033567    1 receipts       : 収入
+0.0033565    1 exploitation   : 収奪
+0.0033438    2 end            : 収め, 収まり
+0.0032993    1 invoice        : 査収
+0.0032816    1 sorted         : 収まる
+0.0032816    1 rightful       : 収まる
+0.0032292    2 place          : 収める, 収まる
+0.0032174    1 graft          : 収賄
+0.0031898    1 rice           : 米収
+0.0031697    1 suction        : 吸収
+0.0031643    1 grasping       : 収攬
+0.0031498    1 evacuation     : 撤収
+0.0031124    1 corporate      : 買収
+0.0031082    1 purchase       : 買収
+0.0031032    1 proceeds       : 収益
+0.0030646    1 settling       : 収拾
+0.0030260    1 annual         : 年収
+0.0030121    1 dedicate       : 収める
+0.0030080    1 compilation    : 収載
+0.0030045    1 camp           : 撤収
+0.0029978    1 expenditure    : 収支
+0.0029885    1 accommodation  : 収容
+0.0029866    1 subside        : 収まる
+0.0029688    1 retrieval      : 回収
+0.0029513    1 detention      : 収容
+0.0029425    1 seating        : 収容
+0.0029330    1 earnings       : 収益
+0.0029318    1 removal        : 撤収
+0.0029312    1 absorption     : 吸収
+0.0029225    1 occupy         : 収まる
+0.0028830    1 attraction     : 吸収
+0.0028728    1 audio          : 収録
+0.0028710    1 retreat        : 撤収
+0.0028543    1 publish        : 収める
+0.0028386    1 returned       : 収まる
+0.0028249    1 catalogue      : 収める
+0.0028105    1 abate          : 収まる
+0.0028065    1 decrease       : 減収
+0.0028051    1 striking       : 撤収
+0.0027980    1 conclude       : 収める
+0.0027854    1 subdue         : 収める
+0.0027755    1 admission      : 収容
+0.0027733    1 restore        : 収める
+0.0027496    1 resolution     : 収束
+0.0027378    1 monthly        : 月収
+0.0027092    1 anthology      : 収める
+0.0027083    1 housing        : 収容
+0.0027056    1 equipment      : 撤収
+0.0026634    1 funds          : 収納
+0.0026613    1 deposit        : 接収
+0.0026561    1 include        : 収める
+0.0026403    1 contain        : 収める
+0.0026252    1 deliver        : 収める
+0.0026100    1 reception      : 収受
+0.0025970    1 garbage        : 収集
+0.0025905    1 achieve        : 収める
+0.0025762    1 works          : 収録
+0.0025534    1 suppress       : 収める
+0.0025414    1 settled        : 収まる
+0.0025405    1 increase       : 増収
+0.0025358    1 category       : 収まる
+0.0025288    1 normal         : 収束
+0.0025092    1 harmony        : 収まり
+0.0025042    1 video          : 収録
+0.0024946    1 satisfied      : 収まる
+0.0024896    1 fitting        : 収まり
+0.0024669    1 budget         : 収まる
+0.0024590    1 storage        : 収納
+0.0024498    1 agree          : 収まる
+0.0024308    1 dictionary     : 収容
+0.0024301    1 finishing      : 収め
+0.0024280    1 result         : 収穫
+0.0024263    1 obtain         : 収める
+0.0024061    1 stage          : 撤収
+0.0024040    1 capture        : 収める
+0.0023993    1 printing       : 収録
+0.0023826    1 consent        : 収まる
+0.0023639    1 winning        : 収攬
+0.0023597    1 settlement     : 収まり
+0.0023554    1 waste          : 収集
+0.0023302    1 conflict       : 収まる
+0.0023146    1 payment        : 収納
+0.0022935    1 offer          : 収める
+0.0022930    1 building       : 撤収
+0.0022880    1 dispute        : 収まる
+0.0022693    1 complete       : 収録
+0.0022693    1 limit          : 収める
+0.0022666    1 coming         : 収束
+0.0022619    1 answer         : 収まる
+0.0022470    1 success        : 収める
+0.0022363    1 accept         : 収める
+0.0022358    1 calm           : 収まる
+0.0022343    1 supply         : 収める
+0.0022256    1 frame          : 収まる
+0.0022135    1 balance        : 収まり
+0.0022041    1 fit            : 収まる
+0.0021894    1 role           : 収まる
+0.0021860    1 art            : 収集
+0.0021811    1 profit         : 収める
+0.0021636    1 original       : 収まる
+0.0021576    1 deity          : 収める
+0.0021298    1 win            : 収める
+0.0021298    1 gift           : 収める
+0.0021177    1 matter         : 収拾
+0.0021125    1 finish         : 収める
+0.0021029    1 close          : 収める
+0.0020742    1 goods          : 査収
+0.0020679    1 post           : 収まる
+0.0020308    1 taking         : 収容
+0.0020202    1 film           : 収める
+0.0019973    1 store          : 収める
+0.0019832    1 bring          : 収める
+0.0019580    1 box            : 収まる
+0.0019308    1 book           : 収録
+0.0019210    1 shrine         : 収める
+0.0019134    1 order          : 収拾
+0.0015555    1 take           : 収まる
+0.0015159    1 make           : 収める
+0.0014596    1 time           : 収め
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0439627    3 yield
+	yield WORD[ 1,   1]: 0.0370718 収率
+	yield WORD[ 1,   2]: 0.0041320 収量
+	yield WORD[ 1,   3]: 0.0027589 増収
+TOKEN[ 2]: 0.0342835    4 revenue
+	revenue WORD[ 2,   1]: 0.0253544 興収
+	revenue WORD[ 2,   2]: 0.0030278 税収
+	revenue WORD[ 2,   3]: 0.0029511 収入
+	revenue WORD[ 2,   4]: 0.0029502 収益
+TOKEN[ 3]: 0.0306431    1 salvage
+	salvage WORD[ 3,   1]: 0.0306431 揚収
+TOKEN[ 4]: 0.0283831    1 takings
+	takings WORD[ 4,   1]: 0.0283831 興収
+TOKEN[ 5]: 0.0270939    3 convergence
+	convergence WORD[ 5,   1]: 0.0101606 収れん
+	convergence WORD[ 5,   2]: 0.0101606 収斂
+	convergence WORD[ 5,   3]: 0.0067727 収束
+TOKEN[ 6]: 0.0264132    1 lifting
+	lifting WORD[ 6,   1]: 0.0264132 揚収
+TOKEN[ 7]: 0.0258983    2 recovery
+	recovery WORD[ 7,   1]: 0.0234847 揚収
+	recovery WORD[ 7,   2]: 0.0024136 回収
+TOKEN[ 8]: 0.0256581    6 collection
+	collection WORD[ 8,   1]: 0.0071960 収集
+	collection WORD[ 8,   2]: 0.0068955 収取
+	collection WORD[ 8,   3]: 0.0044423 収税
+	collection WORD[ 8,   4]: 0.0025391 徴収
+	collection WORD[ 8,   5]: 0.0023989 収蔵
+	collection WORD[ 8,   6]: 0.0021864 回収
+TOKEN[ 9]: 0.0237208    1 marine
+	marine WORD[ 9,   1]: 0.0237208 揚収
+TOKEN[10]: 0.0224252    3 crop
+	crop WORD[10,   1]: 0.0152939 収繭
+	crop WORD[10,   2]: 0.0045560 米収
+	crop WORD[10,   3]: 0.0025753 収穫
+TOKEN[11]: 0.0204719    7 income
+	income WORD[11,   1]: 0.0041110 日収
+	income WORD[11,   2]: 0.0038684 実収
+	income WORD[11,   3]: 0.0028235 年収
+	income WORD[11,   4]: 0.0024611 収入
+	income WORD[11,   5]: 0.0024607 収支
+	income WORD[11,   6]: 0.0023739 減収
+	income WORD[11,   7]: 0.0023733 月収
+TOKEN[12]: 0.0189897    1 cocoon
+	cocoon WORD[12,   1]: 0.0189897 収繭
+TOKEN[13]: 0.0135493    4 receipt
+	receipt WORD[13,   1]: 0.0042039 検収
+	receipt WORD[13,   2]: 0.0037876 領収
+	receipt WORD[13,   3]: 0.0028029 収納
+	receipt WORD[13,   4]: 0.0027549 査収
+TOKEN[14]: 0.0122457    4 seizure
+	seizure WORD[14,   1]: 0.0036657 没収
+	seizure WORD[14,   2]: 0.0030111 接収
+	seizure WORD[14,   3]: 0.0029425 収用
+	seizure WORD[14,   4]: 0.0026264 押収
+TOKEN[15]: 0.0120054    2 acquisition
+	acquisition WORD[15,   1]: 0.0085078 収取
+	acquisition WORD[15,   2]: 0.0034975 買収
+TOKEN[16]: 0.0115082    1 net
+	net WORD[16,   1]: 0.0115082 実収
+TOKEN[17]: 0.0111493    3 harvest
+	harvest WORD[17,   1]: 0.0045719 米収
+	harvest WORD[17,   2]: 0.0039930 収量
+	harvest WORD[17,   3]: 0.0025844 収穫
+TOKEN[18]: 0.0107855    3 constriction
+	constriction WORD[18,   1]: 0.0035954 収れん
+	constriction WORD[18,   2]: 0.0035954 収斂
+	constriction WORD[18,   3]: 0.0035946 収縮
+TOKEN[19]: 0.0107076    3 confiscation
+	confiscation WORD[19,   1]: 0.0042191 没収
+	confiscation WORD[19,   2]: 0.0034656 接収
+	confiscation WORD[19,   3]: 0.0030229 押収
+TOKEN[20]: 0.0091020    3 corruption
+	corruption WORD[20,   1]: 0.0033472 買収
+	corruption WORD[20,   2]: 0.0029217 贈収賄
+	corruption WORD[20,   3]: 0.0028331 収賄
+TOKEN[21]: 0.0089650    3 contraction
+	contraction WORD[21,   1]: 0.0029886 収れん
+	contraction WORD[21,   2]: 0.0029886 収斂
+	contraction WORD[21,   3]: 0.0029878 収縮
+TOKEN[22]: 0.0080735    2 recording
+	recording WORD[22,   1]: 0.0053829 収録
+	recording WORD[22,   2]: 0.0026907 収載
+TOKEN[23]: 0.0077184    1 inspection
+	inspection WORD[23,   1]: 0.0077184 検収
+TOKEN[24]: 0.0071629    2 bribery
+	bribery WORD[24,   1]: 0.0038246 買収
+	bribery WORD[24,   2]: 0.0033384 贈収賄
+TOKEN[25]: 0.0070171    2 settle
+	settle WORD[25,   1]: 0.0046777 収まる
+	settle WORD[25,   2]: 0.0023394 収める
+TOKEN[26]: 0.0069929    2 astringency
+	astringency WORD[26,   1]: 0.0034965 収れん
+	astringency WORD[26,   2]: 0.0034964 収斂
+TOKEN[27]: 0.0069211    1 look
+	look WORD[27,   1]: 0.0069211 見収め
+TOKEN[28]: 0.0064020    2 tax
+	tax WORD[28,   1]: 0.0041195 収税
+	tax WORD[28,   2]: 0.0022825 税収
+TOKEN[29]: 0.0063464    2 tan
+	tan WORD[29,   1]: 0.0031732 反収
+	tan WORD[29,   2]: 0.0031732 段収
+TOKEN[30]: 0.0061557    2 extraction
+	extraction WORD[30,   1]: 0.0030779 収れん
+	extraction WORD[30,   2]: 0.0030779 収斂
+TOKEN[31]: 0.0057880    2 imprisonment
+	imprisonment WORD[31,   1]: 0.0028944 収容
+	imprisonment WORD[31,   2]: 0.0028935 収監
+TOKEN[32]: 0.0056932    3 light
+	light WORD[32,   1]: 0.0018978 収れん
+	light WORD[32,   2]: 0.0018978 収斂
+	light WORD[32,   3]: 0.0018975 収束
+TOKEN[33]: 0.0056767    2 haul
+	haul WORD[33,   1]: 0.0028384 収獲
+	haul WORD[33,   2]: 0.0028384 収穫
+TOKEN[34]: 0.0056524    2 pay
+	pay WORD[34,   1]: 0.0035982 実収
+	pay WORD[34,   2]: 0.0020542 収める
+TOKEN[35]: 0.0055832    2 last
+	last WORD[35,   1]: 0.0037102 見収め
+	last WORD[35,   2]: 0.0018730 収め
+TOKEN[36]: 0.0054927    2 withdrawal
+	withdrawal WORD[36,   1]: 0.0029822 撤収
+	withdrawal WORD[36,   2]: 0.0025105 回収
+TOKEN[37]: 0.0053733    1 taxation
+	taxation WORD[37,   1]: 0.0053733 収税
+TOKEN[38]: 0.0051507    2 hunting
+	hunting WORD[38,   1]: 0.0025753 収獲
+	hunting WORD[38,   2]: 0.0025753 収穫
+TOKEN[39]: 0.0051342    2 production
+	production WORD[39,   1]: 0.0025671 反収
+	production WORD[39,   2]: 0.0025671 段収
+TOKEN[40]: 0.0051299    1 put
+	put WORD[40,   1]: 0.0051299 収める
+TOKEN[41]: 0.0050937    1 aberration
+	aberration WORD[41,   1]: 0.0050937 収差
+TOKEN[42]: 0.0049719    1 farewell
+	farewell WORD[42,   1]: 0.0049719 見収め
+TOKEN[43]: 0.0049338    2 bag
+	bag WORD[43,   1]: 0.0024669 収獲
+	bag WORD[43,   2]: 0.0024669 収穫
+TOKEN[44]: 0.0048764    2 gathering
+	gathering WORD[44,   1]: 0.0024383 収束
+	gathering WORD[44,   2]: 0.0024381 収集
+TOKEN[45]: 0.0048379    2 conclusion
+	conclusion WORD[45,   1]: 0.0025501 収束
+	conclusion WORD[45,   2]: 0.0022877 収まり
+TOKEN[46]: 0.0047549    2 gain
+	gain WORD[46,   1]: 0.0025058 収穫
+	gain WORD[46,   2]: 0.0022491 収める
+TOKEN[47]: 0.0046964    1 outstanding
+	outstanding WORD[47,   1]: 0.0046964 未収
+TOKEN[48]: 0.0045849    2 fishing
+	fishing WORD[48,   1]: 0.0022925 収獲
+	fishing WORD[48,   2]: 0.0022925 収穫
+TOKEN[49]: 0.0045543    2 catch
+	catch WORD[49,   1]: 0.0022772 収獲
+	catch WORD[49,   2]: 0.0022772 収穫
+TOKEN[50]: 0.0045195    1 included
+	included WORD[50,   1]: 0.0045195 所収
+TOKEN[51]: 0.0044789    1 forfeiture
+	forfeiture WORD[51,   1]: 0.0044789 没収
+TOKEN[52]: 0.0043161    2 money
+	money WORD[52,   1]: 0.0025937 領収
+	money WORD[52,   2]: 0.0017224 収める
+TOKEN[53]: 0.0043129    1 daily
+	daily WORD[53,   1]: 0.0043129 日収
+TOKEN[54]: 0.0042386    1 control
+	control WORD[54,   1]: 0.0042386 収拾
+TOKEN[55]: 0.0042106    1 ingathering
+	ingathering WORD[55,   1]: 0.0042106 収穫
+TOKEN[56]: 0.0041625    1 acceptance
+	acceptance WORD[56,   1]: 0.0041625 検収
+TOKEN[57]: 0.0041581    2 set
+	set WORD[57,   1]: 0.0021614 撤収
+	set WORD[57,   2]: 0.0019967 収録
+TOKEN[58]: 0.0041488    1 publication
+	publication WORD[58,   1]: 0.0041488 所収
+TOKEN[59]: 0.0041169    1 printed
+	printed WORD[59,   1]: 0.0041169 所収
+TOKEN[60]: 0.0040052    1 carried
+	carried WORD[60,   1]: 0.0040052 所収
+TOKEN[61]: 0.0039725    1 deflation
+	deflation WORD[61,   1]: 0.0039725 収縮
+TOKEN[62]: 0.0038843    2 one
+	one WORD[62,   1]: 0.0028323 収まる
+	one WORD[62,   2]: 0.0010521 収穫
+TOKEN[63]: 0.0038823    1 keep
+	keep WORD[63,   1]: 0.0038823 収める
+TOKEN[64]: 0.0038397    2 fall
+	fall WORD[64,   1]: 0.0019894 減収
+	fall WORD[64,   2]: 0.0018503 収まる
+TOKEN[65]: 0.0038370    1 optical
+	optical WORD[65,   1]: 0.0038370 収差
+TOKEN[66]: 0.0037791    1 size
+	size WORD[66,   1]: 0.0037791 収量
+TOKEN[67]: 0.0037746    2 wind
+	wind WORD[67,   1]: 0.0018875 収める
+	wind WORD[67,   2]: 0.0018871 収まる
+TOKEN[68]: 0.0037002    1 levy
+	levy WORD[68,   1]: 0.0037002 徴収
+TOKEN[69]: 0.0036634    1 position
+	position WORD[69,   1]: 0.0036634 収まる
+TOKEN[70]: 0.0036577    1 plundering
+	plundering WORD[70,   1]: 0.0036577 収奪
+TOKEN[71]: 0.0035954    1 expropriation
+	expropriation WORD[71,   1]: 0.0035954 収用
+TOKEN[72]: 0.0035507    1 tent
+	tent WORD[72,   1]: 0.0035507 撤収
+TOKEN[73]: 0.0035423    1 internment
+	internment WORD[73,   1]: 0.0035423 収容
+TOKEN[74]: 0.0034992    1 requisition
+	requisition WORD[74,   1]: 0.0034992 接収
+TOKEN[75]: 0.0034656    1 retaining
+	retaining WORD[75,   1]: 0.0034656 接収
+TOKEN[76]: 0.0034551    1 shrinking
+	shrinking WORD[76,   1]: 0.0034551 収縮
+TOKEN[77]: 0.0033567    1 receipts
+	receipts WORD[77,   1]: 0.0033567 収入
+TOKEN[78]: 0.0033565    1 exploitation
+	exploitation WORD[78,   1]: 0.0033565 収奪
+TOKEN[79]: 0.0033438    2 end
+	end WORD[79,   1]: 0.0016721 収め
+	end WORD[79,   2]: 0.0016716 収まり
+TOKEN[80]: 0.0032993    1 invoice
+	invoice WORD[80,   1]: 0.0032993 査収
+TOKEN[81]: 0.0032816    1 sorted
+	sorted WORD[81,   1]: 0.0032816 収まる
+TOKEN[82]: 0.0032816    1 rightful
+	rightful WORD[82,   1]: 0.0032816 収まる
+TOKEN[83]: 0.0032292    2 place
+	place WORD[83,   1]: 0.0016148 収める
+	place WORD[83,   2]: 0.0016144 収まる
+TOKEN[84]: 0.0032174    1 graft
+	graft WORD[84,   1]: 0.0032174 収賄
+TOKEN[85]: 0.0031898    1 rice
+	rice WORD[85,   1]: 0.0031898 米収
+TOKEN[86]: 0.0031697    1 suction
+	suction WORD[86,   1]: 0.0031697 吸収
+TOKEN[87]: 0.0031643    1 grasping
+	grasping WORD[87,   1]: 0.0031643 収攬
+TOKEN[88]: 0.0031498    1 evacuation
+	evacuation WORD[88,   1]: 0.0031498 撤収
+TOKEN[89]: 0.0031124    1 corporate
+	corporate WORD[89,   1]: 0.0031124 買収
+TOKEN[90]: 0.0031082    1 purchase
+	purchase WORD[90,   1]: 0.0031082 買収
+TOKEN[91]: 0.0031032    1 proceeds
+	proceeds WORD[91,   1]: 0.0031032 収益
+TOKEN[92]: 0.0030646    1 settling
+	settling WORD[92,   1]: 0.0030646 収拾
+TOKEN[93]: 0.0030260    1 annual
+	annual WORD[93,   1]: 0.0030260 年収
+TOKEN[94]: 0.0030121    1 dedicate
+	dedicate WORD[94,   1]: 0.0030121 収める
+TOKEN[95]: 0.0030080    1 compilation
+	compilation WORD[95,   1]: 0.0030080 収載
+TOKEN[96]: 0.0030045    1 camp
+	camp WORD[96,   1]: 0.0030045 撤収
+TOKEN[97]: 0.0029978    1 expenditure
+	expenditure WORD[97,   1]: 0.0029978 収支
+TOKEN[98]: 0.0029885    1 accommodation
+	accommodation WORD[98,   1]: 0.0029885 収容
+TOKEN[99]: 0.0029866    1 subside
+	subside WORD[99,   1]: 0.0029866 収まる
+TOKEN[100]: 0.0029688    1 retrieval
+	retrieval WORD[100,   1]: 0.0029688 回収
+TOKEN[101]: 0.0029513    1 detention
+	detention WORD[101,   1]: 0.0029513 収容
+TOKEN[102]: 0.0029425    1 seating
+	seating WORD[102,   1]: 0.0029425 収容
+TOKEN[103]: 0.0029330    1 earnings
+	earnings WORD[103,   1]: 0.0029330 収益
+TOKEN[104]: 0.0029318    1 removal
+	removal WORD[104,   1]: 0.0029318 撤収
+TOKEN[105]: 0.0029312    1 absorption
+	absorption WORD[105,   1]: 0.0029312 吸収
+TOKEN[106]: 0.0029225    1 occupy
+	occupy WORD[106,   1]: 0.0029225 収まる
+TOKEN[107]: 0.0028830    1 attraction
+	attraction WORD[107,   1]: 0.0028830 吸収
+TOKEN[108]: 0.0028728    1 audio
+	audio WORD[108,   1]: 0.0028728 収録
+TOKEN[109]: 0.0028710    1 retreat
+	retreat WORD[109,   1]: 0.0028710 撤収
+TOKEN[110]: 0.0028543    1 publish
+	publish WORD[110,   1]: 0.0028543 収める
+TOKEN[111]: 0.0028386    1 returned
+	returned WORD[111,   1]: 0.0028386 収まる
+TOKEN[112]: 0.0028249    1 catalogue
+	catalogue WORD[112,   1]: 0.0028249 収める
+TOKEN[113]: 0.0028105    1 abate
+	abate WORD[113,   1]: 0.0028105 収まる
+TOKEN[114]: 0.0028065    1 decrease
+	decrease WORD[114,   1]: 0.0028065 減収
+TOKEN[115]: 0.0028051    1 striking
+	striking WORD[115,   1]: 0.0028051 撤収
+TOKEN[116]: 0.0027980    1 conclude
+	conclude WORD[116,   1]: 0.0027980 収める
+TOKEN[117]: 0.0027854    1 subdue
+	subdue WORD[117,   1]: 0.0027854 収める
+TOKEN[118]: 0.0027755    1 admission
+	admission WORD[118,   1]: 0.0027755 収容
+TOKEN[119]: 0.0027733    1 restore
+	restore WORD[119,   1]: 0.0027733 収める
+TOKEN[120]: 0.0027496    1 resolution
+	resolution WORD[120,   1]: 0.0027496 収束
+TOKEN[121]: 0.0027378    1 monthly
+	monthly WORD[121,   1]: 0.0027378 月収
+TOKEN[122]: 0.0027092    1 anthology
+	anthology WORD[122,   1]: 0.0027092 収める
+TOKEN[123]: 0.0027083    1 housing
+	housing WORD[123,   1]: 0.0027083 収容
+TOKEN[124]: 0.0027056    1 equipment
+	equipment WORD[124,   1]: 0.0027056 撤収
+TOKEN[125]: 0.0026634    1 funds
+	funds WORD[125,   1]: 0.0026634 収納
+TOKEN[126]: 0.0026613    1 deposit
+	deposit WORD[126,   1]: 0.0026613 接収
+TOKEN[127]: 0.0026561    1 include
+	include WORD[127,   1]: 0.0026561 収める
+TOKEN[128]: 0.0026403    1 contain
+	contain WORD[128,   1]: 0.0026403 収める
+TOKEN[129]: 0.0026252    1 deliver
+	deliver WORD[129,   1]: 0.0026252 収める
+TOKEN[130]: 0.0026100    1 reception
+	reception WORD[130,   1]: 0.0026100 収受
+TOKEN[131]: 0.0025970    1 garbage
+	garbage WORD[131,   1]: 0.0025970 収集
+TOKEN[132]: 0.0025905    1 achieve
+	achieve WORD[132,   1]: 0.0025905 収める
+TOKEN[133]: 0.0025762    1 works
+	works WORD[133,   1]: 0.0025762 収録
+TOKEN[134]: 0.0025534    1 suppress
+	suppress WORD[134,   1]: 0.0025534 収める
+TOKEN[135]: 0.0025414    1 settled
+	settled WORD[135,   1]: 0.0025414 収まる
+TOKEN[136]: 0.0025405    1 increase
+	increase WORD[136,   1]: 0.0025405 増収
+TOKEN[137]: 0.0025358    1 category
+	category WORD[137,   1]: 0.0025358 収まる
+TOKEN[138]: 0.0025288    1 normal
+	normal WORD[138,   1]: 0.0025288 収束
+TOKEN[139]: 0.0025092    1 harmony
+	harmony WORD[139,   1]: 0.0025092 収まり
+TOKEN[140]: 0.0025042    1 video
+	video WORD[140,   1]: 0.0025042 収録
+TOKEN[141]: 0.0024946    1 satisfied
+	satisfied WORD[141,   1]: 0.0024946 収まる
+TOKEN[142]: 0.0024896    1 fitting
+	fitting WORD[142,   1]: 0.0024896 収まり
+TOKEN[143]: 0.0024669    1 budget
+	budget WORD[143,   1]: 0.0024669 収まる
+TOKEN[144]: 0.0024590    1 storage
+	storage WORD[144,   1]: 0.0024590 収納
+TOKEN[145]: 0.0024498    1 agree
+	agree WORD[145,   1]: 0.0024498 収まる
+TOKEN[146]: 0.0024308    1 dictionary
+	dictionary WORD[146,   1]: 0.0024308 収容
+TOKEN[147]: 0.0024301    1 finishing
+	finishing WORD[147,   1]: 0.0024301 収め
+TOKEN[148]: 0.0024280    1 result
+	result WORD[148,   1]: 0.0024280 収穫
+TOKEN[149]: 0.0024263    1 obtain
+	obtain WORD[149,   1]: 0.0024263 収める
+TOKEN[150]: 0.0024061    1 stage
+	stage WORD[150,   1]: 0.0024061 撤収
+TOKEN[151]: 0.0024040    1 capture
+	capture WORD[151,   1]: 0.0024040 収める
+TOKEN[152]: 0.0023993    1 printing
+	printing WORD[152,   1]: 0.0023993 収録
+TOKEN[153]: 0.0023826    1 consent
+	consent WORD[153,   1]: 0.0023826 収まる
+TOKEN[154]: 0.0023639    1 winning
+	winning WORD[154,   1]: 0.0023639 収攬
+TOKEN[155]: 0.0023597    1 settlement
+	settlement WORD[155,   1]: 0.0023597 収まり
+TOKEN[156]: 0.0023554    1 waste
+	waste WORD[156,   1]: 0.0023554 収集
+TOKEN[157]: 0.0023302    1 conflict
+	conflict WORD[157,   1]: 0.0023302 収まる
+TOKEN[158]: 0.0023146    1 payment
+	payment WORD[158,   1]: 0.0023146 収納
+TOKEN[159]: 0.0022935    1 offer
+	offer WORD[159,   1]: 0.0022935 収める
+TOKEN[160]: 0.0022930    1 building
+	building WORD[160,   1]: 0.0022930 撤収
+TOKEN[161]: 0.0022880    1 dispute
+	dispute WORD[161,   1]: 0.0022880 収まる
+TOKEN[162]: 0.0022693    1 complete
+	complete WORD[162,   1]: 0.0022693 収録
+TOKEN[163]: 0.0022693    1 limit
+	limit WORD[163,   1]: 0.0022693 収める
+TOKEN[164]: 0.0022666    1 coming
+	coming WORD[164,   1]: 0.0022666 収束
+TOKEN[165]: 0.0022619    1 answer
+	answer WORD[165,   1]: 0.0022619 収まる
+TOKEN[166]: 0.0022470    1 success
+	success WORD[166,   1]: 0.0022470 収める
+TOKEN[167]: 0.0022363    1 accept
+	accept WORD[167,   1]: 0.0022363 収める
+TOKEN[168]: 0.0022358    1 calm
+	calm WORD[168,   1]: 0.0022358 収まる
+TOKEN[169]: 0.0022343    1 supply
+	supply WORD[169,   1]: 0.0022343 収める
+TOKEN[170]: 0.0022256    1 frame
+	frame WORD[170,   1]: 0.0022256 収まる
+TOKEN[171]: 0.0022135    1 balance
+	balance WORD[171,   1]: 0.0022135 収まり
+TOKEN[172]: 0.0022041    1 fit
+	fit WORD[172,   1]: 0.0022041 収まる
+TOKEN[173]: 0.0021894    1 role
+	role WORD[173,   1]: 0.0021894 収まる
+TOKEN[174]: 0.0021860    1 art
+	art WORD[174,   1]: 0.0021860 収集
+TOKEN[175]: 0.0021811    1 profit
+	profit WORD[175,   1]: 0.0021811 収める
+TOKEN[176]: 0.0021636    1 original
+	original WORD[176,   1]: 0.0021636 収まる
+TOKEN[177]: 0.0021576    1 deity
+	deity WORD[177,   1]: 0.0021576 収める
+TOKEN[178]: 0.0021298    1 win
+	win WORD[178,   1]: 0.0021298 収める
+TOKEN[179]: 0.0021298    1 gift
+	gift WORD[179,   1]: 0.0021298 収める
+TOKEN[180]: 0.0021177    1 matter
+	matter WORD[180,   1]: 0.0021177 収拾
+TOKEN[181]: 0.0021125    1 finish
+	finish WORD[181,   1]: 0.0021125 収める
+TOKEN[182]: 0.0021029    1 close
+	close WORD[182,   1]: 0.0021029 収める
+TOKEN[183]: 0.0020742    1 goods
+	goods WORD[183,   1]: 0.0020742 査収
+TOKEN[184]: 0.0020679    1 post
+	post WORD[184,   1]: 0.0020679 収まる
+TOKEN[185]: 0.0020308    1 taking
+	taking WORD[185,   1]: 0.0020308 収容
+TOKEN[186]: 0.0020202    1 film
+	film WORD[186,   1]: 0.0020202 収める
+TOKEN[187]: 0.0019973    1 store
+	store WORD[187,   1]: 0.0019973 収める
+TOKEN[188]: 0.0019832    1 bring
+	bring WORD[188,   1]: 0.0019832 収める
+TOKEN[189]: 0.0019580    1 box
+	box WORD[189,   1]: 0.0019580 収まる
+TOKEN[190]: 0.0019308    1 book
+	book WORD[190,   1]: 0.0019308 収録
+TOKEN[191]: 0.0019210    1 shrine
+	shrine WORD[191,   1]: 0.0019210 収める
+TOKEN[192]: 0.0019134    1 order
+	order WORD[192,   1]: 0.0019134 収拾
+TOKEN[193]: 0.0015555    1 take
+	take WORD[193,   1]: 0.0015555 収まる
+TOKEN[194]: 0.0015159    1 make
+	make WORD[194,   1]: 0.0015159 収める
+TOKEN[195]: 0.0014596    1 time
+	time WORD[195,   1]: 0.0014596 収め

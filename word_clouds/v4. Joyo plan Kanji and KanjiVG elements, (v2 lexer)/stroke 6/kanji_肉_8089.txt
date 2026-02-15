@@ -1,0 +1,991 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1467346   71 meat           : ほほ肉, 頬肉, 肉々しい, 肉肉しい, 猫肉, 肉たたき, 肉叩き, 固まり肉, 塊肉, 肉鍋, ...
+0.0499313   24 flesh          : 猫肉, 白肉, 肉, 犬肉, 屍肉, 死肉, 骨肉, 血肉, 肉塊, 柔肉, ...
+0.0341431    3 meaty          : 肉々しい, 肉肉しい, 肉厚
+0.0315309    2 juicy          : 肉々しい, 肉肉しい
+0.0298717    3 rib            : 肋肉, ばら肉, バラ肉
+0.0281866    2 cheek          : ほほ肉, 頬肉
+0.0216171    1 cat            : 猫肉
+0.0162705    3 boneless       : 肋肉, ばら肉, バラ肉
+0.0162705    3 boned          : 肋肉, ばら肉, バラ肉
+0.0158104    6 pork           : 肋肉, 回鍋肉, ばら肉, バラ肉, ぶた肉, 豚肉
+0.0145868    5 beef           : 肋肉, 肉牛, ばら肉, バラ肉, 牛肉
+0.0139612    6 pad            : 黒肉, 肉球, 印肉, 肉池, 朱肉, 肉
+0.0122137    4 ink            : 黒肉, 朱肉, 印肉, 肉
+0.0117234    1 bivalve        : 肉柱
+0.0116858    3 jerky          : 乾し肉, 干し肉, 乾肉
+0.0112717    1 adductor       : 肉柱
+0.0103457    1 black          : 黒肉
+0.0095568    2 muscle         : 肉柱, 肉離れ
+0.0089623    4 dried          : 乾し肉, 干し肉, 乾肉, 梅肉
+0.0083306    3 pussy          : 肉壺, 肉ヒダ, 肉襞
+0.0081734    3 stamp          : 黒肉, 肉池, 印肉
+0.0079907    2 mallet         : 肉たたき, 肉叩き
+0.0073132    1 sealing        : 黒肉
+0.0073015    2 dog            : 犬肉, 狗肉
+0.0071620    1 venison        : 鹿肉
+0.0068863    1 pot            : 肉鍋
+0.0067714    2 breast         : むね肉, 胸肉
+0.0067079    1 rumen          : 白肉
+0.0065865    6 chicken        : 正肉, むね肉, 胸肉, とり肉, 鳥肉, 鶏肉
+0.0064806    3 carrion        : 屍肉, 死肉, 腐肉
+0.0064617    6 fat            : 正肉, 肉づく, 肉付く, 太り肉, ぜい肉, 贅肉
+0.0063257    4 fruit          : 白肉, 多肉, 肉, 果肉
+0.0061674    8 body           : 肉塊, 霊肉, 肉叢, 骨肉, 血肉, 皮肉, 肉体, 肉
+0.0060332    3 white          : 白肉, むね肉, 胸肉
+0.0058790    1 tripe          : 白肉
+0.0057709    1 deer           : 鹿肉
+0.0056140    5 ham            : 脾肉, 髀肉, もも肉, 股肉, 腿肉
+0.0052622    4 fleshiness     : 肉づき, 肉質, 肉付き, 肉置き
+0.0051261    2 dick           : 肉茎, 肉棒
+0.0050400    1 cinnamon       : 肉桂
+0.0049934    3 blood          : 血肉, 骨肉, 肉親
+0.0049433    2 chunk          : 固まり肉, 塊肉
+0.0046432    5 physical       : 肉的, 肉界, 肉眼, 肉感, 肉
+0.0046355    1 cow            : 白肉
+0.0045986    2 cock           : 肉茎, 肉棒
+0.0045923    2 shank          : すね肉, スネ肉
+0.0044837    1 punishment     : 肉刑
+0.0043627    2 corporal       : 肉刑, 肉的
+0.0042106    4 poultry        : 赤肉, とり肉, 鳥肉, 鶏肉
+0.0041920    2 pressing       : 肉薄, 肉迫
+0.0041109    3 thigh          : 赤肉, 脾肉, 髀肉
+0.0038728    4 leg            : 赤肉, もも肉, 股肉, 腿肉
+0.0038307    1 plum           : 梅肉
+0.0037898    2 pulp           : 梅肉, 肉
+0.0037896    2 stew           : 肉じゃが, 肉ジャガ
+0.0037434    2 potato         : 肉じゃが, 肉ジャガ
+0.0037192    1 pan            : 肉鍋
+0.0037055    1 mutilation     : 肉刑
+0.0036412    5 round          : 脾肉, 髀肉, もも肉, 股肉, 腿肉
+0.0034433    2 joint          : 固まり肉, 塊肉
+0.0034242    1 cooking        : 肉鍋
+0.0033622    3 red            : 朱肉, 赤肉, 薄肉
+0.0033249    3 carnal         : 肉慾, 肉欲, 肉感
+0.0033191    2 hard           : 肉薄, 肉迫
+0.0032899    2 human          : 肉塊, 人肉
+0.0032000    1 mesophyll      : 葉肉
+0.0031447    1 granulation    : 肉芽
+0.0031436    1 pedicel        : 肉茎
+0.0031436    1 pedicle        : 肉茎
+0.0030888    3 piece          : 肉塊, 肉片, 肉叢
+0.0030246    2 dead           : 屍肉, 死肉
+0.0030195    3 excess         : 正肉, ぜい肉, 贅肉
+0.0030179    1 hot            : 肉鍋
+0.0029401    3 dish           : 回鍋肉, 焼き肉, 焼肉
+0.0029236    1 cockscomb      : 肉冠
+0.0028357    1 peduncle       : 肉茎
+0.0028352    2 lump           : 肉塊, 肉叢
+0.0027851    3 substance      : 肉づけ, 肉付け, 肉
+0.0027348    3 grilled        : 肉汁, 焼き肉, 焼肉
+0.0026948    3 build          : 肉づき, 中肉, 肉付き
+0.0026943    1 radical        : 肉月
+0.0026840    2 whale          : 尾肉, 鯨肉
+0.0026673    3 animal         : 獣肉, 肉慾, 肉欲
+0.0025892    3 quality        : 肉質, 中肉, 精肉
+0.0025508    3 relative       : 骨肉, 血肉, 肉親
+0.0025481    3 bone           : 骨肉, 枝肉, 皮肉
+0.0025200    1 Cinnamomum     : 肉桂
+0.0023822    5 one            : 骨肉, 皮肉, 肉筆, 血肉, 肉体
+0.0023539    1 paw            : 肉球
+0.0023070    2 pig            : 脾肉, 髀肉
+0.0022881    1 steak          : 青椒肉絲
+0.0022731    2 gain           : 肉づく, 肉付く
+0.0022702    1 comb           : 肉冠
+0.0022688    3 fowl           : とり肉, 鳥肉, 鶏肉
+0.0022655    1 incarnation    : 受肉
+0.0022643    1 mutton         : 羊肉
+0.0022534    1 horse          : 桜肉
+0.0022391    2 sexual         : 柔肉, 肉感
+0.0021830    2 lust           : 肉慾, 肉欲
+0.0021735    1 smoked         : 燻肉
+0.0021725    1 crest          : 肉冠
+0.0021198    1 Christ         : 受肉
+0.0021092    1 lamb           : 羊肉
+0.0021038    2 barbecue       : 焼き肉, 焼肉
+0.0020832    1 thinning       : 減肉
+0.0020758    2 weight         : 肉づく, 肉付く
+0.0020640    2 fleshy         : 多肉, 肉厚
+0.0020625    1 offal          : くず肉
+0.0020352    1 salted         : 肉醤
+0.0020337    1 context        : 柔肉
+0.0020057    2 task           : 肉薄, 肉迫
+0.0019847    1 medium         : 中肉
+0.0019760    2 skin           : 正肉, 皮肉
+0.0019468    2 fleshing       : 肉づけ, 肉付け
+0.0019458    1 sole           : 肉球
+0.0019021    2 degree         : 肉づき, 肉付き
+0.0018912    1 tail           : 尾肉
+0.0018631    1 shellfish      : 貝肉
+0.0018375    2 question       : 肉薄, 肉迫
+0.0018061    2 fish           : 肉醤, 魚肉
+0.0017912    1 pepper         : 青椒肉絲
+0.0017773    2 modeling       : 肉づけ, 肉付け
+0.0017692    1 corn           : 肉刺
+0.0017594    2 grill          : 焼き肉, 焼肉
+0.0017439    1 butcher        : 肉屋
+0.0017174    1 blister        : 肉刺
+0.0017114    1 soft           : 柔肉
+0.0017113    2 enemy          : 肉薄, 肉迫
+0.0017064    1 pipe           : 減肉
+0.0017029    3 ground         : ひき肉, 挽き肉, 挽肉
+0.0016842    2 coming         : 肉薄, 肉迫
+0.0016835    2 type           : 肉細, 肉太
+0.0016683    1 thickness      : 肉
+0.0016670    2 first          : 肉薄, 肉迫
+0.0016419    3 bird           : とり肉, 鳥肉, 鶏肉
+0.0016384    2 put            : 肉づく, 肉付く
+0.0016312    1 sinewy         : 筋肉
+0.0015869    2 bun            : 肉まん, 肉饅
+0.0015728    1 bouillon       : 肉汁
+0.0015702    1 waste          : くず肉
+0.0015508    2 Korean         : 焼き肉, 焼肉
+0.0015179    2 made           : 脾肉, 髀肉
+0.0015128    2 taking         : 肉薄, 肉迫
+0.0014957    1 corpulent      : 太り肉
+0.0014765    2 similar        : 焼き肉, 焼肉
+0.0014756    1 attacker       : 肉弾
+0.0014756    1 gravy          : 肉汁
+0.0014599    1 succulent      : 多肉
+0.0014436    1 remark         : 皮肉る
+0.0014324    1 dark           : 赤肉
+0.0014291    1 plumpness      : 肉置き
+0.0014266    2 fresh          : 鮮肉, 生肉
+0.0014229    1 wall           : 減肉
+0.0014167    2 thick          : 朱肉, 肉厚
+0.0014012    1 tree           : 肉桂
+0.0013810    1 kinsman        : 骨肉
+0.0013781    1 sensual        : 肉界
+0.0013780    1 bulbil         : 肉芽
+0.0013765    2 surplus        : ぜい肉, 贅肉
+0.0013643    1 gingiva        : 歯肉
+0.0013628    2 filling        : 肉まん, 肉饅
+0.0013598    1 green          : 青椒肉絲
+0.0013518    2 place          : 肉薄, 肉迫
+0.0013404    1 content        : 肉
+0.0013396    1 chubby         : 太り肉
+0.0012598    1 eating         : 肉食
+0.0012540    1 sarcoma        : 肉腫
+0.0012502    1 autograph      : 肉筆
+0.0012445    1 opposed        : 肉
+0.0011896    1 shop           : 肉屋
+0.0011804    2 giving         : 肉づけ, 肉付け
+0.0011578    1 cinnabar       : 朱肉
+0.0011457    1 eye            : 肉眼
+0.0011394    1 holder         : 肉池
+0.0011362    1 feeling        : 肉感
+0.0011329    1 tissue         : 肉芽
+0.0011229    1 soul           : 霊肉
+0.0011004    1 cattle         : 肉牛
+0.0010991    1 cynical        : 皮肉る
+0.0010990    1 cynicism       : 皮肉
+0.0010943    1 carcass        : 枝肉
+0.0010922    2 plan           : 肉づけ, 肉付け
+0.0010884    1 spirit         : 肉
+0.0010665    1 suicide        : 肉弾
+0.0010558    1 handwriting    : 肉筆
+0.0010523    1 scrap          : 肉粉
+0.0010375    1 carnivorous    : 肉食
+0.0010036    1 signature      : 朱肉
+0.0009734    1 microphone     : 肉声
+0.0009675    1 soup           : 肉汁
+0.0009632    1 satirize       : 皮肉る
+0.0009632    1 satire         : 皮肉
+0.0009632    1 irony          : 皮肉
+0.0009595    1 dressed        : 枝肉
+0.0009451    1 moon           : 肉月
+0.0009334    2 Japanese       : 焼き肉, 焼肉
+0.0009307    1 make           : 皮肉る
+0.0009235    1 sarcasm        : 皮肉
+0.0009191    1 brush          : 肉筆
+0.0009077    1 meal           : 肉粉
+0.0009048    1 case           : 肉入れ
+0.0009005    1 written        : 肉筆
+0.0008994    1 relation       : 血肉
+0.0008791    1 cold           : 冷肉
+0.0008737    1 hurting        : 苦肉
+0.0008554    1 alcohol        : 酒肉
+0.0008405    1 sarcastic      : 皮肉る
+0.0008306    1 left           : 肉月
+0.0008245    1 torn           : 肉離れ
+0.0008107    1 world          : 肉界
+0.0007962    1 mock           : 皮肉る
+0.0007962    1 superficial    : 皮肉
+0.0007800    1 close          : 血肉
+0.0007759    1 drink          : 酒肉
+0.0007716    1 plant          : 多肉
+0.0007699    1 goods          : 精肉
+0.0007657    1 adversary      : 苦肉
+0.0007536    1 cut            : 肉片
+0.0007436    1 diet           : 肉食
+0.0007362    1 physique       : 肉体
+0.0007100    1 unexpected     : 皮肉
+0.0007076    1 consumption    : 食肉
+0.0006940    1 naked          : 肉眼
+0.0006578    1 food           : 酒肉
+0.0006573    1 outer          : 肉体
+0.0006419    1 good           : 精肉
+0.0006404    1 small          : 精肉
+0.0006223    1 desire         : 肉感
+0.0006097    1 relationship   : 肉親
+0.0006011    1 natural        : 肉声
+0.0006000    1 used           : 朱肉
+0.0005970    1 surface        : 皮肉
+0.0005970    1 different      : 皮肉
+0.0005961    1 duck           : 鴨肉
+0.0005925    1 light          : 薄肉
+0.0005837    1 raw            : 生肉
+0.0005552    1 voice          : 肉声
+0.0005197    1 man            : 肉体
+0.0005137    1 bear           : 熊肉
+0.0005062    1 trick          : 苦肉
+0.0004251    1 something      : 皮肉
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1467346   71 meat
+	meat WORD[ 1,   1]: 0.0097387 ほほ肉
+	meat WORD[ 1,   2]: 0.0097379 頬肉
+	meat WORD[ 1,   3]: 0.0096482 肉々しい
+	meat WORD[ 1,   4]: 0.0096480 肉肉しい
+	meat WORD[ 1,   5]: 0.0093645 猫肉
+	meat WORD[ 1,   6]: 0.0055215 肉たたき
+	meat WORD[ 1,   7]: 0.0055215 肉叩き
+	meat WORD[ 1,   8]: 0.0029566 固まり肉
+	meat WORD[ 1,   9]: 0.0029565 塊肉
+	meat WORD[ 1,  10]: 0.0029509 肉鍋
+	meat WORD[ 1,  11]: 0.0027207 くず肉
+	meat WORD[ 1,  12]: 0.0027168 赤肉
+	meat WORD[ 1,  13]: 0.0026943 むね肉
+	meat WORD[ 1,  14]: 0.0026943 胸肉
+	meat WORD[ 1,  15]: 0.0026783 乾し肉
+	meat WORD[ 1,  16]: 0.0026783 干し肉
+	meat WORD[ 1,  17]: 0.0022804 桜肉
+	meat WORD[ 1,  18]: 0.0018902 犬肉
+	meat WORD[ 1,  19]: 0.0016785 脾肉
+	meat WORD[ 1,  20]: 0.0016785 髀肉
+	meat WORD[ 1,  21]: 0.0016491 肉片
+	meat WORD[ 1,  22]: 0.0016491 肉粉
+	meat WORD[ 1,  23]: 0.0016489 肉汁
+	meat WORD[ 1,  24]: 0.0016326 乾肉
+	meat WORD[ 1,  25]: 0.0016315 肉食
+	meat WORD[ 1,  26]: 0.0016148 肉醤
+	meat WORD[ 1,  27]: 0.0015178 精肉
+	meat WORD[ 1,  28]: 0.0014990 肉叢
+	meat WORD[ 1,  29]: 0.0014775 すね肉
+	meat WORD[ 1,  30]: 0.0014775 スネ肉
+	meat WORD[ 1,  31]: 0.0014254 肉じゃが
+	meat WORD[ 1,  32]: 0.0014254 肉ジャガ
+	meat WORD[ 1,  33]: 0.0014189 貝肉
+	meat WORD[ 1,  34]: 0.0014180 肉塊
+	meat WORD[ 1,  35]: 0.0014168 燻肉
+	meat WORD[ 1,  36]: 0.0013578 正肉
+	meat WORD[ 1,  37]: 0.0013492 肉類
+	meat WORD[ 1,  38]: 0.0013296 青椒肉絲
+	meat WORD[ 1,  39]: 0.0013157 羊肉
+	meat WORD[ 1,  40]: 0.0013157 狗肉
+	meat WORD[ 1,  41]: 0.0012582 焼き肉
+	meat WORD[ 1,  42]: 0.0012582 焼肉
+	meat WORD[ 1,  43]: 0.0011800 畜肉
+	meat WORD[ 1,  44]: 0.0011435 ひき肉
+	meat WORD[ 1,  45]: 0.0011435 挽き肉
+	meat WORD[ 1,  46]: 0.0011435 挽肉
+	meat WORD[ 1,  47]: 0.0010663 とり肉
+	meat WORD[ 1,  48]: 0.0010663 鳥肉
+	meat WORD[ 1,  49]: 0.0009809 生肉
+	meat WORD[ 1,  50]: 0.0009228 鶏肉
+	meat WORD[ 1,  51]: 0.0008910 冷肉
+	meat WORD[ 1,  52]: 0.0008358 腐肉
+	meat WORD[ 1,  53]: 0.0008244 肉月
+	meat WORD[ 1,  54]: 0.0008244 肉質
+	meat WORD[ 1,  55]: 0.0007965 中肉
+	meat WORD[ 1,  56]: 0.0007913 鮮肉
+	meat WORD[ 1,  57]: 0.0007450 酒肉
+	meat WORD[ 1,  58]: 0.0007218 枝肉
+	meat WORD[ 1,  59]: 0.0006273 もも肉
+	meat WORD[ 1,  60]: 0.0006273 股肉
+	meat WORD[ 1,  61]: 0.0006273 腿肉
+	meat WORD[ 1,  62]: 0.0005439 肉屋
+	meat WORD[ 1,  63]: 0.0005438 肉まん
+	meat WORD[ 1,  64]: 0.0005438 肉饅
+	meat WORD[ 1,  65]: 0.0005438 肉
+	meat WORD[ 1,  66]: 0.0004808 食肉
+	meat WORD[ 1,  67]: 0.0004625 鯨肉
+	meat WORD[ 1,  68]: 0.0004582 熊肉
+	meat WORD[ 1,  69]: 0.0004560 魚肉
+	meat WORD[ 1,  70]: 0.0004557 筋肉
+	meat WORD[ 1,  71]: 0.0004465 鴨肉
+TOKEN[ 2]: 0.0499313   24 flesh
+	flesh WORD[ 2,   1]: 0.0119125 猫肉
+	flesh WORD[ 2,   2]: 0.0044728 白肉
+	flesh WORD[ 2,   3]: 0.0027668 肉
+	flesh WORD[ 2,   4]: 0.0024046 犬肉
+	flesh WORD[ 2,   5]: 0.0018636 屍肉
+	flesh WORD[ 2,   6]: 0.0018636 死肉
+	flesh WORD[ 2,   7]: 0.0018417 骨肉
+	flesh WORD[ 2,   8]: 0.0018263 血肉
+	flesh WORD[ 2,   9]: 0.0018039 肉塊
+	flesh WORD[ 2,  10]: 0.0018013 柔肉
+	flesh WORD[ 2,  11]: 0.0017962 人肉
+	flesh WORD[ 2,  12]: 0.0016737 狗肉
+	flesh WORD[ 2,  13]: 0.0011669 肉づく
+	flesh WORD[ 2,  14]: 0.0011669 肉付く
+	flesh WORD[ 2,  15]: 0.0011302 獣肉
+	flesh WORD[ 2,  16]: 0.0010633 腐肉
+	flesh WORD[ 2,  17]: 0.0010489 肉慾
+	flesh WORD[ 2,  18]: 0.0010489 肉欲
+	flesh WORD[ 2,  19]: 0.0010484 肉芽
+	flesh WORD[ 2,  20]: 0.0009534 肉叢
+	flesh WORD[ 2,  21]: 0.0006918 肉体
+	flesh WORD[ 2,  22]: 0.0006261 ぜい肉
+	flesh WORD[ 2,  23]: 0.0006261 贅肉
+	flesh WORD[ 2,  24]: 0.0005666 果肉
+TOKEN[ 3]: 0.0341431    3 meaty
+	meaty WORD[ 3,   1]: 0.0166039 肉々しい
+	meaty WORD[ 3,   2]: 0.0166034 肉肉しい
+	meaty WORD[ 3,   3]: 0.0009358 肉厚
+TOKEN[ 4]: 0.0315309    2 juicy
+	juicy WORD[ 4,   1]: 0.0157657 肉々しい
+	juicy WORD[ 4,   2]: 0.0157652 肉肉しい
+TOKEN[ 5]: 0.0298717    3 rib
+	rib WORD[ 5,   1]: 0.0250465 肋肉
+	rib WORD[ 5,   2]: 0.0024126 ばら肉
+	rib WORD[ 5,   3]: 0.0024126 バラ肉
+TOKEN[ 6]: 0.0281866    2 cheek
+	cheek WORD[ 6,   1]: 0.0140939 ほほ肉
+	cheek WORD[ 6,   2]: 0.0140927 頬肉
+TOKEN[ 7]: 0.0216171    1 cat
+	cat WORD[ 7,   1]: 0.0216171 猫肉
+TOKEN[ 8]: 0.0162705    3 boneless
+	boneless WORD[ 8,   1]: 0.0136423 肋肉
+	boneless WORD[ 8,   2]: 0.0013141 ばら肉
+	boneless WORD[ 8,   3]: 0.0013141 バラ肉
+TOKEN[ 9]: 0.0162705    3 boned
+	boned WORD[ 9,   1]: 0.0136423 肋肉
+	boned WORD[ 9,   2]: 0.0013141 ばら肉
+	boned WORD[ 9,   3]: 0.0013141 バラ肉
+TOKEN[10]: 0.0158104    6 pork
+	pork WORD[10,   1]: 0.0105168 肋肉
+	pork WORD[10,   2]: 0.0018095 回鍋肉
+	pork WORD[10,   3]: 0.0010130 ばら肉
+	pork WORD[10,   4]: 0.0010130 バラ肉
+	pork WORD[10,   5]: 0.0007291 ぶた肉
+	pork WORD[10,   6]: 0.0007291 豚肉
+TOKEN[11]: 0.0145868    5 beef
+	beef WORD[11,   1]: 0.0108608 肋肉
+	beef WORD[11,   2]: 0.0010519 肉牛
+	beef WORD[11,   3]: 0.0010462 ばら肉
+	beef WORD[11,   4]: 0.0010462 バラ肉
+	beef WORD[11,   5]: 0.0005819 牛肉
+TOKEN[12]: 0.0139612    6 pad
+	pad WORD[12,   1]: 0.0066620 黒肉
+	pad WORD[12,   2]: 0.0019968 肉球
+	pad WORD[12,   3]: 0.0017997 印肉
+	pad WORD[12,   4]: 0.0010869 肉池
+	pad WORD[12,   5]: 0.0009821 朱肉
+	pad WORD[12,   6]: 0.0007168 肉
+TOKEN[13]: 0.0122137    4 ink
+	ink WORD[13,   1]: 0.0062958 黒肉
+	ink WORD[13,   2]: 0.0037125 朱肉
+	ink WORD[13,   3]: 0.0008504 印肉
+	ink WORD[13,   4]: 0.0006774 肉
+TOKEN[14]: 0.0117234    1 bivalve
+	bivalve WORD[14,   1]: 0.0117234 肉柱
+TOKEN[15]: 0.0116858    3 jerky
+	jerky WORD[15,   1]: 0.0044781 乾し肉
+	jerky WORD[15,   2]: 0.0044781 干し肉
+	jerky WORD[15,   3]: 0.0027296 乾肉
+TOKEN[16]: 0.0112717    1 adductor
+	adductor WORD[16,   1]: 0.0112717 肉柱
+TOKEN[17]: 0.0103457    1 black
+	black WORD[17,   1]: 0.0103457 黒肉
+TOKEN[18]: 0.0095568    2 muscle
+	muscle WORD[18,   1]: 0.0088241 肉柱
+	muscle WORD[18,   2]: 0.0007327 肉離れ
+TOKEN[19]: 0.0089623    4 dried
+	dried WORD[19,   1]: 0.0028395 乾し肉
+	dried WORD[19,   2]: 0.0028395 干し肉
+	dried WORD[19,   3]: 0.0017308 乾肉
+	dried WORD[19,   4]: 0.0015524 梅肉
+TOKEN[20]: 0.0083306    3 pussy
+	pussy WORD[20,   1]: 0.0037842 肉壺
+	pussy WORD[20,   2]: 0.0022732 肉ヒダ
+	pussy WORD[20,   3]: 0.0022732 肉襞
+TOKEN[21]: 0.0081734    3 stamp
+	stamp WORD[21,   1]: 0.0062958 黒肉
+	stamp WORD[21,   2]: 0.0010272 肉池
+	stamp WORD[21,   3]: 0.0008504 印肉
+TOKEN[22]: 0.0079907    2 mallet
+	mallet WORD[22,   1]: 0.0039954 肉たたき
+	mallet WORD[22,   2]: 0.0039954 肉叩き
+TOKEN[23]: 0.0073132    1 sealing
+	sealing WORD[23,   1]: 0.0073132 黒肉
+TOKEN[24]: 0.0073015    2 dog
+	dog WORD[24,   1]: 0.0043050 犬肉
+	dog WORD[24,   2]: 0.0029965 狗肉
+TOKEN[25]: 0.0071620    1 venison
+	venison WORD[25,   1]: 0.0035810 鹿肉
+TOKEN[26]: 0.0068863    1 pot
+	pot WORD[26,   1]: 0.0068863 肉鍋
+TOKEN[27]: 0.0067714    2 breast
+	breast WORD[27,   1]: 0.0033857 むね肉
+	breast WORD[27,   2]: 0.0033857 胸肉
+TOKEN[28]: 0.0067079    1 rumen
+	rumen WORD[28,   1]: 0.0067079 白肉
+TOKEN[29]: 0.0065865    6 chicken
+	chicken WORD[29,   1]: 0.0016028 正肉
+	chicken WORD[29,   2]: 0.0015902 むね肉
+	chicken WORD[29,   3]: 0.0015902 胸肉
+	chicken WORD[29,   4]: 0.0006293 とり肉
+	chicken WORD[29,   5]: 0.0006293 鳥肉
+	chicken WORD[29,   6]: 0.0005446 鶏肉
+TOKEN[30]: 0.0064806    3 carrion
+	carrion WORD[30,   1]: 0.0025211 屍肉
+	carrion WORD[30,   2]: 0.0025211 死肉
+	carrion WORD[30,   3]: 0.0014384 腐肉
+TOKEN[31]: 0.0064617    6 fat
+	fat WORD[31,   1]: 0.0017504 正肉
+	fat WORD[31,   2]: 0.0011825 肉づく
+	fat WORD[31,   3]: 0.0011825 肉付く
+	fat WORD[31,   4]: 0.0010773 太り肉
+	fat WORD[31,   5]: 0.0006345 ぜい肉
+	fat WORD[31,   6]: 0.0006345 贅肉
+TOKEN[32]: 0.0063257    4 fruit
+	fruit WORD[32,   1]: 0.0038254 白肉
+	fruit WORD[32,   2]: 0.0008326 多肉
+	fruit WORD[32,   3]: 0.0005916 肉
+	fruit WORD[32,   4]: 0.0004846 果肉
+TOKEN[33]: 0.0061674    8 body
+	body WORD[33,   1]: 0.0013038 肉塊
+	body WORD[33,   2]: 0.0008192 霊肉
+	body WORD[33,   3]: 0.0006891 肉叢
+	body WORD[33,   4]: 0.0006656 骨肉
+	body WORD[33,   5]: 0.0006600 血肉
+	body WORD[33,   6]: 0.0005297 皮肉
+	body WORD[33,   7]: 0.0005000 肉体
+	body WORD[33,   8]: 0.0005000 肉
+TOKEN[34]: 0.0060332    3 white
+	white WORD[34,   1]: 0.0034158 白肉
+	white WORD[34,   2]: 0.0013087 むね肉
+	white WORD[34,   3]: 0.0013087 胸肉
+TOKEN[35]: 0.0058790    1 tripe
+	tripe WORD[35,   1]: 0.0058790 白肉
+TOKEN[36]: 0.0057709    1 deer
+	deer WORD[36,   1]: 0.0028855 鹿肉
+TOKEN[37]: 0.0056140    5 ham
+	ham WORD[37,   1]: 0.0013233 脾肉
+	ham WORD[37,   2]: 0.0013233 髀肉
+	ham WORD[37,   3]: 0.0009891 もも肉
+	ham WORD[37,   4]: 0.0009891 股肉
+	ham WORD[37,   5]: 0.0009891 腿肉
+TOKEN[38]: 0.0052622    4 fleshiness
+	fleshiness WORD[38,   1]: 0.0013785 肉づき
+	fleshiness WORD[38,   2]: 0.0013784 肉質
+	fleshiness WORD[38,   3]: 0.0012529 肉付き
+	fleshiness WORD[38,   4]: 0.0012525 肉置き
+TOKEN[39]: 0.0051261    2 dick
+	dick WORD[39,   1]: 0.0027551 肉茎
+	dick WORD[39,   2]: 0.0023709 肉棒
+TOKEN[40]: 0.0050400    1 cinnamon
+	cinnamon WORD[40,   1]: 0.0050400 肉桂
+TOKEN[41]: 0.0049934    3 blood
+	blood WORD[41,   1]: 0.0022933 血肉
+	blood WORD[41,   2]: 0.0015418 骨肉
+	blood WORD[41,   3]: 0.0011583 肉親
+TOKEN[42]: 0.0049433    2 chunk
+	chunk WORD[42,   1]: 0.0024717 固まり肉
+	chunk WORD[42,   2]: 0.0024717 塊肉
+TOKEN[43]: 0.0046432    5 physical
+	physical WORD[43,   1]: 0.0010011 肉的
+	physical WORD[43,   2]: 0.0010008 肉界
+	physical WORD[43,   3]: 0.0006604 肉眼
+	physical WORD[43,   4]: 0.0006604 肉感
+	physical WORD[43,   5]: 0.0006603 肉
+TOKEN[44]: 0.0046355    1 cow
+	cow WORD[44,   1]: 0.0046355 白肉
+TOKEN[45]: 0.0045986    2 cock
+	cock WORD[45,   1]: 0.0024716 肉茎
+	cock WORD[45,   2]: 0.0021270 肉棒
+TOKEN[46]: 0.0045923    2 shank
+	shank WORD[46,   1]: 0.0022962 すね肉
+	shank WORD[46,   2]: 0.0022962 スネ肉
+TOKEN[47]: 0.0044837    1 punishment
+	punishment WORD[47,   1]: 0.0044837 肉刑
+TOKEN[48]: 0.0043627    2 corporal
+	corporal WORD[48,   1]: 0.0030627 肉刑
+	corporal WORD[48,   2]: 0.0013000 肉的
+TOKEN[49]: 0.0042106    4 poultry
+	poultry WORD[49,   1]: 0.0019818 赤肉
+	poultry WORD[49,   2]: 0.0007778 とり肉
+	poultry WORD[49,   3]: 0.0007778 鳥肉
+	poultry WORD[49,   4]: 0.0006731 鶏肉
+TOKEN[50]: 0.0041920    2 pressing
+	pressing WORD[50,   1]: 0.0013973 肉薄
+	pressing WORD[50,   2]: 0.0013973 肉迫
+TOKEN[51]: 0.0041109    3 thigh
+	thigh WORD[51,   1]: 0.0018388 赤肉
+	thigh WORD[51,   2]: 0.0011360 脾肉
+	thigh WORD[51,   3]: 0.0011360 髀肉
+TOKEN[52]: 0.0038728    4 leg
+	leg WORD[52,   1]: 0.0016236 赤肉
+	leg WORD[52,   2]: 0.0007497 もも肉
+	leg WORD[52,   3]: 0.0007497 股肉
+	leg WORD[52,   4]: 0.0007497 腿肉
+TOKEN[53]: 0.0038307    1 plum
+	plum WORD[53,   1]: 0.0038307 梅肉
+TOKEN[54]: 0.0037898    2 pulp
+	pulp WORD[54,   1]: 0.0021747 梅肉
+	pulp WORD[54,   2]: 0.0008076 肉
+TOKEN[55]: 0.0037896    2 stew
+	stew WORD[55,   1]: 0.0018948 肉じゃが
+	stew WORD[55,   2]: 0.0018948 肉ジャガ
+TOKEN[56]: 0.0037434    2 potato
+	potato WORD[56,   1]: 0.0018717 肉じゃが
+	potato WORD[56,   2]: 0.0018717 肉ジャガ
+TOKEN[57]: 0.0037192    1 pan
+	pan WORD[57,   1]: 0.0037192 肉鍋
+TOKEN[58]: 0.0037055    1 mutilation
+	mutilation WORD[58,   1]: 0.0037055 肉刑
+TOKEN[59]: 0.0036412    5 round
+	round WORD[59,   1]: 0.0008583 脾肉
+	round WORD[59,   2]: 0.0008583 髀肉
+	round WORD[59,   3]: 0.0006415 もも肉
+	round WORD[59,   4]: 0.0006415 股肉
+	round WORD[59,   5]: 0.0006415 腿肉
+TOKEN[60]: 0.0034433    2 joint
+	joint WORD[60,   1]: 0.0017217 固まり肉
+	joint WORD[60,   2]: 0.0017217 塊肉
+TOKEN[61]: 0.0034242    1 cooking
+	cooking WORD[61,   1]: 0.0034242 肉鍋
+TOKEN[62]: 0.0033622    3 red
+	red WORD[62,   1]: 0.0014210 朱肉
+	red WORD[62,   2]: 0.0012956 赤肉
+	red WORD[62,   3]: 0.0006456 薄肉
+TOKEN[63]: 0.0033249    3 carnal
+	carnal WORD[63,   1]: 0.0012502 肉慾
+	carnal WORD[63,   2]: 0.0012502 肉欲
+	carnal WORD[63,   3]: 0.0008245 肉感
+TOKEN[64]: 0.0033191    2 hard
+	hard WORD[64,   1]: 0.0011064 肉薄
+	hard WORD[64,   2]: 0.0011064 肉迫
+TOKEN[65]: 0.0032899    2 human
+	human WORD[65,   1]: 0.0016485 肉塊
+	human WORD[65,   2]: 0.0016415 人肉
+TOKEN[66]: 0.0032000    1 mesophyll
+	mesophyll WORD[66,   1]: 0.0032000 葉肉
+TOKEN[67]: 0.0031447    1 granulation
+	granulation WORD[67,   1]: 0.0031447 肉芽
+TOKEN[68]: 0.0031436    1 pedicel
+	pedicel WORD[68,   1]: 0.0031436 肉茎
+TOKEN[69]: 0.0031436    1 pedicle
+	pedicle WORD[69,   1]: 0.0031436 肉茎
+TOKEN[70]: 0.0030888    3 piece
+	piece WORD[70,   1]: 0.0014638 肉塊
+	piece WORD[70,   2]: 0.0008512 肉片
+	piece WORD[70,   3]: 0.0007737 肉叢
+TOKEN[71]: 0.0030246    2 dead
+	dead WORD[71,   1]: 0.0015123 屍肉
+	dead WORD[71,   2]: 0.0015123 死肉
+TOKEN[72]: 0.0030195    3 excess
+	excess WORD[72,   1]: 0.0017504 正肉
+	excess WORD[72,   2]: 0.0006345 ぜい肉
+	excess WORD[72,   3]: 0.0006345 贅肉
+TOKEN[73]: 0.0030179    1 hot
+	hot WORD[73,   1]: 0.0030179 肉鍋
+TOKEN[74]: 0.0029401    3 dish
+	dish WORD[74,   1]: 0.0015813 回鍋肉
+	dish WORD[74,   2]: 0.0006794 焼き肉
+	dish WORD[74,   3]: 0.0006794 焼肉
+TOKEN[75]: 0.0029236    1 cockscomb
+	cockscomb WORD[75,   1]: 0.0029236 肉冠
+TOKEN[76]: 0.0028357    1 peduncle
+	peduncle WORD[76,   1]: 0.0028357 肉茎
+TOKEN[77]: 0.0028352    2 lump
+	lump WORD[77,   1]: 0.0018548 肉塊
+	lump WORD[77,   2]: 0.0009804 肉叢
+TOKEN[78]: 0.0027851    3 substance
+	substance WORD[78,   1]: 0.0006963 肉づけ
+	substance WORD[78,   2]: 0.0006963 肉付け
+	substance WORD[78,   3]: 0.0006962 肉
+TOKEN[79]: 0.0027348    3 grilled
+	grilled WORD[79,   1]: 0.0010826 肉汁
+	grilled WORD[79,   2]: 0.0008261 焼き肉
+	grilled WORD[79,   3]: 0.0008261 焼肉
+TOKEN[80]: 0.0026948    3 build
+	build WORD[80,   1]: 0.0009373 肉づき
+	build WORD[80,   2]: 0.0009055 中肉
+	build WORD[80,   3]: 0.0008519 肉付き
+TOKEN[81]: 0.0026943    1 radical
+	radical WORD[81,   1]: 0.0026943 肉月
+TOKEN[82]: 0.0026840    2 whale
+	whale WORD[82,   1]: 0.0020516 尾肉
+	whale WORD[82,   2]: 0.0006324 鯨肉
+TOKEN[83]: 0.0026673    3 animal
+	animal WORD[83,   1]: 0.0009339 獣肉
+	animal WORD[83,   2]: 0.0008667 肉慾
+	animal WORD[83,   3]: 0.0008667 肉欲
+TOKEN[84]: 0.0025892    3 quality
+	quality WORD[84,   1]: 0.0008970 肉質
+	quality WORD[84,   2]: 0.0008666 中肉
+	quality WORD[84,   3]: 0.0008257 精肉
+TOKEN[85]: 0.0025508    3 relative
+	relative WORD[85,   1]: 0.0009300 骨肉
+	relative WORD[85,   2]: 0.0009222 血肉
+	relative WORD[85,   3]: 0.0006987 肉親
+TOKEN[86]: 0.0025481    3 bone
+	bone WORD[86,   1]: 0.0009124 骨肉
+	bone WORD[86,   2]: 0.0009097 枝肉
+	bone WORD[86,   3]: 0.0007261 皮肉
+TOKEN[87]: 0.0025200    1 Cinnamomum
+	Cinnamomum WORD[87,   1]: 0.0025200 肉桂
+TOKEN[88]: 0.0023822    5 one
+	one WORD[88,   1]: 0.0007360 骨肉
+	one WORD[88,   2]: 0.0005857 皮肉
+	one WORD[88,   3]: 0.0004192 肉筆
+	one WORD[88,   4]: 0.0003649 血肉
+	one WORD[88,   5]: 0.0002765 肉体
+TOKEN[89]: 0.0023539    1 paw
+	paw WORD[89,   1]: 0.0023539 肉球
+TOKEN[90]: 0.0023070    2 pig
+	pig WORD[90,   1]: 0.0011535 脾肉
+	pig WORD[90,   2]: 0.0011535 髀肉
+TOKEN[91]: 0.0022881    1 steak
+	steak WORD[91,   1]: 0.0022881 青椒肉絲
+TOKEN[92]: 0.0022731    2 gain
+	gain WORD[92,   1]: 0.0011366 肉づく
+	gain WORD[92,   2]: 0.0011366 肉付く
+TOKEN[93]: 0.0022702    1 comb
+	comb WORD[93,   1]: 0.0022702 肉冠
+TOKEN[94]: 0.0022688    3 fowl
+	fowl WORD[94,   1]: 0.0007918 とり肉
+	fowl WORD[94,   2]: 0.0007918 鳥肉
+	fowl WORD[94,   3]: 0.0006852 鶏肉
+TOKEN[95]: 0.0022655    1 incarnation
+	incarnation WORD[95,   1]: 0.0022655 受肉
+TOKEN[96]: 0.0022643    1 mutton
+	mutton WORD[96,   1]: 0.0022643 羊肉
+TOKEN[97]: 0.0022534    1 horse
+	horse WORD[97,   1]: 0.0022534 桜肉
+TOKEN[98]: 0.0022391    2 sexual
+	sexual WORD[98,   1]: 0.0016177 柔肉
+	sexual WORD[98,   2]: 0.0006213 肉感
+TOKEN[99]: 0.0021830    2 lust
+	lust WORD[99,   1]: 0.0010915 肉慾
+	lust WORD[99,   2]: 0.0010915 肉欲
+TOKEN[100]: 0.0021735    1 smoked
+	smoked WORD[100,   1]: 0.0021735 燻肉
+TOKEN[101]: 0.0021725    1 crest
+	crest WORD[101,   1]: 0.0021725 肉冠
+TOKEN[102]: 0.0021198    1 Christ
+	Christ WORD[102,   1]: 0.0021198 受肉
+TOKEN[103]: 0.0021092    1 lamb
+	lamb WORD[103,   1]: 0.0021092 羊肉
+TOKEN[104]: 0.0021038    2 barbecue
+	barbecue WORD[104,   1]: 0.0010519 焼き肉
+	barbecue WORD[104,   2]: 0.0010519 焼肉
+TOKEN[105]: 0.0020832    1 thinning
+	thinning WORD[105,   1]: 0.0020832 減肉
+TOKEN[106]: 0.0020758    2 weight
+	weight WORD[106,   1]: 0.0010379 肉づく
+	weight WORD[106,   2]: 0.0010379 肉付く
+TOKEN[107]: 0.0020640    2 fleshy
+	fleshy WORD[107,   1]: 0.0012066 多肉
+	fleshy WORD[107,   2]: 0.0008574 肉厚
+TOKEN[108]: 0.0020625    1 offal
+	offal WORD[108,   1]: 0.0020625 くず肉
+TOKEN[109]: 0.0020352    1 salted
+	salted WORD[109,   1]: 0.0020352 肉醤
+TOKEN[110]: 0.0020337    1 context
+	context WORD[110,   1]: 0.0020337 柔肉
+TOKEN[111]: 0.0020057    2 task
+	task WORD[111,   1]: 0.0006686 肉薄
+	task WORD[111,   2]: 0.0006686 肉迫
+TOKEN[112]: 0.0019847    1 medium
+	medium WORD[112,   1]: 0.0019847 中肉
+TOKEN[113]: 0.0019760    2 skin
+	skin WORD[113,   1]: 0.0013874 正肉
+	skin WORD[113,   2]: 0.0005886 皮肉
+TOKEN[114]: 0.0019468    2 fleshing
+	fleshing WORD[114,   1]: 0.0009734 肉づけ
+	fleshing WORD[114,   2]: 0.0009734 肉付け
+TOKEN[115]: 0.0019458    1 sole
+	sole WORD[115,   1]: 0.0019458 肉球
+TOKEN[116]: 0.0019021    2 degree
+	degree WORD[116,   1]: 0.0009964 肉づき
+	degree WORD[116,   2]: 0.0009056 肉付き
+TOKEN[117]: 0.0018912    1 tail
+	tail WORD[117,   1]: 0.0018912 尾肉
+TOKEN[118]: 0.0018631    1 shellfish
+	shellfish WORD[118,   1]: 0.0018631 貝肉
+TOKEN[119]: 0.0018375    2 question
+	question WORD[119,   1]: 0.0006125 肉薄
+	question WORD[119,   2]: 0.0006125 肉迫
+TOKEN[120]: 0.0018061    2 fish
+	fish WORD[120,   1]: 0.0014084 肉醤
+	fish WORD[120,   2]: 0.0003977 魚肉
+TOKEN[121]: 0.0017912    1 pepper
+	pepper WORD[121,   1]: 0.0017912 青椒肉絲
+TOKEN[122]: 0.0017773    2 modeling
+	modeling WORD[122,   1]: 0.0008887 肉づけ
+	modeling WORD[122,   2]: 0.0008886 肉付け
+TOKEN[123]: 0.0017692    1 corn
+	corn WORD[123,   1]: 0.0008846 肉刺
+TOKEN[124]: 0.0017594    2 grill
+	grill WORD[124,   1]: 0.0008797 焼き肉
+	grill WORD[124,   2]: 0.0008797 焼肉
+TOKEN[125]: 0.0017439    1 butcher
+	butcher WORD[125,   1]: 0.0017439 肉屋
+TOKEN[126]: 0.0017174    1 blister
+	blister WORD[126,   1]: 0.0008587 肉刺
+TOKEN[127]: 0.0017114    1 soft
+	soft WORD[127,   1]: 0.0017114 柔肉
+TOKEN[128]: 0.0017113    2 enemy
+	enemy WORD[128,   1]: 0.0005704 肉薄
+	enemy WORD[128,   2]: 0.0005704 肉迫
+TOKEN[129]: 0.0017064    1 pipe
+	pipe WORD[129,   1]: 0.0017064 減肉
+TOKEN[130]: 0.0017029    3 ground
+	ground WORD[130,   1]: 0.0005676 ひき肉
+	ground WORD[130,   2]: 0.0005676 挽き肉
+	ground WORD[130,   3]: 0.0005676 挽肉
+TOKEN[131]: 0.0016842    2 coming
+	coming WORD[131,   1]: 0.0005614 肉薄
+	coming WORD[131,   2]: 0.0005614 肉迫
+TOKEN[132]: 0.0016835    2 type
+	type WORD[132,   1]: 0.0008418 肉細
+	type WORD[132,   2]: 0.0008418 肉太
+TOKEN[133]: 0.0016683    1 thickness
+	thickness WORD[133,   1]: 0.0008342 肉
+TOKEN[134]: 0.0016670    2 first
+	first WORD[134,   1]: 0.0005557 肉薄
+	first WORD[134,   2]: 0.0005557 肉迫
+TOKEN[135]: 0.0016419    3 bird
+	bird WORD[135,   1]: 0.0005730 とり肉
+	bird WORD[135,   2]: 0.0005730 鳥肉
+	bird WORD[135,   3]: 0.0004959 鶏肉
+TOKEN[136]: 0.0016384    2 put
+	put WORD[136,   1]: 0.0008192 肉づく
+	put WORD[136,   2]: 0.0008192 肉付く
+TOKEN[137]: 0.0016312    1 sinewy
+	sinewy WORD[137,   1]: 0.0008156 筋肉
+TOKEN[138]: 0.0015869    2 bun
+	bun WORD[138,   1]: 0.0007934 肉まん
+	bun WORD[138,   2]: 0.0007934 肉饅
+TOKEN[139]: 0.0015728    1 bouillon
+	bouillon WORD[139,   1]: 0.0015728 肉汁
+TOKEN[140]: 0.0015702    1 waste
+	waste WORD[140,   1]: 0.0015702 くず肉
+TOKEN[141]: 0.0015508    2 Korean
+	Korean WORD[141,   1]: 0.0007754 焼き肉
+	Korean WORD[141,   2]: 0.0007754 焼肉
+TOKEN[142]: 0.0015179    2 made
+	made WORD[142,   1]: 0.0007590 脾肉
+	made WORD[142,   2]: 0.0007590 髀肉
+TOKEN[143]: 0.0015128    2 taking
+	taking WORD[143,   1]: 0.0005043 肉薄
+	taking WORD[143,   2]: 0.0005043 肉迫
+TOKEN[144]: 0.0014957    1 corpulent
+	corpulent WORD[144,   1]: 0.0014957 太り肉
+TOKEN[145]: 0.0014765    2 similar
+	similar WORD[145,   1]: 0.0007383 焼き肉
+	similar WORD[145,   2]: 0.0007383 焼肉
+TOKEN[146]: 0.0014756    1 attacker
+	attacker WORD[146,   1]: 0.0014756 肉弾
+TOKEN[147]: 0.0014756    1 gravy
+	gravy WORD[147,   1]: 0.0014756 肉汁
+TOKEN[148]: 0.0014599    1 succulent
+	succulent WORD[148,   1]: 0.0014599 多肉
+TOKEN[149]: 0.0014436    1 remark
+	remark WORD[149,   1]: 0.0014436 皮肉る
+TOKEN[150]: 0.0014324    1 dark
+	dark WORD[150,   1]: 0.0014324 赤肉
+TOKEN[151]: 0.0014291    1 plumpness
+	plumpness WORD[151,   1]: 0.0014291 肉置き
+TOKEN[152]: 0.0014266    2 fresh
+	fresh WORD[152,   1]: 0.0008808 鮮肉
+	fresh WORD[152,   2]: 0.0005459 生肉
+TOKEN[153]: 0.0014229    1 wall
+	wall WORD[153,   1]: 0.0014229 減肉
+TOKEN[154]: 0.0014167    2 thick
+	thick WORD[154,   1]: 0.0008190 朱肉
+	thick WORD[154,   2]: 0.0005978 肉厚
+TOKEN[155]: 0.0014012    1 tree
+	tree WORD[155,   1]: 0.0014012 肉桂
+TOKEN[156]: 0.0013810    1 kinsman
+	kinsman WORD[156,   1]: 0.0013810 骨肉
+TOKEN[157]: 0.0013781    1 sensual
+	sensual WORD[157,   1]: 0.0013781 肉界
+TOKEN[158]: 0.0013780    1 bulbil
+	bulbil WORD[158,   1]: 0.0013780 肉芽
+TOKEN[159]: 0.0013765    2 surplus
+	surplus WORD[159,   1]: 0.0006883 ぜい肉
+	surplus WORD[159,   2]: 0.0006883 贅肉
+TOKEN[160]: 0.0013643    1 gingiva
+	gingiva WORD[160,   1]: 0.0013643 歯肉
+TOKEN[161]: 0.0013628    2 filling
+	filling WORD[161,   1]: 0.0006814 肉まん
+	filling WORD[161,   2]: 0.0006814 肉饅
+TOKEN[162]: 0.0013598    1 green
+	green WORD[162,   1]: 0.0013598 青椒肉絲
+TOKEN[163]: 0.0013518    2 place
+	place WORD[163,   1]: 0.0004506 肉薄
+	place WORD[163,   2]: 0.0004506 肉迫
+TOKEN[164]: 0.0013404    1 content
+	content WORD[164,   1]: 0.0006702 肉
+TOKEN[165]: 0.0013396    1 chubby
+	chubby WORD[165,   1]: 0.0013396 太り肉
+TOKEN[166]: 0.0012598    1 eating
+	eating WORD[166,   1]: 0.0012598 肉食
+TOKEN[167]: 0.0012540    1 sarcoma
+	sarcoma WORD[167,   1]: 0.0012540 肉腫
+TOKEN[168]: 0.0012502    1 autograph
+	autograph WORD[168,   1]: 0.0012502 肉筆
+TOKEN[169]: 0.0012445    1 opposed
+	opposed WORD[169,   1]: 0.0006223 肉
+TOKEN[170]: 0.0011896    1 shop
+	shop WORD[170,   1]: 0.0011896 肉屋
+TOKEN[171]: 0.0011804    2 giving
+	giving WORD[171,   1]: 0.0005902 肉づけ
+	giving WORD[171,   2]: 0.0005902 肉付け
+TOKEN[172]: 0.0011578    1 cinnabar
+	cinnabar WORD[172,   1]: 0.0011578 朱肉
+TOKEN[173]: 0.0011457    1 eye
+	eye WORD[173,   1]: 0.0011457 肉眼
+TOKEN[174]: 0.0011394    1 holder
+	holder WORD[174,   1]: 0.0011394 肉池
+TOKEN[175]: 0.0011362    1 feeling
+	feeling WORD[175,   1]: 0.0011362 肉感
+TOKEN[176]: 0.0011329    1 tissue
+	tissue WORD[176,   1]: 0.0011329 肉芽
+TOKEN[177]: 0.0011229    1 soul
+	soul WORD[177,   1]: 0.0011229 霊肉
+TOKEN[178]: 0.0011004    1 cattle
+	cattle WORD[178,   1]: 0.0011004 肉牛
+TOKEN[179]: 0.0010991    1 cynical
+	cynical WORD[179,   1]: 0.0010991 皮肉る
+TOKEN[180]: 0.0010990    1 cynicism
+	cynicism WORD[180,   1]: 0.0010990 皮肉
+TOKEN[181]: 0.0010943    1 carcass
+	carcass WORD[181,   1]: 0.0010943 枝肉
+TOKEN[182]: 0.0010922    2 plan
+	plan WORD[182,   1]: 0.0005461 肉づけ
+	plan WORD[182,   2]: 0.0005461 肉付け
+TOKEN[183]: 0.0010884    1 spirit
+	spirit WORD[183,   1]: 0.0005442 肉
+TOKEN[184]: 0.0010665    1 suicide
+	suicide WORD[184,   1]: 0.0010665 肉弾
+TOKEN[185]: 0.0010558    1 handwriting
+	handwriting WORD[185,   1]: 0.0010558 肉筆
+TOKEN[186]: 0.0010523    1 scrap
+	scrap WORD[186,   1]: 0.0010523 肉粉
+TOKEN[187]: 0.0010375    1 carnivorous
+	carnivorous WORD[187,   1]: 0.0010375 肉食
+TOKEN[188]: 0.0010036    1 signature
+	signature WORD[188,   1]: 0.0010036 朱肉
+TOKEN[189]: 0.0009734    1 microphone
+	microphone WORD[189,   1]: 0.0009734 肉声
+TOKEN[190]: 0.0009675    1 soup
+	soup WORD[190,   1]: 0.0009675 肉汁
+TOKEN[191]: 0.0009632    1 satirize
+	satirize WORD[191,   1]: 0.0009632 皮肉る
+TOKEN[192]: 0.0009632    1 satire
+	satire WORD[192,   1]: 0.0009632 皮肉
+TOKEN[193]: 0.0009632    1 irony
+	irony WORD[193,   1]: 0.0009632 皮肉
+TOKEN[194]: 0.0009595    1 dressed
+	dressed WORD[194,   1]: 0.0009595 枝肉
+TOKEN[195]: 0.0009451    1 moon
+	moon WORD[195,   1]: 0.0009451 肉月
+TOKEN[196]: 0.0009334    2 Japanese
+	Japanese WORD[196,   1]: 0.0004667 焼き肉
+	Japanese WORD[196,   2]: 0.0004667 焼肉
+TOKEN[197]: 0.0009307    1 make
+	make WORD[197,   1]: 0.0009307 皮肉る
+TOKEN[198]: 0.0009235    1 sarcasm
+	sarcasm WORD[198,   1]: 0.0009235 皮肉
+TOKEN[199]: 0.0009191    1 brush
+	brush WORD[199,   1]: 0.0009191 肉筆
+TOKEN[200]: 0.0009077    1 meal
+	meal WORD[200,   1]: 0.0009077 肉粉
+TOKEN[201]: 0.0009048    1 case
+	case WORD[201,   1]: 0.0009048 肉入れ
+TOKEN[202]: 0.0009005    1 written
+	written WORD[202,   1]: 0.0009005 肉筆
+TOKEN[203]: 0.0008994    1 relation
+	relation WORD[203,   1]: 0.0008994 血肉
+TOKEN[204]: 0.0008791    1 cold
+	cold WORD[204,   1]: 0.0008791 冷肉
+TOKEN[205]: 0.0008737    1 hurting
+	hurting WORD[205,   1]: 0.0008737 苦肉
+TOKEN[206]: 0.0008554    1 alcohol
+	alcohol WORD[206,   1]: 0.0008554 酒肉
+TOKEN[207]: 0.0008405    1 sarcastic
+	sarcastic WORD[207,   1]: 0.0008405 皮肉る
+TOKEN[208]: 0.0008306    1 left
+	left WORD[208,   1]: 0.0008306 肉月
+TOKEN[209]: 0.0008245    1 torn
+	torn WORD[209,   1]: 0.0008245 肉離れ
+TOKEN[210]: 0.0008107    1 world
+	world WORD[210,   1]: 0.0008107 肉界
+TOKEN[211]: 0.0007962    1 mock
+	mock WORD[211,   1]: 0.0007962 皮肉る
+TOKEN[212]: 0.0007962    1 superficial
+	superficial WORD[212,   1]: 0.0007962 皮肉
+TOKEN[213]: 0.0007800    1 close
+	close WORD[213,   1]: 0.0007800 血肉
+TOKEN[214]: 0.0007759    1 drink
+	drink WORD[214,   1]: 0.0007759 酒肉
+TOKEN[215]: 0.0007716    1 plant
+	plant WORD[215,   1]: 0.0007716 多肉
+TOKEN[216]: 0.0007699    1 goods
+	goods WORD[216,   1]: 0.0007699 精肉
+TOKEN[217]: 0.0007657    1 adversary
+	adversary WORD[217,   1]: 0.0007657 苦肉
+TOKEN[218]: 0.0007536    1 cut
+	cut WORD[218,   1]: 0.0007536 肉片
+TOKEN[219]: 0.0007436    1 diet
+	diet WORD[219,   1]: 0.0007436 肉食
+TOKEN[220]: 0.0007362    1 physique
+	physique WORD[220,   1]: 0.0007362 肉体
+TOKEN[221]: 0.0007100    1 unexpected
+	unexpected WORD[221,   1]: 0.0007100 皮肉
+TOKEN[222]: 0.0007076    1 consumption
+	consumption WORD[222,   1]: 0.0007076 食肉
+TOKEN[223]: 0.0006940    1 naked
+	naked WORD[223,   1]: 0.0006940 肉眼
+TOKEN[224]: 0.0006578    1 food
+	food WORD[224,   1]: 0.0006578 酒肉
+TOKEN[225]: 0.0006573    1 outer
+	outer WORD[225,   1]: 0.0006573 肉体
+TOKEN[226]: 0.0006419    1 good
+	good WORD[226,   1]: 0.0006419 精肉
+TOKEN[227]: 0.0006404    1 small
+	small WORD[227,   1]: 0.0006404 精肉
+TOKEN[228]: 0.0006223    1 desire
+	desire WORD[228,   1]: 0.0006223 肉感
+TOKEN[229]: 0.0006097    1 relationship
+	relationship WORD[229,   1]: 0.0006097 肉親
+TOKEN[230]: 0.0006011    1 natural
+	natural WORD[230,   1]: 0.0006011 肉声
+TOKEN[231]: 0.0006000    1 used
+	used WORD[231,   1]: 0.0006000 朱肉
+TOKEN[232]: 0.0005970    1 surface
+	surface WORD[232,   1]: 0.0005970 皮肉
+TOKEN[233]: 0.0005970    1 different
+	different WORD[233,   1]: 0.0005970 皮肉
+TOKEN[234]: 0.0005961    1 duck
+	duck WORD[234,   1]: 0.0005961 鴨肉
+TOKEN[235]: 0.0005925    1 light
+	light WORD[235,   1]: 0.0005925 薄肉
+TOKEN[236]: 0.0005837    1 raw
+	raw WORD[236,   1]: 0.0005837 生肉
+TOKEN[237]: 0.0005552    1 voice
+	voice WORD[237,   1]: 0.0005552 肉声
+TOKEN[238]: 0.0005197    1 man
+	man WORD[238,   1]: 0.0005197 肉体
+TOKEN[239]: 0.0005137    1 bear
+	bear WORD[239,   1]: 0.0005137 熊肉
+TOKEN[240]: 0.0005062    1 trick
+	trick WORD[240,   1]: 0.0005062 苦肉
+TOKEN[241]: 0.0004251    1 something
+	something WORD[241,   1]: 0.0004251 皮肉

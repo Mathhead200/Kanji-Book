@@ -1,0 +1,656 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0882961    2 mallet         : 杵柄, 杵
+0.0783529    1 pounder        : 杵
+0.0598506    1 pestle         : 杵
+0.0413891    1 thing          : 烏滸
+0.0363949    6 noon           : 午刻, 午砲, 午すぎ, 午過ぎ, 午, 正午
+0.0328461    5 sexagenary     : 戊午, 甲午, 庚午, 丙午, 壬午
+0.0320459    1 absurdity      : 烏滸
+0.0298562    5 cycle          : 戊午, 甲午, 庚午, 丙午, 壬午
+0.0284792    5 term           : 戊午, 甲午, 庚午, 丙午, 壬午
+0.0253475    1 foolish        : 烏滸
+0.0251401    1 stupid         : 烏滸
+0.0241715    2 handle         : 杵柄, 手許
+0.0222672   12 permission     : 不許, 允許, 許し, 黙許, 免許, 特許, 聴許, 公許, 許容, 許諾, ...
+0.0202101    1 presumptuous   : 烏滸がましい
+0.0191988    1 impertinent    : 烏滸がましい
+0.0185242    1 cheeky         : 烏滸がましい
+0.0183662    1 laughable      : 烏滸がましい
+0.0181788    7 approval       : 不許, 許否, 認許, 裁許, 許認可, 許諾, 許可
+0.0174590    1 impudent       : 烏滸がましい
+0.0167611    1 ridiculous     : 烏滸がましい
+0.0155580    1 absurd         : 烏滸がましい
+0.0125803    1 lack           : 不許
+0.0118594    4 afternoon      : 午すぎ, 午過ぎ, 午后, 午後
+0.0109330    3 lunch          : 午, 午飯, 午餐
+0.0100261    2 midday         : 午, 正午
+0.0073856    1 lunar          : 初午
+0.0069274    1 gun            : 午砲
+0.0067973    1 daytime        : 午
+0.0066806    1 month          : 初午
+0.0065587    4 area           : 此処許, 爰許, 目許, 眼許
+0.0064814    7 license        : 許状, 允許, 免許, 特許, 公許, 許可, 官許
+0.0060009    1 day            : 初午
+0.0058651    1 year           : 午年
+0.0056573    1 noonday        : 午砲
+0.0056227    4 pardon         : 許状, 許す, 許し, 許容
+0.0052532    2 past           : 午すぎ, 午過ぎ
+0.0051426   10 one            : 膝許, 身許, 目許, 眼許, 足許, 国許, 許す, 枕許, 手許, 親許
+0.0048491    4 permit         : 許状, 許す, 免許, 官許
+0.0043826    1 worship        : 初午
+0.0043505    1 fox            : 初午
+0.0039275    1 deity          : 初午
+0.0034780    1 horse          : 初午
+0.0034579    1 siesta         : 午睡
+0.0033923    1 second         : 初午
+0.0033400    3 place          : 其処許, 国許, 膝許
+0.0033210    1 traditional    : 初午
+0.0030691    4 consent        : 許す, 黙許, 認許, 許諾
+0.0030118    2 concession     : 譲許, 特許
+0.0029825    2 emphasis       : 許り, 許
+0.0029375    1 chartered      : 勅許
+0.0028545    2 forgive        : 差し許す, 許す
+0.0028287    2 certificate    : 許状, 免許
+0.0027538    1 nap            : 午睡
+0.0027523    1 May            : 端午
+0.0027318    2 finished       : 許り, 許
+0.0027308    1 presence       : 御許
+0.0027063    2 side           : 御許, 膝許
+0.0026614    2 minute         : 許り, 許
+0.0026349    2 hand           : 手許, 膝許
+0.0026111    2 allow          : 差し許す, 許す
+0.0025990    1 celebration    : 端午
+0.0025471    2 fiance         : 許婚, 許嫁
+0.0025471    2 fiancee        : 許婚, 許嫁
+0.0024668    1 dinner         : 午餐
+0.0023519    2 letter         : 許状, 膝許
+0.0022950    2 sanction       : 勅許, 裁許
+0.0021561    1 morning        : 午前
+0.0021432    2 charter        : 勅許, 特許
+0.0021110    1 tacit          : 黙許
+0.0021088    2 nothing        : 許り, 許
+0.0020712    1 forgiveness    : 許し
+0.0020365    2 expression     : 目許, 眼許
+0.0020304    1 exemption      : 許し
+0.0019753    2 skin           : 目許, 眼許
+0.0019530    2 round          : 目許, 眼許
+0.0019331    2 going          : 許り, 許
+0.0018583    2 point          : 許り, 許
+0.0018390    2 lot            : 許多, 幾許
+0.0017074    2 undependable   : 心許ない, 心許無い
+0.0016822    2 unsure         : 心許ない, 心許無い
+0.0016412    2 erratic        : 心許ない, 心許無い
+0.0016278    2 many           : 許多, 幾許
+0.0016084    2 untrustworthy  : 心許ない, 心許無い
+0.0015197    2 authorization  : 許認可, 許可
+0.0015196    2 number         : 許多, 幾許
+0.0014831    2 official       : 官許, 公許
+0.0014775    1 step           : 足許
+0.0014742    2 unreliable     : 心許ない, 心許無い
+0.0014529    1 let            : 許す
+0.0014391    2 impatient      : 心許ない, 心許無い
+0.0014338    2 government     : 官許, 公許
+0.0014192    2 unclear        : 心許ない, 心許無い
+0.0013974    2 uneasy         : 心許ない, 心許無い
+0.0013894    2 indistinct     : 心許ない, 心許無い
+0.0013710    2 nervous        : 心許ない, 心許無い
+0.0013496    1 accountant     : 勅許
+0.0013424    2 anxious        : 心許ない, 心許無い
+0.0012841    2 anxiety        : 心許ない, 心許無い
+0.0012482    1 remit          : 許す
+0.0012351    2 vague          : 心許ない, 心許無い
+0.0012169    1 diploma        : 奥許し
+0.0012115    1 epigastrium    : 胸許
+0.0011771    2 home           : 国許, 親許
+0.0011705    1 confide        : 許す
+0.0011573    1 royal          : 勅許
+0.0011533    1 exempt         : 許す
+0.0011494    1 initiation     : 奥許し
+0.0011383    1 tolerate       : 許す
+0.0011358    1 entrance       : 口許
+0.0011327    1 disapproval    : 許否
+0.0011062    1 mouth          : 口許
+0.0011026    1 acknowledge    : 許す
+0.0010925    1 connivance     : 黙許
+0.0010888    1 extent         : 幾許
+0.0010854    1 numerous       : 許多
+0.0010749    1 birthplace     : 国許
+0.0010679    1 approve        : 許す
+0.0010608    1 plexus         : 胸許
+0.0010501    1 bedside        : 枕許
+0.0010304    1 bit            : 幾許
+0.0010198    1 money          : 手許
+0.0010106    1 admit          : 許す
+0.0010058    1 parentage      : 身許
+0.0010003    1 certain        : 幾許
+0.0009156    1 native         : 国許
+0.0009115    1 little         : 幾許
+0.0008846    1 trust          : 許す
+0.0008830    1 imperial       : 勅許
+0.0008761    1 identity       : 身許
+0.0008759    1 pillow         : 枕許
+0.0008709    1 yield          : 許す
+0.0008659    1 pit            : 胸許
+0.0008647    1 release        : 許す
+0.0008479    1 breast         : 胸許
+0.0008449    1 certification  : 認許
+0.0008347    1 solar          : 胸許
+0.0008339    1 knee           : 膝許
+0.0008306    1 background     : 身許
+0.0008303    1 excuse         : 許す
+0.0007949    1 powerful       : 膝許
+0.0007929    1 chest          : 胸許
+0.0007887    1 patent         : 特許
+0.0007834    1 race           : 許す
+0.0007833    1 stomach        : 胸許
+0.0007828    1 territory      : 膝許
+0.0007815    1 ear            : 耳許
+0.0007769    1 recognition    : 認許
+0.0007766    1 distance       : 許す
+0.0007745    1 secret         : 奥許し
+0.0007728    1 guard          : 許す
+0.0007404    1 protection     : 膝許
+0.0007370    1 birth          : 身許
+0.0007224    1 assent         : 許諾
+0.0007195    1 pocket         : 手許
+0.0007172    1 grip           : 手許
+0.0007130    1 tolerance      : 許容
+0.0006913    1 address        : 膝許
+0.0006900    1 vicinity       : 口許
+0.0006717    1 underfoot      : 足許
+0.0006621    1 great          : 許多
+0.0006470    1 give           : 許す
+0.0006444    1 care           : 膝許
+0.0006430    1 acceptance     : 許容
+0.0006422    1 moving         : 手許
+0.0006416    1 game           : 許す
+0.0006407    1 arms           : 手許
+0.0006402    1 skill          : 手許
+0.0006305    1 allowance      : 許容
+0.0006303    1 gait           : 足許
+0.0006291    1 character      : 身許
+0.0006043    1 recent         : 足許
+0.0005783    1 pace           : 足許
+0.0005757    1 special        : 特許
+0.0005197    1 shape          : 口許
+0.0005117    1 watch          : 足許
+0.0004955    1 someone        : 許す
+0.0004938    1 current        : 足許
+0.0004928    1 used           : 膝許
+0.0004757    1 way            : 手許
+0.0004245    1 person         : 膝許
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0882961    2 mallet
+	mallet WORD[ 1,   1]: 0.0294323 杵柄
+	mallet WORD[ 1,   2]: 0.0294319 杵
+TOKEN[ 2]: 0.0783529    1 pounder
+	pounder WORD[ 2,   1]: 0.0391764 杵
+TOKEN[ 3]: 0.0598506    1 pestle
+	pestle WORD[ 3,   1]: 0.0299253 杵
+TOKEN[ 4]: 0.0413891    1 thing
+	thing WORD[ 4,   1]: 0.0413891 烏滸
+TOKEN[ 5]: 0.0363949    6 noon
+	noon WORD[ 5,   1]: 0.0166541 午刻
+	noon WORD[ 5,   2]: 0.0041319 午砲
+	noon WORD[ 5,   3]: 0.0032311 午すぎ
+	noon WORD[ 5,   4]: 0.0032311 午過ぎ
+	noon WORD[ 5,   5]: 0.0032303 午
+	noon WORD[ 5,   6]: 0.0026859 正午
+TOKEN[ 6]: 0.0328461    5 sexagenary
+	sexagenary WORD[ 6,   1]: 0.0102170 戊午
+	sexagenary WORD[ 6,   2]: 0.0077051 甲午
+	sexagenary WORD[ 6,   3]: 0.0070720 庚午
+	sexagenary WORD[ 6,   4]: 0.0043997 丙午
+	sexagenary WORD[ 6,   5]: 0.0034523 壬午
+TOKEN[ 7]: 0.0320459    1 absurdity
+	absurdity WORD[ 7,   1]: 0.0320459 烏滸
+TOKEN[ 8]: 0.0298562    5 cycle
+	cycle WORD[ 8,   1]: 0.0092870 戊午
+	cycle WORD[ 8,   2]: 0.0070037 甲午
+	cycle WORD[ 8,   3]: 0.0064283 庚午
+	cycle WORD[ 8,   4]: 0.0039992 丙午
+	cycle WORD[ 8,   5]: 0.0031381 壬午
+TOKEN[ 9]: 0.0284792    5 term
+	term WORD[ 9,   1]: 0.0088586 戊午
+	term WORD[ 9,   2]: 0.0066807 甲午
+	term WORD[ 9,   3]: 0.0061318 庚午
+	term WORD[ 9,   4]: 0.0038148 丙午
+	term WORD[ 9,   5]: 0.0029933 壬午
+TOKEN[10]: 0.0253475    1 foolish
+	foolish WORD[10,   1]: 0.0253475 烏滸
+TOKEN[11]: 0.0251401    1 stupid
+	stupid WORD[11,   1]: 0.0251401 烏滸
+TOKEN[12]: 0.0241715    2 handle
+	handle WORD[12,   1]: 0.0235003 杵柄
+	handle WORD[12,   2]: 0.0006712 手許
+TOKEN[13]: 0.0222672   12 permission
+	permission WORD[13,   1]: 0.0134250 不許
+	permission WORD[13,   2]: 0.0009247 允許
+	permission WORD[13,   3]: 0.0008659 許し
+	permission WORD[13,   4]: 0.0008497 黙許
+	permission WORD[13,   5]: 0.0008439 免許
+	permission WORD[13,   6]: 0.0007150 特許
+	permission WORD[13,   7]: 0.0006899 聴許
+	permission WORD[13,   8]: 0.0006294 公許
+	permission WORD[13,   9]: 0.0006162 許容
+	permission WORD[13,  10]: 0.0006162 許諾
+	permission WORD[13,  11]: 0.0006161 許可
+	permission WORD[13,  12]: 0.0006094 官許
+TOKEN[14]: 0.0202101    1 presumptuous
+	presumptuous WORD[14,   1]: 0.0202101 烏滸がましい
+TOKEN[15]: 0.0191988    1 impertinent
+	impertinent WORD[15,   1]: 0.0191988 烏滸がましい
+TOKEN[16]: 0.0185242    1 cheeky
+	cheeky WORD[16,   1]: 0.0185242 烏滸がましい
+TOKEN[17]: 0.0183662    1 laughable
+	laughable WORD[17,   1]: 0.0183662 烏滸がましい
+TOKEN[18]: 0.0181788    7 approval
+	approval WORD[18,   1]: 0.0138561 不許
+	approval WORD[18,   2]: 0.0009925 許否
+	approval WORD[18,   3]: 0.0007654 認許
+	approval WORD[18,   4]: 0.0006571 裁許
+	approval WORD[18,   5]: 0.0006360 許認可
+	approval WORD[18,   6]: 0.0006359 許諾
+	approval WORD[18,   7]: 0.0006359 許可
+TOKEN[19]: 0.0174590    1 impudent
+	impudent WORD[19,   1]: 0.0174590 烏滸がましい
+TOKEN[20]: 0.0167611    1 ridiculous
+	ridiculous WORD[20,   1]: 0.0167611 烏滸がましい
+TOKEN[21]: 0.0155580    1 absurd
+	absurd WORD[21,   1]: 0.0155580 烏滸がましい
+TOKEN[22]: 0.0125803    1 lack
+	lack WORD[22,   1]: 0.0125803 不許
+TOKEN[23]: 0.0118594    4 afternoon
+	afternoon WORD[23,   1]: 0.0032762 午すぎ
+	afternoon WORD[23,   2]: 0.0032762 午過ぎ
+	afternoon WORD[23,   3]: 0.0026535 午后
+	afternoon WORD[23,   4]: 0.0026535 午後
+TOKEN[24]: 0.0109330    3 lunch
+	lunch WORD[24,   1]: 0.0030196 午
+	lunch WORD[24,   2]: 0.0024475 午飯
+	lunch WORD[24,   3]: 0.0024463 午餐
+TOKEN[25]: 0.0100261    2 midday
+	midday WORD[25,   1]: 0.0035410 午
+	midday WORD[25,   2]: 0.0029442 正午
+TOKEN[26]: 0.0073856    1 lunar
+	lunar WORD[26,   1]: 0.0073856 初午
+TOKEN[27]: 0.0069274    1 gun
+	gun WORD[27,   1]: 0.0069274 午砲
+TOKEN[28]: 0.0067973    1 daytime
+	daytime WORD[28,   1]: 0.0033986 午
+TOKEN[29]: 0.0066806    1 month
+	month WORD[29,   1]: 0.0066806 初午
+TOKEN[30]: 0.0065587    4 area
+	area WORD[30,   1]: 0.0023913 此処許
+	area WORD[30,   2]: 0.0023913 爰許
+	area WORD[30,   3]: 0.0008881 目許
+	area WORD[30,   4]: 0.0008881 眼許
+TOKEN[31]: 0.0064814    7 license
+	license WORD[31,   1]: 0.0020980 許状
+	license WORD[31,   2]: 0.0009342 允許
+	license WORD[31,   3]: 0.0008526 免許
+	license WORD[31,   4]: 0.0007224 特許
+	license WORD[31,   5]: 0.0006359 公許
+	license WORD[31,   6]: 0.0006225 許可
+	license WORD[31,   7]: 0.0006158 官許
+TOKEN[32]: 0.0060009    1 day
+	day WORD[32,   1]: 0.0060009 初午
+TOKEN[33]: 0.0058651    1 year
+	year WORD[33,   1]: 0.0058651 午年
+TOKEN[34]: 0.0056573    1 noonday
+	noonday WORD[34,   1]: 0.0056573 午砲
+TOKEN[35]: 0.0056227    4 pardon
+	pardon WORD[35,   1]: 0.0022069 許状
+	pardon WORD[35,   2]: 0.0009203 許す
+	pardon WORD[35,   3]: 0.0009203 許し
+	pardon WORD[35,   4]: 0.0006549 許容
+TOKEN[36]: 0.0052532    2 past
+	past WORD[36,   1]: 0.0026266 午すぎ
+	past WORD[36,   2]: 0.0026266 午過ぎ
+TOKEN[37]: 0.0051426   10 one
+	one WORD[37,   1]: 0.0015419 膝許
+	one WORD[37,   2]: 0.0006619 身許
+	one WORD[37,   3]: 0.0004694 目許
+	one WORD[37,   4]: 0.0004694 眼許
+	one WORD[37,   5]: 0.0004394 足許
+	one WORD[37,   6]: 0.0003810 国許
+	one WORD[37,   7]: 0.0003426 許す
+	one WORD[37,   8]: 0.0003232 枕許
+	one WORD[37,   9]: 0.0002796 手許
+	one WORD[37,  10]: 0.0002342 親許
+TOKEN[38]: 0.0048491    4 permit
+	permit WORD[38,   1]: 0.0022907 許状
+	permit WORD[38,   2]: 0.0009552 許す
+	permit WORD[38,   3]: 0.0009309 免許
+	permit WORD[38,   4]: 0.0006723 官許
+TOKEN[39]: 0.0043826    1 worship
+	worship WORD[39,   1]: 0.0043826 初午
+TOKEN[40]: 0.0043505    1 fox
+	fox WORD[40,   1]: 0.0043505 初午
+TOKEN[41]: 0.0039275    1 deity
+	deity WORD[41,   1]: 0.0039275 初午
+TOKEN[42]: 0.0034780    1 horse
+	horse WORD[42,   1]: 0.0034780 初午
+TOKEN[43]: 0.0034579    1 siesta
+	siesta WORD[43,   1]: 0.0034579 午睡
+TOKEN[44]: 0.0033923    1 second
+	second WORD[44,   1]: 0.0033923 初午
+TOKEN[45]: 0.0033400    3 place
+	place WORD[45,   1]: 0.0021612 其処許
+	place WORD[45,   2]: 0.0006515 国許
+	place WORD[45,   3]: 0.0005273 膝許
+TOKEN[46]: 0.0033210    1 traditional
+	traditional WORD[46,   1]: 0.0033210 初午
+TOKEN[47]: 0.0030691    4 consent
+	consent WORD[47,   1]: 0.0008647 許す
+	consent WORD[47,   2]: 0.0008485 黙許
+	consent WORD[47,   3]: 0.0007406 認許
+	consent WORD[47,   4]: 0.0006153 許諾
+TOKEN[48]: 0.0030118    2 concession
+	concession WORD[48,   1]: 0.0021655 譲許
+	concession WORD[48,   2]: 0.0008463 特許
+TOKEN[49]: 0.0029825    2 emphasis
+	emphasis WORD[49,   1]: 0.0008779 許り
+	emphasis WORD[49,   2]: 0.0007015 許
+TOKEN[50]: 0.0029375    1 chartered
+	chartered WORD[50,   1]: 0.0029375 勅許
+TOKEN[51]: 0.0028545    2 forgive
+	forgive WORD[51,   1]: 0.0018189 差し許す
+	forgive WORD[51,   2]: 0.0010356 許す
+TOKEN[52]: 0.0028287    2 certificate
+	certificate WORD[52,   1]: 0.0020113 許状
+	certificate WORD[52,   2]: 0.0008174 免許
+TOKEN[53]: 0.0027538    1 nap
+	nap WORD[53,   1]: 0.0027538 午睡
+TOKEN[54]: 0.0027523    1 May
+	May WORD[54,   1]: 0.0027523 端午
+TOKEN[55]: 0.0027318    2 finished
+	finished WORD[55,   1]: 0.0008041 許り
+	finished WORD[55,   2]: 0.0006426 許
+TOKEN[56]: 0.0027308    1 presence
+	presence WORD[56,   1]: 0.0027308 御許
+TOKEN[57]: 0.0027063    2 side
+	side WORD[57,   1]: 0.0021233 御許
+	side WORD[57,   2]: 0.0005830 膝許
+TOKEN[58]: 0.0026614    2 minute
+	minute WORD[58,   1]: 0.0007834 許り
+	minute WORD[58,   2]: 0.0006260 許
+TOKEN[59]: 0.0026349    2 hand
+	hand WORD[59,   1]: 0.0020653 手許
+	hand WORD[59,   2]: 0.0005696 膝許
+TOKEN[60]: 0.0026111    2 allow
+	allow WORD[60,   1]: 0.0016638 差し許す
+	allow WORD[60,   2]: 0.0009473 許す
+TOKEN[61]: 0.0025990    1 celebration
+	celebration WORD[61,   1]: 0.0025990 端午
+TOKEN[62]: 0.0025471    2 fiance
+	fiance WORD[62,   1]: 0.0012736 許婚
+	fiance WORD[62,   2]: 0.0012736 許嫁
+TOKEN[63]: 0.0025471    2 fiancee
+	fiancee WORD[63,   1]: 0.0012736 許婚
+	fiancee WORD[63,   2]: 0.0012736 許嫁
+TOKEN[64]: 0.0024668    1 dinner
+	dinner WORD[64,   1]: 0.0024668 午餐
+TOKEN[65]: 0.0023519    2 letter
+	letter WORD[65,   1]: 0.0017100 許状
+	letter WORD[65,   2]: 0.0006418 膝許
+TOKEN[66]: 0.0022950    2 sanction
+	sanction WORD[66,   1]: 0.0014471 勅許
+	sanction WORD[66,   2]: 0.0008479 裁許
+TOKEN[67]: 0.0021561    1 morning
+	morning WORD[67,   1]: 0.0021561 午前
+TOKEN[68]: 0.0021432    2 charter
+	charter WORD[68,   1]: 0.0012926 勅許
+	charter WORD[68,   2]: 0.0008506 特許
+TOKEN[69]: 0.0021110    1 tacit
+	tacit WORD[69,   1]: 0.0021110 黙許
+TOKEN[70]: 0.0021088    2 nothing
+	nothing WORD[70,   1]: 0.0006207 許り
+	nothing WORD[70,   2]: 0.0004960 許
+TOKEN[71]: 0.0020712    1 forgiveness
+	forgiveness WORD[71,   1]: 0.0010356 許し
+TOKEN[72]: 0.0020365    2 expression
+	expression WORD[72,   1]: 0.0010182 目許
+	expression WORD[72,   2]: 0.0010182 眼許
+TOKEN[73]: 0.0020304    1 exemption
+	exemption WORD[73,   1]: 0.0010152 許し
+TOKEN[74]: 0.0019753    2 skin
+	skin WORD[74,   1]: 0.0009876 目許
+	skin WORD[74,   2]: 0.0009876 眼許
+TOKEN[75]: 0.0019530    2 round
+	round WORD[75,   1]: 0.0009765 目許
+	round WORD[75,   2]: 0.0009765 眼許
+TOKEN[76]: 0.0019331    2 going
+	going WORD[76,   1]: 0.0005690 許り
+	going WORD[76,   2]: 0.0004547 許
+TOKEN[77]: 0.0018583    2 point
+	point WORD[77,   1]: 0.0005470 許り
+	point WORD[77,   2]: 0.0004371 許
+TOKEN[78]: 0.0018390    2 lot
+	lot WORD[78,   1]: 0.0008241 許多
+	lot WORD[78,   2]: 0.0005075 幾許
+TOKEN[79]: 0.0017074    2 undependable
+	undependable WORD[79,   1]: 0.0008537 心許ない
+	undependable WORD[79,   2]: 0.0008537 心許無い
+TOKEN[80]: 0.0016822    2 unsure
+	unsure WORD[80,   1]: 0.0008411 心許ない
+	unsure WORD[80,   2]: 0.0008411 心許無い
+TOKEN[81]: 0.0016412    2 erratic
+	erratic WORD[81,   1]: 0.0008206 心許ない
+	erratic WORD[81,   2]: 0.0008206 心許無い
+TOKEN[82]: 0.0016278    2 many
+	many WORD[82,   1]: 0.0007295 許多
+	many WORD[82,   2]: 0.0004492 幾許
+TOKEN[83]: 0.0016084    2 untrustworthy
+	untrustworthy WORD[83,   1]: 0.0008042 心許ない
+	untrustworthy WORD[83,   2]: 0.0008042 心許無い
+TOKEN[84]: 0.0015197    2 authorization
+	authorization WORD[84,   1]: 0.0007599 許認可
+	authorization WORD[84,   2]: 0.0007598 許可
+TOKEN[85]: 0.0015196    2 number
+	number WORD[85,   1]: 0.0006810 許多
+	number WORD[85,   2]: 0.0004193 幾許
+TOKEN[86]: 0.0014831    2 official
+	official WORD[86,   1]: 0.0009781 官許
+	official WORD[86,   2]: 0.0005051 公許
+TOKEN[87]: 0.0014775    1 step
+	step WORD[87,   1]: 0.0014775 足許
+TOKEN[88]: 0.0014742    2 unreliable
+	unreliable WORD[88,   1]: 0.0007371 心許ない
+	unreliable WORD[88,   2]: 0.0007371 心許無い
+TOKEN[89]: 0.0014529    1 let
+	let WORD[89,   1]: 0.0014529 許す
+TOKEN[90]: 0.0014391    2 impatient
+	impatient WORD[90,   1]: 0.0007195 心許ない
+	impatient WORD[90,   2]: 0.0007195 心許無い
+TOKEN[91]: 0.0014338    2 government
+	government WORD[91,   1]: 0.0009456 官許
+	government WORD[91,   2]: 0.0004883 公許
+TOKEN[92]: 0.0014192    2 unclear
+	unclear WORD[92,   1]: 0.0007096 心許ない
+	unclear WORD[92,   2]: 0.0007096 心許無い
+TOKEN[93]: 0.0013974    2 uneasy
+	uneasy WORD[93,   1]: 0.0006987 心許ない
+	uneasy WORD[93,   2]: 0.0006987 心許無い
+TOKEN[94]: 0.0013894    2 indistinct
+	indistinct WORD[94,   1]: 0.0006947 心許ない
+	indistinct WORD[94,   2]: 0.0006947 心許無い
+TOKEN[95]: 0.0013710    2 nervous
+	nervous WORD[95,   1]: 0.0006855 心許ない
+	nervous WORD[95,   2]: 0.0006855 心許無い
+TOKEN[96]: 0.0013496    1 accountant
+	accountant WORD[96,   1]: 0.0013496 勅許
+TOKEN[97]: 0.0013424    2 anxious
+	anxious WORD[97,   1]: 0.0006712 心許ない
+	anxious WORD[97,   2]: 0.0006712 心許無い
+TOKEN[98]: 0.0012841    2 anxiety
+	anxiety WORD[98,   1]: 0.0006421 心許ない
+	anxiety WORD[98,   2]: 0.0006421 心許無い
+TOKEN[99]: 0.0012482    1 remit
+	remit WORD[99,   1]: 0.0012482 許す
+TOKEN[100]: 0.0012351    2 vague
+	vague WORD[100,   1]: 0.0006175 心許ない
+	vague WORD[100,   2]: 0.0006175 心許無い
+TOKEN[101]: 0.0012169    1 diploma
+	diploma WORD[101,   1]: 0.0012169 奥許し
+TOKEN[102]: 0.0012115    1 epigastrium
+	epigastrium WORD[102,   1]: 0.0012115 胸許
+TOKEN[103]: 0.0011771    2 home
+	home WORD[103,   1]: 0.0007289 国許
+	home WORD[103,   2]: 0.0004482 親許
+TOKEN[104]: 0.0011705    1 confide
+	confide WORD[104,   1]: 0.0011705 許す
+TOKEN[105]: 0.0011573    1 royal
+	royal WORD[105,   1]: 0.0011573 勅許
+TOKEN[106]: 0.0011533    1 exempt
+	exempt WORD[106,   1]: 0.0011533 許す
+TOKEN[107]: 0.0011494    1 initiation
+	initiation WORD[107,   1]: 0.0011494 奥許し
+TOKEN[108]: 0.0011383    1 tolerate
+	tolerate WORD[108,   1]: 0.0011383 許す
+TOKEN[109]: 0.0011358    1 entrance
+	entrance WORD[109,   1]: 0.0011358 口許
+TOKEN[110]: 0.0011327    1 disapproval
+	disapproval WORD[110,   1]: 0.0011327 許否
+TOKEN[111]: 0.0011062    1 mouth
+	mouth WORD[111,   1]: 0.0011062 口許
+TOKEN[112]: 0.0011026    1 acknowledge
+	acknowledge WORD[112,   1]: 0.0011026 許す
+TOKEN[113]: 0.0010925    1 connivance
+	connivance WORD[113,   1]: 0.0010925 黙許
+TOKEN[114]: 0.0010888    1 extent
+	extent WORD[114,   1]: 0.0005444 幾許
+TOKEN[115]: 0.0010854    1 numerous
+	numerous WORD[115,   1]: 0.0010854 許多
+TOKEN[116]: 0.0010749    1 birthplace
+	birthplace WORD[116,   1]: 0.0010749 国許
+TOKEN[117]: 0.0010679    1 approve
+	approve WORD[117,   1]: 0.0010679 許す
+TOKEN[118]: 0.0010608    1 plexus
+	plexus WORD[118,   1]: 0.0010608 胸許
+TOKEN[119]: 0.0010501    1 bedside
+	bedside WORD[119,   1]: 0.0010501 枕許
+TOKEN[120]: 0.0010304    1 bit
+	bit WORD[120,   1]: 0.0005152 幾許
+TOKEN[121]: 0.0010198    1 money
+	money WORD[121,   1]: 0.0010198 手許
+TOKEN[122]: 0.0010106    1 admit
+	admit WORD[122,   1]: 0.0010106 許す
+TOKEN[123]: 0.0010058    1 parentage
+	parentage WORD[123,   1]: 0.0010058 身許
+TOKEN[124]: 0.0010003    1 certain
+	certain WORD[124,   1]: 0.0005001 幾許
+TOKEN[125]: 0.0009156    1 native
+	native WORD[125,   1]: 0.0009156 国許
+TOKEN[126]: 0.0009115    1 little
+	little WORD[126,   1]: 0.0004557 幾許
+TOKEN[127]: 0.0008846    1 trust
+	trust WORD[127,   1]: 0.0008846 許す
+TOKEN[128]: 0.0008830    1 imperial
+	imperial WORD[128,   1]: 0.0008830 勅許
+TOKEN[129]: 0.0008761    1 identity
+	identity WORD[129,   1]: 0.0008761 身許
+TOKEN[130]: 0.0008759    1 pillow
+	pillow WORD[130,   1]: 0.0008759 枕許
+TOKEN[131]: 0.0008709    1 yield
+	yield WORD[131,   1]: 0.0008709 許す
+TOKEN[132]: 0.0008659    1 pit
+	pit WORD[132,   1]: 0.0008659 胸許
+TOKEN[133]: 0.0008647    1 release
+	release WORD[133,   1]: 0.0008647 許す
+TOKEN[134]: 0.0008479    1 breast
+	breast WORD[134,   1]: 0.0008479 胸許
+TOKEN[135]: 0.0008449    1 certification
+	certification WORD[135,   1]: 0.0008449 認許
+TOKEN[136]: 0.0008347    1 solar
+	solar WORD[136,   1]: 0.0008347 胸許
+TOKEN[137]: 0.0008339    1 knee
+	knee WORD[137,   1]: 0.0008339 膝許
+TOKEN[138]: 0.0008306    1 background
+	background WORD[138,   1]: 0.0008306 身許
+TOKEN[139]: 0.0008303    1 excuse
+	excuse WORD[139,   1]: 0.0008303 許す
+TOKEN[140]: 0.0007949    1 powerful
+	powerful WORD[140,   1]: 0.0007949 膝許
+TOKEN[141]: 0.0007929    1 chest
+	chest WORD[141,   1]: 0.0007929 胸許
+TOKEN[142]: 0.0007887    1 patent
+	patent WORD[142,   1]: 0.0007887 特許
+TOKEN[143]: 0.0007834    1 race
+	race WORD[143,   1]: 0.0007834 許す
+TOKEN[144]: 0.0007833    1 stomach
+	stomach WORD[144,   1]: 0.0007833 胸許
+TOKEN[145]: 0.0007828    1 territory
+	territory WORD[145,   1]: 0.0007828 膝許
+TOKEN[146]: 0.0007815    1 ear
+	ear WORD[146,   1]: 0.0007815 耳許
+TOKEN[147]: 0.0007769    1 recognition
+	recognition WORD[147,   1]: 0.0007769 認許
+TOKEN[148]: 0.0007766    1 distance
+	distance WORD[148,   1]: 0.0007766 許す
+TOKEN[149]: 0.0007745    1 secret
+	secret WORD[149,   1]: 0.0007745 奥許し
+TOKEN[150]: 0.0007728    1 guard
+	guard WORD[150,   1]: 0.0007728 許す
+TOKEN[151]: 0.0007404    1 protection
+	protection WORD[151,   1]: 0.0007404 膝許
+TOKEN[152]: 0.0007370    1 birth
+	birth WORD[152,   1]: 0.0007370 身許
+TOKEN[153]: 0.0007224    1 assent
+	assent WORD[153,   1]: 0.0007224 許諾
+TOKEN[154]: 0.0007195    1 pocket
+	pocket WORD[154,   1]: 0.0007195 手許
+TOKEN[155]: 0.0007172    1 grip
+	grip WORD[155,   1]: 0.0007172 手許
+TOKEN[156]: 0.0007130    1 tolerance
+	tolerance WORD[156,   1]: 0.0007130 許容
+TOKEN[157]: 0.0006913    1 address
+	address WORD[157,   1]: 0.0006913 膝許
+TOKEN[158]: 0.0006900    1 vicinity
+	vicinity WORD[158,   1]: 0.0006900 口許
+TOKEN[159]: 0.0006717    1 underfoot
+	underfoot WORD[159,   1]: 0.0006717 足許
+TOKEN[160]: 0.0006621    1 great
+	great WORD[160,   1]: 0.0006621 許多
+TOKEN[161]: 0.0006470    1 give
+	give WORD[161,   1]: 0.0006470 許す
+TOKEN[162]: 0.0006444    1 care
+	care WORD[162,   1]: 0.0006444 膝許
+TOKEN[163]: 0.0006430    1 acceptance
+	acceptance WORD[163,   1]: 0.0006430 許容
+TOKEN[164]: 0.0006422    1 moving
+	moving WORD[164,   1]: 0.0006422 手許
+TOKEN[165]: 0.0006416    1 game
+	game WORD[165,   1]: 0.0006416 許す
+TOKEN[166]: 0.0006407    1 arms
+	arms WORD[166,   1]: 0.0006407 手許
+TOKEN[167]: 0.0006402    1 skill
+	skill WORD[167,   1]: 0.0006402 手許
+TOKEN[168]: 0.0006305    1 allowance
+	allowance WORD[168,   1]: 0.0006305 許容
+TOKEN[169]: 0.0006303    1 gait
+	gait WORD[169,   1]: 0.0006303 足許
+TOKEN[170]: 0.0006291    1 character
+	character WORD[170,   1]: 0.0006291 身許
+TOKEN[171]: 0.0006043    1 recent
+	recent WORD[171,   1]: 0.0006043 足許
+TOKEN[172]: 0.0005783    1 pace
+	pace WORD[172,   1]: 0.0005783 足許
+TOKEN[173]: 0.0005757    1 special
+	special WORD[173,   1]: 0.0005757 特許
+TOKEN[174]: 0.0005197    1 shape
+	shape WORD[174,   1]: 0.0005197 口許
+TOKEN[175]: 0.0005117    1 watch
+	watch WORD[175,   1]: 0.0005117 足許
+TOKEN[176]: 0.0004955    1 someone
+	someone WORD[176,   1]: 0.0004955 許す
+TOKEN[177]: 0.0004938    1 current
+	current WORD[177,   1]: 0.0004938 足許
+TOKEN[178]: 0.0004928    1 used
+	used WORD[178,   1]: 0.0004928 膝許
+TOKEN[179]: 0.0004757    1 way
+	way WORD[179,   1]: 0.0004757 手許
+TOKEN[180]: 0.0004245    1 person
+	person WORD[180,   1]: 0.0004245 膝許

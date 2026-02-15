@@ -1,0 +1,615 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1666667    1 centipede      : 蜈蚣
+0.0784909    1 mat            : 茣蓙
+0.0510652    1 matting        : 茣蓙
+0.0371106    1 rush           : 茣蓙
+0.0312931    1 pastime        : 娯楽
+0.0299716    1 hobby          : 娯楽
+0.0292755    1 recreation     : 娯楽
+0.0267139    1 likely         : 虞犯
+0.0266603    1 amusement      : 娯楽
+0.0257864    2 commit         : 虞犯, 誤る
+0.0249507    1 entertainment  : 娯楽
+0.0245155    1 pleasure       : 娯楽
+0.0205524    1 crime          : 虞犯
+0.0172225    1 horror         : 虞
+0.0170062    1 reverence      : 虞
+0.0170062    1 uneasiness     : 虞
+0.0150019    1 anxiety        : 虞
+0.0143940    1 concern        : 虞
+0.0142601    1 donor          : 呉れ手
+0.0134015    1 fear           : 虞
+0.0129738    2 misdelivery    : 誤送, 誤配
+0.0096522    6 wrong          : 誤送, 誤嚥, 正誤, 誤爆, 誤診, 誤る
+0.0083560    1 sending        : 誤送
+0.0082974    1 soy            : 呉
+0.0082156    3 something      : 呉れ手, 誤飲, 見誤る
+0.0078646    2 Wu             : 呉音, 呉越
+0.0075436   12 mistake        : 書き誤り, 誤飲, 見誤る, 誤謬, 言い誤る, 言誤る, 錯誤, 誤魔化す, 誤, 過誤, ...
+0.0069665    4 one            : 呉れ手, 呉れる, 錯誤, 誤魔化す
+0.0067867    1 creamy         : 呉
+0.0067491    2 reading        : 呉音, 読み誤る
+0.0065576   12 error          : 書き誤り, 誤差, 誤謬, 錯誤, 誤字, 誤植, 誤写, 誤, 誤る, 誤り率, ...
+0.0060373    1 zaffer         : 呉須
+0.0060373    1 asbolite       : 呉須
+0.0056129    1 place          : 誤送
+0.0052401    1 soaked         : 呉
+0.0052401    1 ingredient     : 呉
+0.0046366    1 Phyllostachys  : 呉竹
+0.0044725    1 milk           : 呉
+0.0044634    1 tofu           : 呉
+0.0042377    1 paste          : 呉
+0.0040186    2 misrepresent   : 誤り伝える, 誤魔化す
+0.0039524    2 accidental     : 誤射, 誤飲
+0.0039489    1 porcelain      : 呉須
+0.0038002    1 goods          : 呉服
+0.0037132    1 century        : 呉音
+0.0035560    1 belie          : 誤り伝える
+0.0035183    1 give           : 呉れる
+0.0034341    1 based          : 呉音
+0.0034338    1 soup           : 呉汁
+0.0034257    5 slip           : 書き誤り, 言い誤る, 言誤る, 誤記, 誤り
+0.0033048    1 ungrammatical  : 誤文
+0.0031893    1 drapery        : 呉服
+0.0031366    1 go             : 呉
+0.0030643    1 distort        : 誤り伝える
+0.0030415    1 bamboo         : 呉竹
+0.0030406    1 ground         : 呉汁
+0.0028208    1 textile        : 呉服
+0.0027867    1 disadvantage   : 呉れる
+0.0025787    1 rival          : 呉越
+0.0024838    2 misread        : 読み誤る, 見誤る
+0.0024592    1 Chinese        : 呉音
+0.0023338    2 astray         : 誤導, 誤る
+0.0022358    1 shooting       : 誤射
+0.0021903    1 kimono         : 呉服
+0.0021702    1 miswrite       : 書き誤る
+0.0021617    1 silk           : 呉服
+0.0021503    3 misjudgement   : 誤判, 誤断, 誤審
+0.0021385    1 dry            : 呉服
+0.0021353    4 incorrect      : 正誤, 誤用, 誤報, 誤る
+0.0020710    1 sentence       : 誤文
+0.0020296    2 pen            : 書き誤り, 誤記
+0.0020264    1 trouble        : 呉れる
+0.0020220    1 misleading     : 誤導
+0.0020209    1 cloth          : 呉服
+0.0020031    1 piece          : 呉服
+0.0019751    1 let            : 呉れる
+0.0019629    2 misjudge       : 見誤る, 読み誤る
+0.0019567    1 clothes        : 呉服
+0.0019356    1 ancient        : 呉越
+0.0019201    1 clerical       : 書き誤り
+0.0018206    2 someone        : 呉れる, 見誤る
+0.0018174    3 misinformation : 誤報, 誤聞, 誤伝
+0.0017863    1 ingestion      : 誤飲
+0.0017325    2 erroneous      : 誤判, 誤記
+0.0017198    1 two            : 呉越
+0.0016196    2 writing        : 書き誤り, 誤記
+0.0015678    2 misjudgment    : 誤判, 誤審
+0.0015348    1 take           : 呉れる
+0.0014454    2 fallacy        : 誤謬, 誤信
+0.0014049    1 leading        : 誤導
+0.0013570    1 Japanese       : 呉服
+0.0012770    2 misprint       : 誤字, 誤植
+0.0012770    2 typographical  : 誤字, 誤植
+0.0012324    2 tongue         : 言い誤る, 言誤る
+0.0012112    2 typo           : 誤字, 誤植
+0.0011658    2 false          : 誤報, 誤る
+0.0011624    3 fault          : 誤魔化す, 過誤, 誤ち
+0.0010929    3 make           : 言い誤る, 言誤る, 誤る
+0.0010877    2 misunderstanding: 誤聞, 誤解
+0.0010864    1 discrepancy    : 錯誤
+0.0010627    2 say            : 言い誤る, 言誤る
+0.0009916    1 aspiration     : 誤嚥
+0.0009732    2 mistaken       : 誤答, 誤る
+0.0009506    1 pulmonary      : 誤嚥
+0.0009346    1 breathing      : 誤嚥
+0.0009161    1 miscarriage    : 誤判
+0.0008759    2 situation      : 読み誤る, 誤魔化す
+0.0008541    1 pipe           : 誤嚥
+0.0008444    1 mispronounce   : 読み誤る
+0.0008319    1 misinterpret   : 読み誤る
+0.0008136    1 report         : 誤報
+0.0007522    1 foreign        : 誤嚥
+0.0007330    1 justice        : 誤判
+0.0007205    1 malapropism    : 誤用
+0.0007205    1 mistranslation : 誤訳
+0.0007201    1 misbelief      : 誤信
+0.0006795    1 misrecognition : 誤認
+0.0006795    1 y              : 誤認
+0.0006793    1 erratum        : 誤字
+0.0006470    1 trend          : 読み誤る
+0.0006413    1 body           : 誤嚥
+0.0006387    1 shelling       : 誤爆
+0.0006385    1 misspelling    : 誤字
+0.0006204    1 food           : 誤嚥
+0.0005980    1 tamper         : 誤魔化す
+0.0005980    1 juggling       : 誤魔化し
+0.0005976    1 miscalculation : 誤算
+0.0005966    1 misguide       : 誤る
+0.0005961    1 accuracy       : 正誤
+0.0005848    1 falsify        : 誤魔化す
+0.0005837    1 read           : 読み誤る
+0.0005793    1 misuse         : 誤用
+0.0005792    1 camouflage     : 誤魔化し
+0.0005792    1 mistaking      : 誤認
+0.0005694    1 embezzle       : 誤魔化す
+0.0005610    1 deception      : 誤魔化し
+0.0005502    1 swindle        : 誤魔化す
+0.0005502    1 trickery       : 誤魔化し
+0.0005493    1 mislead        : 誤る
+0.0005384    1 cheating       : 誤魔化し
+0.0005319    1 err            : 誤る
+0.0005309    1 gloss          : 誤魔化す
+0.0005300    1 correction     : 正誤
+0.0005284    1 diagnosis      : 誤診
+0.0005222    1 dodge          : 誤魔化す
+0.0005202    1 manipulation   : 誤魔化し
+0.0005182    1 x              : 誤認
+0.0005018    1 sham           : 誤魔化し
+0.0005004    1 cheat          : 誤魔化す
+0.0004976    1 evade          : 誤魔化す
+0.0004898    1 measurement    : 誤差
+0.0004875    1 calculation    : 誤差
+0.0004856    1 alarm          : 誤報
+0.0004803    1 friendly       : 誤爆
+0.0004790    1 correct        : 正誤
+0.0004776    1 indiscretion   : 誤ち
+0.0004678    1 deceive        : 誤魔化す
+0.0004678    1 explain        : 誤魔化す
+0.0004663    1 cook           : 誤魔化す
+0.0004632    1 pocket         : 誤魔化す
+0.0004618    1 abuse          : 誤用
+0.0004591    1 name           : 読み誤る
+0.0004487    1 target         : 誤爆
+0.0004458    1 response       : 誤答
+0.0004443    1 smooth         : 誤魔化す
+0.0004424    1 sum            : 誤記
+0.0004312    1 answer         : 誤答
+0.0004310    1 entry          : 誤記
+0.0004267    1 doctor         : 誤魔化す
+0.0004220    1 smoke          : 誤魔化し
+0.0004136    1 bug            : 誤り
+0.0004077    1 lie            : 誤魔化す
+0.0004068    1 difficult      : 誤魔化す
+0.0003998    1 question       : 誤魔化す
+0.0003881    1 cutting        : 誤魔化し
+0.0003451    1 lead           : 誤る
+0.0003402    1 use            : 誤用
+0.0003401    1 fire           : 誤爆
+0.0003308    1 rate           : 誤り率
+0.0003063    1 way            : 誤魔化す
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1666667    1 centipede
+	centipede WORD[ 1,   1]: 0.1666667 蜈蚣
+TOKEN[ 2]: 0.0784909    1 mat
+	mat WORD[ 2,   1]: 0.0784909 茣蓙
+TOKEN[ 3]: 0.0510652    1 matting
+	matting WORD[ 3,   1]: 0.0510652 茣蓙
+TOKEN[ 4]: 0.0371106    1 rush
+	rush WORD[ 4,   1]: 0.0371106 茣蓙
+TOKEN[ 5]: 0.0312931    1 pastime
+	pastime WORD[ 5,   1]: 0.0312931 娯楽
+TOKEN[ 6]: 0.0299716    1 hobby
+	hobby WORD[ 6,   1]: 0.0299716 娯楽
+TOKEN[ 7]: 0.0292755    1 recreation
+	recreation WORD[ 7,   1]: 0.0292755 娯楽
+TOKEN[ 8]: 0.0267139    1 likely
+	likely WORD[ 8,   1]: 0.0267139 虞犯
+TOKEN[ 9]: 0.0266603    1 amusement
+	amusement WORD[ 9,   1]: 0.0266603 娯楽
+TOKEN[10]: 0.0257864    2 commit
+	commit WORD[10,   1]: 0.0253680 虞犯
+	commit WORD[10,   2]: 0.0004184 誤る
+TOKEN[11]: 0.0249507    1 entertainment
+	entertainment WORD[11,   1]: 0.0249507 娯楽
+TOKEN[12]: 0.0245155    1 pleasure
+	pleasure WORD[12,   1]: 0.0245155 娯楽
+TOKEN[13]: 0.0205524    1 crime
+	crime WORD[13,   1]: 0.0205524 虞犯
+TOKEN[14]: 0.0172225    1 horror
+	horror WORD[14,   1]: 0.0172225 虞
+TOKEN[15]: 0.0170062    1 reverence
+	reverence WORD[15,   1]: 0.0170062 虞
+TOKEN[16]: 0.0170062    1 uneasiness
+	uneasiness WORD[16,   1]: 0.0170062 虞
+TOKEN[17]: 0.0150019    1 anxiety
+	anxiety WORD[17,   1]: 0.0150019 虞
+TOKEN[18]: 0.0143940    1 concern
+	concern WORD[18,   1]: 0.0143940 虞
+TOKEN[19]: 0.0142601    1 donor
+	donor WORD[19,   1]: 0.0142601 呉れ手
+TOKEN[20]: 0.0134015    1 fear
+	fear WORD[20,   1]: 0.0134015 虞
+TOKEN[21]: 0.0129738    2 misdelivery
+	misdelivery WORD[21,   1]: 0.0119576 誤送
+	misdelivery WORD[21,   2]: 0.0010162 誤配
+TOKEN[22]: 0.0096522    6 wrong
+	wrong WORD[22,   1]: 0.0073096 誤送
+	wrong WORD[22,   2]: 0.0007697 誤嚥
+	wrong WORD[22,   3]: 0.0004196 正誤
+	wrong WORD[22,   4]: 0.0004008 誤爆
+	wrong WORD[22,   5]: 0.0004007 誤診
+	wrong WORD[22,   6]: 0.0003519 誤る
+TOKEN[23]: 0.0083560    1 sending
+	sending WORD[23,   1]: 0.0083560 誤送
+TOKEN[24]: 0.0082974    1 soy
+	soy WORD[24,   1]: 0.0041487 呉
+TOKEN[25]: 0.0082156    3 something
+	something WORD[25,   1]: 0.0069910 呉れ手
+	something WORD[25,   2]: 0.0007419 誤飲
+	something WORD[25,   3]: 0.0004826 見誤る
+TOKEN[26]: 0.0078646    2 Wu
+	Wu WORD[26,   1]: 0.0047876 呉音
+	Wu WORD[26,   2]: 0.0030770 呉越
+TOKEN[27]: 0.0075436   12 mistake
+	mistake WORD[27,   1]: 0.0014525 書き誤り
+	mistake WORD[27,   2]: 0.0011509 誤飲
+	mistake WORD[27,   3]: 0.0007486 見誤る
+	mistake WORD[27,   4]: 0.0006490 誤謬
+	mistake WORD[27,   5]: 0.0005977 言い誤る
+	mistake WORD[27,   6]: 0.0005977 言誤る
+	mistake WORD[27,   7]: 0.0004131 錯誤
+	mistake WORD[27,   8]: 0.0004116 誤魔化す
+	mistake WORD[27,   9]: 0.0004112 誤
+	mistake WORD[27,  10]: 0.0003887 過誤
+	mistake WORD[27,  11]: 0.0003613 誤る
+	mistake WORD[27,  12]: 0.0003613 誤り
+TOKEN[28]: 0.0069665    4 one
+	one WORD[28,   1]: 0.0047427 呉れ手
+	one WORD[28,   2]: 0.0018631 呉れる
+	one WORD[28,   3]: 0.0001807 錯誤
+	one WORD[28,   4]: 0.0001800 誤魔化す
+TOKEN[29]: 0.0067867    1 creamy
+	creamy WORD[29,   1]: 0.0033934 呉
+TOKEN[30]: 0.0067491    2 reading
+	reading WORD[30,   1]: 0.0062268 呉音
+	reading WORD[30,   2]: 0.0005223 読み誤る
+TOKEN[31]: 0.0065576   12 error
+	error WORD[31,   1]: 0.0014818 書き誤り
+	error WORD[31,   2]: 0.0008392 誤差
+	error WORD[31,   3]: 0.0006621 誤謬
+	error WORD[31,   4]: 0.0004214 錯誤
+	error WORD[31,   5]: 0.0004197 誤字
+	error WORD[31,   6]: 0.0004197 誤植
+	error WORD[31,   7]: 0.0004197 誤写
+	error WORD[31,   8]: 0.0004195 誤
+	error WORD[31,   9]: 0.0003686 誤る
+	error WORD[31,  10]: 0.0003686 誤り率
+	error WORD[31,  11]: 0.0003686 誤り
+	error WORD[31,  12]: 0.0003686 誤ち
+TOKEN[32]: 0.0060373    1 zaffer
+	zaffer WORD[32,   1]: 0.0060373 呉須
+TOKEN[33]: 0.0060373    1 asbolite
+	asbolite WORD[33,   1]: 0.0060373 呉須
+TOKEN[34]: 0.0056129    1 place
+	place WORD[34,   1]: 0.0056129 誤送
+TOKEN[35]: 0.0052401    1 soaked
+	soaked WORD[35,   1]: 0.0026201 呉
+TOKEN[36]: 0.0052401    1 ingredient
+	ingredient WORD[36,   1]: 0.0026201 呉
+TOKEN[37]: 0.0046366    1 Phyllostachys
+	Phyllostachys WORD[37,   1]: 0.0046366 呉竹
+TOKEN[38]: 0.0044725    1 milk
+	milk WORD[38,   1]: 0.0022362 呉
+TOKEN[39]: 0.0044634    1 tofu
+	tofu WORD[39,   1]: 0.0022317 呉
+TOKEN[40]: 0.0042377    1 paste
+	paste WORD[40,   1]: 0.0021189 呉
+TOKEN[41]: 0.0040186    2 misrepresent
+	misrepresent WORD[41,   1]: 0.0033929 誤り伝える
+	misrepresent WORD[41,   2]: 0.0006256 誤魔化す
+TOKEN[42]: 0.0039524    2 accidental
+	accidental WORD[42,   1]: 0.0025083 誤射
+	accidental WORD[42,   2]: 0.0014441 誤飲
+TOKEN[43]: 0.0039489    1 porcelain
+	porcelain WORD[43,   1]: 0.0039489 呉須
+TOKEN[44]: 0.0038002    1 goods
+	goods WORD[44,   1]: 0.0038002 呉服
+TOKEN[45]: 0.0037132    1 century
+	century WORD[45,   1]: 0.0037132 呉音
+TOKEN[46]: 0.0035560    1 belie
+	belie WORD[46,   1]: 0.0035560 誤り伝える
+TOKEN[47]: 0.0035183    1 give
+	give WORD[47,   1]: 0.0035183 呉れる
+TOKEN[48]: 0.0034341    1 based
+	based WORD[48,   1]: 0.0034341 呉音
+TOKEN[49]: 0.0034338    1 soup
+	soup WORD[49,   1]: 0.0034338 呉汁
+TOKEN[50]: 0.0034257    5 slip
+	slip WORD[50,   1]: 0.0014547 書き誤り
+	slip WORD[50,   2]: 0.0005986 言い誤る
+	slip WORD[50,   3]: 0.0005986 言誤る
+	slip WORD[50,   4]: 0.0004119 誤記
+	slip WORD[50,   5]: 0.0003619 誤り
+TOKEN[51]: 0.0033048    1 ungrammatical
+	ungrammatical WORD[51,   1]: 0.0033048 誤文
+TOKEN[52]: 0.0031893    1 drapery
+	drapery WORD[52,   1]: 0.0031893 呉服
+TOKEN[53]: 0.0031366    1 go
+	go WORD[53,   1]: 0.0015683 呉
+TOKEN[54]: 0.0030643    1 distort
+	distort WORD[54,   1]: 0.0030643 誤り伝える
+TOKEN[55]: 0.0030415    1 bamboo
+	bamboo WORD[55,   1]: 0.0030415 呉竹
+TOKEN[56]: 0.0030406    1 ground
+	ground WORD[56,   1]: 0.0030406 呉汁
+TOKEN[57]: 0.0028208    1 textile
+	textile WORD[57,   1]: 0.0028208 呉服
+TOKEN[58]: 0.0027867    1 disadvantage
+	disadvantage WORD[58,   1]: 0.0027867 呉れる
+TOKEN[59]: 0.0025787    1 rival
+	rival WORD[59,   1]: 0.0025787 呉越
+TOKEN[60]: 0.0024838    2 misread
+	misread WORD[60,   1]: 0.0014941 読み誤る
+	misread WORD[60,   2]: 0.0009896 見誤る
+TOKEN[61]: 0.0024592    1 Chinese
+	Chinese WORD[61,   1]: 0.0024592 呉音
+TOKEN[62]: 0.0023338    2 astray
+	astray WORD[62,   1]: 0.0018477 誤導
+	astray WORD[62,   2]: 0.0004860 誤る
+TOKEN[63]: 0.0022358    1 shooting
+	shooting WORD[63,   1]: 0.0022358 誤射
+TOKEN[64]: 0.0021903    1 kimono
+	kimono WORD[64,   1]: 0.0021903 呉服
+TOKEN[65]: 0.0021702    1 miswrite
+	miswrite WORD[65,   1]: 0.0021702 書き誤る
+TOKEN[66]: 0.0021617    1 silk
+	silk WORD[66,   1]: 0.0021617 呉服
+TOKEN[67]: 0.0021503    3 misjudgement
+	misjudgement WORD[67,   1]: 0.0009391 誤判
+	misjudgement WORD[67,   2]: 0.0006056 誤断
+	misjudgement WORD[67,   3]: 0.0006056 誤審
+TOKEN[68]: 0.0021385    1 dry
+	dry WORD[68,   1]: 0.0021385 呉服
+TOKEN[69]: 0.0021353    4 incorrect
+	incorrect WORD[69,   1]: 0.0005695 正誤
+	incorrect WORD[69,   2]: 0.0005441 誤用
+	incorrect WORD[69,   3]: 0.0005440 誤報
+	incorrect WORD[69,   4]: 0.0004776 誤る
+TOKEN[70]: 0.0020710    1 sentence
+	sentence WORD[70,   1]: 0.0020710 誤文
+TOKEN[71]: 0.0020296    2 pen
+	pen WORD[71,   1]: 0.0015817 書き誤り
+	pen WORD[71,   2]: 0.0004479 誤記
+TOKEN[72]: 0.0020264    1 trouble
+	trouble WORD[72,   1]: 0.0020264 呉れる
+TOKEN[73]: 0.0020220    1 misleading
+	misleading WORD[73,   1]: 0.0020220 誤導
+TOKEN[74]: 0.0020209    1 cloth
+	cloth WORD[74,   1]: 0.0020209 呉服
+TOKEN[75]: 0.0020031    1 piece
+	piece WORD[75,   1]: 0.0020031 呉服
+TOKEN[76]: 0.0019751    1 let
+	let WORD[76,   1]: 0.0019751 呉れる
+TOKEN[77]: 0.0019629    2 misjudge
+	misjudge WORD[77,   1]: 0.0011185 見誤る
+	misjudge WORD[77,   2]: 0.0008444 読み誤る
+TOKEN[78]: 0.0019567    1 clothes
+	clothes WORD[78,   1]: 0.0019567 呉服
+TOKEN[79]: 0.0019356    1 ancient
+	ancient WORD[79,   1]: 0.0019356 呉越
+TOKEN[80]: 0.0019201    1 clerical
+	clerical WORD[80,   1]: 0.0019201 書き誤り
+TOKEN[81]: 0.0018206    2 someone
+	someone WORD[81,   1]: 0.0013472 呉れる
+	someone WORD[81,   2]: 0.0004735 見誤る
+TOKEN[82]: 0.0018174    3 misinformation
+	misinformation WORD[82,   1]: 0.0006058 誤報
+	misinformation WORD[82,   2]: 0.0006058 誤聞
+	misinformation WORD[82,   3]: 0.0006058 誤伝
+TOKEN[83]: 0.0017863    1 ingestion
+	ingestion WORD[83,   1]: 0.0017863 誤飲
+TOKEN[84]: 0.0017325    2 erroneous
+	erroneous WORD[84,   1]: 0.0010534 誤判
+	erroneous WORD[84,   2]: 0.0006791 誤記
+TOKEN[85]: 0.0017198    1 two
+	two WORD[85,   1]: 0.0017198 呉越
+TOKEN[86]: 0.0016196    2 writing
+	writing WORD[86,   1]: 0.0012622 書き誤り
+	writing WORD[86,   2]: 0.0003574 誤記
+TOKEN[87]: 0.0015678    2 misjudgment
+	misjudgment WORD[87,   1]: 0.0009531 誤判
+	misjudgment WORD[87,   2]: 0.0006146 誤審
+TOKEN[88]: 0.0015348    1 take
+	take WORD[88,   1]: 0.0015348 呉れる
+TOKEN[89]: 0.0014454    2 fallacy
+	fallacy WORD[89,   1]: 0.0008847 誤謬
+	fallacy WORD[89,   2]: 0.0005607 誤信
+TOKEN[90]: 0.0014049    1 leading
+	leading WORD[90,   1]: 0.0014049 誤導
+TOKEN[91]: 0.0013570    1 Japanese
+	Japanese WORD[91,   1]: 0.0013570 呉服
+TOKEN[92]: 0.0012770    2 misprint
+	misprint WORD[92,   1]: 0.0006385 誤字
+	misprint WORD[92,   2]: 0.0006385 誤植
+TOKEN[93]: 0.0012770    2 typographical
+	typographical WORD[93,   1]: 0.0006385 誤字
+	typographical WORD[93,   2]: 0.0006385 誤植
+TOKEN[94]: 0.0012324    2 tongue
+	tongue WORD[94,   1]: 0.0006162 言い誤る
+	tongue WORD[94,   2]: 0.0006162 言誤る
+TOKEN[95]: 0.0012112    2 typo
+	typo WORD[95,   1]: 0.0006056 誤字
+	typo WORD[95,   2]: 0.0006056 誤植
+TOKEN[96]: 0.0011658    2 false
+	false WORD[96,   1]: 0.0008102 誤報
+	false WORD[96,   2]: 0.0003557 誤る
+TOKEN[97]: 0.0011624    3 fault
+	fault WORD[97,   1]: 0.0004119 誤魔化す
+	fault WORD[97,   2]: 0.0003890 過誤
+	fault WORD[97,   3]: 0.0003616 誤ち
+TOKEN[98]: 0.0010929    3 make
+	make WORD[98,   1]: 0.0004196 言い誤る
+	make WORD[98,   2]: 0.0004196 言誤る
+	make WORD[98,   3]: 0.0002537 誤る
+TOKEN[99]: 0.0010877    2 misunderstanding
+	misunderstanding WORD[99,   1]: 0.0005440 誤聞
+	misunderstanding WORD[99,   2]: 0.0005437 誤解
+TOKEN[100]: 0.0010864    1 discrepancy
+	discrepancy WORD[100,   1]: 0.0010864 錯誤
+TOKEN[101]: 0.0010627    2 say
+	say WORD[101,   1]: 0.0005313 言い誤る
+	say WORD[101,   2]: 0.0005313 言誤る
+TOKEN[102]: 0.0009916    1 aspiration
+	aspiration WORD[102,   1]: 0.0009916 誤嚥
+TOKEN[103]: 0.0009732    2 mistaken
+	mistaken WORD[103,   1]: 0.0005182 誤答
+	mistaken WORD[103,   2]: 0.0004550 誤る
+TOKEN[104]: 0.0009506    1 pulmonary
+	pulmonary WORD[104,   1]: 0.0009506 誤嚥
+TOKEN[105]: 0.0009346    1 breathing
+	breathing WORD[105,   1]: 0.0009346 誤嚥
+TOKEN[106]: 0.0009161    1 miscarriage
+	miscarriage WORD[106,   1]: 0.0009161 誤判
+TOKEN[107]: 0.0008759    2 situation
+	situation WORD[107,   1]: 0.0005068 読み誤る
+	situation WORD[107,   2]: 0.0003691 誤魔化す
+TOKEN[108]: 0.0008541    1 pipe
+	pipe WORD[108,   1]: 0.0008541 誤嚥
+TOKEN[109]: 0.0008444    1 mispronounce
+	mispronounce WORD[109,   1]: 0.0008444 読み誤る
+TOKEN[110]: 0.0008319    1 misinterpret
+	misinterpret WORD[110,   1]: 0.0008319 読み誤る
+TOKEN[111]: 0.0008136    1 report
+	report WORD[111,   1]: 0.0008136 誤報
+TOKEN[112]: 0.0007522    1 foreign
+	foreign WORD[112,   1]: 0.0007522 誤嚥
+TOKEN[113]: 0.0007330    1 justice
+	justice WORD[113,   1]: 0.0007330 誤判
+TOKEN[114]: 0.0007205    1 malapropism
+	malapropism WORD[114,   1]: 0.0007205 誤用
+TOKEN[115]: 0.0007205    1 mistranslation
+	mistranslation WORD[115,   1]: 0.0007205 誤訳
+TOKEN[116]: 0.0007201    1 misbelief
+	misbelief WORD[116,   1]: 0.0007201 誤信
+TOKEN[117]: 0.0006795    1 misrecognition
+	misrecognition WORD[117,   1]: 0.0006795 誤認
+TOKEN[118]: 0.0006795    1 y
+	y WORD[118,   1]: 0.0006795 誤認
+TOKEN[119]: 0.0006793    1 erratum
+	erratum WORD[119,   1]: 0.0006793 誤字
+TOKEN[120]: 0.0006470    1 trend
+	trend WORD[120,   1]: 0.0006470 読み誤る
+TOKEN[121]: 0.0006413    1 body
+	body WORD[121,   1]: 0.0006413 誤嚥
+TOKEN[122]: 0.0006387    1 shelling
+	shelling WORD[122,   1]: 0.0006387 誤爆
+TOKEN[123]: 0.0006385    1 misspelling
+	misspelling WORD[123,   1]: 0.0006385 誤字
+TOKEN[124]: 0.0006204    1 food
+	food WORD[124,   1]: 0.0006204 誤嚥
+TOKEN[125]: 0.0005980    1 tamper
+	tamper WORD[125,   1]: 0.0005980 誤魔化す
+TOKEN[126]: 0.0005980    1 juggling
+	juggling WORD[126,   1]: 0.0005980 誤魔化し
+TOKEN[127]: 0.0005976    1 miscalculation
+	miscalculation WORD[127,   1]: 0.0005976 誤算
+TOKEN[128]: 0.0005966    1 misguide
+	misguide WORD[128,   1]: 0.0005966 誤る
+TOKEN[129]: 0.0005961    1 accuracy
+	accuracy WORD[129,   1]: 0.0005961 正誤
+TOKEN[130]: 0.0005848    1 falsify
+	falsify WORD[130,   1]: 0.0005848 誤魔化す
+TOKEN[131]: 0.0005837    1 read
+	read WORD[131,   1]: 0.0005837 読み誤る
+TOKEN[132]: 0.0005793    1 misuse
+	misuse WORD[132,   1]: 0.0005793 誤用
+TOKEN[133]: 0.0005792    1 camouflage
+	camouflage WORD[133,   1]: 0.0005792 誤魔化し
+TOKEN[134]: 0.0005792    1 mistaking
+	mistaking WORD[134,   1]: 0.0005792 誤認
+TOKEN[135]: 0.0005694    1 embezzle
+	embezzle WORD[135,   1]: 0.0005694 誤魔化す
+TOKEN[136]: 0.0005610    1 deception
+	deception WORD[136,   1]: 0.0005610 誤魔化し
+TOKEN[137]: 0.0005502    1 swindle
+	swindle WORD[137,   1]: 0.0005502 誤魔化す
+TOKEN[138]: 0.0005502    1 trickery
+	trickery WORD[138,   1]: 0.0005502 誤魔化し
+TOKEN[139]: 0.0005493    1 mislead
+	mislead WORD[139,   1]: 0.0005493 誤る
+TOKEN[140]: 0.0005384    1 cheating
+	cheating WORD[140,   1]: 0.0005384 誤魔化し
+TOKEN[141]: 0.0005319    1 err
+	err WORD[141,   1]: 0.0005319 誤る
+TOKEN[142]: 0.0005309    1 gloss
+	gloss WORD[142,   1]: 0.0005309 誤魔化す
+TOKEN[143]: 0.0005300    1 correction
+	correction WORD[143,   1]: 0.0005300 正誤
+TOKEN[144]: 0.0005284    1 diagnosis
+	diagnosis WORD[144,   1]: 0.0005284 誤診
+TOKEN[145]: 0.0005222    1 dodge
+	dodge WORD[145,   1]: 0.0005222 誤魔化す
+TOKEN[146]: 0.0005202    1 manipulation
+	manipulation WORD[146,   1]: 0.0005202 誤魔化し
+TOKEN[147]: 0.0005182    1 x
+	x WORD[147,   1]: 0.0005182 誤認
+TOKEN[148]: 0.0005018    1 sham
+	sham WORD[148,   1]: 0.0005018 誤魔化し
+TOKEN[149]: 0.0005004    1 cheat
+	cheat WORD[149,   1]: 0.0005004 誤魔化す
+TOKEN[150]: 0.0004976    1 evade
+	evade WORD[150,   1]: 0.0004976 誤魔化す
+TOKEN[151]: 0.0004898    1 measurement
+	measurement WORD[151,   1]: 0.0004898 誤差
+TOKEN[152]: 0.0004875    1 calculation
+	calculation WORD[152,   1]: 0.0004875 誤差
+TOKEN[153]: 0.0004856    1 alarm
+	alarm WORD[153,   1]: 0.0004856 誤報
+TOKEN[154]: 0.0004803    1 friendly
+	friendly WORD[154,   1]: 0.0004803 誤爆
+TOKEN[155]: 0.0004790    1 correct
+	correct WORD[155,   1]: 0.0004790 正誤
+TOKEN[156]: 0.0004776    1 indiscretion
+	indiscretion WORD[156,   1]: 0.0004776 誤ち
+TOKEN[157]: 0.0004678    1 deceive
+	deceive WORD[157,   1]: 0.0004678 誤魔化す
+TOKEN[158]: 0.0004678    1 explain
+	explain WORD[158,   1]: 0.0004678 誤魔化す
+TOKEN[159]: 0.0004663    1 cook
+	cook WORD[159,   1]: 0.0004663 誤魔化す
+TOKEN[160]: 0.0004632    1 pocket
+	pocket WORD[160,   1]: 0.0004632 誤魔化す
+TOKEN[161]: 0.0004618    1 abuse
+	abuse WORD[161,   1]: 0.0004618 誤用
+TOKEN[162]: 0.0004591    1 name
+	name WORD[162,   1]: 0.0004591 読み誤る
+TOKEN[163]: 0.0004487    1 target
+	target WORD[163,   1]: 0.0004487 誤爆
+TOKEN[164]: 0.0004458    1 response
+	response WORD[164,   1]: 0.0004458 誤答
+TOKEN[165]: 0.0004443    1 smooth
+	smooth WORD[165,   1]: 0.0004443 誤魔化す
+TOKEN[166]: 0.0004424    1 sum
+	sum WORD[166,   1]: 0.0004424 誤記
+TOKEN[167]: 0.0004312    1 answer
+	answer WORD[167,   1]: 0.0004312 誤答
+TOKEN[168]: 0.0004310    1 entry
+	entry WORD[168,   1]: 0.0004310 誤記
+TOKEN[169]: 0.0004267    1 doctor
+	doctor WORD[169,   1]: 0.0004267 誤魔化す
+TOKEN[170]: 0.0004220    1 smoke
+	smoke WORD[170,   1]: 0.0004220 誤魔化し
+TOKEN[171]: 0.0004136    1 bug
+	bug WORD[171,   1]: 0.0004136 誤り
+TOKEN[172]: 0.0004077    1 lie
+	lie WORD[172,   1]: 0.0004077 誤魔化す
+TOKEN[173]: 0.0004068    1 difficult
+	difficult WORD[173,   1]: 0.0004068 誤魔化す
+TOKEN[174]: 0.0003998    1 question
+	question WORD[174,   1]: 0.0003998 誤魔化す
+TOKEN[175]: 0.0003881    1 cutting
+	cutting WORD[175,   1]: 0.0003881 誤魔化し
+TOKEN[176]: 0.0003451    1 lead
+	lead WORD[176,   1]: 0.0003451 誤る
+TOKEN[177]: 0.0003402    1 use
+	use WORD[177,   1]: 0.0003402 誤用
+TOKEN[178]: 0.0003401    1 fire
+	fire WORD[178,   1]: 0.0003401 誤爆
+TOKEN[179]: 0.0003308    1 rate
+	rate WORD[179,   1]: 0.0003308 誤り率
+TOKEN[180]: 0.0003063    1 way
+	way WORD[180,   1]: 0.0003063 誤魔化す

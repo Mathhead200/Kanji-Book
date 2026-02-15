@@ -1,0 +1,775 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0862154   29 electric       : 発送電, 重電, 電炉, 発受電, 電光, 通電, 電蓄, 電線, 弱電, 電鈴, ...
+0.0786207   16 power          : 発送電, 復電, 売電, 発受電, 電源, 節電, 電纜, 強電, 発電, 電力, ...
+0.0539001    7 telephone      : 架電, アポ電, 直電, 電話, 入電, 電柱, 電線
+0.0330860    1 producer       : 発送電
+0.0304222    3 phone          : アポ電, 直電, 電話
+0.0303569    1 supplier       : 発送電
+0.0266081    5 supply         : 発送電, 送電, 停電, 通電, 休電
+0.0246532   20 telegram       : 初電, 別電, 答電, 来電, 返電, 飛電, 弔電, 特電, 電文, 親電, ...
+0.0237028    1 production     : 発送電
+0.0227809    2 calling        : 直電, 架電
+0.0211313   17 electricity    : 売電, 静電, 誘電, 停電, 送電, 節電, 起電, 漏電, 配電, 盗電, ...
+0.0210379    1 caller         : アポ電
+0.0185469    4 call           : 架電, イタ電, 電話, 入電
+0.0185413    2 making         : アポ電, 架電
+0.0185032    1 electrodeposition: 電着
+0.0184890    1 electroforming : 電鋳
+0.0172962    1 fraud          : アポ電
+0.0156923    1 victim         : アポ電
+0.0152053    1 appointment    : アポ電
+0.0151000    1 relative       : アポ電
+0.0146643    1 dialing        : 架電
+0.0125595    2 failure        : 復電, 停電
+0.0124595    1 restoration    : 復電
+0.0109637    3 tram           : 電停, 都電, 市電
+0.0105559    1 number         : 直電
+0.0103244    1 metropolitan   : 都電
+0.0097791    8 lightning      : 電, 雷電, 飛電, 電光, 紫電, 閃電, 電撃, 電影
+0.0093440   10 electrical     : 電路, 電纜, 漏電, 放電, 変電, 電装, 電工, 電源, 電機, 家電
+0.0091676    1 conversation   : 架電
+0.0084188    1 piezoelectric  : 圧電
+0.0076290    1 someone        : 直電
+0.0065456    2 electron       : 電顕, 電子
+0.0065209    4 cable          : 電纜, 電線, 電略, 公電
+0.0064196    1 tramway        : 都電
+0.0062841    6 telegraph      : 飛電, 電鍵, 電柱, 電線, 電信, 打電
+0.0058700    5 electronic     : 電卓, 答電, 電送, 電子, 電算
+0.0054010    1 microscope     : 電顕
+0.0052756    4 train          : 初電, 電車, 国電, 終電
+0.0051152    2 calculator     : 電卓, 電算
+0.0048463    1 crank          : イタ電
+0.0046092    1 prank          : イタ電
+0.0045271    3 government     : 都電, 答電, 電請
+0.0044967    1 nuisance       : イタ電
+0.0044876    1 solar          : 売電
+0.0043026    1 domestic       : 売電
+0.0042054    1 radar          : 電探
+0.0040753    2 company        : 売電, 電工
+0.0039955    4 flash          : 飛電, 紫電, 閃電, 電
+0.0038611    1 selling        : 売電
+0.0037371    2 static         : 静電, 空電
+0.0036698    3 current        : 通電, 弱電, 電流
+0.0034513    1 heavy          : 重電
+0.0033645    2 illumination   : 電飾, 電光
+0.0031801    2 machinery      : 重電, 電機
+0.0030272    1 topic          : 初電
+0.0029506    1 particular     : 初電
+0.0028451    1 electrostatic  : 静電
+0.0028414    1 pole           : 電柱
+0.0028351    3 electrification: 電化, 帯電, 充電
+0.0027871    1 dielectric     : 誘電
+0.0027648    2 day            : 初電, 終電
+0.0027548    5 light          : 電光, 電灯, 電燈, 電球, 電気
+0.0026148    1 induced        : 誘電
+0.0026148    1 inductive      : 誘電
+0.0025933    1 stop           : 電停
+0.0025841    2 reply          : 答電, 返電
+0.0025570    2 electrolytic   : 電食, 電離
+0.0024599    1 oven           : 電炉
+0.0024449    1 web            : 電網
+0.0024348    1 conduction     : 導電
+0.0024051    1 gramophone     : 電蓄
+0.0023599    2 incoming       : 来電, 入電
+0.0023419    1 induction      : 誘電
+0.0023105    2 circuit        : 電路, 漏電
+0.0022153    1 television     : 電視
+0.0021466    1 furnace        : 電炉
+0.0019993    1 address        : 電略
+0.0019605    1 outage         : 停電
+0.0019356    1 decorative     : 電飾
+0.0019253    2 sent           : 親電, 答電
+0.0019170    1 soroban        : 電算
+0.0018001    2 generation     : 起電, 発電
+0.0017785    2 device         : 電鍵, 電話
+0.0017086    2 field          : 電場, 電界
+0.0016885    1 wireless       : 無電
+0.0016815    2 charge         : 電荷, 荷電
+0.0016534    2 source         : 電光, 電源
+0.0016467    1 combined       : 電算
+0.0016344    1 telegraphic    : 電略
+0.0016295    1 Morse          : 電鍵
+0.0015867    1 reducing       : 節電
+0.0015664    1 consumer       : 家電
+0.0015186    1 electronics    : 家電
+0.0015178    2 wire           : 電線, 電請
+0.0015171    1 saving         : 節電
+0.0015055    1 photoelectric  : 光電
+0.0014987    1 electrics      : 強電
+0.0014751    2 transmission   : 電送, 送電
+0.0014317    2 sending        : 発電, 打電
+0.0014055    2 shock          : 電撃, 感電
+0.0013876    2 city           : 国電, 市電
+0.0013692    2 reception      : 電波, 着電
+0.0013591    2 state          : 親電, 答電
+0.0013468    1 thunder        : 雷電
+0.0013447    2 railway        : 電鉄, 市電
+0.0012967    1 corrosion      : 電食
+0.0012688    1 condolence     : 弔電
+0.0012509    1 urgent         : 飛電
+0.0012484    2 head           : 親電, 答電
+0.0012141    1 household      : 家電
+0.0011836    1 diplomatic     : 公電
+0.0011507    1 switching      : 電鍵
+0.0011307    1 code           : 電鍵
+0.0011294    1 dispatch       : 特電
+0.0011280    1 pocket         : 電卓
+0.0010945    1 weak           : 弱電
+0.0010938    1 ionization     : 電離
+0.0010938    1 powered        : 電動
+0.0010937    1 electrician    : 電工
+0.0010937    1 blitz          : 電撃
+0.0010936    1 electrolysis   : 電解
+0.0010889    1 express        : 飛電
+0.0010748    1 purple         : 紫電
+0.0010701    1 leakage        : 漏電
+0.0010656    1 line           : 電線
+0.0010587    1 bell           : 電鈴
+0.0010576    1 separate       : 別電
+0.0010262    1 dissociation   : 電離
+0.0010261    1 electromagnetic: 電磁
+0.0010083    1 key            : 電鍵
+0.0009984    1 streetcar      : 市電
+0.0009866    1 digital        : 電脳
+0.0009865    1 shocking       : 電撃
+0.0009865    1 electrode      : 電極
+0.0009865    1 voltage        : 電圧
+0.0009802    1 blackout       : 停電
+0.0009593    1 different      : 別電
+0.0009500    1 home           : 家電
+0.0009366    1 heat           : 電熱
+0.0009293    1 send           : 電鍵
+0.0009202    1 special        : 特電
+0.0008803    1 transformation : 変電
+0.0008790    1 false          : 偽電
+0.0008692    1 utility        : 電柱
+0.0008599    1 engineering    : 電工
+0.0008565    1 emperor        : 親電
+0.0008456    1 fault          : 漏電
+0.0008436    1 battery        : 電池
+0.0008364    1 bulb           : 電球
+0.0008317    1 service        : 国電
+0.0008297    1 wiring         : 電装
+0.0008296    1 potential      : 電位
+0.0008128    1 stealing       : 盗電
+0.0008119    1 brain          : 電脳
+0.0008119    1 button         : 電源
+0.0008118    1 bolt           : 電
+0.0008042    1 former         : 国電
+0.0007934    1 consumption    : 節電
+0.0007891    1 official       : 公電
+0.0007873    1 discharge      : 放電
+0.0007842    1 energy         : 変電
+0.0007833    1 received       : 入電
+0.0007761    1 radio          : 電波
+0.0007709    1 distribution   : 配電
+0.0007619    1 charging       : 充電
+0.0007558    1 signal         : 電波
+0.0007558    1 agency         : 電通
+0.0007471    1 cell           : 電池
+0.0007470    1 movie          : 電影
+0.0007460    1 congratulatory : 祝電
+0.0007443    1 computer       : 電脳
+0.0007371    1 usage          : 節電
+0.0007366    1 storage        : 蓄電
+0.0007365    1 fitting        : 電装
+0.0007365    1 warning        : 電撃
+0.0007340    1 data           : 電送
+0.0007293    1 equipment      : 電装
+0.0007274    1 municipal      : 市電
+0.0007247    1 works          : 電工
+0.0007134    1 short          : 漏電
+0.0006880    1 used           : 電鍵
+0.0006867    1 saying         : 電波
+0.0006789    1 flight         : 逐電
+0.0006788    1 message        : 答電
+0.0006740    1 following      : 電工
+0.0006697    1 answer         : 答電
+0.0006653    1 wave           : 電波
+0.0006606    1 strange        : 電波
+0.0006592    1 flow           : 通電
+0.0006539    1 sudden         : 電撃
+0.0006476    1 film           : 電影
+0.0006329    1 passing        : 通電
+0.0006289    1 turning        : 通電
+0.0006198    1 attack         : 電撃
+0.0005971    1 suspension     : 休電
+0.0005942    1 Japanese       : 国電
+0.0005816    1 goods          : 電器
+0.0005579    1 foreign        : 外電
+0.0005340    1 name           : 電工
+0.0005306    1 last           : 終電
+0.0002914    1 one            : 電請
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0862154   29 electric
+	electric WORD[ 1,   1]: 0.0508440 発送電
+	electric WORD[ 1,   2]: 0.0042574 重電
+	electric WORD[ 1,   3]: 0.0038680 電炉
+	electric WORD[ 1,   4]: 0.0021949 発受電
+	electric WORD[ 1,   5]: 0.0021946 電光
+	electric WORD[ 1,   6]: 0.0021522 通電
+	electric WORD[ 1,   7]: 0.0017263 電蓄
+	electric WORD[ 1,   8]: 0.0014730 電線
+	electric WORD[ 1,   9]: 0.0012446 弱電
+	electric WORD[ 1,  10]: 0.0011006 電鈴
+	electric WORD[ 1,  11]: 0.0011004 電熱
+	electric WORD[ 1,  12]: 0.0010986 電場
+	electric WORD[ 1,  13]: 0.0010964 電界
+	electric WORD[ 1,  14]: 0.0010289 国電
+	electric WORD[ 1,  15]: 0.0007366 電力
+	electric WORD[ 1,  16]: 0.0007366 電流
+	electric WORD[ 1,  17]: 0.0007365 電動
+	electric WORD[ 1,  18]: 0.0007365 電灯
+	electric WORD[ 1,  19]: 0.0007365 電燈
+	electric WORD[ 1,  20]: 0.0007365 電鉄
+	electric WORD[ 1,  21]: 0.0007365 電車
+	electric WORD[ 1,  22]: 0.0007365 電工
+	electric WORD[ 1,  23]: 0.0007365 電撃
+	electric WORD[ 1,  24]: 0.0007365 電気
+	electric WORD[ 1,  25]: 0.0007365 電器
+	electric WORD[ 1,  26]: 0.0007365 電荷
+	electric WORD[ 1,  27]: 0.0007365 電位
+	electric WORD[ 1,  28]: 0.0006331 感電
+	electric WORD[ 1,  29]: 0.0006277 荷電
+TOKEN[ 2]: 0.0786207   16 power
+	power WORD[ 2,   1]: 0.0409742 発送電
+	power WORD[ 2,   2]: 0.0200818 復電
+	power WORD[ 2,   3]: 0.0071308 売電
+	power WORD[ 2,   4]: 0.0017689 発受電
+	power WORD[ 2,   5]: 0.0011870 電源
+	power WORD[ 2,   6]: 0.0011164 節電
+	power WORD[ 2,   7]: 0.0008870 電纜
+	power WORD[ 2,   8]: 0.0008133 強電
+	power WORD[ 2,   9]: 0.0006377 発電
+	power WORD[ 2,  10]: 0.0005936 電力
+	power WORD[ 2,  11]: 0.0005935 電柱
+	power WORD[ 2,  12]: 0.0005935 電線
+	power WORD[ 2,  13]: 0.0005897 停電
+	power WORD[ 2,  14]: 0.0005782 通電
+	power WORD[ 2,  15]: 0.0005602 送電
+	power WORD[ 2,  16]: 0.0005149 休電
+TOKEN[ 3]: 0.0539001    7 telephone
+	telephone WORD[ 3,   1]: 0.0203502 架電
+	telephone WORD[ 3,   2]: 0.0155590 アポ電
+	telephone WORD[ 3,   3]: 0.0141625 直電
+	telephone WORD[ 3,   4]: 0.0015179 電話
+	telephone WORD[ 3,   5]: 0.0007927 入電
+	telephone WORD[ 3,   6]: 0.0007589 電柱
+	telephone WORD[ 3,   7]: 0.0007589 電線
+TOKEN[ 4]: 0.0330860    1 producer
+	producer WORD[ 4,   1]: 0.0330860 発送電
+TOKEN[ 5]: 0.0304222    3 phone
+	phone WORD[ 5,   1]: 0.0151520 アポ電
+	phone WORD[ 5,   2]: 0.0137920 直電
+	phone WORD[ 5,   3]: 0.0014782 電話
+TOKEN[ 6]: 0.0303569    1 supplier
+	supplier WORD[ 6,   1]: 0.0303569 発送電
+TOKEN[ 7]: 0.0266081    5 supply
+	supply WORD[ 7,   1]: 0.0234057 発送電
+	supply WORD[ 7,   2]: 0.0012799 送電
+	supply WORD[ 7,   3]: 0.0006737 停電
+	supply WORD[ 7,   4]: 0.0006605 通電
+	supply WORD[ 7,   5]: 0.0005883 休電
+TOKEN[ 8]: 0.0246532   20 telegram
+	telegram WORD[ 8,   1]: 0.0033932 初電
+	telegram WORD[ 8,   2]: 0.0025448 別電
+	telegram WORD[ 8,   3]: 0.0015777 答電
+	telegram WORD[ 8,   4]: 0.0013394 来電
+	telegram WORD[ 8,   5]: 0.0012888 返電
+	telegram WORD[ 8,   6]: 0.0012576 飛電
+	telegram WORD[ 8,   7]: 0.0012050 弔電
+	telegram WORD[ 8,   8]: 0.0011823 特電
+	telegram WORD[ 8,   9]: 0.0011775 電文
+	telegram WORD[ 8,  10]: 0.0011259 親電
+	telegram WORD[ 8,  11]: 0.0010846 公電
+	telegram WORD[ 8,  12]: 0.0010817 電報
+	telegram WORD[ 8,  13]: 0.0010661 偽電
+	telegram WORD[ 8,  14]: 0.0008466 発電
+	telegram WORD[ 8,  15]: 0.0008231 入電
+	telegram WORD[ 8,  16]: 0.0007655 着電
+	telegram WORD[ 8,  17]: 0.0007623 打電
+	telegram WORD[ 8,  18]: 0.0007293 受電
+	telegram WORD[ 8,  19]: 0.0007240 祝電
+	telegram WORD[ 8,  20]: 0.0006778 外電
+TOKEN[ 9]: 0.0237028    1 production
+	production WORD[ 9,   1]: 0.0237028 発送電
+TOKEN[10]: 0.0227809    2 calling
+	calling WORD[10,   1]: 0.0132566 直電
+	calling WORD[10,   2]: 0.0095243 架電
+TOKEN[11]: 0.0211313   17 electricity
+	electricity WORD[11,   1]: 0.0045046 売電
+	electricity WORD[11,   2]: 0.0019507 静電
+	electricity WORD[11,   3]: 0.0019109 誘電
+	electricity WORD[11,   4]: 0.0014901 停電
+	electricity WORD[11,   5]: 0.0014154 送電
+	electricity WORD[11,   6]: 0.0014104 節電
+	electricity WORD[11,   7]: 0.0010145 起電
+	electricity WORD[11,   8]: 0.0009332 漏電
+	electricity WORD[11,   9]: 0.0007977 配電
+	electricity WORD[11,  10]: 0.0007507 盗電
+	electricity WORD[11,  11]: 0.0007498 電源
+	electricity WORD[11,  12]: 0.0007498 電気
+	electricity WORD[11,  13]: 0.0007304 通電
+	electricity WORD[11,  14]: 0.0007278 蓄電
+	electricity WORD[11,  15]: 0.0006940 受電
+	electricity WORD[11,  16]: 0.0006506 給電
+	electricity WORD[11,  17]: 0.0006506 休電
+TOKEN[12]: 0.0210379    1 caller
+	caller WORD[12,   1]: 0.0210379 アポ電
+TOKEN[13]: 0.0185469    4 call
+	call WORD[13,   1]: 0.0077777 架電
+	call WORD[13,   2]: 0.0045015 イタ電
+	call WORD[13,   3]: 0.0011603 電話
+	call WORD[13,   4]: 0.0006060 入電
+TOKEN[14]: 0.0185413    2 making
+	making WORD[14,   1]: 0.0112102 アポ電
+	making WORD[14,   2]: 0.0073311 架電
+TOKEN[15]: 0.0185032    1 electrodeposition
+	electrodeposition WORD[15,   1]: 0.0185032 電着
+TOKEN[16]: 0.0184890    1 electroforming
+	electroforming WORD[16,   1]: 0.0184890 電鋳
+TOKEN[17]: 0.0172962    1 fraud
+	fraud WORD[17,   1]: 0.0172962 アポ電
+TOKEN[18]: 0.0156923    1 victim
+	victim WORD[18,   1]: 0.0156923 アポ電
+TOKEN[19]: 0.0152053    1 appointment
+	appointment WORD[19,   1]: 0.0152053 アポ電
+TOKEN[20]: 0.0151000    1 relative
+	relative WORD[20,   1]: 0.0151000 アポ電
+TOKEN[21]: 0.0146643    1 dialing
+	dialing WORD[21,   1]: 0.0146643 架電
+TOKEN[22]: 0.0125595    2 failure
+	failure WORD[22,   1]: 0.0118628 復電
+	failure WORD[22,   2]: 0.0006967 停電
+TOKEN[23]: 0.0124595    1 restoration
+	restoration WORD[23,   1]: 0.0124595 復電
+TOKEN[24]: 0.0109637    3 tram
+	tram WORD[24,   1]: 0.0042722 電停
+	tram WORD[24,   2]: 0.0028955 都電
+	tram WORD[24,   3]: 0.0009006 市電
+TOKEN[25]: 0.0105559    1 number
+	number WORD[25,   1]: 0.0105559 直電
+TOKEN[26]: 0.0103244    1 metropolitan
+	metropolitan WORD[26,   1]: 0.0051622 都電
+TOKEN[27]: 0.0097791    8 lightning
+	lightning WORD[27,   1]: 0.0023513 電
+	lightning WORD[27,   2]: 0.0013324 雷電
+	lightning WORD[27,   3]: 0.0012509 飛電
+	lightning WORD[27,   4]: 0.0011679 電光
+	lightning WORD[27,   5]: 0.0011055 紫電
+	lightning WORD[27,   6]: 0.0010035 閃電
+	lightning WORD[27,   7]: 0.0007838 電撃
+	lightning WORD[27,   8]: 0.0007838 電影
+TOKEN[28]: 0.0093440   10 electrical
+	electrical WORD[28,   1]: 0.0011438 電路
+	electrical WORD[28,   2]: 0.0011438 電纜
+	electrical WORD[28,   3]: 0.0009525 漏電
+	electrical WORD[28,   4]: 0.0008696 放電
+	electrical WORD[28,   5]: 0.0008683 変電
+	electrical WORD[28,   6]: 0.0007654 電装
+	electrical WORD[28,   7]: 0.0007654 電工
+	electrical WORD[28,   8]: 0.0007654 電源
+	electrical WORD[28,   9]: 0.0007653 電機
+	electrical WORD[28,  10]: 0.0006523 家電
+TOKEN[29]: 0.0091676    1 conversation
+	conversation WORD[29,   1]: 0.0091676 架電
+TOKEN[30]: 0.0084188    1 piezoelectric
+	piezoelectric WORD[30,   1]: 0.0084188 圧電
+TOKEN[31]: 0.0076290    1 someone
+	someone WORD[31,   1]: 0.0076290 直電
+TOKEN[32]: 0.0065456    2 electron
+	electron WORD[32,   1]: 0.0055591 電顕
+	electron WORD[32,   2]: 0.0009866 電子
+TOKEN[33]: 0.0065209    4 cable
+	cable WORD[33,   1]: 0.0024797 電纜
+	cable WORD[33,   2]: 0.0016593 電線
+	cable WORD[33,   3]: 0.0012399 電略
+	cable WORD[33,   4]: 0.0011420 公電
+TOKEN[34]: 0.0064196    1 tramway
+	tramway WORD[34,   1]: 0.0032098 都電
+TOKEN[35]: 0.0062841    6 telegraph
+	telegraph WORD[35,   1]: 0.0014219 飛電
+	telegraph WORD[35,   2]: 0.0013274 電鍵
+	telegraph WORD[35,   3]: 0.0008910 電柱
+	telegraph WORD[35,   4]: 0.0008910 電線
+	telegraph WORD[35,   5]: 0.0008909 電信
+	telegraph WORD[35,   6]: 0.0008619 打電
+TOKEN[36]: 0.0058700    5 electronic
+	electronic WORD[36,   1]: 0.0013492 電卓
+	electronic WORD[36,   2]: 0.0009050 答電
+	electronic WORD[36,   3]: 0.0009040 電送
+	electronic WORD[36,   4]: 0.0009039 電子
+	electronic WORD[36,   5]: 0.0009039 電算
+TOKEN[37]: 0.0054010    1 microscope
+	microscope WORD[37,   1]: 0.0054010 電顕
+TOKEN[38]: 0.0052756    4 train
+	train WORD[38,   1]: 0.0026349 初電
+	train WORD[38,   2]: 0.0012237 電車
+	train WORD[38,   3]: 0.0008549 国電
+	train WORD[38,   4]: 0.0005621 終電
+TOKEN[39]: 0.0051152    2 calculator
+	calculator WORD[39,   1]: 0.0030630 電卓
+	calculator WORD[39,   2]: 0.0010261 電算
+TOKEN[40]: 0.0048463    1 crank
+	crank WORD[40,   1]: 0.0024232 イタ電
+TOKEN[41]: 0.0046092    1 prank
+	prank WORD[41,   1]: 0.0023046 イタ電
+TOKEN[42]: 0.0045271    3 government
+	government WORD[42,   1]: 0.0016881 都電
+	government WORD[42,   2]: 0.0005758 答電
+	government WORD[42,   3]: 0.0005752 電請
+TOKEN[43]: 0.0044967    1 nuisance
+	nuisance WORD[43,   1]: 0.0022483 イタ電
+TOKEN[44]: 0.0044876    1 solar
+	solar WORD[44,   1]: 0.0044876 売電
+TOKEN[45]: 0.0043026    1 domestic
+	domestic WORD[45,   1]: 0.0043026 売電
+TOKEN[46]: 0.0042054    1 radar
+	radar WORD[46,   1]: 0.0042054 電探
+TOKEN[47]: 0.0040753    2 company
+	company WORD[47,   1]: 0.0034937 売電
+	company WORD[47,   2]: 0.0005816 電工
+TOKEN[48]: 0.0039955    4 flash
+	flash WORD[48,   1]: 0.0012062 飛電
+	flash WORD[48,   2]: 0.0010659 紫電
+	flash WORD[48,   3]: 0.0009676 閃電
+	flash WORD[48,   4]: 0.0007557 電
+TOKEN[49]: 0.0038611    1 selling
+	selling WORD[49,   1]: 0.0038611 売電
+TOKEN[50]: 0.0037371    2 static
+	static WORD[50,   1]: 0.0024369 静電
+	static WORD[50,   2]: 0.0013002 空電
+TOKEN[51]: 0.0036698    3 current
+	current WORD[51,   1]: 0.0019108 通電
+	current WORD[51,   2]: 0.0011050 弱電
+	current WORD[51,   3]: 0.0006540 電流
+TOKEN[52]: 0.0034513    1 heavy
+	heavy WORD[52,   1]: 0.0034513 重電
+TOKEN[53]: 0.0033645    2 illumination
+	illumination WORD[53,   1]: 0.0021549 電飾
+	illumination WORD[53,   2]: 0.0012096 電光
+TOKEN[54]: 0.0031801    2 machinery
+	machinery WORD[54,   1]: 0.0023627 重電
+	machinery WORD[54,   2]: 0.0008174 電機
+TOKEN[55]: 0.0030272    1 topic
+	topic WORD[55,   1]: 0.0030272 初電
+TOKEN[56]: 0.0029506    1 particular
+	particular WORD[56,   1]: 0.0029506 初電
+TOKEN[57]: 0.0028451    1 electrostatic
+	electrostatic WORD[57,   1]: 0.0028451 静電
+TOKEN[58]: 0.0028414    1 pole
+	pole WORD[58,   1]: 0.0028414 電柱
+TOKEN[59]: 0.0028351    3 electrification
+	electrification WORD[59,   1]: 0.0009865 電化
+	electrification WORD[59,   2]: 0.0009357 帯電
+	electrification WORD[59,   3]: 0.0009129 充電
+TOKEN[60]: 0.0027871    1 dielectric
+	dielectric WORD[60,   1]: 0.0027871 誘電
+TOKEN[61]: 0.0027648    2 day
+	day WORD[61,   1]: 0.0022787 初電
+	day WORD[61,   2]: 0.0004861 終電
+TOKEN[62]: 0.0027548    5 light
+	light WORD[62,   1]: 0.0007476 電光
+	light WORD[62,   2]: 0.0005018 電灯
+	light WORD[62,   3]: 0.0005018 電燈
+	light WORD[62,   4]: 0.0005018 電球
+	light WORD[62,   5]: 0.0005018 電気
+TOKEN[63]: 0.0026148    1 induced
+	induced WORD[63,   1]: 0.0026148 誘電
+TOKEN[64]: 0.0026148    1 inductive
+	inductive WORD[64,   1]: 0.0026148 誘電
+TOKEN[65]: 0.0025933    1 stop
+	stop WORD[65,   1]: 0.0025933 電停
+TOKEN[66]: 0.0025841    2 reply
+	reply WORD[66,   1]: 0.0014223 答電
+	reply WORD[66,   2]: 0.0011618 返電
+TOKEN[67]: 0.0025570    2 electrolytic
+	electrolytic WORD[67,   1]: 0.0015308 電食
+	electrolytic WORD[67,   2]: 0.0010262 電離
+TOKEN[68]: 0.0024599    1 oven
+	oven WORD[68,   1]: 0.0024599 電炉
+TOKEN[69]: 0.0024449    1 web
+	web WORD[69,   1]: 0.0024449 電網
+TOKEN[70]: 0.0024348    1 conduction
+	conduction WORD[70,   1]: 0.0024348 導電
+TOKEN[71]: 0.0024051    1 gramophone
+	gramophone WORD[71,   1]: 0.0024051 電蓄
+TOKEN[72]: 0.0023599    2 incoming
+	incoming WORD[72,   1]: 0.0014616 来電
+	incoming WORD[72,   2]: 0.0008983 入電
+TOKEN[73]: 0.0023419    1 induction
+	induction WORD[73,   1]: 0.0023419 誘電
+TOKEN[74]: 0.0023105    2 circuit
+	circuit WORD[74,   1]: 0.0012607 電路
+	circuit WORD[74,   2]: 0.0010498 漏電
+TOKEN[75]: 0.0022153    1 television
+	television WORD[75,   1]: 0.0022153 電視
+TOKEN[76]: 0.0021466    1 furnace
+	furnace WORD[76,   1]: 0.0021466 電炉
+TOKEN[77]: 0.0019993    1 address
+	address WORD[77,   1]: 0.0019993 電略
+TOKEN[78]: 0.0019605    1 outage
+	outage WORD[78,   1]: 0.0019605 停電
+TOKEN[79]: 0.0019356    1 decorative
+	decorative WORD[79,   1]: 0.0019356 電飾
+TOKEN[80]: 0.0019253    2 sent
+	sent WORD[80,   1]: 0.0011321 親電
+	sent WORD[80,   2]: 0.0007932 答電
+TOKEN[81]: 0.0019170    1 soroban
+	soroban WORD[81,   1]: 0.0009585 電算
+TOKEN[82]: 0.0018001    2 generation
+	generation WORD[82,   1]: 0.0010034 起電
+	generation WORD[82,   2]: 0.0007968 発電
+TOKEN[83]: 0.0017785    2 device
+	device WORD[83,   1]: 0.0010642 電鍵
+	device WORD[83,   2]: 0.0007143 電話
+TOKEN[84]: 0.0017086    2 field
+	field WORD[84,   1]: 0.0008551 電場
+	field WORD[84,   2]: 0.0008535 電界
+TOKEN[85]: 0.0016885    1 wireless
+	wireless WORD[85,   1]: 0.0016885 無電
+TOKEN[86]: 0.0016815    2 charge
+	charge WORD[86,   1]: 0.0011791 電荷
+	charge WORD[86,   2]: 0.0005025 荷電
+TOKEN[87]: 0.0016534    2 source
+	source WORD[87,   1]: 0.0009894 電光
+	source WORD[87,   2]: 0.0006640 電源
+TOKEN[88]: 0.0016467    1 combined
+	combined WORD[88,   1]: 0.0008233 電算
+TOKEN[89]: 0.0016344    1 telegraphic
+	telegraphic WORD[89,   1]: 0.0016344 電略
+TOKEN[90]: 0.0016295    1 Morse
+	Morse WORD[90,   1]: 0.0016295 電鍵
+TOKEN[91]: 0.0015867    1 reducing
+	reducing WORD[91,   1]: 0.0015867 節電
+TOKEN[92]: 0.0015664    1 consumer
+	consumer WORD[92,   1]: 0.0007832 家電
+TOKEN[93]: 0.0015186    1 electronics
+	electronics WORD[93,   1]: 0.0007593 家電
+TOKEN[94]: 0.0015178    2 wire
+	wire WORD[94,   1]: 0.0007589 電線
+	wire WORD[94,   2]: 0.0007589 電請
+TOKEN[95]: 0.0015171    1 saving
+	saving WORD[95,   1]: 0.0015171 節電
+TOKEN[96]: 0.0015055    1 photoelectric
+	photoelectric WORD[96,   1]: 0.0015055 光電
+TOKEN[97]: 0.0014987    1 electrics
+	electrics WORD[97,   1]: 0.0014987 強電
+TOKEN[98]: 0.0014751    2 transmission
+	transmission WORD[98,   1]: 0.0007589 電送
+	transmission WORD[98,   2]: 0.0007162 送電
+TOKEN[99]: 0.0014317    2 sending
+	sending WORD[99,   1]: 0.0007534 発電
+	sending WORD[99,   2]: 0.0006784 打電
+TOKEN[100]: 0.0014055    2 shock
+	shock WORD[100,   1]: 0.0007558 電撃
+	shock WORD[100,   2]: 0.0006497 感電
+TOKEN[101]: 0.0013876    2 city
+	city WORD[101,   1]: 0.0008392 国電
+	city WORD[101,   2]: 0.0005484 市電
+TOKEN[102]: 0.0013692    2 reception
+	reception WORD[102,   1]: 0.0006945 電波
+	reception WORD[102,   2]: 0.0006746 着電
+TOKEN[103]: 0.0013591    2 state
+	state WORD[103,   1]: 0.0007992 親電
+	state WORD[103,   2]: 0.0005600 答電
+TOKEN[104]: 0.0013468    1 thunder
+	thunder WORD[104,   1]: 0.0013468 雷電
+TOKEN[105]: 0.0013447    2 railway
+	railway WORD[105,   1]: 0.0007030 電鉄
+	railway WORD[105,   2]: 0.0006417 市電
+TOKEN[106]: 0.0012967    1 corrosion
+	corrosion WORD[106,   1]: 0.0012967 電食
+TOKEN[107]: 0.0012688    1 condolence
+	condolence WORD[107,   1]: 0.0012688 弔電
+TOKEN[108]: 0.0012509    1 urgent
+	urgent WORD[108,   1]: 0.0012509 飛電
+TOKEN[109]: 0.0012484    2 head
+	head WORD[109,   1]: 0.0007341 親電
+	head WORD[109,   2]: 0.0005143 答電
+TOKEN[110]: 0.0012141    1 household
+	household WORD[110,   1]: 0.0006070 家電
+TOKEN[111]: 0.0011836    1 diplomatic
+	diplomatic WORD[111,   1]: 0.0011836 公電
+TOKEN[112]: 0.0011507    1 switching
+	switching WORD[112,   1]: 0.0011507 電鍵
+TOKEN[113]: 0.0011307    1 code
+	code WORD[113,   1]: 0.0011307 電鍵
+TOKEN[114]: 0.0011294    1 dispatch
+	dispatch WORD[114,   1]: 0.0011294 特電
+TOKEN[115]: 0.0011280    1 pocket
+	pocket WORD[115,   1]: 0.0011280 電卓
+TOKEN[116]: 0.0010945    1 weak
+	weak WORD[116,   1]: 0.0010945 弱電
+TOKEN[117]: 0.0010938    1 ionization
+	ionization WORD[117,   1]: 0.0010938 電離
+TOKEN[118]: 0.0010938    1 powered
+	powered WORD[118,   1]: 0.0010938 電動
+TOKEN[119]: 0.0010937    1 electrician
+	electrician WORD[119,   1]: 0.0010937 電工
+TOKEN[120]: 0.0010937    1 blitz
+	blitz WORD[120,   1]: 0.0010937 電撃
+TOKEN[121]: 0.0010936    1 electrolysis
+	electrolysis WORD[121,   1]: 0.0010936 電解
+TOKEN[122]: 0.0010889    1 express
+	express WORD[122,   1]: 0.0010889 飛電
+TOKEN[123]: 0.0010748    1 purple
+	purple WORD[123,   1]: 0.0010748 紫電
+TOKEN[124]: 0.0010701    1 leakage
+	leakage WORD[124,   1]: 0.0010701 漏電
+TOKEN[125]: 0.0010656    1 line
+	line WORD[125,   1]: 0.0010656 電線
+TOKEN[126]: 0.0010587    1 bell
+	bell WORD[126,   1]: 0.0010587 電鈴
+TOKEN[127]: 0.0010576    1 separate
+	separate WORD[127,   1]: 0.0010576 別電
+TOKEN[128]: 0.0010262    1 dissociation
+	dissociation WORD[128,   1]: 0.0010262 電離
+TOKEN[129]: 0.0010261    1 electromagnetic
+	electromagnetic WORD[129,   1]: 0.0010261 電磁
+TOKEN[130]: 0.0010083    1 key
+	key WORD[130,   1]: 0.0010083 電鍵
+TOKEN[131]: 0.0009984    1 streetcar
+	streetcar WORD[131,   1]: 0.0009984 市電
+TOKEN[132]: 0.0009866    1 digital
+	digital WORD[132,   1]: 0.0009866 電脳
+TOKEN[133]: 0.0009865    1 shocking
+	shocking WORD[133,   1]: 0.0009865 電撃
+TOKEN[134]: 0.0009865    1 electrode
+	electrode WORD[134,   1]: 0.0009865 電極
+TOKEN[135]: 0.0009865    1 voltage
+	voltage WORD[135,   1]: 0.0009865 電圧
+TOKEN[136]: 0.0009802    1 blackout
+	blackout WORD[136,   1]: 0.0009802 停電
+TOKEN[137]: 0.0009593    1 different
+	different WORD[137,   1]: 0.0009593 別電
+TOKEN[138]: 0.0009500    1 home
+	home WORD[138,   1]: 0.0004750 家電
+TOKEN[139]: 0.0009366    1 heat
+	heat WORD[139,   1]: 0.0009366 電熱
+TOKEN[140]: 0.0009293    1 send
+	send WORD[140,   1]: 0.0009293 電鍵
+TOKEN[141]: 0.0009202    1 special
+	special WORD[141,   1]: 0.0009202 特電
+TOKEN[142]: 0.0008803    1 transformation
+	transformation WORD[142,   1]: 0.0008803 変電
+TOKEN[143]: 0.0008790    1 false
+	false WORD[143,   1]: 0.0008790 偽電
+TOKEN[144]: 0.0008692    1 utility
+	utility WORD[144,   1]: 0.0008692 電柱
+TOKEN[145]: 0.0008599    1 engineering
+	engineering WORD[145,   1]: 0.0008599 電工
+TOKEN[146]: 0.0008565    1 emperor
+	emperor WORD[146,   1]: 0.0008565 親電
+TOKEN[147]: 0.0008456    1 fault
+	fault WORD[147,   1]: 0.0008456 漏電
+TOKEN[148]: 0.0008436    1 battery
+	battery WORD[148,   1]: 0.0008436 電池
+TOKEN[149]: 0.0008364    1 bulb
+	bulb WORD[149,   1]: 0.0008364 電球
+TOKEN[150]: 0.0008317    1 service
+	service WORD[150,   1]: 0.0008317 国電
+TOKEN[151]: 0.0008297    1 wiring
+	wiring WORD[151,   1]: 0.0008297 電装
+TOKEN[152]: 0.0008296    1 potential
+	potential WORD[152,   1]: 0.0008296 電位
+TOKEN[153]: 0.0008128    1 stealing
+	stealing WORD[153,   1]: 0.0008128 盗電
+TOKEN[154]: 0.0008119    1 brain
+	brain WORD[154,   1]: 0.0008119 電脳
+TOKEN[155]: 0.0008119    1 button
+	button WORD[155,   1]: 0.0008119 電源
+TOKEN[156]: 0.0008118    1 bolt
+	bolt WORD[156,   1]: 0.0008118 電
+TOKEN[157]: 0.0008042    1 former
+	former WORD[157,   1]: 0.0008042 国電
+TOKEN[158]: 0.0007934    1 consumption
+	consumption WORD[158,   1]: 0.0007934 節電
+TOKEN[159]: 0.0007891    1 official
+	official WORD[159,   1]: 0.0007891 公電
+TOKEN[160]: 0.0007873    1 discharge
+	discharge WORD[160,   1]: 0.0007873 放電
+TOKEN[161]: 0.0007842    1 energy
+	energy WORD[161,   1]: 0.0007842 変電
+TOKEN[162]: 0.0007833    1 received
+	received WORD[162,   1]: 0.0007833 入電
+TOKEN[163]: 0.0007761    1 radio
+	radio WORD[163,   1]: 0.0007761 電波
+TOKEN[164]: 0.0007709    1 distribution
+	distribution WORD[164,   1]: 0.0007709 配電
+TOKEN[165]: 0.0007619    1 charging
+	charging WORD[165,   1]: 0.0007619 充電
+TOKEN[166]: 0.0007558    1 signal
+	signal WORD[166,   1]: 0.0007558 電波
+TOKEN[167]: 0.0007558    1 agency
+	agency WORD[167,   1]: 0.0007558 電通
+TOKEN[168]: 0.0007471    1 cell
+	cell WORD[168,   1]: 0.0007471 電池
+TOKEN[169]: 0.0007470    1 movie
+	movie WORD[169,   1]: 0.0007470 電影
+TOKEN[170]: 0.0007460    1 congratulatory
+	congratulatory WORD[170,   1]: 0.0007460 祝電
+TOKEN[171]: 0.0007443    1 computer
+	computer WORD[171,   1]: 0.0007443 電脳
+TOKEN[172]: 0.0007371    1 usage
+	usage WORD[172,   1]: 0.0007371 節電
+TOKEN[173]: 0.0007366    1 storage
+	storage WORD[173,   1]: 0.0007366 蓄電
+TOKEN[174]: 0.0007365    1 fitting
+	fitting WORD[174,   1]: 0.0007365 電装
+TOKEN[175]: 0.0007365    1 warning
+	warning WORD[175,   1]: 0.0007365 電撃
+TOKEN[176]: 0.0007340    1 data
+	data WORD[176,   1]: 0.0007340 電送
+TOKEN[177]: 0.0007293    1 equipment
+	equipment WORD[177,   1]: 0.0007293 電装
+TOKEN[178]: 0.0007274    1 municipal
+	municipal WORD[178,   1]: 0.0007274 市電
+TOKEN[179]: 0.0007247    1 works
+	works WORD[179,   1]: 0.0007247 電工
+TOKEN[180]: 0.0007134    1 short
+	short WORD[180,   1]: 0.0007134 漏電
+TOKEN[181]: 0.0006880    1 used
+	used WORD[181,   1]: 0.0006880 電鍵
+TOKEN[182]: 0.0006867    1 saying
+	saying WORD[182,   1]: 0.0006867 電波
+TOKEN[183]: 0.0006789    1 flight
+	flight WORD[183,   1]: 0.0006789 逐電
+TOKEN[184]: 0.0006788    1 message
+	message WORD[184,   1]: 0.0006788 答電
+TOKEN[185]: 0.0006740    1 following
+	following WORD[185,   1]: 0.0006740 電工
+TOKEN[186]: 0.0006697    1 answer
+	answer WORD[186,   1]: 0.0006697 答電
+TOKEN[187]: 0.0006653    1 wave
+	wave WORD[187,   1]: 0.0006653 電波
+TOKEN[188]: 0.0006606    1 strange
+	strange WORD[188,   1]: 0.0006606 電波
+TOKEN[189]: 0.0006592    1 flow
+	flow WORD[189,   1]: 0.0006592 通電
+TOKEN[190]: 0.0006539    1 sudden
+	sudden WORD[190,   1]: 0.0006539 電撃
+TOKEN[191]: 0.0006476    1 film
+	film WORD[191,   1]: 0.0006476 電影
+TOKEN[192]: 0.0006329    1 passing
+	passing WORD[192,   1]: 0.0006329 通電
+TOKEN[193]: 0.0006289    1 turning
+	turning WORD[193,   1]: 0.0006289 通電
+TOKEN[194]: 0.0006198    1 attack
+	attack WORD[194,   1]: 0.0006198 電撃
+TOKEN[195]: 0.0005971    1 suspension
+	suspension WORD[195,   1]: 0.0005971 休電
+TOKEN[196]: 0.0005942    1 Japanese
+	Japanese WORD[196,   1]: 0.0005942 国電
+TOKEN[197]: 0.0005816    1 goods
+	goods WORD[197,   1]: 0.0005816 電器
+TOKEN[198]: 0.0005579    1 foreign
+	foreign WORD[198,   1]: 0.0005579 外電
+TOKEN[199]: 0.0005340    1 name
+	name WORD[199,   1]: 0.0005340 電工
+TOKEN[200]: 0.0005306    1 last
+	last WORD[200,   1]: 0.0005306 終電
+TOKEN[201]: 0.0002914    1 one
+	one WORD[201,   1]: 0.0002914 電請

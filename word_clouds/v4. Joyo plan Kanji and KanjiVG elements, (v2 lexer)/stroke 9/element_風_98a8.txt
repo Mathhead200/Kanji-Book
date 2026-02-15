@@ -1,0 +1,2268 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0880463    3 hurricane      : 颱風, 颶風, 台風
+0.0776103    4 typhoon        : 颱風, 颶風, 台風, 神風
+0.0561491   91 wind           : 山颪, 颪, 颯颯, 飄々, 飄飄, 時津風, 初風, 乾風, 青嵐, 真風, ...
+0.0504565    8 blowing        : 山颪, 颪, 飄々, 飄飄, 青嵐, 時津風, 松風, 家風
+0.0477075    6 maple          : 唐楓, 楓林, 楓葉, いろは楓, 伊呂波楓, 楓
+0.0347823    1 tornado        : 颶風
+0.0266423    6 mountain       : 山颪, 嵐気, 晴嵐, 山嵐, 青嵐, 山風
+0.0240613    2 vagabond       : 瘋癲, 風太郎
+0.0222719    2 insanity       : 瘋癲, 風狂
+0.0218164    2 insane         : 瘋癲, 風狂
+0.0217432    1 wanderer       : 瘋癲
+0.0194018    1 mountainous    : 翠嵐
+0.0192464    4 whistling      : 颯颯, 飄々, 飄飄, 松風
+0.0174871    1 trident        : 唐楓
+0.0170841    1 soughing       : 颯颯
+0.0163268    1 atmosphere     : 翠嵐
+0.0153209    3 Acer           : いろは楓, 伊呂波楓, 楓
+0.0150505    1 murmuring      : 颯颯
+0.0145445    2 rustling       : 颯颯, 葉風
+0.0135524    1 rectification  : 整風
+0.0127735    1 sense          : 翠嵐
+0.0120935    5 insinuation    : 諷喩, 諷諌, 諷諫, 風喩, 風諭
+0.0118675    1 green          : 翠嵐
+0.0114571    5 indirect       : 諷喩, 諷諌, 諷諫, 風喩, 風諭
+0.0105764    6 person         : 瘋癲, 風太郎, 風狂, 風引き, 風邪ひき, 風邪引き
+0.0105573    1 jaunty         : 颯爽
+0.0102571    1 dashing        : 颯爽
+0.0099725    1 chanting       : 諷経
+0.0093733    4 hint           : 諷する, 諷喩, 風喩, 風諭
+0.0089501    1 gallant        : 颯爽
+0.0086683   20 bath           : 長風呂, 酒風呂, 湯風呂, 泡風呂, 女風呂, 男風呂, 石風呂, 塩風呂, 風呂代, 砂風呂, ...
+0.0086277    2 exhortation    : 諷諌, 諷諫
+0.0084866    2 remonstrance   : 諷諌, 諷諫
+0.0080238    3 aloof          : 飄然, 飄々, 飄飄
+0.0076372    1 grove          : 楓林
+0.0074652   13 storm          : 大嵐, 山嵐, 夜嵐, 嵐, 春嵐, 暴風雨, 魔風, 風水害, 風災, 風害, ...
+0.0073135    3 detached       : 飄然, 飄々, 飄飄
+0.0067441    3 easygoing      : 飄逸, 飄々, 飄飄
+0.0064503    1 satirize       : 諷する
+0.0061842    1 insinuate      : 諷する
+0.0057874    2 transcendental : 飄々, 飄飄
+0.0054062    2 aimless        : 飄々, 飄飄
+0.0052835    2 howling        : 飄々, 飄飄
+0.0052125    5 world          : 飄然, 飄々, 飄飄, 風び, 風靡
+0.0051832    2 waving         : 飄々, 飄飄
+0.0050985    2 tottering      : 飄々, 飄飄
+0.0049023    2 roaming        : 飄々, 飄飄
+0.0049023    2 staggering     : 飄々, 飄飄
+0.0048021    2 fluttering     : 飄々, 飄飄
+0.0047846    5 Japanese       : いろは楓, 伊呂波楓, 国風, 和風, 風
+0.0045575    2 irony          : 諷刺, 風刺
+0.0045575    2 satire         : 諷刺, 風刺
+0.0043695    2 sarcasm        : 諷刺, 風刺
+0.0043561    2 wandering      : 飄々, 飄飄
+0.0042280    1 leaf           : 楓葉
+0.0041829    2 dancing        : 飄々, 飄飄
+0.0039955    3 allegory       : 諷喩, 風喩, 風諭
+0.0037484    2 poetic         : 諷詠, 歌風
+0.0036398    3 suggestion     : 諷喩, 風喩, 風諭
+0.0032998    1 composition    : 諷詠
+0.0030913    3 snowstorm      : 雪嵐, 暴風雪, 風雪
+0.0030005    2 tree           : 楓, 風樹
+0.0029830    3 blizzard       : 雪嵐, 暴風雪, 風雪
+0.0027038    1 throwing       : 山嵐
+0.0026293    1 judo           : 山嵐
+0.0025947    1 unconventional : 飄逸
+0.0025761    1 technique      : 山嵐
+0.0025628   29 breeze         : 真風, 海陸風, 浦風, 雄風, 川風, 河風, 涼風, 薫風, 夜風, 温風, ...
+0.0022455    1 long           : 長風呂
+0.0018963   14 air            : 嵐気, 青嵐, 風量, 風解, 風度, 温風, 風采, そよ風, 風窓, 冷風, ...
+0.0018192    3 raging         : 大嵐, 狂風, 悪風
+0.0018142    1 time           : 長風呂
+0.0017681    1 come           : 飄然
+0.0016726    2 go             : 飄然, 棋風
+0.0014879    3 light          : 飄逸, 軽風, 和風
+0.0014665   17 cold           : 喉風邪, 風邪薬, 夏風邪, 水風呂, 風引き, 風邪ひき, 風邪引き, 冷風, 鼻風, 鼻風邪, ...
+0.0014381    6 bathtub        : 据え風呂, 据風呂, 石風呂, 風呂桶, 岩風呂, 風呂
+0.0010271   18 style          : 詩風, 歌風, 蕉風, 正風, 書風, 芸風, 朝風, 俳風, 誹風, 唐風, ...
+0.0009223    1 vapor          : 晴嵐
+0.0009063    1 mist           : 嵐気
+0.0008659    4 hullabaloo     : 嵐, 辻風, つむじ風, 旋風
+0.0008479    2 night          : 夜嵐, 夜風
+0.0008272    4 spring         : 春嵐, 温風, 東風, 春風
+0.0006987    5 hot            : 風呂吹き, 酒風呂, 湯風呂, 塩風呂, 熱風
+0.0006650    3 dry            : 乾風, からっ風, 空っ風
+0.0006638    1 sandstorm      : 砂嵐
+0.0006599    7 public         : 女風呂, 男風呂, 風呂代, 風呂屋, 風呂, 風俗, 風紀
+0.0006508    5 favorable      : 時津風, 追い風, 追風, 風待ち, 順風
+0.0006274    5 steam          : 湯風呂, 石風呂, 松風, 蒸し風呂, 蒸風呂
+0.0006215    1 Emily          : 嵐が丘
+0.0005958    1 verdure        : 青嵐
+0.0005831    1 tempest        : 嵐
+0.0005716    4 snow           : 砂嵐, 雪風, 風花, 風雪
+0.0005427   11 appearance     : 風度, 風体, 風姿, 風采, 風ぼう, 風貌, 風情, 風格, 風合, 風合い, ...
+0.0005173    1 noise          : 砂嵐
+0.0005082    3 influenza      : はやり風邪, 流行風邪, 風邪
+0.0005045    1 video          : 砂嵐
+0.0004961    3 fresh          : 青嵐, 清風, 疾風
+0.0004670    2 autumn         : 初風, 秋風
+0.0004584    1 uproar         : 嵐
+0.0004578    2 season         : 初風, 風物
+0.0004454    1 protest        : 嵐
+0.0004311    2 tide           : 時津風, 風潮
+0.0004296    2 bathhouse      : 風呂屋, 風呂
+0.0004259    3 summer         : 夏風邪, 南風, 薫風
+0.0004144    8 customs        : 風儀, 蛮風, 国風, 異風, 悪風, 風物, 風俗, 校風
+0.0004131    1 novel          : 嵐が丘
+0.0003990    1 first          : 初風
+0.0003936    5 custom         : 美風, 余風, 良風, 遺風, 風習
+0.0003877    1 value          : 嵐
+0.0003853    1 pile           : 嵐
+0.0003851    1 rising         : 時津風
+0.0003811    4 water          : 酒風呂, 湯風呂, 風解, 風水
+0.0003801    1 versicolor     : 癜風
+0.0003785    1 men            : 男風呂
+0.0003729    1 tinea          : 癜風
+0.0003725    2 section        : 女風呂, 男風呂
+0.0003633    2 tank           : 据え風呂, 据風呂
+0.0003582    5 sea            : 海陸風, 浦風, 浜風, 潮風, 海風
+0.0003528    6 elegance       : 風流, 風趣, 風韻, 風雅, 風情, 風致
+0.0003503    1 throat         : 喉風邪
+0.0003298    1 sake           : 酒風呂
+0.0003222    1 stone          : 石風呂
+0.0003212    3 whirlwind      : 辻風, つむじ風, 旋風
+0.0003208    6 strong         : 雄風, 烈風, からっ風, 空っ風, 疾風, 強風
+0.0003163    1 true           : 真風
+0.0003092    6 manners        : 風儀, 国風, 淫風, 悪風, 風物, 風俗
+0.0003073    3 damage         : 風災, 風害, 風水害
+0.0003039    1 change         : 嵐
+0.0002994    2 flu            : 夏風邪, 風邪
+0.0002950    2 rainstorm      : 暴風雨, 風雨
+0.0002866    1 eight          : 八風
+0.0002866    2 deep           : 据え風呂, 据風呂
+0.0002665    6 taste          : 風流, 風狂, 風雅, 風情, 風味, 風致
+0.0002627    3 commotion      : 辻風, つむじ風, 旋風
+0.0002609    2 mien           : 風度, 風采
+0.0002554    2 efflorescence  : 風解, 風化
+0.0002505    1 turnip         : 風呂吹き
+0.0002503    3 sensation      : 辻風, つむじ風, 旋風
+0.0002471    6 direction      : 風向, 風位, 家風, 風向き, 風切, 風切り
+0.0002441    1 whirlpool      : 泡風呂
+0.0002415    1 cavern         : 石風呂
+0.0002414    2 bathing        : 風呂桶, 風呂
+0.0002400    4 gale           : 烈風, 暴風, 疾風, 強風
+0.0002368    3 blast          : 爆風, 冷風, 突風
+0.0002267    3 windbreak      : 風防, 風よけ, 風除け
+0.0002261    1 daikon         : 風呂吹き
+0.0002230    1 eaten          : 風呂吹き
+0.0002199    1 bubble         : 泡風呂
+0.0002186    2 sand           : 砂風呂, 風塵
+0.0002186    4 morals         : 風教, 矯風, 風俗, 風紀
+0.0002140    1 chamber        : 石風呂
+0.0002127    2 surviving      : 余風, 遺風
+0.0002104    3 zephyr         : そよ風, 恋風, 微風
+0.0002087    3 god            : 風神, 風伯, 風の神
+0.0002048    3 wave           : 風浪, 爆風, 風
+0.0002017    3 evil           : 魔風, 弊風, 悪風
+0.0002017    2 medicine       : 防風, 風邪薬
+0.0001997    3 scenery        : 風物, 風光, 風景
+0.0001976    1 surrounded     : 岩風呂
+0.0001958    1 proprietor     : 風呂屋
+0.0001956    2 illness        : 夏風邪, 風邪
+0.0001955    1 taken          : 石風呂
+0.0001950    4 speed          : 風力, 風脚, 風足, 風速
+0.0001922    4 spirit         : 社風, 校風, 気っ風, 気風
+0.0001915    2 river          : 川風, 河風
+0.0001898    2 sound          : 松風, 風音
+0.0001892    1 sore           : 喉風邪
+0.0001878    1 boiled         : 風呂吹き
+0.0001874    3 poem           : 詩風, 俳風, 誹風
+0.0001872    2 land           : 海陸風, 陸風
+0.0001872    2 used           : 風呂桶, 防風
+0.0001862    3 toy            : 風ぐるま, 風車, 風船
+0.0001856    2 poetry         : 国風, 詩風
+0.0001850    1 umbellifer     : 防風
+0.0001843    1 bucket         : 風呂桶
+0.0001829    1 mixed          : 酒風呂
+0.0001818    2 climate        : 社風, 風土
+0.0001796    2 heater         : 温風, 風呂釜
+0.0001789    2 personality    : 風度, 風格
+0.0001784    4 head           : 向い風, 向かい風, 鼻風, 鼻風邪
+0.0001769    1 crystallization: 風解
+0.0001767    2 rubella        : 風しん, 風疹
+0.0001760    1 fee            : 風呂代
+0.0001758    1 bagpipe        : 風笛
+0.0001745    2 wooden         : 風呂桶, 風呂
+0.0001732    1 winnowing      : 風選
+0.0001731    1 holdover       : 余風
+0.0001716    2 windmill       : 風ぐるま, 風車
+0.0001713    1 lead           : 風
+0.0001706    1 company        : 社風
+0.0001650    2 measles        : 風しん, 風疹
+0.0001646    3 rumor          : 風評, 風説, 風聞
+0.0001616    3 ventilation    : 通風, 送風, 風通し
+0.0001612    3 vane           : 風見, 風切, 風切り
+0.0001573    2 common         : 喉風邪, 風邪
+0.0001557    3 Chinese        : 防風, 唐風, 国風
+0.0001554    3 gentle         : そよ風, 軟風, 微風
+0.0001532    2 calm           : 無風, 大風
+0.0001525    3 catching       : 風引き, 風邪ひき, 風邪引き
+0.0001515    3 refinement     : 風流, 風雅, 京風
+0.0001515    1 floater        : 風太郎
+0.0001514    2 German         : 風しん, 風疹
+0.0001501    1 eerie          : 魔風
+0.0001492    4 cool           : 涼風, 清風, 風月, 風戸
+0.0001488    4 situation      : 風雲, 風向き, 追い風, 追風
+0.0001475    2 haikai         : 俳風, 誹風
+0.0001447    3 species        : 防風, 風ぐるま, 風車
+0.0001438    3 breath         : そよ風, 微風, 清風
+0.0001432    1 furnace        : 風炉
+0.0001404    2 gable          : 搏風, 破風
+0.0001391    2 Beaufort       : 風力, 疾風
+0.0001383    1 vagrant        : 風太郎
+0.0001375    1 remedy         : 風邪薬
+0.0001374    3 tradition      : 家風, 遺風, 校風
+0.0001359    1 unsewn         : 風
+0.0001345    1 devil          : 魔風
+0.0001343    3 bell           : 風鐸, 風りん, 風鈴
+0.0001342    1 placid         : 大風
+0.0001334    1 unemployed     : 風太郎
+0.0001325    2 gossip         : 風評, 風説
+0.0001309    2 hanging        : 風鐸, 風
+0.0001307    3 natural        : 風光, 風物, 風土
+0.0001298    3 exposure       : 風葬, 風当たり, 風当り
+0.0001256    3 beauty         : 風光, 風致, 風月
+0.0001249    1 corporate      : 社風
+0.0001241    1 burial         : 風葬
+0.0001238    3 character      : 高風, 気っ風, 気風
+0.0001225    1 made           : 岩風呂
+0.0001222    2 discord        : 波風, 風波
+0.0001189    2 protection     : 風防, 防風
+0.0001184    1 reservation    : 風
+0.0001178    1 loss           : 風解
+0.0001170    2 state          : 無風, 風雲
+0.0001159    2 wrapping       : 風袋, 風呂敷
+0.0001152    1 underwear      : 風
+0.0001152    1 swinging       : 風
+0.0001148    1 arrogant       : 大風
+0.0001143    1 small          : 風呂桶
+0.0001129    1 mumps          : おたふく風邪
+0.0001129    1 parotitis      : おたふく風邪
+0.0001129    1 haughty        : 大風
+0.0001125    2 swaying        : 風び, 風靡
+0.0001119    1 manner         : 風度
+0.0001119    2 hearsay        : 風説, 風聞
+0.0001118    1 pretense       : 風
+0.0001104    1 balloon        : 風船
+0.0001101    2 hole           : 風窓, 風穴
+0.0001100    2 temperament    : 気っ風, 気風
+0.0001100    1 culture        : 社風
+0.0001086    2 chime          : 風りん, 風鈴
+0.0001085    1 pants          : 風
+0.0001079    1 influence      : 余風
+0.0001049    1 sleeve         : 風
+0.0001044    2 conquering     : 風び, 風靡
+0.0001043    3 weather        : 風見, 風切, 風切り
+0.0001040    1 flood          : 風水害
+0.0001036    1 east           : 東風
+0.0001036    2 refreshing     : 涼風, 清風
+0.0001025    1 hotel          : 風
+0.0001021    2 nature         : 風雲, 風月
+0.0001020    2 bathroom       : 風呂場, 風呂
+0.0001019    1 resistance     : 耐風
+0.0001018    1 garment        : 風
+0.0001018    1 warm           : 温風
+0.0001016    1 west           : 西風
+0.0001014    2 overwhelming   : 風び, 風靡
+0.0001010    1 waiting        : 風待ち
+0.0001002    1 windhole       : 風穴
+0.0001002    1 ventilator     : 風穴
+0.0000997    2 school         : 校風, 学風
+0.0000994    2 rough          : 風浪, 風波
+0.0000984    2 disposition    : 気っ風, 気風
+0.0000984    1 correct        : 蕉風
+0.0000984    1 introduction   : 風
+0.0000973    2 trouble        : 波風, 風波
+0.0000969    1 refined        : 風雅
+0.0000961    2 soft           : そよ風, 微風
+0.0000961    1 wearing        : 風
+0.0000959    1 joke           : 風
+0.0000957    2 erosion        : 風蝕, 風食
+0.0000956    2 way            : 社風, 風向き
+0.0000954    1 period         : 朝風
+0.0000953    2 scale          : 風力, 疾風
+0.0000952    1 behaviour      : 風
+0.0000950    1 swing          : 風
+0.0000943    1 erraticism     : 風来
+0.0000942    1 tare           : 風袋
+0.0000942    1 sepulture      : 風葬
+0.0000942    2 report         : 風評, 風聞
+0.0000941    1 taking         : 水風呂
+0.0000941    1 arbiter        : 風狂
+0.0000941    1 gonorrheal     : 風眼
+0.0000941    1 ophthalmia     : 風眼
+0.0000941    1 tastefulness   : 風韻
+0.0000940    2 remiges        : 風切, 風切り
+0.0000937    2 going          : 風, 風向き
+0.0000934    1 shake          : 風
+0.0000932    1 restaurant     : 風
+0.0000924    1 gout           : 痛風
+0.0000918    1 grass          : 風草
+0.0000916    2 sweeping       : 風び, 風靡
+0.0000914    1 windless       : 無風
+0.0000903    2 Clematis       : 風ぐるま, 風車
+0.0000897    1 epidemic       : おたふく風邪
+0.0000892    2 beautiful      : 風光, 美風
+0.0000889    1 question       : 風
+0.0000888    1 poppy          : 松風
+0.0000888    2 eccentric      : 風変り, 風変わり
+0.0000886    1 dance          : 風
+0.0000884    2 folding        : 屏風, 屛風
+0.0000882    2 texture        : 風合, 風合い
+0.0000879    1 harmonium      : 風琴
+0.0000878    1 evening        : 夕風
+0.0000874    2 rain           : 雨風, 風雨
+0.0000863    2 moderate       : 和風, 強風
+0.0000858    2 north          : 朔風, 北風
+0.0000858    2 turbine        : 風ぐるま, 風車
+0.0000858    2 pennant        : 風切, 風切り
+0.0000850    1 frivolity      : 風来
+0.0000849    1 getup          : 風采
+0.0000835    2 screen         : 屏風, 屛風
+0.0000827    1 scene          : 風景
+0.0000826    1 counter        : 風
+0.0000826    2 love           : 恋風, 風草
+0.0000825    2 life           : 風塵, 風波
+0.0000815    1 show           : 風
+0.0000808    1 sex            : 風俗
+0.0000806    1 connoisseur    : 風狂
+0.0000805    1 electoral      : 無風
+0.0000802    1 hinder         : 八風
+0.0000802    1 move           : 風
+0.0000802    1 running        : 風
+0.0000797    2 fabric         : 風合, 風合い
+0.0000793    2 strange        : 風変り, 風変わり
+0.0000792    1 airing         : 通風
+0.0000788    2 advantageous   : 追い風, 追風
+0.0000787    1 Eragrostis     : 風草
+0.0000785    1 leeward        : 風下
+0.0000781    1 day            : 風太郎
+0.0000779    1 position       : 下風
+0.0000778    1 swayed         : 風樹
+0.0000775    1 sesame         : 松風
+0.0000771    1 adverse        : 逆風
+0.0000769    1 sprinkled      : 松風
+0.0000765    1 oddity         : 一風
+0.0000761    1 censure        : 八風
+0.0000755    1 traditional    : 風
+0.0000750    1 barbarous      : 蛮風
+0.0000746    1 anemophilous   : 風媒
+0.0000745    1 woman          : 風
+0.0000745    1 side           : 横風
+0.0000741    1 aerial         : 風葬
+0.0000740    1 demeanor       : 風姿
+0.0000737    2 good           : 良風, 美風
+0.0000737    1 lee            : 風下
+0.0000730    1 bomb           : 爆風
+0.0000729    1 balmy          : 薫風
+0.0000727    1 flow           : 風量
+0.0000723    1 suffering      : 八風
+0.0000722    1 kettle         : 松風
+0.0000721    2 feel           : 風合, 風合い
+0.0000720    1 disposal       : 風葬
+0.0000720    1 volume         : 風量
+0.0000719    1 prosperity     : 八風
+0.0000718    1 abusive        : 弊風
+0.0000717    1 disgrace       : 八風
+0.0000712    1 academic       : 学風
+0.0000711    1 part           : 風
+0.0000708    1 downwind       : 風下
+0.0000707    2 climbing       : 風ぐるま, 風車
+0.0000700    1 corrupt        : 弊風
+0.0000699    1 paradise       : 風鳥
+0.0000698    1 enlightenment  : 八風
+0.0000694    1 pleasure       : 八風
+0.0000692    1 explosion      : 爆風
+0.0000691    1 organ          : 風琴
+0.0000683    1 strife         : 波風
+0.0000677    1 honor          : 八風
+0.0000677    2 showing        : 風切, 風切り
+0.0000676    1 windstorm      : 暴風
+0.0000671    1 peaceful       : 無風
+0.0000665    1 alive          : 風樹
+0.0000663    1 safe           : 無風
+0.0000663    1 stable         : 無風
+0.0000660    1 flurry         : 風花
+0.0000659    1 decline        : 八風
+0.0000657    1 weathering     : 風化
+0.0000651    2 fair           : 追い風, 追風
+0.0000649    1 violent        : 烈風
+0.0000648    1 frost          : 風霜
+0.0000642    2 tile           : 風切, 風切り
+0.0000641    2 flight         : 風切, 風切り
+0.0000638    1 regret         : 風樹
+0.0000638    1 praise         : 八風
+0.0000636    1 beach          : 浜風
+0.0000635    1 shock          : 爆風
+0.0000626    2 paper          : 風合, 風合い
+0.0000625    1 majesty        : 威風
+0.0000624    1 pine           : 松風
+0.0000624    1 adversity      : 風波
+0.0000621    1 immorality     : 淫風
+0.0000617    1 guest          : 風来
+0.0000615    1 peculiarity    : 一風
+0.0000613    2 criticism      : 風当たり, 風当り
+0.0000612    1 south          : 南風
+0.0000608    1 eccentricity   : 一風
+0.0000606    2 room           : 風呂, 風戸
+0.0000605    1 draft          : 通風
+0.0000604    1 ballad         : 国風
+0.0000598    2 severe         : 風当たり, 風当り
+0.0000597    3 one            : 風樹, 家風, 棋風
+0.0000597    1 outdoor        : 風の子
+0.0000587    1 hoarse         : 風邪声
+0.0000586    1 seat           : 無風
+0.0000586    1 lewd           : 淫風
+0.0000586    2 thought        : 学風, 神風
+0.0000585    1 spade          : 風呂
+0.0000585    2 family         : 家風, 内風呂
+0.0000582    1 right          : 正風
+0.0000579    2 roof           : 風切, 風切り
+0.0000576    1 topography     : 風土
+0.0000575    1 reform         : 矯風
+0.0000572    1 fever          : 風花
+0.0000569    1 district       : 風来
+0.0000569    1 vice           : 悪風
+0.0000567    1 dust           : 風塵
+0.0000566    2 condition      : 追い風, 追風
+0.0000566    2 boat           : 風切, 風切り
+0.0000564    1 practice       : 弊風
+0.0000563    1 quiet          : 無風
+0.0000563    1 fading         : 風化
+0.0000561    1 pressure       : 風圧
+0.0000561    1 hoe            : 風呂
+0.0000559    1 dress          : 風体
+0.0000559    1 weight         : 風鎮
+0.0000556    1 waka           : 国風
+0.0000556    1 eaves          : 風鐸
+0.0000553    1 subordinate    : 下風
+0.0000553    1 bay            : 風草
+0.0000553    1 hereditary     : 遺風
+0.0000545    1 level          : 風力
+0.0000544    1 bronze         : 風鐸
+0.0000544    1 door           : 風戸
+0.0000542    1 ceremony       : 松風
+0.0000537    1 gust           : 突風
+0.0000537    2 round          : 風切, 風切り
+0.0000535    1 scenic         : 風致
+0.0000534    1 dignity        : 威風
+0.0000531    1 provincial     : 国風
+0.0000531    1 bird           : 風鳥
+0.0000529    2 plant          : 風ぐるま, 風車
+0.0000528    1 leaves         : 葉風
+0.0000526    1 valley         : 谷風
+0.0000524    1 scattered      : 風花
+0.0000523    1 pattern        : 風紋
+0.0000519    1 wrapper        : 風呂敷
+0.0000517    1 tea            : 松風
+0.0000514    1 classical      : 国風
+0.0000514    1 noble          : 高風
+0.0000513    1 urbanity       : 京風
+0.0000513    1 quarrel        : 風波
+0.0000512    1 power          : 風力
+0.0000507    1 tunnel         : 風洞
+0.0000507    1 governing      : 風紀
+0.0000501    1 upwind         : 風上
+0.0000500    1 slight         : 風邪気
+0.0000499    1 force          : 風力
+0.0000498    1 grace          : 風雅
+0.0000498    1 elegant        : 風雅
+0.0000489    1 four           : 風鐸
+0.0000487    1 unusual        : 異風
+0.0000481    1 opposed        : 国風
+0.0000481    1 national       : 国風
+0.0000476    1 archaic        : 古風
+0.0000474    1 kamikaze       : 神風
+0.0000473    1 indifferent    : 風馬牛
+0.0000473    1 previous       : 遺風
+0.0000462    1 spiritual      : 風土
+0.0000460    1 characteristic : 風物
+0.0000458    1 tasteless      : 殺風景
+0.0000458    1 monotonous     : 殺風景
+0.0000458    1 landscape      : 風景
+0.0000457    1 sky            : 風花
+0.0000455    1 lower          : 下風
+0.0000454    1 look           : 風体
+0.0000454    1 body           : 風葬
+0.0000454    1 winter         : 風花
+0.0000453    1 openness       : 風通し
+0.0000453    1 respiratory    : 風邪
+0.0000452    1 antiquated     : 古風
+0.0000452    1 windward       : 風上
+0.0000451    1 drying         : 風呂
+0.0000447    1 tendency       : 風潮
+0.0000447    1 trend          : 風潮
+0.0000443    1 song           : 国風
+0.0000440    1 ague           : 風邪
+0.0000440    1 inflammatory   : 風邪
+0.0000438    1 gas            : 風船
+0.0000437    1 entertainment  : 風俗
+0.0000435    1 flavour        : 風味
+0.0000433    1 cause          : 風花
+0.0000432    1 Mongolian      : 神風
+0.0000431    1 behavior       : 風紀
+0.0000430    1 discipline     : 風紀
+0.0000427    1 decoration     : 風船
+0.0000424    1 flavor         : 風味
+0.0000424    1 industry       : 風俗
+0.0000422    1 new            : 新風
+0.0000421    1 skin           : 風花
+0.0000420    1 voice          : 風邪声
+0.0000417    1 charm          : 風情
+0.0000415    1 clear          : 風花
+0.0000415    1 antique        : 古風
+0.0000412    1 particular     : 風物
+0.0000410    1 blade          : 風呂
+0.0000409    1 barren         : 殺風景
+0.0000408    1 chimney        : 風戸
+0.0000407    1 joint          : 風呂
+0.0000406    1 bad            : 悪風
+0.0000405    1 bleak          : 殺風景
+0.0000402    1 handle         : 風呂
+0.0000401    1 home           : 家風
+0.0000401    1 author         : 作風
+0.0000400    1 sight          : 風景
+0.0000398    1 social         : 風紀
+0.0000396    1 certain        : 風物
+0.0000395    1 crime          : 風景
+0.0000393    1 current        : 風潮
+0.0000391    1 salty          : 潮風
+0.0000389    1 temple         : 風鐸
+0.0000387    1 dreary         : 殺風景
+0.0000384    1 region         : 風物
+0.0000383    1 swift          : 疾風
+0.0000375    1 invasion       : 神風
+0.0000372    1 artist         : 作風
+0.0000371    1 base           : 風呂
+0.0000368    1 unrefined      : 殺風景
+0.0000365    1 handwriting    : 書風
+0.0000365    1 calligraphy    : 書風
+0.0000364    1 fine           : 美風
+0.0000363    1 indoor         : 内風呂
+0.0000359    1 cloth          : 風呂敷
+0.0000358    1 view           : 風景
+0.0000358    1 service        : 風俗
+0.0000356    1 century        : 神風
+0.0000356    1 communication  : 風通し
+0.0000341    1 temper         : 風向き
+0.0000329    1 acting         : 芸風
+0.0000325    1 broken         : 風折れ
+0.0000323    1 shogi          : 棋風
+0.0000313    1 people         : 風情
+0.0000311    1 salt           : 潮風
+0.0000308    1 divine         : 神風
+0.0000307    1 mood           : 風向き
+0.0000305    1 driving        : 雨風
+0.0000302    1 moon           : 風月
+0.0000299    1 painting       : 画風
+0.0000294    1 method         : 学風
+0.0000294    1 study          : 学風
+0.0000288    1 bright         : 風月
+0.0000286    1 general        : 風邪
+0.0000273    1 system         : 風邪
+0.0000270    1 morning        : 朝風呂
+0.0000252    1 Japan          : 神風
+0.0000252    1 high           : 強風
+0.0000245    1 use            : 内風呂
+0.0000241    1 work           : 作風
+0.0000232    1 fall           : 秋風
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0880463    3 hurricane
+	hurricane WORD[ 1,   1]: 0.0532133 颱風
+	hurricane WORD[ 1,   2]: 0.0347823 颶風
+	hurricane WORD[ 1,   3]: 0.0000506 台風
+TOKEN[ 2]: 0.0776103    4 typhoon
+	typhoon WORD[ 2,   1]: 0.0468818 颱風
+	typhoon WORD[ 2,   2]: 0.0306438 颶風
+	typhoon WORD[ 2,   3]: 0.0000446 台風
+	typhoon WORD[ 2,   4]: 0.0000401 神風
+TOKEN[ 3]: 0.0561491   91 wind
+	wind WORD[ 3,   1]: 0.0223463 山颪
+	wind WORD[ 3,   2]: 0.0108987 颪
+	wind WORD[ 3,   3]: 0.0093126 颯颯
+	wind WORD[ 3,   4]: 0.0031547 飄々
+	wind WORD[ 3,   5]: 0.0031547 飄飄
+	wind WORD[ 3,   6]: 0.0009549 時津風
+	wind WORD[ 3,   7]: 0.0007619 初風
+	wind WORD[ 3,   8]: 0.0005001 乾風
+	wind WORD[ 3,   9]: 0.0003789 青嵐
+	wind WORD[ 3,  10]: 0.0002815 真風
+	wind WORD[ 3,  11]: 0.0001909 魔風
+	wind WORD[ 3,  12]: 0.0001514 野風
+	wind WORD[ 3,  13]: 0.0001165 風鐸
+	wind WORD[ 3,  14]: 0.0001008 風神
+	wind WORD[ 3,  15]: 0.0000964 風力
+	wind WORD[ 3,  16]: 0.0000951 南風
+	wind WORD[ 3,  17]: 0.0000944 風選
+	wind WORD[ 3,  18]: 0.0000891 雪風
+	wind WORD[ 3,  19]: 0.0000871 風音
+	wind WORD[ 3,  20]: 0.0000838 東風
+	wind WORD[ 3,  21]: 0.0000819 夜風
+	wind WORD[ 3,  22]: 0.0000803 風待ち
+	wind WORD[ 3,  23]: 0.0000802 西風
+	wind WORD[ 3,  24]: 0.0000764 凱風
+	wind WORD[ 3,  25]: 0.0000760 耐風
+	wind WORD[ 3,  26]: 0.0000672 風りん
+	wind WORD[ 3,  27]: 0.0000672 風鈴
+	wind WORD[ 3,  28]: 0.0000560 順風
+	wind WORD[ 3,  29]: 0.0000552 疾風
+	wind WORD[ 3,  30]: 0.0000525 強風
+	wind WORD[ 3,  31]: 0.0000523 北風
+	wind WORD[ 3,  32]: 0.0000518 松風
+	wind WORD[ 3,  33]: 0.0000518 山風
+	wind WORD[ 3,  34]: 0.0000516 烈風
+	wind WORD[ 3,  35]: 0.0000512 風戸
+	wind WORD[ 3,  36]: 0.0000500 向い風
+	wind WORD[ 3,  37]: 0.0000500 向かい風
+	wind WORD[ 3,  38]: 0.0000495 追い風
+	wind WORD[ 3,  39]: 0.0000495 追風
+	wind WORD[ 3,  40]: 0.0000490 風炉
+	wind WORD[ 3,  41]: 0.0000482 風浪
+	wind WORD[ 3,  42]: 0.0000482 風防
+	wind WORD[ 3,  43]: 0.0000482 風伯
+	wind WORD[ 3,  44]: 0.0000482 風霜
+	wind WORD[ 3,  45]: 0.0000482 風前
+	wind WORD[ 3,  46]: 0.0000481 風樹
+	wind WORD[ 3,  47]: 0.0000481 風災
+	wind WORD[ 3,  48]: 0.0000481 風向
+	wind WORD[ 3,  49]: 0.0000481 風害
+	wind WORD[ 3,  50]: 0.0000481 風位
+	wind WORD[ 3,  51]: 0.0000481 風圧
+	wind WORD[ 3,  52]: 0.0000473 防風
+	wind WORD[ 3,  53]: 0.0000473 浜風
+	wind WORD[ 3,  54]: 0.0000471 波風
+	wind WORD[ 3,  55]: 0.0000440 そよ風
+	wind WORD[ 3,  56]: 0.0000421 朔風
+	wind WORD[ 3,  57]: 0.0000414 狂風
+	wind WORD[ 3,  58]: 0.0000406 からっ風
+	wind WORD[ 3,  59]: 0.0000406 空っ風
+	wind WORD[ 3,  60]: 0.0000403 家風
+	wind WORD[ 3,  61]: 0.0000402 風花
+	wind WORD[ 3,  62]: 0.0000402 風波
+	wind WORD[ 3,  63]: 0.0000402 風脚
+	wind WORD[ 3,  64]: 0.0000402 風足
+	wind WORD[ 3,  65]: 0.0000400 横風
+	wind WORD[ 3,  66]: 0.0000386 谷風
+	wind WORD[ 3,  67]: 0.0000378 和風
+	wind WORD[ 3,  68]: 0.0000376 冷風
+	wind WORD[ 3,  69]: 0.0000336 風洞
+	wind WORD[ 3,  70]: 0.0000336 風速
+	wind WORD[ 3,  71]: 0.0000336 風雪
+	wind WORD[ 3,  72]: 0.0000336 風水
+	wind WORD[ 3,  73]: 0.0000336 風蝕
+	wind WORD[ 3,  74]: 0.0000336 風食
+	wind WORD[ 3,  75]: 0.0000336 風雨
+	wind WORD[ 3,  76]: 0.0000335 微風
+	wind WORD[ 3,  77]: 0.0000318 熱風
+	wind WORD[ 3,  78]: 0.0000305 突風
+	wind WORD[ 3,  79]: 0.0000275 潮風
+	wind WORD[ 3,  80]: 0.0000264 逆風
+	wind WORD[ 3,  81]: 0.0000260 寒風
+	wind WORD[ 3,  82]: 0.0000258 神風
+	wind WORD[ 3,  83]: 0.0000257 風当たり
+	wind WORD[ 3,  84]: 0.0000257 風当り
+	wind WORD[ 3,  85]: 0.0000256 風向き
+	wind WORD[ 3,  86]: 0.0000256 風ぐるま
+	wind WORD[ 3,  87]: 0.0000256 風車
+	wind WORD[ 3,  88]: 0.0000256 風切
+	wind WORD[ 3,  89]: 0.0000256 風切り
+	wind WORD[ 3,  90]: 0.0000256 風折れ
+	wind WORD[ 3,  91]: 0.0000238 雨風
+TOKEN[ 4]: 0.0504565    8 blowing
+	blowing WORD[ 4,   1]: 0.0303185 山颪
+	blowing WORD[ 4,   2]: 0.0147869 颪
+	blowing WORD[ 4,   3]: 0.0021401 飄々
+	blowing WORD[ 4,   4]: 0.0021401 飄飄
+	blowing WORD[ 4,   5]: 0.0005141 青嵐
+	blowing WORD[ 4,   6]: 0.0004319 時津風
+	blowing WORD[ 4,   7]: 0.0000703 松風
+	blowing WORD[ 4,   8]: 0.0000546 家風
+TOKEN[ 5]: 0.0477075    6 maple
+	maple WORD[ 5,   1]: 0.0155329 唐楓
+	maple WORD[ 5,   2]: 0.0082068 楓林
+	maple WORD[ 5,   3]: 0.0054592 楓葉
+	maple WORD[ 5,   4]: 0.0046706 いろは楓
+	maple WORD[ 5,   5]: 0.0046706 伊呂波楓
+	maple WORD[ 5,   6]: 0.0045836 楓
+TOKEN[ 6]: 0.0347823    1 tornado
+	tornado WORD[ 6,   1]: 0.0347823 颶風
+TOKEN[ 7]: 0.0266423    6 mountain
+	mountain WORD[ 7,   1]: 0.0216496 山颪
+	mountain WORD[ 7,   2]: 0.0013291 嵐気
+	mountain WORD[ 7,   3]: 0.0011366 晴嵐
+	mountain WORD[ 7,   4]: 0.0010548 山嵐
+	mountain WORD[ 7,   5]: 0.0003671 青嵐
+	mountain WORD[ 7,   6]: 0.0000502 山風
+TOKEN[ 8]: 0.0240613    2 vagabond
+	vagabond WORD[ 8,   1]: 0.0239230 瘋癲
+	vagabond WORD[ 8,   2]: 0.0001383 風太郎
+TOKEN[ 9]: 0.0222719    2 insanity
+	insanity WORD[ 9,   1]: 0.0221971 瘋癲
+	insanity WORD[ 9,   2]: 0.0000748 風狂
+TOKEN[10]: 0.0218164    2 insane
+	insane WORD[10,   1]: 0.0217432 瘋癲
+	insane WORD[10,   2]: 0.0000733 風狂
+TOKEN[11]: 0.0217432    1 wanderer
+	wanderer WORD[11,   1]: 0.0217432 瘋癲
+TOKEN[12]: 0.0194018    1 mountainous
+	mountainous WORD[12,   1]: 0.0194018 翠嵐
+TOKEN[13]: 0.0192464    4 whistling
+	whistling WORD[13,   1]: 0.0143168 颯颯
+	whistling WORD[13,   2]: 0.0024250 飄々
+	whistling WORD[13,   3]: 0.0024250 飄飄
+	whistling WORD[13,   4]: 0.0000797 松風
+TOKEN[14]: 0.0174871    1 trident
+	trident WORD[14,   1]: 0.0174871 唐楓
+TOKEN[15]: 0.0170841    1 soughing
+	soughing WORD[15,   1]: 0.0170841 颯颯
+TOKEN[16]: 0.0163268    1 atmosphere
+	atmosphere WORD[16,   1]: 0.0163268 翠嵐
+TOKEN[17]: 0.0153209    3 Acer
+	Acer WORD[17,   1]: 0.0051389 いろは楓
+	Acer WORD[17,   2]: 0.0051389 伊呂波楓
+	Acer WORD[17,   3]: 0.0025216 楓
+TOKEN[18]: 0.0150505    1 murmuring
+	murmuring WORD[18,   1]: 0.0150505 颯颯
+TOKEN[19]: 0.0145445    2 rustling
+	rustling WORD[19,   1]: 0.0144715 颯颯
+	rustling WORD[19,   2]: 0.0000729 葉風
+TOKEN[20]: 0.0135524    1 rectification
+	rectification WORD[20,   1]: 0.0135524 整風
+TOKEN[21]: 0.0127735    1 sense
+	sense WORD[21,   1]: 0.0127735 翠嵐
+TOKEN[22]: 0.0120935    5 insinuation
+	insinuation WORD[22,   1]: 0.0039980 諷喩
+	insinuation WORD[22,   2]: 0.0039966 諷諌
+	insinuation WORD[22,   3]: 0.0039966 諷諫
+	insinuation WORD[22,   4]: 0.0000511 風喩
+	insinuation WORD[22,   5]: 0.0000511 風諭
+TOKEN[23]: 0.0118675    1 green
+	green WORD[23,   1]: 0.0118675 翠嵐
+TOKEN[24]: 0.0114571    5 indirect
+	indirect WORD[24,   1]: 0.0037876 諷喩
+	indirect WORD[24,   2]: 0.0037863 諷諌
+	indirect WORD[24,   3]: 0.0037863 諷諫
+	indirect WORD[24,   4]: 0.0000485 風喩
+	indirect WORD[24,   5]: 0.0000485 風諭
+TOKEN[25]: 0.0105764    6 person
+	person WORD[25,   1]: 0.0103935 瘋癲
+	person WORD[25,   2]: 0.0000601 風太郎
+	person WORD[25,   3]: 0.0000350 風狂
+	person WORD[25,   4]: 0.0000293 風引き
+	person WORD[25,   5]: 0.0000293 風邪ひき
+	person WORD[25,   6]: 0.0000293 風邪引き
+TOKEN[26]: 0.0105573    1 jaunty
+	jaunty WORD[26,   1]: 0.0105573 颯爽
+TOKEN[27]: 0.0102571    1 dashing
+	dashing WORD[27,   1]: 0.0102571 颯爽
+TOKEN[28]: 0.0099725    1 chanting
+	chanting WORD[28,   1]: 0.0099725 諷経
+TOKEN[29]: 0.0093733    4 hint
+	hint WORD[29,   1]: 0.0054634 諷する
+	hint WORD[29,   2]: 0.0038124 諷喩
+	hint WORD[29,   3]: 0.0000488 風喩
+	hint WORD[29,   4]: 0.0000488 風諭
+TOKEN[30]: 0.0089501    1 gallant
+	gallant WORD[30,   1]: 0.0089501 颯爽
+TOKEN[31]: 0.0086683   20 bath
+	bath WORD[31,   1]: 0.0051697 長風呂
+	bath WORD[31,   2]: 0.0003719 酒風呂
+	bath WORD[31,   3]: 0.0003703 湯風呂
+	bath WORD[31,   4]: 0.0003661 泡風呂
+	bath WORD[31,   5]: 0.0003658 女風呂
+	bath WORD[31,   6]: 0.0003658 男風呂
+	bath WORD[31,   7]: 0.0001852 石風呂
+	bath WORD[31,   8]: 0.0001851 塩風呂
+	bath WORD[31,   9]: 0.0001629 風呂代
+	bath WORD[31,  10]: 0.0001558 砂風呂
+	bath WORD[31,  11]: 0.0001373 風呂あがり
+	bath WORD[31,  12]: 0.0001373 風呂上がり
+	bath WORD[31,  13]: 0.0001373 風呂上り
+	bath WORD[31,  14]: 0.0001168 水風呂
+	bath WORD[31,  15]: 0.0000805 風呂
+	bath WORD[31,  16]: 0.0000591 蒸し風呂
+	bath WORD[31,  17]: 0.0000591 蒸風呂
+	bath WORD[31,  18]: 0.0000577 内風呂
+	bath WORD[31,  19]: 0.0000402 風呂釜
+	bath WORD[31,  20]: 0.0000279 朝風呂
+TOKEN[32]: 0.0086277    2 exhortation
+	exhortation WORD[32,   1]: 0.0043138 諷諌
+	exhortation WORD[32,   2]: 0.0043138 諷諫
+TOKEN[33]: 0.0084866    2 remonstrance
+	remonstrance WORD[33,   1]: 0.0042433 諷諌
+	remonstrance WORD[33,   2]: 0.0042433 諷諫
+TOKEN[34]: 0.0080238    3 aloof
+	aloof WORD[34,   1]: 0.0030635 飄然
+	aloof WORD[34,   2]: 0.0024801 飄々
+	aloof WORD[34,   3]: 0.0024801 飄飄
+TOKEN[35]: 0.0076372    1 grove
+	grove WORD[35,   1]: 0.0076372 楓林
+TOKEN[36]: 0.0074652   13 storm
+	storm WORD[36,   1]: 0.0014953 大嵐
+	storm WORD[36,   2]: 0.0013982 山嵐
+	storm WORD[36,   3]: 0.0008746 夜嵐
+	storm WORD[36,   4]: 0.0008164 嵐
+	storm WORD[36,   5]: 0.0008146 春嵐
+	storm WORD[36,   6]: 0.0001779 暴風雨
+	storm WORD[36,   7]: 0.0001226 魔風
+	storm WORD[36,   8]: 0.0000976 風水害
+	storm WORD[36,   9]: 0.0000618 風災
+	storm WORD[36,  10]: 0.0000618 風害
+	storm WORD[36,  11]: 0.0000516 風波
+	storm WORD[36,  12]: 0.0000500 悪風
+	storm WORD[36,  13]: 0.0000444 暴風
+TOKEN[37]: 0.0073135    3 detached
+	detached WORD[37,   1]: 0.0027923 飄然
+	detached WORD[37,   2]: 0.0022606 飄々
+	detached WORD[37,   3]: 0.0022606 飄飄
+TOKEN[38]: 0.0067441    3 easygoing
+	easygoing WORD[38,   1]: 0.0022498 飄逸
+	easygoing WORD[38,   2]: 0.0022472 飄々
+	easygoing WORD[38,   3]: 0.0022472 飄飄
+TOKEN[39]: 0.0064503    1 satirize
+	satirize WORD[39,   1]: 0.0064503 諷する
+TOKEN[40]: 0.0061842    1 insinuate
+	insinuate WORD[40,   1]: 0.0061842 諷する
+TOKEN[41]: 0.0057874    2 transcendental
+	transcendental WORD[41,   1]: 0.0028937 飄々
+	transcendental WORD[41,   2]: 0.0028937 飄飄
+TOKEN[42]: 0.0054062    2 aimless
+	aimless WORD[42,   1]: 0.0027031 飄々
+	aimless WORD[42,   2]: 0.0027031 飄飄
+TOKEN[43]: 0.0052835    2 howling
+	howling WORD[43,   1]: 0.0026417 飄々
+	howling WORD[43,   2]: 0.0026417 飄飄
+TOKEN[44]: 0.0052125    5 world
+	world WORD[44,   1]: 0.0019643 飄然
+	world WORD[44,   2]: 0.0015902 飄々
+	world WORD[44,   3]: 0.0015902 飄飄
+	world WORD[44,   4]: 0.0000339 風び
+	world WORD[44,   5]: 0.0000339 風靡
+TOKEN[45]: 0.0051832    2 waving
+	waving WORD[45,   1]: 0.0025916 飄々
+	waving WORD[45,   2]: 0.0025916 飄飄
+TOKEN[46]: 0.0050985    2 tottering
+	tottering WORD[46,   1]: 0.0025492 飄々
+	tottering WORD[46,   2]: 0.0025492 飄飄
+TOKEN[47]: 0.0049023    2 roaming
+	roaming WORD[47,   1]: 0.0024512 飄々
+	roaming WORD[47,   2]: 0.0024512 飄飄
+TOKEN[48]: 0.0049023    2 staggering
+	staggering WORD[48,   1]: 0.0024512 飄々
+	staggering WORD[48,   2]: 0.0024512 飄飄
+TOKEN[49]: 0.0048021    2 fluttering
+	fluttering WORD[49,   1]: 0.0024010 飄々
+	fluttering WORD[49,   2]: 0.0024010 飄飄
+TOKEN[50]: 0.0047846    5 Japanese
+	Japanese WORD[50,   1]: 0.0023330 いろは楓
+	Japanese WORD[50,   2]: 0.0023330 伊呂波楓
+	Japanese WORD[50,   3]: 0.0000312 国風
+	Japanese WORD[50,   4]: 0.0000288 和風
+	Japanese WORD[50,   5]: 0.0000195 風
+TOKEN[51]: 0.0045575    2 irony
+	irony WORD[51,   1]: 0.0044999 諷刺
+	irony WORD[51,   2]: 0.0000576 風刺
+TOKEN[52]: 0.0045575    2 satire
+	satire WORD[52,   1]: 0.0044999 諷刺
+	satire WORD[52,   2]: 0.0000576 風刺
+TOKEN[53]: 0.0043695    2 sarcasm
+	sarcasm WORD[53,   1]: 0.0043143 諷刺
+	sarcasm WORD[53,   2]: 0.0000552 風刺
+TOKEN[54]: 0.0043561    2 wandering
+	wandering WORD[54,   1]: 0.0021781 飄々
+	wandering WORD[54,   2]: 0.0021781 飄飄
+TOKEN[55]: 0.0042280    1 leaf
+	leaf WORD[55,   1]: 0.0042280 楓葉
+TOKEN[56]: 0.0041829    2 dancing
+	dancing WORD[56,   1]: 0.0020914 飄々
+	dancing WORD[56,   2]: 0.0020914 飄飄
+TOKEN[57]: 0.0039955    3 allegory
+	allegory WORD[57,   1]: 0.0038958 諷喩
+	allegory WORD[57,   2]: 0.0000498 風喩
+	allegory WORD[57,   3]: 0.0000498 風諭
+TOKEN[58]: 0.0037484    2 poetic
+	poetic WORD[58,   1]: 0.0035927 諷詠
+	poetic WORD[58,   2]: 0.0001557 歌風
+TOKEN[59]: 0.0036398    3 suggestion
+	suggestion WORD[59,   1]: 0.0035489 諷喩
+	suggestion WORD[59,   2]: 0.0000454 風喩
+	suggestion WORD[59,   3]: 0.0000454 風諭
+TOKEN[60]: 0.0032998    1 composition
+	composition WORD[60,   1]: 0.0032998 諷詠
+TOKEN[61]: 0.0030913    3 snowstorm
+	snowstorm WORD[61,   1]: 0.0029771 雪嵐
+	snowstorm WORD[61,   2]: 0.0000579 暴風雪
+	snowstorm WORD[61,   3]: 0.0000563 風雪
+TOKEN[62]: 0.0030005    2 tree
+	tree WORD[62,   1]: 0.0014766 楓
+	tree WORD[62,   2]: 0.0000472 風樹
+TOKEN[63]: 0.0029830    3 blizzard
+	blizzard WORD[63,   1]: 0.0028728 雪嵐
+	blizzard WORD[63,   2]: 0.0000559 暴風雪
+	blizzard WORD[63,   3]: 0.0000543 風雪
+TOKEN[64]: 0.0027038    1 throwing
+	throwing WORD[64,   1]: 0.0013519 山嵐
+TOKEN[65]: 0.0026293    1 judo
+	judo WORD[65,   1]: 0.0013147 山嵐
+TOKEN[66]: 0.0025947    1 unconventional
+	unconventional WORD[66,   1]: 0.0025947 飄逸
+TOKEN[67]: 0.0025761    1 technique
+	technique WORD[67,   1]: 0.0012880 山嵐
+TOKEN[68]: 0.0025628   29 breeze
+	breeze WORD[68,   1]: 0.0003760 真風
+	breeze WORD[68,   2]: 0.0001851 海陸風
+	breeze WORD[68,   3]: 0.0001576 浦風
+	breeze WORD[68,   4]: 0.0001538 雄風
+	breeze WORD[68,   5]: 0.0001203 川風
+	breeze WORD[68,   6]: 0.0001203 河風
+	breeze WORD[68,   7]: 0.0001160 涼風
+	breeze WORD[68,   8]: 0.0001104 薫風
+	breeze WORD[68,   9]: 0.0001093 夜風
+	breeze WORD[68,  10]: 0.0001070 温風
+	breeze WORD[68,  11]: 0.0001039 夕風
+	breeze WORD[68,  12]: 0.0000687 陸風
+	breeze WORD[68,  13]: 0.0000632 浜風
+	breeze WORD[68,  14]: 0.0000630 秋風
+	breeze WORD[68,  15]: 0.0000627 葉風
+	breeze WORD[68,  16]: 0.0000627 羽風
+	breeze WORD[68,  17]: 0.0000588 そよ風
+	breeze WORD[68,  18]: 0.0000576 軟風
+	breeze WORD[68,  19]: 0.0000553 軽風
+	breeze WORD[68,  20]: 0.0000505 和風
+	breeze WORD[68,  21]: 0.0000502 冷風
+	breeze WORD[68,  22]: 0.0000501 緑風
+	breeze WORD[68,  23]: 0.0000448 微風
+	breeze WORD[68,  24]: 0.0000379 清風
+	breeze WORD[68,  25]: 0.0000371 春風
+	breeze WORD[68,  26]: 0.0000368 疾風
+	breeze WORD[68,  27]: 0.0000367 潮風
+	breeze WORD[68,  28]: 0.0000343 風月
+	breeze WORD[68,  29]: 0.0000328 海風
+TOKEN[69]: 0.0022455    1 long
+	long WORD[69,   1]: 0.0022455 長風呂
+TOKEN[70]: 0.0018963   14 air
+	air WORD[70,   1]: 0.0007300 嵐気
+	air WORD[70,   2]: 0.0004033 青嵐
+	air WORD[70,   3]: 0.0001279 風量
+	air WORD[70,   4]: 0.0001124 風解
+	air WORD[70,   5]: 0.0001002 風度
+	air WORD[70,   6]: 0.0000853 温風
+	air WORD[70,   7]: 0.0000512 風采
+	air WORD[70,   8]: 0.0000469 そよ風
+	air WORD[70,   9]: 0.0000427 風窓
+	air WORD[70,  10]: 0.0000400 冷風
+	air WORD[70,  11]: 0.0000360 風情
+	air WORD[70,  12]: 0.0000357 微風
+	air WORD[70,  13]: 0.0000302 清風
+	air WORD[70,  14]: 0.0000273 風穴
+TOKEN[71]: 0.0018192    3 raging
+	raging WORD[71,   1]: 0.0017017 大嵐
+	raging WORD[71,   2]: 0.0000606 狂風
+	raging WORD[71,   3]: 0.0000569 悪風
+TOKEN[72]: 0.0018142    1 time
+	time WORD[72,   1]: 0.0018142 長風呂
+TOKEN[73]: 0.0017681    1 come
+	come WORD[73,   1]: 0.0017681 飄然
+TOKEN[74]: 0.0016726    2 go
+	go WORD[74,   1]: 0.0016504 飄然
+	go WORD[74,   2]: 0.0000222 棋風
+TOKEN[75]: 0.0014879    3 light
+	light WORD[75,   1]: 0.0014168 飄逸
+	light WORD[75,   2]: 0.0000372 軽風
+	light WORD[75,   3]: 0.0000340 和風
+TOKEN[76]: 0.0014665   17 cold
+	cold WORD[76,   1]: 0.0002600 喉風邪
+	cold WORD[76,   2]: 0.0001889 風邪薬
+	cold WORD[76,   3]: 0.0001457 夏風邪
+	cold WORD[76,   4]: 0.0001002 水風呂
+	cold WORD[76,   5]: 0.0000814 風引き
+	cold WORD[76,   6]: 0.0000814 風邪ひき
+	cold WORD[76,   7]: 0.0000814 風邪引き
+	cold WORD[76,   8]: 0.0000760 冷風
+	cold WORD[76,   9]: 0.0000477 鼻風
+	cold WORD[76,  10]: 0.0000477 鼻風邪
+	cold WORD[76,  11]: 0.0000410 からっ風
+	cold WORD[76,  12]: 0.0000410 空っ風
+	cold WORD[76,  13]: 0.0000406 風花
+	cold WORD[76,  14]: 0.0000406 風邪声
+	cold WORD[76,  15]: 0.0000406 風邪気
+	cold WORD[76,  16]: 0.0000263 寒風
+	cold WORD[76,  17]: 0.0000260 風邪
+TOKEN[77]: 0.0014381    6 bathtub
+	bathtub WORD[77,   1]: 0.0003862 据え風呂
+	bathtub WORD[77,   2]: 0.0003862 据風呂
+	bathtub WORD[77,   3]: 0.0002295 石風呂
+	bathtub WORD[77,   4]: 0.0001931 風呂桶
+	bathtub WORD[77,   5]: 0.0001931 岩風呂
+	bathtub WORD[77,   6]: 0.0000499 風呂
+TOKEN[78]: 0.0010271   18 style
+	style WORD[78,   1]: 0.0001569 詩風
+	style WORD[78,   2]: 0.0001153 歌風
+	style WORD[78,   3]: 0.0000774 蕉風
+	style WORD[78,   4]: 0.0000570 正風
+	style WORD[78,   5]: 0.0000564 書風
+	style WORD[78,   6]: 0.0000542 芸風
+	style WORD[78,   7]: 0.0000542 朝風
+	style WORD[78,   8]: 0.0000475 俳風
+	style WORD[78,   9]: 0.0000475 誹風
+	style WORD[78,  10]: 0.0000459 唐風
+	style WORD[78,  11]: 0.0000438 新風
+	style WORD[78,  12]: 0.0000383 和風
+	style WORD[78,  13]: 0.0000375 洋風
+	style WORD[78,  14]: 0.0000340 風格
+	style WORD[78,  15]: 0.0000276 作風
+	style WORD[78,  16]: 0.0000266 京風
+	style WORD[78,  17]: 0.0000265 棋風
+	style WORD[78,  18]: 0.0000264 画風
+TOKEN[79]: 0.0009223    1 vapor
+	vapor WORD[79,   1]: 0.0009223 晴嵐
+TOKEN[80]: 0.0009063    1 mist
+	mist WORD[80,   1]: 0.0009063 嵐気
+TOKEN[81]: 0.0008659    4 hullabaloo
+	hullabaloo WORD[81,   1]: 0.0005447 嵐
+	hullabaloo WORD[81,   2]: 0.0001949 辻風
+	hullabaloo WORD[81,   3]: 0.0000774 つむじ風
+	hullabaloo WORD[81,   4]: 0.0000488 旋風
+TOKEN[82]: 0.0008479    2 night
+	night WORD[82,   1]: 0.0006836 夜嵐
+	night WORD[82,   2]: 0.0001643 夜風
+TOKEN[83]: 0.0008272    4 spring
+	spring WORD[83,   1]: 0.0006352 春嵐
+	spring WORD[83,   2]: 0.0000802 温風
+	spring WORD[83,   3]: 0.0000420 東風
+	spring WORD[83,   4]: 0.0000278 春風
+TOKEN[84]: 0.0006987    5 hot
+	hot WORD[84,   1]: 0.0001708 風呂吹き
+	hot WORD[84,   2]: 0.0001653 酒風呂
+	hot WORD[84,   3]: 0.0001646 湯風呂
+	hot WORD[84,   4]: 0.0001646 塩風呂
+	hot WORD[84,   5]: 0.0000333 熱風
+TOKEN[85]: 0.0006650    3 dry
+	dry WORD[85,   1]: 0.0005722 乾風
+	dry WORD[85,   2]: 0.0000464 からっ風
+	dry WORD[85,   3]: 0.0000464 空っ風
+TOKEN[86]: 0.0006638    1 sandstorm
+	sandstorm WORD[86,   1]: 0.0006638 砂嵐
+TOKEN[87]: 0.0006599    7 public
+	public WORD[87,   1]: 0.0001504 女風呂
+	public WORD[87,   2]: 0.0001504 男風呂
+	public WORD[87,   3]: 0.0001340 風呂代
+	public WORD[87,   4]: 0.0001269 風呂屋
+	public WORD[87,   5]: 0.0000331 風呂
+	public WORD[87,   6]: 0.0000326 風俗
+	public WORD[87,   7]: 0.0000326 風紀
+TOKEN[88]: 0.0006508    5 favorable
+	favorable WORD[88,   1]: 0.0004267 時津風
+	favorable WORD[88,   2]: 0.0000663 追い風
+	favorable WORD[88,   3]: 0.0000663 追風
+	favorable WORD[88,   4]: 0.0000538 風待ち
+	favorable WORD[88,   5]: 0.0000375 順風
+TOKEN[89]: 0.0006274    5 steam
+	steam WORD[89,   1]: 0.0002114 湯風呂
+	steam WORD[89,   2]: 0.0002114 石風呂
+	steam WORD[89,   3]: 0.0000697 松風
+	steam WORD[89,   4]: 0.0000674 蒸し風呂
+	steam WORD[89,   5]: 0.0000674 蒸風呂
+TOKEN[90]: 0.0006215    1 Emily
+	Emily WORD[90,   1]: 0.0006215 嵐が丘
+TOKEN[91]: 0.0005958    1 verdure
+	verdure WORD[91,   1]: 0.0005958 青嵐
+TOKEN[92]: 0.0005831    1 tempest
+	tempest WORD[92,   1]: 0.0005831 嵐
+TOKEN[93]: 0.0005716    4 snow
+	snow WORD[93,   1]: 0.0003990 砂嵐
+	snow WORD[93,   2]: 0.0000944 雪風
+	snow WORD[93,   3]: 0.0000426 風花
+	snow WORD[93,   4]: 0.0000356 風雪
+TOKEN[94]: 0.0005427   11 appearance
+	appearance WORD[94,   1]: 0.0000970 風度
+	appearance WORD[94,   2]: 0.0000497 風体
+	appearance WORD[94,   3]: 0.0000496 風姿
+	appearance WORD[94,   4]: 0.0000496 風采
+	appearance WORD[94,   5]: 0.0000393 風ぼう
+	appearance WORD[94,   6]: 0.0000393 風貌
+	appearance WORD[94,   7]: 0.0000348 風情
+	appearance WORD[94,   8]: 0.0000346 風格
+	appearance WORD[94,   9]: 0.0000346 風合
+	appearance WORD[94,  10]: 0.0000346 風合い
+	appearance WORD[94,  11]: 0.0000265 風
+TOKEN[95]: 0.0005173    1 noise
+	noise WORD[95,   1]: 0.0005173 砂嵐
+TOKEN[96]: 0.0005082    3 influenza
+	influenza WORD[96,   1]: 0.0002321 はやり風邪
+	influenza WORD[96,   2]: 0.0002321 流行風邪
+	influenza WORD[96,   3]: 0.0000440 風邪
+TOKEN[97]: 0.0005045    1 video
+	video WORD[97,   1]: 0.0005045 砂嵐
+TOKEN[98]: 0.0004961    3 fresh
+	fresh WORD[98,   1]: 0.0004323 青嵐
+	fresh WORD[98,   2]: 0.0000324 清風
+	fresh WORD[98,   3]: 0.0000315 疾風
+TOKEN[99]: 0.0004670    2 autumn
+	autumn WORD[99,   1]: 0.0004398 初風
+	autumn WORD[99,   2]: 0.0000272 秋風
+TOKEN[100]: 0.0004584    1 uproar
+	uproar WORD[100,   1]: 0.0004584 嵐
+TOKEN[101]: 0.0004578    2 season
+	season WORD[101,   1]: 0.0004207 初風
+	season WORD[101,   2]: 0.0000371 風物
+TOKEN[102]: 0.0004454    1 protest
+	protest WORD[102,   1]: 0.0004454 嵐
+TOKEN[103]: 0.0004311    2 tide
+	tide WORD[103,   1]: 0.0003899 時津風
+	tide WORD[103,   2]: 0.0000412 風潮
+TOKEN[104]: 0.0004296    2 bathhouse
+	bathhouse WORD[104,   1]: 0.0003801 風呂屋
+	bathhouse WORD[104,   2]: 0.0000495 風呂
+TOKEN[105]: 0.0004259    3 summer
+	summer WORD[105,   1]: 0.0003255 夏風邪
+	summer WORD[105,   2]: 0.0000537 南風
+	summer WORD[105,   3]: 0.0000467 薫風
+TOKEN[106]: 0.0004144    8 customs
+	customs WORD[106,   1]: 0.0000645 風儀
+	customs WORD[106,   2]: 0.0000640 蛮風
+	customs WORD[106,   3]: 0.0000550 国風
+	customs WORD[106,   4]: 0.0000526 異風
+	customs WORD[106,   5]: 0.0000522 悪風
+	customs WORD[106,   6]: 0.0000450 風物
+	customs WORD[106,   7]: 0.0000450 風俗
+	customs WORD[106,   8]: 0.0000360 校風
+TOKEN[107]: 0.0004131    1 novel
+	novel WORD[107,   1]: 0.0004131 嵐が丘
+TOKEN[108]: 0.0003990    1 first
+	first WORD[108,   1]: 0.0003990 初風
+TOKEN[109]: 0.0003936    5 custom
+	custom WORD[109,   1]: 0.0001250 美風
+	custom WORD[109,   2]: 0.0001171 余風
+	custom WORD[109,   3]: 0.0000639 良風
+	custom WORD[109,   4]: 0.0000487 遺風
+	custom WORD[109,   5]: 0.0000389 風習
+TOKEN[110]: 0.0003877    1 value
+	value WORD[110,   1]: 0.0003877 嵐
+TOKEN[111]: 0.0003853    1 pile
+	pile WORD[111,   1]: 0.0003853 嵐
+TOKEN[112]: 0.0003851    1 rising
+	rising WORD[112,   1]: 0.0003851 時津風
+TOKEN[113]: 0.0003811    4 water
+	water WORD[113,   1]: 0.0001324 酒風呂
+	water WORD[113,   2]: 0.0001318 湯風呂
+	water WORD[113,   3]: 0.0000887 風解
+	water WORD[113,   4]: 0.0000282 風水
+TOKEN[114]: 0.0003801    1 versicolor
+	versicolor WORD[114,   1]: 0.0003801 癜風
+TOKEN[115]: 0.0003785    1 men
+	men WORD[115,   1]: 0.0003785 男風呂
+TOKEN[116]: 0.0003729    1 tinea
+	tinea WORD[116,   1]: 0.0003729 癜風
+TOKEN[117]: 0.0003725    2 section
+	section WORD[117,   1]: 0.0001863 女風呂
+	section WORD[117,   2]: 0.0001863 男風呂
+TOKEN[118]: 0.0003633    2 tank
+	tank WORD[118,   1]: 0.0001816 据え風呂
+	tank WORD[118,   2]: 0.0001816 据風呂
+TOKEN[119]: 0.0003582    5 sea
+	sea WORD[119,   1]: 0.0001395 海陸風
+	sea WORD[119,   2]: 0.0001188 浦風
+	sea WORD[119,   3]: 0.0000476 浜風
+	sea WORD[119,   4]: 0.0000276 潮風
+	sea WORD[119,   5]: 0.0000247 海風
+TOKEN[120]: 0.0003528    6 elegance
+	elegance WORD[120,   1]: 0.0000679 風流
+	elegance WORD[120,   2]: 0.0000678 風趣
+	elegance WORD[120,   3]: 0.0000678 風韻
+	elegance WORD[120,   4]: 0.0000543 風雅
+	elegance WORD[120,   5]: 0.0000476 風情
+	elegance WORD[120,   6]: 0.0000473 風致
+TOKEN[121]: 0.0003503    1 throat
+	throat WORD[121,   1]: 0.0003503 喉風邪
+TOKEN[122]: 0.0003298    1 sake
+	sake WORD[122,   1]: 0.0003298 酒風呂
+TOKEN[123]: 0.0003222    1 stone
+	stone WORD[123,   1]: 0.0003222 石風呂
+TOKEN[124]: 0.0003212    3 whirlwind
+	whirlwind WORD[124,   1]: 0.0001949 辻風
+	whirlwind WORD[124,   2]: 0.0000774 つむじ風
+	whirlwind WORD[124,   3]: 0.0000488 旋風
+TOKEN[125]: 0.0003208    6 strong
+	strong WORD[125,   1]: 0.0001224 雄風
+	strong WORD[125,   2]: 0.0000549 烈風
+	strong WORD[125,   3]: 0.0000432 からっ風
+	strong WORD[125,   4]: 0.0000432 空っ風
+	strong WORD[125,   5]: 0.0000293 疾風
+	strong WORD[125,   6]: 0.0000279 強風
+TOKEN[126]: 0.0003163    1 true
+	true WORD[126,   1]: 0.0003163 真風
+TOKEN[127]: 0.0003092    6 manners
+	manners WORD[127,   1]: 0.0000634 風儀
+	manners WORD[127,   2]: 0.0000540 国風
+	manners WORD[127,   3]: 0.0000520 淫風
+	manners WORD[127,   4]: 0.0000513 悪風
+	manners WORD[127,   5]: 0.0000442 風物
+	manners WORD[127,   6]: 0.0000442 風俗
+TOKEN[128]: 0.0003073    3 damage
+	damage WORD[128,   1]: 0.0001101 風災
+	damage WORD[128,   2]: 0.0001101 風害
+	damage WORD[128,   3]: 0.0000870 風水害
+TOKEN[129]: 0.0003039    1 change
+	change WORD[129,   1]: 0.0003039 嵐
+TOKEN[130]: 0.0002994    2 flu
+	flu WORD[130,   1]: 0.0002541 夏風邪
+	flu WORD[130,   2]: 0.0000453 風邪
+TOKEN[131]: 0.0002950    2 rainstorm
+	rainstorm WORD[131,   1]: 0.0002374 暴風雨
+	rainstorm WORD[131,   2]: 0.0000576 風雨
+TOKEN[132]: 0.0002866    1 eight
+	eight WORD[132,   1]: 0.0002866 八風
+TOKEN[133]: 0.0002866    2 deep
+	deep WORD[133,   1]: 0.0001433 据え風呂
+	deep WORD[133,   2]: 0.0001433 据風呂
+TOKEN[134]: 0.0002665    6 taste
+	taste WORD[134,   1]: 0.0000545 風流
+	taste WORD[134,   2]: 0.0000544 風狂
+	taste WORD[134,   3]: 0.0000435 風雅
+	taste WORD[134,   4]: 0.0000382 風情
+	taste WORD[134,   5]: 0.0000380 風味
+	taste WORD[134,   6]: 0.0000380 風致
+TOKEN[135]: 0.0002627    3 commotion
+	commotion WORD[135,   1]: 0.0001594 辻風
+	commotion WORD[135,   2]: 0.0000633 つむじ風
+	commotion WORD[135,   3]: 0.0000399 旋風
+TOKEN[136]: 0.0002609    2 mien
+	mien WORD[136,   1]: 0.0001726 風度
+	mien WORD[136,   2]: 0.0000883 風采
+TOKEN[137]: 0.0002554    2 efflorescence
+	efflorescence WORD[137,   1]: 0.0001938 風解
+	efflorescence WORD[137,   2]: 0.0000616 風化
+TOKEN[138]: 0.0002505    1 turnip
+	turnip WORD[138,   1]: 0.0002505 風呂吹き
+TOKEN[139]: 0.0002503    3 sensation
+	sensation WORD[139,   1]: 0.0001519 辻風
+	sensation WORD[139,   2]: 0.0000603 つむじ風
+	sensation WORD[139,   3]: 0.0000381 旋風
+TOKEN[140]: 0.0002471    6 direction
+	direction WORD[140,   1]: 0.0000557 風向
+	direction WORD[140,   2]: 0.0000557 風位
+	direction WORD[140,   3]: 0.0000466 家風
+	direction WORD[140,   4]: 0.0000297 風向き
+	direction WORD[140,   5]: 0.0000297 風切
+	direction WORD[140,   6]: 0.0000297 風切り
+TOKEN[141]: 0.0002441    1 whirlpool
+	whirlpool WORD[141,   1]: 0.0002441 泡風呂
+TOKEN[142]: 0.0002415    1 cavern
+	cavern WORD[142,   1]: 0.0002415 石風呂
+TOKEN[143]: 0.0002414    2 bathing
+	bathing WORD[143,   1]: 0.0001918 風呂桶
+	bathing WORD[143,   2]: 0.0000495 風呂
+TOKEN[144]: 0.0002400    4 gale
+	gale WORD[144,   1]: 0.0000885 烈風
+	gale WORD[144,   2]: 0.0000593 暴風
+	gale WORD[144,   3]: 0.0000473 疾風
+	gale WORD[144,   4]: 0.0000450 強風
+TOKEN[145]: 0.0002368    3 blast
+	blast WORD[145,   1]: 0.0001373 爆風
+	blast WORD[145,   2]: 0.0000549 冷風
+	blast WORD[145,   3]: 0.0000445 突風
+TOKEN[146]: 0.0002267    3 windbreak
+	windbreak WORD[146,   1]: 0.0000850 風防
+	windbreak WORD[146,   2]: 0.0000708 風よけ
+	windbreak WORD[146,   3]: 0.0000708 風除け
+TOKEN[147]: 0.0002261    1 daikon
+	daikon WORD[147,   1]: 0.0002261 風呂吹き
+TOKEN[148]: 0.0002230    1 eaten
+	eaten WORD[148,   1]: 0.0002230 風呂吹き
+TOKEN[149]: 0.0002199    1 bubble
+	bubble WORD[149,   1]: 0.0002199 泡風呂
+TOKEN[150]: 0.0002186    2 sand
+	sand WORD[150,   1]: 0.0001602 砂風呂
+	sand WORD[150,   2]: 0.0000584 風塵
+TOKEN[151]: 0.0002186    4 morals
+	morals WORD[151,   1]: 0.0000671 風教
+	morals WORD[151,   2]: 0.0000578 矯風
+	morals WORD[151,   3]: 0.0000468 風俗
+	morals WORD[151,   4]: 0.0000468 風紀
+TOKEN[152]: 0.0002140    1 chamber
+	chamber WORD[152,   1]: 0.0002140 石風呂
+TOKEN[153]: 0.0002127    2 surviving
+	surviving WORD[153,   1]: 0.0001503 余風
+	surviving WORD[153,   2]: 0.0000625 遺風
+TOKEN[154]: 0.0002104    3 zephyr
+	zephyr WORD[154,   1]: 0.0000777 そよ風
+	zephyr WORD[154,   2]: 0.0000736 恋風
+	zephyr WORD[154,   3]: 0.0000592 微風
+TOKEN[155]: 0.0002087    3 god
+	god WORD[155,   1]: 0.0001112 風神
+	god WORD[155,   2]: 0.0000532 風伯
+	god WORD[155,   3]: 0.0000444 風の神
+TOKEN[156]: 0.0002048    3 wave
+	wave WORD[156,   1]: 0.0000573 風浪
+	wave WORD[156,   2]: 0.0000559 爆風
+	wave WORD[156,   3]: 0.0000305 風
+TOKEN[157]: 0.0002017    3 evil
+	evil WORD[157,   1]: 0.0001049 魔風
+	evil WORD[157,   2]: 0.0000540 弊風
+	evil WORD[157,   3]: 0.0000428 悪風
+TOKEN[158]: 0.0002017    2 medicine
+	medicine WORD[158,   1]: 0.0001015 防風
+	medicine WORD[158,   2]: 0.0001002 風邪薬
+TOKEN[159]: 0.0001997    3 scenery
+	scenery WORD[159,   1]: 0.0000901 風物
+	scenery WORD[159,   2]: 0.0000645 風光
+	scenery WORD[159,   3]: 0.0000450 風景
+TOKEN[160]: 0.0001976    1 surrounded
+	surrounded WORD[160,   1]: 0.0001976 岩風呂
+TOKEN[161]: 0.0001958    1 proprietor
+	proprietor WORD[161,   1]: 0.0001958 風呂屋
+TOKEN[162]: 0.0001956    2 illness
+	illness WORD[162,   1]: 0.0001660 夏風邪
+	illness WORD[162,   2]: 0.0000296 風邪
+TOKEN[163]: 0.0001955    1 taken
+	taken WORD[163,   1]: 0.0001955 石風呂
+TOKEN[164]: 0.0001950    4 speed
+	speed WORD[164,   1]: 0.0000580 風力
+	speed WORD[164,   2]: 0.0000483 風脚
+	speed WORD[164,   3]: 0.0000483 風足
+	speed WORD[164,   4]: 0.0000404 風速
+TOKEN[165]: 0.0001922    4 spirit
+	spirit WORD[165,   1]: 0.0000842 社風
+	spirit WORD[165,   2]: 0.0000275 校風
+	spirit WORD[165,   3]: 0.0000268 気っ風
+	spirit WORD[165,   4]: 0.0000268 気風
+TOKEN[166]: 0.0001915    2 river
+	river WORD[166,   1]: 0.0000957 川風
+	river WORD[166,   2]: 0.0000957 河風
+TOKEN[167]: 0.0001898    2 sound
+	sound WORD[167,   1]: 0.0001031 松風
+	sound WORD[167,   2]: 0.0000867 風音
+TOKEN[168]: 0.0001892    1 sore
+	sore WORD[168,   1]: 0.0001892 喉風邪
+TOKEN[169]: 0.0001878    1 boiled
+	boiled WORD[169,   1]: 0.0001878 風呂吹き
+TOKEN[170]: 0.0001874    3 poem
+	poem WORD[170,   1]: 0.0000847 詩風
+	poem WORD[170,   2]: 0.0000513 俳風
+	poem WORD[170,   3]: 0.0000513 誹風
+TOKEN[171]: 0.0001872    2 land
+	land WORD[171,   1]: 0.0001365 海陸風
+	land WORD[171,   2]: 0.0000507 陸風
+TOKEN[172]: 0.0001872    2 used
+	used WORD[172,   1]: 0.0001091 風呂桶
+	used WORD[172,   2]: 0.0000781 防風
+TOKEN[173]: 0.0001862    3 toy
+	toy WORD[173,   1]: 0.0000701 風ぐるま
+	toy WORD[173,   2]: 0.0000701 風車
+	toy WORD[173,   3]: 0.0000460 風船
+TOKEN[174]: 0.0001856    2 poetry
+	poetry WORD[174,   1]: 0.0000954 国風
+	poetry WORD[174,   2]: 0.0000901 詩風
+TOKEN[175]: 0.0001850    1 umbellifer
+	umbellifer WORD[175,   1]: 0.0001850 防風
+TOKEN[176]: 0.0001843    1 bucket
+	bucket WORD[176,   1]: 0.0001843 風呂桶
+TOKEN[177]: 0.0001829    1 mixed
+	mixed WORD[177,   1]: 0.0001829 酒風呂
+TOKEN[178]: 0.0001818    2 climate
+	climate WORD[178,   1]: 0.0001290 社風
+	climate WORD[178,   2]: 0.0000528 風土
+TOKEN[179]: 0.0001796    2 heater
+	heater WORD[179,   1]: 0.0001260 温風
+	heater WORD[179,   2]: 0.0000537 風呂釜
+TOKEN[180]: 0.0001789    2 personality
+	personality WORD[180,   1]: 0.0001319 風度
+	personality WORD[180,   2]: 0.0000471 風格
+TOKEN[181]: 0.0001784    4 head
+	head WORD[181,   1]: 0.0000459 向い風
+	head WORD[181,   2]: 0.0000459 向かい風
+	head WORD[181,   3]: 0.0000433 鼻風
+	head WORD[181,   4]: 0.0000433 鼻風邪
+TOKEN[182]: 0.0001769    1 crystallization
+	crystallization WORD[182,   1]: 0.0001769 風解
+TOKEN[183]: 0.0001767    2 rubella
+	rubella WORD[183,   1]: 0.0000883 風しん
+	rubella WORD[183,   2]: 0.0000883 風疹
+TOKEN[184]: 0.0001760    1 fee
+	fee WORD[184,   1]: 0.0001760 風呂代
+TOKEN[185]: 0.0001758    1 bagpipe
+	bagpipe WORD[185,   1]: 0.0001758 風笛
+TOKEN[186]: 0.0001745    2 wooden
+	wooden WORD[186,   1]: 0.0001387 風呂桶
+	wooden WORD[186,   2]: 0.0000358 風呂
+TOKEN[187]: 0.0001732    1 winnowing
+	winnowing WORD[187,   1]: 0.0001732 風選
+TOKEN[188]: 0.0001731    1 holdover
+	holdover WORD[188,   1]: 0.0001731 余風
+TOKEN[189]: 0.0001716    2 windmill
+	windmill WORD[189,   1]: 0.0000858 風ぐるま
+	windmill WORD[189,   2]: 0.0000858 風車
+TOKEN[190]: 0.0001713    1 lead
+	lead WORD[190,   1]: 0.0000571 風
+TOKEN[191]: 0.0001706    1 company
+	company WORD[191,   1]: 0.0001706 社風
+TOKEN[192]: 0.0001650    2 measles
+	measles WORD[192,   1]: 0.0000825 風しん
+	measles WORD[192,   2]: 0.0000825 風疹
+TOKEN[193]: 0.0001646    3 rumor
+	rumor WORD[193,   1]: 0.0000611 風評
+	rumor WORD[193,   2]: 0.0000610 風説
+	rumor WORD[193,   3]: 0.0000426 風聞
+TOKEN[194]: 0.0001616    3 ventilation
+	ventilation WORD[194,   1]: 0.0000753 通風
+	ventilation WORD[194,   2]: 0.0000455 送風
+	ventilation WORD[194,   3]: 0.0000409 風通し
+TOKEN[195]: 0.0001612    3 vane
+	vane WORD[195,   1]: 0.0000708 風見
+	vane WORD[195,   2]: 0.0000452 風切
+	vane WORD[195,   3]: 0.0000452 風切り
+TOKEN[196]: 0.0001573    2 common
+	common WORD[196,   1]: 0.0001311 喉風邪
+	common WORD[196,   2]: 0.0000262 風邪
+TOKEN[197]: 0.0001557    3 Chinese
+	Chinese WORD[197,   1]: 0.0000814 防風
+	Chinese WORD[197,   2]: 0.0000390 唐風
+	Chinese WORD[197,   3]: 0.0000353 国風
+TOKEN[198]: 0.0001554    3 gentle
+	gentle WORD[198,   1]: 0.0000567 そよ風
+	gentle WORD[198,   2]: 0.0000555 軟風
+	gentle WORD[198,   3]: 0.0000432 微風
+TOKEN[199]: 0.0001532    2 calm
+	calm WORD[199,   1]: 0.0000587 無風
+	calm WORD[199,   2]: 0.0000472 大風
+TOKEN[200]: 0.0001525    3 catching
+	catching WORD[200,   1]: 0.0000508 風引き
+	catching WORD[200,   2]: 0.0000508 風邪ひき
+	catching WORD[200,   3]: 0.0000508 風邪引き
+TOKEN[201]: 0.0001515    3 refinement
+	refinement WORD[201,   1]: 0.0000646 風流
+	refinement WORD[201,   2]: 0.0000517 風雅
+	refinement WORD[201,   3]: 0.0000352 京風
+TOKEN[202]: 0.0001515    1 floater
+	floater WORD[202,   1]: 0.0001515 風太郎
+TOKEN[203]: 0.0001514    2 German
+	German WORD[203,   1]: 0.0000757 風しん
+	German WORD[203,   2]: 0.0000757 風疹
+TOKEN[204]: 0.0001501    1 eerie
+	eerie WORD[204,   1]: 0.0001501 魔風
+TOKEN[205]: 0.0001492    4 cool
+	cool WORD[205,   1]: 0.0000526 涼風
+	cool WORD[205,   2]: 0.0000344 清風
+	cool WORD[205,   3]: 0.0000311 風月
+	cool WORD[205,   4]: 0.0000311 風戸
+TOKEN[206]: 0.0001488    4 situation
+	situation WORD[206,   1]: 0.0000351 風雲
+	situation WORD[206,   2]: 0.0000268 風向き
+	situation WORD[206,   3]: 0.0000259 追い風
+	situation WORD[206,   4]: 0.0000259 追風
+TOKEN[207]: 0.0001475    2 haikai
+	haikai WORD[207,   1]: 0.0000738 俳風
+	haikai WORD[207,   2]: 0.0000738 誹風
+TOKEN[208]: 0.0001447    3 species
+	species WORD[208,   1]: 0.0000939 防風
+	species WORD[208,   2]: 0.0000254 風ぐるま
+	species WORD[208,   3]: 0.0000254 風車
+TOKEN[209]: 0.0001438    3 breath
+	breath WORD[209,   1]: 0.0000597 そよ風
+	breath WORD[209,   2]: 0.0000455 微風
+	breath WORD[209,   3]: 0.0000385 清風
+TOKEN[210]: 0.0001432    1 furnace
+	furnace WORD[210,   1]: 0.0000716 風炉
+TOKEN[211]: 0.0001404    2 gable
+	gable WORD[211,   1]: 0.0000737 搏風
+	gable WORD[211,   2]: 0.0000667 破風
+TOKEN[212]: 0.0001391    2 Beaufort
+	Beaufort WORD[212,   1]: 0.0000884 風力
+	Beaufort WORD[212,   2]: 0.0000506 疾風
+TOKEN[213]: 0.0001383    1 vagrant
+	vagrant WORD[213,   1]: 0.0001383 風太郎
+TOKEN[214]: 0.0001375    1 remedy
+	remedy WORD[214,   1]: 0.0001375 風邪薬
+TOKEN[215]: 0.0001374    3 tradition
+	tradition WORD[215,   1]: 0.0000520 家風
+	tradition WORD[215,   2]: 0.0000507 遺風
+	tradition WORD[215,   3]: 0.0000347 校風
+TOKEN[216]: 0.0001359    1 unsewn
+	unsewn WORD[216,   1]: 0.0000453 風
+TOKEN[217]: 0.0001345    1 devil
+	devil WORD[217,   1]: 0.0001345 魔風
+TOKEN[218]: 0.0001343    3 bell
+	bell WORD[218,   1]: 0.0000492 風鐸
+	bell WORD[218,   2]: 0.0000426 風りん
+	bell WORD[218,   3]: 0.0000426 風鈴
+TOKEN[219]: 0.0001342    1 placid
+	placid WORD[219,   1]: 0.0000671 大風
+TOKEN[220]: 0.0001334    1 unemployed
+	unemployed WORD[220,   1]: 0.0001334 風太郎
+TOKEN[221]: 0.0001325    2 gossip
+	gossip WORD[221,   1]: 0.0000663 風評
+	gossip WORD[221,   2]: 0.0000662 風説
+TOKEN[222]: 0.0001309    2 hanging
+	hanging WORD[222,   1]: 0.0000439 風鐸
+	hanging WORD[222,   2]: 0.0000290 風
+TOKEN[223]: 0.0001307    3 natural
+	natural WORD[223,   1]: 0.0000545 風光
+	natural WORD[223,   2]: 0.0000381 風物
+	natural WORD[223,   3]: 0.0000381 風土
+TOKEN[224]: 0.0001298    3 exposure
+	exposure WORD[224,   1]: 0.0000628 風葬
+	exposure WORD[224,   2]: 0.0000335 風当たり
+	exposure WORD[224,   3]: 0.0000335 風当り
+TOKEN[225]: 0.0001256    3 beauty
+	beauty WORD[225,   1]: 0.0000563 風光
+	beauty WORD[225,   2]: 0.0000393 風致
+	beauty WORD[225,   3]: 0.0000300 風月
+TOKEN[226]: 0.0001249    1 corporate
+	corporate WORD[226,   1]: 0.0001249 社風
+TOKEN[227]: 0.0001241    1 burial
+	burial WORD[227,   1]: 0.0001241 風葬
+TOKEN[228]: 0.0001238    3 character
+	character WORD[228,   1]: 0.0000432 高風
+	character WORD[228,   2]: 0.0000269 気っ風
+	character WORD[228,   3]: 0.0000269 気風
+TOKEN[229]: 0.0001225    1 made
+	made WORD[229,   1]: 0.0001225 岩風呂
+TOKEN[230]: 0.0001222    2 discord
+	discord WORD[230,   1]: 0.0000660 波風
+	discord WORD[230,   2]: 0.0000563 風波
+TOKEN[231]: 0.0001189    2 protection
+	protection WORD[231,   1]: 0.0000600 風防
+	protection WORD[231,   2]: 0.0000589 防風
+TOKEN[232]: 0.0001184    1 reservation
+	reservation WORD[232,   1]: 0.0000395 風
+TOKEN[233]: 0.0001178    1 loss
+	loss WORD[233,   1]: 0.0001178 風解
+TOKEN[234]: 0.0001170    2 state
+	state WORD[234,   1]: 0.0000498 無風
+	state WORD[234,   2]: 0.0000336 風雲
+TOKEN[235]: 0.0001159    2 wrapping
+	wrapping WORD[235,   1]: 0.0000679 風袋
+	wrapping WORD[235,   2]: 0.0000481 風呂敷
+TOKEN[236]: 0.0001152    1 underwear
+	underwear WORD[236,   1]: 0.0000384 風
+TOKEN[237]: 0.0001152    1 swinging
+	swinging WORD[237,   1]: 0.0000384 風
+TOKEN[238]: 0.0001148    1 arrogant
+	arrogant WORD[238,   1]: 0.0000574 大風
+TOKEN[239]: 0.0001143    1 small
+	small WORD[239,   1]: 0.0001143 風呂桶
+TOKEN[240]: 0.0001129    1 mumps
+	mumps WORD[240,   1]: 0.0001129 おたふく風邪
+TOKEN[241]: 0.0001129    1 parotitis
+	parotitis WORD[241,   1]: 0.0001129 おたふく風邪
+TOKEN[242]: 0.0001129    1 haughty
+	haughty WORD[242,   1]: 0.0000564 大風
+TOKEN[243]: 0.0001125    2 swaying
+	swaying WORD[243,   1]: 0.0000563 風び
+	swaying WORD[243,   2]: 0.0000563 風靡
+TOKEN[244]: 0.0001119    1 manner
+	manner WORD[244,   1]: 0.0001119 風度
+TOKEN[245]: 0.0001119    2 hearsay
+	hearsay WORD[245,   1]: 0.0000659 風説
+	hearsay WORD[245,   2]: 0.0000460 風聞
+TOKEN[246]: 0.0001118    1 pretense
+	pretense WORD[246,   1]: 0.0000373 風
+TOKEN[247]: 0.0001104    1 balloon
+	balloon WORD[247,   1]: 0.0001104 風船
+TOKEN[248]: 0.0001101    2 hole
+	hole WORD[248,   1]: 0.0000484 風窓
+	hole WORD[248,   2]: 0.0000309 風穴
+TOKEN[249]: 0.0001100    2 temperament
+	temperament WORD[249,   1]: 0.0000367 気っ風
+	temperament WORD[249,   2]: 0.0000367 気風
+TOKEN[250]: 0.0001100    1 culture
+	culture WORD[250,   1]: 0.0001100 社風
+TOKEN[251]: 0.0001086    2 chime
+	chime WORD[251,   1]: 0.0000543 風りん
+	chime WORD[251,   2]: 0.0000543 風鈴
+TOKEN[252]: 0.0001085    1 pants
+	pants WORD[252,   1]: 0.0000362 風
+TOKEN[253]: 0.0001079    1 influence
+	influence WORD[253,   1]: 0.0001079 余風
+TOKEN[254]: 0.0001049    1 sleeve
+	sleeve WORD[254,   1]: 0.0000350 風
+TOKEN[255]: 0.0001044    2 conquering
+	conquering WORD[255,   1]: 0.0000522 風び
+	conquering WORD[255,   2]: 0.0000522 風靡
+TOKEN[256]: 0.0001043    3 weather
+	weather WORD[256,   1]: 0.0000458 風見
+	weather WORD[256,   2]: 0.0000292 風切
+	weather WORD[256,   3]: 0.0000292 風切り
+TOKEN[257]: 0.0001040    1 flood
+	flood WORD[257,   1]: 0.0001040 風水害
+TOKEN[258]: 0.0001036    1 east
+	east WORD[258,   1]: 0.0000518 東風
+TOKEN[259]: 0.0001036    2 refreshing
+	refreshing WORD[259,   1]: 0.0000626 涼風
+	refreshing WORD[259,   2]: 0.0000409 清風
+TOKEN[260]: 0.0001025    1 hotel
+	hotel WORD[260,   1]: 0.0000342 風
+TOKEN[261]: 0.0001021    2 nature
+	nature WORD[261,   1]: 0.0000370 風雲
+	nature WORD[261,   2]: 0.0000282 風月
+TOKEN[262]: 0.0001020    2 bathroom
+	bathroom WORD[262,   1]: 0.0000510 風呂場
+	bathroom WORD[262,   2]: 0.0000510 風呂
+TOKEN[263]: 0.0001019    1 resistance
+	resistance WORD[263,   1]: 0.0001019 耐風
+TOKEN[264]: 0.0001018    1 garment
+	garment WORD[264,   1]: 0.0000339 風
+TOKEN[265]: 0.0001018    1 warm
+	warm WORD[265,   1]: 0.0001018 温風
+TOKEN[266]: 0.0001016    1 west
+	west WORD[266,   1]: 0.0001016 西風
+TOKEN[267]: 0.0001014    2 overwhelming
+	overwhelming WORD[267,   1]: 0.0000507 風び
+	overwhelming WORD[267,   2]: 0.0000507 風靡
+TOKEN[268]: 0.0001010    1 waiting
+	waiting WORD[268,   1]: 0.0001010 風待ち
+TOKEN[269]: 0.0001002    1 windhole
+	windhole WORD[269,   1]: 0.0000501 風穴
+TOKEN[270]: 0.0001002    1 ventilator
+	ventilator WORD[270,   1]: 0.0000501 風穴
+TOKEN[271]: 0.0000997    2 school
+	school WORD[271,   1]: 0.0000753 校風
+	school WORD[271,   2]: 0.0000243 学風
+TOKEN[272]: 0.0000994    2 rough
+	rough WORD[272,   1]: 0.0000543 風浪
+	rough WORD[272,   2]: 0.0000452 風波
+TOKEN[273]: 0.0000984    2 disposition
+	disposition WORD[273,   1]: 0.0000328 気っ風
+	disposition WORD[273,   2]: 0.0000328 気風
+TOKEN[274]: 0.0000984    1 correct
+	correct WORD[274,   1]: 0.0000984 蕉風
+TOKEN[275]: 0.0000984    1 introduction
+	introduction WORD[275,   1]: 0.0000328 風
+TOKEN[276]: 0.0000973    2 trouble
+	trouble WORD[276,   1]: 0.0000525 波風
+	trouble WORD[276,   2]: 0.0000448 風波
+TOKEN[277]: 0.0000969    1 refined
+	refined WORD[277,   1]: 0.0000969 風雅
+TOKEN[278]: 0.0000961    2 soft
+	soft WORD[278,   1]: 0.0000545 そよ風
+	soft WORD[278,   2]: 0.0000416 微風
+TOKEN[279]: 0.0000961    1 wearing
+	wearing WORD[279,   1]: 0.0000320 風
+TOKEN[280]: 0.0000959    1 joke
+	joke WORD[280,   1]: 0.0000320 風
+TOKEN[281]: 0.0000957    2 erosion
+	erosion WORD[281,   1]: 0.0000479 風蝕
+	erosion WORD[281,   2]: 0.0000479 風食
+TOKEN[282]: 0.0000956    2 way
+	way WORD[282,   1]: 0.0000728 社風
+	way WORD[282,   2]: 0.0000227 風向き
+TOKEN[283]: 0.0000954    1 period
+	period WORD[283,   1]: 0.0000477 朝風
+TOKEN[284]: 0.0000953    2 scale
+	scale WORD[284,   1]: 0.0000606 風力
+	scale WORD[284,   2]: 0.0000347 疾風
+TOKEN[285]: 0.0000952    1 behaviour
+	behaviour WORD[285,   1]: 0.0000317 風
+TOKEN[286]: 0.0000950    1 swing
+	swing WORD[286,   1]: 0.0000317 風
+TOKEN[287]: 0.0000943    1 erraticism
+	erraticism WORD[287,   1]: 0.0000943 風来
+TOKEN[288]: 0.0000942    1 tare
+	tare WORD[288,   1]: 0.0000942 風袋
+TOKEN[289]: 0.0000942    1 sepulture
+	sepulture WORD[289,   1]: 0.0000942 風葬
+TOKEN[290]: 0.0000942    2 report
+	report WORD[290,   1]: 0.0000555 風評
+	report WORD[290,   2]: 0.0000387 風聞
+TOKEN[291]: 0.0000941    1 taking
+	taking WORD[291,   1]: 0.0000471 水風呂
+TOKEN[292]: 0.0000941    1 arbiter
+	arbiter WORD[292,   1]: 0.0000941 風狂
+TOKEN[293]: 0.0000941    1 gonorrheal
+	gonorrheal WORD[293,   1]: 0.0000941 風眼
+TOKEN[294]: 0.0000941    1 ophthalmia
+	ophthalmia WORD[294,   1]: 0.0000941 風眼
+TOKEN[295]: 0.0000941    1 tastefulness
+	tastefulness WORD[295,   1]: 0.0000941 風韻
+TOKEN[296]: 0.0000940    2 remiges
+	remiges WORD[296,   1]: 0.0000470 風切
+	remiges WORD[296,   2]: 0.0000470 風切り
+TOKEN[297]: 0.0000937    2 going
+	going WORD[297,   1]: 0.0000234 風
+	going WORD[297,   2]: 0.0000234 風向き
+TOKEN[298]: 0.0000934    1 shake
+	shake WORD[298,   1]: 0.0000311 風
+TOKEN[299]: 0.0000932    1 restaurant
+	restaurant WORD[299,   1]: 0.0000311 風
+TOKEN[300]: 0.0000924    1 gout
+	gout WORD[300,   1]: 0.0000924 痛風
+TOKEN[301]: 0.0000918    1 grass
+	grass WORD[301,   1]: 0.0000918 風草
+TOKEN[302]: 0.0000916    2 sweeping
+	sweeping WORD[302,   1]: 0.0000458 風び
+	sweeping WORD[302,   2]: 0.0000458 風靡
+TOKEN[303]: 0.0000914    1 windless
+	windless WORD[303,   1]: 0.0000914 無風
+TOKEN[304]: 0.0000903    2 Clematis
+	Clematis WORD[304,   1]: 0.0000452 風ぐるま
+	Clematis WORD[304,   2]: 0.0000452 風車
+TOKEN[305]: 0.0000897    1 epidemic
+	epidemic WORD[305,   1]: 0.0000897 おたふく風邪
+TOKEN[306]: 0.0000892    2 beautiful
+	beautiful WORD[306,   1]: 0.0000525 風光
+	beautiful WORD[306,   2]: 0.0000366 美風
+TOKEN[307]: 0.0000889    1 question
+	question WORD[307,   1]: 0.0000296 風
+TOKEN[308]: 0.0000888    1 poppy
+	poppy WORD[308,   1]: 0.0000888 松風
+TOKEN[309]: 0.0000888    2 eccentric
+	eccentric WORD[309,   1]: 0.0000444 風変り
+	eccentric WORD[309,   2]: 0.0000444 風変わり
+TOKEN[310]: 0.0000886    1 dance
+	dance WORD[310,   1]: 0.0000295 風
+TOKEN[311]: 0.0000884    2 folding
+	folding WORD[311,   1]: 0.0000442 屏風
+	folding WORD[311,   2]: 0.0000442 屛風
+TOKEN[312]: 0.0000882    2 texture
+	texture WORD[312,   1]: 0.0000441 風合
+	texture WORD[312,   2]: 0.0000441 風合い
+TOKEN[313]: 0.0000879    1 harmonium
+	harmonium WORD[313,   1]: 0.0000879 風琴
+TOKEN[314]: 0.0000878    1 evening
+	evening WORD[314,   1]: 0.0000878 夕風
+TOKEN[315]: 0.0000874    2 rain
+	rain WORD[315,   1]: 0.0000512 雨風
+	rain WORD[315,   2]: 0.0000362 風雨
+TOKEN[316]: 0.0000863    2 moderate
+	moderate WORD[316,   1]: 0.0000509 和風
+	moderate WORD[316,   2]: 0.0000353 強風
+TOKEN[317]: 0.0000858    2 north
+	north WORD[317,   1]: 0.0000530 朔風
+	north WORD[317,   2]: 0.0000329 北風
+TOKEN[318]: 0.0000858    2 turbine
+	turbine WORD[318,   1]: 0.0000429 風ぐるま
+	turbine WORD[318,   2]: 0.0000429 風車
+TOKEN[319]: 0.0000858    2 pennant
+	pennant WORD[319,   1]: 0.0000429 風切
+	pennant WORD[319,   2]: 0.0000429 風切り
+TOKEN[320]: 0.0000850    1 frivolity
+	frivolity WORD[320,   1]: 0.0000850 風来
+TOKEN[321]: 0.0000849    1 getup
+	getup WORD[321,   1]: 0.0000849 風采
+TOKEN[322]: 0.0000835    2 screen
+	screen WORD[322,   1]: 0.0000418 屏風
+	screen WORD[322,   2]: 0.0000418 屛風
+TOKEN[323]: 0.0000827    1 scene
+	scene WORD[323,   1]: 0.0000827 風景
+TOKEN[324]: 0.0000826    1 counter
+	counter WORD[324,   1]: 0.0000275 風
+TOKEN[325]: 0.0000826    2 love
+	love WORD[325,   1]: 0.0000420 恋風
+	love WORD[325,   2]: 0.0000406 風草
+TOKEN[326]: 0.0000825    2 life
+	life WORD[326,   1]: 0.0000450 風塵
+	life WORD[326,   2]: 0.0000375 風波
+TOKEN[327]: 0.0000815    1 show
+	show WORD[327,   1]: 0.0000272 風
+TOKEN[328]: 0.0000808    1 sex
+	sex WORD[328,   1]: 0.0000808 風俗
+TOKEN[329]: 0.0000806    1 connoisseur
+	connoisseur WORD[329,   1]: 0.0000806 風狂
+TOKEN[330]: 0.0000805    1 electoral
+	electoral WORD[330,   1]: 0.0000805 無風
+TOKEN[331]: 0.0000802    1 hinder
+	hinder WORD[331,   1]: 0.0000802 八風
+TOKEN[332]: 0.0000802    1 move
+	move WORD[332,   1]: 0.0000267 風
+TOKEN[333]: 0.0000802    1 running
+	running WORD[333,   1]: 0.0000267 風
+TOKEN[334]: 0.0000797    2 fabric
+	fabric WORD[334,   1]: 0.0000399 風合
+	fabric WORD[334,   2]: 0.0000399 風合い
+TOKEN[335]: 0.0000793    2 strange
+	strange WORD[335,   1]: 0.0000397 風変り
+	strange WORD[335,   2]: 0.0000397 風変わり
+TOKEN[336]: 0.0000792    1 airing
+	airing WORD[336,   1]: 0.0000792 通風
+TOKEN[337]: 0.0000788    2 advantageous
+	advantageous WORD[337,   1]: 0.0000394 追い風
+	advantageous WORD[337,   2]: 0.0000394 追風
+TOKEN[338]: 0.0000787    1 Eragrostis
+	Eragrostis WORD[338,   1]: 0.0000787 風草
+TOKEN[339]: 0.0000785    1 leeward
+	leeward WORD[339,   1]: 0.0000785 風下
+TOKEN[340]: 0.0000781    1 day
+	day WORD[340,   1]: 0.0000781 風太郎
+TOKEN[341]: 0.0000779    1 position
+	position WORD[341,   1]: 0.0000779 下風
+TOKEN[342]: 0.0000778    1 swayed
+	swayed WORD[342,   1]: 0.0000778 風樹
+TOKEN[343]: 0.0000775    1 sesame
+	sesame WORD[343,   1]: 0.0000775 松風
+TOKEN[344]: 0.0000771    1 adverse
+	adverse WORD[344,   1]: 0.0000386 逆風
+TOKEN[345]: 0.0000769    1 sprinkled
+	sprinkled WORD[345,   1]: 0.0000769 松風
+TOKEN[346]: 0.0000765    1 oddity
+	oddity WORD[346,   1]: 0.0000765 一風
+TOKEN[347]: 0.0000761    1 censure
+	censure WORD[347,   1]: 0.0000761 八風
+TOKEN[348]: 0.0000755    1 traditional
+	traditional WORD[348,   1]: 0.0000252 風
+TOKEN[349]: 0.0000750    1 barbarous
+	barbarous WORD[349,   1]: 0.0000750 蛮風
+TOKEN[350]: 0.0000746    1 anemophilous
+	anemophilous WORD[350,   1]: 0.0000746 風媒
+TOKEN[351]: 0.0000745    1 woman
+	woman WORD[351,   1]: 0.0000248 風
+TOKEN[352]: 0.0000745    1 side
+	side WORD[352,   1]: 0.0000372 横風
+TOKEN[353]: 0.0000741    1 aerial
+	aerial WORD[353,   1]: 0.0000741 風葬
+TOKEN[354]: 0.0000740    1 demeanor
+	demeanor WORD[354,   1]: 0.0000740 風姿
+TOKEN[355]: 0.0000737    2 good
+	good WORD[355,   1]: 0.0000446 良風
+	good WORD[355,   2]: 0.0000291 美風
+TOKEN[356]: 0.0000737    1 lee
+	lee WORD[356,   1]: 0.0000737 風下
+TOKEN[357]: 0.0000730    1 bomb
+	bomb WORD[357,   1]: 0.0000730 爆風
+TOKEN[358]: 0.0000729    1 balmy
+	balmy WORD[358,   1]: 0.0000729 薫風
+TOKEN[359]: 0.0000727    1 flow
+	flow WORD[359,   1]: 0.0000727 風量
+TOKEN[360]: 0.0000723    1 suffering
+	suffering WORD[360,   1]: 0.0000723 八風
+TOKEN[361]: 0.0000722    1 kettle
+	kettle WORD[361,   1]: 0.0000722 松風
+TOKEN[362]: 0.0000721    2 feel
+	feel WORD[362,   1]: 0.0000360 風合
+	feel WORD[362,   2]: 0.0000360 風合い
+TOKEN[363]: 0.0000720    1 disposal
+	disposal WORD[363,   1]: 0.0000720 風葬
+TOKEN[364]: 0.0000720    1 volume
+	volume WORD[364,   1]: 0.0000720 風量
+TOKEN[365]: 0.0000719    1 prosperity
+	prosperity WORD[365,   1]: 0.0000719 八風
+TOKEN[366]: 0.0000718    1 abusive
+	abusive WORD[366,   1]: 0.0000718 弊風
+TOKEN[367]: 0.0000717    1 disgrace
+	disgrace WORD[367,   1]: 0.0000717 八風
+TOKEN[368]: 0.0000712    1 academic
+	academic WORD[368,   1]: 0.0000712 学風
+TOKEN[369]: 0.0000711    1 part
+	part WORD[369,   1]: 0.0000237 風
+TOKEN[370]: 0.0000708    1 downwind
+	downwind WORD[370,   1]: 0.0000708 風下
+TOKEN[371]: 0.0000707    2 climbing
+	climbing WORD[371,   1]: 0.0000354 風ぐるま
+	climbing WORD[371,   2]: 0.0000354 風車
+TOKEN[372]: 0.0000700    1 corrupt
+	corrupt WORD[372,   1]: 0.0000700 弊風
+TOKEN[373]: 0.0000699    1 paradise
+	paradise WORD[373,   1]: 0.0000699 風鳥
+TOKEN[374]: 0.0000698    1 enlightenment
+	enlightenment WORD[374,   1]: 0.0000698 八風
+TOKEN[375]: 0.0000694    1 pleasure
+	pleasure WORD[375,   1]: 0.0000694 八風
+TOKEN[376]: 0.0000692    1 explosion
+	explosion WORD[376,   1]: 0.0000692 爆風
+TOKEN[377]: 0.0000691    1 organ
+	organ WORD[377,   1]: 0.0000691 風琴
+TOKEN[378]: 0.0000683    1 strife
+	strife WORD[378,   1]: 0.0000683 波風
+TOKEN[379]: 0.0000677    1 honor
+	honor WORD[379,   1]: 0.0000677 八風
+TOKEN[380]: 0.0000677    2 showing
+	showing WORD[380,   1]: 0.0000338 風切
+	showing WORD[380,   2]: 0.0000338 風切り
+TOKEN[381]: 0.0000676    1 windstorm
+	windstorm WORD[381,   1]: 0.0000676 暴風
+TOKEN[382]: 0.0000671    1 peaceful
+	peaceful WORD[382,   1]: 0.0000671 無風
+TOKEN[383]: 0.0000665    1 alive
+	alive WORD[383,   1]: 0.0000665 風樹
+TOKEN[384]: 0.0000663    1 safe
+	safe WORD[384,   1]: 0.0000663 無風
+TOKEN[385]: 0.0000663    1 stable
+	stable WORD[385,   1]: 0.0000663 無風
+TOKEN[386]: 0.0000660    1 flurry
+	flurry WORD[386,   1]: 0.0000660 風花
+TOKEN[387]: 0.0000659    1 decline
+	decline WORD[387,   1]: 0.0000659 八風
+TOKEN[388]: 0.0000657    1 weathering
+	weathering WORD[388,   1]: 0.0000657 風化
+TOKEN[389]: 0.0000651    2 fair
+	fair WORD[389,   1]: 0.0000326 追い風
+	fair WORD[389,   2]: 0.0000326 追風
+TOKEN[390]: 0.0000649    1 violent
+	violent WORD[390,   1]: 0.0000649 烈風
+TOKEN[391]: 0.0000648    1 frost
+	frost WORD[391,   1]: 0.0000648 風霜
+TOKEN[392]: 0.0000642    2 tile
+	tile WORD[392,   1]: 0.0000321 風切
+	tile WORD[392,   2]: 0.0000321 風切り
+TOKEN[393]: 0.0000641    2 flight
+	flight WORD[393,   1]: 0.0000320 風切
+	flight WORD[393,   2]: 0.0000320 風切り
+TOKEN[394]: 0.0000638    1 regret
+	regret WORD[394,   1]: 0.0000638 風樹
+TOKEN[395]: 0.0000638    1 praise
+	praise WORD[395,   1]: 0.0000638 八風
+TOKEN[396]: 0.0000636    1 beach
+	beach WORD[396,   1]: 0.0000636 浜風
+TOKEN[397]: 0.0000635    1 shock
+	shock WORD[397,   1]: 0.0000635 爆風
+TOKEN[398]: 0.0000626    2 paper
+	paper WORD[398,   1]: 0.0000313 風合
+	paper WORD[398,   2]: 0.0000313 風合い
+TOKEN[399]: 0.0000625    1 majesty
+	majesty WORD[399,   1]: 0.0000625 威風
+TOKEN[400]: 0.0000624    1 pine
+	pine WORD[400,   1]: 0.0000624 松風
+TOKEN[401]: 0.0000624    1 adversity
+	adversity WORD[401,   1]: 0.0000624 風波
+TOKEN[402]: 0.0000621    1 immorality
+	immorality WORD[402,   1]: 0.0000621 淫風
+TOKEN[403]: 0.0000617    1 guest
+	guest WORD[403,   1]: 0.0000617 風来
+TOKEN[404]: 0.0000615    1 peculiarity
+	peculiarity WORD[404,   1]: 0.0000615 一風
+TOKEN[405]: 0.0000613    2 criticism
+	criticism WORD[405,   1]: 0.0000306 風当たり
+	criticism WORD[405,   2]: 0.0000306 風当り
+TOKEN[406]: 0.0000612    1 south
+	south WORD[406,   1]: 0.0000612 南風
+TOKEN[407]: 0.0000608    1 eccentricity
+	eccentricity WORD[407,   1]: 0.0000608 一風
+TOKEN[408]: 0.0000606    2 room
+	room WORD[408,   1]: 0.0000346 風呂
+	room WORD[408,   2]: 0.0000260 風戸
+TOKEN[409]: 0.0000605    1 draft
+	draft WORD[409,   1]: 0.0000605 通風
+TOKEN[410]: 0.0000604    1 ballad
+	ballad WORD[410,   1]: 0.0000604 国風
+TOKEN[411]: 0.0000598    2 severe
+	severe WORD[411,   1]: 0.0000299 風当たり
+	severe WORD[411,   2]: 0.0000299 風当り
+TOKEN[412]: 0.0000597    3 one
+	one WORD[412,   1]: 0.0000251 風樹
+	one WORD[412,   2]: 0.0000210 家風
+	one WORD[412,   3]: 0.0000136 棋風
+TOKEN[413]: 0.0000597    1 outdoor
+	outdoor WORD[413,   1]: 0.0000597 風の子
+TOKEN[414]: 0.0000587    1 hoarse
+	hoarse WORD[414,   1]: 0.0000587 風邪声
+TOKEN[415]: 0.0000586    1 seat
+	seat WORD[415,   1]: 0.0000586 無風
+TOKEN[416]: 0.0000586    1 lewd
+	lewd WORD[416,   1]: 0.0000586 淫風
+TOKEN[417]: 0.0000586    2 thought
+	thought WORD[417,   1]: 0.0000294 学風
+	thought WORD[417,   2]: 0.0000292 神風
+TOKEN[418]: 0.0000585    1 spade
+	spade WORD[418,   1]: 0.0000585 風呂
+TOKEN[419]: 0.0000585    2 family
+	family WORD[419,   1]: 0.0000364 家風
+	family WORD[419,   2]: 0.0000221 内風呂
+TOKEN[420]: 0.0000582    1 right
+	right WORD[420,   1]: 0.0000582 正風
+TOKEN[421]: 0.0000579    2 roof
+	roof WORD[421,   1]: 0.0000289 風切
+	roof WORD[421,   2]: 0.0000289 風切り
+TOKEN[422]: 0.0000576    1 topography
+	topography WORD[422,   1]: 0.0000576 風土
+TOKEN[423]: 0.0000575    1 reform
+	reform WORD[423,   1]: 0.0000575 矯風
+TOKEN[424]: 0.0000572    1 fever
+	fever WORD[424,   1]: 0.0000572 風花
+TOKEN[425]: 0.0000569    1 district
+	district WORD[425,   1]: 0.0000569 風来
+TOKEN[426]: 0.0000569    1 vice
+	vice WORD[426,   1]: 0.0000569 悪風
+TOKEN[427]: 0.0000567    1 dust
+	dust WORD[427,   1]: 0.0000567 風塵
+TOKEN[428]: 0.0000566    2 condition
+	condition WORD[428,   1]: 0.0000283 追い風
+	condition WORD[428,   2]: 0.0000283 追風
+TOKEN[429]: 0.0000566    2 boat
+	boat WORD[429,   1]: 0.0000283 風切
+	boat WORD[429,   2]: 0.0000283 風切り
+TOKEN[430]: 0.0000564    1 practice
+	practice WORD[430,   1]: 0.0000564 弊風
+TOKEN[431]: 0.0000563    1 quiet
+	quiet WORD[431,   1]: 0.0000563 無風
+TOKEN[432]: 0.0000563    1 fading
+	fading WORD[432,   1]: 0.0000563 風化
+TOKEN[433]: 0.0000561    1 pressure
+	pressure WORD[433,   1]: 0.0000561 風圧
+TOKEN[434]: 0.0000561    1 hoe
+	hoe WORD[434,   1]: 0.0000561 風呂
+TOKEN[435]: 0.0000559    1 dress
+	dress WORD[435,   1]: 0.0000559 風体
+TOKEN[436]: 0.0000559    1 weight
+	weight WORD[436,   1]: 0.0000559 風鎮
+TOKEN[437]: 0.0000556    1 waka
+	waka WORD[437,   1]: 0.0000556 国風
+TOKEN[438]: 0.0000556    1 eaves
+	eaves WORD[438,   1]: 0.0000556 風鐸
+TOKEN[439]: 0.0000553    1 subordinate
+	subordinate WORD[439,   1]: 0.0000553 下風
+TOKEN[440]: 0.0000553    1 bay
+	bay WORD[440,   1]: 0.0000553 風草
+TOKEN[441]: 0.0000553    1 hereditary
+	hereditary WORD[441,   1]: 0.0000553 遺風
+TOKEN[442]: 0.0000545    1 level
+	level WORD[442,   1]: 0.0000545 風力
+TOKEN[443]: 0.0000544    1 bronze
+	bronze WORD[443,   1]: 0.0000544 風鐸
+TOKEN[444]: 0.0000544    1 door
+	door WORD[444,   1]: 0.0000544 風戸
+TOKEN[445]: 0.0000542    1 ceremony
+	ceremony WORD[445,   1]: 0.0000542 松風
+TOKEN[446]: 0.0000537    1 gust
+	gust WORD[446,   1]: 0.0000537 突風
+TOKEN[447]: 0.0000537    2 round
+	round WORD[447,   1]: 0.0000268 風切
+	round WORD[447,   2]: 0.0000268 風切り
+TOKEN[448]: 0.0000535    1 scenic
+	scenic WORD[448,   1]: 0.0000535 風致
+TOKEN[449]: 0.0000534    1 dignity
+	dignity WORD[449,   1]: 0.0000534 威風
+TOKEN[450]: 0.0000531    1 provincial
+	provincial WORD[450,   1]: 0.0000531 国風
+TOKEN[451]: 0.0000531    1 bird
+	bird WORD[451,   1]: 0.0000531 風鳥
+TOKEN[452]: 0.0000529    2 plant
+	plant WORD[452,   1]: 0.0000265 風ぐるま
+	plant WORD[452,   2]: 0.0000265 風車
+TOKEN[453]: 0.0000528    1 leaves
+	leaves WORD[453,   1]: 0.0000528 葉風
+TOKEN[454]: 0.0000526    1 valley
+	valley WORD[454,   1]: 0.0000526 谷風
+TOKEN[455]: 0.0000524    1 scattered
+	scattered WORD[455,   1]: 0.0000524 風花
+TOKEN[456]: 0.0000523    1 pattern
+	pattern WORD[456,   1]: 0.0000523 風紋
+TOKEN[457]: 0.0000519    1 wrapper
+	wrapper WORD[457,   1]: 0.0000519 風呂敷
+TOKEN[458]: 0.0000517    1 tea
+	tea WORD[458,   1]: 0.0000517 松風
+TOKEN[459]: 0.0000514    1 classical
+	classical WORD[459,   1]: 0.0000514 国風
+TOKEN[460]: 0.0000514    1 noble
+	noble WORD[460,   1]: 0.0000514 高風
+TOKEN[461]: 0.0000513    1 urbanity
+	urbanity WORD[461,   1]: 0.0000513 京風
+TOKEN[462]: 0.0000513    1 quarrel
+	quarrel WORD[462,   1]: 0.0000513 風波
+TOKEN[463]: 0.0000512    1 power
+	power WORD[463,   1]: 0.0000512 風力
+TOKEN[464]: 0.0000507    1 tunnel
+	tunnel WORD[464,   1]: 0.0000507 風洞
+TOKEN[465]: 0.0000507    1 governing
+	governing WORD[465,   1]: 0.0000507 風紀
+TOKEN[466]: 0.0000501    1 upwind
+	upwind WORD[466,   1]: 0.0000501 風上
+TOKEN[467]: 0.0000500    1 slight
+	slight WORD[467,   1]: 0.0000500 風邪気
+TOKEN[468]: 0.0000499    1 force
+	force WORD[468,   1]: 0.0000499 風力
+TOKEN[469]: 0.0000498    1 grace
+	grace WORD[469,   1]: 0.0000498 風雅
+TOKEN[470]: 0.0000498    1 elegant
+	elegant WORD[470,   1]: 0.0000498 風雅
+TOKEN[471]: 0.0000489    1 four
+	four WORD[471,   1]: 0.0000489 風鐸
+TOKEN[472]: 0.0000487    1 unusual
+	unusual WORD[472,   1]: 0.0000487 異風
+TOKEN[473]: 0.0000481    1 opposed
+	opposed WORD[473,   1]: 0.0000481 国風
+TOKEN[474]: 0.0000481    1 national
+	national WORD[474,   1]: 0.0000481 国風
+TOKEN[475]: 0.0000476    1 archaic
+	archaic WORD[475,   1]: 0.0000476 古風
+TOKEN[476]: 0.0000474    1 kamikaze
+	kamikaze WORD[476,   1]: 0.0000474 神風
+TOKEN[477]: 0.0000473    1 indifferent
+	indifferent WORD[477,   1]: 0.0000473 風馬牛
+TOKEN[478]: 0.0000473    1 previous
+	previous WORD[478,   1]: 0.0000473 遺風
+TOKEN[479]: 0.0000462    1 spiritual
+	spiritual WORD[479,   1]: 0.0000462 風土
+TOKEN[480]: 0.0000460    1 characteristic
+	characteristic WORD[480,   1]: 0.0000460 風物
+TOKEN[481]: 0.0000458    1 tasteless
+	tasteless WORD[481,   1]: 0.0000458 殺風景
+TOKEN[482]: 0.0000458    1 monotonous
+	monotonous WORD[482,   1]: 0.0000458 殺風景
+TOKEN[483]: 0.0000458    1 landscape
+	landscape WORD[483,   1]: 0.0000458 風景
+TOKEN[484]: 0.0000457    1 sky
+	sky WORD[484,   1]: 0.0000457 風花
+TOKEN[485]: 0.0000455    1 lower
+	lower WORD[485,   1]: 0.0000455 下風
+TOKEN[486]: 0.0000454    1 look
+	look WORD[486,   1]: 0.0000454 風体
+TOKEN[487]: 0.0000454    1 body
+	body WORD[487,   1]: 0.0000454 風葬
+TOKEN[488]: 0.0000454    1 winter
+	winter WORD[488,   1]: 0.0000454 風花
+TOKEN[489]: 0.0000453    1 openness
+	openness WORD[489,   1]: 0.0000453 風通し
+TOKEN[490]: 0.0000453    1 respiratory
+	respiratory WORD[490,   1]: 0.0000453 風邪
+TOKEN[491]: 0.0000452    1 antiquated
+	antiquated WORD[491,   1]: 0.0000452 古風
+TOKEN[492]: 0.0000452    1 windward
+	windward WORD[492,   1]: 0.0000452 風上
+TOKEN[493]: 0.0000451    1 drying
+	drying WORD[493,   1]: 0.0000451 風呂
+TOKEN[494]: 0.0000447    1 tendency
+	tendency WORD[494,   1]: 0.0000447 風潮
+TOKEN[495]: 0.0000447    1 trend
+	trend WORD[495,   1]: 0.0000447 風潮
+TOKEN[496]: 0.0000443    1 song
+	song WORD[496,   1]: 0.0000443 国風
+TOKEN[497]: 0.0000440    1 ague
+	ague WORD[497,   1]: 0.0000440 風邪
+TOKEN[498]: 0.0000440    1 inflammatory
+	inflammatory WORD[498,   1]: 0.0000440 風邪
+TOKEN[499]: 0.0000438    1 gas
+	gas WORD[499,   1]: 0.0000438 風船
+TOKEN[500]: 0.0000437    1 entertainment
+	entertainment WORD[500,   1]: 0.0000437 風俗
+TOKEN[501]: 0.0000435    1 flavour
+	flavour WORD[501,   1]: 0.0000435 風味
+TOKEN[502]: 0.0000433    1 cause
+	cause WORD[502,   1]: 0.0000433 風花
+TOKEN[503]: 0.0000432    1 Mongolian
+	Mongolian WORD[503,   1]: 0.0000432 神風
+TOKEN[504]: 0.0000431    1 behavior
+	behavior WORD[504,   1]: 0.0000431 風紀
+TOKEN[505]: 0.0000430    1 discipline
+	discipline WORD[505,   1]: 0.0000430 風紀
+TOKEN[506]: 0.0000427    1 decoration
+	decoration WORD[506,   1]: 0.0000427 風船
+TOKEN[507]: 0.0000424    1 flavor
+	flavor WORD[507,   1]: 0.0000424 風味
+TOKEN[508]: 0.0000424    1 industry
+	industry WORD[508,   1]: 0.0000424 風俗
+TOKEN[509]: 0.0000422    1 new
+	new WORD[509,   1]: 0.0000422 新風
+TOKEN[510]: 0.0000421    1 skin
+	skin WORD[510,   1]: 0.0000421 風花
+TOKEN[511]: 0.0000420    1 voice
+	voice WORD[511,   1]: 0.0000420 風邪声
+TOKEN[512]: 0.0000417    1 charm
+	charm WORD[512,   1]: 0.0000417 風情
+TOKEN[513]: 0.0000415    1 clear
+	clear WORD[513,   1]: 0.0000415 風花
+TOKEN[514]: 0.0000415    1 antique
+	antique WORD[514,   1]: 0.0000415 古風
+TOKEN[515]: 0.0000412    1 particular
+	particular WORD[515,   1]: 0.0000412 風物
+TOKEN[516]: 0.0000410    1 blade
+	blade WORD[516,   1]: 0.0000410 風呂
+TOKEN[517]: 0.0000409    1 barren
+	barren WORD[517,   1]: 0.0000409 殺風景
+TOKEN[518]: 0.0000408    1 chimney
+	chimney WORD[518,   1]: 0.0000408 風戸
+TOKEN[519]: 0.0000407    1 joint
+	joint WORD[519,   1]: 0.0000407 風呂
+TOKEN[520]: 0.0000406    1 bad
+	bad WORD[520,   1]: 0.0000406 悪風
+TOKEN[521]: 0.0000405    1 bleak
+	bleak WORD[521,   1]: 0.0000405 殺風景
+TOKEN[522]: 0.0000402    1 handle
+	handle WORD[522,   1]: 0.0000402 風呂
+TOKEN[523]: 0.0000401    1 home
+	home WORD[523,   1]: 0.0000401 家風
+TOKEN[524]: 0.0000401    1 author
+	author WORD[524,   1]: 0.0000401 作風
+TOKEN[525]: 0.0000400    1 sight
+	sight WORD[525,   1]: 0.0000400 風景
+TOKEN[526]: 0.0000398    1 social
+	social WORD[526,   1]: 0.0000398 風紀
+TOKEN[527]: 0.0000396    1 certain
+	certain WORD[527,   1]: 0.0000396 風物
+TOKEN[528]: 0.0000395    1 crime
+	crime WORD[528,   1]: 0.0000395 風景
+TOKEN[529]: 0.0000393    1 current
+	current WORD[529,   1]: 0.0000393 風潮
+TOKEN[530]: 0.0000391    1 salty
+	salty WORD[530,   1]: 0.0000391 潮風
+TOKEN[531]: 0.0000389    1 temple
+	temple WORD[531,   1]: 0.0000389 風鐸
+TOKEN[532]: 0.0000387    1 dreary
+	dreary WORD[532,   1]: 0.0000387 殺風景
+TOKEN[533]: 0.0000384    1 region
+	region WORD[533,   1]: 0.0000384 風物
+TOKEN[534]: 0.0000383    1 swift
+	swift WORD[534,   1]: 0.0000383 疾風
+TOKEN[535]: 0.0000375    1 invasion
+	invasion WORD[535,   1]: 0.0000375 神風
+TOKEN[536]: 0.0000372    1 artist
+	artist WORD[536,   1]: 0.0000372 作風
+TOKEN[537]: 0.0000371    1 base
+	base WORD[537,   1]: 0.0000371 風呂
+TOKEN[538]: 0.0000368    1 unrefined
+	unrefined WORD[538,   1]: 0.0000368 殺風景
+TOKEN[539]: 0.0000365    1 handwriting
+	handwriting WORD[539,   1]: 0.0000365 書風
+TOKEN[540]: 0.0000365    1 calligraphy
+	calligraphy WORD[540,   1]: 0.0000365 書風
+TOKEN[541]: 0.0000364    1 fine
+	fine WORD[541,   1]: 0.0000364 美風
+TOKEN[542]: 0.0000363    1 indoor
+	indoor WORD[542,   1]: 0.0000363 内風呂
+TOKEN[543]: 0.0000359    1 cloth
+	cloth WORD[543,   1]: 0.0000359 風呂敷
+TOKEN[544]: 0.0000358    1 view
+	view WORD[544,   1]: 0.0000358 風景
+TOKEN[545]: 0.0000358    1 service
+	service WORD[545,   1]: 0.0000358 風俗
+TOKEN[546]: 0.0000356    1 century
+	century WORD[546,   1]: 0.0000356 神風
+TOKEN[547]: 0.0000356    1 communication
+	communication WORD[547,   1]: 0.0000356 風通し
+TOKEN[548]: 0.0000341    1 temper
+	temper WORD[548,   1]: 0.0000341 風向き
+TOKEN[549]: 0.0000329    1 acting
+	acting WORD[549,   1]: 0.0000329 芸風
+TOKEN[550]: 0.0000325    1 broken
+	broken WORD[550,   1]: 0.0000325 風折れ
+TOKEN[551]: 0.0000323    1 shogi
+	shogi WORD[551,   1]: 0.0000323 棋風
+TOKEN[552]: 0.0000313    1 people
+	people WORD[552,   1]: 0.0000313 風情
+TOKEN[553]: 0.0000311    1 salt
+	salt WORD[553,   1]: 0.0000311 潮風
+TOKEN[554]: 0.0000308    1 divine
+	divine WORD[554,   1]: 0.0000308 神風
+TOKEN[555]: 0.0000307    1 mood
+	mood WORD[555,   1]: 0.0000307 風向き
+TOKEN[556]: 0.0000305    1 driving
+	driving WORD[556,   1]: 0.0000305 雨風
+TOKEN[557]: 0.0000302    1 moon
+	moon WORD[557,   1]: 0.0000302 風月
+TOKEN[558]: 0.0000299    1 painting
+	painting WORD[558,   1]: 0.0000299 画風
+TOKEN[559]: 0.0000294    1 method
+	method WORD[559,   1]: 0.0000294 学風
+TOKEN[560]: 0.0000294    1 study
+	study WORD[560,   1]: 0.0000294 学風
+TOKEN[561]: 0.0000288    1 bright
+	bright WORD[561,   1]: 0.0000288 風月
+TOKEN[562]: 0.0000286    1 general
+	general WORD[562,   1]: 0.0000286 風邪
+TOKEN[563]: 0.0000273    1 system
+	system WORD[563,   1]: 0.0000273 風邪
+TOKEN[564]: 0.0000270    1 morning
+	morning WORD[564,   1]: 0.0000270 朝風呂
+TOKEN[565]: 0.0000252    1 Japan
+	Japan WORD[565,   1]: 0.0000252 神風
+TOKEN[566]: 0.0000252    1 high
+	high WORD[566,   1]: 0.0000252 強風
+TOKEN[567]: 0.0000245    1 use
+	use WORD[567,   1]: 0.0000245 内風呂
+TOKEN[568]: 0.0000241    1 work
+	work WORD[568,   1]: 0.0000241 作風
+TOKEN[569]: 0.0000232    1 fall
+	fall WORD[569,   1]: 0.0000232 秋風

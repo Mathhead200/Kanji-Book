@@ -1,0 +1,427 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1749898   11 joint          : 共営, 共作, 共創, 共訳, 共著, 共催, 共倒れ, 共編, 共立, 共有, ...
+0.1365329    1 management     : 共営
+0.0342700    1 stopper        : 共栓
+0.0268844    4 communal       : 共食, 公共, 共用, 共同
+0.0213169    2 community      : 共聴, 共同
+0.0159728    3 collaboration  : 共作, 共同, 共著
+0.0159026    2 colour         : 共色, 共紙
+0.0154131    5 mutual         : 共助, 共倒れ, 共通, 共済, 共栄
+0.0134628    6 common         : 共通, 共益, 共立, 共用, 共同, 共闘
+0.0131912    1 translation    : 共訳
+0.0124032    1 paper          : 共紙
+0.0123622    1 former         : 勝共
+0.0120756    1 eating         : 共食
+0.0115030    1 group          : 勝共
+0.0107787    2 material       : 共紙, 共裏
+0.0104984    2 growing        : 共創, 共白髪
+0.0101903    1 eutectic       : 共晶
+0.0091356    1 point          : 共晶
+0.0089256    1 Chinese        : 中共
+0.0085735    1 sacrificial    : 共食
+0.0085628    1 color          : 共色
+0.0081436    2 cloth          : 共切れ, 共布
+0.0081016    2 communism      : 容共, 共産
+0.0080501    3 coexistence    : 共存, 共棲, 共生
+0.0074448    1 dining         : 共食
+0.0073049    1 melting        : 共晶
+0.0070309    2 conjugation    : 共役, 共軛
+0.0069219    1 couple         : 共白髪
+0.0067635    1 competition    : 共食い
+0.0066035    1 type           : 共紙
+0.0065512    1 kimono         : 共裏
+0.0063922    1 carried        : 共訳
+0.0061977    3 living         : 共稼ぎ, 共棲, 共生
+0.0061784    2 use            : 共用, 共同
+0.0061704    2 paragenesis    : 共棲, 共生
+0.0061692    2 coeducation    : 共修, 共学
+0.0061646    1 anticommunist  : 防共
+0.0061439    1 development    : 共創
+0.0060707    2 work           : 共作, 共著
+0.0059538    2 symbiosis      : 共棲, 共生
+0.0058218    2 acting         : 共同, 共演
+0.0057930    1 meal           : 共食
+0.0057462    1 god            : 共食
+0.0056795    2 struggle       : 共食い, 共闘
+0.0056715    1 cannibalization: 共食い
+0.0055619    2 husband        : 共稼ぎ, 共働き
+0.0054303    2 complicity     : 共謀, 共犯
+0.0052827    3 company        : 共々, 共共, 三共
+0.0051374    2 aid            : 共助, 共済
+0.0051009    1 selling        : 共販
+0.0050985    2 wife           : 共稼ぎ, 共働き
+0.0050910    1 old            : 共白髪
+0.0050593    2 resonance      : 共鳴, 共振
+0.0048718    1 editorship     : 共編
+0.0048412    1 internecine    : 共食い
+0.0048412    1 cannibalism    : 共食い
+0.0048002    1 unison         : 共同
+0.0047698    1 suicidal       : 共食い
+0.0047535    2 spare          : 共切れ, 共布
+0.0047528    2 Japanese       : 日共, 三共
+0.0047366    1 food           : 共食
+0.0046892    1 partnership    : 共同
+0.0044167    1 betrothal      : 共白髪
+0.0043895    1 family         : 共食
+0.0043321    1 neckband       : 共襟
+0.0042607    1 earning        : 共稼ぎ
+0.0042187    1 bankruptcy     : 共倒れ
+0.0041931    1 acceptance     : 容共
+0.0041735    1 possession     : 共同
+0.0041243    2 sympathy       : 共鳴, 共感
+0.0039180    1 feeding        : 共食い
+0.0039138    2 public         : 共益, 公共
+0.0038817    1 association    : 共同
+0.0038777    1 harmful        : 共食い
+0.0038219    1 coaction       : 共働
+0.0037901    1 destruction    : 共倒れ
+0.0037821    1 hemp           : 共白髪
+0.0037742    1 lining         : 共裏
+0.0037705    2 working        : 共働き, 共和
+0.0036461    1 person         : 共訳
+0.0034977    1 conflict       : 共食い
+0.0034270    1 sleeping       : 共寝
+0.0034197    1 thread         : 共白髪
+0.0032434    1 benefit        : 共益
+0.0032188    1 falling        : 共倒れ
+0.0031961    1 gift           : 共白髪
+0.0028409    1 republicanism  : 共和
+0.0028406    1 authorship     : 共著
+0.0028397    1 empathy        : 共感
+0.0027821    1 help           : 共助
+0.0027818    1 white          : 共白髪
+0.0027563    1 hair           : 共白髪
+0.0027501    1 hosting        : 共催
+0.0027117    1 dual           : 共働き
+0.0026613    1 pharmaceutical : 三共
+0.0026489    1 one            : 共訳
+0.0026061    1 sponsorship    : 共催
+0.0025472    1 collusion      : 共謀
+0.0024983    1 united         : 共闘
+0.0024324    1 sympathetic    : 共振
+0.0024324    1 vibration      : 共振
+0.0024107    1 conspiracy     : 共謀
+0.0023992    1 concert        : 共演
+0.0023532    1 viewpoint      : 共有
+0.0023286    1 ownership      : 共有
+0.0022333    1 income         : 共働き
+0.0021715    1 identification : 共感
+0.0020891    1 prosperity     : 共栄
+0.0020709    1 good           : 共益
+0.0020531    1 sports         : 共演
+0.0020430    1 media          : 共有
+0.0020239    1 response       : 共感
+0.0019114    1 network        : 共有
+0.0018271    1 idea           : 共鳴
+0.0017875    1 event          : 共催
+0.0017477    1 film           : 共演
+0.0017406    1 match          : 共演
+0.0017303    1 view           : 共鳴
+0.0017245    1 social         : 共有
+0.0016792    1 front          : 共闘
+0.0016296    1 service        : 公共
+0.0016143    1 play           : 共演
+0.0011814    1 someone        : 共感
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1749898   11 joint
+	joint WORD[ 1,   1]: 0.1378971 共営
+	joint WORD[ 1,   2]: 0.0060911 共作
+	joint WORD[ 1,   3]: 0.0060882 共創
+	joint WORD[ 1,   4]: 0.0059579 共訳
+	joint WORD[ 1,   5]: 0.0036761 共著
+	joint WORD[ 1,   6]: 0.0036753 共催
+	joint WORD[ 1,   7]: 0.0031873 共倒れ
+	joint WORD[ 1,   8]: 0.0029023 共編
+	joint WORD[ 1,   9]: 0.0018382 共立
+	joint WORD[ 1,  10]: 0.0018382 共有
+	joint WORD[ 1,  11]: 0.0018381 共闘
+TOKEN[ 2]: 0.1365329    1 management
+	management WORD[ 2,   1]: 0.1365329 共営
+TOKEN[ 3]: 0.0342700    1 stopper
+	stopper WORD[ 3,   1]: 0.0342700 共栓
+TOKEN[ 4]: 0.0268844    4 communal
+	communal WORD[ 4,   1]: 0.0165665 共食
+	communal WORD[ 4,   2]: 0.0026212 公共
+	communal WORD[ 4,   3]: 0.0025657 共用
+	communal WORD[ 4,   4]: 0.0025655 共同
+TOKEN[ 5]: 0.0213169    2 community
+	community WORD[ 5,   1]: 0.0172677 共聴
+	community WORD[ 5,   2]: 0.0020246 共同
+TOKEN[ 6]: 0.0159728    3 collaboration
+	collaboration WORD[ 6,   1]: 0.0083833 共作
+	collaboration WORD[ 6,   2]: 0.0025298 共同
+	collaboration WORD[ 6,   3]: 0.0025298 共著
+TOKEN[ 7]: 0.0159026    2 colour
+	colour WORD[ 7,   1]: 0.0086939 共色
+	colour WORD[ 7,   2]: 0.0072087 共紙
+TOKEN[ 8]: 0.0154131    5 mutual
+	mutual WORD[ 8,   1]: 0.0061636 共助
+	mutual WORD[ 8,   2]: 0.0033884 共倒れ
+	mutual WORD[ 8,   3]: 0.0019540 共通
+	mutual WORD[ 8,   4]: 0.0019536 共済
+	mutual WORD[ 8,   5]: 0.0019533 共栄
+TOKEN[ 9]: 0.0134628    6 common
+	common WORD[ 9,   1]: 0.0031408 共通
+	common WORD[ 9,   2]: 0.0024697 共益
+	common WORD[ 9,   3]: 0.0015705 共立
+	common WORD[ 9,   4]: 0.0015705 共用
+	common WORD[ 9,   5]: 0.0015704 共同
+	common WORD[ 9,   6]: 0.0015704 共闘
+TOKEN[10]: 0.0131912    1 translation
+	translation WORD[10,   1]: 0.0131912 共訳
+TOKEN[11]: 0.0124032    1 paper
+	paper WORD[11,   1]: 0.0124032 共紙
+TOKEN[12]: 0.0123622    1 former
+	former WORD[12,   1]: 0.0123622 勝共
+TOKEN[13]: 0.0120756    1 eating
+	eating WORD[13,   1]: 0.0120756 共食
+TOKEN[14]: 0.0115030    1 group
+	group WORD[14,   1]: 0.0115030 勝共
+TOKEN[15]: 0.0107787    2 material
+	material WORD[15,   1]: 0.0076270 共紙
+	material WORD[15,   2]: 0.0031516 共裏
+TOKEN[16]: 0.0104984    2 growing
+	growing WORD[16,   1]: 0.0068909 共創
+	growing WORD[16,   2]: 0.0036075 共白髪
+TOKEN[17]: 0.0101903    1 eutectic
+	eutectic WORD[17,   1]: 0.0101903 共晶
+TOKEN[18]: 0.0091356    1 point
+	point WORD[18,   1]: 0.0091356 共晶
+TOKEN[19]: 0.0089256    1 Chinese
+	Chinese WORD[19,   1]: 0.0089256 中共
+TOKEN[20]: 0.0085735    1 sacrificial
+	sacrificial WORD[20,   1]: 0.0085735 共食
+TOKEN[21]: 0.0085628    1 color
+	color WORD[21,   1]: 0.0085628 共色
+TOKEN[22]: 0.0081436    2 cloth
+	cloth WORD[22,   1]: 0.0040718 共切れ
+	cloth WORD[22,   2]: 0.0040718 共布
+TOKEN[23]: 0.0081016    2 communism
+	communism WORD[23,   1]: 0.0053516 容共
+	communism WORD[23,   2]: 0.0027501 共産
+TOKEN[24]: 0.0080501    3 coexistence
+	coexistence WORD[24,   1]: 0.0026834 共存
+	coexistence WORD[24,   2]: 0.0026833 共棲
+	coexistence WORD[24,   3]: 0.0026833 共生
+TOKEN[25]: 0.0074448    1 dining
+	dining WORD[25,   1]: 0.0074448 共食
+TOKEN[26]: 0.0073049    1 melting
+	melting WORD[26,   1]: 0.0073049 共晶
+TOKEN[27]: 0.0070309    2 conjugation
+	conjugation WORD[27,   1]: 0.0035155 共役
+	conjugation WORD[27,   2]: 0.0035155 共軛
+TOKEN[28]: 0.0069219    1 couple
+	couple WORD[28,   1]: 0.0069219 共白髪
+TOKEN[29]: 0.0067635    1 competition
+	competition WORD[29,   1]: 0.0067635 共食い
+TOKEN[30]: 0.0066035    1 type
+	type WORD[30,   1]: 0.0066035 共紙
+TOKEN[31]: 0.0065512    1 kimono
+	kimono WORD[31,   1]: 0.0065512 共裏
+TOKEN[32]: 0.0063922    1 carried
+	carried WORD[32,   1]: 0.0063922 共訳
+TOKEN[33]: 0.0061977    3 living
+	living WORD[33,   1]: 0.0028782 共稼ぎ
+	living WORD[33,   2]: 0.0016597 共棲
+	living WORD[33,   3]: 0.0016597 共生
+TOKEN[34]: 0.0061784    2 use
+	use WORD[34,   1]: 0.0030893 共用
+	use WORD[34,   2]: 0.0015445 共同
+TOKEN[35]: 0.0061704    2 paragenesis
+	paragenesis WORD[35,   1]: 0.0030852 共棲
+	paragenesis WORD[35,   2]: 0.0030852 共生
+TOKEN[36]: 0.0061692    2 coeducation
+	coeducation WORD[36,   1]: 0.0030848 共修
+	coeducation WORD[36,   2]: 0.0030844 共学
+TOKEN[37]: 0.0061646    1 anticommunist
+	anticommunist WORD[37,   1]: 0.0061646 防共
+TOKEN[38]: 0.0061439    1 development
+	development WORD[38,   1]: 0.0061439 共創
+TOKEN[39]: 0.0060707    2 work
+	work WORD[39,   1]: 0.0046635 共作
+	work WORD[39,   2]: 0.0014072 共著
+TOKEN[40]: 0.0059538    2 symbiosis
+	symbiosis WORD[40,   1]: 0.0029769 共棲
+	symbiosis WORD[40,   2]: 0.0029769 共生
+TOKEN[41]: 0.0058218    2 acting
+	acting WORD[41,   1]: 0.0019409 共同
+	acting WORD[41,   2]: 0.0019401 共演
+TOKEN[42]: 0.0057930    1 meal
+	meal WORD[42,   1]: 0.0057930 共食
+TOKEN[43]: 0.0057462    1 god
+	god WORD[43,   1]: 0.0057462 共食
+TOKEN[44]: 0.0056795    2 struggle
+	struggle WORD[44,   1]: 0.0036022 共食い
+	struggle WORD[44,   2]: 0.0020773 共闘
+TOKEN[45]: 0.0056715    1 cannibalization
+	cannibalization WORD[45,   1]: 0.0056715 共食い
+TOKEN[46]: 0.0055619    2 husband
+	husband WORD[46,   1]: 0.0033227 共稼ぎ
+	husband WORD[46,   2]: 0.0022391 共働き
+TOKEN[47]: 0.0054303    2 complicity
+	complicity WORD[47,   1]: 0.0027152 共謀
+	complicity WORD[47,   2]: 0.0027151 共犯
+TOKEN[48]: 0.0052827    3 company
+	company WORD[48,   1]: 0.0018252 共々
+	company WORD[48,   2]: 0.0018252 共共
+	company WORD[48,   3]: 0.0016323 三共
+TOKEN[49]: 0.0051374    2 aid
+	aid WORD[49,   1]: 0.0031442 共助
+	aid WORD[49,   2]: 0.0019932 共済
+TOKEN[50]: 0.0051009    1 selling
+	selling WORD[50,   1]: 0.0051009 共販
+TOKEN[51]: 0.0050985    2 wife
+	wife WORD[51,   1]: 0.0030459 共稼ぎ
+	wife WORD[51,   2]: 0.0020526 共働き
+TOKEN[52]: 0.0050910    1 old
+	old WORD[52,   1]: 0.0050910 共白髪
+TOKEN[53]: 0.0050593    2 resonance
+	resonance WORD[53,   1]: 0.0025300 共鳴
+	resonance WORD[53,   2]: 0.0025293 共振
+TOKEN[54]: 0.0048718    1 editorship
+	editorship WORD[54,   1]: 0.0048718 共編
+TOKEN[55]: 0.0048412    1 internecine
+	internecine WORD[55,   1]: 0.0048412 共食い
+TOKEN[56]: 0.0048412    1 cannibalism
+	cannibalism WORD[56,   1]: 0.0048412 共食い
+TOKEN[57]: 0.0048002    1 unison
+	unison WORD[57,   1]: 0.0024001 共同
+TOKEN[58]: 0.0047698    1 suicidal
+	suicidal WORD[58,   1]: 0.0047698 共食い
+TOKEN[59]: 0.0047535    2 spare
+	spare WORD[59,   1]: 0.0023768 共切れ
+	spare WORD[59,   2]: 0.0023767 共布
+TOKEN[60]: 0.0047528    2 Japanese
+	Japanese WORD[60,   1]: 0.0035299 日共
+	Japanese WORD[60,   2]: 0.0012228 三共
+TOKEN[61]: 0.0047366    1 food
+	food WORD[61,   1]: 0.0047366 共食
+TOKEN[62]: 0.0046892    1 partnership
+	partnership WORD[62,   1]: 0.0023446 共同
+TOKEN[63]: 0.0044167    1 betrothal
+	betrothal WORD[63,   1]: 0.0044167 共白髪
+TOKEN[64]: 0.0043895    1 family
+	family WORD[64,   1]: 0.0043895 共食
+TOKEN[65]: 0.0043321    1 neckband
+	neckband WORD[65,   1]: 0.0043321 共襟
+TOKEN[66]: 0.0042607    1 earning
+	earning WORD[66,   1]: 0.0042607 共稼ぎ
+TOKEN[67]: 0.0042187    1 bankruptcy
+	bankruptcy WORD[67,   1]: 0.0042187 共倒れ
+TOKEN[68]: 0.0041931    1 acceptance
+	acceptance WORD[68,   1]: 0.0041931 容共
+TOKEN[69]: 0.0041735    1 possession
+	possession WORD[69,   1]: 0.0020867 共同
+TOKEN[70]: 0.0041243    2 sympathy
+	sympathy WORD[70,   1]: 0.0020625 共鳴
+	sympathy WORD[70,   2]: 0.0020617 共感
+TOKEN[71]: 0.0039180    1 feeding
+	feeding WORD[71,   1]: 0.0039180 共食い
+TOKEN[72]: 0.0039138    2 public
+	public WORD[72,   1]: 0.0023724 共益
+	public WORD[72,   2]: 0.0015413 公共
+TOKEN[73]: 0.0038817    1 association
+	association WORD[73,   1]: 0.0019409 共同
+TOKEN[74]: 0.0038777    1 harmful
+	harmful WORD[74,   1]: 0.0038777 共食い
+TOKEN[75]: 0.0038219    1 coaction
+	coaction WORD[75,   1]: 0.0038219 共働
+TOKEN[76]: 0.0037901    1 destruction
+	destruction WORD[76,   1]: 0.0037901 共倒れ
+TOKEN[77]: 0.0037821    1 hemp
+	hemp WORD[77,   1]: 0.0037821 共白髪
+TOKEN[78]: 0.0037742    1 lining
+	lining WORD[78,   1]: 0.0037742 共裏
+TOKEN[79]: 0.0037705    2 working
+	working WORD[79,   1]: 0.0020317 共働き
+	working WORD[79,   2]: 0.0017389 共和
+TOKEN[80]: 0.0036461    1 person
+	person WORD[80,   1]: 0.0036461 共訳
+TOKEN[81]: 0.0034977    1 conflict
+	conflict WORD[81,   1]: 0.0034977 共食い
+TOKEN[82]: 0.0034270    1 sleeping
+	sleeping WORD[82,   1]: 0.0034270 共寝
+TOKEN[83]: 0.0034197    1 thread
+	thread WORD[83,   1]: 0.0034197 共白髪
+TOKEN[84]: 0.0032434    1 benefit
+	benefit WORD[84,   1]: 0.0032434 共益
+TOKEN[85]: 0.0032188    1 falling
+	falling WORD[85,   1]: 0.0032188 共倒れ
+TOKEN[86]: 0.0031961    1 gift
+	gift WORD[86,   1]: 0.0031961 共白髪
+TOKEN[87]: 0.0028409    1 republicanism
+	republicanism WORD[87,   1]: 0.0028409 共和
+TOKEN[88]: 0.0028406    1 authorship
+	authorship WORD[88,   1]: 0.0028406 共著
+TOKEN[89]: 0.0028397    1 empathy
+	empathy WORD[89,   1]: 0.0028397 共感
+TOKEN[90]: 0.0027821    1 help
+	help WORD[90,   1]: 0.0027821 共助
+TOKEN[91]: 0.0027818    1 white
+	white WORD[91,   1]: 0.0027818 共白髪
+TOKEN[92]: 0.0027563    1 hair
+	hair WORD[92,   1]: 0.0027563 共白髪
+TOKEN[93]: 0.0027501    1 hosting
+	hosting WORD[93,   1]: 0.0027501 共催
+TOKEN[94]: 0.0027117    1 dual
+	dual WORD[94,   1]: 0.0027117 共働き
+TOKEN[95]: 0.0026613    1 pharmaceutical
+	pharmaceutical WORD[95,   1]: 0.0026613 三共
+TOKEN[96]: 0.0026489    1 one
+	one WORD[96,   1]: 0.0026489 共訳
+TOKEN[97]: 0.0026061    1 sponsorship
+	sponsorship WORD[97,   1]: 0.0026061 共催
+TOKEN[98]: 0.0025472    1 collusion
+	collusion WORD[98,   1]: 0.0025472 共謀
+TOKEN[99]: 0.0024983    1 united
+	united WORD[99,   1]: 0.0024983 共闘
+TOKEN[100]: 0.0024324    1 sympathetic
+	sympathetic WORD[100,   1]: 0.0024324 共振
+TOKEN[101]: 0.0024324    1 vibration
+	vibration WORD[101,   1]: 0.0024324 共振
+TOKEN[102]: 0.0024107    1 conspiracy
+	conspiracy WORD[102,   1]: 0.0024107 共謀
+TOKEN[103]: 0.0023992    1 concert
+	concert WORD[103,   1]: 0.0023992 共演
+TOKEN[104]: 0.0023532    1 viewpoint
+	viewpoint WORD[104,   1]: 0.0023532 共有
+TOKEN[105]: 0.0023286    1 ownership
+	ownership WORD[105,   1]: 0.0023286 共有
+TOKEN[106]: 0.0022333    1 income
+	income WORD[106,   1]: 0.0022333 共働き
+TOKEN[107]: 0.0021715    1 identification
+	identification WORD[107,   1]: 0.0021715 共感
+TOKEN[108]: 0.0020891    1 prosperity
+	prosperity WORD[108,   1]: 0.0020891 共栄
+TOKEN[109]: 0.0020709    1 good
+	good WORD[109,   1]: 0.0020709 共益
+TOKEN[110]: 0.0020531    1 sports
+	sports WORD[110,   1]: 0.0020531 共演
+TOKEN[111]: 0.0020430    1 media
+	media WORD[111,   1]: 0.0020430 共有
+TOKEN[112]: 0.0020239    1 response
+	response WORD[112,   1]: 0.0020239 共感
+TOKEN[113]: 0.0019114    1 network
+	network WORD[113,   1]: 0.0019114 共有
+TOKEN[114]: 0.0018271    1 idea
+	idea WORD[114,   1]: 0.0018271 共鳴
+TOKEN[115]: 0.0017875    1 event
+	event WORD[115,   1]: 0.0017875 共催
+TOKEN[116]: 0.0017477    1 film
+	film WORD[116,   1]: 0.0017477 共演
+TOKEN[117]: 0.0017406    1 match
+	match WORD[117,   1]: 0.0017406 共演
+TOKEN[118]: 0.0017303    1 view
+	view WORD[118,   1]: 0.0017303 共鳴
+TOKEN[119]: 0.0017245    1 social
+	social WORD[119,   1]: 0.0017245 共有
+TOKEN[120]: 0.0016792    1 front
+	front WORD[120,   1]: 0.0016792 共闘
+TOKEN[121]: 0.0016296    1 service
+	service WORD[121,   1]: 0.0016296 公共
+TOKEN[122]: 0.0016143    1 play
+	play WORD[122,   1]: 0.0016143 共演
+TOKEN[123]: 0.0011814    1 someone
+	someone WORD[123,   1]: 0.0011814 共感

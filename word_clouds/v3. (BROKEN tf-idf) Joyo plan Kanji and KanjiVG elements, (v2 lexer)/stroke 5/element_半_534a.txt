@@ -1,0 +1,1594 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1111111    1 obesity        : 肥胖
+0.0300399    2 whipping       : 撹拌, 攪拌
+0.0287113    2 agitation      : 撹拌, 攪拌
+0.0266868    2 stirring       : 撹拌, 攪拌
+0.0256731    2 beating        : 撹拌, 攪拌
+0.0229925    5 companion      : 侶伴, 伴星, 伴侶, 伴い, 伴
+0.0209295    3 connection     : 羈絆, 覊絆, 絆
+0.0183781    5 coat           : 袢天, 袢纏, 半天, 半纏, 半纒
+0.0173226    5 sky            : 袢天, 袢纏, 半天, 半纏, 半纒
+0.0170378    1 fetter         : 絆す
+0.0170378    1 shackle        : 絆す
+0.0166554    2 bond           : 羈絆, 覊絆
+0.0146234    2 ridge          : 畦畔, 畔道
+0.0145644    1 causeway       : 畦畔
+0.0128704    2 rebellious     : 叛臣, 叛骨
+0.0126127    1 pond           : 池畔
+0.0121210    1 bind           : 絆す
+0.0119560    5 livery         : 袢天, 袢纏, 半天, 半纏, 半纒
+0.0119112    4 rice           : 畦畔, 畔道, 半搗き, 半玉
+0.0113868    2 edge           : 池畔, 畔
+0.0113019   49 half           : 半里, 足半, 半歩, 半乾き, 半ぺら, 半返し, 半睡, 半盲, 東半, 北半, ...
+0.0108048    5 haori          : 袢天, 袢纏, 半天, 半纏, 半纒
+0.0104723    5 rebellion      : 叛意, 謀叛, 叛乱, 叛逆, 叛旗
+0.0102158    2 shore          : 湖畔, 畔
+0.0087291    1 retainer       : 叛臣
+0.0087287    7 middle         : 袢天, 袢纏, 月半ば, 半天, 半纏, 半纒, 半ば
+0.0083633    5 winter         : 袢天, 袢纏, 半天, 半纏, 半纒
+0.0078373    8 short          : 袢天, 袢纏, 半天, 半時, 半纏, 半纒, 半そで, 半袖
+0.0076895    1 undershirt     : 襦袢
+0.0074909    1 singlet        : 襦袢
+0.0073390    1 tether         : 絆
+0.0073015    5 traditional    : 袢天, 袢纏, 半天, 半纏, 半纒
+0.0064222    3 insurrection   : 謀叛, 叛乱, 叛逆
+0.0063587    7 size           : 中判, 判型, 判形, 菊判, 判, 小判, 大判
+0.0062660   14 paper          : 判型, 判形, 半ぺら, 菊判, 合い判, 相判, 間判, 合判, 判, 半切, ...
+0.0062114    2 worn           : 襦袢, 半臂
+0.0059082    1 emotional      : 絆
+0.0058643    3 revolt         : 謀叛, 叛乱, 叛旗
+0.0057410    7 judge          : 判者, 判士, 判ずる, 判じる, 判官, 判事, 審判
+0.0057200    1 bank           : 畔
+0.0057115    1 looking        : 半切れ
+0.0056300   11 seal           : 加判, 割り判, 割判, 判取り, 書き判, 書判, 印判, 連判, 判子, 判, ...
+0.0054013    1 link           : 絆
+0.0053955    1 approach       : 橋畔
+0.0052255    1 bridge         : 橋畔
+0.0051687    3 kimono         : 襦袢, 半衿, 半襟
+0.0049510    2 side           : 畔, 半面
+0.0048704    1 relationship   : 絆
+0.0048470    1 star           : 伴星
+0.0047617    2 hand           : 伴なう, 伴う
+0.0046222    2 mutiny         : 叛乱, 叛逆
+0.0045750    2 consequent     : 伴なう, 伴う
+0.0043089    2 treason        : 謀叛, 叛逆
+0.0041711    1 riverside      : 河畔
+0.0041582    1 footpath       : 畔道
+0.0038486    2 spirit         : 叛骨, 叛意
+0.0038108    1 people         : 絆
+0.0037853    9 used           : 判型, 判形, 合い判, 相判, 間判, 合判, 判子, 小判, 大判
+0.0037842    1 mutinous       : 叛軍
+0.0037565    1 furious        : 半切れ
+0.0037267    1 lake           : 湖畔
+0.0037208    1 disaffection   : 離叛
+0.0037208    1 breakaway      : 離叛
+0.0036114    2 accompaniment  : 伴奏, 伴い
+0.0035020    2 accompany      : 伴なう, 伴う
+0.0033932    1 defection      : 離叛
+0.0032721    2 involved       : 伴なう, 伴う
+0.0032063    1 desertion      : 離叛
+0.0031993    4 go             : 伴なう, 伴う, 叛く, 半周
+0.0031897    1 padre          : 伴天連
+0.0031490    1 raised         : 畔道
+0.0031224    1 estrangement   : 離叛
+0.0031043    1 alienation     : 離叛
+0.0030498    4 photo          : 合い判, 相判, 間判, 合判
+0.0030485    1 defiance       : 叛服
+0.0030216    1 disobedience   : 叛服
+0.0030216    1 obedience      : 叛服
+0.0029517    1 blow           : 半切れ
+0.0028641    1 nominal        : 伴食
+0.0028518    4 print          : 合い判, 相判, 間判, 合判
+0.0028201    1 compliance     : 叛服
+0.0027073    2 bring          : 伴なう, 伴う
+0.0026940    1 rebel          : 叛軍
+0.0026792    1 top            : 半切れ
+0.0025944    1 came           : 伴天連
+0.0025530    1 literary       : 判者
+0.0025305    1 Portuguese     : 伴天連
+0.0025305    1 Christianity   : 伴天連
+0.0024727    1 guest          : 伴食
+0.0024673    7 judgment       : 批判, 判定, 判断, 判決, 判, 審判, 裁判
+0.0024558    1 aristocratic   : 半臂
+0.0024323    7 one            : 半切れ, 志半ば, 血判, 半生, 半跏, 半面, 半ば
+0.0023337    2 official       : 伴食, 判官
+0.0022924    1 eating         : 伴食
+0.0022920    1 Christian      : 伴天連
+0.0022520    1 army           : 叛軍
+0.0022350    1 sleeveless     : 半臂
+0.0022205    4 puzzle         : 判ずる, 判じる, 判じ絵, 判じ物
+0.0022179    1 undergarment   : 半臂
+0.0022066    1 century        : 伴天連
+0.0022042    2 format         : 判型, 判形
+0.0021239    2 take           : 伴なう, 伴う
+0.0021148    1 adjoint        : 随伴
+0.0020936    1 title          : 伴天連
+0.0020557    2 publication    : 判型, 判形
+0.0020380    3 round          : 半荘, 半ドン, 半周
+0.0020292    1 treachery      : 叛逆
+0.0020066    1 Buddhist       : 伴僧
+0.0020040    2 sheet          : 判型, 判形
+0.0019944    1 south          : 半荘
+0.0019817    1 retinue        : 伴
+0.0019797    1 uprising       : 叛乱
+0.0019558    1 service        : 伴僧
+0.0019437    1 east           : 半荘
+0.0019117    1 infringe       : 叛く
+0.0018294    1 spouse         : 伴侶
+0.0017967    1 disobey        : 叛く
+0.0017957    1 partner        : 伴侶
+0.0017772    1 banner         : 叛旗
+0.0017587    1 follower       : 伴
+0.0017539    4 signature      : 書き判, 書判, 判子, 判
+0.0017338    1 entertain      : 接伴
+0.0016719    1 attendant      : 伴
+0.0016675    5 decision       : 論判, 判定, 判断, 判決, 審判
+0.0016274    2 superficial    : 半可通, 生半可
+0.0016260    1 musical        : 伴奏
+0.0015990    1 men            : 半臂
+0.0015803    1 photography    : 中判
+0.0015386    1 cabinet        : 中判
+0.0015039    1 attendance     : 随伴
+0.0014832    1 standard       : 叛旗
+0.0014806    1 medium         : 中判
+0.0014753    1 running        : 伴走
+0.0014394    1 Japan          : 伴天連
+0.0014010    1 following      : 随伴
+0.0013771    4 part           : 相伴, 過半, 一半, 半ば
+0.0013577    2 decipher       : 判ずる, 判じる
+0.0013572    3 something      : 相伴, 論判, 半間
+0.0012717    2 interpret      : 判ずる, 判じる
+0.0012640    2 solve          : 判ずる, 判じる
+0.0012496    2 taking         : 相伴, 半休
+0.0012412    2 adjacent       : 割り判, 割判
+0.0012156    1 going          : 同伴
+0.0011786    1 advocate       : 判士
+0.0011684    2 measure        : 半里, 半道
+0.0011629    2 decide         : 判ずる, 判じる
+0.0011293    1 run            : 叛く
+0.0011260    4 ticket         : 半ぺら, 半平, 半片, 半券
+0.0011210    3 stamp          : 印判, 判子, 判
+0.0011149    2 impression     : 割り判, 割判
+0.0011143    1 straw          : 足半
+0.0011069    4 stub           : 半ぺら, 半平, 半片, 半券
+0.0010590    2 guess          : 判ずる, 判じる
+0.0010098    1 distance       : 半里
+0.0010097    2 adjudication   : 判定, 判断
+0.0010036    2 oval           : 小判, 大判
+0.0009956    2 divine         : 判ずる, 判じる
+0.0009834    4 piece          : 半ぺら, 半切, 半截, 四半
+0.0009648    1 step           : 半歩
+0.0009512    1 leaving        : 志半ば
+0.0009485    3 incomplete     : 志半ば, 半端, 半間
+0.0009311    5 halfway        : 道半ば, 半道, 半途, 半端, 半ば
+0.0008901    1 knowledge      : 半可通
+0.0008459    1 someone        : 相伴
+0.0008198    3 verge          : 半べそ, 半ベソ, 半泣き
+0.0008141    1 sciolist       : 半可通
+0.0008141    1 smatterer      : 半可通
+0.0008081    3 calligraphy    : 半切, 半截, 半紙
+0.0008053    2 judicial       : 判例, 判決
+0.0007978    2 ruling         : 判定, 判示
+0.0007952    2 document       : 書き判, 書判
+0.0007890    3 alarm          : 擦り半, 擦半, 半鐘
+0.0007804    2 verdict        : 判定, 審判
+0.0007710    2 finding        : 判定, 判示
+0.0007525    4 fire           : 半鐘, 擦り半, 擦半, 半焼
+0.0007424    1 unfulfilled    : 志半ば
+0.0007360    2 written        : 書き判, 書判
+0.0007338    1 joint          : 連判
+0.0006881    1 erroneous      : 誤判
+0.0006871    1 designed       : 足半
+0.0006820    4 semicircle     : 半輪, 半周, 半月, 半円
+0.0006759    3 cutting        : 半切, 半截, 半裁
+0.0006719    2 foot           : 足半, 半跏
+0.0006695    3 done           : 半切, 半截, 半ば
+0.0006637    2 make           : 判ずる, 判じる
+0.0006610    1 dilettante     : 半可通
+0.0006532    1 consolatory    : 半返し
+0.0006488    1 smattering     : 半可通
+0.0006390    2 crying         : 半べそ, 半ベソ
+0.0006324    2 clear          : 判る, 判然
+0.0006230    2 sentence       : 判決, 審判
+0.0006226    1 misjudgment    : 誤判
+0.0006135    2 end            : 書き判, 書判
+0.0006134    1 misjudgement   : 誤判
+0.0006066    1 ambition       : 志半ば
+0.0006056    1 knowledgeable  : 半可通
+0.0006051    1 achieve        : 志半ば
+0.0006006    1 objective      : 志半ば
+0.0005984    1 miscarriage    : 誤判
+0.0005709    2 painting       : 半切, 半截
+0.0005692    1 monogram       : 判
+0.0005650    2 trial          : 裁判, 公判
+0.0005615    1 goal           : 志半ば
+0.0005600    1 person         : 半可通
+0.0005499    1 traveling      : 判取り
+0.0005384    2 coin           : 小判, 大判
+0.0005370    1 judiciary      : 判事
+0.0005351    3 odd            : 丁半, 半端, 半
+0.0005303    1 shallow        : 生半可
+0.0005289    1 celebratory    : 半返し
+0.0005281    2 know           : 判る, 半兵衛
+0.0005204    2 book           : 菊判, 大判
+0.0005204    2 making         : 判読, 談判
+0.0005186    2 gold           : 小判, 大判
+0.0005183    1 decipherment   : 判読
+0.0005116    2 small          : 小判, 半弓
+0.0005095    1 sixth          : 半ドン
+0.0004978    1 unable         : 志半ば
+0.0004950    1 notoriety      : 評判
+0.0004946    1 proving        : 判明
+0.0004929    1 blood          : 血判
+0.0004890    1 comprehend     : 判る
+0.0004890    1 magistrate     : 判官
+0.0004848    1 front          : 足半
+0.0004824    2 public         : 評判, 公判
+0.0004822    1 discovered     : 判る
+0.0004788    1 justice        : 誤判
+0.0004727    1 confirming     : 判明
+0.0004670    1 lieu           : 判子
+0.0004572    2 midway         : 道半ば, 半ば
+0.0004565    1 picture        : 判じ絵
+0.0004538    1 distinguishing : 判別
+0.0004496    3 period         : 小判, 大判, 半期
+0.0004488    2 game           : 半ドン, 丁半
+0.0004484    1 comprehension  : 判り
+0.0004462    1 asleep         : 半睡
+0.0004433    1 getting        : 判取り
+0.0004309    2 Edo            : 小判, 大判
+0.0004299    1 riddle         : 判じ物
+0.0004263    1 koban          : 小判
+0.0004201    1 rare           : 半焼け
+0.0004195    1 decree         : 判決
+0.0004178    2 month          : 月半ば, 半月
+0.0004172    1 estimation     : 評判
+0.0004160    1 distinct       : 判然
+0.0004140    1 inspector      : 判官
+0.0004126    1 grasp          : 判る
+0.0004114    1 known          : 判る
+0.0004104    1 dry            : 半乾き
+0.0004092    1 large          : 大判
+0.0004068    1 discernment    : 判別
+0.0004054    1 precedent      : 判例
+0.0004033    3 day            : 半夏, 半休, 半日
+0.0004026    1 evident        : 判然
+0.0004020    2 unfinished     : 半途, 半間
+0.0004006    1 found          : 判る
+0.0003988    1 quarrel        : 論判
+0.0003977    1 chop           : 判子
+0.0003957    1 dispute        : 論判
+0.0003935    1 eastern        : 東半
+0.0003928    1 blind          : 半盲
+0.0003923    1 definite       : 判然
+0.0003902    1 gift           : 半返し
+0.0003897    1 umpire         : 審判
+0.0003888    1 elliptical     : 小判
+0.0003856    1 distinction    : 判別
+0.0003844    1 fame           : 評判
+0.0003823    1 follow         : 判る
+0.0003797    1 discrimination : 判別
+0.0003795    1 comment        : 批判
+0.0003781    1 identification : 判読
+0.0003774    1 interpretation : 判読
+0.0003759    1 divination     : 判断
+0.0003752    1 understanding  : 判り
+0.0003738    1 assistant      : 判官
+0.0003733    1 northern       : 北半
+0.0003733    1 grade          : 判官
+0.0003717    1 popularity     : 評判
+0.0003690    1 think          : 判る
+0.0003682    1 understand     : 判る
+0.0003667    1 rumor          : 評判
+0.0003651    1 argument       : 論判
+0.0003642    2 slice          : 半平, 半片
+0.0003636    1 wrong          : 論判
+0.0003589    1 sealing        : 血判
+0.0003588    2 length         : 半道, 半身
+0.0003575    1 officer        : 判官
+0.0003517    1 see            : 判る
+0.0003496    1 reputation     : 評判
+0.0003487    1 referee        : 審判
+0.0003485    1 criticism      : 批判
+0.0003452    3 cloth          : 半巾, 半幅, 四半
+0.0003448    1 conclusion     : 判断
+0.0003378    1 district       : 判官
+0.0003374    2 warn           : 擦り半, 擦半
+0.0003308    2 ringing        : 擦り半, 擦半
+0.0003297    1 dice           : 丁半
+0.0003286    1 town           : 評判
+0.0003215    1 holding        : 判示
+0.0003189    1 portion        : 半玉
+0.0003168    1 right          : 論判
+0.0003159    2 midnight       : 半夜, 夜半
+0.0003156    3 amount         : 半金, 半量, 半額
+0.0003117    2 face           : 半顔, 半面
+0.0003076    1 life           : 半生
+0.0002998    2 cake           : 半平, 半片
+0.0002960    1 talk           : 評判
+0.0002951    1 God            : 審判
+0.0002948    1 fried          : 半玉
+0.0002930    1 become         : 判る
+0.0002912    2 produced       : 擦り半, 擦半
+0.0002911    1 hearing        : 公判
+0.0002905    1 call           : 判定
+0.0002774    1 ball           : 半玉
+0.0002754    1 province       : 半国
+0.0002712    1 hour           : 半時
+0.0002608    1 system         : 判官
+0.0002506    1 semicivilized  : 半開
+0.0002446    2 unit           : 有半, 半
+0.0002379    1 lifetime       : 半生
+0.0002318    2 sound          : 擦り半, 擦半
+0.0002312    2 partial        : 半焼, 半壊
+0.0002307    2 destruction    : 半焼, 半壊
+0.0002283    1 Andrias        : 半裂
+0.0002259    1 complete       : 道半ば
+0.0002222    1 quad           : 半角
+0.0002217    1 minute         : 半分
+0.0002214    2 fish           : 半平, 半片
+0.0002180    1 idiot          : 半間
+0.0002140    1 tuber          : 半夏
+0.0002139    1 en             : 半角
+0.0002132    2 open           : 半開, 半開き
+0.0002112    1 grizzled       : 半白
+0.0002108    1 dipper         : 半夏
+0.0002061    1 grayish        : 半白
+0.0002045    1 feigned        : 半兵衛
+0.0002031    1 insufficiency  : 半可
+0.0001982    1 solstice       : 半夏
+0.0001940    1 salamander     : 半裂
+0.0001927    1 duration       : 半季
+0.0001880    1 ripe           : 半可
+0.0001850    1 mediocre       : 生半
+0.0001848    1 ignorance      : 半兵衛
+0.0001795    2 Japanese       : 半紙, 半裂
+0.0001774    1 uncertain      : 生半
+0.0001765    1 thrown         : 丁半
+0.0001756    1 thigh          : 半跏
+0.0001736    1 lotus          : 半跏
+0.0001732    1 crow           : 半夏
+0.0001726    1 hissing        : 半畳
+0.0001726    1 hemicycle      : 半周
+0.0001713    2 price          : 半値, 半額
+0.0001706    1 bet            : 丁半
+0.0001675    1 posture        : 半跏
+0.0001619    2 number         : 半数, 半
+0.0001612    1 meditation     : 半跏
+0.0001601    1 body           : 半身
+0.0001595    1 farming        : 半農
+0.0001580    1 collar         : 半襟
+0.0001571    1 haploid        : 半数
+0.0001571    1 semitone       : 半音
+0.0001569    1 bell           : 半鐘
+0.0001541    1 giant          : 半裂
+0.0001535    1 gambling       : 丁半
+0.0001534    1 crop           : 半作
+0.0001531    1 incompleteness : 半端
+0.0001531    1 interrupting   : 半畳
+0.0001499    1 jeering        : 半畳
+0.0001496    1 opposite       : 半跏
+0.0001493    1 employment     : 半季
+0.0001482    1 bow            : 半弓
+0.0001474    1 pewter         : 半田
+0.0001456    1 understood     : 半解
+0.0001435    1 sitting        : 半跏
+0.0001402    1 peninsula      : 半島
+0.0001390    1 quality        : 半襟
+0.0001388    1 solder         : 半田
+0.0001387    1 total          : 丁半
+0.0001383    1 brief          : 半句
+0.0001374    1 greater        : 過半
+0.0001367    1 summer         : 半夏
+0.0001364    1 han            : 半
+0.0001363    1 season         : 半季
+0.0001345    1 perfunctory    : 半端
+0.0001345    1 remnant        : 半端
+0.0001319    1 colour         : 半白
+0.0001311    1 radius         : 半径
+0.0001299    1 color          : 半白
+0.0001297    1 irresponsible  : 半端
+0.0001272    1 unripe         : 半熟
+0.0001272    1 globe          : 半周
+0.0001242    1 last           : 半夏
+0.0001220    1 hair           : 半白
+0.0001215    1 position       : 半跏
+0.0001210    1 fraction       : 半端
+0.0001193    1 fragment       : 半端
+0.0001183    1 fare           : 半額
+0.0001162    1 bloom          : 半開き
+0.0001118    1 contrary       : 半面
+0.0001109    1 reverse        : 半面
+0.0001105    1 two            : 丁半
+0.0001089    1 mat            : 半畳
+0.0001081    1 splitting      : 折半
+0.0001080    1 latter         : 後半
+0.0001071    1 flag           : 半旗
+0.0001068    1 word           : 半句
+0.0001064    1 foolish        : 半端
+0.0001061    1 sum            : 半端
+0.0001055    1 majority       : 大半
+0.0001046    1 cry            : 半泣き
+0.0001043    1 reduction      : 半減
+0.0001016    1 dead           : 夜半
+0.0001004    1 six            : 半年
+0.0000968    1 earth          : 半周
+0.0000966    1 quarter        : 四半
+0.0000946    1 night          : 夜半
+0.0000946    1 fourth         : 四半
+0.0000854    1 time           : 半時
+0.0000841    1 land           : 半
+0.0000831    1 year           : 半年
+0.0000821    1 square         : 四半
+0.0000819    1 set            : 半端
+0.0000816    1 area           : 半
+0.0000814    1 upper          : 上半
+0.0000806    1 lower          : 下半
+0.0000787    1 money          : 半額
+0.0000697    1 second         : 後半
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1111111    1 obesity
+	obesity WORD[ 1,   1]: 0.1111111 肥胖
+TOKEN[ 2]: 0.0300399    2 whipping
+	whipping WORD[ 2,   1]: 0.0150200 撹拌
+	whipping WORD[ 2,   2]: 0.0150199 攪拌
+TOKEN[ 3]: 0.0287113    2 agitation
+	agitation WORD[ 3,   1]: 0.0143557 撹拌
+	agitation WORD[ 3,   2]: 0.0143556 攪拌
+TOKEN[ 4]: 0.0266868    2 stirring
+	stirring WORD[ 4,   1]: 0.0133434 撹拌
+	stirring WORD[ 4,   2]: 0.0133434 攪拌
+TOKEN[ 5]: 0.0256731    2 beating
+	beating WORD[ 5,   1]: 0.0128366 撹拌
+	beating WORD[ 5,   2]: 0.0128365 攪拌
+TOKEN[ 6]: 0.0229925    5 companion
+	companion WORD[ 6,   1]: 0.0121060 侶伴
+	companion WORD[ 6,   2]: 0.0056587 伴星
+	companion WORD[ 6,   3]: 0.0018222 伴侶
+	companion WORD[ 6,   4]: 0.0017031 伴い
+	companion WORD[ 6,   5]: 0.0017025 伴
+TOKEN[ 7]: 0.0209295    3 connection
+	connection WORD[ 7,   1]: 0.0079335 羈絆
+	connection WORD[ 7,   2]: 0.0079334 覊絆
+	connection WORD[ 7,   3]: 0.0050626 絆
+TOKEN[ 8]: 0.0183781    5 coat
+	coat WORD[ 8,   1]: 0.0088268 袢天
+	coat WORD[ 8,   2]: 0.0088267 袢纏
+	coat WORD[ 8,   3]: 0.0003050 半天
+	coat WORD[ 8,   4]: 0.0002098 半纏
+	coat WORD[ 8,   5]: 0.0002098 半纒
+TOKEN[ 9]: 0.0173226    5 sky
+	sky WORD[ 9,   1]: 0.0083198 袢天
+	sky WORD[ 9,   2]: 0.0083198 袢纏
+	sky WORD[ 9,   3]: 0.0002875 半天
+	sky WORD[ 9,   4]: 0.0001978 半纏
+	sky WORD[ 9,   5]: 0.0001978 半纒
+TOKEN[10]: 0.0170378    1 fetter
+	fetter WORD[10,   1]: 0.0170378 絆す
+TOKEN[11]: 0.0170378    1 shackle
+	shackle WORD[11,   1]: 0.0170378 絆す
+TOKEN[12]: 0.0166554    2 bond
+	bond WORD[12,   1]: 0.0083277 羈絆
+	bond WORD[12,   2]: 0.0083277 覊絆
+TOKEN[13]: 0.0146234    2 ridge
+	ridge WORD[13,   1]: 0.0111752 畦畔
+	ridge WORD[13,   2]: 0.0034482 畔道
+TOKEN[14]: 0.0145644    1 causeway
+	causeway WORD[14,   1]: 0.0145644 畦畔
+TOKEN[15]: 0.0128704    2 rebellious
+	rebellious WORD[15,   1]: 0.0100261 叛臣
+	rebellious WORD[15,   2]: 0.0028442 叛骨
+TOKEN[16]: 0.0126127    1 pond
+	pond WORD[16,   1]: 0.0126127 池畔
+TOKEN[17]: 0.0121210    1 bind
+	bind WORD[17,   1]: 0.0121210 絆す
+TOKEN[18]: 0.0119560    5 livery
+	livery WORD[18,   1]: 0.0057423 袢天
+	livery WORD[18,   2]: 0.0057423 袢纏
+	livery WORD[18,   3]: 0.0001984 半天
+	livery WORD[18,   4]: 0.0001365 半纏
+	livery WORD[18,   5]: 0.0001365 半纒
+TOKEN[19]: 0.0119112    4 rice
+	rice WORD[19,   1]: 0.0070335 畦畔
+	rice WORD[19,   2]: 0.0043405 畔道
+	rice WORD[19,   3]: 0.0003224 半搗き
+	rice WORD[19,   4]: 0.0001074 半玉
+TOKEN[20]: 0.0113868    2 edge
+	edge WORD[20,   1]: 0.0056131 池畔
+	edge WORD[20,   2]: 0.0028868 畔
+TOKEN[21]: 0.0113019   49 half
+	half WORD[21,   1]: 0.0010027 半里
+	half WORD[21,   2]: 0.0005310 足半
+	half WORD[21,   3]: 0.0004844 半歩
+	half WORD[21,   4]: 0.0004092 半乾き
+	half WORD[21,   5]: 0.0004007 半ぺら
+	half WORD[21,   6]: 0.0003894 半返し
+	half WORD[21,   7]: 0.0003877 半睡
+	half WORD[21,   8]: 0.0003582 半盲
+	half WORD[21,   9]: 0.0003464 東半
+	half WORD[21,  10]: 0.0003429 北半
+	half WORD[21,  11]: 0.0002825 半平
+	half WORD[21,  12]: 0.0002825 半片
+	half WORD[21,  13]: 0.0002760 半ば
+	half WORD[21,  14]: 0.0002662 半国
+	half WORD[21,  15]: 0.0001942 半々
+	half WORD[21,  16]: 0.0001942 半半
+	half WORD[21,  17]: 0.0001942 半額
+	half WORD[21,  18]: 0.0001590 後半
+	half WORD[21,  19]: 0.0001538 有半
+	half WORD[21,  20]: 0.0001530 上半
+	half WORD[21,  21]: 0.0001412 半道
+	half WORD[21,  22]: 0.0001411 半切
+	half WORD[21,  23]: 0.0001411 半截
+	half WORD[21,  24]: 0.0001411 半作
+	half WORD[21,  25]: 0.0001411 半裁
+	half WORD[21,  26]: 0.0001411 半殺し
+	half WORD[21,  27]: 0.0001410 半玉
+	half WORD[21,  28]: 0.0001410 半休
+	half WORD[21,  29]: 0.0001410 半季
+	half WORD[21,  30]: 0.0001409 半跏
+	half WORD[21,  31]: 0.0001392 半可
+	half WORD[21,  32]: 0.0001158 一半
+	half WORD[21,  33]: 0.0001158 半解
+	half WORD[21,  34]: 0.0000971 半面
+	half WORD[21,  35]: 0.0000971 半分
+	half WORD[21,  36]: 0.0000971 半開き
+	half WORD[21,  37]: 0.0000971 半値
+	half WORD[21,  38]: 0.0000971 半年
+	half WORD[21,  39]: 0.0000971 半畳
+	half WORD[21,  40]: 0.0000971 半身
+	half WORD[21,  41]: 0.0000971 半生
+	half WORD[21,  42]: 0.0000971 半周
+	half WORD[21,  43]: 0.0000971 半減
+	half WORD[21,  44]: 0.0000971 半月
+	half WORD[21,  45]: 0.0000971 半期
+	half WORD[21,  46]: 0.0000971 半
+	half WORD[21,  47]: 0.0000849 大半
+	half WORD[21,  48]: 0.0000844 前半
+	half WORD[21,  49]: 0.0000821 下半
+TOKEN[22]: 0.0108048    5 haori
+	haori WORD[22,   1]: 0.0051894 袢天
+	haori WORD[22,   2]: 0.0051894 袢纏
+	haori WORD[22,   3]: 0.0001793 半天
+	haori WORD[22,   4]: 0.0001233 半纏
+	haori WORD[22,   5]: 0.0001233 半纒
+TOKEN[23]: 0.0104723    5 rebellion
+	rebellion WORD[23,   1]: 0.0027422 叛意
+	rebellion WORD[23,   2]: 0.0020627 謀叛
+	rebellion WORD[23,   3]: 0.0018897 叛乱
+	rebellion WORD[23,   4]: 0.0018889 叛逆
+	rebellion WORD[23,   5]: 0.0018889 叛旗
+TOKEN[24]: 0.0102158    2 shore
+	shore WORD[24,   1]: 0.0037086 湖畔
+	shore WORD[24,   2]: 0.0032536 畔
+TOKEN[25]: 0.0087291    1 retainer
+	retainer WORD[25,   1]: 0.0087291 叛臣
+TOKEN[26]: 0.0087287    7 middle
+	middle WORD[26,   1]: 0.0039689 袢天
+	middle WORD[26,   2]: 0.0039689 袢纏
+	middle WORD[26,   3]: 0.0003758 月半ば
+	middle WORD[26,   4]: 0.0001371 半天
+	middle WORD[26,   5]: 0.0000943 半纏
+	middle WORD[26,   6]: 0.0000943 半纒
+	middle WORD[26,   7]: 0.0000894 半ば
+TOKEN[27]: 0.0083633    5 winter
+	winter WORD[27,   1]: 0.0040168 袢天
+	winter WORD[27,   2]: 0.0040168 袢纏
+	winter WORD[27,   3]: 0.0001388 半天
+	winter WORD[27,   4]: 0.0000955 半纏
+	winter WORD[27,   5]: 0.0000955 半纒
+TOKEN[28]: 0.0078373    8 short
+	short WORD[28,   1]: 0.0036283 袢天
+	short WORD[28,   2]: 0.0036282 袢纏
+	short WORD[28,   3]: 0.0001254 半天
+	short WORD[28,   4]: 0.0001105 半時
+	short WORD[28,   5]: 0.0000862 半纏
+	short WORD[28,   6]: 0.0000862 半纒
+	short WORD[28,   7]: 0.0000862 半そで
+	short WORD[28,   8]: 0.0000862 半袖
+TOKEN[29]: 0.0076895    1 undershirt
+	undershirt WORD[29,   1]: 0.0076895 襦袢
+TOKEN[30]: 0.0074909    1 singlet
+	singlet WORD[30,   1]: 0.0074909 襦袢
+TOKEN[31]: 0.0073390    1 tether
+	tether WORD[31,   1]: 0.0073390 絆
+TOKEN[32]: 0.0073015    5 traditional
+	traditional WORD[32,   1]: 0.0035068 袢天
+	traditional WORD[32,   2]: 0.0035068 袢纏
+	traditional WORD[32,   3]: 0.0001212 半天
+	traditional WORD[32,   4]: 0.0000834 半纏
+	traditional WORD[32,   5]: 0.0000834 半纒
+TOKEN[33]: 0.0064222    3 insurrection
+	insurrection WORD[33,   1]: 0.0022678 謀叛
+	insurrection WORD[33,   2]: 0.0020776 叛乱
+	insurrection WORD[33,   3]: 0.0020768 叛逆
+TOKEN[34]: 0.0063587    7 size
+	size WORD[34,   1]: 0.0027753 中判
+	size WORD[34,   2]: 0.0009560 判型
+	size WORD[34,   3]: 0.0009560 判形
+	size WORD[34,   4]: 0.0008184 菊判
+	size WORD[34,   5]: 0.0003306 判
+	size WORD[34,   6]: 0.0002721 小判
+	size WORD[34,   7]: 0.0002503 大判
+TOKEN[35]: 0.0062660   14 paper
+	paper WORD[35,   1]: 0.0007436 判型
+	paper WORD[35,   2]: 0.0007436 判形
+	paper WORD[35,   3]: 0.0006438 半ぺら
+	paper WORD[35,   4]: 0.0003183 菊判
+	paper WORD[35,   5]: 0.0003047 合い判
+	paper WORD[35,   6]: 0.0003047 相判
+	paper WORD[35,   7]: 0.0003047 間判
+	paper WORD[35,   8]: 0.0003047 合判
+	paper WORD[35,   9]: 0.0002572 判
+	paper WORD[35,  10]: 0.0002268 半切
+	paper WORD[35,  11]: 0.0002268 半截
+	paper WORD[35,  12]: 0.0002116 小判
+	paper WORD[35,  13]: 0.0001947 大判
+	paper WORD[35,  14]: 0.0001134 半紙
+TOKEN[36]: 0.0062114    2 worn
+	worn WORD[36,   1]: 0.0046537 襦袢
+	worn WORD[36,   2]: 0.0015577 半臂
+TOKEN[37]: 0.0059082    1 emotional
+	emotional WORD[37,   1]: 0.0059082 絆
+TOKEN[38]: 0.0058643    3 revolt
+	revolt WORD[38,   1]: 0.0020708 謀叛
+	revolt WORD[38,   2]: 0.0018972 叛乱
+	revolt WORD[38,   3]: 0.0018963 叛旗
+TOKEN[39]: 0.0057410    7 judge
+	judge WORD[39,   1]: 0.0026817 判者
+	judge WORD[39,   2]: 0.0009813 判士
+	judge WORD[39,   3]: 0.0005203 判ずる
+	judge WORD[39,   4]: 0.0005202 判じる
+	judge WORD[39,   5]: 0.0003748 判官
+	judge WORD[39,   6]: 0.0003580 判事
+	judge WORD[39,   7]: 0.0003048 審判
+TOKEN[40]: 0.0057200    1 bank
+	bank WORD[40,   1]: 0.0028600 畔
+TOKEN[41]: 0.0057115    1 looking
+	looking WORD[41,   1]: 0.0028557 半切れ
+TOKEN[42]: 0.0056300   11 seal
+	seal WORD[42,   1]: 0.0016956 加判
+	seal WORD[42,   2]: 0.0005084 割り判
+	seal WORD[42,   3]: 0.0005084 割判
+	seal WORD[42,   4]: 0.0004686 判取り
+	seal WORD[42,   5]: 0.0003923 書き判
+	seal WORD[42,   6]: 0.0003923 書判
+	seal WORD[42,   7]: 0.0003882 印判
+	seal WORD[42,   8]: 0.0003695 連判
+	seal WORD[42,   9]: 0.0003221 判子
+	seal WORD[42,  10]: 0.0003221 判
+	seal WORD[42,  11]: 0.0002626 血判
+TOKEN[43]: 0.0054013    1 link
+	link WORD[43,   1]: 0.0054013 絆
+TOKEN[44]: 0.0053955    1 approach
+	approach WORD[44,   1]: 0.0053955 橋畔
+TOKEN[45]: 0.0052255    1 bridge
+	bridge WORD[45,   1]: 0.0052255 橋畔
+TOKEN[46]: 0.0051687    3 kimono
+	kimono WORD[46,   1]: 0.0048792 襦袢
+	kimono WORD[46,   2]: 0.0001447 半衿
+	kimono WORD[46,   3]: 0.0001447 半襟
+TOKEN[47]: 0.0049510    2 side
+	side WORD[47,   1]: 0.0023939 畔
+	side WORD[47,   2]: 0.0001631 半面
+TOKEN[48]: 0.0048704    1 relationship
+	relationship WORD[48,   1]: 0.0048704 絆
+TOKEN[49]: 0.0048470    1 star
+	star WORD[49,   1]: 0.0048470 伴星
+TOKEN[50]: 0.0047617    2 hand
+	hand WORD[50,   1]: 0.0023809 伴なう
+	hand WORD[50,   2]: 0.0023808 伴う
+TOKEN[51]: 0.0046222    2 mutiny
+	mutiny WORD[51,   1]: 0.0023116 叛乱
+	mutiny WORD[51,   2]: 0.0023106 叛逆
+TOKEN[52]: 0.0045750    2 consequent
+	consequent WORD[52,   1]: 0.0022875 伴なう
+	consequent WORD[52,   2]: 0.0022875 伴う
+TOKEN[53]: 0.0043089    2 treason
+	treason WORD[53,   1]: 0.0022492 謀叛
+	treason WORD[53,   2]: 0.0020597 叛逆
+TOKEN[54]: 0.0041711    1 riverside
+	riverside WORD[54,   1]: 0.0041711 河畔
+TOKEN[55]: 0.0041582    1 footpath
+	footpath WORD[55,   1]: 0.0041582 畔道
+TOKEN[56]: 0.0038486    2 spirit
+	spirit WORD[56,   1]: 0.0019251 叛骨
+	spirit WORD[56,   2]: 0.0019235 叛意
+TOKEN[57]: 0.0038108    1 people
+	people WORD[57,   1]: 0.0038108 絆
+TOKEN[58]: 0.0037853    9 used
+	used WORD[58,   1]: 0.0006571 判型
+	used WORD[58,   2]: 0.0006571 判形
+	used WORD[58,   3]: 0.0002692 合い判
+	used WORD[58,   4]: 0.0002692 相判
+	used WORD[58,   5]: 0.0002692 間判
+	used WORD[58,   6]: 0.0002692 合判
+	used WORD[58,   7]: 0.0002273 判子
+	used WORD[58,   8]: 0.0001870 小判
+	used WORD[58,   9]: 0.0001721 大判
+TOKEN[59]: 0.0037842    1 mutinous
+	mutinous WORD[59,   1]: 0.0037842 叛軍
+TOKEN[60]: 0.0037565    1 furious
+	furious WORD[60,   1]: 0.0018783 半切れ
+TOKEN[61]: 0.0037267    1 lake
+	lake WORD[61,   1]: 0.0037267 湖畔
+TOKEN[62]: 0.0037208    1 disaffection
+	disaffection WORD[62,   1]: 0.0037208 離叛
+TOKEN[63]: 0.0037208    1 breakaway
+	breakaway WORD[63,   1]: 0.0037208 離叛
+TOKEN[64]: 0.0036114    2 accompaniment
+	accompaniment WORD[64,   1]: 0.0018685 伴奏
+	accompaniment WORD[64,   2]: 0.0017429 伴い
+TOKEN[65]: 0.0035020    2 accompany
+	accompany WORD[65,   1]: 0.0017510 伴なう
+	accompany WORD[65,   2]: 0.0017510 伴う
+TOKEN[66]: 0.0033932    1 defection
+	defection WORD[66,   1]: 0.0033932 離叛
+TOKEN[67]: 0.0032721    2 involved
+	involved WORD[67,   1]: 0.0016360 伴なう
+	involved WORD[67,   2]: 0.0016360 伴う
+TOKEN[68]: 0.0032063    1 desertion
+	desertion WORD[68,   1]: 0.0032063 離叛
+TOKEN[69]: 0.0031993    4 go
+	go WORD[69,   1]: 0.0010852 伴なう
+	go WORD[69,   2]: 0.0010852 伴う
+	go WORD[69,   3]: 0.0009562 叛く
+	go WORD[69,   4]: 0.0000726 半周
+TOKEN[70]: 0.0031897    1 padre
+	padre WORD[70,   1]: 0.0031897 伴天連
+TOKEN[71]: 0.0031490    1 raised
+	raised WORD[71,   1]: 0.0031490 畔道
+TOKEN[72]: 0.0031224    1 estrangement
+	estrangement WORD[72,   1]: 0.0031224 離叛
+TOKEN[73]: 0.0031043    1 alienation
+	alienation WORD[73,   1]: 0.0031043 離叛
+TOKEN[74]: 0.0030498    4 photo
+	photo WORD[74,   1]: 0.0004357 合い判
+	photo WORD[74,   2]: 0.0004357 相判
+	photo WORD[74,   3]: 0.0004357 間判
+	photo WORD[74,   4]: 0.0004357 合判
+TOKEN[75]: 0.0030485    1 defiance
+	defiance WORD[75,   1]: 0.0030485 叛服
+TOKEN[76]: 0.0030216    1 disobedience
+	disobedience WORD[76,   1]: 0.0030216 叛服
+TOKEN[77]: 0.0030216    1 obedience
+	obedience WORD[77,   1]: 0.0030216 叛服
+TOKEN[78]: 0.0029517    1 blow
+	blow WORD[78,   1]: 0.0014759 半切れ
+TOKEN[79]: 0.0028641    1 nominal
+	nominal WORD[79,   1]: 0.0028641 伴食
+TOKEN[80]: 0.0028518    4 print
+	print WORD[80,   1]: 0.0004074 合い判
+	print WORD[80,   2]: 0.0004074 相判
+	print WORD[80,   3]: 0.0004074 間判
+	print WORD[80,   4]: 0.0004074 合判
+TOKEN[81]: 0.0028201    1 compliance
+	compliance WORD[81,   1]: 0.0028201 叛服
+TOKEN[82]: 0.0027073    2 bring
+	bring WORD[82,   1]: 0.0013537 伴なう
+	bring WORD[82,   2]: 0.0013537 伴う
+TOKEN[83]: 0.0026940    1 rebel
+	rebel WORD[83,   1]: 0.0026940 叛軍
+TOKEN[84]: 0.0026792    1 top
+	top WORD[84,   1]: 0.0013396 半切れ
+TOKEN[85]: 0.0025944    1 came
+	came WORD[85,   1]: 0.0025944 伴天連
+TOKEN[86]: 0.0025530    1 literary
+	literary WORD[86,   1]: 0.0025530 判者
+TOKEN[87]: 0.0025305    1 Portuguese
+	Portuguese WORD[87,   1]: 0.0025305 伴天連
+TOKEN[88]: 0.0025305    1 Christianity
+	Christianity WORD[88,   1]: 0.0025305 伴天連
+TOKEN[89]: 0.0024727    1 guest
+	guest WORD[89,   1]: 0.0024727 伴食
+TOKEN[90]: 0.0024673    7 judgment
+	judgment WORD[90,   1]: 0.0003749 批判
+	judgment WORD[90,   2]: 0.0003685 判定
+	judgment WORD[90,   3]: 0.0003685 判断
+	judgment WORD[90,   4]: 0.0003684 判決
+	judgment WORD[90,   5]: 0.0003684 判
+	judgment WORD[90,   6]: 0.0003137 審判
+	judgment WORD[90,   7]: 0.0003049 裁判
+TOKEN[91]: 0.0024558    1 aristocratic
+	aristocratic WORD[91,   1]: 0.0024558 半臂
+TOKEN[92]: 0.0024323    7 one
+	one WORD[92,   1]: 0.0006678 半切れ
+	one WORD[92,   2]: 0.0006617 志半ば
+	one WORD[92,   3]: 0.0001159 血判
+	one WORD[92,   4]: 0.0000863 半生
+	one WORD[92,   5]: 0.0000626 半跏
+	one WORD[92,   6]: 0.0000432 半面
+	one WORD[92,   7]: 0.0000409 半ば
+TOKEN[93]: 0.0023337    2 official
+	official WORD[93,   1]: 0.0020317 伴食
+	official WORD[93,   2]: 0.0003020 判官
+TOKEN[94]: 0.0022924    1 eating
+	eating WORD[94,   1]: 0.0022924 伴食
+TOKEN[95]: 0.0022920    1 Christian
+	Christian WORD[95,   1]: 0.0022920 伴天連
+TOKEN[96]: 0.0022520    1 army
+	army WORD[96,   1]: 0.0022520 叛軍
+TOKEN[97]: 0.0022350    1 sleeveless
+	sleeveless WORD[97,   1]: 0.0022350 半臂
+TOKEN[98]: 0.0022205    4 puzzle
+	puzzle WORD[98,   1]: 0.0006021 判ずる
+	puzzle WORD[98,   2]: 0.0006021 判じる
+	puzzle WORD[98,   3]: 0.0006020 判じ絵
+	puzzle WORD[98,   4]: 0.0004143 判じ物
+TOKEN[99]: 0.0022179    1 undergarment
+	undergarment WORD[99,   1]: 0.0022179 半臂
+TOKEN[100]: 0.0022066    1 century
+	century WORD[100,   1]: 0.0022066 伴天連
+TOKEN[101]: 0.0022042    2 format
+	format WORD[101,   1]: 0.0011021 判型
+	format WORD[101,   2]: 0.0011021 判形
+TOKEN[102]: 0.0021239    2 take
+	take WORD[102,   1]: 0.0010620 伴なう
+	take WORD[102,   2]: 0.0010620 伴う
+TOKEN[103]: 0.0021148    1 adjoint
+	adjoint WORD[103,   1]: 0.0021148 随伴
+TOKEN[104]: 0.0020936    1 title
+	title WORD[104,   1]: 0.0020936 伴天連
+TOKEN[105]: 0.0020557    2 publication
+	publication WORD[105,   1]: 0.0010279 判型
+	publication WORD[105,   2]: 0.0010279 判形
+TOKEN[106]: 0.0020380    3 round
+	round WORD[106,   1]: 0.0015762 半荘
+	round WORD[106,   2]: 0.0003720 半ドン
+	round WORD[106,   3]: 0.0000897 半周
+TOKEN[107]: 0.0020292    1 treachery
+	treachery WORD[107,   1]: 0.0020292 叛逆
+TOKEN[108]: 0.0020066    1 Buddhist
+	Buddhist WORD[108,   1]: 0.0020066 伴僧
+TOKEN[109]: 0.0020040    2 sheet
+	sheet WORD[109,   1]: 0.0010020 判型
+	sheet WORD[109,   2]: 0.0010020 判形
+TOKEN[110]: 0.0019944    1 south
+	south WORD[110,   1]: 0.0019944 半荘
+TOKEN[111]: 0.0019817    1 retinue
+	retinue WORD[111,   1]: 0.0019817 伴
+TOKEN[112]: 0.0019797    1 uprising
+	uprising WORD[112,   1]: 0.0019797 叛乱
+TOKEN[113]: 0.0019558    1 service
+	service WORD[113,   1]: 0.0019558 伴僧
+TOKEN[114]: 0.0019437    1 east
+	east WORD[114,   1]: 0.0019437 半荘
+TOKEN[115]: 0.0019117    1 infringe
+	infringe WORD[115,   1]: 0.0019117 叛く
+TOKEN[116]: 0.0018294    1 spouse
+	spouse WORD[116,   1]: 0.0018294 伴侶
+TOKEN[117]: 0.0017967    1 disobey
+	disobey WORD[117,   1]: 0.0017967 叛く
+TOKEN[118]: 0.0017957    1 partner
+	partner WORD[118,   1]: 0.0017957 伴侶
+TOKEN[119]: 0.0017772    1 banner
+	banner WORD[119,   1]: 0.0017772 叛旗
+TOKEN[120]: 0.0017587    1 follower
+	follower WORD[120,   1]: 0.0017587 伴
+TOKEN[121]: 0.0017539    4 signature
+	signature WORD[121,   1]: 0.0004816 書き判
+	signature WORD[121,   2]: 0.0004816 書判
+	signature WORD[121,   3]: 0.0003954 判子
+	signature WORD[121,   4]: 0.0003954 判
+TOKEN[122]: 0.0017338    1 entertain
+	entertain WORD[122,   1]: 0.0017338 接伴
+TOKEN[123]: 0.0016719    1 attendant
+	attendant WORD[123,   1]: 0.0016719 伴
+TOKEN[124]: 0.0016675    5 decision
+	decision WORD[124,   1]: 0.0003829 論判
+	decision WORD[124,   2]: 0.0003336 判定
+	decision WORD[124,   3]: 0.0003336 判断
+	decision WORD[124,   4]: 0.0003335 判決
+	decision WORD[124,   5]: 0.0002840 審判
+TOKEN[125]: 0.0016274    2 superficial
+	superficial WORD[125,   1]: 0.0010858 半可通
+	superficial WORD[125,   2]: 0.0005416 生半可
+TOKEN[126]: 0.0016260    1 musical
+	musical WORD[126,   1]: 0.0016260 伴奏
+TOKEN[127]: 0.0015990    1 men
+	men WORD[127,   1]: 0.0015990 半臂
+TOKEN[128]: 0.0015803    1 photography
+	photography WORD[128,   1]: 0.0015803 中判
+TOKEN[129]: 0.0015386    1 cabinet
+	cabinet WORD[129,   1]: 0.0015386 中判
+TOKEN[130]: 0.0015039    1 attendance
+	attendance WORD[130,   1]: 0.0015039 随伴
+TOKEN[131]: 0.0014832    1 standard
+	standard WORD[131,   1]: 0.0014832 叛旗
+TOKEN[132]: 0.0014806    1 medium
+	medium WORD[132,   1]: 0.0014806 中判
+TOKEN[133]: 0.0014753    1 running
+	running WORD[133,   1]: 0.0014753 伴走
+TOKEN[134]: 0.0014394    1 Japan
+	Japan WORD[134,   1]: 0.0014394 伴天連
+TOKEN[135]: 0.0014010    1 following
+	following WORD[135,   1]: 0.0014010 随伴
+TOKEN[136]: 0.0013771    4 part
+	part WORD[136,   1]: 0.0011031 相伴
+	part WORD[136,   2]: 0.0000999 過半
+	part WORD[136,   3]: 0.0000970 一半
+	part WORD[136,   4]: 0.0000771 半ば
+TOKEN[137]: 0.0013577    2 decipher
+	decipher WORD[137,   1]: 0.0006788 判ずる
+	decipher WORD[137,   2]: 0.0006788 判じる
+TOKEN[138]: 0.0013572    3 something
+	something WORD[138,   1]: 0.0008622 相伴
+	something WORD[138,   2]: 0.0002407 論判
+	something WORD[138,   3]: 0.0001272 半間
+TOKEN[139]: 0.0012717    2 interpret
+	interpret WORD[139,   1]: 0.0006359 判ずる
+	interpret WORD[139,   2]: 0.0006358 判じる
+TOKEN[140]: 0.0012640    2 solve
+	solve WORD[140,   1]: 0.0006320 判ずる
+	solve WORD[140,   2]: 0.0006320 判じる
+TOKEN[141]: 0.0012496    2 taking
+	taking WORD[141,   1]: 0.0011287 相伴
+	taking WORD[141,   2]: 0.0001209 半休
+TOKEN[142]: 0.0012412    2 adjacent
+	adjacent WORD[142,   1]: 0.0006206 割り判
+	adjacent WORD[142,   2]: 0.0006206 割判
+TOKEN[143]: 0.0012156    1 going
+	going WORD[143,   1]: 0.0012156 同伴
+TOKEN[144]: 0.0011786    1 advocate
+	advocate WORD[144,   1]: 0.0011786 判士
+TOKEN[145]: 0.0011684    2 measure
+	measure WORD[145,   1]: 0.0010241 半里
+	measure WORD[145,   2]: 0.0001442 半道
+TOKEN[146]: 0.0011629    2 decide
+	decide WORD[146,   1]: 0.0005815 判ずる
+	decide WORD[146,   2]: 0.0005815 判じる
+TOKEN[147]: 0.0011293    1 run
+	run WORD[147,   1]: 0.0011293 叛く
+TOKEN[148]: 0.0011260    4 ticket
+	ticket WORD[148,   1]: 0.0004077 半ぺら
+	ticket WORD[148,   2]: 0.0002874 半平
+	ticket WORD[148,   3]: 0.0002874 半片
+	ticket WORD[148,   4]: 0.0001435 半券
+TOKEN[149]: 0.0011210    3 stamp
+	stamp WORD[149,   1]: 0.0004215 印判
+	stamp WORD[149,   2]: 0.0003498 判子
+	stamp WORD[149,   3]: 0.0003497 判
+TOKEN[150]: 0.0011149    2 impression
+	impression WORD[150,   1]: 0.0005574 割り判
+	impression WORD[150,   2]: 0.0005574 割判
+TOKEN[151]: 0.0011143    1 straw
+	straw WORD[151,   1]: 0.0011143 足半
+TOKEN[152]: 0.0011069    4 stub
+	stub WORD[152,   1]: 0.0005381 半ぺら
+	stub WORD[152,   2]: 0.0001897 半平
+	stub WORD[152,   3]: 0.0001897 半片
+	stub WORD[152,   4]: 0.0001894 半券
+TOKEN[153]: 0.0010590    2 guess
+	guess WORD[153,   1]: 0.0005295 判ずる
+	guess WORD[153,   2]: 0.0005295 判じる
+TOKEN[154]: 0.0010098    1 distance
+	distance WORD[154,   1]: 0.0010098 半里
+TOKEN[155]: 0.0010097    2 adjudication
+	adjudication WORD[155,   1]: 0.0005049 判定
+	adjudication WORD[155,   2]: 0.0005049 判断
+TOKEN[156]: 0.0010036    2 oval
+	oval WORD[156,   1]: 0.0006874 小判
+	oval WORD[156,   2]: 0.0003162 大判
+TOKEN[157]: 0.0009956    2 divine
+	divine WORD[157,   1]: 0.0004978 判ずる
+	divine WORD[157,   2]: 0.0004978 判じる
+TOKEN[158]: 0.0009834    4 piece
+	piece WORD[158,   1]: 0.0003763 半ぺら
+	piece WORD[158,   2]: 0.0001326 半切
+	piece WORD[158,   3]: 0.0001326 半截
+	piece WORD[158,   4]: 0.0000768 四半
+TOKEN[159]: 0.0009648    1 step
+	step WORD[159,   1]: 0.0004824 半歩
+TOKEN[160]: 0.0009512    1 leaving
+	leaving WORD[160,   1]: 0.0009512 志半ば
+TOKEN[161]: 0.0009485    3 incomplete
+	incomplete WORD[161,   1]: 0.0005978 志半ば
+	incomplete WORD[161,   2]: 0.0001169 半端
+	incomplete WORD[161,   3]: 0.0001169 半間
+TOKEN[162]: 0.0009311    5 halfway
+	halfway WORD[162,   1]: 0.0003104 道半ば
+	halfway WORD[162,   2]: 0.0001859 半道
+	halfway WORD[162,   3]: 0.0001858 半途
+	halfway WORD[162,   4]: 0.0001279 半端
+	halfway WORD[162,   5]: 0.0001211 半ば
+TOKEN[163]: 0.0008901    1 knowledge
+	knowledge WORD[163,   1]: 0.0008901 半可通
+TOKEN[164]: 0.0008459    1 someone
+	someone WORD[164,   1]: 0.0008459 相伴
+TOKEN[165]: 0.0008198    3 verge
+	verge WORD[165,   1]: 0.0003512 半べそ
+	verge WORD[165,   2]: 0.0003512 半ベソ
+	verge WORD[165,   3]: 0.0001175 半泣き
+TOKEN[166]: 0.0008141    1 sciolist
+	sciolist WORD[166,   1]: 0.0008141 半可通
+TOKEN[167]: 0.0008141    1 smatterer
+	smatterer WORD[167,   1]: 0.0008141 半可通
+TOKEN[168]: 0.0008081    3 calligraphy
+	calligraphy WORD[168,   1]: 0.0001616 半切
+	calligraphy WORD[168,   2]: 0.0001616 半截
+	calligraphy WORD[168,   3]: 0.0001616 半紙
+TOKEN[169]: 0.0008053    2 judicial
+	judicial WORD[169,   1]: 0.0004027 判例
+	judicial WORD[169,   2]: 0.0004026 判決
+TOKEN[170]: 0.0007978    2 ruling
+	ruling WORD[170,   1]: 0.0003989 判定
+	ruling WORD[170,   2]: 0.0003989 判示
+TOKEN[171]: 0.0007952    2 document
+	document WORD[171,   1]: 0.0003976 書き判
+	document WORD[171,   2]: 0.0003976 書判
+TOKEN[172]: 0.0007890    3 alarm
+	alarm WORD[172,   1]: 0.0003099 擦り半
+	alarm WORD[172,   2]: 0.0003099 擦半
+	alarm WORD[172,   3]: 0.0001691 半鐘
+TOKEN[173]: 0.0007804    2 verdict
+	verdict WORD[173,   1]: 0.0004215 判定
+	verdict WORD[173,   2]: 0.0003588 審判
+TOKEN[174]: 0.0007710    2 finding
+	finding WORD[174,   1]: 0.0003856 判定
+	finding WORD[174,   2]: 0.0003855 判示
+TOKEN[175]: 0.0007525    4 fire
+	fire WORD[175,   1]: 0.0002369 半鐘
+	fire WORD[175,   2]: 0.0002171 擦り半
+	fire WORD[175,   3]: 0.0002171 擦半
+	fire WORD[175,   4]: 0.0000815 半焼
+TOKEN[176]: 0.0007424    1 unfulfilled
+	unfulfilled WORD[176,   1]: 0.0007424 志半ば
+TOKEN[177]: 0.0007360    2 written
+	written WORD[177,   1]: 0.0003680 書き判
+	written WORD[177,   2]: 0.0003680 書判
+TOKEN[178]: 0.0007338    1 joint
+	joint WORD[178,   1]: 0.0007338 連判
+TOKEN[179]: 0.0006881    1 erroneous
+	erroneous WORD[179,   1]: 0.0006881 誤判
+TOKEN[180]: 0.0006871    1 designed
+	designed WORD[180,   1]: 0.0006871 足半
+TOKEN[181]: 0.0006820    4 semicircle
+	semicircle WORD[181,   1]: 0.0002228 半輪
+	semicircle WORD[181,   2]: 0.0001531 半周
+	semicircle WORD[181,   3]: 0.0001531 半月
+	semicircle WORD[181,   4]: 0.0001531 半円
+TOKEN[182]: 0.0006759    3 cutting
+	cutting WORD[182,   1]: 0.0001352 半切
+	cutting WORD[182,   2]: 0.0001352 半截
+	cutting WORD[182,   3]: 0.0001351 半裁
+TOKEN[183]: 0.0006719    2 foot
+	foot WORD[183,   1]: 0.0005310 足半
+	foot WORD[183,   2]: 0.0001409 半跏
+TOKEN[184]: 0.0006695    3 done
+	done WORD[184,   1]: 0.0001439 半切
+	done WORD[184,   2]: 0.0001439 半截
+	done WORD[184,   3]: 0.0000938 半ば
+TOKEN[185]: 0.0006637    2 make
+	make WORD[185,   1]: 0.0003319 判ずる
+	make WORD[185,   2]: 0.0003319 判じる
+TOKEN[186]: 0.0006610    1 dilettante
+	dilettante WORD[186,   1]: 0.0006610 半可通
+TOKEN[187]: 0.0006532    1 consolatory
+	consolatory WORD[187,   1]: 0.0006532 半返し
+TOKEN[188]: 0.0006488    1 smattering
+	smattering WORD[188,   1]: 0.0006488 半可通
+TOKEN[189]: 0.0006390    2 crying
+	crying WORD[189,   1]: 0.0003195 半べそ
+	crying WORD[189,   2]: 0.0003195 半ベソ
+TOKEN[190]: 0.0006324    2 clear
+	clear WORD[190,   1]: 0.0003382 判る
+	clear WORD[190,   2]: 0.0002943 判然
+TOKEN[191]: 0.0006230    2 sentence
+	sentence WORD[191,   1]: 0.0003365 判決
+	sentence WORD[191,   2]: 0.0002865 審判
+TOKEN[192]: 0.0006226    1 misjudgment
+	misjudgment WORD[192,   1]: 0.0006226 誤判
+TOKEN[193]: 0.0006135    2 end
+	end WORD[193,   1]: 0.0003067 書き判
+	end WORD[193,   2]: 0.0003067 書判
+TOKEN[194]: 0.0006134    1 misjudgement
+	misjudgement WORD[194,   1]: 0.0006134 誤判
+TOKEN[195]: 0.0006066    1 ambition
+	ambition WORD[195,   1]: 0.0006066 志半ば
+TOKEN[196]: 0.0006056    1 knowledgeable
+	knowledgeable WORD[196,   1]: 0.0006056 半可通
+TOKEN[197]: 0.0006051    1 achieve
+	achieve WORD[197,   1]: 0.0006051 志半ば
+TOKEN[198]: 0.0006006    1 objective
+	objective WORD[198,   1]: 0.0006006 志半ば
+TOKEN[199]: 0.0005984    1 miscarriage
+	miscarriage WORD[199,   1]: 0.0005984 誤判
+TOKEN[200]: 0.0005709    2 painting
+	painting WORD[200,   1]: 0.0001427 半切
+	painting WORD[200,   2]: 0.0001427 半截
+TOKEN[201]: 0.0005692    1 monogram
+	monogram WORD[201,   1]: 0.0005692 判
+TOKEN[202]: 0.0005650    2 trial
+	trial WORD[202,   1]: 0.0002840 裁判
+	trial WORD[202,   2]: 0.0002810 公判
+TOKEN[203]: 0.0005615    1 goal
+	goal WORD[203,   1]: 0.0005615 志半ば
+TOKEN[204]: 0.0005600    1 person
+	person WORD[204,   1]: 0.0005600 半可通
+TOKEN[205]: 0.0005499    1 traveling
+	traveling WORD[205,   1]: 0.0005499 判取り
+TOKEN[206]: 0.0005384    2 coin
+	coin WORD[206,   1]: 0.0002804 小判
+	coin WORD[206,   2]: 0.0002580 大判
+TOKEN[207]: 0.0005370    1 judiciary
+	judiciary WORD[207,   1]: 0.0005370 判事
+TOKEN[208]: 0.0005351    3 odd
+	odd WORD[208,   1]: 0.0003131 丁半
+	odd WORD[208,   2]: 0.0001110 半端
+	odd WORD[208,   3]: 0.0001110 半
+TOKEN[209]: 0.0005303    1 shallow
+	shallow WORD[209,   1]: 0.0005303 生半可
+TOKEN[210]: 0.0005289    1 celebratory
+	celebratory WORD[210,   1]: 0.0005289 半返し
+TOKEN[211]: 0.0005281    2 know
+	know WORD[211,   1]: 0.0003645 判る
+	know WORD[211,   2]: 0.0001636 半兵衛
+TOKEN[212]: 0.0005204    2 book
+	book WORD[212,   1]: 0.0003229 菊判
+	book WORD[212,   2]: 0.0001975 大判
+TOKEN[213]: 0.0005204    2 making
+	making WORD[213,   1]: 0.0002749 判読
+	making WORD[213,   2]: 0.0002455 談判
+TOKEN[214]: 0.0005186    2 gold
+	gold WORD[214,   1]: 0.0002701 小判
+	gold WORD[214,   2]: 0.0002485 大判
+TOKEN[215]: 0.0005183    1 decipherment
+	decipherment WORD[215,   1]: 0.0005183 判読
+TOKEN[216]: 0.0005116    2 small
+	small WORD[216,   1]: 0.0004036 小判
+	small WORD[216,   2]: 0.0001080 半弓
+TOKEN[217]: 0.0005095    1 sixth
+	sixth WORD[217,   1]: 0.0005095 半ドン
+TOKEN[218]: 0.0004978    1 unable
+	unable WORD[218,   1]: 0.0004978 志半ば
+TOKEN[219]: 0.0004950    1 notoriety
+	notoriety WORD[219,   1]: 0.0004950 評判
+TOKEN[220]: 0.0004946    1 proving
+	proving WORD[220,   1]: 0.0004946 判明
+TOKEN[221]: 0.0004929    1 blood
+	blood WORD[221,   1]: 0.0004929 血判
+TOKEN[222]: 0.0004890    1 comprehend
+	comprehend WORD[222,   1]: 0.0004890 判る
+TOKEN[223]: 0.0004890    1 magistrate
+	magistrate WORD[223,   1]: 0.0004890 判官
+TOKEN[224]: 0.0004848    1 front
+	front WORD[224,   1]: 0.0004848 足半
+TOKEN[225]: 0.0004824    2 public
+	public WORD[225,   1]: 0.0002675 評判
+	public WORD[225,   2]: 0.0002149 公判
+TOKEN[226]: 0.0004822    1 discovered
+	discovered WORD[226,   1]: 0.0004822 判る
+TOKEN[227]: 0.0004788    1 justice
+	justice WORD[227,   1]: 0.0004788 誤判
+TOKEN[228]: 0.0004727    1 confirming
+	confirming WORD[228,   1]: 0.0004727 判明
+TOKEN[229]: 0.0004670    1 lieu
+	lieu WORD[229,   1]: 0.0004670 判子
+TOKEN[230]: 0.0004572    2 midway
+	midway WORD[230,   1]: 0.0003289 道半ば
+	midway WORD[230,   2]: 0.0001283 半ば
+TOKEN[231]: 0.0004565    1 picture
+	picture WORD[231,   1]: 0.0004565 判じ絵
+TOKEN[232]: 0.0004538    1 distinguishing
+	distinguishing WORD[232,   1]: 0.0004538 判別
+TOKEN[233]: 0.0004496    3 period
+	period WORD[233,   1]: 0.0001964 小判
+	period WORD[233,   2]: 0.0001807 大判
+	period WORD[233,   3]: 0.0000724 半期
+TOKEN[234]: 0.0004488    2 game
+	game WORD[234,   1]: 0.0003349 半ドン
+	game WORD[234,   2]: 0.0001139 丁半
+TOKEN[235]: 0.0004484    1 comprehension
+	comprehension WORD[235,   1]: 0.0004484 判り
+TOKEN[236]: 0.0004462    1 asleep
+	asleep WORD[236,   1]: 0.0004462 半睡
+TOKEN[237]: 0.0004433    1 getting
+	getting WORD[237,   1]: 0.0004433 判取り
+TOKEN[238]: 0.0004309    2 Edo
+	Edo WORD[238,   1]: 0.0002244 小判
+	Edo WORD[238,   2]: 0.0002065 大判
+TOKEN[239]: 0.0004299    1 riddle
+	riddle WORD[239,   1]: 0.0004299 判じ物
+TOKEN[240]: 0.0004263    1 koban
+	koban WORD[240,   1]: 0.0004263 小判
+TOKEN[241]: 0.0004201    1 rare
+	rare WORD[241,   1]: 0.0004201 半焼け
+TOKEN[242]: 0.0004195    1 decree
+	decree WORD[242,   1]: 0.0004195 判決
+TOKEN[243]: 0.0004178    2 month
+	month WORD[243,   1]: 0.0003339 月半ば
+	month WORD[243,   2]: 0.0000838 半月
+TOKEN[244]: 0.0004172    1 estimation
+	estimation WORD[244,   1]: 0.0004172 評判
+TOKEN[245]: 0.0004160    1 distinct
+	distinct WORD[245,   1]: 0.0004160 判然
+TOKEN[246]: 0.0004140    1 inspector
+	inspector WORD[246,   1]: 0.0004140 判官
+TOKEN[247]: 0.0004126    1 grasp
+	grasp WORD[247,   1]: 0.0004126 判る
+TOKEN[248]: 0.0004114    1 known
+	known WORD[248,   1]: 0.0004114 判る
+TOKEN[249]: 0.0004104    1 dry
+	dry WORD[249,   1]: 0.0004104 半乾き
+TOKEN[250]: 0.0004092    1 large
+	large WORD[250,   1]: 0.0004092 大判
+TOKEN[251]: 0.0004068    1 discernment
+	discernment WORD[251,   1]: 0.0004068 判別
+TOKEN[252]: 0.0004054    1 precedent
+	precedent WORD[252,   1]: 0.0004054 判例
+TOKEN[253]: 0.0004033    3 day
+	day WORD[253,   1]: 0.0002187 半夏
+	day WORD[253,   2]: 0.0001093 半休
+	day WORD[253,   3]: 0.0000753 半日
+TOKEN[254]: 0.0004026    1 evident
+	evident WORD[254,   1]: 0.0004026 判然
+TOKEN[255]: 0.0004020    2 unfinished
+	unfinished WORD[255,   1]: 0.0001692 半途
+	unfinished WORD[255,   2]: 0.0001164 半間
+TOKEN[256]: 0.0004006    1 found
+	found WORD[256,   1]: 0.0004006 判る
+TOKEN[257]: 0.0003988    1 quarrel
+	quarrel WORD[257,   1]: 0.0003988 論判
+TOKEN[258]: 0.0003977    1 chop
+	chop WORD[258,   1]: 0.0003977 判子
+TOKEN[259]: 0.0003957    1 dispute
+	dispute WORD[259,   1]: 0.0003957 論判
+TOKEN[260]: 0.0003935    1 eastern
+	eastern WORD[260,   1]: 0.0003935 東半
+TOKEN[261]: 0.0003928    1 blind
+	blind WORD[261,   1]: 0.0003928 半盲
+TOKEN[262]: 0.0003923    1 definite
+	definite WORD[262,   1]: 0.0003923 判然
+TOKEN[263]: 0.0003902    1 gift
+	gift WORD[263,   1]: 0.0003902 半返し
+TOKEN[264]: 0.0003897    1 umpire
+	umpire WORD[264,   1]: 0.0003897 審判
+TOKEN[265]: 0.0003888    1 elliptical
+	elliptical WORD[265,   1]: 0.0003888 小判
+TOKEN[266]: 0.0003856    1 distinction
+	distinction WORD[266,   1]: 0.0003856 判別
+TOKEN[267]: 0.0003844    1 fame
+	fame WORD[267,   1]: 0.0003844 評判
+TOKEN[268]: 0.0003823    1 follow
+	follow WORD[268,   1]: 0.0003823 判る
+TOKEN[269]: 0.0003797    1 discrimination
+	discrimination WORD[269,   1]: 0.0003797 判別
+TOKEN[270]: 0.0003795    1 comment
+	comment WORD[270,   1]: 0.0003795 批判
+TOKEN[271]: 0.0003781    1 identification
+	identification WORD[271,   1]: 0.0003781 判読
+TOKEN[272]: 0.0003774    1 interpretation
+	interpretation WORD[272,   1]: 0.0003774 判読
+TOKEN[273]: 0.0003759    1 divination
+	divination WORD[273,   1]: 0.0003759 判断
+TOKEN[274]: 0.0003752    1 understanding
+	understanding WORD[274,   1]: 0.0003752 判り
+TOKEN[275]: 0.0003738    1 assistant
+	assistant WORD[275,   1]: 0.0003738 判官
+TOKEN[276]: 0.0003733    1 northern
+	northern WORD[276,   1]: 0.0003733 北半
+TOKEN[277]: 0.0003733    1 grade
+	grade WORD[277,   1]: 0.0003733 判官
+TOKEN[278]: 0.0003717    1 popularity
+	popularity WORD[278,   1]: 0.0003717 評判
+TOKEN[279]: 0.0003690    1 think
+	think WORD[279,   1]: 0.0003690 判る
+TOKEN[280]: 0.0003682    1 understand
+	understand WORD[280,   1]: 0.0003682 判る
+TOKEN[281]: 0.0003667    1 rumor
+	rumor WORD[281,   1]: 0.0003667 評判
+TOKEN[282]: 0.0003651    1 argument
+	argument WORD[282,   1]: 0.0003651 論判
+TOKEN[283]: 0.0003642    2 slice
+	slice WORD[283,   1]: 0.0001821 半平
+	slice WORD[283,   2]: 0.0001821 半片
+TOKEN[284]: 0.0003636    1 wrong
+	wrong WORD[284,   1]: 0.0003636 論判
+TOKEN[285]: 0.0003589    1 sealing
+	sealing WORD[285,   1]: 0.0003589 血判
+TOKEN[286]: 0.0003588    2 length
+	length WORD[286,   1]: 0.0001511 半道
+	length WORD[286,   2]: 0.0001039 半身
+TOKEN[287]: 0.0003575    1 officer
+	officer WORD[287,   1]: 0.0003575 判官
+TOKEN[288]: 0.0003517    1 see
+	see WORD[288,   1]: 0.0003517 判る
+TOKEN[289]: 0.0003496    1 reputation
+	reputation WORD[289,   1]: 0.0003496 評判
+TOKEN[290]: 0.0003487    1 referee
+	referee WORD[290,   1]: 0.0003487 審判
+TOKEN[291]: 0.0003485    1 criticism
+	criticism WORD[291,   1]: 0.0003485 批判
+TOKEN[292]: 0.0003452    3 cloth
+	cloth WORD[292,   1]: 0.0001338 半巾
+	cloth WORD[292,   2]: 0.0001338 半幅
+	cloth WORD[292,   3]: 0.0000775 四半
+TOKEN[293]: 0.0003448    1 conclusion
+	conclusion WORD[293,   1]: 0.0003448 判断
+TOKEN[294]: 0.0003378    1 district
+	district WORD[294,   1]: 0.0003378 判官
+TOKEN[295]: 0.0003374    2 warn
+	warn WORD[295,   1]: 0.0001687 擦り半
+	warn WORD[295,   2]: 0.0001687 擦半
+TOKEN[296]: 0.0003308    2 ringing
+	ringing WORD[296,   1]: 0.0001654 擦り半
+	ringing WORD[296,   2]: 0.0001654 擦半
+TOKEN[297]: 0.0003297    1 dice
+	dice WORD[297,   1]: 0.0003297 丁半
+TOKEN[298]: 0.0003286    1 town
+	town WORD[298,   1]: 0.0003286 評判
+TOKEN[299]: 0.0003215    1 holding
+	holding WORD[299,   1]: 0.0003215 判示
+TOKEN[300]: 0.0003189    1 portion
+	portion WORD[300,   1]: 0.0001595 半玉
+TOKEN[301]: 0.0003168    1 right
+	right WORD[301,   1]: 0.0003168 論判
+TOKEN[302]: 0.0003159    2 midnight
+	midnight WORD[302,   1]: 0.0001788 半夜
+	midnight WORD[302,   2]: 0.0001371 夜半
+TOKEN[303]: 0.0003156    3 amount
+	amount WORD[303,   1]: 0.0001327 半金
+	amount WORD[303,   2]: 0.0000914 半量
+	amount WORD[303,   3]: 0.0000914 半額
+TOKEN[304]: 0.0003117    2 face
+	face WORD[304,   1]: 0.0002299 半顔
+	face WORD[304,   2]: 0.0000818 半面
+TOKEN[305]: 0.0003076    1 life
+	life WORD[305,   1]: 0.0001538 半生
+TOKEN[306]: 0.0002998    2 cake
+	cake WORD[306,   1]: 0.0001499 半平
+	cake WORD[306,   2]: 0.0001499 半片
+TOKEN[307]: 0.0002960    1 talk
+	talk WORD[307,   1]: 0.0002960 評判
+TOKEN[308]: 0.0002951    1 God
+	God WORD[308,   1]: 0.0002951 審判
+TOKEN[309]: 0.0002948    1 fried
+	fried WORD[309,   1]: 0.0001474 半玉
+TOKEN[310]: 0.0002930    1 become
+	become WORD[310,   1]: 0.0002930 判る
+TOKEN[311]: 0.0002912    2 produced
+	produced WORD[311,   1]: 0.0001456 擦り半
+	produced WORD[311,   2]: 0.0001456 擦半
+TOKEN[312]: 0.0002911    1 hearing
+	hearing WORD[312,   1]: 0.0002911 公判
+TOKEN[313]: 0.0002905    1 call
+	call WORD[313,   1]: 0.0002905 判定
+TOKEN[314]: 0.0002774    1 ball
+	ball WORD[314,   1]: 0.0001387 半玉
+TOKEN[315]: 0.0002754    1 province
+	province WORD[315,   1]: 0.0002754 半国
+TOKEN[316]: 0.0002712    1 hour
+	hour WORD[316,   1]: 0.0002712 半時
+TOKEN[317]: 0.0002608    1 system
+	system WORD[317,   1]: 0.0002608 判官
+TOKEN[318]: 0.0002506    1 semicivilized
+	semicivilized WORD[318,   1]: 0.0002506 半開
+TOKEN[319]: 0.0002446    2 unit
+	unit WORD[319,   1]: 0.0001500 有半
+	unit WORD[319,   2]: 0.0000946 半
+TOKEN[320]: 0.0002379    1 lifetime
+	lifetime WORD[320,   1]: 0.0001189 半生
+TOKEN[321]: 0.0002318    2 sound
+	sound WORD[321,   1]: 0.0001159 擦り半
+	sound WORD[321,   2]: 0.0001159 擦半
+TOKEN[322]: 0.0002312    2 partial
+	partial WORD[322,   1]: 0.0001156 半焼
+	partial WORD[322,   2]: 0.0001156 半壊
+TOKEN[323]: 0.0002307    2 destruction
+	destruction WORD[323,   1]: 0.0001154 半焼
+	destruction WORD[323,   2]: 0.0001154 半壊
+TOKEN[324]: 0.0002283    1 Andrias
+	Andrias WORD[324,   1]: 0.0002283 半裂
+TOKEN[325]: 0.0002259    1 complete
+	complete WORD[325,   1]: 0.0002259 道半ば
+TOKEN[326]: 0.0002222    1 quad
+	quad WORD[326,   1]: 0.0002222 半角
+TOKEN[327]: 0.0002217    1 minute
+	minute WORD[327,   1]: 0.0001109 半分
+TOKEN[328]: 0.0002214    2 fish
+	fish WORD[328,   1]: 0.0001107 半平
+	fish WORD[328,   2]: 0.0001107 半片
+TOKEN[329]: 0.0002180    1 idiot
+	idiot WORD[329,   1]: 0.0001090 半間
+TOKEN[330]: 0.0002140    1 tuber
+	tuber WORD[330,   1]: 0.0002140 半夏
+TOKEN[331]: 0.0002139    1 en
+	en WORD[331,   1]: 0.0002139 半角
+TOKEN[332]: 0.0002132    2 open
+	open WORD[332,   1]: 0.0001262 半開
+	open WORD[332,   2]: 0.0000870 半開き
+TOKEN[333]: 0.0002112    1 grizzled
+	grizzled WORD[333,   1]: 0.0002112 半白
+TOKEN[334]: 0.0002108    1 dipper
+	dipper WORD[334,   1]: 0.0002108 半夏
+TOKEN[335]: 0.0002061    1 grayish
+	grayish WORD[335,   1]: 0.0002061 半白
+TOKEN[336]: 0.0002045    1 feigned
+	feigned WORD[336,   1]: 0.0002045 半兵衛
+TOKEN[337]: 0.0002031    1 insufficiency
+	insufficiency WORD[337,   1]: 0.0002031 半可
+TOKEN[338]: 0.0001982    1 solstice
+	solstice WORD[338,   1]: 0.0001982 半夏
+TOKEN[339]: 0.0001940    1 salamander
+	salamander WORD[339,   1]: 0.0001940 半裂
+TOKEN[340]: 0.0001927    1 duration
+	duration WORD[340,   1]: 0.0001927 半季
+TOKEN[341]: 0.0001880    1 ripe
+	ripe WORD[341,   1]: 0.0001880 半可
+TOKEN[342]: 0.0001850    1 mediocre
+	mediocre WORD[342,   1]: 0.0001850 生半
+TOKEN[343]: 0.0001848    1 ignorance
+	ignorance WORD[343,   1]: 0.0001848 半兵衛
+TOKEN[344]: 0.0001795    2 Japanese
+	Japanese WORD[344,   1]: 0.0000898 半紙
+	Japanese WORD[344,   2]: 0.0000898 半裂
+TOKEN[345]: 0.0001774    1 uncertain
+	uncertain WORD[345,   1]: 0.0001774 生半
+TOKEN[346]: 0.0001765    1 thrown
+	thrown WORD[346,   1]: 0.0001765 丁半
+TOKEN[347]: 0.0001756    1 thigh
+	thigh WORD[347,   1]: 0.0001756 半跏
+TOKEN[348]: 0.0001736    1 lotus
+	lotus WORD[348,   1]: 0.0001736 半跏
+TOKEN[349]: 0.0001732    1 crow
+	crow WORD[349,   1]: 0.0001732 半夏
+TOKEN[350]: 0.0001726    1 hissing
+	hissing WORD[350,   1]: 0.0001726 半畳
+TOKEN[351]: 0.0001726    1 hemicycle
+	hemicycle WORD[351,   1]: 0.0001726 半周
+TOKEN[352]: 0.0001713    2 price
+	price WORD[352,   1]: 0.0000857 半値
+	price WORD[352,   2]: 0.0000856 半額
+TOKEN[353]: 0.0001706    1 bet
+	bet WORD[353,   1]: 0.0001706 丁半
+TOKEN[354]: 0.0001675    1 posture
+	posture WORD[354,   1]: 0.0001675 半跏
+TOKEN[355]: 0.0001619    2 number
+	number WORD[355,   1]: 0.0000810 半数
+	number WORD[355,   2]: 0.0000810 半
+TOKEN[356]: 0.0001612    1 meditation
+	meditation WORD[356,   1]: 0.0001612 半跏
+TOKEN[357]: 0.0001601    1 body
+	body WORD[357,   1]: 0.0000800 半身
+TOKEN[358]: 0.0001595    1 farming
+	farming WORD[358,   1]: 0.0001595 半農
+TOKEN[359]: 0.0001580    1 collar
+	collar WORD[359,   1]: 0.0001580 半襟
+TOKEN[360]: 0.0001571    1 haploid
+	haploid WORD[360,   1]: 0.0001571 半数
+TOKEN[361]: 0.0001571    1 semitone
+	semitone WORD[361,   1]: 0.0001571 半音
+TOKEN[362]: 0.0001569    1 bell
+	bell WORD[362,   1]: 0.0001569 半鐘
+TOKEN[363]: 0.0001541    1 giant
+	giant WORD[363,   1]: 0.0001541 半裂
+TOKEN[364]: 0.0001535    1 gambling
+	gambling WORD[364,   1]: 0.0001535 丁半
+TOKEN[365]: 0.0001534    1 crop
+	crop WORD[365,   1]: 0.0001534 半作
+TOKEN[366]: 0.0001531    1 incompleteness
+	incompleteness WORD[366,   1]: 0.0001531 半端
+TOKEN[367]: 0.0001531    1 interrupting
+	interrupting WORD[367,   1]: 0.0001531 半畳
+TOKEN[368]: 0.0001499    1 jeering
+	jeering WORD[368,   1]: 0.0001499 半畳
+TOKEN[369]: 0.0001496    1 opposite
+	opposite WORD[369,   1]: 0.0001496 半跏
+TOKEN[370]: 0.0001493    1 employment
+	employment WORD[370,   1]: 0.0001493 半季
+TOKEN[371]: 0.0001482    1 bow
+	bow WORD[371,   1]: 0.0001482 半弓
+TOKEN[372]: 0.0001474    1 pewter
+	pewter WORD[372,   1]: 0.0001474 半田
+TOKEN[373]: 0.0001456    1 understood
+	understood WORD[373,   1]: 0.0001456 半解
+TOKEN[374]: 0.0001435    1 sitting
+	sitting WORD[374,   1]: 0.0001435 半跏
+TOKEN[375]: 0.0001402    1 peninsula
+	peninsula WORD[375,   1]: 0.0001402 半島
+TOKEN[376]: 0.0001390    1 quality
+	quality WORD[376,   1]: 0.0001390 半襟
+TOKEN[377]: 0.0001388    1 solder
+	solder WORD[377,   1]: 0.0001388 半田
+TOKEN[378]: 0.0001387    1 total
+	total WORD[378,   1]: 0.0001387 丁半
+TOKEN[379]: 0.0001383    1 brief
+	brief WORD[379,   1]: 0.0001383 半句
+TOKEN[380]: 0.0001374    1 greater
+	greater WORD[380,   1]: 0.0001374 過半
+TOKEN[381]: 0.0001367    1 summer
+	summer WORD[381,   1]: 0.0001367 半夏
+TOKEN[382]: 0.0001364    1 han
+	han WORD[382,   1]: 0.0001364 半
+TOKEN[383]: 0.0001363    1 season
+	season WORD[383,   1]: 0.0001363 半季
+TOKEN[384]: 0.0001345    1 perfunctory
+	perfunctory WORD[384,   1]: 0.0001345 半端
+TOKEN[385]: 0.0001345    1 remnant
+	remnant WORD[385,   1]: 0.0001345 半端
+TOKEN[386]: 0.0001319    1 colour
+	colour WORD[386,   1]: 0.0001319 半白
+TOKEN[387]: 0.0001311    1 radius
+	radius WORD[387,   1]: 0.0001311 半径
+TOKEN[388]: 0.0001299    1 color
+	color WORD[388,   1]: 0.0001299 半白
+TOKEN[389]: 0.0001297    1 irresponsible
+	irresponsible WORD[389,   1]: 0.0001297 半端
+TOKEN[390]: 0.0001272    1 unripe
+	unripe WORD[390,   1]: 0.0001272 半熟
+TOKEN[391]: 0.0001272    1 globe
+	globe WORD[391,   1]: 0.0001272 半周
+TOKEN[392]: 0.0001242    1 last
+	last WORD[392,   1]: 0.0001242 半夏
+TOKEN[393]: 0.0001220    1 hair
+	hair WORD[393,   1]: 0.0001220 半白
+TOKEN[394]: 0.0001215    1 position
+	position WORD[394,   1]: 0.0001215 半跏
+TOKEN[395]: 0.0001210    1 fraction
+	fraction WORD[395,   1]: 0.0001210 半端
+TOKEN[396]: 0.0001193    1 fragment
+	fragment WORD[396,   1]: 0.0001193 半端
+TOKEN[397]: 0.0001183    1 fare
+	fare WORD[397,   1]: 0.0001183 半額
+TOKEN[398]: 0.0001162    1 bloom
+	bloom WORD[398,   1]: 0.0001162 半開き
+TOKEN[399]: 0.0001118    1 contrary
+	contrary WORD[399,   1]: 0.0001118 半面
+TOKEN[400]: 0.0001109    1 reverse
+	reverse WORD[400,   1]: 0.0001109 半面
+TOKEN[401]: 0.0001105    1 two
+	two WORD[401,   1]: 0.0001105 丁半
+TOKEN[402]: 0.0001089    1 mat
+	mat WORD[402,   1]: 0.0001089 半畳
+TOKEN[403]: 0.0001081    1 splitting
+	splitting WORD[403,   1]: 0.0001081 折半
+TOKEN[404]: 0.0001080    1 latter
+	latter WORD[404,   1]: 0.0001080 後半
+TOKEN[405]: 0.0001071    1 flag
+	flag WORD[405,   1]: 0.0001071 半旗
+TOKEN[406]: 0.0001068    1 word
+	word WORD[406,   1]: 0.0001068 半句
+TOKEN[407]: 0.0001064    1 foolish
+	foolish WORD[407,   1]: 0.0001064 半端
+TOKEN[408]: 0.0001061    1 sum
+	sum WORD[408,   1]: 0.0001061 半端
+TOKEN[409]: 0.0001055    1 majority
+	majority WORD[409,   1]: 0.0001055 大半
+TOKEN[410]: 0.0001046    1 cry
+	cry WORD[410,   1]: 0.0001046 半泣き
+TOKEN[411]: 0.0001043    1 reduction
+	reduction WORD[411,   1]: 0.0001043 半減
+TOKEN[412]: 0.0001016    1 dead
+	dead WORD[412,   1]: 0.0001016 夜半
+TOKEN[413]: 0.0001004    1 six
+	six WORD[413,   1]: 0.0001004 半年
+TOKEN[414]: 0.0000968    1 earth
+	earth WORD[414,   1]: 0.0000968 半周
+TOKEN[415]: 0.0000966    1 quarter
+	quarter WORD[415,   1]: 0.0000966 四半
+TOKEN[416]: 0.0000946    1 night
+	night WORD[416,   1]: 0.0000946 夜半
+TOKEN[417]: 0.0000946    1 fourth
+	fourth WORD[417,   1]: 0.0000946 四半
+TOKEN[418]: 0.0000854    1 time
+	time WORD[418,   1]: 0.0000854 半時
+TOKEN[419]: 0.0000841    1 land
+	land WORD[419,   1]: 0.0000841 半
+TOKEN[420]: 0.0000831    1 year
+	year WORD[420,   1]: 0.0000831 半年
+TOKEN[421]: 0.0000821    1 square
+	square WORD[421,   1]: 0.0000821 四半
+TOKEN[422]: 0.0000819    1 set
+	set WORD[422,   1]: 0.0000819 半端
+TOKEN[423]: 0.0000816    1 area
+	area WORD[423,   1]: 0.0000816 半
+TOKEN[424]: 0.0000814    1 upper
+	upper WORD[424,   1]: 0.0000814 上半
+TOKEN[425]: 0.0000806    1 lower
+	lower WORD[425,   1]: 0.0000806 下半
+TOKEN[426]: 0.0000787    1 money
+	money WORD[426,   1]: 0.0000787 半額
+TOKEN[427]: 0.0000697    1 second
+	second WORD[427,   1]: 0.0000697 後半

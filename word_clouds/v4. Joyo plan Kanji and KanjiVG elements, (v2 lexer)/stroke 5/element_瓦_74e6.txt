@@ -1,0 +1,569 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0833333    1 kilogram       : 瓩
+0.0551288    1 ton            : 瓲
+0.0549613    3 brick          : 甎, 瓦石, 煉瓦
+0.0521612   11 tile           : 棟瓦, 甍, 石瓦, 瓦屋, 瓦窯, 丸瓦, 屋根瓦, 巴瓦, 鬼瓦, 瓦当, ...
+0.0427587    6 used           : 甎, 平瓮, 瓶掛, 華瓶, 瓶子, 花瓶
+0.0401078    2 porcelain      : 青瓷, 白瓷
+0.0378870    1 giant          : 甌穴
+0.0360474    1 ridge          : 棟瓦
+0.0343130    6 earthenware    : 平瓮, 甕, 藍瓶, 瓶子, 土瓶, 大瓶
+0.0304786    9 roof           : 甍, 石瓦, 瓦屋, 瓦屋根, 丸瓦, 平瓦, 屋根瓦, 瓦当, 瓦石
+0.0293885    1 celadon        : 青瓷
+0.0282046    1 metric         : 瓲
+0.0278604    1 steaming       : 甑
+0.0258217    1 pothole        : 甌穴
+0.0228456    3 tiled          : 甍, 瓦屋, 瓦屋根
+0.0205177    4 sake           : 甑, 酒甕, 甕, 酒瓶
+0.0201147    2 kettle         : 甌穴, 鉄瓶
+0.0191807    1 divination     : 平瓮
+0.0168314    1 crowded        : 甍
+0.0167426    1 flat           : 平瓮
+0.0159545    1 dish           : 平瓮
+0.0147431    7 pot            : 甕, 藍瓶, 宝瓶, 瓶子, 尿瓶, 溲瓶, 大瓶
+0.0138370    1 white          : 白瓷
+0.0136862    1 brewing        : 甕
+0.0127056   11 bottle         : 破瓶, 中瓶, 酒瓶, 薬瓶, 角瓶, 空き瓶, 空瓶, 尿瓶, 溲瓶, 小瓶, ...
+0.0118384    1 paving         : 甃
+0.0115688    4 jug            : 酒甕, 水甕, 瓶子, 水瓶
+0.0111047    1 vat            : 甑
+0.0089478    1 clay           : 甑
+0.0087310    2 large          : 甕, 大瓶
+0.0081238    1 basket         : 甑
+0.0079554    1 production     : 甑
+0.0078391    2 stone          : 甃, 瓦石
+0.0069885    1 wood           : 甑
+0.0067033    1 urn            : 甕棺
+0.0066779    2 rectangular    : 甃, 角瓶
+0.0065276    1 sett           : 甃
+0.0062584    1 chocolate      : 甃
+0.0061560    1 flagstone      : 甃
+0.0060674    1 cobble         : 甃
+0.0056071    1 sponge         : 甃
+0.0056071    1 dessert        : 甃
+0.0055787    1 rice           : 甑
+0.0049507    1 several        : 甃
+0.0048119    1 cake           : 甃
+0.0047746    3 made           : 甃, 華瓶, 花瓶
+0.0043331    1 check          : 甃
+0.0041601    1 breakage       : 破瓶
+0.0041345    1 pattern        : 甃
+0.0035073    1 funerary       : 甕棺
+0.0032866    3 water          : 水甕, 撥ね釣瓶, 水瓶
+0.0029953    1 broken         : 破瓶
+0.0028359    1 burial         : 甕棺
+0.0026920    1 handleless     : 宝瓶
+0.0025757    2 tea            : 瓶掛, 宝瓶
+0.0023197    2 indigo         : 藍瓶, 瓶覗
+0.0022257    2 vial           : 薬瓶, 瓶
+0.0022050    2 gilded         : 華瓶, 花瓶
+0.0019233    2 vase           : 華瓶, 花瓶
+0.0018285    2 copper         : 華瓶, 花瓶
+0.0016007    2 Japanese       : 瓶覗, 宝瓶
+0.0015900    2 decanter       : 瓶子, 瓶
+0.0014428    1 instrument     : 瓶掛
+0.0014428    2 flower         : 華瓶, 花瓶
+0.0014143    2 jar            : 瓶子, 瓶
+0.0013697    2 empty          : 空き瓶, 空瓶
+0.0013076    2 hold           : 華瓶, 花瓶
+0.0012962    1 dye            : 藍瓶
+0.0012739    1 slate          : 石瓦
+0.0012623    1 ceremony       : 瓶掛
+0.0012340    2 teapot         : 茶瓶, 土瓶
+0.0011874    2 bottling       : 瓶詰, 瓶詰め
+0.0011874    2 bottled        : 瓶詰, 瓶詰め
+0.0011623    1 beer           : 中瓶
+0.0010868    1 phial          : 瓶
+0.0010868    1 flagon         : 瓶
+0.0010455    1 sinking        : 釣瓶落とし
+0.0009923    2 bucket         : 撥ね釣瓶, 釣瓶
+0.0009410    1 faint          : 瓶覗
+0.0008263    1 blue           : 瓶覗
+0.0007568    1 color          : 瓶覗
+0.0007182    1 medicine       : 薬瓶
+0.0007139    1 traditional    : 瓶覗
+0.0007074    2 bedpan         : 尿瓶, 溲瓶
+0.0006955    1 name           : 瓶覗
+0.0006939    2 urinal         : 尿瓶, 溲瓶
+0.0006826    2 urinary        : 尿瓶, 溲瓶
+0.0006189    1 weighted       : 撥ね釣瓶
+0.0006091    2 urine          : 尿瓶, 溲瓶
+0.0005754    2 chamber        : 尿瓶, 溲瓶
+0.0005388    2 kiln           : 瓦窯, 瓦屋
+0.0005220    2 medical        : 尿瓶, 溲瓶
+0.0005061    1 suspended      : 撥ね釣瓶
+0.0004900    1 rod            : 撥ね釣瓶
+0.0003992    1 iron           : 鉄瓶
+0.0003428    1 Trametes       : 瓦茸
+0.0003427    1 tiler          : 瓦屋
+0.0003255    2 house          : 瓦家, 瓦屋
+0.0003216    1 turkey         : 瓦茸
+0.0002936    1 versicolor     : 瓦茸
+0.0002927    1 convex         : 丸瓦
+0.0002927    1 concave        : 平瓦
+0.0002611    1 gargoyle       : 鬼瓦
+0.0002591    2 decorative     : 鬼瓦, 瓦当
+0.0002561    1 maker          : 瓦屋
+0.0002524    1 face           : 鬼瓦
+0.0002308    1 mushroom       : 瓦茸
+0.0002300    1 dealer         : 瓦屋
+0.0002288    1 hideous        : 鬼瓦
+0.0002264    1 tail           : 瓦茸
+0.0002208    1 newspaper      : 瓦版
+0.0001834    1 type           : 瓦版
+0.0001784    1 small          : 小瓶
+0.0001777    1 demon          : 鬼瓦
+0.0001639    1 bearing        : 鬼瓦
+0.0001616    1 gas            : 瓦斯
+0.0000892    1 cap            : 瓦当
+0.0000604    1 gramme         : 瓦
+0.0000567    1 gram           : 瓦
+0.0000515    1 meaningless    : 瓦全
+0.0000513    2 garbage        : 瓦石, 瓦落多
+0.0000513    1 stock          : 瓦落
+0.0000434    2 trash          : 瓦礫, 瓦落多
+0.0000426    2 rubbish        : 瓦礫, 瓦落多
+0.0000423    1 existence      : 瓦全
+0.0000417    1 fog            : 瓦斯
+0.0000361    1 conical        : 瓦灯
+0.0000339    1 curved         : 瓦灯
+0.0000330    1 crash          : 瓦落
+0.0000325    1 lantern        : 瓦灯
+0.0000318    1 worthless      : 瓦石
+0.0000311    1 pottery        : 瓦灯
+0.0000284    1 wreckage       : 瓦礫
+0.0000284    1 petrol         : 瓦斯
+0.0000284    1 flatulence     : 瓦斯
+0.0000282    1 sudden         : 瓦落
+0.0000273    1 rubble         : 瓦礫
+0.0000260    1 gasoline       : 瓦斯
+0.0000259    1 market         : 瓦落
+0.0000255    1 debris         : 瓦礫
+0.0000255    1 cooker         : 瓦斯
+0.0000253    1 thing          : 瓦石
+0.0000251    1 shape          : 瓦灯
+0.0000241    1 stove          : 瓦斯
+0.0000241    1 downfall       : 瓦解
+0.0000237    1 fall           : 瓦落
+0.0000234    1 fuel           : 瓦斯
+0.0000230    1 junk           : 瓦落多
+0.0000224    1 odds           : 瓦落多
+0.0000204    1 dense          : 瓦斯
+0.0000203    1 poison         : 瓦斯
+0.0000203    1 yarn           : 瓦斯
+0.0000191    1 collapse       : 瓦解
+0.0000189    1 range          : 瓦斯
+0.0000175    1 thick          : 瓦斯
+0.0000165    1 matter         : 瓦斯
+0.0000155    1 wind           : 瓦斯
+0.0000155    1 state          : 瓦斯
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0833333    1 kilogram
+	kilogram WORD[ 1,   1]: 0.0833333 瓩
+TOKEN[ 2]: 0.0551288    1 ton
+	ton WORD[ 2,   1]: 0.0551288 瓲
+TOKEN[ 3]: 0.0549613    3 brick
+	brick WORD[ 3,   1]: 0.0548875 甎
+	brick WORD[ 3,   2]: 0.0000382 瓦石
+	brick WORD[ 3,   3]: 0.0000357 煉瓦
+TOKEN[ 4]: 0.0521612   11 tile
+	tile WORD[ 4,   1]: 0.0335783 棟瓦
+	tile WORD[ 4,   2]: 0.0157989 甍
+	tile WORD[ 4,   3]: 0.0010157 石瓦
+	tile WORD[ 4,   4]: 0.0006591 瓦屋
+	tile WORD[ 4,   5]: 0.0002197 瓦窯
+	tile WORD[ 4,   6]: 0.0002191 丸瓦
+	tile WORD[ 4,   7]: 0.0002191 屋根瓦
+	tile WORD[ 4,   8]: 0.0001721 巴瓦
+	tile WORD[ 4,   9]: 0.0001674 鬼瓦
+	tile WORD[ 4,  10]: 0.0000818 瓦当
+	tile WORD[ 4,  11]: 0.0000300 瓦石
+TOKEN[ 5]: 0.0427587    6 used
+	used WORD[ 5,   1]: 0.0284459 甎
+	used WORD[ 5,   2]: 0.0118991 平瓮
+	used WORD[ 5,   3]: 0.0009960 瓶掛
+	used WORD[ 5,   4]: 0.0007824 華瓶
+	used WORD[ 5,   5]: 0.0003098 瓶子
+	used WORD[ 5,   6]: 0.0001627 花瓶
+TOKEN[ 6]: 0.0401078    2 porcelain
+	porcelain WORD[ 6,   1]: 0.0214769 青瓷
+	porcelain WORD[ 6,   2]: 0.0186309 白瓷
+TOKEN[ 7]: 0.0378870    1 giant
+	giant WORD[ 7,   1]: 0.0378870 甌穴
+TOKEN[ 8]: 0.0360474    1 ridge
+	ridge WORD[ 8,   1]: 0.0360474 棟瓦
+TOKEN[ 9]: 0.0343130    6 earthenware
+	earthenware WORD[ 9,   1]: 0.0195564 平瓮
+	earthenware WORD[ 9,   2]: 0.0029873 甕
+	earthenware WORD[ 9,   3]: 0.0013117 藍瓶
+	earthenware WORD[ 9,   4]: 0.0005092 瓶子
+	earthenware WORD[ 9,   5]: 0.0004716 土瓶
+	earthenware WORD[ 9,   6]: 0.0002574 大瓶
+TOKEN[10]: 0.0304786    9 roof
+	roof WORD[10,   1]: 0.0284748 甍
+	roof WORD[10,   2]: 0.0009153 石瓦
+	roof WORD[10,   3]: 0.0001980 瓦屋
+	roof WORD[10,   4]: 0.0001975 瓦屋根
+	roof WORD[10,   5]: 0.0001974 丸瓦
+	roof WORD[10,   6]: 0.0001974 平瓦
+	roof WORD[10,   7]: 0.0001974 屋根瓦
+	roof WORD[10,   8]: 0.0000737 瓦当
+	roof WORD[10,   9]: 0.0000271 瓦石
+TOKEN[11]: 0.0293885    1 celadon
+	celadon WORD[11,   1]: 0.0293885 青瓷
+TOKEN[12]: 0.0282046    1 metric
+	metric WORD[12,   1]: 0.0282046 瓲
+TOKEN[13]: 0.0278604    1 steaming
+	steaming WORD[13,   1]: 0.0278604 甑
+TOKEN[14]: 0.0258217    1 pothole
+	pothole WORD[14,   1]: 0.0258217 甌穴
+TOKEN[15]: 0.0228456    3 tiled
+	tiled WORD[15,   1]: 0.0222282 甍
+	tiled WORD[15,   2]: 0.0003091 瓦屋
+	tiled WORD[15,   3]: 0.0003083 瓦屋根
+TOKEN[16]: 0.0205177    4 sake
+	sake WORD[16,   1]: 0.0067740 甑
+	sake WORD[16,   2]: 0.0038371 酒甕
+	sake WORD[16,   3]: 0.0023017 甕
+	sake WORD[16,   4]: 0.0006998 酒瓶
+TOKEN[17]: 0.0201147    2 kettle
+	kettle WORD[17,   1]: 0.0196247 甌穴
+	kettle WORD[17,   2]: 0.0004900 鉄瓶
+TOKEN[18]: 0.0191807    1 divination
+	divination WORD[18,   1]: 0.0191807 平瓮
+TOKEN[19]: 0.0168314    1 crowded
+	crowded WORD[19,   1]: 0.0168314 甍
+TOKEN[20]: 0.0167426    1 flat
+	flat WORD[20,   1]: 0.0167426 平瓮
+TOKEN[21]: 0.0159545    1 dish
+	dish WORD[21,   1]: 0.0159545 平瓮
+TOKEN[22]: 0.0147431    7 pot
+	pot WORD[22,   1]: 0.0026332 甕
+	pot WORD[22,   2]: 0.0011562 藍瓶
+	pot WORD[22,   3]: 0.0008232 宝瓶
+	pot WORD[22,   4]: 0.0004489 瓶子
+	pot WORD[22,   5]: 0.0002525 尿瓶
+	pot WORD[22,   6]: 0.0002525 溲瓶
+	pot WORD[22,   7]: 0.0002269 大瓶
+TOKEN[23]: 0.0138370    1 white
+	white WORD[23,   1]: 0.0138370 白瓷
+TOKEN[24]: 0.0136862    1 brewing
+	brewing WORD[24,   1]: 0.0034216 甕
+TOKEN[25]: 0.0127056   11 bottle
+	bottle WORD[25,   1]: 0.0060755 破瓶
+	bottle WORD[25,   2]: 0.0009521 中瓶
+	bottle WORD[25,   3]: 0.0008622 酒瓶
+	bottle WORD[25,   4]: 0.0008622 薬瓶
+	bottle WORD[25,   5]: 0.0008459 角瓶
+	bottle WORD[25,   6]: 0.0007676 空き瓶
+	bottle WORD[25,   7]: 0.0007676 空瓶
+	bottle WORD[25,   8]: 0.0002720 尿瓶
+	bottle WORD[25,   9]: 0.0002720 溲瓶
+	bottle WORD[25,  10]: 0.0002656 小瓶
+	bottle WORD[25,  11]: 0.0002543 瓶
+TOKEN[26]: 0.0118384    1 paving
+	paving WORD[26,   1]: 0.0118384 甃
+TOKEN[27]: 0.0115688    4 jug
+	jug WORD[27,   1]: 0.0055873 酒甕
+	jug WORD[27,   2]: 0.0045873 水甕
+	jug WORD[27,   3]: 0.0005713 瓶子
+	jug WORD[27,   4]: 0.0004114 水瓶
+TOKEN[28]: 0.0111047    1 vat
+	vat WORD[28,   1]: 0.0111047 甑
+TOKEN[29]: 0.0089478    1 clay
+	clay WORD[29,   1]: 0.0089478 甑
+TOKEN[30]: 0.0087310    2 large
+	large WORD[30,   1]: 0.0020926 甕
+	large WORD[30,   2]: 0.0001803 大瓶
+TOKEN[31]: 0.0081238    1 basket
+	basket WORD[31,   1]: 0.0081238 甑
+TOKEN[32]: 0.0079554    1 production
+	production WORD[32,   1]: 0.0079554 甑
+TOKEN[33]: 0.0078391    2 stone
+	stone WORD[33,   1]: 0.0078145 甃
+	stone WORD[33,   2]: 0.0000246 瓦石
+TOKEN[34]: 0.0069885    1 wood
+	wood WORD[34,   1]: 0.0069885 甑
+TOKEN[35]: 0.0067033    1 urn
+	urn WORD[35,   1]: 0.0067033 甕棺
+TOKEN[36]: 0.0066779    2 rectangular
+	rectangular WORD[36,   1]: 0.0056958 甃
+	rectangular WORD[36,   2]: 0.0009821 角瓶
+TOKEN[37]: 0.0065276    1 sett
+	sett WORD[37,   1]: 0.0065276 甃
+TOKEN[38]: 0.0062584    1 chocolate
+	chocolate WORD[38,   1]: 0.0062584 甃
+TOKEN[39]: 0.0061560    1 flagstone
+	flagstone WORD[39,   1]: 0.0061560 甃
+TOKEN[40]: 0.0060674    1 cobble
+	cobble WORD[40,   1]: 0.0060674 甃
+TOKEN[41]: 0.0056071    1 sponge
+	sponge WORD[41,   1]: 0.0056071 甃
+TOKEN[42]: 0.0056071    1 dessert
+	dessert WORD[42,   1]: 0.0056071 甃
+TOKEN[43]: 0.0055787    1 rice
+	rice WORD[43,   1]: 0.0055787 甑
+TOKEN[44]: 0.0049507    1 several
+	several WORD[44,   1]: 0.0049507 甃
+TOKEN[45]: 0.0048119    1 cake
+	cake WORD[45,   1]: 0.0048119 甃
+TOKEN[46]: 0.0047746    3 made
+	made WORD[46,   1]: 0.0035307 甃
+	made WORD[46,   2]: 0.0008785 華瓶
+	made WORD[46,   3]: 0.0001827 花瓶
+TOKEN[47]: 0.0043331    1 check
+	check WORD[47,   1]: 0.0043331 甃
+TOKEN[48]: 0.0041601    1 breakage
+	breakage WORD[48,   1]: 0.0041601 破瓶
+TOKEN[49]: 0.0041345    1 pattern
+	pattern WORD[49,   1]: 0.0041345 甃
+TOKEN[50]: 0.0035073    1 funerary
+	funerary WORD[50,   1]: 0.0035073 甕棺
+TOKEN[51]: 0.0032866    3 water
+	water WORD[51,   1]: 0.0025297 水甕
+	water WORD[51,   2]: 0.0003032 撥ね釣瓶
+	water WORD[51,   3]: 0.0002269 水瓶
+TOKEN[52]: 0.0029953    1 broken
+	broken WORD[52,   1]: 0.0029953 破瓶
+TOKEN[53]: 0.0028359    1 burial
+	burial WORD[53,   1]: 0.0028359 甕棺
+TOKEN[54]: 0.0026920    1 handleless
+	handleless WORD[54,   1]: 0.0013460 宝瓶
+TOKEN[55]: 0.0025757    2 tea
+	tea WORD[55,   1]: 0.0012030 瓶掛
+	tea WORD[55,   2]: 0.0006864 宝瓶
+TOKEN[56]: 0.0023197    2 indigo
+	indigo WORD[56,   1]: 0.0013230 藍瓶
+	indigo WORD[56,   2]: 0.0009968 瓶覗
+TOKEN[57]: 0.0022257    2 vial
+	vial WORD[57,   1]: 0.0011807 薬瓶
+	vial WORD[57,   2]: 0.0003483 瓶
+TOKEN[58]: 0.0022050    2 gilded
+	gilded WORD[58,   1]: 0.0015572 華瓶
+	gilded WORD[58,   2]: 0.0003239 花瓶
+TOKEN[59]: 0.0019233    2 vase
+	vase WORD[59,   1]: 0.0013583 華瓶
+	vase WORD[59,   2]: 0.0002825 花瓶
+TOKEN[60]: 0.0018285    2 copper
+	copper WORD[60,   1]: 0.0012913 華瓶
+	copper WORD[60,   2]: 0.0002686 花瓶
+TOKEN[61]: 0.0016007    2 Japanese
+	Japanese WORD[61,   1]: 0.0005539 瓶覗
+	Japanese WORD[61,   2]: 0.0005234 宝瓶
+TOKEN[62]: 0.0015900    2 decanter
+	decanter WORD[62,   1]: 0.0006167 瓶子
+	decanter WORD[62,   2]: 0.0003244 瓶
+TOKEN[63]: 0.0014428    1 instrument
+	instrument WORD[63,   1]: 0.0014428 瓶掛
+TOKEN[64]: 0.0014428    2 flower
+	flower WORD[64,   1]: 0.0010189 華瓶
+	flower WORD[64,   2]: 0.0002119 花瓶
+TOKEN[65]: 0.0014143    2 jar
+	jar WORD[65,   1]: 0.0005486 瓶子
+	jar WORD[65,   2]: 0.0002886 瓶
+TOKEN[66]: 0.0013697    2 empty
+	empty WORD[66,   1]: 0.0006849 空き瓶
+	empty WORD[66,   2]: 0.0006849 空瓶
+TOKEN[67]: 0.0013076    2 hold
+	hold WORD[67,   1]: 0.0009235 華瓶
+	hold WORD[67,   2]: 0.0001921 花瓶
+TOKEN[68]: 0.0012962    1 dye
+	dye WORD[68,   1]: 0.0012962 藍瓶
+TOKEN[69]: 0.0012739    1 slate
+	slate WORD[69,   1]: 0.0012739 石瓦
+TOKEN[70]: 0.0012623    1 ceremony
+	ceremony WORD[70,   1]: 0.0012623 瓶掛
+TOKEN[71]: 0.0012340    2 teapot
+	teapot WORD[71,   1]: 0.0006209 茶瓶
+	teapot WORD[71,   2]: 0.0006131 土瓶
+TOKEN[72]: 0.0011874    2 bottling
+	bottling WORD[72,   1]: 0.0005937 瓶詰
+	bottling WORD[72,   2]: 0.0005937 瓶詰め
+TOKEN[73]: 0.0011874    2 bottled
+	bottled WORD[73,   1]: 0.0005937 瓶詰
+	bottled WORD[73,   2]: 0.0005937 瓶詰め
+TOKEN[74]: 0.0011623    1 beer
+	beer WORD[74,   1]: 0.0011623 中瓶
+TOKEN[75]: 0.0010868    1 phial
+	phial WORD[75,   1]: 0.0003623 瓶
+TOKEN[76]: 0.0010868    1 flagon
+	flagon WORD[76,   1]: 0.0003623 瓶
+TOKEN[77]: 0.0010455    1 sinking
+	sinking WORD[77,   1]: 0.0010455 釣瓶落とし
+TOKEN[78]: 0.0009923    2 bucket
+	bucket WORD[78,   1]: 0.0005035 撥ね釣瓶
+	bucket WORD[78,   2]: 0.0004887 釣瓶
+TOKEN[79]: 0.0009410    1 faint
+	faint WORD[79,   1]: 0.0009410 瓶覗
+TOKEN[80]: 0.0008263    1 blue
+	blue WORD[80,   1]: 0.0008263 瓶覗
+TOKEN[81]: 0.0007568    1 color
+	color WORD[81,   1]: 0.0007568 瓶覗
+TOKEN[82]: 0.0007182    1 medicine
+	medicine WORD[82,   1]: 0.0007182 薬瓶
+TOKEN[83]: 0.0007139    1 traditional
+	traditional WORD[83,   1]: 0.0007139 瓶覗
+TOKEN[84]: 0.0007074    2 bedpan
+	bedpan WORD[84,   1]: 0.0003537 尿瓶
+	bedpan WORD[84,   2]: 0.0003537 溲瓶
+TOKEN[85]: 0.0006955    1 name
+	name WORD[85,   1]: 0.0006955 瓶覗
+TOKEN[86]: 0.0006939    2 urinal
+	urinal WORD[86,   1]: 0.0003470 尿瓶
+	urinal WORD[86,   2]: 0.0003470 溲瓶
+TOKEN[87]: 0.0006826    2 urinary
+	urinary WORD[87,   1]: 0.0003413 尿瓶
+	urinary WORD[87,   2]: 0.0003413 溲瓶
+TOKEN[88]: 0.0006189    1 weighted
+	weighted WORD[88,   1]: 0.0006189 撥ね釣瓶
+TOKEN[89]: 0.0006091    2 urine
+	urine WORD[89,   1]: 0.0003045 尿瓶
+	urine WORD[89,   2]: 0.0003045 溲瓶
+TOKEN[90]: 0.0005754    2 chamber
+	chamber WORD[90,   1]: 0.0002877 尿瓶
+	chamber WORD[90,   2]: 0.0002877 溲瓶
+TOKEN[91]: 0.0005388    2 kiln
+	kiln WORD[91,   1]: 0.0002694 瓦窯
+	kiln WORD[91,   2]: 0.0002694 瓦屋
+TOKEN[92]: 0.0005220    2 medical
+	medical WORD[92,   1]: 0.0002610 尿瓶
+	medical WORD[92,   2]: 0.0002610 溲瓶
+TOKEN[93]: 0.0005061    1 suspended
+	suspended WORD[93,   1]: 0.0005061 撥ね釣瓶
+TOKEN[94]: 0.0004900    1 rod
+	rod WORD[94,   1]: 0.0004900 撥ね釣瓶
+TOKEN[95]: 0.0003992    1 iron
+	iron WORD[95,   1]: 0.0003992 鉄瓶
+TOKEN[96]: 0.0003428    1 Trametes
+	Trametes WORD[96,   1]: 0.0003428 瓦茸
+TOKEN[97]: 0.0003427    1 tiler
+	tiler WORD[97,   1]: 0.0003427 瓦屋
+TOKEN[98]: 0.0003255    2 house
+	house WORD[98,   1]: 0.0001628 瓦家
+	house WORD[98,   2]: 0.0001628 瓦屋
+TOKEN[99]: 0.0003216    1 turkey
+	turkey WORD[99,   1]: 0.0003216 瓦茸
+TOKEN[100]: 0.0002936    1 versicolor
+	versicolor WORD[100,   1]: 0.0002936 瓦茸
+TOKEN[101]: 0.0002927    1 convex
+	convex WORD[101,   1]: 0.0002927 丸瓦
+TOKEN[102]: 0.0002927    1 concave
+	concave WORD[102,   1]: 0.0002927 平瓦
+TOKEN[103]: 0.0002611    1 gargoyle
+	gargoyle WORD[103,   1]: 0.0002611 鬼瓦
+TOKEN[104]: 0.0002591    2 decorative
+	decorative WORD[104,   1]: 0.0001741 鬼瓦
+	decorative WORD[104,   2]: 0.0000850 瓦当
+TOKEN[105]: 0.0002561    1 maker
+	maker WORD[105,   1]: 0.0002561 瓦屋
+TOKEN[106]: 0.0002524    1 face
+	face WORD[106,   1]: 0.0002524 鬼瓦
+TOKEN[107]: 0.0002308    1 mushroom
+	mushroom WORD[107,   1]: 0.0002308 瓦茸
+TOKEN[108]: 0.0002300    1 dealer
+	dealer WORD[108,   1]: 0.0002300 瓦屋
+TOKEN[109]: 0.0002288    1 hideous
+	hideous WORD[109,   1]: 0.0002288 鬼瓦
+TOKEN[110]: 0.0002264    1 tail
+	tail WORD[110,   1]: 0.0002264 瓦茸
+TOKEN[111]: 0.0002208    1 newspaper
+	newspaper WORD[111,   1]: 0.0002208 瓦版
+TOKEN[112]: 0.0001834    1 type
+	type WORD[112,   1]: 0.0001834 瓦版
+TOKEN[113]: 0.0001784    1 small
+	small WORD[113,   1]: 0.0001784 小瓶
+TOKEN[114]: 0.0001777    1 demon
+	demon WORD[114,   1]: 0.0001777 鬼瓦
+TOKEN[115]: 0.0001639    1 bearing
+	bearing WORD[115,   1]: 0.0001639 鬼瓦
+TOKEN[116]: 0.0001616    1 gas
+	gas WORD[116,   1]: 0.0001616 瓦斯
+TOKEN[117]: 0.0000892    1 cap
+	cap WORD[117,   1]: 0.0000892 瓦当
+TOKEN[118]: 0.0000604    1 gramme
+	gramme WORD[118,   1]: 0.0000302 瓦
+TOKEN[119]: 0.0000567    1 gram
+	gram WORD[119,   1]: 0.0000283 瓦
+TOKEN[120]: 0.0000515    1 meaningless
+	meaningless WORD[120,   1]: 0.0000515 瓦全
+TOKEN[121]: 0.0000513    2 garbage
+	garbage WORD[121,   1]: 0.0000312 瓦石
+	garbage WORD[121,   2]: 0.0000201 瓦落多
+TOKEN[122]: 0.0000513    1 stock
+	stock WORD[122,   1]: 0.0000513 瓦落
+TOKEN[123]: 0.0000434    2 trash
+	trash WORD[123,   1]: 0.0000217 瓦礫
+	trash WORD[123,   2]: 0.0000217 瓦落多
+TOKEN[124]: 0.0000426    2 rubbish
+	rubbish WORD[124,   1]: 0.0000213 瓦礫
+	rubbish WORD[124,   2]: 0.0000213 瓦落多
+TOKEN[125]: 0.0000423    1 existence
+	existence WORD[125,   1]: 0.0000423 瓦全
+TOKEN[126]: 0.0000417    1 fog
+	fog WORD[126,   1]: 0.0000417 瓦斯
+TOKEN[127]: 0.0000361    1 conical
+	conical WORD[127,   1]: 0.0000361 瓦灯
+TOKEN[128]: 0.0000339    1 curved
+	curved WORD[128,   1]: 0.0000339 瓦灯
+TOKEN[129]: 0.0000330    1 crash
+	crash WORD[129,   1]: 0.0000330 瓦落
+TOKEN[130]: 0.0000325    1 lantern
+	lantern WORD[130,   1]: 0.0000325 瓦灯
+TOKEN[131]: 0.0000318    1 worthless
+	worthless WORD[131,   1]: 0.0000318 瓦石
+TOKEN[132]: 0.0000311    1 pottery
+	pottery WORD[132,   1]: 0.0000311 瓦灯
+TOKEN[133]: 0.0000284    1 wreckage
+	wreckage WORD[133,   1]: 0.0000284 瓦礫
+TOKEN[134]: 0.0000284    1 petrol
+	petrol WORD[134,   1]: 0.0000284 瓦斯
+TOKEN[135]: 0.0000284    1 flatulence
+	flatulence WORD[135,   1]: 0.0000284 瓦斯
+TOKEN[136]: 0.0000282    1 sudden
+	sudden WORD[136,   1]: 0.0000282 瓦落
+TOKEN[137]: 0.0000273    1 rubble
+	rubble WORD[137,   1]: 0.0000273 瓦礫
+TOKEN[138]: 0.0000260    1 gasoline
+	gasoline WORD[138,   1]: 0.0000260 瓦斯
+TOKEN[139]: 0.0000259    1 market
+	market WORD[139,   1]: 0.0000259 瓦落
+TOKEN[140]: 0.0000255    1 debris
+	debris WORD[140,   1]: 0.0000255 瓦礫
+TOKEN[141]: 0.0000255    1 cooker
+	cooker WORD[141,   1]: 0.0000255 瓦斯
+TOKEN[142]: 0.0000253    1 thing
+	thing WORD[142,   1]: 0.0000253 瓦石
+TOKEN[143]: 0.0000251    1 shape
+	shape WORD[143,   1]: 0.0000251 瓦灯
+TOKEN[144]: 0.0000241    1 stove
+	stove WORD[144,   1]: 0.0000241 瓦斯
+TOKEN[145]: 0.0000241    1 downfall
+	downfall WORD[145,   1]: 0.0000241 瓦解
+TOKEN[146]: 0.0000237    1 fall
+	fall WORD[146,   1]: 0.0000237 瓦落
+TOKEN[147]: 0.0000234    1 fuel
+	fuel WORD[147,   1]: 0.0000234 瓦斯
+TOKEN[148]: 0.0000230    1 junk
+	junk WORD[148,   1]: 0.0000230 瓦落多
+TOKEN[149]: 0.0000224    1 odds
+	odds WORD[149,   1]: 0.0000224 瓦落多
+TOKEN[150]: 0.0000204    1 dense
+	dense WORD[150,   1]: 0.0000204 瓦斯
+TOKEN[151]: 0.0000203    1 poison
+	poison WORD[151,   1]: 0.0000203 瓦斯
+TOKEN[152]: 0.0000203    1 yarn
+	yarn WORD[152,   1]: 0.0000203 瓦斯
+TOKEN[153]: 0.0000191    1 collapse
+	collapse WORD[153,   1]: 0.0000191 瓦解
+TOKEN[154]: 0.0000189    1 range
+	range WORD[154,   1]: 0.0000189 瓦斯
+TOKEN[155]: 0.0000175    1 thick
+	thick WORD[155,   1]: 0.0000175 瓦斯
+TOKEN[156]: 0.0000165    1 matter
+	matter WORD[156,   1]: 0.0000165 瓦斯
+TOKEN[157]: 0.0000155    1 wind
+	wind WORD[157,   1]: 0.0000155 瓦斯
+TOKEN[158]: 0.0000155    1 state
+	state WORD[158,   1]: 0.0000155 瓦斯

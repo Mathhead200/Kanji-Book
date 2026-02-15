@@ -1,0 +1,922 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2611572  121 night          : 静夜, 星夜, 夜濯ぎ, 夜闇, 夜釣, 夜釣り, 夜風, 夙夜, 夜寒, 初夜, ...
+0.0528223   22 evening        : 夜ごはん, 夜ご飯, 夜御飯, 夜学, 昨夜, 夜分, 連夜, 夜な夜な, 夜々, 夜夜, ...
+0.0368391    1 quiet          : 静夜
+0.0355393    4 dinner         : 夜ごはん, 夜ご飯, 夜御飯, 夜
+0.0300215    4 meal           : 夜ごはん, 夜ご飯, 夜御飯, 夜食
+0.0207918    1 washing        : 夜濯ぎ
+0.0205234    1 starlight      : 星夜
+0.0195200    1 starry         : 星夜
+0.0193350    1 height         : 夜濯ぎ
+0.0188897    2 summer         : 夜濯ぎ, 短夜
+0.0168915    1 clothes        : 夜濯ぎ
+0.0089466    2 angling        : 夜釣, 夜釣り
+0.0089134    6 nocturnal      : 夜啼き, 夜鳴き, 夜鳥, 夜光, 夜型, 夜襲
+0.0088684    5 vigil          : 夜宮, 夜伽, 夜明かし, 夜明し, 通夜
+0.0084240    6 dead           : 夜闇, 夜籠り, 夜陰, 夜なか, 夜半, 夜中
+0.0078936    1 Noctuidae      : 夜蛾
+0.0078936    1 noctuid        : 夜蛾
+0.0075698    6 midnight       : 夜逃げ, 半夜, 後夜, 夜半, 夜食, 白夜
+0.0074466    1 owlet          : 夜蛾
+0.0061263    4 moonlit        : 良夜, おぼろ夜, 朧夜, 月夜
+0.0061177    2 nights         : 千夜, 先夜
+0.0059367    2 fishing        : 夜釣, 夜釣り
+0.0056205    3 nighthawk      : 夜ふかし, 夜更かし, 夜更し
+0.0053838    1 moth           : 夜蛾
+0.0051731    4 overnight      : 夜来, 夜逃げ, 夜伽, 一夜
+0.0050319    2 cold           : 寒夜, 夜寒
+0.0049590    3 shift          : 夜直, 夜業, 夜勤
+0.0049557    2 moonless       : やみ夜, 闇夜
+0.0047176    4 morning        : 夙夜, 後夜, 夜ふけ, 夜更け
+0.0046898    4 dark           : やみ夜, 暗夜, 闇夜, 夜目
+0.0046881    4 bird           : 夜啼き, 夜鳴き, 夜鷹, 夜鳥
+0.0046862    4 work           : 夜働き, 夜なべ, 夜鍋, 夜業
+0.0046073    5 day            : 夙夜, 夜昼, 昼夜, 七夜, 日夜
+0.0045676    2 watchman       : 夜警, 夜回り
+0.0043220    4 festival       : 夜宮, 夜祭, 夜祭り, 前夜
+0.0043120    2 moon           : 月夜見, 十六夜
+0.0042548    5 last           : 夜来, 夜前, 一昨夜, 前夜, 昨夜
+0.0041923    2 family         : 夜蛾, 夜鷹
+0.0040529    2 tonight        : 当夜, 今夜
+0.0039957    3 eve            : 夜宮, 逮夜, 前夜
+0.0039287    1 mythology      : 月夜見
+0.0039184    3 keeping        : 夜ふかし, 夜更かし, 夜更し
+0.0038959    1 snowy          : 雪夜
+0.0037703    3 sitting        : 夜ふかし, 夜更かし, 夜更し
+0.0037079    3 late           : 夜ふかし, 夜更かし, 夜更し
+0.0034797    1 polar          : 極夜
+0.0034333    2 middle         : 夜なか, 夜中
+0.0033639    1 Shinto         : 月夜見
+0.0032954    3 watch          : 夜番, 初夜, 夜回り
+0.0032231    2 nighttime      : 夜分, 夜間
+0.0031990    1 god            : 月夜見
+0.0031868    3 party          : 夜咄, 夜話, 夜会
+0.0031337    1 bedroom        : 夜這い
+0.0030961    2 sky            : 夜天, 夜空
+0.0030916    1 dew            : 夜露
+0.0030552    2 walking        : 夜歩き, 夜行
+0.0030226    2 chat           : 夜咄, 夜話
+0.0029442    2 told           : 夜咄, 夜話
+0.0028799    2 informal       : 夜咄, 夜話
+0.0028161    1 please         : 夜露死苦
+0.0028119    2 tale           : 夜咄, 夜話
+0.0028091    2 misty          : おぼろ夜, 朧夜
+0.0027079    3 one            : 夜爪, 夜逃げ, 一夜
+0.0027067    1 crow           : 夜烏
+0.0026510    1 fog            : 夜霧
+0.0026363    2 calling        : 夜啼き, 夜鳴き
+0.0025510    1 market         : 夜市
+0.0025277    2 starting       : 夜咄, 夜話
+0.0023826    2 song           : 夜啼き, 夜鳴き
+0.0023786    1 breeze         : 夜風
+0.0023077    1 till           : 夙夜
+0.0022914    2 daybreak       : 夜明, 夜明け
+0.0022687    1 thousand       : 千夜
+0.0022421    2 stall          : 夜店, 夜見世
+0.0022161    2 class          : 夜鷹, 夜学
+0.0021934    1 upping         : 夜逃げ
+0.0021639    2 tea            : 夜咄, 夜話
+0.0021572    1 noctilucence   : 夜光
+0.0020926    1 rain           : 夜雨
+0.0020530    2 dawn           : 夜明, 夜明け
+0.0020146    1 snack          : 夜食
+0.0020109    2 book           : 夜咄, 夜話
+0.0020015    1 moonflower     : 夜顔
+0.0019954    1 Caprimulgidae  : 夜鷹
+0.0019954    1 goatsucker     : 夜鷹
+0.0019954    1 nightjar       : 夜鷹
+0.0019698    2 fair           : 夜店, 夜見世
+0.0019623    1 bedclothes     : 夜具
+0.0019347    1 travel         : 夜行
+0.0019146    1 black          : 夜闇
+0.0019129    1 luminescence   : 夜光
+0.0019039    1 Caprimulgus    : 夜鷹
+0.0018841    2 Christmas      : 前夜, 聖夜
+0.0018746    1 school         : 夜学
+0.0018713    1 penile         : 夜立ち
+0.0018380    1 frosty         : 霜夜
+0.0018295    1 many           : 千夜
+0.0018210    1 sentry         : 夜番
+0.0017852    1 alba           : 夜顔
+0.0017808    1 sneaking       : 夜這い
+0.0017808    1 flit           : 夜逃げ
+0.0017574    2 Eve            : 聖夜, 除夜
+0.0017502    1 wind           : 夜風
+0.0017195    1 streetwalker   : 夜鷹
+0.0017075    1 deathbed       : 夜爪
+0.0017030    1 stillness      : 夜気
+0.0016885    2 period         : 夜鷹, 後夜
+0.0016851    2 shop           : 夜店, 夜見世
+0.0016808    2 attack         : 夜討ち, 夜襲
+0.0016754    1 vanishing      : 夜逃げ
+0.0016699    1 Ipomoea        : 夜顔
+0.0016459    1 sun            : 白夜
+0.0016395    1 moonlight      : 夜逃げ
+0.0016395    1 skipping       : 夜逃げ
+0.0016310    1 bidding        : 夜伽
+0.0016230    1 erection       : 夜立ち
+0.0016226    1 train          : 夜行
+0.0016211    1 chill          : 夜寒
+0.0015839    1 creeping       : 夜這い
+0.0015800    1 burglar        : 夜盗
+0.0015740    1 tomorrow       : 明夜
+0.0015669    1 stealing       : 夜這い
+0.0015599    1 warfare        : 夜戦
+0.0015568    1 bedding        : 夜具
+0.0015535    1 praying        : 夜籠り
+0.0015478    1 quilt          : 夜着
+0.0015319    1 nurse          : 夜伽
+0.0014723    1 bridal         : 初夜
+0.0014708    1 nocturne       : 夜曲
+0.0014538    1 darkness       : 夜逃げ
+0.0014217    1 burial         : 夜伽
+0.0014213    1 demonic        : 夜叉
+0.0014197    1 asleep         : 夜の目
+0.0014122    1 journey        : 夜道
+0.0013903    1 sold           : 夜鷹
+0.0013866    1 perpetual      : 常夜
+0.0013721    2 small          : 夜ふけ, 夜更け
+0.0013692    1 grey           : 夜鷹
+0.0013333    1 storm          : 夜嵐
+0.0013249    1 sleeping       : 夜伽
+0.0013239    1 debt           : 夜逃げ
+0.0013046    1 walk           : 夜鷹
+0.0012951    1 miss           : 夜爪
+0.0012867    1 sailing        : 夜船
+0.0012814    1 scene          : 夜色
+0.0012811    1 supper         : 夜食
+0.0012788    1 setting        : 夜立ち
+0.0012737    1 cool           : 夜気
+0.0012619    1 girl           : 夜這い
+0.0012549    1 duty           : 夜直
+0.0012473    1 colic          : 夜泣き
+0.0012431    1 town           : 夜逃げ
+0.0012406    1 prostitute     : 夜鷹
+0.0012390    1 seventh        : 七夜
+0.0012370    1 anniversary    : 逮夜
+0.0012357    1 guard          : 夜伽
+0.0012335    1 visit          : 夜這い
+0.0012281    1 said           : 夜爪
+0.0012051    1 battle         : 夜軍
+0.0012041    2 person         : 逮夜, 夜型
+0.0011990    1 cover          : 夜逃げ
+0.0011891    1 street         : 夜道
+0.0011817    1 leaving        : 夜逃げ
+0.0011813    1 cutting        : 夜爪
+0.0011797    1 heavy          : 夜着
+0.0011751    1 cause          : 夜爪
+0.0011701    1 running        : 夜逃げ
+0.0011587    1 study          : 夜学
+0.0011360    1 low            : 夜鷹
+0.0011303    1 act            : 夜逃げ
+0.0011146    1 temple         : 夜籠り
+0.0011129    1 shrine         : 夜籠り
+0.0011091    1 celebration    : 七夜
+0.0011010    1 leave          : 夜逃げ
+0.0010849    1 love           : 夜這い
+0.0010726    1 air            : 夜気
+0.0010719    1 infant         : 夜泣き
+0.0010605    1 making         : 夜道
+0.0010549    1 remember       : 夜露死苦
+0.0010504    1 Edo            : 夜鷹
+0.0010250    1 assault        : 夜襲
+0.0010178    1 early          : 後夜
+0.0010159    1 fourth         : 夜食
+0.0010114    1 boat           : 夜船
+0.0010066    1 woman          : 夜這い
+0.0009947    1 guardian       : 夜叉
+0.0009945    1 man            : 夜伽
+0.0009845    1 old            : 夜逃げ
+0.0009843    1 crying         : 夜泣き
+0.0009770    1 life           : 夜逃げ
+0.0009732    1 ship           : 夜船
+0.0009593    1 treat          : 夜露死苦
+0.0009587    1 short          : 短夜
+0.0009569    1 division       : 乙夜
+0.0009390    1 cherry         : 夜桜
+0.0008993    1 autumn         : 夜長
+0.0008837    1 baby           : 夜泣き
+0.0008798    1 make           : 夜這い
+0.0008798    1 yesterday      : 昨夜
+0.0008776    1 death          : 逮夜
+0.0008672    1 best           : 夜露死苦
+0.0008638    1 wake           : 通夜
+0.0008563    1 extreme        : 白夜
+0.0008515    1 clock          : 日夜
+0.0008444    1 holy           : 聖夜
+0.0008358    1 care           : 夜露死苦
+0.0008259    1 second         : 乙夜
+0.0008254    1 view           : 夜景
+0.0008193    1 child          : 七夜
+0.0007923    1 someone        : 夜伽
+0.0007812    1 Buddhist       : 夜叉
+0.0007256    1 previous       : 前夜
+0.0007044    1 white          : 白夜
+0.0007010    1 major          : 前夜
+0.0007000    1 manga          : 輝夜姫
+0.0006877    1 rainy          : 雨夜
+0.0006808    1 set            : 白夜
+0.0006671    1 event          : 前夜
+0.0006590    1 take           : 夜露死苦
+0.0006216    1 series         : 輝夜姫
+0.0005941    1 body           : 通夜
+0.0005605    1 main           : 輝夜姫
+0.0005187    1 character      : 輝夜姫
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2611572  121 night
+	night WORD[ 1,   1]: 0.0314215 静夜
+	night WORD[ 1,   2]: 0.0236323 星夜
+	night WORD[ 1,   3]: 0.0160884 夜濯ぎ
+	night WORD[ 1,   4]: 0.0055579 夜闇
+	night WORD[ 1,   5]: 0.0053589 夜釣
+	night WORD[ 1,   6]: 0.0053589 夜釣り
+	night WORD[ 1,   7]: 0.0034445 夜風
+	night WORD[ 1,   8]: 0.0032372 夙夜
+	night WORD[ 1,   9]: 0.0032284 夜寒
+	night WORD[ 1,  10]: 0.0027673 初夜
+	night WORD[ 1,  11]: 0.0027487 寒夜
+	night WORD[ 1,  12]: 0.0024276 夜市
+	night WORD[ 1,  13]: 0.0023856 極夜
+	night WORD[ 1,  14]: 0.0023518 夜店
+	night WORD[ 1,  15]: 0.0023518 夜見世
+	night WORD[ 1,  16]: 0.0023065 雪夜
+	night WORD[ 1,  17]: 0.0023013 夜行
+	night WORD[ 1,  18]: 0.0021819 やみ夜
+	night WORD[ 1,  19]: 0.0021735 連夜
+	night WORD[ 1,  20]: 0.0021646 夜な夜な
+	night WORD[ 1,  21]: 0.0021646 夜っぴて
+	night WORD[ 1,  22]: 0.0021598 夜々
+	night WORD[ 1,  23]: 0.0021598 夜夜
+	night WORD[ 1,  24]: 0.0021587 夜道
+	night WORD[ 1,  25]: 0.0021562 夜番
+	night WORD[ 1,  26]: 0.0021560 夜咄
+	night WORD[ 1,  27]: 0.0021560 夜話
+	night WORD[ 1,  28]: 0.0021560 夜這い
+	night WORD[ 1,  29]: 0.0021560 夜の目
+	night WORD[ 1,  30]: 0.0021553 夜どおし
+	night WORD[ 1,  31]: 0.0021553 夜通し
+	night WORD[ 1,  32]: 0.0021520 夜籠り
+	night WORD[ 1,  33]: 0.0021235 夜直
+	night WORD[ 1,  34]: 0.0021205 夜色
+	night WORD[ 1,  35]: 0.0021190 夜業
+	night WORD[ 1,  36]: 0.0021176 夜気
+	night WORD[ 1,  37]: 0.0021173 白夜
+	night WORD[ 1,  38]: 0.0021172 夜学
+	night WORD[ 1,  39]: 0.0019465 長夜
+	night WORD[ 1,  40]: 0.0019413 夜雨
+	night WORD[ 1,  41]: 0.0019256 夜烏
+	night WORD[ 1,  42]: 0.0019007 夜霧
+	night WORD[ 1,  43]: 0.0018761 夜天
+	night WORD[ 1,  44]: 0.0018452 夜船
+	night WORD[ 1,  45]: 0.0018141 常夜
+	night WORD[ 1,  46]: 0.0017993 前夜
+	night WORD[ 1,  47]: 0.0017237 当夜
+	night WORD[ 1,  48]: 0.0016557 闇夜
+	night WORD[ 1,  49]: 0.0015657 夜回り
+	night WORD[ 1,  50]: 0.0015630 夜なか
+	night WORD[ 1,  51]: 0.0015380 夜中
+	night WORD[ 1,  52]: 0.0015337 夜景
+	night WORD[ 1,  53]: 0.0013038 同夜
+	night WORD[ 1,  54]: 0.0010910 夜来
+	night WORD[ 1,  55]: 0.0010897 夜分
+	night WORD[ 1,  56]: 0.0010832 良夜
+	night WORD[ 1,  57]: 0.0010807 夜昼
+	night WORD[ 1,  58]: 0.0010787 夜祭
+	night WORD[ 1,  59]: 0.0010787 夜祭り
+	night WORD[ 1,  60]: 0.0010786 夜ふかし
+	night WORD[ 1,  61]: 0.0010786 夜更かし
+	night WORD[ 1,  62]: 0.0010786 夜更し
+	night WORD[ 1,  63]: 0.0010780 夜働き
+	night WORD[ 1,  64]: 0.0010780 夜逃げ
+	night WORD[ 1,  65]: 0.0010778 夜なべ
+	night WORD[ 1,  66]: 0.0010778 夜鍋
+	night WORD[ 1,  67]: 0.0010778 夜啼き
+	night WORD[ 1,  68]: 0.0010778 夜鳴き
+	night WORD[ 1,  69]: 0.0010776 夜伽
+	night WORD[ 1,  70]: 0.0010776 夜露
+	night WORD[ 1,  71]: 0.0010776 夜爪
+	night WORD[ 1,  72]: 0.0010774 夜立ち
+	night WORD[ 1,  73]: 0.0010773 夜鷹
+	night WORD[ 1,  74]: 0.0010741 霜夜
+	night WORD[ 1,  75]: 0.0010738 夜軍
+	night WORD[ 1,  76]: 0.0010738 夜歩き
+	night WORD[ 1,  77]: 0.0010738 夜嵐
+	night WORD[ 1,  78]: 0.0010627 夜盗
+	night WORD[ 1,  79]: 0.0010616 夜前
+	night WORD[ 1,  80]: 0.0010616 夜戦
+	night WORD[ 1,  81]: 0.0010597 夜警
+	night WORD[ 1,  82]: 0.0010586 夜陰
+	night WORD[ 1,  83]: 0.0010496 明夜
+	night WORD[ 1,  84]: 0.0010372 暮夜
+	night WORD[ 1,  85]: 0.0010154 一夜
+	night WORD[ 1,  86]: 0.0009749 即夜
+	night WORD[ 1,  87]: 0.0009706 昼夜
+	night WORD[ 1,  88]: 0.0009434 短夜
+	night WORD[ 1,  89]: 0.0009023 終夜
+	night WORD[ 1,  90]: 0.0008982 おぼろ夜
+	night WORD[ 1,  91]: 0.0008982 朧夜
+	night WORD[ 1,  92]: 0.0008982 月夜
+	night WORD[ 1,  93]: 0.0008943 一昨夜
+	night WORD[ 1,  94]: 0.0008278 暗夜
+	night WORD[ 1,  95]: 0.0008232 乙夜
+	night WORD[ 1,  96]: 0.0007848 夜もすがら
+	night WORD[ 1,  97]: 0.0007827 夜ふけ
+	night WORD[ 1,  98]: 0.0007826 夜更け
+	night WORD[ 1,  99]: 0.0007815 夜泣き
+	night WORD[ 1, 100]: 0.0007815 夜長
+	night WORD[ 1, 101]: 0.0007812 夜空
+	night WORD[ 1, 102]: 0.0007791 夜桜
+	night WORD[ 1, 103]: 0.0007780 夜討ち
+	night WORD[ 1, 104]: 0.0007768 夜遊び
+	night WORD[ 1, 105]: 0.0007768 夜明かし
+	night WORD[ 1, 106]: 0.0007768 夜明し
+	night WORD[ 1, 107]: 0.0007695 夜半
+	night WORD[ 1, 108]: 0.0007674 夜食
+	night WORD[ 1, 109]: 0.0007674 夜襲
+	night WORD[ 1, 110]: 0.0007662 夜勤
+	night WORD[ 1, 111]: 0.0007660 夜間
+	night WORD[ 1, 112]: 0.0007659 夜営
+	night WORD[ 1, 113]: 0.0007659 夜
+	night WORD[ 1, 114]: 0.0007295 毎夜
+	night WORD[ 1, 115]: 0.0006637 日夜
+	night WORD[ 1, 116]: 0.0006328 徹夜
+	night WORD[ 1, 117]: 0.0005994 先夜
+	night WORD[ 1, 118]: 0.0005974 聖夜
+	night WORD[ 1, 119]: 0.0005875 深夜
+	night WORD[ 1, 120]: 0.0005725 昨夜
+	night WORD[ 1, 121]: 0.0005002 雨夜
+TOKEN[ 2]: 0.0528223   22 evening
+	evening WORD[ 2,   1]: 0.0097839 夜ごはん
+	evening WORD[ 2,   2]: 0.0097837 夜ご飯
+	evening WORD[ 2,   3]: 0.0097835 夜御飯
+	evening WORD[ 2,   4]: 0.0024503 夜学
+	evening WORD[ 2,   5]: 0.0013251 昨夜
+	evening WORD[ 2,   6]: 0.0012612 夜分
+	evening WORD[ 2,   7]: 0.0012577 連夜
+	evening WORD[ 2,   8]: 0.0012526 夜な夜な
+	evening WORD[ 2,   9]: 0.0012498 夜々
+	evening WORD[ 2,  10]: 0.0012498 夜夜
+	evening WORD[ 2,  11]: 0.0012476 夜咄
+	evening WORD[ 2,  12]: 0.0012476 夜話
+	evening WORD[ 2,  13]: 0.0012472 夜露
+	evening WORD[ 2,  14]: 0.0012254 夜気
+	evening WORD[ 2,  15]: 0.0012251 夜会
+	evening WORD[ 2,  16]: 0.0012251 夜陰
+	evening WORD[ 2,  17]: 0.0012004 暮夜
+	evening WORD[ 2,  18]: 0.0009422 小夜
+	evening WORD[ 2,  19]: 0.0008864 夜
+	evening WORD[ 2,  20]: 0.0008442 毎夜
+	evening WORD[ 2,  21]: 0.0006593 今夜
+	evening WORD[ 2,  22]: 0.0005876 一夜
+TOKEN[ 3]: 0.0368391    1 quiet
+	quiet WORD[ 3,   1]: 0.0368391 静夜
+TOKEN[ 4]: 0.0355393    4 dinner
+	dinner WORD[ 4,   1]: 0.0111719 夜ごはん
+	dinner WORD[ 4,   2]: 0.0111717 夜ご飯
+	dinner WORD[ 4,   3]: 0.0111715 夜御飯
+	dinner WORD[ 4,   4]: 0.0010121 夜
+TOKEN[ 5]: 0.0300215    4 meal
+	meal WORD[ 5,   1]: 0.0094363 夜ごはん
+	meal WORD[ 5,   2]: 0.0094361 夜ご飯
+	meal WORD[ 5,   3]: 0.0094360 夜御飯
+	meal WORD[ 5,   4]: 0.0017131 夜食
+TOKEN[ 6]: 0.0207918    1 washing
+	washing WORD[ 6,   1]: 0.0207918 夜濯ぎ
+TOKEN[ 7]: 0.0205234    1 starlight
+	starlight WORD[ 7,   1]: 0.0205234 星夜
+TOKEN[ 8]: 0.0195200    1 starry
+	starry WORD[ 8,   1]: 0.0195200 星夜
+TOKEN[ 9]: 0.0193350    1 height
+	height WORD[ 9,   1]: 0.0193350 夜濯ぎ
+TOKEN[10]: 0.0188897    2 summer
+	summer WORD[10,   1]: 0.0178434 夜濯ぎ
+	summer WORD[10,   2]: 0.0010463 短夜
+TOKEN[11]: 0.0168915    1 clothes
+	clothes WORD[11,   1]: 0.0168915 夜濯ぎ
+TOKEN[12]: 0.0089466    2 angling
+	angling WORD[12,   1]: 0.0044733 夜釣
+	angling WORD[12,   2]: 0.0044733 夜釣り
+TOKEN[13]: 0.0089134    6 nocturnal
+	nocturnal WORD[13,   1]: 0.0016475 夜啼き
+	nocturnal WORD[13,   2]: 0.0016475 夜鳴き
+	nocturnal WORD[13,   3]: 0.0016230 夜鳥
+	nocturnal WORD[13,   4]: 0.0016207 夜光
+	nocturnal WORD[13,   5]: 0.0012017 夜型
+	nocturnal WORD[13,   6]: 0.0011730 夜襲
+TOKEN[14]: 0.0088684    5 vigil
+	vigil WORD[14,   1]: 0.0035331 夜宮
+	vigil WORD[14,   2]: 0.0017632 夜伽
+	vigil WORD[14,   3]: 0.0012709 夜明かし
+	vigil WORD[14,   4]: 0.0012709 夜明し
+	vigil WORD[14,   5]: 0.0010304 通夜
+TOKEN[15]: 0.0084240    6 dead
+	dead WORD[15,   1]: 0.0019893 夜闇
+	dead WORD[15,   2]: 0.0011554 夜籠り
+	dead WORD[15,   3]: 0.0011367 夜陰
+	dead WORD[15,   4]: 0.0008391 夜なか
+	dead WORD[15,   5]: 0.0008263 夜半
+	dead WORD[15,   6]: 0.0008257 夜中
+TOKEN[16]: 0.0078936    1 Noctuidae
+	Noctuidae WORD[16,   1]: 0.0078936 夜蛾
+TOKEN[17]: 0.0078936    1 noctuid
+	noctuid WORD[17,   1]: 0.0078936 夜蛾
+TOKEN[18]: 0.0075698    6 midnight
+	midnight WORD[18,   1]: 0.0015615 夜逃げ
+	midnight WORD[18,   2]: 0.0014542 半夜
+	midnight WORD[18,   3]: 0.0013056 後夜
+	midnight WORD[18,   4]: 0.0011147 夜半
+	midnight WORD[18,   5]: 0.0011116 夜食
+	midnight WORD[18,   6]: 0.0010223 白夜
+TOKEN[19]: 0.0074466    1 owlet
+	owlet WORD[19,   1]: 0.0074466 夜蛾
+TOKEN[20]: 0.0061263    4 moonlit
+	moonlit WORD[20,   1]: 0.0017566 良夜
+	moonlit WORD[20,   2]: 0.0014566 おぼろ夜
+	moonlit WORD[20,   3]: 0.0014566 朧夜
+	moonlit WORD[20,   4]: 0.0014566 月夜
+TOKEN[21]: 0.0061177    2 nights
+	nights WORD[21,   1]: 0.0052402 千夜
+	nights WORD[21,   2]: 0.0008775 先夜
+TOKEN[22]: 0.0059367    2 fishing
+	fishing WORD[22,   1]: 0.0029684 夜釣
+	fishing WORD[22,   2]: 0.0029683 夜釣り
+TOKEN[23]: 0.0056205    3 nighthawk
+	nighthawk WORD[23,   1]: 0.0018735 夜ふかし
+	nighthawk WORD[23,   2]: 0.0018735 夜更かし
+	nighthawk WORD[23,   3]: 0.0018735 夜更し
+TOKEN[24]: 0.0053838    1 moth
+	moth WORD[24,   1]: 0.0053838 夜蛾
+TOKEN[25]: 0.0051731    4 overnight
+	overnight WORD[25,   1]: 0.0015033 夜来
+	overnight WORD[25,   2]: 0.0014853 夜逃げ
+	overnight WORD[25,   3]: 0.0014849 夜伽
+	overnight WORD[25,   4]: 0.0006996 一夜
+TOKEN[26]: 0.0050319    2 cold
+	cold WORD[26,   1]: 0.0028222 寒夜
+	cold WORD[26,   2]: 0.0022098 夜寒
+TOKEN[27]: 0.0049590    3 shift
+	shift WORD[27,   1]: 0.0013340 夜直
+	shift WORD[27,   2]: 0.0013311 夜業
+	shift WORD[27,   3]: 0.0009627 夜勤
+TOKEN[28]: 0.0049557    2 moonless
+	moonless WORD[28,   1]: 0.0019684 やみ夜
+	moonless WORD[28,   2]: 0.0014936 闇夜
+TOKEN[29]: 0.0047176    4 morning
+	morning WORD[29,   1]: 0.0018692 夙夜
+	morning WORD[29,   2]: 0.0010408 後夜
+	morning WORD[29,   3]: 0.0009038 夜ふけ
+	morning WORD[29,   4]: 0.0009038 夜更け
+TOKEN[30]: 0.0046898    4 dark
+	dark WORD[30,   1]: 0.0011737 やみ夜
+	dark WORD[30,   2]: 0.0008906 暗夜
+	dark WORD[30,   3]: 0.0008906 闇夜
+	dark WORD[30,   4]: 0.0008443 夜目
+TOKEN[31]: 0.0046881    4 bird
+	bird WORD[31,   1]: 0.0011765 夜啼き
+	bird WORD[31,   2]: 0.0011765 夜鳴き
+	bird WORD[31,   3]: 0.0011761 夜鷹
+	bird WORD[31,   4]: 0.0011590 夜鳥
+TOKEN[32]: 0.0046862    4 work
+	work WORD[32,   1]: 0.0009438 夜働き
+	work WORD[32,   2]: 0.0009436 夜なべ
+	work WORD[32,   3]: 0.0009436 夜鍋
+	work WORD[32,   4]: 0.0009276 夜業
+TOKEN[33]: 0.0046073    5 day
+	day WORD[33,   1]: 0.0014364 夙夜
+	day WORD[33,   2]: 0.0009590 夜昼
+	day WORD[33,   3]: 0.0008613 昼夜
+	day WORD[33,   4]: 0.0007616 七夜
+	day WORD[33,   5]: 0.0005890 日夜
+TOKEN[34]: 0.0045676    2 watchman
+	watchman WORD[34,   1]: 0.0016678 夜警
+	watchman WORD[34,   2]: 0.0012320 夜回り
+TOKEN[35]: 0.0043220    4 festival
+	festival WORD[35,   1]: 0.0012163 夜宮
+	festival WORD[35,   2]: 0.0012151 夜祭
+	festival WORD[35,   3]: 0.0012151 夜祭り
+	festival WORD[35,   4]: 0.0006756 前夜
+TOKEN[36]: 0.0043120    2 moon
+	moon WORD[36,   1]: 0.0033463 月夜見
+	moon WORD[36,   2]: 0.0009657 十六夜
+TOKEN[37]: 0.0042548    5 last
+	last WORD[37,   1]: 0.0011002 夜来
+	last WORD[37,   2]: 0.0010706 夜前
+	last WORD[37,   3]: 0.0009018 一昨夜
+	last WORD[37,   4]: 0.0006048 前夜
+	last WORD[37,   5]: 0.0005773 昨夜
+TOKEN[38]: 0.0041923    2 family
+	family WORD[38,   1]: 0.0032811 夜蛾
+	family WORD[38,   2]: 0.0009112 夜鷹
+TOKEN[39]: 0.0040529    2 tonight
+	tonight WORD[39,   1]: 0.0030461 当夜
+	tonight WORD[39,   2]: 0.0010068 今夜
+TOKEN[40]: 0.0039957    3 eve
+	eve WORD[40,   1]: 0.0016505 夜宮
+	eve WORD[40,   2]: 0.0014284 逮夜
+	eve WORD[40,   3]: 0.0009168 前夜
+TOKEN[41]: 0.0039287    1 mythology
+	mythology WORD[41,   1]: 0.0039287 月夜見
+TOKEN[42]: 0.0039184    3 keeping
+	keeping WORD[42,   1]: 0.0013061 夜ふかし
+	keeping WORD[42,   2]: 0.0013061 夜更かし
+	keeping WORD[42,   3]: 0.0013061 夜更し
+TOKEN[43]: 0.0038959    1 snowy
+	snowy WORD[43,   1]: 0.0038959 雪夜
+TOKEN[44]: 0.0037703    3 sitting
+	sitting WORD[44,   1]: 0.0012568 夜ふかし
+	sitting WORD[44,   2]: 0.0012568 夜更かし
+	sitting WORD[44,   3]: 0.0012568 夜更し
+TOKEN[45]: 0.0037079    3 late
+	late WORD[45,   1]: 0.0012360 夜ふかし
+	late WORD[45,   2]: 0.0012360 夜更かし
+	late WORD[45,   3]: 0.0012360 夜更し
+TOKEN[46]: 0.0034797    1 polar
+	polar WORD[46,   1]: 0.0034797 極夜
+TOKEN[47]: 0.0034333    2 middle
+	middle WORD[47,   1]: 0.0008687 夜なか
+	middle WORD[47,   2]: 0.0008548 夜中
+TOKEN[48]: 0.0033639    1 Shinto
+	Shinto WORD[48,   1]: 0.0033639 月夜見
+TOKEN[49]: 0.0032954    3 watch
+	watch WORD[49,   1]: 0.0012764 夜番
+	watch WORD[49,   2]: 0.0010921 初夜
+	watch WORD[49,   3]: 0.0009268 夜回り
+TOKEN[50]: 0.0032231    2 nighttime
+	nighttime WORD[50,   1]: 0.0018927 夜分
+	nighttime WORD[50,   2]: 0.0013304 夜間
+TOKEN[51]: 0.0031990    1 god
+	god WORD[51,   1]: 0.0031990 月夜見
+TOKEN[52]: 0.0031868    3 party
+	party WORD[52,   1]: 0.0010687 夜咄
+	party WORD[52,   2]: 0.0010687 夜話
+	party WORD[52,   3]: 0.0010494 夜会
+TOKEN[53]: 0.0031337    1 bedroom
+	bedroom WORD[53,   1]: 0.0031337 夜這い
+TOKEN[54]: 0.0030961    2 sky
+	sky WORD[54,   1]: 0.0021859 夜天
+	sky WORD[54,   2]: 0.0009103 夜空
+TOKEN[55]: 0.0030916    1 dew
+	dew WORD[55,   1]: 0.0030916 夜露
+TOKEN[56]: 0.0030552    2 walking
+	walking WORD[56,   1]: 0.0012579 夜歩き
+	walking WORD[56,   2]: 0.0008986 夜行
+TOKEN[57]: 0.0030226    2 chat
+	chat WORD[57,   1]: 0.0015113 夜咄
+	chat WORD[57,   2]: 0.0015113 夜話
+TOKEN[58]: 0.0029442    2 told
+	told WORD[58,   1]: 0.0014721 夜咄
+	told WORD[58,   2]: 0.0014721 夜話
+TOKEN[59]: 0.0028799    2 informal
+	informal WORD[59,   1]: 0.0014400 夜咄
+	informal WORD[59,   2]: 0.0014400 夜話
+TOKEN[60]: 0.0028161    1 please
+	please WORD[60,   1]: 0.0028161 夜露死苦
+TOKEN[61]: 0.0028119    2 tale
+	tale WORD[61,   1]: 0.0014060 夜咄
+	tale WORD[61,   2]: 0.0014060 夜話
+TOKEN[62]: 0.0028091    2 misty
+	misty WORD[62,   1]: 0.0014046 おぼろ夜
+	misty WORD[62,   2]: 0.0014046 朧夜
+TOKEN[63]: 0.0027079    3 one
+	one WORD[63,   1]: 0.0016436 夜爪
+	one WORD[63,   2]: 0.0005480 夜逃げ
+	one WORD[63,   3]: 0.0005162 一夜
+TOKEN[64]: 0.0027067    1 crow
+	crow WORD[64,   1]: 0.0027067 夜烏
+TOKEN[65]: 0.0026510    1 fog
+	fog WORD[65,   1]: 0.0026510 夜霧
+TOKEN[66]: 0.0026363    2 calling
+	calling WORD[66,   1]: 0.0013182 夜啼き
+	calling WORD[66,   2]: 0.0013182 夜鳴き
+TOKEN[67]: 0.0025510    1 market
+	market WORD[67,   1]: 0.0025510 夜市
+TOKEN[68]: 0.0025277    2 starting
+	starting WORD[68,   1]: 0.0012639 夜咄
+	starting WORD[68,   2]: 0.0012639 夜話
+TOKEN[69]: 0.0023826    2 song
+	song WORD[69,   1]: 0.0011913 夜啼き
+	song WORD[69,   2]: 0.0011913 夜鳴き
+TOKEN[70]: 0.0023786    1 breeze
+	breeze WORD[70,   1]: 0.0023786 夜風
+TOKEN[71]: 0.0023077    1 till
+	till WORD[71,   1]: 0.0023077 夙夜
+TOKEN[72]: 0.0022914    2 daybreak
+	daybreak WORD[72,   1]: 0.0011457 夜明
+	daybreak WORD[72,   2]: 0.0011457 夜明け
+TOKEN[73]: 0.0022687    1 thousand
+	thousand WORD[73,   1]: 0.0022687 千夜
+TOKEN[74]: 0.0022421    2 stall
+	stall WORD[74,   1]: 0.0011210 夜店
+	stall WORD[74,   2]: 0.0011210 夜見世
+TOKEN[75]: 0.0022161    2 class
+	class WORD[75,   1]: 0.0011178 夜鷹
+	class WORD[75,   2]: 0.0010983 夜学
+TOKEN[76]: 0.0021934    1 upping
+	upping WORD[76,   1]: 0.0021934 夜逃げ
+TOKEN[77]: 0.0021639    2 tea
+	tea WORD[77,   1]: 0.0010819 夜咄
+	tea WORD[77,   2]: 0.0010819 夜話
+TOKEN[78]: 0.0021572    1 noctilucence
+	noctilucence WORD[78,   1]: 0.0021572 夜光
+TOKEN[79]: 0.0020926    1 rain
+	rain WORD[79,   1]: 0.0020926 夜雨
+TOKEN[80]: 0.0020530    2 dawn
+	dawn WORD[80,   1]: 0.0010265 夜明
+	dawn WORD[80,   2]: 0.0010265 夜明け
+TOKEN[81]: 0.0020146    1 snack
+	snack WORD[81,   1]: 0.0020146 夜食
+TOKEN[82]: 0.0020109    2 book
+	book WORD[82,   1]: 0.0010055 夜咄
+	book WORD[82,   2]: 0.0010055 夜話
+TOKEN[83]: 0.0020015    1 moonflower
+	moonflower WORD[83,   1]: 0.0020015 夜顔
+TOKEN[84]: 0.0019954    1 Caprimulgidae
+	Caprimulgidae WORD[84,   1]: 0.0019954 夜鷹
+TOKEN[85]: 0.0019954    1 goatsucker
+	goatsucker WORD[85,   1]: 0.0019954 夜鷹
+TOKEN[86]: 0.0019954    1 nightjar
+	nightjar WORD[86,   1]: 0.0019954 夜鷹
+TOKEN[87]: 0.0019698    2 fair
+	fair WORD[87,   1]: 0.0009849 夜店
+	fair WORD[87,   2]: 0.0009849 夜見世
+TOKEN[88]: 0.0019623    1 bedclothes
+	bedclothes WORD[88,   1]: 0.0019623 夜具
+TOKEN[89]: 0.0019347    1 travel
+	travel WORD[89,   1]: 0.0009674 夜行
+TOKEN[90]: 0.0019146    1 black
+	black WORD[90,   1]: 0.0019146 夜闇
+TOKEN[91]: 0.0019129    1 luminescence
+	luminescence WORD[91,   1]: 0.0019129 夜光
+TOKEN[92]: 0.0019039    1 Caprimulgus
+	Caprimulgus WORD[92,   1]: 0.0019039 夜鷹
+TOKEN[93]: 0.0018841    2 Christmas
+	Christmas WORD[93,   1]: 0.0009439 前夜
+	Christmas WORD[93,   2]: 0.0009402 聖夜
+TOKEN[94]: 0.0018746    1 school
+	school WORD[94,   1]: 0.0018746 夜学
+TOKEN[95]: 0.0018713    1 penile
+	penile WORD[95,   1]: 0.0018713 夜立ち
+TOKEN[96]: 0.0018380    1 frosty
+	frosty WORD[96,   1]: 0.0018380 霜夜
+TOKEN[97]: 0.0018295    1 many
+	many WORD[97,   1]: 0.0018295 千夜
+TOKEN[98]: 0.0018210    1 sentry
+	sentry WORD[98,   1]: 0.0018210 夜番
+TOKEN[99]: 0.0017852    1 alba
+	alba WORD[99,   1]: 0.0017852 夜顔
+TOKEN[100]: 0.0017808    1 sneaking
+	sneaking WORD[100,   1]: 0.0017808 夜這い
+TOKEN[101]: 0.0017808    1 flit
+	flit WORD[101,   1]: 0.0017808 夜逃げ
+TOKEN[102]: 0.0017574    2 Eve
+	Eve WORD[102,   1]: 0.0008846 聖夜
+	Eve WORD[102,   2]: 0.0008728 除夜
+TOKEN[103]: 0.0017502    1 wind
+	wind WORD[103,   1]: 0.0017502 夜風
+TOKEN[104]: 0.0017195    1 streetwalker
+	streetwalker WORD[104,   1]: 0.0017195 夜鷹
+TOKEN[105]: 0.0017075    1 deathbed
+	deathbed WORD[105,   1]: 0.0017075 夜爪
+TOKEN[106]: 0.0017030    1 stillness
+	stillness WORD[106,   1]: 0.0017030 夜気
+TOKEN[107]: 0.0016885    2 period
+	period WORD[107,   1]: 0.0009194 夜鷹
+	period WORD[107,   2]: 0.0007691 後夜
+TOKEN[108]: 0.0016851    2 shop
+	shop WORD[108,   1]: 0.0008426 夜店
+	shop WORD[108,   2]: 0.0008426 夜見世
+TOKEN[109]: 0.0016808    2 attack
+	attack WORD[109,   1]: 0.0008462 夜討ち
+	attack WORD[109,   2]: 0.0008347 夜襲
+TOKEN[110]: 0.0016754    1 vanishing
+	vanishing WORD[110,   1]: 0.0016754 夜逃げ
+TOKEN[111]: 0.0016699    1 Ipomoea
+	Ipomoea WORD[111,   1]: 0.0016699 夜顔
+TOKEN[112]: 0.0016459    1 sun
+	sun WORD[112,   1]: 0.0016459 白夜
+TOKEN[113]: 0.0016395    1 moonlight
+	moonlight WORD[113,   1]: 0.0016395 夜逃げ
+TOKEN[114]: 0.0016395    1 skipping
+	skipping WORD[114,   1]: 0.0016395 夜逃げ
+TOKEN[115]: 0.0016310    1 bidding
+	bidding WORD[115,   1]: 0.0016310 夜伽
+TOKEN[116]: 0.0016230    1 erection
+	erection WORD[116,   1]: 0.0016230 夜立ち
+TOKEN[117]: 0.0016226    1 train
+	train WORD[117,   1]: 0.0008113 夜行
+TOKEN[118]: 0.0016211    1 chill
+	chill WORD[118,   1]: 0.0016211 夜寒
+TOKEN[119]: 0.0015839    1 creeping
+	creeping WORD[119,   1]: 0.0015839 夜這い
+TOKEN[120]: 0.0015800    1 burglar
+	burglar WORD[120,   1]: 0.0015800 夜盗
+TOKEN[121]: 0.0015740    1 tomorrow
+	tomorrow WORD[121,   1]: 0.0015740 明夜
+TOKEN[122]: 0.0015669    1 stealing
+	stealing WORD[122,   1]: 0.0015669 夜這い
+TOKEN[123]: 0.0015599    1 warfare
+	warfare WORD[123,   1]: 0.0015599 夜戦
+TOKEN[124]: 0.0015568    1 bedding
+	bedding WORD[124,   1]: 0.0015568 夜具
+TOKEN[125]: 0.0015535    1 praying
+	praying WORD[125,   1]: 0.0015535 夜籠り
+TOKEN[126]: 0.0015478    1 quilt
+	quilt WORD[126,   1]: 0.0015478 夜着
+TOKEN[127]: 0.0015319    1 nurse
+	nurse WORD[127,   1]: 0.0015319 夜伽
+TOKEN[128]: 0.0014723    1 bridal
+	bridal WORD[128,   1]: 0.0014723 初夜
+TOKEN[129]: 0.0014708    1 nocturne
+	nocturne WORD[129,   1]: 0.0014708 夜曲
+TOKEN[130]: 0.0014538    1 darkness
+	darkness WORD[130,   1]: 0.0014538 夜逃げ
+TOKEN[131]: 0.0014217    1 burial
+	burial WORD[131,   1]: 0.0014217 夜伽
+TOKEN[132]: 0.0014213    1 demonic
+	demonic WORD[132,   1]: 0.0014213 夜叉
+TOKEN[133]: 0.0014197    1 asleep
+	asleep WORD[133,   1]: 0.0014197 夜の目
+TOKEN[134]: 0.0014122    1 journey
+	journey WORD[134,   1]: 0.0014122 夜道
+TOKEN[135]: 0.0013903    1 sold
+	sold WORD[135,   1]: 0.0013903 夜鷹
+TOKEN[136]: 0.0013866    1 perpetual
+	perpetual WORD[136,   1]: 0.0013866 常夜
+TOKEN[137]: 0.0013721    2 small
+	small WORD[137,   1]: 0.0006861 夜ふけ
+	small WORD[137,   2]: 0.0006861 夜更け
+TOKEN[138]: 0.0013692    1 grey
+	grey WORD[138,   1]: 0.0013692 夜鷹
+TOKEN[139]: 0.0013333    1 storm
+	storm WORD[139,   1]: 0.0013333 夜嵐
+TOKEN[140]: 0.0013249    1 sleeping
+	sleeping WORD[140,   1]: 0.0013249 夜伽
+TOKEN[141]: 0.0013239    1 debt
+	debt WORD[141,   1]: 0.0013239 夜逃げ
+TOKEN[142]: 0.0013046    1 walk
+	walk WORD[142,   1]: 0.0013046 夜鷹
+TOKEN[143]: 0.0012951    1 miss
+	miss WORD[143,   1]: 0.0012951 夜爪
+TOKEN[144]: 0.0012867    1 sailing
+	sailing WORD[144,   1]: 0.0012867 夜船
+TOKEN[145]: 0.0012814    1 scene
+	scene WORD[145,   1]: 0.0012814 夜色
+TOKEN[146]: 0.0012811    1 supper
+	supper WORD[146,   1]: 0.0012811 夜食
+TOKEN[147]: 0.0012788    1 setting
+	setting WORD[147,   1]: 0.0012788 夜立ち
+TOKEN[148]: 0.0012737    1 cool
+	cool WORD[148,   1]: 0.0012737 夜気
+TOKEN[149]: 0.0012619    1 girl
+	girl WORD[149,   1]: 0.0012619 夜這い
+TOKEN[150]: 0.0012549    1 duty
+	duty WORD[150,   1]: 0.0012549 夜直
+TOKEN[151]: 0.0012473    1 colic
+	colic WORD[151,   1]: 0.0012473 夜泣き
+TOKEN[152]: 0.0012431    1 town
+	town WORD[152,   1]: 0.0012431 夜逃げ
+TOKEN[153]: 0.0012406    1 prostitute
+	prostitute WORD[153,   1]: 0.0012406 夜鷹
+TOKEN[154]: 0.0012390    1 seventh
+	seventh WORD[154,   1]: 0.0012390 七夜
+TOKEN[155]: 0.0012370    1 anniversary
+	anniversary WORD[155,   1]: 0.0012370 逮夜
+TOKEN[156]: 0.0012357    1 guard
+	guard WORD[156,   1]: 0.0012357 夜伽
+TOKEN[157]: 0.0012335    1 visit
+	visit WORD[157,   1]: 0.0012335 夜這い
+TOKEN[158]: 0.0012281    1 said
+	said WORD[158,   1]: 0.0012281 夜爪
+TOKEN[159]: 0.0012051    1 battle
+	battle WORD[159,   1]: 0.0012051 夜軍
+TOKEN[160]: 0.0012041    2 person
+	person WORD[160,   1]: 0.0006539 逮夜
+	person WORD[160,   2]: 0.0005501 夜型
+TOKEN[161]: 0.0011990    1 cover
+	cover WORD[161,   1]: 0.0011990 夜逃げ
+TOKEN[162]: 0.0011891    1 street
+	street WORD[162,   1]: 0.0011891 夜道
+TOKEN[163]: 0.0011817    1 leaving
+	leaving WORD[163,   1]: 0.0011817 夜逃げ
+TOKEN[164]: 0.0011813    1 cutting
+	cutting WORD[164,   1]: 0.0011813 夜爪
+TOKEN[165]: 0.0011797    1 heavy
+	heavy WORD[165,   1]: 0.0011797 夜着
+TOKEN[166]: 0.0011751    1 cause
+	cause WORD[166,   1]: 0.0011751 夜爪
+TOKEN[167]: 0.0011701    1 running
+	running WORD[167,   1]: 0.0011701 夜逃げ
+TOKEN[168]: 0.0011587    1 study
+	study WORD[168,   1]: 0.0011587 夜学
+TOKEN[169]: 0.0011360    1 low
+	low WORD[169,   1]: 0.0011360 夜鷹
+TOKEN[170]: 0.0011303    1 act
+	act WORD[170,   1]: 0.0011303 夜逃げ
+TOKEN[171]: 0.0011146    1 temple
+	temple WORD[171,   1]: 0.0011146 夜籠り
+TOKEN[172]: 0.0011129    1 shrine
+	shrine WORD[172,   1]: 0.0011129 夜籠り
+TOKEN[173]: 0.0011091    1 celebration
+	celebration WORD[173,   1]: 0.0011091 七夜
+TOKEN[174]: 0.0011010    1 leave
+	leave WORD[174,   1]: 0.0011010 夜逃げ
+TOKEN[175]: 0.0010849    1 love
+	love WORD[175,   1]: 0.0010849 夜這い
+TOKEN[176]: 0.0010726    1 air
+	air WORD[176,   1]: 0.0010726 夜気
+TOKEN[177]: 0.0010719    1 infant
+	infant WORD[177,   1]: 0.0010719 夜泣き
+TOKEN[178]: 0.0010605    1 making
+	making WORD[178,   1]: 0.0010605 夜道
+TOKEN[179]: 0.0010549    1 remember
+	remember WORD[179,   1]: 0.0010549 夜露死苦
+TOKEN[180]: 0.0010504    1 Edo
+	Edo WORD[180,   1]: 0.0010504 夜鷹
+TOKEN[181]: 0.0010250    1 assault
+	assault WORD[181,   1]: 0.0010250 夜襲
+TOKEN[182]: 0.0010178    1 early
+	early WORD[182,   1]: 0.0010178 後夜
+TOKEN[183]: 0.0010159    1 fourth
+	fourth WORD[183,   1]: 0.0010159 夜食
+TOKEN[184]: 0.0010114    1 boat
+	boat WORD[184,   1]: 0.0010114 夜船
+TOKEN[185]: 0.0010066    1 woman
+	woman WORD[185,   1]: 0.0010066 夜這い
+TOKEN[186]: 0.0009947    1 guardian
+	guardian WORD[186,   1]: 0.0009947 夜叉
+TOKEN[187]: 0.0009945    1 man
+	man WORD[187,   1]: 0.0009945 夜伽
+TOKEN[188]: 0.0009845    1 old
+	old WORD[188,   1]: 0.0009845 夜逃げ
+TOKEN[189]: 0.0009843    1 crying
+	crying WORD[189,   1]: 0.0009843 夜泣き
+TOKEN[190]: 0.0009770    1 life
+	life WORD[190,   1]: 0.0009770 夜逃げ
+TOKEN[191]: 0.0009732    1 ship
+	ship WORD[191,   1]: 0.0009732 夜船
+TOKEN[192]: 0.0009593    1 treat
+	treat WORD[192,   1]: 0.0009593 夜露死苦
+TOKEN[193]: 0.0009587    1 short
+	short WORD[193,   1]: 0.0009587 短夜
+TOKEN[194]: 0.0009569    1 division
+	division WORD[194,   1]: 0.0009569 乙夜
+TOKEN[195]: 0.0009390    1 cherry
+	cherry WORD[195,   1]: 0.0009390 夜桜
+TOKEN[196]: 0.0008993    1 autumn
+	autumn WORD[196,   1]: 0.0008993 夜長
+TOKEN[197]: 0.0008837    1 baby
+	baby WORD[197,   1]: 0.0008837 夜泣き
+TOKEN[198]: 0.0008798    1 make
+	make WORD[198,   1]: 0.0008798 夜這い
+TOKEN[199]: 0.0008798    1 yesterday
+	yesterday WORD[199,   1]: 0.0008798 昨夜
+TOKEN[200]: 0.0008776    1 death
+	death WORD[200,   1]: 0.0008776 逮夜
+TOKEN[201]: 0.0008672    1 best
+	best WORD[201,   1]: 0.0008672 夜露死苦
+TOKEN[202]: 0.0008638    1 wake
+	wake WORD[202,   1]: 0.0008638 通夜
+TOKEN[203]: 0.0008563    1 extreme
+	extreme WORD[203,   1]: 0.0008563 白夜
+TOKEN[204]: 0.0008515    1 clock
+	clock WORD[204,   1]: 0.0008515 日夜
+TOKEN[205]: 0.0008444    1 holy
+	holy WORD[205,   1]: 0.0008444 聖夜
+TOKEN[206]: 0.0008358    1 care
+	care WORD[206,   1]: 0.0008358 夜露死苦
+TOKEN[207]: 0.0008259    1 second
+	second WORD[207,   1]: 0.0008259 乙夜
+TOKEN[208]: 0.0008254    1 view
+	view WORD[208,   1]: 0.0008254 夜景
+TOKEN[209]: 0.0008193    1 child
+	child WORD[209,   1]: 0.0008193 七夜
+TOKEN[210]: 0.0007923    1 someone
+	someone WORD[210,   1]: 0.0007923 夜伽
+TOKEN[211]: 0.0007812    1 Buddhist
+	Buddhist WORD[211,   1]: 0.0007812 夜叉
+TOKEN[212]: 0.0007256    1 previous
+	previous WORD[212,   1]: 0.0007256 前夜
+TOKEN[213]: 0.0007044    1 white
+	white WORD[213,   1]: 0.0007044 白夜
+TOKEN[214]: 0.0007010    1 major
+	major WORD[214,   1]: 0.0007010 前夜
+TOKEN[215]: 0.0007000    1 manga
+	manga WORD[215,   1]: 0.0007000 輝夜姫
+TOKEN[216]: 0.0006877    1 rainy
+	rainy WORD[216,   1]: 0.0006877 雨夜
+TOKEN[217]: 0.0006808    1 set
+	set WORD[217,   1]: 0.0006808 白夜
+TOKEN[218]: 0.0006671    1 event
+	event WORD[218,   1]: 0.0006671 前夜
+TOKEN[219]: 0.0006590    1 take
+	take WORD[219,   1]: 0.0006590 夜露死苦
+TOKEN[220]: 0.0006216    1 series
+	series WORD[220,   1]: 0.0006216 輝夜姫
+TOKEN[221]: 0.0005941    1 body
+	body WORD[221,   1]: 0.0005941 通夜
+TOKEN[222]: 0.0005605    1 main
+	main WORD[222,   1]: 0.0005605 輝夜姫
+TOKEN[223]: 0.0005187    1 character
+	character WORD[223,   1]: 0.0005187 輝夜姫

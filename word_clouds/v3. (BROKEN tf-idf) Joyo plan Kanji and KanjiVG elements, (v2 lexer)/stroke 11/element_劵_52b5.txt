@@ -1,0 +1,996 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0631283    6 wisteria       : 藤棚, 藤花, 藤, 山藤, 藤づる, 藤蔓
+0.0576775    1 vetch          : 草藤
+0.0307519    1 tufted         : 草藤
+0.0299579    1 Vicia          : 草藤
+0.0264261   34 victory        : 勝ち筋, 大勝, 圧勝, 奇勝, 完勝, 勝ち負け, 快勝, 勝報, 制勝, 勝因, ...
+0.0215219    1 cow            : 草藤
+0.0208462   19 winning        : 粘り勝ち, ぼろ勝ち, ボロ勝ち, 勝着, 勝ち馬, 勝馬, 勝運, 勝ち戦, 勝ち軍, 勝戦, ...
+0.0206395    6 scenery        : 勝絶, 勝概, 形勝, 奇勝, 景勝, 勝
+0.0198067    1 lilac          : 藤紫
+0.0190059   19 win            : 粘り勝ち, ぼろ勝ち, ボロ勝ち, 勝ち放す, 勝ち上がる, 勝機, 勝ち得る, 勝ち得, 競り勝つ, 勝つ, ...
+0.0184225    3 vine           : 藤づる, 藤蔓, 葛藤
+0.0183638    1 hyacinth       : 藤豆
+0.0156067    1 royal          : 藤紫
+0.0139031    2 Wisteria       : 山藤, 藤
+0.0127593    1 blue           : 藤紫
+0.0122684    1 dark           : 藤紫
+0.0120035    1 color          : 藤紫
+0.0118952    1 bean           : 藤豆
+0.0117130    1 barnacle       : 藤壺
+0.0111951    1 acorn          : 藤壺
+0.0108663    1 F              : 勝絶
+0.0101657    1 excellence     : 勝絶
+0.0098958    1 chromatic      : 勝絶
+0.0089168    1 magnificent    : 勝概
+0.0087975    1 landscape      : 勝概
+0.0082606    1 splendid       : 勝概
+0.0081988    3 beautiful      : 勝概, 奇勝, 勝
+0.0081181    1 silky          : 山藤
+0.0080049    1 boneset        : 藤袴
+0.0080049    1 Eupatorium     : 藤袴
+0.0080042    1 pergola        : 藤棚
+0.0079983    1 flower         : 藤花
+0.0079755    1 moonseed       : 葛藤
+0.0079387    1 scale          : 勝絶
+0.0078231    1 note           : 勝絶
+0.0077914    1 perseverance   : 粘り勝ち
+0.0077238    1 thoroughwort   : 藤袴
+0.0076350    2 view           : 勝概, 絶勝
+0.0073690    1 trellis        : 藤棚
+0.0070749    1 ancient        : 勝絶
+0.0068077    3 convenience    : 得手勝手, 使い勝手, 勝手
+0.0065627    1 arbor          : 藤棚
+0.0063977    1 better         : 心勝り
+0.0063967    7 one            : 好き勝手, 得手勝手, 葛藤, 勝ち逃げ, 勝手, 勝因, 親勝り
+0.0062452    1 layman         : 藤四郎
+0.0062282    5 scenic         : 名勝, 勝地, 形勝, 景勝, 勝
+0.0060979    1 door           : 勝手口
+0.0058993    1 wistaria       : 藤
+0.0058182    3 decisive       : ぼろ勝ち, ボロ勝ち, 大勝
+0.0057126    1 struggle       : 葛藤
+0.0056904    1 Japan          : 勝絶
+0.0056637    1 novice         : 藤四郎
+0.0056636    1 complex        : 葛藤
+0.0055877    1 amateur        : 藤四郎
+0.0055661    1 liana          : 藤本
+0.0055587    1 feeling        : 心勝り
+0.0054692    6 winner         : 勝ち馬, 勝馬, 勝ち名乗り, 一人勝ち, 独り勝ち, 勝者
+0.0051583    5 beauty         : 名勝, 勝地, 形勝, 奇勝, 景勝
+0.0050058    2 land           : 葛藤, 勝地
+0.0047633    3 two            : 葛藤, 勝ち越す, 勝越す
+0.0047510    1 piece          : 葛藤
+0.0046158    3 tournament     : 勝ち抜き, 勝ち得, 全勝
+0.0044033    1 entrance       : 勝手口
+0.0043333    1 knockout       : 勝ち抜き
+0.0043238    4 battle         : 勝ち戦, 勝ち軍, 勝戦, 勝敗
+0.0041104    1 egotistical    : 身勝手
+0.0041042    4 spot           : 名勝, 勝地, 奇勝, 勝
+0.0040665    1 something      : 心勝り
+0.0039347    1 climbing       : 藤本
+0.0038654    2 selfishness    : 好き勝手, 勝手
+0.0037508    1 Chinese        : 葛藤
+0.0036674    1 species        : 藤袴
+0.0035126    6 triumph        : 勝ち誇る, 勝ちどき, 勝ち鬨, 勝どき, 勝鬨, 勝利
+0.0032805    4 lead           : 勝ち越す, 勝越す, 勝越し, 勝ち越し
+0.0032506    1 usability      : 使い勝手
+0.0030724    1 selfish        : 身勝手
+0.0029948    1 tradesman      : 勝手口
+0.0028972    1 former         : 勝共
+0.0028836    2 ease           : 使い勝手, 勝手
+0.0028523    3 victorious     : 勝ち戦, 勝ち軍, 勝戦
+0.0028184    2 kitchen        : 勝手口, 勝手
+0.0027979    3 surpass        : 立ち勝る, 勝る, 勝れる
+0.0026972    2 financial      : 勝手向き, 勝手
+0.0026958    1 group          : 勝共
+0.0026932    1 utility        : 使い勝手
+0.0026837    1 path           : 勝ち筋
+0.0026735    5 place          : 名勝, 勝地, 形勝, 奇勝, 景勝
+0.0026521    1 host           : 勝手口
+0.0026378    5 defeat         : 勝ち負け, 勝敗, 勝負, 打ち勝つ, 打勝つ
+0.0026296    1 suit           : 得手勝手
+0.0026081    1 saying         : 得手勝手
+0.0025796    5 success        : 勝因, 勝算, 勝ち目, 勝ち誇る, 勝利
+0.0025787    1 tantric        : 勝楽
+0.0023822    2 spirit         : 勝ち気, 勝気
+0.0023490    1 household      : 勝手向き
+0.0022676    1 cooking        : 勝手向き
+0.0022225    4 advance        : 勝ち上がる, 勝ち残る, 勝ち進む, 勝進む
+0.0021534    2 use            : 使い勝手, 勝手
+0.0021110    1 Japanese       : 藤
+0.0020766    2 horse          : 勝ち馬, 勝馬
+0.0020635    3 bout           : 勝ち名乗り, 勝ち得, 勝負
+0.0020392    4 gain           : 勝ち得る, 勝つ, 勝ちとる, 勝ち取る
+0.0019634    4 shout          : 勝ちどき, 勝ち鬨, 勝どき, 勝鬨
+0.0019058    2 superior       : 立ち勝る, 勝る
+0.0018643    1 room           : 勝手口
+0.0018619    1 service        : 勝手口
+0.0018436    2 picturesque    : 形勝, 景勝
+0.0018332    3 achieve        : 勝ち得る, 勝ちとる, 勝ち取る
+0.0018210    4 cry            : 勝ちどき, 勝ち鬨, 勝どき, 勝鬨
+0.0017522    2 advantageous   : 形勝, 景勝
+0.0017059    2 championship   : 制勝, 優勝
+0.0016951    1 deity          : 勝楽
+0.0016780    2 strategic      : 形勝, 景勝
+0.0016733    2 unyielding     : 勝ち気, 勝気
+0.0016621    2 determined     : 勝ち気, 勝気
+0.0016016    2 chestnut       : 勝ち栗, 勝栗
+0.0015688    2 easy           : 楽勝, 快勝
+0.0015600    1 shogi          : 勝着
+0.0014856    1 Buddhist       : 勝楽
+0.0014560    2 odds           : 勝勢, 勝ち目
+0.0013775    2 location       : 形勝, 景勝
+0.0013497    1 move           : 勝着
+0.0013443    2 excel          : 勝る, 勝れる
+0.0012776    1 unconquerable  : 常勝
+0.0012727    2 chance         : 勝機, 勝ち目
+0.0012561    2 dried          : 勝ち栗, 勝栗
+0.0012472    2 case           : 勝訴, 勝ち残り
+0.0012374    2 take           : 勝ち越す, 勝越す
+0.0012350    2 sole           : 一人勝ち, 独り勝ち
+0.0012277    3 next           : 勝ち残る, 勝ち進む, 勝進む
+0.0012201    1 tend           : 勝ち
+0.0012053    1 unbeaten       : 常勝
+0.0012004    3 match          : 勝負, 勝ち越す, 勝越す
+0.0011864    1 era            : 天平勝宝
+0.0011845    2 wrestler       : 勝ち得, 勝ち残り
+0.0011721    3 round          : 勝ち残る, 勝ち進む, 勝進む
+0.0011624    1 liable         : 勝ち
+0.0011433    2 overwhelming   : 大勝, 圧勝
+0.0011423    2 health         : 清勝, 健勝
+0.0011350    1 lots           : 勝ち
+0.0011307    2 position       : 形勝, 景勝
+0.0011212    3 game           : 先勝, 勝敗, 勝負
+0.0010932    1 peasy          : 楽勝
+0.0010932    1 cakewalk       : 楽勝
+0.0010829    2 conquer        : 打ち勝つ, 打勝つ
+0.0010736    1 apt            : 勝ち
+0.0010727    2 woman          : 勝山, 男勝り
+0.0010692    1 go             : 勝着
+0.0010469    1 prone          : 勝ち
+0.0010358    2 secure         : 勝ちとる, 勝ち取る
+0.0010313    1 walkover       : 楽勝
+0.0010173    1 everybody      : 我勝ち
+0.0010021    1 invincible     : 常勝
+0.0009964    1 splendor       : 絶勝
+0.0009871    1 surpassing     : 親勝り
+0.0009678    2 overcome       : 打ち勝つ, 打勝つ
+0.0009651    2 obtain         : 勝ちとる, 勝ち取る
+0.0009608    2 sweeping       : 快勝, 圧勝
+0.0009606    1 preponderate   : 勝る
+0.0009606    1 outweigh       : 勝る
+0.0009606    1 outrival       : 勝る
+0.0009401    1 legal          : 勝訴
+0.0009303    1 prize          : 勝ち
+0.0009294    1 everyone       : 我勝ち
+0.0009138    2 contest        : 決勝, 勝負
+0.0009129    1 stratagem      : 奇勝
+0.0009088    1 prostitute     : 勝山
+0.0009059    1 declared       : 勝ち名乗り
+0.0009023    1 contentment    : 優勝
+0.0009006    1 superb         : 絶勝
+0.0008762    2 difficulty     : 打ち勝つ, 打勝つ
+0.0008711    1 bliss          : 優勝
+0.0008620    1 popular        : 勝山
+0.0008572    2 complete       : 全勝, 完勝
+0.0008558    1 attain         : 勝ち得る
+0.0008435    2 opponent       : 勝ち越す, 勝越す
+0.0008430    1 favorable      : 勝勢
+0.0008348    1 uncommon       : 奇勝
+0.0008303    2 good           : 清勝, 健勝
+0.0008282    1 eighth         : 勝ち得
+0.0008181    1 suitable       : 勝地
+0.0008050    1 first          : 先勝
+0.0007977    1 celebration    : 祝勝
+0.0007962    1 streak         : 連勝
+0.0007907    1 overall        : 優勝
+0.0007759    2 enemy          : 打ち勝つ, 打勝つ
+0.0007744    1 consecutive    : 連勝
+0.0007539    1 exceed         : 勝る
+0.0007426    1 news           : 勝報
+0.0007322    1 made           : 勝山
+0.0007282    1 unexpected     : 奇勝
+0.0007246    2 taking         : 勝越し, 勝ち越し
+0.0007240    1 extra          : 勝ち得
+0.0007232    1 luck           : 勝運
+0.0007202    1 victor         : 勝者
+0.0007121    2 great          : 大勝, 大勝ち
+0.0007039    1 reason         : 勝因
+0.0007029    1 park           : 楽勝
+0.0006941    1 hand           : 勝手
+0.0006824    1 laudable       : 殊勝
+0.0006814    1 cause          : 勝因
+0.0006740    1 outstrip       : 勝れる
+0.0006609    1 heaven         : 優勝
+0.0006506    1 walk           : 楽勝
+0.0006464    1 sign           : 勝ち味
+0.0006410    1 title          : 優勝
+0.0006394    1 way            : 勝手
+0.0006361    1 perfect        : 優勝
+0.0006353    1 mannish        : 男勝り
+0.0006276    1 admirable      : 殊勝
+0.0006252    1 series         : 連勝
+0.0006183    1 bidding        : 競り勝つ
+0.0006104    1 ringside       : 勝ち残り
+0.0005944    1 bowstring      : 勝手
+0.0005852    1 conquest       : 勝利
+0.0005811    1 afternoon      : 先勝
+0.0005800    1 edge           : 勝る
+0.0005620    1 scoring        : 先勝
+0.0005585    1 outcome        : 勝敗
+0.0005568    1 surroundings   : 勝手
+0.0005492    1 percentage     : 勝率
+0.0005476    1 ultimate       : 勝義
+0.0005472    1 elated         : 勝ち誇る
+0.0005437    1 certain        : 必勝
+0.0005398    1 play           : 楽勝
+0.0005389    1 involvement    : 勝ち残り
+0.0005372    1 unofficial     : 勝手
+0.0005328    1 tough          : 競り勝つ
+0.0005282    1 spirited       : 男勝り
+0.0005195    1 livelihood     : 勝手
+0.0005129    1 child          : 楽勝
+0.0004984    1 archery        : 勝手
+0.0004984    1 lucky          : 先勝
+0.0004902    1 sports         : 決勝
+0.0004866    1 remains        : 勝ち残り
+0.0004836    1 narrow         : 辛勝
+0.0004796    1 crushing       : 圧勝
+0.0004791    1 environment    : 勝手
+0.0004721    1 morning        : 先勝
+0.0004691    1 huge           : 大勝ち
+0.0004679    1 opportunity    : 勝機
+0.0004574    1 decision       : 決勝
+0.0004549    1 site           : 勝手
+0.0004544    1 calendar       : 先勝
+0.0004509    1 killing        : 大勝ち
+0.0004382    1 meaning        : 勝義
+0.0004379    1 phone          : 勝手
+0.0004321    1 total          : 完勝
+0.0004316    1 war            : 戦勝
+0.0004309    1 original       : 勝義
+0.0004296    1 truth          : 勝義
+0.0004187    1 counter        : 勝
+0.0004182    1 profit         : 大勝ち
+0.0004024    1 mark           : 勝ち星
+0.0004015    1 traditional    : 先勝
+0.0003835    1 big            : 大勝ち
+0.0003816    1 living         : 勝手
+0.0003728    1 point          : 先勝
+0.0003728    1 word           : 勝義
+0.0003646    1 right          : 勝手
+0.0003628    1 day            : 先勝
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0631283    6 wisteria
+	wisteria WORD[ 1,   1]: 0.0202864 藤棚
+	wisteria WORD[ 1,   2]: 0.0121195 藤花
+	wisteria WORD[ 1,   3]: 0.0094034 藤
+	wisteria WORD[ 1,   4]: 0.0077941 山藤
+	wisteria WORD[ 1,   5]: 0.0067624 藤づる
+	wisteria WORD[ 1,   6]: 0.0067624 藤蔓
+TOKEN[ 2]: 0.0576775    1 vetch
+	vetch WORD[ 2,   1]: 0.0576775 草藤
+TOKEN[ 3]: 0.0307519    1 tufted
+	tufted WORD[ 3,   1]: 0.0307519 草藤
+TOKEN[ 4]: 0.0299579    1 Vicia
+	Vicia WORD[ 4,   1]: 0.0299579 草藤
+TOKEN[ 5]: 0.0264261   34 victory
+	victory WORD[ 5,   1]: 0.0029281 勝ち筋
+	victory WORD[ 5,   2]: 0.0020507 大勝
+	victory WORD[ 5,   3]: 0.0016957 圧勝
+	victory WORD[ 5,   4]: 0.0014547 奇勝
+	victory WORD[ 5,   5]: 0.0009290 完勝
+	victory WORD[ 5,   6]: 0.0009209 勝ち負け
+	victory WORD[ 5,   7]: 0.0009053 快勝
+	victory WORD[ 5,   8]: 0.0007854 勝報
+	victory WORD[ 5,   9]: 0.0007841 制勝
+	victory WORD[ 5,  10]: 0.0007785 勝因
+	victory WORD[ 5,  11]: 0.0007691 祝勝
+	victory WORD[ 5,  12]: 0.0007172 勝ち味
+	victory WORD[ 5,  13]: 0.0007171 勝ち戦
+	victory WORD[ 5,  14]: 0.0007171 勝ち軍
+	victory WORD[ 5,  15]: 0.0007171 勝戦
+	victory WORD[ 5,  16]: 0.0006694 楽勝
+	victory WORD[ 5,  17]: 0.0006570 優勝
+	victory WORD[ 5,  18]: 0.0005953 必勝
+	victory WORD[ 5,  19]: 0.0005098 全勝
+	victory WORD[ 5,  20]: 0.0005093 戦勝
+	victory WORD[ 5,  21]: 0.0004990 辛勝
+	victory WORD[ 5,  22]: 0.0004977 勝敗
+	victory WORD[ 5,  23]: 0.0004975 勝訴
+	victory WORD[ 5,  24]: 0.0004973 勝算
+	victory WORD[ 5,  25]: 0.0004972 勝機
+	victory WORD[ 5,  26]: 0.0004605 勝つ
+	victory WORD[ 5,  27]: 0.0004604 勝負
+	victory WORD[ 5,  28]: 0.0004604 勝ちどき
+	victory WORD[ 5,  29]: 0.0004604 勝ち鬨
+	victory WORD[ 5,  30]: 0.0004604 勝どき
+	victory WORD[ 5,  31]: 0.0004604 勝鬨
+	victory WORD[ 5,  32]: 0.0004601 勝
+	victory WORD[ 5,  33]: 0.0004601 勝利
+	victory WORD[ 5,  34]: 0.0004438 大勝ち
+TOKEN[ 6]: 0.0215219    1 cow
+	cow WORD[ 6,   1]: 0.0215219 草藤
+TOKEN[ 7]: 0.0208462   19 winning
+	winning WORD[ 7,   1]: 0.0058501 粘り勝ち
+	winning WORD[ 7,   2]: 0.0020736 ぼろ勝ち
+	winning WORD[ 7,   3]: 0.0020736 ボロ勝ち
+	winning WORD[ 7,   4]: 0.0014264 勝着
+	winning WORD[ 7,   5]: 0.0014040 勝ち馬
+	winning WORD[ 7,   6]: 0.0009012 勝馬
+	winning WORD[ 7,   7]: 0.0007136 勝運
+	winning WORD[ 7,   8]: 0.0006572 勝ち戦
+	winning WORD[ 7,   9]: 0.0006572 勝ち軍
+	winning WORD[ 7,  10]: 0.0006572 勝戦
+	winning WORD[ 7,  11]: 0.0006164 連勝
+	winning WORD[ 7,  12]: 0.0006021 優勝
+	winning WORD[ 7,  13]: 0.0004785 単勝
+	winning WORD[ 7,  14]: 0.0004672 全勝
+	winning WORD[ 7,  15]: 0.0004668 戦勝
+	winning WORD[ 7,  16]: 0.0004668 先勝
+	winning WORD[ 7,  17]: 0.0004562 勝率
+	winning WORD[ 7,  18]: 0.0004560 勝訴
+	winning WORD[ 7,  19]: 0.0004219 勝ち残り
+TOKEN[ 8]: 0.0206395    6 scenery
+	scenery WORD[ 8,   1]: 0.0091462 勝絶
+	scenery WORD[ 8,   2]: 0.0086732 勝概
+	scenery WORD[ 8,   3]: 0.0007982 形勝
+	scenery WORD[ 8,   4]: 0.0007842 奇勝
+	scenery WORD[ 8,   5]: 0.0007416 景勝
+	scenery WORD[ 8,   6]: 0.0004961 勝
+TOKEN[ 9]: 0.0198067    1 lilac
+	lilac WORD[ 9,   1]: 0.0198067 藤紫
+TOKEN[10]: 0.0190059   19 win
+	win WORD[10,   1]: 0.0058742 粘り勝ち
+	win WORD[10,   2]: 0.0020821 ぼろ勝ち
+	win WORD[10,   3]: 0.0020821 ボロ勝ち
+	win WORD[10,   4]: 0.0010418 勝ち放す
+	win WORD[10,   5]: 0.0010014 勝ち上がる
+	win WORD[10,   6]: 0.0009152 勝機
+	win WORD[10,   7]: 0.0006600 勝ち得る
+	win WORD[10,   8]: 0.0006600 勝ち得
+	win WORD[10,   9]: 0.0004684 競り勝つ
+	win WORD[10,  10]: 0.0004238 勝つ
+	win WORD[10,  11]: 0.0004237 勝ち星
+	win WORD[10,  12]: 0.0004237 勝ち残る
+	win WORD[10,  13]: 0.0004236 勝ちとる
+	win WORD[10,  14]: 0.0004236 勝ち取る
+	win WORD[10,  15]: 0.0004235 勝ち進む
+	win WORD[10,  16]: 0.0004235 勝進む
+	win WORD[10,  17]: 0.0004235 勝
+	win WORD[10,  18]: 0.0004235 勝利
+	win WORD[10,  19]: 0.0004084 大勝ち
+TOKEN[11]: 0.0184225    3 vine
+	vine WORD[11,   1]: 0.0060204 藤づる
+	vine WORD[11,   2]: 0.0060204 藤蔓
+	vine WORD[11,   3]: 0.0031908 葛藤
+TOKEN[12]: 0.0183638    1 hyacinth
+	hyacinth WORD[12,   1]: 0.0183638 藤豆
+TOKEN[13]: 0.0156067    1 royal
+	royal WORD[13,   1]: 0.0156067 藤紫
+TOKEN[14]: 0.0139031    2 Wisteria
+	Wisteria WORD[14,   1]: 0.0086719 山藤
+	Wisteria WORD[14,   2]: 0.0052312 藤
+TOKEN[15]: 0.0127593    1 blue
+	blue WORD[15,   1]: 0.0127593 藤紫
+TOKEN[16]: 0.0122684    1 dark
+	dark WORD[16,   1]: 0.0122684 藤紫
+TOKEN[17]: 0.0120035    1 color
+	color WORD[17,   1]: 0.0120035 藤紫
+TOKEN[18]: 0.0118952    1 bean
+	bean WORD[18,   1]: 0.0118952 藤豆
+TOKEN[19]: 0.0117130    1 barnacle
+	barnacle WORD[19,   1]: 0.0117130 藤壺
+TOKEN[20]: 0.0111951    1 acorn
+	acorn WORD[20,   1]: 0.0111951 藤壺
+TOKEN[21]: 0.0108663    1 F
+	F WORD[21,   1]: 0.0108663 勝絶
+TOKEN[22]: 0.0101657    1 excellence
+	excellence WORD[22,   1]: 0.0101657 勝絶
+TOKEN[23]: 0.0098958    1 chromatic
+	chromatic WORD[23,   1]: 0.0098958 勝絶
+TOKEN[24]: 0.0089168    1 magnificent
+	magnificent WORD[24,   1]: 0.0089168 勝概
+TOKEN[25]: 0.0087975    1 landscape
+	landscape WORD[25,   1]: 0.0087975 勝概
+TOKEN[26]: 0.0082606    1 splendid
+	splendid WORD[26,   1]: 0.0082606 勝概
+TOKEN[27]: 0.0081988    3 beautiful
+	beautiful WORD[27,   1]: 0.0071442 勝概
+	beautiful WORD[27,   2]: 0.0006460 奇勝
+	beautiful WORD[27,   3]: 0.0004087 勝
+TOKEN[28]: 0.0081181    1 silky
+	silky WORD[28,   1]: 0.0081181 山藤
+TOKEN[29]: 0.0080049    1 boneset
+	boneset WORD[29,   1]: 0.0080049 藤袴
+TOKEN[30]: 0.0080049    1 Eupatorium
+	Eupatorium WORD[30,   1]: 0.0080049 藤袴
+TOKEN[31]: 0.0080042    1 pergola
+	pergola WORD[31,   1]: 0.0080042 藤棚
+TOKEN[32]: 0.0079983    1 flower
+	flower WORD[32,   1]: 0.0079983 藤花
+TOKEN[33]: 0.0079755    1 moonseed
+	moonseed WORD[33,   1]: 0.0039878 葛藤
+TOKEN[34]: 0.0079387    1 scale
+	scale WORD[34,   1]: 0.0079387 勝絶
+TOKEN[35]: 0.0078231    1 note
+	note WORD[35,   1]: 0.0078231 勝絶
+TOKEN[36]: 0.0077914    1 perseverance
+	perseverance WORD[36,   1]: 0.0077914 粘り勝ち
+TOKEN[37]: 0.0077238    1 thoroughwort
+	thoroughwort WORD[37,   1]: 0.0077238 藤袴
+TOKEN[38]: 0.0076350    2 view
+	view WORD[38,   1]: 0.0069492 勝概
+	view WORD[38,   2]: 0.0006859 絶勝
+TOKEN[39]: 0.0073690    1 trellis
+	trellis WORD[39,   1]: 0.0073690 藤棚
+TOKEN[40]: 0.0070749    1 ancient
+	ancient WORD[40,   1]: 0.0070749 勝絶
+TOKEN[41]: 0.0068077    3 convenience
+	convenience WORD[41,   1]: 0.0031280 得手勝手
+	convenience WORD[41,   2]: 0.0026379 使い勝手
+	convenience WORD[41,   3]: 0.0010419 勝手
+TOKEN[42]: 0.0065627    1 arbor
+	arbor WORD[42,   1]: 0.0065627 藤棚
+TOKEN[43]: 0.0063977    1 better
+	better WORD[43,   1]: 0.0063977 心勝り
+TOKEN[44]: 0.0063967    7 one
+	one WORD[44,   1]: 0.0011283 好き勝手
+	one WORD[44,   2]: 0.0011283 得手勝手
+	one WORD[44,   3]: 0.0011237 葛藤
+	one WORD[44,   4]: 0.0008873 勝ち逃げ
+	one WORD[44,   5]: 0.0003758 勝手
+	one WORD[44,   6]: 0.0003177 勝因
+	one WORD[44,   7]: 0.0003120 親勝り
+TOKEN[45]: 0.0062452    1 layman
+	layman WORD[45,   1]: 0.0062452 藤四郎
+TOKEN[46]: 0.0062282    5 scenic
+	scenic WORD[46,   1]: 0.0021205 名勝
+	scenic WORD[46,   2]: 0.0018635 勝地
+	scenic WORD[46,   3]: 0.0008799 形勝
+	scenic WORD[46,   4]: 0.0008175 景勝
+	scenic WORD[46,   5]: 0.0005469 勝
+TOKEN[47]: 0.0060979    1 door
+	door WORD[47,   1]: 0.0060979 勝手口
+TOKEN[48]: 0.0058993    1 wistaria
+	wistaria WORD[48,   1]: 0.0058993 藤
+TOKEN[49]: 0.0058182    3 decisive
+	decisive WORD[49,   1]: 0.0026130 ぼろ勝ち
+	decisive WORD[49,   2]: 0.0026130 ボロ勝ち
+	decisive WORD[49,   3]: 0.0005921 大勝
+TOKEN[50]: 0.0057126    1 struggle
+	struggle WORD[50,   1]: 0.0028563 葛藤
+TOKEN[51]: 0.0056904    1 Japan
+	Japan WORD[51,   1]: 0.0056904 勝絶
+TOKEN[52]: 0.0056637    1 novice
+	novice WORD[52,   1]: 0.0056637 藤四郎
+TOKEN[53]: 0.0056636    1 complex
+	complex WORD[53,   1]: 0.0028318 葛藤
+TOKEN[54]: 0.0055877    1 amateur
+	amateur WORD[54,   1]: 0.0055877 藤四郎
+TOKEN[55]: 0.0055661    1 liana
+	liana WORD[55,   1]: 0.0055661 藤本
+TOKEN[56]: 0.0055587    1 feeling
+	feeling WORD[56,   1]: 0.0055587 心勝り
+TOKEN[57]: 0.0054692    6 winner
+	winner WORD[57,   1]: 0.0017022 勝ち馬
+	winner WORD[57,   2]: 0.0010926 勝馬
+	winner WORD[57,   3]: 0.0007969 勝ち名乗り
+	winner WORD[57,   4]: 0.0006625 一人勝ち
+	winner WORD[57,   5]: 0.0006625 独り勝ち
+	winner WORD[57,   6]: 0.0005526 勝者
+TOKEN[58]: 0.0051583    5 beauty
+	beauty WORD[58,   1]: 0.0016710 名勝
+	beauty WORD[58,   2]: 0.0014685 勝地
+	beauty WORD[58,   3]: 0.0006934 形勝
+	beauty WORD[58,   4]: 0.0006812 奇勝
+	beauty WORD[58,   5]: 0.0006442 景勝
+TOKEN[59]: 0.0050058    2 land
+	land WORD[59,   1]: 0.0021910 葛藤
+	land WORD[59,   2]: 0.0006238 勝地
+TOKEN[60]: 0.0047633    3 two
+	two WORD[60,   1]: 0.0020407 葛藤
+	two WORD[60,   2]: 0.0003410 勝ち越す
+	two WORD[60,   3]: 0.0003410 勝越す
+TOKEN[61]: 0.0047510    1 piece
+	piece WORD[61,   1]: 0.0023755 葛藤
+TOKEN[62]: 0.0046158    3 tournament
+	tournament WORD[62,   1]: 0.0033356 勝ち抜き
+	tournament WORD[62,   2]: 0.0007483 勝ち得
+	tournament WORD[62,   3]: 0.0005319 全勝
+TOKEN[63]: 0.0044033    1 entrance
+	entrance WORD[63,   1]: 0.0044033 勝手口
+TOKEN[64]: 0.0043333    1 knockout
+	knockout WORD[64,   1]: 0.0043333 勝ち抜き
+TOKEN[65]: 0.0043238    4 battle
+	battle WORD[65,   1]: 0.0012918 勝ち戦
+	battle WORD[65,   2]: 0.0012918 勝ち軍
+	battle WORD[65,   3]: 0.0012918 勝戦
+	battle WORD[65,   4]: 0.0004483 勝敗
+TOKEN[66]: 0.0041104    1 egotistical
+	egotistical WORD[66,   1]: 0.0041104 身勝手
+TOKEN[67]: 0.0041042    4 spot
+	spot WORD[67,   1]: 0.0016130 名勝
+	spot WORD[67,   2]: 0.0014176 勝地
+	spot WORD[67,   3]: 0.0006576 奇勝
+	spot WORD[67,   4]: 0.0004160 勝
+TOKEN[68]: 0.0040665    1 something
+	something WORD[68,   1]: 0.0040665 心勝り
+TOKEN[69]: 0.0039347    1 climbing
+	climbing WORD[69,   1]: 0.0039347 藤本
+TOKEN[70]: 0.0038654    2 selfishness
+	selfishness WORD[70,   1]: 0.0033136 好き勝手
+	selfishness WORD[70,   2]: 0.0005518 勝手
+TOKEN[71]: 0.0037508    1 Chinese
+	Chinese WORD[71,   1]: 0.0018754 葛藤
+TOKEN[72]: 0.0036674    1 species
+	species WORD[72,   1]: 0.0036674 藤袴
+TOKEN[73]: 0.0035126    6 triumph
+	triumph WORD[73,   1]: 0.0005855 勝ち誇る
+	triumph WORD[73,   2]: 0.0005855 勝ちどき
+	triumph WORD[73,   3]: 0.0005855 勝ち鬨
+	triumph WORD[73,   4]: 0.0005855 勝どき
+	triumph WORD[73,   5]: 0.0005855 勝鬨
+	triumph WORD[73,   6]: 0.0005852 勝利
+TOKEN[74]: 0.0032805    4 lead
+	lead WORD[74,   1]: 0.0012302 勝ち越す
+	lead WORD[74,   2]: 0.0012302 勝越す
+	lead WORD[74,   3]: 0.0004101 勝越し
+	lead WORD[74,   4]: 0.0004101 勝ち越し
+TOKEN[75]: 0.0032506    1 usability
+	usability WORD[75,   1]: 0.0032506 使い勝手
+TOKEN[76]: 0.0030724    1 selfish
+	selfish WORD[76,   1]: 0.0030724 身勝手
+TOKEN[77]: 0.0029948    1 tradesman
+	tradesman WORD[77,   1]: 0.0029948 勝手口
+TOKEN[78]: 0.0028972    1 former
+	former WORD[78,   1]: 0.0028972 勝共
+TOKEN[79]: 0.0028836    2 ease
+	ease WORD[79,   1]: 0.0024081 使い勝手
+	ease WORD[79,   2]: 0.0004755 勝手
+TOKEN[80]: 0.0028523    3 victorious
+	victorious WORD[80,   1]: 0.0009508 勝ち戦
+	victorious WORD[80,   2]: 0.0009508 勝ち軍
+	victorious WORD[80,   3]: 0.0009508 勝戦
+TOKEN[81]: 0.0028184    2 kitchen
+	kitchen WORD[81,   1]: 0.0023546 勝手口
+	kitchen WORD[81,   2]: 0.0004638 勝手
+TOKEN[82]: 0.0027979    3 surpass
+	surpass WORD[82,   1]: 0.0015127 立ち勝る
+	surpass WORD[82,   2]: 0.0007114 勝る
+	surpass WORD[82,   3]: 0.0005739 勝れる
+TOKEN[83]: 0.0026972    2 financial
+	financial WORD[83,   1]: 0.0022659 勝手向き
+	financial WORD[83,   2]: 0.0004313 勝手
+TOKEN[84]: 0.0026958    1 group
+	group WORD[84,   1]: 0.0026958 勝共
+TOKEN[85]: 0.0026932    1 utility
+	utility WORD[85,   1]: 0.0026932 使い勝手
+TOKEN[86]: 0.0026837    1 path
+	path WORD[86,   1]: 0.0026837 勝ち筋
+TOKEN[87]: 0.0026735    5 place
+	place WORD[87,   1]: 0.0006225 名勝
+	place WORD[87,   2]: 0.0005470 勝地
+	place WORD[87,   3]: 0.0005166 形勝
+	place WORD[87,   4]: 0.0005075 奇勝
+	place WORD[87,   5]: 0.0004799 景勝
+TOKEN[88]: 0.0026521    1 host
+	host WORD[88,   1]: 0.0026521 勝手口
+TOKEN[89]: 0.0026378    5 defeat
+	defeat WORD[89,   1]: 0.0008826 勝ち負け
+	defeat WORD[89,   2]: 0.0004770 勝敗
+	defeat WORD[89,   3]: 0.0004413 勝負
+	defeat WORD[89,   4]: 0.0004184 打ち勝つ
+	defeat WORD[89,   5]: 0.0004184 打勝つ
+TOKEN[90]: 0.0026296    1 suit
+	suit WORD[90,   1]: 0.0026296 得手勝手
+TOKEN[91]: 0.0026081    1 saying
+	saying WORD[91,   1]: 0.0026081 得手勝手
+TOKEN[92]: 0.0025796    5 success
+	success WORD[92,   1]: 0.0007559 勝因
+	success WORD[92,   2]: 0.0004829 勝算
+	success WORD[92,   3]: 0.0004471 勝ち目
+	success WORD[92,   4]: 0.0004470 勝ち誇る
+	success WORD[92,   5]: 0.0004468 勝利
+TOKEN[93]: 0.0025787    1 tantric
+	tantric WORD[93,   1]: 0.0025787 勝楽
+TOKEN[94]: 0.0023822    2 spirit
+	spirit WORD[94,   1]: 0.0011911 勝ち気
+	spirit WORD[94,   2]: 0.0011911 勝気
+TOKEN[95]: 0.0023490    1 household
+	household WORD[95,   1]: 0.0023490 勝手向き
+TOKEN[96]: 0.0022676    1 cooking
+	cooking WORD[96,   1]: 0.0022676 勝手向き
+TOKEN[97]: 0.0022225    4 advance
+	advance WORD[97,   1]: 0.0009795 勝ち上がる
+	advance WORD[97,   2]: 0.0004144 勝ち残る
+	advance WORD[97,   3]: 0.0004143 勝ち進む
+	advance WORD[97,   4]: 0.0004143 勝進む
+TOKEN[98]: 0.0021534    2 use
+	use WORD[98,   1]: 0.0017983 使い勝手
+	use WORD[98,   2]: 0.0003551 勝手
+TOKEN[99]: 0.0021110    1 Japanese
+	Japanese WORD[99,   1]: 0.0021110 藤
+TOKEN[100]: 0.0020766    2 horse
+	horse WORD[100,   1]: 0.0012648 勝ち馬
+	horse WORD[100,   2]: 0.0008118 勝馬
+TOKEN[101]: 0.0020635    3 bout
+	bout WORD[101,   1]: 0.0007811 勝ち名乗り
+	bout WORD[101,   2]: 0.0007810 勝ち得
+	bout WORD[101,   3]: 0.0005014 勝負
+TOKEN[102]: 0.0020392    4 gain
+	gain WORD[102,   1]: 0.0006969 勝ち得る
+	gain WORD[102,   2]: 0.0004476 勝つ
+	gain WORD[102,   3]: 0.0004473 勝ちとる
+	gain WORD[102,   4]: 0.0004473 勝ち取る
+TOKEN[103]: 0.0019634    4 shout
+	shout WORD[103,   1]: 0.0004909 勝ちどき
+	shout WORD[103,   2]: 0.0004909 勝ち鬨
+	shout WORD[103,   3]: 0.0004909 勝どき
+	shout WORD[103,   4]: 0.0004909 勝鬨
+TOKEN[104]: 0.0019058    2 superior
+	superior WORD[104,   1]: 0.0012962 立ち勝る
+	superior WORD[104,   2]: 0.0006096 勝る
+TOKEN[105]: 0.0018643    1 room
+	room WORD[105,   1]: 0.0018643 勝手口
+TOKEN[106]: 0.0018619    1 service
+	service WORD[106,   1]: 0.0018619 勝手口
+TOKEN[107]: 0.0018436    2 picturesque
+	picturesque WORD[107,   1]: 0.0009557 形勝
+	picturesque WORD[107,   2]: 0.0008879 景勝
+TOKEN[108]: 0.0018332    3 achieve
+	achieve WORD[108,   1]: 0.0008027 勝ち得る
+	achieve WORD[108,   2]: 0.0005152 勝ちとる
+	achieve WORD[108,   3]: 0.0005152 勝ち取る
+TOKEN[109]: 0.0018210    4 cry
+	cry WORD[109,   1]: 0.0004552 勝ちどき
+	cry WORD[109,   2]: 0.0004552 勝ち鬨
+	cry WORD[109,   3]: 0.0004552 勝どき
+	cry WORD[109,   4]: 0.0004552 勝鬨
+TOKEN[110]: 0.0017522    2 advantageous
+	advantageous WORD[110,   1]: 0.0009083 形勝
+	advantageous WORD[110,   2]: 0.0008439 景勝
+TOKEN[111]: 0.0017059    2 championship
+	championship WORD[111,   1]: 0.0009282 制勝
+	championship WORD[111,   2]: 0.0007777 優勝
+TOKEN[112]: 0.0016951    1 deity
+	deity WORD[112,   1]: 0.0016951 勝楽
+TOKEN[113]: 0.0016780    2 strategic
+	strategic WORD[113,   1]: 0.0008698 形勝
+	strategic WORD[113,   2]: 0.0008081 景勝
+TOKEN[114]: 0.0016733    2 unyielding
+	unyielding WORD[114,   1]: 0.0008367 勝ち気
+	unyielding WORD[114,   2]: 0.0008367 勝気
+TOKEN[115]: 0.0016621    2 determined
+	determined WORD[115,   1]: 0.0008310 勝ち気
+	determined WORD[115,   2]: 0.0008310 勝気
+TOKEN[116]: 0.0016016    2 chestnut
+	chestnut WORD[116,   1]: 0.0008008 勝ち栗
+	chestnut WORD[116,   2]: 0.0008008 勝栗
+TOKEN[117]: 0.0015688    2 easy
+	easy WORD[117,   1]: 0.0011724 楽勝
+	easy WORD[117,   2]: 0.0003964 快勝
+TOKEN[118]: 0.0015600    1 shogi
+	shogi WORD[118,   1]: 0.0015600 勝着
+TOKEN[119]: 0.0014856    1 Buddhist
+	Buddhist WORD[119,   1]: 0.0014856 勝楽
+TOKEN[120]: 0.0014560    2 odds
+	odds WORD[120,   1]: 0.0009170 勝勢
+	odds WORD[120,   2]: 0.0005390 勝ち目
+TOKEN[121]: 0.0013775    2 location
+	location WORD[121,   1]: 0.0007141 形勝
+	location WORD[121,   2]: 0.0006634 景勝
+TOKEN[122]: 0.0013497    1 move
+	move WORD[122,   1]: 0.0013497 勝着
+TOKEN[123]: 0.0013443    2 excel
+	excel WORD[123,   1]: 0.0007441 勝る
+	excel WORD[123,   2]: 0.0006002 勝れる
+TOKEN[124]: 0.0012776    1 unconquerable
+	unconquerable WORD[124,   1]: 0.0012776 常勝
+TOKEN[125]: 0.0012727    2 chance
+	chance WORD[125,   1]: 0.0008699 勝機
+	chance WORD[125,   2]: 0.0004028 勝ち目
+TOKEN[126]: 0.0012561    2 dried
+	dried WORD[126,   1]: 0.0006280 勝ち栗
+	dried WORD[126,   2]: 0.0006280 勝栗
+TOKEN[127]: 0.0012472    2 case
+	case WORD[127,   1]: 0.0008527 勝訴
+	case WORD[127,   2]: 0.0003945 勝ち残り
+TOKEN[128]: 0.0012374    2 take
+	take WORD[128,   1]: 0.0006187 勝ち越す
+	take WORD[128,   2]: 0.0006187 勝越す
+TOKEN[129]: 0.0012350    2 sole
+	sole WORD[129,   1]: 0.0006175 一人勝ち
+	sole WORD[129,   2]: 0.0006175 独り勝ち
+TOKEN[130]: 0.0012277    3 next
+	next WORD[130,   1]: 0.0004093 勝ち残る
+	next WORD[130,   2]: 0.0004092 勝ち進む
+	next WORD[130,   3]: 0.0004092 勝進む
+TOKEN[131]: 0.0012201    1 tend
+	tend WORD[131,   1]: 0.0006101 勝ち
+TOKEN[132]: 0.0012053    1 unbeaten
+	unbeaten WORD[132,   1]: 0.0012053 常勝
+TOKEN[133]: 0.0012004    3 match
+	match WORD[133,   1]: 0.0004003 勝負
+	match WORD[133,   2]: 0.0004001 勝ち越す
+	match WORD[133,   3]: 0.0004001 勝越す
+TOKEN[134]: 0.0011864    1 era
+	era WORD[134,   1]: 0.0011864 天平勝宝
+TOKEN[135]: 0.0011845    2 wrestler
+	wrestler WORD[135,   1]: 0.0007214 勝ち得
+	wrestler WORD[135,   2]: 0.0004631 勝ち残り
+TOKEN[136]: 0.0011721    3 round
+	round WORD[136,   1]: 0.0003908 勝ち残る
+	round WORD[136,   2]: 0.0003906 勝ち進む
+	round WORD[136,   3]: 0.0003906 勝進む
+TOKEN[137]: 0.0011624    1 liable
+	liable WORD[137,   1]: 0.0005812 勝ち
+TOKEN[138]: 0.0011433    2 overwhelming
+	overwhelming WORD[138,   1]: 0.0006258 大勝
+	overwhelming WORD[138,   2]: 0.0005175 圧勝
+TOKEN[139]: 0.0011423    2 health
+	health WORD[139,   1]: 0.0007093 清勝
+	health WORD[139,   2]: 0.0004330 健勝
+TOKEN[140]: 0.0011350    1 lots
+	lots WORD[140,   1]: 0.0005675 勝ち
+TOKEN[141]: 0.0011307    2 position
+	position WORD[141,   1]: 0.0005861 形勝
+	position WORD[141,   2]: 0.0005445 景勝
+TOKEN[142]: 0.0011212    3 game
+	game WORD[142,   1]: 0.0003892 先勝
+	game WORD[142,   2]: 0.0003802 勝敗
+	game WORD[142,   3]: 0.0003518 勝負
+TOKEN[143]: 0.0010932    1 peasy
+	peasy WORD[143,   1]: 0.0010932 楽勝
+TOKEN[144]: 0.0010932    1 cakewalk
+	cakewalk WORD[144,   1]: 0.0010932 楽勝
+TOKEN[145]: 0.0010829    2 conquer
+	conquer WORD[145,   1]: 0.0005414 打ち勝つ
+	conquer WORD[145,   2]: 0.0005414 打勝つ
+TOKEN[146]: 0.0010736    1 apt
+	apt WORD[146,   1]: 0.0005368 勝ち
+TOKEN[147]: 0.0010727    2 woman
+	woman WORD[147,   1]: 0.0007370 勝山
+	woman WORD[147,   2]: 0.0003357 男勝り
+TOKEN[148]: 0.0010692    1 go
+	go WORD[148,   1]: 0.0010692 勝着
+TOKEN[149]: 0.0010469    1 prone
+	prone WORD[149,   1]: 0.0005235 勝ち
+TOKEN[150]: 0.0010358    2 secure
+	secure WORD[150,   1]: 0.0005179 勝ちとる
+	secure WORD[150,   2]: 0.0005179 勝ち取る
+TOKEN[151]: 0.0010313    1 walkover
+	walkover WORD[151,   1]: 0.0010313 楽勝
+TOKEN[152]: 0.0010173    1 everybody
+	everybody WORD[152,   1]: 0.0010173 我勝ち
+TOKEN[153]: 0.0010021    1 invincible
+	invincible WORD[153,   1]: 0.0010021 常勝
+TOKEN[154]: 0.0009964    1 splendor
+	splendor WORD[154,   1]: 0.0009964 絶勝
+TOKEN[155]: 0.0009871    1 surpassing
+	surpassing WORD[155,   1]: 0.0009871 親勝り
+TOKEN[156]: 0.0009678    2 overcome
+	overcome WORD[156,   1]: 0.0004839 打ち勝つ
+	overcome WORD[156,   2]: 0.0004839 打勝つ
+TOKEN[157]: 0.0009651    2 obtain
+	obtain WORD[157,   1]: 0.0004826 勝ちとる
+	obtain WORD[157,   2]: 0.0004826 勝ち取る
+TOKEN[158]: 0.0009608    2 sweeping
+	sweeping WORD[158,   1]: 0.0004961 快勝
+	sweeping WORD[158,   2]: 0.0004646 圧勝
+TOKEN[159]: 0.0009606    1 preponderate
+	preponderate WORD[159,   1]: 0.0009606 勝る
+TOKEN[160]: 0.0009606    1 outweigh
+	outweigh WORD[160,   1]: 0.0009606 勝る
+TOKEN[161]: 0.0009606    1 outrival
+	outrival WORD[161,   1]: 0.0009606 勝る
+TOKEN[162]: 0.0009401    1 legal
+	legal WORD[162,   1]: 0.0009401 勝訴
+TOKEN[163]: 0.0009303    1 prize
+	prize WORD[163,   1]: 0.0004651 勝ち
+TOKEN[164]: 0.0009294    1 everyone
+	everyone WORD[164,   1]: 0.0009294 我勝ち
+TOKEN[165]: 0.0009138    2 contest
+	contest WORD[165,   1]: 0.0004655 決勝
+	contest WORD[165,   2]: 0.0004484 勝負
+TOKEN[166]: 0.0009129    1 stratagem
+	stratagem WORD[166,   1]: 0.0009129 奇勝
+TOKEN[167]: 0.0009088    1 prostitute
+	prostitute WORD[167,   1]: 0.0009088 勝山
+TOKEN[168]: 0.0009059    1 declared
+	declared WORD[168,   1]: 0.0009059 勝ち名乗り
+TOKEN[169]: 0.0009023    1 contentment
+	contentment WORD[169,   1]: 0.0009023 優勝
+TOKEN[170]: 0.0009006    1 superb
+	superb WORD[170,   1]: 0.0009006 絶勝
+TOKEN[171]: 0.0008762    2 difficulty
+	difficulty WORD[171,   1]: 0.0004381 打ち勝つ
+	difficulty WORD[171,   2]: 0.0004381 打勝つ
+TOKEN[172]: 0.0008711    1 bliss
+	bliss WORD[172,   1]: 0.0008711 優勝
+TOKEN[173]: 0.0008620    1 popular
+	popular WORD[173,   1]: 0.0008620 勝山
+TOKEN[174]: 0.0008572    2 complete
+	complete WORD[174,   1]: 0.0004485 全勝
+	complete WORD[174,   2]: 0.0004087 完勝
+TOKEN[175]: 0.0008558    1 attain
+	attain WORD[175,   1]: 0.0008558 勝ち得る
+TOKEN[176]: 0.0008435    2 opponent
+	opponent WORD[176,   1]: 0.0004217 勝ち越す
+	opponent WORD[176,   2]: 0.0004217 勝越す
+TOKEN[177]: 0.0008430    1 favorable
+	favorable WORD[177,   1]: 0.0008430 勝勢
+TOKEN[178]: 0.0008348    1 uncommon
+	uncommon WORD[178,   1]: 0.0008348 奇勝
+TOKEN[179]: 0.0008303    2 good
+	good WORD[179,   1]: 0.0005155 清勝
+	good WORD[179,   2]: 0.0003147 健勝
+TOKEN[180]: 0.0008282    1 eighth
+	eighth WORD[180,   1]: 0.0008282 勝ち得
+TOKEN[181]: 0.0008181    1 suitable
+	suitable WORD[181,   1]: 0.0008181 勝地
+TOKEN[182]: 0.0008050    1 first
+	first WORD[182,   1]: 0.0008050 先勝
+TOKEN[183]: 0.0007977    1 celebration
+	celebration WORD[183,   1]: 0.0007977 祝勝
+TOKEN[184]: 0.0007962    1 streak
+	streak WORD[184,   1]: 0.0007962 連勝
+TOKEN[185]: 0.0007907    1 overall
+	overall WORD[185,   1]: 0.0007907 優勝
+TOKEN[186]: 0.0007759    2 enemy
+	enemy WORD[186,   1]: 0.0003879 打ち勝つ
+	enemy WORD[186,   2]: 0.0003879 打勝つ
+TOKEN[187]: 0.0007744    1 consecutive
+	consecutive WORD[187,   1]: 0.0007744 連勝
+TOKEN[188]: 0.0007539    1 exceed
+	exceed WORD[188,   1]: 0.0007539 勝る
+TOKEN[189]: 0.0007426    1 news
+	news WORD[189,   1]: 0.0007426 勝報
+TOKEN[190]: 0.0007322    1 made
+	made WORD[190,   1]: 0.0007322 勝山
+TOKEN[191]: 0.0007282    1 unexpected
+	unexpected WORD[191,   1]: 0.0007282 奇勝
+TOKEN[192]: 0.0007246    2 taking
+	taking WORD[192,   1]: 0.0003623 勝越し
+	taking WORD[192,   2]: 0.0003623 勝ち越し
+TOKEN[193]: 0.0007240    1 extra
+	extra WORD[193,   1]: 0.0007240 勝ち得
+TOKEN[194]: 0.0007232    1 luck
+	luck WORD[194,   1]: 0.0007232 勝運
+TOKEN[195]: 0.0007202    1 victor
+	victor WORD[195,   1]: 0.0007202 勝者
+TOKEN[196]: 0.0007121    2 great
+	great WORD[196,   1]: 0.0003817 大勝
+	great WORD[196,   2]: 0.0003304 大勝ち
+TOKEN[197]: 0.0007039    1 reason
+	reason WORD[197,   1]: 0.0007039 勝因
+TOKEN[198]: 0.0007029    1 park
+	park WORD[198,   1]: 0.0007029 楽勝
+TOKEN[199]: 0.0006941    1 hand
+	hand WORD[199,   1]: 0.0006941 勝手
+TOKEN[200]: 0.0006824    1 laudable
+	laudable WORD[200,   1]: 0.0006824 殊勝
+TOKEN[201]: 0.0006814    1 cause
+	cause WORD[201,   1]: 0.0006814 勝因
+TOKEN[202]: 0.0006740    1 outstrip
+	outstrip WORD[202,   1]: 0.0006740 勝れる
+TOKEN[203]: 0.0006609    1 heaven
+	heaven WORD[203,   1]: 0.0006609 優勝
+TOKEN[204]: 0.0006506    1 walk
+	walk WORD[204,   1]: 0.0006506 楽勝
+TOKEN[205]: 0.0006464    1 sign
+	sign WORD[205,   1]: 0.0006464 勝ち味
+TOKEN[206]: 0.0006410    1 title
+	title WORD[206,   1]: 0.0006410 優勝
+TOKEN[207]: 0.0006394    1 way
+	way WORD[207,   1]: 0.0006394 勝手
+TOKEN[208]: 0.0006361    1 perfect
+	perfect WORD[208,   1]: 0.0006361 優勝
+TOKEN[209]: 0.0006353    1 mannish
+	mannish WORD[209,   1]: 0.0006353 男勝り
+TOKEN[210]: 0.0006276    1 admirable
+	admirable WORD[210,   1]: 0.0006276 殊勝
+TOKEN[211]: 0.0006252    1 series
+	series WORD[211,   1]: 0.0006252 連勝
+TOKEN[212]: 0.0006183    1 bidding
+	bidding WORD[212,   1]: 0.0006183 競り勝つ
+TOKEN[213]: 0.0006104    1 ringside
+	ringside WORD[213,   1]: 0.0006104 勝ち残り
+TOKEN[214]: 0.0005944    1 bowstring
+	bowstring WORD[214,   1]: 0.0005944 勝手
+TOKEN[215]: 0.0005852    1 conquest
+	conquest WORD[215,   1]: 0.0005852 勝利
+TOKEN[216]: 0.0005811    1 afternoon
+	afternoon WORD[216,   1]: 0.0005811 先勝
+TOKEN[217]: 0.0005800    1 edge
+	edge WORD[217,   1]: 0.0005800 勝る
+TOKEN[218]: 0.0005620    1 scoring
+	scoring WORD[218,   1]: 0.0005620 先勝
+TOKEN[219]: 0.0005585    1 outcome
+	outcome WORD[219,   1]: 0.0005585 勝敗
+TOKEN[220]: 0.0005568    1 surroundings
+	surroundings WORD[220,   1]: 0.0005568 勝手
+TOKEN[221]: 0.0005492    1 percentage
+	percentage WORD[221,   1]: 0.0005492 勝率
+TOKEN[222]: 0.0005476    1 ultimate
+	ultimate WORD[222,   1]: 0.0005476 勝義
+TOKEN[223]: 0.0005472    1 elated
+	elated WORD[223,   1]: 0.0005472 勝ち誇る
+TOKEN[224]: 0.0005437    1 certain
+	certain WORD[224,   1]: 0.0005437 必勝
+TOKEN[225]: 0.0005398    1 play
+	play WORD[225,   1]: 0.0005398 楽勝
+TOKEN[226]: 0.0005389    1 involvement
+	involvement WORD[226,   1]: 0.0005389 勝ち残り
+TOKEN[227]: 0.0005372    1 unofficial
+	unofficial WORD[227,   1]: 0.0005372 勝手
+TOKEN[228]: 0.0005328    1 tough
+	tough WORD[228,   1]: 0.0005328 競り勝つ
+TOKEN[229]: 0.0005282    1 spirited
+	spirited WORD[229,   1]: 0.0005282 男勝り
+TOKEN[230]: 0.0005195    1 livelihood
+	livelihood WORD[230,   1]: 0.0005195 勝手
+TOKEN[231]: 0.0005129    1 child
+	child WORD[231,   1]: 0.0005129 楽勝
+TOKEN[232]: 0.0004984    1 archery
+	archery WORD[232,   1]: 0.0004984 勝手
+TOKEN[233]: 0.0004984    1 lucky
+	lucky WORD[233,   1]: 0.0004984 先勝
+TOKEN[234]: 0.0004902    1 sports
+	sports WORD[234,   1]: 0.0004902 決勝
+TOKEN[235]: 0.0004866    1 remains
+	remains WORD[235,   1]: 0.0004866 勝ち残り
+TOKEN[236]: 0.0004836    1 narrow
+	narrow WORD[236,   1]: 0.0004836 辛勝
+TOKEN[237]: 0.0004796    1 crushing
+	crushing WORD[237,   1]: 0.0004796 圧勝
+TOKEN[238]: 0.0004791    1 environment
+	environment WORD[238,   1]: 0.0004791 勝手
+TOKEN[239]: 0.0004721    1 morning
+	morning WORD[239,   1]: 0.0004721 先勝
+TOKEN[240]: 0.0004691    1 huge
+	huge WORD[240,   1]: 0.0004691 大勝ち
+TOKEN[241]: 0.0004679    1 opportunity
+	opportunity WORD[241,   1]: 0.0004679 勝機
+TOKEN[242]: 0.0004574    1 decision
+	decision WORD[242,   1]: 0.0004574 決勝
+TOKEN[243]: 0.0004549    1 site
+	site WORD[243,   1]: 0.0004549 勝手
+TOKEN[244]: 0.0004544    1 calendar
+	calendar WORD[244,   1]: 0.0004544 先勝
+TOKEN[245]: 0.0004509    1 killing
+	killing WORD[245,   1]: 0.0004509 大勝ち
+TOKEN[246]: 0.0004382    1 meaning
+	meaning WORD[246,   1]: 0.0004382 勝義
+TOKEN[247]: 0.0004379    1 phone
+	phone WORD[247,   1]: 0.0004379 勝手
+TOKEN[248]: 0.0004321    1 total
+	total WORD[248,   1]: 0.0004321 完勝
+TOKEN[249]: 0.0004316    1 war
+	war WORD[249,   1]: 0.0004316 戦勝
+TOKEN[250]: 0.0004309    1 original
+	original WORD[250,   1]: 0.0004309 勝義
+TOKEN[251]: 0.0004296    1 truth
+	truth WORD[251,   1]: 0.0004296 勝義
+TOKEN[252]: 0.0004187    1 counter
+	counter WORD[252,   1]: 0.0004187 勝
+TOKEN[253]: 0.0004182    1 profit
+	profit WORD[253,   1]: 0.0004182 大勝ち
+TOKEN[254]: 0.0004024    1 mark
+	mark WORD[254,   1]: 0.0004024 勝ち星
+TOKEN[255]: 0.0004015    1 traditional
+	traditional WORD[255,   1]: 0.0004015 先勝
+TOKEN[256]: 0.0003835    1 big
+	big WORD[256,   1]: 0.0003835 大勝ち
+TOKEN[257]: 0.0003816    1 living
+	living WORD[257,   1]: 0.0003816 勝手
+TOKEN[258]: 0.0003728    1 point
+	point WORD[258,   1]: 0.0003728 先勝
+TOKEN[259]: 0.0003728    1 word
+	word WORD[259,   1]: 0.0003728 勝義
+TOKEN[260]: 0.0003646    1 right
+	right WORD[260,   1]: 0.0003646 勝手
+TOKEN[261]: 0.0003628    1 day
+	day WORD[261,   1]: 0.0003628 先勝

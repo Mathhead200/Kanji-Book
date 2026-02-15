@@ -1,0 +1,716 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0448011   18 doctor         : 医博, 洋医, 近医, 藩医, 前医, 医聖, 医員, 良医, 医院, 船医, ...
+0.0431787   15 ward           : 區, 区営, 港区, 区道, 区政, 区名, 区長, 区議, 区立, 区会, ...
+0.0346852    3 concealment    : 秘匿, 蔵匿, 隠匿
+0.0258663    3 hide           : 匿れる, 匿う, 匿す
+0.0241074    3 borough        : 區, 区内, 区
+0.0216779    1 counter        : 匹
+0.0215192    2 electoral      : 區, 区
+0.0213034    2 differentiation: 區別, 区別
+0.0209799   14 medical        : 医官, 医用, 医員, 医療, 医科, 医書, 医業, 医界, 医務, 医長, ...
+0.0207132    4 zone           : 區, 特区, 区域, 区
+0.0201950    2 equal          : 匹儔, 匹敵
+0.0200112    9 section        : 區, 工区, 区分け, 地区, 区分, 区間, 区劃, 区画, 区
+0.0199321    2 shelter        : 蔵匿, 匿う
+0.0199104    2 postal         : 區, 区
+0.0193195    1 man            : 匹夫
+0.0190951    7 district       : 區, 区名, 市区, 地区, 校区, 区, 学区
+0.0189960    4 classification : 區別, 区分け, 区別, 区分
+0.0184270    3 city           : 區, 市区町村名, 区
+0.0182863    2 match          : 匹儔, 匹敵
+0.0181918    2 conceal        : 匿れる, 匿す
+0.0180715    2 distinction    : 區別, 区別
+0.0166474    7 medicine       : 医博, 洋医, 中医, 医道, 医術, 医薬, 医学
+0.0149894    1 anonymity      : 匿名
+0.0148747    1 rustic         : 匹夫
+0.0141720    1 cloth          : 匹
+0.0137359    3 name           : 匿名, 市区町村名, 区名
+0.0130667    7 physician      : 医聖, 侍医, 軍医, 名医, 医長, 医者, 医師
+0.0128472    1 assumed        : 匿名
+0.0125859    1 fugitive       : 匿う
+0.0125248    1 coarse         : 匹夫
+0.0120052    1 humble         : 匹夫
+0.0107283    1 han            : 匹
+0.0097739    1 refuge         : 匿う
+0.0095901    1 rival          : 匹敵
+0.0095654    1 harbour        : 匿う
+0.0095654    1 harbor         : 匿う
+0.0093151    1 equivalent     : 匹敵
+0.0090975    1 disappear      : 匿れる
+0.0089865    1 magnetic       : 磁区
+0.0084723    1 compare        : 匹敵
+0.0083873    1 hidden         : 匿れる
+0.0083754    2 domain         : 磁区, 区域
+0.0082332    1 size           : 匹
+0.0081165    1 roll           : 匹
+0.0073364    3 surgeon        : 樹医, 軍医, 獣医
+0.0067109    1 give           : 匿う
+0.0066640    1 two            : 匹
+0.0060120    3 special        : 港区, 特区, 区道
+0.0058251    1 small          : 匹
+0.0057110    1 practitioner   : 洋医
+0.0052638    2 clinic         : 藩医, 医院
+0.0045459    1 village        : 市区町村名
+0.0044599    2 local          : 近医, 区検
+0.0043592    1 town           : 市区町村名
+0.0042101    1 Japan          : 日医
+0.0041771    3 sector         : 戦区, 海区, 地区
+0.0040941    2 divergent      : 区々, 区区
+0.0036321    2 art            : 医道, 医術
+0.0034680    2 diverse        : 区々, 区区
+0.0034309    2 varied         : 区々, 区区
+0.0033898    1 sage           : 医聖
+0.0033837    2 healing        : 医術, 医方
+0.0033421    1 officer        : 医官
+0.0033371    2 divided        : 区々, 区区
+0.0031587    5 area           : 鉱区, 工区, 校区, 区域, 学区
+0.0031466    1 previous       : 前医
+0.0030963    2 insignificant  : 区々, 区区
+0.0030816    2 petty          : 区々, 区区
+0.0030675    2 trivial        : 区々, 区区
+0.0030618    1 famous         : 樹医
+0.0030386    4 school         : 校医, 校区, 学区, 医大
+0.0029919    2 trifling       : 区々, 区区
+0.0029220    1 working        : 藩医
+0.0028545    1 staff          : 医員
+0.0025529    1 public         : 藩医
+0.0025352    2 various        : 区々, 区区
+0.0024964    1 index          : 区点
+0.0024920    4 compartment    : 区分け, 区分, 区劃, 区画
+0.0024770    1 tree           : 樹医
+0.0024511    5 partition      : 区分, 区処, 区切る, 区劃, 区画
+0.0023804    1 road           : 区道
+0.0023496    1 construction   : 工区
+0.0023243    1 subdistrict    : 分区
+0.0023131    5 division       : 区分け, 区分, 区処, 区劃, 区画
+0.0022909    1 old            : 樹医
+0.0022097    1 great          : 医聖
+0.0022083    1 use            : 医用
+0.0021756    1 column         : 区点
+0.0021540    2 office         : 医局, 医院
+0.0021019    1 Chinese        : 中医
+0.0020551    1 row            : 区点
+0.0020461    2 practice       : 医業, 医事
+0.0020395    3 lot            : 鉱区, 区劃, 区画
+0.0019303    3 demarcation    : 区分け, 区割り, 区分
+0.0018825    1 good           : 良医
+0.0018729    2 science        : 医学, 医科
+0.0018504    1 heal           : 医する
+0.0017772    1 character      : 区点
+0.0016719    1 set            : 区点
+0.0016710    2 project        : 工区, 区切り
+0.0015997    1 theater        : 戦区
+0.0015964    1 cure           : 医する
+0.0015435    2 one            : 前医, 区切る
+0.0015429    1 noted          : 名医
+0.0015321    1 veterinary     : 獣医
+0.0015321    1 vet            : 獣医
+0.0015321    1 veterinarian   : 獣医
+0.0015290    1 run            : 区営
+0.0015072    3 block          : 街区, 区劃, 区画
+0.0014522    1 mining         : 鉱区
+0.0014104    1 assemblyman    : 区議
+0.0014072    3 boundary       : 区劃, 区画, 区域
+0.0013462    1 ocean          : 海区
+0.0013386    1 mine           : 鉱区
+0.0013316    1 war            : 戦区
+0.0013292    1 ship           : 船医
+0.0013245    2 municipal      : 市区, 区立
+0.0013162    1 Japanese       : 区点
+0.0013069    1 female         : 女医
+0.0012837    2 lane           : 区分け, 区分
+0.0012435    1 court          : 侍医
+0.0012431    1 method         : 医方
+0.0012292    1 military       : 軍医
+0.0012020    2 chief          : 医長, 区長
+0.0011695    1 excellent      : 名医
+0.0011572    2 traffic        : 区分け, 区分
+0.0011161    1 world          : 医界
+0.0010929    1 book           : 医書
+0.0010658    2 administrative : 特区, 区処
+0.0010273    1 administration : 区政
+0.0010123    1 surgery        : 医院
+0.0010072    1 parish         : 教区
+0.0009999    1 family         : 医家
+0.0009751    1 management     : 区政
+0.0009379    1 director       : 医長
+0.0009236    1 fishery        : 漁区
+0.0009190    1 pause          : 区切り
+0.0009136    1 hospital       : 医局
+0.0008949    1 streets        : 市区
+0.0008783    1 department     : 医科
+0.0008770    1 register       : 医籍
+0.0008466    2 plot           : 区劃, 区画
+0.0008425    1 treatment      : 医療
+0.0007902    1 assembly       : 区会
+0.0007729    1 care           : 医療
+0.0007652    1 mark           : 区切る
+0.0007211    1 line           : 線区
+0.0006467    1 segmentation   : 区分
+0.0006445    1 delimit        : 区切る
+0.0006445    1 punctuate      : 区切る
+0.0006035    1 mayor          : 区長
+0.0006020    1 comma          : 区切る
+0.0006020    1 dimension      : 区間
+0.0005999    1 fishing        : 漁区
+0.0005883    1 milestone      : 区切り
+0.0005839    1 economic       : 特区
+0.0005772    1 demarcate      : 区切る
+0.0005680    1 prosecutor     : 区検
+0.0005631    1 land           : 街区
+0.0005611    1 ground         : 漁区
+0.0005543    1 subdivision    : 区分
+0.0005524    1 punctuation    : 区切り
+0.0005361    1 administrator  : 区長
+0.0005298    1 segment        : 区間
+0.0005216    1 dividing       : 区処
+0.0005066    1 aloud          : 区切る
+0.0004968    1 marking        : 区割り
+0.0004946    1 jurisdiction   : 管区
+0.0004820    1 bus            : 線区
+0.0004625    1 region         : 特区
+0.0004625    1 interval       : 区間
+0.0004512    1 divide         : 区切る
+0.0004511    1 track          : 区間
+0.0004470    1 established    : 区立
+0.0004393    1 insert         : 区切る
+0.0004369    1 territory      : 区域
+0.0004141    1 train          : 線区
+0.0004114    1 separate       : 区切る
+0.0004037    1 space          : 区切る
+0.0003953    1 speech         : 区切り
+0.0003761    1 stop           : 区切り
+0.0003714    1 reading        : 区切る
+0.0003485    1 break          : 区切り
+0.0003450    1 writing        : 区切り
+0.0003235    1 head           : 区長
+0.0003116    1 end            : 区切り
+0.0002983    1 place          : 区切り
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0448011   18 doctor
+	doctor WORD[ 1,   1]: 0.0060965 医博
+	doctor WORD[ 1,   2]: 0.0047334 洋医
+	doctor WORD[ 1,   3]: 0.0042262 近医
+	doctor WORD[ 1,   4]: 0.0033917 藩医
+	doctor WORD[ 1,   5]: 0.0033630 前医
+	doctor WORD[ 1,   6]: 0.0030464 医聖
+	doctor WORD[ 1,   7]: 0.0028108 医員
+	doctor WORD[ 1,   8]: 0.0027968 良医
+	doctor WORD[ 1,   9]: 0.0017290 医院
+	doctor WORD[ 1,  10]: 0.0016181 船医
+	doctor WORD[ 1,  11]: 0.0015690 女医
+	doctor WORD[ 1,  12]: 0.0015053 校医
+	doctor WORD[ 1,  13]: 0.0014257 医家
+	doctor WORD[ 1,  14]: 0.0012926 名医
+	doctor WORD[ 1,  15]: 0.0008683 医者
+	doctor WORD[ 1,  16]: 0.0008682 医師
+	doctor WORD[ 1,  17]: 0.0008673 医局
+	doctor WORD[ 1,  18]: 0.0008623 医
+TOKEN[ 2]: 0.0431787   15 ward
+	ward WORD[ 2,   1]: 0.0172513 區
+	ward WORD[ 2,   2]: 0.0083847 区営
+	ward WORD[ 2,   3]: 0.0041649 港区
+	ward WORD[ 2,   4]: 0.0030301 区道
+	ward WORD[ 2,   5]: 0.0021228 区政
+	ward WORD[ 2,   6]: 0.0015785 区名
+	ward WORD[ 2,   7]: 0.0014059 区長
+	ward WORD[ 2,   8]: 0.0010640 区議
+	ward WORD[ 2,   9]: 0.0009417 区立
+	ward WORD[ 2,  10]: 0.0007423 区会
+	ward WORD[ 2,  11]: 0.0005479 同区
+	ward WORD[ 2,  12]: 0.0005388 特区
+	ward WORD[ 2,  13]: 0.0004698 区民
+	ward WORD[ 2,  14]: 0.0004689 区内
+	ward WORD[ 2,  15]: 0.0004670 区
+TOKEN[ 3]: 0.0346852    3 concealment
+	concealment WORD[ 3,   1]: 0.0134016 秘匿
+	concealment WORD[ 3,   2]: 0.0115223 蔵匿
+	concealment WORD[ 3,   3]: 0.0097613 隠匿
+TOKEN[ 4]: 0.0258663    3 hide
+	hide WORD[ 4,   1]: 0.0086234 匿れる
+	hide WORD[ 4,   2]: 0.0086225 匿う
+	hide WORD[ 4,   3]: 0.0086204 匿す
+TOKEN[ 5]: 0.0241074    3 borough
+	borough WORD[ 5,   1]: 0.0228668 區
+	borough WORD[ 5,   2]: 0.0006216 区内
+	borough WORD[ 5,   3]: 0.0006191 区
+TOKEN[ 6]: 0.0216779    1 counter
+	counter WORD[ 6,   1]: 0.0216779 匹
+TOKEN[ 7]: 0.0215192    2 electoral
+	electoral WORD[ 7,   1]: 0.0209520 區
+	electoral WORD[ 7,   2]: 0.0005672 区
+TOKEN[ 8]: 0.0213034    2 differentiation
+	differentiation WORD[ 8,   1]: 0.0207419 區別
+	differentiation WORD[ 8,   2]: 0.0005615 区別
+TOKEN[ 9]: 0.0209799   14 medical
+	medical WORD[ 9,   1]: 0.0030691 医官
+	medical WORD[ 9,   2]: 0.0027193 医用
+	medical WORD[ 9,   3]: 0.0026972 医員
+	medical WORD[ 9,   4]: 0.0016772 医療
+	medical WORD[ 9,   5]: 0.0016598 医科
+	medical WORD[ 9,   6]: 0.0014146 医書
+	medical WORD[ 9,   7]: 0.0013706 医業
+	medical WORD[ 9,   8]: 0.0013682 医界
+	medical WORD[ 9,   9]: 0.0008374 医務
+	medical WORD[ 9,  10]: 0.0008355 医長
+	medical WORD[ 9,  11]: 0.0008352 医大
+	medical WORD[ 9,  12]: 0.0008333 医事
+	medical WORD[ 9,  13]: 0.0008322 医局
+	medical WORD[ 9,  14]: 0.0008303 医学
+TOKEN[10]: 0.0207132    4 zone
+	zone WORD[10,   1]: 0.0190838 區
+	zone WORD[10,   2]: 0.0005960 特区
+	zone WORD[10,   3]: 0.0005167 区域
+	zone WORD[10,   4]: 0.0005166 区
+TOKEN[11]: 0.0201950    2 equal
+	equal WORD[11,   1]: 0.0119424 匹儔
+	equal WORD[11,   2]: 0.0082526 匹敵
+TOKEN[12]: 0.0200112    9 section
+	section WORD[12,   1]: 0.0155627 區
+	section WORD[12,   2]: 0.0012122 工区
+	section WORD[12,   3]: 0.0006585 区分け
+	section WORD[12,   4]: 0.0004682 地区
+	section WORD[12,   5]: 0.0004232 区分
+	section WORD[12,   6]: 0.0004217 区間
+	section WORD[12,   7]: 0.0004217 区劃
+	section WORD[12,   8]: 0.0004217 区画
+	section WORD[12,   9]: 0.0004213 区
+TOKEN[13]: 0.0199321    2 shelter
+	shelter WORD[13,   1]: 0.0105441 蔵匿
+	shelter WORD[13,   2]: 0.0093879 匿う
+TOKEN[14]: 0.0199104    2 postal
+	postal WORD[14,   1]: 0.0193856 區
+	postal WORD[14,   2]: 0.0005248 区
+TOKEN[15]: 0.0193195    1 man
+	man WORD[15,   1]: 0.0193195 匹夫
+TOKEN[16]: 0.0190951    7 district
+	district WORD[16,   1]: 0.0153098 區
+	district WORD[16,   2]: 0.0014008 区名
+	district WORD[16,   3]: 0.0006801 市区
+	district WORD[16,   4]: 0.0004606 地区
+	district WORD[16,   5]: 0.0004209 校区
+	district WORD[16,   6]: 0.0004145 区
+	district WORD[16,   7]: 0.0004084 学区
+TOKEN[17]: 0.0189960    4 classification
+	classification WORD[17,   1]: 0.0173278 區別
+	classification WORD[17,   2]: 0.0007299 区分け
+	classification WORD[17,   3]: 0.0004691 区別
+	classification WORD[17,   4]: 0.0004691 区分
+TOKEN[18]: 0.0184270    3 city
+	city WORD[18,   1]: 0.0139232 區
+	city WORD[18,   2]: 0.0041269 市区町村名
+	city WORD[18,   3]: 0.0003769 区
+TOKEN[19]: 0.0182863    2 match
+	match WORD[19,   1]: 0.0108137 匹儔
+	match WORD[19,   2]: 0.0074726 匹敵
+TOKEN[20]: 0.0181918    2 conceal
+	conceal WORD[20,   1]: 0.0090975 匿れる
+	conceal WORD[20,   2]: 0.0090944 匿す
+TOKEN[21]: 0.0180715    2 distinction
+	distinction WORD[21,   1]: 0.0175952 區別
+	distinction WORD[21,   2]: 0.0004763 区別
+TOKEN[22]: 0.0166474    7 medicine
+	medicine WORD[22,   1]: 0.0050784 医博
+	medicine WORD[22,   2]: 0.0039429 洋医
+	medicine WORD[22,   3]: 0.0026203 中医
+	medicine WORD[22,   4]: 0.0023300 医道
+	medicine WORD[22,   5]: 0.0012280 医術
+	medicine WORD[22,   6]: 0.0007270 医薬
+	medicine WORD[22,   7]: 0.0007207 医学
+TOKEN[23]: 0.0149894    1 anonymity
+	anonymity WORD[23,   1]: 0.0149894 匿名
+TOKEN[24]: 0.0148747    1 rustic
+	rustic WORD[24,   1]: 0.0148747 匹夫
+TOKEN[25]: 0.0141720    1 cloth
+	cloth WORD[25,   1]: 0.0141720 匹
+TOKEN[26]: 0.0137359    3 name
+	name WORD[26,   1]: 0.0078016 匿名
+	name WORD[26,   2]: 0.0036691 市区町村名
+	name WORD[26,   3]: 0.0022652 区名
+TOKEN[27]: 0.0130667    7 physician
+	physician WORD[27,   1]: 0.0036756 医聖
+	physician WORD[27,   2]: 0.0018418 侍医
+	physician WORD[27,   3]: 0.0017966 軍医
+	physician WORD[27,   4]: 0.0015596 名医
+	physician WORD[27,   5]: 0.0010505 医長
+	physician WORD[27,   6]: 0.0010476 医者
+	physician WORD[27,   7]: 0.0010475 医師
+TOKEN[28]: 0.0128472    1 assumed
+	assumed WORD[28,   1]: 0.0128472 匿名
+TOKEN[29]: 0.0125859    1 fugitive
+	fugitive WORD[29,   1]: 0.0125859 匿う
+TOKEN[30]: 0.0125248    1 coarse
+	coarse WORD[30,   1]: 0.0125248 匹夫
+TOKEN[31]: 0.0120052    1 humble
+	humble WORD[31,   1]: 0.0120052 匹夫
+TOKEN[32]: 0.0107283    1 han
+	han WORD[32,   1]: 0.0107283 匹
+TOKEN[33]: 0.0097739    1 refuge
+	refuge WORD[33,   1]: 0.0097739 匿う
+TOKEN[34]: 0.0095901    1 rival
+	rival WORD[34,   1]: 0.0095901 匹敵
+TOKEN[35]: 0.0095654    1 harbour
+	harbour WORD[35,   1]: 0.0095654 匿う
+TOKEN[36]: 0.0095654    1 harbor
+	harbor WORD[36,   1]: 0.0095654 匿う
+TOKEN[37]: 0.0093151    1 equivalent
+	equivalent WORD[37,   1]: 0.0093151 匹敵
+TOKEN[38]: 0.0090975    1 disappear
+	disappear WORD[38,   1]: 0.0090975 匿れる
+TOKEN[39]: 0.0089865    1 magnetic
+	magnetic WORD[39,   1]: 0.0089865 磁区
+TOKEN[40]: 0.0084723    1 compare
+	compare WORD[40,   1]: 0.0084723 匹敵
+TOKEN[41]: 0.0083873    1 hidden
+	hidden WORD[41,   1]: 0.0083873 匿れる
+TOKEN[42]: 0.0083754    2 domain
+	domain WORD[42,   1]: 0.0079132 磁区
+	domain WORD[42,   2]: 0.0004622 区域
+TOKEN[43]: 0.0082332    1 size
+	size WORD[43,   1]: 0.0082332 匹
+TOKEN[44]: 0.0081165    1 roll
+	roll WORD[44,   1]: 0.0081165 匹
+TOKEN[45]: 0.0073364    3 surgeon
+	surgeon WORD[45,   1]: 0.0041496 樹医
+	surgeon WORD[45,   2]: 0.0018995 軍医
+	surgeon WORD[45,   3]: 0.0012873 獣医
+TOKEN[46]: 0.0067109    1 give
+	give WORD[46,   1]: 0.0067109 匿う
+TOKEN[47]: 0.0066640    1 two
+	two WORD[47,   1]: 0.0066640 匹
+TOKEN[48]: 0.0060120    3 special
+	special WORD[48,   1]: 0.0034318 港区
+	special WORD[48,   2]: 0.0013318 特区
+	special WORD[48,   3]: 0.0012484 区道
+TOKEN[49]: 0.0058251    1 small
+	small WORD[49,   1]: 0.0058251 匹
+TOKEN[50]: 0.0057110    1 practitioner
+	practitioner WORD[50,   1]: 0.0057110 洋医
+TOKEN[51]: 0.0052638    2 clinic
+	clinic WORD[51,   1]: 0.0041947 藩医
+	clinic WORD[51,   2]: 0.0010691 医院
+TOKEN[52]: 0.0045459    1 village
+	village WORD[52,   1]: 0.0045459 市区町村名
+TOKEN[53]: 0.0044599    2 local
+	local WORD[53,   1]: 0.0040285 近医
+	local WORD[53,   2]: 0.0004315 区検
+TOKEN[54]: 0.0043592    1 town
+	town WORD[54,   1]: 0.0043592 市区町村名
+TOKEN[55]: 0.0042101    1 Japan
+	Japan WORD[55,   1]: 0.0042101 日医
+TOKEN[56]: 0.0041771    3 sector
+	sector WORD[56,   1]: 0.0019353 戦区
+	sector WORD[56,   2]: 0.0016285 海区
+	sector WORD[56,   3]: 0.0006133 地区
+TOKEN[57]: 0.0040941    2 divergent
+	divergent WORD[57,   1]: 0.0010235 区々
+	divergent WORD[57,   2]: 0.0010235 区区
+TOKEN[58]: 0.0036321    2 art
+	art WORD[58,   1]: 0.0023785 医道
+	art WORD[58,   2]: 0.0012536 医術
+TOKEN[59]: 0.0034680    2 diverse
+	diverse WORD[59,   1]: 0.0008670 区々
+	diverse WORD[59,   2]: 0.0008670 区区
+TOKEN[60]: 0.0034309    2 varied
+	varied WORD[60,   1]: 0.0008577 区々
+	varied WORD[60,   2]: 0.0008577 区区
+TOKEN[61]: 0.0033898    1 sage
+	sage WORD[61,   1]: 0.0033898 医聖
+TOKEN[62]: 0.0033837    2 healing
+	healing WORD[62,   1]: 0.0017263 医術
+	healing WORD[62,   2]: 0.0016574 医方
+TOKEN[63]: 0.0033421    1 officer
+	officer WORD[63,   1]: 0.0033421 医官
+TOKEN[64]: 0.0033371    2 divided
+	divided WORD[64,   1]: 0.0008343 区々
+	divided WORD[64,   2]: 0.0008343 区区
+TOKEN[65]: 0.0031587    5 area
+	area WORD[65,   1]: 0.0010561 鉱区
+	area WORD[65,   2]: 0.0010291 工区
+	area WORD[65,   3]: 0.0003633 校区
+	area WORD[65,   4]: 0.0003578 区域
+	area WORD[65,   5]: 0.0003524 学区
+TOKEN[66]: 0.0031466    1 previous
+	previous WORD[66,   1]: 0.0031466 前医
+TOKEN[67]: 0.0030963    2 insignificant
+	insignificant WORD[67,   1]: 0.0007741 区々
+	insignificant WORD[67,   2]: 0.0007741 区区
+TOKEN[68]: 0.0030816    2 petty
+	petty WORD[68,   1]: 0.0007704 区々
+	petty WORD[68,   2]: 0.0007704 区区
+TOKEN[69]: 0.0030675    2 trivial
+	trivial WORD[69,   1]: 0.0007669 区々
+	trivial WORD[69,   2]: 0.0007669 区区
+TOKEN[70]: 0.0030618    1 famous
+	famous WORD[70,   1]: 0.0030618 樹医
+TOKEN[71]: 0.0030386    4 school
+	school WORD[71,   1]: 0.0010931 校医
+	school WORD[71,   2]: 0.0006667 校区
+	school WORD[71,   3]: 0.0006468 学区
+	school WORD[71,   4]: 0.0006320 医大
+TOKEN[72]: 0.0029919    2 trifling
+	trifling WORD[72,   1]: 0.0007480 区々
+	trifling WORD[72,   2]: 0.0007480 区区
+TOKEN[73]: 0.0029220    1 working
+	working WORD[73,   1]: 0.0029220 藩医
+TOKEN[74]: 0.0028545    1 staff
+	staff WORD[74,   1]: 0.0028545 医員
+TOKEN[75]: 0.0025529    1 public
+	public WORD[75,   1]: 0.0025529 藩医
+TOKEN[76]: 0.0025352    2 various
+	various WORD[76,   1]: 0.0006338 区々
+	various WORD[76,   2]: 0.0006338 区区
+TOKEN[77]: 0.0024964    1 index
+	index WORD[77,   1]: 0.0024964 区点
+TOKEN[78]: 0.0024920    4 compartment
+	compartment WORD[78,   1]: 0.0008524 区分け
+	compartment WORD[78,   2]: 0.0005478 区分
+	compartment WORD[78,   3]: 0.0005459 区劃
+	compartment WORD[78,   4]: 0.0005459 区画
+TOKEN[79]: 0.0024770    1 tree
+	tree WORD[79,   1]: 0.0024770 樹医
+TOKEN[80]: 0.0024511    5 partition
+	partition WORD[80,   1]: 0.0004915 区分
+	partition WORD[80,   2]: 0.0004903 区処
+	partition WORD[80,   3]: 0.0004898 区切る
+	partition WORD[80,   4]: 0.0004898 区劃
+	partition WORD[80,   5]: 0.0004898 区画
+TOKEN[81]: 0.0023804    1 road
+	road WORD[81,   1]: 0.0023804 区道
+TOKEN[82]: 0.0023496    1 construction
+	construction WORD[82,   1]: 0.0023496 工区
+TOKEN[83]: 0.0023243    1 subdistrict
+	subdistrict WORD[83,   1]: 0.0023243 分区
+TOKEN[84]: 0.0023131    5 division
+	division WORD[84,   1]: 0.0006489 区分け
+	division WORD[84,   2]: 0.0004170 区分
+	division WORD[84,   3]: 0.0004160 区処
+	division WORD[84,   4]: 0.0004156 区劃
+	division WORD[84,   5]: 0.0004156 区画
+TOKEN[85]: 0.0022909    1 old
+	old WORD[85,   1]: 0.0022909 樹医
+TOKEN[86]: 0.0022097    1 great
+	great WORD[86,   1]: 0.0022097 医聖
+TOKEN[87]: 0.0022083    1 use
+	use WORD[87,   1]: 0.0022083 医用
+TOKEN[88]: 0.0021756    1 column
+	column WORD[88,   1]: 0.0021756 区点
+TOKEN[89]: 0.0021540    2 office
+	office WORD[89,   1]: 0.0014376 医局
+	office WORD[89,   2]: 0.0007165 医院
+TOKEN[90]: 0.0021019    1 Chinese
+	Chinese WORD[90,   1]: 0.0021019 中医
+TOKEN[91]: 0.0020551    1 row
+	row WORD[91,   1]: 0.0020551 区点
+TOKEN[92]: 0.0020461    2 practice
+	practice WORD[92,   1]: 0.0012725 医業
+	practice WORD[92,   2]: 0.0007736 医事
+TOKEN[93]: 0.0020395    3 lot
+	lot WORD[93,   1]: 0.0012154 鉱区
+	lot WORD[93,   2]: 0.0004120 区劃
+	lot WORD[93,   3]: 0.0004120 区画
+TOKEN[94]: 0.0019303    3 demarcation
+	demarcation WORD[94,   1]: 0.0008433 区分け
+	demarcation WORD[94,   2]: 0.0005450 区割り
+	demarcation WORD[94,   3]: 0.0005420 区分
+TOKEN[95]: 0.0018825    1 good
+	good WORD[95,   1]: 0.0018825 良医
+TOKEN[96]: 0.0018729    2 science
+	science WORD[96,   1]: 0.0009366 医学
+	science WORD[96,   2]: 0.0009362 医科
+TOKEN[97]: 0.0018504    1 heal
+	heal WORD[97,   1]: 0.0018504 医する
+TOKEN[98]: 0.0017772    1 character
+	character WORD[98,   1]: 0.0017772 区点
+TOKEN[99]: 0.0016719    1 set
+	set WORD[99,   1]: 0.0016719 区点
+TOKEN[100]: 0.0016710    2 project
+	project WORD[100,   1]: 0.0012397 工区
+	project WORD[100,   2]: 0.0004313 区切り
+TOKEN[101]: 0.0015997    1 theater
+	theater WORD[101,   1]: 0.0015997 戦区
+TOKEN[102]: 0.0015964    1 cure
+	cure WORD[102,   1]: 0.0015964 医する
+TOKEN[103]: 0.0015435    2 one
+	one WORD[103,   1]: 0.0013604 前医
+	one WORD[103,   2]: 0.0001830 区切る
+TOKEN[104]: 0.0015429    1 noted
+	noted WORD[104,   1]: 0.0015429 名医
+TOKEN[105]: 0.0015321    1 veterinary
+	veterinary WORD[105,   1]: 0.0015321 獣医
+TOKEN[106]: 0.0015321    1 vet
+	vet WORD[106,   1]: 0.0015321 獣医
+TOKEN[107]: 0.0015321    1 veterinarian
+	veterinarian WORD[107,   1]: 0.0015321 獣医
+TOKEN[108]: 0.0015290    1 run
+	run WORD[108,   1]: 0.0015290 区営
+TOKEN[109]: 0.0015072    3 block
+	block WORD[109,   1]: 0.0006761 街区
+	block WORD[109,   2]: 0.0004156 区劃
+	block WORD[109,   3]: 0.0004156 区画
+TOKEN[110]: 0.0014522    1 mining
+	mining WORD[110,   1]: 0.0014522 鉱区
+TOKEN[111]: 0.0014104    1 assemblyman
+	assemblyman WORD[111,   1]: 0.0014104 区議
+TOKEN[112]: 0.0014072    3 boundary
+	boundary WORD[112,   1]: 0.0004692 区劃
+	boundary WORD[112,   2]: 0.0004692 区画
+	boundary WORD[112,   3]: 0.0004688 区域
+TOKEN[113]: 0.0013462    1 ocean
+	ocean WORD[113,   1]: 0.0013462 海区
+TOKEN[114]: 0.0013386    1 mine
+	mine WORD[114,   1]: 0.0013386 鉱区
+TOKEN[115]: 0.0013316    1 war
+	war WORD[115,   1]: 0.0013316 戦区
+TOKEN[116]: 0.0013292    1 ship
+	ship WORD[116,   1]: 0.0013292 船医
+TOKEN[117]: 0.0013245    2 municipal
+	municipal WORD[117,   1]: 0.0008204 市区
+	municipal WORD[117,   2]: 0.0005041 区立
+TOKEN[118]: 0.0013162    1 Japanese
+	Japanese WORD[118,   1]: 0.0013162 区点
+TOKEN[119]: 0.0013069    1 female
+	female WORD[119,   1]: 0.0013069 女医
+TOKEN[120]: 0.0012837    2 lane
+	lane WORD[120,   1]: 0.0007815 区分け
+	lane WORD[120,   2]: 0.0005022 区分
+TOKEN[121]: 0.0012435    1 court
+	court WORD[121,   1]: 0.0012435 侍医
+TOKEN[122]: 0.0012431    1 method
+	method WORD[122,   1]: 0.0012431 医方
+TOKEN[123]: 0.0012292    1 military
+	military WORD[123,   1]: 0.0012292 軍医
+TOKEN[124]: 0.0012020    2 chief
+	chief WORD[124,   1]: 0.0007903 医長
+	chief WORD[124,   2]: 0.0004117 区長
+TOKEN[125]: 0.0011695    1 excellent
+	excellent WORD[125,   1]: 0.0011695 名医
+TOKEN[126]: 0.0011572    2 traffic
+	traffic WORD[126,   1]: 0.0007044 区分け
+	traffic WORD[126,   2]: 0.0004527 区分
+TOKEN[127]: 0.0011161    1 world
+	world WORD[127,   1]: 0.0011161 医界
+TOKEN[128]: 0.0010929    1 book
+	book WORD[128,   1]: 0.0010929 医書
+TOKEN[129]: 0.0010658    2 administrative
+	administrative WORD[129,   1]: 0.0005704 特区
+	administrative WORD[129,   2]: 0.0004954 区処
+TOKEN[130]: 0.0010273    1 administration
+	administration WORD[130,   1]: 0.0010273 区政
+TOKEN[131]: 0.0010123    1 surgery
+	surgery WORD[131,   1]: 0.0010123 医院
+TOKEN[132]: 0.0010072    1 parish
+	parish WORD[132,   1]: 0.0010072 教区
+TOKEN[133]: 0.0009999    1 family
+	family WORD[133,   1]: 0.0009999 医家
+TOKEN[134]: 0.0009751    1 management
+	management WORD[134,   1]: 0.0009751 区政
+TOKEN[135]: 0.0009379    1 director
+	director WORD[135,   1]: 0.0009379 医長
+TOKEN[136]: 0.0009236    1 fishery
+	fishery WORD[136,   1]: 0.0009236 漁区
+TOKEN[137]: 0.0009190    1 pause
+	pause WORD[137,   1]: 0.0009190 区切り
+TOKEN[138]: 0.0009136    1 hospital
+	hospital WORD[138,   1]: 0.0009136 医局
+TOKEN[139]: 0.0008949    1 streets
+	streets WORD[139,   1]: 0.0008949 市区
+TOKEN[140]: 0.0008783    1 department
+	department WORD[140,   1]: 0.0008783 医科
+TOKEN[141]: 0.0008770    1 register
+	register WORD[141,   1]: 0.0008770 医籍
+TOKEN[142]: 0.0008466    2 plot
+	plot WORD[142,   1]: 0.0004233 区劃
+	plot WORD[142,   2]: 0.0004233 区画
+TOKEN[143]: 0.0008425    1 treatment
+	treatment WORD[143,   1]: 0.0008425 医療
+TOKEN[144]: 0.0007902    1 assembly
+	assembly WORD[144,   1]: 0.0007902 区会
+TOKEN[145]: 0.0007729    1 care
+	care WORD[145,   1]: 0.0007729 医療
+TOKEN[146]: 0.0007652    1 mark
+	mark WORD[146,   1]: 0.0007652 区切る
+TOKEN[147]: 0.0007211    1 line
+	line WORD[147,   1]: 0.0007211 線区
+TOKEN[148]: 0.0006467    1 segmentation
+	segmentation WORD[148,   1]: 0.0006467 区分
+TOKEN[149]: 0.0006445    1 delimit
+	delimit WORD[149,   1]: 0.0006445 区切る
+TOKEN[150]: 0.0006445    1 punctuate
+	punctuate WORD[150,   1]: 0.0006445 区切る
+TOKEN[151]: 0.0006035    1 mayor
+	mayor WORD[151,   1]: 0.0006035 区長
+TOKEN[152]: 0.0006020    1 comma
+	comma WORD[152,   1]: 0.0006020 区切る
+TOKEN[153]: 0.0006020    1 dimension
+	dimension WORD[153,   1]: 0.0006020 区間
+TOKEN[154]: 0.0005999    1 fishing
+	fishing WORD[154,   1]: 0.0005999 漁区
+TOKEN[155]: 0.0005883    1 milestone
+	milestone WORD[155,   1]: 0.0005883 区切り
+TOKEN[156]: 0.0005839    1 economic
+	economic WORD[156,   1]: 0.0005839 特区
+TOKEN[157]: 0.0005772    1 demarcate
+	demarcate WORD[157,   1]: 0.0005772 区切る
+TOKEN[158]: 0.0005680    1 prosecutor
+	prosecutor WORD[158,   1]: 0.0005680 区検
+TOKEN[159]: 0.0005631    1 land
+	land WORD[159,   1]: 0.0005631 街区
+TOKEN[160]: 0.0005611    1 ground
+	ground WORD[160,   1]: 0.0005611 漁区
+TOKEN[161]: 0.0005543    1 subdivision
+	subdivision WORD[161,   1]: 0.0005543 区分
+TOKEN[162]: 0.0005524    1 punctuation
+	punctuation WORD[162,   1]: 0.0005524 区切り
+TOKEN[163]: 0.0005361    1 administrator
+	administrator WORD[163,   1]: 0.0005361 区長
+TOKEN[164]: 0.0005298    1 segment
+	segment WORD[164,   1]: 0.0005298 区間
+TOKEN[165]: 0.0005216    1 dividing
+	dividing WORD[165,   1]: 0.0005216 区処
+TOKEN[166]: 0.0005066    1 aloud
+	aloud WORD[166,   1]: 0.0005066 区切る
+TOKEN[167]: 0.0004968    1 marking
+	marking WORD[167,   1]: 0.0004968 区割り
+TOKEN[168]: 0.0004946    1 jurisdiction
+	jurisdiction WORD[168,   1]: 0.0004946 管区
+TOKEN[169]: 0.0004820    1 bus
+	bus WORD[169,   1]: 0.0004820 線区
+TOKEN[170]: 0.0004625    1 region
+	region WORD[170,   1]: 0.0004625 特区
+TOKEN[171]: 0.0004625    1 interval
+	interval WORD[171,   1]: 0.0004625 区間
+TOKEN[172]: 0.0004512    1 divide
+	divide WORD[172,   1]: 0.0004512 区切る
+TOKEN[173]: 0.0004511    1 track
+	track WORD[173,   1]: 0.0004511 区間
+TOKEN[174]: 0.0004470    1 established
+	established WORD[174,   1]: 0.0004470 区立
+TOKEN[175]: 0.0004393    1 insert
+	insert WORD[175,   1]: 0.0004393 区切る
+TOKEN[176]: 0.0004369    1 territory
+	territory WORD[176,   1]: 0.0004369 区域
+TOKEN[177]: 0.0004141    1 train
+	train WORD[177,   1]: 0.0004141 線区
+TOKEN[178]: 0.0004114    1 separate
+	separate WORD[178,   1]: 0.0004114 区切る
+TOKEN[179]: 0.0004037    1 space
+	space WORD[179,   1]: 0.0004037 区切る
+TOKEN[180]: 0.0003953    1 speech
+	speech WORD[180,   1]: 0.0003953 区切り
+TOKEN[181]: 0.0003761    1 stop
+	stop WORD[181,   1]: 0.0003761 区切り
+TOKEN[182]: 0.0003714    1 reading
+	reading WORD[182,   1]: 0.0003714 区切る
+TOKEN[183]: 0.0003485    1 break
+	break WORD[183,   1]: 0.0003485 区切り
+TOKEN[184]: 0.0003450    1 writing
+	writing WORD[184,   1]: 0.0003450 区切り
+TOKEN[185]: 0.0003235    1 head
+	head WORD[185,   1]: 0.0003235 区長
+TOKEN[186]: 0.0003116    1 end
+	end WORD[186,   1]: 0.0003116 区切り
+TOKEN[187]: 0.0002983    1 place
+	place WORD[187,   1]: 0.0002983 区切り

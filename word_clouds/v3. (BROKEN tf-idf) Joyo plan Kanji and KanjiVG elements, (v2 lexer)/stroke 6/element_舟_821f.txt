@@ -1,0 +1,2493 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0933004   22 warship        : 艨艟, 退艦, 着艦, 艦種, 艦体, 仏艦, 艦齢, 廃艦, 艦長, 艦尾, ...
+0.0615598  101 ship           : 艤装, 船艙, 艙口, 舶, 艫, 舳, 舳先, 退艦, 船舶, 転舵, ...
+0.0403043   79 boat           : 艪, 艀船, 艀, 舫う, 艇長, 画舫, 艇首, 舟艇, 龍舟, 艇身, ...
+0.0267951    1 freeboard      : 乾舷
+0.0245588    1 cicatrix       : 瘢痕
+0.0240712    7 bow            : 舳艫, 舳, 舳先, 艇首, 艫, 艦首, 船首
+0.0236540    3 counter        : 艘, 舟, 船
+0.0209066   14 small          : 艘, 短艇, 端艇, 艇, べか船, 小舟, 漁舟, 茶船, 船だまり, 船溜まり, ...
+0.0204632    4 prow           : 舳, 舳先, 艫, 船首
+0.0184359    5 stern          : 舳艫, 艫綱, 艫, 艦尾, 船尾
+0.0171078    1 scar           : 瘢痕
+0.0158431    4 hatch          : 船艙, 艙口, 船蔵, 船倉
+0.0146062   15 vessel         : 公船, 船舶, 船艇, 左舷, 舟, 敵船, 廃船, 船齢, 船型, 回船, ...
+0.0119792    5 mooring        : 舫い, 舫, 艫綱, 係船, 繋船
+0.0115590    5 barge          : 艀船, 艀, 通船, 台船, 茶船
+0.0114839    5 lighter        : 艀船, 艀, 荷船, 回船, 廻船
+0.0109813    2 baggage        : 艀船, 艀
+0.0108338    1 death          : 涅槃
+0.0106599    2 rigging        : 艤装, 船具
+0.0102645    1 hatchway       : 艙口
+0.0097279    1 outfit         : 艤装
+0.0091391    1 nirvana        : 涅槃
+0.0084244    5 ocean          : 巨舶, 舶載, 航洋, 舟路, 巨船
+0.0083223    1 public         : 公船
+0.0083196    2 enlightenment  : 涅槃, 般若
+0.0081519    1 supreme        : 涅槃
+0.0081036    2 painter        : 舫い, 舫
+0.0077794    7 large          : 舶, 磐座, 全般, 巨艦, 屋形船, 茶船, 大船
+0.0077606    1 equipment      : 艤装
+0.0072730    1 scull          : 艪
+0.0070328    2 liner          : 巨舶, 巨船
+0.0068086    1 oarlock        : 艪
+0.0066954    2 rope           : 舫い, 舫
+0.0064842    7 naval          : 退艦, 艦艇, 建艦, 艦船, 艦隊, 船軍, 船団
+0.0063873    1 oar            : 艪
+0.0062508    3 coxswain       : 艇長, 舵手, 舵取り
+0.0061726    1 Buddha         : 涅槃
+0.0060721    4 transportation : 搬送, 舶載, 運搬, 舟運
+0.0059587    7 shipping       : 舶用, 船舶, 航送, 舟宿, 船宿, 船賃, 船腹
+0.0056182    1 moor           : 舫う
+0.0052427    5 hold           : 船艙, 船床, 船蔵, 船倉, 船腹
+0.0049939    1 rear           : 艪
+0.0049387    2 skipper        : 艇長, 船長
+0.0049259    4 rock           : 磐座, 磐石, 磐, 盤石
+0.0048906    1 attached       : 艪
+0.0046400    2 furniture      : 搬入, 搬出
+0.0046237   15 sailing        : 東航, 遡航, 舟航, 航走, 舟行, 舟遊び, べか船, 通航, 進航, 航法, ...
+0.0044666    2 conveyance     : 搬送, 運搬
+0.0043242    2 line           : 艫綱, 航路
+0.0042496    5 carrying       : 搬入, 搬出, 艦載, 上船, 乗船
+0.0040747    5 steering       : 転舵, 舵輪, 操舵, 舵取り, 操船
+0.0039656    1 dwelling       : 磐座
+0.0039593    1 traditional    : 艪
+0.0039274    3 helm           : 舵柄, 舵輪, 舵
+0.0036239    1 retirement     : 退艦
+0.0036206    2 heavy          : 搬入, 搬出
+0.0035810   15 voyage         : 外航, 航洋, 続航, 往航, 舟路, 復航, 難航, 渡航, 直航, 潜航, ...
+0.0035238    4 taking         : 搬入, 搬出, 発艦, 同船
+0.0033633    1 decorated      : 画舫
+0.0033302    1 diving         : 潜舵
+0.0033193    4 deity          : 磐座, 船玉, 船霊, 船魂
+0.0032669    1 reference      : 磐座
+0.0032592    2 pleasure       : 画舫, 屋形船
+0.0032447   12 side           : 取り舵, 取舵, 面舵, 舷, 左舷, 舷灯, 舷側, 船べり, 船縁, 船端, ...
+0.0032421    4 Japanese       : 艪, 航戦, 邦船, 黒船
+0.0031544    2 hydroplane     : 潜舵, 競艇
+0.0030585    1 shrine         : 磐境
+0.0030568    1 hospitalization: 搬送
+0.0029382   10 port           : 取り舵, 取舵, 着艦, 左舷, 出航, 寄航, 出船, 船留め, 入り船, 入船
+0.0029088    4 surface        : 定盤, 盤面, 銀盤, 船便
+0.0029029    4 time           : 這般, 今般, 過般, 先般
+0.0028879    6 boating        : 漕艇, 舟航, 舟行, 舟遊び, 船遊び, 茶船
+0.0028764    1 marine         : 舶用
+0.0028269    1 captaincy      : 退艦
+0.0027795    1 seacraft       : 船舶
+0.0027656    3 plate          : 定盤, 銀盤, 盤
+0.0026559    1 importation    : 舶載
+0.0025345    2 rudder         : 潜舵, 舵
+0.0024108    1 place          : 磐座
+0.0023381    1 propagation    : 伝搬
+0.0023307    2 racing         : 龍舟, 競艇
+0.0021628    1 eastbound      : 東航
+0.0021473    1 jealousy       : 般若
+0.0021298    1 hospital       : 搬送
+0.0021203    4 canoe          : 龍舟, 刳り舟, 刳舟, 刳船
+0.0020883    9 flight         : 航程, 航宙, 航続, 往航, 復航, 難航, 欠航, 帰航, 運航
+0.0020013    5 used           : 常磐津, 龍舟, べか船, 盤台, 茶船
+0.0019827   15 sea            : 航送, 航洋, 舟路, 舟唄, 舟歌, 出航, 航路, 航海, 欠航, 船虫, ...
+0.0019693    3 craft          : 船艇, 虚舟, 押し船
+0.0019309    1 mask           : 般若
+0.0018809    1 delivery       : 搬送
+0.0018412    1 transfer       : 搬送
+0.0018285    1 transmission   : 伝搬
+0.0018008    1 yoke           : 舵柄
+0.0017834    9 towing         : 引航, 引き舟, 引舟, えい航, 曳航, 引き船, 引船, 曳き船, 曳船
+0.0017608    1 spread         : 伝搬
+0.0017553    4 course         : 転舵, 続航, 航路, 盤
+0.0017333    2 different      : 転舵, 一般
+0.0017204    5 leaving        : 退艦, 出航, 離船, 船留め, 出船
+0.0017035    3 plane          : 潜舵, 出航, 就航
+0.0016386    2 hardpan        : 盤層, 硬盤
+0.0016317    2 various        : 諸般, 各般
+0.0016052    1 narrative      : 常磐津
+0.0016011    2 starboard      : 面舵, 右舷
+0.0015993    1 evergreen      : 常磐木
+0.0015979    1 carriage       : 運搬
+0.0015971    3 whole          : 全般, 呑舟, 全船
+0.0015968    5 gunwale        : 舷, 舷頭, 船べり, 船縁, 船端
+0.0015808    1 rowing         : 漕艇
+0.0015784    2 transport      : 運搬, 茶船
+0.0015560    7 tugging        : 引航, 引き舟, 引舟, 引き船, 引船, 曳き船, 曳船
+0.0015471    1 post           : 退艦
+0.0015444    2 helmsman       : 舵手, 舵取り
+0.0014346    9 navigation     : 舟行, 通航, 潜航, 航法, 航行, 航海, 回航, 廻航, 運航
+0.0014076    2 dragon         : 龍舟, 竜船
+0.0014061    2 solidity       : 磐石, 盤石
+0.0013962    3 air            : 航戦, 航送, 航路
+0.0013889    1 woman          : 般若
+0.0013863    1 east           : 東航
+0.0013774    1 demoness       : 般若
+0.0013682    2 gangway        : 舷門, 舷梯
+0.0013420    1 kind           : 這般
+0.0013418    1 prajna         : 般若
+0.0013142    1 grinning       : 般若
+0.0013123    2 firmness       : 磐石, 盤石
+0.0012891    1 pier           : 接舷
+0.0012758    1 kabuki         : 常磐津
+0.0012557    1 generalization : 般化
+0.0012543    2 general        : 全般, 一般
+0.0012446    1 direction      : 転舵
+0.0012343    2 length         : 艇身, 船長
+0.0012285    1 terrifying     : 般若
+0.0012054    1 wheel          : 舵輪
+0.0011921    1 launch         : 汽艇
+0.0011898    1 steam          : 汽艇
+0.0011559    1 dreadful       : 般若
+0.0011420    2 huge           : 磐石, 盤石
+0.0011311    1 horned         : 般若
+0.0011224    2 stick          : 下げ舵, 上げ舵
+0.0011058    1 attain         : 般若
+0.0011054    1 linguistics    : 般化
+0.0011013    1 designed       : 般若
+0.0010927    1 driven         : 般若
+0.0010847    2 mud            : 泥舟, 土船
+0.0010772    1 long           : 龍舟
+0.0010743    1 style          : 常磐津
+0.0010636    1 tree           : 常磐木
+0.0010599    1 psychology     : 般化
+0.0010537    1 change         : 転舵
+0.0010448    1 several        : 諸般
+0.0010357    6 going          : 遡航, 舟下り, 難航, 就航, 船下り, 下船
+0.0010340    2 control        : 下げ舵, 上げ舵
+0.0010269    5 record         : 名盤, 盤面, 音盤, 廃盤, 新盤
+0.0010201    1 mad            : 般若
+0.0010150    1 crag           : 磐
+0.0010144    4 arrival        : 着艦, 来航, 入船, 着船
+0.0009911    1 sides          : 両舷
+0.0009898    1 facial         : 般若
+0.0009845    1 rage           : 般若
+0.0009641    7 towboat        : 押し船, 引き舟, 引舟, 引き船, 引船, 曳き船, 曳船
+0.0009637    2 coming         : 接舷, 入船
+0.0009625    1 crest          : 般若
+0.0009533    4 Japan          : 競艇, 盤渉, 日航, 黒船
+0.0009495    1 unidentified   : 虚舟
+0.0009461    2 race           : 競艇, 舟券
+0.0009399    1 boulder        : 磐
+0.0009160    3 departure      : 発航, 出航, 出船
+0.0009143    1 wisdom         : 般若
+0.0009011    4 sail           : 航程, 出航, 船出, 出船
+0.0008990    2 pan            : 盤層, 水船
+0.0008949    8 sailor         : 舟人, 舟唄, 舟歌, 船人, 船のり, 船乗り, 船歌, 船員
+0.0008888    1 anchor         : 磐
+0.0008887    3 hull           : 艦体, 船殻, 船体
+0.0008781    1 washed         : 虚舟
+0.0008424    2 skiff          : 軽舟, 扁舟
+0.0008202    1 expression     : 般若
+0.0008185    3 aircraft       : 着艦, 艦攻, 運航
+0.0008179    6 cruise         : 巡航, 航行, 航海, 回航, 廻航, 船旅
+0.0008171    1 cliff          : 磐
+0.0008106    3 transporting   : 泥舟, 土船, 水船
+0.0008010    2 porthole       : 舷窓, 船窓
+0.0007927    1 sport          : 競艇
+0.0007910    2 push           : 下げ舵, 押し船
+0.0007842    8 board          : 盤面, 盤上, 碁盤, 基盤, 大盤, 船渡し, 船中, 船上
+0.0007709    4 fleet          : 航戦, 艦隊, 船隊, 船団
+0.0007701    1 upstream       : 遡航
+0.0007614    1 universal      : 一般
+0.0007612    5 service        : 内航, 就航, 直航, 運航, 船便
+0.0007599    1 eastern        : 磐城
+0.0007553    1 southern       : 磐城
+0.0007293    4 Edo            : 虚舟, 湯舟, 茶船, 湯船
+0.0007274    1 gambling       : 競艇
+0.0007253    3 song           : 舟唄, 舟歌, 船歌
+0.0007227    1 steerage       : 操舵
+0.0007167    1 face           : 般若
+0.0007112    1 central        : 磐城
+0.0007086    2 aviation       : 航戦, 航空
+0.0006998    6 tugboat        : 引き舟, 引舟, 引き船, 引船, 曳き船, 曳船
+0.0006998    6 towage         : 引き舟, 引舟, 引き船, 引船, 曳き船, 曳船
+0.0006965    1 average        : 一般
+0.0006919    1 province       : 磐城
+0.0006838    1 broadside      : 舷側
+0.0006679    1 scaphoid       : 舟状
+0.0006673    1 said           : 虚舟
+0.0006625    1 flotilla       : 航戦
+0.0006397    1 floe           : 氷盤
+0.0006383    4 period         : 虚舟, 湯舟, 茶船, 湯船
+0.0006367    1 chromatic      : 盤渉
+0.0006332    3 earth          : 盤古, 土船, 地盤
+0.0006306    1 event          : 競艇
+0.0006293    1 creator        : 盤古
+0.0006290    1 family         : 般若
+0.0006284    1 B              : 盤渉
+0.0006276    1 ordinary       : 一般
+0.0006154    1 former         : 磐城
+0.0006095    2 light          : 舷灯, 軽舟
+0.0006078    1 reaching       : 着艦
+0.0006064    2 run            : 航程, 航路
+0.0006042    6 tug            : 引き舟, 引舟, 引き船, 引船, 曳き船, 曳船
+0.0006037    1 coastwise      : 内航
+0.0005998    4 passage        : 難航, 渡航, 航海, 船賃
+0.0005825    4 base           : 底盤, 地盤, 露盤, 基盤
+0.0005753    3 Noah           : 方舟, 箱舟, 箱船
+0.0005744    3 building       : 建艦, 地盤, 船台
+0.0005732    1 day            : 先般
+0.0005701    5 route          : 舟路, 就航, 航路, 運航, 船路
+0.0005691    1 landing        : 着艦
+0.0005662    1 current        : 遡航
+0.0005626    1 mythology      : 盤古
+0.0005542    3 shanty         : 舟唄, 舟歌, 船歌
+0.0005511    2 left           : 左舷, 舟偏
+0.0005494    1 carrier        : 着艦
+0.0005429    1 pull           : 上げ舵
+0.0005414    2 running        : 舷灯, 難航
+0.0005402    2 downstream     : 舟下り, 船下り
+0.0005364    1 French         : 仏艦
+0.0005362    1 construction   : 建艦
+0.0005347    1 common         : 一般
+0.0005287    1 ladder         : 舷梯
+0.0005286    3 ark            : 方舟, 箱舟, 箱船
+0.0005263    1 principal      : 礼盤
+0.0005201    1 platform       : 礼盤
+0.0005186    1 heaven         : 盤古
+0.0005147    2 slab           : 底盤, 石盤
+0.0005108    1 scale          : 盤渉
+0.0005034    1 note           : 盤渉
+0.0004953    1 papyrus        : 葦舟
+0.0004904    1 monk           : 礼盤
+0.0004835    1 famous         : 名盤
+0.0004788    6 ferry          : 渡し舟, 通船, 渡し船, 船渡し, 船便, 渡船
+0.0004720    1 batholith      : 底盤
+0.0004694    1 image          : 礼盤
+0.0004693    1 combat         : 航戦
+0.0004623    1 leadership     : 舵取り
+0.0004593    1 oblong         : 台盤
+0.0004566    2 captain        : 艦長, 船長
+0.0004552    1 ancient        : 盤渉
+0.0004513    1 scutellum      : 胚盤
+0.0004513    1 blastodisk     : 胚盤
+0.0004506    7 fishing        : 漁舟, 釣舟, 船釣り, 船団, 釣り船, 釣船, 漁船
+0.0004459    3 dugout         : 刳り舟, 刳舟, 刳船
+0.0004453    2 holding        : 続航, 盤踞
+0.0004440    1 discoidal      : 盤割
+0.0004440    1 category       : 艦種
+0.0004340    1 guidance       : 舵取り
+0.0004314    1 crossing       : 航洋
+0.0004297    1 front          : 礼盤
+0.0004285    2 made           : 泥舟, 土船
+0.0004261    1 temple         : 礼盤
+0.0004225    2 homeward       : 復航, 帰航
+0.0004172    1 aeroplane      : 発艦
+0.0004108    1 germinal       : 胚盤
+0.0004044    5 boatman        : 舟人, 船人, 船方, 船頭, 船長
+0.0004002    1 weighing       : 台盤
+0.0003972    2 bathtub        : 湯舟, 湯船
+0.0003971    1 betting        : 舟券
+0.0003954    2 space          : 航宙, 船腹
+0.0003928    1 airplane       : 発艦
+0.0003850    1 unit           : 航戦
+0.0003835    2 disk           : 胚盤, 円盤
+0.0003825    1 leader         : 舵取り
+0.0003819    2 recording      : 名盤, 原盤
+0.0003776    3 tub            : 盤台, 舟, 船
+0.0003695    3 bridge         : 艦橋, 舟橋, 船橋
+0.0003660    2 navicular      : 舟形, 船形
+0.0003646    3 boathouse      : 舟宿, 船宿, 船蔵
+0.0003617    1 cleavage       : 盤割
+0.0003588    4 bottom         : 舟底, 盤, 船底, 船腹
+0.0003511    1 Chinese        : 盤古
+0.0003487    2 battleship     : 戦艦, 軍艦
+0.0003471    2 battle         : 本艦, 船軍
+0.0003425    1 sawing         : 鋸盤
+0.0003421    2 shogi          : 盤面, 盤上
+0.0003410    3 soroban        : 十露盤, 珠盤, 算盤
+0.0003396    1 gunboat        : 砲艦
+0.0003382    2 foreign        : 外航, 黒船
+0.0003373    1 class          : 艦種
+0.0003347    2 age            : 艦齢, 船齢
+0.0003327    2 consort        : 僚艦, 僚船
+0.0003304    2 ferryboat      : 渡し舟, 渡し船
+0.0003241    2 ice            : 氷盤, 銀盤
+0.0003172    3 helping        : 助け舟, 盤, 助け船
+0.0003157    3 reckoning      : 十露盤, 珠盤, 算盤
+0.0003148    2 planking       : 舟棚, 船棚
+0.0003142    3 game           : 盤面, 中盤, 序盤
+0.0003082    2 rowboat        : 早舟, 早船
+0.0003077    2 radical        : 舟偏, 盤
+0.0003058    1 suction        : 吸盤
+0.0003056    2 name           : 艦名, 船名
+0.0003031    4 one            : 続航, 乗艦, 帰艦, 持ち船
+0.0003009    2 bilge          : 舟底, 船底
+0.0002986    3 abacus         : 十露盤, 珠盤, 算盤
+0.0002940    4 passenger      : 舟人, 船人, 船客, 客船
+0.0002922    2 platter        : 盤, 円盤
+0.0002914    3 pontoon        : 舟橋, 台船, 船橋
+0.0002893    3 go             : 盤面, 盤上, 序盤
+0.0002879    1 table          : 台盤
+0.0002878    2 disc           : 盤, 円盤
+0.0002875    1 ticket         : 舟券
+0.0002842    1 seed           : 胚盤
+0.0002839    1 return         : 復航
+0.0002836    1 pusher         : 押し船
+0.0002779    1 rough          : 難航
+0.0002769    1 stand          : 台盤
+0.0002745    1 stowing        : 密航
+0.0002705    3 calculation    : 十露盤, 珠盤, 算盤
+0.0002693    1 outbound       : 往航
+0.0002682    2 enemy          : 敵船, 敵艦
+0.0002658    2 food           : 台盤, 茶船
+0.0002642    2 bedrock        : 岩盤, 基盤
+0.0002599    2 water          : 舟運, 水船
+0.0002549    1 grass          : 胚盤
+0.0002544    1 direct         : 直航
+0.0002467    4 floating       : 浮き舟, 浮舟, 工船, 船橋
+0.0002460    4 mother         : 母艦, 本船, 母船, 親船
+0.0002452    3 trough         : 舟, 水船, 船
+0.0002448    1 excellent      : 名盤
+0.0002445    1 flagship       : 旗艦
+0.0002438    2 bowl           : 銅盤, 水盤
+0.0002398    2 seaplane       : 舟, 船
+0.0002393    2 inn            : 舟宿, 船宿
+0.0002374    1 musical        : 名盤
+0.0002339    2 fast           : 早舟, 早船
+0.0002332    2 vat            : 舟, 船
+0.0002305    3 profit         : 十露盤, 珠盤, 算盤
+0.0002295    3 moorage        : 船だまり, 船溜まり, 船溜り
+0.0002294    1 development    : 盤面
+0.0002252    1 machine        : 鋸盤
+0.0002252    2 trip           : 舟路, 船旅
+0.0002239    1 middle         : 中盤
+0.0002229    3 tank           : 舟, 水船, 船
+0.0002229    1 smuggling      : 密航
+0.0002178    1 roadbed        : 路盤
+0.0002124    3 loss           : 十露盤, 珠盤, 算盤
+0.0002121    3 anchorage      : 船だまり, 船溜まり, 船溜り
+0.0002079    2 agent          : 舟宿, 船宿
+0.0002029    1 circumnavigation: 周航
+0.0001986    2 rented         : 湯舟, 湯船
+0.0001957    3 type           : 早舟, 早船, 船型
+0.0001951    1 state          : 盤面
+0.0001925    1 solitary       : 孤舟
+0.0001916    2 toy            : 笹舟, 風船
+0.0001907    1 finial         : 露盤
+0.0001900    2 wooden         : 舟棚, 船棚
+0.0001896    1 stormy         : 難航
+0.0001869    2 flying         : 航空, 円盤
+0.0001840    2 footing        : 地盤, 基盤
+0.0001839    3 vase           : 釣舟, 釣り船, 釣船
+0.0001838    1 proceeding     : 難航
+0.0001822    1 festival       : 船祭
+0.0001806    1 houseboat      : 屋形船
+0.0001799    2 military       : 早舟, 早船
+0.0001784    1 armada         : 艦隊
+0.0001768    1 rink           : 銀盤
+0.0001753    2 lifeboat       : 助け舟, 助け船
+0.0001704    1 pagoda         : 露盤
+0.0001698    1 lathe          : 旋盤
+0.0001694    1 placenta       : 胎盤
+0.0001690    2 phase          : 中盤, 序盤
+0.0001684    1 journey        : 復航
+0.0001681    3 setting        : 出航, 船出, 出船
+0.0001627    1 oval           : 盤台
+0.0001606    2 entering       : 就航, 入り船
+0.0001602    1 bonsai         : 水盤
+0.0001591    1 typewriter     : 鍵盤
+0.0001590    3 new            : 新盤, 新船, 船出
+0.0001589    1 little         : 扁舟
+0.0001588    2 foundation     : 地盤, 基盤
+0.0001575    1 submarine      : 潜航
+0.0001562    1 skating        : 銀盤
+0.0001555    1 underwater     : 潜航
+0.0001554    1 slate          : 石盤
+0.0001553    2 stopping       : 寄航, 停船
+0.0001507    1 attack         : 艦攻
+0.0001507    1 serving        : 盤
+0.0001496    1 difficulty     : 難航
+0.0001480    3 hanging        : 釣舟, 釣り船, 釣船
+0.0001472    1 keyboard       : 鍵盤
+0.0001458    1 glasses        : 杯盤
+0.0001449    1 sucker         : 吸盤
+0.0001440    1 tray           : 盤台
+0.0001433    1 bronze         : 銅盤
+0.0001429    1 piano          : 鍵盤
+0.0001419    1 cancellation   : 欠航
+0.0001417    1 commission     : 就航
+0.0001403    2 stage          : 中盤, 終盤
+0.0001401    1 wake           : 航跡
+0.0001399    1 tour           : 周航
+0.0001379    2 need           : 助け舟, 助け船
+0.0001375    1 difficult      : 難航
+0.0001368    3 flower         : 釣舟, 釣り船, 釣船
+0.0001351    1 joining        : 乗艦
+0.0001341    1 dish           : 盤
+0.0001339    1 smack          : 漁舟
+0.0001327    1 coiled         : 盤踞
+0.0001323    1 trouble        : 難航
+0.0001313    1 shallow        : 水盤
+0.0001309    2 river          : 地盤, 茶船
+0.0001285    1 pad            : 吸盤
+0.0001279    1 circle         : 周航
+0.0001276    2 friend         : 助け舟, 助け船
+0.0001270    1 suspension     : 休航
+0.0001217    1 hard           : 難航
+0.0001198    1 fellow         : 同舟
+0.0001192    3 seaman         : 船のり, 船乗り, 船員
+0.0001183    1 people         : 密航
+0.0001164    2 help           : 助け舟, 助け船
+0.0001161    1 sway           : 盤踞
+0.0001157    1 silver         : 銀盤
+0.0001144    1 cup            : 吸盤
+0.0001112    1 settling       : 盤踞
+0.0001112    1 dominant       : 盤踞
+0.0001111    1 pelvis         : 骨盤
+0.0001110    1 original       : 原盤
+0.0001095    3 guardian       : 船玉, 船霊, 船魂
+0.0001081    2 mariner        : 船のり, 船乗り
+0.0001076    1 operation      : 運航
+0.0001065    1 portable       : 船祭
+0.0001059    1 stone          : 石盤
+0.0001047    3 steamer        : 便船, 船便, 汽船
+0.0001037    1 assignment     : 配船
+0.0001036    1 foothold       : 地盤
+0.0001027    3 cargo          : 船荷, 回船, 廻船
+0.0001012    1 gravel         : 地盤
+0.0000996    2 hand           : 助け舟, 助け船
+0.0000992    1 carried        : 船祭
+0.0000987    1 constituency   : 地盤
+0.0000984    1 war            : 帰艦
+0.0000983    1 soccer         : 中盤
+0.0000981    1 discus         : 円盤
+0.0000979    1 substrate      : 基盤
+0.0000977    1 fish           : 盤台
+0.0000976    1 gramophone     : 音盤
+0.0000974    1 chess          : 序盤
+0.0000966    1 established    : 盤踞
+0.0000954    1 phonograph     : 音盤
+0.0000943    1 saucer         : 円盤
+0.0000942    2 mail           : 船便, 郵船
+0.0000942    1 crust          : 地盤
+0.0000942    1 infrastructure : 基盤
+0.0000932    1 electoral      : 地盤
+0.0000930    1 scrapped       : 廃船
+0.0000930    1 hulk           : 廃船
+0.0000916    1 outset         : 序盤
+0.0000886    1 ironclad       : 鉄船
+0.0000886    2 draught        : 船脚, 船足
+0.0000881    1 authority      : 盤踞
+0.0000871    1 spaceship      : 船外
+0.0000871    1 outboard       : 船外
+0.0000868    1 becoming       : 盤踞
+0.0000825    1 demonstration  : 大盤
+0.0000821    1 silhouette     : 船影
+0.0000813    2 shipwreck      : 破船, 難船
+0.0000810    1 initial        : 序盤
+0.0000807    1 shape          : 盤踞
+0.0000804    1 strong         : 盤踞
+0.0000767    2 shipbuilding   : 船板, 造船
+0.0000767    1 basis          : 基盤
+0.0000751    1 bed            : 地盤
+0.0000747    2 chartered      : 傭船, 用船
+0.0000741    1 final          : 終盤
+0.0000737    1 circuit        : 基盤
+0.0000731    2 wharf          : 船虫, 船場
+0.0000723    1 early          : 序盤
+0.0000718    1 media          : 円盤
+0.0000716    1 opening        : 序盤
+0.0000715    2 draft          : 船脚, 船足
+0.0000712    1 fog            : 船影
+0.0000701    1 support        : 地盤
+0.0000694    1 treasure       : 宝船
+0.0000682    1 outline        : 船影
+0.0000680    2 dock           : 船渠, 船場
+0.0000655    1 ground         : 地盤
+0.0000654    2 speed          : 船脚, 船足
+0.0000625    1 power          : 地盤
+0.0000621    2 freight        : 船荷, 船腹
+0.0000592    1 balloon        : 風船
+0.0000573    1 sign           : 船影
+0.0000573    1 isopod         : 船虫
+0.0000561    1 steel          : 鉄船
+0.0000553    1 waterlogged    : 水船
+0.0000544    2 embarkation    : 上船, 乗船
+0.0000540    1 roach          : 船虫
+0.0000521    1 slater         : 船虫
+0.0000518    1 shipowner      : 船主
+0.0000518    1 stateroom      : 船室
+0.0000510    1 night          : 夜船
+0.0000508    1 lading         : 船積み
+0.0000501    1 cistern        : 水船
+0.0000484    1 anchored       : 茶船
+0.0000469    1 freighter      : 荷船
+0.0000463    1 slipway        : 船台
+0.0000457    1 shipment       : 船積み
+0.0000455    2 boarding       : 上船, 乗船
+0.0000453    1 embargo        : 船留め
+0.0000450    1 cannery        : 工船
+0.0000445    1 depot          : 母船
+0.0000436    1 convoy         : 船団
+0.0000436    1 berth          : 船台
+0.0000434    1 coffin         : 水船
+0.0000422    1 plank          : 船板
+0.0000421    1 cabin          : 船室
+0.0000419    1 depart         : 船待ち
+0.0000417    1 mast           : 船檣
+0.0000408    1 navy           : 船軍
+0.0000393    1 fare           : 船賃
+0.0000381    1 timber         : 船板
+0.0000378    1 seasickness    : 船酔い
+0.0000378    1 stocks         : 船台
+0.0000360    1 available      : 便船
+0.0000358    1 track          : 水船
+0.0000355    1 arrest         : 船留め
+0.0000353    1 beam           : 船幅
+0.0000347    1 related        : 船虫
+0.0000346    1 incoming       : 入り船
+0.0000344    1 waiting        : 船待ち
+0.0000337    1 inboard        : 船内
+0.0000337    1 seafarer       : 船員
+0.0000335    1 classification : 船級
+0.0000329    1 drinking       : 水船
+0.0000329    1 passing        : 船留め
+0.0000329    1 quay           : 船場
+0.0000326    1 market         : 黒船
+0.0000321    1 factory        : 工船
+0.0000319    1 bearing        : 宝船
+0.0000314    1 doctor         : 船医
+0.0000311    1 selling        : 茶船
+0.0000307    1 piloting       : 操船
+0.0000306    1 design         : 船型
+0.0000302    1 roof           : 茶船
+0.0000300    1 free           : 船渡し
+0.0000299    1 ferryman       : 船頭
+0.0000298    1 Perry          : 黒船
+0.0000297    1 anew           : 船出
+0.0000290    1 picture        : 宝船
+0.0000277    1 quarantine     : 停船
+0.0000277    1 outgoing       : 出船
+0.0000275    1 ashore         : 下船
+0.0000274    1 disruptor      : 黒船
+0.0000273    1 goods          : 茶船
+0.0000269    1 tonnage        : 船腹
+0.0000269    1 steamship      : 汽船
+0.0000264    1 steamboat      : 汽船
+0.0000262    1 disturbing     : 黒船
+0.0000261    1 nationality    : 船籍
+0.0000260    1 disembarkation : 下船
+0.0000260    1 decoration     : 風船
+0.0000249    1 detention      : 停船
+0.0000248    1 species        : 船虫
+0.0000246    1 group          : 船団
+0.0000244    1 wind           : 軍船
+0.0000240    2 someone        : 上船, 乗船
+0.0000234    1 came           : 黒船
+0.0000233    1 gas            : 風船
+0.0000231    1 starting       : 船出
+0.0000218    1 merchant       : 商船
+0.0000216    1 stem           : 船首
+0.0000216    1 registration   : 船籍
+0.0000172    1 product        : 黒船
+0.0000172    1 country        : 船籍
+0.0000170    1 getting        : 下船
+0.0000160    1 black          : 黒船
+0.0000148    1 something      : 船出
+0.0000109    1 person         : 黒船
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0933004   22 warship
+	warship WORD[ 1,   1]: 0.0833333 艨艟
+	warship WORD[ 1,   2]: 0.0019868 退艦
+	warship WORD[ 1,   3]: 0.0012229 着艦
+	warship WORD[ 1,   4]: 0.0009298 艦種
+	warship WORD[ 1,   5]: 0.0007197 艦体
+	warship WORD[ 1,   6]: 0.0005753 仏艦
+	warship WORD[ 1,   7]: 0.0004334 艦齢
+	warship WORD[ 1,   8]: 0.0004191 廃艦
+	warship WORD[ 1,   9]: 0.0004057 艦長
+	warship WORD[ 1,  10]: 0.0003990 艦尾
+	warship WORD[ 1,  11]: 0.0003990 艦首
+	warship WORD[ 1,  12]: 0.0003981 艦名
+	warship WORD[ 1,  13]: 0.0003914 艦載
+	warship WORD[ 1,  14]: 0.0003903 艦上
+	warship WORD[ 1,  15]: 0.0003903 発艦
+	warship WORD[ 1,  16]: 0.0002122 巨艦
+	warship WORD[ 1,  17]: 0.0002063 艦橋
+	warship WORD[ 1,  18]: 0.0001432 乗艦
+	warship WORD[ 1,  19]: 0.0001365 軍艦
+	warship WORD[ 1,  20]: 0.0001327 艦
+	warship WORD[ 1,  21]: 0.0000409 兵船
+	warship WORD[ 1,  22]: 0.0000344 軍船
+TOKEN[ 2]: 0.0615598  101 ship
+	ship WORD[ 2,   1]: 0.0135603 艤装
+	ship WORD[ 2,   2]: 0.0053454 船艙
+	ship WORD[ 2,   3]: 0.0053215 艙口
+	ship WORD[ 2,   4]: 0.0045838 舶
+	ship WORD[ 2,   5]: 0.0040266 艫
+	ship WORD[ 2,   6]: 0.0039599 舳
+	ship WORD[ 2,   7]: 0.0039599 舳先
+	ship WORD[ 2,   8]: 0.0029311 退艦
+	ship WORD[ 2,   9]: 0.0014410 船舶
+	ship WORD[ 2,  10]: 0.0011303 転舵
+	ship WORD[ 2,  11]: 0.0010070 舵輪
+	ship WORD[ 2,  12]: 0.0008600 両舷
+	ship WORD[ 2,  13]: 0.0006666 船艇
+	ship WORD[ 2,  14]: 0.0006234 発航
+	ship WORD[ 2,  15]: 0.0005986 取り舵
+	ship WORD[ 2,  16]: 0.0005986 取舵
+	ship WORD[ 2,  17]: 0.0005932 本艦
+	ship WORD[ 2,  18]: 0.0005611 面舵
+	ship WORD[ 2,  19]: 0.0005250 航程
+	ship WORD[ 2,  20]: 0.0003998 舷側
+	ship WORD[ 2,  21]: 0.0003356 艦砲
+	ship WORD[ 2,  22]: 0.0001942 僚艦
+	ship WORD[ 2,  23]: 0.0001680 舟運
+	ship WORD[ 2,  24]: 0.0001582 舟棚
+	ship WORD[ 2,  25]: 0.0001582 舟底
+	ship WORD[ 2,  26]: 0.0001549 早舟
+	ship WORD[ 2,  27]: 0.0001503 来航
+	ship WORD[ 2,  28]: 0.0001305 母艦
+	ship WORD[ 2,  29]: 0.0001134 敵艦
+	ship WORD[ 2,  30]: 0.0001115 就航
+	ship WORD[ 2,  31]: 0.0001115 周航
+	ship WORD[ 2,  32]: 0.0001107 舟
+	ship WORD[ 2,  33]: 0.0001077 船影
+	ship WORD[ 2,  34]: 0.0000990 えい航
+	ship WORD[ 2,  35]: 0.0000990 曳航
+	ship WORD[ 2,  36]: 0.0000989 運航
+	ship WORD[ 2,  37]: 0.0000983 帰艦
+	ship WORD[ 2,  38]: 0.0000954 持ち船
+	ship WORD[ 2,  39]: 0.0000891 船留め
+	ship WORD[ 2,  40]: 0.0000803 全船
+	ship WORD[ 2,  41]: 0.0000711 敵船
+	ship WORD[ 2,  42]: 0.0000699 官船
+	ship WORD[ 2,  43]: 0.0000631 離船
+	ship WORD[ 2,  44]: 0.0000615 本船
+	ship WORD[ 2,  45]: 0.0000610 母船
+	ship WORD[ 2,  46]: 0.0000546 宝船
+	ship WORD[ 2,  47]: 0.0000512 出船
+	ship WORD[ 2,  48]: 0.0000487 鉄船
+	ship WORD[ 2,  49]: 0.0000483 入り船
+	ship WORD[ 2,  50]: 0.0000483 邦船
+	ship WORD[ 2,  51]: 0.0000483 入船
+	ship WORD[ 2,  52]: 0.0000482 新船
+	ship WORD[ 2,  53]: 0.0000482 廃船
+	ship WORD[ 2,  54]: 0.0000478 船外
+	ship WORD[ 2,  55]: 0.0000478 船名
+	ship WORD[ 2,  56]: 0.0000380 同船
+	ship WORD[ 2,  57]: 0.0000361 着船
+	ship WORD[ 2,  58]: 0.0000350 船腹
+	ship WORD[ 2,  59]: 0.0000350 船長
+	ship WORD[ 2,  60]: 0.0000350 船籍
+	ship WORD[ 2,  61]: 0.0000350 船上
+	ship WORD[ 2,  62]: 0.0000344 上船
+	ship WORD[ 2,  63]: 0.0000344 乗船
+	ship WORD[ 2,  64]: 0.0000328 係船
+	ship WORD[ 2,  65]: 0.0000328 繋船
+	ship WORD[ 2,  66]: 0.0000317 和船
+	ship WORD[ 2,  67]: 0.0000316 僚船
+	ship WORD[ 2,  68]: 0.0000297 船待ち
+	ship WORD[ 2,  69]: 0.0000297 船床
+	ship WORD[ 2,  70]: 0.0000297 船玉
+	ship WORD[ 2,  71]: 0.0000297 船霊
+	ship WORD[ 2,  72]: 0.0000297 船魂
+	ship WORD[ 2,  73]: 0.0000297 船棚
+	ship WORD[ 2,  74]: 0.0000297 船底
+	ship WORD[ 2,  75]: 0.0000297 船蔵
+	ship WORD[ 2,  76]: 0.0000297 船板
+	ship WORD[ 2,  77]: 0.0000291 早船
+	ship WORD[ 2,  78]: 0.0000281 船幅
+	ship WORD[ 2,  79]: 0.0000281 船便
+	ship WORD[ 2,  80]: 0.0000281 船尾
+	ship WORD[ 2,  81]: 0.0000281 船側
+	ship WORD[ 2,  82]: 0.0000281 船倉
+	ship WORD[ 2,  83]: 0.0000275 船医
+	ship WORD[ 2,  84]: 0.0000269 夜船
+	ship WORD[ 2,  85]: 0.0000268 船型
+	ship WORD[ 2,  86]: 0.0000268 船具
+	ship WORD[ 2,  87]: 0.0000268 船級
+	ship WORD[ 2,  88]: 0.0000262 親船
+	ship WORD[ 2,  89]: 0.0000247 工船
+	ship WORD[ 2,  90]: 0.0000236 帆船
+	ship WORD[ 2,  91]: 0.0000227 傭船
+	ship WORD[ 2,  92]: 0.0000227 用船
+	ship WORD[ 2,  93]: 0.0000208 船橋
+	ship WORD[ 2,  94]: 0.0000184 停船
+	ship WORD[ 2,  95]: 0.0000180 脱船
+	ship WORD[ 2,  96]: 0.0000175 操船
+	ship WORD[ 2,  97]: 0.0000175 船内
+	ship WORD[ 2,  98]: 0.0000175 船中
+	ship WORD[ 2,  99]: 0.0000175 船
+	ship WORD[ 2, 100]: 0.0000171 商船
+	ship WORD[ 2, 101]: 0.0000164 下船
+TOKEN[ 3]: 0.0403043   79 boat
+	boat WORD[ 3,   1]: 0.0044190 艪
+	boat WORD[ 3,   2]: 0.0040416 艀船
+	boat WORD[ 3,   3]: 0.0040210 艀
+	boat WORD[ 3,   4]: 0.0034852 舫う
+	boat WORD[ 3,   5]: 0.0030990 艇長
+	boat WORD[ 3,   6]: 0.0027603 画舫
+	boat WORD[ 3,   7]: 0.0022318 艇首
+	boat WORD[ 3,   8]: 0.0013928 舟艇
+	boat WORD[ 3,   9]: 0.0011706 龍舟
+	boat WORD[ 3,  10]: 0.0010871 艇身
+	boat WORD[ 3,  11]: 0.0010590 短艇
+	boat WORD[ 3,  12]: 0.0010590 端艇
+	boat WORD[ 3,  13]: 0.0009145 接舷
+	boat WORD[ 3,  14]: 0.0008435 泥舟
+	boat WORD[ 3,  15]: 0.0007112 艇
+	boat WORD[ 3,  16]: 0.0006928 船艇
+	boat WORD[ 3,  17]: 0.0006215 競艇
+	boat WORD[ 3,  18]: 0.0004824 舷
+	boat WORD[ 3,  19]: 0.0003894 操舵
+	boat WORD[ 3,  20]: 0.0003746 航洋
+	boat WORD[ 3,  21]: 0.0003278 舟下り
+	boat WORD[ 3,  22]: 0.0003132 軽舟
+	boat WORD[ 3,  23]: 0.0003010 葦舟
+	boat WORD[ 3,  24]: 0.0002707 舟券
+	boat WORD[ 3,  25]: 0.0001841 押し船
+	boat WORD[ 3,  26]: 0.0001692 土船
+	boat WORD[ 3,  27]: 0.0001679 扁舟
+	boat WORD[ 3,  28]: 0.0001645 舟偏
+	boat WORD[ 3,  29]: 0.0001644 舟唄
+	boat WORD[ 3,  30]: 0.0001644 舟歌
+	boat WORD[ 3,  31]: 0.0001619 引き舟
+	boat WORD[ 3,  32]: 0.0001619 引舟
+	boat WORD[ 3,  33]: 0.0001601 呑舟
+	boat WORD[ 3,  34]: 0.0001469 茶船
+	boat WORD[ 3,  35]: 0.0001466 孤舟
+	boat WORD[ 3,  36]: 0.0001434 笹舟
+	boat WORD[ 3,  37]: 0.0001252 湯舟
+	boat WORD[ 3,  38]: 0.0001244 べか船
+	boat WORD[ 3,  39]: 0.0001159 出航
+	boat WORD[ 3,  40]: 0.0001150 舟
+	boat WORD[ 3,  41]: 0.0001120 航跡
+	boat WORD[ 3,  42]: 0.0001019 釣舟
+	boat WORD[ 3,  43]: 0.0000973 屋形船
+	boat WORD[ 3,  44]: 0.0000948 水船
+	boat WORD[ 3,  45]: 0.0000917 小舟
+	boat WORD[ 3,  46]: 0.0000897 漁舟
+	boat WORD[ 3,  47]: 0.0000887 船祭
+	boat WORD[ 3,  48]: 0.0000826 浮き舟
+	boat WORD[ 3,  49]: 0.0000826 浮舟
+	boat WORD[ 3,  50]: 0.0000820 船釣り
+	boat WORD[ 3,  51]: 0.0000763 竜船
+	boat WORD[ 3,  52]: 0.0000615 船下り
+	boat WORD[ 3,  53]: 0.0000583 通船
+	boat WORD[ 3,  54]: 0.0000497 船外
+	boat WORD[ 3,  55]: 0.0000309 船べり
+	boat WORD[ 3,  56]: 0.0000309 船縁
+	boat WORD[ 3,  57]: 0.0000309 船端
+	boat WORD[ 3,  58]: 0.0000309 船床
+	boat WORD[ 3,  59]: 0.0000309 船歌
+	boat WORD[ 3,  60]: 0.0000309 船脚
+	boat WORD[ 3,  61]: 0.0000309 船足
+	boat WORD[ 3,  62]: 0.0000304 引き船
+	boat WORD[ 3,  63]: 0.0000304 引船
+	boat WORD[ 3,  64]: 0.0000304 曳き船
+	boat WORD[ 3,  65]: 0.0000280 夜船
+	boat WORD[ 3,  66]: 0.0000266 曳船
+	boat WORD[ 3,  67]: 0.0000257 工船
+	boat WORD[ 3,  68]: 0.0000256 大船
+	boat WORD[ 3,  69]: 0.0000245 帆船
+	boat WORD[ 3,  70]: 0.0000243 郵船
+	boat WORD[ 3,  71]: 0.0000235 湯船
+	boat WORD[ 3,  72]: 0.0000216 船旅
+	boat WORD[ 3,  73]: 0.0000191 釣り船
+	boat WORD[ 3,  74]: 0.0000191 釣船
+	boat WORD[ 3,  75]: 0.0000182 船首
+	boat WORD[ 3,  76]: 0.0000182 船
+	boat WORD[ 3,  77]: 0.0000172 小船
+	boat WORD[ 3,  78]: 0.0000168 漁船
+	boat WORD[ 3,  79]: 0.0000167 客船
+TOKEN[ 4]: 0.0267951    1 freeboard
+	freeboard WORD[ 4,   1]: 0.0267951 乾舷
+TOKEN[ 5]: 0.0245588    1 cicatrix
+	cicatrix WORD[ 5,   1]: 0.0245588 瘢痕
+TOKEN[ 6]: 0.0240712    7 bow
+	bow WORD[ 6,   1]: 0.0076440 舳艫
+	bow WORD[ 6,   2]: 0.0045155 舳
+	bow WORD[ 6,   3]: 0.0045155 舳先
+	bow WORD[ 6,   4]: 0.0024489 艇首
+	bow WORD[ 6,   5]: 0.0022958 艫
+	bow WORD[ 6,   6]: 0.0003356 艦首
+	bow WORD[ 6,   7]: 0.0000199 船首
+TOKEN[ 7]: 0.0236540    3 counter
+	counter WORD[ 7,   1]: 0.0234975 艘
+	counter WORD[ 7,   2]: 0.0001189 舟
+	counter WORD[ 7,   3]: 0.0000188 船
+TOKEN[ 8]: 0.0209066   14 small
+	small WORD[ 8,   1]: 0.0181691 艘
+	small WORD[ 8,   2]: 0.0008468 短艇
+	small WORD[ 8,   3]: 0.0008468 端艇
+	small WORD[ 8,   4]: 0.0005687 艇
+	small WORD[ 8,   5]: 0.0000995 べか船
+	small WORD[ 8,   6]: 0.0000733 小舟
+	small WORD[ 8,   7]: 0.0000717 漁舟
+	small WORD[ 8,   8]: 0.0000470 茶船
+	small WORD[ 8,   9]: 0.0000420 船だまり
+	small WORD[ 8,  10]: 0.0000420 船溜まり
+	small WORD[ 8,  11]: 0.0000420 船溜り
+	small WORD[ 8,  12]: 0.0000220 回船
+	small WORD[ 8,  13]: 0.0000220 廻船
+	small WORD[ 8,  14]: 0.0000138 小船
+TOKEN[ 9]: 0.0204632    4 prow
+	prow WORD[ 9,   1]: 0.0067730 舳
+	prow WORD[ 9,   2]: 0.0067730 舳先
+	prow WORD[ 9,   3]: 0.0034436 艫
+	prow WORD[ 9,   4]: 0.0000299 船首
+TOKEN[10]: 0.0184359    5 stern
+	stern WORD[10,   1]: 0.0092049 舳艫
+	stern WORD[10,   2]: 0.0032589 艫綱
+	stern WORD[10,   3]: 0.0027646 艫
+	stern WORD[10,   4]: 0.0004042 艦尾
+	stern WORD[10,   5]: 0.0000386 船尾
+TOKEN[11]: 0.0171078    1 scar
+	scar WORD[11,   1]: 0.0171078 瘢痕
+TOKEN[12]: 0.0158431    4 hatch
+	hatch WORD[12,   1]: 0.0078759 船艙
+	hatch WORD[12,   2]: 0.0078406 艙口
+	hatch WORD[12,   3]: 0.0000438 船蔵
+	hatch WORD[12,   4]: 0.0000414 船倉
+TOKEN[13]: 0.0146062   15 vessel
+	vessel WORD[13,   1]: 0.0111009 公船
+	vessel WORD[13,   2]: 0.0017100 船舶
+	vessel WORD[13,   3]: 0.0007911 船艇
+	vessel WORD[13,   4]: 0.0004801 左舷
+	vessel WORD[13,   5]: 0.0001313 舟
+	vessel WORD[13,   6]: 0.0000844 敵船
+	vessel WORD[13,   7]: 0.0000572 廃船
+	vessel WORD[13,   8]: 0.0000334 船齢
+	vessel WORD[13,   9]: 0.0000319 船型
+	vessel WORD[13,  10]: 0.0000313 回船
+	vessel WORD[13,  11]: 0.0000313 廻船
+	vessel WORD[13,  12]: 0.0000280 帆船
+	vessel WORD[13,  13]: 0.0000269 傭船
+	vessel WORD[13,  14]: 0.0000269 用船
+	vessel WORD[13,  15]: 0.0000207 船
+TOKEN[14]: 0.0119792    5 mooring
+	mooring WORD[14,   1]: 0.0048597 舫い
+	mooring WORD[14,   2]: 0.0036329 舫
+	mooring WORD[14,   3]: 0.0034391 艫綱
+	mooring WORD[14,   4]: 0.0000238 係船
+	mooring WORD[14,   5]: 0.0000238 繋船
+TOKEN[15]: 0.0115590    5 barge
+	barge WORD[15,   1]: 0.0056969 艀船
+	barge WORD[15,   2]: 0.0056679 艀
+	barge WORD[15,   3]: 0.0000821 通船
+	barge WORD[15,   4]: 0.0000706 台船
+	barge WORD[15,   5]: 0.0000414 茶船
+TOKEN[16]: 0.0114839    5 lighter
+	lighter WORD[16,   1]: 0.0056969 艀船
+	lighter WORD[16,   2]: 0.0056679 艀
+	lighter WORD[16,   3]: 0.0000417 荷船
+	lighter WORD[16,   4]: 0.0000387 回船
+	lighter WORD[16,   5]: 0.0000387 廻船
+TOKEN[17]: 0.0109813    2 baggage
+	baggage WORD[17,   1]: 0.0055047 艀船
+	baggage WORD[17,   2]: 0.0054766 艀
+TOKEN[18]: 0.0108338    1 death
+	death WORD[18,   1]: 0.0108338 涅槃
+TOKEN[19]: 0.0106599    2 rigging
+	rigging WORD[19,   1]: 0.0106179 艤装
+	rigging WORD[19,   2]: 0.0000420 船具
+TOKEN[20]: 0.0102645    1 hatchway
+	hatchway WORD[20,   1]: 0.0102645 艙口
+TOKEN[21]: 0.0097279    1 outfit
+	outfit WORD[21,   1]: 0.0097279 艤装
+TOKEN[22]: 0.0091391    1 nirvana
+	nirvana WORD[22,   1]: 0.0091391 涅槃
+TOKEN[23]: 0.0084244    5 ocean
+	ocean WORD[23,   1]: 0.0057133 巨舶
+	ocean WORD[23,   2]: 0.0019851 舶載
+	ocean WORD[23,   3]: 0.0004436 航洋
+	ocean WORD[23,   4]: 0.0001947 舟路
+	ocean WORD[23,   5]: 0.0000877 巨船
+TOKEN[24]: 0.0083223    1 public
+	public WORD[24,   1]: 0.0083223 公船
+TOKEN[25]: 0.0083196    2 enlightenment
+	enlightenment WORD[25,   1]: 0.0073694 涅槃
+	enlightenment WORD[25,   2]: 0.0009502 般若
+TOKEN[26]: 0.0081519    1 supreme
+	supreme WORD[26,   1]: 0.0081519 涅槃
+TOKEN[27]: 0.0081036    2 painter
+	painter WORD[27,   1]: 0.0046371 舫い
+	painter WORD[27,   2]: 0.0034664 舫
+TOKEN[28]: 0.0077794    7 large
+	large WORD[28,   1]: 0.0041982 舶
+	large WORD[28,   2]: 0.0026792 磐座
+	large WORD[28,   3]: 0.0006244 全般
+	large WORD[28,   4]: 0.0001433 巨艦
+	large WORD[28,   5]: 0.0000858 屋形船
+	large WORD[28,   6]: 0.0000259 茶船
+	large WORD[28,   7]: 0.0000226 大船
+TOKEN[29]: 0.0077606    1 equipment
+	equipment WORD[29,   1]: 0.0077606 艤装
+TOKEN[30]: 0.0072730    1 scull
+	scull WORD[30,   1]: 0.0072730 艪
+TOKEN[31]: 0.0070328    2 liner
+	liner WORD[31,   1]: 0.0069265 巨舶
+	liner WORD[31,   2]: 0.0001064 巨船
+TOKEN[32]: 0.0068086    1 oarlock
+	oarlock WORD[32,   1]: 0.0068086 艪
+TOKEN[33]: 0.0066954    2 rope
+	rope WORD[33,   1]: 0.0038313 舫い
+	rope WORD[33,   2]: 0.0028641 舫
+TOKEN[34]: 0.0064842    7 naval
+	naval WORD[34,   1]: 0.0039858 退艦
+	naval WORD[34,   2]: 0.0014582 艦艇
+	naval WORD[34,   3]: 0.0006753 建艦
+	naval WORD[34,   4]: 0.0001550 艦船
+	naval WORD[34,   5]: 0.0001333 艦隊
+	naval WORD[34,   6]: 0.0000404 船軍
+	naval WORD[34,   7]: 0.0000360 船団
+TOKEN[35]: 0.0063873    1 oar
+	oar WORD[35,   1]: 0.0063873 艪
+TOKEN[36]: 0.0062508    3 coxswain
+	coxswain WORD[36,   1]: 0.0047747 艇長
+	coxswain WORD[36,   2]: 0.0009370 舵手
+	coxswain WORD[36,   3]: 0.0005391 舵取り
+TOKEN[37]: 0.0061726    1 Buddha
+	Buddha WORD[37,   1]: 0.0061726 涅槃
+TOKEN[38]: 0.0060721    4 transportation
+	transportation WORD[38,   1]: 0.0021887 搬送
+	transportation WORD[38,   2]: 0.0020278 舶載
+	transportation WORD[38,   3]: 0.0016444 運搬
+	transportation WORD[38,   4]: 0.0002111 舟運
+TOKEN[39]: 0.0059587    7 shipping
+	shipping WORD[39,   1]: 0.0030139 舶用
+	shipping WORD[39,   2]: 0.0018497 船舶
+	shipping WORD[39,   3]: 0.0007933 航送
+	shipping WORD[39,   4]: 0.0002031 舟宿
+	shipping WORD[39,   5]: 0.0000381 船宿
+	shipping WORD[39,   6]: 0.0000381 船賃
+	shipping WORD[39,   7]: 0.0000224 船腹
+TOKEN[40]: 0.0056182    1 moor
+	moor WORD[40,   1]: 0.0056182 舫う
+TOKEN[41]: 0.0052427    5 hold
+	hold WORD[41,   1]: 0.0051153 船艙
+	hold WORD[41,   2]: 0.0000284 船床
+	hold WORD[41,   3]: 0.0000284 船蔵
+	hold WORD[41,   4]: 0.0000269 船倉
+	hold WORD[41,   5]: 0.0000167 船腹
+TOKEN[42]: 0.0049939    1 rear
+	rear WORD[42,   1]: 0.0049939 艪
+TOKEN[43]: 0.0049387    2 skipper
+	skipper WORD[43,   1]: 0.0049099 艇長
+	skipper WORD[43,   2]: 0.0000288 船長
+TOKEN[44]: 0.0049259    4 rock
+	rock WORD[44,   1]: 0.0032335 磐座
+	rock WORD[44,   2]: 0.0009234 磐石
+	rock WORD[44,   3]: 0.0006814 磐
+	rock WORD[44,   4]: 0.0000876 盤石
+TOKEN[45]: 0.0048906    1 attached
+	attached WORD[45,   1]: 0.0048906 艪
+TOKEN[46]: 0.0046400    2 furniture
+	furniture WORD[46,   1]: 0.0023203 搬入
+	furniture WORD[46,   2]: 0.0023197 搬出
+TOKEN[47]: 0.0046237   15 sailing
+	sailing WORD[47,   1]: 0.0014825 東航
+	sailing WORD[47,   2]: 0.0006911 遡航
+	sailing WORD[47,   3]: 0.0004952 舟航
+	sailing WORD[47,   4]: 0.0004653 航走
+	sailing WORD[47,   5]: 0.0002223 舟行
+	sailing WORD[47,   6]: 0.0002092 舟遊び
+	sailing WORD[47,   7]: 0.0001583 べか船
+	sailing WORD[47,   8]: 0.0001563 通航
+	sailing WORD[47,   9]: 0.0001481 進航
+	sailing WORD[47,  10]: 0.0001426 航法
+	sailing WORD[47,  11]: 0.0001424 航行
+	sailing WORD[47,  12]: 0.0001423 航海
+	sailing WORD[47,  13]: 0.0000934 帆船
+	sailing WORD[47,  14]: 0.0000393 船遊び
+	sailing WORD[47,  15]: 0.0000356 夜船
+TOKEN[48]: 0.0044666    2 conveyance
+	conveyance WORD[48,   1]: 0.0025504 搬送
+	conveyance WORD[48,   2]: 0.0019162 運搬
+TOKEN[49]: 0.0043242    2 line
+	line WORD[49,   1]: 0.0042281 艫綱
+	line WORD[49,   2]: 0.0000961 航路
+TOKEN[50]: 0.0042496    5 carrying
+	carrying WORD[50,   1]: 0.0019446 搬入
+	carrying WORD[50,   2]: 0.0019441 搬出
+	carrying WORD[50,   3]: 0.0003224 艦載
+	carrying WORD[50,   4]: 0.0000192 上船
+	carrying WORD[50,   5]: 0.0000192 乗船
+TOKEN[51]: 0.0040747    5 steering
+	steering WORD[51,   1]: 0.0016068 転舵
+	steering WORD[51,   2]: 0.0014316 舵輪
+	steering WORD[51,   3]: 0.0005327 操舵
+	steering WORD[51,   4]: 0.0004786 舵取り
+	steering WORD[51,   5]: 0.0000249 操船
+TOKEN[52]: 0.0039656    1 dwelling
+	dwelling WORD[52,   1]: 0.0039656 磐座
+TOKEN[53]: 0.0039593    1 traditional
+	traditional WORD[53,   1]: 0.0039593 艪
+TOKEN[54]: 0.0039274    3 helm
+	helm WORD[54,   1]: 0.0018008 舵柄
+	helm WORD[54,   2]: 0.0015938 舵輪
+	helm WORD[54,   3]: 0.0005328 舵
+TOKEN[55]: 0.0036239    1 retirement
+	retirement WORD[55,   1]: 0.0036239 退艦
+TOKEN[56]: 0.0036206    2 heavy
+	heavy WORD[56,   1]: 0.0018106 搬入
+	heavy WORD[56,   2]: 0.0018101 搬出
+TOKEN[57]: 0.0035810   15 voyage
+	voyage WORD[57,   1]: 0.0008404 外航
+	voyage WORD[57,   2]: 0.0004949 航洋
+	voyage WORD[57,   3]: 0.0004526 続航
+	voyage WORD[57,   4]: 0.0002208 往航
+	voyage WORD[57,   5]: 0.0002173 舟路
+	voyage WORD[57,   6]: 0.0001865 復航
+	voyage WORD[57,   7]: 0.0001733 難航
+	voyage WORD[57,   8]: 0.0001677 渡航
+	voyage WORD[57,   9]: 0.0001621 直航
+	voyage WORD[57,  10]: 0.0001570 潜航
+	voyage WORD[57,  11]: 0.0001478 航海
+	voyage WORD[57,  12]: 0.0001474 欠航
+	voyage WORD[57,  13]: 0.0001440 帰航
+	voyage WORD[57,  14]: 0.0000408 船路
+	voyage WORD[57,  15]: 0.0000285 船旅
+TOKEN[58]: 0.0035238    4 taking
+	taking WORD[58,   1]: 0.0016194 搬入
+	taking WORD[58,   2]: 0.0016190 搬出
+	taking WORD[58,   3]: 0.0002678 発艦
+	taking WORD[58,   4]: 0.0000177 同船
+TOKEN[59]: 0.0033633    1 decorated
+	decorated WORD[59,   1]: 0.0033633 画舫
+TOKEN[60]: 0.0033302    1 diving
+	diving WORD[60,   1]: 0.0033302 潜舵
+TOKEN[61]: 0.0033193    4 deity
+	deity WORD[61,   1]: 0.0032212 磐座
+	deity WORD[61,   2]: 0.0000327 船玉
+	deity WORD[61,   3]: 0.0000327 船霊
+	deity WORD[61,   4]: 0.0000327 船魂
+TOKEN[62]: 0.0032669    1 reference
+	reference WORD[62,   1]: 0.0032669 磐座
+TOKEN[63]: 0.0032592    2 pleasure
+	pleasure WORD[63,   1]: 0.0031482 画舫
+	pleasure WORD[63,   2]: 0.0001110 屋形船
+TOKEN[64]: 0.0032447   12 side
+	side WORD[64,   1]: 0.0005454 取り舵
+	side WORD[64,   2]: 0.0005454 取舵
+	side WORD[64,   3]: 0.0005112 面舵
+	side WORD[64,   4]: 0.0004229 舷
+	side WORD[64,   5]: 0.0003686 左舷
+	side WORD[64,   6]: 0.0003644 舷灯
+	side WORD[64,   7]: 0.0003642 舷側
+	side WORD[64,   8]: 0.0000271 船べり
+	side WORD[64,   9]: 0.0000271 船縁
+	side WORD[64,  10]: 0.0000271 船端
+	side WORD[64,  11]: 0.0000256 船側
+	side WORD[64,  12]: 0.0000159 船腹
+TOKEN[65]: 0.0032421    4 Japanese
+	Japanese WORD[65,   1]: 0.0029349 艪
+	Japanese WORD[65,   2]: 0.0002513 航戦
+	Japanese WORD[65,   3]: 0.0000333 邦船
+	Japanese WORD[65,   4]: 0.0000226 黒船
+TOKEN[66]: 0.0031544    2 hydroplane
+	hydroplane WORD[66,   1]: 0.0021315 潜舵
+	hydroplane WORD[66,   2]: 0.0010229 競艇
+TOKEN[67]: 0.0030585    1 shrine
+	shrine WORD[67,   1]: 0.0030585 磐境
+TOKEN[68]: 0.0030568    1 hospitalization
+	hospitalization WORD[68,   1]: 0.0030568 搬送
+TOKEN[69]: 0.0029382   10 port
+	port WORD[69,   1]: 0.0007312 取り舵
+	port WORD[69,   2]: 0.0007312 取舵
+	port WORD[69,   3]: 0.0005510 着艦
+	port WORD[69,   4]: 0.0004941 左舷
+	port WORD[69,   5]: 0.0001363 出航
+	port WORD[69,   6]: 0.0001281 寄航
+	port WORD[69,   7]: 0.0000417 出船
+	port WORD[69,   8]: 0.0000363 船留め
+	port WORD[69,   9]: 0.0000295 入り船
+	port WORD[69,  10]: 0.0000295 入船
+TOKEN[70]: 0.0029088    4 surface
+	surface WORD[70,   1]: 0.0023372 定盤
+	surface WORD[70,   2]: 0.0004373 盤面
+	surface WORD[70,   3]: 0.0001050 銀盤
+	surface WORD[70,   4]: 0.0000293 船便
+TOKEN[71]: 0.0029029    4 time
+	time WORD[71,   1]: 0.0009126 這般
+	time WORD[71,   2]: 0.0007654 今般
+	time WORD[71,   3]: 0.0007174 過般
+	time WORD[71,   4]: 0.0005076 先般
+TOKEN[72]: 0.0028879    6 boating
+	boating WORD[72,   1]: 0.0016729 漕艇
+	boating WORD[72,   2]: 0.0005997 舟航
+	boating WORD[72,   3]: 0.0002692 舟行
+	boating WORD[72,   4]: 0.0002533 舟遊び
+	boating WORD[72,   5]: 0.0000475 船遊び
+	boating WORD[72,   6]: 0.0000453 茶船
+TOKEN[73]: 0.0028764    1 marine
+	marine WORD[73,   1]: 0.0028764 舶用
+TOKEN[74]: 0.0028269    1 captaincy
+	captaincy WORD[74,   1]: 0.0028269 退艦
+TOKEN[75]: 0.0027795    1 seacraft
+	seacraft WORD[75,   1]: 0.0027795 船舶
+TOKEN[76]: 0.0027656    3 plate
+	plate WORD[76,   1]: 0.0025055 定盤
+	plate WORD[76,   2]: 0.0001126 銀盤
+	plate WORD[76,   3]: 0.0000738 盤
+TOKEN[77]: 0.0026559    1 importation
+	importation WORD[77,   1]: 0.0026559 舶載
+TOKEN[78]: 0.0025345    2 rudder
+	rudder WORD[78,   1]: 0.0019954 潜舵
+	rudder WORD[78,   2]: 0.0005391 舵
+TOKEN[79]: 0.0024108    1 place
+	place WORD[79,   1]: 0.0024108 磐座
+TOKEN[80]: 0.0023381    1 propagation
+	propagation WORD[80,   1]: 0.0023381 伝搬
+TOKEN[81]: 0.0023307    2 racing
+	racing WORD[81,   1]: 0.0015224 龍舟
+	racing WORD[81,   2]: 0.0008083 競艇
+TOKEN[82]: 0.0021628    1 eastbound
+	eastbound WORD[82,   1]: 0.0021628 東航
+TOKEN[83]: 0.0021473    1 jealousy
+	jealousy WORD[83,   1]: 0.0021473 般若
+TOKEN[84]: 0.0021298    1 hospital
+	hospital WORD[84,   1]: 0.0021298 搬送
+TOKEN[85]: 0.0021203    4 canoe
+	canoe WORD[85,   1]: 0.0016806 龍舟
+	canoe WORD[85,   2]: 0.0002010 刳り舟
+	canoe WORD[85,   3]: 0.0002010 刳舟
+	canoe WORD[85,   4]: 0.0000377 刳船
+TOKEN[86]: 0.0020883    9 flight
+	flight WORD[86,   1]: 0.0006112 航程
+	flight WORD[86,   2]: 0.0004282 航宙
+	flight WORD[86,   3]: 0.0001944 航続
+	flight WORD[86,   4]: 0.0001872 往航
+	flight WORD[86,   5]: 0.0001581 復航
+	flight WORD[86,   6]: 0.0001469 難航
+	flight WORD[86,   7]: 0.0001250 欠航
+	flight WORD[86,   8]: 0.0001221 帰航
+	flight WORD[86,   9]: 0.0001152 運航
+TOKEN[87]: 0.0020013    5 used
+	used WORD[87,   1]: 0.0008876 常磐津
+	used WORD[87,   2]: 0.0008676 龍舟
+	used WORD[87,   3]: 0.0000922 べか船
+	used WORD[87,   4]: 0.0000885 盤台
+	used WORD[87,   5]: 0.0000653 茶船
+TOKEN[88]: 0.0019827   15 sea
+	sea WORD[88,   1]: 0.0005988 航送
+	sea WORD[88,   2]: 0.0003492 航洋
+	sea WORD[88,   3]: 0.0001533 舟路
+	sea WORD[88,   4]: 0.0001533 舟唄
+	sea WORD[88,   5]: 0.0001533 舟歌
+	sea WORD[88,   6]: 0.0001081 出航
+	sea WORD[88,   7]: 0.0001045 航路
+	sea WORD[88,   8]: 0.0001043 航海
+	sea WORD[88,   9]: 0.0001040 欠航
+	sea WORD[88,  10]: 0.0000288 船虫
+	sea WORD[88,  11]: 0.0000288 船路
+	sea WORD[88,  12]: 0.0000288 船歌
+	sea WORD[88,  13]: 0.0000272 船便
+	sea WORD[88,  14]: 0.0000201 船出
+	sea WORD[88,  15]: 0.0000201 船旅
+TOKEN[89]: 0.0019693    3 craft
+	craft WORD[89,   1]: 0.0008983 船艇
+	craft WORD[89,   2]: 0.0004162 虚舟
+	craft WORD[89,   3]: 0.0002387 押し船
+TOKEN[90]: 0.0019309    1 mask
+	mask WORD[90,   1]: 0.0019309 般若
+TOKEN[91]: 0.0018809    1 delivery
+	delivery WORD[91,   1]: 0.0018809 搬送
+TOKEN[92]: 0.0018412    1 transfer
+	transfer WORD[92,   1]: 0.0018412 搬送
+TOKEN[93]: 0.0018285    1 transmission
+	transmission WORD[93,   1]: 0.0018285 伝搬
+TOKEN[94]: 0.0018008    1 yoke
+	yoke WORD[94,   1]: 0.0018008 舵柄
+TOKEN[95]: 0.0017834    9 towing
+	towing WORD[95,   1]: 0.0008336 引航
+	towing WORD[95,   2]: 0.0002376 引き舟
+	towing WORD[95,   3]: 0.0002376 引舟
+	towing WORD[95,   4]: 0.0001509 えい航
+	towing WORD[95,   5]: 0.0001509 曳航
+	towing WORD[95,   6]: 0.0000446 引き船
+	towing WORD[95,   7]: 0.0000446 引船
+	towing WORD[95,   8]: 0.0000446 曳き船
+	towing WORD[95,   9]: 0.0000391 曳船
+TOKEN[96]: 0.0017608    1 spread
+	spread WORD[96,   1]: 0.0017608 伝搬
+TOKEN[97]: 0.0017553    4 course
+	course WORD[97,   1]: 0.0011672 転舵
+	course WORD[97,   2]: 0.0003404 続航
+	course WORD[97,   3]: 0.0001114 航路
+	course WORD[97,   4]: 0.0000682 盤
+TOKEN[98]: 0.0017333    2 different
+	different WORD[98,   1]: 0.0011472 転舵
+	different WORD[98,   2]: 0.0005860 一般
+TOKEN[99]: 0.0017204    5 leaving
+	leaving WORD[99,   1]: 0.0015230 退艦
+	leaving WORD[99,   2]: 0.0001159 出航
+	leaving WORD[99,   3]: 0.0000328 離船
+	leaving WORD[99,   4]: 0.0000309 船留め
+	leaving WORD[99,   5]: 0.0000177 出船
+TOKEN[100]: 0.0017035    3 plane
+	plane WORD[100,   1]: 0.0014448 潜舵
+	plane WORD[100,   2]: 0.0001293 出航
+	plane WORD[100,   3]: 0.0001293 就航
+TOKEN[101]: 0.0016386    2 hardpan
+	hardpan WORD[101,   1]: 0.0012370 盤層
+	hardpan WORD[101,   2]: 0.0004016 硬盤
+TOKEN[102]: 0.0016317    2 various
+	various WORD[102,   1]: 0.0009828 諸般
+	various WORD[102,   2]: 0.0006489 各般
+TOKEN[103]: 0.0016052    1 narrative
+	narrative WORD[103,   1]: 0.0016052 常磐津
+TOKEN[104]: 0.0016011    2 starboard
+	starboard WORD[104,   1]: 0.0009596 面舵
+	starboard WORD[104,   2]: 0.0006415 右舷
+TOKEN[105]: 0.0015993    1 evergreen
+	evergreen WORD[105,   1]: 0.0015993 常磐木
+TOKEN[106]: 0.0015979    1 carriage
+	carriage WORD[106,   1]: 0.0015979 運搬
+TOKEN[107]: 0.0015971    3 whole
+	whole WORD[107,   1]: 0.0013630 全般
+	whole WORD[107,   2]: 0.0001539 呑舟
+	whole WORD[107,   3]: 0.0000802 全船
+TOKEN[108]: 0.0015968    5 gunwale
+	gunwale WORD[108,   1]: 0.0007776 舷
+	gunwale WORD[108,   2]: 0.0006699 舷頭
+	gunwale WORD[108,   3]: 0.0000498 船べり
+	gunwale WORD[108,   4]: 0.0000498 船縁
+	gunwale WORD[108,   5]: 0.0000498 船端
+TOKEN[109]: 0.0015808    1 rowing
+	rowing WORD[109,   1]: 0.0015808 漕艇
+TOKEN[110]: 0.0015784    2 transport
+	transport WORD[110,   1]: 0.0015450 運搬
+	transport WORD[110,   2]: 0.0000334 茶船
+TOKEN[111]: 0.0015560    7 tugging
+	tugging WORD[111,   1]: 0.0008755 引航
+	tugging WORD[111,   2]: 0.0002495 引き舟
+	tugging WORD[111,   3]: 0.0002495 引舟
+	tugging WORD[111,   4]: 0.0000468 引き船
+	tugging WORD[111,   5]: 0.0000468 引船
+	tugging WORD[111,   6]: 0.0000468 曳き船
+	tugging WORD[111,   7]: 0.0000410 曳船
+TOKEN[112]: 0.0015471    1 post
+	post WORD[112,   1]: 0.0015471 退艦
+TOKEN[113]: 0.0015444    2 helmsman
+	helmsman WORD[113,   1]: 0.0009803 舵手
+	helmsman WORD[113,   2]: 0.0005640 舵取り
+TOKEN[114]: 0.0014346    9 navigation
+	navigation WORD[114,   1]: 0.0002351 舟行
+	navigation WORD[114,   2]: 0.0001653 通航
+	navigation WORD[114,   3]: 0.0001599 潜航
+	navigation WORD[114,   4]: 0.0001508 航法
+	navigation WORD[114,   5]: 0.0001506 航行
+	navigation WORD[114,   6]: 0.0001505 航海
+	navigation WORD[114,   7]: 0.0001421 回航
+	navigation WORD[114,   8]: 0.0001421 廻航
+	navigation WORD[114,   9]: 0.0001383 運航
+TOKEN[115]: 0.0014076    2 dragon
+	dragon WORD[115,   1]: 0.0013214 龍舟
+	dragon WORD[115,   2]: 0.0000862 竜船
+TOKEN[116]: 0.0014061    2 solidity
+	solidity WORD[116,   1]: 0.0012843 磐石
+	solidity WORD[116,   2]: 0.0001218 盤石
+TOKEN[117]: 0.0013962    3 air
+	air WORD[117,   1]: 0.0006992 航戦
+	air WORD[117,   2]: 0.0005935 航送
+	air WORD[117,   3]: 0.0001036 航路
+TOKEN[118]: 0.0013889    1 woman
+	woman WORD[118,   1]: 0.0013889 般若
+TOKEN[119]: 0.0013863    1 east
+	east WORD[119,   1]: 0.0013863 東航
+TOKEN[120]: 0.0013774    1 demoness
+	demoness WORD[120,   1]: 0.0013774 般若
+TOKEN[121]: 0.0013682    2 gangway
+	gangway WORD[121,   1]: 0.0006842 舷門
+	gangway WORD[121,   2]: 0.0006840 舷梯
+TOKEN[122]: 0.0013420    1 kind
+	kind WORD[122,   1]: 0.0013420 這般
+TOKEN[123]: 0.0013418    1 prajna
+	prajna WORD[123,   1]: 0.0013418 般若
+TOKEN[124]: 0.0013142    1 grinning
+	grinning WORD[124,   1]: 0.0013142 般若
+TOKEN[125]: 0.0013123    2 firmness
+	firmness WORD[125,   1]: 0.0011986 磐石
+	firmness WORD[125,   2]: 0.0001137 盤石
+TOKEN[126]: 0.0012891    1 pier
+	pier WORD[126,   1]: 0.0012891 接舷
+TOKEN[127]: 0.0012758    1 kabuki
+	kabuki WORD[127,   1]: 0.0012758 常磐津
+TOKEN[128]: 0.0012557    1 generalization
+	generalization WORD[128,   1]: 0.0012557 般化
+TOKEN[129]: 0.0012543    2 general
+	general WORD[129,   1]: 0.0006791 全般
+	general WORD[129,   2]: 0.0005751 一般
+TOKEN[130]: 0.0012446    1 direction
+	direction WORD[130,   1]: 0.0012446 転舵
+TOKEN[131]: 0.0012343    2 length
+	length WORD[131,   1]: 0.0012140 艇身
+	length WORD[131,   2]: 0.0000203 船長
+TOKEN[132]: 0.0012285    1 terrifying
+	terrifying WORD[132,   1]: 0.0012285 般若
+TOKEN[133]: 0.0012054    1 wheel
+	wheel WORD[133,   1]: 0.0012054 舵輪
+TOKEN[134]: 0.0011921    1 launch
+	launch WORD[134,   1]: 0.0011921 汽艇
+TOKEN[135]: 0.0011898    1 steam
+	steam WORD[135,   1]: 0.0011898 汽艇
+TOKEN[136]: 0.0011559    1 dreadful
+	dreadful WORD[136,   1]: 0.0011559 般若
+TOKEN[137]: 0.0011420    2 huge
+	huge WORD[137,   1]: 0.0010430 磐石
+	huge WORD[137,   2]: 0.0000989 盤石
+TOKEN[138]: 0.0011311    1 horned
+	horned WORD[138,   1]: 0.0011311 般若
+TOKEN[139]: 0.0011224    2 stick
+	stick WORD[139,   1]: 0.0005833 下げ舵
+	stick WORD[139,   2]: 0.0005391 上げ舵
+TOKEN[140]: 0.0011058    1 attain
+	attain WORD[140,   1]: 0.0011058 般若
+TOKEN[141]: 0.0011054    1 linguistics
+	linguistics WORD[141,   1]: 0.0011054 般化
+TOKEN[142]: 0.0011013    1 designed
+	designed WORD[142,   1]: 0.0011013 般若
+TOKEN[143]: 0.0010927    1 driven
+	driven WORD[143,   1]: 0.0010927 般若
+TOKEN[144]: 0.0010847    2 mud
+	mud WORD[144,   1]: 0.0009858 泥舟
+	mud WORD[144,   2]: 0.0000989 土船
+TOKEN[145]: 0.0010772    1 long
+	long WORD[145,   1]: 0.0010772 龍舟
+TOKEN[146]: 0.0010743    1 style
+	style WORD[146,   1]: 0.0010743 常磐津
+TOKEN[147]: 0.0010636    1 tree
+	tree WORD[147,   1]: 0.0010636 常磐木
+TOKEN[148]: 0.0010599    1 psychology
+	psychology WORD[148,   1]: 0.0010599 般化
+TOKEN[149]: 0.0010537    1 change
+	change WORD[149,   1]: 0.0010537 転舵
+TOKEN[150]: 0.0010448    1 several
+	several WORD[150,   1]: 0.0010448 諸般
+TOKEN[151]: 0.0010357    6 going
+	going WORD[151,   1]: 0.0004701 遡航
+	going WORD[151,   2]: 0.0002837 舟下り
+	going WORD[151,   3]: 0.0001135 難航
+	going WORD[151,   4]: 0.0001003 就航
+	going WORD[151,   5]: 0.0000533 船下り
+	going WORD[151,   6]: 0.0000148 下船
+TOKEN[152]: 0.0010340    2 control
+	control WORD[152,   1]: 0.0005374 下げ舵
+	control WORD[152,   2]: 0.0004966 上げ舵
+TOKEN[153]: 0.0010269    5 record
+	record WORD[153,   1]: 0.0004444 名盤
+	record WORD[153,   2]: 0.0002226 盤面
+	record WORD[153,   3]: 0.0001294 音盤
+	record WORD[153,   4]: 0.0001200 廃盤
+	record WORD[153,   5]: 0.0001105 新盤
+TOKEN[154]: 0.0010201    1 mad
+	mad WORD[154,   1]: 0.0010201 般若
+TOKEN[155]: 0.0010150    1 crag
+	crag WORD[155,   1]: 0.0010150 磐
+TOKEN[156]: 0.0010144    4 arrival
+	arrival WORD[156,   1]: 0.0005594 着艦
+	arrival WORD[156,   2]: 0.0003727 来航
+	arrival WORD[156,   3]: 0.0000299 入船
+	arrival WORD[156,   4]: 0.0000224 着船
+TOKEN[157]: 0.0009911    1 sides
+	sides WORD[157,   1]: 0.0009911 両舷
+TOKEN[158]: 0.0009898    1 facial
+	facial WORD[158,   1]: 0.0009898 般若
+TOKEN[159]: 0.0009845    1 rage
+	rage WORD[159,   1]: 0.0009845 般若
+TOKEN[160]: 0.0009641    7 towboat
+	towboat WORD[160,   1]: 0.0002836 押し船
+	towboat WORD[160,   2]: 0.0002495 引き舟
+	towboat WORD[160,   3]: 0.0002495 引舟
+	towboat WORD[160,   4]: 0.0000468 引き船
+	towboat WORD[160,   5]: 0.0000468 引船
+	towboat WORD[160,   6]: 0.0000468 曳き船
+	towboat WORD[160,   7]: 0.0000410 曳船
+TOKEN[161]: 0.0009637    2 coming
+	coming WORD[161,   1]: 0.0009136 接舷
+	coming WORD[161,   2]: 0.0000251 入船
+TOKEN[162]: 0.0009625    1 crest
+	crest WORD[162,   1]: 0.0009625 般若
+TOKEN[163]: 0.0009533    4 Japan
+	Japan WORD[163,   1]: 0.0004738 競艇
+	Japan WORD[163,   2]: 0.0003661 盤渉
+	Japan WORD[163,   3]: 0.0001004 日航
+	Japan WORD[163,   4]: 0.0000130 黒船
+TOKEN[164]: 0.0009495    1 unidentified
+	unidentified WORD[164,   1]: 0.0004747 虚舟
+TOKEN[165]: 0.0009461    2 race
+	race WORD[165,   1]: 0.0006591 競艇
+	race WORD[165,   2]: 0.0002871 舟券
+TOKEN[166]: 0.0009399    1 boulder
+	boulder WORD[166,   1]: 0.0009399 磐
+TOKEN[167]: 0.0009160    3 departure
+	departure WORD[167,   1]: 0.0007593 発航
+	departure WORD[167,   2]: 0.0001359 出航
+	departure WORD[167,   3]: 0.0000208 出船
+TOKEN[168]: 0.0009143    1 wisdom
+	wisdom WORD[168,   1]: 0.0009143 般若
+TOKEN[169]: 0.0009011    4 sail
+	sail WORD[169,   1]: 0.0007015 航程
+	sail WORD[169,   2]: 0.0001491 出航
+	sail WORD[169,   3]: 0.0000278 船出
+	sail WORD[169,   4]: 0.0000228 出船
+TOKEN[170]: 0.0008990    2 pan
+	pan WORD[170,   1]: 0.0008618 盤層
+	pan WORD[170,   2]: 0.0000372 水船
+TOKEN[171]: 0.0008949    8 sailor
+	sailor WORD[171,   1]: 0.0002318 舟人
+	sailor WORD[171,   2]: 0.0002318 舟唄
+	sailor WORD[171,   3]: 0.0002318 舟歌
+	sailor WORD[171,   4]: 0.0000435 船人
+	sailor WORD[171,   5]: 0.0000435 船のり
+	sailor WORD[171,   6]: 0.0000435 船乗り
+	sailor WORD[171,   7]: 0.0000435 船歌
+	sailor WORD[171,   8]: 0.0000256 船員
+TOKEN[172]: 0.0008888    1 anchor
+	anchor WORD[172,   1]: 0.0008888 磐
+TOKEN[173]: 0.0008887    3 hull
+	hull WORD[173,   1]: 0.0007822 艦体
+	hull WORD[173,   2]: 0.0000807 船殻
+	hull WORD[173,   3]: 0.0000258 船体
+TOKEN[174]: 0.0008781    1 washed
+	washed WORD[174,   1]: 0.0004390 虚舟
+TOKEN[175]: 0.0008424    2 skiff
+	skiff WORD[175,   1]: 0.0005484 軽舟
+	skiff WORD[175,   2]: 0.0002940 扁舟
+TOKEN[176]: 0.0008202    1 expression
+	expression WORD[176,   1]: 0.0008202 般若
+TOKEN[177]: 0.0008185    3 aircraft
+	aircraft WORD[177,   1]: 0.0005303 着艦
+	aircraft WORD[177,   2]: 0.0001719 艦攻
+	aircraft WORD[177,   3]: 0.0001163 運航
+TOKEN[178]: 0.0008179    6 cruise
+	cruise WORD[178,   1]: 0.0001666 巡航
+	cruise WORD[178,   2]: 0.0001596 航行
+	cruise WORD[178,   3]: 0.0001596 航海
+	cruise WORD[178,   4]: 0.0001506 回航
+	cruise WORD[178,   5]: 0.0001506 廻航
+	cruise WORD[178,   6]: 0.0000308 船旅
+TOKEN[179]: 0.0008171    1 cliff
+	cliff WORD[179,   1]: 0.0008171 磐
+TOKEN[180]: 0.0008106    3 transporting
+	transporting WORD[180,   1]: 0.0006355 泥舟
+	transporting WORD[180,   2]: 0.0001275 土船
+	transporting WORD[180,   3]: 0.0000476 水船
+TOKEN[181]: 0.0008010    2 porthole
+	porthole WORD[181,   1]: 0.0007019 舷窓
+	porthole WORD[181,   2]: 0.0000991 船窓
+TOKEN[182]: 0.0007927    1 sport
+	sport WORD[182,   1]: 0.0007927 競艇
+TOKEN[183]: 0.0007910    2 push
+	push WORD[183,   1]: 0.0005992 下げ舵
+	push WORD[183,   2]: 0.0001917 押し船
+TOKEN[184]: 0.0007842    8 board
+	board WORD[184,   1]: 0.0004376 盤面
+	board WORD[184,   2]: 0.0000827 盤上
+	board WORD[184,   3]: 0.0000682 碁盤
+	board WORD[184,   4]: 0.0000659 基盤
+	board WORD[184,   5]: 0.0000624 大盤
+	board WORD[184,   6]: 0.0000310 船渡し
+	board WORD[184,   7]: 0.0000182 船中
+	board WORD[184,   8]: 0.0000182 船上
+TOKEN[185]: 0.0007709    4 fleet
+	fleet WORD[185,   1]: 0.0005432 航戦
+	fleet WORD[185,   2]: 0.0001463 艦隊
+	fleet WORD[185,   3]: 0.0000419 船隊
+	fleet WORD[185,   4]: 0.0000395 船団
+TOKEN[186]: 0.0007701    1 upstream
+	upstream WORD[186,   1]: 0.0007701 遡航
+TOKEN[187]: 0.0007614    1 universal
+	universal WORD[187,   1]: 0.0007614 一般
+TOKEN[188]: 0.0007612    5 service
+	service WORD[188,   1]: 0.0002944 内航
+	service WORD[188,   2]: 0.0002098 就航
+	service WORD[188,   3]: 0.0001111 直航
+	service WORD[188,   4]: 0.0000931 運航
+	service WORD[188,   5]: 0.0000529 船便
+TOKEN[189]: 0.0007599    1 eastern
+	eastern WORD[189,   1]: 0.0007599 磐城
+TOKEN[190]: 0.0007553    1 southern
+	southern WORD[190,   1]: 0.0007553 磐城
+TOKEN[191]: 0.0007293    4 Edo
+	Edo WORD[191,   1]: 0.0002854 虚舟
+	Edo WORD[191,   2]: 0.0001114 湯舟
+	Edo WORD[191,   3]: 0.0000261 茶船
+	Edo WORD[191,   4]: 0.0000209 湯船
+TOKEN[192]: 0.0007274    1 gambling
+	gambling WORD[192,   1]: 0.0007274 競艇
+TOKEN[193]: 0.0007253    3 song
+	song WORD[193,   1]: 0.0003315 舟唄
+	song WORD[193,   2]: 0.0003315 舟歌
+	song WORD[193,   3]: 0.0000622 船歌
+TOKEN[194]: 0.0007227    1 steerage
+	steerage WORD[194,   1]: 0.0007227 操舵
+TOKEN[195]: 0.0007167    1 face
+	face WORD[195,   1]: 0.0007167 般若
+TOKEN[196]: 0.0007112    1 central
+	central WORD[196,   1]: 0.0007112 磐城
+TOKEN[197]: 0.0007086    2 aviation
+	aviation WORD[197,   1]: 0.0005469 航戦
+	aviation WORD[197,   2]: 0.0001617 航空
+TOKEN[198]: 0.0006998    6 tugboat
+	tugboat WORD[198,   1]: 0.0002566 引き舟
+	tugboat WORD[198,   2]: 0.0002566 引舟
+	tugboat WORD[198,   3]: 0.0000482 引き船
+	tugboat WORD[198,   4]: 0.0000482 引船
+	tugboat WORD[198,   5]: 0.0000482 曳き船
+	tugboat WORD[198,   6]: 0.0000422 曳船
+TOKEN[199]: 0.0006998    6 towage
+	towage WORD[199,   1]: 0.0002566 引き舟
+	towage WORD[199,   2]: 0.0002566 引舟
+	towage WORD[199,   3]: 0.0000482 引き船
+	towage WORD[199,   4]: 0.0000482 引船
+	towage WORD[199,   5]: 0.0000482 曳き船
+	towage WORD[199,   6]: 0.0000422 曳船
+TOKEN[200]: 0.0006965    1 average
+	average WORD[200,   1]: 0.0006965 一般
+TOKEN[201]: 0.0006919    1 province
+	province WORD[201,   1]: 0.0006919 磐城
+TOKEN[202]: 0.0006838    1 broadside
+	broadside WORD[202,   1]: 0.0006838 舷側
+TOKEN[203]: 0.0006679    1 scaphoid
+	scaphoid WORD[203,   1]: 0.0006679 舟状
+TOKEN[204]: 0.0006673    1 said
+	said WORD[204,   1]: 0.0003336 虚舟
+TOKEN[205]: 0.0006625    1 flotilla
+	flotilla WORD[205,   1]: 0.0006625 航戦
+TOKEN[206]: 0.0006397    1 floe
+	floe WORD[206,   1]: 0.0006397 氷盤
+TOKEN[207]: 0.0006383    4 period
+	period WORD[207,   1]: 0.0002498 虚舟
+	period WORD[207,   2]: 0.0000975 湯舟
+	period WORD[207,   3]: 0.0000229 茶船
+	period WORD[207,   4]: 0.0000183 湯船
+TOKEN[208]: 0.0006367    1 chromatic
+	chromatic WORD[208,   1]: 0.0006367 盤渉
+TOKEN[209]: 0.0006332    3 earth
+	earth WORD[209,   1]: 0.0004722 盤古
+	earth WORD[209,   2]: 0.0000881 土船
+	earth WORD[209,   3]: 0.0000729 地盤
+TOKEN[210]: 0.0006306    1 event
+	event WORD[210,   1]: 0.0006306 競艇
+TOKEN[211]: 0.0006293    1 creator
+	creator WORD[211,   1]: 0.0006293 盤古
+TOKEN[212]: 0.0006290    1 family
+	family WORD[212,   1]: 0.0006290 般若
+TOKEN[213]: 0.0006284    1 B
+	B WORD[213,   1]: 0.0006284 盤渉
+TOKEN[214]: 0.0006276    1 ordinary
+	ordinary WORD[214,   1]: 0.0006276 一般
+TOKEN[215]: 0.0006154    1 former
+	former WORD[215,   1]: 0.0006154 磐城
+TOKEN[216]: 0.0006095    2 light
+	light WORD[216,   1]: 0.0003476 舷灯
+	light WORD[216,   2]: 0.0002619 軽舟
+TOKEN[217]: 0.0006078    1 reaching
+	reaching WORD[217,   1]: 0.0006078 着艦
+TOKEN[218]: 0.0006064    2 run
+	run WORD[218,   1]: 0.0005031 航程
+	run WORD[218,   2]: 0.0001033 航路
+TOKEN[219]: 0.0006042    6 tug
+	tug WORD[219,   1]: 0.0002215 引き舟
+	tug WORD[219,   2]: 0.0002215 引舟
+	tug WORD[219,   3]: 0.0000416 引き船
+	tug WORD[219,   4]: 0.0000416 引船
+	tug WORD[219,   5]: 0.0000416 曳き船
+	tug WORD[219,   6]: 0.0000364 曳船
+TOKEN[220]: 0.0006037    1 coastwise
+	coastwise WORD[220,   1]: 0.0006037 内航
+TOKEN[221]: 0.0005998    4 passage
+	passage WORD[221,   1]: 0.0002958 難航
+	passage WORD[221,   2]: 0.0001431 渡航
+	passage WORD[221,   3]: 0.0001262 航海
+	passage WORD[221,   4]: 0.0000348 船賃
+TOKEN[222]: 0.0005825    4 base
+	base WORD[222,   1]: 0.0002515 底盤
+	base WORD[222,   2]: 0.0001386 地盤
+	base WORD[222,   3]: 0.0001275 露盤
+	base WORD[222,   4]: 0.0000649 基盤
+TOKEN[223]: 0.0005753    3 Noah
+	Noah WORD[223,   1]: 0.0002630 方舟
+	Noah WORD[223,   2]: 0.0002630 箱舟
+	Noah WORD[223,   3]: 0.0000494 箱船
+TOKEN[224]: 0.0005744    3 building
+	building WORD[224,   1]: 0.0004818 建艦
+	building WORD[224,   2]: 0.0000654 地盤
+	building WORD[224,   3]: 0.0000273 船台
+TOKEN[225]: 0.0005732    1 day
+	day WORD[225,   1]: 0.0005732 先般
+TOKEN[226]: 0.0005701    5 route
+	route WORD[226,   1]: 0.0001782 舟路
+	route WORD[226,   2]: 0.0001256 就航
+	route WORD[226,   3]: 0.0001215 航路
+	route WORD[226,   4]: 0.0001114 運航
+	route WORD[226,   5]: 0.0000334 船路
+TOKEN[227]: 0.0005691    1 landing
+	landing WORD[227,   1]: 0.0005691 着艦
+TOKEN[228]: 0.0005662    1 current
+	current WORD[228,   1]: 0.0005662 遡航
+TOKEN[229]: 0.0005626    1 mythology
+	mythology WORD[229,   1]: 0.0005626 盤古
+TOKEN[230]: 0.0005542    3 shanty
+	shanty WORD[230,   1]: 0.0002533 舟唄
+	shanty WORD[230,   2]: 0.0002533 舟歌
+	shanty WORD[230,   3]: 0.0000475 船歌
+TOKEN[231]: 0.0005511    2 left
+	left WORD[231,   1]: 0.0003961 左舷
+	left WORD[231,   2]: 0.0001550 舟偏
+TOKEN[232]: 0.0005494    1 carrier
+	carrier WORD[232,   1]: 0.0005494 着艦
+TOKEN[233]: 0.0005429    1 pull
+	pull WORD[233,   1]: 0.0005429 上げ舵
+TOKEN[234]: 0.0005414    2 running
+	running WORD[234,   1]: 0.0004115 舷灯
+	running WORD[234,   2]: 0.0001299 難航
+TOKEN[235]: 0.0005402    2 downstream
+	downstream WORD[235,   1]: 0.0004548 舟下り
+	downstream WORD[235,   2]: 0.0000854 船下り
+TOKEN[236]: 0.0005364    1 French
+	French WORD[236,   1]: 0.0005364 仏艦
+TOKEN[237]: 0.0005362    1 construction
+	construction WORD[237,   1]: 0.0005362 建艦
+TOKEN[238]: 0.0005347    1 common
+	common WORD[238,   1]: 0.0005347 一般
+TOKEN[239]: 0.0005287    1 ladder
+	ladder WORD[239,   1]: 0.0005287 舷梯
+TOKEN[240]: 0.0005286    3 ark
+	ark WORD[240,   1]: 0.0002416 方舟
+	ark WORD[240,   2]: 0.0002416 箱舟
+	ark WORD[240,   3]: 0.0000454 箱船
+TOKEN[241]: 0.0005263    1 principal
+	principal WORD[241,   1]: 0.0005263 礼盤
+TOKEN[242]: 0.0005201    1 platform
+	platform WORD[242,   1]: 0.0005201 礼盤
+TOKEN[243]: 0.0005186    1 heaven
+	heaven WORD[243,   1]: 0.0005186 盤古
+TOKEN[244]: 0.0005147    2 slab
+	slab WORD[244,   1]: 0.0003584 底盤
+	slab WORD[244,   2]: 0.0001562 石盤
+TOKEN[245]: 0.0005108    1 scale
+	scale WORD[245,   1]: 0.0005108 盤渉
+TOKEN[246]: 0.0005034    1 note
+	note WORD[246,   1]: 0.0005034 盤渉
+TOKEN[247]: 0.0004953    1 papyrus
+	papyrus WORD[247,   1]: 0.0004953 葦舟
+TOKEN[248]: 0.0004904    1 monk
+	monk WORD[248,   1]: 0.0004904 礼盤
+TOKEN[249]: 0.0004835    1 famous
+	famous WORD[249,   1]: 0.0004835 名盤
+TOKEN[250]: 0.0004788    6 ferry
+	ferry WORD[250,   1]: 0.0002363 渡し舟
+	ferry WORD[250,   2]: 0.0000784 通船
+	ferry WORD[250,   3]: 0.0000443 渡し船
+	ferry WORD[250,   4]: 0.0000415 船渡し
+	ferry WORD[250,   5]: 0.0000393 船便
+	ferry WORD[250,   6]: 0.0000390 渡船
+TOKEN[251]: 0.0004720    1 batholith
+	batholith WORD[251,   1]: 0.0004720 底盤
+TOKEN[252]: 0.0004694    1 image
+	image WORD[252,   1]: 0.0004694 礼盤
+TOKEN[253]: 0.0004693    1 combat
+	combat WORD[253,   1]: 0.0004693 航戦
+TOKEN[254]: 0.0004623    1 leadership
+	leadership WORD[254,   1]: 0.0004623 舵取り
+TOKEN[255]: 0.0004593    1 oblong
+	oblong WORD[255,   1]: 0.0004593 台盤
+TOKEN[256]: 0.0004566    2 captain
+	captain WORD[256,   1]: 0.0004314 艦長
+	captain WORD[256,   2]: 0.0000252 船長
+TOKEN[257]: 0.0004552    1 ancient
+	ancient WORD[257,   1]: 0.0004552 盤渉
+TOKEN[258]: 0.0004513    1 scutellum
+	scutellum WORD[258,   1]: 0.0004513 胚盤
+TOKEN[259]: 0.0004513    1 blastodisk
+	blastodisk WORD[259,   1]: 0.0004513 胚盤
+TOKEN[260]: 0.0004506    7 fishing
+	fishing WORD[260,   1]: 0.0001813 漁舟
+	fishing WORD[260,   2]: 0.0001029 釣舟
+	fishing WORD[260,   3]: 0.0000829 船釣り
+	fishing WORD[260,   4]: 0.0000278 船団
+	fishing WORD[260,   5]: 0.0000193 釣り船
+	fishing WORD[260,   6]: 0.0000193 釣船
+	fishing WORD[260,   7]: 0.0000170 漁船
+TOKEN[261]: 0.0004459    3 dugout
+	dugout WORD[261,   1]: 0.0002038 刳り舟
+	dugout WORD[261,   2]: 0.0002038 刳舟
+	dugout WORD[261,   3]: 0.0000383 刳船
+TOKEN[262]: 0.0004453    2 holding
+	holding WORD[262,   1]: 0.0003590 続航
+	holding WORD[262,   2]: 0.0000863 盤踞
+TOKEN[263]: 0.0004440    1 discoidal
+	discoidal WORD[263,   1]: 0.0004440 盤割
+TOKEN[264]: 0.0004440    1 category
+	category WORD[264,   1]: 0.0004440 艦種
+TOKEN[265]: 0.0004340    1 guidance
+	guidance WORD[265,   1]: 0.0004340 舵取り
+TOKEN[266]: 0.0004314    1 crossing
+	crossing WORD[266,   1]: 0.0004314 航洋
+TOKEN[267]: 0.0004297    1 front
+	front WORD[267,   1]: 0.0004297 礼盤
+TOKEN[268]: 0.0004285    2 made
+	made WORD[268,   1]: 0.0003569 泥舟
+	made WORD[268,   2]: 0.0000716 土船
+TOKEN[269]: 0.0004261    1 temple
+	temple WORD[269,   1]: 0.0004261 礼盤
+TOKEN[270]: 0.0004225    2 homeward
+	homeward WORD[270,   1]: 0.0002384 復航
+	homeward WORD[270,   2]: 0.0001841 帰航
+TOKEN[271]: 0.0004172    1 aeroplane
+	aeroplane WORD[271,   1]: 0.0004172 発艦
+TOKEN[272]: 0.0004108    1 germinal
+	germinal WORD[272,   1]: 0.0004108 胚盤
+TOKEN[273]: 0.0004044    5 boatman
+	boatman WORD[273,   1]: 0.0002534 舟人
+	boatman WORD[273,   2]: 0.0000476 船人
+	boatman WORD[273,   3]: 0.0000475 船方
+	boatman WORD[273,   4]: 0.0000280 船頭
+	boatman WORD[273,   5]: 0.0000280 船長
+TOKEN[274]: 0.0004002    1 weighing
+	weighing WORD[274,   1]: 0.0004002 台盤
+TOKEN[275]: 0.0003972    2 bathtub
+	bathtub WORD[275,   1]: 0.0003344 湯舟
+	bathtub WORD[275,   2]: 0.0000628 湯船
+TOKEN[276]: 0.0003971    1 betting
+	betting WORD[276,   1]: 0.0003971 舟券
+TOKEN[277]: 0.0003954    2 space
+	space WORD[277,   1]: 0.0003775 航宙
+	space WORD[277,   2]: 0.0000179 船腹
+TOKEN[278]: 0.0003928    1 airplane
+	airplane WORD[278,   1]: 0.0003928 発艦
+TOKEN[279]: 0.0003850    1 unit
+	unit WORD[279,   1]: 0.0003850 航戦
+TOKEN[280]: 0.0003835    2 disk
+	disk WORD[280,   1]: 0.0003056 胚盤
+	disk WORD[280,   2]: 0.0000778 円盤
+TOKEN[281]: 0.0003825    1 leader
+	leader WORD[281,   1]: 0.0003825 舵取り
+TOKEN[282]: 0.0003819    2 recording
+	recording WORD[282,   1]: 0.0002580 名盤
+	recording WORD[282,   2]: 0.0001239 原盤
+TOKEN[283]: 0.0003776    3 tub
+	tub WORD[283,   1]: 0.0001665 盤台
+	tub WORD[283,   2]: 0.0001604 舟
+	tub WORD[283,   3]: 0.0000253 船
+TOKEN[284]: 0.0003695    3 bridge
+	bridge WORD[284,   1]: 0.0001729 艦橋
+	bridge WORD[284,   2]: 0.0001257 舟橋
+	bridge WORD[284,   3]: 0.0000708 船橋
+TOKEN[285]: 0.0003660    2 navicular
+	navicular WORD[285,   1]: 0.0003074 舟形
+	navicular WORD[285,   2]: 0.0000587 船形
+TOKEN[286]: 0.0003646    3 boathouse
+	boathouse WORD[286,   1]: 0.0002651 舟宿
+	boathouse WORD[286,   2]: 0.0000498 船宿
+	boathouse WORD[286,   3]: 0.0000497 船蔵
+TOKEN[287]: 0.0003617    1 cleavage
+	cleavage WORD[287,   1]: 0.0003617 盤割
+TOKEN[288]: 0.0003588    4 bottom
+	bottom WORD[288,   1]: 0.0001682 舟底
+	bottom WORD[288,   2]: 0.0000702 盤
+	bottom WORD[288,   3]: 0.0000316 船底
+	bottom WORD[288,   4]: 0.0000186 船腹
+TOKEN[289]: 0.0003511    1 Chinese
+	Chinese WORD[289,   1]: 0.0003511 盤古
+TOKEN[290]: 0.0003487    2 battleship
+	battleship WORD[290,   1]: 0.0001800 戦艦
+	battleship WORD[290,   2]: 0.0001687 軍艦
+TOKEN[291]: 0.0003471    2 battle
+	battle WORD[291,   1]: 0.0003155 本艦
+	battle WORD[291,   2]: 0.0000316 船軍
+TOKEN[292]: 0.0003425    1 sawing
+	sawing WORD[292,   1]: 0.0003425 鋸盤
+TOKEN[293]: 0.0003421    2 shogi
+	shogi WORD[293,   1]: 0.0002483 盤面
+	shogi WORD[293,   2]: 0.0000938 盤上
+TOKEN[294]: 0.0003410    3 soroban
+	soroban WORD[294,   1]: 0.0001137 十露盤
+	soroban WORD[294,   2]: 0.0001137 珠盤
+	soroban WORD[294,   3]: 0.0001137 算盤
+TOKEN[295]: 0.0003396    1 gunboat
+	gunboat WORD[295,   1]: 0.0003396 砲艦
+TOKEN[296]: 0.0003382    2 foreign
+	foreign WORD[296,   1]: 0.0003210 外航
+	foreign WORD[296,   2]: 0.0000172 黒船
+TOKEN[297]: 0.0003373    1 class
+	class WORD[297,   1]: 0.0003373 艦種
+TOKEN[298]: 0.0003347    2 age
+	age WORD[298,   1]: 0.0003077 艦齢
+	age WORD[298,   2]: 0.0000271 船齢
+TOKEN[299]: 0.0003327    2 consort
+	consort WORD[299,   1]: 0.0002861 僚艦
+	consort WORD[299,   2]: 0.0000466 僚船
+TOKEN[300]: 0.0003304    2 ferryboat
+	ferryboat WORD[300,   1]: 0.0002782 渡し舟
+	ferryboat WORD[300,   2]: 0.0000522 渡し船
+TOKEN[301]: 0.0003241    2 ice
+	ice WORD[301,   1]: 0.0002122 氷盤
+	ice WORD[301,   2]: 0.0001119 銀盤
+TOKEN[302]: 0.0003172    3 helping
+	helping WORD[302,   1]: 0.0001225 助け舟
+	helping WORD[302,   2]: 0.0000858 盤
+	helping WORD[302,   3]: 0.0000230 助け船
+TOKEN[303]: 0.0003157    3 reckoning
+	reckoning WORD[303,   1]: 0.0001052 十露盤
+	reckoning WORD[303,   2]: 0.0001052 珠盤
+	reckoning WORD[303,   3]: 0.0001052 算盤
+TOKEN[304]: 0.0003148    2 planking
+	planking WORD[304,   1]: 0.0002651 舟棚
+	planking WORD[304,   2]: 0.0000497 船棚
+TOKEN[305]: 0.0003142    3 game
+	game WORD[305,   1]: 0.0001893 盤面
+	game WORD[305,   2]: 0.0000639 中盤
+	game WORD[305,   3]: 0.0000609 序盤
+TOKEN[306]: 0.0003082    2 rowboat
+	rowboat WORD[306,   1]: 0.0002595 早舟
+	rowboat WORD[306,   2]: 0.0000487 早船
+TOKEN[307]: 0.0003077    2 radical
+	radical WORD[307,   1]: 0.0001677 舟偏
+	radical WORD[307,   2]: 0.0000700 盤
+TOKEN[308]: 0.0003058    1 suction
+	suction WORD[308,   1]: 0.0003058 吸盤
+TOKEN[309]: 0.0003056    2 name
+	name WORD[309,   1]: 0.0002629 艦名
+	name WORD[309,   2]: 0.0000428 船名
+TOKEN[310]: 0.0003031    4 one
+	one WORD[310,   1]: 0.0001588 続航
+	one WORD[310,   2]: 0.0000509 乗艦
+	one WORD[310,   3]: 0.0000474 帰艦
+	one WORD[310,   4]: 0.0000460 持ち船
+TOKEN[311]: 0.0003009    2 bilge
+	bilge WORD[311,   1]: 0.0002533 舟底
+	bilge WORD[311,   2]: 0.0000475 船底
+TOKEN[312]: 0.0002986    3 abacus
+	abacus WORD[312,   1]: 0.0000995 十露盤
+	abacus WORD[312,   2]: 0.0000995 珠盤
+	abacus WORD[312,   3]: 0.0000995 算盤
+TOKEN[313]: 0.0002940    4 passenger
+	passenger WORD[313,   1]: 0.0002015 舟人
+	passenger WORD[313,   2]: 0.0000378 船人
+	passenger WORD[313,   3]: 0.0000342 船客
+	passenger WORD[313,   4]: 0.0000205 客船
+TOKEN[314]: 0.0002922    2 platter
+	platter WORD[314,   1]: 0.0001007 盤
+	platter WORD[314,   2]: 0.0000908 円盤
+TOKEN[315]: 0.0002914    3 pontoon
+	pontoon WORD[315,   1]: 0.0001795 舟橋
+	pontoon WORD[315,   2]: 0.0000782 台船
+	pontoon WORD[315,   3]: 0.0000337 船橋
+TOKEN[316]: 0.0002893    3 go
+	go WORD[316,   1]: 0.0001702 盤面
+	go WORD[316,   2]: 0.0000643 盤上
+	go WORD[316,   3]: 0.0000548 序盤
+TOKEN[317]: 0.0002879    1 table
+	table WORD[317,   1]: 0.0002879 台盤
+TOKEN[318]: 0.0002878    2 disc
+	disc WORD[318,   1]: 0.0000992 盤
+	disc WORD[318,   2]: 0.0000895 円盤
+TOKEN[319]: 0.0002875    1 ticket
+	ticket WORD[319,   1]: 0.0002875 舟券
+TOKEN[320]: 0.0002842    1 seed
+	seed WORD[320,   1]: 0.0002842 胚盤
+TOKEN[321]: 0.0002839    1 return
+	return WORD[321,   1]: 0.0002839 復航
+TOKEN[322]: 0.0002836    1 pusher
+	pusher WORD[322,   1]: 0.0002836 押し船
+TOKEN[323]: 0.0002779    1 rough
+	rough WORD[323,   1]: 0.0002779 難航
+TOKEN[324]: 0.0002769    1 stand
+	stand WORD[324,   1]: 0.0002769 台盤
+TOKEN[325]: 0.0002745    1 stowing
+	stowing WORD[325,   1]: 0.0002745 密航
+TOKEN[326]: 0.0002705    3 calculation
+	calculation WORD[326,   1]: 0.0000902 十露盤
+	calculation WORD[326,   2]: 0.0000902 珠盤
+	calculation WORD[326,   3]: 0.0000902 算盤
+TOKEN[327]: 0.0002693    1 outbound
+	outbound WORD[327,   1]: 0.0002693 往航
+TOKEN[328]: 0.0002682    2 enemy
+	enemy WORD[328,   1]: 0.0001493 敵船
+	enemy WORD[328,   2]: 0.0001190 敵艦
+TOKEN[329]: 0.0002658    2 food
+	food WORD[329,   1]: 0.0002413 台盤
+	food WORD[329,   2]: 0.0000245 茶船
+TOKEN[330]: 0.0002642    2 bedrock
+	bedrock WORD[330,   1]: 0.0001603 岩盤
+	bedrock WORD[330,   2]: 0.0001040 基盤
+TOKEN[331]: 0.0002599    2 water
+	water WORD[331,   1]: 0.0001364 舟運
+	water WORD[331,   2]: 0.0001235 水船
+TOKEN[332]: 0.0002549    1 grass
+	grass WORD[332,   1]: 0.0002549 胚盤
+TOKEN[333]: 0.0002544    1 direct
+	direct WORD[333,   1]: 0.0002544 直航
+TOKEN[334]: 0.0002467    4 floating
+	floating WORD[334,   1]: 0.0000959 浮き舟
+	floating WORD[334,   2]: 0.0000959 浮舟
+	floating WORD[334,   3]: 0.0000298 工船
+	floating WORD[334,   4]: 0.0000251 船橋
+TOKEN[335]: 0.0002460    4 mother
+	mother WORD[335,   1]: 0.0001472 母艦
+	mother WORD[335,   2]: 0.0000347 本船
+	mother WORD[335,   3]: 0.0000344 母船
+	mother WORD[335,   4]: 0.0000296 親船
+TOKEN[336]: 0.0002452    3 trough
+	trough WORD[336,   1]: 0.0001542 舟
+	trough WORD[336,   2]: 0.0000423 水船
+	trough WORD[336,   3]: 0.0000243 船
+TOKEN[337]: 0.0002448    1 excellent
+	excellent WORD[337,   1]: 0.0002448 名盤
+TOKEN[338]: 0.0002445    1 flagship
+	flagship WORD[338,   1]: 0.0002445 旗艦
+TOKEN[339]: 0.0002438    2 bowl
+	bowl WORD[339,   1]: 0.0001247 銅盤
+	bowl WORD[339,   2]: 0.0001191 水盤
+TOKEN[340]: 0.0002398    2 seaplane
+	seaplane WORD[340,   1]: 0.0001822 舟
+	seaplane WORD[340,   2]: 0.0000288 船
+TOKEN[341]: 0.0002393    2 inn
+	inn WORD[341,   1]: 0.0002015 舟宿
+	inn WORD[341,   2]: 0.0000378 船宿
+TOKEN[342]: 0.0002374    1 musical
+	musical WORD[342,   1]: 0.0002374 名盤
+TOKEN[343]: 0.0002339    2 fast
+	fast WORD[343,   1]: 0.0001969 早舟
+	fast WORD[343,   2]: 0.0000370 早船
+TOKEN[344]: 0.0002332    2 vat
+	vat WORD[344,   1]: 0.0001772 舟
+	vat WORD[344,   2]: 0.0000280 船
+TOKEN[345]: 0.0002305    3 profit
+	profit WORD[345,   1]: 0.0000768 十露盤
+	profit WORD[345,   2]: 0.0000768 珠盤
+	profit WORD[345,   3]: 0.0000768 算盤
+TOKEN[346]: 0.0002295    3 moorage
+	moorage WORD[346,   1]: 0.0000765 船だまり
+	moorage WORD[346,   2]: 0.0000765 船溜まり
+	moorage WORD[346,   3]: 0.0000765 船溜り
+TOKEN[347]: 0.0002294    1 development
+	development WORD[347,   1]: 0.0002294 盤面
+TOKEN[348]: 0.0002252    1 machine
+	machine WORD[348,   1]: 0.0002252 鋸盤
+TOKEN[349]: 0.0002252    2 trip
+	trip WORD[349,   1]: 0.0001783 舟路
+	trip WORD[349,   2]: 0.0000468 船旅
+TOKEN[350]: 0.0002239    1 middle
+	middle WORD[350,   1]: 0.0002239 中盤
+TOKEN[351]: 0.0002229    3 tank
+	tank WORD[351,   1]: 0.0001401 舟
+	tank WORD[351,   2]: 0.0000385 水船
+	tank WORD[351,   3]: 0.0000221 船
+TOKEN[352]: 0.0002229    1 smuggling
+	smuggling WORD[352,   1]: 0.0002229 密航
+TOKEN[353]: 0.0002178    1 roadbed
+	roadbed WORD[353,   1]: 0.0002178 路盤
+TOKEN[354]: 0.0002124    3 loss
+	loss WORD[354,   1]: 0.0000708 十露盤
+	loss WORD[354,   2]: 0.0000708 珠盤
+	loss WORD[354,   3]: 0.0000708 算盤
+TOKEN[355]: 0.0002121    3 anchorage
+	anchorage WORD[355,   1]: 0.0000707 船だまり
+	anchorage WORD[355,   2]: 0.0000707 船溜まり
+	anchorage WORD[355,   3]: 0.0000707 船溜り
+TOKEN[356]: 0.0002079    2 agent
+	agent WORD[356,   1]: 0.0001750 舟宿
+	agent WORD[356,   2]: 0.0000329 船宿
+TOKEN[357]: 0.0002029    1 circumnavigation
+	circumnavigation WORD[357,   1]: 0.0002029 周航
+TOKEN[358]: 0.0001986    2 rented
+	rented WORD[358,   1]: 0.0001672 湯舟
+	rented WORD[358,   2]: 0.0000314 湯船
+TOKEN[359]: 0.0001957    3 type
+	type WORD[359,   1]: 0.0001438 早舟
+	type WORD[359,   2]: 0.0000270 早船
+	type WORD[359,   3]: 0.0000249 船型
+TOKEN[360]: 0.0001951    1 state
+	state WORD[360,   1]: 0.0001951 盤面
+TOKEN[361]: 0.0001925    1 solitary
+	solitary WORD[361,   1]: 0.0001925 孤舟
+TOKEN[362]: 0.0001916    2 toy
+	toy WORD[362,   1]: 0.0001667 笹舟
+	toy WORD[362,   2]: 0.0000249 風船
+TOKEN[363]: 0.0001907    1 finial
+	finial WORD[363,   1]: 0.0001907 露盤
+TOKEN[364]: 0.0001900    2 wooden
+	wooden WORD[364,   1]: 0.0001600 舟棚
+	wooden WORD[364,   2]: 0.0000300 船棚
+TOKEN[365]: 0.0001896    1 stormy
+	stormy WORD[365,   1]: 0.0001896 難航
+TOKEN[366]: 0.0001869    2 flying
+	flying WORD[366,   1]: 0.0001203 航空
+	flying WORD[366,   2]: 0.0000666 円盤
+TOKEN[367]: 0.0001840    2 footing
+	footing WORD[367,   1]: 0.0000950 地盤
+	footing WORD[367,   2]: 0.0000890 基盤
+TOKEN[368]: 0.0001839    3 vase
+	vase WORD[368,   1]: 0.0001337 釣舟
+	vase WORD[368,   2]: 0.0000251 釣り船
+	vase WORD[368,   3]: 0.0000251 釣船
+TOKEN[369]: 0.0001838    1 proceeding
+	proceeding WORD[369,   1]: 0.0001838 難航
+TOKEN[370]: 0.0001822    1 festival
+	festival WORD[370,   1]: 0.0001822 船祭
+TOKEN[371]: 0.0001806    1 houseboat
+	houseboat WORD[371,   1]: 0.0001806 屋形船
+TOKEN[372]: 0.0001799    2 military
+	military WORD[372,   1]: 0.0001515 早舟
+	military WORD[372,   2]: 0.0000284 早船
+TOKEN[373]: 0.0001784    1 armada
+	armada WORD[373,   1]: 0.0001784 艦隊
+TOKEN[374]: 0.0001768    1 rink
+	rink WORD[374,   1]: 0.0001768 銀盤
+TOKEN[375]: 0.0001753    2 lifeboat
+	lifeboat WORD[375,   1]: 0.0001476 助け舟
+	lifeboat WORD[375,   2]: 0.0000277 助け船
+TOKEN[376]: 0.0001704    1 pagoda
+	pagoda WORD[376,   1]: 0.0001704 露盤
+TOKEN[377]: 0.0001698    1 lathe
+	lathe WORD[377,   1]: 0.0001698 旋盤
+TOKEN[378]: 0.0001694    1 placenta
+	placenta WORD[378,   1]: 0.0001694 胎盤
+TOKEN[379]: 0.0001690    2 phase
+	phase WORD[379,   1]: 0.0000865 中盤
+	phase WORD[379,   2]: 0.0000825 序盤
+TOKEN[380]: 0.0001684    1 journey
+	journey WORD[380,   1]: 0.0001684 復航
+TOKEN[381]: 0.0001681    3 setting
+	setting WORD[381,   1]: 0.0001255 出航
+	setting WORD[381,   2]: 0.0000234 船出
+	setting WORD[381,   3]: 0.0000192 出船
+TOKEN[382]: 0.0001627    1 oval
+	oval WORD[382,   1]: 0.0001627 盤台
+TOKEN[383]: 0.0001606    2 entering
+	entering WORD[383,   1]: 0.0001320 就航
+	entering WORD[383,   2]: 0.0000286 入り船
+TOKEN[384]: 0.0001602    1 bonsai
+	bonsai WORD[384,   1]: 0.0001602 水盤
+TOKEN[385]: 0.0001591    1 typewriter
+	typewriter WORD[385,   1]: 0.0001591 鍵盤
+TOKEN[386]: 0.0001590    3 new
+	new WORD[386,   1]: 0.0000956 新盤
+	new WORD[386,   2]: 0.0000443 新船
+	new WORD[386,   3]: 0.0000191 船出
+TOKEN[387]: 0.0001589    1 little
+	little WORD[387,   1]: 0.0001589 扁舟
+TOKEN[388]: 0.0001588    2 foundation
+	foundation WORD[388,   1]: 0.0000820 地盤
+	foundation WORD[388,   2]: 0.0000768 基盤
+TOKEN[389]: 0.0001575    1 submarine
+	submarine WORD[389,   1]: 0.0001575 潜航
+TOKEN[390]: 0.0001562    1 skating
+	skating WORD[390,   1]: 0.0001562 銀盤
+TOKEN[391]: 0.0001555    1 underwater
+	underwater WORD[391,   1]: 0.0001555 潜航
+TOKEN[392]: 0.0001554    1 slate
+	slate WORD[392,   1]: 0.0001554 石盤
+TOKEN[393]: 0.0001553    2 stopping
+	stopping WORD[393,   1]: 0.0001321 寄航
+	stopping WORD[393,   2]: 0.0000232 停船
+TOKEN[394]: 0.0001507    1 attack
+	attack WORD[394,   1]: 0.0001507 艦攻
+TOKEN[395]: 0.0001507    1 serving
+	serving WORD[395,   1]: 0.0000754 盤
+TOKEN[396]: 0.0001496    1 difficulty
+	difficulty WORD[396,   1]: 0.0001496 難航
+TOKEN[397]: 0.0001480    3 hanging
+	hanging WORD[397,   1]: 0.0001076 釣舟
+	hanging WORD[397,   2]: 0.0000202 釣り船
+	hanging WORD[397,   3]: 0.0000202 釣船
+TOKEN[398]: 0.0001472    1 keyboard
+	keyboard WORD[398,   1]: 0.0001472 鍵盤
+TOKEN[399]: 0.0001458    1 glasses
+	glasses WORD[399,   1]: 0.0001458 杯盤
+TOKEN[400]: 0.0001449    1 sucker
+	sucker WORD[400,   1]: 0.0001449 吸盤
+TOKEN[401]: 0.0001440    1 tray
+	tray WORD[401,   1]: 0.0001440 盤台
+TOKEN[402]: 0.0001433    1 bronze
+	bronze WORD[402,   1]: 0.0001433 銅盤
+TOKEN[403]: 0.0001429    1 piano
+	piano WORD[403,   1]: 0.0001429 鍵盤
+TOKEN[404]: 0.0001419    1 cancellation
+	cancellation WORD[404,   1]: 0.0001419 欠航
+TOKEN[405]: 0.0001417    1 commission
+	commission WORD[405,   1]: 0.0001417 就航
+TOKEN[406]: 0.0001403    2 stage
+	stage WORD[406,   1]: 0.0000721 中盤
+	stage WORD[406,   2]: 0.0000681 終盤
+TOKEN[407]: 0.0001401    1 wake
+	wake WORD[407,   1]: 0.0001401 航跡
+TOKEN[408]: 0.0001399    1 tour
+	tour WORD[408,   1]: 0.0001399 周航
+TOKEN[409]: 0.0001379    2 need
+	need WORD[409,   1]: 0.0001161 助け舟
+	need WORD[409,   2]: 0.0000218 助け船
+TOKEN[410]: 0.0001375    1 difficult
+	difficult WORD[410,   1]: 0.0001375 難航
+TOKEN[411]: 0.0001368    3 flower
+	flower WORD[411,   1]: 0.0000994 釣舟
+	flower WORD[411,   2]: 0.0000187 釣り船
+	flower WORD[411,   3]: 0.0000187 釣船
+TOKEN[412]: 0.0001351    1 joining
+	joining WORD[412,   1]: 0.0001351 乗艦
+TOKEN[413]: 0.0001341    1 dish
+	dish WORD[413,   1]: 0.0000670 盤
+TOKEN[414]: 0.0001339    1 smack
+	smack WORD[414,   1]: 0.0001339 漁舟
+TOKEN[415]: 0.0001327    1 coiled
+	coiled WORD[415,   1]: 0.0001327 盤踞
+TOKEN[416]: 0.0001323    1 trouble
+	trouble WORD[416,   1]: 0.0001323 難航
+TOKEN[417]: 0.0001313    1 shallow
+	shallow WORD[417,   1]: 0.0001313 水盤
+TOKEN[418]: 0.0001309    2 river
+	river WORD[418,   1]: 0.0000712 地盤
+	river WORD[418,   2]: 0.0000597 茶船
+TOKEN[419]: 0.0001285    1 pad
+	pad WORD[419,   1]: 0.0001285 吸盤
+TOKEN[420]: 0.0001279    1 circle
+	circle WORD[420,   1]: 0.0001279 周航
+TOKEN[421]: 0.0001276    2 friend
+	friend WORD[421,   1]: 0.0001074 助け舟
+	friend WORD[421,   2]: 0.0000202 助け船
+TOKEN[422]: 0.0001270    1 suspension
+	suspension WORD[422,   1]: 0.0001270 休航
+TOKEN[423]: 0.0001217    1 hard
+	hard WORD[423,   1]: 0.0001217 難航
+TOKEN[424]: 0.0001198    1 fellow
+	fellow WORD[424,   1]: 0.0001198 同舟
+TOKEN[425]: 0.0001192    3 seaman
+	seaman WORD[425,   1]: 0.0000461 船のり
+	seaman WORD[425,   2]: 0.0000461 船乗り
+	seaman WORD[425,   3]: 0.0000271 船員
+TOKEN[426]: 0.0001183    1 people
+	people WORD[426,   1]: 0.0001183 密航
+TOKEN[427]: 0.0001164    2 help
+	help WORD[427,   1]: 0.0000980 助け舟
+	help WORD[427,   2]: 0.0000184 助け船
+TOKEN[428]: 0.0001161    1 sway
+	sway WORD[428,   1]: 0.0001161 盤踞
+TOKEN[429]: 0.0001157    1 silver
+	silver WORD[429,   1]: 0.0001157 銀盤
+TOKEN[430]: 0.0001144    1 cup
+	cup WORD[430,   1]: 0.0001144 吸盤
+TOKEN[431]: 0.0001112    1 settling
+	settling WORD[431,   1]: 0.0001112 盤踞
+TOKEN[432]: 0.0001112    1 dominant
+	dominant WORD[432,   1]: 0.0001112 盤踞
+TOKEN[433]: 0.0001111    1 pelvis
+	pelvis WORD[433,   1]: 0.0001111 骨盤
+TOKEN[434]: 0.0001110    1 original
+	original WORD[434,   1]: 0.0001110 原盤
+TOKEN[435]: 0.0001095    3 guardian
+	guardian WORD[435,   1]: 0.0000365 船玉
+	guardian WORD[435,   2]: 0.0000365 船霊
+	guardian WORD[435,   3]: 0.0000365 船魂
+TOKEN[436]: 0.0001081    2 mariner
+	mariner WORD[436,   1]: 0.0000540 船のり
+	mariner WORD[436,   2]: 0.0000540 船乗り
+TOKEN[437]: 0.0001076    1 operation
+	operation WORD[437,   1]: 0.0001076 運航
+TOKEN[438]: 0.0001065    1 portable
+	portable WORD[438,   1]: 0.0001065 船祭
+TOKEN[439]: 0.0001059    1 stone
+	stone WORD[439,   1]: 0.0001059 石盤
+TOKEN[440]: 0.0001047    3 steamer
+	steamer WORD[440,   1]: 0.0000419 便船
+	steamer WORD[440,   2]: 0.0000400 船便
+	steamer WORD[440,   3]: 0.0000228 汽船
+TOKEN[441]: 0.0001037    1 assignment
+	assignment WORD[441,   1]: 0.0001037 配船
+TOKEN[442]: 0.0001036    1 foothold
+	foothold WORD[442,   1]: 0.0001036 地盤
+TOKEN[443]: 0.0001027    3 cargo
+	cargo WORD[443,   1]: 0.0000370 船荷
+	cargo WORD[443,   2]: 0.0000329 回船
+	cargo WORD[443,   3]: 0.0000329 廻船
+TOKEN[444]: 0.0001012    1 gravel
+	gravel WORD[444,   1]: 0.0001012 地盤
+TOKEN[445]: 0.0000996    2 hand
+	hand WORD[445,   1]: 0.0000839 助け舟
+	hand WORD[445,   2]: 0.0000157 助け船
+TOKEN[446]: 0.0000992    1 carried
+	carried WORD[446,   1]: 0.0000992 船祭
+TOKEN[447]: 0.0000987    1 constituency
+	constituency WORD[447,   1]: 0.0000987 地盤
+TOKEN[448]: 0.0000984    1 war
+	war WORD[448,   1]: 0.0000984 帰艦
+TOKEN[449]: 0.0000983    1 soccer
+	soccer WORD[449,   1]: 0.0000983 中盤
+TOKEN[450]: 0.0000981    1 discus
+	discus WORD[450,   1]: 0.0000981 円盤
+TOKEN[451]: 0.0000979    1 substrate
+	substrate WORD[451,   1]: 0.0000979 基盤
+TOKEN[452]: 0.0000977    1 fish
+	fish WORD[452,   1]: 0.0000977 盤台
+TOKEN[453]: 0.0000976    1 gramophone
+	gramophone WORD[453,   1]: 0.0000976 音盤
+TOKEN[454]: 0.0000974    1 chess
+	chess WORD[454,   1]: 0.0000974 序盤
+TOKEN[455]: 0.0000966    1 established
+	established WORD[455,   1]: 0.0000966 盤踞
+TOKEN[456]: 0.0000954    1 phonograph
+	phonograph WORD[456,   1]: 0.0000954 音盤
+TOKEN[457]: 0.0000943    1 saucer
+	saucer WORD[457,   1]: 0.0000943 円盤
+TOKEN[458]: 0.0000942    2 mail
+	mail WORD[458,   1]: 0.0000666 船便
+	mail WORD[458,   2]: 0.0000277 郵船
+TOKEN[459]: 0.0000942    1 crust
+	crust WORD[459,   1]: 0.0000942 地盤
+TOKEN[460]: 0.0000942    1 infrastructure
+	infrastructure WORD[460,   1]: 0.0000942 基盤
+TOKEN[461]: 0.0000932    1 electoral
+	electoral WORD[461,   1]: 0.0000932 地盤
+TOKEN[462]: 0.0000930    1 scrapped
+	scrapped WORD[462,   1]: 0.0000930 廃船
+TOKEN[463]: 0.0000930    1 hulk
+	hulk WORD[463,   1]: 0.0000930 廃船
+TOKEN[464]: 0.0000916    1 outset
+	outset WORD[464,   1]: 0.0000916 序盤
+TOKEN[465]: 0.0000886    1 ironclad
+	ironclad WORD[465,   1]: 0.0000886 鉄船
+TOKEN[466]: 0.0000886    2 draught
+	draught WORD[466,   1]: 0.0000443 船脚
+	draught WORD[466,   2]: 0.0000443 船足
+TOKEN[467]: 0.0000881    1 authority
+	authority WORD[467,   1]: 0.0000881 盤踞
+TOKEN[468]: 0.0000871    1 spaceship
+	spaceship WORD[468,   1]: 0.0000871 船外
+TOKEN[469]: 0.0000871    1 outboard
+	outboard WORD[469,   1]: 0.0000871 船外
+TOKEN[470]: 0.0000868    1 becoming
+	becoming WORD[470,   1]: 0.0000868 盤踞
+TOKEN[471]: 0.0000825    1 demonstration
+	demonstration WORD[471,   1]: 0.0000825 大盤
+TOKEN[472]: 0.0000821    1 silhouette
+	silhouette WORD[472,   1]: 0.0000821 船影
+TOKEN[473]: 0.0000813    2 shipwreck
+	shipwreck WORD[473,   1]: 0.0000495 破船
+	shipwreck WORD[473,   2]: 0.0000318 難船
+TOKEN[474]: 0.0000810    1 initial
+	initial WORD[474,   1]: 0.0000810 序盤
+TOKEN[475]: 0.0000807    1 shape
+	shape WORD[475,   1]: 0.0000807 盤踞
+TOKEN[476]: 0.0000804    1 strong
+	strong WORD[476,   1]: 0.0000804 盤踞
+TOKEN[477]: 0.0000767    2 shipbuilding
+	shipbuilding WORD[477,   1]: 0.0000482 船板
+	shipbuilding WORD[477,   2]: 0.0000285 造船
+TOKEN[478]: 0.0000767    1 basis
+	basis WORD[478,   1]: 0.0000767 基盤
+TOKEN[479]: 0.0000751    1 bed
+	bed WORD[479,   1]: 0.0000751 地盤
+TOKEN[480]: 0.0000747    2 chartered
+	chartered WORD[480,   1]: 0.0000374 傭船
+	chartered WORD[480,   2]: 0.0000374 用船
+TOKEN[481]: 0.0000741    1 final
+	final WORD[481,   1]: 0.0000741 終盤
+TOKEN[482]: 0.0000737    1 circuit
+	circuit WORD[482,   1]: 0.0000737 基盤
+TOKEN[483]: 0.0000731    2 wharf
+	wharf WORD[483,   1]: 0.0000430 船虫
+	wharf WORD[483,   2]: 0.0000301 船場
+TOKEN[484]: 0.0000723    1 early
+	early WORD[484,   1]: 0.0000723 序盤
+TOKEN[485]: 0.0000718    1 media
+	media WORD[485,   1]: 0.0000718 円盤
+TOKEN[486]: 0.0000716    1 opening
+	opening WORD[486,   1]: 0.0000716 序盤
+TOKEN[487]: 0.0000715    2 draft
+	draft WORD[487,   1]: 0.0000357 船脚
+	draft WORD[487,   2]: 0.0000357 船足
+TOKEN[488]: 0.0000712    1 fog
+	fog WORD[488,   1]: 0.0000712 船影
+TOKEN[489]: 0.0000701    1 support
+	support WORD[489,   1]: 0.0000701 地盤
+TOKEN[490]: 0.0000694    1 treasure
+	treasure WORD[490,   1]: 0.0000694 宝船
+TOKEN[491]: 0.0000682    1 outline
+	outline WORD[491,   1]: 0.0000682 船影
+TOKEN[492]: 0.0000680    2 dock
+	dock WORD[492,   1]: 0.0000383 船渠
+	dock WORD[492,   2]: 0.0000297 船場
+TOKEN[493]: 0.0000655    1 ground
+	ground WORD[493,   1]: 0.0000655 地盤
+TOKEN[494]: 0.0000654    2 speed
+	speed WORD[494,   1]: 0.0000327 船脚
+	speed WORD[494,   2]: 0.0000327 船足
+TOKEN[495]: 0.0000625    1 power
+	power WORD[495,   1]: 0.0000625 地盤
+TOKEN[496]: 0.0000621    2 freight
+	freight WORD[496,   1]: 0.0000391 船荷
+	freight WORD[496,   2]: 0.0000230 船腹
+TOKEN[497]: 0.0000592    1 balloon
+	balloon WORD[497,   1]: 0.0000592 風船
+TOKEN[498]: 0.0000573    1 sign
+	sign WORD[498,   1]: 0.0000573 船影
+TOKEN[499]: 0.0000573    1 isopod
+	isopod WORD[499,   1]: 0.0000573 船虫
+TOKEN[500]: 0.0000561    1 steel
+	steel WORD[500,   1]: 0.0000561 鉄船
+TOKEN[501]: 0.0000553    1 waterlogged
+	waterlogged WORD[501,   1]: 0.0000553 水船
+TOKEN[502]: 0.0000544    2 embarkation
+	embarkation WORD[502,   1]: 0.0000272 上船
+	embarkation WORD[502,   2]: 0.0000272 乗船
+TOKEN[503]: 0.0000540    1 roach
+	roach WORD[503,   1]: 0.0000540 船虫
+TOKEN[504]: 0.0000521    1 slater
+	slater WORD[504,   1]: 0.0000521 船虫
+TOKEN[505]: 0.0000518    1 shipowner
+	shipowner WORD[505,   1]: 0.0000518 船主
+TOKEN[506]: 0.0000518    1 stateroom
+	stateroom WORD[506,   1]: 0.0000518 船室
+TOKEN[507]: 0.0000510    1 night
+	night WORD[507,   1]: 0.0000510 夜船
+TOKEN[508]: 0.0000508    1 lading
+	lading WORD[508,   1]: 0.0000508 船積み
+TOKEN[509]: 0.0000501    1 cistern
+	cistern WORD[509,   1]: 0.0000501 水船
+TOKEN[510]: 0.0000484    1 anchored
+	anchored WORD[510,   1]: 0.0000484 茶船
+TOKEN[511]: 0.0000469    1 freighter
+	freighter WORD[511,   1]: 0.0000469 荷船
+TOKEN[512]: 0.0000463    1 slipway
+	slipway WORD[512,   1]: 0.0000463 船台
+TOKEN[513]: 0.0000457    1 shipment
+	shipment WORD[513,   1]: 0.0000457 船積み
+TOKEN[514]: 0.0000455    2 boarding
+	boarding WORD[514,   1]: 0.0000227 上船
+	boarding WORD[514,   2]: 0.0000227 乗船
+TOKEN[515]: 0.0000453    1 embargo
+	embargo WORD[515,   1]: 0.0000453 船留め
+TOKEN[516]: 0.0000450    1 cannery
+	cannery WORD[516,   1]: 0.0000450 工船
+TOKEN[517]: 0.0000445    1 depot
+	depot WORD[517,   1]: 0.0000445 母船
+TOKEN[518]: 0.0000436    1 convoy
+	convoy WORD[518,   1]: 0.0000436 船団
+TOKEN[519]: 0.0000436    1 berth
+	berth WORD[519,   1]: 0.0000436 船台
+TOKEN[520]: 0.0000434    1 coffin
+	coffin WORD[520,   1]: 0.0000434 水船
+TOKEN[521]: 0.0000422    1 plank
+	plank WORD[521,   1]: 0.0000422 船板
+TOKEN[522]: 0.0000421    1 cabin
+	cabin WORD[522,   1]: 0.0000421 船室
+TOKEN[523]: 0.0000419    1 depart
+	depart WORD[523,   1]: 0.0000419 船待ち
+TOKEN[524]: 0.0000417    1 mast
+	mast WORD[524,   1]: 0.0000417 船檣
+TOKEN[525]: 0.0000408    1 navy
+	navy WORD[525,   1]: 0.0000408 船軍
+TOKEN[526]: 0.0000393    1 fare
+	fare WORD[526,   1]: 0.0000393 船賃
+TOKEN[527]: 0.0000381    1 timber
+	timber WORD[527,   1]: 0.0000381 船板
+TOKEN[528]: 0.0000378    1 seasickness
+	seasickness WORD[528,   1]: 0.0000378 船酔い
+TOKEN[529]: 0.0000378    1 stocks
+	stocks WORD[529,   1]: 0.0000378 船台
+TOKEN[530]: 0.0000360    1 available
+	available WORD[530,   1]: 0.0000360 便船
+TOKEN[531]: 0.0000358    1 track
+	track WORD[531,   1]: 0.0000358 水船
+TOKEN[532]: 0.0000355    1 arrest
+	arrest WORD[532,   1]: 0.0000355 船留め
+TOKEN[533]: 0.0000353    1 beam
+	beam WORD[533,   1]: 0.0000353 船幅
+TOKEN[534]: 0.0000347    1 related
+	related WORD[534,   1]: 0.0000347 船虫
+TOKEN[535]: 0.0000346    1 incoming
+	incoming WORD[535,   1]: 0.0000346 入り船
+TOKEN[536]: 0.0000344    1 waiting
+	waiting WORD[536,   1]: 0.0000344 船待ち
+TOKEN[537]: 0.0000337    1 inboard
+	inboard WORD[537,   1]: 0.0000337 船内
+TOKEN[538]: 0.0000337    1 seafarer
+	seafarer WORD[538,   1]: 0.0000337 船員
+TOKEN[539]: 0.0000335    1 classification
+	classification WORD[539,   1]: 0.0000335 船級
+TOKEN[540]: 0.0000329    1 drinking
+	drinking WORD[540,   1]: 0.0000329 水船
+TOKEN[541]: 0.0000329    1 passing
+	passing WORD[541,   1]: 0.0000329 船留め
+TOKEN[542]: 0.0000329    1 quay
+	quay WORD[542,   1]: 0.0000329 船場
+TOKEN[543]: 0.0000326    1 market
+	market WORD[543,   1]: 0.0000326 黒船
+TOKEN[544]: 0.0000321    1 factory
+	factory WORD[544,   1]: 0.0000321 工船
+TOKEN[545]: 0.0000319    1 bearing
+	bearing WORD[545,   1]: 0.0000319 宝船
+TOKEN[546]: 0.0000314    1 doctor
+	doctor WORD[546,   1]: 0.0000314 船医
+TOKEN[547]: 0.0000311    1 selling
+	selling WORD[547,   1]: 0.0000311 茶船
+TOKEN[548]: 0.0000307    1 piloting
+	piloting WORD[548,   1]: 0.0000307 操船
+TOKEN[549]: 0.0000306    1 design
+	design WORD[549,   1]: 0.0000306 船型
+TOKEN[550]: 0.0000302    1 roof
+	roof WORD[550,   1]: 0.0000302 茶船
+TOKEN[551]: 0.0000300    1 free
+	free WORD[551,   1]: 0.0000300 船渡し
+TOKEN[552]: 0.0000299    1 ferryman
+	ferryman WORD[552,   1]: 0.0000299 船頭
+TOKEN[553]: 0.0000298    1 Perry
+	Perry WORD[553,   1]: 0.0000298 黒船
+TOKEN[554]: 0.0000297    1 anew
+	anew WORD[554,   1]: 0.0000297 船出
+TOKEN[555]: 0.0000290    1 picture
+	picture WORD[555,   1]: 0.0000290 宝船
+TOKEN[556]: 0.0000277    1 quarantine
+	quarantine WORD[556,   1]: 0.0000277 停船
+TOKEN[557]: 0.0000277    1 outgoing
+	outgoing WORD[557,   1]: 0.0000277 出船
+TOKEN[558]: 0.0000275    1 ashore
+	ashore WORD[558,   1]: 0.0000275 下船
+TOKEN[559]: 0.0000274    1 disruptor
+	disruptor WORD[559,   1]: 0.0000274 黒船
+TOKEN[560]: 0.0000273    1 goods
+	goods WORD[560,   1]: 0.0000273 茶船
+TOKEN[561]: 0.0000269    1 tonnage
+	tonnage WORD[561,   1]: 0.0000269 船腹
+TOKEN[562]: 0.0000269    1 steamship
+	steamship WORD[562,   1]: 0.0000269 汽船
+TOKEN[563]: 0.0000264    1 steamboat
+	steamboat WORD[563,   1]: 0.0000264 汽船
+TOKEN[564]: 0.0000262    1 disturbing
+	disturbing WORD[564,   1]: 0.0000262 黒船
+TOKEN[565]: 0.0000261    1 nationality
+	nationality WORD[565,   1]: 0.0000261 船籍
+TOKEN[566]: 0.0000260    1 disembarkation
+	disembarkation WORD[566,   1]: 0.0000260 下船
+TOKEN[567]: 0.0000260    1 decoration
+	decoration WORD[567,   1]: 0.0000260 風船
+TOKEN[568]: 0.0000249    1 detention
+	detention WORD[568,   1]: 0.0000249 停船
+TOKEN[569]: 0.0000248    1 species
+	species WORD[569,   1]: 0.0000248 船虫
+TOKEN[570]: 0.0000246    1 group
+	group WORD[570,   1]: 0.0000246 船団
+TOKEN[571]: 0.0000244    1 wind
+	wind WORD[571,   1]: 0.0000244 軍船
+TOKEN[572]: 0.0000240    2 someone
+	someone WORD[572,   1]: 0.0000120 上船
+	someone WORD[572,   2]: 0.0000120 乗船
+TOKEN[573]: 0.0000234    1 came
+	came WORD[573,   1]: 0.0000234 黒船
+TOKEN[574]: 0.0000233    1 gas
+	gas WORD[574,   1]: 0.0000233 風船
+TOKEN[575]: 0.0000231    1 starting
+	starting WORD[575,   1]: 0.0000231 船出
+TOKEN[576]: 0.0000218    1 merchant
+	merchant WORD[576,   1]: 0.0000218 商船
+TOKEN[577]: 0.0000216    1 stem
+	stem WORD[577,   1]: 0.0000216 船首
+TOKEN[578]: 0.0000216    1 registration
+	registration WORD[578,   1]: 0.0000216 船籍
+TOKEN[579]: 0.0000172    1 product
+	product WORD[579,   1]: 0.0000172 黒船
+TOKEN[580]: 0.0000172    1 country
+	country WORD[580,   1]: 0.0000172 船籍
+TOKEN[581]: 0.0000170    1 getting
+	getting WORD[581,   1]: 0.0000170 下船
+TOKEN[582]: 0.0000160    1 black
+	black WORD[582,   1]: 0.0000160 黒船
+TOKEN[583]: 0.0000148    1 something
+	something WORD[583,   1]: 0.0000148 船出
+TOKEN[584]: 0.0000109    1 person
+	person WORD[584,   1]: 0.0000109 黒船

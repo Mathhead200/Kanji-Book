@@ -1,0 +1,625 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2072052    1 votive         : 神具
+0.1803653    4 ritual         : 神具, 法具, 祭具, 仏具
+0.1524558    1 article        : 神具
+0.1430062    1 shrine         : 神具
+0.1402535    1 home           : 神具
+0.0075892    9 gear           : 校具, つり具, 釣り具, 釣具, 猟具, 馬具, 索具, 漁具, 雨具
+0.0064239    3 fastener       : 締め具, 止め具, 留め具
+0.0057636    3 clasp          : 締め具, 止め具, 留め具
+0.0053736    4 fishing        : つり具, 釣り具, 釣具, 漁具
+0.0045211    1 clamp          : 締め具
+0.0043164    5 tackle         : つり具, 釣り具, 釣具, 索具, 漁具
+0.0035845    6 tool           : 治具, 呪具, 用具, 道具, 工具, 器具
+0.0035310    1 binding        : 締め具
+0.0032322    2 funeral        : 喪具, 葬具
+0.0030571    1 street         : 香具師
+0.0025066    5 equipment      : 遊具, 機具, 用具, 装具, 祭具
+0.0024633    6 implement      : 用具, 農具, 道具, 祭具, 工具, 器具
+0.0024106    1 huckster       : 香具師
+0.0023314    1 instrumental   : 具格
+0.0023282    3 bedding        : 臥具, 夜具, 寝具
+0.0023112    1 faker          : 香具師
+0.0022290    2 latch          : 止め具, 留め具
+0.0021895    3 paraphernalia  : 喪具, 葬具, 香具
+0.0021859    1 peddler        : 香具師
+0.0021859    1 hawker         : 香具師
+0.0020040    1 vendor         : 香具師
+0.0020000    3 utensil        : 聖具, 道具, 器具
+0.0019690    3 rigging        : 綱具, 船具, 索具
+0.0019607    4 armor          : 物の具, 具足, 防具, 武具
+0.0019166    1 performer      : 香具師
+0.0018522    1 fair           : 香具師
+0.0016317    2 check          : 止め具, 留め具
+0.0016313    1 festival       : 香具師
+0.0016142    3 necessary      : 具する, 具す, 要具
+0.0016047    3 toy            : 玩具屋, 玩具箱, 玩具
+0.0015967    1 case           : 具格
+0.0015691    2 catch          : 止め具, 留め具
+0.0015397    1 incense        : 香具
+0.0015174    1 jig            : 治具
+0.0014477    3 prepare        : 具する, 具す, 具える
+0.0013826    1 stole          : 臥具
+0.0013384    3 embodiment     : 具象, 具体, 具現
+0.0013357    2 bedclothes     : 夜具, 寝具
+0.0012111    2 health         : 具合, 具合い
+0.0012037    2 harness        : 馬具, 装具
+0.0012006    1 plan           : 具案
+0.0011726    2 concreteness   : 具象, 具体
+0.0011499    1 school         : 校具
+0.0011182    1 magical        : 呪具
+0.0010910    2 assemble       : 具する, 具す
+0.0010906    3 detail         : 具さに, 具に, 具陳
+0.0010616    2 accompany      : 具する, 具す
+0.0010464    3 instrument     : 用具, 道具, 器具
+0.0010412    1 ingredient     : 具材
+0.0010222    1 monk           : 臥具
+0.0010052    1 sacred         : 聖具
+0.0009928    2 state          : 具合, 具合い
+0.0009488    2 leather        : 皮具, 革具
+0.0009143    1 charm          : 呪具
+0.0009101    2 arms           : 物の具, 武具
+0.0009005    2 follow         : 具する, 具す
+0.0008853    1 horse          : 馬具
+0.0008797    2 concrete       : 具案, 具現
+0.0008771    1 punishment     : 刑具
+0.0008584    2 apparatus      : 道具, 器具
+0.0008314    2 decency        : 具合, 具合い
+0.0008237    1 material       : 具材
+0.0007907    2 circumstance   : 具合, 具合い
+0.0007869    2 goods          : 皮具, 革具
+0.0007556    2 propriety      : 具合, 具合い
+0.0007532    2 furniture      : 道具, 家具
+0.0007165    1 cripple        : 不具
+0.0007126    1 aloeswood      : 香具
+0.0007073    1 distortion     : 不具
+0.0007073    1 deformity      : 不具
+0.0007073    1 disability     : 不具
+0.0007041    1 garnish        : 具
+0.0006852    1 musk           : 香具
+0.0006763    2 dignity        : 具合, 具合い
+0.0006612    1 accompaniment  : 具
+0.0006592    1 tack           : 馬具
+0.0006554    1 completeness   : 具足
+0.0006506    1 sandalwood     : 香具
+0.0006505    2 coloring       : 絵の具, 絵具
+0.0006382    1 tongs          : 香具
+0.0006381    1 everyday       : 民具
+0.0006329    2 care           : 具さに, 具に
+0.0006311    1 discerning     : 具眼
+0.0006310    1 remark         : 具
+0.0006309    1 mounting       : 表具
+0.0006185    1 altar          : 仏具
+0.0006156    2 colors         : 絵の具, 絵具
+0.0006156    1 folk           : 民具
+0.0006114    1 drafting       : 具案
+0.0006036    1 burner         : 香具
+0.0005904    2 manner         : 具合, 具合い
+0.0005892    1 hunting        : 猟具
+0.0005794    2 luck           : 具合, 具合い
+0.0005714    2 report         : 具陳, 具申
+0.0005679    2 condition      : 具合, 具合い
+0.0005650    2 paint          : 絵の具, 絵具
+0.0005486    1 dress          : 物の具
+0.0005479    1 metal          : 金具
+0.0005425    1 wife           : 具
+0.0005389    1 tray           : 香具
+0.0005333    1 stationery     : 文具
+0.0005310    1 playground     : 遊具
+0.0005286    1 armament       : 防具
+0.0005190    2 great          : 具さに, 具に
+0.0005085    1 art            : 民具
+0.0005035    1 written        : 不具
+0.0005027    1 teaching       : 教具
+0.0004999    1 protector      : 防具
+0.0004986    1 picture        : 表具
+0.0004980    1 draft          : 具案
+0.0004963    1 court          : 物の具
+0.0004848    1 suit           : 具足
+0.0004821    1 imperial       : 物の具
+0.0004691    2 face           : 具合, 具合い
+0.0004673    1 letter         : 不具
+0.0004670    1 defensive      : 防具
+0.0004630    1 word           : 不具
+0.0004568    1 side           : 具
+0.0004562    1 Buddhist       : 仏具
+0.0004455    1 furnished      : 具わる
+0.0004438    1 fusuma         : 建具
+0.0004407    2 way            : 具合, 具合い
+0.0004404    1 make           : 具える
+0.0004306    1 ship           : 船具
+0.0004255    1 satisfying     : 具備
+0.0004213    1 come           : 民具
+0.0004197    1 shoji          : 建具
+0.0004181    1 equip          : 具える
+0.0004078    1 incarnation    : 具現
+0.0004049    1 provided       : 具わる
+0.0004049    1 gifted         : 具わる
+0.0004023    1 farm           : 農具
+0.0004013    1 possessing     : 具備
+0.0004012    1 possessed      : 具わる
+0.0003990    1 end            : 不具
+0.0003977    1 furnish        : 具える
+0.0003946    2 one            : 具わる, 具
+0.0003892    1 farming        : 農具
+0.0003853    1 plaything      : 玩具
+0.0003820    1 appliance      : 器具
+0.0003767    1 provide        : 具える
+0.0003752    1 set            : 香具
+0.0003747    1 provision      : 具える
+0.0003727    1 install        : 具える
+0.0003725    1 guard          : 防具
+0.0003683    1 preparedness   : 具有
+0.0003680    1 device         : 道具
+0.0003628    1 realization    : 具現
+0.0003623    1 possess        : 具える
+0.0003561    1 personal       : 防具
+0.0003474    1 play           : 遊具
+0.0003438    1 war            : 武具
+0.0003368    1 born           : 具える
+0.0003217    1 possession     : 具有
+0.0003105    1 statement      : 具陳
+0.0003079    1 birth          : 具える
+0.0003041    1 formal         : 具陳
+0.0002991    1 superior       : 具申
+0.0002857    1 offering       : 具申
+0.0002789    1 chest          : 玩具箱
+0.0002785    1 open           : 建具
+0.0002761    1 giving         : 具現
+0.0002629    1 shop           : 玩具屋
+0.0002625    1 store          : 玩具屋
+0.0002586    1 full           : 具申
+0.0002511    1 box            : 玩具箱
+0.0002479    1 thing          : 玩具
+0.0002423    1 form           : 具現
+0.0002383    1 rain           : 雨具
+0.0002083    1 used           : 祭具
+0.0001707    1 person         : 玩具
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2072052    1 votive
+	votive WORD[ 1,   1]: 0.2072052 神具
+TOKEN[ 2]: 0.1803653    4 ritual
+	ritual WORD[ 2,   1]: 0.1778179 神具
+	ritual WORD[ 2,   2]: 0.0013439 法具
+	ritual WORD[ 2,   3]: 0.0006376 祭具
+	ritual WORD[ 2,   4]: 0.0005659 仏具
+TOKEN[ 3]: 0.1524558    1 article
+	article WORD[ 3,   1]: 0.1524558 神具
+TOKEN[ 4]: 0.1430062    1 shrine
+	shrine WORD[ 4,   1]: 0.1430062 神具
+TOKEN[ 5]: 0.1402535    1 home
+	home WORD[ 5,   1]: 0.1402535 神具
+TOKEN[ 6]: 0.0075892    9 gear
+	gear WORD[ 6,   1]: 0.0017847 校具
+	gear WORD[ 6,   2]: 0.0010762 つり具
+	gear WORD[ 6,   3]: 0.0010762 釣り具
+	gear WORD[ 6,   4]: 0.0010762 釣具
+	gear WORD[ 6,   5]: 0.0006951 猟具
+	gear WORD[ 6,   6]: 0.0006344 馬具
+	gear WORD[ 6,   7]: 0.0005690 索具
+	gear WORD[ 6,   8]: 0.0003565 漁具
+	gear WORD[ 6,   9]: 0.0003210 雨具
+TOKEN[ 7]: 0.0064239    3 fastener
+	fastener WORD[ 7,   1]: 0.0041949 締め具
+	fastener WORD[ 7,   2]: 0.0011145 止め具
+	fastener WORD[ 7,   3]: 0.0011145 留め具
+TOKEN[ 8]: 0.0057636    3 clasp
+	clasp WORD[ 8,   1]: 0.0037638 締め具
+	clasp WORD[ 8,   2]: 0.0009999 止め具
+	clasp WORD[ 8,   3]: 0.0009999 留め具
+TOKEN[ 9]: 0.0053736    4 fishing
+	fishing WORD[ 9,   1]: 0.0016131 つり具
+	fishing WORD[ 9,   2]: 0.0016131 釣り具
+	fishing WORD[ 9,   3]: 0.0016131 釣具
+	fishing WORD[ 9,   4]: 0.0005343 漁具
+TOKEN[10]: 0.0045211    1 clamp
+	clamp WORD[10,   1]: 0.0045211 締め具
+TOKEN[11]: 0.0043164    5 tackle
+	tackle WORD[11,   1]: 0.0011183 つり具
+	tackle WORD[11,   2]: 0.0011183 釣り具
+	tackle WORD[11,   3]: 0.0011182 釣具
+	tackle WORD[11,   4]: 0.0005912 索具
+	tackle WORD[11,   5]: 0.0003704 漁具
+TOKEN[12]: 0.0035845    6 tool
+	tool WORD[12,   1]: 0.0010529 治具
+	tool WORD[12,   2]: 0.0010059 呪具
+	tool WORD[12,   3]: 0.0004665 用具
+	tool WORD[12,   4]: 0.0003910 道具
+	tool WORD[12,   5]: 0.0003385 工具
+	tool WORD[12,   6]: 0.0003296 器具
+TOKEN[13]: 0.0035310    1 binding
+	binding WORD[13,   1]: 0.0035310 締め具
+TOKEN[14]: 0.0032322    2 funeral
+	funeral WORD[14,   1]: 0.0016161 喪具
+	funeral WORD[14,   2]: 0.0016161 葬具
+TOKEN[15]: 0.0030571    1 street
+	street WORD[15,   1]: 0.0010190 香具師
+TOKEN[16]: 0.0025066    5 equipment
+	equipment WORD[16,   1]: 0.0008911 遊具
+	equipment WORD[16,   2]: 0.0004922 機具
+	equipment WORD[16,   3]: 0.0004483 用具
+	equipment WORD[16,   4]: 0.0003460 装具
+	equipment WORD[16,   5]: 0.0003290 祭具
+TOKEN[17]: 0.0024633    6 implement
+	implement WORD[17,   1]: 0.0005062 用具
+	implement WORD[17,   2]: 0.0004365 農具
+	implement WORD[17,   3]: 0.0004242 道具
+	implement WORD[17,   4]: 0.0003715 祭具
+	implement WORD[17,   5]: 0.0003673 工具
+	implement WORD[17,   6]: 0.0003576 器具
+TOKEN[18]: 0.0024106    1 huckster
+	huckster WORD[18,   1]: 0.0008035 香具師
+TOKEN[19]: 0.0023314    1 instrumental
+	instrumental WORD[19,   1]: 0.0023314 具格
+TOKEN[20]: 0.0023282    3 bedding
+	bedding WORD[20,   1]: 0.0012482 臥具
+	bedding WORD[20,   2]: 0.0006950 夜具
+	bedding WORD[20,   3]: 0.0003850 寝具
+TOKEN[21]: 0.0023112    1 faker
+	faker WORD[21,   1]: 0.0007704 香具師
+TOKEN[22]: 0.0022290    2 latch
+	latch WORD[22,   1]: 0.0011145 止め具
+	latch WORD[22,   2]: 0.0011145 留め具
+TOKEN[23]: 0.0021895    3 paraphernalia
+	paraphernalia WORD[23,   1]: 0.0007522 喪具
+	paraphernalia WORD[23,   2]: 0.0007522 葬具
+	paraphernalia WORD[23,   3]: 0.0006852 香具
+TOKEN[24]: 0.0021859    1 peddler
+	peddler WORD[24,   1]: 0.0007286 香具師
+TOKEN[25]: 0.0021859    1 hawker
+	hawker WORD[25,   1]: 0.0007286 香具師
+TOKEN[26]: 0.0020040    1 vendor
+	vendor WORD[26,   1]: 0.0006680 香具師
+TOKEN[27]: 0.0020000    3 utensil
+	utensil WORD[27,   1]: 0.0012181 聖具
+	utensil WORD[27,   2]: 0.0004242 道具
+	utensil WORD[27,   3]: 0.0003576 器具
+TOKEN[28]: 0.0019690    3 rigging
+	rigging WORD[28,   1]: 0.0006778 綱具
+	rigging WORD[28,   2]: 0.0006577 船具
+	rigging WORD[28,   3]: 0.0006335 索具
+TOKEN[29]: 0.0019607    4 armor
+	armor WORD[29,   1]: 0.0006167 物の具
+	armor WORD[29,   2]: 0.0005102 具足
+	armor WORD[29,   3]: 0.0004194 防具
+	armor WORD[29,   4]: 0.0004143 武具
+TOKEN[30]: 0.0019166    1 performer
+	performer WORD[30,   1]: 0.0006389 香具師
+TOKEN[31]: 0.0018522    1 fair
+	fair WORD[31,   1]: 0.0006174 香具師
+TOKEN[32]: 0.0016317    2 check
+	check WORD[32,   1]: 0.0008159 止め具
+	check WORD[32,   2]: 0.0008158 留め具
+TOKEN[33]: 0.0016313    1 festival
+	festival WORD[33,   1]: 0.0005438 香具師
+TOKEN[34]: 0.0016142    3 necessary
+	necessary WORD[34,   1]: 0.0005607 具する
+	necessary WORD[34,   2]: 0.0005607 具す
+	necessary WORD[34,   3]: 0.0004928 要具
+TOKEN[35]: 0.0016047    3 toy
+	toy WORD[35,   1]: 0.0006419 玩具屋
+	toy WORD[35,   2]: 0.0006419 玩具箱
+	toy WORD[35,   3]: 0.0003209 玩具
+TOKEN[36]: 0.0015967    1 case
+	case WORD[36,   1]: 0.0015967 具格
+TOKEN[37]: 0.0015691    2 catch
+	catch WORD[37,   1]: 0.0007846 止め具
+	catch WORD[37,   2]: 0.0007846 留め具
+TOKEN[38]: 0.0015397    1 incense
+	incense WORD[38,   1]: 0.0015397 香具
+TOKEN[39]: 0.0015174    1 jig
+	jig WORD[39,   1]: 0.0015174 治具
+TOKEN[40]: 0.0014477    3 prepare
+	prepare WORD[40,   1]: 0.0005402 具する
+	prepare WORD[40,   2]: 0.0005402 具す
+	prepare WORD[40,   3]: 0.0003672 具える
+TOKEN[41]: 0.0013826    1 stole
+	stole WORD[41,   1]: 0.0013826 臥具
+TOKEN[42]: 0.0013384    3 embodiment
+	embodiment WORD[42,   1]: 0.0005897 具象
+	embodiment WORD[42,   2]: 0.0003744 具体
+	embodiment WORD[42,   3]: 0.0003744 具現
+TOKEN[43]: 0.0013357    2 bedclothes
+	bedclothes WORD[43,   1]: 0.0008596 夜具
+	bedclothes WORD[43,   2]: 0.0004762 寝具
+TOKEN[44]: 0.0012111    2 health
+	health WORD[44,   1]: 0.0006055 具合
+	health WORD[44,   2]: 0.0006055 具合い
+TOKEN[45]: 0.0012037    2 harness
+	harness WORD[45,   1]: 0.0007490 馬具
+	harness WORD[45,   2]: 0.0004547 装具
+TOKEN[46]: 0.0012006    1 plan
+	plan WORD[46,   1]: 0.0012006 具案
+TOKEN[47]: 0.0011726    2 concreteness
+	concreteness WORD[47,   1]: 0.0007172 具象
+	concreteness WORD[47,   2]: 0.0004554 具体
+TOKEN[48]: 0.0011499    1 school
+	school WORD[48,   1]: 0.0011499 校具
+TOKEN[49]: 0.0011182    1 magical
+	magical WORD[49,   1]: 0.0011182 呪具
+TOKEN[50]: 0.0010910    2 assemble
+	assemble WORD[50,   1]: 0.0005455 具する
+	assemble WORD[50,   2]: 0.0005455 具す
+TOKEN[51]: 0.0010906    3 detail
+	detail WORD[51,   1]: 0.0003769 具さに
+	detail WORD[51,   2]: 0.0003769 具に
+	detail WORD[51,   3]: 0.0003368 具陳
+TOKEN[52]: 0.0010616    2 accompany
+	accompany WORD[52,   1]: 0.0005308 具する
+	accompany WORD[52,   2]: 0.0005308 具す
+TOKEN[53]: 0.0010464    3 instrument
+	instrument WORD[53,   1]: 0.0004112 用具
+	instrument WORD[53,   2]: 0.0003447 道具
+	instrument WORD[53,   3]: 0.0002905 器具
+TOKEN[54]: 0.0010412    1 ingredient
+	ingredient WORD[54,   1]: 0.0010412 具材
+TOKEN[55]: 0.0010222    1 monk
+	monk WORD[55,   1]: 0.0010222 臥具
+TOKEN[56]: 0.0010052    1 sacred
+	sacred WORD[56,   1]: 0.0010052 聖具
+TOKEN[57]: 0.0009928    2 state
+	state WORD[57,   1]: 0.0004964 具合
+	state WORD[57,   2]: 0.0004964 具合い
+TOKEN[58]: 0.0009488    2 leather
+	leather WORD[58,   1]: 0.0004744 皮具
+	leather WORD[58,   2]: 0.0004744 革具
+TOKEN[59]: 0.0009143    1 charm
+	charm WORD[59,   1]: 0.0009143 呪具
+TOKEN[60]: 0.0009101    2 arms
+	arms WORD[60,   1]: 0.0005444 物の具
+	arms WORD[60,   2]: 0.0003657 武具
+TOKEN[61]: 0.0009005    2 follow
+	follow WORD[61,   1]: 0.0004503 具する
+	follow WORD[61,   2]: 0.0004503 具す
+TOKEN[62]: 0.0008853    1 horse
+	horse WORD[62,   1]: 0.0008853 馬具
+TOKEN[63]: 0.0008797    2 concrete
+	concrete WORD[63,   1]: 0.0005370 具案
+	concrete WORD[63,   2]: 0.0003427 具現
+TOKEN[64]: 0.0008771    1 punishment
+	punishment WORD[64,   1]: 0.0008771 刑具
+TOKEN[65]: 0.0008584    2 apparatus
+	apparatus WORD[65,   1]: 0.0004658 道具
+	apparatus WORD[65,   2]: 0.0003926 器具
+TOKEN[66]: 0.0008314    2 decency
+	decency WORD[66,   1]: 0.0004157 具合
+	decency WORD[66,   2]: 0.0004157 具合い
+TOKEN[67]: 0.0008237    1 material
+	material WORD[67,   1]: 0.0008237 具材
+TOKEN[68]: 0.0007907    2 circumstance
+	circumstance WORD[68,   1]: 0.0003954 具合
+	circumstance WORD[68,   2]: 0.0003954 具合い
+TOKEN[69]: 0.0007869    2 goods
+	goods WORD[69,   1]: 0.0003935 皮具
+	goods WORD[69,   2]: 0.0003935 革具
+TOKEN[70]: 0.0007556    2 propriety
+	propriety WORD[70,   1]: 0.0003778 具合
+	propriety WORD[70,   2]: 0.0003778 具合い
+TOKEN[71]: 0.0007532    2 furniture
+	furniture WORD[71,   1]: 0.0004130 道具
+	furniture WORD[71,   2]: 0.0003402 家具
+TOKEN[72]: 0.0007165    1 cripple
+	cripple WORD[72,   1]: 0.0007165 不具
+TOKEN[73]: 0.0007126    1 aloeswood
+	aloeswood WORD[73,   1]: 0.0007126 香具
+TOKEN[74]: 0.0007073    1 distortion
+	distortion WORD[74,   1]: 0.0007073 不具
+TOKEN[75]: 0.0007073    1 deformity
+	deformity WORD[75,   1]: 0.0007073 不具
+TOKEN[76]: 0.0007073    1 disability
+	disability WORD[76,   1]: 0.0007073 不具
+TOKEN[77]: 0.0007041    1 garnish
+	garnish WORD[77,   1]: 0.0003521 具
+TOKEN[78]: 0.0006852    1 musk
+	musk WORD[78,   1]: 0.0006852 香具
+TOKEN[79]: 0.0006763    2 dignity
+	dignity WORD[79,   1]: 0.0003382 具合
+	dignity WORD[79,   2]: 0.0003382 具合い
+TOKEN[80]: 0.0006612    1 accompaniment
+	accompaniment WORD[80,   1]: 0.0003306 具
+TOKEN[81]: 0.0006592    1 tack
+	tack WORD[81,   1]: 0.0006592 馬具
+TOKEN[82]: 0.0006554    1 completeness
+	completeness WORD[82,   1]: 0.0006554 具足
+TOKEN[83]: 0.0006506    1 sandalwood
+	sandalwood WORD[83,   1]: 0.0006506 香具
+TOKEN[84]: 0.0006505    2 coloring
+	coloring WORD[84,   1]: 0.0003252 絵の具
+	coloring WORD[84,   2]: 0.0003252 絵具
+TOKEN[85]: 0.0006382    1 tongs
+	tongs WORD[85,   1]: 0.0006382 香具
+TOKEN[86]: 0.0006381    1 everyday
+	everyday WORD[86,   1]: 0.0006381 民具
+TOKEN[87]: 0.0006329    2 care
+	care WORD[87,   1]: 0.0003165 具さに
+	care WORD[87,   2]: 0.0003165 具に
+TOKEN[88]: 0.0006311    1 discerning
+	discerning WORD[88,   1]: 0.0006311 具眼
+TOKEN[89]: 0.0006310    1 remark
+	remark WORD[89,   1]: 0.0003155 具
+TOKEN[90]: 0.0006309    1 mounting
+	mounting WORD[90,   1]: 0.0006309 表具
+TOKEN[91]: 0.0006185    1 altar
+	altar WORD[91,   1]: 0.0006185 仏具
+TOKEN[92]: 0.0006156    2 colors
+	colors WORD[92,   1]: 0.0003078 絵の具
+	colors WORD[92,   2]: 0.0003078 絵具
+TOKEN[93]: 0.0006156    1 folk
+	folk WORD[93,   1]: 0.0006156 民具
+TOKEN[94]: 0.0006114    1 drafting
+	drafting WORD[94,   1]: 0.0006114 具案
+TOKEN[95]: 0.0006036    1 burner
+	burner WORD[95,   1]: 0.0006036 香具
+TOKEN[96]: 0.0005904    2 manner
+	manner WORD[96,   1]: 0.0002952 具合
+	manner WORD[96,   2]: 0.0002952 具合い
+TOKEN[97]: 0.0005892    1 hunting
+	hunting WORD[97,   1]: 0.0005892 猟具
+TOKEN[98]: 0.0005794    2 luck
+	luck WORD[98,   1]: 0.0002897 具合
+	luck WORD[98,   2]: 0.0002897 具合い
+TOKEN[99]: 0.0005714    2 report
+	report WORD[99,   1]: 0.0002857 具陳
+	report WORD[99,   2]: 0.0002857 具申
+TOKEN[100]: 0.0005679    2 condition
+	condition WORD[100,   1]: 0.0002840 具合
+	condition WORD[100,   2]: 0.0002840 具合い
+TOKEN[101]: 0.0005650    2 paint
+	paint WORD[101,   1]: 0.0002825 絵の具
+	paint WORD[101,   2]: 0.0002825 絵具
+TOKEN[102]: 0.0005486    1 dress
+	dress WORD[102,   1]: 0.0005486 物の具
+TOKEN[103]: 0.0005479    1 metal
+	metal WORD[103,   1]: 0.0005479 金具
+TOKEN[104]: 0.0005425    1 wife
+	wife WORD[104,   1]: 0.0002713 具
+TOKEN[105]: 0.0005389    1 tray
+	tray WORD[105,   1]: 0.0005389 香具
+TOKEN[106]: 0.0005333    1 stationery
+	stationery WORD[106,   1]: 0.0005333 文具
+TOKEN[107]: 0.0005310    1 playground
+	playground WORD[107,   1]: 0.0005310 遊具
+TOKEN[108]: 0.0005286    1 armament
+	armament WORD[108,   1]: 0.0005286 防具
+TOKEN[109]: 0.0005190    2 great
+	great WORD[109,   1]: 0.0002595 具さに
+	great WORD[109,   2]: 0.0002595 具に
+TOKEN[110]: 0.0005085    1 art
+	art WORD[110,   1]: 0.0005085 民具
+TOKEN[111]: 0.0005035    1 written
+	written WORD[111,   1]: 0.0005035 不具
+TOKEN[112]: 0.0005027    1 teaching
+	teaching WORD[112,   1]: 0.0005027 教具
+TOKEN[113]: 0.0004999    1 protector
+	protector WORD[113,   1]: 0.0004999 防具
+TOKEN[114]: 0.0004986    1 picture
+	picture WORD[114,   1]: 0.0004986 表具
+TOKEN[115]: 0.0004980    1 draft
+	draft WORD[115,   1]: 0.0004980 具案
+TOKEN[116]: 0.0004963    1 court
+	court WORD[116,   1]: 0.0004963 物の具
+TOKEN[117]: 0.0004848    1 suit
+	suit WORD[117,   1]: 0.0004848 具足
+TOKEN[118]: 0.0004821    1 imperial
+	imperial WORD[118,   1]: 0.0004821 物の具
+TOKEN[119]: 0.0004691    2 face
+	face WORD[119,   1]: 0.0002346 具合
+	face WORD[119,   2]: 0.0002346 具合い
+TOKEN[120]: 0.0004673    1 letter
+	letter WORD[120,   1]: 0.0004673 不具
+TOKEN[121]: 0.0004670    1 defensive
+	defensive WORD[121,   1]: 0.0004670 防具
+TOKEN[122]: 0.0004630    1 word
+	word WORD[122,   1]: 0.0004630 不具
+TOKEN[123]: 0.0004568    1 side
+	side WORD[123,   1]: 0.0002284 具
+TOKEN[124]: 0.0004562    1 Buddhist
+	Buddhist WORD[124,   1]: 0.0004562 仏具
+TOKEN[125]: 0.0004455    1 furnished
+	furnished WORD[125,   1]: 0.0004455 具わる
+TOKEN[126]: 0.0004438    1 fusuma
+	fusuma WORD[126,   1]: 0.0004438 建具
+TOKEN[127]: 0.0004407    2 way
+	way WORD[127,   1]: 0.0002203 具合
+	way WORD[127,   2]: 0.0002203 具合い
+TOKEN[128]: 0.0004404    1 make
+	make WORD[128,   1]: 0.0004404 具える
+TOKEN[129]: 0.0004306    1 ship
+	ship WORD[129,   1]: 0.0004306 船具
+TOKEN[130]: 0.0004255    1 satisfying
+	satisfying WORD[130,   1]: 0.0004255 具備
+TOKEN[131]: 0.0004213    1 come
+	come WORD[131,   1]: 0.0004213 民具
+TOKEN[132]: 0.0004197    1 shoji
+	shoji WORD[132,   1]: 0.0004197 建具
+TOKEN[133]: 0.0004181    1 equip
+	equip WORD[133,   1]: 0.0004181 具える
+TOKEN[134]: 0.0004078    1 incarnation
+	incarnation WORD[134,   1]: 0.0004078 具現
+TOKEN[135]: 0.0004049    1 provided
+	provided WORD[135,   1]: 0.0004049 具わる
+TOKEN[136]: 0.0004049    1 gifted
+	gifted WORD[136,   1]: 0.0004049 具わる
+TOKEN[137]: 0.0004023    1 farm
+	farm WORD[137,   1]: 0.0004023 農具
+TOKEN[138]: 0.0004013    1 possessing
+	possessing WORD[138,   1]: 0.0004013 具備
+TOKEN[139]: 0.0004012    1 possessed
+	possessed WORD[139,   1]: 0.0004012 具わる
+TOKEN[140]: 0.0003990    1 end
+	end WORD[140,   1]: 0.0003990 不具
+TOKEN[141]: 0.0003977    1 furnish
+	furnish WORD[141,   1]: 0.0003977 具える
+TOKEN[142]: 0.0003946    2 one
+	one WORD[142,   1]: 0.0001386 具わる
+	one WORD[142,   2]: 0.0001280 具
+TOKEN[143]: 0.0003892    1 farming
+	farming WORD[143,   1]: 0.0003892 農具
+TOKEN[144]: 0.0003853    1 plaything
+	plaything WORD[144,   1]: 0.0003853 玩具
+TOKEN[145]: 0.0003820    1 appliance
+	appliance WORD[145,   1]: 0.0003820 器具
+TOKEN[146]: 0.0003767    1 provide
+	provide WORD[146,   1]: 0.0003767 具える
+TOKEN[147]: 0.0003752    1 set
+	set WORD[147,   1]: 0.0003752 香具
+TOKEN[148]: 0.0003747    1 provision
+	provision WORD[148,   1]: 0.0003747 具える
+TOKEN[149]: 0.0003727    1 install
+	install WORD[149,   1]: 0.0003727 具える
+TOKEN[150]: 0.0003725    1 guard
+	guard WORD[150,   1]: 0.0003725 防具
+TOKEN[151]: 0.0003683    1 preparedness
+	preparedness WORD[151,   1]: 0.0003683 具有
+TOKEN[152]: 0.0003680    1 device
+	device WORD[152,   1]: 0.0003680 道具
+TOKEN[153]: 0.0003628    1 realization
+	realization WORD[153,   1]: 0.0003628 具現
+TOKEN[154]: 0.0003623    1 possess
+	possess WORD[154,   1]: 0.0003623 具える
+TOKEN[155]: 0.0003561    1 personal
+	personal WORD[155,   1]: 0.0003561 防具
+TOKEN[156]: 0.0003474    1 play
+	play WORD[156,   1]: 0.0003474 遊具
+TOKEN[157]: 0.0003438    1 war
+	war WORD[157,   1]: 0.0003438 武具
+TOKEN[158]: 0.0003368    1 born
+	born WORD[158,   1]: 0.0003368 具える
+TOKEN[159]: 0.0003217    1 possession
+	possession WORD[159,   1]: 0.0003217 具有
+TOKEN[160]: 0.0003105    1 statement
+	statement WORD[160,   1]: 0.0003105 具陳
+TOKEN[161]: 0.0003079    1 birth
+	birth WORD[161,   1]: 0.0003079 具える
+TOKEN[162]: 0.0003041    1 formal
+	formal WORD[162,   1]: 0.0003041 具陳
+TOKEN[163]: 0.0002991    1 superior
+	superior WORD[163,   1]: 0.0002991 具申
+TOKEN[164]: 0.0002857    1 offering
+	offering WORD[164,   1]: 0.0002857 具申
+TOKEN[165]: 0.0002789    1 chest
+	chest WORD[165,   1]: 0.0002789 玩具箱
+TOKEN[166]: 0.0002785    1 open
+	open WORD[166,   1]: 0.0002785 建具
+TOKEN[167]: 0.0002761    1 giving
+	giving WORD[167,   1]: 0.0002761 具現
+TOKEN[168]: 0.0002629    1 shop
+	shop WORD[168,   1]: 0.0002629 玩具屋
+TOKEN[169]: 0.0002625    1 store
+	store WORD[169,   1]: 0.0002625 玩具屋
+TOKEN[170]: 0.0002586    1 full
+	full WORD[170,   1]: 0.0002586 具申
+TOKEN[171]: 0.0002511    1 box
+	box WORD[171,   1]: 0.0002511 玩具箱
+TOKEN[172]: 0.0002479    1 thing
+	thing WORD[172,   1]: 0.0002479 玩具
+TOKEN[173]: 0.0002423    1 form
+	form WORD[173,   1]: 0.0002423 具現
+TOKEN[174]: 0.0002383    1 rain
+	rain WORD[174,   1]: 0.0002383 雨具
+TOKEN[175]: 0.0002083    1 used
+	used WORD[175,   1]: 0.0002083 祭具
+TOKEN[176]: 0.0001707    1 person
+	person WORD[176,   1]: 0.0001707 玩具

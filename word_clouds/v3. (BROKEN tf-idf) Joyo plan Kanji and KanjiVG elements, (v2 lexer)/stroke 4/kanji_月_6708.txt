@@ -1,0 +1,1118 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1634124    1 Tuesday        : 月火
+0.1588765    3 Monday         : 月火, 日月, 月曜
+0.0991987   90 month          : 人月, 初月, 暦月, うるう月, 梅月, 宵月, 亥月, 蘭月, 水無月, 紅葉月, ...
+0.0616134   41 moon           : 宵月, 落月, 初月, 月宮, 月夜見, 月読み, 繊月, 山月, 望月, 明月, ...
+0.0372846   33 lunar          : 梅月, 亥月, 蘭月, 紅葉月, 臘月, 初月, 月がさ, 月暈, 桜月, 望月, ...
+0.0276220   24 calendar       : 暦月, 亥月, うるう月, 初月, 水無月, 臘月, 霜月, 睦月, 葉月, 七月, ...
+0.0262920   23 monthly        : 月割り, 月払い, 月代り, 月代わり, 月替り, 月替わり, 月掛け, 月賦, 月刊, 月番, ...
+0.0109871    6 crescent       : 繊月, 彎月, 偃月, 月形, 新月, 三日月
+0.0101195    5 god            : 月宮, 月夜見, 月読み, 月読, 月神
+0.0087904   10 moonlight      : 月影, 月明, 月色, 月桂, 月下, 月あかり, 月明かり, 月明り, 月光, 月
+0.0082741    4 night          : 五月闇, 宵月, 月夜, 朧月
+0.0073578    3 mythology      : 月夜見, 月読み, 月読
+0.0072280    4 tenth          : 亥月, 神月, 十月, 神無月
+0.0067251    3 rainy          : 五月闇, 五月晴, 五月晴れ
+0.0062999    3 Shinto         : 月夜見, 月読み, 月読
+0.0062542    3 seventh        : 蘭月, 七月, 文月
+0.0055745    3 eight          : 宵月, 月見, 観月
+0.0054574    2 evening        : 宵月, 夕月
+0.0054132    3 season         : 五月闇, 五月晴, 五月晴れ
+0.0052026    3 ninth          : 紅葉月, 長月, 菊月
+0.0050695    2 intercalary    : うるう月, 閏月
+0.0047149    7 last           : 月隠り, 極月, 去月, 客月, 後月, 前月, 先月
+0.0047128    4 beginning      : 月初, 月初め, 月始め, 五月蠅
+0.0045716    4 fifth          : 梅月, 五月, 皐月, 雨月
+0.0043530    1 man            : 人月
+0.0043327    1 seen           : 宵月
+0.0043156    1 setting        : 落月
+0.0042395    3 middle         : 月半ば, 月中, 月央
+0.0040668    2 sixth          : 水無月, 六月
+0.0040410    2 radical        : 肉月, 月偏
+0.0038748    1 dark           : 五月闇
+0.0038402    1 Hindu          : 月宮
+0.0038135    1 early          : 宵月
+0.0037929    2 Asian          : 月支, 月氏
+0.0037783    2 halo           : 月がさ, 月暈
+0.0037657    6 full           : 望月, 月輪, 明月, 満月, 名月, 月の輪
+0.0037234    4 replacement    : 月代り, 月代わり, 月替り, 月替わり
+0.0036373    1 zerumbet       : 月桃
+0.0034668    2 leap           : うるう月, 閏月
+0.0034313    1 Alpinia        : 月桃
+0.0032705    2 ancient        : 月支, 月氏
+0.0031814    2 fourth         : 梅月, 卯月
+0.0031411    5 day            : 月隠り, 月旦, 望月, 明月, 名月
+0.0031088    3 first          : 初月, 正月, 睦月
+0.0030814    7 counter        : か月, カ月, ケ月, ヵ月, ヶ月, 個月, 箇月
+0.0030679    4 new            : 初月, 新月, 三日月, 月齢
+0.0030652    1 palace         : 月宮
+0.0030443    3 menstruation   : 月役, 月の物, 月経
+0.0030401    2 plan           : 月割り, 月掛け
+0.0030251    5 paying         : 月払い, 月ぎめ, 月極, 月極め, 月決め
+0.0030214    5 contract       : 限月, 月ぎめ, 月極, 月極め, 月決め
+0.0029865    1 unpaid         : 月越し
+0.0029262    3 installment    : 月割り, 月掛け, 月賦
+0.0029214    2 previous       : 月越し, 前月
+0.0029012    5 days           : 旬月, 月日, 日月, 正月, 月齢
+0.0028291    4 change         : 月代り, 月代わり, 月替り, 月替わり
+0.0027960    2 left           : 月越し, 肉月
+0.0027806    2 forehead       : 星月, 月代
+0.0027603    2 people         : 月支, 月氏
+0.0027598    4 turn           : 月代り, 月代わり, 月替り, 月替わり
+0.0027068    4 harvest        : 秋月, 明月, 名月, 雨月
+0.0026803    1 bay            : 月桂
+0.0025741    5 period         : 月役, 月の物, 月経, 蜜月, 月間
+0.0025025    2 patch          : 星月, 月の輪
+0.0024631    1 ginger         : 月桃
+0.0024458    5 time           : 月の物, 旬月, 月日, 日月, 歳月
+0.0024347    2 menses         : 月役, 月の障り
+0.0022017    3 trite          : 月並, 月並み, 月次
+0.0021193    2 July           : 水無月, 七月
+0.0021190    1 candlestick    : 月足
+0.0020779    4 bright         : 明月, 名月, 佳月, 風月
+0.0020550    2 azalea         : 五月, 皐月
+0.0020512    1 shell          : 月桃
+0.0020008    3 hackneyed      : 月並, 月並み, 月次
+0.0019841    1 laurel         : 月桂
+0.0019465    2 June           : 水無月, 六月
+0.0019074    3 commonplace    : 月並, 月並み, 月次
+0.0018694    1 honeymoon      : 蜜月
+0.0018663    1 party          : 月待
+0.0018622    2 eighth         : 葉月, 望月
+0.0018444    2 white          : 星月, 月の輪
+0.0018410    1 tree           : 月桂
+0.0018376    3 conventional   : 月並, 月並み, 月次
+0.0018352    2 sky            : 霽月, 無月
+0.0018263    2 eclipse        : 月蝕, 月食
+0.0017450    1 mountain       : 山月
+0.0016862    2 older          : 月後れ, 月遅れ
+0.0016460    2 childbirth     : 産み月, 臨月
+0.0016249    1 ten            : 旬月
+0.0016104    1 star           : 星月
+0.0016099    2 pregnancy      : 産み月, 臨月
+0.0015521    2 January        : 睦月, 正月
+0.0015028    2 eaten          : 水無月, 月餅
+0.0015020    2 sweet          : 水無月, 月桂
+0.0014842    1 certain        : 某月
+0.0014471    2 weather        : 五月晴, 五月晴れ
+0.0014446    1 deity          : 月神
+0.0014396    1 horse          : 星月
+0.0014335    2 fine           : 五月晴, 五月晴れ
+0.0013885    2 final          : 産み月, 臨月
+0.0013808    1 palomino       : 月毛
+0.0013800    2 salary         : 月俸, 月給
+0.0013706    1 moonless       : 無月
+0.0013683    1 third          : 桜月
+0.0013232    2 due            : 産み月, 臨月
+0.0013214    1 court          : 月卿
+0.0013110    1 Gregorian      : 水無月
+0.0012781    2 importunate    : 五月蝿い, 五月蠅い
+0.0012615    2 bossy          : 五月蝿い, 五月蠅い
+0.0012422    1 twelfth        : 臘月
+0.0012099    1 Laurus         : 月桂
+0.0012012    2 nagging        : 五月蝿い, 五月蠅い
+0.0011982    1 shining        : 霽月
+0.0011920    2 tiresome       : 五月蝿い, 五月蠅い
+0.0011679    2 picky          : 五月蝿い, 五月蠅い
+0.0011470    1 eleventh       : 霜月
+0.0011359    2 fastidious     : 五月蝿い, 五月蠅い
+0.0011336    2 number         : 累月, 月齢
+0.0011201    2 fussy          : 五月蝿い, 五月蠅い
+0.0011171    1 scimitar       : 偃月刀
+0.0011016    2 persistent     : 五月蝿い, 五月蠅い
+0.0011016    1 classified     : 月偏
+0.0010875    1 chest          : 月の輪
+0.0010865    1 September      : 長月
+0.0010787    1 tuition        : 月謝
+0.0010714    2 noisy          : 五月蝿い, 五月蠅い
+0.0010697    2 Chinese        : 月桂, 月琴
+0.0010669    1 satellite      : 月
+0.0010568    1 poetic         : 無月
+0.0010505    1 moonlit        : 月夜
+0.0010398    2 year           : 極月, 正月
+0.0010297    1 premature      : 月足らず
+0.0010244    2 annoying       : 五月蝿い, 五月蠅い
+0.0010224    1 usage          : 無月
+0.0010101    1 topped         : 水無月
+0.0010067    2 second         : 如月, 隔月
+0.0009920    1 lute           : 月琴
+0.0009887    2 troublesome    : 五月蝿い, 五月蠅い
+0.0009698    1 wintry         : 寒月
+0.0009687    1 menstrual      : 月経
+0.0009610    2 loud           : 五月蝿い, 五月蠅い
+0.0009307    1 December       : 極月
+0.0009269    1 shaved         : 月代
+0.0009222    2 shut           : 五月蝿い, 五月蠅い
+0.0009197    1 water          : 水月
+0.0009109    1 October        : 十月
+0.0009070    2 particular     : 五月蝿い, 五月蠅い
+0.0009052    1 shift          : 月番
+0.0008990    1 hazy           : 朧月
+0.0008977    1 semicircle     : 半月
+0.0008975    1 autumn         : 秋月
+0.0008881    1 shape          : 月形
+0.0008863    1 commentary     : 月旦
+0.0008772    1 sketch         : 月旦
+0.0008756    2 quiet          : 五月蝿い, 五月蠅い
+0.0008703    1 plexus         : 水月
+0.0008587    1 visible        : 残月
+0.0008516    1 duty           : 月番
+0.0008490    1 crown          : 月代
+0.0008459    2 rain           : 五月雨, 雨月
+0.0008380    1 natural        : 月
+0.0008319    1 review         : 月評
+0.0008309    1 trivet         : 月の輪
+0.0008268    1 moonbeam       : 月光
+0.0008251    1 age            : 月齢
+0.0008247    1 visit          : 月参り
+0.0008200    1 past           : 月頃
+0.0008152    1 birth          : 月足らず
+0.0008134    1 life           : 月日
+0.0008123    1 reflected      : 水月
+0.0007809    1 noble          : 月卿
+0.0007709    1 senior         : 月卿
+0.0007677    1 stole          : 月の輪
+0.0007493    1 meat           : 肉月
+0.0007478    1 morning        : 残月
+0.0007465    1 temple         : 月参り
+0.0007453    1 shrine         : 月参り
+0.0007451    1 fee            : 月謝
+0.0007317    2 end            : 月末, 月内
+0.0007302    1 intimate       : 蜜月
+0.0007275    1 fashioned      : 月の輪
+0.0007105    1 pit            : 水月
+0.0006896    1 interest       : 月利
+0.0006886    1 winter         : 寒月
+0.0006857    1 Asiatic        : 月の輪
+0.0006848    1 solar          : 水月
+0.0006709    1 following      : 翌月
+0.0006694    1 short          : 旬月
+0.0006670    1 round          : 月輪
+0.0006670    1 top            : 月代
+0.0006577    1 rice           : 水無月
+0.0006499    1 spring         : 朧月
+0.0006499    1 official       : 月卿
+0.0006439    1 confection     : 月餅
+0.0006426    1 stomach        : 水月
+0.0006290    1 next           : 来月
+0.0006270    1 part           : 月代
+0.0006256    1 Sunday         : 日月
+0.0006247    1 death          : 祥月
+0.0006200    1 jellyfish      : 海月
+0.0006197    1 pastime        : 花月
+0.0006180    1 dough          : 月餅
+0.0006093    1 character      : 月旦
+0.0006056    1 swarming       : 五月蠅
+0.0006032    1 relationship   : 蜜月
+0.0006026    1 head           : 月代
+0.0005815    1 decorative     : 月の輪
+0.0005693    1 half           : 半月
+0.0005574    1 infant         : 月齢
+0.0005561    1 output         : 月産
+0.0005427    1 circle         : 月の輪
+0.0005389    1 leisure        : 花月
+0.0005386    1 straw          : 月の輪
+0.0005378    1 breeze         : 風月
+0.0005348    1 monk           : 月の輪
+0.0005252    1 filled         : 月餅
+0.0005164    1 publication    : 月刊
+0.0005149    1 elegant        : 花月
+0.0005109    1 bear           : 月の輪
+0.0005106    1 ring           : 月の輪
+0.0005081    1 sum            : 月額
+0.0004946    1 sun            : 日月
+0.0004867    1 refined        : 花月
+0.0004832    1 income         : 月収
+0.0004795    1 production     : 月産
+0.0004749    1 bean           : 月餅
+0.0004700    1 paste          : 月餅
+0.0004684    1 cool           : 風月
+0.0004682    1 issue          : 月刊
+0.0004669    1 report         : 月報
+0.0004655    1 person         : 祥月
+0.0004636    1 black          : 月の輪
+0.0004632    1 delivery       : 限月
+0.0004562    1 one            : 月日
+0.0004544    1 payment        : 月賦
+0.0004544    1 beauty         : 風月
+0.0004469    1 surface        : 月面
+0.0004378    1 amount         : 月額
+0.0004262    1 nature         : 風月
+0.0004242    1 three          : 正月
+0.0004239    1 unable         : 雨月
+0.0004142    1 summer         : 五月蠅
+0.0004042    1 see            : 雨月
+0.0003190    1 good           : 佳月
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1634124    1 Tuesday
+	Tuesday WORD[ 1,   1]: 0.1634124 月火
+TOKEN[ 2]: 0.1588765    3 Monday
+	Monday WORD[ 2,   1]: 0.1575778 月火
+	Monday WORD[ 2,   2]: 0.0006633 日月
+	Monday WORD[ 2,   3]: 0.0006355 月曜
+TOKEN[ 3]: 0.0991987   90 month
+	month WORD[ 3,   1]: 0.0046597 人月
+	month WORD[ 3,   2]: 0.0046209 初月
+	month WORD[ 3,   3]: 0.0042538 暦月
+	month WORD[ 3,   4]: 0.0039169 うるう月
+	month WORD[ 3,   5]: 0.0035489 梅月
+	month WORD[ 3,   6]: 0.0033361 宵月
+	month WORD[ 3,   7]: 0.0029010 亥月
+	month WORD[ 3,   8]: 0.0028169 蘭月
+	month WORD[ 3,   9]: 0.0022371 水無月
+	month WORD[ 3,  10]: 0.0020635 紅葉月
+	month WORD[ 3,  11]: 0.0019586 月越し
+	month WORD[ 3,  12]: 0.0019584 月半ば
+	month WORD[ 3,  13]: 0.0015490 臘月
+	month WORD[ 3,  14]: 0.0014211 月代り
+	month WORD[ 3,  15]: 0.0014211 月代わり
+	month WORD[ 3,  16]: 0.0014211 月替り
+	month WORD[ 3,  17]: 0.0014211 月替わり
+	month WORD[ 3,  18]: 0.0013715 本月
+	month WORD[ 3,  19]: 0.0013289 月々
+	month WORD[ 3,  20]: 0.0013289 月月
+	month WORD[ 3,  21]: 0.0013258 月隠り
+	month WORD[ 3,  22]: 0.0013090 月初
+	month WORD[ 3,  23]: 0.0013090 月初め
+	month WORD[ 3,  24]: 0.0013090 月始め
+	month WORD[ 3,  25]: 0.0013084 当月
+	month WORD[ 3,  26]: 0.0013015 閏月
+	month WORD[ 3,  27]: 0.0012883 某月
+	month WORD[ 3,  28]: 0.0012233 産み月
+	month WORD[ 3,  29]: 0.0011869 桜月
+	month WORD[ 3,  30]: 0.0011867 月中
+	month WORD[ 3,  31]: 0.0011258 臨月
+	month WORD[ 3,  32]: 0.0010848 望月
+	month WORD[ 3,  33]: 0.0010391 毎月
+	month WORD[ 3,  34]: 0.0008545 前月
+	month WORD[ 3,  35]: 0.0008347 神月
+	month WORD[ 3,  36]: 0.0008031 限月
+	month WORD[ 3,  37]: 0.0007724 例月
+	month WORD[ 3,  38]: 0.0007652 霜月
+	month WORD[ 3,  39]: 0.0007643 隔月
+	month WORD[ 3,  40]: 0.0007455 睦月
+	month WORD[ 3,  41]: 0.0007361 葉月
+	month WORD[ 3,  42]: 0.0007314 七月
+	month WORD[ 3,  43]: 0.0007314 文月
+	month WORD[ 3,  44]: 0.0007125 月割り
+	month WORD[ 3,  45]: 0.0007120 月見
+	month WORD[ 3,  46]: 0.0007118 月の物
+	month WORD[ 3,  47]: 0.0007104 月後れ
+	month WORD[ 3,  48]: 0.0007104 月遅れ
+	month WORD[ 3,  49]: 0.0006906 長月
+	month WORD[ 3,  50]: 0.0006571 祥月
+	month WORD[ 3,  51]: 0.0006508 旬月
+	month WORD[ 3,  52]: 0.0006326 極月
+	month WORD[ 3,  53]: 0.0006229 月旦
+	month WORD[ 3,  54]: 0.0006226 月央
+	month WORD[ 3,  55]: 0.0006222 去月
+	month WORD[ 3,  56]: 0.0006091 如月
+	month WORD[ 3,  57]: 0.0006083 菊月
+	month WORD[ 3,  58]: 0.0006052 十月
+	month WORD[ 3,  59]: 0.0006052 神無月
+	month WORD[ 3,  60]: 0.0006047 寒月
+	month WORD[ 3,  61]: 0.0005997 卯月
+	month WORD[ 3,  62]: 0.0005992 客月
+	month WORD[ 3,  63]: 0.0005992 各月
+	month WORD[ 3,  64]: 0.0005852 後月
+	month WORD[ 3,  65]: 0.0005609 来月
+	month WORD[ 3,  66]: 0.0005545 翌月
+	month WORD[ 3,  67]: 0.0005371 明月
+	month WORD[ 3,  68]: 0.0005366 六月
+	month WORD[ 3,  69]: 0.0005302 観月
+	month WORD[ 3,  70]: 0.0004916 半月
+	month WORD[ 3,  71]: 0.0004686 名月
+	month WORD[ 3,  72]: 0.0004643 同月
+	month WORD[ 3,  73]: 0.0004431 月並
+	month WORD[ 3,  74]: 0.0004431 月並み
+	month WORD[ 3,  75]: 0.0004431 月次
+	month WORD[ 3,  76]: 0.0004426 月ぎめ
+	month WORD[ 3,  77]: 0.0004426 月極
+	month WORD[ 3,  78]: 0.0004426 月極め
+	month WORD[ 3,  79]: 0.0004426 月決め
+	month WORD[ 3,  80]: 0.0004268 先月
+	month WORD[ 3,  81]: 0.0004167 正月
+	month WORD[ 3,  82]: 0.0004097 五月
+	month WORD[ 3,  83]: 0.0004097 皐月
+	month WORD[ 3,  84]: 0.0004058 今月
+	month WORD[ 3,  85]: 0.0004015 月末
+	month WORD[ 3,  86]: 0.0004015 月内
+	month WORD[ 3,  87]: 0.0004014 月間
+	month WORD[ 3,  88]: 0.0003900 月
+	month WORD[ 3,  89]: 0.0003847 佳月
+	month WORD[ 3,  90]: 0.0003650 雨月
+TOKEN[ 4]: 0.0616134   41 moon
+	moon WORD[ 4,   1]: 0.0078220 宵月
+	moon WORD[ 4,   2]: 0.0042110 落月
+	moon WORD[ 4,   3]: 0.0036115 初月
+	moon WORD[ 4,   4]: 0.0028782 月宮
+	moon WORD[ 4,   5]: 0.0024134 月夜見
+	moon WORD[ 4,   6]: 0.0024134 月読み
+	moon WORD[ 4,   7]: 0.0020753 繊月
+	moon WORD[ 4,   8]: 0.0019816 山月
+	moon WORD[ 4,   9]: 0.0019076 望月
+	moon WORD[ 4,  10]: 0.0018890 明月
+	moon WORD[ 4,  11]: 0.0018066 秋月
+	moon WORD[ 4,  12]: 0.0018026 偃月
+	moon WORD[ 4,  13]: 0.0016481 名月
+	moon WORD[ 4,  14]: 0.0015587 月の輪
+	moon WORD[ 4,  15]: 0.0015505 夕月
+	moon WORD[ 4,  16]: 0.0015448 新月
+	moon WORD[ 4,  17]: 0.0014609 月輪
+	moon WORD[ 4,  18]: 0.0014601 月桂
+	moon WORD[ 4,  19]: 0.0014403 月読
+	moon WORD[ 4,  20]: 0.0014403 月神
+	moon WORD[ 4,  21]: 0.0012393 三日月
+	moon WORD[ 4,  22]: 0.0009763 桂月
+	moon WORD[ 4,  23]: 0.0009445 霽月
+	moon WORD[ 4,  24]: 0.0008387 肉月
+	moon WORD[ 4,  25]: 0.0008347 月見
+	moon WORD[ 4,  26]: 0.0008346 月偏
+	moon WORD[ 4,  27]: 0.0008329 月影
+	moon WORD[ 4,  28]: 0.0007502 朧月
+	moon WORD[ 4,  29]: 0.0007500 残月
+	moon WORD[ 4,  30]: 0.0007089 寒月
+	moon WORD[ 4,  31]: 0.0006216 水月
+	moon WORD[ 4,  32]: 0.0006216 観月
+	moon WORD[ 4,  33]: 0.0006181 満月
+	moon WORD[ 4,  34]: 0.0004912 日月
+	moon WORD[ 4,  35]: 0.0004706 月齢
+	moon WORD[ 4,  36]: 0.0004706 月面
+	moon WORD[ 4,  37]: 0.0004572 月
+	moon WORD[ 4,  38]: 0.0004510 佳月
+	moon WORD[ 4,  39]: 0.0004510 風月
+	moon WORD[ 4,  40]: 0.0004497 花月
+	moon WORD[ 4,  41]: 0.0004279 雨月
+TOKEN[ 5]: 0.0372846   33 lunar
+	lunar WORD[ 5,   1]: 0.0039235 梅月
+	lunar WORD[ 5,   2]: 0.0032072 亥月
+	lunar WORD[ 5,   3]: 0.0031142 蘭月
+	lunar WORD[ 5,   4]: 0.0022813 紅葉月
+	lunar WORD[ 5,   5]: 0.0017125 臘月
+	lunar WORD[ 5,   6]: 0.0017029 初月
+	lunar WORD[ 5,   7]: 0.0013275 月がさ
+	lunar WORD[ 5,   8]: 0.0013275 月暈
+	lunar WORD[ 5,   9]: 0.0013122 桜月
+	lunar WORD[ 5,  10]: 0.0011993 望月
+	lunar WORD[ 5,  11]: 0.0009228 神月
+	lunar WORD[ 5,  12]: 0.0008460 霜月
+	lunar WORD[ 5,  13]: 0.0008244 水無月
+	lunar WORD[ 5,  14]: 0.0008242 睦月
+	lunar WORD[ 5,  15]: 0.0008138 葉月
+	lunar WORD[ 5,  16]: 0.0008086 七月
+	lunar WORD[ 5,  17]: 0.0008086 文月
+	lunar WORD[ 5,  18]: 0.0007871 月見
+	lunar WORD[ 5,  19]: 0.0007635 長月
+	lunar WORD[ 5,  20]: 0.0006885 月蝕
+	lunar WORD[ 5,  21]: 0.0006885 月食
+	lunar WORD[ 5,  22]: 0.0006734 如月
+	lunar WORD[ 5,  23]: 0.0006724 菊月
+	lunar WORD[ 5,  24]: 0.0006691 十月
+	lunar WORD[ 5,  25]: 0.0006691 神無月
+	lunar WORD[ 5,  26]: 0.0006630 卯月
+	lunar WORD[ 5,  27]: 0.0005938 明月
+	lunar WORD[ 5,  28]: 0.0005932 六月
+	lunar WORD[ 5,  29]: 0.0005862 観月
+	lunar WORD[ 5,  30]: 0.0005181 名月
+	lunar WORD[ 5,  31]: 0.0004529 五月
+	lunar WORD[ 5,  32]: 0.0004529 皐月
+	lunar WORD[ 5,  33]: 0.0004035 雨月
+TOKEN[ 6]: 0.0276220   24 calendar
+	calendar WORD[ 6,   1]: 0.0047864 暦月
+	calendar WORD[ 6,   2]: 0.0032643 亥月
+	calendar WORD[ 6,   3]: 0.0022037 うるう月
+	calendar WORD[ 6,   4]: 0.0017332 初月
+	calendar WORD[ 6,   5]: 0.0016781 水無月
+	calendar WORD[ 6,   6]: 0.0008715 臘月
+	calendar WORD[ 6,   7]: 0.0008610 霜月
+	calendar WORD[ 6,   8]: 0.0008389 睦月
+	calendar WORD[ 6,   9]: 0.0008282 葉月
+	calendar WORD[ 6,  10]: 0.0008230 七月
+	calendar WORD[ 6,  11]: 0.0008230 文月
+	calendar WORD[ 6,  12]: 0.0008011 月見
+	calendar WORD[ 6,  13]: 0.0007771 長月
+	calendar WORD[ 6,  14]: 0.0007322 閏月
+	calendar WORD[ 6,  15]: 0.0006854 如月
+	calendar WORD[ 6,  16]: 0.0006844 菊月
+	calendar WORD[ 6,  17]: 0.0006810 十月
+	calendar WORD[ 6,  18]: 0.0006810 神無月
+	calendar WORD[ 6,  19]: 0.0006748 卯月
+	calendar WORD[ 6,  20]: 0.0006103 望月
+	calendar WORD[ 6,  21]: 0.0006038 六月
+	calendar WORD[ 6,  22]: 0.0005966 観月
+	calendar WORD[ 6,  23]: 0.0004610 五月
+	calendar WORD[ 6,  24]: 0.0004610 皐月
+TOKEN[ 7]: 0.0262920   23 monthly
+	monthly WORD[ 7,   1]: 0.0019785 月割り
+	monthly WORD[ 7,   2]: 0.0019765 月払い
+	monthly WORD[ 7,   3]: 0.0019730 月代り
+	monthly WORD[ 7,   4]: 0.0019730 月代わり
+	monthly WORD[ 7,   5]: 0.0019730 月替り
+	monthly WORD[ 7,   6]: 0.0019730 月替わり
+	monthly WORD[ 7,   7]: 0.0019727 月掛け
+	monthly WORD[ 7,   8]: 0.0011148 月賦
+	monthly WORD[ 7,   9]: 0.0011147 月刊
+	monthly WORD[ 7,  10]: 0.0009883 月番
+	monthly WORD[ 7,  11]: 0.0009863 月後れ
+	monthly WORD[ 7,  12]: 0.0009863 月遅れ
+	monthly WORD[ 7,  13]: 0.0008651 月利
+	monthly WORD[ 7,  14]: 0.0008647 月商
+	monthly WORD[ 7,  15]: 0.0008646 月謝
+	monthly WORD[ 7,  16]: 0.0006145 月ぎめ
+	monthly WORD[ 7,  17]: 0.0006145 月極
+	monthly WORD[ 7,  18]: 0.0006145 月極め
+	monthly WORD[ 7,  19]: 0.0006145 月決め
+	monthly WORD[ 7,  20]: 0.0005574 月額
+	monthly WORD[ 7,  21]: 0.0005574 月報
+	monthly WORD[ 7,  22]: 0.0005574 月収
+	monthly WORD[ 7,  23]: 0.0005574 月産
+TOKEN[ 8]: 0.0109871    6 crescent
+	crescent WORD[ 8,   1]: 0.0028394 繊月
+	crescent WORD[ 8,   2]: 0.0024664 彎月
+	crescent WORD[ 8,   3]: 0.0024663 偃月
+	crescent WORD[ 8,   4]: 0.0013106 月形
+	crescent WORD[ 8,   5]: 0.0010567 新月
+	crescent WORD[ 8,   6]: 0.0008477 三日月
+TOKEN[ 9]: 0.0101195    5 god
+	god WORD[ 9,   1]: 0.0027515 月宮
+	god WORD[ 9,   2]: 0.0023071 月夜見
+	god WORD[ 9,   3]: 0.0023071 月読み
+	god WORD[ 9,   4]: 0.0013769 月読
+	god WORD[ 9,   5]: 0.0013769 月神
+TOKEN[10]: 0.0087904   10 moonlight
+	moonlight WORD[10,   1]: 0.0010937 月影
+	moonlight WORD[10,   2]: 0.0009592 月明
+	moonlight WORD[10,   3]: 0.0009588 月色
+	moonlight WORD[10,   4]: 0.0009587 月桂
+	moonlight WORD[10,   5]: 0.0009586 月下
+	moonlight WORD[10,   6]: 0.0006809 月あかり
+	moonlight WORD[10,   7]: 0.0006809 月明かり
+	moonlight WORD[10,   8]: 0.0006809 月明り
+	moonlight WORD[10,   9]: 0.0006180 月光
+	moonlight WORD[10,  10]: 0.0006004 月
+TOKEN[11]: 0.0082741    4 night
+	night WORD[11,   1]: 0.0036017 五月闇
+	night WORD[11,   2]: 0.0033768 宵月
+	night WORD[11,   3]: 0.0006478 月夜
+	night WORD[11,   4]: 0.0006478 朧月
+TOKEN[12]: 0.0073578    3 mythology
+	mythology WORD[12,   1]: 0.0028334 月夜見
+	mythology WORD[12,   2]: 0.0028334 月読み
+	mythology WORD[12,   3]: 0.0016910 月読
+TOKEN[13]: 0.0072280    4 tenth
+	tenth WORD[13,   1]: 0.0042394 亥月
+	tenth WORD[13,   2]: 0.0012197 神月
+	tenth WORD[13,   3]: 0.0008845 十月
+	tenth WORD[13,   4]: 0.0008844 神無月
+TOKEN[14]: 0.0067251    3 rainy
+	rainy WORD[14,   1]: 0.0049514 五月闇
+	rainy WORD[14,   2]: 0.0008869 五月晴
+	rainy WORD[14,   3]: 0.0008869 五月晴れ
+TOKEN[15]: 0.0062999    3 Shinto
+	Shinto WORD[15,   1]: 0.0024260 月夜見
+	Shinto WORD[15,   2]: 0.0024260 月読み
+	Shinto WORD[15,   3]: 0.0014479 月読
+TOKEN[16]: 0.0062542    3 seventh
+	seventh WORD[16,   1]: 0.0041164 蘭月
+	seventh WORD[16,   2]: 0.0010689 七月
+	seventh WORD[16,   3]: 0.0010689 文月
+TOKEN[17]: 0.0055745    3 eight
+	eight WORD[17,   1]: 0.0040620 宵月
+	eight WORD[17,   2]: 0.0008669 月見
+	eight WORD[17,   3]: 0.0006456 観月
+TOKEN[18]: 0.0054574    2 evening
+	evening WORD[18,   1]: 0.0039081 宵月
+	evening WORD[18,   2]: 0.0015493 夕月
+TOKEN[19]: 0.0054132    3 season
+	season WORD[19,   1]: 0.0039855 五月闇
+	season WORD[19,   2]: 0.0007139 五月晴
+	season WORD[19,   3]: 0.0007139 五月晴れ
+TOKEN[20]: 0.0052026    3 ninth
+	ninth WORD[20,   1]: 0.0031929 紅葉月
+	ninth WORD[20,   2]: 0.0010686 長月
+	ninth WORD[20,   3]: 0.0009411 菊月
+TOKEN[21]: 0.0050695    2 intercalary
+	intercalary WORD[21,   1]: 0.0038051 うるう月
+	intercalary WORD[21,   2]: 0.0012644 閏月
+TOKEN[22]: 0.0047149    7 last
+	last WORD[22,   1]: 0.0013533 月隠り
+	last WORD[22,   2]: 0.0006457 極月
+	last WORD[22,   3]: 0.0006351 去月
+	last WORD[22,   4]: 0.0006116 客月
+	last WORD[22,   5]: 0.0005974 後月
+	last WORD[22,   6]: 0.0004361 前月
+	last WORD[22,   7]: 0.0004357 先月
+TOKEN[23]: 0.0047128    4 beginning
+	beginning WORD[23,   1]: 0.0014360 月初
+	beginning WORD[23,   2]: 0.0014360 月初め
+	beginning WORD[23,   3]: 0.0014360 月始め
+	beginning WORD[23,   4]: 0.0004047 五月蠅
+TOKEN[24]: 0.0045716    4 fifth
+	fifth WORD[24,   1]: 0.0024083 梅月
+	fifth WORD[24,   2]: 0.0005560 五月
+	fifth WORD[24,   3]: 0.0005560 皐月
+	fifth WORD[24,   4]: 0.0004954 雨月
+TOKEN[25]: 0.0043530    1 man
+	man WORD[25,   1]: 0.0043530 人月
+TOKEN[26]: 0.0043327    1 seen
+	seen WORD[26,   1]: 0.0043327 宵月
+TOKEN[27]: 0.0043156    1 setting
+	setting WORD[27,   1]: 0.0043156 落月
+TOKEN[28]: 0.0042395    3 middle
+	middle WORD[28,   1]: 0.0022037 月半ば
+	middle WORD[28,   2]: 0.0013353 月中
+	middle WORD[28,   3]: 0.0007006 月央
+TOKEN[29]: 0.0040668    2 sixth
+	sixth WORD[29,   1]: 0.0032800 水無月
+	sixth WORD[29,   2]: 0.0007868 六月
+TOKEN[30]: 0.0040410    2 radical
+	radical WORD[30,   1]: 0.0024293 肉月
+	radical WORD[30,   2]: 0.0016117 月偏
+TOKEN[31]: 0.0038748    1 dark
+	dark WORD[31,   1]: 0.0038748 五月闇
+TOKEN[32]: 0.0038402    1 Hindu
+	Hindu WORD[32,   1]: 0.0038402 月宮
+TOKEN[33]: 0.0038135    1 early
+	early WORD[33,   1]: 0.0038135 宵月
+TOKEN[34]: 0.0037929    2 Asian
+	Asian WORD[34,   1]: 0.0021353 月支
+	Asian WORD[34,   2]: 0.0016576 月氏
+TOKEN[35]: 0.0037783    2 halo
+	halo WORD[35,   1]: 0.0018891 月がさ
+	halo WORD[35,   2]: 0.0018891 月暈
+TOKEN[36]: 0.0037657    6 full
+	full WORD[36,   1]: 0.0011088 望月
+	full WORD[36,   2]: 0.0006369 月輪
+	full WORD[36,   3]: 0.0005490 明月
+	full WORD[36,   4]: 0.0005389 満月
+	full WORD[36,   5]: 0.0004790 名月
+	full WORD[36,   6]: 0.0004530 月の輪
+TOKEN[37]: 0.0037234    4 replacement
+	replacement WORD[37,   1]: 0.0009309 月代り
+	replacement WORD[37,   2]: 0.0009309 月代わり
+	replacement WORD[37,   3]: 0.0009309 月替り
+	replacement WORD[37,   4]: 0.0009309 月替わり
+TOKEN[38]: 0.0036373    1 zerumbet
+	zerumbet WORD[38,   1]: 0.0036373 月桃
+TOKEN[39]: 0.0034668    2 leap
+	leap WORD[39,   1]: 0.0026021 うるう月
+	leap WORD[39,   2]: 0.0008646 閏月
+TOKEN[40]: 0.0034313    1 Alpinia
+	Alpinia WORD[40,   1]: 0.0034313 月桃
+TOKEN[41]: 0.0032705    2 ancient
+	ancient WORD[41,   1]: 0.0018412 月支
+	ancient WORD[41,   2]: 0.0014293 月氏
+TOKEN[42]: 0.0031814    2 fourth
+	fourth WORD[42,   1]: 0.0023777 梅月
+	fourth WORD[42,   2]: 0.0008036 卯月
+TOKEN[43]: 0.0031411    5 day
+	day WORD[43,   1]: 0.0011909 月隠り
+	day WORD[43,   2]: 0.0005595 月旦
+	day WORD[43,   3]: 0.0004872 望月
+	day WORD[43,   4]: 0.0004825 明月
+	day WORD[43,   5]: 0.0004209 名月
+TOKEN[44]: 0.0031088    3 first
+	first WORD[44,   1]: 0.0015351 初月
+	first WORD[44,   2]: 0.0008307 正月
+	first WORD[44,   3]: 0.0007430 睦月
+TOKEN[45]: 0.0030814    7 counter
+	counter WORD[45,   1]: 0.0004402 か月
+	counter WORD[45,   2]: 0.0004402 カ月
+	counter WORD[45,   3]: 0.0004402 ケ月
+	counter WORD[45,   4]: 0.0004402 ヵ月
+	counter WORD[45,   5]: 0.0004402 ヶ月
+	counter WORD[45,   6]: 0.0004402 個月
+	counter WORD[45,   7]: 0.0004402 箇月
+TOKEN[46]: 0.0030679    4 new
+	new WORD[46,   1]: 0.0015102 初月
+	new WORD[46,   2]: 0.0006460 新月
+	new WORD[46,   3]: 0.0005182 三日月
+	new WORD[46,   4]: 0.0003936 月齢
+TOKEN[47]: 0.0030652    1 palace
+	palace WORD[47,   1]: 0.0030652 月宮
+TOKEN[48]: 0.0030443    3 menstruation
+	menstruation WORD[48,   1]: 0.0010595 月役
+	menstruation WORD[48,   2]: 0.0010586 月の物
+	menstruation WORD[48,   3]: 0.0009262 月経
+TOKEN[49]: 0.0030401    2 plan
+	plan WORD[49,   1]: 0.0015223 月割り
+	plan WORD[49,   2]: 0.0015178 月掛け
+TOKEN[50]: 0.0030251    5 paying
+	paying WORD[50,   1]: 0.0008675 月払い
+	paying WORD[50,   2]: 0.0005394 月ぎめ
+	paying WORD[50,   3]: 0.0005394 月極
+	paying WORD[50,   4]: 0.0005394 月極め
+	paying WORD[50,   5]: 0.0005394 月決め
+TOKEN[51]: 0.0030214    5 contract
+	contract WORD[51,   1]: 0.0009429 限月
+	contract WORD[51,   2]: 0.0005196 月ぎめ
+	contract WORD[51,   3]: 0.0005196 月極
+	contract WORD[51,   4]: 0.0005196 月極め
+	contract WORD[51,   5]: 0.0005196 月決め
+TOKEN[52]: 0.0029865    1 unpaid
+	unpaid WORD[52,   1]: 0.0029865 月越し
+TOKEN[53]: 0.0029262    3 installment
+	installment WORD[53,   1]: 0.0011428 月割り
+	installment WORD[53,   2]: 0.0011395 月掛け
+	installment WORD[53,   3]: 0.0006439 月賦
+TOKEN[54]: 0.0029214    2 previous
+	previous WORD[54,   1]: 0.0023983 月越し
+	previous WORD[54,   2]: 0.0005232 前月
+TOKEN[55]: 0.0029012    5 days
+	days WORD[55,   1]: 0.0006805 旬月
+	days WORD[55,   2]: 0.0004635 月日
+	days WORD[55,   3]: 0.0004381 日月
+	days WORD[55,   4]: 0.0004358 正月
+	days WORD[55,   5]: 0.0004198 月齢
+TOKEN[56]: 0.0028291    4 change
+	change WORD[56,   1]: 0.0007073 月代り
+	change WORD[56,   2]: 0.0007073 月代わり
+	change WORD[56,   3]: 0.0007073 月替り
+	change WORD[56,   4]: 0.0007073 月替わり
+TOKEN[57]: 0.0027960    2 left
+	left WORD[57,   1]: 0.0020480 月越し
+	left WORD[57,   2]: 0.0007481 肉月
+TOKEN[58]: 0.0027806    2 forehead
+	forehead WORD[58,   1]: 0.0018951 星月
+	forehead WORD[58,   2]: 0.0008855 月代
+TOKEN[59]: 0.0027603    2 people
+	people WORD[59,   1]: 0.0015539 月支
+	people WORD[59,   2]: 0.0012063 月氏
+TOKEN[60]: 0.0027598    4 turn
+	turn WORD[60,   1]: 0.0006900 月代り
+	turn WORD[60,   2]: 0.0006900 月代わり
+	turn WORD[60,   3]: 0.0006900 月替り
+	turn WORD[60,   4]: 0.0006900 月替わり
+TOKEN[61]: 0.0027068    4 harvest
+	harvest WORD[61,   1]: 0.0009740 秋月
+	harvest WORD[61,   2]: 0.0006790 明月
+	harvest WORD[61,   3]: 0.0005924 名月
+	harvest WORD[61,   4]: 0.0004614 雨月
+TOKEN[62]: 0.0026803    1 bay
+	bay WORD[62,   1]: 0.0026803 月桂
+TOKEN[63]: 0.0025741    5 period
+	period WORD[63,   1]: 0.0006153 月役
+	period WORD[63,   2]: 0.0006148 月の物
+	period WORD[63,   3]: 0.0005379 月経
+	period WORD[63,   4]: 0.0004592 蜜月
+	period WORD[63,   5]: 0.0003468 月間
+TOKEN[64]: 0.0025025    2 patch
+	patch WORD[64,   1]: 0.0018951 星月
+	patch WORD[64,   2]: 0.0006075 月の輪
+TOKEN[65]: 0.0024631    1 ginger
+	ginger WORD[65,   1]: 0.0024631 月桃
+TOKEN[66]: 0.0024458    5 time
+	time WORD[66,   1]: 0.0005662 月の物
+	time WORD[66,   2]: 0.0005177 旬月
+	time WORD[66,   3]: 0.0003526 月日
+	time WORD[66,   4]: 0.0003333 日月
+	time WORD[66,   5]: 0.0003234 歳月
+TOKEN[67]: 0.0024347    2 menses
+	menses WORD[67,   1]: 0.0012179 月役
+	menses WORD[67,   2]: 0.0012168 月の障り
+TOKEN[68]: 0.0022017    3 trite
+	trite WORD[68,   1]: 0.0007339 月並
+	trite WORD[68,   2]: 0.0007339 月並み
+	trite WORD[68,   3]: 0.0007339 月次
+TOKEN[69]: 0.0021193    2 July
+	July WORD[69,   1]: 0.0010699 水無月
+	July WORD[69,   2]: 0.0010494 七月
+TOKEN[70]: 0.0021190    1 candlestick
+	candlestick WORD[70,   1]: 0.0021190 月足
+TOKEN[71]: 0.0020779    4 bright
+	bright WORD[71,   1]: 0.0006287 明月
+	bright WORD[71,   2]: 0.0005486 名月
+	bright WORD[71,   3]: 0.0004503 佳月
+	bright WORD[71,   4]: 0.0004503 風月
+TOKEN[72]: 0.0020550    2 azalea
+	azalea WORD[72,   1]: 0.0006850 五月
+	azalea WORD[72,   2]: 0.0006850 皐月
+TOKEN[73]: 0.0020512    1 shell
+	shell WORD[73,   1]: 0.0020512 月桃
+TOKEN[74]: 0.0020008    3 hackneyed
+	hackneyed WORD[74,   1]: 0.0006669 月並
+	hackneyed WORD[74,   2]: 0.0006669 月並み
+	hackneyed WORD[74,   3]: 0.0006669 月次
+TOKEN[75]: 0.0019841    1 laurel
+	laurel WORD[75,   1]: 0.0019841 月桂
+TOKEN[76]: 0.0019465    2 June
+	June WORD[76,   1]: 0.0011319 水無月
+	June WORD[76,   2]: 0.0008146 六月
+TOKEN[77]: 0.0019074    3 commonplace
+	commonplace WORD[77,   1]: 0.0006358 月並
+	commonplace WORD[77,   2]: 0.0006358 月並み
+	commonplace WORD[77,   3]: 0.0006358 月次
+TOKEN[78]: 0.0018694    1 honeymoon
+	honeymoon WORD[78,   1]: 0.0018694 蜜月
+TOKEN[79]: 0.0018663    1 party
+	party WORD[79,   1]: 0.0018663 月待
+TOKEN[80]: 0.0018622    2 eighth
+	eighth WORD[80,   1]: 0.0010722 葉月
+	eighth WORD[80,   2]: 0.0007901 望月
+TOKEN[81]: 0.0018444    2 white
+	white WORD[81,   1]: 0.0013967 星月
+	white WORD[81,   2]: 0.0004477 月の輪
+TOKEN[82]: 0.0018410    1 tree
+	tree WORD[82,   1]: 0.0018410 月桂
+TOKEN[83]: 0.0018376    3 conventional
+	conventional WORD[83,   1]: 0.0006125 月並
+	conventional WORD[83,   2]: 0.0006125 月並み
+	conventional WORD[83,   3]: 0.0006125 月次
+TOKEN[84]: 0.0018352    2 sky
+	sky WORD[84,   1]: 0.0009502 霽月
+	sky WORD[84,   2]: 0.0008851 無月
+TOKEN[85]: 0.0018263    2 eclipse
+	eclipse WORD[85,   1]: 0.0009131 月蝕
+	eclipse WORD[85,   2]: 0.0009131 月食
+TOKEN[86]: 0.0017450    1 mountain
+	mountain WORD[86,   1]: 0.0017450 山月
+TOKEN[87]: 0.0016862    2 older
+	older WORD[87,   1]: 0.0008431 月後れ
+	older WORD[87,   2]: 0.0008431 月遅れ
+TOKEN[88]: 0.0016460    2 childbirth
+	childbirth WORD[88,   1]: 0.0008572 産み月
+	childbirth WORD[88,   2]: 0.0007888 臨月
+TOKEN[89]: 0.0016249    1 ten
+	ten WORD[89,   1]: 0.0016249 旬月
+TOKEN[90]: 0.0016104    1 star
+	star WORD[90,   1]: 0.0016104 星月
+TOKEN[91]: 0.0016099    2 pregnancy
+	pregnancy WORD[91,   1]: 0.0008384 産み月
+	pregnancy WORD[91,   2]: 0.0007716 臨月
+TOKEN[92]: 0.0015521    2 January
+	January WORD[92,   1]: 0.0009955 睦月
+	January WORD[92,   2]: 0.0005565 正月
+TOKEN[93]: 0.0015028    2 eaten
+	eaten WORD[93,   1]: 0.0009769 水無月
+	eaten WORD[93,   2]: 0.0005259 月餅
+TOKEN[94]: 0.0015020    2 sweet
+	sweet WORD[94,   1]: 0.0008185 水無月
+	sweet WORD[94,   2]: 0.0006835 月桂
+TOKEN[95]: 0.0014842    1 certain
+	certain WORD[95,   1]: 0.0014842 某月
+TOKEN[96]: 0.0014471    2 weather
+	weather WORD[96,   1]: 0.0007236 五月晴
+	weather WORD[96,   2]: 0.0007236 五月晴れ
+TOKEN[97]: 0.0014446    1 deity
+	deity WORD[97,   1]: 0.0014446 月神
+TOKEN[98]: 0.0014396    1 horse
+	horse WORD[98,   1]: 0.0014396 星月
+TOKEN[99]: 0.0014335    2 fine
+	fine WORD[99,   1]: 0.0007167 五月晴
+	fine WORD[99,   2]: 0.0007167 五月晴れ
+TOKEN[100]: 0.0013885    2 final
+	final WORD[100,   1]: 0.0007231 産み月
+	final WORD[100,   2]: 0.0006654 臨月
+TOKEN[101]: 0.0013808    1 palomino
+	palomino WORD[101,   1]: 0.0013808 月毛
+TOKEN[102]: 0.0013800    2 salary
+	salary WORD[102,   1]: 0.0008392 月俸
+	salary WORD[102,   2]: 0.0005408 月給
+TOKEN[103]: 0.0013706    1 moonless
+	moonless WORD[103,   1]: 0.0013706 無月
+TOKEN[104]: 0.0013683    1 third
+	third WORD[104,   1]: 0.0013683 桜月
+TOKEN[105]: 0.0013232    2 due
+	due WORD[105,   1]: 0.0006891 産み月
+	due WORD[105,   2]: 0.0006341 臨月
+TOKEN[106]: 0.0013214    1 court
+	court WORD[106,   1]: 0.0013214 月卿
+TOKEN[107]: 0.0013110    1 Gregorian
+	Gregorian WORD[107,   1]: 0.0013110 水無月
+TOKEN[108]: 0.0012781    2 importunate
+	importunate WORD[108,   1]: 0.0006391 五月蝿い
+	importunate WORD[108,   2]: 0.0006390 五月蠅い
+TOKEN[109]: 0.0012615    2 bossy
+	bossy WORD[109,   1]: 0.0006308 五月蝿い
+	bossy WORD[109,   2]: 0.0006308 五月蠅い
+TOKEN[110]: 0.0012422    1 twelfth
+	twelfth WORD[110,   1]: 0.0012422 臘月
+TOKEN[111]: 0.0012099    1 Laurus
+	Laurus WORD[111,   1]: 0.0012099 月桂
+TOKEN[112]: 0.0012012    2 nagging
+	nagging WORD[112,   1]: 0.0006006 五月蝿い
+	nagging WORD[112,   2]: 0.0006006 五月蠅い
+TOKEN[113]: 0.0011982    1 shining
+	shining WORD[113,   1]: 0.0011982 霽月
+TOKEN[114]: 0.0011920    2 tiresome
+	tiresome WORD[114,   1]: 0.0005960 五月蝿い
+	tiresome WORD[114,   2]: 0.0005960 五月蠅い
+TOKEN[115]: 0.0011679    2 picky
+	picky WORD[115,   1]: 0.0005840 五月蝿い
+	picky WORD[115,   2]: 0.0005840 五月蠅い
+TOKEN[116]: 0.0011470    1 eleventh
+	eleventh WORD[116,   1]: 0.0011470 霜月
+TOKEN[117]: 0.0011359    2 fastidious
+	fastidious WORD[117,   1]: 0.0005680 五月蝿い
+	fastidious WORD[117,   2]: 0.0005680 五月蠅い
+TOKEN[118]: 0.0011336    2 number
+	number WORD[118,   1]: 0.0007459 累月
+	number WORD[118,   2]: 0.0003878 月齢
+TOKEN[119]: 0.0011201    2 fussy
+	fussy WORD[119,   1]: 0.0005600 五月蝿い
+	fussy WORD[119,   2]: 0.0005600 五月蠅い
+TOKEN[120]: 0.0011171    1 scimitar
+	scimitar WORD[120,   1]: 0.0011171 偃月刀
+TOKEN[121]: 0.0011016    2 persistent
+	persistent WORD[121,   1]: 0.0005508 五月蝿い
+	persistent WORD[121,   2]: 0.0005508 五月蠅い
+TOKEN[122]: 0.0011016    1 classified
+	classified WORD[122,   1]: 0.0011016 月偏
+TOKEN[123]: 0.0010875    1 chest
+	chest WORD[123,   1]: 0.0010875 月の輪
+TOKEN[124]: 0.0010865    1 September
+	September WORD[124,   1]: 0.0010865 長月
+TOKEN[125]: 0.0010787    1 tuition
+	tuition WORD[125,   1]: 0.0010787 月謝
+TOKEN[126]: 0.0010714    2 noisy
+	noisy WORD[126,   1]: 0.0005357 五月蝿い
+	noisy WORD[126,   2]: 0.0005357 五月蠅い
+TOKEN[127]: 0.0010697    2 Chinese
+	Chinese WORD[127,   1]: 0.0005349 月桂
+	Chinese WORD[127,   2]: 0.0005349 月琴
+TOKEN[128]: 0.0010669    1 satellite
+	satellite WORD[128,   1]: 0.0005335 月
+TOKEN[129]: 0.0010568    1 poetic
+	poetic WORD[129,   1]: 0.0010568 無月
+TOKEN[130]: 0.0010505    1 moonlit
+	moonlit WORD[130,   1]: 0.0010505 月夜
+TOKEN[131]: 0.0010398    2 year
+	year WORD[131,   1]: 0.0006268 極月
+	year WORD[131,   2]: 0.0004130 正月
+TOKEN[132]: 0.0010297    1 premature
+	premature WORD[132,   1]: 0.0010297 月足らず
+TOKEN[133]: 0.0010244    2 annoying
+	annoying WORD[133,   1]: 0.0005122 五月蝿い
+	annoying WORD[133,   2]: 0.0005122 五月蠅い
+TOKEN[134]: 0.0010224    1 usage
+	usage WORD[134,   1]: 0.0010224 無月
+TOKEN[135]: 0.0010101    1 topped
+	topped WORD[135,   1]: 0.0010101 水無月
+TOKEN[136]: 0.0010067    2 second
+	second WORD[136,   1]: 0.0006186 如月
+	second WORD[136,   2]: 0.0003881 隔月
+TOKEN[137]: 0.0009920    1 lute
+	lute WORD[137,   1]: 0.0009920 月琴
+TOKEN[138]: 0.0009887    2 troublesome
+	troublesome WORD[138,   1]: 0.0004944 五月蝿い
+	troublesome WORD[138,   2]: 0.0004944 五月蠅い
+TOKEN[139]: 0.0009698    1 wintry
+	wintry WORD[139,   1]: 0.0009698 寒月
+TOKEN[140]: 0.0009687    1 menstrual
+	menstrual WORD[140,   1]: 0.0009687 月経
+TOKEN[141]: 0.0009610    2 loud
+	loud WORD[141,   1]: 0.0004805 五月蝿い
+	loud WORD[141,   2]: 0.0004805 五月蠅い
+TOKEN[142]: 0.0009307    1 December
+	December WORD[142,   1]: 0.0009307 極月
+TOKEN[143]: 0.0009269    1 shaved
+	shaved WORD[143,   1]: 0.0009269 月代
+TOKEN[144]: 0.0009222    2 shut
+	shut WORD[144,   1]: 0.0004611 五月蝿い
+	shut WORD[144,   2]: 0.0004611 五月蠅い
+TOKEN[145]: 0.0009197    1 water
+	water WORD[145,   1]: 0.0009197 水月
+TOKEN[146]: 0.0009109    1 October
+	October WORD[146,   1]: 0.0009109 十月
+TOKEN[147]: 0.0009070    2 particular
+	particular WORD[147,   1]: 0.0004535 五月蝿い
+	particular WORD[147,   2]: 0.0004535 五月蠅い
+TOKEN[148]: 0.0009052    1 shift
+	shift WORD[148,   1]: 0.0009052 月番
+TOKEN[149]: 0.0008990    1 hazy
+	hazy WORD[149,   1]: 0.0008990 朧月
+TOKEN[150]: 0.0008977    1 semicircle
+	semicircle WORD[150,   1]: 0.0008977 半月
+TOKEN[151]: 0.0008975    1 autumn
+	autumn WORD[151,   1]: 0.0008975 秋月
+TOKEN[152]: 0.0008881    1 shape
+	shape WORD[152,   1]: 0.0008881 月形
+TOKEN[153]: 0.0008863    1 commentary
+	commentary WORD[153,   1]: 0.0008863 月旦
+TOKEN[154]: 0.0008772    1 sketch
+	sketch WORD[154,   1]: 0.0008772 月旦
+TOKEN[155]: 0.0008756    2 quiet
+	quiet WORD[155,   1]: 0.0004378 五月蝿い
+	quiet WORD[155,   2]: 0.0004378 五月蠅い
+TOKEN[156]: 0.0008703    1 plexus
+	plexus WORD[156,   1]: 0.0008703 水月
+TOKEN[157]: 0.0008587    1 visible
+	visible WORD[157,   1]: 0.0008587 残月
+TOKEN[158]: 0.0008516    1 duty
+	duty WORD[158,   1]: 0.0008516 月番
+TOKEN[159]: 0.0008490    1 crown
+	crown WORD[159,   1]: 0.0008490 月代
+TOKEN[160]: 0.0008459    2 rain
+	rain WORD[160,   1]: 0.0004477 五月雨
+	rain WORD[160,   2]: 0.0003982 雨月
+TOKEN[161]: 0.0008380    1 natural
+	natural WORD[161,   1]: 0.0004190 月
+TOKEN[162]: 0.0008319    1 review
+	review WORD[162,   1]: 0.0008319 月評
+TOKEN[163]: 0.0008309    1 trivet
+	trivet WORD[163,   1]: 0.0008309 月の輪
+TOKEN[164]: 0.0008268    1 moonbeam
+	moonbeam WORD[164,   1]: 0.0008268 月光
+TOKEN[165]: 0.0008251    1 age
+	age WORD[165,   1]: 0.0008251 月齢
+TOKEN[166]: 0.0008247    1 visit
+	visit WORD[166,   1]: 0.0008247 月参り
+TOKEN[167]: 0.0008200    1 past
+	past WORD[167,   1]: 0.0008200 月頃
+TOKEN[168]: 0.0008152    1 birth
+	birth WORD[168,   1]: 0.0008152 月足らず
+TOKEN[169]: 0.0008134    1 life
+	life WORD[169,   1]: 0.0004067 月日
+TOKEN[170]: 0.0008123    1 reflected
+	reflected WORD[170,   1]: 0.0008123 水月
+TOKEN[171]: 0.0007809    1 noble
+	noble WORD[171,   1]: 0.0007809 月卿
+TOKEN[172]: 0.0007709    1 senior
+	senior WORD[172,   1]: 0.0007709 月卿
+TOKEN[173]: 0.0007677    1 stole
+	stole WORD[173,   1]: 0.0007677 月の輪
+TOKEN[174]: 0.0007493    1 meat
+	meat WORD[174,   1]: 0.0007493 肉月
+TOKEN[175]: 0.0007478    1 morning
+	morning WORD[175,   1]: 0.0007478 残月
+TOKEN[176]: 0.0007465    1 temple
+	temple WORD[176,   1]: 0.0007465 月参り
+TOKEN[177]: 0.0007453    1 shrine
+	shrine WORD[177,   1]: 0.0007453 月参り
+TOKEN[178]: 0.0007451    1 fee
+	fee WORD[178,   1]: 0.0007451 月謝
+TOKEN[179]: 0.0007317    2 end
+	end WORD[179,   1]: 0.0003658 月末
+	end WORD[179,   2]: 0.0003658 月内
+TOKEN[180]: 0.0007302    1 intimate
+	intimate WORD[180,   1]: 0.0007302 蜜月
+TOKEN[181]: 0.0007275    1 fashioned
+	fashioned WORD[181,   1]: 0.0007275 月の輪
+TOKEN[182]: 0.0007105    1 pit
+	pit WORD[182,   1]: 0.0007105 水月
+TOKEN[183]: 0.0006896    1 interest
+	interest WORD[183,   1]: 0.0006896 月利
+TOKEN[184]: 0.0006886    1 winter
+	winter WORD[184,   1]: 0.0006886 寒月
+TOKEN[185]: 0.0006857    1 Asiatic
+	Asiatic WORD[185,   1]: 0.0006857 月の輪
+TOKEN[186]: 0.0006848    1 solar
+	solar WORD[186,   1]: 0.0006848 水月
+TOKEN[187]: 0.0006709    1 following
+	following WORD[187,   1]: 0.0006709 翌月
+TOKEN[188]: 0.0006694    1 short
+	short WORD[188,   1]: 0.0006694 旬月
+TOKEN[189]: 0.0006670    1 round
+	round WORD[189,   1]: 0.0006670 月輪
+TOKEN[190]: 0.0006670    1 top
+	top WORD[190,   1]: 0.0006670 月代
+TOKEN[191]: 0.0006577    1 rice
+	rice WORD[191,   1]: 0.0006577 水無月
+TOKEN[192]: 0.0006499    1 spring
+	spring WORD[192,   1]: 0.0006499 朧月
+TOKEN[193]: 0.0006499    1 official
+	official WORD[193,   1]: 0.0006499 月卿
+TOKEN[194]: 0.0006439    1 confection
+	confection WORD[194,   1]: 0.0006439 月餅
+TOKEN[195]: 0.0006426    1 stomach
+	stomach WORD[195,   1]: 0.0006426 水月
+TOKEN[196]: 0.0006290    1 next
+	next WORD[196,   1]: 0.0006290 来月
+TOKEN[197]: 0.0006270    1 part
+	part WORD[197,   1]: 0.0006270 月代
+TOKEN[198]: 0.0006256    1 Sunday
+	Sunday WORD[198,   1]: 0.0006256 日月
+TOKEN[199]: 0.0006247    1 death
+	death WORD[199,   1]: 0.0006247 祥月
+TOKEN[200]: 0.0006200    1 jellyfish
+	jellyfish WORD[200,   1]: 0.0006200 海月
+TOKEN[201]: 0.0006197    1 pastime
+	pastime WORD[201,   1]: 0.0006197 花月
+TOKEN[202]: 0.0006180    1 dough
+	dough WORD[202,   1]: 0.0006180 月餅
+TOKEN[203]: 0.0006093    1 character
+	character WORD[203,   1]: 0.0006093 月旦
+TOKEN[204]: 0.0006056    1 swarming
+	swarming WORD[204,   1]: 0.0006056 五月蠅
+TOKEN[205]: 0.0006032    1 relationship
+	relationship WORD[205,   1]: 0.0006032 蜜月
+TOKEN[206]: 0.0006026    1 head
+	head WORD[206,   1]: 0.0006026 月代
+TOKEN[207]: 0.0005815    1 decorative
+	decorative WORD[207,   1]: 0.0005815 月の輪
+TOKEN[208]: 0.0005693    1 half
+	half WORD[208,   1]: 0.0005693 半月
+TOKEN[209]: 0.0005574    1 infant
+	infant WORD[209,   1]: 0.0005574 月齢
+TOKEN[210]: 0.0005561    1 output
+	output WORD[210,   1]: 0.0005561 月産
+TOKEN[211]: 0.0005427    1 circle
+	circle WORD[211,   1]: 0.0005427 月の輪
+TOKEN[212]: 0.0005389    1 leisure
+	leisure WORD[212,   1]: 0.0005389 花月
+TOKEN[213]: 0.0005386    1 straw
+	straw WORD[213,   1]: 0.0005386 月の輪
+TOKEN[214]: 0.0005378    1 breeze
+	breeze WORD[214,   1]: 0.0005378 風月
+TOKEN[215]: 0.0005348    1 monk
+	monk WORD[215,   1]: 0.0005348 月の輪
+TOKEN[216]: 0.0005252    1 filled
+	filled WORD[216,   1]: 0.0005252 月餅
+TOKEN[217]: 0.0005164    1 publication
+	publication WORD[217,   1]: 0.0005164 月刊
+TOKEN[218]: 0.0005149    1 elegant
+	elegant WORD[218,   1]: 0.0005149 花月
+TOKEN[219]: 0.0005109    1 bear
+	bear WORD[219,   1]: 0.0005109 月の輪
+TOKEN[220]: 0.0005106    1 ring
+	ring WORD[220,   1]: 0.0005106 月の輪
+TOKEN[221]: 0.0005081    1 sum
+	sum WORD[221,   1]: 0.0005081 月額
+TOKEN[222]: 0.0004946    1 sun
+	sun WORD[222,   1]: 0.0004946 日月
+TOKEN[223]: 0.0004867    1 refined
+	refined WORD[223,   1]: 0.0004867 花月
+TOKEN[224]: 0.0004832    1 income
+	income WORD[224,   1]: 0.0004832 月収
+TOKEN[225]: 0.0004795    1 production
+	production WORD[225,   1]: 0.0004795 月産
+TOKEN[226]: 0.0004749    1 bean
+	bean WORD[226,   1]: 0.0004749 月餅
+TOKEN[227]: 0.0004700    1 paste
+	paste WORD[227,   1]: 0.0004700 月餅
+TOKEN[228]: 0.0004684    1 cool
+	cool WORD[228,   1]: 0.0004684 風月
+TOKEN[229]: 0.0004682    1 issue
+	issue WORD[229,   1]: 0.0004682 月刊
+TOKEN[230]: 0.0004669    1 report
+	report WORD[230,   1]: 0.0004669 月報
+TOKEN[231]: 0.0004655    1 person
+	person WORD[231,   1]: 0.0004655 祥月
+TOKEN[232]: 0.0004636    1 black
+	black WORD[232,   1]: 0.0004636 月の輪
+TOKEN[233]: 0.0004632    1 delivery
+	delivery WORD[233,   1]: 0.0004632 限月
+TOKEN[234]: 0.0004562    1 one
+	one WORD[234,   1]: 0.0002281 月日
+TOKEN[235]: 0.0004544    1 payment
+	payment WORD[235,   1]: 0.0004544 月賦
+TOKEN[236]: 0.0004544    1 beauty
+	beauty WORD[236,   1]: 0.0004544 風月
+TOKEN[237]: 0.0004469    1 surface
+	surface WORD[237,   1]: 0.0004469 月面
+TOKEN[238]: 0.0004378    1 amount
+	amount WORD[238,   1]: 0.0004378 月額
+TOKEN[239]: 0.0004262    1 nature
+	nature WORD[239,   1]: 0.0004262 風月
+TOKEN[240]: 0.0004242    1 three
+	three WORD[240,   1]: 0.0004242 正月
+TOKEN[241]: 0.0004239    1 unable
+	unable WORD[241,   1]: 0.0004239 雨月
+TOKEN[242]: 0.0004142    1 summer
+	summer WORD[242,   1]: 0.0004142 五月蠅
+TOKEN[243]: 0.0004042    1 see
+	see WORD[243,   1]: 0.0004042 雨月
+TOKEN[244]: 0.0003190    1 good
+	good WORD[244,   1]: 0.0003190 佳月

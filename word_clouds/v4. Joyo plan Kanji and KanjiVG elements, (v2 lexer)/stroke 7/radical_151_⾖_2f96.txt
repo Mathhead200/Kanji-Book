@@ -1,0 +1,667 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1619369    5 green          : 豌豆, 生豆, 青豆, 枝豆, 緑豆
+0.0872833    1 least          : 豈
+0.0790409    2 black          : 豆豉, 黒豆
+0.0744543    5 pea            : 豇豆, 大角豆, 豆科, 豆苗, 豆
+0.0648062    2 Chinese        : 豆豉, 豆板醤
+0.0555739    1 way            : 豈
+0.0317996   30 bean           : 生豆, とら豆, 虎豆, そら豆, 空豆, 蚕豆, 菜豆, 藤豆, お多福豆, 豆幹, ...
+0.0292389    2 cowpea         : 豇豆, 大角豆
+0.0238594    1 coffee         : 生豆
+0.0215360    2 cow            : 豇豆, 大角豆
+0.0207805    2 southern       : 豇豆, 大角豆
+0.0174665    1 stripling      : 豎子
+0.0157735    1 lad            : 豎子
+0.0146317    1 demon          : 二豎
+0.0144724    1 greenhorn      : 豎子
+0.0134699    1 ill            : 二豎
+0.0134127    1 health         : 二豎
+0.0133274    1 inexperienced  : 豎子
+0.0130307    1 disease        : 二豎
+0.0115204    5 former         : 豊州, 豊前, 豊国, 豊後, 伊豆
+0.0113070    5 ample          : 豊乳, 豊胸, 豊か, 豊, 豊富
+0.0102000    1 young          : 豎子
+0.0099674    2 child          : 豎子, 豆
+0.0090280    1 two            : 豊州
+0.0079207    5 harvest        : 豊稔, 豊凶, 豊穣, 豊熟, 豊作
+0.0072559    7 rich           : 豊か, 豊, 豊麗, 豊潤, 豊凶, 豊国, 豊富
+0.0072054    1 person         : 豎子
+0.0070730    1 bumper         : 豊稔
+0.0057293    7 abundant       : 豊潤, 豊か, 豊, 豊穣, 豊熟, 豊作, 豊富
+0.0056644    4 full           : 豊乳, 豊胸, 豊か, 豊
+0.0055804    1 pear           : 豆梨
+0.0054943    2 breast         : 豊乳, 豊胸
+0.0050607    1 augmentation   : 豊乳
+0.0042842    3 fruitful       : 豊年, 豊饒, 豊穰
+0.0041045    2 Pyrus          : 豆梨, 豊水
+0.0039893    4 plump          : 豊満, 豊頬, 豊か, 豊
+0.0039402    2 tiger          : とら豆, 虎豆
+0.0035337    3 legume         : 莢豆, 豆果, 豆
+0.0030286    3 large          : 豊乳, お多福豆, 青豆
+0.0027778    3 affluent       : 豊か, 豊, 豊国
+0.0026507    2 productive     : 豊饒, 豊穰
+0.0026498    1 leguminous     : 莢豆
+0.0026498    1 legumen        : 莢豆
+0.0026397    2 voluptuous     : 豊満, 豊艶
+0.0026109    3 plentiful      : 豊か, 豊, 豊富
+0.0024525    2 fertile        : 豊饒, 豊穰
+0.0023103    4 province       : 豊前, 豊国, 豊後, 伊豆
+0.0019325    1 enlargement    : 豊胸
+0.0018423    2 good           : 豊漁, 豊穣
+0.0017208    2 beautiful      : 豊麗, 豊艶
+0.0017089    3 plant          : 莢豆, 豆幹, 豆殻
+0.0016798    2 relaxed        : 豊か, 豊
+0.0016699    2 wealthy        : 豊か, 豊
+0.0016514    2 eye            : とら豆, 虎豆
+0.0015487    2 excess         : 豊か, 豊
+0.0015197    1 Sorbus         : 小豆梨
+0.0015035    5 soy            : 豆汁, 豆油, 豆乳, 豆, 大豆
+0.0014471    1 corpulent      : 豊満
+0.0013842    2 easy           : 豊か, 豊
+0.0013255    2 crop           : 豊穣, 豊作
+0.0013229    1 water          : 豊水
+0.0012947    1 abundance      : 豊水
+0.0012755    1 fertility      : 豊沃
+0.0012565    1 stout          : 豊満
+0.0012552    1 cultivar       : 豊水
+0.0012387    1 ripe           : 豊潤
+0.0012379    1 fascinating    : 豊艶
+0.0012083    2 open           : 豊か, 豊
+0.0011882    1 mellow         : 豊潤
+0.0011568    1 country        : 豊国
+0.0011508    1 attractive     : 豊頬
+0.0011443    2 mind           : 豊か, 豊
+0.0011419    1 north          : 豊前
+0.0011229    1 east           : 豊前
+0.0010708    1 haul           : 豊漁
+0.0010465    1 Korean         : 小豆梨
+0.0010415    4 kidney         : 菜豆, うずら豆, 鶉豆, 豆
+0.0010226    5 broad          : お多福豆, そら豆, 空豆, 蚕豆, 豆板醤
+0.0009846    1 splendid       : 豊麗
+0.0009587    4 boiled         : 氷小豆, お多福豆, みつ豆, 蜜豆
+0.0009493    1 design         : 豊麗
+0.0009451    5 tofu           : 豆汁, 豆油, 豆冨, 豆富, 豆腐
+0.0009433    1 Croton         : 巴豆
+0.0008896    1 altar          : 俎豆
+0.0008726    1 poor           : 豊凶
+0.0008634    1 catch          : 豊漁
+0.0008451    2 creamy         : 豆汁, 豆油
+0.0008389    3 miniature      : 豆球, 豆本, 豆
+0.0008373    1 sacrifice      : 俎豆
+0.0008079    1 purging        : 巴豆
+0.0007831    1 year           : 豊年
+0.0007657    3 milk           : 豆乳, 豆汁, 豆油
+0.0007574    1 high           : 豊水
+0.0007548    5 soybean        : 豆粕, 黒豆, 豆, 大豆, 青豆
+0.0007360    1 pop            : 弾け豆
+0.0007032    3 Canavalia      : なた豆, 刀豆, 鉈豆
+0.0006910    2 ingredient     : 豆汁, 豆油
+0.0006826    2 soaked         : 豆汁, 豆油
+0.0006820    1 split          : 豊国
+0.0006729    1 haricot        : 菜豆
+0.0006674    3 paste          : 豆汁, 豆油, 豆板醤
+0.0006614    1 ancient        : 俎豆
+0.0006509    3 Vicia          : そら豆, 空豆, 蚕豆
+0.0006479    1 grain          : 豊穣
+0.0006248    1 hyacinth       : 藤豆
+0.0006063    2 midget         : 豆球, 豆
+0.0005280    1 shaved         : 氷小豆
+0.0005047    1 Phaseolus      : 花豆
+0.0004779    1 Fabaceae       : 豆科
+0.0004778    2 agar           : みつ豆, 蜜豆
+0.0004652    1 bowl           : 氷小豆
+0.0004518    1 ice            : 氷小豆
+0.0004460    2 husk           : 豆幹, 豆殻
+0.0004249    2 scattering     : 豆まき, 豆撒き
+0.0004249    2 sowing         : 豆まき, 豆撒き
+0.0004132    2 pinto          : うずら豆, 鶉豆
+0.0004114    2 syrup          : みつ豆, 蜜豆
+0.0004103    3 curd           : 豆冨, 豆富, 豆腐
+0.0004059    2 go             : 豆汁, 豆油
+0.0003923    3 sword          : なた豆, 刀豆, 鉈豆
+0.0003852    2 blister        : 底豆, 血豆
+0.0003847    3 horse          : そら豆, 空豆, 蚕豆
+0.0003783    1 bulb           : 豆球
+0.0003772    2 mottled        : うずら豆, 鶉豆
+0.0003722    1 scarlet        : 花豆
+0.0003699    1 runner         : 花豆
+0.0003675    2 mixture        : みつ豆, 蜜豆
+0.0003504    1 speck          : 豆粒
+0.0003440    1 gruel          : 小豆粥
+0.0003389    2 Glycine        : 豆, 大豆
+0.0003389    2 soya           : 豆, 大豆
+0.0003305    2 drive          : 豆まき, 豆撒き
+0.0003278    2 evil           : 豆まき, 豆撒き
+0.0003249    1 lamp           : 豆球
+0.0003182    2 fruit          : みつ豆, 蜜豆
+0.0003050    2 small          : 豆狸, 豆
+0.0002916    1 loquacious     : 豆蔵
+0.0002916    1 candied        : 豆板
+0.0002556    1 briquette      : 豆炭
+0.0002447    1 family         : 豆科
+0.0002317    1 slab           : 豆板
+0.0002270    1 light          : 豆球
+0.0002195    1 oval           : 豆炭
+0.0002176    1 book           : 豆本
+0.0002109    1 mung           : 緑豆
+0.0001991    1 corn           : 底豆
+0.0001978    1 gram           : 緑豆
+0.0001926    1 rice           : 小豆粥
+0.0001894    1 charcoal       : 豆炭
+0.0001884    1 cake           : 豆粕
+0.0001850    1 clitoris       : 豆
+0.0001812    1 scattered      : 福豆
+0.0001753    1 sole           : 底豆
+0.0001696    1 oil            : 豆粕
+0.0001683    1 meal           : 豆粕
+0.0001630    1 genitalia      : 豆
+0.0001574    1 salted         : 塩豆
+0.0001550    1 spotted        : 豆絞り
+0.0001494    1 foot           : 底豆
+0.0001461    1 man            : 豆蔵
+0.0001443    1 blood          : 血豆
+0.0001406    1 chili          : 豆板醤
+0.0001363    1 lentil         : 扁豆
+0.0001299    1 edible         : 豆
+0.0001189    1 baby           : 豆
+0.0001094    1 pattern        : 豆絞り
+0.0001082    1 female         : 豆
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1619369    5 green
+	green WORD[ 1,   1]: 0.1429733 豌豆
+	green WORD[ 1,   2]: 0.0185828 生豆
+	green WORD[ 1,   3]: 0.0001419 青豆
+	green WORD[ 1,   4]: 0.0001258 枝豆
+	green WORD[ 1,   5]: 0.0001130 緑豆
+TOKEN[ 2]: 0.0872833    1 least
+	least WORD[ 2,   1]: 0.0872833 豈
+TOKEN[ 3]: 0.0790409    2 black
+	black WORD[ 3,   1]: 0.0789166 豆豉
+	black WORD[ 3,   2]: 0.0001243 黒豆
+TOKEN[ 4]: 0.0744543    5 pea
+	pea WORD[ 4,   1]: 0.0729492 豇豆
+	pea WORD[ 4,   2]: 0.0005591 大角豆
+	pea WORD[ 4,   3]: 0.0004165 豆科
+	pea WORD[ 4,   4]: 0.0003745 豆苗
+	pea WORD[ 4,   5]: 0.0001550 豆
+TOKEN[ 5]: 0.0648062    2 Chinese
+	Chinese WORD[ 5,   1]: 0.0647313 豆豉
+	Chinese WORD[ 5,   2]: 0.0000749 豆板醤
+TOKEN[ 6]: 0.0555739    1 way
+	way WORD[ 6,   1]: 0.0555739 豈
+TOKEN[ 7]: 0.0317996   30 bean
+	bean WORD[ 7,   1]: 0.0212814 生豆
+	bean WORD[ 7,   2]: 0.0018362 とら豆
+	bean WORD[ 7,   3]: 0.0018362 虎豆
+	bean WORD[ 7,   4]: 0.0004559 そら豆
+	bean WORD[ 7,   5]: 0.0004559 空豆
+	bean WORD[ 7,   6]: 0.0004559 蚕豆
+	bean WORD[ 7,   7]: 0.0004131 菜豆
+	bean WORD[ 7,   8]: 0.0004089 藤豆
+	bean WORD[ 7,   9]: 0.0003983 お多福豆
+	bean WORD[ 7,  10]: 0.0003581 豆幹
+	bean WORD[ 7,  11]: 0.0003581 豆殻
+	bean WORD[ 7,  12]: 0.0003099 花豆
+	bean WORD[ 7,  13]: 0.0002943 ひよこ豆
+	bean WORD[ 7,  14]: 0.0002943 ヒヨコ豆
+	bean WORD[ 7,  15]: 0.0002943 雛豆
+	bean WORD[ 7,  16]: 0.0002704 うずら豆
+	bean WORD[ 7,  17]: 0.0002704 鶉豆
+	bean WORD[ 7,  18]: 0.0002421 豆
+	bean WORD[ 7,  19]: 0.0001790 豆粕
+	bean WORD[ 7,  20]: 0.0001790 豆板
+	bean WORD[ 7,  21]: 0.0001595 なた豆
+	bean WORD[ 7,  22]: 0.0001595 刀豆
+	bean WORD[ 7,  23]: 0.0001595 鉈豆
+	bean WORD[ 7,  24]: 0.0001295 緑豆
+	bean WORD[ 7,  25]: 0.0001044 豆冨
+	bean WORD[ 7,  26]: 0.0001044 豆富
+	bean WORD[ 7,  27]: 0.0001044 豆腐
+	bean WORD[ 7,  28]: 0.0001044 豆板醤
+	bean WORD[ 7,  29]: 0.0001007 大豆
+	bean WORD[ 7,  30]: 0.0000816 小豆
+TOKEN[ 8]: 0.0292389    2 cowpea
+	cowpea WORD[ 8,   1]: 0.0290166 豇豆
+	cowpea WORD[ 8,   2]: 0.0002224 大角豆
+TOKEN[ 9]: 0.0238594    1 coffee
+	coffee WORD[ 9,   1]: 0.0238594 生豆
+TOKEN[10]: 0.0215360    2 cow
+	cow WORD[10,   1]: 0.0213722 豇豆
+	cow WORD[10,   2]: 0.0001638 大角豆
+TOKEN[11]: 0.0207805    2 southern
+	southern WORD[11,   1]: 0.0206225 豇豆
+	southern WORD[11,   2]: 0.0001580 大角豆
+TOKEN[12]: 0.0174665    1 stripling
+	stripling WORD[12,   1]: 0.0174665 豎子
+TOKEN[13]: 0.0157735    1 lad
+	lad WORD[13,   1]: 0.0157735 豎子
+TOKEN[14]: 0.0146317    1 demon
+	demon WORD[14,   1]: 0.0146317 二豎
+TOKEN[15]: 0.0144724    1 greenhorn
+	greenhorn WORD[15,   1]: 0.0144724 豎子
+TOKEN[16]: 0.0134699    1 ill
+	ill WORD[16,   1]: 0.0134699 二豎
+TOKEN[17]: 0.0134127    1 health
+	health WORD[17,   1]: 0.0134127 二豎
+TOKEN[18]: 0.0133274    1 inexperienced
+	inexperienced WORD[18,   1]: 0.0133274 豎子
+TOKEN[19]: 0.0130307    1 disease
+	disease WORD[19,   1]: 0.0130307 二豎
+TOKEN[20]: 0.0115204    5 former
+	former WORD[20,   1]: 0.0093908 豊州
+	former WORD[20,   2]: 0.0009351 豊前
+	former WORD[20,   3]: 0.0005626 豊国
+	former WORD[20,   4]: 0.0005607 豊後
+	former WORD[20,   5]: 0.0000712 伊豆
+TOKEN[21]: 0.0113070    5 ample
+	ample WORD[21,   1]: 0.0047039 豊乳
+	ample WORD[21,   2]: 0.0020911 豊胸
+	ample WORD[21,   3]: 0.0018671 豊か
+	ample WORD[21,   4]: 0.0018670 豊
+	ample WORD[21,   5]: 0.0007779 豊富
+TOKEN[22]: 0.0102000    1 young
+	young WORD[22,   1]: 0.0102000 豎子
+TOKEN[23]: 0.0099674    2 child
+	child WORD[23,   1]: 0.0098669 豎子
+	child WORD[23,   2]: 0.0001005 豆
+TOKEN[24]: 0.0090280    1 two
+	two WORD[24,   1]: 0.0090280 豊州
+TOKEN[25]: 0.0079207    5 harvest
+	harvest WORD[25,   1]: 0.0049339 豊稔
+	harvest WORD[25,   2]: 0.0009688 豊凶
+	harvest WORD[25,   3]: 0.0006727 豊穣
+	harvest WORD[25,   4]: 0.0006727 豊熟
+	harvest WORD[25,   5]: 0.0006726 豊作
+TOKEN[26]: 0.0072559    7 rich
+	rich WORD[26,   1]: 0.0014807 豊か
+	rich WORD[26,   2]: 0.0014807 豊
+	rich WORD[26,   3]: 0.0009971 豊麗
+	rich WORD[26,   4]: 0.0009952 豊潤
+	rich WORD[26,   5]: 0.0009947 豊凶
+	rich WORD[26,   6]: 0.0006906 豊国
+	rich WORD[26,   7]: 0.0006169 豊富
+TOKEN[27]: 0.0072054    1 person
+	person WORD[27,   1]: 0.0072054 豎子
+TOKEN[28]: 0.0070730    1 bumper
+	bumper WORD[28,   1]: 0.0070730 豊稔
+TOKEN[29]: 0.0057293    7 abundant
+	abundant WORD[29,   1]: 0.0011040 豊潤
+	abundant WORD[29,   2]: 0.0008213 豊か
+	abundant WORD[29,   3]: 0.0008213 豊
+	abundant WORD[29,   4]: 0.0007661 豊穣
+	abundant WORD[29,   5]: 0.0007661 豊熟
+	abundant WORD[29,   6]: 0.0007661 豊作
+	abundant WORD[29,   7]: 0.0006844 豊富
+TOKEN[30]: 0.0056644    4 full
+	full WORD[30,   1]: 0.0030761 豊乳
+	full WORD[30,   2]: 0.0013674 豊胸
+	full WORD[30,   3]: 0.0006105 豊か
+	full WORD[30,   4]: 0.0006105 豊
+TOKEN[31]: 0.0055804    1 pear
+	pear WORD[31,   1]: 0.0055804 豆梨
+TOKEN[32]: 0.0054943    2 breast
+	breast WORD[32,   1]: 0.0038035 豊乳
+	breast WORD[32,   2]: 0.0016908 豊胸
+TOKEN[33]: 0.0050607    1 augmentation
+	augmentation WORD[33,   1]: 0.0050607 豊乳
+TOKEN[34]: 0.0042842    3 fruitful
+	fruitful WORD[34,   1]: 0.0013912 豊年
+	fruitful WORD[34,   2]: 0.0009643 豊饒
+	fruitful WORD[34,   3]: 0.0009643 豊穰
+TOKEN[35]: 0.0041045    2 Pyrus
+	Pyrus WORD[35,   1]: 0.0028310 豆梨
+	Pyrus WORD[35,   2]: 0.0012736 豊水
+TOKEN[36]: 0.0039893    4 plump
+	plump WORD[36,   1]: 0.0011450 豊満
+	plump WORD[36,   2]: 0.0011430 豊頬
+	plump WORD[36,   3]: 0.0008507 豊か
+	plump WORD[36,   4]: 0.0008507 豊
+TOKEN[37]: 0.0039402    2 tiger
+	tiger WORD[37,   1]: 0.0019701 とら豆
+	tiger WORD[37,   2]: 0.0019701 虎豆
+TOKEN[38]: 0.0035337    3 legume
+	legume WORD[38,   1]: 0.0023224 莢豆
+	legume WORD[38,   2]: 0.0010386 豆果
+	legume WORD[38,   3]: 0.0001728 豆
+TOKEN[39]: 0.0030286    3 large
+	large WORD[39,   1]: 0.0028066 豊乳
+	large WORD[39,   2]: 0.0001577 お多福豆
+	large WORD[39,   3]: 0.0000643 青豆
+TOKEN[40]: 0.0027778    3 affluent
+	affluent WORD[40,   1]: 0.0009472 豊か
+	affluent WORD[40,   2]: 0.0009471 豊
+	affluent WORD[40,   3]: 0.0008835 豊国
+TOKEN[41]: 0.0026507    2 productive
+	productive WORD[41,   1]: 0.0008836 豊饒
+	productive WORD[41,   2]: 0.0008836 豊穰
+TOKEN[42]: 0.0026498    1 leguminous
+	leguminous WORD[42,   1]: 0.0026498 莢豆
+TOKEN[43]: 0.0026498    1 legumen
+	legumen WORD[43,   1]: 0.0026498 莢豆
+TOKEN[44]: 0.0026397    2 voluptuous
+	voluptuous WORD[44,   1]: 0.0013211 豊満
+	voluptuous WORD[44,   2]: 0.0013186 豊艶
+TOKEN[45]: 0.0026109    3 plentiful
+	plentiful WORD[45,   1]: 0.0009215 豊か
+	plentiful WORD[45,   2]: 0.0009215 豊
+	plentiful WORD[45,   3]: 0.0007679 豊富
+TOKEN[46]: 0.0024525    2 fertile
+	fertile WORD[46,   1]: 0.0008175 豊饒
+	fertile WORD[46,   2]: 0.0008175 豊穰
+TOKEN[47]: 0.0023103    4 province
+	province WORD[47,   1]: 0.0010144 豊前
+	province WORD[47,   2]: 0.0006103 豊国
+	province WORD[47,   3]: 0.0006083 豊後
+	province WORD[47,   4]: 0.0000772 伊豆
+TOKEN[48]: 0.0019325    1 enlargement
+	enlargement WORD[48,   1]: 0.0019325 豊胸
+TOKEN[49]: 0.0018423    2 good
+	good WORD[49,   1]: 0.0013684 豊漁
+	good WORD[49,   2]: 0.0004739 豊穣
+TOKEN[50]: 0.0017208    2 beautiful
+	beautiful WORD[50,   1]: 0.0008615 豊麗
+	beautiful WORD[50,   2]: 0.0008593 豊艶
+TOKEN[51]: 0.0017089    3 plant
+	plant WORD[51,   1]: 0.0014006 莢豆
+	plant WORD[51,   2]: 0.0001541 豆幹
+	plant WORD[51,   3]: 0.0001541 豆殻
+TOKEN[52]: 0.0016798    2 relaxed
+	relaxed WORD[52,   1]: 0.0008399 豊か
+	relaxed WORD[52,   2]: 0.0008399 豊
+TOKEN[53]: 0.0016699    2 wealthy
+	wealthy WORD[53,   1]: 0.0008349 豊か
+	wealthy WORD[53,   2]: 0.0008349 豊
+TOKEN[54]: 0.0016514    2 eye
+	eye WORD[54,   1]: 0.0008257 とら豆
+	eye WORD[54,   2]: 0.0008257 虎豆
+TOKEN[55]: 0.0015487    2 excess
+	excess WORD[55,   1]: 0.0007743 豊か
+	excess WORD[55,   2]: 0.0007743 豊
+TOKEN[56]: 0.0015197    1 Sorbus
+	Sorbus WORD[56,   1]: 0.0015197 小豆梨
+TOKEN[57]: 0.0015035    5 soy
+	soy WORD[57,   1]: 0.0002829 豆汁
+	soy WORD[57,   2]: 0.0002829 豆油
+	soy WORD[57,   3]: 0.0001536 豆乳
+	soy WORD[57,   4]: 0.0001191 豆
+	soy WORD[57,   5]: 0.0000991 大豆
+TOKEN[58]: 0.0014471    1 corpulent
+	corpulent WORD[58,   1]: 0.0014471 豊満
+TOKEN[59]: 0.0013842    2 easy
+	easy WORD[59,   1]: 0.0006921 豊か
+	easy WORD[59,   2]: 0.0006921 豊
+TOKEN[60]: 0.0013255    2 crop
+	crop WORD[60,   1]: 0.0006628 豊穣
+	crop WORD[60,   2]: 0.0006627 豊作
+TOKEN[61]: 0.0013229    1 water
+	water WORD[61,   1]: 0.0013229 豊水
+TOKEN[62]: 0.0012947    1 abundance
+	abundance WORD[62,   1]: 0.0012947 豊水
+TOKEN[63]: 0.0012755    1 fertility
+	fertility WORD[63,   1]: 0.0012755 豊沃
+TOKEN[64]: 0.0012565    1 stout
+	stout WORD[64,   1]: 0.0012565 豊満
+TOKEN[65]: 0.0012552    1 cultivar
+	cultivar WORD[65,   1]: 0.0012552 豊水
+TOKEN[66]: 0.0012387    1 ripe
+	ripe WORD[66,   1]: 0.0012387 豊潤
+TOKEN[67]: 0.0012379    1 fascinating
+	fascinating WORD[67,   1]: 0.0012379 豊艶
+TOKEN[68]: 0.0012083    2 open
+	open WORD[68,   1]: 0.0006042 豊か
+	open WORD[68,   2]: 0.0006042 豊
+TOKEN[69]: 0.0011882    1 mellow
+	mellow WORD[69,   1]: 0.0011882 豊潤
+TOKEN[70]: 0.0011568    1 country
+	country WORD[70,   1]: 0.0011568 豊国
+TOKEN[71]: 0.0011508    1 attractive
+	attractive WORD[71,   1]: 0.0011508 豊頬
+TOKEN[72]: 0.0011443    2 mind
+	mind WORD[72,   1]: 0.0005722 豊か
+	mind WORD[72,   2]: 0.0005721 豊
+TOKEN[73]: 0.0011419    1 north
+	north WORD[73,   1]: 0.0011419 豊前
+TOKEN[74]: 0.0011229    1 east
+	east WORD[74,   1]: 0.0011229 豊前
+TOKEN[75]: 0.0010708    1 haul
+	haul WORD[75,   1]: 0.0010708 豊漁
+TOKEN[76]: 0.0010465    1 Korean
+	Korean WORD[76,   1]: 0.0010465 小豆梨
+TOKEN[77]: 0.0010415    4 kidney
+	kidney WORD[77,   1]: 0.0005348 菜豆
+	kidney WORD[77,   2]: 0.0001750 うずら豆
+	kidney WORD[77,   3]: 0.0001750 鶉豆
+	kidney WORD[77,   4]: 0.0001567 豆
+TOKEN[78]: 0.0010226    5 broad
+	broad WORD[78,   1]: 0.0004249 お多福豆
+	broad WORD[78,   2]: 0.0001621 そら豆
+	broad WORD[78,   3]: 0.0001621 空豆
+	broad WORD[78,   4]: 0.0001621 蚕豆
+	broad WORD[78,   5]: 0.0001114 豆板醤
+TOKEN[79]: 0.0009846    1 splendid
+	splendid WORD[79,   1]: 0.0009846 豊麗
+TOKEN[80]: 0.0009587    4 boiled
+	boiled WORD[80,   1]: 0.0004386 氷小豆
+	boiled WORD[80,   2]: 0.0001912 お多福豆
+	boiled WORD[80,   3]: 0.0001644 みつ豆
+	boiled WORD[80,   4]: 0.0001644 蜜豆
+TOKEN[81]: 0.0009493    1 design
+	design WORD[81,   1]: 0.0009493 豊麗
+TOKEN[82]: 0.0009451    5 tofu
+	tofu WORD[82,   1]: 0.0001530 豆汁
+	tofu WORD[82,   2]: 0.0001530 豆油
+	tofu WORD[82,   3]: 0.0001111 豆冨
+	tofu WORD[82,   4]: 0.0001111 豆富
+	tofu WORD[82,   5]: 0.0001111 豆腐
+TOKEN[83]: 0.0009433    1 Croton
+	Croton WORD[83,   1]: 0.0009433 巴豆
+TOKEN[84]: 0.0008896    1 altar
+	altar WORD[84,   1]: 0.0008896 俎豆
+TOKEN[85]: 0.0008726    1 poor
+	poor WORD[85,   1]: 0.0008726 豊凶
+TOKEN[86]: 0.0008634    1 catch
+	catch WORD[86,   1]: 0.0008634 豊漁
+TOKEN[87]: 0.0008451    2 creamy
+	creamy WORD[87,   1]: 0.0002113 豆汁
+	creamy WORD[87,   2]: 0.0002113 豆油
+TOKEN[88]: 0.0008389    3 miniature
+	miniature WORD[88,   1]: 0.0003648 豆球
+	miniature WORD[88,   2]: 0.0003287 豆本
+	miniature WORD[88,   3]: 0.0001454 豆
+TOKEN[89]: 0.0008373    1 sacrifice
+	sacrifice WORD[89,   1]: 0.0008373 俎豆
+TOKEN[90]: 0.0008079    1 purging
+	purging WORD[90,   1]: 0.0008079 巴豆
+TOKEN[91]: 0.0007831    1 year
+	year WORD[91,   1]: 0.0007831 豊年
+TOKEN[92]: 0.0007657    3 milk
+	milk WORD[92,   1]: 0.0001635 豆乳
+	milk WORD[92,   2]: 0.0001506 豆汁
+	milk WORD[92,   3]: 0.0001506 豆油
+TOKEN[93]: 0.0007574    1 high
+	high WORD[93,   1]: 0.0007574 豊水
+TOKEN[94]: 0.0007548    5 soybean
+	soybean WORD[94,   1]: 0.0002165 豆粕
+	soybean WORD[94,   2]: 0.0001720 黒豆
+	soybean WORD[94,   3]: 0.0001464 豆
+	soybean WORD[94,   4]: 0.0001218 大豆
+	soybean WORD[94,   5]: 0.0000982 青豆
+TOKEN[95]: 0.0007360    1 pop
+	pop WORD[95,   1]: 0.0007360 弾け豆
+TOKEN[96]: 0.0007032    3 Canavalia
+	Canavalia WORD[96,   1]: 0.0002344 なた豆
+	Canavalia WORD[96,   2]: 0.0002344 刀豆
+	Canavalia WORD[96,   3]: 0.0002344 鉈豆
+TOKEN[97]: 0.0006910    2 ingredient
+	ingredient WORD[97,   1]: 0.0001727 豆汁
+	ingredient WORD[97,   2]: 0.0001727 豆油
+TOKEN[98]: 0.0006826    2 soaked
+	soaked WORD[98,   1]: 0.0001707 豆汁
+	soaked WORD[98,   2]: 0.0001707 豆油
+TOKEN[99]: 0.0006820    1 split
+	split WORD[99,   1]: 0.0006820 豊国
+TOKEN[100]: 0.0006729    1 haricot
+	haricot WORD[100,   1]: 0.0006729 菜豆
+TOKEN[101]: 0.0006674    3 paste
+	paste WORD[101,   1]: 0.0001412 豆汁
+	paste WORD[101,   2]: 0.0001412 豆油
+	paste WORD[101,   3]: 0.0001025 豆板醤
+TOKEN[102]: 0.0006614    1 ancient
+	ancient WORD[102,   1]: 0.0006614 俎豆
+TOKEN[103]: 0.0006509    3 Vicia
+	Vicia WORD[103,   1]: 0.0002170 そら豆
+	Vicia WORD[103,   2]: 0.0002170 空豆
+	Vicia WORD[103,   3]: 0.0002170 蚕豆
+TOKEN[104]: 0.0006479    1 grain
+	grain WORD[104,   1]: 0.0006479 豊穣
+TOKEN[105]: 0.0006248    1 hyacinth
+	hyacinth WORD[105,   1]: 0.0006248 藤豆
+TOKEN[106]: 0.0006063    2 midget
+	midget WORD[106,   1]: 0.0004335 豆球
+	midget WORD[106,   2]: 0.0001728 豆
+TOKEN[107]: 0.0005280    1 shaved
+	shaved WORD[107,   1]: 0.0005280 氷小豆
+TOKEN[108]: 0.0005047    1 Phaseolus
+	Phaseolus WORD[108,   1]: 0.0005047 花豆
+TOKEN[109]: 0.0004779    1 Fabaceae
+	Fabaceae WORD[109,   1]: 0.0004779 豆科
+TOKEN[110]: 0.0004778    2 agar
+	agar WORD[110,   1]: 0.0002389 みつ豆
+	agar WORD[110,   2]: 0.0002389 蜜豆
+TOKEN[111]: 0.0004652    1 bowl
+	bowl WORD[111,   1]: 0.0004652 氷小豆
+TOKEN[112]: 0.0004518    1 ice
+	ice WORD[112,   1]: 0.0004518 氷小豆
+TOKEN[113]: 0.0004460    2 husk
+	husk WORD[113,   1]: 0.0002230 豆幹
+	husk WORD[113,   2]: 0.0002230 豆殻
+TOKEN[114]: 0.0004249    2 scattering
+	scattering WORD[114,   1]: 0.0002125 豆まき
+	scattering WORD[114,   2]: 0.0002125 豆撒き
+TOKEN[115]: 0.0004249    2 sowing
+	sowing WORD[115,   1]: 0.0002125 豆まき
+	sowing WORD[115,   2]: 0.0002125 豆撒き
+TOKEN[116]: 0.0004132    2 pinto
+	pinto WORD[116,   1]: 0.0002066 うずら豆
+	pinto WORD[116,   2]: 0.0002066 鶉豆
+TOKEN[117]: 0.0004114    2 syrup
+	syrup WORD[117,   1]: 0.0002057 みつ豆
+	syrup WORD[117,   2]: 0.0002057 蜜豆
+TOKEN[118]: 0.0004103    3 curd
+	curd WORD[118,   1]: 0.0001368 豆冨
+	curd WORD[118,   2]: 0.0001368 豆富
+	curd WORD[118,   3]: 0.0001368 豆腐
+TOKEN[119]: 0.0004059    2 go
+	go WORD[119,   1]: 0.0001015 豆汁
+	go WORD[119,   2]: 0.0001015 豆油
+TOKEN[120]: 0.0003923    3 sword
+	sword WORD[120,   1]: 0.0001308 なた豆
+	sword WORD[120,   2]: 0.0001308 刀豆
+	sword WORD[120,   3]: 0.0001308 鉈豆
+TOKEN[121]: 0.0003852    2 blister
+	blister WORD[121,   1]: 0.0001932 底豆
+	blister WORD[121,   2]: 0.0001919 血豆
+TOKEN[122]: 0.0003847    3 horse
+	horse WORD[122,   1]: 0.0001282 そら豆
+	horse WORD[122,   2]: 0.0001282 空豆
+	horse WORD[122,   3]: 0.0001282 蚕豆
+TOKEN[123]: 0.0003783    1 bulb
+	bulb WORD[123,   1]: 0.0003783 豆球
+TOKEN[124]: 0.0003772    2 mottled
+	mottled WORD[124,   1]: 0.0001886 うずら豆
+	mottled WORD[124,   2]: 0.0001886 鶉豆
+TOKEN[125]: 0.0003722    1 scarlet
+	scarlet WORD[125,   1]: 0.0003722 花豆
+TOKEN[126]: 0.0003699    1 runner
+	runner WORD[126,   1]: 0.0003699 花豆
+TOKEN[127]: 0.0003675    2 mixture
+	mixture WORD[127,   1]: 0.0001837 みつ豆
+	mixture WORD[127,   2]: 0.0001837 蜜豆
+TOKEN[128]: 0.0003504    1 speck
+	speck WORD[128,   1]: 0.0003504 豆粒
+TOKEN[129]: 0.0003440    1 gruel
+	gruel WORD[129,   1]: 0.0003440 小豆粥
+TOKEN[130]: 0.0003389    2 Glycine
+	Glycine WORD[130,   1]: 0.0001850 豆
+	Glycine WORD[130,   2]: 0.0001539 大豆
+TOKEN[131]: 0.0003389    2 soya
+	soya WORD[131,   1]: 0.0001850 豆
+	soya WORD[131,   2]: 0.0001539 大豆
+TOKEN[132]: 0.0003305    2 drive
+	drive WORD[132,   1]: 0.0001653 豆まき
+	drive WORD[132,   2]: 0.0001653 豆撒き
+TOKEN[133]: 0.0003278    2 evil
+	evil WORD[133,   1]: 0.0001639 豆まき
+	evil WORD[133,   2]: 0.0001639 豆撒き
+TOKEN[134]: 0.0003249    1 lamp
+	lamp WORD[134,   1]: 0.0003249 豆球
+TOKEN[135]: 0.0003182    2 fruit
+	fruit WORD[135,   1]: 0.0001591 みつ豆
+	fruit WORD[135,   2]: 0.0001591 蜜豆
+TOKEN[136]: 0.0003050    2 small
+	small WORD[136,   1]: 0.0002178 豆狸
+	small WORD[136,   2]: 0.0000872 豆
+TOKEN[137]: 0.0002916    1 loquacious
+	loquacious WORD[137,   1]: 0.0002916 豆蔵
+TOKEN[138]: 0.0002916    1 candied
+	candied WORD[138,   1]: 0.0002916 豆板
+TOKEN[139]: 0.0002556    1 briquette
+	briquette WORD[139,   1]: 0.0002556 豆炭
+TOKEN[140]: 0.0002447    1 family
+	family WORD[140,   1]: 0.0002447 豆科
+TOKEN[141]: 0.0002317    1 slab
+	slab WORD[141,   1]: 0.0002317 豆板
+TOKEN[142]: 0.0002270    1 light
+	light WORD[142,   1]: 0.0002270 豆球
+TOKEN[143]: 0.0002195    1 oval
+	oval WORD[143,   1]: 0.0002195 豆炭
+TOKEN[144]: 0.0002176    1 book
+	book WORD[144,   1]: 0.0002176 豆本
+TOKEN[145]: 0.0002109    1 mung
+	mung WORD[145,   1]: 0.0002109 緑豆
+TOKEN[146]: 0.0001991    1 corn
+	corn WORD[146,   1]: 0.0001991 底豆
+TOKEN[147]: 0.0001978    1 gram
+	gram WORD[147,   1]: 0.0001978 緑豆
+TOKEN[148]: 0.0001926    1 rice
+	rice WORD[148,   1]: 0.0001926 小豆粥
+TOKEN[149]: 0.0001894    1 charcoal
+	charcoal WORD[149,   1]: 0.0001894 豆炭
+TOKEN[150]: 0.0001884    1 cake
+	cake WORD[150,   1]: 0.0001884 豆粕
+TOKEN[151]: 0.0001850    1 clitoris
+	clitoris WORD[151,   1]: 0.0001850 豆
+TOKEN[152]: 0.0001812    1 scattered
+	scattered WORD[152,   1]: 0.0001812 福豆
+TOKEN[153]: 0.0001753    1 sole
+	sole WORD[153,   1]: 0.0001753 底豆
+TOKEN[154]: 0.0001696    1 oil
+	oil WORD[154,   1]: 0.0001696 豆粕
+TOKEN[155]: 0.0001683    1 meal
+	meal WORD[155,   1]: 0.0001683 豆粕
+TOKEN[156]: 0.0001630    1 genitalia
+	genitalia WORD[156,   1]: 0.0001630 豆
+TOKEN[157]: 0.0001574    1 salted
+	salted WORD[157,   1]: 0.0001574 塩豆
+TOKEN[158]: 0.0001550    1 spotted
+	spotted WORD[158,   1]: 0.0001550 豆絞り
+TOKEN[159]: 0.0001494    1 foot
+	foot WORD[159,   1]: 0.0001494 底豆
+TOKEN[160]: 0.0001461    1 man
+	man WORD[160,   1]: 0.0001461 豆蔵
+TOKEN[161]: 0.0001443    1 blood
+	blood WORD[161,   1]: 0.0001443 血豆
+TOKEN[162]: 0.0001406    1 chili
+	chili WORD[162,   1]: 0.0001406 豆板醤
+TOKEN[163]: 0.0001363    1 lentil
+	lentil WORD[163,   1]: 0.0001363 扁豆
+TOKEN[164]: 0.0001299    1 edible
+	edible WORD[164,   1]: 0.0001299 豆
+TOKEN[165]: 0.0001189    1 baby
+	baby WORD[165,   1]: 0.0001189 豆
+TOKEN[166]: 0.0001094    1 pattern
+	pattern WORD[166,   1]: 0.0001094 豆絞り
+TOKEN[167]: 0.0001082    1 female
+	female WORD[167,   1]: 0.0001082 豆

@@ -1,0 +1,874 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0622339   42 call           : 呼び留める, 呼び合う, 呼びつける, 呼び付ける, 呼付ける, 呼びだす, 呼び出す, 呼出す, 呼び出し, 呼出, ...
+0.0538317    5 firm           : 牢乎, 断々乎, 断断乎, 断乎, 確乎
+0.0486876    4 resolute       : 断々乎, 断断乎, 断乎, 確乎
+0.0352649    2 commanding     : 凛乎, 凜乎
+0.0305673    2 sheer          : 純乎, 醇乎
+0.0244066    2 pure           : 純乎, 醇乎
+0.0207641   28 someone        : 呼び留める, 呼びつける, 呼び付ける, 呼付ける, 呼びだす, 呼び出す, 呼出す, 呼びならわす, 呼び習わす, 呼び回る, ...
+0.0189891    1 immovable      : 牢乎
+0.0188526    1 inflexible     : 牢乎
+0.0170287    1 aid            : 乎古止点
+0.0166181    1 shining        : 炳乎
+0.0162753    1 evident        : 炳乎
+0.0154301   15 calling        : 呼びならわす, 呼び習わす, 呼びさます, 呼び覚ます, 連呼, 呼びつける, 呼び付ける, 呼付ける, 呼び込み, 呼込み, ...
+0.0152870    1 solid          : 牢乎
+0.0147496    1 reading        : 乎古止点
+0.0139785    1 solemn         : 儼乎
+0.0138819    1 stern          : 儼乎
+0.0130797    1 bright         : 炳乎
+0.0118947    1 clear          : 炳乎
+0.0117331    1 grave          : 儼乎
+0.0117207    8 hail           : 呼び留める, 呼びかける, 呼び掛ける, 呼び声, 呼声, 呼びとめる, 呼び止める, 呼止める
+0.0116501    1 Chinese        : 乎古止点
+0.0114458   13 bring          : 呼びさます, 呼び覚ます, 呼び入れる, 呼入れる, 呼び戻す, 呼戻す, 呼びこむ, 呼び込む, 呼込む, 呼び起こす, ...
+0.0113890    1 conclusive     : 断乎
+0.0110146    1 restrained     : 凝乎と
+0.0109290   10 name           : 呼び名, 呼名, 呼びならわす, 呼び習わす, 呼称, 連呼, 呼ぶ, 呼びつける, 呼び付ける, 呼付ける
+0.0104798   10 summon         : 呼ぶ, 呼びよせる, 呼び寄せる, 呼寄せる, 呼びつける, 呼び付ける, 呼付ける, 呼びだす, 呼び出す, 呼出す
+0.0101450    1 unshakeable    : 確乎
+0.0097347    1 determined     : 断乎
+0.0091767    1 endure         : 凝乎と
+0.0088053    5 recall         : 呼び戻す, 呼戻す, 呼び返す, 呼びさます, 呼び覚ます
+0.0086302    1 stare          : 凝乎と
+0.0086138    1 gaze           : 凝乎と
+0.0084968    4 stop           : 呼び留める, 呼びとめる, 呼び止める, 呼止める
+0.0083558    1 listen         : 凝乎と
+0.0082489    4 invoke         : 呼びだす, 呼び出す, 呼出す, 呼ぶ
+0.0081678    6 evoke          : 呼びさます, 呼び覚ます, 呼び起こす, 呼び起す, 呼起こす, 呼起す
+0.0080012    1 wait           : 凝乎と
+0.0077013    2 vowel          : 短呼, 長呼
+0.0075386    1 Japanese       : 弖爾乎波
+0.0074290    6 awaken         : 呼びさます, 呼び覚ます, 呼び起こす, 呼び起す, 呼起こす, 呼起す
+0.0073856    1 think          : 凝乎と
+0.0073415    1 shortening     : 短呼
+0.0069589    6 invite         : 呼び入れる, 呼入れる, 呼ぶ, 呼びこむ, 呼び込む, 呼込む
+0.0069085    6 wake           : 呼びさます, 呼び覚ます, 呼び起こす, 呼び起す, 呼起こす, 呼起す
+0.0067408    1 stand          : 凝乎と
+0.0064975    1 hold           : 凝乎と
+0.0060247    4 appeal         : 呼びかける, 呼び掛ける, 呼びかけ, 呼び掛け
+0.0054695    3 buzzer         : 呼びりん, 呼び鈴, 呼鈴
+0.0053963    4 taxi           : 呼び留める, 呼びとめる, 呼び止める, 呼止める
+0.0052085    3 phone          : 呼びだす, 呼び出す, 呼出す
+0.0052083    3 telephone      : 呼び出し, 呼出, 呼出し
+0.0050697    7 used           : 呼びりん, 呼び鈴, 呼鈴, 呼び塩, 呼びつける, 呼び付ける, 呼付ける
+0.0050686    3 district       : 呼び出し, 呼出, 呼出し
+0.0050613    3 prostitute     : 呼び出し, 呼出, 呼出し
+0.0049563    7 come           : 呼び立てる, 呼びつける, 呼び付ける, 呼付ける, 呼びだす, 呼び出す, 呼出す
+0.0043554    1 promoter       : 呼び屋
+0.0043038    4 arouse         : 呼び起こす, 呼び起す, 呼起こす, 呼起す
+0.0042855    3 Edo            : 呼び出し, 呼出, 呼出し
+0.0042296    5 become         : 呼びならわす, 呼び習わす, 呼びつける, 呼び付ける, 呼付ける
+0.0041308    4 send           : 呼び迎える, 呼びよせる, 呼び寄せる, 呼寄せる
+0.0038576    3 bell           : 呼びりん, 呼び鈴, 呼鈴
+0.0037509    3 period         : 呼び出し, 呼出, 呼出し
+0.0036746    1 pronunciation  : 転呼
+0.0034588    3 invocation     : 呼び出し, 呼出, 呼出し
+0.0033773    3 unlicensed     : 呼び出し, 呼出, 呼出し
+0.0033773    3 usher          : 呼び出し, 呼出, 呼出し
+0.0033425    3 summons        : 呼び出し, 呼出, 呼出し
+0.0033291    2 accustomed     : 呼びならわす, 呼び習わす
+0.0032815    3 rinsing        : 呼び出し, 呼出, 呼出し
+0.0032478    1 shift          : 転呼
+0.0032464    2 sound          : 転呼, 長呼
+0.0032025    4 interest       : 呼び起こす, 呼び起す, 呼起こす, 呼起す
+0.0031919    1 kana           : 転呼
+0.0031616    1 historical     : 転呼
+0.0031063    3 bathhouse      : 呼び出し, 呼出, 呼出し
+0.0029808    2 attraction     : 呼びもの, 呼び物
+0.0028637    2 yell           : 呼び声, 呼声
+0.0028443    4 mind           : 呼び起こす, 呼び起す, 呼起こす, 呼起す
+0.0028081    3 curtain        : 呼び出し, 呼出, 呼出し
+0.0027806    2 certain        : 呼びならわす, 呼び習わす
+0.0027228    3 page           : 呼びだす, 呼び出す, 呼出す
+0.0027167    3 clean          : 呼び出し, 呼出, 呼出し
+0.0027119    2 address        : 呼びかける, 呼び掛ける
+0.0026753    2 feature        : 呼びもの, 呼び物
+0.0026020    3 tell           : 呼びだす, 呼び出す, 呼出す
+0.0025333    2 whistle        : 呼子, 呼び子
+0.0025132    3 file           : 呼びだす, 呼び出す, 呼出す
+0.0025038    1 new            : 転呼
+0.0025013    3 ring           : 呼び出し, 呼出, 呼出し
+0.0024456    2 barker         : 呼び込み, 呼込み
+0.0024454    3 shout          : 呼ばわる, 大呼, 疾呼
+0.0023808    3 door           : 呼びだす, 呼び出す, 呼出す
+0.0023759    2 impolite       : 呼び捨て, 呼捨て
+0.0023055    2 hawker         : 呼び込み, 呼込み
+0.0022964    1 salt           : 呼び塩
+0.0022921    2 slam           : 呼び戻し, 呼戻し
+0.0022739    3 spirit         : 呼びだす, 呼び出す, 呼出す
+0.0022627    1 convene        : 呼び集める
+0.0022525    2 revive         : 呼び戻す, 呼戻す
+0.0022523    3 open           : 呼びだす, 呼び出す, 呼出す
+0.0022279    2 tout           : 呼び込み, 呼込み
+0.0022238    2 draw           : 呼びもの, 呼び物
+0.0021763    2 big            : 呼びもの, 呼び物
+0.0021140    3 area           : 呼び出し, 呼出, 呼出し
+0.0021103    2 main           : 呼びもの, 呼び物
+0.0021084    2 suffix         : 呼び捨て, 呼捨て
+0.0020972    3 number         : 呼び出し, 呼出, 呼出し
+0.0020909    2 special        : 呼びもの, 呼び物
+0.0020827    2 considered     : 呼び捨て, 呼捨て
+0.0019961    2 attract        : 呼び込み, 呼込み
+0.0019229    2 potential      : 呼び込み, 呼込み
+0.0018830    3 water          : 呼び出し, 呼出, 呼出し
+0.0018642    2 entertainment  : 呼び込み, 呼込み
+0.0017345    2 designation    : 称呼, 呼称
+0.0017134    2 passing        : 呼び込み, 呼込み
+0.0016527    1 peddling       : 呼び売り
+0.0016361    2 given          : 呼び名, 呼名
+0.0016009    2 popular        : 呼び名, 呼名
+0.0015380    3 person         : 呼び出し, 呼出, 呼出し
+0.0014687    1 nominal        : 呼び値
+0.0014320    2 common         : 呼び名, 呼名
+0.0014258    2 home           : 呼び戻す, 呼戻す
+0.0014103    1 yeah           : 嗚呼
+0.0013827    2 body           : 呼び戻し, 呼戻し
+0.0013748    2 public         : 呼び込み, 呼込み
+0.0013648    1 verbal         : 喚呼
+0.0013580    1 garner         : 呼ぶ
+0.0013327    1 salted         : 呼び塩
+0.0013097    1 voicing        : 連呼
+0.0012547    1 designate      : 呼ぶ
+0.0012434    1 ask            : 呼び立てる
+0.0012235    1 rousing        : 呼び水
+0.0011310    1 drawing        : 呼び塩
+0.0010810    1 syllable       : 連呼
+0.0010810    1 stimulation    : 呼び水
+0.0010776    1 exhalation     : 呼気
+0.0010764    1 short          : 呼吸
+0.0010519    1 appellation    : 称呼
+0.0010252    1 invitation     : 呼び
+0.0010200    1 price          : 呼び値
+0.0009788    1 beckoning      : 指呼
+0.0009778    2 one            : 呼び合う, 呼ぶ
+0.0009673    1 brand          : 呼ぶ
+0.0009569    1 proclaiming    : 呼号
+0.0009553    1 sympathizing   : 呼応
+0.0009479    1 acclamation    : 歓呼
+0.0009479    1 jubilation     : 歓呼
+0.0009356    1 concord        : 呼応
+0.0009317    1 thief          : 呼ばわり
+0.0009220    1 food           : 呼び塩
+0.0009104    1 gather         : 呼ぶ
+0.0008988    1 muster         : 点呼
+0.0008836    1 doctor         : 呼ぶ
+0.0008665    1 synchronization: 呼吸
+0.0008665    1 knack          : 呼吸
+0.0008295    1 naming         : 呼称
+0.0008152    1 denomination   : 呼称
+0.0008138    1 respiration    : 呼吸
+0.0008047    1 support        : 呼ぶ
+0.0008012    1 wife           : 呼ぶ
+0.0007978    1 accord         : 呼吸
+0.0007905    1 concert        : 呼応
+0.0007874    1 expiration     : 呼気
+0.0007831    1 huh            : 嗚呼
+0.0007736    1 exaggerated    : 呼号
+0.0007591    1 dialect        : 長呼
+0.0007457    1 yo             : 嗚呼
+0.0007414    1 confirmation   : 喚呼
+0.0007400    1 ah             : 嗚呼
+0.0007280    1 breathing      : 呼吸
+0.0007269    1 loud           : 大呼
+0.0007250    1 alas           : 嗚呼
+0.0007250    1 hey            : 嗚呼
+0.0007157    1 harmony        : 呼吸
+0.0007046    1 claim          : 呼号
+0.0007023    1 interval       : 呼吸
+0.0006960    1 cry            : 大呼
+0.0006953    1 yes            : 嗚呼
+0.0006886    1 pause          : 呼吸
+0.0006680    1 crying         : 呼号
+0.0006393    1 acting         : 呼応
+0.0006313    1 balance        : 呼吸
+0.0006249    1 gathering      : 呼集
+0.0006142    1 take           : 呼ぶ
+0.0006129    1 trick          : 呼吸
+0.0006123    1 agreement      : 呼応
+0.0005992    1 correct        : 嗚呼
+0.0005987    1 giving         : 呼称
+0.0005844    1 long           : 長呼
+0.0005829    1 check          : 喚呼
+0.0005779    1 getting        : 呼集
+0.0005514    1 secret         : 呼吸
+0.0005365    1 air            : 呼気
+0.0004573    1 right          : 嗚呼
+0.0003969    1 something      : 呼吸
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0622339   42 call
+	call WORD[ 1,   1]: 0.0034696 呼び留める
+	call WORD[ 1,   2]: 0.0024711 呼び合う
+	call WORD[ 1,   3]: 0.0022824 呼びつける
+	call WORD[ 1,   4]: 0.0022824 呼び付ける
+	call WORD[ 1,   5]: 0.0022824 呼付ける
+	call WORD[ 1,   6]: 0.0022820 呼びだす
+	call WORD[ 1,   7]: 0.0022820 呼び出す
+	call WORD[ 1,   8]: 0.0022820 呼出す
+	call WORD[ 1,   9]: 0.0022820 呼び出し
+	call WORD[ 1,  10]: 0.0022820 呼出
+	call WORD[ 1,  11]: 0.0022819 呼出し
+	call WORD[ 1,  12]: 0.0015226 呼ぶ
+	call WORD[ 1,  13]: 0.0015223 呼びよせる
+	call WORD[ 1,  14]: 0.0015223 呼び寄せる
+	call WORD[ 1,  15]: 0.0015223 呼寄せる
+	call WORD[ 1,  16]: 0.0015219 呼び戻す
+	call WORD[ 1,  17]: 0.0015219 呼戻す
+	call WORD[ 1,  18]: 0.0015217 呼びとめる
+	call WORD[ 1,  19]: 0.0015217 呼び止める
+	call WORD[ 1,  20]: 0.0015217 呼止める
+	call WORD[ 1,  21]: 0.0012719 呼び返す
+	call WORD[ 1,  22]: 0.0012685 呼び集める
+	call WORD[ 1,  23]: 0.0012681 呼び回る
+	call WORD[ 1,  24]: 0.0012354 呼びかける
+	call WORD[ 1,  25]: 0.0012354 呼び掛ける
+	call WORD[ 1,  26]: 0.0012354 呼びかけ
+	call WORD[ 1,  27]: 0.0012354 呼び掛け
+	call WORD[ 1,  28]: 0.0012168 呼び上げる
+	call WORD[ 1,  29]: 0.0010489 呼び立てる
+	call WORD[ 1,  30]: 0.0010489 呼び声
+	call WORD[ 1,  31]: 0.0010489 呼声
+	call WORD[ 1,  32]: 0.0010487 呼び入れる
+	call WORD[ 1,  33]: 0.0010487 呼入れる
+	call WORD[ 1,  34]: 0.0007613 呼び
+	call WORD[ 1,  35]: 0.0007605 呼びこむ
+	call WORD[ 1,  36]: 0.0007605 呼び込む
+	call WORD[ 1,  37]: 0.0007605 呼込む
+	call WORD[ 1,  38]: 0.0007603 呼び起こす
+	call WORD[ 1,  39]: 0.0007603 呼び起す
+	call WORD[ 1,  40]: 0.0007603 呼起こす
+	call WORD[ 1,  41]: 0.0007603 呼起す
+	call WORD[ 1,  42]: 0.0007603 呼ばわる
+TOKEN[ 2]: 0.0538317    5 firm
+	firm WORD[ 2,   1]: 0.0141833 牢乎
+	firm WORD[ 2,   2]: 0.0122715 断々乎
+	firm WORD[ 2,   3]: 0.0122715 断断乎
+	firm WORD[ 2,   4]: 0.0080381 断乎
+	firm WORD[ 2,   5]: 0.0070673 確乎
+TOKEN[ 3]: 0.0486876    4 resolute
+	resolute WORD[ 3,   1]: 0.0150692 断々乎
+	resolute WORD[ 3,   2]: 0.0150692 断断乎
+	resolute WORD[ 3,   3]: 0.0098707 断乎
+	resolute WORD[ 3,   4]: 0.0086785 確乎
+TOKEN[ 4]: 0.0352649    2 commanding
+	commanding WORD[ 4,   1]: 0.0176325 凛乎
+	commanding WORD[ 4,   2]: 0.0176324 凜乎
+TOKEN[ 5]: 0.0305673    2 sheer
+	sheer WORD[ 5,   1]: 0.0152837 純乎
+	sheer WORD[ 5,   2]: 0.0152836 醇乎
+TOKEN[ 6]: 0.0244066    2 pure
+	pure WORD[ 6,   1]: 0.0122033 純乎
+	pure WORD[ 6,   2]: 0.0122033 醇乎
+TOKEN[ 7]: 0.0207641   28 someone
+	someone WORD[ 7,   1]: 0.0012284 呼び留める
+	someone WORD[ 7,   2]: 0.0010774 呼びつける
+	someone WORD[ 7,   3]: 0.0010774 呼び付ける
+	someone WORD[ 7,   4]: 0.0010774 呼付ける
+	someone WORD[ 7,   5]: 0.0010773 呼びだす
+	someone WORD[ 7,   6]: 0.0010773 呼び出す
+	someone WORD[ 7,   7]: 0.0010773 呼出す
+	someone WORD[ 7,   8]: 0.0008981 呼びならわす
+	someone WORD[ 7,   9]: 0.0008981 呼び習わす
+	someone WORD[ 7,  10]: 0.0008979 呼び回る
+	someone WORD[ 7,  11]: 0.0007748 呼びさます
+	someone WORD[ 7,  12]: 0.0007748 呼び覚ます
+	someone WORD[ 7,  13]: 0.0007428 呼び立てる
+	someone WORD[ 7,  14]: 0.0005449 連呼
+	someone WORD[ 7,  15]: 0.0005388 呼び戻す
+	someone WORD[ 7,  16]: 0.0005388 呼戻す
+	someone WORD[ 7,  17]: 0.0005388 呼びとめる
+	someone WORD[ 7,  18]: 0.0005388 呼び止める
+	someone WORD[ 7,  19]: 0.0005388 呼止める
+	someone WORD[ 7,  20]: 0.0005386 呼び捨て
+	someone WORD[ 7,  21]: 0.0005386 呼捨て
+	someone WORD[ 7,  22]: 0.0005385 呼び込み
+	someone WORD[ 7,  23]: 0.0005385 呼込み
+	someone WORD[ 7,  24]: 0.0005384 呼び起こす
+	someone WORD[ 7,  25]: 0.0005384 呼び起す
+	someone WORD[ 7,  26]: 0.0005384 呼起こす
+	someone WORD[ 7,  27]: 0.0005384 呼起す
+	someone WORD[ 7,  28]: 0.0005383 呼ばわり
+TOKEN[ 8]: 0.0189891    1 immovable
+	immovable WORD[ 8,   1]: 0.0189891 牢乎
+TOKEN[ 9]: 0.0188526    1 inflexible
+	inflexible WORD[ 9,   1]: 0.0188526 牢乎
+TOKEN[10]: 0.0170287    1 aid
+	aid WORD[10,   1]: 0.0170287 乎古止点
+TOKEN[11]: 0.0166181    1 shining
+	shining WORD[11,   1]: 0.0166181 炳乎
+TOKEN[12]: 0.0162753    1 evident
+	evident WORD[12,   1]: 0.0162753 炳乎
+TOKEN[13]: 0.0154301   15 calling
+	calling WORD[13,   1]: 0.0014940 呼びならわす
+	calling WORD[13,   2]: 0.0014940 呼び習わす
+	calling WORD[13,   3]: 0.0012889 呼びさます
+	calling WORD[13,   4]: 0.0012889 呼び覚ます
+	calling WORD[13,   5]: 0.0009065 連呼
+	calling WORD[13,   6]: 0.0008961 呼びつける
+	calling WORD[13,   7]: 0.0008961 呼び付ける
+	calling WORD[13,   8]: 0.0008961 呼付ける
+	calling WORD[13,   9]: 0.0008958 呼び込み
+	calling WORD[13,  10]: 0.0008958 呼込み
+	calling WORD[13,  11]: 0.0008956 呼び起こす
+	calling WORD[13,  12]: 0.0008956 呼び起す
+	calling WORD[13,  13]: 0.0008956 呼起こす
+	calling WORD[13,  14]: 0.0008956 呼起す
+	calling WORD[13,  15]: 0.0008955 呼ばわり
+TOKEN[14]: 0.0152870    1 solid
+	solid WORD[14,   1]: 0.0152870 牢乎
+TOKEN[15]: 0.0147496    1 reading
+	reading WORD[15,   1]: 0.0147496 乎古止点
+TOKEN[16]: 0.0139785    1 solemn
+	solemn WORD[16,   1]: 0.0139785 儼乎
+TOKEN[17]: 0.0138819    1 stern
+	stern WORD[17,   1]: 0.0138819 儼乎
+TOKEN[18]: 0.0130797    1 bright
+	bright WORD[18,   1]: 0.0130797 炳乎
+TOKEN[19]: 0.0118947    1 clear
+	clear WORD[19,   1]: 0.0118947 炳乎
+TOKEN[20]: 0.0117331    1 grave
+	grave WORD[20,   1]: 0.0117331 儼乎
+TOKEN[21]: 0.0117207    8 hail
+	hail WORD[21,   1]: 0.0023682 呼び留める
+	hail WORD[21,   2]: 0.0016865 呼びかける
+	hail WORD[21,   3]: 0.0016865 呼び掛ける
+	hail WORD[21,   4]: 0.0014318 呼び声
+	hail WORD[21,   5]: 0.0014318 呼声
+	hail WORD[21,   6]: 0.0010387 呼びとめる
+	hail WORD[21,   7]: 0.0010387 呼び止める
+	hail WORD[21,   8]: 0.0010386 呼止める
+TOKEN[22]: 0.0116501    1 Chinese
+	Chinese WORD[22,   1]: 0.0116501 乎古止点
+TOKEN[23]: 0.0114458   13 bring
+	bring WORD[23,   1]: 0.0011252 呼びさます
+	bring WORD[23,   2]: 0.0011252 呼び覚ます
+	bring WORD[23,   3]: 0.0010784 呼び入れる
+	bring WORD[23,   4]: 0.0010784 呼入れる
+	bring WORD[23,   5]: 0.0007825 呼び戻す
+	bring WORD[23,   6]: 0.0007825 呼戻す
+	bring WORD[23,   7]: 0.0007821 呼びこむ
+	bring WORD[23,   8]: 0.0007821 呼び込む
+	bring WORD[23,   9]: 0.0007821 呼込む
+	bring WORD[23,  10]: 0.0007819 呼び起こす
+	bring WORD[23,  11]: 0.0007819 呼び起す
+	bring WORD[23,  12]: 0.0007819 呼起こす
+	bring WORD[23,  13]: 0.0007819 呼起す
+TOKEN[24]: 0.0113890    1 conclusive
+	conclusive WORD[24,   1]: 0.0113890 断乎
+TOKEN[25]: 0.0110146    1 restrained
+	restrained WORD[25,   1]: 0.0110146 凝乎と
+TOKEN[26]: 0.0109290   10 name
+	name WORD[26,   1]: 0.0020761 呼び名
+	name WORD[26,   2]: 0.0020761 呼名
+	name WORD[26,   3]: 0.0011535 呼びならわす
+	name WORD[26,   4]: 0.0011535 呼び習わす
+	name WORD[26,   5]: 0.0010018 呼称
+	name WORD[26,   6]: 0.0006999 連呼
+	name WORD[26,   7]: 0.0006924 呼ぶ
+	name WORD[26,   8]: 0.0006919 呼びつける
+	name WORD[26,   9]: 0.0006919 呼び付ける
+	name WORD[26,  10]: 0.0006919 呼付ける
+TOKEN[27]: 0.0104798   10 summon
+	summon WORD[27,   1]: 0.0010485 呼ぶ
+	summon WORD[27,   2]: 0.0010483 呼びよせる
+	summon WORD[27,   3]: 0.0010483 呼び寄せる
+	summon WORD[27,   4]: 0.0010483 呼寄せる
+	summon WORD[27,   5]: 0.0010478 呼びつける
+	summon WORD[27,   6]: 0.0010478 呼び付ける
+	summon WORD[27,   7]: 0.0010478 呼付ける
+	summon WORD[27,   8]: 0.0010476 呼びだす
+	summon WORD[27,   9]: 0.0010476 呼び出す
+	summon WORD[27,  10]: 0.0010476 呼出す
+TOKEN[28]: 0.0101450    1 unshakeable
+	unshakeable WORD[28,   1]: 0.0101450 確乎
+TOKEN[29]: 0.0097347    1 determined
+	determined WORD[29,   1]: 0.0097347 断乎
+TOKEN[30]: 0.0091767    1 endure
+	endure WORD[30,   1]: 0.0091767 凝乎と
+TOKEN[31]: 0.0088053    5 recall
+	recall WORD[31,   1]: 0.0020604 呼び戻す
+	recall WORD[31,   2]: 0.0020604 呼戻す
+	recall WORD[31,   3]: 0.0017219 呼び返す
+	recall WORD[31,   4]: 0.0014813 呼びさます
+	recall WORD[31,   5]: 0.0014813 呼び覚ます
+TOKEN[32]: 0.0086302    1 stare
+	stare WORD[32,   1]: 0.0086302 凝乎と
+TOKEN[33]: 0.0086138    1 gaze
+	gaze WORD[33,   1]: 0.0086138 凝乎と
+TOKEN[34]: 0.0084968    4 stop
+	stop WORD[34,   1]: 0.0036691 呼び留める
+	stop WORD[34,   2]: 0.0016092 呼びとめる
+	stop WORD[34,   3]: 0.0016092 呼び止める
+	stop WORD[34,   4]: 0.0016092 呼止める
+TOKEN[35]: 0.0083558    1 listen
+	listen WORD[35,   1]: 0.0083558 凝乎と
+TOKEN[36]: 0.0082489    4 invoke
+	invoke WORD[36,   1]: 0.0023565 呼びだす
+	invoke WORD[36,   2]: 0.0023565 呼び出す
+	invoke WORD[36,   3]: 0.0023565 呼出す
+	invoke WORD[36,   4]: 0.0011793 呼ぶ
+TOKEN[37]: 0.0081678    6 evoke
+	evoke WORD[37,   1]: 0.0017089 呼びさます
+	evoke WORD[37,   2]: 0.0017089 呼び覚ます
+	evoke WORD[37,   3]: 0.0011875 呼び起こす
+	evoke WORD[37,   4]: 0.0011875 呼び起す
+	evoke WORD[37,   5]: 0.0011875 呼起こす
+	evoke WORD[37,   6]: 0.0011875 呼起す
+TOKEN[38]: 0.0080012    1 wait
+	wait WORD[38,   1]: 0.0080012 凝乎と
+TOKEN[39]: 0.0077013    2 vowel
+	vowel WORD[39,   1]: 0.0060446 短呼
+	vowel WORD[39,   2]: 0.0016567 長呼
+TOKEN[40]: 0.0075386    1 Japanese
+	Japanese WORD[40,   1]: 0.0075386 弖爾乎波
+TOKEN[41]: 0.0074290    6 awaken
+	awaken WORD[41,   1]: 0.0015544 呼びさます
+	awaken WORD[41,   2]: 0.0015543 呼び覚ます
+	awaken WORD[41,   3]: 0.0010801 呼び起こす
+	awaken WORD[41,   4]: 0.0010801 呼び起す
+	awaken WORD[41,   5]: 0.0010801 呼起こす
+	awaken WORD[41,   6]: 0.0010801 呼起す
+TOKEN[42]: 0.0073856    1 think
+	think WORD[42,   1]: 0.0073856 凝乎と
+TOKEN[43]: 0.0073415    1 shortening
+	shortening WORD[43,   1]: 0.0073415 短呼
+TOKEN[44]: 0.0069589    6 invite
+	invite WORD[44,   1]: 0.0014197 呼び入れる
+	invite WORD[44,   2]: 0.0014197 呼入れる
+	invite WORD[44,   3]: 0.0010307 呼ぶ
+	invite WORD[44,   4]: 0.0010296 呼びこむ
+	invite WORD[44,   5]: 0.0010296 呼び込む
+	invite WORD[44,   6]: 0.0010296 呼込む
+TOKEN[45]: 0.0069085    6 wake
+	wake WORD[45,   1]: 0.0014454 呼びさます
+	wake WORD[45,   2]: 0.0014454 呼び覚ます
+	wake WORD[45,   3]: 0.0010044 呼び起こす
+	wake WORD[45,   4]: 0.0010044 呼び起す
+	wake WORD[45,   5]: 0.0010044 呼起こす
+	wake WORD[45,   6]: 0.0010044 呼起す
+TOKEN[46]: 0.0067408    1 stand
+	stand WORD[46,   1]: 0.0067408 凝乎と
+TOKEN[47]: 0.0064975    1 hold
+	hold WORD[47,   1]: 0.0064975 凝乎と
+TOKEN[48]: 0.0060247    4 appeal
+	appeal WORD[48,   1]: 0.0015062 呼びかける
+	appeal WORD[48,   2]: 0.0015062 呼び掛ける
+	appeal WORD[48,   3]: 0.0015062 呼びかけ
+	appeal WORD[48,   4]: 0.0015061 呼び掛け
+TOKEN[49]: 0.0054695    3 buzzer
+	buzzer WORD[49,   1]: 0.0018232 呼びりん
+	buzzer WORD[49,   2]: 0.0018232 呼び鈴
+	buzzer WORD[49,   3]: 0.0018232 呼鈴
+TOKEN[50]: 0.0053963    4 taxi
+	taxi WORD[50,   1]: 0.0023302 呼び留める
+	taxi WORD[50,   2]: 0.0010220 呼びとめる
+	taxi WORD[50,   3]: 0.0010220 呼び止める
+	taxi WORD[50,   4]: 0.0010220 呼止める
+TOKEN[51]: 0.0052085    3 phone
+	phone WORD[51,   1]: 0.0017362 呼びだす
+	phone WORD[51,   2]: 0.0017362 呼び出す
+	phone WORD[51,   3]: 0.0017362 呼出す
+TOKEN[52]: 0.0052083    3 telephone
+	telephone WORD[52,   1]: 0.0017361 呼び出し
+	telephone WORD[52,   2]: 0.0017361 呼出
+	telephone WORD[52,   3]: 0.0017361 呼出し
+TOKEN[53]: 0.0050697    7 used
+	used WORD[53,   1]: 0.0008210 呼びりん
+	used WORD[53,   2]: 0.0008210 呼び鈴
+	used WORD[53,   3]: 0.0008210 呼鈴
+	used WORD[53,   4]: 0.0008208 呼び塩
+	used WORD[53,   5]: 0.0005953 呼びつける
+	used WORD[53,   6]: 0.0005953 呼び付ける
+	used WORD[53,   7]: 0.0005953 呼付ける
+TOKEN[54]: 0.0050686    3 district
+	district WORD[54,   1]: 0.0016895 呼び出し
+	district WORD[54,   2]: 0.0016895 呼出
+	district WORD[54,   3]: 0.0016895 呼出し
+TOKEN[55]: 0.0050613    3 prostitute
+	prostitute WORD[55,   1]: 0.0016871 呼び出し
+	prostitute WORD[55,   2]: 0.0016871 呼出
+	prostitute WORD[55,   3]: 0.0016871 呼出し
+TOKEN[56]: 0.0049563    7 come
+	come WORD[56,   1]: 0.0009262 呼び立てる
+	come WORD[56,   2]: 0.0006717 呼びつける
+	come WORD[56,   3]: 0.0006717 呼び付ける
+	come WORD[56,   4]: 0.0006717 呼付ける
+	come WORD[56,   5]: 0.0006716 呼びだす
+	come WORD[56,   6]: 0.0006716 呼び出す
+	come WORD[56,   7]: 0.0006716 呼出す
+TOKEN[57]: 0.0043554    1 promoter
+	promoter WORD[57,   1]: 0.0043554 呼び屋
+TOKEN[58]: 0.0043038    4 arouse
+	arouse WORD[58,   1]: 0.0010759 呼び起こす
+	arouse WORD[58,   2]: 0.0010759 呼び起す
+	arouse WORD[58,   3]: 0.0010759 呼起こす
+	arouse WORD[58,   4]: 0.0010759 呼起す
+TOKEN[59]: 0.0042855    3 Edo
+	Edo WORD[59,   1]: 0.0014285 呼び出し
+	Edo WORD[59,   2]: 0.0014285 呼出
+	Edo WORD[59,   3]: 0.0014285 呼出し
+TOKEN[60]: 0.0042296    5 become
+	become WORD[60,   1]: 0.0011132 呼びならわす
+	become WORD[60,   2]: 0.0011132 呼び習わす
+	become WORD[60,   3]: 0.0006677 呼びつける
+	become WORD[60,   4]: 0.0006677 呼び付ける
+	become WORD[60,   5]: 0.0006677 呼付ける
+TOKEN[61]: 0.0041308    4 send
+	send WORD[61,   1]: 0.0015138 呼び迎える
+	send WORD[61,   2]: 0.0008724 呼びよせる
+	send WORD[61,   3]: 0.0008724 呼び寄せる
+	send WORD[61,   4]: 0.0008724 呼寄せる
+TOKEN[62]: 0.0038576    3 bell
+	bell WORD[62,   1]: 0.0012859 呼びりん
+	bell WORD[62,   2]: 0.0012859 呼び鈴
+	bell WORD[62,   3]: 0.0012859 呼鈴
+TOKEN[63]: 0.0037509    3 period
+	period WORD[63,   1]: 0.0012503 呼び出し
+	period WORD[63,   2]: 0.0012503 呼出
+	period WORD[63,   3]: 0.0012503 呼出し
+TOKEN[64]: 0.0036746    1 pronunciation
+	pronunciation WORD[64,   1]: 0.0036746 転呼
+TOKEN[65]: 0.0034588    3 invocation
+	invocation WORD[65,   1]: 0.0011530 呼び出し
+	invocation WORD[65,   2]: 0.0011529 呼出
+	invocation WORD[65,   3]: 0.0011529 呼出し
+TOKEN[66]: 0.0033773    3 unlicensed
+	unlicensed WORD[66,   1]: 0.0011258 呼び出し
+	unlicensed WORD[66,   2]: 0.0011258 呼出
+	unlicensed WORD[66,   3]: 0.0011258 呼出し
+TOKEN[67]: 0.0033773    3 usher
+	usher WORD[67,   1]: 0.0011258 呼び出し
+	usher WORD[67,   2]: 0.0011258 呼出
+	usher WORD[67,   3]: 0.0011258 呼出し
+TOKEN[68]: 0.0033425    3 summons
+	summons WORD[68,   1]: 0.0011142 呼び出し
+	summons WORD[68,   2]: 0.0011142 呼出
+	summons WORD[68,   3]: 0.0011142 呼出し
+TOKEN[69]: 0.0033291    2 accustomed
+	accustomed WORD[69,   1]: 0.0016646 呼びならわす
+	accustomed WORD[69,   2]: 0.0016646 呼び習わす
+TOKEN[70]: 0.0032815    3 rinsing
+	rinsing WORD[70,   1]: 0.0010938 呼び出し
+	rinsing WORD[70,   2]: 0.0010938 呼出
+	rinsing WORD[70,   3]: 0.0010938 呼出し
+TOKEN[71]: 0.0032478    1 shift
+	shift WORD[71,   1]: 0.0032478 転呼
+TOKEN[72]: 0.0032464    2 sound
+	sound WORD[72,   1]: 0.0026521 転呼
+	sound WORD[72,   2]: 0.0005943 長呼
+TOKEN[73]: 0.0032025    4 interest
+	interest WORD[73,   1]: 0.0008006 呼び起こす
+	interest WORD[73,   2]: 0.0008006 呼び起す
+	interest WORD[73,   3]: 0.0008006 呼起こす
+	interest WORD[73,   4]: 0.0008006 呼起す
+TOKEN[74]: 0.0031919    1 kana
+	kana WORD[74,   1]: 0.0031919 転呼
+TOKEN[75]: 0.0031616    1 historical
+	historical WORD[75,   1]: 0.0031616 転呼
+TOKEN[76]: 0.0031063    3 bathhouse
+	bathhouse WORD[76,   1]: 0.0010354 呼び出し
+	bathhouse WORD[76,   2]: 0.0010354 呼出
+	bathhouse WORD[76,   3]: 0.0010354 呼出し
+TOKEN[77]: 0.0029808    2 attraction
+	attraction WORD[77,   1]: 0.0014904 呼びもの
+	attraction WORD[77,   2]: 0.0014904 呼び物
+TOKEN[78]: 0.0028637    2 yell
+	yell WORD[78,   1]: 0.0014318 呼び声
+	yell WORD[78,   2]: 0.0014318 呼声
+TOKEN[79]: 0.0028443    4 mind
+	mind WORD[79,   1]: 0.0007111 呼び起こす
+	mind WORD[79,   2]: 0.0007111 呼び起す
+	mind WORD[79,   3]: 0.0007111 呼起こす
+	mind WORD[79,   4]: 0.0007111 呼起す
+TOKEN[80]: 0.0028081    3 curtain
+	curtain WORD[80,   1]: 0.0009360 呼び出し
+	curtain WORD[80,   2]: 0.0009360 呼出
+	curtain WORD[80,   3]: 0.0009360 呼出し
+TOKEN[81]: 0.0027806    2 certain
+	certain WORD[81,   1]: 0.0013903 呼びならわす
+	certain WORD[81,   2]: 0.0013903 呼び習わす
+TOKEN[82]: 0.0027228    3 page
+	page WORD[82,   1]: 0.0009076 呼びだす
+	page WORD[82,   2]: 0.0009076 呼び出す
+	page WORD[82,   3]: 0.0009076 呼出す
+TOKEN[83]: 0.0027167    3 clean
+	clean WORD[83,   1]: 0.0009056 呼び出し
+	clean WORD[83,   2]: 0.0009056 呼出
+	clean WORD[83,   3]: 0.0009056 呼出し
+TOKEN[84]: 0.0027119    2 address
+	address WORD[84,   1]: 0.0013560 呼びかける
+	address WORD[84,   2]: 0.0013560 呼び掛ける
+TOKEN[85]: 0.0026753    2 feature
+	feature WORD[85,   1]: 0.0013376 呼びもの
+	feature WORD[85,   2]: 0.0013376 呼び物
+TOKEN[86]: 0.0026020    3 tell
+	tell WORD[86,   1]: 0.0008673 呼びだす
+	tell WORD[86,   2]: 0.0008673 呼び出す
+	tell WORD[86,   3]: 0.0008673 呼出す
+TOKEN[87]: 0.0025333    2 whistle
+	whistle WORD[87,   1]: 0.0014687 呼子
+	whistle WORD[87,   2]: 0.0010646 呼び子
+TOKEN[88]: 0.0025132    3 file
+	file WORD[88,   1]: 0.0008377 呼びだす
+	file WORD[88,   2]: 0.0008377 呼び出す
+	file WORD[88,   3]: 0.0008377 呼出す
+TOKEN[89]: 0.0025038    1 new
+	new WORD[89,   1]: 0.0025038 転呼
+TOKEN[90]: 0.0025013    3 ring
+	ring WORD[90,   1]: 0.0008338 呼び出し
+	ring WORD[90,   2]: 0.0008338 呼出
+	ring WORD[90,   3]: 0.0008338 呼出し
+TOKEN[91]: 0.0024456    2 barker
+	barker WORD[91,   1]: 0.0012228 呼び込み
+	barker WORD[91,   2]: 0.0012228 呼込み
+TOKEN[92]: 0.0024454    3 shout
+	shout WORD[92,   1]: 0.0009727 呼ばわる
+	shout WORD[92,   2]: 0.0007505 大呼
+	shout WORD[92,   3]: 0.0007222 疾呼
+TOKEN[93]: 0.0023808    3 door
+	door WORD[93,   1]: 0.0007936 呼びだす
+	door WORD[93,   2]: 0.0007936 呼び出す
+	door WORD[93,   3]: 0.0007936 呼出す
+TOKEN[94]: 0.0023759    2 impolite
+	impolite WORD[94,   1]: 0.0011880 呼び捨て
+	impolite WORD[94,   2]: 0.0011880 呼捨て
+TOKEN[95]: 0.0023055    2 hawker
+	hawker WORD[95,   1]: 0.0011528 呼び込み
+	hawker WORD[95,   2]: 0.0011527 呼込み
+TOKEN[96]: 0.0022964    1 salt
+	salt WORD[96,   1]: 0.0022964 呼び塩
+TOKEN[97]: 0.0022921    2 slam
+	slam WORD[97,   1]: 0.0011460 呼び戻し
+	slam WORD[97,   2]: 0.0011460 呼戻し
+TOKEN[98]: 0.0022739    3 spirit
+	spirit WORD[98,   1]: 0.0007580 呼びだす
+	spirit WORD[98,   2]: 0.0007580 呼び出す
+	spirit WORD[98,   3]: 0.0007580 呼出す
+TOKEN[99]: 0.0022627    1 convene
+	convene WORD[99,   1]: 0.0022627 呼び集める
+TOKEN[100]: 0.0022525    2 revive
+	revive WORD[100,   1]: 0.0011263 呼び戻す
+	revive WORD[100,   2]: 0.0011263 呼戻す
+TOKEN[101]: 0.0022523    3 open
+	open WORD[101,   1]: 0.0007508 呼びだす
+	open WORD[101,   2]: 0.0007508 呼び出す
+	open WORD[101,   3]: 0.0007508 呼出す
+TOKEN[102]: 0.0022279    2 tout
+	tout WORD[102,   1]: 0.0011140 呼び込み
+	tout WORD[102,   2]: 0.0011140 呼込み
+TOKEN[103]: 0.0022238    2 draw
+	draw WORD[103,   1]: 0.0011119 呼びもの
+	draw WORD[103,   2]: 0.0011119 呼び物
+TOKEN[104]: 0.0021763    2 big
+	big WORD[104,   1]: 0.0010881 呼びもの
+	big WORD[104,   2]: 0.0010881 呼び物
+TOKEN[105]: 0.0021140    3 area
+	area WORD[105,   1]: 0.0007047 呼び出し
+	area WORD[105,   2]: 0.0007047 呼出
+	area WORD[105,   3]: 0.0007047 呼出し
+TOKEN[106]: 0.0021103    2 main
+	main WORD[106,   1]: 0.0010551 呼びもの
+	main WORD[106,   2]: 0.0010551 呼び物
+TOKEN[107]: 0.0021084    2 suffix
+	suffix WORD[107,   1]: 0.0010542 呼び捨て
+	suffix WORD[107,   2]: 0.0010542 呼捨て
+TOKEN[108]: 0.0020972    3 number
+	number WORD[108,   1]: 0.0006991 呼び出し
+	number WORD[108,   2]: 0.0006991 呼出
+	number WORD[108,   3]: 0.0006991 呼出し
+TOKEN[109]: 0.0020909    2 special
+	special WORD[109,   1]: 0.0010454 呼びもの
+	special WORD[109,   2]: 0.0010454 呼び物
+TOKEN[110]: 0.0020827    2 considered
+	considered WORD[110,   1]: 0.0010414 呼び捨て
+	considered WORD[110,   2]: 0.0010414 呼捨て
+TOKEN[111]: 0.0019961    2 attract
+	attract WORD[111,   1]: 0.0009981 呼び込み
+	attract WORD[111,   2]: 0.0009981 呼込み
+TOKEN[112]: 0.0019229    2 potential
+	potential WORD[112,   1]: 0.0009614 呼び込み
+	potential WORD[112,   2]: 0.0009614 呼込み
+TOKEN[113]: 0.0018830    3 water
+	water WORD[113,   1]: 0.0006277 呼び出し
+	water WORD[113,   2]: 0.0006277 呼出
+	water WORD[113,   3]: 0.0006277 呼出し
+TOKEN[114]: 0.0018642    2 entertainment
+	entertainment WORD[114,   1]: 0.0009321 呼び込み
+	entertainment WORD[114,   2]: 0.0009321 呼込み
+TOKEN[115]: 0.0017345    2 designation
+	designation WORD[115,   1]: 0.0008814 称呼
+	designation WORD[115,   2]: 0.0008532 呼称
+TOKEN[116]: 0.0017134    2 passing
+	passing WORD[116,   1]: 0.0008567 呼び込み
+	passing WORD[116,   2]: 0.0008567 呼込み
+TOKEN[117]: 0.0016527    1 peddling
+	peddling WORD[117,   1]: 0.0016527 呼び売り
+TOKEN[118]: 0.0016361    2 given
+	given WORD[118,   1]: 0.0008180 呼び名
+	given WORD[118,   2]: 0.0008180 呼名
+TOKEN[119]: 0.0016009    2 popular
+	popular WORD[119,   1]: 0.0008004 呼び名
+	popular WORD[119,   2]: 0.0008004 呼名
+TOKEN[120]: 0.0015380    3 person
+	person WORD[120,   1]: 0.0005127 呼び出し
+	person WORD[120,   2]: 0.0005127 呼出
+	person WORD[120,   3]: 0.0005127 呼出し
+TOKEN[121]: 0.0014687    1 nominal
+	nominal WORD[121,   1]: 0.0014687 呼び値
+TOKEN[122]: 0.0014320    2 common
+	common WORD[122,   1]: 0.0007160 呼び名
+	common WORD[122,   2]: 0.0007160 呼名
+TOKEN[123]: 0.0014258    2 home
+	home WORD[123,   1]: 0.0007129 呼び戻す
+	home WORD[123,   2]: 0.0007129 呼戻す
+TOKEN[124]: 0.0014103    1 yeah
+	yeah WORD[124,   1]: 0.0014103 嗚呼
+TOKEN[125]: 0.0013827    2 body
+	body WORD[125,   1]: 0.0006914 呼び戻し
+	body WORD[125,   2]: 0.0006914 呼戻し
+TOKEN[126]: 0.0013748    2 public
+	public WORD[126,   1]: 0.0006874 呼び込み
+	public WORD[126,   2]: 0.0006874 呼込み
+TOKEN[127]: 0.0013648    1 verbal
+	verbal WORD[127,   1]: 0.0013648 喚呼
+TOKEN[128]: 0.0013580    1 garner
+	garner WORD[128,   1]: 0.0013580 呼ぶ
+TOKEN[129]: 0.0013327    1 salted
+	salted WORD[129,   1]: 0.0013327 呼び塩
+TOKEN[130]: 0.0013097    1 voicing
+	voicing WORD[130,   1]: 0.0013097 連呼
+TOKEN[131]: 0.0012547    1 designate
+	designate WORD[131,   1]: 0.0012547 呼ぶ
+TOKEN[132]: 0.0012434    1 ask
+	ask WORD[132,   1]: 0.0012434 呼び立てる
+TOKEN[133]: 0.0012235    1 rousing
+	rousing WORD[133,   1]: 0.0012235 呼び水
+TOKEN[134]: 0.0011310    1 drawing
+	drawing WORD[134,   1]: 0.0011310 呼び塩
+TOKEN[135]: 0.0010810    1 syllable
+	syllable WORD[135,   1]: 0.0010810 連呼
+TOKEN[136]: 0.0010810    1 stimulation
+	stimulation WORD[136,   1]: 0.0010810 呼び水
+TOKEN[137]: 0.0010776    1 exhalation
+	exhalation WORD[137,   1]: 0.0010776 呼気
+TOKEN[138]: 0.0010764    1 short
+	short WORD[138,   1]: 0.0010764 呼吸
+TOKEN[139]: 0.0010519    1 appellation
+	appellation WORD[139,   1]: 0.0010519 称呼
+TOKEN[140]: 0.0010252    1 invitation
+	invitation WORD[140,   1]: 0.0010252 呼び
+TOKEN[141]: 0.0010200    1 price
+	price WORD[141,   1]: 0.0010200 呼び値
+TOKEN[142]: 0.0009788    1 beckoning
+	beckoning WORD[142,   1]: 0.0009788 指呼
+TOKEN[143]: 0.0009778    2 one
+	one WORD[143,   1]: 0.0006050 呼び合う
+	one WORD[143,   2]: 0.0003728 呼ぶ
+TOKEN[144]: 0.0009673    1 brand
+	brand WORD[144,   1]: 0.0009673 呼ぶ
+TOKEN[145]: 0.0009569    1 proclaiming
+	proclaiming WORD[145,   1]: 0.0009569 呼号
+TOKEN[146]: 0.0009553    1 sympathizing
+	sympathizing WORD[146,   1]: 0.0009553 呼応
+TOKEN[147]: 0.0009479    1 acclamation
+	acclamation WORD[147,   1]: 0.0009479 歓呼
+TOKEN[148]: 0.0009479    1 jubilation
+	jubilation WORD[148,   1]: 0.0009479 歓呼
+TOKEN[149]: 0.0009356    1 concord
+	concord WORD[149,   1]: 0.0009356 呼応
+TOKEN[150]: 0.0009317    1 thief
+	thief WORD[150,   1]: 0.0009317 呼ばわり
+TOKEN[151]: 0.0009220    1 food
+	food WORD[151,   1]: 0.0009220 呼び塩
+TOKEN[152]: 0.0009104    1 gather
+	gather WORD[152,   1]: 0.0009104 呼ぶ
+TOKEN[153]: 0.0008988    1 muster
+	muster WORD[153,   1]: 0.0008988 点呼
+TOKEN[154]: 0.0008836    1 doctor
+	doctor WORD[154,   1]: 0.0008836 呼ぶ
+TOKEN[155]: 0.0008665    1 synchronization
+	synchronization WORD[155,   1]: 0.0008665 呼吸
+TOKEN[156]: 0.0008665    1 knack
+	knack WORD[156,   1]: 0.0008665 呼吸
+TOKEN[157]: 0.0008295    1 naming
+	naming WORD[157,   1]: 0.0008295 呼称
+TOKEN[158]: 0.0008152    1 denomination
+	denomination WORD[158,   1]: 0.0008152 呼称
+TOKEN[159]: 0.0008138    1 respiration
+	respiration WORD[159,   1]: 0.0008138 呼吸
+TOKEN[160]: 0.0008047    1 support
+	support WORD[160,   1]: 0.0008047 呼ぶ
+TOKEN[161]: 0.0008012    1 wife
+	wife WORD[161,   1]: 0.0008012 呼ぶ
+TOKEN[162]: 0.0007978    1 accord
+	accord WORD[162,   1]: 0.0007978 呼吸
+TOKEN[163]: 0.0007905    1 concert
+	concert WORD[163,   1]: 0.0007905 呼応
+TOKEN[164]: 0.0007874    1 expiration
+	expiration WORD[164,   1]: 0.0007874 呼気
+TOKEN[165]: 0.0007831    1 huh
+	huh WORD[165,   1]: 0.0007831 嗚呼
+TOKEN[166]: 0.0007736    1 exaggerated
+	exaggerated WORD[166,   1]: 0.0007736 呼号
+TOKEN[167]: 0.0007591    1 dialect
+	dialect WORD[167,   1]: 0.0007591 長呼
+TOKEN[168]: 0.0007457    1 yo
+	yo WORD[168,   1]: 0.0007457 嗚呼
+TOKEN[169]: 0.0007414    1 confirmation
+	confirmation WORD[169,   1]: 0.0007414 喚呼
+TOKEN[170]: 0.0007400    1 ah
+	ah WORD[170,   1]: 0.0007400 嗚呼
+TOKEN[171]: 0.0007280    1 breathing
+	breathing WORD[171,   1]: 0.0007280 呼吸
+TOKEN[172]: 0.0007269    1 loud
+	loud WORD[172,   1]: 0.0007269 大呼
+TOKEN[173]: 0.0007250    1 alas
+	alas WORD[173,   1]: 0.0007250 嗚呼
+TOKEN[174]: 0.0007250    1 hey
+	hey WORD[174,   1]: 0.0007250 嗚呼
+TOKEN[175]: 0.0007157    1 harmony
+	harmony WORD[175,   1]: 0.0007157 呼吸
+TOKEN[176]: 0.0007046    1 claim
+	claim WORD[176,   1]: 0.0007046 呼号
+TOKEN[177]: 0.0007023    1 interval
+	interval WORD[177,   1]: 0.0007023 呼吸
+TOKEN[178]: 0.0006960    1 cry
+	cry WORD[178,   1]: 0.0006960 大呼
+TOKEN[179]: 0.0006953    1 yes
+	yes WORD[179,   1]: 0.0006953 嗚呼
+TOKEN[180]: 0.0006886    1 pause
+	pause WORD[180,   1]: 0.0006886 呼吸
+TOKEN[181]: 0.0006680    1 crying
+	crying WORD[181,   1]: 0.0006680 呼号
+TOKEN[182]: 0.0006393    1 acting
+	acting WORD[182,   1]: 0.0006393 呼応
+TOKEN[183]: 0.0006313    1 balance
+	balance WORD[183,   1]: 0.0006313 呼吸
+TOKEN[184]: 0.0006249    1 gathering
+	gathering WORD[184,   1]: 0.0006249 呼集
+TOKEN[185]: 0.0006142    1 take
+	take WORD[185,   1]: 0.0006142 呼ぶ
+TOKEN[186]: 0.0006129    1 trick
+	trick WORD[186,   1]: 0.0006129 呼吸
+TOKEN[187]: 0.0006123    1 agreement
+	agreement WORD[187,   1]: 0.0006123 呼応
+TOKEN[188]: 0.0005992    1 correct
+	correct WORD[188,   1]: 0.0005992 嗚呼
+TOKEN[189]: 0.0005987    1 giving
+	giving WORD[189,   1]: 0.0005987 呼称
+TOKEN[190]: 0.0005844    1 long
+	long WORD[190,   1]: 0.0005844 長呼
+TOKEN[191]: 0.0005829    1 check
+	check WORD[191,   1]: 0.0005829 喚呼
+TOKEN[192]: 0.0005779    1 getting
+	getting WORD[192,   1]: 0.0005779 呼集
+TOKEN[193]: 0.0005514    1 secret
+	secret WORD[193,   1]: 0.0005514 呼吸
+TOKEN[194]: 0.0005365    1 air
+	air WORD[194,   1]: 0.0005365 呼気
+TOKEN[195]: 0.0004573    1 right
+	right WORD[195,   1]: 0.0004573 嗚呼
+TOKEN[196]: 0.0003969    1 something
+	something WORD[196,   1]: 0.0003969 呼吸

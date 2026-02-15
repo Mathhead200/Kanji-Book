@@ -1,0 +1,469 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1961572   40 right          : 右後ろ, 右寄せ, 右奥, 右房, 右向き, 右書き, 右図, 右打ち, 右手, 右前, ...
+0.0465093   13 side           : 右横, 右方, 右奥, 右脇, 右がわ, 右っかわ, 右側, 右辺, 座右, 右面, ...
+0.0358167    4 left           : 右左折, 右書き, 右払い, 右左
+0.0254346    1 motor          : 右左折
+0.0233359    2 turning        : 右左折, 右折
+0.0214198    1 vehicle        : 右左折
+0.0191944    3 corner         : 下右, 右奥, 上右
+0.0182080    1 lobe           : 右葉
+0.0155659    2 clockwise      : 右巻き, 右回り
+0.0148798    1 atrium         : 右房
+0.0148104    2 rear           : 右後ろ, 右奥
+0.0144774    3 upper          : 上右, 右払い, 右上
+0.0142385    3 lower          : 下右, 右払い, 右下
+0.0138549    1 rightmost      : 最右
+0.0133165    2 hand           : 右手, 右腕
+0.0123450    1 margin         : 右縁
+0.0117808    1 alignment      : 右寄せ
+0.0115390    1 justification  : 右寄せ
+0.0110171    1 behind         : 右後ろ
+0.0108367    1 facing         : 右向き
+0.0107509    1 racket         : 右打ち
+0.0107010    2 court          : 右舞, 右方
+0.0103828    2 writing        : 右書き, 右
+0.0101291    2 wing           : 右翼, 右派
+0.0093231    5 person         : 右隣, 座右, 右党, 右利き, 右腕
+0.0089808    1 bat            : 右打ち
+0.0085532    2 field          : 右打ち, 右翼
+0.0084080    3 end            : 右奥, 右はし, 右端
+0.0081997    1 figure         : 右図
+0.0080683    2 tending        : 右寄り, 左右
+0.0077512    1 preceding      : 右記
+0.0073761    1 various        : 左右
+0.0071829    2 respect        : 右文, 座右
+0.0071468    1 armpit         : 右脇
+0.0070693    2 expanding      : 右上がり, 右上り
+0.0068902    1 triangular     : 右払い
+0.0064764    1 statement      : 右記
+0.0063632    2 building       : 右隣, 右翼
+0.0062963    2 elbow          : 右ひじ, 右肘
+0.0062947    1 calligraphy    : 右払い
+0.0060554    2 soaring        : 右上がり, 右上り
+0.0060236    1 dance          : 右舞
+0.0059118    1 stroke         : 右払い
+0.0058487    1 rotation       : 右回り
+0.0056912    1 back           : 右奥
+0.0056423    1 variety        : 右舞
+0.0054971    1 music          : 右方
+0.0054805    2 growing        : 右上がり, 右上り
+0.0052883    2 rising         : 右上がり, 右上り
+0.0052821    2 leg            : 右脚, 右足
+0.0052582    2 Japanese       : 右方, 右
+0.0052249    1 graph          : 右図
+0.0051742    1 illustration   : 右図
+0.0050200    1 style          : 右方
+0.0049606    2 arm            : 座右, 右腕
+0.0049475    1 diagram        : 右図
+0.0049081    2 edge           : 右はし, 右端
+0.0048861    1 anyhow         : 左右
+0.0048454    2 foot           : 右脚, 右足
+0.0047765    1 apt            : 左右
+0.0047741    1 leaning        : 右傾
+0.0047586    1 chart          : 右図
+0.0047523    2 one            : 座右, 右手
+0.0047290    1 rabbit         : 左右
+0.0046994    1 exist          : 左右
+0.0046579    1 prone          : 左右
+0.0045575    1 going          : 右払い
+0.0044451    1 place          : 座右
+0.0044443    2 eye            : 右目, 右眼
+0.0043562    1 period         : 右舞
+0.0043204    1 sword          : 右手
+0.0042324    1 starboard      : 右舷
+0.0041204    2 politics       : 極右, 右翼
+0.0040713    1 negative       : 左右
+0.0039613    1 amanuensis     : 右筆
+0.0038982    1 culture        : 右文
+0.0038171    1 addressee      : 座右
+0.0037975    1 literary       : 右文
+0.0037856    1 refer          : 座右
+0.0037415    1 foregoing      : 右
+0.0037031    1 recipient      : 座右
+0.0036747    1 shoulder       : 右肩
+0.0034975    1 rate           : 左右
+0.0033420    1 secretary      : 右筆
+0.0029764    1 reach          : 座右
+0.0029686    1 rightist       : 右傾
+0.0029168    1 ultraconservative: 極右
+0.0028204    1 alcohol        : 右党
+0.0027743    1 opposed        : 右党
+0.0027611    1 written        : 座右
+0.0027494    1 high           : 右翼
+0.0027321    1 vertical       : 右
+0.0026729    1 show           : 座右
+0.0026309    1 sweet          : 右党
+0.0024633    1 center         : 右寄り
+0.0024440    1 private        : 右筆
+0.0024141    1 name           : 座右
+0.0024120    1 fielder        : 右翼
+0.0024052    1 party          : 右党
+0.0023360    1 flank          : 右翼
+0.0022384    1 chess          : 右辺
+0.0021581    1 soccer         : 右翼
+0.0020771    1 used           : 座右
+0.0020466    1 pitcher        : 右腕
+0.0019849    1 equation       : 右辺
+0.0019692    1 academic       : 右翼
+0.0019600    1 tendency       : 右傾
+0.0019107    1 extreme        : 極右
+0.0019041    1 brain          : 右脳
+0.0018284    1 aircraft       : 右翼
+0.0017851    1 army           : 右翼
+0.0016860    1 becoming       : 右傾
+0.0016747    1 bank           : 右岸
+0.0016251    1 river          : 右岸
+0.0016231    1 expression     : 右辺
+0.0016196    1 board          : 右辺
+0.0016117    1 political      : 右傾
+0.0016093    1 bird           : 右翼
+0.0015915    1 clothing       : 右前
+0.0015907    1 standing       : 右翼
+0.0015295    1 class          : 右翼
+0.0015286    1 front          : 右前
+0.0014037    1 turn           : 右折
+0.0013643    1 man            : 右腕
+0.0012598    1 go             : 右辺
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1961572   40 right
+	right WORD[ 1,   1]: 0.0202706 右後ろ
+	right WORD[ 1,   2]: 0.0161508 右寄せ
+	right WORD[ 1,   3]: 0.0100706 右奥
+	right WORD[ 1,   4]: 0.0091963 右房
+	right WORD[ 1,   5]: 0.0081435 右向き
+	right WORD[ 1,   6]: 0.0080501 右書き
+	right WORD[ 1,   7]: 0.0071160 右図
+	right WORD[ 1,   8]: 0.0067816 右打ち
+	right WORD[ 1,   9]: 0.0062656 右手
+	right WORD[ 1,  10]: 0.0057733 右前
+	right WORD[ 1,  11]: 0.0056728 下右
+	right WORD[ 1,  12]: 0.0052960 右記
+	right WORD[ 1,  13]: 0.0052286 右横
+	right WORD[ 1,  14]: 0.0050353 右方
+	right WORD[ 1,  15]: 0.0048974 上右
+	right WORD[ 1,  16]: 0.0047380 右払い
+	right WORD[ 1,  17]: 0.0046798 右隣
+	right WORD[ 1,  18]: 0.0046797 右脇
+	right WORD[ 1,  19]: 0.0041772 右寄り
+	right WORD[ 1,  20]: 0.0031069 極右
+	right WORD[ 1,  21]: 0.0029226 右肩
+	right WORD[ 1,  22]: 0.0029165 右腕
+	right WORD[ 1,  23]: 0.0029084 右翼
+	right WORD[ 1,  24]: 0.0029035 右辺
+	right WORD[ 1,  25]: 0.0028783 右傾
+	right WORD[ 1,  26]: 0.0020886 右面
+	right WORD[ 1,  27]: 0.0020885 右はし
+	right WORD[ 1,  28]: 0.0020885 右端
+	right WORD[ 1,  29]: 0.0020885 右下
+	right WORD[ 1,  30]: 0.0020885 右がわ
+	right WORD[ 1,  31]: 0.0020885 右っかわ
+	right WORD[ 1,  32]: 0.0020885 右側
+	right WORD[ 1,  33]: 0.0020885 右上
+	right WORD[ 1,  34]: 0.0020885 右脚
+	right WORD[ 1,  35]: 0.0020885 右足
+	right WORD[ 1,  36]: 0.0020885 右上がり
+	right WORD[ 1,  37]: 0.0020884 右上り
+	right WORD[ 1,  38]: 0.0020884 右
+	right WORD[ 1,  39]: 0.0014433 右折
+	right WORD[ 1,  40]: 0.0014386 右岸
+TOKEN[ 2]: 0.0465093   13 side
+	side WORD[ 2,   1]: 0.0050946 右横
+	side WORD[ 2,   2]: 0.0049063 右方
+	side WORD[ 2,   3]: 0.0049063 右奥
+	side WORD[ 2,   4]: 0.0045598 右脇
+	side WORD[ 2,   5]: 0.0040699 右がわ
+	side WORD[ 2,   6]: 0.0040699 右っかわ
+	side WORD[ 2,   7]: 0.0040699 右側
+	side WORD[ 2,   8]: 0.0028291 右辺
+	side WORD[ 2,   9]: 0.0024571 座右
+	side WORD[ 2,  10]: 0.0020351 右面
+	side WORD[ 2,  11]: 0.0020350 右手
+	side WORD[ 2,  12]: 0.0020349 右
+	side WORD[ 2,  13]: 0.0014063 右前
+TOKEN[ 3]: 0.0358167    4 left
+	left WORD[ 3,   1]: 0.0193635 右左折
+	left WORD[ 3,   2]: 0.0084305 右書き
+	left WORD[ 3,   3]: 0.0049619 右払い
+	left WORD[ 3,   4]: 0.0030607 右左
+TOKEN[ 4]: 0.0254346    1 motor
+	motor WORD[ 4,   1]: 0.0254346 右左折
+TOKEN[ 5]: 0.0233359    2 turning
+	turning WORD[ 5,   1]: 0.0216462 右左折
+	turning WORD[ 5,   2]: 0.0016897 右折
+TOKEN[ 6]: 0.0214198    1 vehicle
+	vehicle WORD[ 6,   1]: 0.0214198 右左折
+TOKEN[ 7]: 0.0191944    3 corner
+	corner WORD[ 7,   1]: 0.0069774 下右
+	corner WORD[ 7,   2]: 0.0061933 右奥
+	corner WORD[ 7,   3]: 0.0060237 上右
+TOKEN[ 8]: 0.0182080    1 lobe
+	lobe WORD[ 8,   1]: 0.0182080 右葉
+TOKEN[ 9]: 0.0155659    2 clockwise
+	clockwise WORD[ 9,   1]: 0.0122549 右巻き
+	clockwise WORD[ 9,   2]: 0.0033110 右回り
+TOKEN[10]: 0.0148798    1 atrium
+	atrium WORD[10,   1]: 0.0148798 右房
+TOKEN[11]: 0.0148104    2 rear
+	rear WORD[11,   1]: 0.0084863 右後ろ
+	rear WORD[11,   2]: 0.0063241 右奥
+TOKEN[12]: 0.0144774    3 upper
+	upper WORD[12,   1]: 0.0060476 上右
+	upper WORD[12,   2]: 0.0058508 右払い
+	upper WORD[12,   3]: 0.0025790 右上
+TOKEN[13]: 0.0142385    3 lower
+	lower WORD[13,   1]: 0.0064621 下右
+	lower WORD[13,   2]: 0.0053973 右払い
+	lower WORD[13,   3]: 0.0023791 右下
+TOKEN[14]: 0.0138549    1 rightmost
+	rightmost WORD[14,   1]: 0.0138549 最右
+TOKEN[15]: 0.0133165    2 hand
+	hand WORD[15,   1]: 0.0059642 右手
+	hand WORD[15,   2]: 0.0013881 右腕
+TOKEN[16]: 0.0123450    1 margin
+	margin WORD[16,   1]: 0.0123450 右縁
+TOKEN[17]: 0.0117808    1 alignment
+	alignment WORD[17,   1]: 0.0117808 右寄せ
+TOKEN[18]: 0.0115390    1 justification
+	justification WORD[18,   1]: 0.0115390 右寄せ
+TOKEN[19]: 0.0110171    1 behind
+	behind WORD[19,   1]: 0.0110171 右後ろ
+TOKEN[20]: 0.0108367    1 facing
+	facing WORD[20,   1]: 0.0108367 右向き
+TOKEN[21]: 0.0107509    1 racket
+	racket WORD[21,   1]: 0.0107509 右打ち
+TOKEN[22]: 0.0107010    2 court
+	court WORD[22,   1]: 0.0053505 右舞
+	court WORD[22,   2]: 0.0053505 右方
+TOKEN[23]: 0.0103828    2 writing
+	writing WORD[23,   1]: 0.0082441 右書き
+	writing WORD[23,   2]: 0.0021388 右
+TOKEN[24]: 0.0101291    2 wing
+	wing WORD[24,   1]: 0.0081066 右翼
+	wing WORD[24,   2]: 0.0020225 右派
+TOKEN[25]: 0.0093231    5 person
+	person WORD[25,   1]: 0.0033200 右隣
+	person WORD[25,   2]: 0.0017890 座右
+	person WORD[25,   3]: 0.0016978 右党
+	person WORD[25,   4]: 0.0014817 右利き
+	person WORD[25,   5]: 0.0010345 右腕
+TOKEN[26]: 0.0089808    1 bat
+	bat WORD[26,   1]: 0.0089808 右打ち
+TOKEN[27]: 0.0085532    2 field
+	field WORD[27,   1]: 0.0070429 右打ち
+	field WORD[27,   2]: 0.0015102 右翼
+TOKEN[28]: 0.0084080    3 end
+	end WORD[28,   1]: 0.0045957 右奥
+	end WORD[28,   2]: 0.0019062 右はし
+	end WORD[28,   3]: 0.0019062 右端
+TOKEN[29]: 0.0081997    1 figure
+	figure WORD[29,   1]: 0.0081997 右図
+TOKEN[30]: 0.0080683    2 tending
+	tending WORD[30,   1]: 0.0031615 右寄り
+	tending WORD[30,   2]: 0.0024534 左右
+TOKEN[31]: 0.0077512    1 preceding
+	preceding WORD[31,   1]: 0.0077512 右記
+TOKEN[32]: 0.0073761    1 various
+	various WORD[32,   1]: 0.0036881 左右
+TOKEN[33]: 0.0071829    2 respect
+	respect WORD[33,   1]: 0.0039466 右文
+	respect WORD[33,   2]: 0.0032362 座右
+TOKEN[34]: 0.0071468    1 armpit
+	armpit WORD[34,   1]: 0.0071468 右脇
+TOKEN[35]: 0.0070693    2 expanding
+	expanding WORD[35,   1]: 0.0035347 右上がり
+	expanding WORD[35,   2]: 0.0035347 右上り
+TOKEN[36]: 0.0068902    1 triangular
+	triangular WORD[36,   1]: 0.0068902 右払い
+TOKEN[37]: 0.0064764    1 statement
+	statement WORD[37,   1]: 0.0064764 右記
+TOKEN[38]: 0.0063632    2 building
+	building WORD[38,   1]: 0.0048547 右隣
+	building WORD[38,   2]: 0.0015085 右翼
+TOKEN[39]: 0.0062963    2 elbow
+	elbow WORD[39,   1]: 0.0031482 右ひじ
+	elbow WORD[39,   2]: 0.0031482 右肘
+TOKEN[40]: 0.0062947    1 calligraphy
+	calligraphy WORD[40,   1]: 0.0062947 右払い
+TOKEN[41]: 0.0060554    2 soaring
+	soaring WORD[41,   1]: 0.0030277 右上がり
+	soaring WORD[41,   2]: 0.0030277 右上り
+TOKEN[42]: 0.0060236    1 dance
+	dance WORD[42,   1]: 0.0060236 右舞
+TOKEN[43]: 0.0059118    1 stroke
+	stroke WORD[43,   1]: 0.0059118 右払い
+TOKEN[44]: 0.0058487    1 rotation
+	rotation WORD[44,   1]: 0.0058487 右回り
+TOKEN[45]: 0.0056912    1 back
+	back WORD[45,   1]: 0.0056912 右奥
+TOKEN[46]: 0.0056423    1 variety
+	variety WORD[46,   1]: 0.0056423 右舞
+TOKEN[47]: 0.0054971    1 music
+	music WORD[47,   1]: 0.0054971 右方
+TOKEN[48]: 0.0054805    2 growing
+	growing WORD[48,   1]: 0.0027403 右上がり
+	growing WORD[48,   2]: 0.0027402 右上り
+TOKEN[49]: 0.0052883    2 rising
+	rising WORD[49,   1]: 0.0026442 右上がり
+	rising WORD[49,   2]: 0.0026441 右上り
+TOKEN[50]: 0.0052821    2 leg
+	leg WORD[50,   1]: 0.0026411 右脚
+	leg WORD[50,   2]: 0.0026411 右足
+TOKEN[51]: 0.0052582    2 Japanese
+	Japanese WORD[51,   1]: 0.0037167 右方
+	Japanese WORD[51,   2]: 0.0015415 右
+TOKEN[52]: 0.0052249    1 graph
+	graph WORD[52,   1]: 0.0052249 右図
+TOKEN[53]: 0.0051742    1 illustration
+	illustration WORD[53,   1]: 0.0051742 右図
+TOKEN[54]: 0.0050200    1 style
+	style WORD[54,   1]: 0.0050200 右方
+TOKEN[55]: 0.0049606    2 arm
+	arm WORD[55,   1]: 0.0031431 座右
+	arm WORD[55,   2]: 0.0018176 右腕
+TOKEN[56]: 0.0049475    1 diagram
+	diagram WORD[56,   1]: 0.0049475 右図
+TOKEN[57]: 0.0049081    2 edge
+	edge WORD[57,   1]: 0.0024540 右はし
+	edge WORD[57,   2]: 0.0024540 右端
+TOKEN[58]: 0.0048861    1 anyhow
+	anyhow WORD[58,   1]: 0.0024431 左右
+TOKEN[59]: 0.0048454    2 foot
+	foot WORD[59,   1]: 0.0024227 右脚
+	foot WORD[59,   2]: 0.0024227 右足
+TOKEN[60]: 0.0047765    1 apt
+	apt WORD[60,   1]: 0.0023883 左右
+TOKEN[61]: 0.0047741    1 leaning
+	leaning WORD[61,   1]: 0.0047741 右傾
+TOKEN[62]: 0.0047586    1 chart
+	chart WORD[62,   1]: 0.0047586 右図
+TOKEN[63]: 0.0047523    2 one
+	one WORD[63,   1]: 0.0025995 座右
+	one WORD[63,   2]: 0.0010764 右手
+TOKEN[64]: 0.0047290    1 rabbit
+	rabbit WORD[64,   1]: 0.0023645 左右
+TOKEN[65]: 0.0046994    1 exist
+	exist WORD[65,   1]: 0.0023497 左右
+TOKEN[66]: 0.0046579    1 prone
+	prone WORD[66,   1]: 0.0023290 左右
+TOKEN[67]: 0.0045575    1 going
+	going WORD[67,   1]: 0.0045575 右払い
+TOKEN[68]: 0.0044451    1 place
+	place WORD[68,   1]: 0.0044451 座右
+TOKEN[69]: 0.0044443    2 eye
+	eye WORD[69,   1]: 0.0022221 右目
+	eye WORD[69,   2]: 0.0022221 右眼
+TOKEN[70]: 0.0043562    1 period
+	period WORD[70,   1]: 0.0043562 右舞
+TOKEN[71]: 0.0043204    1 sword
+	sword WORD[71,   1]: 0.0021602 右手
+TOKEN[72]: 0.0042324    1 starboard
+	starboard WORD[72,   1]: 0.0042324 右舷
+TOKEN[73]: 0.0041204    2 politics
+	politics WORD[73,   1]: 0.0021282 極右
+	politics WORD[73,   2]: 0.0019922 右翼
+TOKEN[74]: 0.0040713    1 negative
+	negative WORD[74,   1]: 0.0020356 左右
+TOKEN[75]: 0.0039613    1 amanuensis
+	amanuensis WORD[75,   1]: 0.0039613 右筆
+TOKEN[76]: 0.0038982    1 culture
+	culture WORD[76,   1]: 0.0038982 右文
+TOKEN[77]: 0.0038171    1 addressee
+	addressee WORD[77,   1]: 0.0038171 座右
+TOKEN[78]: 0.0037975    1 literary
+	literary WORD[78,   1]: 0.0037975 右文
+TOKEN[79]: 0.0037856    1 refer
+	refer WORD[79,   1]: 0.0037856 座右
+TOKEN[80]: 0.0037415    1 foregoing
+	foregoing WORD[80,   1]: 0.0037415 右
+TOKEN[81]: 0.0037031    1 recipient
+	recipient WORD[81,   1]: 0.0037031 座右
+TOKEN[82]: 0.0036747    1 shoulder
+	shoulder WORD[82,   1]: 0.0036747 右肩
+TOKEN[83]: 0.0034975    1 rate
+	rate WORD[83,   1]: 0.0017488 左右
+TOKEN[84]: 0.0033420    1 secretary
+	secretary WORD[84,   1]: 0.0033420 右筆
+TOKEN[85]: 0.0029764    1 reach
+	reach WORD[85,   1]: 0.0029764 座右
+TOKEN[86]: 0.0029686    1 rightist
+	rightist WORD[86,   1]: 0.0029686 右傾
+TOKEN[87]: 0.0029168    1 ultraconservative
+	ultraconservative WORD[87,   1]: 0.0029168 極右
+TOKEN[88]: 0.0028204    1 alcohol
+	alcohol WORD[88,   1]: 0.0028204 右党
+TOKEN[89]: 0.0027743    1 opposed
+	opposed WORD[89,   1]: 0.0027743 右党
+TOKEN[90]: 0.0027611    1 written
+	written WORD[90,   1]: 0.0027611 座右
+TOKEN[91]: 0.0027494    1 high
+	high WORD[91,   1]: 0.0027494 右翼
+TOKEN[92]: 0.0027321    1 vertical
+	vertical WORD[92,   1]: 0.0027321 右
+TOKEN[93]: 0.0026729    1 show
+	show WORD[93,   1]: 0.0026729 座右
+TOKEN[94]: 0.0026309    1 sweet
+	sweet WORD[94,   1]: 0.0026309 右党
+TOKEN[95]: 0.0024633    1 center
+	center WORD[95,   1]: 0.0024633 右寄り
+TOKEN[96]: 0.0024440    1 private
+	private WORD[96,   1]: 0.0024440 右筆
+TOKEN[97]: 0.0024141    1 name
+	name WORD[97,   1]: 0.0024141 座右
+TOKEN[98]: 0.0024120    1 fielder
+	fielder WORD[98,   1]: 0.0024120 右翼
+TOKEN[99]: 0.0024052    1 party
+	party WORD[99,   1]: 0.0024052 右党
+TOKEN[100]: 0.0023360    1 flank
+	flank WORD[100,   1]: 0.0023360 右翼
+TOKEN[101]: 0.0022384    1 chess
+	chess WORD[101,   1]: 0.0022384 右辺
+TOKEN[102]: 0.0021581    1 soccer
+	soccer WORD[102,   1]: 0.0021581 右翼
+TOKEN[103]: 0.0020771    1 used
+	used WORD[103,   1]: 0.0020771 座右
+TOKEN[104]: 0.0020466    1 pitcher
+	pitcher WORD[104,   1]: 0.0020466 右腕
+TOKEN[105]: 0.0019849    1 equation
+	equation WORD[105,   1]: 0.0019849 右辺
+TOKEN[106]: 0.0019692    1 academic
+	academic WORD[106,   1]: 0.0019692 右翼
+TOKEN[107]: 0.0019600    1 tendency
+	tendency WORD[107,   1]: 0.0019600 右傾
+TOKEN[108]: 0.0019107    1 extreme
+	extreme WORD[108,   1]: 0.0019107 極右
+TOKEN[109]: 0.0019041    1 brain
+	brain WORD[109,   1]: 0.0019041 右脳
+TOKEN[110]: 0.0018284    1 aircraft
+	aircraft WORD[110,   1]: 0.0018284 右翼
+TOKEN[111]: 0.0017851    1 army
+	army WORD[111,   1]: 0.0017851 右翼
+TOKEN[112]: 0.0016860    1 becoming
+	becoming WORD[112,   1]: 0.0016860 右傾
+TOKEN[113]: 0.0016747    1 bank
+	bank WORD[113,   1]: 0.0016747 右岸
+TOKEN[114]: 0.0016251    1 river
+	river WORD[114,   1]: 0.0016251 右岸
+TOKEN[115]: 0.0016231    1 expression
+	expression WORD[115,   1]: 0.0016231 右辺
+TOKEN[116]: 0.0016196    1 board
+	board WORD[116,   1]: 0.0016196 右辺
+TOKEN[117]: 0.0016117    1 political
+	political WORD[117,   1]: 0.0016117 右傾
+TOKEN[118]: 0.0016093    1 bird
+	bird WORD[118,   1]: 0.0016093 右翼
+TOKEN[119]: 0.0015915    1 clothing
+	clothing WORD[119,   1]: 0.0015915 右前
+TOKEN[120]: 0.0015907    1 standing
+	standing WORD[120,   1]: 0.0015907 右翼
+TOKEN[121]: 0.0015295    1 class
+	class WORD[121,   1]: 0.0015295 右翼
+TOKEN[122]: 0.0015286    1 front
+	front WORD[122,   1]: 0.0015286 右前
+TOKEN[123]: 0.0014037    1 turn
+	turn WORD[123,   1]: 0.0014037 右折
+TOKEN[124]: 0.0013643    1 man
+	man WORD[124,   1]: 0.0013643 右腕
+TOKEN[125]: 0.0012598    1 go
+	go WORD[125,   1]: 0.0012598 右辺

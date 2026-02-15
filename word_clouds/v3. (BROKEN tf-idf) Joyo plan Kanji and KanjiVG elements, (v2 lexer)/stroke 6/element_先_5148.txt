@@ -1,0 +1,2189 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1100003    3 barefoot       : 跣足, 素跣, 跣
+0.0808726    3 pig            : 製銑, 銑, 銑鉄
+0.0785300    5 iron           : 製銑, 溶銑, 熔銑, 銑, 銑鉄
+0.0492640    1 whisk          : 茶筅
+0.0454062    2 professional   : 跣足, 跣
+0.0448566    4 superior       : 跣足, 跣, 先輩, 先進
+0.0357651    2 making         : 製銑, 茶筅
+0.0329721    4 brush          : 筆洗い, 筆洗, 穂先, 筆先
+0.0312036    1 tea            : 茶筅
+0.0217648    4 hair           : 茶筅, 毛先, 洗い髪, 洗髪
+0.0212524   35 washing        : 筆洗い, 洗い場, 芋洗い, 洗骨, 洗い出す, 洗い出し, 手洗, 手洗い, 丸洗い, もみ洗い, ...
+0.0150144    2 molten         : 溶銑, 熔銑
+0.0138952    1 bundle         : 茶筅
+0.0138689    1 tied           : 茶筅
+0.0115540    1 back           : 茶筅
+0.0114053    2 washer         : 筆洗い, 筆洗
+0.0111278    1 shape          : 茶筅
+0.0111225    1 bamboo         : 茶筅
+0.0105946    9 head           : 茶筅, まっ先, 真っ先, 真先, 先頭, 先代, 先制, 先, 先き
+0.0104540    2 cleaner        : 筆洗い, 筆洗
+0.0101913    1 style          : 茶筅
+0.0099387    6 cleaning       : 筆洗い, 筆洗, 洗い濯ぎ, 洗浄, 洗滌, 洗剤
+0.0075455    1 Japanese       : 茶筅
+0.0070419    2 writing        : 筆洗い, 筆洗
+0.0064245   10 wash           : 硯洗い, 洗い去る, 洗い落とす, 洗い清める, 洗い流す, 洗う, 洗い立てる, 洗いなおす, 洗い直す, 洗い上げる
+0.0047650   13 previous       : 先公, 先出, 先代, 先口, 先婦, 先約, 先便, 先王, 先君, 先触れ, ...
+0.0041894   15 tip            : 穂先, 鼻先, 葉先, えり先, 衿先, 襟先, 先っちょ, 筆先, 突先, 指先, ...
+0.0034578    1 acidic         : 酸洗
+0.0033550    1 brushes        : 硯洗い
+0.0032121   29 one            : 先腹, 先妣, 鼻先, 手洗, 手洗い, 毛先, バイト先, 目先, 使い先, 洗礼, ...
+0.0031052    1 soaking        : 酸洗
+0.0029834    7 washed         : 洗米, 洗い物, 洗物, 洗い髪, 洗いたて, 洗い立て, 洗い張り
+0.0029473   13 future         : 先読み, 先行き, 先々, 先先, 先安, 生い先, 行く先, 目先, 先高, 先, ...
+0.0028311    3 foresight      : 先知, 目先, 先見
+0.0026564    1 speedy         : 先知
+0.0026560   18 point          : 先っちょ, 穂先, 先兵, 太刀先, 剣先, 切っ先, 切先, 矢先, ほこ先, 矛先, ...
+0.0026372   12 advance        : 先貸し, 先払い, 先買い, 先兵, 先借り, 先渡し, 先鋒, 先発, 先陣, 先どり, ...
+0.0025817    7 laundry        : 洗い場, 洗い物, 洗物, 手洗, 手洗い, 洗たく, 洗濯
+0.0025579    1 remove         : 酸洗
+0.0024978    1 solution       : 酸洗
+0.0024967   10 end            : 先細, 先太, 棒先, 腕先, 先っちょ, 後先, 先端, 先っぽ, 先, 先き
+0.0024531    1 pray           : 硯洗い
+0.0024378    1 task           : 先務
+0.0023794   12 destination    : 届け先, あて先, 宛て先, 宛先, 行く先, 出先, 旅先, 先方, 先, 先き, ...
+0.0023414    3 collar         : えり先, 衿先, 襟先
+0.0022922    1 metal          : 酸洗
+0.0022494    1 success        : 硯洗い
+0.0022459    1 marking        : 値洗い
+0.0022427    1 comprehension  : 先知
+0.0022230    4 rinsing        : 酢洗い, 洗い濯ぎ, 水洗, 洗
+0.0020682    1 event          : 硯洗い
+0.0020350    8 place          : 洗い場, バイト先, 出先, 使い先, 勤め先, 旅先, 先, 先き
+0.0020127    7 spearhead      : 槍先, 穂先, ほこ先, 矛先, 鉾先, 鋒先, 先端
+0.0019675    2 night          : 硯洗い, 先夜
+0.0019650    3 master         : 先主, 先腹, 先生
+0.0019491    2 supplier       : 仕入れ先, 仕入先
+0.0019400   10 first          : 先登, 先行, 先発, 先勝, 洗礼, 先走る, 先鋒, 先手, 先着, 先決
+0.0019108    7 address        : 先生, 届け先, あて先, 宛て先, 宛先, 先, 先き
+0.0018746   11 time           : 洗い替え, 先太り, もう先, 先回, 先ず, 一先ず, 先般, 先だって, 先達て, 先ほど, ...
+0.0017721    2 cheque         : 先付, 先付け
+0.0017686    6 preceding      : 先腹, 先皇, 先帝, 先回, 先行, 先客
+0.0017511    2 appetizer      : 先付, 先付け
+0.0016880   10 front          : 鼻先, 先棒, 後先, まっ先, 真っ先, 真先, 先方, 先頭, 先, 先き
+0.0016602    1 market         : 値洗い
+0.0016016    1 groove         : 開先
+0.0015774    1 welding        : 開先
+0.0015651    4 letter         : 先付, 先付け, 先便, 届け先
+0.0015223    9 initiative     : 帥先, 率先, 先べん, 先鞭, 先手, 先制, 先議, 先駈け, 先駆け
+0.0014894    3 wife           : 先婦, 先腹, 先妻
+0.0014597    3 bowl           : 洗い桶, 杯洗, 盃洗
+0.0014473   10 taking         : 丸洗い, 洗たく, 洗濯, 帥先, 率先, 先どり, 先取, 先取り, 先駈け, 先駆け
+0.0014214    9 attack         : 切っ先, 切先, 矢先, ほこ先, 矛先, 鉾先, 鋒先, 先駈け, 先駆け
+0.0014109    8 edge           : 刃先, 縁先, ほこ先, 矛先, 鉾先, 鋒先, 軒先, 先端
+0.0013993    6 late           : 先主, 先婦, 先夫, 先帝, 先代, 先妻
+0.0013965    3 teacher        : 先公, 先生, 先師
+0.0013832    2 date           : 先付, 先付け
+0.0013805    1 urgent         : 先務
+0.0013692    7 former         : 先主, 先夫, 先師, 先年, 先妻, 先, 先き
+0.0013599    7 pioneer        : 先兵, 先覚, 先達, 先人, 先駆, 先駈け, 先駆け
+0.0013434    1 dishpan        : 洗い桶
+0.0013199    9 something      : 洗い晒す, 先駆ける, 先駈ける, 鼻先, 洗礼, 先だつ, 先立つ, 先, 先き
+0.0012921    1 pressing       : 先務
+0.0012820    5 brunt          : 矢先, ほこ先, 矛先, 鉾先, 鋒先
+0.0012518    7 water          : 御手洗, 水洗い, 手洗, 手洗い, 水洗, 洗, 洗い
+0.0012228    1 washtub        : 洗い桶
+0.0012191    2 tapering       : 先細, 先細り
+0.0012114    5 vanguard       : 先兵, 先鋒, 先頭, 先端, 先陣
+0.0011552    1 valuation      : 洗い替え
+0.0011409    2 baptism        : 洗礼, 受洗
+0.0011246    1 important      : 先務
+0.0011203    2 moving         : 洗い替え, 先手
+0.0011148    5 spear          : 穂先, ほこ先, 矛先, 鉾先, 鋒先
+0.0010934    2 payment        : 先貸し, 先払い
+0.0010252    5 predecessor    : 先任, 先学, 先代, 先人, 先蹤
+0.0010224    2 unstitching    : 解き洗い, 解洗い
+0.0010184    1 vinegar        : 酢洗い
+0.0010104    3 cleansing      : 洗浄, 洗滌, 洗い粉
+0.0010021    5 target         : 矢先, ほこ先, 矛先, 鉾先, 鋒先
+0.0009809    1 potatoes       : 芋洗い
+0.0009734    3 nozzle         : 筒先, 先, 先き
+0.0009705    8 day            : 先負, 先般, 先だって, 先達て, 先日, 先勝, 先ごろ, 先頃
+0.0009680    5 last           : 先回, 先週, 先月, 先, 先き
+0.0009508    1 flaring        : 先太り
+0.0009494    1 Procyon        : 洗い熊
+0.0009489    4 precede        : 先んずる, 先んじる, 先だつ, 先立つ
+0.0009458    1 average        : 洗い替え
+0.0009383    1 rice           : 洗米
+0.0009380    1 business       : 先務
+0.0009227    2 leaf           : 葉先, 先端
+0.0009107    1 bucket         : 芋洗い
+0.0009029    1 tableware      : 洗い場
+0.0009026    4 ancient        : 先聖, 先哲, 先王, 先賢
+0.0009007    1 crowded        : 芋洗い
+0.0009005    6 beginning      : 潮先, 後先, まっ先, 真っ先, 真先, 春先
+0.0008955    1 procrastination: 先延ばし
+0.0008810    2 nights         : 先晩, 先夜
+0.0008680    3 forefront      : 火先, 先頭, 先端
+0.0008658    2 cleanse        : 洗い清める, 洗う
+0.0008630    3 sake           : 杯洗, 盃洗, 洗
+0.0008605    3 toe            : 指先, つま先, 爪先
+0.0008514    1 funerary       : 洗骨
+0.0008506    5 part           : 摘み洗い, 庭先, 先, 先き, 足先
+0.0008443    4 aim            : ほこ先, 矛先, 鉾先, 鋒先
+0.0008436    5 leader         : 先達, 先兵, 先駆, 先駈け, 先駆け
+0.0008430    4 focus          : ほこ先, 矛先, 鉾先, 鋒先
+0.0008199    3 forestall      : 先んずる, 先んじる, 機先
+0.0008084    1 clothing       : 洗い替え
+0.0008063    1 lord           : 先公
+0.0007986    4 criticism      : ほこ先, 矛先, 鉾先, 鋒先
+0.0007974    1 urn            : 洗骨
+0.0007898    2 rubbing        : もみ洗い, 揉み洗い
+0.0007879    1 method         : 洗い替え
+0.0007859    1 seppuku        : 先腹
+0.0007836    2 sage           : 先聖, 先賢
+0.0007811    5 going          : 先発, 先行, 先登, 出先, 先回り
+0.0007791    6 go             : 互先, 先んずる, 先立てる, 先手, 先だつ, 先立つ
+0.0007770    6 times          : 先行, 先どり, 先取, 先取り, 先駆ける, 先駈ける
+0.0007728    2 faded          : 洗いざらし, 洗い晒し
+0.0007725    2 evening        : 先晩, 先負
+0.0007687    1 raccoon        : 洗い熊
+0.0007621    4 forerunner     : 先払い, 先駆, 先駈け, 先駆け
+0.0007571    1 increasing     : 先太り
+0.0007490    4 anticipation   : 先見, 先どり, 先取, 先取り
+0.0007443    3 anticipatory   : 先どり, 先取, 先取り
+0.0007442    1 food           : 酢洗い
+0.0007414    4 argument       : ほこ先, 矛先, 鉾先, 鋒先
+0.0007392    2 rinse          : 洗い流す, 洗う
+0.0007312    1 fish           : 酢洗い
+0.0007274    1 bathroom       : 洗い場
+0.0007187    4 precedence     : 優先, 先番, 先だつ, 先立つ
+0.0007158    2 palanquin      : 棒先, 先棒
+0.0007124    3 elder          : 先輩, 先生, 先進
+0.0006998    2 apex           : 葉先, 先端
+0.0006978    4 lead           : 先だつ, 先立つ, 先頭, 先行
+0.0006971    3 refinement     : 洗煉, 洗練, 洗錬
+0.0006953    1 reading        : 先読み
+0.0006898    2 vessel         : 杯洗, 盃洗
+0.0006892    1 money          : 洗い替え
+0.0006815    3 polish         : 洗煉, 洗練, 洗錬
+0.0006718    4 force          : ほこ先, 矛先, 鉾先, 鋒先
+0.0006633    1 delay          : 先延ばし
+0.0006608    2 generation     : 先公, 先代
+0.0006483    4 sword          : 太刀先, 剣先, 切っ先, 切先
+0.0006413    3 sign           : さい先, 幸先, 先触れ
+0.0006411    1 growing        : 先太り
+0.0006404    2 ruler          : 先公, 先君
+0.0006386    1 towards        : 先太
+0.0006335    1 king           : 先王
+0.0006320    1 suicide        : 先腹
+0.0006289    2 death          : 先腹, 先途
+0.0006275    2 clothes        : もみ洗い, 揉み洗い
+0.0006270    1 ritual         : 先腹
+0.0006230    3 party          : 先方, 先, 先き
+0.0006196    1 form           : 先生
+0.0006106    2 continuation   : 先, 先き
+0.0005990    4 senior         : 先学, 先輩, 先達, 先進
+0.0005961    3 pointed        : 切っ先, 切先, 先端
+0.0005943    3 foremost       : まっ先, 真っ先, 真先
+0.0005936    3 wages          : 先どり, 先取, 先取り
+0.0005917    1 shampoo        : 洗髪
+0.0005902    1 mother         : 先妣
+0.0005836    2 move           : 先手, 先番
+0.0005810    1 people         : 芋洗い
+0.0005807    1 given          : 先出
+0.0005766    2 recent         : 先, 先き
+0.0005751    2 nose           : 鼻先, 目先
+0.0005691    2 emperor        : 先帝, 先皇
+0.0005675    2 lavatory       : 手洗, 手洗い
+0.0005653    2 sock           : つま先, 爪先
+0.0005590    2 preliminary    : 下洗い, 先触れ
+0.0005460    2 delivery       : 先渡し, 先払い
+0.0005397    3 finishing      : 先どり, 先取, 先取り
+0.0005285    3 completion     : 先どり, 先取, 先取り
+0.0005231    2 kimono         : 丸洗い, 洗い張り
+0.0005170    1 fade           : 洗い晒す
+0.0005142    1 repurchase     : 現先
+0.0005066    1 teasing        : 先生
+0.0005062    2 basin          : 手洗, 手洗い
+0.0005020    4 leading        : 先導, 先端, 先駈け, 先駆け
+0.0005008    1 common         : 洗い熊
+0.0004971    2 engagement     : 先約, 先口
+0.0004962    3 sentence       : 先どり, 先取, 先取り
+0.0004913    1 soiled         : 摘み洗い
+0.0004903    1 instructor     : 先生
+0.0004890    3 line           : 先頭, 先, 先き
+0.0004862    2 anticipate     : 先んずる, 先んじる
+0.0004850    2 shoe           : つま先, 爪先
+0.0004839    2 preconception  : 先口, 先入
+0.0004835    2 bearer         : 棒先, 先棒
+0.0004830    2 small          : 杯洗, 盃洗
+0.0004779    1 font           : 御手洗
+0.0004758    2 fire           : 火先, 洗礼
+0.0004750    1 teach          : 先公
+0.0004748    1 clean          : 洗い清める
+0.0004745    2 rest           : 先, 先き
+0.0004735    1 child          : 先腹
+0.0004727    2 reconsider     : 洗いなおす, 洗い直す
+0.0004725    1 lawyer         : 先生
+0.0004713    3 ancestor       : 祖先, 先祖, 先人
+0.0004692    3 prior          : 先占, 先行, 先議
+0.0004643    1 pole           : 棒先
+0.0004642    3 whereabouts    : 行く先, 行き先, 行先
+0.0004623    1 primness       : 洗
+0.0004613    2 whole          : 丸洗い, 先ず
+0.0004609    2 seniority      : 先任, 先進
+0.0004534    2 toilet         : 手洗, 手洗い
+0.0004532    3 person         : 老い先, 洗, 先手
+0.0004510    3 interest       : 先どり, 先取, 先取り
+0.0004502    3 way            : 先導, 先, 先き
+0.0004483    1 period         : 先秦
+0.0004466    1 prim           : 洗
+0.0004404    1 flame          : 火先
+0.0004396    1 intimate       : 先生
+0.0004373    4 someone        : 出先, 先立てる, 先駆ける, 先駈ける
+0.0004316    1 client         : 客先
+0.0004313    2 story          : 先, 先き
+0.0004297    1 consecrated    : 洗米
+0.0004257    1 aggregate      : 洗い出し
+0.0004253    1 arm            : 腕先
+0.0004242    1 announcement   : 先触れ
+0.0004230    1 employer       : バイト先
+0.0004179    2 investigate    : 洗う, 洗い上げる
+0.0004141    1 husband        : 先夫
+0.0004134    2 verbal         : 切っ先, 切先
+0.0004081    2 precedent      : 先例, 先蹤
+0.0003938    1 title          : 先生
+0.0003924    2 exception      : 洗いざらい, 洗い浚い
+0.0003904    1 doctor         : 先生
+0.0003869    2 past           : 先非, 先学
+0.0003815    1 taper          : 先細る
+0.0003799    1 starting       : 先発
+0.0003780    1 lye            : 灰汁洗い
+0.0003759    1 banquet        : 洗
+0.0003748    1 buy            : 先買い
+0.0003745    1 exposed        : 洗い出し
+0.0003744    1 scouring       : 灰汁洗い
+0.0003743    1 ferret         : 洗い立てる
+0.0003732    3 moment         : 矢先, 先ほど, 先程
+0.0003705    1 entrance       : 御手洗
+0.0003681    1 works          : バイト先
+0.0003664    1 customer       : 客先
+0.0003636    1 debt           : 現先
+0.0003557    1 garment        : 摘み洗い
+0.0003534    1 seizing        : 先手
+0.0003529    2 prerequisite   : 先だつ, 先立つ
+0.0003523    2 ship           : 水先, 舳先
+0.0003495    2 priority       : 優先, 先決
+0.0003487    2 investigation  : 洗い出す, 洗い出し
+0.0003480    2 tool           : 先棒, 手先
+0.0003455    2 take           : 先だつ, 先立つ
+0.0003435    2 lucky          : 先負, 先勝
+0.0003407    2 break          : 洗たく, 洗濯
+0.0003406    2 herald         : 先駈け, 先駆け
+0.0003406    1 brainwashing   : 洗脳
+0.0003385    2 father         : 先考, 先代
+0.0003374    2 harbinger      : 先駈け, 先駆け
+0.0003370    2 good           : さい先, 幸先
+0.0003365    2 order          : 先後, 後先
+0.0003348    1 act            : 先走る
+0.0003319    2 precursor      : 先達, 先駆
+0.0003318    2 sequence       : 後先, 先後
+0.0003303    1 examine        : 洗い立てる
+0.0003265    1 shrine         : 御手洗
+0.0003253    2 morning        : 先負, 先勝
+0.0003249    1 forewarning    : 先触れ
+0.0003239    1 soup           : 洗
+0.0003211    2 contract       : 先約, 先物
+0.0003183    2 finish         : 洗い出し, 洗い上げる
+0.0003144    3 short          : 先ほど, 先程, 先刻
+0.0003131    2 calendar       : 先負, 先勝
+0.0003091    1 offering       : 洗米
+0.0003066    2 charging       : 先駈け, 先駆け
+0.0002992    1 consignee      : 届け先
+0.0002969    2 scoring        : 先勝, 先行
+0.0002943    1 clear          : 洗
+0.0002908    1 christening    : 洗礼
+0.0002906    1 cleanser       : 洗剤
+0.0002891    1 soap           : 水洗い
+0.0002881    1 prehistory     : 先史
+0.0002869    1 week           : 先週
+0.0002848    2 inevitable     : 先々, 先先
+0.0002848    1 lave           : 洗う
+0.0002828    1 forceful       : 太刀先
+0.0002823    2 present        : 目先, 一先ず
+0.0002821    2 omen           : さい先, 幸先
+0.0002820    1 flushing       : 水洗
+0.0002804    2 family         : 先代, 嫁ぎ先
+0.0002794    1 detergent      : 洗剤
+0.0002781    2 spouse         : 先だつ, 先立つ
+0.0002767    2 traditional    : 先負, 先勝
+0.0002745    1 garden         : 庭先
+0.0002745    1 undergoing     : 受洗
+0.0002716    1 inherent       : 先天
+0.0002699    2 group          : 洗礼, 先頭
+0.0002698    1 shogi          : 先手
+0.0002697    1 portent        : 先触れ
+0.0002681    1 fingertip      : 指先
+0.0002669    1 misdeed        : 先非
+0.0002669    1 muzzle         : 筒先
+0.0002646    2 goes           : 先々, 先先
+0.0002645    1 errand         : 使い先
+0.0002641    1 prow           : 舳先
+0.0002632    2 game           : 互先, 先勝
+0.0002613    1 miner          : 先山
+0.0002605    1 check          : 洗い立てる
+0.0002597    2 distant        : 先々, 先先
+0.0002596    2 team           : 先鋒, 先発
+0.0002592    1 washout        : 洗い出し
+0.0002589    1 prepayment     : 先払い
+0.0002587    1 initiation     : 洗礼
+0.0002572    1 detachment     : 先兵
+0.0002566    2 light          : 洗い出す, 洗い出し
+0.0002528    2 start          : 洗い出す, 先制
+0.0002521    1 irrigation     : 洗滌
+0.0002516    1 sin            : 先非
+0.0002505    1 flunky         : 先棒
+0.0002499    1 innate         : 先天
+0.0002493    1 veranda        : 縁先
+0.0002492    1 rod            : 棒先
+0.0002487    1 receiver       : 届け先
+0.0002483    1 sent           : 使い先
+0.0002477    2 guard          : 先鋒, 先陣
+0.0002473    1 starched       : 洗い張り
+0.0002471    1 parcel         : 届け先
+0.0002455    1 haste          : 先負
+0.0002445    1 breast         : 胸先
+0.0002435    1 noon           : 先負
+0.0002378    1 virtuous       : 先王
+0.0002366    1 bathhouse      : 洗湯
+0.0002355    1 wheat          : 穂先
+0.0002336    1 iced           : 洗い
+0.0002327    1 blade          : 刃先
+0.0002324    1 learned        : 先覚
+0.0002316    1 unlucky        : 先負
+0.0002304    1 borrowing      : 先借り
+0.0002299    1 crisis         : 先途
+0.0002294    2 die            : 先だつ, 先立つ
+0.0002290    1 scholar        : 先学
+0.0002288    1 judgment       : 先負
+0.0002287    1 chest          : 胸先
+0.0002286    1 debate         : 太刀先
+0.0002283    2 enemy          : 先駈け, 先駆け
+0.0002261    1 ear            : 穂先
+0.0002240    2 house          : 軒先, 庭先
+0.0002216    1 freight        : 先渡し
+0.0002215    1 academic       : 先学
+0.0002210    1 carrying       : 棒先
+0.0002207    1 arrowhead      : 矢先
+0.0002197    1 foremother     : 先祖
+0.0002188    1 minion         : 手先
+0.0002188    1 stooge         : 手先
+0.0002185    1 wise           : 先哲
+0.0002180    1 direction      : 水先
+0.0002163    1 purify         : 洗う
+0.0002150    1 discovery      : 洗い出し
+0.0002144    1 current        : 水先
+0.0002139    1 seeking        : 洗い出し
+0.0002136    1 frontage       : 軒先
+0.0002134    1 cold           : 水洗い
+0.0002125    1 collect        : 先払い
+0.0002109    1 preference     : 優先
+0.0002104    1 context        : 後先
+0.0002085    1 stick          : 棒先
+0.0002077    1 side           : 先方
+0.0002072    1 stalker        : 先行
+0.0002072    1 outriding      : 先駆
+0.0002064    1 revealing      : 洗い出し
+0.0002060    1 error          : 先非
+0.0002056    1 chilled        : 洗い
+0.0002049    1 discover       : 洗い出す
+0.0002046    1 rash           : 先走る
+0.0002044    1 course         : 水先
+0.0002035    1 skilled        : 先山
+0.0002012    1 tide           : 潮先
+0.0002005    1 rising         : 潮先
+0.0001998    1 men            : 先哲
+0.0001995    1 deck           : 洗う
+0.0001995    1 inquire        : 洗う
+0.0001994    1 mail           : 先払い
+0.0001979    1 delaying       : 先送り
+0.0001972    1 cedar          : 洗い出し
+0.0001953    1 agent          : 洗剤
+0.0001949    1 battle         : 先途
+0.0001948    1 outrider       : 先駆
+0.0001936    1 long           : もう先
+0.0001936    2 work           : 勤め先, 先輩
+0.0001928    1 extensive      : 洗い出し
+0.0001928    1 finding        : 洗い出し
+0.0001926    1 bath           : 洗湯
+0.0001923    1 paying         : 先渡し
+0.0001922    1 society        : 洗礼
+0.0001919    1 reveal         : 洗い出す
+0.0001911    1 dirt           : 洗い出す
+0.0001908    1 forefather     : 先祖
+0.0001899    1 expose         : 洗い出す
+0.0001892    1 material       : 洗剤
+0.0001892    1 phone          : 先払い
+0.0001886    2 come           : さい先, 幸先
+0.0001884    1 sweep          : 洗う
+0.0001884    1 experience     : 洗礼
+0.0001883    1 shoulder       : 肩先
+0.0001882    1 satisfactory   : 先ず
+0.0001876    1 likely         : 先ず
+0.0001876    1 gun            : 先走る
+0.0001873    1 jump           : 先走る
+0.0001848    1 progenitor     : 先輩
+0.0001840    1 concrete       : 洗い出し
+0.0001834    1 rear           : 後先
+0.0001828    1 shore          : 洗う
+0.0001824    1 cusp           : 先端
+0.0001822    1 exposure       : 洗い出し
+0.0001822    1 car            : 洗車
+0.0001806    1 oneself        : 先走る
+0.0001803    1 finger         : 指先
+0.0001798    1 dig            : 洗い出す
+0.0001795    1 immediate      : 目先
+0.0001794    1 lower          : 先安
+0.0001784    1 aboriginal     : 先住
+0.0001767    1 inhabitant     : 先住
+0.0001761    1 bow            : 舳先
+0.0001742    1 pawn           : 手先
+0.0001724    1 occupancy      : 先占
+0.0001723    1 arrow          : 矢先
+0.0001719    1 proboscis      : 口先
+0.0001715    1 stays          : 旅先
+0.0001711    1 crescent       : 先端
+0.0001710    1 powder         : 洗い粉
+0.0001709    1 underling      : 手先
+0.0001709    1 eaves          : 軒先
+0.0001708    1 grain          : 洗い出し
+0.0001695    1 gone           : 出先
+0.0001694    1 search         : 洗い出し
+0.0001653    1 least          : 先ず
+0.0001650    1 inversion      : 先後
+0.0001643    1 snout          : 口先
+0.0001630    1 flying         : 矢先
+0.0001625    1 mind           : 洗浄
+0.0001620    1 athlete        : 先鋒
+0.0001614    1 face           : 洗面
+0.0001606    1 dry            : 洗い張り
+0.0001605    1 batting        : 先攻
+0.0001600    1 prejudice      : 先入
+0.0001599    1 settling       : 先決
+0.0001597    1 earth          : 洗い出す
+0.0001579    1 body           : 洗浄
+0.0001577    1 anything       : 先ず
+0.0001575    1 find           : 洗い出す
+0.0001575    1 happening      : 先行
+0.0001571    1 public         : 洗湯
+0.0001566    1 fashion        : 一先ず
+0.0001565    1 leadership     : 先導
+0.0001560    1 postponement   : 先送り
+0.0001549    1 top            : 肩先
+0.0001544    1 acquisition    : 先占
+0.0001539    1 surface        : 洗い出す
+0.0001535    1 afternoon      : 先勝
+0.0001530    1 man            : 先覚
+0.0001513    1 mere           : 口先
+0.0001500    1 begin          : 先ず
+0.0001499    1 advanced       : 先進
+0.0001494    1 bring          : 洗い出す
+0.0001481    1 acute          : 先鋭
+0.0001469    1 guidance       : 先導
+0.0001463    1 appearance     : 目先
+0.0001460    1 married        : 嫁ぎ先
+0.0001457    1 graduate       : 先輩
+0.0001451    1 occupation     : 先占
+0.0001445    1 lip            : 口先
+0.0001418    1 curve          : 先端
+0.0001409    1 rate           : 先ず
+0.0001408    1 addressee      : 送り先
+0.0001397    1 sending        : 先遣
+0.0001389    1 heart          : 洗う
+0.0001386    1 old            : 老い先
+0.0001380    1 sports         : 先発
+0.0001375    1 life           : 老い先
+0.0001370    1 visitor        : 先客
+0.0001366    1 recipient      : 送り先
+0.0001359    1 guide          : 先達
+0.0001349    1 arrival        : 先回り
+0.0001341    1 origin         : 出先
+0.0001325    1 judo           : 先鋒
+0.0001324    1 source         : 出先
+0.0001318    1 branch         : 出先
+0.0001312    1 trip           : 旅先
+0.0001311    1 competition    : 先鋒
+0.0001289    1 higher         : 先高
+0.0001281    1 sharp          : 先鋭
+0.0001278    1 hand           : 目先
+0.0001274    1 consideration  : 先議
+0.0001268    1 priest         : 先住
+0.0001266    1 older          : 先輩
+0.0001258    1 original       : 先住
+0.0001253    1 tongue         : 舌先
+0.0001251    1 moon           : 先端
+0.0001248    1 object         : 出先
+0.0001247    1 spring         : 春先
+0.0001233    1 winning        : 先勝
+0.0001228    1 figure         : 先達
+0.0001207    1 radical        : 先鋭
+0.0001182    1 coming         : 先行
+0.0001176    1 getting        : 先行
+0.0001171    1 office         : 出先
+0.0001170    1 match          : 先鋒
+0.0001148    1 mouth          : 口先
+0.0001116    1 days           : 先日
+0.0001105    1 matter         : 先決
+0.0001096    1 age            : 先代
+0.0001079    1 woman          : 嫁ぎ先
+0.0001067    1 month          : 先月
+0.0000997    1 service        : 口先
+0.0000956    1 school         : 先輩
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1100003    3 barefoot
+	barefoot WORD[ 1,   1]: 0.0493232 跣足
+	barefoot WORD[ 1,   2]: 0.0488811 素跣
+	barefoot WORD[ 1,   3]: 0.0117960 跣
+TOKEN[ 2]: 0.0808726    3 pig
+	pig WORD[ 2,   1]: 0.0709617 製銑
+	pig WORD[ 2,   2]: 0.0052572 銑
+	pig WORD[ 2,   3]: 0.0046537 銑鉄
+TOKEN[ 3]: 0.0785300    5 iron
+	iron WORD[ 3,   1]: 0.0597553 製銑
+	iron WORD[ 3,   2]: 0.0052145 溶銑
+	iron WORD[ 3,   3]: 0.0052145 熔銑
+	iron WORD[ 3,   4]: 0.0044269 銑
+	iron WORD[ 3,   5]: 0.0039188 銑鉄
+TOKEN[ 4]: 0.0492640    1 whisk
+	whisk WORD[ 4,   1]: 0.0492640 茶筅
+TOKEN[ 5]: 0.0454062    2 professional
+	professional WORD[ 5,   1]: 0.0366428 跣足
+	professional WORD[ 5,   2]: 0.0087634 跣
+TOKEN[ 6]: 0.0448566    4 superior
+	superior WORD[ 6,   1]: 0.0359870 跣足
+	superior WORD[ 6,   2]: 0.0086066 跣
+	superior WORD[ 6,   3]: 0.0001316 先輩
+	superior WORD[ 6,   4]: 0.0001315 先進
+TOKEN[ 7]: 0.0357651    2 making
+	making WORD[ 7,   1]: 0.0255830 製銑
+	making WORD[ 7,   2]: 0.0101821 茶筅
+TOKEN[ 8]: 0.0329721    4 brush
+	brush WORD[ 8,   1]: 0.0312171 筆洗い
+	brush WORD[ 8,   2]: 0.0013214 筆洗
+	brush WORD[ 8,   3]: 0.0002198 穂先
+	brush WORD[ 8,   4]: 0.0002138 筆先
+TOKEN[ 9]: 0.0312036    1 tea
+	tea WORD[ 9,   1]: 0.0312036 茶筅
+TOKEN[10]: 0.0217648    4 hair
+	hair WORD[10,   1]: 0.0204956 茶筅
+	hair WORD[10,   2]: 0.0006567 毛先
+	hair WORD[10,   3]: 0.0002813 洗い髪
+	hair WORD[10,   4]: 0.0001655 洗髪
+TOKEN[11]: 0.0212524   35 washing
+	washing WORD[11,   1]: 0.0086430 筆洗い
+	washing WORD[11,   2]: 0.0012935 洗い場
+	washing WORD[11,   3]: 0.0008561 芋洗い
+	washing WORD[11,   4]: 0.0006841 洗骨
+	washing WORD[11,   5]: 0.0005425 洗い出す
+	washing WORD[11,   6]: 0.0005425 洗い出し
+	washing WORD[11,   7]: 0.0004560 手洗
+	washing WORD[11,   8]: 0.0004560 手洗い
+	washing WORD[11,   9]: 0.0003943 丸洗い
+	washing WORD[11,  10]: 0.0003862 もみ洗い
+	washing WORD[11,  11]: 0.0003862 揉み洗い
+	washing WORD[11,  12]: 0.0003658 筆洗
+	washing WORD[11,  13]: 0.0003479 洗米
+	washing WORD[11,  14]: 0.0003478 洗足
+	washing WORD[11,  15]: 0.0003442 解き洗い
+	washing WORD[11,  16]: 0.0003442 解洗い
+	washing WORD[11,  17]: 0.0003428 摘み洗い
+	washing WORD[11,  18]: 0.0003303 下洗い
+	washing WORD[11,  19]: 0.0002957 灰汁洗い
+	washing WORD[11,  20]: 0.0002956 洗い濯ぎ
+	washing WORD[11,  21]: 0.0002956 洗いざらし
+	washing WORD[11,  22]: 0.0002956 洗い晒し
+	washing WORD[11,  23]: 0.0002686 水洗い
+	washing WORD[11,  24]: 0.0002164 洗面
+	washing WORD[11,  25]: 0.0002163 洗髪
+	washing WORD[11,  26]: 0.0002163 洗たく
+	washing WORD[11,  27]: 0.0002163 洗濯
+	washing WORD[11,  28]: 0.0002163 洗浄
+	washing WORD[11,  29]: 0.0002163 洗滌
+	washing WORD[11,  30]: 0.0002163 洗車
+	washing WORD[11,  31]: 0.0002163 洗剤
+	washing WORD[11,  32]: 0.0002162 洗眼
+	washing WORD[11,  33]: 0.0002130 水洗
+	washing WORD[11,  34]: 0.0001808 洗い上げる
+	washing WORD[11,  35]: 0.0001808 洗い
+TOKEN[12]: 0.0150144    2 molten
+	molten WORD[12,   1]: 0.0075072 溶銑
+	molten WORD[12,   2]: 0.0075072 熔銑
+TOKEN[13]: 0.0138952    1 bundle
+	bundle WORD[13,   1]: 0.0138952 茶筅
+TOKEN[14]: 0.0138689    1 tied
+	tied WORD[14,   1]: 0.0138689 茶筅
+TOKEN[15]: 0.0115540    1 back
+	back WORD[15,   1]: 0.0115540 茶筅
+TOKEN[16]: 0.0114053    2 washer
+	washer WORD[16,   1]: 0.0109422 筆洗い
+	washer WORD[16,   2]: 0.0004632 筆洗
+TOKEN[17]: 0.0111278    1 shape
+	shape WORD[17,   1]: 0.0111278 茶筅
+TOKEN[18]: 0.0111225    1 bamboo
+	bamboo WORD[18,   1]: 0.0111225 茶筅
+TOKEN[19]: 0.0105946    9 head
+	head WORD[19,   1]: 0.0095493 茶筅
+	head WORD[19,   2]: 0.0001223 まっ先
+	head WORD[19,   3]: 0.0001223 真っ先
+	head WORD[19,   4]: 0.0001223 真先
+	head WORD[19,   5]: 0.0000995 先頭
+	head WORD[19,   6]: 0.0000995 先代
+	head WORD[19,   7]: 0.0000995 先制
+	head WORD[19,   8]: 0.0000950 先
+	head WORD[19,   9]: 0.0000950 先き
+TOKEN[20]: 0.0104540    2 cleaner
+	cleaner WORD[20,   1]: 0.0100294 筆洗い
+	cleaner WORD[20,   2]: 0.0004245 筆洗
+TOKEN[21]: 0.0101913    1 style
+	style WORD[21,   1]: 0.0101913 茶筅
+TOKEN[22]: 0.0099387    6 cleaning
+	cleaning WORD[22,   1]: 0.0086303 筆洗い
+	cleaning WORD[22,   2]: 0.0003653 筆洗
+	cleaning WORD[22,   3]: 0.0002952 洗い濯ぎ
+	cleaning WORD[22,   4]: 0.0002160 洗浄
+	cleaning WORD[22,   5]: 0.0002160 洗滌
+	cleaning WORD[22,   6]: 0.0002159 洗剤
+TOKEN[23]: 0.0075455    1 Japanese
+	Japanese WORD[23,   1]: 0.0075455 茶筅
+TOKEN[24]: 0.0070419    2 writing
+	writing WORD[24,   1]: 0.0067559 筆洗い
+	writing WORD[24,   2]: 0.0002860 筆洗
+TOKEN[25]: 0.0064245   10 wash
+	wash WORD[25,   1]: 0.0025337 硯洗い
+	wash WORD[25,   2]: 0.0008453 洗い去る
+	wash WORD[25,   3]: 0.0008379 洗い落とす
+	wash WORD[25,   4]: 0.0005234 洗い清める
+	wash WORD[25,   5]: 0.0004190 洗い流す
+	wash WORD[25,   6]: 0.0003814 洗う
+	wash WORD[25,   7]: 0.0003117 洗い立てる
+	wash WORD[25,   8]: 0.0001907 洗いなおす
+	wash WORD[25,   9]: 0.0001907 洗い直す
+	wash WORD[25,  10]: 0.0001907 洗い上げる
+TOKEN[26]: 0.0047650   13 previous
+	previous WORD[26,   1]: 0.0011687 先公
+	previous WORD[26,   2]: 0.0006293 先出
+	previous WORD[26,   3]: 0.0005226 先代
+	previous WORD[26,   4]: 0.0004012 先口
+	previous WORD[26,   5]: 0.0003938 先婦
+	previous WORD[26,   6]: 0.0002101 先約
+	previous WORD[26,   7]: 0.0002101 先便
+	previous WORD[26,   8]: 0.0002057 先王
+	previous WORD[26,   9]: 0.0002006 先君
+	previous WORD[26,  10]: 0.0001932 先触れ
+	previous WORD[26,  11]: 0.0001306 先住
+	previous WORD[26,  12]: 0.0001247 先
+	previous WORD[26,  13]: 0.0001247 先き
+TOKEN[27]: 0.0041894   15 tip
+	tip WORD[27,   1]: 0.0004510 穂先
+	tip WORD[27,   2]: 0.0004281 鼻先
+	tip WORD[27,   3]: 0.0004065 葉先
+	tip WORD[27,   4]: 0.0003642 えり先
+	tip WORD[27,   5]: 0.0003642 衿先
+	tip WORD[27,   6]: 0.0003642 襟先
+	tip WORD[27,   7]: 0.0003465 先っちょ
+	tip WORD[27,   8]: 0.0002194 筆先
+	tip WORD[27,   9]: 0.0002062 突先
+	tip WORD[27,  10]: 0.0001673 指先
+	tip WORD[27,  11]: 0.0001293 先端
+	tip WORD[27,  12]: 0.0001252 舌先
+	tip WORD[27,  13]: 0.0001235 先っぽ
+	tip WORD[27,  14]: 0.0001234 先
+	tip WORD[27,  15]: 0.0001234 先き
+TOKEN[28]: 0.0034578    1 acidic
+	acidic WORD[28,   1]: 0.0034578 酸洗
+TOKEN[29]: 0.0033550    1 brushes
+	brushes WORD[29,   1]: 0.0033550 硯洗い
+TOKEN[30]: 0.0032121   29 one
+	one WORD[30,   1]: 0.0002522 先腹
+	one WORD[30,   2]: 0.0002521 先妣
+	one WORD[30,   3]: 0.0001818 鼻先
+	one WORD[30,   4]: 0.0001794 手洗
+	one WORD[30,   5]: 0.0001794 手洗い
+	one WORD[30,   6]: 0.0001688 毛先
+	one WORD[30,   7]: 0.0001504 バイト先
+	one WORD[30,   8]: 0.0001383 目先
+	one WORD[30,   9]: 0.0000912 使い先
+	one WORD[30,  10]: 0.0000851 洗礼
+	one WORD[30,  11]: 0.0000851 洗面
+	one WORD[30,  12]: 0.0000851 洗髪
+	one WORD[30,  13]: 0.0000851 洗浄
+	one WORD[30,  14]: 0.0000851 洗眼
+	one WORD[30,  15]: 0.0000843 先考
+	one WORD[30,  16]: 0.0000771 生い先
+	one WORD[30,  17]: 0.0000711 洗う
+	one WORD[30,  18]: 0.0000663 ほこ先
+	one WORD[30,  19]: 0.0000663 矛先
+	one WORD[30,  20]: 0.0000663 鉾先
+	one WORD[30,  21]: 0.0000663 鋒先
+	one WORD[30,  22]: 0.0000582 出先
+	one WORD[30,  23]: 0.0000561 旅先
+	one WORD[30,  24]: 0.0000549 先代
+	one WORD[30,  25]: 0.0000549 先生
+	one WORD[30,  26]: 0.0000524 先だつ
+	one WORD[30,  27]: 0.0000524 先立つ
+	one WORD[30,  28]: 0.0000524 先々
+	one WORD[30,  29]: 0.0000524 先先
+TOKEN[31]: 0.0031052    1 soaking
+	soaking WORD[31,   1]: 0.0031052 酸洗
+TOKEN[32]: 0.0029834    7 washed
+	washed WORD[32,   1]: 0.0008074 洗米
+	washed WORD[32,   2]: 0.0004267 洗い物
+	washed WORD[32,   3]: 0.0004267 洗物
+	washed WORD[32,   4]: 0.0004267 洗い髪
+	washed WORD[32,   5]: 0.0003431 洗いたて
+	washed WORD[32,   6]: 0.0003431 洗い立て
+	washed WORD[32,   7]: 0.0002099 洗い張り
+TOKEN[33]: 0.0029473   13 future
+	future WORD[33,   1]: 0.0007479 先読み
+	future WORD[33,   2]: 0.0002384 先行き
+	future WORD[33,   3]: 0.0002383 先々
+	future WORD[33,   4]: 0.0002383 先先
+	future WORD[33,   5]: 0.0001845 先安
+	future WORD[33,   6]: 0.0001753 生い先
+	future WORD[33,   7]: 0.0001612 行く先
+	future WORD[33,   8]: 0.0001572 目先
+	future WORD[33,   9]: 0.0001192 先高
+	future WORD[33,  10]: 0.0001191 先
+	future WORD[33,  11]: 0.0001191 先き
+	future WORD[33,  12]: 0.0001052 行き先
+	future WORD[33,  13]: 0.0001052 行先
+TOKEN[34]: 0.0028311    3 foresight
+	foresight WORD[34,   1]: 0.0024581 先知
+	foresight WORD[34,   2]: 0.0002080 目先
+	foresight WORD[34,   3]: 0.0001650 先見
+TOKEN[35]: 0.0026564    1 speedy
+	speedy WORD[35,   1]: 0.0026564 先知
+TOKEN[36]: 0.0026560   18 point
+	point WORD[36,   1]: 0.0002639 先っちょ
+	point WORD[36,   2]: 0.0001718 穂先
+	point WORD[36,   3]: 0.0001584 先兵
+	point WORD[36,   4]: 0.0001527 太刀先
+	point WORD[36,   5]: 0.0001440 剣先
+	point WORD[36,   6]: 0.0001414 切っ先
+	point WORD[36,   7]: 0.0001414 切先
+	point WORD[36,   8]: 0.0001261 矢先
+	point WORD[36,   9]: 0.0001190 ほこ先
+	point WORD[36,  10]: 0.0001190 矛先
+	point WORD[36,  11]: 0.0001190 鉾先
+	point WORD[36,  12]: 0.0001190 鋒先
+	point WORD[36,  13]: 0.0000985 先端
+	point WORD[36,  14]: 0.0000985 先勝
+	point WORD[36,  15]: 0.0000941 先細り
+	point WORD[36,  16]: 0.0000941 先っぽ
+	point WORD[36,  17]: 0.0000940 先
+	point WORD[36,  18]: 0.0000940 先き
+TOKEN[37]: 0.0026372   12 advance
+	advance WORD[37,   1]: 0.0005595 先貸し
+	advance WORD[37,   2]: 0.0003582 先払い
+	advance WORD[37,   3]: 0.0003362 先買い
+	advance WORD[37,   4]: 0.0001948 先兵
+	advance WORD[37,   5]: 0.0001833 先借り
+	advance WORD[37,   6]: 0.0001791 先渡し
+	advance WORD[37,   7]: 0.0001212 先鋒
+	advance WORD[37,   8]: 0.0001212 先発
+	advance WORD[37,   9]: 0.0001211 先陣
+	advance WORD[37,  10]: 0.0001157 先どり
+	advance WORD[37,  11]: 0.0001157 先取
+	advance WORD[37,  12]: 0.0001157 先取り
+TOKEN[38]: 0.0025817    7 laundry
+	laundry WORD[38,   1]: 0.0007353 洗い場
+	laundry WORD[38,   2]: 0.0004180 洗い物
+	laundry WORD[38,   3]: 0.0004180 洗物
+	laundry WORD[38,   4]: 0.0002592 手洗
+	laundry WORD[38,   5]: 0.0002592 手洗い
+	laundry WORD[38,   6]: 0.0002459 洗たく
+	laundry WORD[38,   7]: 0.0002459 洗濯
+TOKEN[39]: 0.0025579    1 remove
+	remove WORD[39,   1]: 0.0025579 酸洗
+TOKEN[40]: 0.0024978    1 solution
+	solution WORD[40,   1]: 0.0024978 酸洗
+TOKEN[41]: 0.0024967   10 end
+	end WORD[41,   1]: 0.0004462 先細
+	end WORD[41,   2]: 0.0004462 先太
+	end WORD[41,   3]: 0.0003378 棒先
+	end WORD[41,   4]: 0.0003114 腕先
+	end WORD[41,   5]: 0.0002605 先っちょ
+	end WORD[41,   6]: 0.0001333 後先
+	end WORD[41,   7]: 0.0000972 先端
+	end WORD[41,   8]: 0.0000928 先っぽ
+	end WORD[41,   9]: 0.0000928 先
+	end WORD[41,  10]: 0.0000928 先き
+TOKEN[42]: 0.0024531    1 pray
+	pray WORD[42,   1]: 0.0024531 硯洗い
+TOKEN[43]: 0.0024378    1 task
+	task WORD[43,   1]: 0.0024378 先務
+TOKEN[44]: 0.0023794   12 destination
+	destination WORD[44,   1]: 0.0002288 届け先
+	destination WORD[44,   2]: 0.0001967 あて先
+	destination WORD[44,   3]: 0.0001966 宛て先
+	destination WORD[44,   4]: 0.0001966 宛先
+	destination WORD[44,   5]: 0.0001853 行く先
+	destination WORD[44,   6]: 0.0001521 出先
+	destination WORD[44,   7]: 0.0001466 旅先
+	destination WORD[44,   8]: 0.0001435 先方
+	destination WORD[44,   9]: 0.0001370 先
+	destination WORD[44,  10]: 0.0001370 先き
+	destination WORD[44,  11]: 0.0001209 行き先
+	destination WORD[44,  12]: 0.0001209 行先
+TOKEN[45]: 0.0023414    3 collar
+	collar WORD[45,   1]: 0.0007805 えり先
+	collar WORD[45,   2]: 0.0007805 衿先
+	collar WORD[45,   3]: 0.0007805 襟先
+TOKEN[46]: 0.0022922    1 metal
+	metal WORD[46,   1]: 0.0022922 酸洗
+TOKEN[47]: 0.0022494    1 success
+	success WORD[47,   1]: 0.0022494 硯洗い
+TOKEN[48]: 0.0022459    1 marking
+	marking WORD[48,   1]: 0.0022459 値洗い
+TOKEN[49]: 0.0022427    1 comprehension
+	comprehension WORD[49,   1]: 0.0022427 先知
+TOKEN[50]: 0.0022230    4 rinsing
+	rinsing WORD[50,   1]: 0.0012176 酢洗い
+	rinsing WORD[50,   2]: 0.0003416 洗い濯ぎ
+	rinsing WORD[50,   3]: 0.0002460 水洗
+	rinsing WORD[50,   4]: 0.0002089 洗
+TOKEN[51]: 0.0020682    1 event
+	event WORD[51,   1]: 0.0020682 硯洗い
+TOKEN[52]: 0.0020350    8 place
+	place WORD[52,   1]: 0.0008701 洗い場
+	place WORD[52,   2]: 0.0002571 バイト先
+	place WORD[52,   3]: 0.0001991 出先
+	place WORD[52,   4]: 0.0001559 使い先
+	place WORD[52,   5]: 0.0000983 勤め先
+	place WORD[52,   6]: 0.0000959 旅先
+	place WORD[52,   7]: 0.0000896 先
+	place WORD[52,   8]: 0.0000896 先き
+TOKEN[53]: 0.0020127    7 spearhead
+	spearhead WORD[53,   1]: 0.0005197 槍先
+	spearhead WORD[53,   2]: 0.0002964 穂先
+	spearhead WORD[53,   3]: 0.0002053 ほこ先
+	spearhead WORD[53,   4]: 0.0002053 矛先
+	spearhead WORD[53,   5]: 0.0002053 鉾先
+	spearhead WORD[53,   6]: 0.0002053 鋒先
+	spearhead WORD[53,   7]: 0.0001700 先端
+TOKEN[54]: 0.0019675    2 night
+	night WORD[54,   1]: 0.0018594 硯洗い
+	night WORD[54,   2]: 0.0001080 先夜
+TOKEN[55]: 0.0019650    3 master
+	master WORD[55,   1]: 0.0007221 先主
+	master WORD[55,   2]: 0.0005389 先腹
+	master WORD[55,   3]: 0.0002347 先生
+TOKEN[56]: 0.0019491    2 supplier
+	supplier WORD[56,   1]: 0.0009746 仕入れ先
+	supplier WORD[56,   2]: 0.0009746 仕入先
+TOKEN[57]: 0.0019400   10 first
+	first WORD[57,   1]: 0.0003420 先登
+	first WORD[57,   2]: 0.0003189 先行
+	first WORD[57,   3]: 0.0002127 先発
+	first WORD[57,   4]: 0.0002126 先勝
+	first WORD[57,   5]: 0.0001648 洗礼
+	first WORD[57,   6]: 0.0001572 先走る
+	first WORD[57,   7]: 0.0001064 先鋒
+	first WORD[57,   8]: 0.0001063 先手
+	first WORD[57,   9]: 0.0001063 先着
+	first WORD[57,  10]: 0.0001063 先決
+TOKEN[58]: 0.0019108    7 address
+	address WORD[58,   1]: 0.0002461 先生
+	address WORD[58,   2]: 0.0001963 届け先
+	address WORD[58,   3]: 0.0001687 あて先
+	address WORD[58,   4]: 0.0001687 宛て先
+	address WORD[58,   5]: 0.0001687 宛先
+	address WORD[58,   6]: 0.0001175 先
+	address WORD[58,   7]: 0.0001175 先き
+TOKEN[59]: 0.0018746   11 time
+	time WORD[59,   1]: 0.0005841 洗い替え
+	time WORD[59,   2]: 0.0003893 先太り
+	time WORD[59,   3]: 0.0001508 もう先
+	time WORD[59,   4]: 0.0001303 先回
+	time WORD[59,   5]: 0.0001040 先ず
+	time WORD[59,   6]: 0.0000993 一先ず
+	time WORD[59,   7]: 0.0000849 先般
+	time WORD[59,   8]: 0.0000849 先だって
+	time WORD[59,   9]: 0.0000849 先達て
+	time WORD[59,  10]: 0.0000811 先ほど
+	time WORD[59,  11]: 0.0000811 先程
+TOKEN[60]: 0.0017721    2 cheque
+	cheque WORD[60,   1]: 0.0008860 先付
+	cheque WORD[60,   2]: 0.0008860 先付け
+TOKEN[61]: 0.0017686    6 preceding
+	preceding WORD[61,   1]: 0.0007160 先腹
+	preceding WORD[61,   2]: 0.0002508 先皇
+	preceding WORD[61,   3]: 0.0002507 先帝
+	preceding WORD[61,   4]: 0.0002393 先回
+	preceding WORD[61,   5]: 0.0001559 先行
+	preceding WORD[61,   6]: 0.0001559 先客
+TOKEN[62]: 0.0017511    2 appetizer
+	appetizer WORD[62,   1]: 0.0008756 先付
+	appetizer WORD[62,   2]: 0.0008756 先付け
+TOKEN[63]: 0.0016880   10 front
+	front WORD[63,   1]: 0.0001868 鼻先
+	front WORD[63,   2]: 0.0001614 先棒
+	front WORD[63,   3]: 0.0001546 後先
+	front WORD[63,   4]: 0.0001386 まっ先
+	front WORD[63,   5]: 0.0001386 真っ先
+	front WORD[63,   6]: 0.0001386 真先
+	front WORD[63,   7]: 0.0001129 先方
+	front WORD[63,   8]: 0.0001128 先頭
+	front WORD[63,   9]: 0.0001077 先
+	front WORD[63,  10]: 0.0001077 先き
+TOKEN[64]: 0.0016602    1 market
+	market WORD[64,   1]: 0.0016602 値洗い
+TOKEN[65]: 0.0016016    1 groove
+	groove WORD[65,   1]: 0.0016016 開先
+TOKEN[66]: 0.0015774    1 welding
+	welding WORD[66,   1]: 0.0015774 開先
+TOKEN[67]: 0.0015651    4 letter
+	letter WORD[67,   1]: 0.0005995 先付
+	letter WORD[67,   2]: 0.0005995 先付け
+	letter WORD[67,   3]: 0.0001838 先便
+	letter WORD[67,   4]: 0.0001823 届け先
+TOKEN[68]: 0.0015223    9 initiative
+	initiative WORD[68,   1]: 0.0001540 帥先
+	initiative WORD[68,   2]: 0.0001540 率先
+	initiative WORD[68,   3]: 0.0001536 先べん
+	initiative WORD[68,   4]: 0.0001536 先鞭
+	initiative WORD[68,   5]: 0.0001535 先手
+	initiative WORD[68,   6]: 0.0001535 先制
+	initiative WORD[68,   7]: 0.0001535 先議
+	initiative WORD[68,   8]: 0.0001466 先駈け
+	initiative WORD[68,   9]: 0.0001466 先駆け
+TOKEN[69]: 0.0014894    3 wife
+	wife WORD[69,   1]: 0.0007115 先婦
+	wife WORD[69,   2]: 0.0005420 先腹
+	wife WORD[69,   3]: 0.0002360 先妻
+TOKEN[70]: 0.0014597    3 bowl
+	bowl WORD[70,   1]: 0.0007957 洗い桶
+	bowl WORD[70,   2]: 0.0003320 杯洗
+	bowl WORD[70,   3]: 0.0003320 盃洗
+TOKEN[71]: 0.0014473   10 taking
+	taking WORD[71,   1]: 0.0002993 丸洗い
+	taking WORD[71,   2]: 0.0001642 洗たく
+	taking WORD[71,   3]: 0.0001642 洗濯
+	taking WORD[71,   4]: 0.0001063 帥先
+	taking WORD[71,   5]: 0.0001063 率先
+	taking WORD[71,   6]: 0.0001012 先どり
+	taking WORD[71,   7]: 0.0001012 先取
+	taking WORD[71,   8]: 0.0001012 先取り
+	taking WORD[71,   9]: 0.0001011 先駈け
+	taking WORD[71,  10]: 0.0001011 先駆け
+TOKEN[72]: 0.0014214    9 attack
+	attack WORD[72,   1]: 0.0001686 切っ先
+	attack WORD[72,   2]: 0.0001686 切先
+	attack WORD[72,   3]: 0.0001504 矢先
+	attack WORD[72,   4]: 0.0001419 ほこ先
+	attack WORD[72,   5]: 0.0001419 矛先
+	attack WORD[72,   6]: 0.0001419 鉾先
+	attack WORD[72,   7]: 0.0001419 鋒先
+	attack WORD[72,   8]: 0.0001121 先駈け
+	attack WORD[72,   9]: 0.0001121 先駆け
+TOKEN[73]: 0.0014109    8 edge
+	edge WORD[73,   1]: 0.0002146 刃先
+	edge WORD[73,   2]: 0.0001749 縁先
+	edge WORD[73,   3]: 0.0001512 ほこ先
+	edge WORD[73,   4]: 0.0001512 矛先
+	edge WORD[73,   5]: 0.0001512 鉾先
+	edge WORD[73,   6]: 0.0001512 鋒先
+	edge WORD[73,   7]: 0.0001401 軒先
+	edge WORD[73,   8]: 0.0001252 先端
+TOKEN[74]: 0.0013993    6 late
+	late WORD[74,   1]: 0.0003808 先主
+	late WORD[74,   2]: 0.0003730 先婦
+	late WORD[74,   3]: 0.0001990 先夫
+	late WORD[74,   4]: 0.0001990 先帝
+	late WORD[74,   5]: 0.0001238 先代
+	late WORD[74,   6]: 0.0001237 先妻
+TOKEN[75]: 0.0013965    3 teacher
+	teacher WORD[75,   1]: 0.0003959 先公
+	teacher WORD[75,   2]: 0.0002655 先生
+	teacher WORD[75,   3]: 0.0002040 先師
+TOKEN[76]: 0.0013832    2 date
+	date WORD[76,   1]: 0.0006916 先付
+	date WORD[76,   2]: 0.0006916 先付け
+TOKEN[77]: 0.0013805    1 urgent
+	urgent WORD[77,   1]: 0.0013805 先務
+TOKEN[78]: 0.0013692    7 former
+	former WORD[78,   1]: 0.0003499 先主
+	former WORD[78,   2]: 0.0001829 先夫
+	former WORD[78,   3]: 0.0001747 先師
+	former WORD[78,   4]: 0.0001137 先年
+	former WORD[78,   5]: 0.0001137 先妻
+	former WORD[78,   6]: 0.0001086 先
+	former WORD[78,   7]: 0.0001086 先き
+TOKEN[79]: 0.0013599    7 pioneer
+	pioneer WORD[79,   1]: 0.0002716 先兵
+	pioneer WORD[79,   2]: 0.0002593 先覚
+	pioneer WORD[79,   3]: 0.0001689 先達
+	pioneer WORD[79,   4]: 0.0001689 先人
+	pioneer WORD[79,   5]: 0.0001688 先駆
+	pioneer WORD[79,   6]: 0.0001612 先駈け
+	pioneer WORD[79,   7]: 0.0001612 先駆け
+TOKEN[80]: 0.0013434    1 dishpan
+	dishpan WORD[80,   1]: 0.0013434 洗い桶
+TOKEN[81]: 0.0013199    9 something
+	something WORD[81,   1]: 0.0002878 洗い晒す
+	something WORD[81,   2]: 0.0001545 先駆ける
+	something WORD[81,   3]: 0.0001545 先駈ける
+	something WORD[81,   4]: 0.0001340 鼻先
+	something WORD[81,   5]: 0.0001255 洗礼
+	something WORD[81,   6]: 0.0000773 先だつ
+	something WORD[81,   7]: 0.0000773 先立つ
+	something WORD[81,   8]: 0.0000773 先
+	something WORD[81,   9]: 0.0000773 先き
+TOKEN[82]: 0.0012921    1 pressing
+	pressing WORD[82,   1]: 0.0012921 先務
+TOKEN[83]: 0.0012820    5 brunt
+	brunt WORD[83,   1]: 0.0002242 矢先
+	brunt WORD[83,   2]: 0.0002116 ほこ先
+	brunt WORD[83,   3]: 0.0002116 矛先
+	brunt WORD[83,   4]: 0.0002116 鉾先
+	brunt WORD[83,   5]: 0.0002116 鋒先
+TOKEN[84]: 0.0012518    7 water
+	water WORD[84,   1]: 0.0002705 御手洗
+	water WORD[84,   2]: 0.0001781 水洗い
+	water WORD[84,   3]: 0.0001512 手洗
+	water WORD[84,   4]: 0.0001512 手洗い
+	water WORD[84,   5]: 0.0001412 水洗
+	water WORD[84,   6]: 0.0001199 洗
+	water WORD[84,   7]: 0.0001199 洗い
+TOKEN[85]: 0.0012228    1 washtub
+	washtub WORD[85,   1]: 0.0012228 洗い桶
+TOKEN[86]: 0.0012191    2 tapering
+	tapering WORD[86,   1]: 0.0008608 先細
+	tapering WORD[86,   2]: 0.0003583 先細り
+TOKEN[87]: 0.0012114    5 vanguard
+	vanguard WORD[87,   1]: 0.0005400 先兵
+	vanguard WORD[87,   2]: 0.0001679 先鋒
+	vanguard WORD[87,   3]: 0.0001679 先頭
+	vanguard WORD[87,   4]: 0.0001679 先端
+	vanguard WORD[87,   5]: 0.0001678 先陣
+TOKEN[88]: 0.0011552    1 valuation
+	valuation WORD[88,   1]: 0.0011552 洗い替え
+TOKEN[89]: 0.0011409    2 baptism
+	baptism WORD[89,   1]: 0.0008595 洗礼
+	baptism WORD[89,   2]: 0.0002814 受洗
+TOKEN[90]: 0.0011246    1 important
+	important WORD[90,   1]: 0.0011246 先務
+TOKEN[91]: 0.0011203    2 moving
+	moving WORD[91,   1]: 0.0008680 洗い替え
+	moving WORD[91,   2]: 0.0001261 先手
+TOKEN[92]: 0.0011148    5 spear
+	spear WORD[92,   1]: 0.0002498 穂先
+	spear WORD[92,   2]: 0.0001730 ほこ先
+	spear WORD[92,   3]: 0.0001730 矛先
+	spear WORD[92,   4]: 0.0001730 鉾先
+	spear WORD[92,   5]: 0.0001730 鋒先
+TOKEN[93]: 0.0010934    2 payment
+	payment WORD[93,   1]: 0.0005578 先貸し
+	payment WORD[93,   2]: 0.0005356 先払い
+TOKEN[94]: 0.0010252    5 predecessor
+	predecessor WORD[94,   1]: 0.0002684 先任
+	predecessor WORD[94,   2]: 0.0002562 先学
+	predecessor WORD[94,   3]: 0.0001669 先代
+	predecessor WORD[94,   4]: 0.0001669 先人
+	predecessor WORD[94,   5]: 0.0001669 先蹤
+TOKEN[95]: 0.0010224    2 unstitching
+	unstitching WORD[95,   1]: 0.0005112 解き洗い
+	unstitching WORD[95,   2]: 0.0005112 解洗い
+TOKEN[96]: 0.0010184    1 vinegar
+	vinegar WORD[96,   1]: 0.0010184 酢洗い
+TOKEN[97]: 0.0010104    3 cleansing
+	cleansing WORD[97,   1]: 0.0005268 洗浄
+	cleansing WORD[97,   2]: 0.0002634 洗滌
+	cleansing WORD[97,   3]: 0.0002202 洗い粉
+TOKEN[98]: 0.0010021    5 target
+	target WORD[98,   1]: 0.0001752 矢先
+	target WORD[98,   2]: 0.0001654 ほこ先
+	target WORD[98,   3]: 0.0001654 矛先
+	target WORD[98,   4]: 0.0001654 鉾先
+	target WORD[98,   5]: 0.0001654 鋒先
+TOKEN[99]: 0.0009809    1 potatoes
+	potatoes WORD[99,   1]: 0.0009809 芋洗い
+TOKEN[100]: 0.0009734    3 nozzle
+	nozzle WORD[100,   1]: 0.0002849 筒先
+	nozzle WORD[100,   2]: 0.0001721 先
+	nozzle WORD[100,   3]: 0.0001721 先き
+TOKEN[101]: 0.0009705    8 day
+	day WORD[101,   1]: 0.0003083 先負
+	day WORD[101,   2]: 0.0000959 先般
+	day WORD[101,   3]: 0.0000958 先だって
+	day WORD[101,   4]: 0.0000958 先達て
+	day WORD[101,   5]: 0.0000958 先日
+	day WORD[101,   6]: 0.0000958 先勝
+	day WORD[101,   7]: 0.0000915 先ごろ
+	day WORD[101,   8]: 0.0000915 先頃
+TOKEN[102]: 0.0009680    5 last
+	last WORD[102,   1]: 0.0003344 先回
+	last WORD[102,   2]: 0.0001089 先週
+	last WORD[102,   3]: 0.0001089 先月
+	last WORD[102,   4]: 0.0001040 先
+	last WORD[102,   5]: 0.0001040 先き
+TOKEN[103]: 0.0009508    1 flaring
+	flaring WORD[103,   1]: 0.0009508 先太り
+TOKEN[104]: 0.0009494    1 Procyon
+	Procyon WORD[104,   1]: 0.0009494 洗い熊
+TOKEN[105]: 0.0009489    4 precede
+	precede WORD[105,   1]: 0.0002884 先んずる
+	precede WORD[105,   2]: 0.0002884 先んじる
+	precede WORD[105,   3]: 0.0001861 先だつ
+	precede WORD[105,   4]: 0.0001861 先立つ
+TOKEN[106]: 0.0009458    1 average
+	average WORD[106,   1]: 0.0009458 洗い替え
+TOKEN[107]: 0.0009383    1 rice
+	rice WORD[107,   1]: 0.0009383 洗米
+TOKEN[108]: 0.0009380    1 business
+	business WORD[108,   1]: 0.0009380 先務
+TOKEN[109]: 0.0009227    2 leaf
+	leaf WORD[109,   1]: 0.0007961 葉先
+	leaf WORD[109,   2]: 0.0001266 先端
+TOKEN[110]: 0.0009107    1 bucket
+	bucket WORD[110,   1]: 0.0009107 芋洗い
+TOKEN[111]: 0.0009029    1 tableware
+	tableware WORD[111,   1]: 0.0009029 洗い場
+TOKEN[112]: 0.0009026    4 ancient
+	ancient WORD[112,   1]: 0.0003730 先聖
+	ancient WORD[112,   2]: 0.0001805 先哲
+	ancient WORD[112,   3]: 0.0001767 先王
+	ancient WORD[112,   4]: 0.0001724 先賢
+TOKEN[113]: 0.0009007    1 crowded
+	crowded WORD[113,   1]: 0.0009007 芋洗い
+TOKEN[114]: 0.0009005    6 beginning
+	beginning WORD[114,   1]: 0.0001740 潮先
+	beginning WORD[114,   2]: 0.0001604 後先
+	beginning WORD[114,   3]: 0.0001438 まっ先
+	beginning WORD[114,   4]: 0.0001438 真っ先
+	beginning WORD[114,   5]: 0.0001438 真先
+	beginning WORD[114,   6]: 0.0001347 春先
+TOKEN[115]: 0.0008955    1 procrastination
+	procrastination WORD[115,   1]: 0.0008955 先延ばし
+TOKEN[116]: 0.0008810    2 nights
+	nights WORD[116,   1]: 0.0007229 先晩
+	nights WORD[116,   2]: 0.0001581 先夜
+TOKEN[117]: 0.0008680    3 forefront
+	forefront WORD[117,   1]: 0.0005233 火先
+	forefront WORD[117,   2]: 0.0001724 先頭
+	forefront WORD[117,   3]: 0.0001724 先端
+TOKEN[118]: 0.0008658    2 cleanse
+	cleanse WORD[118,   1]: 0.0006346 洗い清める
+	cleanse WORD[118,   2]: 0.0002312 洗う
+TOKEN[119]: 0.0008630    3 sake
+	sake WORD[119,   1]: 0.0002862 杯洗
+	sake WORD[119,   2]: 0.0002862 盃洗
+	sake WORD[119,   3]: 0.0001453 洗
+TOKEN[120]: 0.0008605    3 toe
+	toe WORD[120,   1]: 0.0003868 指先
+	toe WORD[120,   2]: 0.0002369 つま先
+	toe WORD[120,   3]: 0.0002369 爪先
+TOKEN[121]: 0.0008514    1 funerary
+	funerary WORD[121,   1]: 0.0008514 洗骨
+TOKEN[122]: 0.0008506    5 part
+	part WORD[122,   1]: 0.0002543 摘み洗い
+	part WORD[122,   2]: 0.0001149 庭先
+	part WORD[122,   3]: 0.0000988 先
+	part WORD[122,   4]: 0.0000988 先き
+	part WORD[122,   5]: 0.0000860 足先
+TOKEN[123]: 0.0008443    4 aim
+	aim WORD[123,   1]: 0.0001689 ほこ先
+	aim WORD[123,   2]: 0.0001689 矛先
+	aim WORD[123,   3]: 0.0001689 鉾先
+	aim WORD[123,   4]: 0.0001689 鋒先
+TOKEN[124]: 0.0008436    5 leader
+	leader WORD[124,   1]: 0.0002589 先達
+	leader WORD[124,   2]: 0.0002082 先兵
+	leader WORD[124,   3]: 0.0001294 先駆
+	leader WORD[124,   4]: 0.0001236 先駈け
+	leader WORD[124,   5]: 0.0001236 先駆け
+TOKEN[125]: 0.0008430    4 focus
+	focus WORD[125,   1]: 0.0001686 ほこ先
+	focus WORD[125,   2]: 0.0001686 矛先
+	focus WORD[125,   3]: 0.0001686 鉾先
+	focus WORD[125,   4]: 0.0001686 鋒先
+TOKEN[126]: 0.0008199    3 forestall
+	forestall WORD[126,   1]: 0.0002735 先んずる
+	forestall WORD[126,   2]: 0.0002735 先んじる
+	forestall WORD[126,   3]: 0.0002729 機先
+TOKEN[127]: 0.0008084    1 clothing
+	clothing WORD[127,   1]: 0.0008084 洗い替え
+TOKEN[128]: 0.0008063    1 lord
+	lord WORD[128,   1]: 0.0008063 先公
+TOKEN[129]: 0.0007986    4 criticism
+	criticism WORD[129,   1]: 0.0001597 ほこ先
+	criticism WORD[129,   2]: 0.0001597 矛先
+	criticism WORD[129,   3]: 0.0001597 鉾先
+	criticism WORD[129,   4]: 0.0001597 鋒先
+TOKEN[130]: 0.0007974    1 urn
+	urn WORD[130,   1]: 0.0007974 洗骨
+TOKEN[131]: 0.0007898    2 rubbing
+	rubbing WORD[131,   1]: 0.0003949 もみ洗い
+	rubbing WORD[131,   2]: 0.0003949 揉み洗い
+TOKEN[132]: 0.0007879    1 method
+	method WORD[132,   1]: 0.0007879 洗い替え
+TOKEN[133]: 0.0007859    1 seppuku
+	seppuku WORD[133,   1]: 0.0007859 先腹
+TOKEN[134]: 0.0007836    2 sage
+	sage WORD[134,   1]: 0.0005360 先聖
+	sage WORD[134,   2]: 0.0002476 先賢
+TOKEN[135]: 0.0007811    5 going
+	going WORD[135,   1]: 0.0002050 先発
+	going WORD[135,   2]: 0.0002049 先行
+	going WORD[135,   3]: 0.0001648 先登
+	going WORD[135,   4]: 0.0001086 出先
+	going WORD[135,   5]: 0.0000979 先回り
+TOKEN[136]: 0.0007791    6 go
+	go WORD[136,   1]: 0.0001442 互先
+	go WORD[136,   2]: 0.0001368 先んずる
+	go WORD[136,   3]: 0.0001366 先立てる
+	go WORD[136,   4]: 0.0000925 先手
+	go WORD[136,   5]: 0.0000883 先だつ
+	go WORD[136,   6]: 0.0000883 先立つ
+TOKEN[137]: 0.0007770    6 times
+	times WORD[137,   1]: 0.0001154 先行
+	times WORD[137,   2]: 0.0001103 先どり
+	times WORD[137,   3]: 0.0001103 先取
+	times WORD[137,   4]: 0.0001103 先取り
+	times WORD[137,   5]: 0.0001102 先駆ける
+	times WORD[137,   6]: 0.0001102 先駈ける
+TOKEN[138]: 0.0007728    2 faded
+	faded WORD[138,   1]: 0.0003864 洗いざらし
+	faded WORD[138,   2]: 0.0003864 洗い晒し
+TOKEN[139]: 0.0007725    2 evening
+	evening WORD[139,   1]: 0.0005715 先晩
+	evening WORD[139,   2]: 0.0002010 先負
+TOKEN[140]: 0.0007687    1 raccoon
+	raccoon WORD[140,   1]: 0.0007687 洗い熊
+TOKEN[141]: 0.0007621    4 forerunner
+	forerunner WORD[141,   1]: 0.0002568 先払い
+	forerunner WORD[141,   2]: 0.0001736 先駆
+	forerunner WORD[141,   3]: 0.0001658 先駈け
+	forerunner WORD[141,   4]: 0.0001658 先駆け
+TOKEN[142]: 0.0007571    1 increasing
+	increasing WORD[142,   1]: 0.0007571 先太り
+TOKEN[143]: 0.0007490    4 anticipation
+	anticipation WORD[143,   1]: 0.0001554 先見
+	anticipation WORD[143,   2]: 0.0001484 先どり
+	anticipation WORD[143,   3]: 0.0001484 先取
+	anticipation WORD[143,   4]: 0.0001484 先取り
+TOKEN[144]: 0.0007443    3 anticipatory
+	anticipatory WORD[144,   1]: 0.0001861 先どり
+	anticipatory WORD[144,   2]: 0.0001861 先取
+	anticipatory WORD[144,   3]: 0.0001861 先取り
+TOKEN[145]: 0.0007442    1 food
+	food WORD[145,   1]: 0.0007442 酢洗い
+TOKEN[146]: 0.0007414    4 argument
+	argument WORD[146,   1]: 0.0001483 ほこ先
+	argument WORD[146,   2]: 0.0001483 矛先
+	argument WORD[146,   3]: 0.0001483 鉾先
+	argument WORD[146,   4]: 0.0001483 鋒先
+TOKEN[147]: 0.0007392    2 rinse
+	rinse WORD[147,   1]: 0.0005080 洗い流す
+	rinse WORD[147,   2]: 0.0002312 洗う
+TOKEN[148]: 0.0007312    1 fish
+	fish WORD[148,   1]: 0.0007312 酢洗い
+TOKEN[149]: 0.0007274    1 bathroom
+	bathroom WORD[149,   1]: 0.0007274 洗い場
+TOKEN[150]: 0.0007187    4 precedence
+	precedence WORD[150,   1]: 0.0002208 優先
+	precedence WORD[150,   2]: 0.0001712 先番
+	precedence WORD[150,   3]: 0.0001634 先だつ
+	precedence WORD[150,   4]: 0.0001634 先立つ
+TOKEN[151]: 0.0007158    2 palanquin
+	palanquin WORD[151,   1]: 0.0005070 棒先
+	palanquin WORD[151,   2]: 0.0002088 先棒
+TOKEN[152]: 0.0007124    3 elder
+	elder WORD[152,   1]: 0.0001425 先輩
+	elder WORD[152,   2]: 0.0001425 先生
+	elder WORD[152,   3]: 0.0001425 先進
+TOKEN[153]: 0.0006998    2 apex
+	apex WORD[153,   1]: 0.0005309 葉先
+	apex WORD[153,   2]: 0.0001689 先端
+TOKEN[154]: 0.0006978    4 lead
+	lead WORD[154,   1]: 0.0002290 先だつ
+	lead WORD[154,   2]: 0.0002290 先立つ
+	lead WORD[154,   3]: 0.0001199 先頭
+	lead WORD[154,   4]: 0.0001199 先行
+TOKEN[155]: 0.0006971    3 refinement
+	refinement WORD[155,   1]: 0.0002324 洗煉
+	refinement WORD[155,   2]: 0.0002324 洗練
+	refinement WORD[155,   3]: 0.0002324 洗錬
+TOKEN[156]: 0.0006953    1 reading
+	reading WORD[156,   1]: 0.0006953 先読み
+TOKEN[157]: 0.0006898    2 vessel
+	vessel WORD[157,   1]: 0.0003449 杯洗
+	vessel WORD[157,   2]: 0.0003449 盃洗
+TOKEN[158]: 0.0006892    1 money
+	money WORD[158,   1]: 0.0006892 洗い替え
+TOKEN[159]: 0.0006815    3 polish
+	polish WORD[159,   1]: 0.0002272 洗煉
+	polish WORD[159,   2]: 0.0002272 洗練
+	polish WORD[159,   3]: 0.0002272 洗錬
+TOKEN[160]: 0.0006718    4 force
+	force WORD[160,   1]: 0.0001344 ほこ先
+	force WORD[160,   2]: 0.0001344 矛先
+	force WORD[160,   3]: 0.0001344 鉾先
+	force WORD[160,   4]: 0.0001344 鋒先
+TOKEN[161]: 0.0006633    1 delay
+	delay WORD[161,   1]: 0.0006633 先延ばし
+TOKEN[162]: 0.0006608    2 generation
+	generation WORD[162,   1]: 0.0003955 先公
+	generation WORD[162,   2]: 0.0002653 先代
+TOKEN[163]: 0.0006483    4 sword
+	sword WORD[163,   1]: 0.0001708 太刀先
+	sword WORD[163,   2]: 0.0001611 剣先
+	sword WORD[163,   3]: 0.0001582 切っ先
+	sword WORD[163,   4]: 0.0001582 切先
+TOKEN[164]: 0.0006413    3 sign
+	sign WORD[164,   1]: 0.0002310 さい先
+	sign WORD[164,   2]: 0.0002310 幸先
+	sign WORD[164,   3]: 0.0001793 先触れ
+TOKEN[165]: 0.0006411    1 growing
+	growing WORD[165,   1]: 0.0006411 先太り
+TOKEN[166]: 0.0006404    2 ruler
+	ruler WORD[166,   1]: 0.0004227 先公
+	ruler WORD[166,   2]: 0.0002177 先君
+TOKEN[167]: 0.0006386    1 towards
+	towards WORD[167,   1]: 0.0006386 先太
+TOKEN[168]: 0.0006335    1 king
+	king WORD[168,   1]: 0.0006335 先王
+TOKEN[169]: 0.0006320    1 suicide
+	suicide WORD[169,   1]: 0.0006320 先腹
+TOKEN[170]: 0.0006289    2 death
+	death WORD[170,   1]: 0.0004658 先腹
+	death WORD[170,   2]: 0.0001631 先途
+TOKEN[171]: 0.0006275    2 clothes
+	clothes WORD[171,   1]: 0.0003137 もみ洗い
+	clothes WORD[171,   2]: 0.0003137 揉み洗い
+TOKEN[172]: 0.0006270    1 ritual
+	ritual WORD[172,   1]: 0.0006270 先腹
+TOKEN[173]: 0.0006230    3 party
+	party WORD[173,   1]: 0.0001071 先方
+	party WORD[173,   2]: 0.0001022 先
+	party WORD[173,   3]: 0.0001022 先き
+TOKEN[174]: 0.0006196    1 form
+	form WORD[174,   1]: 0.0002065 先生
+TOKEN[175]: 0.0006106    2 continuation
+	continuation WORD[175,   1]: 0.0001527 先
+	continuation WORD[175,   2]: 0.0001527 先き
+TOKEN[176]: 0.0005990    4 senior
+	senior WORD[176,   1]: 0.0002028 先学
+	senior WORD[176,   2]: 0.0001321 先輩
+	senior WORD[176,   3]: 0.0001321 先達
+	senior WORD[176,   4]: 0.0001321 先進
+TOKEN[177]: 0.0005961    3 pointed
+	pointed WORD[177,   1]: 0.0002210 切っ先
+	pointed WORD[177,   2]: 0.0002210 切先
+	pointed WORD[177,   3]: 0.0001540 先端
+TOKEN[178]: 0.0005943    3 foremost
+	foremost WORD[178,   1]: 0.0001981 まっ先
+	foremost WORD[178,   2]: 0.0001981 真っ先
+	foremost WORD[178,   3]: 0.0001981 真先
+TOKEN[179]: 0.0005936    3 wages
+	wages WORD[179,   1]: 0.0001484 先どり
+	wages WORD[179,   2]: 0.0001484 先取
+	wages WORD[179,   3]: 0.0001484 先取り
+TOKEN[180]: 0.0005917    1 shampoo
+	shampoo WORD[180,   1]: 0.0002958 洗髪
+TOKEN[181]: 0.0005902    1 mother
+	mother WORD[181,   1]: 0.0005902 先妣
+TOKEN[182]: 0.0005836    2 move
+	move WORD[182,   1]: 0.0002334 先手
+	move WORD[182,   2]: 0.0001167 先番
+TOKEN[183]: 0.0005810    1 people
+	people WORD[183,   1]: 0.0005810 芋洗い
+TOKEN[184]: 0.0005807    1 given
+	given WORD[184,   1]: 0.0005807 先出
+TOKEN[185]: 0.0005766    2 recent
+	recent WORD[185,   1]: 0.0001442 先
+	recent WORD[185,   2]: 0.0001442 先き
+TOKEN[186]: 0.0005751    2 nose
+	nose WORD[186,   1]: 0.0004166 鼻先
+	nose WORD[186,   2]: 0.0001585 目先
+TOKEN[187]: 0.0005691    2 emperor
+	emperor WORD[187,   1]: 0.0003794 先帝
+	emperor WORD[187,   2]: 0.0001897 先皇
+TOKEN[188]: 0.0005675    2 lavatory
+	lavatory WORD[188,   1]: 0.0002838 手洗
+	lavatory WORD[188,   2]: 0.0002838 手洗い
+TOKEN[189]: 0.0005653    2 sock
+	sock WORD[189,   1]: 0.0002826 つま先
+	sock WORD[189,   2]: 0.0002826 爪先
+TOKEN[190]: 0.0005590    2 preliminary
+	preliminary WORD[190,   1]: 0.0003441 下洗い
+	preliminary WORD[190,   2]: 0.0002149 先触れ
+TOKEN[191]: 0.0005460    2 delivery
+	delivery WORD[191,   1]: 0.0003640 先渡し
+	delivery WORD[191,   2]: 0.0001820 先払い
+TOKEN[192]: 0.0005397    3 finishing
+	finishing WORD[192,   1]: 0.0001349 先どり
+	finishing WORD[192,   2]: 0.0001349 先取
+	finishing WORD[192,   3]: 0.0001349 先取り
+TOKEN[193]: 0.0005285    3 completion
+	completion WORD[193,   1]: 0.0001321 先どり
+	completion WORD[193,   2]: 0.0001321 先取
+	completion WORD[193,   3]: 0.0001321 先取り
+TOKEN[194]: 0.0005231    2 kimono
+	kimono WORD[194,   1]: 0.0003586 丸洗い
+	kimono WORD[194,   2]: 0.0001645 洗い張り
+TOKEN[195]: 0.0005170    1 fade
+	fade WORD[195,   1]: 0.0005170 洗い晒す
+TOKEN[196]: 0.0005142    1 repurchase
+	repurchase WORD[196,   1]: 0.0005142 現先
+TOKEN[197]: 0.0005066    1 teasing
+	teasing WORD[197,   1]: 0.0001689 先生
+TOKEN[198]: 0.0005062    2 basin
+	basin WORD[198,   1]: 0.0002531 手洗
+	basin WORD[198,   2]: 0.0002531 手洗い
+TOKEN[199]: 0.0005020    4 leading
+	leading WORD[199,   1]: 0.0001284 先導
+	leading WORD[199,   2]: 0.0001284 先端
+	leading WORD[199,   3]: 0.0001226 先駈け
+	leading WORD[199,   4]: 0.0001226 先駆け
+TOKEN[200]: 0.0005008    1 common
+	common WORD[200,   1]: 0.0005008 洗い熊
+TOKEN[201]: 0.0004971    2 engagement
+	engagement WORD[201,   1]: 0.0002543 先約
+	engagement WORD[201,   2]: 0.0002428 先口
+TOKEN[202]: 0.0004962    3 sentence
+	sentence WORD[202,   1]: 0.0001241 先どり
+	sentence WORD[202,   2]: 0.0001241 先取
+	sentence WORD[202,   3]: 0.0001241 先取り
+TOKEN[203]: 0.0004913    1 soiled
+	soiled WORD[203,   1]: 0.0004913 摘み洗い
+TOKEN[204]: 0.0004903    1 instructor
+	instructor WORD[204,   1]: 0.0001634 先生
+TOKEN[205]: 0.0004890    3 line
+	line WORD[205,   1]: 0.0001015 先頭
+	line WORD[205,   2]: 0.0000969 先
+	line WORD[205,   3]: 0.0000969 先き
+TOKEN[206]: 0.0004862    2 anticipate
+	anticipate WORD[206,   1]: 0.0002431 先んずる
+	anticipate WORD[206,   2]: 0.0002431 先んじる
+TOKEN[207]: 0.0004850    2 shoe
+	shoe WORD[207,   1]: 0.0002425 つま先
+	shoe WORD[207,   2]: 0.0002425 爪先
+TOKEN[208]: 0.0004839    2 preconception
+	preconception WORD[208,   1]: 0.0002931 先口
+	preconception WORD[208,   2]: 0.0001909 先入
+TOKEN[209]: 0.0004835    2 bearer
+	bearer WORD[209,   1]: 0.0002652 棒先
+	bearer WORD[209,   2]: 0.0002183 先棒
+TOKEN[210]: 0.0004830    2 small
+	small WORD[210,   1]: 0.0002415 杯洗
+	small WORD[210,   2]: 0.0002415 盃洗
+TOKEN[211]: 0.0004779    1 font
+	font WORD[211,   1]: 0.0004779 御手洗
+TOKEN[212]: 0.0004758    2 fire
+	fire WORD[212,   1]: 0.0003149 火先
+	fire WORD[212,   2]: 0.0001608 洗礼
+TOKEN[213]: 0.0004750    1 teach
+	teach WORD[213,   1]: 0.0004750 先公
+TOKEN[214]: 0.0004748    1 clean
+	clean WORD[214,   1]: 0.0004748 洗い清める
+TOKEN[215]: 0.0004745    2 rest
+	rest WORD[215,   1]: 0.0001186 先
+	rest WORD[215,   2]: 0.0001186 先き
+TOKEN[216]: 0.0004735    1 child
+	child WORD[216,   1]: 0.0004735 先腹
+TOKEN[217]: 0.0004727    2 reconsider
+	reconsider WORD[217,   1]: 0.0002364 洗いなおす
+	reconsider WORD[217,   2]: 0.0002364 洗い直す
+TOKEN[218]: 0.0004725    1 lawyer
+	lawyer WORD[218,   1]: 0.0001575 先生
+TOKEN[219]: 0.0004713    3 ancestor
+	ancestor WORD[219,   1]: 0.0001574 祖先
+	ancestor WORD[219,   2]: 0.0001570 先祖
+	ancestor WORD[219,   3]: 0.0001570 先人
+TOKEN[220]: 0.0004692    3 prior
+	prior WORD[220,   1]: 0.0001564 先占
+	prior WORD[220,   2]: 0.0001564 先行
+	prior WORD[220,   3]: 0.0001564 先議
+TOKEN[221]: 0.0004643    1 pole
+	pole WORD[221,   1]: 0.0004643 棒先
+TOKEN[222]: 0.0004642    3 whereabouts
+	whereabouts WORD[222,   1]: 0.0002014 行く先
+	whereabouts WORD[222,   2]: 0.0001314 行き先
+	whereabouts WORD[222,   3]: 0.0001314 行先
+TOKEN[223]: 0.0004623    1 primness
+	primness WORD[223,   1]: 0.0002311 洗
+TOKEN[224]: 0.0004613    2 whole
+	whole WORD[224,   1]: 0.0003217 丸洗い
+	whole WORD[224,   2]: 0.0001396 先ず
+TOKEN[225]: 0.0004609    2 seniority
+	seniority WORD[225,   1]: 0.0002842 先任
+	seniority WORD[225,   2]: 0.0001767 先進
+TOKEN[226]: 0.0004534    2 toilet
+	toilet WORD[226,   1]: 0.0002267 手洗
+	toilet WORD[226,   2]: 0.0002267 手洗い
+TOKEN[227]: 0.0004532    3 person
+	person WORD[227,   1]: 0.0001062 老い先
+	person WORD[227,   2]: 0.0000979 洗
+	person WORD[227,   3]: 0.0000756 先手
+TOKEN[228]: 0.0004510    3 interest
+	interest WORD[228,   1]: 0.0001128 先どり
+	interest WORD[228,   2]: 0.0001128 先取
+	interest WORD[228,   3]: 0.0001128 先取り
+TOKEN[229]: 0.0004502    3 way
+	way WORD[229,   1]: 0.0000934 先導
+	way WORD[229,   2]: 0.0000892 先
+	way WORD[229,   3]: 0.0000892 先き
+TOKEN[230]: 0.0004483    1 period
+	period WORD[230,   1]: 0.0004483 先秦
+TOKEN[231]: 0.0004466    1 prim
+	prim WORD[231,   1]: 0.0002233 洗
+TOKEN[232]: 0.0004404    1 flame
+	flame WORD[232,   1]: 0.0004404 火先
+TOKEN[233]: 0.0004396    1 intimate
+	intimate WORD[233,   1]: 0.0001465 先生
+TOKEN[234]: 0.0004373    4 someone
+	someone WORD[234,   1]: 0.0001683 出先
+	someone WORD[234,   2]: 0.0001174 先立てる
+	someone WORD[234,   3]: 0.0000758 先駆ける
+	someone WORD[234,   4]: 0.0000758 先駈ける
+TOKEN[235]: 0.0004316    1 client
+	client WORD[235,   1]: 0.0004316 客先
+TOKEN[236]: 0.0004313    2 story
+	story WORD[236,   1]: 0.0001078 先
+	story WORD[236,   2]: 0.0001078 先き
+TOKEN[237]: 0.0004297    1 consecrated
+	consecrated WORD[237,   1]: 0.0004297 洗米
+TOKEN[238]: 0.0004257    1 aggregate
+	aggregate WORD[238,   1]: 0.0004257 洗い出し
+TOKEN[239]: 0.0004253    1 arm
+	arm WORD[239,   1]: 0.0004253 腕先
+TOKEN[240]: 0.0004242    1 announcement
+	announcement WORD[240,   1]: 0.0004242 先触れ
+TOKEN[241]: 0.0004230    1 employer
+	employer WORD[241,   1]: 0.0004230 バイト先
+TOKEN[242]: 0.0004179    2 investigate
+	investigate WORD[242,   1]: 0.0002090 洗う
+	investigate WORD[242,   2]: 0.0002089 洗い上げる
+TOKEN[243]: 0.0004141    1 husband
+	husband WORD[243,   1]: 0.0004141 先夫
+TOKEN[244]: 0.0004134    2 verbal
+	verbal WORD[244,   1]: 0.0002067 切っ先
+	verbal WORD[244,   2]: 0.0002067 切先
+TOKEN[245]: 0.0004081    2 precedent
+	precedent WORD[245,   1]: 0.0002516 先例
+	precedent WORD[245,   2]: 0.0001564 先蹤
+TOKEN[246]: 0.0003938    1 title
+	title WORD[246,   1]: 0.0001313 先生
+TOKEN[247]: 0.0003924    2 exception
+	exception WORD[247,   1]: 0.0001962 洗いざらい
+	exception WORD[247,   2]: 0.0001962 洗い浚い
+TOKEN[248]: 0.0003904    1 doctor
+	doctor WORD[248,   1]: 0.0001301 先生
+TOKEN[249]: 0.0003869    2 past
+	past WORD[249,   1]: 0.0001980 先非
+	past WORD[249,   2]: 0.0001889 先学
+TOKEN[250]: 0.0003815    1 taper
+	taper WORD[250,   1]: 0.0003815 先細る
+TOKEN[251]: 0.0003799    1 starting
+	starting WORD[251,   1]: 0.0003799 先発
+TOKEN[252]: 0.0003780    1 lye
+	lye WORD[252,   1]: 0.0003780 灰汁洗い
+TOKEN[253]: 0.0003759    1 banquet
+	banquet WORD[253,   1]: 0.0001880 洗
+TOKEN[254]: 0.0003748    1 buy
+	buy WORD[254,   1]: 0.0003748 先買い
+TOKEN[255]: 0.0003745    1 exposed
+	exposed WORD[255,   1]: 0.0003745 洗い出し
+TOKEN[256]: 0.0003744    1 scouring
+	scouring WORD[256,   1]: 0.0003744 灰汁洗い
+TOKEN[257]: 0.0003743    1 ferret
+	ferret WORD[257,   1]: 0.0003743 洗い立てる
+TOKEN[258]: 0.0003732    3 moment
+	moment WORD[258,   1]: 0.0001498 矢先
+	moment WORD[258,   2]: 0.0001117 先ほど
+	moment WORD[258,   3]: 0.0001117 先程
+TOKEN[259]: 0.0003705    1 entrance
+	entrance WORD[259,   1]: 0.0003705 御手洗
+TOKEN[260]: 0.0003681    1 works
+	works WORD[260,   1]: 0.0003681 バイト先
+TOKEN[261]: 0.0003664    1 customer
+	customer WORD[261,   1]: 0.0003664 客先
+TOKEN[262]: 0.0003636    1 debt
+	debt WORD[262,   1]: 0.0003636 現先
+TOKEN[263]: 0.0003557    1 garment
+	garment WORD[263,   1]: 0.0003557 摘み洗い
+TOKEN[264]: 0.0003534    1 seizing
+	seizing WORD[264,   1]: 0.0001767 先手
+TOKEN[265]: 0.0003529    2 prerequisite
+	prerequisite WORD[265,   1]: 0.0001765 先だつ
+	prerequisite WORD[265,   2]: 0.0001765 先立つ
+TOKEN[266]: 0.0003523    2 ship
+	ship WORD[266,   1]: 0.0001979 水先
+	ship WORD[266,   2]: 0.0001544 舳先
+TOKEN[267]: 0.0003495    2 priority
+	priority WORD[267,   1]: 0.0001969 優先
+	priority WORD[267,   2]: 0.0001526 先決
+TOKEN[268]: 0.0003487    2 investigation
+	investigation WORD[268,   1]: 0.0001744 洗い出す
+	investigation WORD[268,   2]: 0.0001744 洗い出し
+TOKEN[269]: 0.0003480    2 tool
+	tool WORD[269,   1]: 0.0002002 先棒
+	tool WORD[269,   2]: 0.0001478 手先
+TOKEN[270]: 0.0003455    2 take
+	take WORD[270,   1]: 0.0001728 先だつ
+	take WORD[270,   2]: 0.0001728 先立つ
+TOKEN[271]: 0.0003435    2 lucky
+	lucky WORD[271,   1]: 0.0002118 先負
+	lucky WORD[271,   2]: 0.0001317 先勝
+TOKEN[272]: 0.0003407    2 break
+	break WORD[272,   1]: 0.0001703 洗たく
+	break WORD[272,   2]: 0.0001703 洗濯
+TOKEN[273]: 0.0003406    2 herald
+	herald WORD[273,   1]: 0.0001703 先駈け
+	herald WORD[273,   2]: 0.0001703 先駆け
+TOKEN[274]: 0.0003406    1 brainwashing
+	brainwashing WORD[274,   1]: 0.0003406 洗脳
+TOKEN[275]: 0.0003385    2 father
+	father WORD[275,   1]: 0.0002050 先考
+	father WORD[275,   2]: 0.0001335 先代
+TOKEN[276]: 0.0003374    2 harbinger
+	harbinger WORD[276,   1]: 0.0001687 先駈け
+	harbinger WORD[276,   2]: 0.0001687 先駆け
+TOKEN[277]: 0.0003370    2 good
+	good WORD[277,   1]: 0.0001685 さい先
+	good WORD[277,   2]: 0.0001685 幸先
+TOKEN[278]: 0.0003365    2 order
+	order WORD[278,   1]: 0.0001997 先後
+	order WORD[278,   2]: 0.0001369 後先
+TOKEN[279]: 0.0003348    1 act
+	act WORD[279,   1]: 0.0003348 先走る
+TOKEN[280]: 0.0003319    2 precursor
+	precursor WORD[280,   1]: 0.0001660 先達
+	precursor WORD[280,   2]: 0.0001659 先駆
+TOKEN[281]: 0.0003318    2 sequence
+	sequence WORD[281,   1]: 0.0001919 後先
+	sequence WORD[281,   2]: 0.0001400 先後
+TOKEN[282]: 0.0003303    1 examine
+	examine WORD[282,   1]: 0.0003303 洗い立てる
+TOKEN[283]: 0.0003265    1 shrine
+	shrine WORD[283,   1]: 0.0003265 御手洗
+TOKEN[284]: 0.0003253    2 morning
+	morning WORD[284,   1]: 0.0002006 先負
+	morning WORD[284,   2]: 0.0001247 先勝
+TOKEN[285]: 0.0003249    1 forewarning
+	forewarning WORD[285,   1]: 0.0003249 先触れ
+TOKEN[286]: 0.0003239    1 soup
+	soup WORD[286,   1]: 0.0001619 洗
+TOKEN[287]: 0.0003211    2 contract
+	contract WORD[287,   1]: 0.0002015 先約
+	contract WORD[287,   2]: 0.0001196 先物
+TOKEN[288]: 0.0003183    2 finish
+	finish WORD[288,   1]: 0.0001592 洗い出し
+	finish WORD[288,   2]: 0.0001592 洗い上げる
+TOKEN[289]: 0.0003144    3 short
+	short WORD[289,   1]: 0.0001048 先ほど
+	short WORD[289,   2]: 0.0001048 先程
+	short WORD[289,   3]: 0.0001048 先刻
+TOKEN[290]: 0.0003131    2 calendar
+	calendar WORD[290,   1]: 0.0001931 先負
+	calendar WORD[290,   2]: 0.0001200 先勝
+TOKEN[291]: 0.0003091    1 offering
+	offering WORD[291,   1]: 0.0003091 洗米
+TOKEN[292]: 0.0003066    2 charging
+	charging WORD[292,   1]: 0.0001533 先駈け
+	charging WORD[292,   2]: 0.0001533 先駆け
+TOKEN[293]: 0.0002992    1 consignee
+	consignee WORD[293,   1]: 0.0002992 届け先
+TOKEN[294]: 0.0002969    2 scoring
+	scoring WORD[294,   1]: 0.0001484 先勝
+	scoring WORD[294,   2]: 0.0001484 先行
+TOKEN[295]: 0.0002943    1 clear
+	clear WORD[295,   1]: 0.0001472 洗
+TOKEN[296]: 0.0002908    1 christening
+	christening WORD[296,   1]: 0.0002908 洗礼
+TOKEN[297]: 0.0002906    1 cleanser
+	cleanser WORD[297,   1]: 0.0002906 洗剤
+TOKEN[298]: 0.0002891    1 soap
+	soap WORD[298,   1]: 0.0002891 水洗い
+TOKEN[299]: 0.0002881    1 prehistory
+	prehistory WORD[299,   1]: 0.0002881 先史
+TOKEN[300]: 0.0002869    1 week
+	week WORD[300,   1]: 0.0002869 先週
+TOKEN[301]: 0.0002848    2 inevitable
+	inevitable WORD[301,   1]: 0.0001424 先々
+	inevitable WORD[301,   2]: 0.0001424 先先
+TOKEN[302]: 0.0002848    1 lave
+	lave WORD[302,   1]: 0.0002848 洗う
+TOKEN[303]: 0.0002828    1 forceful
+	forceful WORD[303,   1]: 0.0002828 太刀先
+TOKEN[304]: 0.0002823    2 present
+	present WORD[304,   1]: 0.0001464 目先
+	present WORD[304,   2]: 0.0001360 一先ず
+TOKEN[305]: 0.0002821    2 omen
+	omen WORD[305,   1]: 0.0001411 さい先
+	omen WORD[305,   2]: 0.0001411 幸先
+TOKEN[306]: 0.0002820    1 flushing
+	flushing WORD[306,   1]: 0.0002820 水洗
+TOKEN[307]: 0.0002804    2 family
+	family WORD[307,   1]: 0.0001827 先代
+	family WORD[307,   2]: 0.0000977 嫁ぎ先
+TOKEN[308]: 0.0002794    1 detergent
+	detergent WORD[308,   1]: 0.0002794 洗剤
+TOKEN[309]: 0.0002781    2 spouse
+	spouse WORD[309,   1]: 0.0001391 先だつ
+	spouse WORD[309,   2]: 0.0001391 先立つ
+TOKEN[310]: 0.0002767    2 traditional
+	traditional WORD[310,   1]: 0.0001706 先負
+	traditional WORD[310,   2]: 0.0001061 先勝
+TOKEN[311]: 0.0002745    1 garden
+	garden WORD[311,   1]: 0.0002745 庭先
+TOKEN[312]: 0.0002745    1 undergoing
+	undergoing WORD[312,   1]: 0.0002745 受洗
+TOKEN[313]: 0.0002716    1 inherent
+	inherent WORD[313,   1]: 0.0002716 先天
+TOKEN[314]: 0.0002699    2 group
+	group WORD[314,   1]: 0.0001641 洗礼
+	group WORD[314,   2]: 0.0001058 先頭
+TOKEN[315]: 0.0002698    1 shogi
+	shogi WORD[315,   1]: 0.0001349 先手
+TOKEN[316]: 0.0002697    1 portent
+	portent WORD[316,   1]: 0.0002697 先触れ
+TOKEN[317]: 0.0002681    1 fingertip
+	fingertip WORD[317,   1]: 0.0002681 指先
+TOKEN[318]: 0.0002669    1 misdeed
+	misdeed WORD[318,   1]: 0.0002669 先非
+TOKEN[319]: 0.0002669    1 muzzle
+	muzzle WORD[319,   1]: 0.0002669 筒先
+TOKEN[320]: 0.0002646    2 goes
+	goes WORD[320,   1]: 0.0001323 先々
+	goes WORD[320,   2]: 0.0001323 先先
+TOKEN[321]: 0.0002645    1 errand
+	errand WORD[321,   1]: 0.0002645 使い先
+TOKEN[322]: 0.0002641    1 prow
+	prow WORD[322,   1]: 0.0002641 舳先
+TOKEN[323]: 0.0002632    2 game
+	game WORD[323,   1]: 0.0001604 互先
+	game WORD[323,   2]: 0.0001028 先勝
+TOKEN[324]: 0.0002613    1 miner
+	miner WORD[324,   1]: 0.0002613 先山
+TOKEN[325]: 0.0002605    1 check
+	check WORD[325,   1]: 0.0002605 洗い立てる
+TOKEN[326]: 0.0002597    2 distant
+	distant WORD[326,   1]: 0.0001299 先々
+	distant WORD[326,   2]: 0.0001299 先先
+TOKEN[327]: 0.0002596    2 team
+	team WORD[327,   1]: 0.0001298 先鋒
+	team WORD[327,   2]: 0.0001298 先発
+TOKEN[328]: 0.0002592    1 washout
+	washout WORD[328,   1]: 0.0002592 洗い出し
+TOKEN[329]: 0.0002589    1 prepayment
+	prepayment WORD[329,   1]: 0.0002589 先払い
+TOKEN[330]: 0.0002587    1 initiation
+	initiation WORD[330,   1]: 0.0002587 洗礼
+TOKEN[331]: 0.0002572    1 detachment
+	detachment WORD[331,   1]: 0.0002572 先兵
+TOKEN[332]: 0.0002566    2 light
+	light WORD[332,   1]: 0.0001283 洗い出す
+	light WORD[332,   2]: 0.0001283 洗い出し
+TOKEN[333]: 0.0002528    2 start
+	start WORD[333,   1]: 0.0001427 洗い出す
+	start WORD[333,   2]: 0.0001101 先制
+TOKEN[334]: 0.0002521    1 irrigation
+	irrigation WORD[334,   1]: 0.0002521 洗滌
+TOKEN[335]: 0.0002516    1 sin
+	sin WORD[335,   1]: 0.0002516 先非
+TOKEN[336]: 0.0002505    1 flunky
+	flunky WORD[336,   1]: 0.0002505 先棒
+TOKEN[337]: 0.0002499    1 innate
+	innate WORD[337,   1]: 0.0002499 先天
+TOKEN[338]: 0.0002493    1 veranda
+	veranda WORD[338,   1]: 0.0002493 縁先
+TOKEN[339]: 0.0002492    1 rod
+	rod WORD[339,   1]: 0.0002492 棒先
+TOKEN[340]: 0.0002487    1 receiver
+	receiver WORD[340,   1]: 0.0002487 届け先
+TOKEN[341]: 0.0002483    1 sent
+	sent WORD[341,   1]: 0.0002483 使い先
+TOKEN[342]: 0.0002477    2 guard
+	guard WORD[342,   1]: 0.0001239 先鋒
+	guard WORD[342,   2]: 0.0001238 先陣
+TOKEN[343]: 0.0002473    1 starched
+	starched WORD[343,   1]: 0.0002473 洗い張り
+TOKEN[344]: 0.0002471    1 parcel
+	parcel WORD[344,   1]: 0.0002471 届け先
+TOKEN[345]: 0.0002455    1 haste
+	haste WORD[345,   1]: 0.0002455 先負
+TOKEN[346]: 0.0002445    1 breast
+	breast WORD[346,   1]: 0.0002445 胸先
+TOKEN[347]: 0.0002435    1 noon
+	noon WORD[347,   1]: 0.0002435 先負
+TOKEN[348]: 0.0002378    1 virtuous
+	virtuous WORD[348,   1]: 0.0002378 先王
+TOKEN[349]: 0.0002366    1 bathhouse
+	bathhouse WORD[349,   1]: 0.0002366 洗湯
+TOKEN[350]: 0.0002355    1 wheat
+	wheat WORD[350,   1]: 0.0002355 穂先
+TOKEN[351]: 0.0002336    1 iced
+	iced WORD[351,   1]: 0.0002336 洗い
+TOKEN[352]: 0.0002327    1 blade
+	blade WORD[352,   1]: 0.0002327 刃先
+TOKEN[353]: 0.0002324    1 learned
+	learned WORD[353,   1]: 0.0002324 先覚
+TOKEN[354]: 0.0002316    1 unlucky
+	unlucky WORD[354,   1]: 0.0002316 先負
+TOKEN[355]: 0.0002304    1 borrowing
+	borrowing WORD[355,   1]: 0.0002304 先借り
+TOKEN[356]: 0.0002299    1 crisis
+	crisis WORD[356,   1]: 0.0002299 先途
+TOKEN[357]: 0.0002294    2 die
+	die WORD[357,   1]: 0.0001147 先だつ
+	die WORD[357,   2]: 0.0001147 先立つ
+TOKEN[358]: 0.0002290    1 scholar
+	scholar WORD[358,   1]: 0.0002290 先学
+TOKEN[359]: 0.0002288    1 judgment
+	judgment WORD[359,   1]: 0.0002288 先負
+TOKEN[360]: 0.0002287    1 chest
+	chest WORD[360,   1]: 0.0002287 胸先
+TOKEN[361]: 0.0002286    1 debate
+	debate WORD[361,   1]: 0.0002286 太刀先
+TOKEN[362]: 0.0002283    2 enemy
+	enemy WORD[362,   1]: 0.0001141 先駈け
+	enemy WORD[362,   2]: 0.0001141 先駆け
+TOKEN[363]: 0.0002261    1 ear
+	ear WORD[363,   1]: 0.0002261 穂先
+TOKEN[364]: 0.0002240    2 house
+	house WORD[364,   1]: 0.0001125 軒先
+	house WORD[364,   2]: 0.0001115 庭先
+TOKEN[365]: 0.0002216    1 freight
+	freight WORD[365,   1]: 0.0002216 先渡し
+TOKEN[366]: 0.0002215    1 academic
+	academic WORD[366,   1]: 0.0002215 先学
+TOKEN[367]: 0.0002210    1 carrying
+	carrying WORD[367,   1]: 0.0002210 棒先
+TOKEN[368]: 0.0002207    1 arrowhead
+	arrowhead WORD[368,   1]: 0.0002207 矢先
+TOKEN[369]: 0.0002197    1 foremother
+	foremother WORD[369,   1]: 0.0002197 先祖
+TOKEN[370]: 0.0002188    1 minion
+	minion WORD[370,   1]: 0.0002188 手先
+TOKEN[371]: 0.0002188    1 stooge
+	stooge WORD[371,   1]: 0.0002188 手先
+TOKEN[372]: 0.0002185    1 wise
+	wise WORD[372,   1]: 0.0002185 先哲
+TOKEN[373]: 0.0002180    1 direction
+	direction WORD[373,   1]: 0.0002180 水先
+TOKEN[374]: 0.0002163    1 purify
+	purify WORD[374,   1]: 0.0002163 洗う
+TOKEN[375]: 0.0002150    1 discovery
+	discovery WORD[375,   1]: 0.0002150 洗い出し
+TOKEN[376]: 0.0002144    1 current
+	current WORD[376,   1]: 0.0002144 水先
+TOKEN[377]: 0.0002139    1 seeking
+	seeking WORD[377,   1]: 0.0002139 洗い出し
+TOKEN[378]: 0.0002136    1 frontage
+	frontage WORD[378,   1]: 0.0002136 軒先
+TOKEN[379]: 0.0002134    1 cold
+	cold WORD[379,   1]: 0.0002134 水洗い
+TOKEN[380]: 0.0002125    1 collect
+	collect WORD[380,   1]: 0.0002125 先払い
+TOKEN[381]: 0.0002109    1 preference
+	preference WORD[381,   1]: 0.0002109 優先
+TOKEN[382]: 0.0002104    1 context
+	context WORD[382,   1]: 0.0002104 後先
+TOKEN[383]: 0.0002085    1 stick
+	stick WORD[383,   1]: 0.0002085 棒先
+TOKEN[384]: 0.0002077    1 side
+	side WORD[384,   1]: 0.0001038 先方
+TOKEN[385]: 0.0002072    1 stalker
+	stalker WORD[385,   1]: 0.0002072 先行
+TOKEN[386]: 0.0002072    1 outriding
+	outriding WORD[386,   1]: 0.0002072 先駆
+TOKEN[387]: 0.0002064    1 revealing
+	revealing WORD[387,   1]: 0.0002064 洗い出し
+TOKEN[388]: 0.0002060    1 error
+	error WORD[388,   1]: 0.0002060 先非
+TOKEN[389]: 0.0002056    1 chilled
+	chilled WORD[389,   1]: 0.0002056 洗い
+TOKEN[390]: 0.0002049    1 discover
+	discover WORD[390,   1]: 0.0002049 洗い出す
+TOKEN[391]: 0.0002046    1 rash
+	rash WORD[391,   1]: 0.0002046 先走る
+TOKEN[392]: 0.0002044    1 course
+	course WORD[392,   1]: 0.0002044 水先
+TOKEN[393]: 0.0002035    1 skilled
+	skilled WORD[393,   1]: 0.0002035 先山
+TOKEN[394]: 0.0002012    1 tide
+	tide WORD[394,   1]: 0.0002012 潮先
+TOKEN[395]: 0.0002005    1 rising
+	rising WORD[395,   1]: 0.0002005 潮先
+TOKEN[396]: 0.0001998    1 men
+	men WORD[396,   1]: 0.0001998 先哲
+TOKEN[397]: 0.0001995    1 deck
+	deck WORD[397,   1]: 0.0001995 洗う
+TOKEN[398]: 0.0001995    1 inquire
+	inquire WORD[398,   1]: 0.0001995 洗う
+TOKEN[399]: 0.0001994    1 mail
+	mail WORD[399,   1]: 0.0001994 先払い
+TOKEN[400]: 0.0001979    1 delaying
+	delaying WORD[400,   1]: 0.0001979 先送り
+TOKEN[401]: 0.0001972    1 cedar
+	cedar WORD[401,   1]: 0.0001972 洗い出し
+TOKEN[402]: 0.0001953    1 agent
+	agent WORD[402,   1]: 0.0001953 洗剤
+TOKEN[403]: 0.0001949    1 battle
+	battle WORD[403,   1]: 0.0001949 先途
+TOKEN[404]: 0.0001948    1 outrider
+	outrider WORD[404,   1]: 0.0001948 先駆
+TOKEN[405]: 0.0001936    1 long
+	long WORD[405,   1]: 0.0001936 もう先
+TOKEN[406]: 0.0001936    2 work
+	work WORD[406,   1]: 0.0000990 勤め先
+	work WORD[406,   2]: 0.0000946 先輩
+TOKEN[407]: 0.0001928    1 extensive
+	extensive WORD[407,   1]: 0.0001928 洗い出し
+TOKEN[408]: 0.0001928    1 finding
+	finding WORD[408,   1]: 0.0001928 洗い出し
+TOKEN[409]: 0.0001926    1 bath
+	bath WORD[409,   1]: 0.0001926 洗湯
+TOKEN[410]: 0.0001923    1 paying
+	paying WORD[410,   1]: 0.0001923 先渡し
+TOKEN[411]: 0.0001922    1 society
+	society WORD[411,   1]: 0.0001922 洗礼
+TOKEN[412]: 0.0001919    1 reveal
+	reveal WORD[412,   1]: 0.0001919 洗い出す
+TOKEN[413]: 0.0001911    1 dirt
+	dirt WORD[413,   1]: 0.0001911 洗い出す
+TOKEN[414]: 0.0001908    1 forefather
+	forefather WORD[414,   1]: 0.0001908 先祖
+TOKEN[415]: 0.0001899    1 expose
+	expose WORD[415,   1]: 0.0001899 洗い出す
+TOKEN[416]: 0.0001892    1 material
+	material WORD[416,   1]: 0.0001892 洗剤
+TOKEN[417]: 0.0001892    1 phone
+	phone WORD[417,   1]: 0.0001892 先払い
+TOKEN[418]: 0.0001886    2 come
+	come WORD[418,   1]: 0.0000943 さい先
+	come WORD[418,   2]: 0.0000943 幸先
+TOKEN[419]: 0.0001884    1 sweep
+	sweep WORD[419,   1]: 0.0001884 洗う
+TOKEN[420]: 0.0001884    1 experience
+	experience WORD[420,   1]: 0.0001884 洗礼
+TOKEN[421]: 0.0001883    1 shoulder
+	shoulder WORD[421,   1]: 0.0001883 肩先
+TOKEN[422]: 0.0001882    1 satisfactory
+	satisfactory WORD[422,   1]: 0.0001882 先ず
+TOKEN[423]: 0.0001876    1 likely
+	likely WORD[423,   1]: 0.0001876 先ず
+TOKEN[424]: 0.0001876    1 gun
+	gun WORD[424,   1]: 0.0001876 先走る
+TOKEN[425]: 0.0001873    1 jump
+	jump WORD[425,   1]: 0.0001873 先走る
+TOKEN[426]: 0.0001848    1 progenitor
+	progenitor WORD[426,   1]: 0.0001848 先輩
+TOKEN[427]: 0.0001840    1 concrete
+	concrete WORD[427,   1]: 0.0001840 洗い出し
+TOKEN[428]: 0.0001834    1 rear
+	rear WORD[428,   1]: 0.0001834 後先
+TOKEN[429]: 0.0001828    1 shore
+	shore WORD[429,   1]: 0.0001828 洗う
+TOKEN[430]: 0.0001824    1 cusp
+	cusp WORD[430,   1]: 0.0001824 先端
+TOKEN[431]: 0.0001822    1 exposure
+	exposure WORD[431,   1]: 0.0001822 洗い出し
+TOKEN[432]: 0.0001822    1 car
+	car WORD[432,   1]: 0.0001822 洗車
+TOKEN[433]: 0.0001806    1 oneself
+	oneself WORD[433,   1]: 0.0001806 先走る
+TOKEN[434]: 0.0001803    1 finger
+	finger WORD[434,   1]: 0.0001803 指先
+TOKEN[435]: 0.0001798    1 dig
+	dig WORD[435,   1]: 0.0001798 洗い出す
+TOKEN[436]: 0.0001795    1 immediate
+	immediate WORD[436,   1]: 0.0001795 目先
+TOKEN[437]: 0.0001794    1 lower
+	lower WORD[437,   1]: 0.0001794 先安
+TOKEN[438]: 0.0001784    1 aboriginal
+	aboriginal WORD[438,   1]: 0.0001784 先住
+TOKEN[439]: 0.0001767    1 inhabitant
+	inhabitant WORD[439,   1]: 0.0001767 先住
+TOKEN[440]: 0.0001761    1 bow
+	bow WORD[440,   1]: 0.0001761 舳先
+TOKEN[441]: 0.0001742    1 pawn
+	pawn WORD[441,   1]: 0.0001742 手先
+TOKEN[442]: 0.0001724    1 occupancy
+	occupancy WORD[442,   1]: 0.0001724 先占
+TOKEN[443]: 0.0001723    1 arrow
+	arrow WORD[443,   1]: 0.0001723 矢先
+TOKEN[444]: 0.0001719    1 proboscis
+	proboscis WORD[444,   1]: 0.0001719 口先
+TOKEN[445]: 0.0001715    1 stays
+	stays WORD[445,   1]: 0.0001715 旅先
+TOKEN[446]: 0.0001711    1 crescent
+	crescent WORD[446,   1]: 0.0001711 先端
+TOKEN[447]: 0.0001710    1 powder
+	powder WORD[447,   1]: 0.0001710 洗い粉
+TOKEN[448]: 0.0001709    1 underling
+	underling WORD[448,   1]: 0.0001709 手先
+TOKEN[449]: 0.0001709    1 eaves
+	eaves WORD[449,   1]: 0.0001709 軒先
+TOKEN[450]: 0.0001708    1 grain
+	grain WORD[450,   1]: 0.0001708 洗い出し
+TOKEN[451]: 0.0001695    1 gone
+	gone WORD[451,   1]: 0.0001695 出先
+TOKEN[452]: 0.0001694    1 search
+	search WORD[452,   1]: 0.0001694 洗い出し
+TOKEN[453]: 0.0001653    1 least
+	least WORD[453,   1]: 0.0001653 先ず
+TOKEN[454]: 0.0001650    1 inversion
+	inversion WORD[454,   1]: 0.0001650 先後
+TOKEN[455]: 0.0001643    1 snout
+	snout WORD[455,   1]: 0.0001643 口先
+TOKEN[456]: 0.0001630    1 flying
+	flying WORD[456,   1]: 0.0001630 矢先
+TOKEN[457]: 0.0001625    1 mind
+	mind WORD[457,   1]: 0.0001625 洗浄
+TOKEN[458]: 0.0001620    1 athlete
+	athlete WORD[458,   1]: 0.0001620 先鋒
+TOKEN[459]: 0.0001614    1 face
+	face WORD[459,   1]: 0.0001614 洗面
+TOKEN[460]: 0.0001606    1 dry
+	dry WORD[460,   1]: 0.0001606 洗い張り
+TOKEN[461]: 0.0001605    1 batting
+	batting WORD[461,   1]: 0.0001605 先攻
+TOKEN[462]: 0.0001600    1 prejudice
+	prejudice WORD[462,   1]: 0.0001600 先入
+TOKEN[463]: 0.0001599    1 settling
+	settling WORD[463,   1]: 0.0001599 先決
+TOKEN[464]: 0.0001597    1 earth
+	earth WORD[464,   1]: 0.0001597 洗い出す
+TOKEN[465]: 0.0001579    1 body
+	body WORD[465,   1]: 0.0001579 洗浄
+TOKEN[466]: 0.0001577    1 anything
+	anything WORD[466,   1]: 0.0001577 先ず
+TOKEN[467]: 0.0001575    1 find
+	find WORD[467,   1]: 0.0001575 洗い出す
+TOKEN[468]: 0.0001575    1 happening
+	happening WORD[468,   1]: 0.0001575 先行
+TOKEN[469]: 0.0001571    1 public
+	public WORD[469,   1]: 0.0001571 洗湯
+TOKEN[470]: 0.0001566    1 fashion
+	fashion WORD[470,   1]: 0.0001566 一先ず
+TOKEN[471]: 0.0001565    1 leadership
+	leadership WORD[471,   1]: 0.0001565 先導
+TOKEN[472]: 0.0001560    1 postponement
+	postponement WORD[472,   1]: 0.0001560 先送り
+TOKEN[473]: 0.0001549    1 top
+	top WORD[473,   1]: 0.0001549 肩先
+TOKEN[474]: 0.0001544    1 acquisition
+	acquisition WORD[474,   1]: 0.0001544 先占
+TOKEN[475]: 0.0001539    1 surface
+	surface WORD[475,   1]: 0.0001539 洗い出す
+TOKEN[476]: 0.0001535    1 afternoon
+	afternoon WORD[476,   1]: 0.0001535 先勝
+TOKEN[477]: 0.0001530    1 man
+	man WORD[477,   1]: 0.0001530 先覚
+TOKEN[478]: 0.0001513    1 mere
+	mere WORD[478,   1]: 0.0001513 口先
+TOKEN[479]: 0.0001500    1 begin
+	begin WORD[479,   1]: 0.0001500 先ず
+TOKEN[480]: 0.0001499    1 advanced
+	advanced WORD[480,   1]: 0.0001499 先進
+TOKEN[481]: 0.0001494    1 bring
+	bring WORD[481,   1]: 0.0001494 洗い出す
+TOKEN[482]: 0.0001481    1 acute
+	acute WORD[482,   1]: 0.0001481 先鋭
+TOKEN[483]: 0.0001469    1 guidance
+	guidance WORD[483,   1]: 0.0001469 先導
+TOKEN[484]: 0.0001463    1 appearance
+	appearance WORD[484,   1]: 0.0001463 目先
+TOKEN[485]: 0.0001460    1 married
+	married WORD[485,   1]: 0.0001460 嫁ぎ先
+TOKEN[486]: 0.0001457    1 graduate
+	graduate WORD[486,   1]: 0.0001457 先輩
+TOKEN[487]: 0.0001451    1 occupation
+	occupation WORD[487,   1]: 0.0001451 先占
+TOKEN[488]: 0.0001445    1 lip
+	lip WORD[488,   1]: 0.0001445 口先
+TOKEN[489]: 0.0001418    1 curve
+	curve WORD[489,   1]: 0.0001418 先端
+TOKEN[490]: 0.0001409    1 rate
+	rate WORD[490,   1]: 0.0001409 先ず
+TOKEN[491]: 0.0001408    1 addressee
+	addressee WORD[491,   1]: 0.0001408 送り先
+TOKEN[492]: 0.0001397    1 sending
+	sending WORD[492,   1]: 0.0001397 先遣
+TOKEN[493]: 0.0001389    1 heart
+	heart WORD[493,   1]: 0.0001389 洗う
+TOKEN[494]: 0.0001386    1 old
+	old WORD[494,   1]: 0.0001386 老い先
+TOKEN[495]: 0.0001380    1 sports
+	sports WORD[495,   1]: 0.0001380 先発
+TOKEN[496]: 0.0001375    1 life
+	life WORD[496,   1]: 0.0001375 老い先
+TOKEN[497]: 0.0001370    1 visitor
+	visitor WORD[497,   1]: 0.0001370 先客
+TOKEN[498]: 0.0001366    1 recipient
+	recipient WORD[498,   1]: 0.0001366 送り先
+TOKEN[499]: 0.0001359    1 guide
+	guide WORD[499,   1]: 0.0001359 先達
+TOKEN[500]: 0.0001349    1 arrival
+	arrival WORD[500,   1]: 0.0001349 先回り
+TOKEN[501]: 0.0001341    1 origin
+	origin WORD[501,   1]: 0.0001341 出先
+TOKEN[502]: 0.0001325    1 judo
+	judo WORD[502,   1]: 0.0001325 先鋒
+TOKEN[503]: 0.0001324    1 source
+	source WORD[503,   1]: 0.0001324 出先
+TOKEN[504]: 0.0001318    1 branch
+	branch WORD[504,   1]: 0.0001318 出先
+TOKEN[505]: 0.0001312    1 trip
+	trip WORD[505,   1]: 0.0001312 旅先
+TOKEN[506]: 0.0001311    1 competition
+	competition WORD[506,   1]: 0.0001311 先鋒
+TOKEN[507]: 0.0001289    1 higher
+	higher WORD[507,   1]: 0.0001289 先高
+TOKEN[508]: 0.0001281    1 sharp
+	sharp WORD[508,   1]: 0.0001281 先鋭
+TOKEN[509]: 0.0001278    1 hand
+	hand WORD[509,   1]: 0.0001278 目先
+TOKEN[510]: 0.0001274    1 consideration
+	consideration WORD[510,   1]: 0.0001274 先議
+TOKEN[511]: 0.0001268    1 priest
+	priest WORD[511,   1]: 0.0001268 先住
+TOKEN[512]: 0.0001266    1 older
+	older WORD[512,   1]: 0.0001266 先輩
+TOKEN[513]: 0.0001258    1 original
+	original WORD[513,   1]: 0.0001258 先住
+TOKEN[514]: 0.0001253    1 tongue
+	tongue WORD[514,   1]: 0.0001253 舌先
+TOKEN[515]: 0.0001251    1 moon
+	moon WORD[515,   1]: 0.0001251 先端
+TOKEN[516]: 0.0001248    1 object
+	object WORD[516,   1]: 0.0001248 出先
+TOKEN[517]: 0.0001247    1 spring
+	spring WORD[517,   1]: 0.0001247 春先
+TOKEN[518]: 0.0001233    1 winning
+	winning WORD[518,   1]: 0.0001233 先勝
+TOKEN[519]: 0.0001228    1 figure
+	figure WORD[519,   1]: 0.0001228 先達
+TOKEN[520]: 0.0001207    1 radical
+	radical WORD[520,   1]: 0.0001207 先鋭
+TOKEN[521]: 0.0001182    1 coming
+	coming WORD[521,   1]: 0.0001182 先行
+TOKEN[522]: 0.0001176    1 getting
+	getting WORD[522,   1]: 0.0001176 先行
+TOKEN[523]: 0.0001171    1 office
+	office WORD[523,   1]: 0.0001171 出先
+TOKEN[524]: 0.0001170    1 match
+	match WORD[524,   1]: 0.0001170 先鋒
+TOKEN[525]: 0.0001148    1 mouth
+	mouth WORD[525,   1]: 0.0001148 口先
+TOKEN[526]: 0.0001116    1 days
+	days WORD[526,   1]: 0.0001116 先日
+TOKEN[527]: 0.0001105    1 matter
+	matter WORD[527,   1]: 0.0001105 先決
+TOKEN[528]: 0.0001096    1 age
+	age WORD[528,   1]: 0.0001096 先代
+TOKEN[529]: 0.0001079    1 woman
+	woman WORD[529,   1]: 0.0001079 嫁ぎ先
+TOKEN[530]: 0.0001067    1 month
+	month WORD[530,   1]: 0.0001067 先月
+TOKEN[531]: 0.0000997    1 service
+	service WORD[531,   1]: 0.0000997 口先
+TOKEN[532]: 0.0000956    1 school
+	school WORD[532,   1]: 0.0000956 先輩

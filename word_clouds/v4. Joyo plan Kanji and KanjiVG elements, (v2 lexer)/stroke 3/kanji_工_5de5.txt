@@ -1,0 +1,609 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0316503   12 construction   : 工区, 土工, 工手, 工期, 着工, 竣工, 施工, 工法, 工費, 工事, ...
+0.0305862    9 worker         : 民工, 冶工, 土工, 男工, 鍛工, 女工, 工手, 職工, 工員
+0.0277022    1 routing        : 工順
+0.0261113    1 seamstress     : 縫工
+0.0257062    6 artisan        : 工人, 良工, 名工, 職工, 工匠, 工
+0.0249721    6 engineering    : 工兵, 化工, 工務, 電工, 工学, 工科
+0.0230031    1 tailor         : 縫工
+0.0229354    8 industry       : 商工業, 農工, 勧工, 重工, 自工, 商工, 鉱工業, 工業
+0.0227934   12 work           : 漆工, 工種, 天工, 着工, 人工, 施工, 細工, 工程, 工事, 工作, ...
+0.0215567    5 craftsman      : 工人, 名工, 技工, 職工, 工
+0.0196723    1 route          : 工順
+0.0184213    1 job            : 工順
+0.0170134    1 coating        : 塗工
+0.0167683    6 factory        : 女工, 工船, 工廠, 職工, 工場, 工員
+0.0161184    3 workman        : 工人, 工手, 工
+0.0159443    1 power          : 工率
+0.0135719    2 paper          : 塗工, 紙工
+0.0128648    2 technical      : 高工, 工大
+0.0127789    1 weaver         : 織工
+0.0110530    2 laborer        : 工人, 土工
+0.0104675    3 workmanship    : 精工, 施工, 細工
+0.0098387    1 notation       : 工工四
+0.0097893    3 carpenter      : 木工, 大工, 工
+0.0095356    1 higher         : 高工
+0.0094583    3 craft          : 技工, 工芸, 工
+0.0094013    3 works          : 工種, 電工, 工務
+0.0088906    2 school         : 高工, 図工
+0.0087199    1 metallurgical  : 冶工
+0.0083890    1 migrant        : 民工
+0.0083872    2 commerce       : 商工業, 商工
+0.0078952    1 lacquer        : 漆工
+0.0078633    1 engineer       : 工兵
+0.0070582    2 skilled        : 良工, 名工
+0.0069956    2 design         : 工, 工夫
+0.0069227    2 artifice       : 細工, 工
+0.0067980    1 precision      : 精工
+0.0067060    1 combat         : 工兵
+0.0066463    1 system         : 工工四
+0.0065836    2 craftsmanship  : 細工, 工
+0.0065812    1 exquisite      : 精工
+0.0065674    1 rural          : 民工
+0.0062473    1 Tang           : 工部
+0.0061867    1 agriculture    : 農工
+0.0060725    2 workshop       : 工房, 工場
+0.0059518    1 chemical       : 化工
+0.0055840    2 completion     : 完工, 竣工
+0.0055827    2 device         : 細工, 工夫
+0.0054142    1 male           : 男工
+0.0054140    2 plot           : 工む, 工
+0.0051083    2 skill          : 人工, 工
+0.0050863    1 project        : 工区
+0.0050399    1 dynasty        : 工部
+0.0049877    2 trick          : 細工, 工
+0.0049734    1 section        : 工区
+0.0048785    1 military       : 工兵
+0.0048223    1 swordmaker     : 刀工
+0.0046311    1 item           : 工種
+0.0046143    2 metal          : 鍛工, 鋳工
+0.0045919    2 plan           : 工む, 工夫
+0.0044472    1 goldsmith      : 金工
+0.0044421    1 sculptor       : 彫工
+0.0044033    1 dedication     : 工夫
+0.0044033    1 invention      : 工夫
+0.0043654    1 navvy          : 土工
+0.0043366    1 dexterity      : 工
+0.0043343    1 type           : 工種
+0.0043158    1 engraver       : 彫工
+0.0042923    1 cannery        : 工船
+0.0042263    1 swordsmith     : 刀工
+0.0042224    1 area           : 工区
+0.0042179    1 carver         : 彫工
+0.0042090    1 atelier        : 工房
+0.0040036    1 operator       : 男工
+0.0039760    1 spiritual      : 工夫
+0.0038915    1 earthwork      : 土工
+0.0038604    1 woodworker     : 木工
+0.0038595    2 way            : 工合, 工夫
+0.0038425    1 studio         : 工房
+0.0038382    1 maker          : 仏工
+0.0038349    1 arsenal        : 工廠
+0.0038131    1 mason          : 石工
+0.0038131    1 stonemason     : 石工
+0.0038131    1 stonecutter    : 石工
+0.0038091    1 metalwork      : 金工
+0.0038089    1 improvement    : 工夫
+0.0038053    1 process        : 工程
+0.0037698    2 building       : 工期, 完工
+0.0037257    1 meditation     : 工夫
+0.0037030    1 scheme         : 工
+0.0036420    1 human          : 人工
+0.0036356    1 thinking       : 工夫
+0.0036264    1 altar          : 仏工
+0.0035494    1 health         : 工合
+0.0035140    1 Zen            : 工夫
+0.0034823    1 woodwork       : 木工
+0.0033581    1 technology     : 理工
+0.0033222    2 condition      : 工合, 工面
+0.0033065    1 woodworking    : 木工
+0.0032531    1 manual         : 図工
+0.0032267    1 ceramist       : 陶工
+0.0032239    1 electrician    : 電工
+0.0032097    1 working        : 工夫
+0.0032062    1 ironworking    : 鉄工
+0.0032062    1 ironworker     : 鉄工
+0.0032057    1 idea           : 工夫
+0.0031820    1 ammunition     : 工廠
+0.0031788    1 painter        : 画工
+0.0030607    1 coming         : 工夫
+0.0029968    1 artist         : 画工
+0.0029916    1 machine        : 男工
+0.0029097    1 state          : 工合
+0.0028923    1 handiwork      : 細工
+0.0028602    1 mechanic       : 工匠
+0.0028506    1 encouragement  : 勧工
+0.0028496    1 science        : 理工
+0.0028261    1 caster         : 鋳工
+0.0028190    1 floating       : 工船
+0.0027030    1 nature         : 天工
+0.0026957    1 artificiality  : 人工
+0.0026831    1 handicraft     : 工作
+0.0026745    1 Buddhist       : 仏工
+0.0026667    1 subject        : 図工
+0.0026359    1 drawing        : 図工
+0.0025947    1 potter         : 陶工
+0.0025626    1 female         : 女工
+0.0024630    1 automobile     : 自工
+0.0024366    1 decency        : 工合
+0.0024239    1 boat           : 工船
+0.0024058    1 arms           : 工廠
+0.0023226    1 ship           : 工船
+0.0023174    1 circumstance   : 工合
+0.0022995    1 industrial     : 工芸
+0.0022735    1 mill           : 工場
+0.0022561    1 electrical     : 電工
+0.0022353    1 devise         : 工む
+0.0022146    1 propriety      : 工合
+0.0021852    1 contrivance    : 工面
+0.0021710    1 electric       : 電工
+0.0021527    1 implement      : 工具
+0.0021243    1 hand           : 工手
+0.0020651    1 artificial     : 人工
+0.0020623    1 wages          : 工賃
+0.0020622    1 college        : 工大
+0.0020495    1 mining         : 鉱工業
+0.0020290    1 period         : 工期
+0.0019869    1 following      : 電工
+0.0019841    1 tool           : 工具
+0.0019822    1 dignity        : 工合
+0.0019450    1 execution      : 施工
+0.0019216    1 cost           : 工費
+0.0018867    1 formation      : 施工
+0.0018838    1 time           : 工期
+0.0018800    1 operation      : 工程
+0.0018547    1 starting       : 着工
+0.0018256    1 financial      : 工面
+0.0018093    1 progress       : 工程
+0.0017436    1 carrying       : 施工
+0.0017332    1 treatment      : 加工
+0.0017303    1 manner         : 工合
+0.0017144    1 company        : 電工
+0.0016980    1 luck           : 工合
+0.0016977    1 pay            : 工賃
+0.0016567    1 method         : 工法
+0.0016436    1 raise          : 工面
+0.0016284    1 heavy          : 重工
+0.0016270    1 setting        : 起工
+0.0016014    1 stage          : 工程
+0.0015769    1 course         : 工科
+0.0015743    1 name           : 電工
+0.0015121    1 plant          : 工場
+0.0013749    1 face           : 工合
+0.0013321    1 money          : 工面
+0.0007549    1 one            : 工面
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0316503   12 construction
+	construction WORD[ 1,   1]: 0.0096398 工区
+	construction WORD[ 1,   2]: 0.0028793 土工
+	construction WORD[ 1,   3]: 0.0026511 工手
+	construction WORD[ 1,   4]: 0.0026487 工期
+	construction WORD[ 1,   5]: 0.0018635 着工
+	construction WORD[ 1,   6]: 0.0017632 竣工
+	construction WORD[ 1,   7]: 0.0017464 施工
+	construction WORD[ 1,   8]: 0.0017037 工法
+	construction WORD[ 1,   9]: 0.0017035 工費
+	construction WORD[ 1,  10]: 0.0017020 工事
+	construction WORD[ 1,  11]: 0.0017015 工作
+	construction WORD[ 1,  12]: 0.0016477 完工
+TOKEN[ 2]: 0.0305862    9 worker
+	worker WORD[ 2,   1]: 0.0060082 民工
+	worker WORD[ 2,   2]: 0.0056336 冶工
+	worker WORD[ 2,   3]: 0.0031265 土工
+	worker WORD[ 2,   4]: 0.0030783 男工
+	worker WORD[ 2,   5]: 0.0030783 鍛工
+	worker WORD[ 2,   6]: 0.0030174 女工
+	worker WORD[ 2,   7]: 0.0028787 工手
+	worker WORD[ 2,   8]: 0.0019183 職工
+	worker WORD[ 2,   9]: 0.0018470 工員
+TOKEN[ 3]: 0.0277022    1 routing
+	routing WORD[ 3,   1]: 0.0277022 工順
+TOKEN[ 4]: 0.0261113    1 seamstress
+	seamstress WORD[ 4,   1]: 0.0261113 縫工
+TOKEN[ 5]: 0.0257062    6 artisan
+	artisan WORD[ 5,   1]: 0.0077308 工人
+	artisan WORD[ 5,   2]: 0.0044139 良工
+	artisan WORD[ 5,   3]: 0.0042770 名工
+	artisan WORD[ 5,   4]: 0.0023876 職工
+	artisan WORD[ 5,   5]: 0.0022999 工匠
+	artisan WORD[ 5,   6]: 0.0022984 工
+TOKEN[ 6]: 0.0249721    6 engineering
+	engineering WORD[ 6,   1]: 0.0070542 工兵
+	engineering WORD[ 6,   2]: 0.0063846 化工
+	engineering WORD[ 6,   3]: 0.0045028 工務
+	engineering WORD[ 6,   4]: 0.0025348 電工
+	engineering WORD[ 6,   5]: 0.0022480 工学
+	engineering WORD[ 6,   6]: 0.0022478 工科
+TOKEN[ 7]: 0.0230031    1 tailor
+	tailor WORD[ 7,   1]: 0.0230031 縫工
+TOKEN[ 8]: 0.0229354    8 industry
+	industry WORD[ 8,   1]: 0.0053838 商工業
+	industry WORD[ 8,   2]: 0.0053093 農工
+	industry WORD[ 8,   3]: 0.0027793 勧工
+	industry WORD[ 8,   4]: 0.0019272 重工
+	industry WORD[ 8,   5]: 0.0019252 自工
+	industry WORD[ 8,   6]: 0.0019157 商工
+	industry WORD[ 8,   7]: 0.0018476 鉱工業
+	industry WORD[ 8,   8]: 0.0018474 工業
+TOKEN[ 9]: 0.0227934   12 work
+	work WORD[ 9,   1]: 0.0051154 漆工
+	work WORD[ 9,   2]: 0.0036727 工種
+	work WORD[ 9,   3]: 0.0021780 天工
+	work WORD[ 9,   4]: 0.0014201 着工
+	work WORD[ 9,   5]: 0.0013550 人工
+	work WORD[ 9,   6]: 0.0013309 施工
+	work WORD[ 9,   7]: 0.0013114 細工
+	work WORD[ 9,   8]: 0.0012979 工程
+	work WORD[ 9,   9]: 0.0012970 工事
+	work WORD[ 9,  10]: 0.0012967 工作
+	work WORD[ 9,  11]: 0.0012627 起工
+	work WORD[ 9,  12]: 0.0012557 完工
+TOKEN[10]: 0.0215567    5 craftsman
+	craftsman WORD[10,   1]: 0.0074157 工人
+	craftsman WORD[10,   2]: 0.0041026 名工
+	craftsman WORD[10,   3]: 0.0033387 技工
+	craftsman WORD[10,   4]: 0.0022903 職工
+	craftsman WORD[10,   5]: 0.0022047 工
+TOKEN[11]: 0.0196723    1 route
+	route WORD[11,   1]: 0.0196723 工順
+TOKEN[12]: 0.0184213    1 job
+	job WORD[12,   1]: 0.0184213 工順
+TOKEN[13]: 0.0170134    1 coating
+	coating WORD[13,   1]: 0.0170134 塗工
+TOKEN[14]: 0.0167683    6 factory
+	factory WORD[14,   1]: 0.0036025 女工
+	factory WORD[14,   2]: 0.0033108 工船
+	factory WORD[14,   3]: 0.0031529 工廠
+	factory WORD[14,   4]: 0.0022903 職工
+	factory WORD[14,   5]: 0.0022066 工場
+	factory WORD[14,   6]: 0.0022051 工員
+TOKEN[15]: 0.0161184    3 workman
+	workman WORD[15,   1]: 0.0078318 工人
+	workman WORD[15,   2]: 0.0036297 工手
+	workman WORD[15,   3]: 0.0023285 工
+TOKEN[16]: 0.0159443    1 power
+	power WORD[16,   1]: 0.0159443 工率
+TOKEN[17]: 0.0135719    2 paper
+	paper WORD[17,   1]: 0.0113698 塗工
+	paper WORD[17,   2]: 0.0022021 紙工
+TOKEN[18]: 0.0128648    2 technical
+	technical WORD[18,   1]: 0.0106759 高工
+	technical WORD[18,   2]: 0.0021889 工大
+TOKEN[19]: 0.0127789    1 weaver
+	weaver WORD[19,   1]: 0.0127789 織工
+TOKEN[20]: 0.0110530    2 laborer
+	laborer WORD[20,   1]: 0.0073522 工人
+	laborer WORD[20,   2]: 0.0037009 土工
+TOKEN[21]: 0.0104675    3 workmanship
+	workmanship WORD[21,   1]: 0.0061962 精工
+	workmanship WORD[21,   2]: 0.0021514 施工
+	workmanship WORD[21,   3]: 0.0021199 細工
+TOKEN[22]: 0.0098387    1 notation
+	notation WORD[22,   1]: 0.0098387 工工四
+TOKEN[23]: 0.0097893    3 carpenter
+	carpenter WORD[23,   1]: 0.0029777 木工
+	carpenter WORD[23,   2]: 0.0024021 大工
+	carpenter WORD[23,   3]: 0.0022047 工
+TOKEN[24]: 0.0095356    1 higher
+	higher WORD[24,   1]: 0.0095356 高工
+TOKEN[25]: 0.0094583    3 craft
+	craft WORD[25,   1]: 0.0031724 技工
+	craft WORD[25,   2]: 0.0020959 工芸
+	craft WORD[25,   3]: 0.0020950 工
+TOKEN[26]: 0.0094013    3 works
+	works WORD[26,   1]: 0.0053675 工種
+	works WORD[26,   2]: 0.0021363 電工
+	works WORD[26,   3]: 0.0018975 工務
+TOKEN[27]: 0.0088906    2 school
+	school WORD[27,   1]: 0.0066771 高工
+	school WORD[27,   2]: 0.0022135 図工
+TOKEN[28]: 0.0087199    1 metallurgical
+	metallurgical WORD[28,   1]: 0.0087199 冶工
+TOKEN[29]: 0.0083890    1 migrant
+	migrant WORD[29,   1]: 0.0083890 民工
+TOKEN[30]: 0.0083872    2 commerce
+	commerce WORD[30,   1]: 0.0061861 商工業
+	commerce WORD[30,   2]: 0.0022011 商工
+TOKEN[31]: 0.0078952    1 lacquer
+	lacquer WORD[31,   1]: 0.0078952 漆工
+TOKEN[32]: 0.0078633    1 engineer
+	engineer WORD[32,   1]: 0.0078633 工兵
+TOKEN[33]: 0.0070582    2 skilled
+	skilled WORD[33,   1]: 0.0035847 良工
+	skilled WORD[33,   2]: 0.0034735 名工
+TOKEN[34]: 0.0069956    2 design
+	design WORD[34,   1]: 0.0017582 工
+	design WORD[34,   2]: 0.0017396 工夫
+TOKEN[35]: 0.0069227    2 artifice
+	artifice WORD[35,   1]: 0.0023258 細工
+	artifice WORD[35,   2]: 0.0022984 工
+TOKEN[36]: 0.0067980    1 precision
+	precision WORD[36,   1]: 0.0067980 精工
+TOKEN[37]: 0.0067060    1 combat
+	combat WORD[37,   1]: 0.0067060 工兵
+TOKEN[38]: 0.0066463    1 system
+	system WORD[38,   1]: 0.0066463 工工四
+TOKEN[39]: 0.0065836    2 craftsmanship
+	craftsmanship WORD[39,   1]: 0.0022119 細工
+	craftsmanship WORD[39,   2]: 0.0021859 工
+TOKEN[40]: 0.0065812    1 exquisite
+	exquisite WORD[40,   1]: 0.0065812 精工
+TOKEN[41]: 0.0065674    1 rural
+	rural WORD[41,   1]: 0.0065674 民工
+TOKEN[42]: 0.0062473    1 Tang
+	Tang WORD[42,   1]: 0.0062473 工部
+TOKEN[43]: 0.0061867    1 agriculture
+	agriculture WORD[43,   1]: 0.0061867 農工
+TOKEN[44]: 0.0060725    2 workshop
+	workshop WORD[44,   1]: 0.0037080 工房
+	workshop WORD[44,   2]: 0.0023645 工場
+TOKEN[45]: 0.0059518    1 chemical
+	chemical WORD[45,   1]: 0.0059518 化工
+TOKEN[46]: 0.0055840    2 completion
+	completion WORD[46,   1]: 0.0036377 完工
+	completion WORD[46,   2]: 0.0019463 竣工
+TOKEN[47]: 0.0055827    2 device
+	device WORD[47,   1]: 0.0018888 細工
+	device WORD[47,   2]: 0.0018469 工夫
+TOKEN[48]: 0.0054142    1 male
+	male WORD[48,   1]: 0.0054142 男工
+TOKEN[49]: 0.0054140    2 plot
+	plot WORD[49,   1]: 0.0018908 工む
+	plot WORD[49,   2]: 0.0017616 工
+TOKEN[50]: 0.0051083    2 skill
+	skill WORD[50,   1]: 0.0017537 人工
+	skill WORD[50,   2]: 0.0016773 工
+TOKEN[51]: 0.0050863    1 project
+	project WORD[51,   1]: 0.0050863 工区
+TOKEN[52]: 0.0050399    1 dynasty
+	dynasty WORD[52,   1]: 0.0050399 工部
+TOKEN[53]: 0.0049877    2 trick
+	trick WORD[53,   1]: 0.0016757 細工
+	trick WORD[53,   2]: 0.0016560 工
+TOKEN[54]: 0.0049734    1 section
+	section WORD[54,   1]: 0.0049734 工区
+TOKEN[55]: 0.0048785    1 military
+	military WORD[55,   1]: 0.0048785 工兵
+TOKEN[56]: 0.0048223    1 swordmaker
+	swordmaker WORD[56,   1]: 0.0048223 刀工
+TOKEN[57]: 0.0046311    1 item
+	item WORD[57,   1]: 0.0046311 工種
+TOKEN[58]: 0.0046143    2 metal
+	metal WORD[58,   1]: 0.0027838 鍛工
+	metal WORD[58,   2]: 0.0018305 鋳工
+TOKEN[59]: 0.0045919    2 plan
+	plan WORD[59,   1]: 0.0016148 工む
+	plan WORD[59,   2]: 0.0014886 工夫
+TOKEN[60]: 0.0044472    1 goldsmith
+	goldsmith WORD[60,   1]: 0.0044472 金工
+TOKEN[61]: 0.0044421    1 sculptor
+	sculptor WORD[61,   1]: 0.0044421 彫工
+TOKEN[62]: 0.0044033    1 dedication
+	dedication WORD[62,   1]: 0.0022016 工夫
+TOKEN[63]: 0.0044033    1 invention
+	invention WORD[63,   1]: 0.0022016 工夫
+TOKEN[64]: 0.0043654    1 navvy
+	navvy WORD[64,   1]: 0.0043654 土工
+TOKEN[65]: 0.0043366    1 dexterity
+	dexterity WORD[65,   1]: 0.0021683 工
+TOKEN[66]: 0.0043343    1 type
+	type WORD[66,   1]: 0.0043343 工種
+TOKEN[67]: 0.0043158    1 engraver
+	engraver WORD[67,   1]: 0.0043158 彫工
+TOKEN[68]: 0.0042923    1 cannery
+	cannery WORD[68,   1]: 0.0042923 工船
+TOKEN[69]: 0.0042263    1 swordsmith
+	swordsmith WORD[69,   1]: 0.0042263 刀工
+TOKEN[70]: 0.0042224    1 area
+	area WORD[70,   1]: 0.0042224 工区
+TOKEN[71]: 0.0042179    1 carver
+	carver WORD[71,   1]: 0.0042179 彫工
+TOKEN[72]: 0.0042090    1 atelier
+	atelier WORD[72,   1]: 0.0042090 工房
+TOKEN[73]: 0.0040036    1 operator
+	operator WORD[73,   1]: 0.0040036 男工
+TOKEN[74]: 0.0039760    1 spiritual
+	spiritual WORD[74,   1]: 0.0019880 工夫
+TOKEN[75]: 0.0038915    1 earthwork
+	earthwork WORD[75,   1]: 0.0038915 土工
+TOKEN[76]: 0.0038604    1 woodworker
+	woodworker WORD[76,   1]: 0.0038604 木工
+TOKEN[77]: 0.0038595    2 way
+	way WORD[77,   1]: 0.0012915 工合
+	way WORD[77,   2]: 0.0012840 工夫
+TOKEN[78]: 0.0038425    1 studio
+	studio WORD[78,   1]: 0.0038425 工房
+TOKEN[79]: 0.0038382    1 maker
+	maker WORD[79,   1]: 0.0038382 仏工
+TOKEN[80]: 0.0038349    1 arsenal
+	arsenal WORD[80,   1]: 0.0038349 工廠
+TOKEN[81]: 0.0038131    1 mason
+	mason WORD[81,   1]: 0.0038131 石工
+TOKEN[82]: 0.0038131    1 stonemason
+	stonemason WORD[82,   1]: 0.0038131 石工
+TOKEN[83]: 0.0038131    1 stonecutter
+	stonecutter WORD[83,   1]: 0.0038131 石工
+TOKEN[84]: 0.0038091    1 metalwork
+	metalwork WORD[84,   1]: 0.0038091 金工
+TOKEN[85]: 0.0038089    1 improvement
+	improvement WORD[85,   1]: 0.0019045 工夫
+TOKEN[86]: 0.0038053    1 process
+	process WORD[86,   1]: 0.0038053 工程
+TOKEN[87]: 0.0037698    2 building
+	building WORD[87,   1]: 0.0023241 工期
+	building WORD[87,   2]: 0.0014458 完工
+TOKEN[88]: 0.0037257    1 meditation
+	meditation WORD[88,   1]: 0.0018629 工夫
+TOKEN[89]: 0.0037030    1 scheme
+	scheme WORD[89,   1]: 0.0018515 工
+TOKEN[90]: 0.0036420    1 human
+	human WORD[90,   1]: 0.0036420 人工
+TOKEN[91]: 0.0036356    1 thinking
+	thinking WORD[91,   1]: 0.0018178 工夫
+TOKEN[92]: 0.0036264    1 altar
+	altar WORD[92,   1]: 0.0036264 仏工
+TOKEN[93]: 0.0035494    1 health
+	health WORD[93,   1]: 0.0035494 工合
+TOKEN[94]: 0.0035140    1 Zen
+	Zen WORD[94,   1]: 0.0017570 工夫
+TOKEN[95]: 0.0034823    1 woodwork
+	woodwork WORD[95,   1]: 0.0034823 木工
+TOKEN[96]: 0.0033581    1 technology
+	technology WORD[96,   1]: 0.0033581 理工
+TOKEN[97]: 0.0033222    2 condition
+	condition WORD[97,   1]: 0.0016645 工合
+	condition WORD[97,   2]: 0.0016576 工面
+TOKEN[98]: 0.0033065    1 woodworking
+	woodworking WORD[98,   1]: 0.0033065 木工
+TOKEN[99]: 0.0032531    1 manual
+	manual WORD[99,   1]: 0.0032531 図工
+TOKEN[100]: 0.0032267    1 ceramist
+	ceramist WORD[100,   1]: 0.0032267 陶工
+TOKEN[101]: 0.0032239    1 electrician
+	electrician WORD[101,   1]: 0.0032239 電工
+TOKEN[102]: 0.0032097    1 working
+	working WORD[102,   1]: 0.0016048 工夫
+TOKEN[103]: 0.0032062    1 ironworking
+	ironworking WORD[103,   1]: 0.0032062 鉄工
+TOKEN[104]: 0.0032062    1 ironworker
+	ironworker WORD[104,   1]: 0.0032062 鉄工
+TOKEN[105]: 0.0032057    1 idea
+	idea WORD[105,   1]: 0.0016029 工夫
+TOKEN[106]: 0.0031820    1 ammunition
+	ammunition WORD[106,   1]: 0.0031820 工廠
+TOKEN[107]: 0.0031788    1 painter
+	painter WORD[107,   1]: 0.0031788 画工
+TOKEN[108]: 0.0030607    1 coming
+	coming WORD[108,   1]: 0.0015303 工夫
+TOKEN[109]: 0.0029968    1 artist
+	artist WORD[109,   1]: 0.0029968 画工
+TOKEN[110]: 0.0029916    1 machine
+	machine WORD[110,   1]: 0.0029916 男工
+TOKEN[111]: 0.0029097    1 state
+	state WORD[111,   1]: 0.0029097 工合
+TOKEN[112]: 0.0028923    1 handiwork
+	handiwork WORD[112,   1]: 0.0028923 細工
+TOKEN[113]: 0.0028602    1 mechanic
+	mechanic WORD[113,   1]: 0.0028602 工匠
+TOKEN[114]: 0.0028506    1 encouragement
+	encouragement WORD[114,   1]: 0.0028506 勧工
+TOKEN[115]: 0.0028496    1 science
+	science WORD[115,   1]: 0.0028496 理工
+TOKEN[116]: 0.0028261    1 caster
+	caster WORD[116,   1]: 0.0028261 鋳工
+TOKEN[117]: 0.0028190    1 floating
+	floating WORD[117,   1]: 0.0028190 工船
+TOKEN[118]: 0.0027030    1 nature
+	nature WORD[118,   1]: 0.0027030 天工
+TOKEN[119]: 0.0026957    1 artificiality
+	artificiality WORD[119,   1]: 0.0026957 人工
+TOKEN[120]: 0.0026831    1 handicraft
+	handicraft WORD[120,   1]: 0.0026831 工作
+TOKEN[121]: 0.0026745    1 Buddhist
+	Buddhist WORD[121,   1]: 0.0026745 仏工
+TOKEN[122]: 0.0026667    1 subject
+	subject WORD[122,   1]: 0.0026667 図工
+TOKEN[123]: 0.0026359    1 drawing
+	drawing WORD[123,   1]: 0.0026359 図工
+TOKEN[124]: 0.0025947    1 potter
+	potter WORD[124,   1]: 0.0025947 陶工
+TOKEN[125]: 0.0025626    1 female
+	female WORD[125,   1]: 0.0025626 女工
+TOKEN[126]: 0.0024630    1 automobile
+	automobile WORD[126,   1]: 0.0024630 自工
+TOKEN[127]: 0.0024366    1 decency
+	decency WORD[127,   1]: 0.0024366 工合
+TOKEN[128]: 0.0024239    1 boat
+	boat WORD[128,   1]: 0.0024239 工船
+TOKEN[129]: 0.0024058    1 arms
+	arms WORD[129,   1]: 0.0024058 工廠
+TOKEN[130]: 0.0023226    1 ship
+	ship WORD[130,   1]: 0.0023226 工船
+TOKEN[131]: 0.0023174    1 circumstance
+	circumstance WORD[131,   1]: 0.0023174 工合
+TOKEN[132]: 0.0022995    1 industrial
+	industrial WORD[132,   1]: 0.0022995 工芸
+TOKEN[133]: 0.0022735    1 mill
+	mill WORD[133,   1]: 0.0022735 工場
+TOKEN[134]: 0.0022561    1 electrical
+	electrical WORD[134,   1]: 0.0022561 電工
+TOKEN[135]: 0.0022353    1 devise
+	devise WORD[135,   1]: 0.0022353 工む
+TOKEN[136]: 0.0022146    1 propriety
+	propriety WORD[136,   1]: 0.0022146 工合
+TOKEN[137]: 0.0021852    1 contrivance
+	contrivance WORD[137,   1]: 0.0021852 工面
+TOKEN[138]: 0.0021710    1 electric
+	electric WORD[138,   1]: 0.0021710 電工
+TOKEN[139]: 0.0021527    1 implement
+	implement WORD[139,   1]: 0.0021527 工具
+TOKEN[140]: 0.0021243    1 hand
+	hand WORD[140,   1]: 0.0021243 工手
+TOKEN[141]: 0.0020651    1 artificial
+	artificial WORD[141,   1]: 0.0020651 人工
+TOKEN[142]: 0.0020623    1 wages
+	wages WORD[142,   1]: 0.0020623 工賃
+TOKEN[143]: 0.0020622    1 college
+	college WORD[143,   1]: 0.0020622 工大
+TOKEN[144]: 0.0020495    1 mining
+	mining WORD[144,   1]: 0.0020495 鉱工業
+TOKEN[145]: 0.0020290    1 period
+	period WORD[145,   1]: 0.0020290 工期
+TOKEN[146]: 0.0019869    1 following
+	following WORD[146,   1]: 0.0019869 電工
+TOKEN[147]: 0.0019841    1 tool
+	tool WORD[147,   1]: 0.0019841 工具
+TOKEN[148]: 0.0019822    1 dignity
+	dignity WORD[148,   1]: 0.0019822 工合
+TOKEN[149]: 0.0019450    1 execution
+	execution WORD[149,   1]: 0.0019450 施工
+TOKEN[150]: 0.0019216    1 cost
+	cost WORD[150,   1]: 0.0019216 工費
+TOKEN[151]: 0.0018867    1 formation
+	formation WORD[151,   1]: 0.0018867 施工
+TOKEN[152]: 0.0018838    1 time
+	time WORD[152,   1]: 0.0018838 工期
+TOKEN[153]: 0.0018800    1 operation
+	operation WORD[153,   1]: 0.0018800 工程
+TOKEN[154]: 0.0018547    1 starting
+	starting WORD[154,   1]: 0.0018547 着工
+TOKEN[155]: 0.0018256    1 financial
+	financial WORD[155,   1]: 0.0018256 工面
+TOKEN[156]: 0.0018093    1 progress
+	progress WORD[156,   1]: 0.0018093 工程
+TOKEN[157]: 0.0017436    1 carrying
+	carrying WORD[157,   1]: 0.0017436 施工
+TOKEN[158]: 0.0017332    1 treatment
+	treatment WORD[158,   1]: 0.0017332 加工
+TOKEN[159]: 0.0017303    1 manner
+	manner WORD[159,   1]: 0.0017303 工合
+TOKEN[160]: 0.0017144    1 company
+	company WORD[160,   1]: 0.0017144 電工
+TOKEN[161]: 0.0016980    1 luck
+	luck WORD[161,   1]: 0.0016980 工合
+TOKEN[162]: 0.0016977    1 pay
+	pay WORD[162,   1]: 0.0016977 工賃
+TOKEN[163]: 0.0016567    1 method
+	method WORD[163,   1]: 0.0016567 工法
+TOKEN[164]: 0.0016436    1 raise
+	raise WORD[164,   1]: 0.0016436 工面
+TOKEN[165]: 0.0016284    1 heavy
+	heavy WORD[165,   1]: 0.0016284 重工
+TOKEN[166]: 0.0016270    1 setting
+	setting WORD[166,   1]: 0.0016270 起工
+TOKEN[167]: 0.0016014    1 stage
+	stage WORD[167,   1]: 0.0016014 工程
+TOKEN[168]: 0.0015769    1 course
+	course WORD[168,   1]: 0.0015769 工科
+TOKEN[169]: 0.0015743    1 name
+	name WORD[169,   1]: 0.0015743 電工
+TOKEN[170]: 0.0015121    1 plant
+	plant WORD[170,   1]: 0.0015121 工場
+TOKEN[171]: 0.0013749    1 face
+	face WORD[171,   1]: 0.0013749 工合
+TOKEN[172]: 0.0013321    1 money
+	money WORD[172,   1]: 0.0013321 工面
+TOKEN[173]: 0.0007549    1 one
+	one WORD[173,   1]: 0.0007549 工面

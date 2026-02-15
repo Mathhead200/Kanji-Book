@@ -1,0 +1,892 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0443270    9 table          : 表外, 表内, 本表, 数表, 次表, 付表, 附表, 年表, 別表
+0.0385041    5 list           : 表外, 表内, 黒表, 付表, 附表
+0.0180439    8 representation : 表章, 表現, 表明, 表示, 表象, 表記, 表音, 代表
+0.0170408   10 expression     : 言表, 表情, 表明, 表白, 表示, 表出, 表現, 表記, 表れ, 表われ
+0.0165907    2 ceremony       : 表流, 表
+0.0165466    1 congratulatory : 賀表
+0.0158106    2 tea            : 表流, 表
+0.0156200    4 chart          : 左表, 付表, 附表, 図表
+0.0148293    2 school         : 表流, 表
+0.0142910    1 common         : 表外
+0.0139336    8 front          : 表戸, 表門, 表口, 表構え, 裏表, 表裏, 表側, 表
+0.0136745    3 street         : 表通, 表通り, 表店
+0.0131199    7 surface        : 体表, 地表, 表徴, 表面, 表層, 表記, 表
+0.0121024    6 main           : 表店, 本表, 表通, 表通り, 表芸, 代表
+0.0120221    4 address        : 賀表, 表書, 表書き, 表記
+0.0114445    8 express        : 書き表す, 書き表わす, 表する, 言い表す, 言い表わす, 言表す, 表す, 表わす
+0.0100554    4 symbol         : 表章, 表徴, 表号, 表象
+0.0091225    1 star           : 星表
+0.0085047    2 distinguishing : 徴表, 表徴
+0.0082959    3 emblem         : 表章, 表号, 表象
+0.0082065    4 side           : 表山, 表, 表通, 表通り
+0.0080739    1 sent           : 賀表
+0.0080204    2 superficial    : 表割, 表在
+0.0079654    2 garment        : 表着, 表地
+0.0074203    5 known          : 発表, 表だつ, 表立つ, 表す, 表わす
+0.0074088    3 top            : 表着, 表土, 表
+0.0073768    1 outerwear      : 表着
+0.0073625    2 jacket         : 表着, 表地
+0.0072983    1 left           : 左表
+0.0070322    3 sign           : 前表, 表徴, 表号
+0.0069851    2 letter         : 賀表, 辞表
+0.0068538    3 graph          : 付表, 附表, 図表
+0.0067744    1 inning         : 表
+0.0066311    1 card           : 賀表
+0.0064991    4 become         : 表だつ, 表立つ, 表れる, 表われる
+0.0064163    1 cemetery       : 華表
+0.0061882    1 epidermis      : 表皮
+0.0061741    1 monument       : 華表
+0.0061660    3 envelope       : 表書, 表書き, 表記
+0.0061056    2 coat           : 表着, 表地
+0.0060463    4 manifestation  : 表明, 表示, 表れ, 表われ
+0.0058756    4 indication     : 表明, 表示, 表れ, 表われ
+0.0058542    2 facade         : 表皮, 表構え
+0.0056991    1 cleavage       : 表割
+0.0056799    1 catalogue      : 星表
+0.0056757    4 appearance     : 裏表, 表情, 表向き, 表
+0.0056608    5 public         : 表彰, 表向き, 表だつ, 表立つ, 表
+0.0056537    1 verbal         : 言表
+0.0056371    2 mark           : 徴表, 表徴
+0.0056212    2 diagram        : 下表, 図表
+0.0054341    3 model          : 師表, 儀表, 代表
+0.0053591    4 show           : 表する, 表敬, 表す, 表わす
+0.0051003    5 official       : 表彰, 公表, 表向き, 表だつ, 表立つ
+0.0050562    2 door           : 表戸, 表口
+0.0049843    3 visible        : 表, 表れる, 表われる
+0.0048937    2 sides          : 表裏, 裏表
+0.0048855    1 representative : 代表
+0.0048676    1 entrance       : 華表
+0.0048448    4 come           : 表れる, 表われる, 表だつ, 表立つ
+0.0048115    2 addressee      : 表書, 表書き
+0.0047888    2 image          : 表章, 表象
+0.0047474    1 knit           : 表目
+0.0047259    1 portent        : 前表
+0.0046669    3 display        : 表示, 表す, 表わす
+0.0046545    2 cover          : 表紙, 表
+0.0046501    1 headstone      : 墓表
+0.0045789    1 black          : 黒表
+0.0045359    3 announcement   : 表明, 発表, 公表
+0.0045226    1 harbinger      : 前表
+0.0045226    1 premonition    : 前表
+0.0044559    2 exterior       : 表面, 表
+0.0043952    2 publish        : 書き表す, 書き表わす
+0.0043814    2 attached       : 付表, 附表
+0.0043654    2 staff          : 譜表, 表方
+0.0043225    2 describe       : 書き表す, 書き表わす
+0.0042319    2 signify        : 表す, 表わす
+0.0042165    2 mounting       : 表具, 表装
+0.0040665    1 page           : 初表
+0.0040569    3 face           : 表面, 表記, 表
+0.0040304    3 expressed      : 言い表せる, 表れる, 表われる
+0.0039975    3 confess        : 言い表す, 言い表わす, 言表す
+0.0039778    2 making         : 表章, 発表
+0.0039534    1 stitch         : 表目
+0.0038416    1 omen           : 前表
+0.0037226    3 appear         : 表紙, 表れる, 表われる
+0.0036709    2 opposed        : 表通, 表通り
+0.0036471    2 writing        : 表記, 墓表
+0.0036330    2 represent      : 表す, 表わす
+0.0036151    2 outside        : 裏表, 表裏
+0.0036017    2 demonstration  : 表明, 表示
+0.0035382    2 reveal         : 表す, 表わす
+0.0034822    2 building       : 表構え, 表
+0.0034802    2 leader         : 師表, 代表
+0.0034395    1 following      : 次表
+0.0034354    2 write          : 書き表す, 書き表わす
+0.0033872    1 obverse        : 表
+0.0033799    1 first          : 初表
+0.0033319    2 picture        : 表具, 表装
+0.0032567    1 foreground     : 表
+0.0032002    2 binding        : 表装, 表紙
+0.0031265    1 stave          : 譜表
+0.0030747    1 magazine       : 表紙
+0.0030499    1 paragon        : 師表
+0.0030218    1 sunshine       : 表山
+0.0030080    2 high           : 表通, 表通り
+0.0030057    1 diagnostic     : 表徴
+0.0029987    2 someone        : 表章, 表彰
+0.0029764    1 clear          : 表章
+0.0029676    1 house          : 表店
+0.0029295    1 chronological  : 年表
+0.0028821    1 cuticle        : 表皮
+0.0028689    2 embody         : 表れる, 表われる
+0.0028689    2 materialize    : 表れる, 表われる
+0.0028219    3 one            : 国表, 表意, 発表
+0.0028218    2 materialization: 表れ, 表われ
+0.0027624    1 body           : 体表
+0.0027549    2 stand          : 表す, 表わす
+0.0027072    2 two            : 裏表, 表裏
+0.0026591    2 outer          : 表層, 表地
+0.0026334    2 embodiment     : 表れ, 表われ
+0.0026293    1 farming        : 表山
+0.0025519    2 apparent       : 表れる, 表われる
+0.0025245    1 suitable       : 表山
+0.0024831    1 folded         : 中表
+0.0023923    1 superficiality : 表面
+0.0023917    1 ideography     : 表意
+0.0023820    1 usher          : 表方
+0.0023500    1 lot            : 表山
+0.0023409    2 effects        : 表れる, 表われる
+0.0023361    2 book           : 表装, 表紙
+0.0023185    1 score          : 譜表
+0.0023051    1 statistical    : 別表
+0.0022768    1 coin           : 表
+0.0022740    1 teacher        : 師表
+0.0022619    2 formal         : 表だつ, 表立つ
+0.0022524    1 memorial       : 上表
+0.0022338    1 bark           : 表皮
+0.0022166    1 knitting       : 表編み
+0.0021820    1 communique     : 発表
+0.0021814    1 outward        : 裏表
+0.0021680    2 make           : 表す, 表わす
+0.0021638    1 number         : 代表
+0.0021579    1 headline       : 表題
+0.0021346    1 half           : 表
+0.0021226    1 marker         : 墓表
+0.0020985    1 mat            : 畳表
+0.0020966    1 duplicity      : 表裏
+0.0020963    1 attribution    : 表示
+0.0020919    1 typification   : 代表
+0.0020767    2 sight          : 表れる, 表われる
+0.0020721    1 object         : 表
+0.0020561    1 facing         : 畳表
+0.0020490    1 caption        : 表題
+0.0020486    1 doorplate      : 表札
+0.0020155    1 audience       : 表方
+0.0020149    1 pattern        : 師表
+0.0020098    1 copyright      : 表示
+0.0019627    1 switchboard    : 代表
+0.0019488    1 assertion      : 表明
+0.0019484    1 gravestone     : 墓表
+0.0019484    1 voting         : 表決
+0.0019484    1 orthography    : 表記
+0.0019411    1 mountain       : 表山
+0.0019262    1 actual         : 裏表
+0.0019234    1 commendation   : 表彰
+0.0019232    1 notation       : 表記
+0.0019073    1 native         : 国表
+0.0019035    2 open           : 表だつ, 表立つ
+0.0018619    1 phonetic       : 表音
+0.0018483    1 unveiling      : 発表
+0.0018334    1 exemplification: 代表
+0.0018334    1 delegate       : 代表
+0.0018291    1 courtesy       : 表敬
+0.0018264    1 gate           : 表門
+0.0018147    1 confession     : 表白
+0.0018143    1 transcription  : 表記
+0.0018091    1 plain          : 表編み
+0.0018053    1 ostensible     : 表向き
+0.0018006    1 character      : 表徴
+0.0017918    1 delegation     : 代表
+0.0017918    1 typical        : 代表
+0.0017876    1 gesture        : 表意
+0.0017756    1 vocal          : 表情
+0.0017747    1 cloth          : 中表
+0.0017643    1 index          : 表題
+0.0017578    1 exemplar       : 代表
+0.0017328    1 recognition    : 表彰
+0.0017306    1 condition      : 裏表
+0.0017236    1 declaration    : 表明
+0.0017232    1 intent         : 表意
+0.0017227    1 emperor        : 上表
+0.0017119    1 sayable        : 言い表せる
+0.0016998    1 inner          : 裏表
+0.0016971    1 vote           : 表決
+0.0016959    1 head           : 表
+0.0016890    1 description    : 表現
+0.0016815    1 layer          : 表層
+0.0016768    1 province       : 国表
+0.0016669    1 heading        : 表題
+0.0016463    1 facial         : 表情
+0.0016463    1 presentation   : 表出
+0.0016278    1 countenance    : 表情
+0.0016212    1 clothing       : 裏表
+0.0016162    1 showing        : 表示
+0.0015969    1 date           : 墓表
+0.0015535    1 mental         : 表象
+0.0015493    1 grave          : 墓表
+0.0015335    1 respect        : 表敬
+0.0014964    1 home           : 国表
+0.0014955    1 soil           : 表土
+0.0014875    1 statement      : 発表
+0.0014839    1 publication    : 発表
+0.0014350    1 title          : 表題
+0.0014179    1 proclamation   : 公表
+0.0014071    1 news           : 発表
+0.0013950    1 resignation    : 辞表
+0.0013751    1 breaking       : 発表
+0.0013692    1 written        : 表記
+0.0013556    1 idea           : 表象
+0.0013149    1 opinion        : 発表
+0.0013023    1 example        : 代表
+0.0012810    1 group          : 表現
+0.0012573    1 story          : 発表
+0.0012356    1 earth          : 地表
+0.0012285    1 lining         : 表地
+0.0012101    1 name           : 墓表
+0.0012012    1 surprise       : 意表
+0.0011790    1 death          : 墓表
+0.0011565    1 figure         : 図表
+0.0011528    1 look           : 表情
+0.0011185    1 unexpected     : 意表
+0.0010941    1 ground         : 地表
+0.0010793    1 shell          : 表地
+0.0010604    1 good           : 表彰
+0.0010593    1 able           : 言い表せる
+0.0010532    1 material       : 表地
+0.0006697    1 something      : 意表
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0443270    9 table
+	table WORD[ 1,   1]: 0.0156435 表外
+	table WORD[ 1,   2]: 0.0088054 表内
+	table WORD[ 1,   3]: 0.0062081 本表
+	table WORD[ 1,   4]: 0.0032137 数表
+	table WORD[ 1,   5]: 0.0031867 次表
+	table WORD[ 1,   6]: 0.0019790 付表
+	table WORD[ 1,   7]: 0.0019790 附表
+	table WORD[ 1,   8]: 0.0019086 年表
+	table WORD[ 1,   9]: 0.0014029 別表
+TOKEN[ 2]: 0.0385041    5 list
+	list WORD[ 2,   1]: 0.0180993 表外
+	list WORD[ 2,   2]: 0.0101877 表内
+	list WORD[ 2,   3]: 0.0056377 黒表
+	list WORD[ 2,   4]: 0.0022897 付表
+	list WORD[ 2,   5]: 0.0022897 附表
+TOKEN[ 3]: 0.0180439    8 representation
+	representation WORD[ 3,   1]: 0.0041530 表章
+	representation WORD[ 3,   2]: 0.0035279 表現
+	representation WORD[ 3,   3]: 0.0017643 表明
+	representation WORD[ 3,   4]: 0.0017640 表示
+	representation WORD[ 3,   5]: 0.0017640 表象
+	representation WORD[ 3,   6]: 0.0017639 表記
+	representation WORD[ 3,   7]: 0.0017639 表音
+	representation WORD[ 3,   8]: 0.0015428 代表
+TOKEN[ 4]: 0.0170408   10 expression
+	expression WORD[ 4,   1]: 0.0045367 言表
+	expression WORD[ 4,   2]: 0.0026527 表情
+	expression WORD[ 4,   3]: 0.0013265 表明
+	expression WORD[ 4,   4]: 0.0013265 表白
+	expression WORD[ 4,   5]: 0.0013263 表示
+	expression WORD[ 4,   6]: 0.0013263 表出
+	expression WORD[ 4,   7]: 0.0013263 表現
+	expression WORD[ 4,   8]: 0.0013262 表記
+	expression WORD[ 4,   9]: 0.0009466 表れ
+	expression WORD[ 4,  10]: 0.0009466 表われ
+TOKEN[ 5]: 0.0165907    2 ceremony
+	ceremony WORD[ 5,   1]: 0.0146588 表流
+	ceremony WORD[ 5,   2]: 0.0009659 表
+TOKEN[ 6]: 0.0165466    1 congratulatory
+	congratulatory WORD[ 6,   1]: 0.0165466 賀表
+TOKEN[ 7]: 0.0158106    2 tea
+	tea WORD[ 7,   1]: 0.0139695 表流
+	tea WORD[ 7,   2]: 0.0009205 表
+TOKEN[ 8]: 0.0156200    4 chart
+	chart WORD[ 8,   1]: 0.0094751 左表
+	chart WORD[ 8,   2]: 0.0023763 付表
+	chart WORD[ 8,   3]: 0.0023763 附表
+	chart WORD[ 8,   4]: 0.0013922 図表
+TOKEN[ 9]: 0.0148293    2 school
+	school WORD[ 9,   1]: 0.0131025 表流
+	school WORD[ 9,   2]: 0.0008634 表
+TOKEN[10]: 0.0142910    1 common
+	common WORD[10,   1]: 0.0142910 表外
+TOKEN[11]: 0.0139336    8 front
+	front WORD[11,   1]: 0.0033274 表戸
+	front WORD[11,   2]: 0.0016272 表門
+	front WORD[11,   3]: 0.0016272 表口
+	front WORD[11,   4]: 0.0016271 表構え
+	front WORD[11,   5]: 0.0015728 裏表
+	front WORD[11,   6]: 0.0012722 表裏
+	front WORD[11,   7]: 0.0009599 表側
+	front WORD[11,   8]: 0.0009599 表
+TOKEN[12]: 0.0136745    3 street
+	street WORD[12,   1]: 0.0051014 表通
+	street WORD[12,   2]: 0.0051014 表通り
+	street WORD[12,   3]: 0.0034717 表店
+TOKEN[13]: 0.0131199    7 surface
+	surface WORD[13,   1]: 0.0031135 体表
+	surface WORD[13,   2]: 0.0022841 地表
+	surface WORD[13,   3]: 0.0018630 表徴
+	surface WORD[13,   4]: 0.0012995 表面
+	surface WORD[13,   5]: 0.0012994 表層
+	surface WORD[13,   6]: 0.0012992 表記
+	surface WORD[13,   7]: 0.0009806 表
+TOKEN[14]: 0.0121024    6 main
+	main WORD[14,   1]: 0.0032937 表店
+	main WORD[14,   2]: 0.0028660 本表
+	main WORD[14,   3]: 0.0016133 表通
+	main WORD[14,   4]: 0.0016132 表通り
+	main WORD[14,   5]: 0.0016132 表芸
+	main WORD[14,   6]: 0.0011029 代表
+TOKEN[15]: 0.0120221    4 address
+	address WORD[15,   1]: 0.0068164 賀表
+	address WORD[15,   2]: 0.0018714 表書
+	address WORD[15,   3]: 0.0018714 表書き
+	address WORD[15,   4]: 0.0014628 表記
+TOKEN[16]: 0.0114445    8 express
+	express WORD[16,   1]: 0.0017774 書き表す
+	express WORD[16,   2]: 0.0017774 書き表わす
+	express WORD[16,   3]: 0.0014922 表する
+	express WORD[16,   4]: 0.0010678 言い表す
+	express WORD[16,   5]: 0.0010678 言い表わす
+	express WORD[16,   6]: 0.0010678 言表す
+	express WORD[16,   7]: 0.0010647 表す
+	express WORD[16,   8]: 0.0010647 表わす
+TOKEN[17]: 0.0100554    4 symbol
+	symbol WORD[17,   1]: 0.0038050 表章
+	symbol WORD[17,   2]: 0.0023174 表徴
+	symbol WORD[17,   3]: 0.0023167 表号
+	symbol WORD[17,   4]: 0.0016162 表象
+TOKEN[18]: 0.0091225    1 star
+	star WORD[18,   1]: 0.0091225 星表
+TOKEN[19]: 0.0085047    2 distinguishing
+	distinguishing WORD[19,   1]: 0.0056229 徴表
+	distinguishing WORD[19,   2]: 0.0028817 表徴
+TOKEN[20]: 0.0082959    3 emblem
+	emblem WORD[20,   1]: 0.0040794 表章
+	emblem WORD[20,   2]: 0.0024838 表号
+	emblem WORD[20,   3]: 0.0017328 表象
+TOKEN[21]: 0.0082065    4 side
+	side WORD[21,   1]: 0.0018629 表山
+	side WORD[21,   2]: 0.0017168 表
+	side WORD[21,   3]: 0.0014550 表通
+	side WORD[21,   4]: 0.0014550 表通り
+TOKEN[22]: 0.0080739    1 sent
+	sent WORD[22,   1]: 0.0080739 賀表
+TOKEN[23]: 0.0080204    2 superficial
+	superficial WORD[23,   1]: 0.0052512 表割
+	superficial WORD[23,   2]: 0.0027692 表在
+TOKEN[24]: 0.0079654    2 garment
+	garment WORD[24,   1]: 0.0055258 表着
+	garment WORD[24,   2]: 0.0024396 表地
+TOKEN[25]: 0.0074203    5 known
+	known WORD[25,   1]: 0.0015609 発表
+	known WORD[25,   2]: 0.0012115 表だつ
+	known WORD[25,   3]: 0.0012115 表立つ
+	known WORD[25,   4]: 0.0011455 表す
+	known WORD[25,   5]: 0.0011455 表わす
+TOKEN[26]: 0.0074088    3 top
+	top WORD[26,   1]: 0.0042726 表着
+	top WORD[26,   2]: 0.0012499 表土
+	top WORD[26,   3]: 0.0009431 表
+TOKEN[27]: 0.0073768    1 outerwear
+	outerwear WORD[27,   1]: 0.0073768 表着
+TOKEN[28]: 0.0073625    2 jacket
+	jacket WORD[28,   1]: 0.0060311 表着
+	jacket WORD[28,   2]: 0.0013313 表地
+TOKEN[29]: 0.0072983    1 left
+	left WORD[29,   1]: 0.0072983 左表
+TOKEN[30]: 0.0070322    3 sign
+	sign WORD[30,   1]: 0.0031685 前表
+	sign WORD[30,   2]: 0.0019321 表徴
+	sign WORD[30,   3]: 0.0019315 表号
+TOKEN[31]: 0.0069851    2 letter
+	letter WORD[31,   1]: 0.0059215 賀表
+	letter WORD[31,   2]: 0.0010637 辞表
+TOKEN[32]: 0.0068538    3 graph
+	graph WORD[32,   1]: 0.0026505 付表
+	graph WORD[32,   2]: 0.0026505 附表
+	graph WORD[32,   3]: 0.0015528 図表
+TOKEN[33]: 0.0067744    1 inning
+	inning WORD[33,   1]: 0.0033872 表
+TOKEN[34]: 0.0066311    1 card
+	card WORD[34,   1]: 0.0066311 賀表
+TOKEN[35]: 0.0064991    4 become
+	become WORD[35,   1]: 0.0016701 表だつ
+	become WORD[35,   2]: 0.0016701 表立つ
+	become WORD[35,   3]: 0.0015794 表れる
+	become WORD[35,   4]: 0.0015794 表われる
+TOKEN[36]: 0.0064163    1 cemetery
+	cemetery WORD[36,   1]: 0.0064163 華表
+TOKEN[37]: 0.0061882    1 epidermis
+	epidermis WORD[37,   1]: 0.0061882 表皮
+TOKEN[38]: 0.0061741    1 monument
+	monument WORD[38,   1]: 0.0061741 華表
+TOKEN[39]: 0.0061660    3 envelope
+	envelope WORD[39,   1]: 0.0022167 表書
+	envelope WORD[39,   2]: 0.0022167 表書き
+	envelope WORD[39,   3]: 0.0017327 表記
+TOKEN[40]: 0.0061056    2 coat
+	coat WORD[40,   1]: 0.0050016 表着
+	coat WORD[40,   2]: 0.0011041 表地
+TOKEN[41]: 0.0060463    4 manifestation
+	manifestation WORD[41,   1]: 0.0017643 表明
+	manifestation WORD[41,   2]: 0.0017640 表示
+	manifestation WORD[41,   3]: 0.0012590 表れ
+	manifestation WORD[41,   4]: 0.0012590 表われ
+TOKEN[42]: 0.0058756    4 indication
+	indication WORD[42,   1]: 0.0017145 表明
+	indication WORD[42,   2]: 0.0017142 表示
+	indication WORD[42,   3]: 0.0012234 表れ
+	indication WORD[42,   4]: 0.0012234 表われ
+TOKEN[43]: 0.0058542    2 facade
+	facade WORD[43,   1]: 0.0030941 表皮
+	facade WORD[43,   2]: 0.0027602 表構え
+TOKEN[44]: 0.0056991    1 cleavage
+	cleavage WORD[44,   1]: 0.0056991 表割
+TOKEN[45]: 0.0056799    1 catalogue
+	catalogue WORD[45,   1]: 0.0056799 星表
+TOKEN[46]: 0.0056757    4 appearance
+	appearance WORD[46,   1]: 0.0015594 裏表
+	appearance WORD[46,   2]: 0.0012611 表情
+	appearance WORD[46,   3]: 0.0009518 表向き
+	appearance WORD[46,   4]: 0.0009517 表
+TOKEN[47]: 0.0056608    5 public
+	public WORD[47,   1]: 0.0011859 表彰
+	public WORD[47,   2]: 0.0008950 表向き
+	public WORD[47,   3]: 0.0008950 表だつ
+	public WORD[47,   4]: 0.0008950 表立つ
+	public WORD[47,   5]: 0.0008950 表
+TOKEN[48]: 0.0056537    1 verbal
+	verbal WORD[48,   1]: 0.0056537 言表
+TOKEN[49]: 0.0056371    2 mark
+	mark WORD[49,   1]: 0.0037270 徴表
+	mark WORD[49,   2]: 0.0019101 表徴
+TOKEN[50]: 0.0056212    2 diagram
+	diagram WORD[50,   1]: 0.0041139 下表
+	diagram WORD[50,   2]: 0.0015073 図表
+TOKEN[51]: 0.0054341    3 model
+	model WORD[51,   1]: 0.0022790 師表
+	model WORD[51,   2]: 0.0018417 儀表
+	model WORD[51,   3]: 0.0013134 代表
+TOKEN[52]: 0.0053591    4 show
+	show WORD[52,   1]: 0.0012943 表する
+	show WORD[52,   2]: 0.0012942 表敬
+	show WORD[52,   3]: 0.0009235 表す
+	show WORD[52,   4]: 0.0009235 表わす
+TOKEN[53]: 0.0051003    5 official
+	official WORD[53,   1]: 0.0012538 表彰
+	official WORD[53,   2]: 0.0010078 公表
+	official WORD[53,   3]: 0.0009463 表向き
+	official WORD[53,   4]: 0.0009462 表だつ
+	official WORD[53,   5]: 0.0009462 表立つ
+TOKEN[54]: 0.0050562    2 door
+	door WORD[54,   1]: 0.0033956 表戸
+	door WORD[54,   2]: 0.0016605 表口
+TOKEN[55]: 0.0049843    3 visible
+	visible WORD[55,   1]: 0.0012808 表
+	visible WORD[55,   2]: 0.0012113 表れる
+	visible WORD[55,   3]: 0.0012113 表われる
+TOKEN[56]: 0.0048937    2 sides
+	sides WORD[56,   1]: 0.0030242 表裏
+	sides WORD[56,   2]: 0.0018695 裏表
+TOKEN[57]: 0.0048855    1 representative
+	representative WORD[57,   1]: 0.0048855 代表
+TOKEN[58]: 0.0048676    1 entrance
+	entrance WORD[58,   1]: 0.0048676 華表
+TOKEN[59]: 0.0048448    4 come
+	come WORD[59,   1]: 0.0015846 表れる
+	come WORD[59,   2]: 0.0015846 表われる
+	come WORD[59,   3]: 0.0008378 表だつ
+	come WORD[59,   4]: 0.0008378 表立つ
+TOKEN[60]: 0.0048115    2 addressee
+	addressee WORD[60,   1]: 0.0024057 表書
+	addressee WORD[60,   2]: 0.0024057 表書き
+TOKEN[61]: 0.0047888    2 image
+	image WORD[61,   1]: 0.0033611 表章
+	image WORD[61,   2]: 0.0014277 表象
+TOKEN[62]: 0.0047474    1 knit
+	knit WORD[62,   1]: 0.0047474 表目
+TOKEN[63]: 0.0047259    1 portent
+	portent WORD[63,   1]: 0.0047259 前表
+TOKEN[64]: 0.0046669    3 display
+	display WORD[64,   1]: 0.0014860 表示
+	display WORD[64,   2]: 0.0010603 表す
+	display WORD[64,   3]: 0.0010603 表わす
+TOKEN[65]: 0.0046545    2 cover
+	cover WORD[65,   1]: 0.0026526 表紙
+	cover WORD[65,   2]: 0.0010010 表
+TOKEN[66]: 0.0046501    1 headstone
+	headstone WORD[66,   1]: 0.0046501 墓表
+TOKEN[67]: 0.0045789    1 black
+	black WORD[67,   1]: 0.0045789 黒表
+TOKEN[68]: 0.0045359    3 announcement
+	announcement WORD[68,   1]: 0.0016340 表明
+	announcement WORD[68,   2]: 0.0015886 発表
+	announcement WORD[68,   3]: 0.0013132 公表
+TOKEN[69]: 0.0045226    1 harbinger
+	harbinger WORD[69,   1]: 0.0045226 前表
+TOKEN[70]: 0.0045226    1 premonition
+	premonition WORD[70,   1]: 0.0045226 前表
+TOKEN[71]: 0.0044559    2 exterior
+	exterior WORD[71,   1]: 0.0017759 表面
+	exterior WORD[71,   2]: 0.0013400 表
+TOKEN[72]: 0.0043952    2 publish
+	publish WORD[72,   1]: 0.0021976 書き表す
+	publish WORD[72,   2]: 0.0021976 書き表わす
+TOKEN[73]: 0.0043814    2 attached
+	attached WORD[73,   1]: 0.0021907 付表
+	attached WORD[73,   2]: 0.0021907 附表
+TOKEN[74]: 0.0043654    2 staff
+	staff WORD[74,   1]: 0.0023185 譜表
+	staff WORD[74,   2]: 0.0020469 表方
+TOKEN[75]: 0.0043225    2 describe
+	describe WORD[75,   1]: 0.0021613 書き表す
+	describe WORD[75,   2]: 0.0021612 書き表わす
+TOKEN[76]: 0.0042319    2 signify
+	signify WORD[76,   1]: 0.0014106 表す
+	signify WORD[76,   2]: 0.0014106 表わす
+TOKEN[77]: 0.0042165    2 mounting
+	mounting WORD[77,   1]: 0.0024835 表具
+	mounting WORD[77,   2]: 0.0017330 表装
+TOKEN[78]: 0.0040665    1 page
+	page WORD[78,   1]: 0.0040665 初表
+TOKEN[79]: 0.0040569    3 face
+	face WORD[79,   1]: 0.0011562 表面
+	face WORD[79,   2]: 0.0011559 表記
+	face WORD[79,   3]: 0.0008724 表
+TOKEN[80]: 0.0040304    3 expressed
+	expressed WORD[80,   1]: 0.0013460 言い表せる
+	expressed WORD[80,   2]: 0.0013422 表れる
+	expressed WORD[80,   3]: 0.0013422 表われる
+TOKEN[81]: 0.0039975    3 confess
+	confess WORD[81,   1]: 0.0013325 言い表す
+	confess WORD[81,   2]: 0.0013325 言い表わす
+	confess WORD[81,   3]: 0.0013325 言表す
+TOKEN[82]: 0.0039778    2 making
+	making WORD[82,   1]: 0.0028151 表章
+	making WORD[82,   2]: 0.0011627 発表
+TOKEN[83]: 0.0039534    1 stitch
+	stitch WORD[83,   1]: 0.0039534 表目
+TOKEN[84]: 0.0038416    1 omen
+	omen WORD[84,   1]: 0.0038416 前表
+TOKEN[85]: 0.0037226    3 appear
+	appear WORD[85,   1]: 0.0015335 表紙
+	appear WORD[85,   2]: 0.0010945 表れる
+	appear WORD[85,   3]: 0.0010945 表われる
+TOKEN[86]: 0.0036709    2 opposed
+	opposed WORD[86,   1]: 0.0018355 表通
+	opposed WORD[86,   2]: 0.0018355 表通り
+TOKEN[87]: 0.0036471    2 writing
+	writing WORD[87,   1]: 0.0024025 表記
+	writing WORD[87,   2]: 0.0012447 墓表
+TOKEN[88]: 0.0036330    2 represent
+	represent WORD[88,   1]: 0.0012110 表す
+	represent WORD[88,   2]: 0.0012110 表わす
+TOKEN[89]: 0.0036151    2 outside
+	outside WORD[89,   1]: 0.0019986 裏表
+	outside WORD[89,   2]: 0.0016165 表裏
+TOKEN[90]: 0.0036017    2 demonstration
+	demonstration WORD[90,   1]: 0.0018010 表明
+	demonstration WORD[90,   2]: 0.0018007 表示
+TOKEN[91]: 0.0035382    2 reveal
+	reveal WORD[91,   1]: 0.0011794 表す
+	reveal WORD[91,   2]: 0.0011794 表わす
+TOKEN[92]: 0.0034822    2 building
+	building WORD[92,   1]: 0.0015974 表構え
+	building WORD[92,   2]: 0.0009424 表
+TOKEN[93]: 0.0034802    2 leader
+	leader WORD[93,   1]: 0.0022077 師表
+	leader WORD[93,   2]: 0.0012724 代表
+TOKEN[94]: 0.0034395    1 following
+	following WORD[94,   1]: 0.0034395 次表
+TOKEN[95]: 0.0034354    2 write
+	write WORD[95,   1]: 0.0017177 書き表す
+	write WORD[95,   2]: 0.0017177 書き表わす
+TOKEN[96]: 0.0033872    1 obverse
+	obverse WORD[96,   1]: 0.0016936 表
+TOKEN[97]: 0.0033799    1 first
+	first WORD[97,   1]: 0.0033799 初表
+TOKEN[98]: 0.0033319    2 picture
+	picture WORD[98,   1]: 0.0019625 表具
+	picture WORD[98,   2]: 0.0013694 表装
+TOKEN[99]: 0.0032567    1 foreground
+	foreground WORD[99,   1]: 0.0016284 表
+TOKEN[100]: 0.0032002    2 binding
+	binding WORD[100,   1]: 0.0016002 表装
+	binding WORD[100,   2]: 0.0016000 表紙
+TOKEN[101]: 0.0031265    1 stave
+	stave WORD[101,   1]: 0.0031265 譜表
+TOKEN[102]: 0.0030747    1 magazine
+	magazine WORD[102,   1]: 0.0030747 表紙
+TOKEN[103]: 0.0030499    1 paragon
+	paragon WORD[103,   1]: 0.0030499 師表
+TOKEN[104]: 0.0030218    1 sunshine
+	sunshine WORD[104,   1]: 0.0030218 表山
+TOKEN[105]: 0.0030080    2 high
+	high WORD[105,   1]: 0.0015040 表通
+	high WORD[105,   2]: 0.0015040 表通り
+TOKEN[106]: 0.0030057    1 diagnostic
+	diagnostic WORD[106,   1]: 0.0030057 表徴
+TOKEN[107]: 0.0029987    2 someone
+	someone WORD[107,   1]: 0.0021047 表章
+	someone WORD[107,   2]: 0.0008940 表彰
+TOKEN[108]: 0.0029764    1 clear
+	clear WORD[108,   1]: 0.0029764 表章
+TOKEN[109]: 0.0029676    1 house
+	house WORD[109,   1]: 0.0029676 表店
+TOKEN[110]: 0.0029295    1 chronological
+	chronological WORD[110,   1]: 0.0029295 年表
+TOKEN[111]: 0.0028821    1 cuticle
+	cuticle WORD[111,   1]: 0.0028821 表皮
+TOKEN[112]: 0.0028689    2 embody
+	embody WORD[112,   1]: 0.0014344 表れる
+	embody WORD[112,   2]: 0.0014344 表われる
+TOKEN[113]: 0.0028689    2 materialize
+	materialize WORD[113,   1]: 0.0014344 表れる
+	materialize WORD[113,   2]: 0.0014344 表われる
+TOKEN[114]: 0.0028219    3 one
+	one WORD[114,   1]: 0.0015650 国表
+	one WORD[114,   2]: 0.0006373 表意
+	one WORD[114,   3]: 0.0006197 発表
+TOKEN[115]: 0.0028218    2 materialization
+	materialization WORD[115,   1]: 0.0014109 表れ
+	materialization WORD[115,   2]: 0.0014109 表われ
+TOKEN[116]: 0.0027624    1 body
+	body WORD[116,   1]: 0.0027624 体表
+TOKEN[117]: 0.0027549    2 stand
+	stand WORD[117,   1]: 0.0009183 表す
+	stand WORD[117,   2]: 0.0009183 表わす
+TOKEN[118]: 0.0027072    2 two
+	two WORD[118,   1]: 0.0014966 裏表
+	two WORD[118,   2]: 0.0012105 表裏
+TOKEN[119]: 0.0026591    2 outer
+	outer WORD[119,   1]: 0.0015155 表層
+	outer WORD[119,   2]: 0.0011436 表地
+TOKEN[120]: 0.0026334    2 embodiment
+	embodiment WORD[120,   1]: 0.0013167 表れ
+	embodiment WORD[120,   2]: 0.0013167 表われ
+TOKEN[121]: 0.0026293    1 farming
+	farming WORD[121,   1]: 0.0026293 表山
+TOKEN[122]: 0.0025519    2 apparent
+	apparent WORD[122,   1]: 0.0012759 表れる
+	apparent WORD[122,   2]: 0.0012759 表われる
+TOKEN[123]: 0.0025245    1 suitable
+	suitable WORD[123,   1]: 0.0025245 表山
+TOKEN[124]: 0.0024831    1 folded
+	folded WORD[124,   1]: 0.0024831 中表
+TOKEN[125]: 0.0023923    1 superficiality
+	superficiality WORD[125,   1]: 0.0023923 表面
+TOKEN[126]: 0.0023917    1 ideography
+	ideography WORD[126,   1]: 0.0023917 表意
+TOKEN[127]: 0.0023820    1 usher
+	usher WORD[127,   1]: 0.0023820 表方
+TOKEN[128]: 0.0023500    1 lot
+	lot WORD[128,   1]: 0.0023500 表山
+TOKEN[129]: 0.0023409    2 effects
+	effects WORD[129,   1]: 0.0011705 表れる
+	effects WORD[129,   2]: 0.0011705 表われる
+TOKEN[130]: 0.0023361    2 book
+	book WORD[130,   1]: 0.0011681 表装
+	book WORD[130,   2]: 0.0011680 表紙
+TOKEN[131]: 0.0023185    1 score
+	score WORD[131,   1]: 0.0023185 譜表
+TOKEN[132]: 0.0023051    1 statistical
+	statistical WORD[132,   1]: 0.0023051 別表
+TOKEN[133]: 0.0022768    1 coin
+	coin WORD[133,   1]: 0.0011384 表
+TOKEN[134]: 0.0022740    1 teacher
+	teacher WORD[134,   1]: 0.0022740 師表
+TOKEN[135]: 0.0022619    2 formal
+	formal WORD[135,   1]: 0.0011310 表だつ
+	formal WORD[135,   2]: 0.0011310 表立つ
+TOKEN[136]: 0.0022524    1 memorial
+	memorial WORD[136,   1]: 0.0022524 上表
+TOKEN[137]: 0.0022338    1 bark
+	bark WORD[137,   1]: 0.0022338 表皮
+TOKEN[138]: 0.0022166    1 knitting
+	knitting WORD[138,   1]: 0.0022166 表編み
+TOKEN[139]: 0.0021820    1 communique
+	communique WORD[139,   1]: 0.0021820 発表
+TOKEN[140]: 0.0021814    1 outward
+	outward WORD[140,   1]: 0.0021814 裏表
+TOKEN[141]: 0.0021680    2 make
+	make WORD[141,   1]: 0.0007227 表す
+	make WORD[141,   2]: 0.0007227 表わす
+TOKEN[142]: 0.0021638    1 number
+	number WORD[142,   1]: 0.0021638 代表
+TOKEN[143]: 0.0021579    1 headline
+	headline WORD[143,   1]: 0.0021579 表題
+TOKEN[144]: 0.0021346    1 half
+	half WORD[144,   1]: 0.0010673 表
+TOKEN[145]: 0.0021226    1 marker
+	marker WORD[145,   1]: 0.0021226 墓表
+TOKEN[146]: 0.0020985    1 mat
+	mat WORD[146,   1]: 0.0020985 畳表
+TOKEN[147]: 0.0020966    1 duplicity
+	duplicity WORD[147,   1]: 0.0020966 表裏
+TOKEN[148]: 0.0020963    1 attribution
+	attribution WORD[148,   1]: 0.0020963 表示
+TOKEN[149]: 0.0020919    1 typification
+	typification WORD[149,   1]: 0.0020919 代表
+TOKEN[150]: 0.0020767    2 sight
+	sight WORD[150,   1]: 0.0010384 表れる
+	sight WORD[150,   2]: 0.0010383 表われる
+TOKEN[151]: 0.0020721    1 object
+	object WORD[151,   1]: 0.0010361 表
+TOKEN[152]: 0.0020561    1 facing
+	facing WORD[152,   1]: 0.0020561 畳表
+TOKEN[153]: 0.0020490    1 caption
+	caption WORD[153,   1]: 0.0020490 表題
+TOKEN[154]: 0.0020486    1 doorplate
+	doorplate WORD[154,   1]: 0.0020486 表札
+TOKEN[155]: 0.0020155    1 audience
+	audience WORD[155,   1]: 0.0020155 表方
+TOKEN[156]: 0.0020149    1 pattern
+	pattern WORD[156,   1]: 0.0020149 師表
+TOKEN[157]: 0.0020098    1 copyright
+	copyright WORD[157,   1]: 0.0020098 表示
+TOKEN[158]: 0.0019627    1 switchboard
+	switchboard WORD[158,   1]: 0.0019627 代表
+TOKEN[159]: 0.0019488    1 assertion
+	assertion WORD[159,   1]: 0.0019488 表明
+TOKEN[160]: 0.0019484    1 gravestone
+	gravestone WORD[160,   1]: 0.0019484 墓表
+TOKEN[161]: 0.0019484    1 voting
+	voting WORD[161,   1]: 0.0019484 表決
+TOKEN[162]: 0.0019484    1 orthography
+	orthography WORD[162,   1]: 0.0019484 表記
+TOKEN[163]: 0.0019411    1 mountain
+	mountain WORD[163,   1]: 0.0019411 表山
+TOKEN[164]: 0.0019262    1 actual
+	actual WORD[164,   1]: 0.0019262 裏表
+TOKEN[165]: 0.0019234    1 commendation
+	commendation WORD[165,   1]: 0.0019234 表彰
+TOKEN[166]: 0.0019232    1 notation
+	notation WORD[166,   1]: 0.0019232 表記
+TOKEN[167]: 0.0019073    1 native
+	native WORD[167,   1]: 0.0019073 国表
+TOKEN[168]: 0.0019035    2 open
+	open WORD[168,   1]: 0.0009517 表だつ
+	open WORD[168,   2]: 0.0009517 表立つ
+TOKEN[169]: 0.0018619    1 phonetic
+	phonetic WORD[169,   1]: 0.0018619 表音
+TOKEN[170]: 0.0018483    1 unveiling
+	unveiling WORD[170,   1]: 0.0018483 発表
+TOKEN[171]: 0.0018334    1 exemplification
+	exemplification WORD[171,   1]: 0.0018334 代表
+TOKEN[172]: 0.0018334    1 delegate
+	delegate WORD[172,   1]: 0.0018334 代表
+TOKEN[173]: 0.0018291    1 courtesy
+	courtesy WORD[173,   1]: 0.0018291 表敬
+TOKEN[174]: 0.0018264    1 gate
+	gate WORD[174,   1]: 0.0018264 表門
+TOKEN[175]: 0.0018147    1 confession
+	confession WORD[175,   1]: 0.0018147 表白
+TOKEN[176]: 0.0018143    1 transcription
+	transcription WORD[176,   1]: 0.0018143 表記
+TOKEN[177]: 0.0018091    1 plain
+	plain WORD[177,   1]: 0.0018091 表編み
+TOKEN[178]: 0.0018053    1 ostensible
+	ostensible WORD[178,   1]: 0.0018053 表向き
+TOKEN[179]: 0.0018006    1 character
+	character WORD[179,   1]: 0.0018006 表徴
+TOKEN[180]: 0.0017918    1 delegation
+	delegation WORD[180,   1]: 0.0017918 代表
+TOKEN[181]: 0.0017918    1 typical
+	typical WORD[181,   1]: 0.0017918 代表
+TOKEN[182]: 0.0017876    1 gesture
+	gesture WORD[182,   1]: 0.0017876 表意
+TOKEN[183]: 0.0017756    1 vocal
+	vocal WORD[183,   1]: 0.0017756 表情
+TOKEN[184]: 0.0017747    1 cloth
+	cloth WORD[184,   1]: 0.0017747 中表
+TOKEN[185]: 0.0017643    1 index
+	index WORD[185,   1]: 0.0017643 表題
+TOKEN[186]: 0.0017578    1 exemplar
+	exemplar WORD[186,   1]: 0.0017578 代表
+TOKEN[187]: 0.0017328    1 recognition
+	recognition WORD[187,   1]: 0.0017328 表彰
+TOKEN[188]: 0.0017306    1 condition
+	condition WORD[188,   1]: 0.0017306 裏表
+TOKEN[189]: 0.0017236    1 declaration
+	declaration WORD[189,   1]: 0.0017236 表明
+TOKEN[190]: 0.0017232    1 intent
+	intent WORD[190,   1]: 0.0017232 表意
+TOKEN[191]: 0.0017227    1 emperor
+	emperor WORD[191,   1]: 0.0017227 上表
+TOKEN[192]: 0.0017119    1 sayable
+	sayable WORD[192,   1]: 0.0017119 言い表せる
+TOKEN[193]: 0.0016998    1 inner
+	inner WORD[193,   1]: 0.0016998 裏表
+TOKEN[194]: 0.0016971    1 vote
+	vote WORD[194,   1]: 0.0016971 表決
+TOKEN[195]: 0.0016959    1 head
+	head WORD[195,   1]: 0.0008480 表
+TOKEN[196]: 0.0016890    1 description
+	description WORD[196,   1]: 0.0016890 表現
+TOKEN[197]: 0.0016815    1 layer
+	layer WORD[197,   1]: 0.0016815 表層
+TOKEN[198]: 0.0016768    1 province
+	province WORD[198,   1]: 0.0016768 国表
+TOKEN[199]: 0.0016669    1 heading
+	heading WORD[199,   1]: 0.0016669 表題
+TOKEN[200]: 0.0016463    1 facial
+	facial WORD[200,   1]: 0.0016463 表情
+TOKEN[201]: 0.0016463    1 presentation
+	presentation WORD[201,   1]: 0.0016463 表出
+TOKEN[202]: 0.0016278    1 countenance
+	countenance WORD[202,   1]: 0.0016278 表情
+TOKEN[203]: 0.0016212    1 clothing
+	clothing WORD[203,   1]: 0.0016212 裏表
+TOKEN[204]: 0.0016162    1 showing
+	showing WORD[204,   1]: 0.0016162 表示
+TOKEN[205]: 0.0015969    1 date
+	date WORD[205,   1]: 0.0015969 墓表
+TOKEN[206]: 0.0015535    1 mental
+	mental WORD[206,   1]: 0.0015535 表象
+TOKEN[207]: 0.0015493    1 grave
+	grave WORD[207,   1]: 0.0015493 墓表
+TOKEN[208]: 0.0015335    1 respect
+	respect WORD[208,   1]: 0.0015335 表敬
+TOKEN[209]: 0.0014964    1 home
+	home WORD[209,   1]: 0.0014964 国表
+TOKEN[210]: 0.0014955    1 soil
+	soil WORD[210,   1]: 0.0014955 表土
+TOKEN[211]: 0.0014875    1 statement
+	statement WORD[211,   1]: 0.0014875 発表
+TOKEN[212]: 0.0014839    1 publication
+	publication WORD[212,   1]: 0.0014839 発表
+TOKEN[213]: 0.0014350    1 title
+	title WORD[213,   1]: 0.0014350 表題
+TOKEN[214]: 0.0014179    1 proclamation
+	proclamation WORD[214,   1]: 0.0014179 公表
+TOKEN[215]: 0.0014071    1 news
+	news WORD[215,   1]: 0.0014071 発表
+TOKEN[216]: 0.0013950    1 resignation
+	resignation WORD[216,   1]: 0.0013950 辞表
+TOKEN[217]: 0.0013751    1 breaking
+	breaking WORD[217,   1]: 0.0013751 発表
+TOKEN[218]: 0.0013692    1 written
+	written WORD[218,   1]: 0.0013692 表記
+TOKEN[219]: 0.0013556    1 idea
+	idea WORD[219,   1]: 0.0013556 表象
+TOKEN[220]: 0.0013149    1 opinion
+	opinion WORD[220,   1]: 0.0013149 発表
+TOKEN[221]: 0.0013023    1 example
+	example WORD[221,   1]: 0.0013023 代表
+TOKEN[222]: 0.0012810    1 group
+	group WORD[222,   1]: 0.0012810 表現
+TOKEN[223]: 0.0012573    1 story
+	story WORD[223,   1]: 0.0012573 発表
+TOKEN[224]: 0.0012356    1 earth
+	earth WORD[224,   1]: 0.0012356 地表
+TOKEN[225]: 0.0012285    1 lining
+	lining WORD[225,   1]: 0.0012285 表地
+TOKEN[226]: 0.0012101    1 name
+	name WORD[226,   1]: 0.0012101 墓表
+TOKEN[227]: 0.0012012    1 surprise
+	surprise WORD[227,   1]: 0.0012012 意表
+TOKEN[228]: 0.0011790    1 death
+	death WORD[228,   1]: 0.0011790 墓表
+TOKEN[229]: 0.0011565    1 figure
+	figure WORD[229,   1]: 0.0011565 図表
+TOKEN[230]: 0.0011528    1 look
+	look WORD[230,   1]: 0.0011528 表情
+TOKEN[231]: 0.0011185    1 unexpected
+	unexpected WORD[231,   1]: 0.0011185 意表
+TOKEN[232]: 0.0010941    1 ground
+	ground WORD[232,   1]: 0.0010941 地表
+TOKEN[233]: 0.0010793    1 shell
+	shell WORD[233,   1]: 0.0010793 表地
+TOKEN[234]: 0.0010604    1 good
+	good WORD[234,   1]: 0.0010604 表彰
+TOKEN[235]: 0.0010593    1 able
+	able WORD[235,   1]: 0.0010593 言い表せる
+TOKEN[236]: 0.0010532    1 material
+	material WORD[236,   1]: 0.0010532 表地
+TOKEN[237]: 0.0006697    1 something
+	something WORD[237,   1]: 0.0006697 意表

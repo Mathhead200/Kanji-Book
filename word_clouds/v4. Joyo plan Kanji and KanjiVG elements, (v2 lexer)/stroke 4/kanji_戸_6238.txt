@@ -1,0 +1,652 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1091897   39 door           : 枢戸, 簾戸, 唐戸, 戸走り, 隣戸, 裏戸, 戸車, 表戸, 板戸, 脇戸, ...
+0.0507992    2 narrow         : 戸浪, 波戸
+0.0315429   11 sliding        : 戸走り, 葦戸, 葭戸, 袋戸, 引き戸, 引戸, 戸車, 戸板, 繰り戸, 繰戸, ...
+0.0302902    3 population     : 戸々, 戸戸, 戸口
+0.0233598    1 wax            : 戸走り
+0.0229303    9 house          : 民戸, 別戸, 一戸, 戸建, 戸建て, 各戸, 大戸, 戸惑い, 戸別
+0.0214667    1 hinge          : 枢戸
+0.0201915    4 household      : 封戸, 一戸, 全戸, 戸主
+0.0199545    1 drinker        : 上戸
+0.0198881    1 pivot          : 枢戸
+0.0182699    5 shutter        : 戸, 鎧戸, 揚げ戸, 揚戸, 雨戸
+0.0181121    6 gate           : 枝折り戸, 枝折戸, 切り戸, くぐり戸, 潜り戸, 木戸
+0.0110014    2 screen         : 網戸, 簾戸
+0.0103703    2 system         : 官戸, 封戸
+0.0102816    4 side           : くぐり戸, 潜り戸, 脇戸, 切り戸
+0.0101400    3 bamboo         : 簾戸, 編み戸, 編戸
+0.0098997    6 made           : 簾戸, 枝折り戸, 枝折戸, 杉戸, 編み戸, 編戸
+0.0096661    1 roller         : 戸車
+0.0090153    1 private        : 民戸
+0.0086527    1 moment         : 瀬戸際
+0.0083571    2 Chinese        : 戸走り, 蔀戸
+0.0082008    3 wicket         : 枝折り戸, 枝折戸, 木戸
+0.0081905    1 runner         : 戸走り
+0.0079540    2 insect         : 戸走り, 網戸
+0.0077755    1 courtier       : 封戸
+0.0073898    2 front          : 表戸, 大戸
+0.0072478    1 maudlin        : 上戸
+0.0072478    1 liker          : 上戸
+0.0071260    1 backdoor       : 裏戸
+0.0069147    1 vassal         : 封戸
+0.0068529    3 window         : 鎧戸, 戸, 網戸
+0.0068476    1 latticed       : 蔀戸
+0.0067793    3 separate       : 別戸, 戸建, 戸建て
+0.0063981    3 entrance       : 背戸, 戸, 木戸
+0.0063521    1 sot            : 上戸
+0.0062325    1 rogue          : 破落戸
+0.0062079    1 boozer         : 上戸
+0.0060911    1 thug           : 破落戸
+0.0059432    2 air            : 簾戸, 戸外
+0.0059187    1 crucial        : 瀬戸際
+0.0058621    2 reed           : 葦戸, 葭戸
+0.0058000    1 architecture   : 蔀戸
+0.0057105    1 brink          : 瀬戸際
+0.0056985    1 tippler        : 上戸
+0.0056516    1 hoodlum        : 破落戸
+0.0056435    1 half           : 封戸
+0.0056051    1 tree           : 戸走り
+0.0055912    1 rascal         : 破落戸
+0.0055768    1 given          : 封戸
+0.0055605    3 wooden         : 板戸, 妻戸, 木戸
+0.0055426    1 enthusiast     : 上戸
+0.0054853    1 scoundrel      : 破落戸
+0.0053346    2 cupboard       : 袋戸, 戸棚
+0.0053152    1 ruffian        : 破落戸
+0.0051419    1 verge          : 瀬戸際
+0.0051183    1 merry          : 上戸
+0.0050867    1 critical       : 瀬戸際
+0.0049344    1 villain        : 破落戸
+0.0049324    1 drunk          : 上戸
+0.0047770    2 folding        : 折り戸, 折戸
+0.0047327    1 public         : 官戸
+0.0046704    1 fan            : 上戸
+0.0046642    1 residence      : 隣戸
+0.0044805    1 next           : 隣戸
+0.0044625    2 home           : 妻戸, 戸
+0.0043249    2 locking        : 戸締まり, 戸締り
+0.0042308    3 city           : 水戸, 鳴戸, 神戸
+0.0041695    2 strait         : 鳴戸, 瀬戸
+0.0041214    1 fine           : 簾戸
+0.0041086    2 garden         : 枝折り戸, 枝折戸
+0.0040953    1 spiral         : 鳴戸
+0.0040736    1 pass           : 簾戸
+0.0040348    2 closet         : 納戸, 戸棚
+0.0039566    1 heavy          : 上戸
+0.0039216    1 whole          : 全戸
+0.0039164    1 traditional    : 蔀戸
+0.0038425    1 slatted        : 鎧戸
+0.0037740    2 fastening      : 戸締まり, 戸締り
+0.0037732    3 room           : 納戸, 戸惑い, 風戸
+0.0037003    2 interlaced     : 編み戸, 編戸
+0.0035519    1 person         : 封戸
+0.0034896    1 breakwater     : 波戸
+0.0034234    1 bulwark        : 波戸
+0.0033675    1 quay           : 波戸場
+0.0033675    1 jetty          : 波戸場
+0.0032750    2 detached       : 戸建, 戸建て
+0.0032032    1 incoming       : 波戸
+0.0031718    1 wharf          : 波戸場
+0.0031632    1 tokonoma       : 袋戸
+0.0030935    1 pavilion       : 妻戸
+0.0030906    1 mole           : 波戸
+0.0030382    1 Japanese       : 蔀戸
+0.0028915    1 pattern        : 鳴戸
+0.0028900    1 flounder       : 戸板
+0.0028448    1 doorway        : 屋戸
+0.0027934    1 loading        : 波戸
+0.0027166    1 structure      : 波戸
+0.0027143    1 removed        : 戸板
+0.0027072    2 family         : 全戸, 戸籍
+0.0026692    1 sash           : 戸車
+0.0026312    1 outdoors       : 戸外
+0.0025376    1 disorientation : 戸惑い
+0.0025290    1 interior       : 妻戸
+0.0025254    1 locker         : 戸棚
+0.0025037    1 pair           : 妻戸
+0.0024089    1 breaking       : 波戸
+0.0023808    1 wonderment     : 戸惑い
+0.0023535    1 ridge          : 切戸
+0.0023511    1 grayish        : 納戸
+0.0023097    1 number         : 戸数
+0.0023022    1 palace         : 妻戸
+0.0022843    1 storeroom      : 納戸
+0.0022590    1 frame          : 戸板
+0.0022257    1 carrying       : 戸板
+0.0022133    1 wardrobe       : 戸棚
+0.0021869    1 gap            : 切戸
+0.0021736    1 bewildered     : 戸惑う
+0.0021722    1 wind           : 風戸
+0.0021665    1 goods          : 波戸
+0.0021373    1 stone          : 波戸
+0.0020943    1 whirlpool      : 鳴戸
+0.0020672    1 perplexed      : 戸惑う
+0.0020651    1 box            : 戸袋
+0.0020477    1 roaring        : 鳴戸
+0.0020145    1 census         : 戸籍
+0.0019607    1 tidal          : 鳴戸
+0.0019312    2 one            : 一戸, 戸惑い
+0.0019171    1 paper          : 袋戸
+0.0019026    1 arena          : 木戸
+0.0018967    1 forgetting     : 戸惑い
+0.0018935    1 building       : 全戸
+0.0018905    1 area           : 全戸
+0.0018837    1 waking         : 戸惑い
+0.0018772    1 drink          : 下戸
+0.0018711    1 Tang           : 戸部
+0.0018650    1 apartment      : 住戸
+0.0018432    1 low            : 切り戸
+0.0018427    1 open           : 戸外
+0.0018399    1 cabinet        : 戸棚
+0.0018211    1 large          : 戸板
+0.0018132    1 cedar          : 杉戸
+0.0018085    1 storage        : 納戸
+0.0017997    1 ebb            : 鳴戸
+0.0017752    1 people         : 戸板
+0.0017685    1 venue          : 木戸
+0.0017534    1 main           : 大戸
+0.0017301    1 chimney        : 風戸
+0.0016942    1 mountain       : 切戸
+0.0016867    1 confusion      : 戸惑い
+0.0016803    1 head           : 戸主
+0.0016729    1 channel        : 瀬戸
+0.0016666    1 enter          : 戸惑い
+0.0016231    1 dwelling       : 住戸
+0.0016115    1 flow           : 鳴戸
+0.0015898    1 losing         : 戸惑い
+0.0015841    1 cooking        : 鳴戸
+0.0015818    1 used           : 戸板
+0.0015757    1 technique      : 鳴戸
+0.0015121    1 blue           : 納戸
+0.0015095    1 dynasty        : 戸部
+0.0014844    1 register       : 戸籍
+0.0014639    1 mosquito       : 網戸
+0.0014430    1 entertainment  : 木戸
+0.0014239    1 unit           : 住戸
+0.0014137    1 shogunate      : 江戸
+0.0014032    1 block          : 住戸
+0.0013682    1 well           : 井戸
+0.0013640    1 cave           : 岩戸
+0.0013167    1 cool           : 風戸
+0.0013064    1 sea            : 戸惑い
+0.0013025    1 night          : 戸惑い
+0.0012947    1 storm          : 雨戸
+0.0012853    1 someone        : 下戸
+0.0012477    1 cut            : 鳴戸
+0.0012127    1 rock           : 岩戸
+0.0012023    1 capital        : 江戸
+0.0010597    1 Edo            : 江戸
+0.0008599    1 water          : 井戸
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1091897   39 door
+	door WORD[ 1,   1]: 0.0138642 枢戸
+	door WORD[ 1,   2]: 0.0080581 簾戸
+	door WORD[ 1,   3]: 0.0068638 唐戸
+	door WORD[ 1,   4]: 0.0060645 戸走り
+	door WORD[ 1,   5]: 0.0043005 隣戸
+	door WORD[ 1,   6]: 0.0041219 裏戸
+	door WORD[ 1,   7]: 0.0040829 戸車
+	door WORD[ 1,   8]: 0.0039318 表戸
+	door WORD[ 1,   9]: 0.0024147 板戸
+	door WORD[ 1,  10]: 0.0023220 脇戸
+	door WORD[ 1,  11]: 0.0023116 鎧戸
+	door WORD[ 1,  12]: 0.0023050 風戸
+	door WORD[ 1,  13]: 0.0023018 葦戸
+	door WORD[ 1,  14]: 0.0023018 葭戸
+	door WORD[ 1,  15]: 0.0021833 袋戸
+	door WORD[ 1,  16]: 0.0021588 開き戸
+	door WORD[ 1,  17]: 0.0021428 引き戸
+	door WORD[ 1,  18]: 0.0021428 引戸
+	door WORD[ 1,  19]: 0.0020333 戸板
+	door WORD[ 1,  20]: 0.0020311 妻戸
+	door WORD[ 1,  21]: 0.0019248 折り戸
+	door WORD[ 1,  22]: 0.0019248 折戸
+	door WORD[ 1,  23]: 0.0018890 くぐり戸
+	door WORD[ 1,  24]: 0.0018890 潜り戸
+	door WORD[ 1,  25]: 0.0018596 背戸
+	door WORD[ 1,  26]: 0.0018531 繰り戸
+	door WORD[ 1,  27]: 0.0018531 繰戸
+	door WORD[ 1,  28]: 0.0018048 大戸
+	door WORD[ 1,  29]: 0.0017529 揚げ戸
+	door WORD[ 1,  30]: 0.0017529 揚戸
+	door WORD[ 1,  31]: 0.0016455 屋戸
+	door WORD[ 1,  32]: 0.0016377 門戸
+	door WORD[ 1,  33]: 0.0013607 戸
+	door WORD[ 1,  34]: 0.0012640 杉戸
+	door WORD[ 1,  35]: 0.0011781 木戸
+	door WORD[ 1,  36]: 0.0010916 岩戸
+	door WORD[ 1,  37]: 0.0010702 網戸
+	door WORD[ 1,  38]: 0.0010702 編み戸
+	door WORD[ 1,  39]: 0.0010702 編戸
+TOKEN[ 2]: 0.0507992    2 narrow
+	narrow WORD[ 2,   1]: 0.0483300 戸浪
+	narrow WORD[ 2,   2]: 0.0024692 波戸
+TOKEN[ 3]: 0.0315429   11 sliding
+	sliding WORD[ 3,   1]: 0.0073608 戸走り
+	sliding WORD[ 3,   2]: 0.0027938 葦戸
+	sliding WORD[ 3,   3]: 0.0027938 葭戸
+	sliding WORD[ 3,   4]: 0.0026500 袋戸
+	sliding WORD[ 3,   5]: 0.0026008 引き戸
+	sliding WORD[ 3,   6]: 0.0026008 引戸
+	sliding WORD[ 3,   7]: 0.0024778 戸車
+	sliding WORD[ 3,   8]: 0.0024680 戸板
+	sliding WORD[ 3,   9]: 0.0022492 繰り戸
+	sliding WORD[ 3,  10]: 0.0022492 繰戸
+	sliding WORD[ 3,  11]: 0.0012985 雨戸
+TOKEN[ 4]: 0.0302902    3 population
+	population WORD[ 4,   1]: 0.0066094 戸々
+	population WORD[ 4,   2]: 0.0066094 戸戸
+	population WORD[ 4,   3]: 0.0019264 戸口
+TOKEN[ 5]: 0.0233598    1 wax
+	wax WORD[ 5,   1]: 0.0233598 戸走り
+TOKEN[ 6]: 0.0229303    9 house
+	house WORD[ 6,   1]: 0.0077644 民戸
+	house WORD[ 6,   2]: 0.0032549 別戸
+	house WORD[ 6,   3]: 0.0022375 一戸
+	house WORD[ 6,   4]: 0.0021226 戸建
+	house WORD[ 6,   5]: 0.0021226 戸建て
+	house WORD[ 6,   6]: 0.0015802 各戸
+	house WORD[ 6,   7]: 0.0015798 大戸
+	house WORD[ 6,   8]: 0.0012054 戸惑い
+	house WORD[ 6,   9]: 0.0010629 戸別
+TOKEN[ 7]: 0.0214667    1 hinge
+	hinge WORD[ 7,   1]: 0.0214667 枢戸
+TOKEN[ 8]: 0.0201915    4 household
+	household WORD[ 8,   1]: 0.0124323 封戸
+	household WORD[ 8,   2]: 0.0030675 一戸
+	household WORD[ 8,   3]: 0.0023621 全戸
+	household WORD[ 8,   4]: 0.0023296 戸主
+TOKEN[ 9]: 0.0199545    1 drinker
+	drinker WORD[ 9,   1]: 0.0099772 上戸
+TOKEN[10]: 0.0198881    1 pivot
+	pivot WORD[10,   1]: 0.0198881 枢戸
+TOKEN[11]: 0.0182699    5 shutter
+	shutter WORD[11,   1]: 0.0040323 戸
+	shutter WORD[11,   2]: 0.0034253 鎧戸
+	shutter WORD[11,   3]: 0.0025974 揚げ戸
+	shutter WORD[11,   4]: 0.0025974 揚戸
+	shutter WORD[11,   5]: 0.0015852 雨戸
+TOKEN[12]: 0.0181121    6 gate
+	gate WORD[12,   1]: 0.0042894 枝折り戸
+	gate WORD[12,   2]: 0.0042894 枝折戸
+	gate WORD[12,   3]: 0.0040819 切り戸
+	gate WORD[12,   4]: 0.0020777 くぐり戸
+	gate WORD[12,   5]: 0.0020777 潜り戸
+	gate WORD[12,   6]: 0.0012958 木戸
+TOKEN[13]: 0.0110014    2 screen
+	screen WORD[13,   1]: 0.0062759 網戸
+	screen WORD[13,   2]: 0.0047256 簾戸
+TOKEN[14]: 0.0103703    2 system
+	system WORD[14,   1]: 0.0051854 官戸
+	system WORD[14,   2]: 0.0051849 封戸
+TOKEN[15]: 0.0102816    4 side
+	side WORD[15,   1]: 0.0033105 くぐり戸
+	side WORD[15,   2]: 0.0033105 潜り戸
+	side WORD[15,   3]: 0.0020346 脇戸
+	side WORD[15,   4]: 0.0016259 切り戸
+TOKEN[16]: 0.0101400    3 bamboo
+	bamboo WORD[16,   1]: 0.0080120 簾戸
+	bamboo WORD[16,   2]: 0.0010640 編み戸
+	bamboo WORD[16,   3]: 0.0010640 編戸
+TOKEN[17]: 0.0098997    6 made
+	made WORD[17,   1]: 0.0035194 簾戸
+	made WORD[17,   2]: 0.0017033 枝折り戸
+	made WORD[17,   3]: 0.0017033 枝折戸
+	made WORD[17,   4]: 0.0011041 杉戸
+	made WORD[17,   5]: 0.0009348 編み戸
+	made WORD[17,   6]: 0.0009348 編戸
+TOKEN[18]: 0.0096661    1 roller
+	roller WORD[18,   1]: 0.0096661 戸車
+TOKEN[19]: 0.0090153    1 private
+	private WORD[19,   1]: 0.0090153 民戸
+TOKEN[20]: 0.0086527    1 moment
+	moment WORD[20,   1]: 0.0086527 瀬戸際
+TOKEN[21]: 0.0083571    2 Chinese
+	Chinese WORD[21,   1]: 0.0049183 戸走り
+	Chinese WORD[21,   2]: 0.0034388 蔀戸
+TOKEN[22]: 0.0082008    3 wicket
+	wicket WORD[22,   1]: 0.0031491 枝折り戸
+	wicket WORD[22,   2]: 0.0031491 枝折戸
+	wicket WORD[22,   3]: 0.0019026 木戸
+TOKEN[23]: 0.0081905    1 runner
+	runner WORD[23,   1]: 0.0081905 戸走り
+TOKEN[24]: 0.0079540    2 insect
+	insect WORD[24,   1]: 0.0067609 戸走り
+	insect WORD[24,   2]: 0.0011931 網戸
+TOKEN[25]: 0.0077755    1 courtier
+	courtier WORD[25,   1]: 0.0077755 封戸
+TOKEN[26]: 0.0073898    2 front
+	front WORD[26,   1]: 0.0038527 表戸
+	front WORD[26,   2]: 0.0035370 大戸
+TOKEN[27]: 0.0072478    1 maudlin
+	maudlin WORD[27,   1]: 0.0036239 上戸
+TOKEN[28]: 0.0072478    1 liker
+	liker WORD[28,   1]: 0.0036239 上戸
+TOKEN[29]: 0.0071260    1 backdoor
+	backdoor WORD[29,   1]: 0.0071260 裏戸
+TOKEN[30]: 0.0069147    1 vassal
+	vassal WORD[30,   1]: 0.0069147 封戸
+TOKEN[31]: 0.0068529    3 window
+	window WORD[31,   1]: 0.0025956 鎧戸
+	window WORD[31,   2]: 0.0015278 戸
+	window WORD[31,   3]: 0.0012016 網戸
+TOKEN[32]: 0.0068476    1 latticed
+	latticed WORD[32,   1]: 0.0068476 蔀戸
+TOKEN[33]: 0.0067793    3 separate
+	separate WORD[33,   1]: 0.0041034 別戸
+	separate WORD[33,   2]: 0.0013379 戸建
+	separate WORD[33,   3]: 0.0013379 戸建て
+TOKEN[34]: 0.0063981    3 entrance
+	entrance WORD[34,   1]: 0.0020660 背戸
+	entrance WORD[34,   2]: 0.0015117 戸
+	entrance WORD[34,   3]: 0.0013089 木戸
+TOKEN[35]: 0.0063521    1 sot
+	sot WORD[35,   1]: 0.0031760 上戸
+TOKEN[36]: 0.0062325    1 rogue
+	rogue WORD[36,   1]: 0.0031163 破落戸
+TOKEN[37]: 0.0062079    1 boozer
+	boozer WORD[37,   1]: 0.0031039 上戸
+TOKEN[38]: 0.0060911    1 thug
+	thug WORD[38,   1]: 0.0030455 破落戸
+TOKEN[39]: 0.0059432    2 air
+	air WORD[39,   1]: 0.0040409 簾戸
+	air WORD[39,   2]: 0.0019023 戸外
+TOKEN[40]: 0.0059187    1 crucial
+	crucial WORD[40,   1]: 0.0059187 瀬戸際
+TOKEN[41]: 0.0058621    2 reed
+	reed WORD[41,   1]: 0.0029311 葦戸
+	reed WORD[41,   2]: 0.0029311 葭戸
+TOKEN[42]: 0.0058000    1 architecture
+	architecture WORD[42,   1]: 0.0058000 蔀戸
+TOKEN[43]: 0.0057105    1 brink
+	brink WORD[43,   1]: 0.0057105 瀬戸際
+TOKEN[44]: 0.0056985    1 tippler
+	tippler WORD[44,   1]: 0.0028492 上戸
+TOKEN[45]: 0.0056516    1 hoodlum
+	hoodlum WORD[45,   1]: 0.0028258 破落戸
+TOKEN[46]: 0.0056435    1 half
+	half WORD[46,   1]: 0.0056435 封戸
+TOKEN[47]: 0.0056051    1 tree
+	tree WORD[47,   1]: 0.0056051 戸走り
+TOKEN[48]: 0.0055912    1 rascal
+	rascal WORD[48,   1]: 0.0027956 破落戸
+TOKEN[49]: 0.0055768    1 given
+	given WORD[49,   1]: 0.0055768 封戸
+TOKEN[50]: 0.0055605    3 wooden
+	wooden WORD[50,   1]: 0.0023874 板戸
+	wooden WORD[50,   2]: 0.0020082 妻戸
+	wooden WORD[50,   3]: 0.0011649 木戸
+TOKEN[51]: 0.0055426    1 enthusiast
+	enthusiast WORD[51,   1]: 0.0027713 上戸
+TOKEN[52]: 0.0054853    1 scoundrel
+	scoundrel WORD[52,   1]: 0.0027427 破落戸
+TOKEN[53]: 0.0053346    2 cupboard
+	cupboard WORD[53,   1]: 0.0032774 袋戸
+	cupboard WORD[53,   2]: 0.0020572 戸棚
+TOKEN[54]: 0.0053152    1 ruffian
+	ruffian WORD[54,   1]: 0.0026576 破落戸
+TOKEN[55]: 0.0051419    1 verge
+	verge WORD[55,   1]: 0.0051419 瀬戸際
+TOKEN[56]: 0.0051183    1 merry
+	merry WORD[56,   1]: 0.0025591 上戸
+TOKEN[57]: 0.0050867    1 critical
+	critical WORD[57,   1]: 0.0050867 瀬戸際
+TOKEN[58]: 0.0049344    1 villain
+	villain WORD[58,   1]: 0.0024672 破落戸
+TOKEN[59]: 0.0049324    1 drunk
+	drunk WORD[59,   1]: 0.0024662 上戸
+TOKEN[60]: 0.0047770    2 folding
+	folding WORD[60,   1]: 0.0023885 折り戸
+	folding WORD[60,   2]: 0.0023885 折戸
+TOKEN[61]: 0.0047327    1 public
+	public WORD[61,   1]: 0.0047327 官戸
+TOKEN[62]: 0.0046704    1 fan
+	fan WORD[62,   1]: 0.0023352 上戸
+TOKEN[63]: 0.0046642    1 residence
+	residence WORD[63,   1]: 0.0046642 隣戸
+TOKEN[64]: 0.0044805    1 next
+	next WORD[64,   1]: 0.0044805 隣戸
+TOKEN[65]: 0.0044625    2 home
+	home WORD[65,   1]: 0.0019072 妻戸
+	home WORD[65,   2]: 0.0012777 戸
+TOKEN[66]: 0.0043249    2 locking
+	locking WORD[66,   1]: 0.0021625 戸締まり
+	locking WORD[66,   2]: 0.0021625 戸締り
+TOKEN[67]: 0.0042308    3 city
+	city WORD[67,   1]: 0.0016165 水戸
+	city WORD[67,   2]: 0.0014305 鳴戸
+	city WORD[67,   3]: 0.0011838 神戸
+TOKEN[68]: 0.0041695    2 strait
+	strait WORD[68,   1]: 0.0021884 鳴戸
+	strait WORD[68,   2]: 0.0019811 瀬戸
+TOKEN[69]: 0.0041214    1 fine
+	fine WORD[69,   1]: 0.0041214 簾戸
+TOKEN[70]: 0.0041086    2 garden
+	garden WORD[70,   1]: 0.0020543 枝折り戸
+	garden WORD[70,   2]: 0.0020543 枝折戸
+TOKEN[71]: 0.0040953    1 spiral
+	spiral WORD[71,   1]: 0.0040953 鳴戸
+TOKEN[72]: 0.0040736    1 pass
+	pass WORD[72,   1]: 0.0040736 簾戸
+TOKEN[73]: 0.0040348    2 closet
+	closet WORD[73,   1]: 0.0020492 納戸
+	closet WORD[73,   2]: 0.0019855 戸棚
+TOKEN[74]: 0.0039566    1 heavy
+	heavy WORD[74,   1]: 0.0019783 上戸
+TOKEN[75]: 0.0039216    1 whole
+	whole WORD[75,   1]: 0.0039216 全戸
+TOKEN[76]: 0.0039164    1 traditional
+	traditional WORD[76,   1]: 0.0039164 蔀戸
+TOKEN[77]: 0.0038425    1 slatted
+	slatted WORD[77,   1]: 0.0038425 鎧戸
+TOKEN[78]: 0.0037740    2 fastening
+	fastening WORD[78,   1]: 0.0018870 戸締まり
+	fastening WORD[78,   2]: 0.0018870 戸締り
+TOKEN[79]: 0.0037732    3 room
+	room WORD[79,   1]: 0.0013532 納戸
+	room WORD[79,   2]: 0.0013175 戸惑い
+	room WORD[79,   3]: 0.0011026 風戸
+TOKEN[80]: 0.0037003    2 interlaced
+	interlaced WORD[80,   1]: 0.0018501 編み戸
+	interlaced WORD[80,   2]: 0.0018501 編戸
+TOKEN[81]: 0.0035519    1 person
+	person WORD[81,   1]: 0.0035519 封戸
+TOKEN[82]: 0.0034896    1 breakwater
+	breakwater WORD[82,   1]: 0.0034896 波戸
+TOKEN[83]: 0.0034234    1 bulwark
+	bulwark WORD[83,   1]: 0.0034234 波戸
+TOKEN[84]: 0.0033675    1 quay
+	quay WORD[84,   1]: 0.0033675 波戸場
+TOKEN[85]: 0.0033675    1 jetty
+	jetty WORD[85,   1]: 0.0033675 波戸場
+TOKEN[86]: 0.0032750    2 detached
+	detached WORD[86,   1]: 0.0016375 戸建
+	detached WORD[86,   2]: 0.0016375 戸建て
+TOKEN[87]: 0.0032032    1 incoming
+	incoming WORD[87,   1]: 0.0032032 波戸
+TOKEN[88]: 0.0031718    1 wharf
+	wharf WORD[88,   1]: 0.0031718 波戸場
+TOKEN[89]: 0.0031632    1 tokonoma
+	tokonoma WORD[89,   1]: 0.0031632 袋戸
+TOKEN[90]: 0.0030935    1 pavilion
+	pavilion WORD[90,   1]: 0.0030935 妻戸
+TOKEN[91]: 0.0030906    1 mole
+	mole WORD[91,   1]: 0.0030906 波戸
+TOKEN[92]: 0.0030382    1 Japanese
+	Japanese WORD[92,   1]: 0.0030382 蔀戸
+TOKEN[93]: 0.0028915    1 pattern
+	pattern WORD[93,   1]: 0.0028915 鳴戸
+TOKEN[94]: 0.0028900    1 flounder
+	flounder WORD[94,   1]: 0.0028900 戸板
+TOKEN[95]: 0.0028448    1 doorway
+	doorway WORD[95,   1]: 0.0028448 屋戸
+TOKEN[96]: 0.0027934    1 loading
+	loading WORD[96,   1]: 0.0027934 波戸
+TOKEN[97]: 0.0027166    1 structure
+	structure WORD[97,   1]: 0.0027166 波戸
+TOKEN[98]: 0.0027143    1 removed
+	removed WORD[98,   1]: 0.0027143 戸板
+TOKEN[99]: 0.0027072    2 family
+	family WORD[99,   1]: 0.0016755 全戸
+	family WORD[99,   2]: 0.0010317 戸籍
+TOKEN[100]: 0.0026692    1 sash
+	sash WORD[100,   1]: 0.0026692 戸車
+TOKEN[101]: 0.0026312    1 outdoors
+	outdoors WORD[101,   1]: 0.0026312 戸外
+TOKEN[102]: 0.0025376    1 disorientation
+	disorientation WORD[102,   1]: 0.0025376 戸惑い
+TOKEN[103]: 0.0025290    1 interior
+	interior WORD[103,   1]: 0.0025290 妻戸
+TOKEN[104]: 0.0025254    1 locker
+	locker WORD[104,   1]: 0.0025254 戸棚
+TOKEN[105]: 0.0025037    1 pair
+	pair WORD[105,   1]: 0.0025037 妻戸
+TOKEN[106]: 0.0024089    1 breaking
+	breaking WORD[106,   1]: 0.0024089 波戸
+TOKEN[107]: 0.0023808    1 wonderment
+	wonderment WORD[107,   1]: 0.0023808 戸惑い
+TOKEN[108]: 0.0023535    1 ridge
+	ridge WORD[108,   1]: 0.0023535 切戸
+TOKEN[109]: 0.0023511    1 grayish
+	grayish WORD[109,   1]: 0.0023511 納戸
+TOKEN[110]: 0.0023097    1 number
+	number WORD[110,   1]: 0.0023097 戸数
+TOKEN[111]: 0.0023022    1 palace
+	palace WORD[111,   1]: 0.0023022 妻戸
+TOKEN[112]: 0.0022843    1 storeroom
+	storeroom WORD[112,   1]: 0.0022843 納戸
+TOKEN[113]: 0.0022590    1 frame
+	frame WORD[113,   1]: 0.0022590 戸板
+TOKEN[114]: 0.0022257    1 carrying
+	carrying WORD[114,   1]: 0.0022257 戸板
+TOKEN[115]: 0.0022133    1 wardrobe
+	wardrobe WORD[115,   1]: 0.0022133 戸棚
+TOKEN[116]: 0.0021869    1 gap
+	gap WORD[116,   1]: 0.0021869 切戸
+TOKEN[117]: 0.0021736    1 bewildered
+	bewildered WORD[117,   1]: 0.0021736 戸惑う
+TOKEN[118]: 0.0021722    1 wind
+	wind WORD[118,   1]: 0.0021722 風戸
+TOKEN[119]: 0.0021665    1 goods
+	goods WORD[119,   1]: 0.0021665 波戸
+TOKEN[120]: 0.0021373    1 stone
+	stone WORD[120,   1]: 0.0021373 波戸
+TOKEN[121]: 0.0020943    1 whirlpool
+	whirlpool WORD[121,   1]: 0.0020943 鳴戸
+TOKEN[122]: 0.0020672    1 perplexed
+	perplexed WORD[122,   1]: 0.0020672 戸惑う
+TOKEN[123]: 0.0020651    1 box
+	box WORD[123,   1]: 0.0020651 戸袋
+TOKEN[124]: 0.0020477    1 roaring
+	roaring WORD[124,   1]: 0.0020477 鳴戸
+TOKEN[125]: 0.0020145    1 census
+	census WORD[125,   1]: 0.0020145 戸籍
+TOKEN[126]: 0.0019607    1 tidal
+	tidal WORD[126,   1]: 0.0019607 鳴戸
+TOKEN[127]: 0.0019312    2 one
+	one WORD[127,   1]: 0.0012551 一戸
+	one WORD[127,   2]: 0.0006762 戸惑い
+TOKEN[128]: 0.0019171    1 paper
+	paper WORD[128,   1]: 0.0019171 袋戸
+TOKEN[129]: 0.0019026    1 arena
+	arena WORD[129,   1]: 0.0019026 木戸
+TOKEN[130]: 0.0018967    1 forgetting
+	forgetting WORD[130,   1]: 0.0018967 戸惑い
+TOKEN[131]: 0.0018935    1 building
+	building WORD[131,   1]: 0.0018935 全戸
+TOKEN[132]: 0.0018905    1 area
+	area WORD[132,   1]: 0.0018905 全戸
+TOKEN[133]: 0.0018837    1 waking
+	waking WORD[133,   1]: 0.0018837 戸惑い
+TOKEN[134]: 0.0018772    1 drink
+	drink WORD[134,   1]: 0.0018772 下戸
+TOKEN[135]: 0.0018711    1 Tang
+	Tang WORD[135,   1]: 0.0018711 戸部
+TOKEN[136]: 0.0018650    1 apartment
+	apartment WORD[136,   1]: 0.0018650 住戸
+TOKEN[137]: 0.0018432    1 low
+	low WORD[137,   1]: 0.0018432 切り戸
+TOKEN[138]: 0.0018427    1 open
+	open WORD[138,   1]: 0.0018427 戸外
+TOKEN[139]: 0.0018399    1 cabinet
+	cabinet WORD[139,   1]: 0.0018399 戸棚
+TOKEN[140]: 0.0018211    1 large
+	large WORD[140,   1]: 0.0018211 戸板
+TOKEN[141]: 0.0018132    1 cedar
+	cedar WORD[141,   1]: 0.0018132 杉戸
+TOKEN[142]: 0.0018085    1 storage
+	storage WORD[142,   1]: 0.0018085 納戸
+TOKEN[143]: 0.0017997    1 ebb
+	ebb WORD[143,   1]: 0.0017997 鳴戸
+TOKEN[144]: 0.0017752    1 people
+	people WORD[144,   1]: 0.0017752 戸板
+TOKEN[145]: 0.0017685    1 venue
+	venue WORD[145,   1]: 0.0017685 木戸
+TOKEN[146]: 0.0017534    1 main
+	main WORD[146,   1]: 0.0017534 大戸
+TOKEN[147]: 0.0017301    1 chimney
+	chimney WORD[147,   1]: 0.0017301 風戸
+TOKEN[148]: 0.0016942    1 mountain
+	mountain WORD[148,   1]: 0.0016942 切戸
+TOKEN[149]: 0.0016867    1 confusion
+	confusion WORD[149,   1]: 0.0016867 戸惑い
+TOKEN[150]: 0.0016803    1 head
+	head WORD[150,   1]: 0.0016803 戸主
+TOKEN[151]: 0.0016729    1 channel
+	channel WORD[151,   1]: 0.0016729 瀬戸
+TOKEN[152]: 0.0016666    1 enter
+	enter WORD[152,   1]: 0.0016666 戸惑い
+TOKEN[153]: 0.0016231    1 dwelling
+	dwelling WORD[153,   1]: 0.0016231 住戸
+TOKEN[154]: 0.0016115    1 flow
+	flow WORD[154,   1]: 0.0016115 鳴戸
+TOKEN[155]: 0.0015898    1 losing
+	losing WORD[155,   1]: 0.0015898 戸惑い
+TOKEN[156]: 0.0015841    1 cooking
+	cooking WORD[156,   1]: 0.0015841 鳴戸
+TOKEN[157]: 0.0015818    1 used
+	used WORD[157,   1]: 0.0015818 戸板
+TOKEN[158]: 0.0015757    1 technique
+	technique WORD[158,   1]: 0.0015757 鳴戸
+TOKEN[159]: 0.0015121    1 blue
+	blue WORD[159,   1]: 0.0015121 納戸
+TOKEN[160]: 0.0015095    1 dynasty
+	dynasty WORD[160,   1]: 0.0015095 戸部
+TOKEN[161]: 0.0014844    1 register
+	register WORD[161,   1]: 0.0014844 戸籍
+TOKEN[162]: 0.0014639    1 mosquito
+	mosquito WORD[162,   1]: 0.0014639 網戸
+TOKEN[163]: 0.0014430    1 entertainment
+	entertainment WORD[163,   1]: 0.0014430 木戸
+TOKEN[164]: 0.0014239    1 unit
+	unit WORD[164,   1]: 0.0014239 住戸
+TOKEN[165]: 0.0014137    1 shogunate
+	shogunate WORD[165,   1]: 0.0014137 江戸
+TOKEN[166]: 0.0014032    1 block
+	block WORD[166,   1]: 0.0014032 住戸
+TOKEN[167]: 0.0013682    1 well
+	well WORD[167,   1]: 0.0013682 井戸
+TOKEN[168]: 0.0013640    1 cave
+	cave WORD[168,   1]: 0.0013640 岩戸
+TOKEN[169]: 0.0013167    1 cool
+	cool WORD[169,   1]: 0.0013167 風戸
+TOKEN[170]: 0.0013064    1 sea
+	sea WORD[170,   1]: 0.0013064 戸惑い
+TOKEN[171]: 0.0013025    1 night
+	night WORD[171,   1]: 0.0013025 戸惑い
+TOKEN[172]: 0.0012947    1 storm
+	storm WORD[172,   1]: 0.0012947 雨戸
+TOKEN[173]: 0.0012853    1 someone
+	someone WORD[173,   1]: 0.0012853 下戸
+TOKEN[174]: 0.0012477    1 cut
+	cut WORD[174,   1]: 0.0012477 鳴戸
+TOKEN[175]: 0.0012127    1 rock
+	rock WORD[175,   1]: 0.0012127 岩戸
+TOKEN[176]: 0.0012023    1 capital
+	capital WORD[176,   1]: 0.0012023 江戸
+TOKEN[177]: 0.0010597    1 Edo
+	Edo WORD[177,   1]: 0.0010597 江戸
+TOKEN[178]: 0.0008599    1 water
+	water WORD[178,   1]: 0.0008599 井戸

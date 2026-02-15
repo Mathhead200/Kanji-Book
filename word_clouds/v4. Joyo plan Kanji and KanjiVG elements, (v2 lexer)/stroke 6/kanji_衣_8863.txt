@@ -1,0 +1,718 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1042345   30 clothes        : 衣物, 黄衣, 悪衣, 衣蛾, 便衣, 弊衣, 毛衣, 粗衣, 征衣, 産衣, ...
+0.0334386    9 robe           : 浄衣, 肩衣, 法衣, 羽衣, 緇衣, 紫衣, 麻衣, 白衣, 衣
+0.0311977    7 kimono         : 単衣, 花衣, 染衣, 浴衣がけ, 浴衣掛け, 衣冠, 浴衣
+0.0300690    9 garment        : 羅衣, 下衣, 外衣, 紙衣, 天衣, 衣, 上衣, 衣装, 衣裳
+0.0229597   11 clothing       : 摺り衣, 衣香, 恋衣, 衣食, 衣糧, 衣更え, 衣替え, 衣類, 衣料, 衣装, ...
+0.0177485    3 white          : 浄衣, 摺り衣, 白衣
+0.0155275    2 silk           : 羅衣, 薄衣
+0.0153465    3 costume        : 浄衣, 衣装, 衣裳
+0.0150228    3 gown           : 病衣, 白衣, 衣
+0.0124964    2 thin           : 羅衣, 薄衣
+0.0123803    4 coat           : 毛衣, 皮衣, 唐衣, 上衣
+0.0112959    1 material       : 浴衣地
+0.0103003    2 patterned      : 摺り衣, 狩衣
+0.0102171    4 period         : 狩衣, 布衣, 直衣, 唐衣
+0.0101638    2 shabby         : 悪衣, 弊衣
+0.0100760    2 plain          : 摺り衣, 布衣
+0.0096406    7 dress          : 衣帯, 衣文, 衣紋, 衣更え, 衣替え, 衣装, 衣裳
+0.0093311    4 priest         : 緇衣, 法衣, 僧衣, 紫衣
+0.0092298   10 one            : 恋衣, 浴衣がけ, 浴衣掛け, 母衣, 単衣, 衣鉢, 着衣, 脱衣, 衣更え, 衣替え
+0.0091655    2 cloth          : 浴衣地, 母衣
+0.0086454    2 sleeveless     : 肩衣, 胴衣
+0.0085209    2 fur            : 毛衣, 皮衣
+0.0082924    4 summer         : 夏衣, 浴衣がけ, 浴衣掛け, 浴衣
+0.0082858    2 undergarment   : 下衣, 胴衣
+0.0082364    2 garb           : 恋衣, 僧衣
+0.0082327    5 worn           : 直衣, 狩衣, 肩衣, 浴衣, 白衣
+0.0077261    2 linen          : 布衣, 麻衣
+0.0076217    3 wearing        : 着衣, 浴衣がけ, 浴衣掛け
+0.0075865    2 commoner       : 布衣, 白衣
+0.0075725    2 protect        : 毛衣, 母衣
+0.0075031    3 light          : 浴衣地, 薄衣, 浴衣
+0.0072878    1 woven          : 浴衣地
+0.0072787    3 informal       : 浴衣がけ, 浴衣掛け, 狩衣
+0.0071179    3 uniform        : 囚衣, 征衣, 獄衣
+0.0067772    1 perfume        : 衣香
+0.0064460    1 love           : 恋衣
+0.0063231    2 vestment       : 法衣, 紫衣
+0.0062364    1 yellow         : 黄衣
+0.0061087    1 fancy          : 花衣
+0.0059207    1 wide           : 浴衣地
+0.0058664    1 nightdress     : 寝衣
+0.0058518    2 unfounded      : 濡れ衣, 濡衣
+0.0054284    1 special        : 浴衣地
+0.0053850    1 nightwear      : 寝衣
+0.0052698    2 groundless     : 濡れ衣, 濡衣
+0.0052041    2 Edo            : 布衣, 狩衣
+0.0051895    1 unlined        : 単衣
+0.0051463    1 stagehand      : 黒衣
+0.0051265    2 coating        : 糖衣, 衣
+0.0050511    2 corm           : 衣かつぎ, 衣被ぎ
+0.0050295    1 prompter       : 黒衣
+0.0049860    3 imperial       : 直衣, 紫衣, 御衣
+0.0049583    2 everyday       : 便衣, 直衣
+0.0048396    1 making         : 浴衣地
+0.0048184    2 black          : 緇衣, 黒衣
+0.0047812    2 suspicion      : 濡れ衣, 濡衣
+0.0047478    2 drapery        : 衣文, 衣紋
+0.0046726    2 short          : 唐衣, 肩衣
+0.0046722    1 metaphor       : 恋衣
+0.0046705    1 trousers       : 下衣
+0.0046143    1 species        : 衣蛾
+0.0045848    3 rustling       : 衣ずれ, 衣摺れ, 衣擦れ
+0.0045491    1 vest           : 胴衣
+0.0045489    2 nobility       : 直衣, 狩衣
+0.0044942    1 underwear      : 下衣
+0.0044852    2 prison         : 囚衣, 獄衣
+0.0044623    2 taro           : 衣かつぎ, 衣被ぎ
+0.0044172    3 used           : 花衣, 母衣, 浴衣
+0.0044142    1 patient        : 病衣
+0.0043746    1 kept           : 恋衣
+0.0043486    2 wet            : 濡れ衣, 濡衣
+0.0043337    3 ancient        : 韓衣, 衣冠, 白衣
+0.0043312    1 purple         : 紫衣
+0.0041870    1 supporter      : 黒衣
+0.0040916    1 dressed        : 黒衣
+0.0040585    2 false          : 濡れ衣, 濡衣
+0.0040376    1 hospital       : 病衣
+0.0038793    1 assistant      : 黒衣
+0.0037276    2 redesign       : 衣更え, 衣替え
+0.0036829    2 charge         : 濡れ衣, 濡衣
+0.0036265    1 outer          : 外衣
+0.0035863    1 raiment        : 羽衣
+0.0035840    2 redecoration   : 衣更え, 衣替え
+0.0035828    1 baby           : 産衣
+0.0035604    1 close          : 恋衣
+0.0035434    2 boiled         : 衣かつぎ, 衣被ぎ
+0.0035119    1 single         : 単衣
+0.0035050    1 kabuki         : 黒衣
+0.0035043    1 cold           : 毛衣
+0.0034969    1 lunar          : 更衣
+0.0034911    1 icing          : 衣
+0.0034824    1 veil           : 薄衣
+0.0034497    1 convertible    : 母衣
+0.0033955    1 lower          : 下衣
+0.0033762    1 calendar       : 更衣
+0.0033720    1 Lepismatidae   : 衣魚
+0.0033720    1 Thysanura      : 衣魚
+0.0033720    1 bristletail    : 衣魚
+0.0033720    1 silverfish     : 衣魚
+0.0033385    2 renovation     : 衣更え, 衣替え
+0.0033168    1 awning         : 母衣
+0.0033103    2 family         : 衣魚, 直衣
+0.0032852    1 stage          : 黒衣
+0.0032842    1 sheer          : 薄衣
+0.0032351    1 angel          : 羽衣
+0.0032121    1 made           : 毛衣
+0.0032112    1 master         : 衣鉢
+0.0031773    1 second         : 更衣
+0.0031347    1 month          : 更衣
+0.0030391    1 canvas         : 母衣
+0.0030128    1 glaze          : 衣
+0.0029953    1 hood           : 母衣
+0.0029567    1 canopy         : 母衣
+0.0028909    1 cape           : 母衣
+0.0028838    1 plumage        : 羽衣
+0.0028783    2 seasonal       : 衣更え, 衣替え
+0.0028659    2 top            : 母衣, 上衣
+0.0028598    1 blossom        : 花衣
+0.0028333    1 mystery        : 薄衣
+0.0028205    1 lichen         : 地衣
+0.0027749    1 Oriental       : 衣魚
+0.0027723    1 placenta       : 胞衣
+0.0027563    1 onward         : 直衣
+0.0027264    2 outfit         : 衣装, 衣裳
+0.0027251    2 food           : 衣食, 衣糧
+0.0027067    1 clothe         : 衣食
+0.0026935    1 afterbirth     : 胞衣
+0.0026910    1 onwards        : 狩衣
+0.0026435    1 batter         : 衣
+0.0026010    1 cherry         : 花衣
+0.0025839    1 bug            : 羽衣
+0.0025732    1 helmet         : 母衣
+0.0025630    1 unable         : 衣魚
+0.0024350    1 bathrobe       : 浴衣
+0.0024151    1 apply          : 衣魚
+0.0023458    1 dharma         : 衣鉢
+0.0023180    2 fresh          : 衣更え, 衣替え
+0.0022994    1 read           : 衣魚
+0.0022890    1 covering       : 母衣
+0.0022616    1 insect         : 衣魚
+0.0022437    2 season         : 衣更え, 衣替え
+0.0022376    1 traveling      : 征衣
+0.0022243    1 travel         : 旅衣
+0.0021844    1 disciple       : 衣鉢
+0.0021714    1 ordinary       : 便衣
+0.0021483    1 true           : 衣魚
+0.0021305    1 obi            : 衣帯
+0.0021303    1 back           : 母衣
+0.0021290    1 livelihood     : 衣食
+0.0021074    1 rack           : 衣桁
+0.0020998    1 feed           : 衣食
+0.0020996    1 battle         : 母衣
+0.0020947    2 appearance     : 衣更え, 衣替え
+0.0020945    1 humble         : 粗衣
+0.0020665    1 sugar          : 糖衣
+0.0020241    1 household      : 紫衣
+0.0019981    1 transmission   : 衣鉢
+0.0019892    1 simple         : 粗衣
+0.0019837    2 new            : 衣更え, 衣替え
+0.0019424    2 change         : 衣更え, 衣替え
+0.0019300    1 ceremonial     : 肩衣
+0.0019190    1 type           : 羽衣
+0.0019149    2 look           : 衣更え, 衣替え
+0.0018604    1 funeral        : 衣鉢
+0.0018441    1 order          : 衣魚
+0.0018002    1 bowl           : 衣鉢
+0.0017982    1 radical        : 衣偏
+0.0017890    1 monk           : 衣鉢
+0.0017890    1 Zen            : 衣鉢
+0.0017817    1 key            : 衣鉢
+0.0017698    1 samurai        : 肩衣
+0.0017461    1 military       : 征衣
+0.0016911    1 cotton         : 浴衣
+0.0016631    1 left           : 衣偏
+0.0016313    1 outerwear      : 上衣
+0.0016175    1 living         : 衣食
+0.0016129    1 art            : 衣鉢
+0.0016111    1 court          : 衣帯
+0.0015995    1 full           : 衣帯
+0.0014101    1 paper          : 紙衣
+0.0013972    1 someone        : 衣魚
+0.0013337    1 jacket         : 上衣
+0.0013115    1 Chinese        : 韓衣
+0.0012551    1 rank           : 白衣
+0.0010438    1 taking         : 脱衣
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1042345   30 clothes
+	clothes WORD[ 1,   1]: 0.0320823 衣物
+	clothes WORD[ 1,   2]: 0.0104049 黄衣
+	clothes WORD[ 1,   3]: 0.0051543 悪衣
+	clothes WORD[ 1,   4]: 0.0048400 衣蛾
+	clothes WORD[ 1,   5]: 0.0038597 便衣
+	clothes WORD[ 1,   6]: 0.0038389 弊衣
+	clothes WORD[ 1,   7]: 0.0036064 毛衣
+	clothes WORD[ 1,   8]: 0.0035814 粗衣
+	clothes WORD[ 1,   9]: 0.0034184 征衣
+	clothes WORD[ 1,  10]: 0.0031629 産衣
+	clothes WORD[ 1,  11]: 0.0022955 着衣
+	clothes WORD[ 1,  12]: 0.0021396 夏衣
+	clothes WORD[ 1,  13]: 0.0018182 濡れ衣
+	clothes WORD[ 1,  14]: 0.0018181 濡衣
+	clothes WORD[ 1,  15]: 0.0017332 旅衣
+	clothes WORD[ 1,  16]: 0.0016761 衣偏
+	clothes WORD[ 1,  17]: 0.0015981 衣帯
+	clothes WORD[ 1,  18]: 0.0015878 狩衣
+	clothes WORD[ 1,  19]: 0.0015860 韓衣
+	clothes WORD[ 1,  20]: 0.0015483 衣桁
+	clothes WORD[ 1,  21]: 0.0015287 衣文
+	clothes WORD[ 1,  22]: 0.0015287 衣紋
+	clothes WORD[ 1,  23]: 0.0012617 白衣
+	clothes WORD[ 1,  24]: 0.0011430 脱衣
+	clothes WORD[ 1,  25]: 0.0010299 衣
+	clothes WORD[ 1,  26]: 0.0010235 衣ずれ
+	clothes WORD[ 1,  27]: 0.0010235 衣摺れ
+	clothes WORD[ 1,  28]: 0.0010235 衣擦れ
+	clothes WORD[ 1,  29]: 0.0009470 衣類
+	clothes WORD[ 1,  30]: 0.0009449 衣服
+TOKEN[ 2]: 0.0334386    9 robe
+	robe WORD[ 2,   1]: 0.0129440 浄衣
+	robe WORD[ 2,   2]: 0.0043065 肩衣
+	robe WORD[ 2,   3]: 0.0026459 法衣
+	robe WORD[ 2,   4]: 0.0026130 羽衣
+	robe WORD[ 2,   5]: 0.0022645 緇衣
+	robe WORD[ 2,   6]: 0.0022644 紫衣
+	robe WORD[ 2,   7]: 0.0018535 麻衣
+	robe WORD[ 2,   8]: 0.0017271 白衣
+	robe WORD[ 2,   9]: 0.0014099 衣
+TOKEN[ 3]: 0.0311977    7 kimono
+	kimono WORD[ 3,   1]: 0.0052516 単衣
+	kimono WORD[ 3,   2]: 0.0048324 花衣
+	kimono WORD[ 3,   3]: 0.0040181 染衣
+	kimono WORD[ 3,   4]: 0.0022565 浴衣がけ
+	kimono WORD[ 3,   5]: 0.0022565 浴衣掛け
+	kimono WORD[ 3,   6]: 0.0017169 衣冠
+	kimono WORD[ 3,   7]: 0.0015960 浴衣
+TOKEN[ 4]: 0.0300690    9 garment
+	garment WORD[ 4,   1]: 0.0125097 羅衣
+	garment WORD[ 4,   2]: 0.0039711 下衣
+	garment WORD[ 4,   3]: 0.0038680 外衣
+	garment WORD[ 4,   4]: 0.0019996 紙衣
+	garment WORD[ 4,   5]: 0.0014950 天衣
+	garment WORD[ 4,   6]: 0.0013076 衣
+	garment WORD[ 4,   7]: 0.0012220 上衣
+	garment WORD[ 4,   8]: 0.0011942 衣装
+	garment WORD[ 4,   9]: 0.0011942 衣裳
+TOKEN[ 5]: 0.0229597   11 clothing
+	clothing WORD[ 5,   1]: 0.0054689 摺り衣
+	clothing WORD[ 5,   2]: 0.0047718 衣香
+	clothing WORD[ 5,   3]: 0.0034263 恋衣
+	clothing WORD[ 5,   4]: 0.0016447 衣食
+	clothing WORD[ 5,   5]: 0.0015827 衣糧
+	clothing WORD[ 5,   6]: 0.0010889 衣更え
+	clothing WORD[ 5,   7]: 0.0010889 衣替え
+	clothing WORD[ 5,   8]: 0.0009752 衣類
+	clothing WORD[ 5,   9]: 0.0009749 衣料
+	clothing WORD[ 5,  10]: 0.0009687 衣装
+	clothing WORD[ 5,  11]: 0.0009687 衣裳
+TOKEN[ 6]: 0.0177485    3 white
+	white WORD[ 6,   1]: 0.0090466 浄衣
+	white WORD[ 6,   2]: 0.0050807 摺り衣
+	white WORD[ 6,   3]: 0.0036212 白衣
+TOKEN[ 7]: 0.0155275    2 silk
+	silk WORD[ 7,   1]: 0.0108640 羅衣
+	silk WORD[ 7,   2]: 0.0046635 薄衣
+TOKEN[ 8]: 0.0153465    3 costume
+	costume WORD[ 8,   1]: 0.0127999 浄衣
+	costume WORD[ 8,   2]: 0.0012733 衣装
+	costume WORD[ 8,   3]: 0.0012733 衣裳
+TOKEN[ 9]: 0.0150228    3 gown
+	gown WORD[ 9,   1]: 0.0097790 病衣
+	gown WORD[ 9,   2]: 0.0019918 白衣
+	gown WORD[ 9,   3]: 0.0016260 衣
+TOKEN[10]: 0.0124964    2 thin
+	thin WORD[10,   1]: 0.0102882 羅衣
+	thin WORD[10,   2]: 0.0022082 薄衣
+TOKEN[11]: 0.0123803    4 coat
+	coat WORD[11,   1]: 0.0041442 毛衣
+	coat WORD[11,   2]: 0.0034855 皮衣
+	coat WORD[11,   3]: 0.0018222 唐衣
+	coat WORD[11,   4]: 0.0011060 上衣
+TOKEN[12]: 0.0112959    1 material
+	material WORD[12,   1]: 0.0112959 浴衣地
+TOKEN[13]: 0.0103003    2 patterned
+	patterned WORD[13,   1]: 0.0079294 摺り衣
+	patterned WORD[13,   2]: 0.0023708 狩衣
+TOKEN[14]: 0.0102171    4 period
+	period WORD[14,   1]: 0.0027193 狩衣
+	period WORD[14,   2]: 0.0016098 布衣
+	period WORD[14,   3]: 0.0015623 直衣
+	period WORD[14,   4]: 0.0013579 唐衣
+TOKEN[15]: 0.0101638    2 shabby
+	shabby WORD[15,   1]: 0.0074058 悪衣
+	shabby WORD[15,   2]: 0.0027579 弊衣
+TOKEN[16]: 0.0100760    2 plain
+	plain WORD[16,   1]: 0.0058993 摺り衣
+	plain WORD[16,   2]: 0.0020884 布衣
+TOKEN[17]: 0.0096406    7 dress
+	dress WORD[17,   1]: 0.0017808 衣帯
+	dress WORD[17,   2]: 0.0017035 衣文
+	dress WORD[17,   3]: 0.0017035 衣紋
+	dress WORD[17,   4]: 0.0011782 衣更え
+	dress WORD[17,   5]: 0.0011782 衣替え
+	dress WORD[17,   6]: 0.0010482 衣装
+	dress WORD[17,   7]: 0.0010482 衣裳
+TOKEN[18]: 0.0093311    4 priest
+	priest WORD[18,   1]: 0.0035540 緇衣
+	priest WORD[18,   2]: 0.0020763 法衣
+	priest WORD[18,   3]: 0.0019239 僧衣
+	priest WORD[18,   4]: 0.0017769 紫衣
+TOKEN[19]: 0.0092298   10 one
+	one WORD[19,   1]: 0.0016656 恋衣
+	one WORD[19,   2]: 0.0010169 浴衣がけ
+	one WORD[19,   3]: 0.0010169 浴衣掛け
+	one WORD[19,   4]: 0.0009797 母衣
+	one WORD[19,   5]: 0.0007889 単衣
+	one WORD[19,   6]: 0.0007673 衣鉢
+	one WORD[19,   7]: 0.0005746 着衣
+	one WORD[19,   8]: 0.0005722 脱衣
+	one WORD[19,   9]: 0.0005293 衣更え
+	one WORD[19,  10]: 0.0005293 衣替え
+TOKEN[20]: 0.0091655    2 cloth
+	cloth WORD[20,   1]: 0.0052087 浴衣地
+	cloth WORD[20,   2]: 0.0039568 母衣
+TOKEN[21]: 0.0086454    2 sleeveless
+	sleeveless WORD[21,   1]: 0.0048854 肩衣
+	sleeveless WORD[21,   2]: 0.0018800 胴衣
+TOKEN[22]: 0.0085209    2 fur
+	fur WORD[22,   1]: 0.0046283 毛衣
+	fur WORD[22,   2]: 0.0038926 皮衣
+TOKEN[23]: 0.0082924    4 summer
+	summer WORD[23,   1]: 0.0023226 夏衣
+	summer WORD[23,   2]: 0.0022051 浴衣がけ
+	summer WORD[23,   3]: 0.0022051 浴衣掛け
+	summer WORD[23,   4]: 0.0015596 浴衣
+TOKEN[24]: 0.0082858    2 undergarment
+	undergarment WORD[24,   1]: 0.0046705 下衣
+	undergarment WORD[24,   2]: 0.0018076 胴衣
+TOKEN[25]: 0.0082364    2 garb
+	garb WORD[25,   1]: 0.0053541 恋衣
+	garb WORD[25,   2]: 0.0028822 僧衣
+TOKEN[26]: 0.0082327    5 worn
+	worn WORD[26,   1]: 0.0019548 直衣
+	worn WORD[26,   2]: 0.0017013 狩衣
+	worn WORD[26,   3]: 0.0016854 肩衣
+	worn WORD[26,   4]: 0.0015394 浴衣
+	worn WORD[26,   5]: 0.0013518 白衣
+TOKEN[27]: 0.0077261    2 linen
+	linen WORD[27,   1]: 0.0028402 布衣
+	linen WORD[27,   2]: 0.0020457 麻衣
+TOKEN[28]: 0.0076217    3 wearing
+	wearing WORD[28,   1]: 0.0027518 着衣
+	wearing WORD[28,   2]: 0.0024350 浴衣がけ
+	wearing WORD[28,   3]: 0.0024350 浴衣掛け
+TOKEN[29]: 0.0075865    2 commoner
+	commoner WORD[29,   1]: 0.0028402 布衣
+	commoner WORD[29,   2]: 0.0019062 白衣
+TOKEN[30]: 0.0075725    2 protect
+	protect WORD[30,   1]: 0.0049088 毛衣
+	protect WORD[30,   2]: 0.0026637 母衣
+TOKEN[31]: 0.0075031    3 light
+	light WORD[31,   1]: 0.0044415 浴衣地
+	light WORD[31,   2]: 0.0018231 薄衣
+	light WORD[31,   3]: 0.0012385 浴衣
+TOKEN[32]: 0.0072878    1 woven
+	woven WORD[32,   1]: 0.0072878 浴衣地
+TOKEN[33]: 0.0072787    3 informal
+	informal WORD[33,   1]: 0.0026167 浴衣がけ
+	informal WORD[33,   2]: 0.0026167 浴衣掛け
+	informal WORD[33,   3]: 0.0020454 狩衣
+TOKEN[34]: 0.0071179    3 uniform
+	uniform WORD[34,   1]: 0.0026619 囚衣
+	uniform WORD[34,   2]: 0.0022678 征衣
+	uniform WORD[34,   3]: 0.0021882 獄衣
+TOKEN[35]: 0.0067772    1 perfume
+	perfume WORD[35,   1]: 0.0067772 衣香
+TOKEN[36]: 0.0064460    1 love
+	love WORD[36,   1]: 0.0064460 恋衣
+TOKEN[37]: 0.0063231    2 vestment
+	vestment WORD[37,   1]: 0.0034071 法衣
+	vestment WORD[37,   2]: 0.0029159 紫衣
+TOKEN[38]: 0.0062364    1 yellow
+	yellow WORD[38,   1]: 0.0062364 黄衣
+TOKEN[39]: 0.0061087    1 fancy
+	fancy WORD[39,   1]: 0.0061087 花衣
+TOKEN[40]: 0.0059207    1 wide
+	wide WORD[40,   1]: 0.0059207 浴衣地
+TOKEN[41]: 0.0058664    1 nightdress
+	nightdress WORD[41,   1]: 0.0029332 寝衣
+TOKEN[42]: 0.0058518    2 unfounded
+	unfounded WORD[42,   1]: 0.0029259 濡れ衣
+	unfounded WORD[42,   2]: 0.0029259 濡衣
+TOKEN[43]: 0.0054284    1 special
+	special WORD[43,   1]: 0.0054284 浴衣地
+TOKEN[44]: 0.0053850    1 nightwear
+	nightwear WORD[44,   1]: 0.0026925 寝衣
+TOKEN[45]: 0.0052698    2 groundless
+	groundless WORD[45,   1]: 0.0026349 濡れ衣
+	groundless WORD[45,   2]: 0.0026349 濡衣
+TOKEN[46]: 0.0052041    2 Edo
+	Edo WORD[46,   1]: 0.0018295 布衣
+	Edo WORD[46,   2]: 0.0015452 狩衣
+TOKEN[47]: 0.0051895    1 unlined
+	unlined WORD[47,   1]: 0.0025948 単衣
+TOKEN[48]: 0.0051463    1 stagehand
+	stagehand WORD[48,   1]: 0.0025732 黒衣
+TOKEN[49]: 0.0051265    2 coating
+	coating WORD[49,   1]: 0.0023669 糖衣
+	coating WORD[49,   2]: 0.0013798 衣
+TOKEN[50]: 0.0050511    2 corm
+	corm WORD[50,   1]: 0.0025255 衣かつぎ
+	corm WORD[50,   2]: 0.0025255 衣被ぎ
+TOKEN[51]: 0.0050295    1 prompter
+	prompter WORD[51,   1]: 0.0025148 黒衣
+TOKEN[52]: 0.0049860    3 imperial
+	imperial WORD[52,   1]: 0.0017866 直衣
+	imperial WORD[52,   2]: 0.0016200 紫衣
+	imperial WORD[52,   3]: 0.0015794 御衣
+TOKEN[53]: 0.0049583    2 everyday
+	everyday WORD[53,   1]: 0.0025488 便衣
+	everyday WORD[53,   2]: 0.0024095 直衣
+TOKEN[54]: 0.0048396    1 making
+	making WORD[54,   1]: 0.0048396 浴衣地
+TOKEN[55]: 0.0048184    2 black
+	black WORD[55,   1]: 0.0016677 緇衣
+	black WORD[55,   2]: 0.0015754 黒衣
+TOKEN[56]: 0.0047812    2 suspicion
+	suspicion WORD[56,   1]: 0.0023906 濡れ衣
+	suspicion WORD[56,   2]: 0.0023906 濡衣
+TOKEN[57]: 0.0047478    2 drapery
+	drapery WORD[57,   1]: 0.0023739 衣文
+	drapery WORD[57,   2]: 0.0023739 衣紋
+TOKEN[58]: 0.0046726    2 short
+	short WORD[58,   1]: 0.0015617 唐衣
+	short WORD[58,   2]: 0.0015491 肩衣
+TOKEN[59]: 0.0046722    1 metaphor
+	metaphor WORD[59,   1]: 0.0046722 恋衣
+TOKEN[60]: 0.0046705    1 trousers
+	trousers WORD[60,   1]: 0.0046705 下衣
+TOKEN[61]: 0.0046143    1 species
+	species WORD[61,   1]: 0.0046143 衣蛾
+TOKEN[62]: 0.0045848    3 rustling
+	rustling WORD[62,   1]: 0.0015283 衣ずれ
+	rustling WORD[62,   2]: 0.0015283 衣摺れ
+	rustling WORD[62,   3]: 0.0015283 衣擦れ
+TOKEN[63]: 0.0045491    1 vest
+	vest WORD[63,   1]: 0.0022745 胴衣
+TOKEN[64]: 0.0045489    2 nobility
+	nobility WORD[64,   1]: 0.0024322 直衣
+	nobility WORD[64,   2]: 0.0021167 狩衣
+TOKEN[65]: 0.0044942    1 underwear
+	underwear WORD[65,   1]: 0.0044942 下衣
+TOKEN[66]: 0.0044852    2 prison
+	prison WORD[66,   1]: 0.0024617 囚衣
+	prison WORD[66,   2]: 0.0020235 獄衣
+TOKEN[67]: 0.0044623    2 taro
+	taro WORD[67,   1]: 0.0022312 衣かつぎ
+	taro WORD[67,   2]: 0.0022312 衣被ぎ
+TOKEN[68]: 0.0044172    3 used
+	used WORD[68,   1]: 0.0017252 花衣
+	used WORD[68,   2]: 0.0015523 母衣
+	used WORD[68,   3]: 0.0011396 浴衣
+TOKEN[69]: 0.0044142    1 patient
+	patient WORD[69,   1]: 0.0044142 病衣
+TOKEN[70]: 0.0043746    1 kept
+	kept WORD[70,   1]: 0.0043746 恋衣
+TOKEN[71]: 0.0043486    2 wet
+	wet WORD[71,   1]: 0.0021743 濡れ衣
+	wet WORD[71,   2]: 0.0021743 濡衣
+TOKEN[72]: 0.0043337    3 ancient
+	ancient WORD[72,   1]: 0.0015645 韓衣
+	ancient WORD[72,   2]: 0.0015246 衣冠
+	ancient WORD[72,   3]: 0.0012446 白衣
+TOKEN[73]: 0.0043312    1 purple
+	purple WORD[73,   1]: 0.0043312 紫衣
+TOKEN[74]: 0.0041870    1 supporter
+	supporter WORD[74,   1]: 0.0020935 黒衣
+TOKEN[75]: 0.0040916    1 dressed
+	dressed WORD[75,   1]: 0.0020458 黒衣
+TOKEN[76]: 0.0040585    2 false
+	false WORD[76,   1]: 0.0020292 濡れ衣
+	false WORD[76,   2]: 0.0020292 濡衣
+TOKEN[77]: 0.0040376    1 hospital
+	hospital WORD[77,   1]: 0.0040376 病衣
+TOKEN[78]: 0.0038793    1 assistant
+	assistant WORD[78,   1]: 0.0019397 黒衣
+TOKEN[79]: 0.0037276    2 redesign
+	redesign WORD[79,   1]: 0.0018638 衣更え
+	redesign WORD[79,   2]: 0.0018638 衣替え
+TOKEN[80]: 0.0036829    2 charge
+	charge WORD[80,   1]: 0.0018415 濡れ衣
+	charge WORD[80,   2]: 0.0018415 濡衣
+TOKEN[81]: 0.0036265    1 outer
+	outer WORD[81,   1]: 0.0036265 外衣
+TOKEN[82]: 0.0035863    1 raiment
+	raiment WORD[82,   1]: 0.0035863 羽衣
+TOKEN[83]: 0.0035840    2 redecoration
+	redecoration WORD[83,   1]: 0.0017920 衣更え
+	redecoration WORD[83,   2]: 0.0017920 衣替え
+TOKEN[84]: 0.0035828    1 baby
+	baby WORD[84,   1]: 0.0035828 産衣
+TOKEN[85]: 0.0035604    1 close
+	close WORD[85,   1]: 0.0035604 恋衣
+TOKEN[86]: 0.0035434    2 boiled
+	boiled WORD[86,   1]: 0.0017717 衣かつぎ
+	boiled WORD[86,   2]: 0.0017717 衣被ぎ
+TOKEN[87]: 0.0035119    1 single
+	single WORD[87,   1]: 0.0017560 単衣
+TOKEN[88]: 0.0035050    1 kabuki
+	kabuki WORD[88,   1]: 0.0017525 黒衣
+TOKEN[89]: 0.0035043    1 cold
+	cold WORD[89,   1]: 0.0035043 毛衣
+TOKEN[90]: 0.0034969    1 lunar
+	lunar WORD[90,   1]: 0.0011656 更衣
+TOKEN[91]: 0.0034911    1 icing
+	icing WORD[91,   1]: 0.0017456 衣
+TOKEN[92]: 0.0034824    1 veil
+	veil WORD[92,   1]: 0.0034824 薄衣
+TOKEN[93]: 0.0034497    1 convertible
+	convertible WORD[93,   1]: 0.0034497 母衣
+TOKEN[94]: 0.0033955    1 lower
+	lower WORD[94,   1]: 0.0033955 下衣
+TOKEN[95]: 0.0033762    1 calendar
+	calendar WORD[95,   1]: 0.0011254 更衣
+TOKEN[96]: 0.0033720    1 Lepismatidae
+	Lepismatidae WORD[96,   1]: 0.0033720 衣魚
+TOKEN[97]: 0.0033720    1 Thysanura
+	Thysanura WORD[97,   1]: 0.0033720 衣魚
+TOKEN[98]: 0.0033720    1 bristletail
+	bristletail WORD[98,   1]: 0.0033720 衣魚
+TOKEN[99]: 0.0033720    1 silverfish
+	silverfish WORD[99,   1]: 0.0033720 衣魚
+TOKEN[100]: 0.0033385    2 renovation
+	renovation WORD[100,   1]: 0.0016692 衣更え
+	renovation WORD[100,   2]: 0.0016692 衣替え
+TOKEN[101]: 0.0033168    1 awning
+	awning WORD[101,   1]: 0.0033168 母衣
+TOKEN[102]: 0.0033103    2 family
+	family WORD[102,   1]: 0.0017268 衣魚
+	family WORD[102,   2]: 0.0015835 直衣
+TOKEN[103]: 0.0032852    1 stage
+	stage WORD[103,   1]: 0.0016426 黒衣
+TOKEN[104]: 0.0032842    1 sheer
+	sheer WORD[104,   1]: 0.0032842 薄衣
+TOKEN[105]: 0.0032351    1 angel
+	angel WORD[105,   1]: 0.0032351 羽衣
+TOKEN[106]: 0.0032121    1 made
+	made WORD[106,   1]: 0.0032121 毛衣
+TOKEN[107]: 0.0032112    1 master
+	master WORD[107,   1]: 0.0032112 衣鉢
+TOKEN[108]: 0.0031773    1 second
+	second WORD[108,   1]: 0.0010591 更衣
+TOKEN[109]: 0.0031347    1 month
+	month WORD[109,   1]: 0.0010449 更衣
+TOKEN[110]: 0.0030391    1 canvas
+	canvas WORD[110,   1]: 0.0030391 母衣
+TOKEN[111]: 0.0030128    1 glaze
+	glaze WORD[111,   1]: 0.0015064 衣
+TOKEN[112]: 0.0029953    1 hood
+	hood WORD[112,   1]: 0.0029953 母衣
+TOKEN[113]: 0.0029567    1 canopy
+	canopy WORD[113,   1]: 0.0029567 母衣
+TOKEN[114]: 0.0028909    1 cape
+	cape WORD[114,   1]: 0.0028909 母衣
+TOKEN[115]: 0.0028838    1 plumage
+	plumage WORD[115,   1]: 0.0028838 羽衣
+TOKEN[116]: 0.0028783    2 seasonal
+	seasonal WORD[116,   1]: 0.0014391 衣更え
+	seasonal WORD[116,   2]: 0.0014391 衣替え
+TOKEN[117]: 0.0028659    2 top
+	top WORD[117,   1]: 0.0019211 母衣
+	top WORD[117,   2]: 0.0009448 上衣
+TOKEN[118]: 0.0028598    1 blossom
+	blossom WORD[118,   1]: 0.0028598 花衣
+TOKEN[119]: 0.0028333    1 mystery
+	mystery WORD[119,   1]: 0.0028333 薄衣
+TOKEN[120]: 0.0028205    1 lichen
+	lichen WORD[120,   1]: 0.0028205 地衣
+TOKEN[121]: 0.0027749    1 Oriental
+	Oriental WORD[121,   1]: 0.0027749 衣魚
+TOKEN[122]: 0.0027723    1 placenta
+	placenta WORD[122,   1]: 0.0027723 胞衣
+TOKEN[123]: 0.0027563    1 onward
+	onward WORD[123,   1]: 0.0027563 直衣
+TOKEN[124]: 0.0027264    2 outfit
+	outfit WORD[124,   1]: 0.0013632 衣装
+	outfit WORD[124,   2]: 0.0013632 衣裳
+TOKEN[125]: 0.0027251    2 food
+	food WORD[125,   1]: 0.0013887 衣食
+	food WORD[125,   2]: 0.0013364 衣糧
+TOKEN[126]: 0.0027067    1 clothe
+	clothe WORD[126,   1]: 0.0027067 衣食
+TOKEN[127]: 0.0026935    1 afterbirth
+	afterbirth WORD[127,   1]: 0.0026935 胞衣
+TOKEN[128]: 0.0026910    1 onwards
+	onwards WORD[128,   1]: 0.0026910 狩衣
+TOKEN[129]: 0.0026435    1 batter
+	batter WORD[129,   1]: 0.0013218 衣
+TOKEN[130]: 0.0026010    1 cherry
+	cherry WORD[130,   1]: 0.0026010 花衣
+TOKEN[131]: 0.0025839    1 bug
+	bug WORD[131,   1]: 0.0025839 羽衣
+TOKEN[132]: 0.0025732    1 helmet
+	helmet WORD[132,   1]: 0.0025732 母衣
+TOKEN[133]: 0.0025630    1 unable
+	unable WORD[133,   1]: 0.0025630 衣魚
+TOKEN[134]: 0.0024350    1 bathrobe
+	bathrobe WORD[134,   1]: 0.0024350 浴衣
+TOKEN[135]: 0.0024151    1 apply
+	apply WORD[135,   1]: 0.0024151 衣魚
+TOKEN[136]: 0.0023458    1 dharma
+	dharma WORD[136,   1]: 0.0023458 衣鉢
+TOKEN[137]: 0.0023180    2 fresh
+	fresh WORD[137,   1]: 0.0011590 衣更え
+	fresh WORD[137,   2]: 0.0011590 衣替え
+TOKEN[138]: 0.0022994    1 read
+	read WORD[138,   1]: 0.0022994 衣魚
+TOKEN[139]: 0.0022890    1 covering
+	covering WORD[139,   1]: 0.0022890 母衣
+TOKEN[140]: 0.0022616    1 insect
+	insect WORD[140,   1]: 0.0022616 衣魚
+TOKEN[141]: 0.0022437    2 season
+	season WORD[141,   1]: 0.0011218 衣更え
+	season WORD[141,   2]: 0.0011218 衣替え
+TOKEN[142]: 0.0022376    1 traveling
+	traveling WORD[142,   1]: 0.0022376 征衣
+TOKEN[143]: 0.0022243    1 travel
+	travel WORD[143,   1]: 0.0022243 旅衣
+TOKEN[144]: 0.0021844    1 disciple
+	disciple WORD[144,   1]: 0.0021844 衣鉢
+TOKEN[145]: 0.0021714    1 ordinary
+	ordinary WORD[145,   1]: 0.0021714 便衣
+TOKEN[146]: 0.0021483    1 true
+	true WORD[146,   1]: 0.0021483 衣魚
+TOKEN[147]: 0.0021305    1 obi
+	obi WORD[147,   1]: 0.0021305 衣帯
+TOKEN[148]: 0.0021303    1 back
+	back WORD[148,   1]: 0.0021303 母衣
+TOKEN[149]: 0.0021290    1 livelihood
+	livelihood WORD[149,   1]: 0.0021290 衣食
+TOKEN[150]: 0.0021074    1 rack
+	rack WORD[150,   1]: 0.0021074 衣桁
+TOKEN[151]: 0.0020998    1 feed
+	feed WORD[151,   1]: 0.0020998 衣食
+TOKEN[152]: 0.0020996    1 battle
+	battle WORD[152,   1]: 0.0020996 母衣
+TOKEN[153]: 0.0020947    2 appearance
+	appearance WORD[153,   1]: 0.0010474 衣更え
+	appearance WORD[153,   2]: 0.0010474 衣替え
+TOKEN[154]: 0.0020945    1 humble
+	humble WORD[154,   1]: 0.0020945 粗衣
+TOKEN[155]: 0.0020665    1 sugar
+	sugar WORD[155,   1]: 0.0020665 糖衣
+TOKEN[156]: 0.0020241    1 household
+	household WORD[156,   1]: 0.0020241 紫衣
+TOKEN[157]: 0.0019981    1 transmission
+	transmission WORD[157,   1]: 0.0019981 衣鉢
+TOKEN[158]: 0.0019892    1 simple
+	simple WORD[158,   1]: 0.0019892 粗衣
+TOKEN[159]: 0.0019837    2 new
+	new WORD[159,   1]: 0.0009919 衣更え
+	new WORD[159,   2]: 0.0009918 衣替え
+TOKEN[160]: 0.0019424    2 change
+	change WORD[160,   1]: 0.0009712 衣更え
+	change WORD[160,   2]: 0.0009712 衣替え
+TOKEN[161]: 0.0019300    1 ceremonial
+	ceremonial WORD[161,   1]: 0.0019300 肩衣
+TOKEN[162]: 0.0019190    1 type
+	type WORD[162,   1]: 0.0019190 羽衣
+TOKEN[163]: 0.0019149    2 look
+	look WORD[163,   1]: 0.0009574 衣更え
+	look WORD[163,   2]: 0.0009574 衣替え
+TOKEN[164]: 0.0018604    1 funeral
+	funeral WORD[164,   1]: 0.0018604 衣鉢
+TOKEN[165]: 0.0018441    1 order
+	order WORD[165,   1]: 0.0018441 衣魚
+TOKEN[166]: 0.0018002    1 bowl
+	bowl WORD[166,   1]: 0.0018002 衣鉢
+TOKEN[167]: 0.0017982    1 radical
+	radical WORD[167,   1]: 0.0017982 衣偏
+TOKEN[168]: 0.0017890    1 monk
+	monk WORD[168,   1]: 0.0017890 衣鉢
+TOKEN[169]: 0.0017890    1 Zen
+	Zen WORD[169,   1]: 0.0017890 衣鉢
+TOKEN[170]: 0.0017817    1 key
+	key WORD[170,   1]: 0.0017817 衣鉢
+TOKEN[171]: 0.0017698    1 samurai
+	samurai WORD[171,   1]: 0.0017698 肩衣
+TOKEN[172]: 0.0017461    1 military
+	military WORD[172,   1]: 0.0017461 征衣
+TOKEN[173]: 0.0016911    1 cotton
+	cotton WORD[173,   1]: 0.0016911 浴衣
+TOKEN[174]: 0.0016631    1 left
+	left WORD[174,   1]: 0.0016631 衣偏
+TOKEN[175]: 0.0016313    1 outerwear
+	outerwear WORD[175,   1]: 0.0016313 上衣
+TOKEN[176]: 0.0016175    1 living
+	living WORD[176,   1]: 0.0016175 衣食
+TOKEN[177]: 0.0016129    1 art
+	art WORD[177,   1]: 0.0016129 衣鉢
+TOKEN[178]: 0.0016111    1 court
+	court WORD[178,   1]: 0.0016111 衣帯
+TOKEN[179]: 0.0015995    1 full
+	full WORD[179,   1]: 0.0015995 衣帯
+TOKEN[180]: 0.0014101    1 paper
+	paper WORD[180,   1]: 0.0014101 紙衣
+TOKEN[181]: 0.0013972    1 someone
+	someone WORD[181,   1]: 0.0013972 衣魚
+TOKEN[182]: 0.0013337    1 jacket
+	jacket WORD[182,   1]: 0.0013337 上衣
+TOKEN[183]: 0.0013115    1 Chinese
+	Chinese WORD[183,   1]: 0.0013115 韓衣
+TOKEN[184]: 0.0012551    1 rank
+	rank WORD[184,   1]: 0.0012551 白衣
+TOKEN[185]: 0.0010438    1 taking
+	taking WORD[185,   1]: 0.0010438 脱衣

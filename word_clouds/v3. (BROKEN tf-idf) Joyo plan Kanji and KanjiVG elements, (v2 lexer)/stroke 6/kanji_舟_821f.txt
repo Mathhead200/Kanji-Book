@@ -1,0 +1,342 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1326122   23 boat           : 龍舟, 泥舟, 舟下り, 軽舟, 葦舟, 舟券, 舟艇, 扁舟, 舟偏, 舟唄, ...
+0.0499810    3 canoe          : 龍舟, 刳り舟, 刳舟
+0.0365378    1 racing         : 龍舟
+0.0317143    1 dragon         : 龍舟
+0.0258526    1 long           : 龍舟
+0.0236599    1 mud            : 泥舟
+0.0227880    1 unidentified   : 虚舟
+0.0210734    1 washed         : 虚舟
+0.0208224    1 used           : 龍舟
+0.0202187    2 skiff          : 軽舟, 扁舟
+0.0199755    1 craft          : 虚舟
+0.0189996    3 boating        : 舟行, 舟航, 舟遊び
+0.0179992    5 ship           : 舟運, 舟棚, 舟底, 早舟, 舟
+0.0166872    3 sailor         : 舟人, 舟唄, 舟歌
+0.0163734    2 Edo            : 虚舟, 湯舟
+0.0160305    1 scaphoid       : 舟状
+0.0160146    1 said           : 虚舟
+0.0159143    2 song           : 舟唄, 舟歌
+0.0156885    3 sailing        : 舟行, 舟航, 舟遊び
+0.0152527    1 transporting   : 泥舟
+0.0143311    2 period         : 虚舟, 湯舟
+0.0126226    2 Noah           : 方舟, 箱舟
+0.0123146    2 tugboat        : 引き舟, 引舟
+0.0123146    2 towage         : 引き舟, 引舟
+0.0121595    2 shanty         : 舟唄, 舟歌
+0.0119755    2 tugging        : 引き舟, 引舟
+0.0119755    2 towboat        : 引き舟, 引舟
+0.0118877    1 papyrus        : 葦舟
+0.0115990    2 ark            : 方舟, 箱舟
+0.0114033    2 towing         : 引き舟, 引舟
+0.0110377    3 sea            : 舟路, 舟唄, 舟歌
+0.0109152    1 downstream     : 舟下り
+0.0106325    2 tug            : 引き舟, 引舟
+0.0097835    2 dugout         : 刳り舟, 刳舟
+0.0095315    1 betting        : 舟券
+0.0085658    1 made           : 泥舟
+0.0080259    1 bathtub        : 湯舟
+0.0073764    1 navicular      : 舟形
+0.0068996    1 ticket         : 舟券
+0.0068892    1 race           : 舟券
+0.0068220    2 fishing        : 漁舟, 釣舟
+0.0068096    1 going          : 舟下り
+0.0066774    1 ferryboat      : 渡し舟
+0.0063620    1 boathouse      : 舟宿
+0.0063613    1 planking       : 舟棚
+0.0062866    1 light          : 軽舟
+0.0062284    1 rowboat        : 早舟
+0.0060805    1 boatman        : 舟人
+0.0060800    1 bilge          : 舟底
+0.0056705    1 ferry          : 渡し舟
+0.0056412    1 navigation     : 舟行
+0.0052142    1 voyage         : 舟路
+0.0050673    1 transportation : 舟運
+0.0048749    1 shipping       : 舟宿
+0.0048363    1 inn            : 舟宿
+0.0048361    1 passenger      : 舟人
+0.0047256    1 fast           : 早舟
+0.0046729    1 ocean          : 舟路
+0.0046191    1 solitary       : 孤舟
+0.0046040    2 floating       : 浮き舟, 浮舟
+0.0043733    1 seaplane       : 舟
+0.0043086    1 pontoon        : 舟橋
+0.0042799    1 trip           : 舟路
+0.0042763    1 route          : 舟路
+0.0042529    1 vat            : 舟
+0.0042010    1 agent          : 舟宿
+0.0040374    1 bottom         : 舟底
+0.0040258    1 radical        : 舟偏
+0.0040130    1 rented         : 湯舟
+0.0040012    1 toy            : 笹舟
+0.0038489    1 tub            : 舟
+0.0038399    1 wooden         : 舟棚
+0.0038125    1 little         : 扁舟
+0.0037192    1 left           : 舟偏
+0.0036996    1 trough         : 舟
+0.0036948    1 whole          : 呑舟
+0.0036352    1 military       : 早舟
+0.0035415    1 lifeboat       : 助け舟
+0.0034817    2 small          : 小舟, 漁舟
+0.0034504    1 type           : 早舟
+0.0033633    1 tank           : 舟
+0.0032740    1 water          : 舟運
+0.0032134    1 smack          : 漁舟
+0.0032091    1 vase           : 釣舟
+0.0031520    1 vessel         : 舟
+0.0030176    1 bridge         : 舟橋
+0.0029405    1 helping        : 助け舟
+0.0028751    1 fellow         : 同舟
+0.0028544    1 counter        : 舟
+0.0027873    1 need           : 助け舟
+0.0025828    1 hanging        : 釣舟
+0.0025788    1 friend         : 助け舟
+0.0023866    1 flower         : 釣舟
+0.0023527    1 help           : 助け舟
+0.0020130    1 hand           : 助け舟
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1326122   23 boat
+	boat WORD[ 1,   1]: 0.0280946 龍舟
+	boat WORD[ 1,   2]: 0.0202438 泥舟
+	boat WORD[ 1,   3]: 0.0078677 舟下り
+	boat WORD[ 1,   4]: 0.0075172 軽舟
+	boat WORD[ 1,   5]: 0.0072228 葦舟
+	boat WORD[ 1,   6]: 0.0064967 舟券
+	boat WORD[ 1,   7]: 0.0041950 舟艇
+	boat WORD[ 1,   8]: 0.0040300 扁舟
+	boat WORD[ 1,   9]: 0.0039468 舟偏
+	boat WORD[ 1,  10]: 0.0039460 舟唄
+	boat WORD[ 1,  11]: 0.0039460 舟歌
+	boat WORD[ 1,  12]: 0.0038863 引き舟
+	boat WORD[ 1,  13]: 0.0038863 引舟
+	boat WORD[ 1,  14]: 0.0038414 呑舟
+	boat WORD[ 1,  15]: 0.0035188 孤舟
+	boat WORD[ 1,  16]: 0.0034423 笹舟
+	boat WORD[ 1,  17]: 0.0030052 湯舟
+	boat WORD[ 1,  18]: 0.0027603 舟
+	boat WORD[ 1,  19]: 0.0024447 釣舟
+	boat WORD[ 1,  20]: 0.0022012 小舟
+	boat WORD[ 1,  21]: 0.0021531 漁舟
+	boat WORD[ 1,  22]: 0.0019831 浮き舟
+	boat WORD[ 1,  23]: 0.0019831 浮舟
+TOKEN[ 2]: 0.0499810    3 canoe
+	canoe WORD[ 2,   1]: 0.0403335 龍舟
+	canoe WORD[ 2,   2]: 0.0048237 刳り舟
+	canoe WORD[ 2,   3]: 0.0048237 刳舟
+TOKEN[ 3]: 0.0365378    1 racing
+	racing WORD[ 3,   1]: 0.0365378 龍舟
+TOKEN[ 4]: 0.0317143    1 dragon
+	dragon WORD[ 4,   1]: 0.0317143 龍舟
+TOKEN[ 5]: 0.0258526    1 long
+	long WORD[ 5,   1]: 0.0258526 龍舟
+TOKEN[ 6]: 0.0236599    1 mud
+	mud WORD[ 6,   1]: 0.0236599 泥舟
+TOKEN[ 7]: 0.0227880    1 unidentified
+	unidentified WORD[ 7,   1]: 0.0113940 虚舟
+TOKEN[ 8]: 0.0210734    1 washed
+	washed WORD[ 8,   1]: 0.0105367 虚舟
+TOKEN[ 9]: 0.0208224    1 used
+	used WORD[ 9,   1]: 0.0208224 龍舟
+TOKEN[10]: 0.0202187    2 skiff
+	skiff WORD[10,   1]: 0.0131623 軽舟
+	skiff WORD[10,   2]: 0.0070563 扁舟
+TOKEN[11]: 0.0199755    1 craft
+	craft WORD[11,   1]: 0.0099877 虚舟
+TOKEN[12]: 0.0189996    3 boating
+	boating WORD[12,   1]: 0.0064600 舟行
+	boating WORD[12,   2]: 0.0064600 舟航
+	boating WORD[12,   3]: 0.0060796 舟遊び
+TOKEN[13]: 0.0179992    5 ship
+	ship WORD[13,   1]: 0.0040308 舟運
+	ship WORD[13,   2]: 0.0037972 舟棚
+	ship WORD[13,   3]: 0.0037972 舟底
+	ship WORD[13,   4]: 0.0037179 早舟
+	ship WORD[13,   5]: 0.0026561 舟
+TOKEN[14]: 0.0166872    3 sailor
+	sailor WORD[14,   1]: 0.0055629 舟人
+	sailor WORD[14,   2]: 0.0055622 舟唄
+	sailor WORD[14,   3]: 0.0055622 舟歌
+TOKEN[15]: 0.0163734    2 Edo
+	Edo WORD[15,   1]: 0.0068503 虚舟
+	Edo WORD[15,   2]: 0.0026727 湯舟
+TOKEN[16]: 0.0160305    1 scaphoid
+	scaphoid WORD[16,   1]: 0.0160305 舟状
+TOKEN[17]: 0.0160146    1 said
+	said WORD[17,   1]: 0.0080073 虚舟
+TOKEN[18]: 0.0159143    2 song
+	song WORD[18,   1]: 0.0079571 舟唄
+	song WORD[18,   2]: 0.0079571 舟歌
+TOKEN[19]: 0.0156885    3 sailing
+	sailing WORD[19,   1]: 0.0053342 舟行
+	sailing WORD[19,   2]: 0.0053342 舟航
+	sailing WORD[19,   3]: 0.0050201 舟遊び
+TOKEN[20]: 0.0152527    1 transporting
+	transporting WORD[20,   1]: 0.0152527 泥舟
+TOKEN[21]: 0.0143311    2 period
+	period WORD[21,   1]: 0.0059959 虚舟
+	period WORD[21,   2]: 0.0023393 湯舟
+TOKEN[22]: 0.0126226    2 Noah
+	Noah WORD[22,   1]: 0.0063113 方舟
+	Noah WORD[22,   2]: 0.0063113 箱舟
+TOKEN[23]: 0.0123146    2 tugboat
+	tugboat WORD[23,   1]: 0.0061573 引き舟
+	tugboat WORD[23,   2]: 0.0061573 引舟
+TOKEN[24]: 0.0123146    2 towage
+	towage WORD[24,   1]: 0.0061573 引き舟
+	towage WORD[24,   2]: 0.0061573 引舟
+TOKEN[25]: 0.0121595    2 shanty
+	shanty WORD[25,   1]: 0.0060797 舟唄
+	shanty WORD[25,   2]: 0.0060797 舟歌
+TOKEN[26]: 0.0119755    2 tugging
+	tugging WORD[26,   1]: 0.0059878 引き舟
+	tugging WORD[26,   2]: 0.0059877 引舟
+TOKEN[27]: 0.0119755    2 towboat
+	towboat WORD[27,   1]: 0.0059878 引き舟
+	towboat WORD[27,   2]: 0.0059877 引舟
+TOKEN[28]: 0.0118877    1 papyrus
+	papyrus WORD[28,   1]: 0.0118877 葦舟
+TOKEN[29]: 0.0115990    2 ark
+	ark WORD[29,   1]: 0.0057995 方舟
+	ark WORD[29,   2]: 0.0057995 箱舟
+TOKEN[30]: 0.0114033    2 towing
+	towing WORD[30,   1]: 0.0057017 引き舟
+	towing WORD[30,   2]: 0.0057016 引舟
+TOKEN[31]: 0.0110377    3 sea
+	sea WORD[31,   1]: 0.0036793 舟路
+	sea WORD[31,   2]: 0.0036792 舟唄
+	sea WORD[31,   3]: 0.0036792 舟歌
+TOKEN[32]: 0.0109152    1 downstream
+	downstream WORD[32,   1]: 0.0109152 舟下り
+TOKEN[33]: 0.0106325    2 tug
+	tug WORD[33,   1]: 0.0053163 引き舟
+	tug WORD[33,   2]: 0.0053162 引舟
+TOKEN[34]: 0.0097835    2 dugout
+	dugout WORD[34,   1]: 0.0048918 刳り舟
+	dugout WORD[34,   2]: 0.0048917 刳舟
+TOKEN[35]: 0.0095315    1 betting
+	betting WORD[35,   1]: 0.0095315 舟券
+TOKEN[36]: 0.0085658    1 made
+	made WORD[36,   1]: 0.0085658 泥舟
+TOKEN[37]: 0.0080259    1 bathtub
+	bathtub WORD[37,   1]: 0.0080259 湯舟
+TOKEN[38]: 0.0073764    1 navicular
+	navicular WORD[38,   1]: 0.0073764 舟形
+TOKEN[39]: 0.0068996    1 ticket
+	ticket WORD[39,   1]: 0.0068996 舟券
+TOKEN[40]: 0.0068892    1 race
+	race WORD[40,   1]: 0.0068892 舟券
+TOKEN[41]: 0.0068220    2 fishing
+	fishing WORD[41,   1]: 0.0043515 漁舟
+	fishing WORD[41,   2]: 0.0024705 釣舟
+TOKEN[42]: 0.0068096    1 going
+	going WORD[42,   1]: 0.0068096 舟下り
+TOKEN[43]: 0.0066774    1 ferryboat
+	ferryboat WORD[43,   1]: 0.0066774 渡し舟
+TOKEN[44]: 0.0063620    1 boathouse
+	boathouse WORD[44,   1]: 0.0063620 舟宿
+TOKEN[45]: 0.0063613    1 planking
+	planking WORD[45,   1]: 0.0063613 舟棚
+TOKEN[46]: 0.0062866    1 light
+	light WORD[46,   1]: 0.0062866 軽舟
+TOKEN[47]: 0.0062284    1 rowboat
+	rowboat WORD[47,   1]: 0.0062284 早舟
+TOKEN[48]: 0.0060805    1 boatman
+	boatman WORD[48,   1]: 0.0060805 舟人
+TOKEN[49]: 0.0060800    1 bilge
+	bilge WORD[49,   1]: 0.0060800 舟底
+TOKEN[50]: 0.0056705    1 ferry
+	ferry WORD[50,   1]: 0.0056705 渡し舟
+TOKEN[51]: 0.0056412    1 navigation
+	navigation WORD[51,   1]: 0.0056412 舟行
+TOKEN[52]: 0.0052142    1 voyage
+	voyage WORD[52,   1]: 0.0052142 舟路
+TOKEN[53]: 0.0050673    1 transportation
+	transportation WORD[53,   1]: 0.0050673 舟運
+TOKEN[54]: 0.0048749    1 shipping
+	shipping WORD[54,   1]: 0.0048749 舟宿
+TOKEN[55]: 0.0048363    1 inn
+	inn WORD[55,   1]: 0.0048363 舟宿
+TOKEN[56]: 0.0048361    1 passenger
+	passenger WORD[56,   1]: 0.0048361 舟人
+TOKEN[57]: 0.0047256    1 fast
+	fast WORD[57,   1]: 0.0047256 早舟
+TOKEN[58]: 0.0046729    1 ocean
+	ocean WORD[58,   1]: 0.0046729 舟路
+TOKEN[59]: 0.0046191    1 solitary
+	solitary WORD[59,   1]: 0.0046191 孤舟
+TOKEN[60]: 0.0046040    2 floating
+	floating WORD[60,   1]: 0.0023020 浮き舟
+	floating WORD[60,   2]: 0.0023020 浮舟
+TOKEN[61]: 0.0043733    1 seaplane
+	seaplane WORD[61,   1]: 0.0043733 舟
+TOKEN[62]: 0.0043086    1 pontoon
+	pontoon WORD[62,   1]: 0.0043086 舟橋
+TOKEN[63]: 0.0042799    1 trip
+	trip WORD[63,   1]: 0.0042799 舟路
+TOKEN[64]: 0.0042763    1 route
+	route WORD[64,   1]: 0.0042763 舟路
+TOKEN[65]: 0.0042529    1 vat
+	vat WORD[65,   1]: 0.0042529 舟
+TOKEN[66]: 0.0042010    1 agent
+	agent WORD[66,   1]: 0.0042010 舟宿
+TOKEN[67]: 0.0040374    1 bottom
+	bottom WORD[67,   1]: 0.0040374 舟底
+TOKEN[68]: 0.0040258    1 radical
+	radical WORD[68,   1]: 0.0040258 舟偏
+TOKEN[69]: 0.0040130    1 rented
+	rented WORD[69,   1]: 0.0040130 湯舟
+TOKEN[70]: 0.0040012    1 toy
+	toy WORD[70,   1]: 0.0040012 笹舟
+TOKEN[71]: 0.0038489    1 tub
+	tub WORD[71,   1]: 0.0038489 舟
+TOKEN[72]: 0.0038399    1 wooden
+	wooden WORD[72,   1]: 0.0038399 舟棚
+TOKEN[73]: 0.0038125    1 little
+	little WORD[73,   1]: 0.0038125 扁舟
+TOKEN[74]: 0.0037192    1 left
+	left WORD[74,   1]: 0.0037192 舟偏
+TOKEN[75]: 0.0036996    1 trough
+	trough WORD[75,   1]: 0.0036996 舟
+TOKEN[76]: 0.0036948    1 whole
+	whole WORD[76,   1]: 0.0036948 呑舟
+TOKEN[77]: 0.0036352    1 military
+	military WORD[77,   1]: 0.0036352 早舟
+TOKEN[78]: 0.0035415    1 lifeboat
+	lifeboat WORD[78,   1]: 0.0035415 助け舟
+TOKEN[79]: 0.0034817    2 small
+	small WORD[79,   1]: 0.0017601 小舟
+	small WORD[79,   2]: 0.0017216 漁舟
+TOKEN[80]: 0.0034504    1 type
+	type WORD[80,   1]: 0.0034504 早舟
+TOKEN[81]: 0.0033633    1 tank
+	tank WORD[81,   1]: 0.0033633 舟
+TOKEN[82]: 0.0032740    1 water
+	water WORD[82,   1]: 0.0032740 舟運
+TOKEN[83]: 0.0032134    1 smack
+	smack WORD[83,   1]: 0.0032134 漁舟
+TOKEN[84]: 0.0032091    1 vase
+	vase WORD[84,   1]: 0.0032091 釣舟
+TOKEN[85]: 0.0031520    1 vessel
+	vessel WORD[85,   1]: 0.0031520 舟
+TOKEN[86]: 0.0030176    1 bridge
+	bridge WORD[86,   1]: 0.0030176 舟橋
+TOKEN[87]: 0.0029405    1 helping
+	helping WORD[87,   1]: 0.0029405 助け舟
+TOKEN[88]: 0.0028751    1 fellow
+	fellow WORD[88,   1]: 0.0028751 同舟
+TOKEN[89]: 0.0028544    1 counter
+	counter WORD[89,   1]: 0.0028544 舟
+TOKEN[90]: 0.0027873    1 need
+	need WORD[90,   1]: 0.0027873 助け舟
+TOKEN[91]: 0.0025828    1 hanging
+	hanging WORD[91,   1]: 0.0025828 釣舟
+TOKEN[92]: 0.0025788    1 friend
+	friend WORD[92,   1]: 0.0025788 助け舟
+TOKEN[93]: 0.0023866    1 flower
+	flower WORD[93,   1]: 0.0023866 釣舟
+TOKEN[94]: 0.0023527    1 help
+	help WORD[94,   1]: 0.0023527 助け舟
+TOKEN[95]: 0.0020130    1 hand
+	hand WORD[95,   1]: 0.0020130 助け舟

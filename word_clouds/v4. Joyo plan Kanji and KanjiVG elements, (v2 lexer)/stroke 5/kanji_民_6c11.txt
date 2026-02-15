@@ -1,0 +1,631 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0642776    1 agrarian       : 農漁民
+0.0591867   33 people         : 民利, 棄民, 蛋民, 飢民, 蛮民, 賎民, 賤民, 庶民, 良民, 士民, ...
+0.0571309    4 populace       : 農漁民, 民草, 民衆, 人民
+0.0510502    4 inhabitant     : 郡民, 島民, 住民, 市民
+0.0501599    8 resident       : 郡民, 府民, 道民, 都民, 民, 住民, 州民, 県民
+0.0460010    1 county         : 郡民
+0.0424581   15 private        : 民地, 民戸, 民居, 民屋, 民報, 民鉄, 官民, 民有, 民泊, 民需, ...
+0.0357601    1 fishing        : 農漁民
+0.0341045    1 district       : 郡民
+0.0256722    7 civil          : 民暴, 民訴, 民法, 民政, 民事, 民権, 民間
+0.0253565    8 folk           : 民踊, 民画, 民話, 民芸, 民具, 民謡, 民俗, 民間
+0.0207961    1 corporation    : 民団
+0.0205658    5 house          : 民屋, 民戸, 民居, 民宿, 民家
+0.0145397    1 land           : 民地
+0.0130786    8 citizen        : 道民, 都民, 民, 住民, 臣民, 市民, 国民, 県民
+0.0103527    1 racketeering   : 民暴
+0.0093944    4 national       : 民福, 民力, 臣民, 国民
+0.0090335    1 threatening    : 民暴
+0.0087684    6 popular        : 民選, 民心, 民謡, 民主, 民間, 民意
+0.0086573    3 welfare        : 民福, 民生, 民政
+0.0084659    1 violence       : 民暴
+0.0081900    2 everyday       : 民画, 民具
+0.0081444    4 person         : 民屋, 難民, 逸民, 民
+0.0077570    3 art            : 民画, 民具, 民芸
+0.0074937    3 Japan          : 民青, 四民, 平民
+0.0069099    4 nation         : 万民, 民族, 兆民, 国民
+0.0068135    1 newspaper      : 民報
+0.0067260    3 poor           : 窮民, 貧民, 細民
+0.0065423    5 public         : 民論, 民生, 民政, 市民, 官民
+0.0061759    1 southern       : 蛋民
+0.0060948    1 dance          : 民踊
+0.0060633    1 use            : 民暴
+0.0058440    1 standard       : 民度
+0.0057752    1 average        : 民屋
+0.0053125    2 classes        : 四民, 平民
+0.0051464    2 disaster       : 棄民, 救民
+0.0050829    1 cultural       : 民度
+0.0050778    2 population     : 領民, 住民
+0.0049294    1 fend           : 棄民
+0.0049100    1 picture        : 民画
+0.0048683    1 commoner       : 平民
+0.0048464    1 migrant        : 民工
+0.0047068    2 social         : 四民, 民度
+0.0046881    2 samurai        : 四民, 士民
+0.0046657    2 caste          : 賎民, 賤民
+0.0043227    2 sentiment      : 民心, 民情
+0.0041632    1 savage         : 蛮民
+0.0040978    1 life           : 民画
+0.0040302    1 abandoned      : 棄民
+0.0039170    3 common         : 士民, 常民, 庶民
+0.0037941    1 rural          : 民工
+0.0036189    2 civilian       : 民間, 文民
+0.0035786    2 belonging      : 部民, 在民
+0.0035142    2 humble         : 賎民, 賤民
+0.0034710    1 worker         : 民工
+0.0034566    2 ethnic         : 民族, 民俗
+0.0031870    2 citizenry      : 市民, 在民
+0.0031733    2 townspeople    : 町民, 市民
+0.0031660    1 natural        : 棄民
+0.0031127    1 railway        : 民鉄
+0.0031048    1 opinion        : 民論
+0.0030237    1 war            : 棄民
+0.0030230    1 four           : 四民
+0.0030143    1 customs        : 民俗
+0.0029378    2 colonization   : 植民, 殖民
+0.0028866    1 collective     : 民
+0.0028860    1 left           : 棄民
+0.0028405    2 government     : 官民, 民政
+0.0028401    1 plebeian       : 平民
+0.0027945    1 user           : 民
+0.0027783    2 group          : 部民, 民族
+0.0027419    1 idler          : 遊民
+0.0026459    1 unemployed     : 遊民
+0.0025757    1 sector         : 官民
+0.0025683    2 whole          : 万民, 兆民
+0.0025652    1 mob            : 暴民
+0.0024300    1 song           : 民謡
+0.0023596    1 governing      : 牧民
+0.0023020    1 relieving      : 済民
+0.0022826    1 ownership      : 民有
+0.0022190    1 Yamato         : 部民
+0.0021982    1 militiaman     : 民兵
+0.0021982    1 ethnos         : 民族
+0.0021537    1 hereditary     : 部民
+0.0021425    1 election       : 民選
+0.0021126    1 recluse        : 逸民
+0.0020706    1 manners        : 民度
+0.0020706    1 moral          : 民度
+0.0020291    1 prefecture     : 県民
+0.0020270    1 occupation     : 部民
+0.0020122    1 ignorant       : 愚民
+0.0019829    1 militia        : 民兵
+0.0019479    1 suit           : 民訴
+0.0019311    1 monarch        : 君民
+0.0019265    1 pension        : 民宿
+0.0019265    1 democracy      : 民主
+0.0018952    1 retired        : 逸民
+0.0018828    1 sovereignty    : 民主
+0.0018383    1 action         : 民訴
+0.0018203    1 native         : 土民
+0.0017991    1 condition      : 民情
+0.0017923    1 country        : 国民
+0.0017790    1 level          : 民度
+0.0017503    1 islander       : 島民
+0.0017501    1 state          : 州民
+0.0017471    1 refugee        : 難民
+0.0017382    1 individual     : 義民
+0.0017245    1 imperial       : 公民
+0.0017220    1 three          : 平民
+0.0017112    1 breakfast      : 民宿
+0.0017112    1 providing      : 民宿
+0.0017066    1 bourgeoisie    : 市民
+0.0016811    1 folklore       : 民話
+0.0016601    1 relief         : 救民
+0.0016575    1 living         : 民度
+0.0016212    1 commercial     : 民放
+0.0016112    1 broadcast      : 民放
+0.0016111    1 craft          : 民芸
+0.0016111    1 enterprise     : 民業
+0.0015833    1 chosen         : 選民
+0.0015674    1 politics       : 民政
+0.0015597    1 livelihood     : 民生
+0.0015597    1 lodging        : 民宿
+0.0015464    1 villager       : 村民
+0.0015439    1 peasant        : 農民
+0.0015253    1 code           : 民法
+0.0015191    1 tale           : 民話
+0.0014901    1 emigrant       : 移民
+0.0014901    1 immigrant      : 移民
+0.0014479    1 administration : 民政
+0.0014476    1 marry          : 難民
+0.0014444    1 prefectural    : 府民
+0.0014437    1 demand         : 民需
+0.0014396    1 guest          : 民宿
+0.0014307    1 farmer         : 農民
+0.0014268    1 come           : 民具
+0.0014063    1 good           : 良民
+0.0014025    1 promotion      : 民政
+0.0013926    1 race           : 民族
+0.0013742    1 management     : 民営
+0.0013624    1 period         : 部民
+0.0013442    1 emigration     : 移民
+0.0013279    1 unable         : 難民
+0.0013164    1 bed            : 民宿
+0.0013060    1 immigration    : 移民
+0.0012938    1 residence      : 民泊
+0.0012914    1 stuck          : 難民
+0.0012650    1 case           : 民事
+0.0012513    1 lack           : 難民
+0.0012444    1 law            : 民法
+0.0011956    1 Japanese       : 民訴
+0.0011932    1 island         : 島民
+0.0011884    1 story          : 民話
+0.0011201    1 home           : 民宿
+0.0011136    1 ward           : 区民
+0.0011102    1 shop           : 難民
+0.0010684    1 taking         : 民泊
+0.0010364    1 situation      : 難民
+0.0010274    1 ordinary       : 庶民
+0.0009913    1 subject        : 臣民
+0.0009887    1 class          : 市民
+0.0009526    1 middle         : 市民
+0.0009373    1 city           : 市民
+0.0008942    1 military       : 軍民
+0.0008411    1 place          : 難民
+0.0007492    1 something      : 難民
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0642776    1 agrarian
+	agrarian WORD[ 1,   1]: 0.0642776 農漁民
+TOKEN[ 2]: 0.0591867   33 people
+	people WORD[ 2,   1]: 0.0059546 民利
+	people WORD[ 2,   2]: 0.0051782 棄民
+	people WORD[ 2,   3]: 0.0043883 蛋民
+	people WORD[ 2,   4]: 0.0036242 飢民
+	people WORD[ 2,   5]: 0.0027523 蛮民
+	people WORD[ 2,   6]: 0.0026745 賎民
+	people WORD[ 2,   7]: 0.0026745 賤民
+	people WORD[ 2,   8]: 0.0016258 庶民
+	people WORD[ 2,   9]: 0.0015028 良民
+	people WORD[ 2,  10]: 0.0014864 士民
+	people WORD[ 2,  11]: 0.0014568 民望
+	people WORD[ 2,  12]: 0.0014568 民度
+	people WORD[ 2,  13]: 0.0014568 民情
+	people WORD[ 2,  14]: 0.0014163 部民
+	people WORD[ 2,  15]: 0.0013928 万民
+	people WORD[ 2,  16]: 0.0012957 民草
+	people WORD[ 2,  17]: 0.0012585 常民
+	people WORD[ 2,  18]: 0.0012091 済民
+	people WORD[ 2,  19]: 0.0012044 窮民
+	people WORD[ 2,  20]: 0.0011996 愚民
+	people WORD[ 2,  21]: 0.0010415 民族
+	people WORD[ 2,  22]: 0.0010415 民生
+	people WORD[ 2,  23]: 0.0010415 民衆
+	people WORD[ 2,  24]: 0.0010415 民意
+	people WORD[ 2,  25]: 0.0009788 貧民
+	people WORD[ 2,  26]: 0.0008581 兆民
+	people WORD[ 2,  27]: 0.0008316 選民
+	people WORD[ 2,  28]: 0.0008181 人民
+	people WORD[ 2,  29]: 0.0008107 州民
+	people WORD[ 2,  30]: 0.0008009 在民
+	people WORD[ 2,  31]: 0.0007846 国民
+	people WORD[ 2,  32]: 0.0007838 公民
+	people WORD[ 2,  33]: 0.0007588 官民
+TOKEN[ 3]: 0.0571309    4 populace
+	populace WORD[ 3,   1]: 0.0505373 農漁民
+	populace WORD[ 3,   2]: 0.0021501 民草
+	populace WORD[ 3,   3]: 0.0017283 民衆
+	populace WORD[ 3,   4]: 0.0013576 人民
+TOKEN[ 4]: 0.0510502    4 inhabitant
+	inhabitant WORD[ 4,   1]: 0.0466732 郡民
+	inhabitant WORD[ 4,   2]: 0.0015420 島民
+	inhabitant WORD[ 4,   3]: 0.0014245 住民
+	inhabitant WORD[ 4,   4]: 0.0014105 市民
+TOKEN[ 5]: 0.0501599    8 resident
+	resident WORD[ 5,   1]: 0.0398776 郡民
+	resident WORD[ 5,   2]: 0.0014760 府民
+	resident WORD[ 5,   3]: 0.0013481 道民
+	resident WORD[ 5,   4]: 0.0013329 都民
+	resident WORD[ 5,   5]: 0.0012675 民
+	resident WORD[ 5,   6]: 0.0012171 住民
+	resident WORD[ 5,   7]: 0.0012083 州民
+	resident WORD[ 5,   8]: 0.0011648 県民
+TOKEN[ 6]: 0.0460010    1 county
+	county WORD[ 6,   1]: 0.0460010 郡民
+TOKEN[ 7]: 0.0424581   15 private
+	private WORD[ 7,   1]: 0.0079567 民地
+	private WORD[ 7,   2]: 0.0066985 民戸
+	private WORD[ 7,   3]: 0.0057775 民居
+	private WORD[ 7,   4]: 0.0044892 民屋
+	private WORD[ 7,   5]: 0.0029159 民報
+	private WORD[ 7,   6]: 0.0026710 民鉄
+	private WORD[ 7,   7]: 0.0017667 官民
+	private WORD[ 7,   8]: 0.0016959 民有
+	private WORD[ 7,   9]: 0.0012124 民泊
+	private WORD[ 7,  10]: 0.0012124 民需
+	private WORD[ 7,  11]: 0.0012124 民宿
+	private WORD[ 7,  12]: 0.0012124 民業
+	private WORD[ 7,  13]: 0.0012124 民間
+	private WORD[ 7,  14]: 0.0012124 民家
+	private WORD[ 7,  15]: 0.0012124 民営
+TOKEN[ 8]: 0.0357601    1 fishing
+	fishing WORD[ 8,   1]: 0.0357601 農漁民
+TOKEN[ 9]: 0.0341045    1 district
+	district WORD[ 9,   1]: 0.0341045 郡民
+TOKEN[10]: 0.0256722    7 civil
+	civil WORD[10,   1]: 0.0078518 民暴
+	civil WORD[10,   2]: 0.0061314 民訴
+	civil WORD[10,   3]: 0.0029223 民法
+	civil WORD[10,   4]: 0.0029223 民政
+	civil WORD[10,   5]: 0.0029222 民事
+	civil WORD[10,   6]: 0.0014611 民権
+	civil WORD[10,   7]: 0.0014611 民間
+TOKEN[11]: 0.0253565    8 folk
+	folk WORD[11,   1]: 0.0070219 民踊
+	folk WORD[11,   2]: 0.0058159 民画
+	folk WORD[11,   3]: 0.0029812 民話
+	folk WORD[11,   4]: 0.0029811 民芸
+	folk WORD[11,   5]: 0.0020846 民具
+	folk WORD[11,   6]: 0.0014906 民謡
+	folk WORD[11,   7]: 0.0014906 民俗
+	folk WORD[11,   8]: 0.0014905 民間
+TOKEN[12]: 0.0207961    1 corporation
+	corporation WORD[12,   1]: 0.0103981 民団
+TOKEN[13]: 0.0205658    5 house
+	house WORD[13,   1]: 0.0077326 民屋
+	house WORD[13,   2]: 0.0057691 民戸
+	house WORD[13,   3]: 0.0049758 民居
+	house WORD[13,   4]: 0.0010442 民宿
+	house WORD[13,   5]: 0.0010442 民家
+TOKEN[14]: 0.0145397    1 land
+	land WORD[14,   1]: 0.0145397 民地
+TOKEN[15]: 0.0130786    8 citizen
+	citizen WORD[15,   1]: 0.0014269 道民
+	citizen WORD[15,   2]: 0.0014108 都民
+	citizen WORD[15,   3]: 0.0013415 民
+	citizen WORD[15,   4]: 0.0012882 住民
+	citizen WORD[15,   5]: 0.0012859 臣民
+	citizen WORD[15,   6]: 0.0012755 市民
+	citizen WORD[15,   7]: 0.0012378 国民
+	citizen WORD[15,   8]: 0.0012328 県民
+TOKEN[16]: 0.0103527    1 racketeering
+	racketeering WORD[16,   1]: 0.0103527 民暴
+TOKEN[17]: 0.0093944    4 national
+	national WORD[17,   1]: 0.0045312 民福
+	national WORD[17,   2]: 0.0018445 民力
+	national WORD[17,   3]: 0.0010320 臣民
+	national WORD[17,   4]: 0.0009934 国民
+TOKEN[18]: 0.0090335    1 threatening
+	threatening WORD[18,   1]: 0.0090335 民暴
+TOKEN[19]: 0.0087684    6 popular
+	popular WORD[19,   1]: 0.0018043 民選
+	popular WORD[19,   2]: 0.0018043 民心
+	popular WORD[19,   3]: 0.0012900 民謡
+	popular WORD[19,   4]: 0.0012899 民主
+	popular WORD[19,   5]: 0.0012899 民間
+	popular WORD[19,   6]: 0.0012899 民意
+TOKEN[20]: 0.0086573    3 welfare
+	welfare WORD[20,   1]: 0.0054724 民福
+	welfare WORD[20,   2]: 0.0015925 民生
+	welfare WORD[20,   3]: 0.0015925 民政
+TOKEN[21]: 0.0084659    1 violence
+	violence WORD[21,   1]: 0.0084659 民暴
+TOKEN[22]: 0.0081900    2 everyday
+	everyday WORD[22,   1]: 0.0060290 民画
+	everyday WORD[22,   2]: 0.0021610 民具
+TOKEN[23]: 0.0081444    4 person
+	person WORD[23,   1]: 0.0030288 民屋
+	person WORD[23,   2]: 0.0028828 難民
+	person WORD[23,   3]: 0.0008970 逸民
+	person WORD[23,   4]: 0.0006679 民
+TOKEN[24]: 0.0077570    3 art
+	art WORD[24,   1]: 0.0048039 民画
+	art WORD[24,   2]: 0.0017219 民具
+	art WORD[24,   3]: 0.0012312 民芸
+TOKEN[25]: 0.0074937    3 Japan
+	Japan WORD[25,   1]: 0.0036351 民青
+	Japan WORD[25,   2]: 0.0023453 四民
+	Japan WORD[25,   3]: 0.0015133 平民
+TOKEN[26]: 0.0069099    4 nation
+	nation WORD[26,   1]: 0.0019795 万民
+	nation WORD[26,   2]: 0.0014803 民族
+	nation WORD[26,   3]: 0.0012197 兆民
+	nation WORD[26,   4]: 0.0011152 国民
+TOKEN[27]: 0.0068135    1 newspaper
+	newspaper WORD[27,   1]: 0.0068135 民報
+TOKEN[28]: 0.0067260    3 poor
+	poor WORD[28,   1]: 0.0028815 窮民
+	poor WORD[28,   2]: 0.0023417 貧民
+	poor WORD[28,   3]: 0.0015027 細民
+TOKEN[29]: 0.0065423    5 public
+	public WORD[29,   1]: 0.0027226 民論
+	public WORD[29,   2]: 0.0010898 民生
+	public WORD[29,   3]: 0.0010898 民政
+	public WORD[29,   4]: 0.0008461 市民
+	public WORD[29,   5]: 0.0007940 官民
+TOKEN[30]: 0.0061759    1 southern
+	southern WORD[30,   1]: 0.0061759 蛋民
+TOKEN[31]: 0.0060948    1 dance
+	dance WORD[31,   1]: 0.0060948 民踊
+TOKEN[32]: 0.0060633    1 use
+	use WORD[32,   1]: 0.0060633 民暴
+TOKEN[33]: 0.0058440    1 standard
+	standard WORD[33,   1]: 0.0058440 民度
+TOKEN[34]: 0.0057752    1 average
+	average WORD[34,   1]: 0.0057752 民屋
+TOKEN[35]: 0.0053125    2 classes
+	classes WORD[35,   1]: 0.0032289 四民
+	classes WORD[35,   2]: 0.0020835 平民
+TOKEN[36]: 0.0051464    2 disaster
+	disaster WORD[36,   1]: 0.0035124 棄民
+	disaster WORD[36,   2]: 0.0016340 救民
+TOKEN[37]: 0.0050829    1 cultural
+	cultural WORD[37,   1]: 0.0050829 民度
+TOKEN[38]: 0.0050778    2 population
+	population WORD[38,   1]: 0.0037597 領民
+	population WORD[38,   2]: 0.0013180 住民
+TOKEN[39]: 0.0049294    1 fend
+	fend WORD[39,   1]: 0.0049294 棄民
+TOKEN[40]: 0.0049100    1 picture
+	picture WORD[40,   1]: 0.0049100 民画
+TOKEN[41]: 0.0048683    1 commoner
+	commoner WORD[41,   1]: 0.0048683 平民
+TOKEN[42]: 0.0048464    1 migrant
+	migrant WORD[42,   1]: 0.0048464 民工
+TOKEN[43]: 0.0047068    2 social
+	social WORD[43,   1]: 0.0028432 四民
+	social WORD[43,   2]: 0.0018636 民度
+TOKEN[44]: 0.0046881    2 samurai
+	samurai WORD[44,   1]: 0.0028093 四民
+	samurai WORD[44,   2]: 0.0018787 士民
+TOKEN[45]: 0.0046657    2 caste
+	caste WORD[45,   1]: 0.0023328 賎民
+	caste WORD[45,   2]: 0.0023328 賤民
+TOKEN[46]: 0.0043227    2 sentiment
+	sentiment WORD[46,   1]: 0.0021614 民心
+	sentiment WORD[46,   2]: 0.0021614 民情
+TOKEN[47]: 0.0041632    1 savage
+	savage WORD[47,   1]: 0.0041632 蛮民
+TOKEN[48]: 0.0040978    1 life
+	life WORD[48,   1]: 0.0040978 民画
+TOKEN[49]: 0.0040302    1 abandoned
+	abandoned WORD[49,   1]: 0.0040302 棄民
+TOKEN[50]: 0.0039170    3 common
+	common WORD[50,   1]: 0.0016365 士民
+	common WORD[50,   2]: 0.0013855 常民
+	common WORD[50,   3]: 0.0008950 庶民
+TOKEN[51]: 0.0037941    1 rural
+	rural WORD[51,   1]: 0.0037941 民工
+TOKEN[52]: 0.0036189    2 civilian
+	civilian WORD[52,   1]: 0.0018470 民間
+	civilian WORD[52,   2]: 0.0017719 文民
+TOKEN[53]: 0.0035786    2 belonging
+	belonging WORD[53,   1]: 0.0022860 部民
+	belonging WORD[53,   2]: 0.0012927 在民
+TOKEN[54]: 0.0035142    2 humble
+	humble WORD[54,   1]: 0.0017571 賎民
+	humble WORD[54,   2]: 0.0017571 賤民
+TOKEN[55]: 0.0034710    1 worker
+	worker WORD[55,   1]: 0.0034710 民工
+TOKEN[56]: 0.0034566    2 ethnic
+	ethnic WORD[56,   1]: 0.0017283 民族
+	ethnic WORD[56,   2]: 0.0017283 民俗
+TOKEN[57]: 0.0031870    2 citizenry
+	citizenry WORD[57,   1]: 0.0016011 市民
+	citizenry WORD[57,   2]: 0.0015859 在民
+TOKEN[58]: 0.0031733    2 townspeople
+	townspeople WORD[58,   1]: 0.0016338 町民
+	townspeople WORD[58,   2]: 0.0015394 市民
+TOKEN[59]: 0.0031660    1 natural
+	natural WORD[59,   1]: 0.0031660 棄民
+TOKEN[60]: 0.0031127    1 railway
+	railway WORD[60,   1]: 0.0031127 民鉄
+TOKEN[61]: 0.0031048    1 opinion
+	opinion WORD[61,   1]: 0.0031048 民論
+TOKEN[62]: 0.0030237    1 war
+	war WORD[62,   1]: 0.0030237 棄民
+TOKEN[63]: 0.0030230    1 four
+	four WORD[63,   1]: 0.0030230 四民
+TOKEN[64]: 0.0030143    1 customs
+	customs WORD[64,   1]: 0.0030143 民俗
+TOKEN[65]: 0.0029378    2 colonization
+	colonization WORD[65,   1]: 0.0014689 植民
+	colonization WORD[65,   2]: 0.0014689 殖民
+TOKEN[66]: 0.0028866    1 collective
+	collective WORD[66,   1]: 0.0014433 民
+TOKEN[67]: 0.0028860    1 left
+	left WORD[67,   1]: 0.0028860 棄民
+TOKEN[68]: 0.0028405    2 government
+	government WORD[68,   1]: 0.0016845 官民
+	government WORD[68,   2]: 0.0011560 民政
+TOKEN[69]: 0.0028401    1 plebeian
+	plebeian WORD[69,   1]: 0.0028401 平民
+TOKEN[70]: 0.0027945    1 user
+	user WORD[70,   1]: 0.0013973 民
+TOKEN[71]: 0.0027783    2 group
+	group WORD[71,   1]: 0.0016010 部民
+	group WORD[71,   2]: 0.0011773 民族
+TOKEN[72]: 0.0027419    1 idler
+	idler WORD[72,   1]: 0.0027419 遊民
+TOKEN[73]: 0.0026459    1 unemployed
+	unemployed WORD[73,   1]: 0.0026459 遊民
+TOKEN[74]: 0.0025757    1 sector
+	sector WORD[74,   1]: 0.0025757 官民
+TOKEN[75]: 0.0025683    2 whole
+	whole WORD[75,   1]: 0.0015891 万民
+	whole WORD[75,   2]: 0.0009791 兆民
+TOKEN[76]: 0.0025652    1 mob
+	mob WORD[76,   1]: 0.0025652 暴民
+TOKEN[77]: 0.0024300    1 song
+	song WORD[77,   1]: 0.0024300 民謡
+TOKEN[78]: 0.0023596    1 governing
+	governing WORD[78,   1]: 0.0023596 牧民
+TOKEN[79]: 0.0023020    1 relieving
+	relieving WORD[79,   1]: 0.0023020 済民
+TOKEN[80]: 0.0022826    1 ownership
+	ownership WORD[80,   1]: 0.0022826 民有
+TOKEN[81]: 0.0022190    1 Yamato
+	Yamato WORD[81,   1]: 0.0022190 部民
+TOKEN[82]: 0.0021982    1 militiaman
+	militiaman WORD[82,   1]: 0.0021982 民兵
+TOKEN[83]: 0.0021982    1 ethnos
+	ethnos WORD[83,   1]: 0.0021982 民族
+TOKEN[84]: 0.0021537    1 hereditary
+	hereditary WORD[84,   1]: 0.0021537 部民
+TOKEN[85]: 0.0021425    1 election
+	election WORD[85,   1]: 0.0021425 民選
+TOKEN[86]: 0.0021126    1 recluse
+	recluse WORD[86,   1]: 0.0021126 逸民
+TOKEN[87]: 0.0020706    1 manners
+	manners WORD[87,   1]: 0.0020706 民度
+TOKEN[88]: 0.0020706    1 moral
+	moral WORD[88,   1]: 0.0020706 民度
+TOKEN[89]: 0.0020291    1 prefecture
+	prefecture WORD[89,   1]: 0.0020291 県民
+TOKEN[90]: 0.0020270    1 occupation
+	occupation WORD[90,   1]: 0.0020270 部民
+TOKEN[91]: 0.0020122    1 ignorant
+	ignorant WORD[91,   1]: 0.0020122 愚民
+TOKEN[92]: 0.0019829    1 militia
+	militia WORD[92,   1]: 0.0019829 民兵
+TOKEN[93]: 0.0019479    1 suit
+	suit WORD[93,   1]: 0.0019479 民訴
+TOKEN[94]: 0.0019311    1 monarch
+	monarch WORD[94,   1]: 0.0019311 君民
+TOKEN[95]: 0.0019265    1 pension
+	pension WORD[95,   1]: 0.0019265 民宿
+TOKEN[96]: 0.0019265    1 democracy
+	democracy WORD[96,   1]: 0.0019265 民主
+TOKEN[97]: 0.0018952    1 retired
+	retired WORD[97,   1]: 0.0018952 逸民
+TOKEN[98]: 0.0018828    1 sovereignty
+	sovereignty WORD[98,   1]: 0.0018828 民主
+TOKEN[99]: 0.0018383    1 action
+	action WORD[99,   1]: 0.0018383 民訴
+TOKEN[100]: 0.0018203    1 native
+	native WORD[100,   1]: 0.0018203 土民
+TOKEN[101]: 0.0017991    1 condition
+	condition WORD[101,   1]: 0.0017991 民情
+TOKEN[102]: 0.0017923    1 country
+	country WORD[102,   1]: 0.0008961 国民
+TOKEN[103]: 0.0017790    1 level
+	level WORD[103,   1]: 0.0017790 民度
+TOKEN[104]: 0.0017503    1 islander
+	islander WORD[104,   1]: 0.0017503 島民
+TOKEN[105]: 0.0017501    1 state
+	state WORD[105,   1]: 0.0017501 州民
+TOKEN[106]: 0.0017471    1 refugee
+	refugee WORD[106,   1]: 0.0017471 難民
+TOKEN[107]: 0.0017382    1 individual
+	individual WORD[107,   1]: 0.0017382 義民
+TOKEN[108]: 0.0017245    1 imperial
+	imperial WORD[108,   1]: 0.0008623 公民
+TOKEN[109]: 0.0017220    1 three
+	three WORD[109,   1]: 0.0017220 平民
+TOKEN[110]: 0.0017112    1 breakfast
+	breakfast WORD[110,   1]: 0.0017112 民宿
+TOKEN[111]: 0.0017112    1 providing
+	providing WORD[111,   1]: 0.0017112 民宿
+TOKEN[112]: 0.0017066    1 bourgeoisie
+	bourgeoisie WORD[112,   1]: 0.0017066 市民
+TOKEN[113]: 0.0016811    1 folklore
+	folklore WORD[113,   1]: 0.0016811 民話
+TOKEN[114]: 0.0016601    1 relief
+	relief WORD[114,   1]: 0.0016601 救民
+TOKEN[115]: 0.0016575    1 living
+	living WORD[115,   1]: 0.0016575 民度
+TOKEN[116]: 0.0016212    1 commercial
+	commercial WORD[116,   1]: 0.0016212 民放
+TOKEN[117]: 0.0016112    1 broadcast
+	broadcast WORD[117,   1]: 0.0016112 民放
+TOKEN[118]: 0.0016111    1 craft
+	craft WORD[118,   1]: 0.0016111 民芸
+TOKEN[119]: 0.0016111    1 enterprise
+	enterprise WORD[119,   1]: 0.0016111 民業
+TOKEN[120]: 0.0015833    1 chosen
+	chosen WORD[120,   1]: 0.0015833 選民
+TOKEN[121]: 0.0015674    1 politics
+	politics WORD[121,   1]: 0.0015674 民政
+TOKEN[122]: 0.0015597    1 livelihood
+	livelihood WORD[122,   1]: 0.0015597 民生
+TOKEN[123]: 0.0015597    1 lodging
+	lodging WORD[123,   1]: 0.0015597 民宿
+TOKEN[124]: 0.0015464    1 villager
+	villager WORD[124,   1]: 0.0015464 村民
+TOKEN[125]: 0.0015439    1 peasant
+	peasant WORD[125,   1]: 0.0015439 農民
+TOKEN[126]: 0.0015253    1 code
+	code WORD[126,   1]: 0.0015253 民法
+TOKEN[127]: 0.0015191    1 tale
+	tale WORD[127,   1]: 0.0015191 民話
+TOKEN[128]: 0.0014901    1 emigrant
+	emigrant WORD[128,   1]: 0.0014901 移民
+TOKEN[129]: 0.0014901    1 immigrant
+	immigrant WORD[129,   1]: 0.0014901 移民
+TOKEN[130]: 0.0014479    1 administration
+	administration WORD[130,   1]: 0.0014479 民政
+TOKEN[131]: 0.0014476    1 marry
+	marry WORD[131,   1]: 0.0014476 難民
+TOKEN[132]: 0.0014444    1 prefectural
+	prefectural WORD[132,   1]: 0.0014444 府民
+TOKEN[133]: 0.0014437    1 demand
+	demand WORD[133,   1]: 0.0014437 民需
+TOKEN[134]: 0.0014396    1 guest
+	guest WORD[134,   1]: 0.0014396 民宿
+TOKEN[135]: 0.0014307    1 farmer
+	farmer WORD[135,   1]: 0.0014307 農民
+TOKEN[136]: 0.0014268    1 come
+	come WORD[136,   1]: 0.0014268 民具
+TOKEN[137]: 0.0014063    1 good
+	good WORD[137,   1]: 0.0014063 良民
+TOKEN[138]: 0.0014025    1 promotion
+	promotion WORD[138,   1]: 0.0014025 民政
+TOKEN[139]: 0.0013926    1 race
+	race WORD[139,   1]: 0.0013926 民族
+TOKEN[140]: 0.0013742    1 management
+	management WORD[140,   1]: 0.0013742 民営
+TOKEN[141]: 0.0013624    1 period
+	period WORD[141,   1]: 0.0013624 部民
+TOKEN[142]: 0.0013442    1 emigration
+	emigration WORD[142,   1]: 0.0013442 移民
+TOKEN[143]: 0.0013279    1 unable
+	unable WORD[143,   1]: 0.0013279 難民
+TOKEN[144]: 0.0013164    1 bed
+	bed WORD[144,   1]: 0.0013164 民宿
+TOKEN[145]: 0.0013060    1 immigration
+	immigration WORD[145,   1]: 0.0013060 移民
+TOKEN[146]: 0.0012938    1 residence
+	residence WORD[146,   1]: 0.0012938 民泊
+TOKEN[147]: 0.0012914    1 stuck
+	stuck WORD[147,   1]: 0.0012914 難民
+TOKEN[148]: 0.0012650    1 case
+	case WORD[148,   1]: 0.0012650 民事
+TOKEN[149]: 0.0012513    1 lack
+	lack WORD[149,   1]: 0.0012513 難民
+TOKEN[150]: 0.0012444    1 law
+	law WORD[150,   1]: 0.0012444 民法
+TOKEN[151]: 0.0011956    1 Japanese
+	Japanese WORD[151,   1]: 0.0011956 民訴
+TOKEN[152]: 0.0011932    1 island
+	island WORD[152,   1]: 0.0011932 島民
+TOKEN[153]: 0.0011884    1 story
+	story WORD[153,   1]: 0.0011884 民話
+TOKEN[154]: 0.0011201    1 home
+	home WORD[154,   1]: 0.0011201 民宿
+TOKEN[155]: 0.0011136    1 ward
+	ward WORD[155,   1]: 0.0011136 区民
+TOKEN[156]: 0.0011102    1 shop
+	shop WORD[156,   1]: 0.0011102 難民
+TOKEN[157]: 0.0010684    1 taking
+	taking WORD[157,   1]: 0.0010684 民泊
+TOKEN[158]: 0.0010364    1 situation
+	situation WORD[158,   1]: 0.0010364 難民
+TOKEN[159]: 0.0010274    1 ordinary
+	ordinary WORD[159,   1]: 0.0010274 庶民
+TOKEN[160]: 0.0009913    1 subject
+	subject WORD[160,   1]: 0.0009913 臣民
+TOKEN[161]: 0.0009887    1 class
+	class WORD[161,   1]: 0.0009887 市民
+TOKEN[162]: 0.0009526    1 middle
+	middle WORD[162,   1]: 0.0009526 市民
+TOKEN[163]: 0.0009373    1 city
+	city WORD[163,   1]: 0.0009373 市民
+TOKEN[164]: 0.0008942    1 military
+	military WORD[164,   1]: 0.0008942 軍民
+TOKEN[165]: 0.0008411    1 place
+	place WORD[165,   1]: 0.0008411 難民
+TOKEN[166]: 0.0007492    1 something
+	something WORD[166,   1]: 0.0007492 難民

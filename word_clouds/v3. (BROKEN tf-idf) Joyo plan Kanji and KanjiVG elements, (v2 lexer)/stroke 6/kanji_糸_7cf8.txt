@@ -1,0 +1,733 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1905371   48 thread         : 糸掛け, 綾糸, 色糸, 染め糸, 太糸, 細糸, かせ糸, 綛糸, 原糸, より糸, ...
+0.1550791    6 spinning       : 糸掛け, 紡糸, 製糸, 糸取り, 糸車, 糸引き
+0.1270883    1 guard          : 糸掛け
+0.1204287    1 machine        : 糸掛け
+0.0248929   21 yarn           : 染め糸, 太糸, 細糸, 紬糸, たこ糸, タコ糸, 凧糸, 糸屋, 麻糸, 唐糸, ...
+0.0197648   19 silk           : 繰り糸, 糸取り, 糸引き, 練り糸, 練糸, 紬糸, 玉糸, 蚕糸, 節糸, 紡ぎ糸, ...
+0.0143497    1 rain           : 糸雨
+0.0127931    1 yucca          : 糸蘭
+0.0116561    3 fine           : 糸雨, 細糸, 糸目
+0.0105963    7 twisted        : より糸, 撚り糸, 縒り糸, 縒糸, 撚糸, 糸織, 糸織り
+0.0105471    1 drizzle        : 糸雨
+0.0082817    5 weaving        : 糸姫, 原糸, たて糸, 経糸, 縦糸
+0.0073847    2 Zygoptera      : 糸とんぼ, 糸蜻蛉
+0.0073726    3 filament       : 渦糸, 細糸, 菌糸
+0.0072664    7 cotton         : たこ糸, タコ糸, 凧糸, 綿糸, 紡糸, 紡ぎ糸, 糸入り
+0.0071941    2 demoiselle     : 糸とんぼ, 糸蜻蛉
+0.0065902    1 vortex         : 渦糸
+0.0061023    1 light          : 糸雨
+0.0058612    1 species        : 糸蘭
+0.0051844    5 twine          : より糸, 撚り糸, 縒り糸, 縒糸, 撚糸
+0.0049785    5 line           : 渦糸, 道糸, 釣り糸, 釣糸, 糸目
+0.0049546    5 twisting       : より糸, 撚り糸, 縒り糸, 縒糸, 撚糸
+0.0048063    5 string         : たこ糸, タコ糸, 凧糸, 糸引き, 一糸
+0.0047061    2 reeled         : かせ糸, 綛糸
+0.0045857    3 kite           : たこ糸, タコ糸, 凧糸
+0.0044889    1 factory        : 糸姫
+0.0042534    2 industry       : 糸姫, 糸偏
+0.0038736    1 worker         : 糸姫
+0.0037859    2 colored        : 綾糸, 色糸
+0.0037695    3 spun           : 紡ぎ糸, 紡糸, 紬糸
+0.0036986    2 loofah         : 糸瓜水, 糸瓜
+0.0035799    5 reel           : 糸枠, 糸まき, 糸巻, 糸巻き, 糸繰り
+0.0034315    2 lint           : 糸くず, 糸屑
+0.0033276    5 raw            : 練り糸, 練糸, 生糸, 糸づくり, 糸作り
+0.0032771    4 spool          : 糸枠, 糸まき, 糸巻, 糸巻き
+0.0032052    1 heddle         : 綾糸
+0.0031393    2 fluff          : 糸くず, 糸屑
+0.0031267    1 shimmering     : 糸遊
+0.0030628    1 woman          : 糸姫
+0.0029200    3 fishing        : 道糸, 釣り糸, 釣糸
+0.0029182    3 waste          : 糸くず, 糸屑, 屑糸
+0.0026494    3 made           : 糸瓜水, 練り糸, 練糸
+0.0025842    3 bobbin         : 糸まき, 糸巻, 糸巻き
+0.0025580    1 cosmetic       : 糸瓜水
+0.0025130    3 coping         : 糸のこ, 糸ノコ, 糸鋸
+0.0024675    2 hot            : 糸遊, 遊糸
+0.0024429    3 woof           : よこ糸, 横糸, 緯糸
+0.0024429    3 weft           : よこ糸, 横糸, 緯糸
+0.0024107    1 cradle         : 綾糸
+0.0024071    1 filiform       : 糸状
+0.0024071    1 stringlike     : 糸状
+0.0024071    1 thready        : 糸状
+0.0023927    1 Gasterosteus   : 糸魚
+0.0023767    2 air            : 糸遊, 遊糸
+0.0023756    3 crosswise      : よこ糸, 横糸, 緯糸
+0.0022696    2 sericin        : 練り糸, 練糸
+0.0022518    3 tuning         : 糸まき, 糸巻, 糸巻き
+0.0022432    1 clew           : 糸玉
+0.0022420    3 filature       : 製糸, 糸取り, 糸引き
+0.0022198    3 wool           : 紡糸, 紡ぎ糸, 毛糸
+0.0021966    1 extract        : 糸瓜水
+0.0021847    1 count          : 太糸
+0.0021667    3 spinner        : 糸取り, 糸繰り, 糸引き
+0.0021150    3 peg            : 糸まき, 糸巻, 糸巻き
+0.0020906    1 filamentous    : 糸状
+0.0020548    3 saw            : 糸のこ, 糸ノコ, 糸鋸
+0.0020123    1 stickleback    : 糸魚
+0.0020113    3 loom           : よこ糸, 横糸, 緯糸
+0.0019698    1 liquid         : 糸瓜水
+0.0019637    2 suture         : 縫い糸, 縫糸
+0.0019546    2 tacking        : しつけ糸, 仕付け糸
+0.0019411    1 cat            : 綾糸
+0.0019081    1 thick          : 太糸
+0.0017936    2 basting        : しつけ糸, 仕付け糸
+0.0017654    2 glossy         : 練り糸, 練糸
+0.0017606    1 low            : 太糸
+0.0017508    2 dissolve       : 練り糸, 練糸
+0.0016579    2 sewing         : 縫い糸, 縫糸
+0.0016484    2 braided        : 組み糸, 組糸
+0.0015892    1 linear         : 糸状
+0.0015875    3 warp           : たて糸, 経糸, 縦糸
+0.0015671    2 braid          : 組み糸, 組糸
+0.0015653    1 linen          : 麻糸
+0.0015394    2 reeler         : 糸取り, 糸引き
+0.0015012    2 rim            : 糸底, 糸尻
+0.0014616    2 solution       : 練り糸, 練糸
+0.0014571    2 woven          : 糸織, 糸織り
+0.0014337    1 seller         : 糸屋
+0.0013956    1 sponge         : 糸瓜
+0.0013633    2 cord           : 組み糸, 組糸
+0.0013577    1 gourd          : 糸瓜
+0.0013431    2 squid          : 糸づくり, 糸作り
+0.0013404    1 hemp           : 麻糸
+0.0012632    1 gossamer       : 遊糸
+0.0012411    1 ball           : 糸玉
+0.0012034    2 cup            : 糸底, 糸尻
+0.0011873    1 shimmer        : 遊糸
+0.0011866    1 musical        : 糸竹
+0.0011644    1 noil           : 紬糸
+0.0011124    2 bottom         : 糸底, 糸尻
+0.0010887    1 removal        : 抜糸
+0.0010856    2 thin           : 糸づくり, 糸作り
+0.0010788    1 dupion         : 玉糸
+0.0010756    1 hypha          : 菌糸
+0.0010754    2 cloth          : 糸織, 糸織り
+0.0010499    1 catgut         : 天蚕糸
+0.0010332    2 strand         : 織り糸, 一糸
+0.0010091    1 Cupressus      : 糸杉
+0.0010067    1 knotted        : 節糸
+0.0009784    1 haze           : 遊糸
+0.0009742    1 traditional    : 糸竹
+0.0009341    1 fungal         : 菌糸
+0.0009220    1 gut            : 天蚕糸
+0.0009037    1 dishrag        : 糸瓜
+0.0008894    2 fish           : 糸づくり, 糸作り
+0.0008804    1 Luffa          : 糸瓜
+0.0008685    1 cocoon         : 玉糸
+0.0008518    1 silkworm       : 天蚕糸
+0.0008280    1 chignon        : 糸鬢
+0.0008280    1 sideburns      : 糸鬢
+0.0008113    1 marionette     : 糸操り
+0.0007650    1 drawn          : 抜き糸
+0.0007540    1 Egyptian       : 糸瓜
+0.0007506    1 textile        : 糸偏
+0.0007459    1 Vietnamese     : 糸瓜
+0.0007286    1 manipulation   : 糸操り
+0.0007282    1 heat           : 遊糸
+0.0007252    1 formed         : 玉糸
+0.0007222    1 Japanese       : 糸竹
+0.0007070    1 cypress        : 糸杉
+0.0007029    1 shaved         : 糸鬢
+0.0007029    1 earthenware    : 糸底
+0.0006978    1 cucumber       : 糸瓜
+0.0006935    1 willow         : 糸柳
+0.0006895    1 comes          : 玉糸
+0.0006716    1 forehead       : 糸鬢
+0.0006706    1 double         : 玉糸
+0.0006650    1 weeping        : 糸柳
+0.0006541    1 worm           : 糸蚯蚓
+0.0006407    1 silver         : 銀糸
+0.0006354    1 century        : 糸鬢
+0.0006261    1 wheel          : 糸車
+0.0006201    1 gold           : 金糸
+0.0006018    1 vegetable      : 糸瓜
+0.0005977    1 bowl           : 糸尻
+0.0005976    1 cherry         : 糸桜
+0.0005914    1 useless        : 糸瓜
+0.0005878    1 woolen         : 毛糸
+0.0005862    1 size           : 糸鬢
+0.0005787    1 weight         : 糸目
+0.0005546    1 radical        : 糸偏
+0.0005457    1 male           : 糸鬢
+0.0005428    1 price          : 糸価
+0.0005189    1 two            : 玉糸
+0.0005123    1 left           : 糸偏
+0.0004828    1 tree           : 糸桜
+0.0004796    1 knitting       : 毛糸
+0.0004559    1 paper          : 糸入り
+0.0004549    1 clue           : 糸口
+0.0004497    1 menstruation   : 糸引き
+0.0004313    1 hint           : 糸口
+0.0004161    1 belief         : 糸引き
+0.0003979    1 folk           : 糸引き
+0.0003657    1 something      : 糸瓜
+0.0003522    1 white          : 白糸
+0.0003487    1 step           : 糸口
+0.0003397    1 lead           : 糸口
+0.0003316    1 beginning      : 糸口
+0.0003291    1 appearance     : 糸引き
+0.0003275    1 Buddha         : 糸引き
+0.0003119    1 start          : 糸口
+0.0003111    1 one            : 糸
+0.0003013    1 first          : 糸口
+0.0002755    1 end            : 糸口
+0.0002250    1 someone        : 糸引き
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1905371   48 thread
+	thread WORD[ 1,   1]: 0.1359785 糸掛け
+	thread WORD[ 1,   2]: 0.0081944 綾糸
+	thread WORD[ 1,   3]: 0.0027631 色糸
+	thread WORD[ 1,   4]: 0.0020487 染め糸
+	thread WORD[ 1,   5]: 0.0020486 太糸
+	thread WORD[ 1,   6]: 0.0020486 細糸
+	thread WORD[ 1,   7]: 0.0017092 かせ糸
+	thread WORD[ 1,   8]: 0.0017092 綛糸
+	thread WORD[ 1,   9]: 0.0017056 原糸
+	thread WORD[ 1,  10]: 0.0015958 より糸
+	thread WORD[ 1,  11]: 0.0015958 撚り糸
+	thread WORD[ 1,  12]: 0.0015958 縒り糸
+	thread WORD[ 1,  13]: 0.0015958 縒糸
+	thread WORD[ 1,  14]: 0.0013526 糸玉
+	thread WORD[ 1,  15]: 0.0012462 糸くず
+	thread WORD[ 1,  16]: 0.0012462 糸屑
+	thread WORD[ 1,  17]: 0.0012120 麻糸
+	thread WORD[ 1,  18]: 0.0009905 撚糸
+	thread WORD[ 1,  19]: 0.0008568 唐糸
+	thread WORD[ 1,  20]: 0.0007253 練り糸
+	thread WORD[ 1,  21]: 0.0007253 練糸
+	thread WORD[ 1,  22]: 0.0007219 抜き糸
+	thread WORD[ 1,  23]: 0.0007216 縫い糸
+	thread WORD[ 1,  24]: 0.0007216 縫糸
+	thread WORD[ 1,  25]: 0.0007021 紡ぎ糸
+	thread WORD[ 1,  26]: 0.0006785 しつけ糸
+	thread WORD[ 1,  27]: 0.0006785 仕付け糸
+	thread WORD[ 1,  28]: 0.0006597 糸価
+	thread WORD[ 1,  29]: 0.0006532 屑糸
+	thread WORD[ 1,  30]: 0.0006485 銀糸
+	thread WORD[ 1,  31]: 0.0006484 金糸
+	thread WORD[ 1,  32]: 0.0006474 繭糸
+	thread WORD[ 1,  33]: 0.0006474 絹糸
+	thread WORD[ 1,  34]: 0.0006381 組み糸
+	thread WORD[ 1,  35]: 0.0006381 組糸
+	thread WORD[ 1,  36]: 0.0006279 生糸
+	thread WORD[ 1,  37]: 0.0006085 糸目
+	thread WORD[ 1,  38]: 0.0006085 糸まき
+	thread WORD[ 1,  39]: 0.0006085 糸巻
+	thread WORD[ 1,  40]: 0.0006085 糸巻き
+	thread WORD[ 1,  41]: 0.0006084 糸偏
+	thread WORD[ 1,  42]: 0.0006084 糸鬢
+	thread WORD[ 1,  43]: 0.0005588 綿糸
+	thread WORD[ 1,  44]: 0.0004329 白糸
+	thread WORD[ 1,  45]: 0.0004262 蚕糸
+	thread WORD[ 1,  46]: 0.0003754 糸口
+	thread WORD[ 1,  47]: 0.0003753 糸
+	thread WORD[ 1,  48]: 0.0003751 一糸
+TOKEN[ 2]: 0.1550791    6 spinning
+	spinning WORD[ 2,   1]: 0.1516851 糸掛け
+	spinning WORD[ 2,   2]: 0.0008580 紡糸
+	spinning WORD[ 2,   3]: 0.0007598 製糸
+	spinning WORD[ 2,   4]: 0.0006787 糸取り
+	spinning WORD[ 2,   5]: 0.0006786 糸車
+	spinning WORD[ 2,   6]: 0.0004188 糸引き
+TOKEN[ 3]: 0.1270883    1 guard
+	guard WORD[ 3,   1]: 0.1270883 糸掛け
+TOKEN[ 4]: 0.1204287    1 machine
+	machine WORD[ 4,   1]: 0.1204287 糸掛け
+TOKEN[ 5]: 0.0248929   21 yarn
+	yarn WORD[ 5,   1]: 0.0022433 染め糸
+	yarn WORD[ 5,   2]: 0.0022431 太糸
+	yarn WORD[ 5,   3]: 0.0022431 細糸
+	yarn WORD[ 5,   4]: 0.0015376 紬糸
+	yarn WORD[ 5,   5]: 0.0014446 たこ糸
+	yarn WORD[ 5,   6]: 0.0014446 タコ糸
+	yarn WORD[ 5,   7]: 0.0014445 凧糸
+	yarn WORD[ 5,   8]: 0.0013588 糸屋
+	yarn WORD[ 5,   9]: 0.0013271 麻糸
+	yarn WORD[ 5,  10]: 0.0009381 唐糸
+	yarn WORD[ 5,  11]: 0.0009092 毛糸
+	yarn WORD[ 5,  12]: 0.0008737 より糸
+	yarn WORD[ 5,  13]: 0.0008737 撚り糸
+	yarn WORD[ 5,  14]: 0.0008737 縒り糸
+	yarn WORD[ 5,  15]: 0.0008737 縒糸
+	yarn WORD[ 5,  16]: 0.0007688 紡ぎ糸
+	yarn WORD[ 5,  17]: 0.0006661 糸織
+	yarn WORD[ 5,  18]: 0.0006661 糸織り
+	yarn WORD[ 5,  19]: 0.0006119 綿糸
+	yarn WORD[ 5,  20]: 0.0005423 撚糸
+	yarn WORD[ 5,  21]: 0.0004667 蚕糸
+TOKEN[ 6]: 0.0197648   19 silk
+	silk WORD[ 6,   1]: 0.0032567 繰り糸
+	silk WORD[ 6,   2]: 0.0023009 糸取り
+	silk WORD[ 6,   3]: 0.0014199 糸引き
+	silk WORD[ 6,   4]: 0.0013714 練り糸
+	silk WORD[ 6,   5]: 0.0013714 練糸
+	silk WORD[ 6,   6]: 0.0013275 紬糸
+	silk WORD[ 6,   7]: 0.0013037 玉糸
+	silk WORD[ 6,   8]: 0.0008060 蚕糸
+	silk WORD[ 6,   9]: 0.0007137 節糸
+	silk WORD[ 6,  10]: 0.0006638 紡ぎ糸
+	silk WORD[ 6,  11]: 0.0006440 製糸
+	silk WORD[ 6,  12]: 0.0006236 糸価
+	silk WORD[ 6,  13]: 0.0006121 繭糸
+	silk WORD[ 6,  14]: 0.0006120 絹糸
+	silk WORD[ 6,  15]: 0.0005936 生糸
+	silk WORD[ 6,  16]: 0.0005751 糸織
+	silk WORD[ 6,  17]: 0.0005751 糸織り
+	silk WORD[ 6,  18]: 0.0005751 糸入り
+	silk WORD[ 6,  19]: 0.0004191 繰糸
+TOKEN[ 7]: 0.0143497    1 rain
+	rain WORD[ 7,   1]: 0.0143497 糸雨
+TOKEN[ 8]: 0.0127931    1 yucca
+	yucca WORD[ 8,   1]: 0.0127931 糸蘭
+TOKEN[ 9]: 0.0116561    3 fine
+	fine WORD[ 9,   1]: 0.0073949 糸雨
+	fine WORD[ 9,   2]: 0.0037102 細糸
+	fine WORD[ 9,   3]: 0.0005510 糸目
+TOKEN[10]: 0.0105963    7 twisted
+	twisted WORD[10,   1]: 0.0017649 より糸
+	twisted WORD[10,   2]: 0.0017649 撚り糸
+	twisted WORD[10,   3]: 0.0017649 縒り糸
+	twisted WORD[10,   4]: 0.0017649 縒糸
+	twisted WORD[10,   5]: 0.0010955 撚糸
+	twisted WORD[10,   6]: 0.0006728 糸織
+	twisted WORD[10,   7]: 0.0006728 糸織り
+TOKEN[11]: 0.0105471    1 drizzle
+	drizzle WORD[11,   1]: 0.0105471 糸雨
+TOKEN[12]: 0.0082817    5 weaving
+	weaving WORD[12,   1]: 0.0047050 糸姫
+	weaving WORD[12,   2]: 0.0019942 原糸
+	weaving WORD[12,   3]: 0.0005275 たて糸
+	weaving WORD[12,   4]: 0.0005275 経糸
+	weaving WORD[12,   5]: 0.0005275 縦糸
+TOKEN[13]: 0.0073847    2 Zygoptera
+	Zygoptera WORD[13,   1]: 0.0036924 糸とんぼ
+	Zygoptera WORD[13,   2]: 0.0036924 糸蜻蛉
+TOKEN[14]: 0.0073726    3 filament
+	filament WORD[14,   1]: 0.0036594 渦糸
+	filament WORD[14,   2]: 0.0028203 細糸
+	filament WORD[14,   3]: 0.0008928 菌糸
+TOKEN[15]: 0.0072664    7 cotton
+	cotton WORD[15,   1]: 0.0013398 たこ糸
+	cotton WORD[15,   2]: 0.0013398 タコ糸
+	cotton WORD[15,   3]: 0.0013398 凧糸
+	cotton WORD[15,   4]: 0.0011351 綿糸
+	cotton WORD[15,   5]: 0.0007811 紡糸
+	cotton WORD[15,   6]: 0.0007130 紡ぎ糸
+	cotton WORD[15,   7]: 0.0006178 糸入り
+TOKEN[16]: 0.0071941    2 demoiselle
+	demoiselle WORD[16,   1]: 0.0035970 糸とんぼ
+	demoiselle WORD[16,   2]: 0.0035970 糸蜻蛉
+TOKEN[17]: 0.0065902    1 vortex
+	vortex WORD[17,   1]: 0.0065902 渦糸
+TOKEN[18]: 0.0061023    1 light
+	light WORD[18,   1]: 0.0061023 糸雨
+TOKEN[19]: 0.0058612    1 species
+	species WORD[19,   1]: 0.0058612 糸蘭
+TOKEN[20]: 0.0051844    5 twine
+	twine WORD[20,   1]: 0.0009891 より糸
+	twine WORD[20,   2]: 0.0009891 撚り糸
+	twine WORD[20,   3]: 0.0009891 縒り糸
+	twine WORD[20,   4]: 0.0009891 縒糸
+	twine WORD[20,   5]: 0.0006139 撚糸
+TOKEN[21]: 0.0049785    5 line
+	line WORD[21,   1]: 0.0020358 渦糸
+	line WORD[21,   2]: 0.0013990 道糸
+	line WORD[21,   3]: 0.0005389 釣り糸
+	line WORD[21,   4]: 0.0005389 釣糸
+	line WORD[21,   5]: 0.0004660 糸目
+TOKEN[22]: 0.0049546    5 twisting
+	twisting WORD[22,   1]: 0.0009453 より糸
+	twisting WORD[22,   2]: 0.0009453 撚り糸
+	twisting WORD[22,   3]: 0.0009453 縒り糸
+	twisting WORD[22,   4]: 0.0009453 縒糸
+	twisting WORD[22,   5]: 0.0005867 撚糸
+TOKEN[23]: 0.0048063    5 string
+	string WORD[23,   1]: 0.0012472 たこ糸
+	string WORD[23,   2]: 0.0012472 タコ糸
+	string WORD[23,   3]: 0.0012472 凧糸
+	string WORD[23,   4]: 0.0007099 糸引き
+	string WORD[23,   5]: 0.0003547 一糸
+TOKEN[24]: 0.0047061    2 reeled
+	reeled WORD[24,   1]: 0.0023531 かせ糸
+	reeled WORD[24,   2]: 0.0023530 綛糸
+TOKEN[25]: 0.0045857    3 kite
+	kite WORD[25,   1]: 0.0015286 たこ糸
+	kite WORD[25,   2]: 0.0015286 タコ糸
+	kite WORD[25,   3]: 0.0015286 凧糸
+TOKEN[26]: 0.0044889    1 factory
+	factory WORD[26,   1]: 0.0044889 糸姫
+TOKEN[27]: 0.0042534    2 industry
+	industry WORD[27,   1]: 0.0036947 糸姫
+	industry WORD[27,   2]: 0.0005586 糸偏
+TOKEN[28]: 0.0038736    1 worker
+	worker WORD[28,   1]: 0.0038736 糸姫
+TOKEN[29]: 0.0037859    2 colored
+	colored WORD[29,   1]: 0.0022611 綾糸
+	colored WORD[29,   2]: 0.0015248 色糸
+TOKEN[30]: 0.0037695    3 spun
+	spun WORD[30,   1]: 0.0018408 紡ぎ糸
+	spun WORD[30,   2]: 0.0010083 紡糸
+	spun WORD[30,   3]: 0.0009204 紬糸
+TOKEN[31]: 0.0036986    2 loofah
+	loofah WORD[31,   1]: 0.0028637 糸瓜水
+	loofah WORD[31,   2]: 0.0008350 糸瓜
+TOKEN[32]: 0.0035799    5 reel
+	reel WORD[32,   1]: 0.0007160 糸枠
+	reel WORD[32,   2]: 0.0007160 糸まき
+	reel WORD[32,   3]: 0.0007160 糸巻
+	reel WORD[32,   4]: 0.0007160 糸巻き
+	reel WORD[32,   5]: 0.0007159 糸繰り
+TOKEN[33]: 0.0034315    2 lint
+	lint WORD[33,   1]: 0.0017157 糸くず
+	lint WORD[33,   2]: 0.0017157 糸屑
+TOKEN[34]: 0.0033276    5 raw
+	raw WORD[34,   1]: 0.0007324 練り糸
+	raw WORD[34,   2]: 0.0007324 練糸
+	raw WORD[34,   3]: 0.0006340 生糸
+	raw WORD[34,   4]: 0.0006144 糸づくり
+	raw WORD[34,   5]: 0.0006144 糸作り
+TOKEN[35]: 0.0032771    4 spool
+	spool WORD[35,   1]: 0.0008193 糸枠
+	spool WORD[35,   2]: 0.0008193 糸まき
+	spool WORD[35,   3]: 0.0008193 糸巻
+	spool WORD[35,   4]: 0.0008193 糸巻き
+TOKEN[36]: 0.0032052    1 heddle
+	heddle WORD[36,   1]: 0.0032052 綾糸
+TOKEN[37]: 0.0031393    2 fluff
+	fluff WORD[37,   1]: 0.0015697 糸くず
+	fluff WORD[37,   2]: 0.0015697 糸屑
+TOKEN[38]: 0.0031267    1 shimmering
+	shimmering WORD[38,   1]: 0.0031267 糸遊
+TOKEN[39]: 0.0030628    1 woman
+	woman WORD[39,   1]: 0.0030628 糸姫
+TOKEN[40]: 0.0029200    3 fishing
+	fishing WORD[40,   1]: 0.0016493 道糸
+	fishing WORD[40,   2]: 0.0006353 釣り糸
+	fishing WORD[40,   3]: 0.0006353 釣糸
+TOKEN[41]: 0.0029182    3 waste
+	waste WORD[41,   1]: 0.0011561 糸くず
+	waste WORD[41,   2]: 0.0011561 糸屑
+	waste WORD[41,   3]: 0.0006060 屑糸
+TOKEN[42]: 0.0026494    3 made
+	made WORD[42,   1]: 0.0015525 糸瓜水
+	made WORD[42,   2]: 0.0005485 練り糸
+	made WORD[42,   3]: 0.0005485 練糸
+TOKEN[43]: 0.0025842    3 bobbin
+	bobbin WORD[43,   1]: 0.0008614 糸まき
+	bobbin WORD[43,   2]: 0.0008614 糸巻
+	bobbin WORD[43,   3]: 0.0008614 糸巻き
+TOKEN[44]: 0.0025580    1 cosmetic
+	cosmetic WORD[44,   1]: 0.0025580 糸瓜水
+TOKEN[45]: 0.0025130    3 coping
+	coping WORD[45,   1]: 0.0008377 糸のこ
+	coping WORD[45,   2]: 0.0008377 糸ノコ
+	coping WORD[45,   3]: 0.0008377 糸鋸
+TOKEN[46]: 0.0024675    2 hot
+	hot WORD[46,   1]: 0.0017754 糸遊
+	hot WORD[46,   2]: 0.0006921 遊糸
+TOKEN[47]: 0.0024429    3 woof
+	woof WORD[47,   1]: 0.0008143 よこ糸
+	woof WORD[47,   2]: 0.0008143 横糸
+	woof WORD[47,   3]: 0.0008143 緯糸
+TOKEN[48]: 0.0024429    3 weft
+	weft WORD[48,   1]: 0.0008143 よこ糸
+	weft WORD[48,   2]: 0.0008143 横糸
+	weft WORD[48,   3]: 0.0008143 緯糸
+TOKEN[49]: 0.0024107    1 cradle
+	cradle WORD[49,   1]: 0.0024107 綾糸
+TOKEN[50]: 0.0024071    1 filiform
+	filiform WORD[50,   1]: 0.0024071 糸状
+TOKEN[51]: 0.0024071    1 stringlike
+	stringlike WORD[51,   1]: 0.0024071 糸状
+TOKEN[52]: 0.0024071    1 thready
+	thready WORD[52,   1]: 0.0024071 糸状
+TOKEN[53]: 0.0023927    1 Gasterosteus
+	Gasterosteus WORD[53,   1]: 0.0023927 糸魚
+TOKEN[54]: 0.0023767    2 air
+	air WORD[54,   1]: 0.0017101 糸遊
+	air WORD[54,   2]: 0.0006666 遊糸
+TOKEN[55]: 0.0023756    3 crosswise
+	crosswise WORD[55,   1]: 0.0007919 よこ糸
+	crosswise WORD[55,   2]: 0.0007919 横糸
+	crosswise WORD[55,   3]: 0.0007919 緯糸
+TOKEN[56]: 0.0022696    2 sericin
+	sericin WORD[56,   1]: 0.0011348 練り糸
+	sericin WORD[56,   2]: 0.0011348 練糸
+TOKEN[57]: 0.0022518    3 tuning
+	tuning WORD[57,   1]: 0.0007506 糸まき
+	tuning WORD[57,   2]: 0.0007506 糸巻
+	tuning WORD[57,   3]: 0.0007506 糸巻き
+TOKEN[58]: 0.0022432    1 clew
+	clew WORD[58,   1]: 0.0022432 糸玉
+TOKEN[59]: 0.0022420    3 filature
+	filature WORD[59,   1]: 0.0009172 製糸
+	filature WORD[59,   2]: 0.0008193 糸取り
+	filature WORD[59,   3]: 0.0005056 糸引き
+TOKEN[60]: 0.0022198    3 wool
+	wool WORD[60,   1]: 0.0009051 紡糸
+	wool WORD[60,   2]: 0.0008262 紡ぎ糸
+	wool WORD[60,   3]: 0.0004885 毛糸
+TOKEN[61]: 0.0021966    1 extract
+	extract WORD[61,   1]: 0.0021966 糸瓜水
+TOKEN[62]: 0.0021847    1 count
+	count WORD[62,   1]: 0.0021847 太糸
+TOKEN[63]: 0.0021667    3 spinner
+	spinner WORD[63,   1]: 0.0008279 糸取り
+	spinner WORD[63,   2]: 0.0008278 糸繰り
+	spinner WORD[63,   3]: 0.0005109 糸引き
+TOKEN[64]: 0.0021150    3 peg
+	peg WORD[64,   1]: 0.0007050 糸まき
+	peg WORD[64,   2]: 0.0007050 糸巻
+	peg WORD[64,   3]: 0.0007050 糸巻き
+TOKEN[65]: 0.0020906    1 filamentous
+	filamentous WORD[65,   1]: 0.0020906 糸状
+TOKEN[66]: 0.0020548    3 saw
+	saw WORD[66,   1]: 0.0006849 糸のこ
+	saw WORD[66,   2]: 0.0006849 糸ノコ
+	saw WORD[66,   3]: 0.0006849 糸鋸
+TOKEN[67]: 0.0020123    1 stickleback
+	stickleback WORD[67,   1]: 0.0020123 糸魚
+TOKEN[68]: 0.0020113    3 loom
+	loom WORD[68,   1]: 0.0006704 よこ糸
+	loom WORD[68,   2]: 0.0006704 横糸
+	loom WORD[68,   3]: 0.0006704 緯糸
+TOKEN[69]: 0.0019698    1 liquid
+	liquid WORD[69,   1]: 0.0019698 糸瓜水
+TOKEN[70]: 0.0019637    2 suture
+	suture WORD[70,   1]: 0.0009819 縫い糸
+	suture WORD[70,   2]: 0.0009819 縫糸
+TOKEN[71]: 0.0019546    2 tacking
+	tacking WORD[71,   1]: 0.0009773 しつけ糸
+	tacking WORD[71,   2]: 0.0009773 仕付け糸
+TOKEN[72]: 0.0019411    1 cat
+	cat WORD[72,   1]: 0.0019411 綾糸
+TOKEN[73]: 0.0019081    1 thick
+	thick WORD[73,   1]: 0.0019081 太糸
+TOKEN[74]: 0.0017936    2 basting
+	basting WORD[74,   1]: 0.0008968 しつけ糸
+	basting WORD[74,   2]: 0.0008968 仕付け糸
+TOKEN[75]: 0.0017654    2 glossy
+	glossy WORD[75,   1]: 0.0008827 練り糸
+	glossy WORD[75,   2]: 0.0008827 練糸
+TOKEN[76]: 0.0017606    1 low
+	low WORD[76,   1]: 0.0017606 太糸
+TOKEN[77]: 0.0017508    2 dissolve
+	dissolve WORD[77,   1]: 0.0008754 練り糸
+	dissolve WORD[77,   2]: 0.0008754 練糸
+TOKEN[78]: 0.0016579    2 sewing
+	sewing WORD[78,   1]: 0.0008290 縫い糸
+	sewing WORD[78,   2]: 0.0008290 縫糸
+TOKEN[79]: 0.0016484    2 braided
+	braided WORD[79,   1]: 0.0008242 組み糸
+	braided WORD[79,   2]: 0.0008242 組糸
+TOKEN[80]: 0.0015892    1 linear
+	linear WORD[80,   1]: 0.0015892 糸状
+TOKEN[81]: 0.0015875    3 warp
+	warp WORD[81,   1]: 0.0005292 たて糸
+	warp WORD[81,   2]: 0.0005292 経糸
+	warp WORD[81,   3]: 0.0005292 縦糸
+TOKEN[82]: 0.0015671    2 braid
+	braid WORD[82,   1]: 0.0007836 組み糸
+	braid WORD[82,   2]: 0.0007836 組糸
+TOKEN[83]: 0.0015653    1 linen
+	linen WORD[83,   1]: 0.0015653 麻糸
+TOKEN[84]: 0.0015394    2 reeler
+	reeler WORD[84,   1]: 0.0009519 糸取り
+	reeler WORD[84,   2]: 0.0005874 糸引き
+TOKEN[85]: 0.0015012    2 rim
+	rim WORD[85,   1]: 0.0007506 糸底
+	rim WORD[85,   2]: 0.0007506 糸尻
+TOKEN[86]: 0.0014616    2 solution
+	solution WORD[86,   1]: 0.0007308 練り糸
+	solution WORD[86,   2]: 0.0007308 練糸
+TOKEN[87]: 0.0014571    2 woven
+	woven WORD[87,   1]: 0.0007286 糸織
+	woven WORD[87,   2]: 0.0007286 糸織り
+TOKEN[88]: 0.0014337    1 seller
+	seller WORD[88,   1]: 0.0014337 糸屋
+TOKEN[89]: 0.0013956    1 sponge
+	sponge WORD[89,   1]: 0.0013956 糸瓜
+TOKEN[90]: 0.0013633    2 cord
+	cord WORD[90,   1]: 0.0006816 組み糸
+	cord WORD[90,   2]: 0.0006816 組糸
+TOKEN[91]: 0.0013577    1 gourd
+	gourd WORD[91,   1]: 0.0013577 糸瓜
+TOKEN[92]: 0.0013431    2 squid
+	squid WORD[92,   1]: 0.0006715 糸づくり
+	squid WORD[92,   2]: 0.0006715 糸作り
+TOKEN[93]: 0.0013404    1 hemp
+	hemp WORD[93,   1]: 0.0013404 麻糸
+TOKEN[94]: 0.0012632    1 gossamer
+	gossamer WORD[94,   1]: 0.0012632 遊糸
+TOKEN[95]: 0.0012411    1 ball
+	ball WORD[95,   1]: 0.0012411 糸玉
+TOKEN[96]: 0.0012034    2 cup
+	cup WORD[96,   1]: 0.0006017 糸底
+	cup WORD[96,   2]: 0.0006017 糸尻
+TOKEN[97]: 0.0011873    1 shimmer
+	shimmer WORD[97,   1]: 0.0011873 遊糸
+TOKEN[98]: 0.0011866    1 musical
+	musical WORD[98,   1]: 0.0005933 糸竹
+TOKEN[99]: 0.0011644    1 noil
+	noil WORD[99,   1]: 0.0011644 紬糸
+TOKEN[100]: 0.0011124    2 bottom
+	bottom WORD[100,   1]: 0.0005562 糸底
+	bottom WORD[100,   2]: 0.0005562 糸尻
+TOKEN[101]: 0.0010887    1 removal
+	removal WORD[101,   1]: 0.0010887 抜糸
+TOKEN[102]: 0.0010856    2 thin
+	thin WORD[102,   1]: 0.0005428 糸づくり
+	thin WORD[102,   2]: 0.0005428 糸作り
+TOKEN[103]: 0.0010788    1 dupion
+	dupion WORD[103,   1]: 0.0010788 玉糸
+TOKEN[104]: 0.0010756    1 hypha
+	hypha WORD[104,   1]: 0.0010756 菌糸
+TOKEN[105]: 0.0010754    2 cloth
+	cloth WORD[105,   1]: 0.0005377 糸織
+	cloth WORD[105,   2]: 0.0005377 糸織り
+TOKEN[106]: 0.0010499    1 catgut
+	catgut WORD[106,   1]: 0.0010499 天蚕糸
+TOKEN[107]: 0.0010332    2 strand
+	strand WORD[107,   1]: 0.0005281 織り糸
+	strand WORD[107,   2]: 0.0005051 一糸
+TOKEN[108]: 0.0010091    1 Cupressus
+	Cupressus WORD[108,   1]: 0.0010091 糸杉
+TOKEN[109]: 0.0010067    1 knotted
+	knotted WORD[109,   1]: 0.0010067 節糸
+TOKEN[110]: 0.0009784    1 haze
+	haze WORD[110,   1]: 0.0009784 遊糸
+TOKEN[111]: 0.0009742    1 traditional
+	traditional WORD[111,   1]: 0.0004871 糸竹
+TOKEN[112]: 0.0009341    1 fungal
+	fungal WORD[112,   1]: 0.0009341 菌糸
+TOKEN[113]: 0.0009220    1 gut
+	gut WORD[113,   1]: 0.0009220 天蚕糸
+TOKEN[114]: 0.0009037    1 dishrag
+	dishrag WORD[114,   1]: 0.0009037 糸瓜
+TOKEN[115]: 0.0008894    2 fish
+	fish WORD[115,   1]: 0.0004447 糸づくり
+	fish WORD[115,   2]: 0.0004447 糸作り
+TOKEN[116]: 0.0008804    1 Luffa
+	Luffa WORD[116,   1]: 0.0008804 糸瓜
+TOKEN[117]: 0.0008685    1 cocoon
+	cocoon WORD[117,   1]: 0.0008685 玉糸
+TOKEN[118]: 0.0008518    1 silkworm
+	silkworm WORD[118,   1]: 0.0008518 天蚕糸
+TOKEN[119]: 0.0008280    1 chignon
+	chignon WORD[119,   1]: 0.0008280 糸鬢
+TOKEN[120]: 0.0008280    1 sideburns
+	sideburns WORD[120,   1]: 0.0008280 糸鬢
+TOKEN[121]: 0.0008113    1 marionette
+	marionette WORD[121,   1]: 0.0008113 糸操り
+TOKEN[122]: 0.0007650    1 drawn
+	drawn WORD[122,   1]: 0.0007650 抜き糸
+TOKEN[123]: 0.0007540    1 Egyptian
+	Egyptian WORD[123,   1]: 0.0007540 糸瓜
+TOKEN[124]: 0.0007506    1 textile
+	textile WORD[124,   1]: 0.0007506 糸偏
+TOKEN[125]: 0.0007459    1 Vietnamese
+	Vietnamese WORD[125,   1]: 0.0007459 糸瓜
+TOKEN[126]: 0.0007286    1 manipulation
+	manipulation WORD[126,   1]: 0.0007286 糸操り
+TOKEN[127]: 0.0007282    1 heat
+	heat WORD[127,   1]: 0.0007282 遊糸
+TOKEN[128]: 0.0007252    1 formed
+	formed WORD[128,   1]: 0.0007252 玉糸
+TOKEN[129]: 0.0007222    1 Japanese
+	Japanese WORD[129,   1]: 0.0003611 糸竹
+TOKEN[130]: 0.0007070    1 cypress
+	cypress WORD[130,   1]: 0.0007070 糸杉
+TOKEN[131]: 0.0007029    1 shaved
+	shaved WORD[131,   1]: 0.0007029 糸鬢
+TOKEN[132]: 0.0007029    1 earthenware
+	earthenware WORD[132,   1]: 0.0007029 糸底
+TOKEN[133]: 0.0006978    1 cucumber
+	cucumber WORD[133,   1]: 0.0006978 糸瓜
+TOKEN[134]: 0.0006935    1 willow
+	willow WORD[134,   1]: 0.0006935 糸柳
+TOKEN[135]: 0.0006895    1 comes
+	comes WORD[135,   1]: 0.0006895 玉糸
+TOKEN[136]: 0.0006716    1 forehead
+	forehead WORD[136,   1]: 0.0006716 糸鬢
+TOKEN[137]: 0.0006706    1 double
+	double WORD[137,   1]: 0.0006706 玉糸
+TOKEN[138]: 0.0006650    1 weeping
+	weeping WORD[138,   1]: 0.0006650 糸柳
+TOKEN[139]: 0.0006541    1 worm
+	worm WORD[139,   1]: 0.0006541 糸蚯蚓
+TOKEN[140]: 0.0006407    1 silver
+	silver WORD[140,   1]: 0.0006407 銀糸
+TOKEN[141]: 0.0006354    1 century
+	century WORD[141,   1]: 0.0006354 糸鬢
+TOKEN[142]: 0.0006261    1 wheel
+	wheel WORD[142,   1]: 0.0006261 糸車
+TOKEN[143]: 0.0006201    1 gold
+	gold WORD[143,   1]: 0.0006201 金糸
+TOKEN[144]: 0.0006018    1 vegetable
+	vegetable WORD[144,   1]: 0.0006018 糸瓜
+TOKEN[145]: 0.0005977    1 bowl
+	bowl WORD[145,   1]: 0.0005977 糸尻
+TOKEN[146]: 0.0005976    1 cherry
+	cherry WORD[146,   1]: 0.0005976 糸桜
+TOKEN[147]: 0.0005914    1 useless
+	useless WORD[147,   1]: 0.0005914 糸瓜
+TOKEN[148]: 0.0005878    1 woolen
+	woolen WORD[148,   1]: 0.0005878 毛糸
+TOKEN[149]: 0.0005862    1 size
+	size WORD[149,   1]: 0.0005862 糸鬢
+TOKEN[150]: 0.0005787    1 weight
+	weight WORD[150,   1]: 0.0005787 糸目
+TOKEN[151]: 0.0005546    1 radical
+	radical WORD[151,   1]: 0.0005546 糸偏
+TOKEN[152]: 0.0005457    1 male
+	male WORD[152,   1]: 0.0005457 糸鬢
+TOKEN[153]: 0.0005428    1 price
+	price WORD[153,   1]: 0.0005428 糸価
+TOKEN[154]: 0.0005189    1 two
+	two WORD[154,   1]: 0.0005189 玉糸
+TOKEN[155]: 0.0005123    1 left
+	left WORD[155,   1]: 0.0005123 糸偏
+TOKEN[156]: 0.0004828    1 tree
+	tree WORD[156,   1]: 0.0004828 糸桜
+TOKEN[157]: 0.0004796    1 knitting
+	knitting WORD[157,   1]: 0.0004796 毛糸
+TOKEN[158]: 0.0004559    1 paper
+	paper WORD[158,   1]: 0.0004559 糸入り
+TOKEN[159]: 0.0004549    1 clue
+	clue WORD[159,   1]: 0.0004549 糸口
+TOKEN[160]: 0.0004497    1 menstruation
+	menstruation WORD[160,   1]: 0.0004497 糸引き
+TOKEN[161]: 0.0004313    1 hint
+	hint WORD[161,   1]: 0.0004313 糸口
+TOKEN[162]: 0.0004161    1 belief
+	belief WORD[162,   1]: 0.0004161 糸引き
+TOKEN[163]: 0.0003979    1 folk
+	folk WORD[163,   1]: 0.0003979 糸引き
+TOKEN[164]: 0.0003657    1 something
+	something WORD[164,   1]: 0.0003657 糸瓜
+TOKEN[165]: 0.0003522    1 white
+	white WORD[165,   1]: 0.0003522 白糸
+TOKEN[166]: 0.0003487    1 step
+	step WORD[166,   1]: 0.0003487 糸口
+TOKEN[167]: 0.0003397    1 lead
+	lead WORD[167,   1]: 0.0003397 糸口
+TOKEN[168]: 0.0003316    1 beginning
+	beginning WORD[168,   1]: 0.0003316 糸口
+TOKEN[169]: 0.0003291    1 appearance
+	appearance WORD[169,   1]: 0.0003291 糸引き
+TOKEN[170]: 0.0003275    1 Buddha
+	Buddha WORD[170,   1]: 0.0003275 糸引き
+TOKEN[171]: 0.0003119    1 start
+	start WORD[171,   1]: 0.0003119 糸口
+TOKEN[172]: 0.0003111    1 one
+	one WORD[172,   1]: 0.0001555 糸
+TOKEN[173]: 0.0003013    1 first
+	first WORD[173,   1]: 0.0003013 糸口
+TOKEN[174]: 0.0002755    1 end
+	end WORD[174,   1]: 0.0002755 糸口
+TOKEN[175]: 0.0002250    1 someone
+	someone WORD[175,   1]: 0.0002250 糸引き

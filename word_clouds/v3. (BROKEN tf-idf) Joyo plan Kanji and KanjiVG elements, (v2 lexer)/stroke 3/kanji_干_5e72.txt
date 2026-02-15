@@ -1,0 +1,635 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1277189   35 dried          : 干飯, 割り干し, 割干し, 干姜, 干し肉, 塩干し, 丸干し, 干葉, 干し芋, 干し魚, ...
+0.0551056    2 samurai        : 干飯, 干し飯
+0.0547671    2 boiled         : 干飯, 干し飯
+0.0410192    2 rice           : 干飯, 干し飯
+0.0390050    3 used           : 干飯, 干し飯, 干支
+0.0353223   12 drying         : 外干し, 干し場, 部屋干し, 干場, 干割れ, 素干し, 陰干, 陰干し, 物干, 物干し, ...
+0.0324577    7 daikon         : 割り干し, 割干し, 丸干し, 干葉, 切り干し, 切干, 切干し
+0.0286716   21 dry            : 部屋干し, 干からびる, 干枯らびる, 干涸びる, 干し固める, 刈り干す, 干し草, 干草, 干割れる, 干る, ...
+0.0273807    2 sliced         : 割り干し, 割干し
+0.0232385    2 parapet        : 闌干, 欄干
+0.0232385    2 balustrade     : 闌干, 欄干
+0.0227281    2 banister       : 闌干, 欄干
+0.0225101    2 handrail       : 闌干, 欄干
+0.0218008    2 railing        : 闌干, 欄干
+0.0205209    2 long           : 割り干し, 割干し
+0.0202155    2 shining        : 闌干, 欄干
+0.0187475    2 rail           : 闌干, 欄干
+0.0186686    2 flowing        : 闌干, 欄干
+0.0175977    2 way            : 割り干し, 割干し
+0.0159345    2 moon           : 闌干, 欄干
+0.0157759    2 guard          : 闌干, 欄干
+0.0152416    6 clothes        : 外干し, 部屋干し, 虫干し, 干し物, 物干, 物干し
+0.0090544    7 ebb            : 満ち干, 満干, 干る, 干満, 干あがる, 干上がる, 干潮
+0.0077142    1 ten            : 十干
+0.0071373    3 drink          : 飲み干す, 飲干す, 干す
+0.0068068    2 stockfish      : 干し魚, 干魚
+0.0064625    1 ginger         : 干姜
+0.0062075    1 jerky          : 干し肉
+0.0059551    4 drought        : 干害, 干天, 干ばつ, 干魃
+0.0059201    5 drain          : 汲み干す, 汲干す, 干す, 飲み干す, 飲干す
+0.0049298    2 ground         : 干し場, 干場
+0.0046879    2 hanging        : 部屋干し, 虫干し
+0.0044565    3 fish           : 干し魚, 干魚, 丸干し
+0.0043614    1 celestial      : 十干
+0.0041821    2 place          : 干し場, 干場
+0.0041367    1 indoors        : 部屋干し
+0.0041367    1 indoor         : 部屋干し
+0.0040461    3 water          : 十干, 水干, 干潮
+0.0040455    3 sun            : 刈り干す, 干し物, 甘干し
+0.0040439    1 salted         : 塩干し
+0.0039052    3 flow           : 満ち干, 満干, 干満
+0.0038845    4 empty          : 汲み干す, 汲干す, 飲み干す, 飲干す
+0.0037664    3 shade          : 素干し, 陰干, 陰干し
+0.0037133    2 young          : しらす干し, 白子干し
+0.0036977    1 meat           : 干し肉
+0.0035686    1 earth          : 十干
+0.0035474    1 metal          : 十干
+0.0034965    2 glass          : 飲み干す, 飲干す
+0.0034842    2 hay            : 干し草, 干草
+0.0034799    3 shrivel        : 干からびる, 干枯らびる, 干涸びる
+0.0034718    1 iris           : 射干
+0.0034584    1 wood           : 十干
+0.0034455    3 wither         : 干からびる, 干枯らびる, 干涸びる
+0.0032110    2 clotheshorse   : 物干, 物干し
+0.0031215    2 fertilizer     : 干し鰯, 干鰯
+0.0030830    4 become         : 干る, 干からびる, 干枯らびる, 干涸びる
+0.0030040    1 fire           : 十干
+0.0029568    2 edible         : 干し海苔, 干海苔
+0.0029398    2 seaweed        : 干し海苔, 干海苔
+0.0028873    1 two            : 十干
+0.0028069    1 potato         : 干し芋
+0.0027435    1 zodiac         : 干支
+0.0026323    2 grass          : 干し草, 干草
+0.0025927    2 pump           : 汲み干す, 汲干す
+0.0025691    1 leaves         : 干葉
+0.0025247    1 whole          : 丸干し
+0.0024910    2 crunchy        : 煮干, 煮干し
+0.0024661    2 damage         : 虫干し, 干害
+0.0024210    2 parch          : 干あがる, 干上がる
+0.0023878    3 weather        : 干天, 干ばつ, 干魃
+0.0023621    1 sweet          : 干し芋
+0.0023537    1 goods          : 干物
+0.0023255    3 small          : 丸干し, 煮干, 煮干し
+0.0022193    1 cycle          : 干支
+0.0021252    2 made           : 干し鰯, 干鰯
+0.0021069    1 food           : 干物
+0.0020690    1 stiff          : 干し固める
+0.0020049    2 frame          : 物干, 物干し
+0.0019879    1 fringed        : 射干
+0.0019508    1 airing         : 虫干し
+0.0019486    3 go             : 干からびる, 干枯らびる, 干涸びる
+0.0019310    2 low            : 干潮, 潮干
+0.0018424    1 starve         : 干し殺す
+0.0018367    2 ume            : 梅干, 梅干し
+0.0017815    1 cracking       : 干割れ
+0.0017662    1 recede         : 干る
+0.0017189    1 starvation     : 干乾し
+0.0016979    2 drop           : 飲み干す, 飲干す
+0.0016862    1 tideland       : 干潟
+0.0016713    2 spell          : 干ばつ, 干魃
+0.0016692    1 cod            : 干鱈
+0.0016098    2 Japan          : 水干, 干支
+0.0016068    1 mould          : 虫干し
+0.0015783    1 Chinese        : 干支
+0.0015444    2 tide           : 潮干, 干潮
+0.0015233    1 desiccate      : 干す
+0.0015161    1 prevent        : 虫干し
+0.0015074    2 plum           : 梅干, 梅干し
+0.0014938    1 washed         : 水干
+0.0014891    2 last           : 飲み干す, 飲干す
+0.0014539    1 crack          : 干割れる
+0.0013943    1 cut            : 刈り干す
+0.0013356    1 garment        : 水干
+0.0013186    1 persimmon      : 甘干し
+0.0012991    1 everyday       : 水干
+0.0012934    1 shield         : 干戈
+0.0012916    1 japonica       : 射干
+0.0012768    1 tidal          : 干潟
+0.0012575    1 deprive        : 干す
+0.0012423    1 cloth          : 干し物
+0.0012329    1 spear          : 干戈
+0.0012208    1 sexagenary     : 干支
+0.0012168    1 combined       : 干支
+0.0011633    1 plain          : 水干
+0.0011577    1 soldier        : 干城
+0.0011557    1 weapon         : 干戈
+0.0011554    1 silk           : 水干
+0.0011536    1 shrimp         : 干し海老
+0.0011184    1 disaster       : 干害
+0.0011165    1 worn           : 水干
+0.0010953    1 fighting       : 干戈
+0.0010832    1 arms           : 干戈
+0.0010759    1 death          : 干し殺す
+0.0010351    1 ancient        : 水干
+0.0010338    1 calendar       : 干支
+0.0010226    2 period         : 干ばつ, 干魃
+0.0010144    1 flat           : 干潟
+0.0009895    1 reclamation    : 干拓
+0.0009816    1 war            : 干戈
+0.0009607    1 days           : 干支
+0.0009555    1 meddling       : 干渉
+0.0009357    1 role           : 干す
+0.0009135    1 traditional    : 干支
+0.0009026    1 infringement   : 干犯
+0.0009019    1 intervention   : 干渉
+0.0008654    1 job            : 干す
+0.0008569    1 Japanese       : 射干
+0.0008543    1 participation  : 干与
+0.0008422    1 someone        : 干し殺す
+0.0008422    1 violation      : 干犯
+0.0008393    1 interference   : 干渉
+0.0008336    1 gourd          : 干瓢
+0.0008039    1 air            : 干す
+0.0007986    1 extent         : 若干
+0.0007803    1 concerned      : 干与
+0.0007557    1 bit            : 若干
+0.0007507    2 one            : 飲み干す, 飲干す
+0.0007444    1 lot            : 若干
+0.0007336    1 certain        : 若干
+0.0006685    1 little         : 若干
+0.0006589    1 many           : 若干
+0.0006151    1 number         : 若干
+0.0006122    1 sea            : 干拓
+0.0005938    1 land           : 干拓
+0.0005879    1 taking         : 干与
+0.0005746    1 part           : 干与
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1277189   35 dried
+	dried WORD[ 1,   1]: 0.0250566 干飯
+	dried WORD[ 1,   2]: 0.0110974 割り干し
+	dried WORD[ 1,   3]: 0.0110972 割干し
+	dried WORD[ 1,   4]: 0.0051172 干姜
+	dried WORD[ 1,   5]: 0.0038994 干し肉
+	dried WORD[ 1,   6]: 0.0033444 塩干し
+	dried WORD[ 1,   7]: 0.0026124 丸干し
+	dried WORD[ 1,   8]: 0.0024479 干葉
+	dried WORD[ 1,   9]: 0.0023767 干し芋
+	dried WORD[ 1,  10]: 0.0020604 干し魚
+	dried WORD[ 1,  11]: 0.0020557 干魚
+	dried WORD[ 1,  12]: 0.0020156 しらす干し
+	dried WORD[ 1,  13]: 0.0020156 白子干し
+	dried WORD[ 1,  14]: 0.0016792 干物
+	dried WORD[ 1,  15]: 0.0012500 干し物
+	dried WORD[ 1,  16]: 0.0012500 干し海苔
+	dried WORD[ 1,  17]: 0.0012500 干海苔
+	dried WORD[ 1,  18]: 0.0012497 干し柿
+	dried WORD[ 1,  19]: 0.0012497 干柿
+	dried WORD[ 1,  20]: 0.0012497 干し鰯
+	dried WORD[ 1,  21]: 0.0012497 干鰯
+	dried WORD[ 1,  22]: 0.0012497 干し飯
+	dried WORD[ 1,  23]: 0.0012357 梅干
+	dried WORD[ 1,  24]: 0.0012357 梅干し
+	dried WORD[ 1,  25]: 0.0012089 干鱈
+	dried WORD[ 1,  26]: 0.0010868 水干
+	dried WORD[ 1,  27]: 0.0010469 切り干し
+	dried WORD[ 1,  28]: 0.0010469 切干
+	dried WORD[ 1,  29]: 0.0010469 切干し
+	dried WORD[ 1,  30]: 0.0009739 干し海老
+	dried WORD[ 1,  31]: 0.0007941 煮干
+	dried WORD[ 1,  32]: 0.0007941 煮干し
+	dried WORD[ 1,  33]: 0.0006537 干瓢
+	dried WORD[ 1,  34]: 0.0006534 干し
+	dried WORD[ 1,  35]: 0.0006526 干
+TOKEN[ 2]: 0.0551056    2 samurai
+	samurai WORD[ 2,   1]: 0.0268824 干飯
+	samurai WORD[ 2,   2]: 0.0013407 干し飯
+TOKEN[ 3]: 0.0547671    2 boiled
+	boiled WORD[ 3,   1]: 0.0267173 干飯
+	boiled WORD[ 3,   2]: 0.0013325 干し飯
+TOKEN[ 4]: 0.0410192    2 rice
+	rice WORD[ 4,   1]: 0.0200106 干飯
+	rice WORD[ 4,   2]: 0.0009980 干し飯
+TOKEN[ 5]: 0.0390050    3 used
+	used WORD[ 5,   1]: 0.0186594 干飯
+	used WORD[ 5,   2]: 0.0009306 干し飯
+	used WORD[ 5,   3]: 0.0007556 干支
+TOKEN[ 6]: 0.0353223   12 drying
+	drying WORD[ 6,   1]: 0.0100102 外干し
+	drying WORD[ 6,   2]: 0.0091959 干し場
+	drying WORD[ 6,   3]: 0.0037848 部屋干し
+	drying WORD[ 6,   4]: 0.0033921 干場
+	drying WORD[ 6,   5]: 0.0014492 干割れ
+	drying WORD[ 6,   6]: 0.0013140 素干し
+	drying WORD[ 6,   7]: 0.0012107 陰干
+	drying WORD[ 6,   8]: 0.0012107 陰干し
+	drying WORD[ 6,   9]: 0.0010943 物干
+	drying WORD[ 6,  10]: 0.0010943 物干し
+	drying WORD[ 6,  11]: 0.0007835 干し
+	drying WORD[ 6,  12]: 0.0007826 干
+TOKEN[ 7]: 0.0324577    7 daikon
+	daikon WORD[ 7,   1]: 0.0129263 割り干し
+	daikon WORD[ 7,   2]: 0.0129260 割干し
+	daikon WORD[ 7,   3]: 0.0015215 丸干し
+	daikon WORD[ 7,   4]: 0.0014257 干葉
+	daikon WORD[ 7,   5]: 0.0012194 切り干し
+	daikon WORD[ 7,   6]: 0.0012194 切干
+	daikon WORD[ 7,   7]: 0.0012194 切干し
+TOKEN[ 8]: 0.0286716   21 dry
+	dry WORD[ 8,   1]: 0.0033192 部屋干し
+	dry WORD[ 8,   2]: 0.0017414 干からびる
+	dry WORD[ 8,   3]: 0.0017414 干枯らびる
+	dry WORD[ 8,   4]: 0.0017414 干涸びる
+	dry WORD[ 8,   5]: 0.0017148 干し固める
+	dry WORD[ 8,   6]: 0.0016328 刈り干す
+	dry WORD[ 8,   7]: 0.0013143 干し草
+	dry WORD[ 8,   8]: 0.0013143 干草
+	dry WORD[ 8,   9]: 0.0012710 干割れる
+	dry WORD[ 8,  10]: 0.0012698 干る
+	dry WORD[ 8,  11]: 0.0010869 汲み干す
+	dry WORD[ 8,  12]: 0.0010869 汲干す
+	dry WORD[ 8,  13]: 0.0010679 干天
+	dry WORD[ 8,  14]: 0.0009106 干す
+	dry WORD[ 8,  15]: 0.0008830 干物
+	dry WORD[ 8,  16]: 0.0008703 干あがる
+	dry WORD[ 8,  17]: 0.0008703 干上がる
+	dry WORD[ 8,  18]: 0.0008472 飲み干す
+	dry WORD[ 8,  19]: 0.0008472 飲干す
+	dry WORD[ 8,  20]: 0.0006875 干ばつ
+	dry WORD[ 8,  21]: 0.0006875 干魃
+TOKEN[ 9]: 0.0273807    2 sliced
+	sliced WORD[ 9,   1]: 0.0136905 割り干し
+	sliced WORD[ 9,   2]: 0.0136902 割干し
+TOKEN[10]: 0.0232385    2 parapet
+	parapet WORD[10,   1]: 0.0217804 闌干
+	parapet WORD[10,   2]: 0.0014580 欄干
+TOKEN[11]: 0.0232385    2 balustrade
+	balustrade WORD[11,   1]: 0.0217804 闌干
+	balustrade WORD[11,   2]: 0.0014580 欄干
+TOKEN[12]: 0.0227281    2 banister
+	banister WORD[12,   1]: 0.0213021 闌干
+	banister WORD[12,   2]: 0.0014260 欄干
+TOKEN[13]: 0.0225101    2 handrail
+	handrail WORD[13,   1]: 0.0210978 闌干
+	handrail WORD[13,   2]: 0.0014123 欄干
+TOKEN[14]: 0.0218008    2 railing
+	railing WORD[14,   1]: 0.0204330 闌干
+	railing WORD[14,   2]: 0.0013678 欄干
+TOKEN[15]: 0.0205209    2 long
+	long WORD[15,   1]: 0.0102605 割り干し
+	long WORD[15,   2]: 0.0102603 割干し
+TOKEN[16]: 0.0202155    2 shining
+	shining WORD[16,   1]: 0.0189471 闌干
+	shining WORD[16,   2]: 0.0012684 欄干
+TOKEN[17]: 0.0187475    2 rail
+	rail WORD[17,   1]: 0.0175712 闌干
+	rail WORD[17,   2]: 0.0011763 欄干
+TOKEN[18]: 0.0186686    2 flowing
+	flowing WORD[18,   1]: 0.0174973 闌干
+	flowing WORD[18,   2]: 0.0011713 欄干
+TOKEN[19]: 0.0175977    2 way
+	way WORD[19,   1]: 0.0087989 割り干し
+	way WORD[19,   2]: 0.0087987 割干し
+TOKEN[20]: 0.0159345    2 moon
+	moon WORD[20,   1]: 0.0149347 闌干
+	moon WORD[20,   2]: 0.0009998 欄干
+TOKEN[21]: 0.0157759    2 guard
+	guard WORD[21,   1]: 0.0147861 闌干
+	guard WORD[21,   2]: 0.0009898 欄干
+TOKEN[22]: 0.0152416    6 clothes
+	clothes WORD[22,   1]: 0.0080327 外干し
+	clothes WORD[22,   2]: 0.0030371 部屋干し
+	clothes WORD[22,   3]: 0.0012126 虫干し
+	clothes WORD[22,   4]: 0.0012029 干し物
+	clothes WORD[22,   5]: 0.0008782 物干
+	clothes WORD[22,   6]: 0.0008782 物干し
+TOKEN[23]: 0.0090544    7 ebb
+	ebb WORD[23,   1]: 0.0016080 満ち干
+	ebb WORD[23,   2]: 0.0016080 満干
+	ebb WORD[23,   3]: 0.0015555 干る
+	ebb WORD[23,   4]: 0.0013086 干満
+	ebb WORD[23,   5]: 0.0010661 干あがる
+	ebb WORD[23,   6]: 0.0010661 干上がる
+	ebb WORD[23,   7]: 0.0008421 干潮
+TOKEN[24]: 0.0077142    1 ten
+	ten WORD[24,   1]: 0.0077142 十干
+TOKEN[25]: 0.0071373    3 drink
+	drink WORD[25,   1]: 0.0031460 飲み干す
+	drink WORD[25,   2]: 0.0031460 飲干す
+	drink WORD[25,   3]: 0.0008454 干す
+TOKEN[26]: 0.0068068    2 stockfish
+	stockfish WORD[26,   1]: 0.0034073 干し魚
+	stockfish WORD[26,   2]: 0.0033996 干魚
+TOKEN[27]: 0.0064625    1 ginger
+	ginger WORD[27,   1]: 0.0064625 干姜
+TOKEN[28]: 0.0062075    1 jerky
+	jerky WORD[28,   1]: 0.0062075 干し肉
+TOKEN[29]: 0.0059551    4 drought
+	drought WORD[29,   1]: 0.0027764 干害
+	drought WORD[29,   2]: 0.0013896 干天
+	drought WORD[29,   3]: 0.0008946 干ばつ
+	drought WORD[29,   4]: 0.0008946 干魃
+TOKEN[30]: 0.0059201    5 drain
+	drain WORD[30,   1]: 0.0013465 汲み干す
+	drain WORD[30,   2]: 0.0013465 汲干す
+	drain WORD[30,   3]: 0.0011281 干す
+	drain WORD[30,   4]: 0.0010495 飲み干す
+	drain WORD[30,   5]: 0.0010495 飲干す
+TOKEN[31]: 0.0049298    2 ground
+	ground WORD[31,   1]: 0.0036014 干し場
+	ground WORD[31,   2]: 0.0013284 干場
+TOKEN[32]: 0.0046879    2 hanging
+	hanging WORD[32,   1]: 0.0033503 部屋干し
+	hanging WORD[32,   2]: 0.0013377 虫干し
+TOKEN[33]: 0.0044565    3 fish
+	fish WORD[33,   1]: 0.0016934 干し魚
+	fish WORD[33,   2]: 0.0016895 干魚
+	fish WORD[33,   3]: 0.0010735 丸干し
+TOKEN[34]: 0.0043614    1 celestial
+	celestial WORD[34,   1]: 0.0043614 十干
+TOKEN[35]: 0.0041821    2 place
+	place WORD[35,   1]: 0.0030552 干し場
+	place WORD[35,   2]: 0.0011270 干場
+TOKEN[36]: 0.0041367    1 indoors
+	indoors WORD[36,   1]: 0.0041367 部屋干し
+TOKEN[37]: 0.0041367    1 indoor
+	indoor WORD[37,   1]: 0.0041367 部屋干し
+TOKEN[38]: 0.0040461    3 water
+	water WORD[38,   1]: 0.0026794 十干
+	water WORD[38,   2]: 0.0008535 水干
+	water WORD[38,   3]: 0.0005133 干潮
+TOKEN[39]: 0.0040455    3 sun
+	sun WORD[39,   1]: 0.0016592 刈り干す
+	sun WORD[39,   2]: 0.0013359 干し物
+	sun WORD[39,   3]: 0.0010503 甘干し
+TOKEN[40]: 0.0040439    1 salted
+	salted WORD[40,   1]: 0.0040439 塩干し
+TOKEN[41]: 0.0039052    3 flow
+	flow WORD[41,   1]: 0.0013879 満ち干
+	flow WORD[41,   2]: 0.0013879 満干
+	flow WORD[41,   3]: 0.0011294 干満
+TOKEN[42]: 0.0038845    4 empty
+	empty WORD[42,   1]: 0.0010915 汲み干す
+	empty WORD[42,   2]: 0.0010915 汲干す
+	empty WORD[42,   3]: 0.0008508 飲み干す
+	empty WORD[42,   4]: 0.0008508 飲干す
+TOKEN[43]: 0.0037664    3 shade
+	shade WORD[43,   1]: 0.0013249 素干し
+	shade WORD[43,   2]: 0.0012208 陰干
+	shade WORD[43,   3]: 0.0012207 陰干し
+TOKEN[44]: 0.0037133    2 young
+	young WORD[44,   1]: 0.0018566 しらす干し
+	young WORD[44,   2]: 0.0018566 白子干し
+TOKEN[45]: 0.0036977    1 meat
+	meat WORD[45,   1]: 0.0036977 干し肉
+TOKEN[46]: 0.0035686    1 earth
+	earth WORD[46,   1]: 0.0035686 十干
+TOKEN[47]: 0.0035474    1 metal
+	metal WORD[47,   1]: 0.0035474 十干
+TOKEN[48]: 0.0034965    2 glass
+	glass WORD[48,   1]: 0.0017482 飲み干す
+	glass WORD[48,   2]: 0.0017482 飲干す
+TOKEN[49]: 0.0034842    2 hay
+	hay WORD[49,   1]: 0.0017421 干し草
+	hay WORD[49,   2]: 0.0017421 干草
+TOKEN[50]: 0.0034799    3 shrivel
+	shrivel WORD[50,   1]: 0.0011600 干からびる
+	shrivel WORD[50,   2]: 0.0011600 干枯らびる
+	shrivel WORD[50,   3]: 0.0011600 干涸びる
+TOKEN[51]: 0.0034718    1 iris
+	iris WORD[51,   1]: 0.0034718 射干
+TOKEN[52]: 0.0034584    1 wood
+	wood WORD[52,   1]: 0.0034584 十干
+TOKEN[53]: 0.0034455    3 wither
+	wither WORD[53,   1]: 0.0011485 干からびる
+	wither WORD[53,   2]: 0.0011485 干枯らびる
+	wither WORD[53,   3]: 0.0011485 干涸びる
+TOKEN[54]: 0.0032110    2 clotheshorse
+	clotheshorse WORD[54,   1]: 0.0016055 物干
+	clotheshorse WORD[54,   2]: 0.0016055 物干し
+TOKEN[55]: 0.0031215    2 fertilizer
+	fertilizer WORD[55,   1]: 0.0015608 干し鰯
+	fertilizer WORD[55,   2]: 0.0015608 干鰯
+TOKEN[56]: 0.0030830    4 become
+	become WORD[56,   1]: 0.0010085 干る
+	become WORD[56,   2]: 0.0006915 干からびる
+	become WORD[56,   3]: 0.0006915 干枯らびる
+	become WORD[56,   4]: 0.0006915 干涸びる
+TOKEN[57]: 0.0030040    1 fire
+	fire WORD[57,   1]: 0.0030040 十干
+TOKEN[58]: 0.0029568    2 edible
+	edible WORD[58,   1]: 0.0014784 干し海苔
+	edible WORD[58,   2]: 0.0014784 干海苔
+TOKEN[59]: 0.0029398    2 seaweed
+	seaweed WORD[59,   1]: 0.0014699 干し海苔
+	seaweed WORD[59,   2]: 0.0014699 干海苔
+TOKEN[60]: 0.0028873    1 two
+	two WORD[60,   1]: 0.0028873 十干
+TOKEN[61]: 0.0028069    1 potato
+	potato WORD[61,   1]: 0.0028069 干し芋
+TOKEN[62]: 0.0027435    1 zodiac
+	zodiac WORD[62,   1]: 0.0027435 干支
+TOKEN[63]: 0.0026323    2 grass
+	grass WORD[63,   1]: 0.0013162 干し草
+	grass WORD[63,   2]: 0.0013162 干草
+TOKEN[64]: 0.0025927    2 pump
+	pump WORD[64,   1]: 0.0012964 汲み干す
+	pump WORD[64,   2]: 0.0012963 汲干す
+TOKEN[65]: 0.0025691    1 leaves
+	leaves WORD[65,   1]: 0.0025691 干葉
+TOKEN[66]: 0.0025247    1 whole
+	whole WORD[66,   1]: 0.0025247 丸干し
+TOKEN[67]: 0.0024910    2 crunchy
+	crunchy WORD[67,   1]: 0.0012455 煮干
+	crunchy WORD[67,   2]: 0.0012455 煮干し
+TOKEN[68]: 0.0024661    2 damage
+	damage WORD[68,   1]: 0.0013663 虫干し
+	damage WORD[68,   2]: 0.0010998 干害
+TOKEN[69]: 0.0024210    2 parch
+	parch WORD[69,   1]: 0.0012105 干あがる
+	parch WORD[69,   2]: 0.0012105 干上がる
+TOKEN[70]: 0.0023878    3 weather
+	weather WORD[70,   1]: 0.0010438 干天
+	weather WORD[70,   2]: 0.0006720 干ばつ
+	weather WORD[70,   3]: 0.0006720 干魃
+TOKEN[71]: 0.0023621    1 sweet
+	sweet WORD[71,   1]: 0.0023621 干し芋
+TOKEN[72]: 0.0023537    1 goods
+	goods WORD[72,   1]: 0.0007846 干物
+TOKEN[73]: 0.0023255    3 small
+	small WORD[73,   1]: 0.0010494 丸干し
+	small WORD[73,   2]: 0.0006380 煮干
+	small WORD[73,   3]: 0.0006380 煮干し
+TOKEN[74]: 0.0022193    1 cycle
+	cycle WORD[74,   1]: 0.0022193 干支
+TOKEN[75]: 0.0021252    2 made
+	made WORD[75,   1]: 0.0010626 干し鰯
+	made WORD[75,   2]: 0.0010626 干鰯
+TOKEN[76]: 0.0021069    1 food
+	food WORD[76,   1]: 0.0007023 干物
+TOKEN[77]: 0.0020690    1 stiff
+	stiff WORD[77,   1]: 0.0020690 干し固める
+TOKEN[78]: 0.0020049    2 frame
+	frame WORD[78,   1]: 0.0010024 物干
+	frame WORD[78,   2]: 0.0010024 物干し
+TOKEN[79]: 0.0019879    1 fringed
+	fringed WORD[79,   1]: 0.0019879 射干
+TOKEN[80]: 0.0019508    1 airing
+	airing WORD[80,   1]: 0.0019508 虫干し
+TOKEN[81]: 0.0019486    3 go
+	go WORD[81,   1]: 0.0006495 干からびる
+	go WORD[81,   2]: 0.0006495 干枯らびる
+	go WORD[81,   3]: 0.0006495 干涸びる
+TOKEN[82]: 0.0019310    2 low
+	low WORD[82,   1]: 0.0012633 干潮
+	low WORD[82,   2]: 0.0006676 潮干
+TOKEN[83]: 0.0018424    1 starve
+	starve WORD[83,   1]: 0.0018424 干し殺す
+TOKEN[84]: 0.0018367    2 ume
+	ume WORD[84,   1]: 0.0009184 梅干
+	ume WORD[84,   2]: 0.0009184 梅干し
+TOKEN[85]: 0.0017815    1 cracking
+	cracking WORD[85,   1]: 0.0017815 干割れ
+TOKEN[86]: 0.0017662    1 recede
+	recede WORD[86,   1]: 0.0017662 干る
+TOKEN[87]: 0.0017189    1 starvation
+	starvation WORD[87,   1]: 0.0017189 干乾し
+TOKEN[88]: 0.0016979    2 drop
+	drop WORD[88,   1]: 0.0008490 飲み干す
+	drop WORD[88,   2]: 0.0008489 飲干す
+TOKEN[89]: 0.0016862    1 tideland
+	tideland WORD[89,   1]: 0.0016862 干潟
+TOKEN[90]: 0.0016713    2 spell
+	spell WORD[90,   1]: 0.0008356 干ばつ
+	spell WORD[90,   2]: 0.0008356 干魃
+TOKEN[91]: 0.0016692    1 cod
+	cod WORD[91,   1]: 0.0016692 干鱈
+TOKEN[92]: 0.0016098    2 Japan
+	Japan WORD[92,   1]: 0.0008325 水干
+	Japan WORD[92,   2]: 0.0007773 干支
+TOKEN[93]: 0.0016068    1 mould
+	mould WORD[93,   1]: 0.0016068 虫干し
+TOKEN[94]: 0.0015783    1 Chinese
+	Chinese WORD[94,   1]: 0.0015783 干支
+TOKEN[95]: 0.0015444    2 tide
+	tide WORD[95,   1]: 0.0007936 潮干
+	tide WORD[95,   2]: 0.0007508 干潮
+TOKEN[96]: 0.0015233    1 desiccate
+	desiccate WORD[96,   1]: 0.0015233 干す
+TOKEN[97]: 0.0015161    1 prevent
+	prevent WORD[97,   1]: 0.0015161 虫干し
+TOKEN[98]: 0.0015074    2 plum
+	plum WORD[98,   1]: 0.0007537 梅干
+	plum WORD[98,   2]: 0.0007537 梅干し
+TOKEN[99]: 0.0014938    1 washed
+	washed WORD[99,   1]: 0.0014938 水干
+TOKEN[100]: 0.0014891    2 last
+	last WORD[100,   1]: 0.0007445 飲み干す
+	last WORD[100,   2]: 0.0007445 飲干す
+TOKEN[101]: 0.0014539    1 crack
+	crack WORD[101,   1]: 0.0014539 干割れる
+TOKEN[102]: 0.0013943    1 cut
+	cut WORD[102,   1]: 0.0013943 刈り干す
+TOKEN[103]: 0.0013356    1 garment
+	garment WORD[103,   1]: 0.0013356 水干
+TOKEN[104]: 0.0013186    1 persimmon
+	persimmon WORD[104,   1]: 0.0013186 甘干し
+TOKEN[105]: 0.0012991    1 everyday
+	everyday WORD[105,   1]: 0.0012991 水干
+TOKEN[106]: 0.0012934    1 shield
+	shield WORD[106,   1]: 0.0012934 干戈
+TOKEN[107]: 0.0012916    1 japonica
+	japonica WORD[107,   1]: 0.0012916 射干
+TOKEN[108]: 0.0012768    1 tidal
+	tidal WORD[108,   1]: 0.0012768 干潟
+TOKEN[109]: 0.0012575    1 deprive
+	deprive WORD[109,   1]: 0.0012575 干す
+TOKEN[110]: 0.0012423    1 cloth
+	cloth WORD[110,   1]: 0.0012423 干し物
+TOKEN[111]: 0.0012329    1 spear
+	spear WORD[111,   1]: 0.0012329 干戈
+TOKEN[112]: 0.0012208    1 sexagenary
+	sexagenary WORD[112,   1]: 0.0012208 干支
+TOKEN[113]: 0.0012168    1 combined
+	combined WORD[113,   1]: 0.0012168 干支
+TOKEN[114]: 0.0011633    1 plain
+	plain WORD[114,   1]: 0.0011633 水干
+TOKEN[115]: 0.0011577    1 soldier
+	soldier WORD[115,   1]: 0.0011577 干城
+TOKEN[116]: 0.0011557    1 weapon
+	weapon WORD[116,   1]: 0.0011557 干戈
+TOKEN[117]: 0.0011554    1 silk
+	silk WORD[117,   1]: 0.0011554 水干
+TOKEN[118]: 0.0011536    1 shrimp
+	shrimp WORD[118,   1]: 0.0011536 干し海老
+TOKEN[119]: 0.0011184    1 disaster
+	disaster WORD[119,   1]: 0.0011184 干害
+TOKEN[120]: 0.0011165    1 worn
+	worn WORD[120,   1]: 0.0011165 水干
+TOKEN[121]: 0.0010953    1 fighting
+	fighting WORD[121,   1]: 0.0010953 干戈
+TOKEN[122]: 0.0010832    1 arms
+	arms WORD[122,   1]: 0.0010832 干戈
+TOKEN[123]: 0.0010759    1 death
+	death WORD[123,   1]: 0.0010759 干し殺す
+TOKEN[124]: 0.0010351    1 ancient
+	ancient WORD[124,   1]: 0.0010351 水干
+TOKEN[125]: 0.0010338    1 calendar
+	calendar WORD[125,   1]: 0.0010338 干支
+TOKEN[126]: 0.0010226    2 period
+	period WORD[126,   1]: 0.0005113 干ばつ
+	period WORD[126,   2]: 0.0005113 干魃
+TOKEN[127]: 0.0010144    1 flat
+	flat WORD[127,   1]: 0.0010144 干潟
+TOKEN[128]: 0.0009895    1 reclamation
+	reclamation WORD[128,   1]: 0.0009895 干拓
+TOKEN[129]: 0.0009816    1 war
+	war WORD[129,   1]: 0.0009816 干戈
+TOKEN[130]: 0.0009607    1 days
+	days WORD[130,   1]: 0.0009607 干支
+TOKEN[131]: 0.0009555    1 meddling
+	meddling WORD[131,   1]: 0.0009555 干渉
+TOKEN[132]: 0.0009357    1 role
+	role WORD[132,   1]: 0.0009357 干す
+TOKEN[133]: 0.0009135    1 traditional
+	traditional WORD[133,   1]: 0.0009135 干支
+TOKEN[134]: 0.0009026    1 infringement
+	infringement WORD[134,   1]: 0.0009026 干犯
+TOKEN[135]: 0.0009019    1 intervention
+	intervention WORD[135,   1]: 0.0009019 干渉
+TOKEN[136]: 0.0008654    1 job
+	job WORD[136,   1]: 0.0008654 干す
+TOKEN[137]: 0.0008569    1 Japanese
+	Japanese WORD[137,   1]: 0.0008569 射干
+TOKEN[138]: 0.0008543    1 participation
+	participation WORD[138,   1]: 0.0008543 干与
+TOKEN[139]: 0.0008422    1 someone
+	someone WORD[139,   1]: 0.0008422 干し殺す
+TOKEN[140]: 0.0008422    1 violation
+	violation WORD[140,   1]: 0.0008422 干犯
+TOKEN[141]: 0.0008393    1 interference
+	interference WORD[141,   1]: 0.0008393 干渉
+TOKEN[142]: 0.0008336    1 gourd
+	gourd WORD[142,   1]: 0.0008336 干瓢
+TOKEN[143]: 0.0008039    1 air
+	air WORD[143,   1]: 0.0008039 干す
+TOKEN[144]: 0.0007986    1 extent
+	extent WORD[144,   1]: 0.0007986 若干
+TOKEN[145]: 0.0007803    1 concerned
+	concerned WORD[145,   1]: 0.0007803 干与
+TOKEN[146]: 0.0007557    1 bit
+	bit WORD[146,   1]: 0.0007557 若干
+TOKEN[147]: 0.0007507    2 one
+	one WORD[147,   1]: 0.0003754 飲み干す
+	one WORD[147,   2]: 0.0003754 飲干す
+TOKEN[148]: 0.0007444    1 lot
+	lot WORD[148,   1]: 0.0007444 若干
+TOKEN[149]: 0.0007336    1 certain
+	certain WORD[149,   1]: 0.0007336 若干
+TOKEN[150]: 0.0006685    1 little
+	little WORD[150,   1]: 0.0006685 若干
+TOKEN[151]: 0.0006589    1 many
+	many WORD[151,   1]: 0.0006589 若干
+TOKEN[152]: 0.0006151    1 number
+	number WORD[152,   1]: 0.0006151 若干
+TOKEN[153]: 0.0006122    1 sea
+	sea WORD[153,   1]: 0.0006122 干拓
+TOKEN[154]: 0.0005938    1 land
+	land WORD[154,   1]: 0.0005938 干拓
+TOKEN[155]: 0.0005879    1 taking
+	taking WORD[155,   1]: 0.0005879 干与
+TOKEN[156]: 0.0005746    1 part
+	part WORD[156,   1]: 0.0005746 干与

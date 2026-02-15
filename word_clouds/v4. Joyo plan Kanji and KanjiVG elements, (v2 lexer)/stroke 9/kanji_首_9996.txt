@@ -1,0 +1,772 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0880146   17 neck           : 首まわり, 首回り, 首元, 首根, 馬首, 鎌首, 首すじ, 首筋, 白首, 首っ玉, ...
+0.0658452   28 head           : さらし首, 晒し首, 晒首, 曝し首, 首座, がん首, 首席, 偽首, 贋首, 寝首, ...
+0.0220806    5 beginning      : 起首, 首部, 首尾, 期首, 巻首
+0.0201990    7 decapitation   : 首切り, 首斬り, 打ち首, 打首, 討首, 斬首, 馘首
+0.0180295    2 measurement    : 首まわり, 首回り
+0.0163758    2 size           : 首まわり, 首回り
+0.0163587    7 hanging        : 縊首, 縛り首, 首くくり, 首縊り, 絞首, 首つり, 首吊り
+0.0140102    1 sacking        : 首
+0.0134963    1 penis          : 雁首
+0.0131897    2 dismissal      : 首, 馘首
+0.0127467    2 part           : 首部, 首脳
+0.0126076    1 tether         : 首綱
+0.0124014    1 leash          : 首綱
+0.0117742    2 kowtow         : 叩首, 頓首
+0.0114687    6 chief          : 上首, 頭首, 首領, 首長, 首席, 貫首
+0.0114387    1 corona         : 雁首
+0.0110394    6 leader         : 上首, 党首, 首領, 首謀, 首班, 首脳
+0.0109193    1 firing         : 首
+0.0108782    1 croaker        : 石首魚
+0.0108613    1 glans          : 雁首
+0.0106535    4 bow            : 艇首, 艦首, 船首, 首肯く
+0.0106277    1 missile        : 首部
+0.0104257    1 origin         : 起首
+0.0094967    1 job            : 首
+0.0092514    3 scruff         : 首根, 首すじ, 首筋
+0.0092397    2 love           : 首ったけ, 首っ丈
+0.0091528    1 start          : 起首
+0.0091510    1 cone           : 首部
+0.0091264    1 lanyard        : 首紐
+0.0089827    3 death          : 曝首, 縛り首, 絞首
+0.0083843    1 initial        : 首部
+0.0083314    2 gooseneck      : 雁首, 鎌首
+0.0083221    4 display        : さらし首, 晒し首, 晒首, 曝し首
+0.0083221    4 criminal       : さらし首, 晒し首, 晒首, 曝し首
+0.0082808    1 suicide        : 縊首
+0.0082418    1 neckband       : 首紐
+0.0078789    2 muffler        : 首巻, 首巻き
+0.0077116    4 nape           : えり首, 襟首, 首すじ, 首筋
+0.0073369    2 scarf          : 首巻, 首巻き
+0.0069637    1 ornamental     : 首紐
+0.0066413    4 public         : さらし首, 晒し首, 晒首, 曝し首
+0.0059064    1 mound          : 首塚
+0.0058373    1 throat         : 首元
+0.0057368    1 cranium        : 曝首
+0.0056957    1 burial         : 首塚
+0.0055498    3 used           : 曝首, 首切り, 首斬り
+0.0054562    1 skull          : 曝首
+0.0054464    2 boat           : 艇首, 船首
+0.0053858    2 seat           : 首座, 首席
+0.0048906    1 goose          : 雁首
+0.0048254    2 white          : 石首魚, 白首
+0.0047775    1 bottom         : 首元
+0.0047037    1 bowing         : 稽首
+0.0046606    1 base           : 首元
+0.0046471    1 shaped         : 雁首
+0.0046348    1 guide          : 上首
+0.0045788    2 wrist          : 腕首, 手首
+0.0045464    2 choker         : 首飾り, 首輪
+0.0045297    2 ringleader     : 首魁, 首謀
+0.0045258    1 symbol         : 曝首
+0.0044343    2 crazy          : 首ったけ, 首っ丈
+0.0044037    4 person         : 寝首, 首つり, 首吊り, 鶴首
+0.0043240    2 necklace       : 首飾り, 首輪
+0.0042895    1 warship        : 艦首
+0.0040390    1 lampoon        : 落首
+0.0038642    2 boss           : 頭首, 首領
+0.0038612    2 samurai        : 首切り, 首斬り
+0.0036434    1 satirical      : 落首
+0.0036305    1 floor          : 稽首
+0.0035319    1 dirk           : 匕首
+0.0035275    1 horse          : 馬首
+0.0034889    2 dead           : 首狩, 首狩り
+0.0034224    2 top            : 首席, 首脳
+0.0032972    2 something      : 雁首, 首尾
+0.0032753    2 capital        : 首府, 首都
+0.0032618    2 class          : 白首, 首席
+0.0032449    2 sword          : 首切り, 首斬り
+0.0031636    2 minister       : 首班, 首相
+0.0031597    2 long           : 首途, 鶴首
+0.0030716    2 assent         : 首肯, 首肯く
+0.0030610    2 city           : 首府, 首都
+0.0029829    2 prime          : 首班, 首相
+0.0029375    1 vase           : 鶴首
+0.0029081    1 pillory        : 首枷
+0.0028519    2 small          : 首切り, 首斬り
+0.0028285    1 Apogon         : 石首魚
+0.0028137    1 dagger         : 匕首
+0.0027926    1 slender        : 鶴首
+0.0027746    1 mantis         : 鎌首
+0.0026835    1 forerunner     : 首魁
+0.0026399    1 bottle         : 鶴首
+0.0025825    1 shank          : がん首
+0.0025379    2 agree          : 首肯ける, 首肯く
+0.0025020    1 bull           : 猪首
+0.0024819    1 sutra          : 首題
+0.0024646    1 crooked        : 鎌首
+0.0024279    1 manager        : 頭首
+0.0024016    1 praying        : 鎌首
+0.0023984    1 starting       : 首途
+0.0023841    1 able           : 首肯ける
+0.0023703    1 coral          : 石首魚
+0.0023664    1 setting        : 首途
+0.0023595    1 heading        : 首題
+0.0023570    1 sleeping       : 寝首
+0.0023470    1 perch          : 石首魚
+0.0023228    1 constant       : 首っ引き
+0.0023216    1 unable         : 首鼠
+0.0022914    1 item           : 鶴首
+0.0022597    1 poem           : 落首
+0.0022267    1 powder         : 白首
+0.0021877    1 phrase         : 首題
+0.0021834    1 emir           : 首長
+0.0021784    1 burden         : 首枷
+0.0021744    1 scroll         : 巻首
+0.0021706    1 snake          : 鎌首
+0.0021670    1 exposure       : 梟首
+0.0021604    1 fence          : 首鼠
+0.0021581    1 position       : 首位
+0.0021403    1 document       : 首題
+0.0021057    1 honor          : 首座
+0.0020882    1 pipe           : がん首
+0.0020842    1 oscillating    : 首振り
+0.0020803    1 teat           : 乳首
+0.0020722    1 reference      : 首っ引き
+0.0020593    1 Indian         : 石首魚
+0.0020212    1 nipple         : 乳首
+0.0020166    1 prostitute     : 白首
+0.0020083    1 sitting        : 首鼠
+0.0019860    1 thick          : 白首
+0.0019819    1 bowl           : がん首
+0.0019811    1 end            : 首尾
+0.0019728    1 notice         : 首題
+0.0019695    1 premier        : 首相
+0.0019615    1 prow           : 船首
+0.0019351    1 life           : 首途
+0.0019314    1 table          : 首座
+0.0019139    1 plotting       : 首謀
+0.0018966    1 opening        : 首題
+0.0018956    1 loss           : 投げ首
+0.0018704    1 mastermind     : 首謀
+0.0018579    1 low            : 白首
+0.0018576    1 enemy          : 首級
+0.0018473    1 strangling     : 絞首
+0.0018346    1 chancellor     : 首相
+0.0018337    1 silver         : 石首魚
+0.0018048    1 metropolis     : 首都
+0.0017991    1 letter         : 首題
+0.0017962    1 term           : 期首
+0.0017789    1 intrigue       : 首謀
+0.0017786    1 orchestra      : 首席
+0.0017786    1 chairman       : 首席
+0.0017654    1 huddle         : 鳩首
+0.0017483    1 abbot          : 貫首
+0.0017351    1 advocacy       : 首唱
+0.0017227    1 nodding        : 首振り
+0.0017056    1 woman          : 白首
+0.0016906    1 mind           : 首鼠
+0.0016208    1 president      : 首席
+0.0016117    1 making         : 首っ引き
+0.0016100    1 sovereign      : 元首
+0.0015731    1 governor       : 首席
+0.0015620    1 ankle          : 足首
+0.0015490    1 nod            : 首肯く
+0.0015487    1 anew           : 首途
+0.0015486    1 book           : 巻首
+0.0015326    1 radical        : 部首
+0.0015216    1 outcome        : 首尾
+0.0015147    1 acceptable     : 首肯ける
+0.0015090    1 dealing        : 首尾
+0.0014924    1 stem           : 船首
+0.0014913    1 desk           : 首席
+0.0014789    1 doll           : 首振り
+0.0014644    1 surrender      : 自首
+0.0014523    1 engine         : 首振り
+0.0014400    1 convinced      : 首肯ける
+0.0014338    1 make           : 首鼠
+0.0014307    1 plane          : 機首
+0.0014155    2 one            : 首鼠, 首肯く
+0.0014092    1 character      : 部首
+0.0014033    1 consent        : 首肯
+0.0013930    1 promotion      : 首唱
+0.0013823    1 leading        : 首位
+0.0013783    1 fish           : 石首魚
+0.0013749    1 ruler          : 元首
+0.0013649    1 student        : 首席
+0.0013637    1 journey        : 首途
+0.0013574    1 collar         : 首輪
+0.0013459    1 plot           : 首謀
+0.0013431    1 fan            : 首振り
+0.0013164    1 organization   : 首長
+0.0013121    1 crime          : 首謀
+0.0013016    1 departure      : 首途
+0.0012972    1 important      : 首脳
+0.0012966    1 turning        : 自首
+0.0012920    1 nose           : 機首
+0.0012777    1 result         : 首尾
+0.0012695    1 discharge      : 馘首
+0.0012549    1 party          : 党首
+0.0012493    1 giving         : 自首
+0.0012328    1 Japanese       : がん首
+0.0012044    1 course         : 首尾
+0.0011483    1 animal         : 首輪
+0.0011391    1 accept         : 首肯ける
+0.0011391    1 understand     : 首肯ける
+0.0011356    1 find           : 首肯ける
+0.0011089    1 leaving        : 首途
+0.0010769    1 front          : 首途
+0.0010767    1 state          : 元首
+0.0010630    1 Buddhist       : 貫首
+0.0010461    1 temple         : 貫首
+0.0010319    1 home           : 首途
+0.0010111    1 new            : 首途
+0.0009621    1 going          : 鳩首
+0.0009476    1 place          : 首位
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0880146   17 neck
+	neck WORD[ 1,   1]: 0.0164829 首まわり
+	neck WORD[ 1,   2]: 0.0164826 首回り
+	neck WORD[ 1,   3]: 0.0052714 首元
+	neck WORD[ 1,   4]: 0.0046165 首根
+	neck WORD[ 1,   5]: 0.0042854 馬首
+	neck WORD[ 1,   6]: 0.0039843 鎌首
+	neck WORD[ 1,   7]: 0.0039344 首すじ
+	neck WORD[ 1,   8]: 0.0039344 首筋
+	neck WORD[ 1,   9]: 0.0021688 白首
+	neck WORD[ 1,  10]: 0.0020286 首っ玉
+	neck WORD[ 1,  11]: 0.0019948 がん首
+	neck WORD[ 1,  12]: 0.0019948 雁首
+	neck WORD[ 1,  13]: 0.0019579 猪首
+	neck WORD[ 1,  14]: 0.0019347 えり首
+	neck WORD[ 1,  15]: 0.0019347 襟首
+	neck WORD[ 1,  16]: 0.0013115 首
+	neck WORD[ 1,  17]: 0.0012610 鶴首
+TOKEN[ 2]: 0.0658452   28 head
+	head WORD[ 2,   1]: 0.0047194 さらし首
+	head WORD[ 2,   2]: 0.0047194 晒し首
+	head WORD[ 2,   3]: 0.0047194 晒首
+	head WORD[ 2,   4]: 0.0047194 曝し首
+	head WORD[ 2,   5]: 0.0031778 首座
+	head WORD[ 2,   6]: 0.0029784 がん首
+	head WORD[ 2,   7]: 0.0020513 首席
+	head WORD[ 2,   8]: 0.0017673 偽首
+	head WORD[ 2,   9]: 0.0017673 贋首
+	head WORD[ 2,  10]: 0.0017182 寝首
+	head WORD[ 2,  11]: 0.0017106 そっ首
+	head WORD[ 2,  12]: 0.0017106 素っ首
+	head WORD[ 2,  13]: 0.0017106 素首
+	head WORD[ 2,  14]: 0.0017097 生首
+	head WORD[ 2,  15]: 0.0015870 首級
+	head WORD[ 2,  16]: 0.0015731 曝首
+	head WORD[ 2,  17]: 0.0015599 小首
+	head WORD[ 2,  18]: 0.0015266 梟首
+	head WORD[ 2,  19]: 0.0014892 雁首
+	head WORD[ 2,  20]: 0.0010259 首領
+	head WORD[ 2,  21]: 0.0010258 首班
+	head WORD[ 2,  22]: 0.0010258 首脳
+	head WORD[ 2,  23]: 0.0010256 首長
+	head WORD[ 2,  24]: 0.0010249 首位
+	head WORD[ 2,  25]: 0.0010132 斬首
+	head WORD[ 2,  26]: 0.0009890 元首
+	head WORD[ 2,  27]: 0.0009790 首
+	head WORD[ 2,  28]: 0.0009049 首肯く
+TOKEN[ 3]: 0.0220806    5 beginning
+	beginning WORD[ 3,   1]: 0.0096053 起首
+	beginning WORD[ 3,   2]: 0.0066887 首部
+	beginning WORD[ 3,   3]: 0.0023543 首尾
+	beginning WORD[ 3,   4]: 0.0017228 期首
+	beginning WORD[ 3,   5]: 0.0017096 巻首
+TOKEN[ 4]: 0.0201990    7 decapitation
+	decapitation WORD[ 4,   1]: 0.0049308 首切り
+	decapitation WORD[ 4,   2]: 0.0049308 首斬り
+	decapitation WORD[ 4,   3]: 0.0023852 打ち首
+	decapitation WORD[ 4,   4]: 0.0023852 打首
+	decapitation WORD[ 4,   5]: 0.0023852 討首
+	decapitation WORD[ 4,   6]: 0.0016495 斬首
+	decapitation WORD[ 4,   7]: 0.0015325 馘首
+TOKEN[ 5]: 0.0180295    2 measurement
+	measurement WORD[ 5,   1]: 0.0090148 首まわり
+	measurement WORD[ 5,   2]: 0.0090147 首回り
+TOKEN[ 6]: 0.0163758    2 size
+	size WORD[ 6,   1]: 0.0081880 首まわり
+	size WORD[ 6,   2]: 0.0081878 首回り
+TOKEN[ 7]: 0.0163587    7 hanging
+	hanging WORD[ 7,   1]: 0.0070557 縊首
+	hanging WORD[ 7,   2]: 0.0019513 縛り首
+	hanging WORD[ 7,   3]: 0.0018627 首くくり
+	hanging WORD[ 7,   4]: 0.0018627 首縊り
+	hanging WORD[ 7,   5]: 0.0012178 絞首
+	hanging WORD[ 7,   6]: 0.0012042 首つり
+	hanging WORD[ 7,   7]: 0.0012042 首吊り
+TOKEN[ 8]: 0.0140102    1 sacking
+	sacking WORD[ 8,   1]: 0.0017513 首
+TOKEN[ 9]: 0.0134963    1 penis
+	penis WORD[ 9,   1]: 0.0067482 雁首
+TOKEN[10]: 0.0131897    2 dismissal
+	dismissal WORD[10,   1]: 0.0014718 首
+	dismissal WORD[10,   2]: 0.0014151 馘首
+TOKEN[11]: 0.0127467    2 part
+	part WORD[11,   1]: 0.0117157 首部
+	part WORD[11,   2]: 0.0010309 首脳
+TOKEN[12]: 0.0126076    1 tether
+	tether WORD[12,   1]: 0.0126076 首綱
+TOKEN[13]: 0.0124014    1 leash
+	leash WORD[13,   1]: 0.0124014 首綱
+TOKEN[14]: 0.0117742    2 kowtow
+	kowtow WORD[14,   1]: 0.0086642 叩首
+	kowtow WORD[14,   2]: 0.0031101 頓首
+TOKEN[15]: 0.0114687    6 chief
+	chief WORD[15,   1]: 0.0042069 上首
+	chief WORD[15,   2]: 0.0021251 頭首
+	chief WORD[15,   3]: 0.0013057 首領
+	chief WORD[15,   4]: 0.0013054 首長
+	chief WORD[15,   5]: 0.0013054 首席
+	chief WORD[15,   6]: 0.0012203 貫首
+TOKEN[16]: 0.0114387    1 corona
+	corona WORD[16,   1]: 0.0057194 雁首
+TOKEN[17]: 0.0110394    6 leader
+	leader WORD[17,   1]: 0.0042799 上首
+	leader WORD[17,   2]: 0.0014465 党首
+	leader WORD[17,   3]: 0.0013283 首領
+	leader WORD[17,   4]: 0.0013283 首謀
+	leader WORD[17,   5]: 0.0013282 首班
+	leader WORD[17,   6]: 0.0013282 首脳
+TOKEN[18]: 0.0109193    1 firing
+	firing WORD[18,   1]: 0.0013649 首
+TOKEN[19]: 0.0108782    1 croaker
+	croaker WORD[19,   1]: 0.0108782 石首魚
+TOKEN[20]: 0.0108613    1 glans
+	glans WORD[20,   1]: 0.0054306 雁首
+TOKEN[21]: 0.0106535    4 bow
+	bow WORD[21,   1]: 0.0044578 艇首
+	bow WORD[21,   2]: 0.0036892 艦首
+	bow WORD[21,   3]: 0.0013471 船首
+	bow WORD[21,   4]: 0.0011594 首肯く
+TOKEN[22]: 0.0106277    1 missile
+	missile WORD[22,   1]: 0.0106277 首部
+TOKEN[23]: 0.0104257    1 origin
+	origin WORD[23,   1]: 0.0104257 起首
+TOKEN[24]: 0.0094967    1 job
+	job WORD[24,   1]: 0.0011871 首
+TOKEN[25]: 0.0092514    3 scruff
+	scruff WORD[25,   1]: 0.0058995 首根
+	scruff WORD[25,   2]: 0.0016759 首すじ
+	scruff WORD[25,   3]: 0.0016759 首筋
+TOKEN[26]: 0.0092397    2 love
+	love WORD[26,   1]: 0.0046198 首ったけ
+	love WORD[26,   2]: 0.0046198 首っ丈
+TOKEN[27]: 0.0091528    1 start
+	start WORD[27,   1]: 0.0091528 起首
+TOKEN[28]: 0.0091510    1 cone
+	cone WORD[28,   1]: 0.0091510 首部
+TOKEN[29]: 0.0091264    1 lanyard
+	lanyard WORD[29,   1]: 0.0091264 首紐
+TOKEN[30]: 0.0089827    3 death
+	death WORD[30,   1]: 0.0031866 曝首
+	death WORD[30,   2]: 0.0016067 縛り首
+	death WORD[30,   3]: 0.0010028 絞首
+TOKEN[31]: 0.0083843    1 initial
+	initial WORD[31,   1]: 0.0083843 首部
+TOKEN[32]: 0.0083314    2 gooseneck
+	gooseneck WORD[32,   1]: 0.0027784 雁首
+	gooseneck WORD[32,   2]: 0.0027746 鎌首
+TOKEN[33]: 0.0083221    4 display
+	display WORD[33,   1]: 0.0020805 さらし首
+	display WORD[33,   2]: 0.0020805 晒し首
+	display WORD[33,   3]: 0.0020805 晒首
+	display WORD[33,   4]: 0.0020805 曝し首
+TOKEN[34]: 0.0083221    4 criminal
+	criminal WORD[34,   1]: 0.0020805 さらし首
+	criminal WORD[34,   2]: 0.0020805 晒し首
+	criminal WORD[34,   3]: 0.0020805 晒首
+	criminal WORD[34,   4]: 0.0020805 曝し首
+TOKEN[35]: 0.0082808    1 suicide
+	suicide WORD[35,   1]: 0.0082808 縊首
+TOKEN[36]: 0.0082418    1 neckband
+	neckband WORD[36,   1]: 0.0082418 首紐
+TOKEN[37]: 0.0078789    2 muffler
+	muffler WORD[37,   1]: 0.0026263 首巻
+	muffler WORD[37,   2]: 0.0026263 首巻き
+TOKEN[38]: 0.0077116    4 nape
+	nape WORD[38,   1]: 0.0022981 えり首
+	nape WORD[38,   2]: 0.0022980 襟首
+	nape WORD[38,   3]: 0.0015578 首すじ
+	nape WORD[38,   4]: 0.0015578 首筋
+TOKEN[39]: 0.0073369    2 scarf
+	scarf WORD[39,   1]: 0.0024456 首巻
+	scarf WORD[39,   2]: 0.0024456 首巻き
+TOKEN[40]: 0.0069637    1 ornamental
+	ornamental WORD[40,   1]: 0.0069637 首紐
+TOKEN[41]: 0.0066413    4 public
+	public WORD[41,   1]: 0.0016603 さらし首
+	public WORD[41,   2]: 0.0016603 晒し首
+	public WORD[41,   3]: 0.0016603 晒首
+	public WORD[41,   4]: 0.0016603 曝し首
+TOKEN[42]: 0.0059064    1 mound
+	mound WORD[42,   1]: 0.0059064 首塚
+TOKEN[43]: 0.0058373    1 throat
+	throat WORD[43,   1]: 0.0058373 首元
+TOKEN[44]: 0.0057368    1 cranium
+	cranium WORD[44,   1]: 0.0028684 曝首
+TOKEN[45]: 0.0056957    1 burial
+	burial WORD[45,   1]: 0.0056957 首塚
+TOKEN[46]: 0.0055498    3 used
+	used WORD[46,   1]: 0.0014138 曝首
+	used WORD[46,   2]: 0.0013611 首切り
+	used WORD[46,   3]: 0.0013611 首斬り
+TOKEN[47]: 0.0054562    1 skull
+	skull WORD[47,   1]: 0.0027281 曝首
+TOKEN[48]: 0.0054464    2 boat
+	boat WORD[48,   1]: 0.0041825 艇首
+	boat WORD[48,   2]: 0.0012639 船首
+TOKEN[49]: 0.0053858    2 seat
+	seat WORD[49,   1]: 0.0040717 首座
+	seat WORD[49,   2]: 0.0013141 首席
+TOKEN[50]: 0.0048906    1 goose
+	goose WORD[50,   1]: 0.0024453 雁首
+TOKEN[51]: 0.0048254    2 white
+	white WORD[51,   1]: 0.0030704 石首魚
+	white WORD[51,   2]: 0.0017551 白首
+TOKEN[52]: 0.0047775    1 bottom
+	bottom WORD[52,   1]: 0.0047775 首元
+TOKEN[53]: 0.0047037    1 bowing
+	bowing WORD[53,   1]: 0.0047037 稽首
+TOKEN[54]: 0.0046606    1 base
+	base WORD[54,   1]: 0.0046606 首元
+TOKEN[55]: 0.0046471    1 shaped
+	shaped WORD[55,   1]: 0.0023235 雁首
+TOKEN[56]: 0.0046348    1 guide
+	guide WORD[56,   1]: 0.0046348 上首
+TOKEN[57]: 0.0045788    2 wrist
+	wrist WORD[57,   1]: 0.0026264 腕首
+	wrist WORD[57,   2]: 0.0019524 手首
+TOKEN[58]: 0.0045464    2 choker
+	choker WORD[58,   1]: 0.0027612 首飾り
+	choker WORD[58,   2]: 0.0017852 首輪
+TOKEN[59]: 0.0045297    2 ringleader
+	ringleader WORD[59,   1]: 0.0027507 首魁
+	ringleader WORD[59,   2]: 0.0017789 首謀
+TOKEN[60]: 0.0045258    1 symbol
+	symbol WORD[60,   1]: 0.0022629 曝首
+TOKEN[61]: 0.0044343    2 crazy
+	crazy WORD[61,   1]: 0.0022171 首ったけ
+	crazy WORD[61,   2]: 0.0022171 首っ丈
+TOKEN[62]: 0.0044037    4 person
+	person WORD[62,   1]: 0.0013611 寝首
+	person WORD[62,   2]: 0.0007756 首つり
+	person WORD[62,   3]: 0.0007756 首吊り
+	person WORD[62,   4]: 0.0007457 鶴首
+TOKEN[63]: 0.0043240    2 necklace
+	necklace WORD[63,   1]: 0.0026262 首飾り
+	necklace WORD[63,   2]: 0.0016979 首輪
+TOKEN[64]: 0.0042895    1 warship
+	warship WORD[64,   1]: 0.0042895 艦首
+TOKEN[65]: 0.0040390    1 lampoon
+	lampoon WORD[65,   1]: 0.0040390 落首
+TOKEN[66]: 0.0038642    2 boss
+	boss WORD[66,   1]: 0.0023936 頭首
+	boss WORD[66,   2]: 0.0014706 首領
+TOKEN[67]: 0.0038612    2 samurai
+	samurai WORD[67,   1]: 0.0019306 首切り
+	samurai WORD[67,   2]: 0.0019306 首斬り
+TOKEN[68]: 0.0036434    1 satirical
+	satirical WORD[68,   1]: 0.0036434 落首
+TOKEN[69]: 0.0036305    1 floor
+	floor WORD[69,   1]: 0.0036305 稽首
+TOKEN[70]: 0.0035319    1 dirk
+	dirk WORD[70,   1]: 0.0035319 匕首
+TOKEN[71]: 0.0035275    1 horse
+	horse WORD[71,   1]: 0.0035275 馬首
+TOKEN[72]: 0.0034889    2 dead
+	dead WORD[72,   1]: 0.0017445 首狩
+	dead WORD[72,   2]: 0.0017445 首狩り
+TOKEN[73]: 0.0034224    2 top
+	top WORD[73,   1]: 0.0022815 首席
+	top WORD[73,   2]: 0.0011409 首脳
+TOKEN[74]: 0.0032972    2 something
+	something WORD[74,   1]: 0.0012263 雁首
+	something WORD[74,   2]: 0.0008447 首尾
+TOKEN[75]: 0.0032753    2 capital
+	capital WORD[75,   1]: 0.0019920 首府
+	capital WORD[75,   2]: 0.0012833 首都
+TOKEN[76]: 0.0032618    2 class
+	class WORD[76,   1]: 0.0019968 白首
+	class WORD[76,   2]: 0.0012649 首席
+TOKEN[77]: 0.0032449    2 sword
+	sword WORD[77,   1]: 0.0016224 首切り
+	sword WORD[77,   2]: 0.0016224 首斬り
+TOKEN[78]: 0.0031636    2 minister
+	minister WORD[78,   1]: 0.0015820 首班
+	minister WORD[78,   2]: 0.0015817 首相
+TOKEN[79]: 0.0031597    2 long
+	long WORD[79,   1]: 0.0010606 首途
+	long WORD[79,   2]: 0.0010495 鶴首
+TOKEN[80]: 0.0030716    2 assent
+	assent WORD[80,   1]: 0.0016318 首肯
+	assent WORD[80,   2]: 0.0014398 首肯く
+TOKEN[81]: 0.0030610    2 city
+	city WORD[81,   1]: 0.0018617 首府
+	city WORD[81,   2]: 0.0011994 首都
+TOKEN[82]: 0.0029829    2 prime
+	prime WORD[82,   1]: 0.0014916 首班
+	prime WORD[82,   2]: 0.0014913 首相
+TOKEN[83]: 0.0029375    1 vase
+	vase WORD[83,   1]: 0.0014687 鶴首
+TOKEN[84]: 0.0029081    1 pillory
+	pillory WORD[84,   1]: 0.0029081 首枷
+TOKEN[85]: 0.0028519    2 small
+	small WORD[85,   1]: 0.0014260 首切り
+	small WORD[85,   2]: 0.0014260 首斬り
+TOKEN[86]: 0.0028285    1 Apogon
+	Apogon WORD[86,   1]: 0.0028285 石首魚
+TOKEN[87]: 0.0028137    1 dagger
+	dagger WORD[87,   1]: 0.0028137 匕首
+TOKEN[88]: 0.0027926    1 slender
+	slender WORD[88,   1]: 0.0013963 鶴首
+TOKEN[89]: 0.0027746    1 mantis
+	mantis WORD[89,   1]: 0.0027746 鎌首
+TOKEN[90]: 0.0026835    1 forerunner
+	forerunner WORD[90,   1]: 0.0026835 首魁
+TOKEN[91]: 0.0026399    1 bottle
+	bottle WORD[91,   1]: 0.0013200 鶴首
+TOKEN[92]: 0.0025825    1 shank
+	shank WORD[92,   1]: 0.0025825 がん首
+TOKEN[93]: 0.0025379    2 agree
+	agree WORD[93,   1]: 0.0012690 首肯ける
+	agree WORD[93,   2]: 0.0012689 首肯く
+TOKEN[94]: 0.0025020    1 bull
+	bull WORD[94,   1]: 0.0025020 猪首
+TOKEN[95]: 0.0024819    1 sutra
+	sutra WORD[95,   1]: 0.0024819 首題
+TOKEN[96]: 0.0024646    1 crooked
+	crooked WORD[96,   1]: 0.0024646 鎌首
+TOKEN[97]: 0.0024279    1 manager
+	manager WORD[97,   1]: 0.0024279 頭首
+TOKEN[98]: 0.0024016    1 praying
+	praying WORD[98,   1]: 0.0024016 鎌首
+TOKEN[99]: 0.0023984    1 starting
+	starting WORD[99,   1]: 0.0023984 首途
+TOKEN[100]: 0.0023841    1 able
+	able WORD[100,   1]: 0.0023841 首肯ける
+TOKEN[101]: 0.0023703    1 coral
+	coral WORD[101,   1]: 0.0023703 石首魚
+TOKEN[102]: 0.0023664    1 setting
+	setting WORD[102,   1]: 0.0023664 首途
+TOKEN[103]: 0.0023595    1 heading
+	heading WORD[103,   1]: 0.0023595 首題
+TOKEN[104]: 0.0023570    1 sleeping
+	sleeping WORD[104,   1]: 0.0023570 寝首
+TOKEN[105]: 0.0023470    1 perch
+	perch WORD[105,   1]: 0.0023470 石首魚
+TOKEN[106]: 0.0023228    1 constant
+	constant WORD[106,   1]: 0.0023228 首っ引き
+TOKEN[107]: 0.0023216    1 unable
+	unable WORD[107,   1]: 0.0023216 首鼠
+TOKEN[108]: 0.0022914    1 item
+	item WORD[108,   1]: 0.0011457 鶴首
+TOKEN[109]: 0.0022597    1 poem
+	poem WORD[109,   1]: 0.0022597 落首
+TOKEN[110]: 0.0022267    1 powder
+	powder WORD[110,   1]: 0.0022267 白首
+TOKEN[111]: 0.0021877    1 phrase
+	phrase WORD[111,   1]: 0.0021877 首題
+TOKEN[112]: 0.0021834    1 emir
+	emir WORD[112,   1]: 0.0021834 首長
+TOKEN[113]: 0.0021784    1 burden
+	burden WORD[113,   1]: 0.0021784 首枷
+TOKEN[114]: 0.0021744    1 scroll
+	scroll WORD[114,   1]: 0.0021744 巻首
+TOKEN[115]: 0.0021706    1 snake
+	snake WORD[115,   1]: 0.0021706 鎌首
+TOKEN[116]: 0.0021670    1 exposure
+	exposure WORD[116,   1]: 0.0021670 梟首
+TOKEN[117]: 0.0021604    1 fence
+	fence WORD[117,   1]: 0.0021604 首鼠
+TOKEN[118]: 0.0021581    1 position
+	position WORD[118,   1]: 0.0021581 首位
+TOKEN[119]: 0.0021403    1 document
+	document WORD[119,   1]: 0.0021403 首題
+TOKEN[120]: 0.0021057    1 honor
+	honor WORD[120,   1]: 0.0021057 首座
+TOKEN[121]: 0.0020882    1 pipe
+	pipe WORD[121,   1]: 0.0020882 がん首
+TOKEN[122]: 0.0020842    1 oscillating
+	oscillating WORD[122,   1]: 0.0020842 首振り
+TOKEN[123]: 0.0020803    1 teat
+	teat WORD[123,   1]: 0.0020803 乳首
+TOKEN[124]: 0.0020722    1 reference
+	reference WORD[124,   1]: 0.0020722 首っ引き
+TOKEN[125]: 0.0020593    1 Indian
+	Indian WORD[125,   1]: 0.0020593 石首魚
+TOKEN[126]: 0.0020212    1 nipple
+	nipple WORD[126,   1]: 0.0020212 乳首
+TOKEN[127]: 0.0020166    1 prostitute
+	prostitute WORD[127,   1]: 0.0020166 白首
+TOKEN[128]: 0.0020083    1 sitting
+	sitting WORD[128,   1]: 0.0020083 首鼠
+TOKEN[129]: 0.0019860    1 thick
+	thick WORD[129,   1]: 0.0019860 白首
+TOKEN[130]: 0.0019819    1 bowl
+	bowl WORD[130,   1]: 0.0019819 がん首
+TOKEN[131]: 0.0019811    1 end
+	end WORD[131,   1]: 0.0019811 首尾
+TOKEN[132]: 0.0019728    1 notice
+	notice WORD[132,   1]: 0.0019728 首題
+TOKEN[133]: 0.0019695    1 premier
+	premier WORD[133,   1]: 0.0019695 首相
+TOKEN[134]: 0.0019615    1 prow
+	prow WORD[134,   1]: 0.0019615 船首
+TOKEN[135]: 0.0019351    1 life
+	life WORD[135,   1]: 0.0019351 首途
+TOKEN[136]: 0.0019314    1 table
+	table WORD[136,   1]: 0.0019314 首座
+TOKEN[137]: 0.0019139    1 plotting
+	plotting WORD[137,   1]: 0.0019139 首謀
+TOKEN[138]: 0.0018966    1 opening
+	opening WORD[138,   1]: 0.0018966 首題
+TOKEN[139]: 0.0018956    1 loss
+	loss WORD[139,   1]: 0.0018956 投げ首
+TOKEN[140]: 0.0018704    1 mastermind
+	mastermind WORD[140,   1]: 0.0018704 首謀
+TOKEN[141]: 0.0018579    1 low
+	low WORD[141,   1]: 0.0018579 白首
+TOKEN[142]: 0.0018576    1 enemy
+	enemy WORD[142,   1]: 0.0018576 首級
+TOKEN[143]: 0.0018473    1 strangling
+	strangling WORD[143,   1]: 0.0018473 絞首
+TOKEN[144]: 0.0018346    1 chancellor
+	chancellor WORD[144,   1]: 0.0018346 首相
+TOKEN[145]: 0.0018337    1 silver
+	silver WORD[145,   1]: 0.0018337 石首魚
+TOKEN[146]: 0.0018048    1 metropolis
+	metropolis WORD[146,   1]: 0.0018048 首都
+TOKEN[147]: 0.0017991    1 letter
+	letter WORD[147,   1]: 0.0017991 首題
+TOKEN[148]: 0.0017962    1 term
+	term WORD[148,   1]: 0.0017962 期首
+TOKEN[149]: 0.0017789    1 intrigue
+	intrigue WORD[149,   1]: 0.0017789 首謀
+TOKEN[150]: 0.0017786    1 orchestra
+	orchestra WORD[150,   1]: 0.0017786 首席
+TOKEN[151]: 0.0017786    1 chairman
+	chairman WORD[151,   1]: 0.0017786 首席
+TOKEN[152]: 0.0017654    1 huddle
+	huddle WORD[152,   1]: 0.0017654 鳩首
+TOKEN[153]: 0.0017483    1 abbot
+	abbot WORD[153,   1]: 0.0017483 貫首
+TOKEN[154]: 0.0017351    1 advocacy
+	advocacy WORD[154,   1]: 0.0017351 首唱
+TOKEN[155]: 0.0017227    1 nodding
+	nodding WORD[155,   1]: 0.0017227 首振り
+TOKEN[156]: 0.0017056    1 woman
+	woman WORD[156,   1]: 0.0017056 白首
+TOKEN[157]: 0.0016906    1 mind
+	mind WORD[157,   1]: 0.0016906 首鼠
+TOKEN[158]: 0.0016208    1 president
+	president WORD[158,   1]: 0.0016208 首席
+TOKEN[159]: 0.0016117    1 making
+	making WORD[159,   1]: 0.0016117 首っ引き
+TOKEN[160]: 0.0016100    1 sovereign
+	sovereign WORD[160,   1]: 0.0016100 元首
+TOKEN[161]: 0.0015731    1 governor
+	governor WORD[161,   1]: 0.0015731 首席
+TOKEN[162]: 0.0015620    1 ankle
+	ankle WORD[162,   1]: 0.0015620 足首
+TOKEN[163]: 0.0015490    1 nod
+	nod WORD[163,   1]: 0.0015490 首肯く
+TOKEN[164]: 0.0015487    1 anew
+	anew WORD[164,   1]: 0.0015487 首途
+TOKEN[165]: 0.0015486    1 book
+	book WORD[165,   1]: 0.0015486 巻首
+TOKEN[166]: 0.0015326    1 radical
+	radical WORD[166,   1]: 0.0015326 部首
+TOKEN[167]: 0.0015216    1 outcome
+	outcome WORD[167,   1]: 0.0015216 首尾
+TOKEN[168]: 0.0015147    1 acceptable
+	acceptable WORD[168,   1]: 0.0015147 首肯ける
+TOKEN[169]: 0.0015090    1 dealing
+	dealing WORD[169,   1]: 0.0015090 首尾
+TOKEN[170]: 0.0014924    1 stem
+	stem WORD[170,   1]: 0.0014924 船首
+TOKEN[171]: 0.0014913    1 desk
+	desk WORD[171,   1]: 0.0014913 首席
+TOKEN[172]: 0.0014789    1 doll
+	doll WORD[172,   1]: 0.0014789 首振り
+TOKEN[173]: 0.0014644    1 surrender
+	surrender WORD[173,   1]: 0.0014644 自首
+TOKEN[174]: 0.0014523    1 engine
+	engine WORD[174,   1]: 0.0014523 首振り
+TOKEN[175]: 0.0014400    1 convinced
+	convinced WORD[175,   1]: 0.0014400 首肯ける
+TOKEN[176]: 0.0014338    1 make
+	make WORD[176,   1]: 0.0014338 首鼠
+TOKEN[177]: 0.0014307    1 plane
+	plane WORD[177,   1]: 0.0014307 機首
+TOKEN[178]: 0.0014155    2 one
+	one WORD[178,   1]: 0.0009022 首鼠
+	one WORD[178,   2]: 0.0005133 首肯く
+TOKEN[179]: 0.0014092    1 character
+	character WORD[179,   1]: 0.0014092 部首
+TOKEN[180]: 0.0014033    1 consent
+	consent WORD[180,   1]: 0.0014033 首肯
+TOKEN[181]: 0.0013930    1 promotion
+	promotion WORD[181,   1]: 0.0013930 首唱
+TOKEN[182]: 0.0013823    1 leading
+	leading WORD[182,   1]: 0.0013823 首位
+TOKEN[183]: 0.0013783    1 fish
+	fish WORD[183,   1]: 0.0013783 石首魚
+TOKEN[184]: 0.0013749    1 ruler
+	ruler WORD[184,   1]: 0.0013749 元首
+TOKEN[185]: 0.0013649    1 student
+	student WORD[185,   1]: 0.0013649 首席
+TOKEN[186]: 0.0013637    1 journey
+	journey WORD[186,   1]: 0.0013637 首途
+TOKEN[187]: 0.0013574    1 collar
+	collar WORD[187,   1]: 0.0013574 首輪
+TOKEN[188]: 0.0013459    1 plot
+	plot WORD[188,   1]: 0.0013459 首謀
+TOKEN[189]: 0.0013431    1 fan
+	fan WORD[189,   1]: 0.0013431 首振り
+TOKEN[190]: 0.0013164    1 organization
+	organization WORD[190,   1]: 0.0013164 首長
+TOKEN[191]: 0.0013121    1 crime
+	crime WORD[191,   1]: 0.0013121 首謀
+TOKEN[192]: 0.0013016    1 departure
+	departure WORD[192,   1]: 0.0013016 首途
+TOKEN[193]: 0.0012972    1 important
+	important WORD[193,   1]: 0.0012972 首脳
+TOKEN[194]: 0.0012966    1 turning
+	turning WORD[194,   1]: 0.0012966 自首
+TOKEN[195]: 0.0012920    1 nose
+	nose WORD[195,   1]: 0.0012920 機首
+TOKEN[196]: 0.0012777    1 result
+	result WORD[196,   1]: 0.0012777 首尾
+TOKEN[197]: 0.0012695    1 discharge
+	discharge WORD[197,   1]: 0.0012695 馘首
+TOKEN[198]: 0.0012549    1 party
+	party WORD[198,   1]: 0.0012549 党首
+TOKEN[199]: 0.0012493    1 giving
+	giving WORD[199,   1]: 0.0012493 自首
+TOKEN[200]: 0.0012328    1 Japanese
+	Japanese WORD[200,   1]: 0.0012328 がん首
+TOKEN[201]: 0.0012044    1 course
+	course WORD[201,   1]: 0.0012044 首尾
+TOKEN[202]: 0.0011483    1 animal
+	animal WORD[202,   1]: 0.0011483 首輪
+TOKEN[203]: 0.0011391    1 accept
+	accept WORD[203,   1]: 0.0011391 首肯ける
+TOKEN[204]: 0.0011391    1 understand
+	understand WORD[204,   1]: 0.0011391 首肯ける
+TOKEN[205]: 0.0011356    1 find
+	find WORD[205,   1]: 0.0011356 首肯ける
+TOKEN[206]: 0.0011089    1 leaving
+	leaving WORD[206,   1]: 0.0011089 首途
+TOKEN[207]: 0.0010769    1 front
+	front WORD[207,   1]: 0.0010769 首途
+TOKEN[208]: 0.0010767    1 state
+	state WORD[208,   1]: 0.0010767 元首
+TOKEN[209]: 0.0010630    1 Buddhist
+	Buddhist WORD[209,   1]: 0.0010630 貫首
+TOKEN[210]: 0.0010461    1 temple
+	temple WORD[210,   1]: 0.0010461 貫首
+TOKEN[211]: 0.0010319    1 home
+	home WORD[211,   1]: 0.0010319 首途
+TOKEN[212]: 0.0010111    1 new
+	new WORD[212,   1]: 0.0010111 首途
+TOKEN[213]: 0.0009621    1 going
+	going WORD[213,   1]: 0.0009621 鳩首
+TOKEN[214]: 0.0009476    1 place
+	place WORD[214,   1]: 0.0009476 首位

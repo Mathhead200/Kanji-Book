@@ -1,0 +1,818 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2939371   94 blood          : 紅血, 血だまり, 血溜まり, 血溜り, 売血, 血斑, 血中, 人血, 血抜き, 血飛沫, ...
+0.0363010    6 red            : 紅血, 赤血, 血合, 血合い, 血色, 出血
+0.0237216    3 puddle         : 血だまり, 血溜まり, 血溜り
+0.0222750    4 pool           : 血だまり, 血溜まり, 血溜り, 血の池
+0.0221775   13 bloody         : 血みどろ, 血なまぐさい, 血生臭い, 血腥い, 血刀, 血膿, 血尿, 血痰, 下血, 血まみれ, ...
+0.0137419    1 hematoma       : 血腫
+0.0117767    4 spurt          : 返り血, 血汐, 血潮, 血煙
+0.0095370    5 lineage        : 血胤, 血すじ, 血筋, 血, 血統
+0.0091240    2 plasma         : 血しょう, 血漿
+0.0090535    4 bloodshot      : 血目, 血まなこ, 血眼, 血走る
+0.0088219    4 clot           : 血餅, 血塊, 血栓, 凝血
+0.0087664    5 relationship   : 血胤, 血脈, 血すじ, 血筋, 血縁
+0.0087403    3 money          : 売血, 出血, 血税
+0.0085740    1 spot           : 血斑
+0.0080870    1 depuration     : 浄血
+0.0080213    7 one            : 返り血, 売血, 心血, 血迷う, 血の気, 血肉, 血判
+0.0077213    3 descent        : 血胤, 血すじ, 血筋
+0.0076963    1 human          : 人血
+0.0071407    3 strain         : 血胤, 血すじ, 血筋
+0.0070785    3 stinking       : 血なまぐさい, 血生臭い, 血腥い
+0.0070432    5 battle         : 血祭り, 血なまぐさい, 血生臭い, 血腥い, 血戦
+0.0069319    1 brandling      : 黄血
+0.0068626    4 stock          : 血胤, 血すじ, 血筋, 血
+0.0062336    3 frenzy         : 血目, 血まなこ, 血眼
+0.0061527    3 bleeding       : 出血, 血止め, 止血
+0.0059007    3 meat           : 血抜き, 血合, 血合い
+0.0055254    3 bloodstained   : 血染め, 血まみれ, 血塗れ
+0.0055130    1 victim         : 返り血
+0.0054800    2 selling        : 売血, 出血
+0.0054536    1 hemothorax     : 血胸
+0.0054458    1 purification   : 浄血
+0.0054401    1 coldheartedness: 冷血
+0.0052185    1 bait           : 黄血
+0.0051975    1 occult         : 潜血
+0.0051831    4 haemorrhage    : 出血, かっ血, 喀血, 溢血
+0.0051831    4 hemorrhage     : 出血, かっ血, 喀血, 溢血
+0.0051466    3 fish           : 血抜き, 血合, 血合い
+0.0051356    2 sweat          : 汗血, 膏血
+0.0051330    2 spray          : 血飛沫, 血煙
+0.0050031    2 lifeblood      : 生き血, 生血
+0.0048529    3 crime          : 血なまぐさい, 血生臭い, 血腥い
+0.0047202    2 gore           : 血のり, 血糊
+0.0045621    1 serum          : 血清
+0.0044432    1 menstrual      : 経血
+0.0043283    3 relative       : 血肉, 血族, 血縁
+0.0043233    2 impure         : 古血, 悪血
+0.0042777    3 hot            : 熱血, 血汐, 血潮
+0.0042063    1 flick          : 血振り
+0.0040483    2 spine          : 血合, 血合い
+0.0039195    2 sword          : 血振り, 血刀
+0.0039170    1 maneuver       : 血振り
+0.0039000    1 borne          : 血中
+0.0038565    1 fishing        : 黄血
+0.0038403    2 sticky         : 血のり, 血糊
+0.0038086    3 covered        : 血みどろ, 血まみれ, 血塗れ
+0.0038009    1 fountain       : 血飛沫
+0.0037407    1 wipe           : 血振り
+0.0037240    2 tuna           : 血合, 血合い
+0.0036549    1 cooking        : 血抜き
+0.0036058    2 ardor          : 熱血, 血気
+0.0035487    1 killing        : 血祭り
+0.0033979    2 warm           : 熱血, 温血
+0.0033770    1 debt           : 血債
+0.0033646    2 relation       : 血続き, 血肉
+0.0033404    3 congestion     : 充血, うっ血, 鬱血
+0.0033225    3 donation       : 献血, 供血, 給血
+0.0032430    1 flesh          : 血肉
+0.0032281    1 weapon         : 血飛沫
+0.0032013    1 shake          : 血振り
+0.0031768    1 smell          : 血臭
+0.0031261    3 something      : 血目, 血まなこ, 血眼
+0.0030454    1 ischemia       : 虚血
+0.0030389    1 lose           : 血迷う
+0.0030062    1 increase       : 増血
+0.0029417    1 content        : 血中
+0.0029296    1 bloodless      : 無血
+0.0029265    1 used           : 黄血
+0.0029166    2 stopping       : 血止め, 止血
+0.0029060    1 flow           : 血流
+0.0029009    2 dark           : 血合, 血合い
+0.0028400    2 coming         : 血合, 血合い
+0.0028270    2 hemoptysis     : かっ血, 喀血
+0.0027225    2 color          : 血の気, 血色
+0.0027130    2 colour         : 血の気, 血色
+0.0026940    1 gory           : 血みどろ
+0.0026928    1 hotheadedness  : 血の気
+0.0026914    1 styptic        : 血止め
+0.0026821    1 hematosis      : 造血
+0.0026821    1 hemopoiesis    : 造血
+0.0026821    1 hematopoiesis  : 造血
+0.0026624    1 heart          : 心血
+0.0026059    1 sanguineness   : 多血
+0.0025826    2 engorgement    : うっ血, 鬱血
+0.0025539    2 fresh          : 生血, 鮮血
+0.0025405    1 thoroughbred   : 純血
+0.0024650    2 vessel         : 血脈, 血管
+0.0024319    1 hematuria      : 血尿
+0.0024291    1 impulsive      : 血の気
+0.0024142    1 venous         : 黒血
+0.0024027    1 bloodsucking   : 吸血
+0.0023133    2 military       : 鉄血, 血税
+0.0023075    1 frantic        : 血みどろ
+0.0022684    2 lung           : かっ血, 喀血
+0.0022541    1 fervor         : 熱血
+0.0022479    1 pus            : 血膿
+0.0022243    1 kin            : 血続き
+0.0021936    1 phlegm         : 血痰
+0.0021674    1 zeal           : 熱血
+0.0021663    1 copious        : 血みどろ
+0.0021626    1 hemolysis      : 溶血
+0.0020829    1 sedimentation  : 血沈
+0.0020769    1 smear          : 血塗る
+0.0020428    1 assorted       : 血の道
+0.0020196    1 transfusion    : 輸血
+0.0020189    1 sucking        : 吸血
+0.0020134    1 menstruation   : 血祭り
+0.0019997    1 blister        : 血豆
+0.0019802    1 bloodshed      : 流血
+0.0019770    1 bowel          : 下血
+0.0019410    1 desperate      : 血みどろ
+0.0019299    1 temperament    : 血の気
+0.0019115    1 complexion     : 血色
+0.0019018    1 nosebleed      : 鼻血
+0.0019016    1 hell           : 血の池
+0.0018791    1 mixed          : 混血
+0.0018408    1 anaemia        : 貧血
+0.0018408    1 anemia         : 貧血
+0.0018072    1 enthusiasm     : 熱血
+0.0017935    1 urine          : 血尿
+0.0017840    1 bream          : 血鯛
+0.0017804    1 bank           : 預血
+0.0017789    1 hematemesis    : 吐血
+0.0017612    1 circulation    : 血行
+0.0017537    1 pond           : 血の池
+0.0017277    1 oath           : 血盟
+0.0017239    1 formation      : 造血
+0.0017228    1 soldier        : 血祭り
+0.0017021    1 medical        : 血の道
+0.0016992    1 soul           : 心血
+0.0016763    1 kill           : 血塗る
+0.0016402    1 replenishment  : 補血
+0.0016369    1 hyperemia      : 充血
+0.0016262    1 crimson        : 血鯛
+0.0016258    1 energy         : 心血
+0.0016232    1 phlebotomy     : 瀉血
+0.0016145    1 blade          : 血刀
+0.0016106    1 oneself        : 血迷う
+0.0016098    1 hemostasis     : 止血
+0.0015855    1 offering       : 血祭り
+0.0015675    1 pledge         : 血盟
+0.0015644    1 consanguinity  : 血縁
+0.0015643    1 thrombus       : 血栓
+0.0015641    1 bloodstain     : 血痕
+0.0015628    1 iron           : 鉄血
+0.0015628    1 raise          : 血祭り
+0.0015410    1 bitter         : 血涙
+0.0015375    1 discharge      : 下血
+0.0015229    1 bloodletting   : 瀉血
+0.0015203    1 rate           : 血沈
+0.0015088    1 control        : 血迷う
+0.0014811    1 enemy          : 血祭り
+0.0014775    1 female         : 血の道
+0.0014742    1 escape         : 血路
+0.0014492    1 curdle         : 凝血
+0.0014491    1 vomiting       : 吐血
+0.0013997    1 animal         : 純血
+0.0013851    1 close          : 血肉
+0.0013837    1 start          : 血祭り
+0.0013482    1 expression     : 血相
+0.0013450    1 mind           : 血迷う
+0.0013145    1 ancestry       : 血
+0.0013014    1 face           : 血の気
+0.0012970    1 japonica       : 血鯛
+0.0012458    1 become         : 血走る
+0.0012433    1 conscription   : 血税
+0.0012219    1 parentage      : 混血
+0.0012178    1 compulsory     : 血税
+0.0012178    1 pedigree       : 血統
+0.0011867    1 sealing        : 血判
+0.0011720    1 body           : 血肉
+0.0011557    1 sea            : 血鯛
+0.0011535    1 vein           : 血管
+0.0011398    1 stool          : 血便
+0.0011269    1 vigor          : 血気
+0.0011043    1 way            : 血路
+0.0010911    1 cost           : 出血
+0.0010683    1 cell           : 血球
+0.0010617    1 ink            : 出血
+0.0010036    1 race           : 混血
+0.0009739    1 sugar          : 血糖
+0.0009515    1 tax            : 血税
+0.0009323    1 pressure       : 血圧
+0.0009264    1 birth          : 血統
+0.0009206    1 loss           : 失血
+0.0009076    1 seal           : 血判
+0.0009040    1 drawing        : 採血
+0.0008540    1 heavy          : 血税
+0.0008515    1 service        : 血税
+0.0007856    1 writing        : 血書
+0.0007688    1 high           : 血気
+0.0007621    1 line           : 血統
+0.0007227    1 family         : 血統
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2939371   94 blood
+	blood WORD[ 1,   1]: 0.0629301 紅血
+	blood WORD[ 1,   2]: 0.0106805 血だまり
+	blood WORD[ 1,   3]: 0.0106804 血溜まり
+	blood WORD[ 1,   4]: 0.0106803 血溜り
+	blood WORD[ 1,   5]: 0.0085950 売血
+	blood WORD[ 1,   6]: 0.0082495 血斑
+	blood WORD[ 1,   7]: 0.0076249 血中
+	blood WORD[ 1,   8]: 0.0070502 人血
+	blood WORD[ 1,   9]: 0.0067083 血抜き
+	blood WORD[ 1,  10]: 0.0055487 血飛沫
+	blood WORD[ 1,  11]: 0.0045142 浄血
+	blood WORD[ 1,  12]: 0.0043974 返り血
+	blood WORD[ 1,  13]: 0.0042683 血胤
+	blood WORD[ 1,  14]: 0.0040723 血肉
+	blood WORD[ 1,  15]: 0.0038728 赤血
+	blood WORD[ 1,  16]: 0.0033407 預血
+	blood WORD[ 1,  17]: 0.0030923 潜血
+	blood WORD[ 1,  18]: 0.0030446 熱血
+	blood WORD[ 1,  19]: 0.0030064 血のり
+	blood WORD[ 1,  20]: 0.0030063 血糊
+	blood WORD[ 1,  21]: 0.0030062 血の池
+	blood WORD[ 1,  22]: 0.0030056 血なまぐさい
+	blood WORD[ 1,  23]: 0.0030056 血生臭い
+	blood WORD[ 1,  24]: 0.0030056 血腥い
+	blood WORD[ 1,  25]: 0.0029616 血債
+	blood WORD[ 1,  26]: 0.0029319 血汐
+	blood WORD[ 1,  27]: 0.0029319 血潮
+	blood WORD[ 1,  28]: 0.0029318 血煙
+	blood WORD[ 1,  29]: 0.0028957 経血
+	blood WORD[ 1,  30]: 0.0028823 血振り
+	blood WORD[ 1,  31]: 0.0028717 血臭
+	blood WORD[ 1,  32]: 0.0028638 増血
+	blood WORD[ 1,  33]: 0.0027682 血餅
+	blood WORD[ 1,  34]: 0.0027676 汗血
+	blood WORD[ 1,  35]: 0.0026216 血流
+	blood WORD[ 1,  36]: 0.0026197 血
+	blood WORD[ 1,  37]: 0.0025353 血脈
+	blood WORD[ 1,  38]: 0.0025006 血盟
+	blood WORD[ 1,  39]: 0.0017720 採血
+	blood WORD[ 1,  40]: 0.0017465 血縁
+	blood WORD[ 1,  41]: 0.0017464 血判
+	blood WORD[ 1,  42]: 0.0015998 古血
+	blood WORD[ 1,  43]: 0.0015133 生血
+	blood WORD[ 1,  44]: 0.0015038 血みどろ
+	blood WORD[ 1,  45]: 0.0015037 血豆
+	blood WORD[ 1,  46]: 0.0015036 血祭り
+	blood WORD[ 1,  47]: 0.0015032 血の道
+	blood WORD[ 1,  48]: 0.0015031 血の気
+	blood WORD[ 1,  49]: 0.0015030 血塗る
+	blood WORD[ 1,  50]: 0.0015022 血続き
+	blood WORD[ 1,  51]: 0.0015016 鉄血
+	blood WORD[ 1,  52]: 0.0014972 造血
+	blood WORD[ 1,  53]: 0.0014648 血合
+	blood WORD[ 1,  54]: 0.0014648 血合い
+	blood WORD[ 1,  55]: 0.0013980 温血
+	blood WORD[ 1,  56]: 0.0013639 膏血
+	blood WORD[ 1,  57]: 0.0013578 血涙
+	blood WORD[ 1,  58]: 0.0013574 血沈
+	blood WORD[ 1,  59]: 0.0013572 血族
+	blood WORD[ 1,  60]: 0.0013572 血清
+	blood WORD[ 1,  61]: 0.0013571 血色
+	blood WORD[ 1,  62]: 0.0013571 血しょう
+	blood WORD[ 1,  63]: 0.0013571 血漿
+	blood WORD[ 1,  64]: 0.0013571 血行
+	blood WORD[ 1,  65]: 0.0013570 血塊
+	blood WORD[ 1,  66]: 0.0013476 黒血
+	blood WORD[ 1,  67]: 0.0013412 吸血
+	blood WORD[ 1,  68]: 0.0012722 悪血
+	blood WORD[ 1,  69]: 0.0012016 輸血
+	blood WORD[ 1,  70]: 0.0011239 補血
+	blood WORD[ 1,  71]: 0.0009930 吐血
+	blood WORD[ 1,  72]: 0.0009591 血道
+	blood WORD[ 1,  73]: 0.0009591 血まみれ
+	blood WORD[ 1,  74]: 0.0009591 血塗れ
+	blood WORD[ 1,  75]: 0.0009586 血すじ
+	blood WORD[ 1,  76]: 0.0009586 血筋
+	blood WORD[ 1,  77]: 0.0009301 鮮血
+	blood WORD[ 1,  78]: 0.0009137 充血
+	blood WORD[ 1,  79]: 0.0009011 失血
+	blood WORD[ 1,  80]: 0.0008741 献血
+	blood WORD[ 1,  81]: 0.0008732 血液
+	blood WORD[ 1,  82]: 0.0008732 血圧
+	blood WORD[ 1,  83]: 0.0008732 血糖
+	blood WORD[ 1,  84]: 0.0008732 血栓
+	blood WORD[ 1,  85]: 0.0008731 血書
+	blood WORD[ 1,  86]: 0.0008730 血球
+	blood WORD[ 1,  87]: 0.0008730 血管
+	blood WORD[ 1,  88]: 0.0008622 凝血
+	blood WORD[ 1,  89]: 0.0008570 供血
+	blood WORD[ 1,  90]: 0.0008566 給血
+	blood WORD[ 1,  91]: 0.0008410 かっ血
+	blood WORD[ 1,  92]: 0.0008410 喀血
+	blood WORD[ 1,  93]: 0.0007991 うっ血
+	blood WORD[ 1,  94]: 0.0007991 鬱血
+TOKEN[ 2]: 0.0363010    6 red
+	red WORD[ 2,   1]: 0.0281804 紅血
+	red WORD[ 2,   2]: 0.0034685 赤血
+	red WORD[ 2,   3]: 0.0013119 血合
+	red WORD[ 2,   4]: 0.0013119 血合い
+	red WORD[ 2,   5]: 0.0012155 血色
+	red WORD[ 2,   6]: 0.0008128 出血
+TOKEN[ 3]: 0.0237216    3 puddle
+	puddle WORD[ 3,   1]: 0.0079073 血だまり
+	puddle WORD[ 3,   2]: 0.0079072 血溜まり
+	puddle WORD[ 3,   3]: 0.0079071 血溜り
+TOKEN[ 4]: 0.0222750    4 pool
+	pool WORD[ 4,   1]: 0.0067882 血だまり
+	pool WORD[ 4,   2]: 0.0067881 血溜まり
+	pool WORD[ 4,   3]: 0.0067880 血溜り
+	pool WORD[ 4,   4]: 0.0019107 血の池
+TOKEN[ 5]: 0.0221775   13 bloody
+	bloody WORD[ 5,   1]: 0.0019998 血みどろ
+	bloody WORD[ 5,   2]: 0.0019985 血なまぐさい
+	bloody WORD[ 5,   3]: 0.0019985 血生臭い
+	bloody WORD[ 5,   4]: 0.0019985 血腥い
+	bloody WORD[ 5,   5]: 0.0019484 血刀
+	bloody WORD[ 5,   6]: 0.0019482 血膿
+	bloody WORD[ 5,   7]: 0.0018052 血尿
+	bloody WORD[ 5,   8]: 0.0018052 血痰
+	bloody WORD[ 5,   9]: 0.0018016 下血
+	bloody WORD[ 5,  10]: 0.0012755 血まみれ
+	bloody WORD[ 5,  11]: 0.0012755 血塗れ
+	bloody WORD[ 5,  12]: 0.0011613 血便
+	bloody WORD[ 5,  13]: 0.0011612 血戦
+TOKEN[ 6]: 0.0137419    1 hematoma
+	hematoma WORD[ 6,   1]: 0.0137419 血腫
+TOKEN[ 7]: 0.0117767    4 spurt
+	spurt WORD[ 7,   1]: 0.0058881 返り血
+	spurt WORD[ 7,   2]: 0.0019629 血汐
+	spurt WORD[ 7,   3]: 0.0019629 血潮
+	spurt WORD[ 7,   4]: 0.0019628 血煙
+TOKEN[ 8]: 0.0095370    5 lineage
+	lineage WORD[ 8,   1]: 0.0051319 血胤
+	lineage WORD[ 8,   2]: 0.0011526 血すじ
+	lineage WORD[ 8,   3]: 0.0011526 血筋
+	lineage WORD[ 8,   4]: 0.0010499 血
+	lineage WORD[ 8,   5]: 0.0010499 血統
+TOKEN[ 9]: 0.0091240    2 plasma
+	plasma WORD[ 9,   1]: 0.0045620 血しょう
+	plasma WORD[ 9,   2]: 0.0045620 血漿
+TOKEN[10]: 0.0090535    4 bloodshot
+	bloodshot WORD[10,   1]: 0.0022637 血目
+	bloodshot WORD[10,   2]: 0.0022635 血まなこ
+	bloodshot WORD[10,   3]: 0.0022635 血眼
+	bloodshot WORD[10,   4]: 0.0022629 血走る
+TOKEN[11]: 0.0088219    4 clot
+	clot WORD[11,   1]: 0.0041669 血餅
+	clot WORD[11,   2]: 0.0020427 血塊
+	clot WORD[11,   3]: 0.0013144 血栓
+	clot WORD[11,   4]: 0.0012979 凝血
+TOKEN[12]: 0.0087664    5 relationship
+	relationship WORD[12,   1]: 0.0044938 血胤
+	relationship WORD[12,   2]: 0.0013346 血脈
+	relationship WORD[12,   3]: 0.0010093 血すじ
+	relationship WORD[12,   4]: 0.0010093 血筋
+	relationship WORD[12,   5]: 0.0009194 血縁
+TOKEN[13]: 0.0087403    3 money
+	money WORD[13,   1]: 0.0072402 売血
+	money WORD[13,   2]: 0.0007645 出血
+	money WORD[13,   3]: 0.0007356 血税
+TOKEN[14]: 0.0085740    1 spot
+	spot WORD[14,   1]: 0.0085740 血斑
+TOKEN[15]: 0.0080870    1 depuration
+	depuration WORD[15,   1]: 0.0080870 浄血
+TOKEN[16]: 0.0080213    7 one
+	one WORD[16,   1]: 0.0020991 返り血
+	one WORD[16,   2]: 0.0020514 売血
+	one WORD[16,   3]: 0.0013707 心血
+	one WORD[16,   4]: 0.0007178 血迷う
+	one WORD[16,   5]: 0.0007175 血の気
+	one WORD[16,   6]: 0.0006480 血肉
+	one WORD[16,   7]: 0.0004168 血判
+TOKEN[17]: 0.0077213    3 descent
+	descent WORD[17,   1]: 0.0053280 血胤
+	descent WORD[17,   2]: 0.0011967 血すじ
+	descent WORD[17,   3]: 0.0011967 血筋
+TOKEN[18]: 0.0076963    1 human
+	human WORD[18,   1]: 0.0076963 人血
+TOKEN[19]: 0.0071407    3 strain
+	strain WORD[19,   1]: 0.0049273 血胤
+	strain WORD[19,   2]: 0.0011067 血すじ
+	strain WORD[19,   3]: 0.0011067 血筋
+TOKEN[20]: 0.0070785    3 stinking
+	stinking WORD[20,   1]: 0.0023595 血なまぐさい
+	stinking WORD[20,   2]: 0.0023595 血生臭い
+	stinking WORD[20,   3]: 0.0023595 血腥い
+TOKEN[21]: 0.0070432    5 battle
+	battle WORD[21,   1]: 0.0015381 血祭り
+	battle WORD[21,   2]: 0.0015373 血なまぐさい
+	battle WORD[21,   3]: 0.0015373 血生臭い
+	battle WORD[21,   4]: 0.0015373 血腥い
+	battle WORD[21,   5]: 0.0008932 血戦
+TOKEN[22]: 0.0069319    1 brandling
+	brandling WORD[22,   1]: 0.0069319 黄血
+TOKEN[23]: 0.0068626    4 stock
+	stock WORD[23,   1]: 0.0041496 血胤
+	stock WORD[23,   2]: 0.0009320 血すじ
+	stock WORD[23,   3]: 0.0009320 血筋
+	stock WORD[23,   4]: 0.0008490 血
+TOKEN[24]: 0.0062336    3 frenzy
+	frenzy WORD[24,   1]: 0.0020780 血目
+	frenzy WORD[24,   2]: 0.0020778 血まなこ
+	frenzy WORD[24,   3]: 0.0020778 血眼
+TOKEN[25]: 0.0061527    3 bleeding
+	bleeding WORD[25,   1]: 0.0026488 出血
+	bleeding WORD[25,   2]: 0.0021925 血止め
+	bleeding WORD[25,   3]: 0.0013114 止血
+TOKEN[26]: 0.0059007    3 meat
+	meat WORD[26,   1]: 0.0031497 血抜き
+	meat WORD[26,   2]: 0.0013755 血合
+	meat WORD[26,   3]: 0.0013755 血合い
+TOKEN[27]: 0.0055254    3 bloodstained
+	bloodstained WORD[27,   1]: 0.0024256 血染め
+	bloodstained WORD[27,   2]: 0.0015499 血まみれ
+	bloodstained WORD[27,   3]: 0.0015499 血塗れ
+TOKEN[28]: 0.0055130    1 victim
+	victim WORD[28,   1]: 0.0055130 返り血
+TOKEN[29]: 0.0054800    2 selling
+	selling WORD[29,   1]: 0.0045246 売血
+	selling WORD[29,   2]: 0.0009555 出血
+TOKEN[30]: 0.0054536    1 hemothorax
+	hemothorax WORD[30,   1]: 0.0054536 血胸
+TOKEN[31]: 0.0054458    1 purification
+	purification WORD[31,   1]: 0.0054458 浄血
+TOKEN[32]: 0.0054401    1 coldheartedness
+	coldheartedness WORD[32,   1]: 0.0027201 冷血
+TOKEN[33]: 0.0052185    1 bait
+	bait WORD[33,   1]: 0.0052185 黄血
+TOKEN[34]: 0.0051975    1 occult
+	occult WORD[34,   1]: 0.0051975 潜血
+TOKEN[35]: 0.0051831    4 haemorrhage
+	haemorrhage WORD[35,   1]: 0.0013925 出血
+	haemorrhage WORD[35,   2]: 0.0012904 かっ血
+	haemorrhage WORD[35,   3]: 0.0012904 喀血
+	haemorrhage WORD[35,   4]: 0.0012097 溢血
+TOKEN[36]: 0.0051831    4 hemorrhage
+	hemorrhage WORD[36,   1]: 0.0013925 出血
+	hemorrhage WORD[36,   2]: 0.0012904 かっ血
+	hemorrhage WORD[36,   3]: 0.0012904 喀血
+	hemorrhage WORD[36,   4]: 0.0012097 溢血
+TOKEN[37]: 0.0051466    3 fish
+	fish WORD[37,   1]: 0.0027471 血抜き
+	fish WORD[37,   2]: 0.0011997 血合
+	fish WORD[37,   3]: 0.0011997 血合い
+TOKEN[38]: 0.0051356    2 sweat
+	sweat WORD[38,   1]: 0.0034403 汗血
+	sweat WORD[38,   2]: 0.0016953 膏血
+TOKEN[39]: 0.0051330    2 spray
+	spray WORD[39,   1]: 0.0033584 血飛沫
+	spray WORD[39,   2]: 0.0017745 血煙
+TOKEN[40]: 0.0050031    2 lifeblood
+	lifeblood WORD[40,   1]: 0.0025575 生き血
+	lifeblood WORD[40,   2]: 0.0024456 生血
+TOKEN[41]: 0.0048529    3 crime
+	crime WORD[41,   1]: 0.0016177 血なまぐさい
+	crime WORD[41,   2]: 0.0016176 血生臭い
+	crime WORD[41,   3]: 0.0016176 血腥い
+TOKEN[42]: 0.0047202    2 gore
+	gore WORD[42,   1]: 0.0023601 血のり
+	gore WORD[42,   2]: 0.0023601 血糊
+TOKEN[43]: 0.0045621    1 serum
+	serum WORD[43,   1]: 0.0045621 血清
+TOKEN[44]: 0.0044432    1 menstrual
+	menstrual WORD[44,   1]: 0.0044432 経血
+TOKEN[45]: 0.0043283    3 relative
+	relative WORD[45,   1]: 0.0016376 血肉
+	relative WORD[45,   2]: 0.0016373 血族
+	relative WORD[45,   3]: 0.0010534 血縁
+TOKEN[46]: 0.0043233    2 impure
+	impure WORD[46,   1]: 0.0024083 古血
+	impure WORD[46,   2]: 0.0019151 悪血
+TOKEN[47]: 0.0042777    3 hot
+	hot WORD[47,   1]: 0.0014620 熱血
+	hot WORD[47,   2]: 0.0014078 血汐
+	hot WORD[47,   3]: 0.0014078 血潮
+TOKEN[48]: 0.0042063    1 flick
+	flick WORD[48,   1]: 0.0042063 血振り
+TOKEN[49]: 0.0040483    2 spine
+	spine WORD[49,   1]: 0.0020241 血合
+	spine WORD[49,   2]: 0.0020241 血合い
+TOKEN[50]: 0.0039195    2 sword
+	sword WORD[50,   1]: 0.0025986 血振り
+	sword WORD[50,   2]: 0.0013209 血刀
+TOKEN[51]: 0.0039170    1 maneuver
+	maneuver WORD[51,   1]: 0.0039170 血振り
+TOKEN[52]: 0.0039000    1 borne
+	borne WORD[52,   1]: 0.0039000 血中
+TOKEN[53]: 0.0038565    1 fishing
+	fishing WORD[53,   1]: 0.0038565 黄血
+TOKEN[54]: 0.0038403    2 sticky
+	sticky WORD[54,   1]: 0.0019202 血のり
+	sticky WORD[54,   2]: 0.0019202 血糊
+TOKEN[55]: 0.0038086    3 covered
+	covered WORD[55,   1]: 0.0016737 血みどろ
+	covered WORD[55,   2]: 0.0010675 血まみれ
+	covered WORD[55,   3]: 0.0010675 血塗れ
+TOKEN[56]: 0.0038009    1 fountain
+	fountain WORD[56,   1]: 0.0038009 血飛沫
+TOKEN[57]: 0.0037407    1 wipe
+	wipe WORD[57,   1]: 0.0037407 血振り
+TOKEN[58]: 0.0037240    2 tuna
+	tuna WORD[58,   1]: 0.0018620 血合
+	tuna WORD[58,   2]: 0.0018620 血合い
+TOKEN[59]: 0.0036549    1 cooking
+	cooking WORD[59,   1]: 0.0036549 血抜き
+TOKEN[60]: 0.0036058    2 ardor
+	ardor WORD[60,   1]: 0.0022916 熱血
+	ardor WORD[60,   2]: 0.0013142 血気
+TOKEN[61]: 0.0035487    1 killing
+	killing WORD[61,   1]: 0.0035487 血祭り
+TOKEN[62]: 0.0033979    2 warm
+	warm WORD[62,   1]: 0.0017713 熱血
+	warm WORD[62,   2]: 0.0016266 温血
+TOKEN[63]: 0.0033770    1 debt
+	debt WORD[63,   1]: 0.0033770 血債
+TOKEN[64]: 0.0033646    2 relation
+	relation WORD[64,   1]: 0.0017675 血続き
+	relation WORD[64,   2]: 0.0015971 血肉
+TOKEN[65]: 0.0033404    3 congestion
+	congestion WORD[65,   1]: 0.0012151 充血
+	congestion WORD[65,   2]: 0.0010626 うっ血
+	congestion WORD[65,   3]: 0.0010626 鬱血
+TOKEN[66]: 0.0033225    3 donation
+	donation WORD[66,   1]: 0.0011223 献血
+	donation WORD[66,   2]: 0.0011003 供血
+	donation WORD[66,   3]: 0.0010998 給血
+TOKEN[67]: 0.0032430    1 flesh
+	flesh WORD[67,   1]: 0.0032430 血肉
+TOKEN[68]: 0.0032281    1 weapon
+	weapon WORD[68,   1]: 0.0032281 血飛沫
+TOKEN[69]: 0.0032013    1 shake
+	shake WORD[69,   1]: 0.0032013 血振り
+TOKEN[70]: 0.0031768    1 smell
+	smell WORD[70,   1]: 0.0031768 血臭
+TOKEN[71]: 0.0031261    3 something
+	something WORD[71,   1]: 0.0010421 血目
+	something WORD[71,   2]: 0.0010420 血まなこ
+	something WORD[71,   3]: 0.0010420 血眼
+TOKEN[72]: 0.0030454    1 ischemia
+	ischemia WORD[72,   1]: 0.0030454 虚血
+TOKEN[73]: 0.0030389    1 lose
+	lose WORD[73,   1]: 0.0030389 血迷う
+TOKEN[74]: 0.0030062    1 increase
+	increase WORD[74,   1]: 0.0030062 増血
+TOKEN[75]: 0.0029417    1 content
+	content WORD[75,   1]: 0.0029417 血中
+TOKEN[76]: 0.0029296    1 bloodless
+	bloodless WORD[76,   1]: 0.0029296 無血
+TOKEN[77]: 0.0029265    1 used
+	used WORD[77,   1]: 0.0029265 黄血
+TOKEN[78]: 0.0029166    2 stopping
+	stopping WORD[78,   1]: 0.0018251 血止め
+	stopping WORD[78,   2]: 0.0010916 止血
+TOKEN[79]: 0.0029060    1 flow
+	flow WORD[79,   1]: 0.0029060 血流
+TOKEN[80]: 0.0029009    2 dark
+	dark WORD[80,   1]: 0.0014505 血合
+	dark WORD[80,   2]: 0.0014504 血合い
+TOKEN[81]: 0.0028400    2 coming
+	coming WORD[81,   1]: 0.0014200 血合
+	coming WORD[81,   2]: 0.0014200 血合い
+TOKEN[82]: 0.0028270    2 hemoptysis
+	hemoptysis WORD[82,   1]: 0.0014135 かっ血
+	hemoptysis WORD[82,   2]: 0.0014135 喀血
+TOKEN[83]: 0.0027225    2 color
+	color WORD[83,   1]: 0.0014307 血の気
+	color WORD[83,   2]: 0.0012918 血色
+TOKEN[84]: 0.0027130    2 colour
+	colour WORD[84,   1]: 0.0014258 血の気
+	colour WORD[84,   2]: 0.0012873 血色
+TOKEN[85]: 0.0026940    1 gory
+	gory WORD[85,   1]: 0.0026940 血みどろ
+TOKEN[86]: 0.0026928    1 hotheadedness
+	hotheadedness WORD[86,   1]: 0.0026928 血の気
+TOKEN[87]: 0.0026914    1 styptic
+	styptic WORD[87,   1]: 0.0026914 血止め
+TOKEN[88]: 0.0026821    1 hematosis
+	hematosis WORD[88,   1]: 0.0026821 造血
+TOKEN[89]: 0.0026821    1 hemopoiesis
+	hemopoiesis WORD[89,   1]: 0.0026821 造血
+TOKEN[90]: 0.0026821    1 hematopoiesis
+	hematopoiesis WORD[90,   1]: 0.0026821 造血
+TOKEN[91]: 0.0026624    1 heart
+	heart WORD[91,   1]: 0.0026624 心血
+TOKEN[92]: 0.0026059    1 sanguineness
+	sanguineness WORD[92,   1]: 0.0026059 多血
+TOKEN[93]: 0.0025826    2 engorgement
+	engorgement WORD[93,   1]: 0.0012913 うっ血
+	engorgement WORD[93,   2]: 0.0012913 鬱血
+TOKEN[94]: 0.0025539    2 fresh
+	fresh WORD[94,   1]: 0.0015817 生血
+	fresh WORD[94,   2]: 0.0009722 鮮血
+TOKEN[95]: 0.0025405    1 thoroughbred
+	thoroughbred WORD[95,   1]: 0.0025405 純血
+TOKEN[96]: 0.0024650    2 vessel
+	vessel WORD[96,   1]: 0.0014597 血脈
+	vessel WORD[96,   2]: 0.0010053 血管
+TOKEN[97]: 0.0024319    1 hematuria
+	hematuria WORD[97,   1]: 0.0024319 血尿
+TOKEN[98]: 0.0024291    1 impulsive
+	impulsive WORD[98,   1]: 0.0024291 血の気
+TOKEN[99]: 0.0024142    1 venous
+	venous WORD[99,   1]: 0.0024142 黒血
+TOKEN[100]: 0.0024027    1 bloodsucking
+	bloodsucking WORD[100,   1]: 0.0024027 吸血
+TOKEN[101]: 0.0023133    2 military
+	military WORD[101,   1]: 0.0014627 鉄血
+	military WORD[101,   2]: 0.0008506 血税
+TOKEN[102]: 0.0023075    1 frantic
+	frantic WORD[102,   1]: 0.0023075 血みどろ
+TOKEN[103]: 0.0022684    2 lung
+	lung WORD[103,   1]: 0.0011342 かっ血
+	lung WORD[103,   2]: 0.0011342 喀血
+TOKEN[104]: 0.0022541    1 fervor
+	fervor WORD[104,   1]: 0.0022541 熱血
+TOKEN[105]: 0.0022479    1 pus
+	pus WORD[105,   1]: 0.0022479 血膿
+TOKEN[106]: 0.0022243    1 kin
+	kin WORD[106,   1]: 0.0022243 血続き
+TOKEN[107]: 0.0021936    1 phlegm
+	phlegm WORD[107,   1]: 0.0021936 血痰
+TOKEN[108]: 0.0021674    1 zeal
+	zeal WORD[108,   1]: 0.0021674 熱血
+TOKEN[109]: 0.0021663    1 copious
+	copious WORD[109,   1]: 0.0021663 血みどろ
+TOKEN[110]: 0.0021626    1 hemolysis
+	hemolysis WORD[110,   1]: 0.0021626 溶血
+TOKEN[111]: 0.0020829    1 sedimentation
+	sedimentation WORD[111,   1]: 0.0020829 血沈
+TOKEN[112]: 0.0020769    1 smear
+	smear WORD[112,   1]: 0.0020769 血塗る
+TOKEN[113]: 0.0020428    1 assorted
+	assorted WORD[113,   1]: 0.0020428 血の道
+TOKEN[114]: 0.0020196    1 transfusion
+	transfusion WORD[114,   1]: 0.0020196 輸血
+TOKEN[115]: 0.0020189    1 sucking
+	sucking WORD[115,   1]: 0.0020189 吸血
+TOKEN[116]: 0.0020134    1 menstruation
+	menstruation WORD[116,   1]: 0.0020134 血祭り
+TOKEN[117]: 0.0019997    1 blister
+	blister WORD[117,   1]: 0.0019997 血豆
+TOKEN[118]: 0.0019802    1 bloodshed
+	bloodshed WORD[118,   1]: 0.0019802 流血
+TOKEN[119]: 0.0019770    1 bowel
+	bowel WORD[119,   1]: 0.0019770 下血
+TOKEN[120]: 0.0019410    1 desperate
+	desperate WORD[120,   1]: 0.0019410 血みどろ
+TOKEN[121]: 0.0019299    1 temperament
+	temperament WORD[121,   1]: 0.0019299 血の気
+TOKEN[122]: 0.0019115    1 complexion
+	complexion WORD[122,   1]: 0.0019115 血色
+TOKEN[123]: 0.0019018    1 nosebleed
+	nosebleed WORD[123,   1]: 0.0019018 鼻血
+TOKEN[124]: 0.0019016    1 hell
+	hell WORD[124,   1]: 0.0019016 血の池
+TOKEN[125]: 0.0018791    1 mixed
+	mixed WORD[125,   1]: 0.0018791 混血
+TOKEN[126]: 0.0018408    1 anaemia
+	anaemia WORD[126,   1]: 0.0018408 貧血
+TOKEN[127]: 0.0018408    1 anemia
+	anemia WORD[127,   1]: 0.0018408 貧血
+TOKEN[128]: 0.0018072    1 enthusiasm
+	enthusiasm WORD[128,   1]: 0.0018072 熱血
+TOKEN[129]: 0.0017935    1 urine
+	urine WORD[129,   1]: 0.0017935 血尿
+TOKEN[130]: 0.0017840    1 bream
+	bream WORD[130,   1]: 0.0017840 血鯛
+TOKEN[131]: 0.0017804    1 bank
+	bank WORD[131,   1]: 0.0017804 預血
+TOKEN[132]: 0.0017789    1 hematemesis
+	hematemesis WORD[132,   1]: 0.0017789 吐血
+TOKEN[133]: 0.0017612    1 circulation
+	circulation WORD[133,   1]: 0.0017612 血行
+TOKEN[134]: 0.0017537    1 pond
+	pond WORD[134,   1]: 0.0017537 血の池
+TOKEN[135]: 0.0017277    1 oath
+	oath WORD[135,   1]: 0.0017277 血盟
+TOKEN[136]: 0.0017239    1 formation
+	formation WORD[136,   1]: 0.0017239 造血
+TOKEN[137]: 0.0017228    1 soldier
+	soldier WORD[137,   1]: 0.0017228 血祭り
+TOKEN[138]: 0.0017021    1 medical
+	medical WORD[138,   1]: 0.0017021 血の道
+TOKEN[139]: 0.0016992    1 soul
+	soul WORD[139,   1]: 0.0016992 心血
+TOKEN[140]: 0.0016763    1 kill
+	kill WORD[140,   1]: 0.0016763 血塗る
+TOKEN[141]: 0.0016402    1 replenishment
+	replenishment WORD[141,   1]: 0.0016402 補血
+TOKEN[142]: 0.0016369    1 hyperemia
+	hyperemia WORD[142,   1]: 0.0016369 充血
+TOKEN[143]: 0.0016262    1 crimson
+	crimson WORD[143,   1]: 0.0016262 血鯛
+TOKEN[144]: 0.0016258    1 energy
+	energy WORD[144,   1]: 0.0016258 心血
+TOKEN[145]: 0.0016232    1 phlebotomy
+	phlebotomy WORD[145,   1]: 0.0016232 瀉血
+TOKEN[146]: 0.0016145    1 blade
+	blade WORD[146,   1]: 0.0016145 血刀
+TOKEN[147]: 0.0016106    1 oneself
+	oneself WORD[147,   1]: 0.0016106 血迷う
+TOKEN[148]: 0.0016098    1 hemostasis
+	hemostasis WORD[148,   1]: 0.0016098 止血
+TOKEN[149]: 0.0015855    1 offering
+	offering WORD[149,   1]: 0.0015855 血祭り
+TOKEN[150]: 0.0015675    1 pledge
+	pledge WORD[150,   1]: 0.0015675 血盟
+TOKEN[151]: 0.0015644    1 consanguinity
+	consanguinity WORD[151,   1]: 0.0015644 血縁
+TOKEN[152]: 0.0015643    1 thrombus
+	thrombus WORD[152,   1]: 0.0015643 血栓
+TOKEN[153]: 0.0015641    1 bloodstain
+	bloodstain WORD[153,   1]: 0.0015641 血痕
+TOKEN[154]: 0.0015628    1 iron
+	iron WORD[154,   1]: 0.0015628 鉄血
+TOKEN[155]: 0.0015628    1 raise
+	raise WORD[155,   1]: 0.0015628 血祭り
+TOKEN[156]: 0.0015410    1 bitter
+	bitter WORD[156,   1]: 0.0015410 血涙
+TOKEN[157]: 0.0015375    1 discharge
+	discharge WORD[157,   1]: 0.0015375 下血
+TOKEN[158]: 0.0015229    1 bloodletting
+	bloodletting WORD[158,   1]: 0.0015229 瀉血
+TOKEN[159]: 0.0015203    1 rate
+	rate WORD[159,   1]: 0.0015203 血沈
+TOKEN[160]: 0.0015088    1 control
+	control WORD[160,   1]: 0.0015088 血迷う
+TOKEN[161]: 0.0014811    1 enemy
+	enemy WORD[161,   1]: 0.0014811 血祭り
+TOKEN[162]: 0.0014775    1 female
+	female WORD[162,   1]: 0.0014775 血の道
+TOKEN[163]: 0.0014742    1 escape
+	escape WORD[163,   1]: 0.0014742 血路
+TOKEN[164]: 0.0014492    1 curdle
+	curdle WORD[164,   1]: 0.0014492 凝血
+TOKEN[165]: 0.0014491    1 vomiting
+	vomiting WORD[165,   1]: 0.0014491 吐血
+TOKEN[166]: 0.0013997    1 animal
+	animal WORD[166,   1]: 0.0013997 純血
+TOKEN[167]: 0.0013851    1 close
+	close WORD[167,   1]: 0.0013851 血肉
+TOKEN[168]: 0.0013837    1 start
+	start WORD[168,   1]: 0.0013837 血祭り
+TOKEN[169]: 0.0013482    1 expression
+	expression WORD[169,   1]: 0.0013482 血相
+TOKEN[170]: 0.0013450    1 mind
+	mind WORD[170,   1]: 0.0013450 血迷う
+TOKEN[171]: 0.0013145    1 ancestry
+	ancestry WORD[171,   1]: 0.0013145 血
+TOKEN[172]: 0.0013014    1 face
+	face WORD[172,   1]: 0.0013014 血の気
+TOKEN[173]: 0.0012970    1 japonica
+	japonica WORD[173,   1]: 0.0012970 血鯛
+TOKEN[174]: 0.0012458    1 become
+	become WORD[174,   1]: 0.0012458 血走る
+TOKEN[175]: 0.0012433    1 conscription
+	conscription WORD[175,   1]: 0.0012433 血税
+TOKEN[176]: 0.0012219    1 parentage
+	parentage WORD[176,   1]: 0.0012219 混血
+TOKEN[177]: 0.0012178    1 compulsory
+	compulsory WORD[177,   1]: 0.0012178 血税
+TOKEN[178]: 0.0012178    1 pedigree
+	pedigree WORD[178,   1]: 0.0012178 血統
+TOKEN[179]: 0.0011867    1 sealing
+	sealing WORD[179,   1]: 0.0011867 血判
+TOKEN[180]: 0.0011720    1 body
+	body WORD[180,   1]: 0.0011720 血肉
+TOKEN[181]: 0.0011557    1 sea
+	sea WORD[181,   1]: 0.0011557 血鯛
+TOKEN[182]: 0.0011535    1 vein
+	vein WORD[182,   1]: 0.0011535 血管
+TOKEN[183]: 0.0011398    1 stool
+	stool WORD[183,   1]: 0.0011398 血便
+TOKEN[184]: 0.0011269    1 vigor
+	vigor WORD[184,   1]: 0.0011269 血気
+TOKEN[185]: 0.0011043    1 way
+	way WORD[185,   1]: 0.0011043 血路
+TOKEN[186]: 0.0010911    1 cost
+	cost WORD[186,   1]: 0.0010911 出血
+TOKEN[187]: 0.0010683    1 cell
+	cell WORD[187,   1]: 0.0010683 血球
+TOKEN[188]: 0.0010617    1 ink
+	ink WORD[188,   1]: 0.0010617 出血
+TOKEN[189]: 0.0010036    1 race
+	race WORD[189,   1]: 0.0010036 混血
+TOKEN[190]: 0.0009739    1 sugar
+	sugar WORD[190,   1]: 0.0009739 血糖
+TOKEN[191]: 0.0009515    1 tax
+	tax WORD[191,   1]: 0.0009515 血税
+TOKEN[192]: 0.0009323    1 pressure
+	pressure WORD[192,   1]: 0.0009323 血圧
+TOKEN[193]: 0.0009264    1 birth
+	birth WORD[193,   1]: 0.0009264 血統
+TOKEN[194]: 0.0009206    1 loss
+	loss WORD[194,   1]: 0.0009206 失血
+TOKEN[195]: 0.0009076    1 seal
+	seal WORD[195,   1]: 0.0009076 血判
+TOKEN[196]: 0.0009040    1 drawing
+	drawing WORD[196,   1]: 0.0009040 採血
+TOKEN[197]: 0.0008540    1 heavy
+	heavy WORD[197,   1]: 0.0008540 血税
+TOKEN[198]: 0.0008515    1 service
+	service WORD[198,   1]: 0.0008515 血税
+TOKEN[199]: 0.0007856    1 writing
+	writing WORD[199,   1]: 0.0007856 血書
+TOKEN[200]: 0.0007688    1 high
+	high WORD[200,   1]: 0.0007688 血気
+TOKEN[201]: 0.0007621    1 line
+	line WORD[201,   1]: 0.0007621 血統
+TOKEN[202]: 0.0007227    1 family
+	family WORD[202,   1]: 0.0007227 血統

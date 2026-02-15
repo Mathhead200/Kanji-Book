@@ -1,0 +1,512 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0790596   11 disgrace       : 辱, 国辱, 凌辱, 陵辱, 辱しめる, 辱める, 辱しめ, 辱め, 恥辱, 屈辱, ...
+0.0720093    7 shame          : 辱, 栄辱, 辱しめる, 辱める, 辱しめ, 辱め, 恥辱
+0.0700260    1 embarrassment  : 辱
+0.0547595    5 sexagenary     : 庚辰, 甲辰, 丙辰, 壬辰, 戊辰
+0.0527192    5 cycle          : 庚辰, 甲辰, 丙辰, 壬辰, 戊辰
+0.0490288    1 agrarian       : 農漁民
+0.0488029    5 term           : 庚辰, 甲辰, 丙辰, 壬辰, 戊辰
+0.0385482    1 populace       : 農漁民
+0.0334469   16 agricultural   : 農用, 農会, 農書, 農大, 農漁村, 農水産, 農薬, 農務, 農地, 農村, ...
+0.0311722    4 fishing        : 農漁民, 農漁村, 農山漁村, 農漁業
+0.0260354    1 cinnabar       : 辰砂
+0.0201958   12 farmer         : 老農, 大農, 貧農, 農夫, 中農, 篤農, 精農, 豪農, 富農, 農民, ...
+0.0198595   13 agriculture    : 農書, 農工, 農事, 農芸, 農林, 農水, 農場, 農耕, 農業, 農学, ...
+0.0191548   15 farming        : 農山村, 離農, 半農, 農法, 農事, 農期, 大農, 酪農, 農作, 農耕, ...
+0.0154353    7 insult         : 凌辱, 陵辱, 侮辱, 辱しめる, 辱める, 恥辱, 汚辱
+0.0129580    3 day            : 佳辰, 嘉辰, 吉辰
+0.0125522    6 rape           : 凌辱, 陵辱, 辱しめる, 辱める, 辱しめ, 辱め
+0.0109214    3 auspicious     : 吉辰, 佳辰, 嘉辰
+0.0109106    6 farm           : 農婦, 農園, 農道, 農村, 農場, 農具
+0.0106088    3 occasion       : 吉辰, 佳辰, 嘉辰
+0.0104890    3 lucky          : 吉辰, 佳辰, 嘉辰
+0.0084051    2 celestial      : 辰星, 星辰
+0.0082961    4 assault        : 凌辱, 陵辱, 辱しめる, 辱める
+0.0079670    3 affront        : 凌辱, 陵辱, 侮辱
+0.0074554    1 lacquer        : 辰砂
+0.0074075    2 happy          : 佳辰, 嘉辰
+0.0073878    2 Chinese        : 辰星, 辰
+0.0060673    2 ancient        : 辰星, 神農
+0.0058784    2 indignity      : 凌辱, 陵辱
+0.0058632    1 year           : 辰年
+0.0054815    1 Sirius         : 辰星
+0.0052968    1 book           : 農書
+0.0052812    2 raping         : 辱しめ, 辱め
+0.0051205    1 Mercury        : 辰星
+0.0050043    1 astronomy      : 辰星
+0.0049334    2 humiliate      : 辱しめる, 辱める
+0.0046787    3 peasant        : 貧農, 農夫, 農民
+0.0046415    3 rural          : 農山村, 農村, 農山漁村
+0.0045265    2 violate        : 辱しめる, 辱める
+0.0042756    1 birthday       : 誕辰
+0.0041479    1 vindication    : 雪辱
+0.0039644    1 mythical       : 神農
+0.0039025    2 sexual         : 凌辱, 陵辱
+0.0037923    2 honor          : 栄辱, 雪辱
+0.0037618    1 zodiac         : 辰
+0.0037367    1 constellation  : 辰星
+0.0037310    1 woman          : 農婦
+0.0037209    1 king           : 神農
+0.0037163    1 fifth          : 辰
+0.0036526    1 star           : 辰星
+0.0036348    1 persecution    : 忍辱
+0.0036191    1 association    : 農会
+0.0034514    1 forbearance    : 忍辱
+0.0033697    1 hour           : 辰
+0.0033490    1 bright         : 辰星
+0.0033303    2 village        : 農漁村, 農村
+0.0032967    2 humiliation    : 屈辱, 汚辱
+0.0032703    1 third          : 辰
+0.0032402    1 garlic         : 忍辱
+0.0031395    1 southeast      : 辰巳
+0.0030333    1 room           : 辰星
+0.0030205    1 lunar          : 辰
+0.0029604    2 wealthy        : 大農, 豪農
+0.0029162    1 calendar       : 辰
+0.0028998    1 university     : 農大
+0.0028798    2 working        : 農婦, 就農
+0.0028736    1 sign           : 辰
+0.0027820    1 livestock      : 農牧
+0.0027077    1 month          : 辰
+0.0026605    1 marine         : 農水産
+0.0026352    2 put            : 辱しめる, 辱める
+0.0026264    1 acquaintance   : 辱知
+0.0025900    1 difficulty     : 忍辱
+0.0025656    1 School         : 農家
+0.0025144    2 mountain       : 農山村, 農山漁村
+0.0024666    1 used           : 辰星
+0.0023396    1 industry       : 農工
+0.0023152    1 raising        : 農牧
+0.0021982    1 national       : 国辱
+0.0020684    1 female         : 農婦
+0.0020659    1 contempt       : 侮辱
+0.0020647    1 agriculturalist: 精農
+0.0020380    1 needy          : 貧農
+0.0020001    1 exemplary      : 篤農
+0.0019788    1 serf           : 農奴
+0.0019474    1 face           : 忍辱
+0.0018871    1 slight         : 侮辱
+0.0018788    1 horticulture   : 農芸
+0.0018346    1 use            : 農用
+0.0018159    1 experienced    : 老農
+0.0018065    2 land           : 大農, 農地
+0.0017944    1 profession     : 離農
+0.0017198    1 revenge        : 雪辱
+0.0016775    1 plantation     : 農園
+0.0015908    1 court          : 侮辱
+0.0015568    1 one            : 辰星
+0.0015065    1 dairy          : 酪農
+0.0014978    1 herbicide      : 農薬
+0.0014728    1 cannon         : 加農
+0.0014076    1 loss           : 雪辱
+0.0014053    1 pesticide      : 農薬
+0.0014051    1 farmhouse      : 農家
+0.0013751    1 giving         : 離農
+0.0013468    1 unit           : 農兵
+0.0013442    1 army           : 農兵
+0.0012805    1 poor           : 貧農
+0.0012586    1 forestry       : 農林
+0.0012519    1 lot            : 大農
+0.0012464    1 male           : 農夫
+0.0012387    1 season         : 農期
+0.0012339    1 making         : 雪辱
+0.0011275    1 implement      : 農具
+0.0011271    1 old            : 老農
+0.0010978    1 chemical       : 農薬
+0.0010679    1 science        : 農学
+0.0010309    1 cultivation    : 農耕
+0.0010274    1 rich           : 富農
+0.0010121    1 community      : 農村
+0.0009866    1 administration : 農政
+0.0008007    1 road           : 農道
+0.0007362    1 high           : 農高
+0.0007163    1 school         : 農高
+0.0006919    1 family         : 農家
+0.0005784    1 small          : 小農
+0.0005281    1 take           : 帰農
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0790596   11 disgrace
+	disgrace WORD[ 1,   1]: 0.0603153 辱
+	disgrace WORD[ 1,   2]: 0.0024138 国辱
+	disgrace WORD[ 1,   3]: 0.0021462 凌辱
+	disgrace WORD[ 1,   4]: 0.0021462 陵辱
+	disgrace WORD[ 1,   5]: 0.0018539 辱しめる
+	disgrace WORD[ 1,   6]: 0.0018539 辱める
+	disgrace WORD[ 1,   7]: 0.0018539 辱しめ
+	disgrace WORD[ 1,   8]: 0.0018539 辱め
+	disgrace WORD[ 1,   9]: 0.0016782 恥辱
+	disgrace WORD[ 1,  10]: 0.0015155 屈辱
+	disgrace WORD[ 1,  11]: 0.0014288 汚辱
+TOKEN[ 2]: 0.0720093    7 shame
+	shame WORD[ 2,   1]: 0.0604947 辱
+	shame WORD[ 2,   2]: 0.0023938 栄辱
+	shame WORD[ 2,   3]: 0.0018594 辱しめる
+	shame WORD[ 2,   4]: 0.0018594 辱める
+	shame WORD[ 2,   5]: 0.0018594 辱しめ
+	shame WORD[ 2,   6]: 0.0018594 辱め
+	shame WORD[ 2,   7]: 0.0016832 恥辱
+TOKEN[ 3]: 0.0700260    1 embarrassment
+	embarrassment WORD[ 3,   1]: 0.0700260 辱
+TOKEN[ 4]: 0.0547595    5 sexagenary
+	sexagenary WORD[ 4,   1]: 0.0151351 庚辰
+	sexagenary WORD[ 4,   2]: 0.0142360 甲辰
+	sexagenary WORD[ 4,   3]: 0.0130486 丙辰
+	sexagenary WORD[ 4,   4]: 0.0094425 壬辰
+	sexagenary WORD[ 4,   5]: 0.0028974 戊辰
+TOKEN[ 5]: 0.0527192    5 cycle
+	cycle WORD[ 5,   1]: 0.0145711 庚辰
+	cycle WORD[ 5,   2]: 0.0137056 甲辰
+	cycle WORD[ 5,   3]: 0.0125624 丙辰
+	cycle WORD[ 5,   4]: 0.0090907 壬辰
+	cycle WORD[ 5,   5]: 0.0027895 戊辰
+TOKEN[ 6]: 0.0490288    1 agrarian
+	agrarian WORD[ 6,   1]: 0.0490288 農漁民
+TOKEN[ 7]: 0.0488029    5 term
+	term WORD[ 7,   1]: 0.0134887 庚辰
+	term WORD[ 7,   2]: 0.0126875 甲辰
+	term WORD[ 7,   3]: 0.0116292 丙辰
+	term WORD[ 7,   4]: 0.0084154 壬辰
+	term WORD[ 7,   5]: 0.0025823 戊辰
+TOKEN[ 8]: 0.0385482    1 populace
+	populace WORD[ 8,   1]: 0.0385482 農漁民
+TOKEN[ 9]: 0.0334469   16 agricultural
+	agricultural WORD[ 9,   1]: 0.0053066 農用
+	agricultural WORD[ 9,   2]: 0.0040291 農会
+	agricultural WORD[ 9,   3]: 0.0040261 農書
+	agricultural WORD[ 9,   4]: 0.0033319 農大
+	agricultural WORD[ 9,   5]: 0.0029744 農漁村
+	agricultural WORD[ 9,   6]: 0.0026605 農水産
+	agricultural WORD[ 9,   7]: 0.0011119 農薬
+	agricultural WORD[ 9,   8]: 0.0011119 農務
+	agricultural WORD[ 9,   9]: 0.0011118 農地
+	agricultural WORD[ 9,  10]: 0.0011118 農村
+	agricultural WORD[ 9,  11]: 0.0011118 農政
+	agricultural WORD[ 9,  12]: 0.0011118 農山漁村
+	agricultural WORD[ 9,  13]: 0.0011118 農産
+	agricultural WORD[ 9,  14]: 0.0011118 農高
+	agricultural WORD[ 9,  15]: 0.0011118 農漁業
+	agricultural WORD[ 9,  16]: 0.0011118 農協
+TOKEN[10]: 0.0311722    4 fishing
+	fishing WORD[10,   1]: 0.0272766 農漁民
+	fishing WORD[10,   2]: 0.0022291 農漁村
+	fishing WORD[10,   3]: 0.0008333 農山漁村
+	fishing WORD[10,   4]: 0.0008332 農漁業
+TOKEN[11]: 0.0260354    1 cinnabar
+	cinnabar WORD[11,   1]: 0.0260354 辰砂
+TOKEN[12]: 0.0201958   12 farmer
+	farmer WORD[12,   1]: 0.0035403 老農
+	farmer WORD[12,   2]: 0.0030411 大農
+	farmer WORD[12,   3]: 0.0016461 貧農
+	farmer WORD[12,   4]: 0.0015983 農夫
+	farmer WORD[12,   5]: 0.0015787 中農
+	farmer WORD[12,   6]: 0.0015532 篤農
+	farmer WORD[12,   7]: 0.0015043 精農
+	farmer WORD[12,   8]: 0.0014398 豪農
+	farmer WORD[12,   9]: 0.0011587 富農
+	farmer WORD[12,  10]: 0.0010913 農民
+	farmer WORD[12,  11]: 0.0010912 農家
+	farmer WORD[12,  12]: 0.0009527 小農
+TOKEN[13]: 0.0198595   13 agriculture
+	agriculture WORD[13,   1]: 0.0040830 農書
+	agriculture WORD[13,   2]: 0.0027262 農工
+	agriculture WORD[13,   3]: 0.0016514 農事
+	agriculture WORD[13,   4]: 0.0016514 農芸
+	agriculture WORD[13,   5]: 0.0011276 農林
+	agriculture WORD[13,   6]: 0.0011276 農水
+	agriculture WORD[13,   7]: 0.0011276 農場
+	agriculture WORD[13,   8]: 0.0011275 農耕
+	agriculture WORD[13,   9]: 0.0011275 農業
+	agriculture WORD[13,  10]: 0.0011275 農学
+	agriculture WORD[13,  11]: 0.0011275 農
+	agriculture WORD[13,  12]: 0.0009825 就農
+	agriculture WORD[13,  13]: 0.0008721 営農
+TOKEN[14]: 0.0191548   15 farming
+	farming WORD[14,   1]: 0.0024007 農山村
+	farming WORD[14,   2]: 0.0016224 離農
+	farming WORD[14,   3]: 0.0015045 半農
+	farming WORD[14,   4]: 0.0014723 農法
+	farming WORD[14,   5]: 0.0014722 農事
+	farming WORD[14,   6]: 0.0014722 農期
+	farming WORD[14,   7]: 0.0014007 大農
+	farming WORD[14,   8]: 0.0011805 酪農
+	farming WORD[14,   9]: 0.0010052 農作
+	farming WORD[14,  10]: 0.0010052 農耕
+	farming WORD[14,  11]: 0.0010052 農具
+	farming WORD[14,  12]: 0.0010052 農家
+	farming WORD[14,  13]: 0.0010051 農
+	farming WORD[14,  14]: 0.0008259 帰農
+	farming WORD[14,  15]: 0.0007775 営農
+TOKEN[15]: 0.0154353    7 insult
+	insult WORD[15,   1]: 0.0025365 凌辱
+	insult WORD[15,   2]: 0.0025365 陵辱
+	insult WORD[15,   3]: 0.0023081 侮辱
+	insult WORD[15,   4]: 0.0021911 辱しめる
+	insult WORD[15,   5]: 0.0021911 辱める
+	insult WORD[15,   6]: 0.0019834 恥辱
+	insult WORD[15,   7]: 0.0016887 汚辱
+TOKEN[16]: 0.0129580    3 day
+	day WORD[16,   1]: 0.0051653 佳辰
+	day WORD[16,   2]: 0.0051653 嘉辰
+	day WORD[16,   3]: 0.0026274 吉辰
+TOKEN[17]: 0.0125522    6 rape
+	rape WORD[17,   1]: 0.0023010 凌辱
+	rape WORD[17,   2]: 0.0023010 陵辱
+	rape WORD[17,   3]: 0.0019876 辱しめる
+	rape WORD[17,   4]: 0.0019876 辱める
+	rape WORD[17,   5]: 0.0019876 辱しめ
+	rape WORD[17,   6]: 0.0019876 辱め
+TOKEN[18]: 0.0109214    3 auspicious
+	auspicious WORD[18,   1]: 0.0036822 吉辰
+	auspicious WORD[18,   2]: 0.0036196 佳辰
+	auspicious WORD[18,   3]: 0.0036196 嘉辰
+TOKEN[19]: 0.0109106    6 farm
+	farm WORD[19,   1]: 0.0052315 農婦
+	farm WORD[19,   2]: 0.0015220 農園
+	farm WORD[19,   3]: 0.0010393 農道
+	farm WORD[19,   4]: 0.0010393 農村
+	farm WORD[19,   5]: 0.0010393 農場
+	farm WORD[19,   6]: 0.0010392 農具
+TOKEN[20]: 0.0106088    3 occasion
+	occasion WORD[20,   1]: 0.0035768 吉辰
+	occasion WORD[20,   2]: 0.0035160 佳辰
+	occasion WORD[20,   3]: 0.0035160 嘉辰
+TOKEN[21]: 0.0104890    3 lucky
+	lucky WORD[21,   1]: 0.0035365 吉辰
+	lucky WORD[21,   2]: 0.0034763 佳辰
+	lucky WORD[21,   3]: 0.0034763 嘉辰
+TOKEN[22]: 0.0084051    2 celestial
+	celestial WORD[22,   1]: 0.0042094 辰星
+	celestial WORD[22,   2]: 0.0041956 星辰
+TOKEN[23]: 0.0082961    4 assault
+	assault WORD[23,   1]: 0.0022256 凌辱
+	assault WORD[23,   2]: 0.0022256 陵辱
+	assault WORD[23,   3]: 0.0019225 辱しめる
+	assault WORD[23,   4]: 0.0019225 辱める
+TOKEN[24]: 0.0079670    3 affront
+	affront WORD[24,   1]: 0.0027379 凌辱
+	affront WORD[24,   2]: 0.0027379 陵辱
+	affront WORD[24,   3]: 0.0024913 侮辱
+TOKEN[25]: 0.0074554    1 lacquer
+	lacquer WORD[25,   1]: 0.0074554 辰砂
+TOKEN[26]: 0.0074075    2 happy
+	happy WORD[26,   1]: 0.0037038 佳辰
+	happy WORD[26,   2]: 0.0037038 嘉辰
+TOKEN[27]: 0.0073878    2 Chinese
+	Chinese WORD[27,   1]: 0.0051429 辰星
+	Chinese WORD[27,   2]: 0.0022449 辰
+TOKEN[28]: 0.0060673    2 ancient
+	ancient WORD[28,   1]: 0.0030675 辰星
+	ancient WORD[28,   2]: 0.0029998 神農
+TOKEN[29]: 0.0058784    2 indignity
+	indignity WORD[29,   1]: 0.0029392 凌辱
+	indignity WORD[29,   2]: 0.0029392 陵辱
+TOKEN[30]: 0.0058632    1 year
+	year WORD[30,   1]: 0.0058632 辰年
+TOKEN[31]: 0.0054815    1 Sirius
+	Sirius WORD[31,   1]: 0.0054815 辰星
+TOKEN[32]: 0.0052968    1 book
+	book WORD[32,   1]: 0.0052968 農書
+TOKEN[33]: 0.0052812    2 raping
+	raping WORD[33,   1]: 0.0026406 辱しめ
+	raping WORD[33,   2]: 0.0026406 辱め
+TOKEN[34]: 0.0051205    1 Mercury
+	Mercury WORD[34,   1]: 0.0051205 辰星
+TOKEN[35]: 0.0050043    1 astronomy
+	astronomy WORD[35,   1]: 0.0050043 辰星
+TOKEN[36]: 0.0049334    2 humiliate
+	humiliate WORD[36,   1]: 0.0024667 辱しめる
+	humiliate WORD[36,   2]: 0.0024667 辱める
+TOKEN[37]: 0.0046787    3 peasant
+	peasant WORD[37,   1]: 0.0017763 貧農
+	peasant WORD[37,   2]: 0.0017248 農夫
+	peasant WORD[37,   3]: 0.0011776 農民
+TOKEN[38]: 0.0046415    3 rural
+	rural WORD[38,   1]: 0.0025261 農山村
+	rural WORD[38,   2]: 0.0010577 農村
+	rural WORD[38,   3]: 0.0010577 農山漁村
+TOKEN[39]: 0.0045265    2 violate
+	violate WORD[39,   1]: 0.0022632 辱しめる
+	violate WORD[39,   2]: 0.0022632 辱める
+TOKEN[40]: 0.0042756    1 birthday
+	birthday WORD[40,   1]: 0.0042756 誕辰
+TOKEN[41]: 0.0041479    1 vindication
+	vindication WORD[41,   1]: 0.0041479 雪辱
+TOKEN[42]: 0.0039644    1 mythical
+	mythical WORD[42,   1]: 0.0039644 神農
+TOKEN[43]: 0.0039025    2 sexual
+	sexual WORD[43,   1]: 0.0019513 凌辱
+	sexual WORD[43,   2]: 0.0019513 陵辱
+TOKEN[44]: 0.0037923    2 honor
+	honor WORD[44,   1]: 0.0022557 栄辱
+	honor WORD[44,   2]: 0.0015366 雪辱
+TOKEN[45]: 0.0037618    1 zodiac
+	zodiac WORD[45,   1]: 0.0037618 辰
+TOKEN[46]: 0.0037367    1 constellation
+	constellation WORD[46,   1]: 0.0037367 辰星
+TOKEN[47]: 0.0037310    1 woman
+	woman WORD[47,   1]: 0.0037310 農婦
+TOKEN[48]: 0.0037209    1 king
+	king WORD[48,   1]: 0.0037209 神農
+TOKEN[49]: 0.0037163    1 fifth
+	fifth WORD[49,   1]: 0.0037163 辰
+TOKEN[50]: 0.0036526    1 star
+	star WORD[50,   1]: 0.0036526 辰星
+TOKEN[51]: 0.0036348    1 persecution
+	persecution WORD[51,   1]: 0.0036348 忍辱
+TOKEN[52]: 0.0036191    1 association
+	association WORD[52,   1]: 0.0036191 農会
+TOKEN[53]: 0.0034514    1 forbearance
+	forbearance WORD[53,   1]: 0.0034514 忍辱
+TOKEN[54]: 0.0033697    1 hour
+	hour WORD[54,   1]: 0.0033697 辰
+TOKEN[55]: 0.0033490    1 bright
+	bright WORD[55,   1]: 0.0033490 辰星
+TOKEN[56]: 0.0033303    2 village
+	village WORD[56,   1]: 0.0024241 農漁村
+	village WORD[56,   2]: 0.0009062 農村
+TOKEN[57]: 0.0032967    2 humiliation
+	humiliation WORD[57,   1]: 0.0016969 屈辱
+	humiliation WORD[57,   2]: 0.0015998 汚辱
+TOKEN[58]: 0.0032703    1 third
+	third WORD[58,   1]: 0.0032703 辰
+TOKEN[59]: 0.0032402    1 garlic
+	garlic WORD[59,   1]: 0.0032402 忍辱
+TOKEN[60]: 0.0031395    1 southeast
+	southeast WORD[60,   1]: 0.0031395 辰巳
+TOKEN[61]: 0.0030333    1 room
+	room WORD[61,   1]: 0.0030333 辰星
+TOKEN[62]: 0.0030205    1 lunar
+	lunar WORD[62,   1]: 0.0030205 辰
+TOKEN[63]: 0.0029604    2 wealthy
+	wealthy WORD[63,   1]: 0.0015205 大農
+	wealthy WORD[63,   2]: 0.0014398 豪農
+TOKEN[64]: 0.0029162    1 calendar
+	calendar WORD[64,   1]: 0.0029162 辰
+TOKEN[65]: 0.0028998    1 university
+	university WORD[65,   1]: 0.0028998 農大
+TOKEN[66]: 0.0028798    2 working
+	working WORD[66,   1]: 0.0021392 農婦
+	working WORD[66,   2]: 0.0007406 就農
+TOKEN[67]: 0.0028736    1 sign
+	sign WORD[67,   1]: 0.0028736 辰
+TOKEN[68]: 0.0027820    1 livestock
+	livestock WORD[68,   1]: 0.0027820 農牧
+TOKEN[69]: 0.0027077    1 month
+	month WORD[69,   1]: 0.0027077 辰
+TOKEN[70]: 0.0026605    1 marine
+	marine WORD[70,   1]: 0.0026605 農水産
+TOKEN[71]: 0.0026352    2 put
+	put WORD[71,   1]: 0.0013176 辱しめる
+	put WORD[71,   2]: 0.0013176 辱める
+TOKEN[72]: 0.0026264    1 acquaintance
+	acquaintance WORD[72,   1]: 0.0026264 辱知
+TOKEN[73]: 0.0025900    1 difficulty
+	difficulty WORD[73,   1]: 0.0025900 忍辱
+TOKEN[74]: 0.0025656    1 School
+	School WORD[74,   1]: 0.0025656 農家
+TOKEN[75]: 0.0025144    2 mountain
+	mountain WORD[75,   1]: 0.0017723 農山村
+	mountain WORD[75,   2]: 0.0007421 農山漁村
+TOKEN[76]: 0.0024666    1 used
+	used WORD[76,   1]: 0.0024666 辰星
+TOKEN[77]: 0.0023396    1 industry
+	industry WORD[77,   1]: 0.0023396 農工
+TOKEN[78]: 0.0023152    1 raising
+	raising WORD[78,   1]: 0.0023152 農牧
+TOKEN[79]: 0.0021982    1 national
+	national WORD[79,   1]: 0.0021982 国辱
+TOKEN[80]: 0.0020684    1 female
+	female WORD[80,   1]: 0.0020684 農婦
+TOKEN[81]: 0.0020659    1 contempt
+	contempt WORD[81,   1]: 0.0020659 侮辱
+TOKEN[82]: 0.0020647    1 agriculturalist
+	agriculturalist WORD[82,   1]: 0.0020647 精農
+TOKEN[83]: 0.0020380    1 needy
+	needy WORD[83,   1]: 0.0020380 貧農
+TOKEN[84]: 0.0020001    1 exemplary
+	exemplary WORD[84,   1]: 0.0020001 篤農
+TOKEN[85]: 0.0019788    1 serf
+	serf WORD[85,   1]: 0.0019788 農奴
+TOKEN[86]: 0.0019474    1 face
+	face WORD[86,   1]: 0.0019474 忍辱
+TOKEN[87]: 0.0018871    1 slight
+	slight WORD[87,   1]: 0.0018871 侮辱
+TOKEN[88]: 0.0018788    1 horticulture
+	horticulture WORD[88,   1]: 0.0018788 農芸
+TOKEN[89]: 0.0018346    1 use
+	use WORD[89,   1]: 0.0018346 農用
+TOKEN[90]: 0.0018159    1 experienced
+	experienced WORD[90,   1]: 0.0018159 老農
+TOKEN[91]: 0.0018065    2 land
+	land WORD[91,   1]: 0.0010517 大農
+	land WORD[91,   2]: 0.0007548 農地
+TOKEN[92]: 0.0017944    1 profession
+	profession WORD[92,   1]: 0.0017944 離農
+TOKEN[93]: 0.0017198    1 revenge
+	revenge WORD[93,   1]: 0.0017198 雪辱
+TOKEN[94]: 0.0016775    1 plantation
+	plantation WORD[94,   1]: 0.0016775 農園
+TOKEN[95]: 0.0015908    1 court
+	court WORD[95,   1]: 0.0015908 侮辱
+TOKEN[96]: 0.0015568    1 one
+	one WORD[96,   1]: 0.0015568 辰星
+TOKEN[97]: 0.0015065    1 dairy
+	dairy WORD[97,   1]: 0.0015065 酪農
+TOKEN[98]: 0.0014978    1 herbicide
+	herbicide WORD[98,   1]: 0.0014978 農薬
+TOKEN[99]: 0.0014728    1 cannon
+	cannon WORD[99,   1]: 0.0014728 加農
+TOKEN[100]: 0.0014076    1 loss
+	loss WORD[100,   1]: 0.0014076 雪辱
+TOKEN[101]: 0.0014053    1 pesticide
+	pesticide WORD[101,   1]: 0.0014053 農薬
+TOKEN[102]: 0.0014051    1 farmhouse
+	farmhouse WORD[102,   1]: 0.0014051 農家
+TOKEN[103]: 0.0013751    1 giving
+	giving WORD[103,   1]: 0.0013751 離農
+TOKEN[104]: 0.0013468    1 unit
+	unit WORD[104,   1]: 0.0013468 農兵
+TOKEN[105]: 0.0013442    1 army
+	army WORD[105,   1]: 0.0013442 農兵
+TOKEN[106]: 0.0012805    1 poor
+	poor WORD[106,   1]: 0.0012805 貧農
+TOKEN[107]: 0.0012586    1 forestry
+	forestry WORD[107,   1]: 0.0012586 農林
+TOKEN[108]: 0.0012519    1 lot
+	lot WORD[108,   1]: 0.0012519 大農
+TOKEN[109]: 0.0012464    1 male
+	male WORD[109,   1]: 0.0012464 農夫
+TOKEN[110]: 0.0012387    1 season
+	season WORD[110,   1]: 0.0012387 農期
+TOKEN[111]: 0.0012339    1 making
+	making WORD[111,   1]: 0.0012339 雪辱
+TOKEN[112]: 0.0011275    1 implement
+	implement WORD[112,   1]: 0.0011275 農具
+TOKEN[113]: 0.0011271    1 old
+	old WORD[113,   1]: 0.0011271 老農
+TOKEN[114]: 0.0010978    1 chemical
+	chemical WORD[114,   1]: 0.0010978 農薬
+TOKEN[115]: 0.0010679    1 science
+	science WORD[115,   1]: 0.0010679 農学
+TOKEN[116]: 0.0010309    1 cultivation
+	cultivation WORD[116,   1]: 0.0010309 農耕
+TOKEN[117]: 0.0010274    1 rich
+	rich WORD[117,   1]: 0.0010274 富農
+TOKEN[118]: 0.0010121    1 community
+	community WORD[118,   1]: 0.0010121 農村
+TOKEN[119]: 0.0009866    1 administration
+	administration WORD[119,   1]: 0.0009866 農政
+TOKEN[120]: 0.0008007    1 road
+	road WORD[120,   1]: 0.0008007 農道
+TOKEN[121]: 0.0007362    1 high
+	high WORD[121,   1]: 0.0007362 農高
+TOKEN[122]: 0.0007163    1 school
+	school WORD[122,   1]: 0.0007163 農高
+TOKEN[123]: 0.0006919    1 family
+	family WORD[123,   1]: 0.0006919 農家
+TOKEN[124]: 0.0005784    1 small
+	small WORD[124,   1]: 0.0005784 小農
+TOKEN[125]: 0.0005281    1 take
+	take WORD[125,   1]: 0.0005281 帰農

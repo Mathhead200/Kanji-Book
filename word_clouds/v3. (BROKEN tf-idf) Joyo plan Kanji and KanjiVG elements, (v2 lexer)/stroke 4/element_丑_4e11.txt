@@ -1,0 +1,477 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1428616    1 button         : 鈕
+0.0759963    2 bashful        : 忸怩, 羞じらう
+0.0757725    4 shameful       : 忸怩, 羞かしい, 羞しい, 羞ずかしい
+0.0736577    5 baby           : おんぶ紐, 負んぶ紐, 抱っこ紐, おぶい紐, 負ぶい紐
+0.0728260    5 ashamed        : 忸怩, 羞かしい, 羞しい, 羞ずかしい, 羞じる
+0.0673008    1 photophobia    : 羞明
+0.0621113    5 sexagenary     : 己丑, 丁丑, 癸丑, 辛丑, 乙丑
+0.0573416    3 clothing       : 鈕, 紐付, 紐付き
+0.0564573    5 cycle          : 己丑, 丁丑, 癸丑, 辛丑, 乙丑
+0.0538535    5 term           : 己丑, 丁丑, 癸丑, 辛丑, 乙丑
+0.0500527    5 sling          : おんぶ紐, 負んぶ紐, 抱っこ紐, おぶい紐, 負ぶい紐
+0.0418492    5 carrier        : おんぶ紐, 負んぶ紐, 抱っこ紐, おぶい紐, 負ぶい紐
+0.0157558    4 shyness        : 含羞, 羞じらい, 羞らい, 羞恥
+0.0126267    4 shy            : 羞じらう, 羞かしい, 羞しい, 羞ずかしい
+0.0116599    3 shame          : 羞悪, 羞, 羞恥
+0.0092847    3 disgraceful    : 羞かしい, 羞しい, 羞ずかしい
+0.0092538    3 embarrassing   : 羞かしい, 羞しい, 羞ずかしい
+0.0086446    3 embarrassed    : 羞かしい, 羞しい, 羞ずかしい
+0.0076941    1 hatred         : 羞悪
+0.0058155    1 year           : 丑年
+0.0057301    1 evil           : 羞悪
+0.0055461    1 coy            : 嬌羞
+0.0048601    2 feel           : 羞じらう, 羞じる
+0.0043325    1 northeast      : 丑寅
+0.0040640   12 cord           : 結び紐, 引き紐, 帯紐, 吊り紐, 麻紐, 紐付, 紐付き, 腰紐, 組み紐, 組紐, ...
+0.0038784    1 blush          : 羞じらう
+0.0038747    1 charming       : 嬌羞
+0.0032349    1 bashfulness    : 羞恥
+0.0031872    1 embarrassment  : 羞
+0.0028731    1 disgrace       : 羞
+0.0026370    1 twelfth        : 丑
+0.0024546    1 zodiac         : 丑
+0.0020759    1 hour           : 丑
+0.0018688    1 sign           : 丑
+0.0018500    1 calendar       : 丑
+0.0018238    6 strap          : 締め紐, 顎紐, 肩紐, 皮紐, 革紐, 紐革
+0.0018176    1 lunar          : 丑
+0.0016697    1 second         : 丑
+0.0016441    1 month          : 丑
+0.0014121    1 Chinese        : 丑
+0.0012176    2 drawstring     : 引き紐, 口紐
+0.0011338    2 attached       : 紐付, 紐付き
+0.0009779    1 lacing         : 締め紐
+0.0009763    1 knotted        : 結び紐
+0.0009275    1 adjustable     : 締め紐
+0.0009221    1 fastening      : 結び紐
+0.0009049    1 bracer         : 締め紐
+0.0007448    1 release        : 引き紐
+0.0007305    3 thong          : 皮紐, 革紐, 紐革
+0.0007288    4 string         : 胸紐, 紐付, 紐付き, 紐
+0.0006834    1 front          : 抱っこ紐
+0.0006706    1 worm           : 紐虫
+0.0006633    3 leash          : 皮紐, 革紐, 紐
+0.0006499    1 dog            : 引き紐
+0.0006445    1 lead           : 引き紐
+0.0006423    2 coiling        : 紐づくり, 紐作り
+0.0006265    1 clothes        : 結び紐
+0.0006161    3 kimono         : 帯紐, 胸紐, 腰紐
+0.0006029    2 obi            : 帯紐, 腰紐
+0.0004943    1 Nemertea       : 紐虫
+0.0004923    2 lover          : 紐付, 紐付き
+0.0004447    1 lanyard        : 首紐
+0.0004392    1 hemp           : 麻紐
+0.0004260    2 leather        : 皮紐, 革紐
+0.0004259    3 bag            : 口紐, 紐付, 紐付き
+0.0004088    3 woman          : 紐付, 紐付き, 紐
+0.0003853    2 method         : 紐づくり, 紐作り
+0.0003837    1 belt           : 下紐
+0.0003831    1 neckband       : 首紐
+0.0003798    1 ribbon         : 紐虫
+0.0003600    1 phylum         : 紐虫
+0.0003486    2 tied           : 腰紐, 胸紐
+0.0003291    3 something      : 吊り紐, 紐付, 紐付き
+0.0003274    1 ornamental     : 首紐
+0.0002772    1 bootlace       : 靴紐
+0.0002772    1 shoelace       : 靴紐
+0.0002733    2 plaited        : 組み紐, 組紐
+0.0002461    1 twine          : 麻紐
+0.0002380    1 chin           : 顎紐
+0.0002370    2 braid          : 組み紐, 組紐
+0.0002326    1 linkage        : 紐付け
+0.0002274    1 linking        : 紐付け
+0.0002234    1 relation       : 紐帯
+0.0002215    2 loan           : 紐付, 紐付き
+0.0002091    1 shoulder       : 肩紐
+0.0002057    2 male           : 紐付, 紐付き
+0.0002027    1 important      : 紐帯
+0.0002019    1 dress          : 肩紐
+0.0001566    1 information    : 紐付け
+0.0001535    1 read           : 紐解く
+0.0001385    1 haori          : 胸紐
+0.0001340    1 childhood      : 胸紐
+0.0001300    1 gigolo         : 紐
+0.0001207    1 sash           : 付け紐
+0.0001206    1 braided        : 打ち紐
+0.0001198    1 intimate       : 紐帯
+0.0001195    1 tight          : 紐帯
+0.0001192    1 book           : 紐解く
+0.0001184    1 oviduct        : 紐
+0.0001155    1 chest          : 胸紐
+0.0001132    1 foundation     : 紐帯
+0.0001117    1 wear           : 胸紐
+0.0001110    1 intestine      : 紐
+0.0001110    1 waist          : 腰紐
+0.0001097    1 link           : 紐帯
+0.0001094    1 pimp           : 紐
+0.0001028    1 connection     : 紐帯
+0.0001028    1 unravel        : 紐解く
+0.0001006    1 mantle         : 紐
+0.0000999    1 close          : 紐帯
+0.0000989    1 relationship   : 紐帯
+0.0000969    1 one            : 胸紐
+0.0000947    1 social         : 紐帯
+0.0000936    1 discover       : 紐解く
+0.0000885    1 shellfish      : 紐
+0.0000877    1 mystery        : 紐解く
+0.0000864    1 dependent      : 紐
+0.0000822    1 child          : 付け紐
+0.0000813    1 period         : 胸紐
+0.0000809    1 beef           : 紐
+0.0000791    1 pork           : 紐
+0.0000750    1 chicken        : 紐
+0.0000742    1 truth          : 紐解く
+0.0000661    1 meat           : 紐
+0.0000655    1 open           : 紐解く
+0.0000590    1 man            : 紐
+0.0000560    1 small          : 紐
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1428616    1 button
+	button WORD[ 1,   1]: 0.1428616 鈕
+TOKEN[ 2]: 0.0759963    2 bashful
+	bashful WORD[ 2,   1]: 0.0720497 忸怩
+	bashful WORD[ 2,   2]: 0.0039466 羞じらう
+TOKEN[ 3]: 0.0757725    4 shameful
+	shameful WORD[ 3,   1]: 0.0665187 忸怩
+	shameful WORD[ 3,   2]: 0.0030846 羞かしい
+	shameful WORD[ 3,   3]: 0.0030846 羞しい
+	shameful WORD[ 3,   4]: 0.0030846 羞ずかしい
+TOKEN[ 4]: 0.0736577    5 baby
+	baby WORD[ 4,   1]: 0.0357613 おんぶ紐
+	baby WORD[ 4,   2]: 0.0357470 負んぶ紐
+	baby WORD[ 4,   3]: 0.0007397 抱っこ紐
+	baby WORD[ 4,   4]: 0.0007049 おぶい紐
+	baby WORD[ 4,   5]: 0.0007049 負ぶい紐
+TOKEN[ 5]: 0.0728260    5 ashamed
+	ashamed WORD[ 5,   1]: 0.0614317 忸怩
+	ashamed WORD[ 5,   2]: 0.0028487 羞かしい
+	ashamed WORD[ 5,   3]: 0.0028487 羞しい
+	ashamed WORD[ 5,   4]: 0.0028487 羞ずかしい
+	ashamed WORD[ 5,   5]: 0.0028482 羞じる
+TOKEN[ 6]: 0.0673008    1 photophobia
+	photophobia WORD[ 6,   1]: 0.0673008 羞明
+TOKEN[ 7]: 0.0621113    5 sexagenary
+	sexagenary WORD[ 7,   1]: 0.0207624 己丑
+	sexagenary WORD[ 7,   2]: 0.0160775 丁丑
+	sexagenary WORD[ 7,   3]: 0.0100811 癸丑
+	sexagenary WORD[ 7,   4]: 0.0078605 辛丑
+	sexagenary WORD[ 7,   5]: 0.0073297 乙丑
+TOKEN[ 8]: 0.0573416    3 clothing
+	clothing WORD[ 8,   1]: 0.0571384 鈕
+	clothing WORD[ 8,   2]: 0.0001016 紐付
+	clothing WORD[ 8,   3]: 0.0001016 紐付き
+TOKEN[ 9]: 0.0564573    5 cycle
+	cycle WORD[ 9,   1]: 0.0188725 己丑
+	cycle WORD[ 9,   2]: 0.0146140 丁丑
+	cycle WORD[ 9,   3]: 0.0091635 癸丑
+	cycle WORD[ 9,   4]: 0.0071450 辛丑
+	cycle WORD[ 9,   5]: 0.0066625 乙丑
+TOKEN[10]: 0.0538535    5 term
+	term WORD[10,   1]: 0.0180020 己丑
+	term WORD[10,   2]: 0.0139399 丁丑
+	term WORD[10,   3]: 0.0087408 癸丑
+	term WORD[10,   4]: 0.0068154 辛丑
+	term WORD[10,   5]: 0.0063552 乙丑
+TOKEN[11]: 0.0500527    5 sling
+	sling WORD[11,   1]: 0.0243009 おんぶ紐
+	sling WORD[11,   2]: 0.0242912 負んぶ紐
+	sling WORD[11,   3]: 0.0005026 抱っこ紐
+	sling WORD[11,   4]: 0.0004790 おぶい紐
+	sling WORD[11,   5]: 0.0004790 負ぶい紐
+TOKEN[12]: 0.0418492    5 carrier
+	carrier WORD[12,   1]: 0.0203180 おんぶ紐
+	carrier WORD[12,   2]: 0.0203099 負んぶ紐
+	carrier WORD[12,   3]: 0.0004203 抱っこ紐
+	carrier WORD[12,   4]: 0.0004005 おぶい紐
+	carrier WORD[12,   5]: 0.0004005 負ぶい紐
+TOKEN[13]: 0.0157558    4 shyness
+	shyness WORD[13,   1]: 0.0043940 含羞
+	shyness WORD[13,   2]: 0.0041689 羞じらい
+	shyness WORD[13,   3]: 0.0041689 羞らい
+	shyness WORD[13,   4]: 0.0030240 羞恥
+TOKEN[14]: 0.0126267    4 shy
+	shy WORD[14,   1]: 0.0035672 羞じらう
+	shy WORD[14,   2]: 0.0030199 羞かしい
+	shy WORD[14,   3]: 0.0030199 羞しい
+	shy WORD[14,   4]: 0.0030199 羞ずかしい
+TOKEN[15]: 0.0116599    3 shame
+	shame WORD[15,   1]: 0.0065506 羞悪
+	shame WORD[15,   2]: 0.0027505 羞
+	shame WORD[15,   3]: 0.0023588 羞恥
+TOKEN[16]: 0.0092847    3 disgraceful
+	disgraceful WORD[16,   1]: 0.0030949 羞かしい
+	disgraceful WORD[16,   2]: 0.0030949 羞しい
+	disgraceful WORD[16,   3]: 0.0030949 羞ずかしい
+TOKEN[17]: 0.0092538    3 embarrassing
+	embarrassing WORD[17,   1]: 0.0030846 羞かしい
+	embarrassing WORD[17,   2]: 0.0030846 羞しい
+	embarrassing WORD[17,   3]: 0.0030846 羞ずかしい
+TOKEN[18]: 0.0086446    3 embarrassed
+	embarrassed WORD[18,   1]: 0.0028815 羞かしい
+	embarrassed WORD[18,   2]: 0.0028815 羞しい
+	embarrassed WORD[18,   3]: 0.0028815 羞ずかしい
+TOKEN[19]: 0.0076941    1 hatred
+	hatred WORD[19,   1]: 0.0076941 羞悪
+TOKEN[20]: 0.0058155    1 year
+	year WORD[20,   1]: 0.0058155 丑年
+TOKEN[21]: 0.0057301    1 evil
+	evil WORD[21,   1]: 0.0057301 羞悪
+TOKEN[22]: 0.0055461    1 coy
+	coy WORD[22,   1]: 0.0055461 嬌羞
+TOKEN[23]: 0.0048601    2 feel
+	feel WORD[23,   1]: 0.0026322 羞じらう
+	feel WORD[23,   2]: 0.0022279 羞じる
+TOKEN[24]: 0.0043325    1 northeast
+	northeast WORD[24,   1]: 0.0043325 丑寅
+TOKEN[25]: 0.0040640   12 cord
+	cord WORD[25,   1]: 0.0015640 結び紐
+	cord WORD[25,   2]: 0.0007607 引き紐
+	cord WORD[25,   3]: 0.0004539 帯紐
+	cord WORD[25,   4]: 0.0003306 吊り紐
+	cord WORD[25,   5]: 0.0002121 麻紐
+	cord WORD[25,   6]: 0.0001225 紐付
+	cord WORD[25,   7]: 0.0001225 紐付き
+	cord WORD[25,   8]: 0.0001082 腰紐
+	cord WORD[25,   9]: 0.0001031 組み紐
+	cord WORD[25,  10]: 0.0001031 組紐
+	cord WORD[25,  11]: 0.0000997 打ち紐
+	cord WORD[25,  12]: 0.0000838 紐
+TOKEN[26]: 0.0038784    1 blush
+	blush WORD[26,   1]: 0.0038784 羞じらう
+TOKEN[27]: 0.0038747    1 charming
+	charming WORD[27,   1]: 0.0038747 嬌羞
+TOKEN[28]: 0.0032349    1 bashfulness
+	bashfulness WORD[28,   1]: 0.0032349 羞恥
+TOKEN[29]: 0.0031872    1 embarrassment
+	embarrassment WORD[29,   1]: 0.0031872 羞
+TOKEN[30]: 0.0028731    1 disgrace
+	disgrace WORD[30,   1]: 0.0028731 羞
+TOKEN[31]: 0.0026370    1 twelfth
+	twelfth WORD[31,   1]: 0.0026370 丑
+TOKEN[32]: 0.0024546    1 zodiac
+	zodiac WORD[32,   1]: 0.0024546 丑
+TOKEN[33]: 0.0020759    1 hour
+	hour WORD[33,   1]: 0.0020759 丑
+TOKEN[34]: 0.0018688    1 sign
+	sign WORD[34,   1]: 0.0018688 丑
+TOKEN[35]: 0.0018500    1 calendar
+	calendar WORD[35,   1]: 0.0018500 丑
+TOKEN[36]: 0.0018238    6 strap
+	strap WORD[36,   1]: 0.0007559 締め紐
+	strap WORD[36,   2]: 0.0002374 顎紐
+	strap WORD[36,   3]: 0.0002352 肩紐
+	strap WORD[36,   4]: 0.0002325 皮紐
+	strap WORD[36,   5]: 0.0002325 革紐
+	strap WORD[36,   6]: 0.0001303 紐革
+TOKEN[37]: 0.0018176    1 lunar
+	lunar WORD[37,   1]: 0.0018176 丑
+TOKEN[38]: 0.0016697    1 second
+	second WORD[38,   1]: 0.0016697 丑
+TOKEN[39]: 0.0016441    1 month
+	month WORD[39,   1]: 0.0016441 丑
+TOKEN[40]: 0.0014121    1 Chinese
+	Chinese WORD[40,   1]: 0.0014121 丑
+TOKEN[41]: 0.0012176    2 drawstring
+	drawstring WORD[41,   1]: 0.0009413 引き紐
+	drawstring WORD[41,   2]: 0.0002763 口紐
+TOKEN[42]: 0.0011338    2 attached
+	attached WORD[42,   1]: 0.0005669 紐付
+	attached WORD[42,   2]: 0.0005669 紐付き
+TOKEN[43]: 0.0009779    1 lacing
+	lacing WORD[43,   1]: 0.0009779 締め紐
+TOKEN[44]: 0.0009763    1 knotted
+	knotted WORD[44,   1]: 0.0009763 結び紐
+TOKEN[45]: 0.0009275    1 adjustable
+	adjustable WORD[45,   1]: 0.0009275 締め紐
+TOKEN[46]: 0.0009221    1 fastening
+	fastening WORD[46,   1]: 0.0009221 結び紐
+TOKEN[47]: 0.0009049    1 bracer
+	bracer WORD[47,   1]: 0.0009049 締め紐
+TOKEN[48]: 0.0007448    1 release
+	release WORD[48,   1]: 0.0007448 引き紐
+TOKEN[49]: 0.0007305    3 thong
+	thong WORD[49,   1]: 0.0002853 皮紐
+	thong WORD[49,   2]: 0.0002853 革紐
+	thong WORD[49,   3]: 0.0001599 紐革
+TOKEN[50]: 0.0007288    4 string
+	string WORD[50,   1]: 0.0002211 胸紐
+	string WORD[50,   2]: 0.0002168 紐付
+	string WORD[50,   3]: 0.0002168 紐付き
+	string WORD[50,   4]: 0.0000741 紐
+TOKEN[51]: 0.0006834    1 front
+	front WORD[51,   1]: 0.0006834 抱っこ紐
+TOKEN[52]: 0.0006706    1 worm
+	worm WORD[52,   1]: 0.0006706 紐虫
+TOKEN[53]: 0.0006633    3 leash
+	leash WORD[53,   1]: 0.0002783 皮紐
+	leash WORD[53,   2]: 0.0002783 革紐
+	leash WORD[53,   3]: 0.0001067 紐
+TOKEN[54]: 0.0006499    1 dog
+	dog WORD[54,   1]: 0.0006499 引き紐
+TOKEN[55]: 0.0006445    1 lead
+	lead WORD[55,   1]: 0.0006445 引き紐
+TOKEN[56]: 0.0006423    2 coiling
+	coiling WORD[56,   1]: 0.0003212 紐づくり
+	coiling WORD[56,   2]: 0.0003212 紐作り
+TOKEN[57]: 0.0006265    1 clothes
+	clothes WORD[57,   1]: 0.0006265 結び紐
+TOKEN[58]: 0.0006161    3 kimono
+	kimono WORD[58,   1]: 0.0004070 帯紐
+	kimono WORD[58,   2]: 0.0001120 胸紐
+	kimono WORD[58,   3]: 0.0000971 腰紐
+TOKEN[59]: 0.0006029    2 obi
+	obi WORD[59,   1]: 0.0004868 帯紐
+	obi WORD[59,   2]: 0.0001161 腰紐
+TOKEN[60]: 0.0004943    1 Nemertea
+	Nemertea WORD[60,   1]: 0.0004943 紐虫
+TOKEN[61]: 0.0004923    2 lover
+	lover WORD[61,   1]: 0.0002462 紐付
+	lover WORD[61,   2]: 0.0002462 紐付き
+TOKEN[62]: 0.0004447    1 lanyard
+	lanyard WORD[62,   1]: 0.0004447 首紐
+TOKEN[63]: 0.0004392    1 hemp
+	hemp WORD[63,   1]: 0.0004392 麻紐
+TOKEN[64]: 0.0004260    2 leather
+	leather WORD[64,   1]: 0.0002130 皮紐
+	leather WORD[64,   2]: 0.0002130 革紐
+TOKEN[65]: 0.0004259    3 bag
+	bag WORD[65,   1]: 0.0002031 口紐
+	bag WORD[65,   2]: 0.0001114 紐付
+	bag WORD[65,   3]: 0.0001114 紐付き
+TOKEN[66]: 0.0004088    3 woman
+	woman WORD[66,   1]: 0.0001745 紐付
+	woman WORD[66,   2]: 0.0001745 紐付き
+	woman WORD[66,   3]: 0.0000597 紐
+TOKEN[67]: 0.0003853    2 method
+	method WORD[67,   1]: 0.0001926 紐づくり
+	method WORD[67,   2]: 0.0001926 紐作り
+TOKEN[68]: 0.0003837    1 belt
+	belt WORD[68,   1]: 0.0003837 下紐
+TOKEN[69]: 0.0003831    1 neckband
+	neckband WORD[69,   1]: 0.0003831 首紐
+TOKEN[70]: 0.0003798    1 ribbon
+	ribbon WORD[70,   1]: 0.0003798 紐虫
+TOKEN[71]: 0.0003600    1 phylum
+	phylum WORD[71,   1]: 0.0003600 紐虫
+TOKEN[72]: 0.0003486    2 tied
+	tied WORD[72,   1]: 0.0002211 腰紐
+	tied WORD[72,   2]: 0.0001275 胸紐
+TOKEN[73]: 0.0003291    3 something
+	something WORD[73,   1]: 0.0001890 吊り紐
+	something WORD[73,   2]: 0.0000700 紐付
+	something WORD[73,   3]: 0.0000700 紐付き
+TOKEN[74]: 0.0003274    1 ornamental
+	ornamental WORD[74,   1]: 0.0003274 首紐
+TOKEN[75]: 0.0002772    1 bootlace
+	bootlace WORD[75,   1]: 0.0002772 靴紐
+TOKEN[76]: 0.0002772    1 shoelace
+	shoelace WORD[76,   1]: 0.0002772 靴紐
+TOKEN[77]: 0.0002733    2 plaited
+	plaited WORD[77,   1]: 0.0001366 組み紐
+	plaited WORD[77,   2]: 0.0001366 組紐
+TOKEN[78]: 0.0002461    1 twine
+	twine WORD[78,   1]: 0.0002461 麻紐
+TOKEN[79]: 0.0002380    1 chin
+	chin WORD[79,   1]: 0.0002380 顎紐
+TOKEN[80]: 0.0002370    2 braid
+	braid WORD[80,   1]: 0.0001185 組み紐
+	braid WORD[80,   2]: 0.0001185 組紐
+TOKEN[81]: 0.0002326    1 linkage
+	linkage WORD[81,   1]: 0.0002326 紐付け
+TOKEN[82]: 0.0002274    1 linking
+	linking WORD[82,   1]: 0.0002274 紐付け
+TOKEN[83]: 0.0002234    1 relation
+	relation WORD[83,   1]: 0.0002234 紐帯
+TOKEN[84]: 0.0002215    2 loan
+	loan WORD[84,   1]: 0.0001107 紐付
+	loan WORD[84,   2]: 0.0001107 紐付き
+TOKEN[85]: 0.0002091    1 shoulder
+	shoulder WORD[85,   1]: 0.0002091 肩紐
+TOKEN[86]: 0.0002057    2 male
+	male WORD[86,   1]: 0.0001028 紐付
+	male WORD[86,   2]: 0.0001028 紐付き
+TOKEN[87]: 0.0002027    1 important
+	important WORD[87,   1]: 0.0002027 紐帯
+TOKEN[88]: 0.0002019    1 dress
+	dress WORD[88,   1]: 0.0002019 肩紐
+TOKEN[89]: 0.0001566    1 information
+	information WORD[89,   1]: 0.0001566 紐付け
+TOKEN[90]: 0.0001535    1 read
+	read WORD[90,   1]: 0.0001535 紐解く
+TOKEN[91]: 0.0001385    1 haori
+	haori WORD[91,   1]: 0.0001385 胸紐
+TOKEN[92]: 0.0001340    1 childhood
+	childhood WORD[92,   1]: 0.0001340 胸紐
+TOKEN[93]: 0.0001300    1 gigolo
+	gigolo WORD[93,   1]: 0.0001300 紐
+TOKEN[94]: 0.0001207    1 sash
+	sash WORD[94,   1]: 0.0001207 付け紐
+TOKEN[95]: 0.0001206    1 braided
+	braided WORD[95,   1]: 0.0001206 打ち紐
+TOKEN[96]: 0.0001198    1 intimate
+	intimate WORD[96,   1]: 0.0001198 紐帯
+TOKEN[97]: 0.0001195    1 tight
+	tight WORD[97,   1]: 0.0001195 紐帯
+TOKEN[98]: 0.0001192    1 book
+	book WORD[98,   1]: 0.0001192 紐解く
+TOKEN[99]: 0.0001184    1 oviduct
+	oviduct WORD[99,   1]: 0.0001184 紐
+TOKEN[100]: 0.0001155    1 chest
+	chest WORD[100,   1]: 0.0001155 胸紐
+TOKEN[101]: 0.0001132    1 foundation
+	foundation WORD[101,   1]: 0.0001132 紐帯
+TOKEN[102]: 0.0001117    1 wear
+	wear WORD[102,   1]: 0.0001117 胸紐
+TOKEN[103]: 0.0001110    1 intestine
+	intestine WORD[103,   1]: 0.0001110 紐
+TOKEN[104]: 0.0001110    1 waist
+	waist WORD[104,   1]: 0.0001110 腰紐
+TOKEN[105]: 0.0001097    1 link
+	link WORD[105,   1]: 0.0001097 紐帯
+TOKEN[106]: 0.0001094    1 pimp
+	pimp WORD[106,   1]: 0.0001094 紐
+TOKEN[107]: 0.0001028    1 connection
+	connection WORD[107,   1]: 0.0001028 紐帯
+TOKEN[108]: 0.0001028    1 unravel
+	unravel WORD[108,   1]: 0.0001028 紐解く
+TOKEN[109]: 0.0001006    1 mantle
+	mantle WORD[109,   1]: 0.0001006 紐
+TOKEN[110]: 0.0000999    1 close
+	close WORD[110,   1]: 0.0000999 紐帯
+TOKEN[111]: 0.0000989    1 relationship
+	relationship WORD[111,   1]: 0.0000989 紐帯
+TOKEN[112]: 0.0000969    1 one
+	one WORD[112,   1]: 0.0000969 胸紐
+TOKEN[113]: 0.0000947    1 social
+	social WORD[113,   1]: 0.0000947 紐帯
+TOKEN[114]: 0.0000936    1 discover
+	discover WORD[114,   1]: 0.0000936 紐解く
+TOKEN[115]: 0.0000885    1 shellfish
+	shellfish WORD[115,   1]: 0.0000885 紐
+TOKEN[116]: 0.0000877    1 mystery
+	mystery WORD[116,   1]: 0.0000877 紐解く
+TOKEN[117]: 0.0000864    1 dependent
+	dependent WORD[117,   1]: 0.0000864 紐
+TOKEN[118]: 0.0000822    1 child
+	child WORD[118,   1]: 0.0000822 付け紐
+TOKEN[119]: 0.0000813    1 period
+	period WORD[119,   1]: 0.0000813 胸紐
+TOKEN[120]: 0.0000809    1 beef
+	beef WORD[120,   1]: 0.0000809 紐
+TOKEN[121]: 0.0000791    1 pork
+	pork WORD[121,   1]: 0.0000791 紐
+TOKEN[122]: 0.0000750    1 chicken
+	chicken WORD[122,   1]: 0.0000750 紐
+TOKEN[123]: 0.0000742    1 truth
+	truth WORD[123,   1]: 0.0000742 紐解く
+TOKEN[124]: 0.0000661    1 meat
+	meat WORD[124,   1]: 0.0000661 紐
+TOKEN[125]: 0.0000655    1 open
+	open WORD[125,   1]: 0.0000655 紐解く
+TOKEN[126]: 0.0000590    1 man
+	man WORD[126,   1]: 0.0000590 紐
+TOKEN[127]: 0.0000560    1 small
+	small WORD[127,   1]: 0.0000560 紐

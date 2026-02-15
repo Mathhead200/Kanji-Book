@@ -1,0 +1,122 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2278455   10 canned         : 猫缶, 桃缶, さけ缶, 鮭缶, 蟹缶, 缶入り, 牛缶, 缶詰, 缶詰め, 缶
+0.1410255    5 food           : 猫缶, 食缶, 缶詰, 缶詰め, 缶
+0.1250654    1 cat            : 猫缶
+0.1145502    3 tin            : 猫缶, 缶入り, 缶
+0.0857546    2 salmon         : さけ缶, 鮭缶
+0.0604566    4 tinned         : さけ缶, 鮭缶, 缶詰, 缶詰め
+0.0449603    1 transport      : 食缶
+0.0399610    1 container      : 食缶
+0.0193389    1 boiler         : 製缶
+0.0169705    1 crab           : 蟹缶
+0.0121789    1 beef           : 牛缶
+0.0087110    1 bottom         : 缶底
+0.0084809    2 confining      : 缶詰, 缶詰め
+0.0079233    3 empty          : あき缶, 空き缶, 空缶
+0.0073025    2 concentrate    : 缶詰, 缶詰め
+0.0070269    1 bald           : 薬缶
+0.0069314    1 opener         : 缶切り
+0.0068704    2 confined       : 缶詰, 缶詰め
+0.0068361    1 kettle         : 薬缶
+0.0067255    1 stoker         : 缶焚き
+0.0066023    2 stuck          : 缶詰, 缶詰め
+0.0062514    1 fireman        : 缶焚き
+0.0058191    2 space          : 缶詰, 缶詰め
+0.0045036    1 head           : 薬缶
+0.0044895    2 work           : 缶詰, 缶詰め
+0.0041003    1 aluminium      : アルミ缶
+0.0039837    1 aluminum       : アルミ缶
+0.0037009    2 someone        : 缶詰, 缶詰め
+0.0031127    1 kick           : 缶蹴り
+0.0025208    1 game           : 缶蹴り
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2278455   10 canned
+	canned WORD[ 1,   1]: 0.0790423 猫缶
+	canned WORD[ 1,   2]: 0.0322954 桃缶
+	canned WORD[ 1,   3]: 0.0237251 さけ缶
+	canned WORD[ 1,   4]: 0.0237249 鮭缶
+	canned WORD[ 1,   5]: 0.0190701 蟹缶
+	canned WORD[ 1,   6]: 0.0171521 缶入り
+	canned WORD[ 1,   7]: 0.0139229 牛缶
+	canned WORD[ 1,   8]: 0.0037860 缶詰
+	canned WORD[ 1,   9]: 0.0037860 缶詰め
+	canned WORD[ 1,  10]: 0.0037803 缶
+TOKEN[ 2]: 0.1410255    5 food
+	food WORD[ 2,   1]: 0.0956713 猫缶
+	food WORD[ 2,   2]: 0.0293258 食缶
+	food WORD[ 2,   3]: 0.0045825 缶詰
+	food WORD[ 2,   4]: 0.0045825 缶詰め
+	food WORD[ 2,   5]: 0.0022878 缶
+TOKEN[ 3]: 0.1250654    1 cat
+	cat WORD[ 3,   1]: 0.1250654 猫缶
+TOKEN[ 4]: 0.1145502    3 tin
+	tin WORD[ 4,   1]: 0.0841987 猫缶
+	tin WORD[ 4,   2]: 0.0182710 缶入り
+	tin WORD[ 4,   3]: 0.0040269 缶
+TOKEN[ 5]: 0.0857546    2 salmon
+	salmon WORD[ 5,   1]: 0.0428775 さけ缶
+	salmon WORD[ 5,   2]: 0.0428771 鮭缶
+TOKEN[ 6]: 0.0604566    4 tinned
+	tinned WORD[ 6,   1]: 0.0260684 さけ缶
+	tinned WORD[ 6,   2]: 0.0260682 鮭缶
+	tinned WORD[ 6,   3]: 0.0041600 缶詰
+	tinned WORD[ 6,   4]: 0.0041600 缶詰め
+TOKEN[ 7]: 0.0449603    1 transport
+	transport WORD[ 7,   1]: 0.0449603 食缶
+TOKEN[ 8]: 0.0399610    1 container
+	container WORD[ 8,   1]: 0.0399610 食缶
+TOKEN[ 9]: 0.0193389    1 boiler
+	boiler WORD[ 9,   1]: 0.0193389 製缶
+TOKEN[10]: 0.0169705    1 crab
+	crab WORD[10,   1]: 0.0169705 蟹缶
+TOKEN[11]: 0.0121789    1 beef
+	beef WORD[11,   1]: 0.0121789 牛缶
+TOKEN[12]: 0.0087110    1 bottom
+	bottom WORD[12,   1]: 0.0087110 缶底
+TOKEN[13]: 0.0084809    2 confining
+	confining WORD[13,   1]: 0.0042405 缶詰
+	confining WORD[13,   2]: 0.0042405 缶詰め
+TOKEN[14]: 0.0079233    3 empty
+	empty WORD[14,   1]: 0.0026411 あき缶
+	empty WORD[14,   2]: 0.0026411 空き缶
+	empty WORD[14,   3]: 0.0026411 空缶
+TOKEN[15]: 0.0073025    2 concentrate
+	concentrate WORD[15,   1]: 0.0036513 缶詰
+	concentrate WORD[15,   2]: 0.0036513 缶詰め
+TOKEN[16]: 0.0070269    1 bald
+	bald WORD[16,   1]: 0.0070269 薬缶
+TOKEN[17]: 0.0069314    1 opener
+	opener WORD[17,   1]: 0.0069314 缶切り
+TOKEN[18]: 0.0068704    2 confined
+	confined WORD[18,   1]: 0.0034352 缶詰
+	confined WORD[18,   2]: 0.0034352 缶詰め
+TOKEN[19]: 0.0068361    1 kettle
+	kettle WORD[19,   1]: 0.0068361 薬缶
+TOKEN[20]: 0.0067255    1 stoker
+	stoker WORD[20,   1]: 0.0067255 缶焚き
+TOKEN[21]: 0.0066023    2 stuck
+	stuck WORD[21,   1]: 0.0033012 缶詰
+	stuck WORD[21,   2]: 0.0033012 缶詰め
+TOKEN[22]: 0.0062514    1 fireman
+	fireman WORD[22,   1]: 0.0062514 缶焚き
+TOKEN[23]: 0.0058191    2 space
+	space WORD[23,   1]: 0.0029096 缶詰
+	space WORD[23,   2]: 0.0029096 缶詰め
+TOKEN[24]: 0.0045036    1 head
+	head WORD[24,   1]: 0.0045036 薬缶
+TOKEN[25]: 0.0044895    2 work
+	work WORD[25,   1]: 0.0022448 缶詰
+	work WORD[25,   2]: 0.0022448 缶詰め
+TOKEN[26]: 0.0041003    1 aluminium
+	aluminium WORD[26,   1]: 0.0041003 アルミ缶
+TOKEN[27]: 0.0039837    1 aluminum
+	aluminum WORD[27,   1]: 0.0039837 アルミ缶
+TOKEN[28]: 0.0037009    2 someone
+	someone WORD[28,   1]: 0.0018505 缶詰
+	someone WORD[28,   2]: 0.0018505 缶詰め
+TOKEN[29]: 0.0031127    1 kick
+	kick WORD[29,   1]: 0.0031127 缶蹴り
+TOKEN[30]: 0.0025208    1 game
+	game WORD[30,   1]: 0.0025208 缶蹴り

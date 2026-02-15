@@ -1,0 +1,655 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.1204676    1 Quercus        : 橡
+0.1128995    1 oak            : 橡
+0.0753724    2 chess          : 象棋, 象戯
+0.0618918    2 shogi          : 象棋, 象戯
+0.0508911    3 Japanese       : 象棋, 橡の木, 象戯
+0.0444291   27 image          : 鏡像, 潜像, 像面, 結像, 巨像, 聖像, 撮像, 仏像, 心象, 実像, ...
+0.0359418    1 Aesculus       : 橡の木
+0.0345510   17 statue         : 像容, 造像, 原像, 巨像, 仏像, 裸像, 尊像, 寿像, 偶像, 立像, ...
+0.0282948    1 chestnut       : 橡の木
+0.0256136    6 elephant       : 小象, 象海豹, 象使い, 巨象, 白象, 海象
+0.0209213    1 horse          : 橡の木
+0.0159717    6 portrait       : 像主, 絵像, 胸像, 肖像, 像, 画像
+0.0145237    2 bust           : 像主, 胸像
+0.0109430   11 picture        : 描像, 撮像, 映像, 尊像, 心象, 送像, 受像, 実像, 肖像, 像, ...
+0.0101342    2 Mirounga       : 象海豹, 海象
+0.0080537    1 latent         : 潜像
+0.0079761    2 gigantic       : 巨象, 巨像
+0.0078930    4 sculpture      : 氷像, 雪像, 胸像, 彫像
+0.0075222    7 figure         : 像, 裸像, 塑像, 形象, 象, 坐像, 座像
+0.0073213    4 appearance     : 像容, 仮象, 象, 像
+0.0073154    3 Buddhist       : 像主, 造像, 仏像
+0.0065377    1 mirror         : 鏡像
+0.0064676    2 seal           : 象海豹, 海象
+0.0061419    5 phenomenon     : 物象, 地象, 象, 事象, 現象
+0.0059232    1 posing         : 像主
+0.0056666    1 optics         : 像面
+0.0055120    1 patron         : 像主
+0.0051350    1 trainer        : 象使い
+0.0050689    2 subject        : 像主, 対象
+0.0044790    3 work           : 像主, 象嵌, 象眼
+0.0042818    2 icon           : 聖像, 図像
+0.0041746    4 shape          : 象る, 形象, 象, 像
+0.0041467    4 mental         : 心象, 心像, 表象, 映像
+0.0040965    2 sedentary      : 坐像, 座像
+0.0040713    1 art            : 像主
+0.0040555    1 surface        : 像面
+0.0039926    1 temple         : 像主
+0.0039196    1 Odobenus       : 海象
+0.0037531    1 statuette      : 小像
+0.0036976    1 walrus         : 海象
+0.0035903    2 semblance      : 像法, 仮象
+0.0035109    1 colossus       : 巨像
+0.0033976    3 idol           : 偶像, 木像, 神像
+0.0033452    2 person         : 像主, 寿像
+0.0032872    1 taking         : 撮像
+0.0032464    1 tortoise       : 象亀
+0.0030794    1 figurine       : 小像
+0.0030591    2 reflection     : 鏡像, 映像
+0.0030290    2 phenomena      : 天象, 地象
+0.0029840    2 young          : 小象, 群像
+0.0028347    3 Buddha         : 仏像, 坐像, 座像
+0.0028339    1 someone        : 像主
+0.0026414    1 giant          : 象亀
+0.0025979    1 formation      : 結像
+0.0025814    1 reflected      : 鏡像
+0.0025693    1 inverse        : 鏡像
+0.0025360    3 representation : 表象, 象徴, 写像
+0.0024839    1 observation    : 観象
+0.0024791    1 wooden         : 木像
+0.0024291    1 description    : 描像
+0.0024089    1 huge           : 巨像
+0.0023535    1 baby           : 小象
+0.0023378    3 form           : 象, 実像, 像
+0.0021913    2 inlaying       : 象嵌, 象眼
+0.0021872    1 original       : 原像
+0.0021832    1 ice            : 氷像
+0.0021686    1 sacred         : 聖像
+0.0020582    2 abstraction    : 抽象, 捨象
+0.0020459    2 inlay          : 象嵌, 象眼
+0.0020005    1 age            : 像法
+0.0019866    1 law            : 像法
+0.0019738    2 emblem         : 表象, 象徴
+0.0019724    2 painting       : 裸像, 神像
+0.0019542    2 nature         : 物象, 万象
+0.0019106    1 white          : 白象
+0.0018541    1 snow           : 雪像
+0.0018485    2 character      : 象形, 尊像
+0.0018451    2 object         : 物象, 対象
+0.0018441    2 seated         : 坐像, 座像
+0.0017910    1 nude           : 裸像
+0.0017778    1 copied         : 像法
+0.0017593    2 weather        : 天象, 気象
+0.0017537    1 inanimate      : 物象
+0.0017397    1 group          : 群像
+0.0017385    1 standing       : 立像
+0.0017366    1 quadrant       : 象限
+0.0017140    1 concreteness   : 具象
+0.0017048    1 afterimage     : 残像
+0.0016578    2 symbol         : 表象, 象徴
+0.0016523    1 weevil         : 象虫
+0.0016523    1 snout          : 象虫
+0.0015613    1 dharma         : 像法
+0.0015556    1 point          : 鏡像
+0.0015512    1 ivory          : 象牙
+0.0015432    2 television     : 送像, 受像
+0.0015350    1 actual         : 実像
+0.0015189    1 terrestrial    : 地象
+0.0014894    1 astronomical   : 天象
+0.0014429    1 silhouette     : 影像
+0.0014300    1 embodiment     : 具象
+0.0014081    1 plaster        : 塑像
+0.0013682    1 real           : 実像
+0.0013429    1 illusion       : 幻像
+0.0013370    1 phantom        : 幻像
+0.0013358    1 clay           : 塑像
+0.0013199    1 bunch          : 群像
+0.0013054    1 omen           : 瑞象
+0.0012830    1 science        : 物象
+0.0012775    1 dynamic        : 群像
+0.0012612    1 beetle         : 象虫
+0.0012514    1 auspicious     : 瑞象
+0.0012428    1 lens           : 解像
+0.0012290    1 resolution     : 解像
+0.0012151    1 vision         : 幻像
+0.0012023    2 film           : 現像, 映像
+0.0011779    1 noble          : 尊像
+0.0011268    1 natural        : 物象
+0.0011156    1 Buddhism       : 像法
+0.0010953    1 middle         : 像法
+0.0010688    1 sign           : 瑞象
+0.0010204    1 universe       : 万象
+0.0010061    1 stereo         : 音像
+0.0009909    1 three          : 像法
+0.0009880    1 mandala        : 図像
+0.0009860    1 supposition    : 想像
+0.0009832    1 symbolize      : 象る
+0.0009781    1 likeness       : 肖像
+0.0009600    1 creation       : 万象
+0.0009560    1 living         : 寿像
+0.0009417    1 type           : 象形
+0.0009360    1 footage        : 映像
+0.0009217    1 bronze         : 銅像
+0.0008942    1 imagination    : 想像
+0.0008851    1 taxation       : 対象
+0.0008846    1 abstract       : 象徴
+0.0008744    1 day            : 像法
+0.0008409    1 carving        : 神像
+0.0008368    1 photographic   : 現像
+0.0008361    1 idea           : 表象
+0.0008353    1 pretense       : 虚像
+0.0008183    1 worship        : 対象
+0.0008173    1 imitate        : 象る
+0.0008046    1 temperament    : 気象
+0.0008002    1 target         : 対象
+0.0007983    1 guess          : 想像
+0.0007936    1 represent      : 象る
+0.0007934    1 sending        : 送像
+0.0007839    1 ink            : 図像
+0.0007797    1 good           : 瑞象
+0.0007786    1 people         : 群像
+0.0007702    2 one            : 像法, 映像
+0.0007582    1 reception      : 受像
+0.0007577    1 virtual        : 虚像
+0.0007546    1 map            : 写像
+0.0007539    1 audio          : 音像
+0.0007367    1 transmission   : 送像
+0.0007332    1 disposition    : 気象
+0.0006968    1 deity          : 神像
+0.0006910    1 study          : 対象
+0.0006846    1 event          : 事象
+0.0006842    1 simple         : 図像
+0.0006821    1 drawing        : 図像
+0.0006766    1 model          : 象る
+0.0006747    1 impression     : 印象
+0.0006644    1 development    : 現像
+0.0006599    1 true           : 実像
+0.0006454    1 false          : 虚像
+0.0006452    1 screen         : 映像
+0.0006408    1 video          : 映像
+0.0006396    1 stone          : 石像
+0.0006298    1 matter         : 事象
+0.0005252    1 made           : 象る
+0.0005144    1 mind           : 映像
+0.0004742    1 take           : 象る
+0.0004242    1 something      : 象る
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.1204676    1 Quercus
+	Quercus WORD[ 1,   1]: 0.0301169 橡
+TOKEN[ 2]: 0.1128995    1 oak
+	oak WORD[ 2,   1]: 0.0282249 橡
+TOKEN[ 3]: 0.0753724    2 chess
+	chess WORD[ 3,   1]: 0.0372206 象棋
+	chess WORD[ 3,   2]: 0.0009313 象戯
+TOKEN[ 4]: 0.0618918    2 shogi
+	shogi WORD[ 4,   1]: 0.0305635 象棋
+	shogi WORD[ 4,   2]: 0.0007647 象戯
+TOKEN[ 5]: 0.0508911    3 Japanese
+	Japanese WORD[ 5,   1]: 0.0178185 象棋
+	Japanese WORD[ 5,   2]: 0.0148083 橡の木
+	Japanese WORD[ 5,   3]: 0.0004458 象戯
+TOKEN[ 6]: 0.0444291   27 image
+	image WORD[ 6,   1]: 0.0058391 鏡像
+	image WORD[ 6,   2]: 0.0058001 潜像
+	image WORD[ 6,   3]: 0.0042080 像面
+	image WORD[ 6,   4]: 0.0023106 結像
+	image WORD[ 6,   5]: 0.0020873 巨像
+	image WORD[ 6,   6]: 0.0020129 聖像
+	image WORD[ 6,   7]: 0.0019119 撮像
+	image WORD[ 6,   8]: 0.0016769 仏像
+	image WORD[ 6,   9]: 0.0014025 心象
+	image WORD[ 6,  10]: 0.0013710 実像
+	image WORD[ 6,  11]: 0.0013293 像
+	image WORD[ 6,  12]: 0.0012874 虚像
+	image WORD[ 6,  13]: 0.0012089 映像
+	image WORD[ 6,  14]: 0.0011369 塑像
+	image WORD[ 6,  15]: 0.0010801 心像
+	image WORD[ 6,  16]: 0.0010504 残像
+	image WORD[ 6,  17]: 0.0010403 形象
+	image WORD[ 6,  18]: 0.0010282 偶像
+	image WORD[ 6,  19]: 0.0009194 立像
+	image WORD[ 6,  20]: 0.0008840 木像
+	image WORD[ 6,  21]: 0.0008395 表象
+	image WORD[ 6,  22]: 0.0007208 彫像
+	image WORD[ 6,  23]: 0.0006803 写像
+	image WORD[ 6,  24]: 0.0006729 坐像
+	image WORD[ 6,  25]: 0.0006729 座像
+	image WORD[ 6,  26]: 0.0006378 画像
+	image WORD[ 6,  27]: 0.0006199 音像
+TOKEN[ 7]: 0.0359418    1 Aesculus
+	Aesculus WORD[ 7,   1]: 0.0359418 橡の木
+TOKEN[ 8]: 0.0345510   17 statue
+	statue WORD[ 8,   1]: 0.0107635 像容
+	statue WORD[ 8,   2]: 0.0049122 造像
+	statue WORD[ 8,   3]: 0.0024764 原像
+	statue WORD[ 8,   4]: 0.0024130 巨像
+	statue WORD[ 8,   5]: 0.0019385 仏像
+	statue WORD[ 8,   6]: 0.0014570 裸像
+	statue WORD[ 8,   7]: 0.0012543 尊像
+	statue WORD[ 8,   8]: 0.0012214 寿像
+	statue WORD[ 8,   9]: 0.0011886 偶像
+	statue WORD[ 8,  10]: 0.0010628 立像
+	statue WORD[ 8,  11]: 0.0010220 木像
+	statue WORD[ 8,  12]: 0.0008783 銅像
+	statue WORD[ 8,  13]: 0.0008333 彫像
+	statue WORD[ 8,  14]: 0.0008054 石像
+	statue WORD[ 8,  15]: 0.0007779 坐像
+	statue WORD[ 8,  16]: 0.0007779 座像
+	statue WORD[ 8,  17]: 0.0007684 像
+TOKEN[ 9]: 0.0282948    1 chestnut
+	chestnut WORD[ 9,   1]: 0.0282948 橡の木
+TOKEN[10]: 0.0256136    6 elephant
+	elephant WORD[10,   1]: 0.0060298 小象
+	elephant WORD[10,   2]: 0.0053457 象海豹
+	elephant WORD[10,   3]: 0.0044037 象使い
+	elephant WORD[10,   4]: 0.0042710 巨象
+	elephant WORD[10,   5]: 0.0027730 白象
+	elephant WORD[10,   6]: 0.0013952 海象
+TOKEN[11]: 0.0209213    1 horse
+	horse WORD[11,   1]: 0.0209213 橡の木
+TOKEN[12]: 0.0159717    6 portrait
+	portrait WORD[12,   1]: 0.0109582 像主
+	portrait WORD[12,   2]: 0.0012763 絵像
+	portrait WORD[12,   3]: 0.0012649 胸像
+	portrait WORD[12,   4]: 0.0008498 肖像
+	portrait WORD[12,   5]: 0.0008279 像
+	portrait WORD[12,   6]: 0.0007945 画像
+TOKEN[13]: 0.0145237    2 bust
+	bust WORD[13,   1]: 0.0130207 像主
+	bust WORD[13,   2]: 0.0015030 胸像
+TOKEN[14]: 0.0109430   11 picture
+	picture WORD[14,   1]: 0.0021230 描像
+	picture WORD[14,   2]: 0.0018814 撮像
+	picture WORD[14,   3]: 0.0011896 映像
+	picture WORD[14,   4]: 0.0010677 尊像
+	picture WORD[14,   5]: 0.0006901 心象
+	picture WORD[14,   6]: 0.0006884 送像
+	picture WORD[14,   7]: 0.0006752 受像
+	picture WORD[14,   8]: 0.0006745 実像
+	picture WORD[14,   9]: 0.0006713 肖像
+	picture WORD[14,  10]: 0.0006541 像
+	picture WORD[14,  11]: 0.0006277 画像
+TOKEN[15]: 0.0101342    2 Mirounga
+	Mirounga WORD[15,   1]: 0.0066586 象海豹
+	Mirounga WORD[15,   2]: 0.0017378 海象
+TOKEN[16]: 0.0080537    1 latent
+	latent WORD[16,   1]: 0.0080537 潜像
+TOKEN[17]: 0.0079761    2 gigantic
+	gigantic WORD[17,   1]: 0.0049225 巨象
+	gigantic WORD[17,   2]: 0.0030536 巨像
+TOKEN[18]: 0.0078930    4 sculpture
+	sculpture WORD[18,   1]: 0.0028775 氷像
+	sculpture WORD[18,   2]: 0.0026644 雪像
+	sculpture WORD[18,   3]: 0.0013750 胸像
+	sculpture WORD[18,   4]: 0.0009761 彫像
+TOKEN[19]: 0.0075222    7 figure
+	figure WORD[19,   1]: 0.0013240 像
+	figure WORD[19,   2]: 0.0012553 裸像
+	figure WORD[19,   3]: 0.0011324 塑像
+	figure WORD[19,   4]: 0.0010362 形象
+	figure WORD[19,   5]: 0.0007170 象
+	figure WORD[19,   6]: 0.0006702 坐像
+	figure WORD[19,   7]: 0.0006702 座像
+TOKEN[20]: 0.0073213    4 appearance
+	appearance WORD[20,   1]: 0.0043867 像容
+	appearance WORD[20,   2]: 0.0009518 仮象
+	appearance WORD[20,   3]: 0.0006783 象
+	appearance WORD[20,   4]: 0.0006263 像
+TOKEN[21]: 0.0073154    3 Buddhist
+	Buddhist WORD[21,   1]: 0.0039240 像主
+	Buddhist WORD[21,   2]: 0.0018954 造像
+	Buddhist WORD[21,   3]: 0.0014960 仏像
+TOKEN[22]: 0.0065377    1 mirror
+	mirror WORD[22,   1]: 0.0065377 鏡像
+TOKEN[23]: 0.0064676    2 seal
+	seal WORD[23,   1]: 0.0042495 象海豹
+	seal WORD[23,   2]: 0.0011091 海象
+TOKEN[24]: 0.0061419    5 phenomenon
+	phenomenon WORD[24,   1]: 0.0014435 物象
+	phenomenon WORD[24,   2]: 0.0013440 地象
+	phenomenon WORD[24,   3]: 0.0008577 象
+	phenomenon WORD[24,   4]: 0.0008369 事象
+	phenomenon WORD[24,   5]: 0.0008022 現象
+TOKEN[25]: 0.0059232    1 posing
+	posing WORD[25,   1]: 0.0059232 像主
+TOKEN[26]: 0.0056666    1 optics
+	optics WORD[26,   1]: 0.0056666 像面
+TOKEN[27]: 0.0055120    1 patron
+	patron WORD[27,   1]: 0.0055120 像主
+TOKEN[28]: 0.0051350    1 trainer
+	trainer WORD[28,   1]: 0.0051350 象使い
+TOKEN[29]: 0.0050689    2 subject
+	subject WORD[29,   1]: 0.0043556 像主
+	subject WORD[29,   2]: 0.0007134 対象
+TOKEN[30]: 0.0044790    3 work
+	work WORD[30,   1]: 0.0033745 像主
+	work WORD[30,   2]: 0.0005523 象嵌
+	work WORD[30,   3]: 0.0005523 象眼
+TOKEN[31]: 0.0042818    2 icon
+	icon WORD[31,   1]: 0.0031825 聖像
+	icon WORD[31,   2]: 0.0010993 図像
+TOKEN[32]: 0.0041746    4 shape
+	shape WORD[32,   1]: 0.0012157 象る
+	shape WORD[32,   2]: 0.0009789 形象
+	shape WORD[32,   3]: 0.0006773 象
+	shape WORD[32,   4]: 0.0006254 像
+TOKEN[33]: 0.0041467    4 mental
+	mental WORD[33,   1]: 0.0014811 心象
+	mental WORD[33,   2]: 0.0011407 心像
+	mental WORD[33,   3]: 0.0008865 表象
+	mental WORD[33,   4]: 0.0006383 映像
+TOKEN[34]: 0.0040965    2 sedentary
+	sedentary WORD[34,   1]: 0.0020482 坐像
+	sedentary WORD[34,   2]: 0.0020482 座像
+TOKEN[35]: 0.0040713    1 art
+	art WORD[35,   1]: 0.0040713 像主
+TOKEN[36]: 0.0040555    1 surface
+	surface WORD[36,   1]: 0.0040555 像面
+TOKEN[37]: 0.0039926    1 temple
+	temple WORD[37,   1]: 0.0039926 像主
+TOKEN[38]: 0.0039196    1 Odobenus
+	Odobenus WORD[38,   1]: 0.0019598 海象
+TOKEN[39]: 0.0037531    1 statuette
+	statuette WORD[39,   1]: 0.0037531 小像
+TOKEN[40]: 0.0036976    1 walrus
+	walrus WORD[40,   1]: 0.0018488 海象
+TOKEN[41]: 0.0035903    2 semblance
+	semblance WORD[41,   1]: 0.0018913 像法
+	semblance WORD[41,   2]: 0.0016989 仮象
+TOKEN[42]: 0.0035109    1 colossus
+	colossus WORD[42,   1]: 0.0035109 巨像
+TOKEN[43]: 0.0033976    3 idol
+	idol WORD[43,   1]: 0.0013453 偶像
+	idol WORD[43,   2]: 0.0011567 木像
+	idol WORD[43,   3]: 0.0008956 神像
+TOKEN[44]: 0.0033452    2 person
+	person WORD[44,   1]: 0.0026973 像主
+	person WORD[44,   2]: 0.0006479 寿像
+TOKEN[45]: 0.0032872    1 taking
+	taking WORD[45,   1]: 0.0032872 撮像
+TOKEN[46]: 0.0032464    1 tortoise
+	tortoise WORD[46,   1]: 0.0032464 象亀
+TOKEN[47]: 0.0030794    1 figurine
+	figurine WORD[47,   1]: 0.0030794 小像
+TOKEN[48]: 0.0030591    2 reflection
+	reflection WORD[48,   1]: 0.0023342 鏡像
+	reflection WORD[48,   2]: 0.0007249 映像
+TOKEN[49]: 0.0030290    2 phenomena
+	phenomena WORD[49,   1]: 0.0015182 天象
+	phenomena WORD[49,   2]: 0.0015109 地象
+TOKEN[50]: 0.0029840    2 young
+	young WORD[50,   1]: 0.0020918 小象
+	young WORD[50,   2]: 0.0008922 群像
+TOKEN[51]: 0.0028347    3 Buddha
+	Buddha WORD[51,   1]: 0.0015726 仏像
+	Buddha WORD[51,   2]: 0.0006310 坐像
+	Buddha WORD[51,   3]: 0.0006310 座像
+TOKEN[52]: 0.0028339    1 someone
+	someone WORD[52,   1]: 0.0028339 像主
+TOKEN[53]: 0.0026414    1 giant
+	giant WORD[53,   1]: 0.0026414 象亀
+TOKEN[54]: 0.0025979    1 formation
+	formation WORD[54,   1]: 0.0025979 結像
+TOKEN[55]: 0.0025814    1 reflected
+	reflected WORD[55,   1]: 0.0025814 鏡像
+TOKEN[56]: 0.0025693    1 inverse
+	inverse WORD[56,   1]: 0.0025693 鏡像
+TOKEN[57]: 0.0025360    3 representation
+	representation WORD[57,   1]: 0.0009594 表象
+	representation WORD[57,   2]: 0.0007992 象徴
+	representation WORD[57,   3]: 0.0007775 写像
+TOKEN[58]: 0.0024839    1 observation
+	observation WORD[58,   1]: 0.0024839 観象
+TOKEN[59]: 0.0024791    1 wooden
+	wooden WORD[59,   1]: 0.0024791 木像
+TOKEN[60]: 0.0024291    1 description
+	description WORD[60,   1]: 0.0024291 描像
+TOKEN[61]: 0.0024089    1 huge
+	huge WORD[61,   1]: 0.0024089 巨像
+TOKEN[62]: 0.0023535    1 baby
+	baby WORD[62,   1]: 0.0023535 小象
+TOKEN[63]: 0.0023378    3 form
+	form WORD[63,   1]: 0.0006032 象
+	form WORD[63,   2]: 0.0005744 実像
+	form WORD[63,   3]: 0.0005570 像
+TOKEN[64]: 0.0021913    2 inlaying
+	inlaying WORD[64,   1]: 0.0010956 象嵌
+	inlaying WORD[64,   2]: 0.0010956 象眼
+TOKEN[65]: 0.0021872    1 original
+	original WORD[65,   1]: 0.0021872 原像
+TOKEN[66]: 0.0021832    1 ice
+	ice WORD[66,   1]: 0.0021832 氷像
+TOKEN[67]: 0.0021686    1 sacred
+	sacred WORD[67,   1]: 0.0021686 聖像
+TOKEN[68]: 0.0020582    2 abstraction
+	abstraction WORD[68,   1]: 0.0010587 抽象
+	abstraction WORD[68,   2]: 0.0009996 捨象
+TOKEN[69]: 0.0020459    2 inlay
+	inlay WORD[69,   1]: 0.0010229 象嵌
+	inlay WORD[69,   2]: 0.0010229 象眼
+TOKEN[70]: 0.0020005    1 age
+	age WORD[70,   1]: 0.0020005 像法
+TOKEN[71]: 0.0019866    1 law
+	law WORD[71,   1]: 0.0019866 像法
+TOKEN[72]: 0.0019738    2 emblem
+	emblem WORD[72,   1]: 0.0010768 表象
+	emblem WORD[72,   2]: 0.0008970 象徴
+TOKEN[73]: 0.0019724    2 painting
+	painting WORD[73,   1]: 0.0012782 裸像
+	painting WORD[73,   2]: 0.0006942 神像
+TOKEN[74]: 0.0019542    2 nature
+	nature WORD[74,   1]: 0.0011619 物象
+	nature WORD[74,   2]: 0.0007923 万象
+TOKEN[75]: 0.0019106    1 white
+	white WORD[75,   1]: 0.0019106 白象
+TOKEN[76]: 0.0018541    1 snow
+	snow WORD[76,   1]: 0.0018541 雪像
+TOKEN[77]: 0.0018485    2 character
+	character WORD[77,   1]: 0.0009296 象形
+	character WORD[77,   2]: 0.0009189 尊像
+TOKEN[78]: 0.0018451    2 object
+	object WORD[78,   1]: 0.0011570 物象
+	object WORD[78,   2]: 0.0006881 対象
+TOKEN[79]: 0.0018441    2 seated
+	seated WORD[79,   1]: 0.0009220 坐像
+	seated WORD[79,   2]: 0.0009220 座像
+TOKEN[80]: 0.0017910    1 nude
+	nude WORD[80,   1]: 0.0017910 裸像
+TOKEN[81]: 0.0017778    1 copied
+	copied WORD[81,   1]: 0.0017778 像法
+TOKEN[82]: 0.0017593    2 weather
+	weather WORD[82,   1]: 0.0011139 天象
+	weather WORD[82,   2]: 0.0006454 気象
+TOKEN[83]: 0.0017537    1 inanimate
+	inanimate WORD[83,   1]: 0.0017537 物象
+TOKEN[84]: 0.0017397    1 group
+	group WORD[84,   1]: 0.0017397 群像
+TOKEN[85]: 0.0017385    1 standing
+	standing WORD[85,   1]: 0.0017385 立像
+TOKEN[86]: 0.0017366    1 quadrant
+	quadrant WORD[86,   1]: 0.0017366 象限
+TOKEN[87]: 0.0017140    1 concreteness
+	concreteness WORD[87,   1]: 0.0017140 具象
+TOKEN[88]: 0.0017048    1 afterimage
+	afterimage WORD[88,   1]: 0.0017048 残像
+TOKEN[89]: 0.0016578    2 symbol
+	symbol WORD[89,   1]: 0.0009044 表象
+	symbol WORD[89,   2]: 0.0007533 象徴
+TOKEN[90]: 0.0016523    1 weevil
+	weevil WORD[90,   1]: 0.0016523 象虫
+TOKEN[91]: 0.0016523    1 snout
+	snout WORD[91,   1]: 0.0016523 象虫
+TOKEN[92]: 0.0015613    1 dharma
+	dharma WORD[92,   1]: 0.0015613 像法
+TOKEN[93]: 0.0015556    1 point
+	point WORD[93,   1]: 0.0015556 鏡像
+TOKEN[94]: 0.0015512    1 ivory
+	ivory WORD[94,   1]: 0.0015512 象牙
+TOKEN[95]: 0.0015432    2 television
+	television WORD[95,   1]: 0.0007791 送像
+	television WORD[95,   2]: 0.0007641 受像
+TOKEN[96]: 0.0015350    1 actual
+	actual WORD[96,   1]: 0.0015350 実像
+TOKEN[97]: 0.0015189    1 terrestrial
+	terrestrial WORD[97,   1]: 0.0015189 地象
+TOKEN[98]: 0.0014894    1 astronomical
+	astronomical WORD[98,   1]: 0.0014894 天象
+TOKEN[99]: 0.0014429    1 silhouette
+	silhouette WORD[99,   1]: 0.0014429 影像
+TOKEN[100]: 0.0014300    1 embodiment
+	embodiment WORD[100,   1]: 0.0014300 具象
+TOKEN[101]: 0.0014081    1 plaster
+	plaster WORD[101,   1]: 0.0014081 塑像
+TOKEN[102]: 0.0013682    1 real
+	real WORD[102,   1]: 0.0013682 実像
+TOKEN[103]: 0.0013429    1 illusion
+	illusion WORD[103,   1]: 0.0013429 幻像
+TOKEN[104]: 0.0013370    1 phantom
+	phantom WORD[104,   1]: 0.0013370 幻像
+TOKEN[105]: 0.0013358    1 clay
+	clay WORD[105,   1]: 0.0013358 塑像
+TOKEN[106]: 0.0013199    1 bunch
+	bunch WORD[106,   1]: 0.0013199 群像
+TOKEN[107]: 0.0013054    1 omen
+	omen WORD[107,   1]: 0.0013054 瑞象
+TOKEN[108]: 0.0012830    1 science
+	science WORD[108,   1]: 0.0012830 物象
+TOKEN[109]: 0.0012775    1 dynamic
+	dynamic WORD[109,   1]: 0.0012775 群像
+TOKEN[110]: 0.0012612    1 beetle
+	beetle WORD[110,   1]: 0.0012612 象虫
+TOKEN[111]: 0.0012514    1 auspicious
+	auspicious WORD[111,   1]: 0.0012514 瑞象
+TOKEN[112]: 0.0012428    1 lens
+	lens WORD[112,   1]: 0.0012428 解像
+TOKEN[113]: 0.0012290    1 resolution
+	resolution WORD[113,   1]: 0.0012290 解像
+TOKEN[114]: 0.0012151    1 vision
+	vision WORD[114,   1]: 0.0012151 幻像
+TOKEN[115]: 0.0012023    2 film
+	film WORD[115,   1]: 0.0006262 現像
+	film WORD[115,   2]: 0.0005761 映像
+TOKEN[116]: 0.0011779    1 noble
+	noble WORD[116,   1]: 0.0011779 尊像
+TOKEN[117]: 0.0011268    1 natural
+	natural WORD[117,   1]: 0.0011268 物象
+TOKEN[118]: 0.0011156    1 Buddhism
+	Buddhism WORD[118,   1]: 0.0011156 像法
+TOKEN[119]: 0.0010953    1 middle
+	middle WORD[119,   1]: 0.0010953 像法
+TOKEN[120]: 0.0010688    1 sign
+	sign WORD[120,   1]: 0.0010688 瑞象
+TOKEN[121]: 0.0010204    1 universe
+	universe WORD[121,   1]: 0.0010204 万象
+TOKEN[122]: 0.0010061    1 stereo
+	stereo WORD[122,   1]: 0.0010061 音像
+TOKEN[123]: 0.0009909    1 three
+	three WORD[123,   1]: 0.0009909 像法
+TOKEN[124]: 0.0009880    1 mandala
+	mandala WORD[124,   1]: 0.0009880 図像
+TOKEN[125]: 0.0009860    1 supposition
+	supposition WORD[125,   1]: 0.0009860 想像
+TOKEN[126]: 0.0009832    1 symbolize
+	symbolize WORD[126,   1]: 0.0009832 象る
+TOKEN[127]: 0.0009781    1 likeness
+	likeness WORD[127,   1]: 0.0009781 肖像
+TOKEN[128]: 0.0009600    1 creation
+	creation WORD[128,   1]: 0.0009600 万象
+TOKEN[129]: 0.0009560    1 living
+	living WORD[129,   1]: 0.0009560 寿像
+TOKEN[130]: 0.0009417    1 type
+	type WORD[130,   1]: 0.0009417 象形
+TOKEN[131]: 0.0009360    1 footage
+	footage WORD[131,   1]: 0.0009360 映像
+TOKEN[132]: 0.0009217    1 bronze
+	bronze WORD[132,   1]: 0.0009217 銅像
+TOKEN[133]: 0.0008942    1 imagination
+	imagination WORD[133,   1]: 0.0008942 想像
+TOKEN[134]: 0.0008851    1 taxation
+	taxation WORD[134,   1]: 0.0008851 対象
+TOKEN[135]: 0.0008846    1 abstract
+	abstract WORD[135,   1]: 0.0008846 象徴
+TOKEN[136]: 0.0008744    1 day
+	day WORD[136,   1]: 0.0008744 像法
+TOKEN[137]: 0.0008409    1 carving
+	carving WORD[137,   1]: 0.0008409 神像
+TOKEN[138]: 0.0008368    1 photographic
+	photographic WORD[138,   1]: 0.0008368 現像
+TOKEN[139]: 0.0008361    1 idea
+	idea WORD[139,   1]: 0.0008361 表象
+TOKEN[140]: 0.0008353    1 pretense
+	pretense WORD[140,   1]: 0.0008353 虚像
+TOKEN[141]: 0.0008183    1 worship
+	worship WORD[141,   1]: 0.0008183 対象
+TOKEN[142]: 0.0008173    1 imitate
+	imitate WORD[142,   1]: 0.0008173 象る
+TOKEN[143]: 0.0008046    1 temperament
+	temperament WORD[143,   1]: 0.0008046 気象
+TOKEN[144]: 0.0008002    1 target
+	target WORD[144,   1]: 0.0008002 対象
+TOKEN[145]: 0.0007983    1 guess
+	guess WORD[145,   1]: 0.0007983 想像
+TOKEN[146]: 0.0007936    1 represent
+	represent WORD[146,   1]: 0.0007936 象る
+TOKEN[147]: 0.0007934    1 sending
+	sending WORD[147,   1]: 0.0007934 送像
+TOKEN[148]: 0.0007839    1 ink
+	ink WORD[148,   1]: 0.0007839 図像
+TOKEN[149]: 0.0007797    1 good
+	good WORD[149,   1]: 0.0007797 瑞象
+TOKEN[150]: 0.0007786    1 people
+	people WORD[150,   1]: 0.0007786 群像
+TOKEN[151]: 0.0007702    2 one
+	one WORD[151,   1]: 0.0005009 像法
+	one WORD[151,   2]: 0.0002693 映像
+TOKEN[152]: 0.0007582    1 reception
+	reception WORD[152,   1]: 0.0007582 受像
+TOKEN[153]: 0.0007577    1 virtual
+	virtual WORD[153,   1]: 0.0007577 虚像
+TOKEN[154]: 0.0007546    1 map
+	map WORD[154,   1]: 0.0007546 写像
+TOKEN[155]: 0.0007539    1 audio
+	audio WORD[155,   1]: 0.0007539 音像
+TOKEN[156]: 0.0007367    1 transmission
+	transmission WORD[156,   1]: 0.0007367 送像
+TOKEN[157]: 0.0007332    1 disposition
+	disposition WORD[157,   1]: 0.0007332 気象
+TOKEN[158]: 0.0006968    1 deity
+	deity WORD[158,   1]: 0.0006968 神像
+TOKEN[159]: 0.0006910    1 study
+	study WORD[159,   1]: 0.0006910 対象
+TOKEN[160]: 0.0006846    1 event
+	event WORD[160,   1]: 0.0006846 事象
+TOKEN[161]: 0.0006842    1 simple
+	simple WORD[161,   1]: 0.0006842 図像
+TOKEN[162]: 0.0006821    1 drawing
+	drawing WORD[162,   1]: 0.0006821 図像
+TOKEN[163]: 0.0006766    1 model
+	model WORD[163,   1]: 0.0006766 象る
+TOKEN[164]: 0.0006747    1 impression
+	impression WORD[164,   1]: 0.0006747 印象
+TOKEN[165]: 0.0006644    1 development
+	development WORD[165,   1]: 0.0006644 現像
+TOKEN[166]: 0.0006599    1 true
+	true WORD[166,   1]: 0.0006599 実像
+TOKEN[167]: 0.0006454    1 false
+	false WORD[167,   1]: 0.0006454 虚像
+TOKEN[168]: 0.0006452    1 screen
+	screen WORD[168,   1]: 0.0006452 映像
+TOKEN[169]: 0.0006408    1 video
+	video WORD[169,   1]: 0.0006408 映像
+TOKEN[170]: 0.0006396    1 stone
+	stone WORD[170,   1]: 0.0006396 石像
+TOKEN[171]: 0.0006298    1 matter
+	matter WORD[171,   1]: 0.0006298 事象
+TOKEN[172]: 0.0005252    1 made
+	made WORD[172,   1]: 0.0005252 象る
+TOKEN[173]: 0.0005144    1 mind
+	mind WORD[173,   1]: 0.0005144 映像
+TOKEN[174]: 0.0004742    1 take
+	take WORD[174,   1]: 0.0004742 象る
+TOKEN[175]: 0.0004242    1 something
+	something WORD[175,   1]: 0.0004242 象る

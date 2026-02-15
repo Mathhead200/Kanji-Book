@@ -1,0 +1,158 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.2815868    7 sergeant       : 三曹, ３曹, 二曹, ２曹, 一曹, 曹長, 軍曹
+0.1675503    1 Wei            : 曹魏
+0.0788224    2 class          : 二曹, ２曹
+0.0755933    1 kingdom        : 曹魏
+0.0748033    2 first          : 二曹, ２曹
+0.0450670    2 period         : 曹魏, 曹司
+0.0398859    2 master         : 一曹, 曹長
+0.0263284    2 son            : 御曹司, 御曹子
+0.0208412    4 officer        : 陸曹, 法曹, 海曹, 空曹
+0.0147298    2 distinguished  : 御曹司, 御曹子
+0.0131494    2 noble          : 御曹司, 御曹子
+0.0111916    3 family         : 御曹司, 御曹子, 曹
+0.0104421    2 room           : 曹司, 曹
+0.0097188    2 palace         : 曹司, 曹
+0.0090511    2 soda           : 曹達, 重曹
+0.0071319    1 noncommissioned: 空曹
+0.0069185    1 attorney       : 法曹
+0.0066352    1 lawyer         : 法曹
+0.0066119    1 profession     : 法曹
+0.0065461    1 judicial       : 法曹
+0.0057271    1 navy           : 海曹
+0.0053648    1 petty          : 海曹
+0.0053547    1 legal          : 法曹
+0.0052318    2 government     : 曹司, 曹
+0.0047392    1 warrant        : 兵曹
+0.0043961    1 bicarbonate    : 重曹
+0.0042308    1 trainee        : 曹司
+0.0039152    1 soldier        : 兵曹
+0.0036688    1 boarding       : 曹司
+0.0036518    1 sodium         : 重曹
+0.0036111    1 baking         : 重曹
+0.0036081    1 ladies         : 曹司
+0.0034763    1 estate         : 曹司
+0.0034723    1 clan           : 曹
+0.0032662    1 fellow         : 曹
+0.0032107    1 waiting        : 曹司
+0.0030624    1 major          : 曹長
+0.0028037    1 Japanese       : 空曹
+0.0027773    1 private        : 曹司
+0.0027163    1 living         : 曹司
+0.0025256    1 set            : 曹
+0.0024478    1 house          : 曹司
+0.0022965    1 people         : 曹
+0.0018408    1 person         : 曹司
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.2815868    7 sergeant
+	sergeant WORD[ 1,   1]: 0.0552172 三曹
+	sergeant WORD[ 1,   2]: 0.0552161 ３曹
+	sergeant WORD[ 1,   3]: 0.0552139 二曹
+	sergeant WORD[ 1,   4]: 0.0552128 ２曹
+	sergeant WORD[ 1,   5]: 0.0495466 一曹
+	sergeant WORD[ 1,   6]: 0.0076171 曹長
+	sergeant WORD[ 1,   7]: 0.0035630 軍曹
+TOKEN[ 2]: 0.1675503    1 Wei
+	Wei WORD[ 2,   1]: 0.1675503 曹魏
+TOKEN[ 3]: 0.0788224    2 class
+	class WORD[ 3,   1]: 0.0394116 二曹
+	class WORD[ 3,   2]: 0.0394108 ２曹
+TOKEN[ 4]: 0.0755933    1 kingdom
+	kingdom WORD[ 4,   1]: 0.0755933 曹魏
+TOKEN[ 5]: 0.0748033    2 first
+	first WORD[ 5,   1]: 0.0374020 二曹
+	first WORD[ 5,   2]: 0.0374013 ２曹
+TOKEN[ 6]: 0.0450670    2 period
+	period WORD[ 6,   1]: 0.0428222 曹魏
+	period WORD[ 6,   2]: 0.0022448 曹司
+TOKEN[ 7]: 0.0398859    2 master
+	master WORD[ 7,   1]: 0.0370388 一曹
+	master WORD[ 7,   2]: 0.0028471 曹長
+TOKEN[ 8]: 0.0263284    2 son
+	son WORD[ 8,   1]: 0.0131642 御曹司
+	son WORD[ 8,   2]: 0.0131642 御曹子
+TOKEN[ 9]: 0.0208412    4 officer
+	officer WORD[ 9,   1]: 0.0057635 陸曹
+	officer WORD[ 9,   2]: 0.0055522 法曹
+	officer WORD[ 9,   3]: 0.0048257 海曹
+	officer WORD[ 9,   4]: 0.0046999 空曹
+TOKEN[10]: 0.0147298    2 distinguished
+	distinguished WORD[10,   1]: 0.0073649 御曹司
+	distinguished WORD[10,   2]: 0.0073649 御曹子
+TOKEN[11]: 0.0131494    2 noble
+	noble WORD[11,   1]: 0.0065747 御曹司
+	noble WORD[11,   2]: 0.0065747 御曹子
+TOKEN[12]: 0.0111916    3 family
+	family WORD[12,   1]: 0.0044885 御曹司
+	family WORD[12,   2]: 0.0044885 御曹子
+	family WORD[12,   3]: 0.0022146 曹
+TOKEN[13]: 0.0104421    2 room
+	room WORD[13,   1]: 0.0078406 曹司
+	room WORD[13,   2]: 0.0026015 曹
+TOKEN[14]: 0.0097188    2 palace
+	palace WORD[14,   1]: 0.0064892 曹司
+	palace WORD[14,   2]: 0.0032296 曹
+TOKEN[15]: 0.0090511    2 soda
+	soda WORD[15,   1]: 0.0052314 曹達
+	soda WORD[15,   2]: 0.0038197 重曹
+TOKEN[16]: 0.0071319    1 noncommissioned
+	noncommissioned WORD[16,   1]: 0.0071319 空曹
+TOKEN[17]: 0.0069185    1 attorney
+	attorney WORD[17,   1]: 0.0069185 法曹
+TOKEN[18]: 0.0066352    1 lawyer
+	lawyer WORD[18,   1]: 0.0066352 法曹
+TOKEN[19]: 0.0066119    1 profession
+	profession WORD[19,   1]: 0.0066119 法曹
+TOKEN[20]: 0.0065461    1 judicial
+	judicial WORD[20,   1]: 0.0065461 法曹
+TOKEN[21]: 0.0057271    1 navy
+	navy WORD[21,   1]: 0.0057271 海曹
+TOKEN[22]: 0.0053648    1 petty
+	petty WORD[22,   1]: 0.0053648 海曹
+TOKEN[23]: 0.0053547    1 legal
+	legal WORD[23,   1]: 0.0053547 法曹
+TOKEN[24]: 0.0052318    2 government
+	government WORD[24,   1]: 0.0026219 曹司
+	government WORD[24,   2]: 0.0026099 曹
+TOKEN[25]: 0.0047392    1 warrant
+	warrant WORD[25,   1]: 0.0047392 兵曹
+TOKEN[26]: 0.0043961    1 bicarbonate
+	bicarbonate WORD[26,   1]: 0.0043961 重曹
+TOKEN[27]: 0.0042308    1 trainee
+	trainee WORD[27,   1]: 0.0042308 曹司
+TOKEN[28]: 0.0039152    1 soldier
+	soldier WORD[28,   1]: 0.0039152 兵曹
+TOKEN[29]: 0.0036688    1 boarding
+	boarding WORD[29,   1]: 0.0036688 曹司
+TOKEN[30]: 0.0036518    1 sodium
+	sodium WORD[30,   1]: 0.0036518 重曹
+TOKEN[31]: 0.0036111    1 baking
+	baking WORD[31,   1]: 0.0036111 重曹
+TOKEN[32]: 0.0036081    1 ladies
+	ladies WORD[32,   1]: 0.0036081 曹司
+TOKEN[33]: 0.0034763    1 estate
+	estate WORD[33,   1]: 0.0034763 曹司
+TOKEN[34]: 0.0034723    1 clan
+	clan WORD[34,   1]: 0.0034723 曹
+TOKEN[35]: 0.0032662    1 fellow
+	fellow WORD[35,   1]: 0.0032662 曹
+TOKEN[36]: 0.0032107    1 waiting
+	waiting WORD[36,   1]: 0.0032107 曹司
+TOKEN[37]: 0.0030624    1 major
+	major WORD[37,   1]: 0.0030624 曹長
+TOKEN[38]: 0.0028037    1 Japanese
+	Japanese WORD[38,   1]: 0.0028037 空曹
+TOKEN[39]: 0.0027773    1 private
+	private WORD[39,   1]: 0.0027773 曹司
+TOKEN[40]: 0.0027163    1 living
+	living WORD[40,   1]: 0.0027163 曹司
+TOKEN[41]: 0.0025256    1 set
+	set WORD[41,   1]: 0.0025256 曹
+TOKEN[42]: 0.0024478    1 house
+	house WORD[42,   1]: 0.0024478 曹司
+TOKEN[43]: 0.0022965    1 people
+	people WORD[43,   1]: 0.0022965 曹
+TOKEN[44]: 0.0018408    1 person
+	person WORD[44,   1]: 0.0018408 曹司

@@ -1,0 +1,193 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.3488116   18 prefecture     : 県有, 立県, 来県, 県南, 県史, 県名, 県人, 本県, 県外, 隣県, ...
+0.1688817   19 prefectural    : 県費, 県域, 県税, 県都, 県立, 県土, 県政, 県境, 県令, 県勢, ...
+0.0341918    1 tourist        : 立県
+0.0328886    1 destination    : 立県
+0.0322374    1 promotion      : 立県
+0.0313392    1 map            : 立県
+0.0243983    3 territory      : 県域, 県土, 県
+0.0173839    1 territorial    : 県主
+0.0172955    1 coming         : 来県
+0.0152805    1 tax            : 県税
+0.0150036    1 ruler          : 県主
+0.0143101    1 southern       : 県南
+0.0123529    1 expense        : 県費
+0.0119038    1 capital        : 県都
+0.0117195    1 native         : 県人
+0.0116560    2 neighboring    : 隣県, 近県
+0.0114306    1 history        : 県史
+0.0113254    2 assembly       : 県会, 県議
+0.0106168    1 part           : 県南
+0.0096240    3 Japan          : 府県, 道県, 都県
+0.0091290    1 countryside    : 県
+0.0090801    1 governor       : 県
+0.0090578    1 name           : 県名
+0.0089666    1 Yamato         : 県
+0.0088399    1 area           : 県域
+0.0085017    1 provincial     : 県
+0.0077563    1 ordinance      : 県令
+0.0067887    1 court          : 県
+0.0064592    2 government     : 県立, 県政
+0.0063891    1 adjacent       : 隣県
+0.0052229    1 nearby         : 近県
+0.0049258    1 floral         : 県花
+0.0048182    1 chapter        : 県連
+0.0047412    1 emblem         : 県花
+0.0044425    1 border         : 県境
+0.0043858    1 boundary       : 県境
+0.0043366    1 resident       : 県民
+0.0043205    1 citizen        : 県民
+0.0042728    1 said           : 同県
+0.0041453    1 administration : 県政
+0.0036838    1 police         : 県警
+0.0036668    1 management     : 県営
+0.0035584    1 member         : 県議
+0.0034662    1 flower         : 県花
+0.0034423    1 road           : 県道
+0.0033131    1 office         : 県庁
+0.0032137    1 heart          : 県央
+0.0032124    1 party          : 県連
+0.0032121    1 land           : 県土
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.3488116   18 prefecture
+	prefecture WORD[ 1,   1]: 0.1372292 県有
+	prefecture WORD[ 1,   2]: 0.0607455 立県
+	prefecture WORD[ 1,   3]: 0.0193767 来県
+	prefecture WORD[ 1,   4]: 0.0135850 県南
+	prefecture WORD[ 1,   5]: 0.0126517 県史
+	prefecture WORD[ 1,   6]: 0.0117682 県名
+	prefecture WORD[ 1,   7]: 0.0117682 県人
+	prefecture WORD[ 1,   8]: 0.0116721 本県
+	prefecture WORD[ 1,   9]: 0.0115753 県外
+	prefecture WORD[ 1,  10]: 0.0111528 隣県
+	prefecture WORD[ 1,  11]: 0.0091997 同県
+	prefecture WORD[ 1,  12]: 0.0079511 県民
+	prefecture WORD[ 1,  13]: 0.0079469 県央
+	prefecture WORD[ 1,  14]: 0.0061788 県下
+	prefecture WORD[ 1,  15]: 0.0042758 他県
+	prefecture WORD[ 1,  16]: 0.0039753 県内
+	prefecture WORD[ 1,  17]: 0.0039735 県花
+	prefecture WORD[ 1,  18]: 0.0037857 各県
+TOKEN[ 2]: 0.1688817   19 prefectural
+	prefectural WORD[ 2,   1]: 0.0238842 県費
+	prefectural WORD[ 2,   2]: 0.0238240 県域
+	prefectural WORD[ 2,   3]: 0.0184282 県税
+	prefectural WORD[ 2,   4]: 0.0136196 県都
+	prefectural WORD[ 2,   5]: 0.0084008 県立
+	prefectural WORD[ 2,   6]: 0.0084000 県土
+	prefectural WORD[ 2,   7]: 0.0083990 県政
+	prefectural WORD[ 2,   8]: 0.0083966 県境
+	prefectural WORD[ 2,   9]: 0.0065423 県令
+	prefectural WORD[ 2,  10]: 0.0065377 県勢
+	prefectural WORD[ 2,  11]: 0.0065282 県会
+	prefectural WORD[ 2,  12]: 0.0065281 県下
+	prefectural WORD[ 2,  13]: 0.0042004 県連
+	prefectural WORD[ 2,  14]: 0.0042000 県道
+	prefectural WORD[ 2,  15]: 0.0041999 県庁
+	prefectural WORD[ 2,  16]: 0.0041983 県警
+	prefectural WORD[ 2,  17]: 0.0041983 県議
+	prefectural WORD[ 2,  18]: 0.0041981 県花
+	prefectural WORD[ 2,  19]: 0.0041980 県営
+TOKEN[ 3]: 0.0341918    1 tourist
+	tourist WORD[ 3,   1]: 0.0341918 立県
+TOKEN[ 4]: 0.0328886    1 destination
+	destination WORD[ 4,   1]: 0.0328886 立県
+TOKEN[ 5]: 0.0322374    1 promotion
+	promotion WORD[ 5,   1]: 0.0322374 立県
+TOKEN[ 6]: 0.0313392    1 map
+	map WORD[ 6,   1]: 0.0313392 立県
+TOKEN[ 7]: 0.0243983    3 territory
+	territory WORD[ 7,   1]: 0.0118590 県域
+	territory WORD[ 7,   2]: 0.0041813 県土
+	territory WORD[ 7,   3]: 0.0041790 県
+TOKEN[ 8]: 0.0173839    1 territorial
+	territorial WORD[ 8,   1]: 0.0173839 県主
+TOKEN[ 9]: 0.0172955    1 coming
+	coming WORD[ 9,   1]: 0.0172955 来県
+TOKEN[10]: 0.0152805    1 tax
+	tax WORD[10,   1]: 0.0152805 県税
+TOKEN[11]: 0.0150036    1 ruler
+	ruler WORD[11,   1]: 0.0150036 県主
+TOKEN[12]: 0.0143101    1 southern
+	southern WORD[12,   1]: 0.0143101 県南
+TOKEN[13]: 0.0123529    1 expense
+	expense WORD[13,   1]: 0.0123529 県費
+TOKEN[14]: 0.0119038    1 capital
+	capital WORD[14,   1]: 0.0119038 県都
+TOKEN[15]: 0.0117195    1 native
+	native WORD[15,   1]: 0.0117195 県人
+TOKEN[16]: 0.0116560    2 neighboring
+	neighboring WORD[16,   1]: 0.0068471 隣県
+	neighboring WORD[16,   2]: 0.0048089 近県
+TOKEN[17]: 0.0114306    1 history
+	history WORD[17,   1]: 0.0114306 県史
+TOKEN[18]: 0.0113254    2 assembly
+	assembly WORD[18,   1]: 0.0068927 県会
+	assembly WORD[18,   2]: 0.0044327 県議
+TOKEN[19]: 0.0106168    1 part
+	part WORD[19,   1]: 0.0106168 県南
+TOKEN[20]: 0.0096240    3 Japan
+	Japan WORD[20,   1]: 0.0034143 府県
+	Japan WORD[20,   2]: 0.0031336 道県
+	Japan WORD[20,   3]: 0.0030760 都県
+TOKEN[21]: 0.0091290    1 countryside
+	countryside WORD[21,   1]: 0.0045645 県
+TOKEN[22]: 0.0090801    1 governor
+	governor WORD[22,   1]: 0.0045400 県
+TOKEN[23]: 0.0090578    1 name
+	name WORD[23,   1]: 0.0090578 県名
+TOKEN[24]: 0.0089666    1 Yamato
+	Yamato WORD[24,   1]: 0.0044833 県
+TOKEN[25]: 0.0088399    1 area
+	area WORD[25,   1]: 0.0088399 県域
+TOKEN[26]: 0.0085017    1 provincial
+	provincial WORD[26,   1]: 0.0042509 県
+TOKEN[27]: 0.0077563    1 ordinance
+	ordinance WORD[27,   1]: 0.0077563 県令
+TOKEN[28]: 0.0067887    1 court
+	court WORD[28,   1]: 0.0033943 県
+TOKEN[29]: 0.0064592    2 government
+	government WORD[29,   1]: 0.0032299 県立
+	government WORD[29,   2]: 0.0032293 県政
+TOKEN[30]: 0.0063891    1 adjacent
+	adjacent WORD[30,   1]: 0.0063891 隣県
+TOKEN[31]: 0.0052229    1 nearby
+	nearby WORD[31,   1]: 0.0052229 近県
+TOKEN[32]: 0.0049258    1 floral
+	floral WORD[32,   1]: 0.0049258 県花
+TOKEN[33]: 0.0048182    1 chapter
+	chapter WORD[33,   1]: 0.0048182 県連
+TOKEN[34]: 0.0047412    1 emblem
+	emblem WORD[34,   1]: 0.0047412 県花
+TOKEN[35]: 0.0044425    1 border
+	border WORD[35,   1]: 0.0044425 県境
+TOKEN[36]: 0.0043858    1 boundary
+	boundary WORD[36,   1]: 0.0043858 県境
+TOKEN[37]: 0.0043366    1 resident
+	resident WORD[37,   1]: 0.0043366 県民
+TOKEN[38]: 0.0043205    1 citizen
+	citizen WORD[38,   1]: 0.0043205 県民
+TOKEN[39]: 0.0042728    1 said
+	said WORD[39,   1]: 0.0042728 同県
+TOKEN[40]: 0.0041453    1 administration
+	administration WORD[40,   1]: 0.0041453 県政
+TOKEN[41]: 0.0036838    1 police
+	police WORD[41,   1]: 0.0036838 県警
+TOKEN[42]: 0.0036668    1 management
+	management WORD[42,   1]: 0.0036668 県営
+TOKEN[43]: 0.0035584    1 member
+	member WORD[43,   1]: 0.0035584 県議
+TOKEN[44]: 0.0034662    1 flower
+	flower WORD[44,   1]: 0.0034662 県花
+TOKEN[45]: 0.0034423    1 road
+	road WORD[45,   1]: 0.0034423 県道
+TOKEN[46]: 0.0033131    1 office
+	office WORD[46,   1]: 0.0033131 県庁
+TOKEN[47]: 0.0032137    1 heart
+	heart WORD[47,   1]: 0.0032137 県央
+TOKEN[48]: 0.0032124    1 party
+	party WORD[48,   1]: 0.0032124 県連
+TOKEN[49]: 0.0032121    1 land
+	land WORD[49,   1]: 0.0032121 県土

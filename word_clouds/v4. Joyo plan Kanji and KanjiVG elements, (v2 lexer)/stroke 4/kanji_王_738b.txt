@@ -1,0 +1,584 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.0839854    1 boa            : 王蛇
+0.0673267   19 king           : 前王, 王偏, 先王, 教王, 神王, 倭王, 父王, 覇王, 王公, 王侯, ...
+0.0633797   17 royal          : 王台, 王孫, 王統, 王府, 王弟, 王都, 王法, 王土, 王城, 王事, ...
+0.0388322    1 Wind           : 王蟲
+0.0377181    6 prince         : 王太子, 王弟, 親王, 大王, 王子, 王
+0.0376683    5 King           : 狂王, 英王, 竜王, 龍王, 明王
+0.0340331    1 anime          : 王蟲
+0.0326295    1 gigantic       : 王蟲
+0.0312552    1 cell           : 王台
+0.0275197    5 queen          : 王台, 王后, 女王, 国王, 王妃
+0.0257941    4 crown          : 王太子, 王弟, 王冠, 王位
+0.0234937    1 insect         : 王蟲
+0.0195965    1 beehive        : 王台
+0.0176748   10 imperial       : 斎王, 王都, 諸王, 王土, 王城, 王事, 王師, 王化, 尊王, 王政
+0.0136780    1 grandson       : 王孫
+0.0121062    1 Shrine         : 斎王
+0.0113993    1 scepter        : 王笏
+0.0106732    1 radical        : 王偏
+0.0103331    2 deceased       : 王父, 王母
+0.0096582    6 emperor        : 帝王, 王師, 勤王, 大王, 尊王, 王
+0.0092975    3 god            : 神王, 冥王, 天王
+0.0082633    3 guardian       : 神王, 二王, 仁王
+0.0078013    1 maharaja       : 藩王
+0.0078013    1 nawab          : 藩王
+0.0077400    1 chemical       : 花王
+0.0077359    1 former         : 前王
+0.0072416    4 monarch        : 帝王, 聖王, 国王, 王者
+0.0071667    2 princess       : 斎王, 王女
+0.0070682    1 grandmother    : 王母
+0.0069138    1 capital        : 王都
+0.0068500    1 jewel          : 王偏
+0.0067085    1 grandfather    : 王父
+0.0058957    2 deity          : 神王, 天王
+0.0056157    1 company        : 花王
+0.0055141    1 unmarried      : 斎王
+0.0054118    2 afterlife      : 十王, 閻王
+0.0051951    1 teaching       : 教王
+0.0050937    3 ruler          : 覇王, 聖王, 王者
+0.0049357    1 left           : 王偏
+0.0049320    1 Ryukyu         : 王府
+0.0048276    1 serving        : 斎王
+0.0044347    1 Yamato         : 倭王
+0.0043626    3 noble          : 王公, 王侯, 王道
+0.0042423    2 judge          : 十王, 閻王
+0.0042265    2 virtuous       : 先王, 聖王
+0.0042127    2 government     : 王府, 王道
+0.0041929    2 place          : 斎王, 王座
+0.0041734    1 realm          : 四王天
+0.0041573    1 heavens        : 四王天
+0.0041289    2 rook           : 竜王, 龍王
+0.0041098    1 younger        : 王弟
+0.0041065    1 Japanese       : 花王
+0.0040626    1 brother        : 王弟
+0.0040304    1 six            : 四王天
+0.0040179    1 heaven         : 四王天
+0.0040106    3 rule           : 王道, 尊王, 王政
+0.0037599    2 sovereign      : 帝王, 国王
+0.0036371    1 desire         : 四王天
+0.0035025    3 throne         : 国王, 王座, 王位
+0.0033988    1 father         : 父王
+0.0033694    1 Pluto          : 冥王
+0.0032491    1 placement      : 十王
+0.0032361    2 authority      : 王権, 国王
+0.0032038    1 castle         : 王城
+0.0031703    1 dynast         : 覇王
+0.0031703    1 autocrat       : 覇王
+0.0031423    2 ancient        : 先王, 西王母
+0.0030216    2 monarchy       : 王政, 王国
+0.0029839    1 cause          : 王事
+0.0029136    1 unproclaimed   : 諸王
+0.0029060    2 champion       : 女王, 王者
+0.0028932    3 family         : 諸王, 王室, 王家
+0.0028079    2 rank           : 王公, 王侯
+0.0027481    1 determine      : 十王
+0.0026778    1 Hades          : 冥王
+0.0025617    2 entrance       : 二王, 仁王
+0.0025608    1 line           : 王統
+0.0025573    2 Buddhism       : 二王, 仁王
+0.0025379    1 regia          : 王水
+0.0024986    1 ten            : 十王
+0.0024402    1 monarchical    : 王制
+0.0024402    1 aqua           : 王水
+0.0023237    1 supreme        : 覇王
+0.0022862    2 stand          : 二王, 仁王
+0.0022729    1 assimilation   : 王化
+0.0022191    1 shogi          : 棋王
+0.0022129    2 Buddhist       : 二王, 仁王
+0.0022084    1 worthy         : 聖王
+0.0021989    1 Satan          : 魔王
+0.0021777    2 temple         : 二王, 仁王
+0.0021656    1 goddess        : 西王母
+0.0021500    2 two            : 二王, 仁王
+0.0021447    1 next           : 十王
+0.0020988    1 approach       : 王道
+0.0020844    2 one            : 四王天, 棋王
+0.0020526    1 dead           : 十王
+0.0020220    1 decree         : 王法
+0.0019382    1 method         : 王道
+0.0018823    1 son            : 諸王
+0.0018676    1 previous       : 先王
+0.0018259    1 loyalty        : 勤王
+0.0018217    1 domain         : 王土
+0.0018124    1 life           : 十王
+0.0017217    1 territory      : 王化
+0.0016947    1 teacher        : 王師
+0.0016927    1 various        : 諸王
+0.0016750    1 kingship       : 王道
+0.0016575    1 army           : 王師
+0.0016259    1 advocate       : 尊王
+0.0015827    1 influence      : 王化
+0.0015712    1 regal          : 王権
+0.0015628    1 prevent        : 魔王
+0.0015583    1 high           : 覇王
+0.0015209    1 way            : 王道
+0.0015103    1 try            : 魔王
+0.0014695    1 system         : 王制
+0.0014680    1 orthodox       : 王道
+0.0014680    1 royalty        : 王族
+0.0014344    1 diadem         : 王冠
+0.0014017    1 reverence      : 尊王
+0.0013908    1 Indian         : 天王
+0.0013842    1 championship   : 王座
+0.0013505    1 new            : 王化
+0.0013469    1 righteous      : 王道
+0.0013004    1 Chinese        : 西王母
+0.0012701    1 Buddha         : 法王
+0.0012520    1 classic        : 王道
+0.0012517    1 kingdom        : 王国
+0.0012270    1 focus          : 国王
+0.0012046    1 city           : 八王子
+0.0012021    1 said           : 天王
+0.0012005    1 empress        : 王妃
+0.0011930    1 professional   : 棋王
+0.0011773    1 subordinate    : 王子
+0.0011720    1 cap            : 王冠
+0.0011589    1 eight          : 棋王
+0.0011309    1 major          : 棋王
+0.0011104    1 people         : 魔王
+0.0011031    1 bottle         : 王冠
+0.0010999    1 senior         : 王将
+0.0010564    1 proper         : 王道
+0.0010530    1 blood          : 親王
+0.0010405    1 player         : 王将
+0.0010391    1 good           : 魔王
+0.0010384    1 female         : 女王
+0.0010301    1 palace         : 王宮
+0.0010188    1 manner         : 王道
+0.0010116    1 easy           : 王道
+0.0009966    1 dynasty        : 王朝
+0.0009904    1 simple         : 王道
+0.0009745    1 path           : 王道
+0.0009745    1 check          : 王手
+0.0009716    1 spot           : 王座
+0.0009088    1 power          : 王権
+0.0008955    1 road           : 王道
+0.0008854    1 right          : 王道
+0.0008750    1 top            : 王座
+0.0008702    1 shrine         : 王子
+0.0008396    1 traditional    : 王道
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.0839854    1 boa
+	boa WORD[ 1,   1]: 0.0839854 王蛇
+TOKEN[ 2]: 0.0673267   19 king
+	king WORD[ 2,   1]: 0.0191435 前王
+	king WORD[ 2,   2]: 0.0060866 王偏
+	king WORD[ 2,   3]: 0.0059205 先王
+	king WORD[ 2,   4]: 0.0050577 教王
+	king WORD[ 2,   5]: 0.0050204 神王
+	king WORD[ 2,   6]: 0.0038906 倭王
+	king WORD[ 2,   7]: 0.0034858 父王
+	king WORD[ 2,   8]: 0.0020647 覇王
+	king WORD[ 2,   9]: 0.0017616 王公
+	king WORD[ 2,  10]: 0.0016921 王侯
+	king WORD[ 2,  11]: 0.0015264 魔王
+	king WORD[ 2,  12]: 0.0013261 天王
+	king WORD[ 2,  13]: 0.0012848 大王
+	king WORD[ 2,  14]: 0.0011826 国王
+	king WORD[ 2,  15]: 0.0011458 棋王
+	king WORD[ 2,  16]: 0.0010907 王者
+	king WORD[ 2,  17]: 0.0010907 王将
+	king WORD[ 2,  18]: 0.0010907 王権
+	king WORD[ 2,  19]: 0.0010904 王
+TOKEN[ 3]: 0.0633797   17 royal
+	royal WORD[ 3,   1]: 0.0161569 王台
+	royal WORD[ 3,   2]: 0.0107079 王孫
+	royal WORD[ 3,   3]: 0.0074240 王統
+	royal WORD[ 3,   4]: 0.0044740 王府
+	royal WORD[ 3,   5]: 0.0043931 王弟
+	royal WORD[ 3,   6]: 0.0041539 王都
+	royal WORD[ 3,   7]: 0.0019104 王法
+	royal WORD[ 3,   8]: 0.0019103 王土
+	royal WORD[ 3,   9]: 0.0019103 王城
+	royal WORD[ 3,  10]: 0.0019103 王事
+	royal WORD[ 3,  11]: 0.0013321 親王
+	royal WORD[ 3,  12]: 0.0011830 王立
+	royal WORD[ 3,  13]: 0.0011829 王道
+	royal WORD[ 3,  14]: 0.0011827 王室
+	royal WORD[ 3,  15]: 0.0011827 王権
+	royal WORD[ 3,  16]: 0.0011827 王家
+	royal WORD[ 3,  17]: 0.0011826 王宮
+TOKEN[ 4]: 0.0388322    1 Wind
+	Wind WORD[ 4,   1]: 0.0388322 王蟲
+TOKEN[ 5]: 0.0377181    6 prince
+	prince WORD[ 5,   1]: 0.0205165 王太子
+	prince WORD[ 5,   2]: 0.0084984 王弟
+	prince WORD[ 5,   3]: 0.0025769 親王
+	prince WORD[ 5,   4]: 0.0013475 大王
+	prince WORD[ 5,   5]: 0.0011440 王子
+	prince WORD[ 5,   6]: 0.0011437 王
+TOKEN[ 6]: 0.0376683    5 King
+	King WORD[ 6,   1]: 0.0267203 狂王
+	King WORD[ 6,   2]: 0.0048572 英王
+	King WORD[ 6,   3]: 0.0020644 竜王
+	King WORD[ 6,   4]: 0.0020644 龍王
+	King WORD[ 6,   5]: 0.0019619 明王
+TOKEN[ 7]: 0.0340331    1 anime
+	anime WORD[ 7,   1]: 0.0340331 王蟲
+TOKEN[ 8]: 0.0326295    1 gigantic
+	gigantic WORD[ 8,   1]: 0.0326295 王蟲
+TOKEN[ 9]: 0.0312552    1 cell
+	cell WORD[ 9,   1]: 0.0312552 王台
+TOKEN[10]: 0.0275197    5 queen
+	queen WORD[10,   1]: 0.0172241 王台
+	queen WORD[10,   2]: 0.0062429 王后
+	queen WORD[10,   3]: 0.0014247 女王
+	queen WORD[10,   4]: 0.0013670 国王
+	queen WORD[10,   5]: 0.0012610 王妃
+TOKEN[11]: 0.0257941    4 crown
+	crown WORD[11,   1]: 0.0195614 王太子
+	crown WORD[11,   2]: 0.0040514 王弟
+	crown WORD[11,   3]: 0.0010906 王冠
+	crown WORD[11,   4]: 0.0010906 王位
+TOKEN[12]: 0.0234937    1 insect
+	insect WORD[12,   1]: 0.0234937 王蟲
+TOKEN[13]: 0.0195965    1 beehive
+	beehive WORD[13,   1]: 0.0195965 王台
+TOKEN[14]: 0.0176748   10 imperial
+	imperial WORD[14,   1]: 0.0041591 斎王
+	imperial WORD[14,   2]: 0.0030659 王都
+	imperial WORD[14,   3]: 0.0015186 諸王
+	imperial WORD[14,   4]: 0.0014100 王土
+	imperial WORD[14,   5]: 0.0014099 王城
+	imperial WORD[14,   6]: 0.0014099 王事
+	imperial WORD[14,   7]: 0.0014099 王師
+	imperial WORD[14,   8]: 0.0014099 王化
+	imperial WORD[14,   9]: 0.0010085 尊王
+	imperial WORD[14,  10]: 0.0008730 王政
+TOKEN[15]: 0.0136780    1 grandson
+	grandson WORD[15,   1]: 0.0136780 王孫
+TOKEN[16]: 0.0121062    1 Shrine
+	Shrine WORD[16,   1]: 0.0121062 斎王
+TOKEN[17]: 0.0113993    1 scepter
+	scepter WORD[17,   1]: 0.0113993 王笏
+TOKEN[18]: 0.0106732    1 radical
+	radical WORD[18,   1]: 0.0106732 王偏
+TOKEN[19]: 0.0103331    2 deceased
+	deceased WORD[19,   1]: 0.0052575 王父
+	deceased WORD[19,   2]: 0.0050756 王母
+TOKEN[20]: 0.0096582    6 emperor
+	emperor WORD[20,   1]: 0.0016996 帝王
+	emperor WORD[20,   2]: 0.0014827 王師
+	emperor WORD[20,   3]: 0.0014172 勤王
+	emperor WORD[20,   4]: 0.0010813 大王
+	emperor WORD[20,   5]: 0.0010606 尊王
+	emperor WORD[20,   6]: 0.0009177 王
+TOKEN[21]: 0.0092975    3 god
+	god WORD[21,   1]: 0.0043481 神王
+	god WORD[21,   2]: 0.0038009 冥王
+	god WORD[21,   3]: 0.0011485 天王
+TOKEN[22]: 0.0082633    3 guardian
+	guardian WORD[22,   1]: 0.0053271 神王
+	guardian WORD[22,   2]: 0.0014681 二王
+	guardian WORD[22,   3]: 0.0014681 仁王
+TOKEN[23]: 0.0078013    1 maharaja
+	maharaja WORD[23,   1]: 0.0078013 藩王
+TOKEN[24]: 0.0078013    1 nawab
+	nawab WORD[24,   1]: 0.0078013 藩王
+TOKEN[25]: 0.0077400    1 chemical
+	chemical WORD[25,   1]: 0.0038700 花王
+TOKEN[26]: 0.0077359    1 former
+	former WORD[26,   1]: 0.0077359 前王
+TOKEN[27]: 0.0072416    4 monarch
+	monarch WORD[27,   1]: 0.0023522 帝王
+	monarch WORD[27,   2]: 0.0022414 聖王
+	monarch WORD[27,   3]: 0.0013775 国王
+	monarch WORD[27,   4]: 0.0012705 王者
+TOKEN[28]: 0.0071667    2 princess
+	princess WORD[28,   1]: 0.0059234 斎王
+	princess WORD[28,   2]: 0.0012433 王女
+TOKEN[29]: 0.0070682    1 grandmother
+	grandmother WORD[29,   1]: 0.0070682 王母
+TOKEN[30]: 0.0069138    1 capital
+	capital WORD[30,   1]: 0.0069138 王都
+TOKEN[31]: 0.0068500    1 jewel
+	jewel WORD[31,   1]: 0.0068500 王偏
+TOKEN[32]: 0.0067085    1 grandfather
+	grandfather WORD[32,   1]: 0.0067085 王父
+TOKEN[33]: 0.0058957    2 deity
+	deity WORD[33,   1]: 0.0046639 神王
+	deity WORD[33,   2]: 0.0012319 天王
+TOKEN[34]: 0.0056157    1 company
+	company WORD[34,   1]: 0.0028078 花王
+TOKEN[35]: 0.0055141    1 unmarried
+	unmarried WORD[35,   1]: 0.0055141 斎王
+TOKEN[36]: 0.0054118    2 afterlife
+	afterlife WORD[36,   1]: 0.0031875 十王
+	afterlife WORD[36,   2]: 0.0022244 閻王
+TOKEN[37]: 0.0051951    1 teaching
+	teaching WORD[37,   1]: 0.0051951 教王
+TOKEN[38]: 0.0050937    3 ruler
+	ruler WORD[38,   1]: 0.0020704 覇王
+	ruler WORD[38,   2]: 0.0019296 聖王
+	ruler WORD[38,   3]: 0.0010937 王者
+TOKEN[39]: 0.0049357    1 left
+	left WORD[39,   1]: 0.0049357 王偏
+TOKEN[40]: 0.0049320    1 Ryukyu
+	Ryukyu WORD[40,   1]: 0.0049320 王府
+TOKEN[41]: 0.0048276    1 serving
+	serving WORD[41,   1]: 0.0048276 斎王
+TOKEN[42]: 0.0044347    1 Yamato
+	Yamato WORD[42,   1]: 0.0044347 倭王
+TOKEN[43]: 0.0043626    3 noble
+	noble WORD[43,   1]: 0.0016911 王公
+	noble WORD[43,   2]: 0.0016243 王侯
+	noble WORD[43,   3]: 0.0010472 王道
+TOKEN[44]: 0.0042423    2 judge
+	judge WORD[44,   1]: 0.0024986 十王
+	judge WORD[44,   2]: 0.0017437 閻王
+TOKEN[45]: 0.0042265    2 virtuous
+	virtuous WORD[45,   1]: 0.0021399 先王
+	virtuous WORD[45,   2]: 0.0020866 聖王
+TOKEN[46]: 0.0042127    2 government
+	government WORD[46,   1]: 0.0033318 王府
+	government WORD[46,   2]: 0.0008809 王道
+TOKEN[47]: 0.0041929    2 place
+	place WORD[47,   1]: 0.0034655 斎王
+	place WORD[47,   2]: 0.0007273 王座
+TOKEN[48]: 0.0041734    1 realm
+	realm WORD[48,   1]: 0.0041734 四王天
+TOKEN[49]: 0.0041573    1 heavens
+	heavens WORD[49,   1]: 0.0041573 四王天
+TOKEN[50]: 0.0041289    2 rook
+	rook WORD[50,   1]: 0.0020644 竜王
+	rook WORD[50,   2]: 0.0020644 龍王
+TOKEN[51]: 0.0041098    1 younger
+	younger WORD[51,   1]: 0.0041098 王弟
+TOKEN[52]: 0.0041065    1 Japanese
+	Japanese WORD[52,   1]: 0.0020532 花王
+TOKEN[53]: 0.0040626    1 brother
+	brother WORD[53,   1]: 0.0040626 王弟
+TOKEN[54]: 0.0040304    1 six
+	six WORD[54,   1]: 0.0040304 四王天
+TOKEN[55]: 0.0040179    1 heaven
+	heaven WORD[55,   1]: 0.0040179 四王天
+TOKEN[56]: 0.0040106    3 rule
+	rule WORD[56,   1]: 0.0019304 王道
+	rule WORD[56,   2]: 0.0011150 尊王
+	rule WORD[56,   3]: 0.0009652 王政
+TOKEN[57]: 0.0037599    2 sovereign
+	sovereign WORD[57,   1]: 0.0023713 帝王
+	sovereign WORD[57,   2]: 0.0013886 国王
+TOKEN[58]: 0.0036371    1 desire
+	desire WORD[58,   1]: 0.0036371 四王天
+TOKEN[59]: 0.0035025    3 throne
+	throne WORD[59,   1]: 0.0012313 国王
+	throne WORD[59,   2]: 0.0011356 王座
+	throne WORD[59,   3]: 0.0011356 王位
+TOKEN[60]: 0.0033988    1 father
+	father WORD[60,   1]: 0.0033988 父王
+TOKEN[61]: 0.0033694    1 Pluto
+	Pluto WORD[61,   1]: 0.0033694 冥王
+TOKEN[62]: 0.0032491    1 placement
+	placement WORD[62,   1]: 0.0032491 十王
+TOKEN[63]: 0.0032361    2 authority
+	authority WORD[63,   1]: 0.0020984 王権
+	authority WORD[63,   2]: 0.0011376 国王
+TOKEN[64]: 0.0032038    1 castle
+	castle WORD[64,   1]: 0.0032038 王城
+TOKEN[65]: 0.0031703    1 dynast
+	dynast WORD[65,   1]: 0.0031703 覇王
+TOKEN[66]: 0.0031703    1 autocrat
+	autocrat WORD[66,   1]: 0.0031703 覇王
+TOKEN[67]: 0.0031423    2 ancient
+	ancient WORD[67,   1]: 0.0015910 先王
+	ancient WORD[67,   2]: 0.0015513 西王母
+TOKEN[68]: 0.0030216    2 monarchy
+	monarchy WORD[68,   1]: 0.0015109 王政
+	monarchy WORD[68,   2]: 0.0015107 王国
+TOKEN[69]: 0.0029839    1 cause
+	cause WORD[69,   1]: 0.0029839 王事
+TOKEN[70]: 0.0029136    1 unproclaimed
+	unproclaimed WORD[70,   1]: 0.0029136 諸王
+TOKEN[71]: 0.0029060    2 champion
+	champion WORD[71,   1]: 0.0015416 女王
+	champion WORD[71,   2]: 0.0013643 王者
+TOKEN[72]: 0.0028932    3 family
+	family WORD[72,   1]: 0.0013459 諸王
+	family WORD[72,   2]: 0.0007737 王室
+	family WORD[72,   3]: 0.0007736 王家
+TOKEN[73]: 0.0028079    2 rank
+	rank WORD[73,   1]: 0.0014322 王公
+	rank WORD[73,   2]: 0.0013757 王侯
+TOKEN[74]: 0.0027481    1 determine
+	determine WORD[74,   1]: 0.0027481 十王
+TOKEN[75]: 0.0026778    1 Hades
+	Hades WORD[75,   1]: 0.0026778 冥王
+TOKEN[76]: 0.0025617    2 entrance
+	entrance WORD[76,   1]: 0.0012809 二王
+	entrance WORD[76,   2]: 0.0012809 仁王
+TOKEN[77]: 0.0025608    1 line
+	line WORD[77,   1]: 0.0025608 王統
+TOKEN[78]: 0.0025573    2 Buddhism
+	Buddhism WORD[78,   1]: 0.0012787 二王
+	Buddhism WORD[78,   2]: 0.0012787 仁王
+TOKEN[79]: 0.0025379    1 regia
+	regia WORD[79,   1]: 0.0025379 王水
+TOKEN[80]: 0.0024986    1 ten
+	ten WORD[80,   1]: 0.0024986 十王
+TOKEN[81]: 0.0024402    1 monarchical
+	monarchical WORD[81,   1]: 0.0024402 王制
+TOKEN[82]: 0.0024402    1 aqua
+	aqua WORD[82,   1]: 0.0024402 王水
+TOKEN[83]: 0.0023237    1 supreme
+	supreme WORD[83,   1]: 0.0023237 覇王
+TOKEN[84]: 0.0022862    2 stand
+	stand WORD[84,   1]: 0.0011431 二王
+	stand WORD[84,   2]: 0.0011431 仁王
+TOKEN[85]: 0.0022729    1 assimilation
+	assimilation WORD[85,   1]: 0.0022729 王化
+TOKEN[86]: 0.0022191    1 shogi
+	shogi WORD[86,   1]: 0.0022191 棋王
+TOKEN[87]: 0.0022129    2 Buddhist
+	Buddhist WORD[87,   1]: 0.0011064 二王
+	Buddhist WORD[87,   2]: 0.0011064 仁王
+TOKEN[88]: 0.0022084    1 worthy
+	worthy WORD[88,   1]: 0.0022084 聖王
+TOKEN[89]: 0.0021989    1 Satan
+	Satan WORD[89,   1]: 0.0021989 魔王
+TOKEN[90]: 0.0021777    2 temple
+	temple WORD[90,   1]: 0.0010889 二王
+	temple WORD[90,   2]: 0.0010889 仁王
+TOKEN[91]: 0.0021656    1 goddess
+	goddess WORD[91,   1]: 0.0021656 西王母
+TOKEN[92]: 0.0021500    2 two
+	two WORD[92,   1]: 0.0010750 二王
+	two WORD[92,   2]: 0.0010750 仁王
+TOKEN[93]: 0.0021447    1 next
+	next WORD[93,   1]: 0.0021447 十王
+TOKEN[94]: 0.0020988    1 approach
+	approach WORD[94,   1]: 0.0020988 王道
+TOKEN[95]: 0.0020844    2 one
+	one WORD[95,   1]: 0.0016156 四王天
+	one WORD[95,   2]: 0.0004688 棋王
+TOKEN[96]: 0.0020526    1 dead
+	dead WORD[96,   1]: 0.0020526 十王
+TOKEN[97]: 0.0020220    1 decree
+	decree WORD[97,   1]: 0.0020220 王法
+TOKEN[98]: 0.0019382    1 method
+	method WORD[98,   1]: 0.0019382 王道
+TOKEN[99]: 0.0018823    1 son
+	son WORD[99,   1]: 0.0018823 諸王
+TOKEN[100]: 0.0018676    1 previous
+	previous WORD[100,   1]: 0.0018676 先王
+TOKEN[101]: 0.0018259    1 loyalty
+	loyalty WORD[101,   1]: 0.0018259 勤王
+TOKEN[102]: 0.0018217    1 domain
+	domain WORD[102,   1]: 0.0018217 王土
+TOKEN[103]: 0.0018124    1 life
+	life WORD[103,   1]: 0.0018124 十王
+TOKEN[104]: 0.0017217    1 territory
+	territory WORD[104,   1]: 0.0017217 王化
+TOKEN[105]: 0.0016947    1 teacher
+	teacher WORD[105,   1]: 0.0016947 王師
+TOKEN[106]: 0.0016927    1 various
+	various WORD[106,   1]: 0.0016927 諸王
+TOKEN[107]: 0.0016750    1 kingship
+	kingship WORD[107,   1]: 0.0016750 王道
+TOKEN[108]: 0.0016575    1 army
+	army WORD[108,   1]: 0.0016575 王師
+TOKEN[109]: 0.0016259    1 advocate
+	advocate WORD[109,   1]: 0.0016259 尊王
+TOKEN[110]: 0.0015827    1 influence
+	influence WORD[110,   1]: 0.0015827 王化
+TOKEN[111]: 0.0015712    1 regal
+	regal WORD[111,   1]: 0.0015712 王権
+TOKEN[112]: 0.0015628    1 prevent
+	prevent WORD[112,   1]: 0.0015628 魔王
+TOKEN[113]: 0.0015583    1 high
+	high WORD[113,   1]: 0.0015583 覇王
+TOKEN[114]: 0.0015209    1 way
+	way WORD[114,   1]: 0.0015209 王道
+TOKEN[115]: 0.0015103    1 try
+	try WORD[115,   1]: 0.0015103 魔王
+TOKEN[116]: 0.0014695    1 system
+	system WORD[116,   1]: 0.0014695 王制
+TOKEN[117]: 0.0014680    1 orthodox
+	orthodox WORD[117,   1]: 0.0014680 王道
+TOKEN[118]: 0.0014680    1 royalty
+	royalty WORD[118,   1]: 0.0014680 王族
+TOKEN[119]: 0.0014344    1 diadem
+	diadem WORD[119,   1]: 0.0014344 王冠
+TOKEN[120]: 0.0014017    1 reverence
+	reverence WORD[120,   1]: 0.0014017 尊王
+TOKEN[121]: 0.0013908    1 Indian
+	Indian WORD[121,   1]: 0.0013908 天王
+TOKEN[122]: 0.0013842    1 championship
+	championship WORD[122,   1]: 0.0013842 王座
+TOKEN[123]: 0.0013505    1 new
+	new WORD[123,   1]: 0.0013505 王化
+TOKEN[124]: 0.0013469    1 righteous
+	righteous WORD[124,   1]: 0.0013469 王道
+TOKEN[125]: 0.0013004    1 Chinese
+	Chinese WORD[125,   1]: 0.0013004 西王母
+TOKEN[126]: 0.0012701    1 Buddha
+	Buddha WORD[126,   1]: 0.0012701 法王
+TOKEN[127]: 0.0012520    1 classic
+	classic WORD[127,   1]: 0.0012520 王道
+TOKEN[128]: 0.0012517    1 kingdom
+	kingdom WORD[128,   1]: 0.0012517 王国
+TOKEN[129]: 0.0012270    1 focus
+	focus WORD[129,   1]: 0.0012270 国王
+TOKEN[130]: 0.0012046    1 city
+	city WORD[130,   1]: 0.0012046 八王子
+TOKEN[131]: 0.0012021    1 said
+	said WORD[131,   1]: 0.0012021 天王
+TOKEN[132]: 0.0012005    1 empress
+	empress WORD[132,   1]: 0.0012005 王妃
+TOKEN[133]: 0.0011930    1 professional
+	professional WORD[133,   1]: 0.0011930 棋王
+TOKEN[134]: 0.0011773    1 subordinate
+	subordinate WORD[134,   1]: 0.0011773 王子
+TOKEN[135]: 0.0011720    1 cap
+	cap WORD[135,   1]: 0.0011720 王冠
+TOKEN[136]: 0.0011589    1 eight
+	eight WORD[136,   1]: 0.0011589 棋王
+TOKEN[137]: 0.0011309    1 major
+	major WORD[137,   1]: 0.0011309 棋王
+TOKEN[138]: 0.0011104    1 people
+	people WORD[138,   1]: 0.0011104 魔王
+TOKEN[139]: 0.0011031    1 bottle
+	bottle WORD[139,   1]: 0.0011031 王冠
+TOKEN[140]: 0.0010999    1 senior
+	senior WORD[140,   1]: 0.0010999 王将
+TOKEN[141]: 0.0010564    1 proper
+	proper WORD[141,   1]: 0.0010564 王道
+TOKEN[142]: 0.0010530    1 blood
+	blood WORD[142,   1]: 0.0010530 親王
+TOKEN[143]: 0.0010405    1 player
+	player WORD[143,   1]: 0.0010405 王将
+TOKEN[144]: 0.0010391    1 good
+	good WORD[144,   1]: 0.0010391 魔王
+TOKEN[145]: 0.0010384    1 female
+	female WORD[145,   1]: 0.0010384 女王
+TOKEN[146]: 0.0010301    1 palace
+	palace WORD[146,   1]: 0.0010301 王宮
+TOKEN[147]: 0.0010188    1 manner
+	manner WORD[147,   1]: 0.0010188 王道
+TOKEN[148]: 0.0010116    1 easy
+	easy WORD[148,   1]: 0.0010116 王道
+TOKEN[149]: 0.0009966    1 dynasty
+	dynasty WORD[149,   1]: 0.0009966 王朝
+TOKEN[150]: 0.0009904    1 simple
+	simple WORD[150,   1]: 0.0009904 王道
+TOKEN[151]: 0.0009745    1 path
+	path WORD[151,   1]: 0.0009745 王道
+TOKEN[152]: 0.0009745    1 check
+	check WORD[152,   1]: 0.0009745 王手
+TOKEN[153]: 0.0009716    1 spot
+	spot WORD[153,   1]: 0.0009716 王座
+TOKEN[154]: 0.0009088    1 power
+	power WORD[154,   1]: 0.0009088 王権
+TOKEN[155]: 0.0008955    1 road
+	road WORD[155,   1]: 0.0008955 王道
+TOKEN[156]: 0.0008854    1 right
+	right WORD[156,   1]: 0.0008854 王道
+TOKEN[157]: 0.0008750    1 top
+	top WORD[157,   1]: 0.0008750 王座
+TOKEN[158]: 0.0008702    1 shrine
+	shrine WORD[158,   1]: 0.0008702 王子
+TOKEN[159]: 0.0008396    1 traditional
+	traditional WORD[159,   1]: 0.0008396 王道

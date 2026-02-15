@@ -1,0 +1,564 @@
+Summary: {Weight} {token}: {words[0:10]}
+0.3308457    4 omission       : 欠除, 欠字, 欠礼, 欠落
+0.3149659    1 removal        : 欠除
+0.0215060   10 missing        : 欠測, 欠失, 欠文, 欠本, 欠番, 欠け目, 欠目, 欠損, 欠食, 欠ける
+0.0116507    3 yawn           : 大欠伸, 生欠伸, 欠伸
+0.0111210    6 deficiency     : 欠失, 酸欠, 欠乏, 欠如, 欠陥, 欠
+0.0102459    1 observation    : 欠測
+0.0095729    9 lack           : 欠失, 酸欠, 事欠く, 金欠, 欠落, 欠乏, 欠如, 欠く, 欠
+0.0088424    1 deletion       : 欠失
+0.0087547    3 cancellation   : 欠講, 欠便, 欠航
+0.0086699    1 data           : 欠測
+0.0084937    6 chip           : 打っ欠く, 欠片, 欠け目, 欠目, 欠ける, 欠く
+0.0077912    9 absence        : 病欠, 出欠, 欠落, 欠場, 欠如, 欠席, 欠勤, 欠課, 欠
+0.0072363    1 ectrodactyly   : 欠指
+0.0057672    1 cutout         : 切り欠き
+0.0057557    4 fragment       : 一欠片, 残欠, 欠片, 欠け
+0.0056439    4 part           : 欠文, 欠け目, 欠目, 欠場
+0.0056352    1 notch          : 切り欠き
+0.0049784    4 break          : 打っ欠く, 打ち欠く, 欠ける, 欠く
+0.0044005    5 shortage       : 酸欠, 欠乏, 欠如, 欠損, 欠陥
+0.0043466    1 ice            : 欠き氷
+0.0041936    2 flight         : 欠便, 欠航
+0.0041779    4 broken         : 欠片, 欠け目, 欠目, 欠損
+0.0041516    1 big            : 大欠伸
+0.0040796    1 oxygen         : 酸欠
+0.0039702    3 vacancy        : 欠員, 補欠, 欠
+0.0039176    1 lecture        : 欠講
+0.0037873    1 slight         : 生欠伸
+0.0037783    3 piece          : 一欠片, 欠文, 欠片
+0.0035938    3 false          : 打ち欠く, 欠け目, 欠目
+0.0035734    2 class          : 欠講, 欠課
+0.0032960    3 eye            : 打ち欠く, 欠け目, 欠目
+0.0031390    2 lacuna         : 欠文, 欠缺
+0.0028939    1 mutation       : 欠失
+0.0028811    1 flavored       : 欠き氷
+0.0028766    2 elopement      : 欠け落ち, 欠落ち
+0.0028056    1 Italian        : 欠き氷
+0.0026274    1 shaved         : 欠き氷
+0.0026255    1 gene           : 欠失
+0.0026128    1 cone           : 欠き氷
+0.0025920    1 syrup          : 欠き氷
+0.0025600    1 incomplete     : 残欠
+0.0023985    1 blank          : 欠字
+0.0023420    3 short          : 欠け目, 欠目, 欠ける
+0.0022933    2 lover          : 欠け落ち, 欠落ち
+0.0022791    1 sacrificing    : 打ち欠く
+0.0021956    2 splinter       : 欠片, 欠け
+0.0021203    2 cup            : 欠け目, 欠目
+0.0020919    1 yawning        : 欠伸
+0.0020816    1 simple         : 欠き氷
+0.0020394    2 weight         : 欠け目, 欠目
+0.0019933    1 snow           : 欠き氷
+0.0018901    2 running        : 欠け落ち, 欠落ち
+0.0018226    1 create         : 打ち欠く
+0.0017960    2 gap            : 欠缺, 欠陥
+0.0017787    1 stock          : 欠品
+0.0017523    1 knock          : 打ち欠く
+0.0017479    1 character      : 欠字
+0.0017364    1 waxing         : 満ち欠け
+0.0017281    2 wane           : 欠ける, 欠け
+0.0016834    1 money          : 金欠
+0.0016692    2 flaw           : 欠点, 欠陥
+0.0016591    1 waning         : 満ち欠け
+0.0016262    1 intermittence  : 間欠
+0.0015890    2 defect         : 欠点, 欠陥
+0.0015273    1 disqualification: 欠格
+0.0015178    1 shard          : 欠片
+0.0014747    1 harelip        : 欠唇
+0.0014607    2 baked          : お欠き, 御欠き
+0.0014595    1 stone          : 打ち欠く
+0.0014589    1 shred          : 欠片
+0.0014589    1 ounce          : 欠片
+0.0014332    2 set            : 残欠, 欠ける
+0.0013790    2 failure        : 欠礼, 欠点
+0.0013623    1 insertion      : 欠字
+0.0013537    2 fault          : 欠点, 欠陥
+0.0013493    1 intermittent   : 間欠
+0.0012982    1 cleft          : 欠唇
+0.0012931    2 fried          : お欠き, 御欠き
+0.0012779    1 vacant         : 欠員
+0.0012518    1 rejection      : 欠格
+0.0012496    1 conscience     : 欠片
+0.0012413    1 flawless       : 無欠
+0.0012401    1 lip            : 欠唇
+0.0012145    1 supplementation: 補欠
+0.0011830    2 thin           : お欠き, 御欠き
+0.0011793    2 dried          : お欠き, 御欠き
+0.0011694    1 trace          : 欠片
+0.0011588    1 scrap          : 欠片
+0.0011561    1 works          : 残欠
+0.0011496    1 radical        : 欠伸
+0.0011448    1 respect        : 欠字
+0.0011182    1 passage        : 欠文
+0.0011099    1 volume         : 欠本
+0.0010881    1 sentence       : 欠文
+0.0010755    1 indispensable  : 不可欠
+0.0010615    1 deputy         : 補欠
+0.0010591    2 cut            : お欠き, 御欠き
+0.0010499    1 dearth         : 欠乏
+0.0010319    1 alternate      : 補欠
+0.0010209    1 essential      : 不可欠
+0.0010155    1 sign           : 欠字
+0.0010151    1 truth          : 欠片
+0.0010106    1 shortcoming    : 欠点
+0.0009958    1 privation      : 欠如
+0.0009957    1 drawback       : 欠点
+0.0009880    1 filling        : 補欠
+0.0009843    1 deficient      : 欠ける
+0.0009715    1 insufficiency  : 欠乏
+0.0009610    1 deformity      : 欠陥
+0.0009481    1 spare          : 補欠
+0.0009268    1 substitute     : 補欠
+0.0009164    1 sick           : 病欠
+0.0009138    1 writing        : 欠文
+0.0009113    1 state          : 残欠
+0.0009113    1 absent         : 欠ける
+0.0008918    1 position       : 欠員
+0.0008889    1 chipped        : 欠ける
+0.0008853    1 type           : 欠字
+0.0008850    1 scarcity       : 欠乏
+0.0008677    1 nick           : 欠く
+0.0008632    1 number         : 欠番
+0.0008541    1 illness        : 病欠
+0.0008427    1 voyage         : 欠航
+0.0008296    1 removed        : 欠損
+0.0008224    1 deficit        : 欠損
+0.0008153    1 wanting        : 欠ける
+0.0008127    1 due            : 病欠
+0.0008068    1 eclipse        : 欠ける
+0.0008037    1 courtesy       : 欠礼
+0.0007963    1 weakness       : 欠点
+0.0007912    1 failing        : 欠点
+0.0007759    1 attendance     : 出欠
+0.0007614    1 want           : 欠乏
+0.0007459    1 leave          : 病欠
+0.0007415    1 grade          : 欠点
+0.0007405    1 suspension     : 欠配
+0.0007284    1 crack          : 欠く
+0.0006795    1 weak           : 欠点
+0.0006780    1 examination    : 欠点
+0.0006693    1 team           : 欠ける
+0.0006681    1 lost           : 欠ける
+0.0006642    1 fail           : 欠かす
+0.0006642    1 miss           : 欠かす
+0.0006494    1 meal           : 欠食
+0.0006451    1 moon           : 欠ける
+0.0006436    1 pay            : 欠礼
+0.0006378    1 cutting        : 欠課
+0.0006297    1 loss           : 欠損
+0.0006259    1 something      : 欠缺
+0.0005947    1 sea            : 欠航
+0.0005709    1 taking         : 欠場
+0.0005307    1 point          : 欠点
+0.0005151    1 school         : 欠課
+0.0005093    1 work           : 欠勤
+0.0005076    1 become         : 欠ける
+0.0004767    1 go             : 欠ける
+0.0002958    1 one            : 欠礼
+
+--------------------------------------------------------------------------------
+
+TOKEN[ 1]: 0.3308457    4 omission
+	omission WORD[ 1,   1]: 0.3280276 欠除
+	omission WORD[ 1,   2]: 0.0012323 欠字
+	omission WORD[ 1,   3]: 0.0007929 欠礼
+	omission WORD[ 1,   4]: 0.0007929 欠落
+TOKEN[ 2]: 0.3149659    1 removal
+	removal WORD[ 2,   1]: 0.3149659 欠除
+TOKEN[ 3]: 0.0215060   10 missing
+	missing WORD[ 3,   1]: 0.0101197 欠測
+	missing WORD[ 3,   2]: 0.0023801 欠失
+	missing WORD[ 3,   3]: 0.0022992 欠文
+	missing WORD[ 3,   4]: 0.0011497 欠本
+	missing WORD[ 3,   5]: 0.0011496 欠番
+	missing WORD[ 3,   6]: 0.0011105 欠け目
+	missing WORD[ 3,   7]: 0.0011105 欠目
+	missing WORD[ 3,   8]: 0.0007395 欠損
+	missing WORD[ 3,   9]: 0.0007394 欠食
+	missing WORD[ 3,  10]: 0.0007078 欠ける
+TOKEN[ 4]: 0.0116507    3 yawn
+	yawn WORD[ 4,   1]: 0.0061530 大欠伸
+	yawn WORD[ 4,   2]: 0.0046773 生欠伸
+	yawn WORD[ 4,   3]: 0.0008204 欠伸
+TOKEN[ 5]: 0.0111210    6 deficiency
+	deficiency WORD[ 5,   1]: 0.0055926 欠失
+	deficiency WORD[ 5,   2]: 0.0013870 酸欠
+	deficiency WORD[ 5,   3]: 0.0008689 欠乏
+	deficiency WORD[ 5,   4]: 0.0008688 欠如
+	deficiency WORD[ 5,   5]: 0.0008686 欠陥
+	deficiency WORD[ 5,   6]: 0.0007675 欠
+TOKEN[ 6]: 0.0102459    1 observation
+	observation WORD[ 6,   1]: 0.0102459 欠測
+TOKEN[ 7]: 0.0095729    9 lack
+	lack WORD[ 7,   1]: 0.0022549 欠失
+	lack WORD[ 7,   2]: 0.0011185 酸欠
+	lack WORD[ 7,   3]: 0.0010989 事欠く
+	lack WORD[ 7,   4]: 0.0010929 金欠
+	lack WORD[ 7,   5]: 0.0007006 欠落
+	lack WORD[ 7,   6]: 0.0007006 欠乏
+	lack WORD[ 7,   7]: 0.0007006 欠如
+	lack WORD[ 7,   8]: 0.0006681 欠く
+	lack WORD[ 7,   9]: 0.0006189 欠
+TOKEN[ 8]: 0.0088424    1 deletion
+	deletion WORD[ 8,   1]: 0.0088424 欠失
+TOKEN[ 9]: 0.0087547    3 cancellation
+	cancellation WORD[ 9,   1]: 0.0039924 欠講
+	cancellation WORD[ 9,   2]: 0.0039509 欠便
+	cancellation WORD[ 9,   3]: 0.0008114 欠航
+TOKEN[10]: 0.0086699    1 data
+	data WORD[10,   1]: 0.0086699 欠測
+TOKEN[11]: 0.0084937    6 chip
+	chip WORD[11,   1]: 0.0033126 打っ欠く
+	chip WORD[11,   2]: 0.0012127 欠片
+	chip WORD[11,   3]: 0.0012127 欠け目
+	chip WORD[11,   4]: 0.0012127 欠目
+	chip WORD[11,   5]: 0.0007729 欠ける
+	chip WORD[11,   6]: 0.0007700 欠く
+TOKEN[12]: 0.0077912    9 absence
+	absence WORD[12,   1]: 0.0009719 病欠
+	absence WORD[12,   2]: 0.0008048 出欠
+	absence WORD[12,   3]: 0.0007744 欠落
+	absence WORD[12,   4]: 0.0007744 欠場
+	absence WORD[12,   5]: 0.0007744 欠如
+	absence WORD[12,   6]: 0.0007744 欠席
+	absence WORD[12,   7]: 0.0007743 欠勤
+	absence WORD[12,   8]: 0.0007742 欠課
+	absence WORD[12,   9]: 0.0006841 欠
+TOKEN[13]: 0.0072363    1 ectrodactyly
+	ectrodactyly WORD[13,   1]: 0.0072363 欠指
+TOKEN[14]: 0.0057672    1 cutout
+	cutout WORD[14,   1]: 0.0057672 切り欠き
+TOKEN[15]: 0.0057557    4 fragment
+	fragment WORD[15,   1]: 0.0024415 一欠片
+	fragment WORD[15,   2]: 0.0013058 残欠
+	fragment WORD[15,   3]: 0.0012283 欠片
+	fragment WORD[15,   4]: 0.0007800 欠け
+TOKEN[16]: 0.0056439    4 part
+	part WORD[16,   1]: 0.0017347 欠文
+	part WORD[16,   2]: 0.0016756 欠け目
+	part WORD[16,   3]: 0.0016756 欠目
+	part WORD[16,   4]: 0.0005579 欠場
+TOKEN[17]: 0.0056352    1 notch
+	notch WORD[17,   1]: 0.0056352 切り欠き
+TOKEN[18]: 0.0049784    4 break
+	break WORD[18,   1]: 0.0024292 打っ欠く
+	break WORD[18,   2]: 0.0014176 打ち欠く
+	break WORD[18,   3]: 0.0005668 欠ける
+	break WORD[18,   4]: 0.0005647 欠く
+TOKEN[19]: 0.0044005    5 shortage
+	shortage WORD[19,   1]: 0.0012553 酸欠
+	shortage WORD[19,   2]: 0.0007864 欠乏
+	shortage WORD[19,   3]: 0.0007864 欠如
+	shortage WORD[19,   4]: 0.0007863 欠損
+	shortage WORD[19,   5]: 0.0007862 欠陥
+TOKEN[20]: 0.0043466    1 ice
+	ice WORD[20,   1]: 0.0043466 欠き氷
+TOKEN[21]: 0.0041936    2 flight
+	flight WORD[21,   1]: 0.0034791 欠便
+	flight WORD[21,   2]: 0.0007145 欠航
+TOKEN[22]: 0.0041779    4 broken
+	broken WORD[22,   1]: 0.0011397 欠片
+	broken WORD[22,   2]: 0.0011397 欠け目
+	broken WORD[22,   3]: 0.0011397 欠目
+	broken WORD[22,   4]: 0.0007589 欠損
+TOKEN[23]: 0.0041516    1 big
+	big WORD[23,   1]: 0.0041516 大欠伸
+TOKEN[24]: 0.0040796    1 oxygen
+	oxygen WORD[24,   1]: 0.0040796 酸欠
+TOKEN[25]: 0.0039702    3 vacancy
+	vacancy WORD[25,   1]: 0.0013388 欠員
+	vacancy WORD[25,   2]: 0.0011090 補欠
+	vacancy WORD[25,   3]: 0.0007612 欠
+TOKEN[26]: 0.0039176    1 lecture
+	lecture WORD[26,   1]: 0.0039176 欠講
+TOKEN[27]: 0.0037873    1 slight
+	slight WORD[27,   1]: 0.0037873 生欠伸
+TOKEN[28]: 0.0037783    3 piece
+	piece WORD[28,   1]: 0.0018668 一欠片
+	piece WORD[28,   2]: 0.0009723 欠文
+	piece WORD[28,   3]: 0.0009392 欠片
+TOKEN[29]: 0.0035938    3 false
+	false WORD[29,   1]: 0.0015940 打ち欠く
+	false WORD[29,   2]: 0.0009999 欠け目
+	false WORD[29,   3]: 0.0009999 欠目
+TOKEN[30]: 0.0035734    2 class
+	class WORD[30,   1]: 0.0029699 欠講
+	class WORD[30,   2]: 0.0006036 欠課
+TOKEN[31]: 0.0032960    3 eye
+	eye WORD[31,   1]: 0.0014619 打ち欠く
+	eye WORD[31,   2]: 0.0009171 欠け目
+	eye WORD[31,   3]: 0.0009171 欠目
+TOKEN[32]: 0.0031390    2 lacuna
+	lacuna WORD[32,   1]: 0.0016322 欠文
+	lacuna WORD[32,   2]: 0.0015068 欠缺
+TOKEN[33]: 0.0028939    1 mutation
+	mutation WORD[33,   1]: 0.0028939 欠失
+TOKEN[34]: 0.0028811    1 flavored
+	flavored WORD[34,   1]: 0.0028811 欠き氷
+TOKEN[35]: 0.0028766    2 elopement
+	elopement WORD[35,   1]: 0.0014383 欠け落ち
+	elopement WORD[35,   2]: 0.0014383 欠落ち
+TOKEN[36]: 0.0028056    1 Italian
+	Italian WORD[36,   1]: 0.0028056 欠き氷
+TOKEN[37]: 0.0026274    1 shaved
+	shaved WORD[37,   1]: 0.0026274 欠き氷
+TOKEN[38]: 0.0026255    1 gene
+	gene WORD[38,   1]: 0.0026255 欠失
+TOKEN[39]: 0.0026128    1 cone
+	cone WORD[39,   1]: 0.0026128 欠き氷
+TOKEN[40]: 0.0025920    1 syrup
+	syrup WORD[40,   1]: 0.0025920 欠き氷
+TOKEN[41]: 0.0025600    1 incomplete
+	incomplete WORD[41,   1]: 0.0025600 残欠
+TOKEN[42]: 0.0023985    1 blank
+	blank WORD[42,   1]: 0.0023985 欠字
+TOKEN[43]: 0.0023420    3 short
+	short WORD[43,   1]: 0.0008880 欠け目
+	short WORD[43,   2]: 0.0008880 欠目
+	short WORD[43,   3]: 0.0005660 欠ける
+TOKEN[44]: 0.0022933    2 lover
+	lover WORD[44,   1]: 0.0011467 欠け落ち
+	lover WORD[44,   2]: 0.0011467 欠落ち
+TOKEN[45]: 0.0022791    1 sacrificing
+	sacrificing WORD[45,   1]: 0.0022791 打ち欠く
+TOKEN[46]: 0.0021956    2 splinter
+	splinter WORD[46,   1]: 0.0013429 欠片
+	splinter WORD[46,   2]: 0.0008527 欠け
+TOKEN[47]: 0.0021203    2 cup
+	cup WORD[47,   1]: 0.0010602 欠け目
+	cup WORD[47,   2]: 0.0010602 欠目
+TOKEN[48]: 0.0020919    1 yawning
+	yawning WORD[48,   1]: 0.0020919 欠伸
+TOKEN[49]: 0.0020816    1 simple
+	simple WORD[49,   1]: 0.0020816 欠き氷
+TOKEN[50]: 0.0020394    2 weight
+	weight WORD[50,   1]: 0.0010197 欠け目
+	weight WORD[50,   2]: 0.0010197 欠目
+TOKEN[51]: 0.0019933    1 snow
+	snow WORD[51,   1]: 0.0019933 欠き氷
+TOKEN[52]: 0.0018901    2 running
+	running WORD[52,   1]: 0.0009451 欠け落ち
+	running WORD[52,   2]: 0.0009451 欠落ち
+TOKEN[53]: 0.0018226    1 create
+	create WORD[53,   1]: 0.0018226 打ち欠く
+TOKEN[54]: 0.0017960    2 gap
+	gap WORD[54,   1]: 0.0010586 欠缺
+	gap WORD[54,   2]: 0.0007374 欠陥
+TOKEN[55]: 0.0017787    1 stock
+	stock WORD[55,   1]: 0.0017787 欠品
+TOKEN[56]: 0.0017523    1 knock
+	knock WORD[56,   1]: 0.0017523 打ち欠く
+TOKEN[57]: 0.0017479    1 character
+	character WORD[57,   1]: 0.0017479 欠字
+TOKEN[58]: 0.0017364    1 waxing
+	waxing WORD[58,   1]: 0.0017364 満ち欠け
+TOKEN[59]: 0.0017281    2 wane
+	wane WORD[59,   1]: 0.0008657 欠ける
+	wane WORD[59,   2]: 0.0008625 欠け
+TOKEN[60]: 0.0016834    1 money
+	money WORD[60,   1]: 0.0016834 金欠
+TOKEN[61]: 0.0016692    2 flaw
+	flaw WORD[61,   1]: 0.0008347 欠点
+	flaw WORD[61,   2]: 0.0008345 欠陥
+TOKEN[62]: 0.0016591    1 waning
+	waning WORD[62,   1]: 0.0016591 満ち欠け
+TOKEN[63]: 0.0016262    1 intermittence
+	intermittence WORD[63,   1]: 0.0016262 間欠
+TOKEN[64]: 0.0015890    2 defect
+	defect WORD[64,   1]: 0.0007946 欠点
+	defect WORD[64,   2]: 0.0007944 欠陥
+TOKEN[65]: 0.0015273    1 disqualification
+	disqualification WORD[65,   1]: 0.0015273 欠格
+TOKEN[66]: 0.0015178    1 shard
+	shard WORD[66,   1]: 0.0015178 欠片
+TOKEN[67]: 0.0014747    1 harelip
+	harelip WORD[67,   1]: 0.0014747 欠唇
+TOKEN[68]: 0.0014607    2 baked
+	baked WORD[68,   1]: 0.0007303 お欠き
+	baked WORD[68,   2]: 0.0007303 御欠き
+TOKEN[69]: 0.0014595    1 stone
+	stone WORD[69,   1]: 0.0014595 打ち欠く
+TOKEN[70]: 0.0014589    1 shred
+	shred WORD[70,   1]: 0.0014589 欠片
+TOKEN[71]: 0.0014589    1 ounce
+	ounce WORD[71,   1]: 0.0014589 欠片
+TOKEN[72]: 0.0014332    2 set
+	set WORD[72,   1]: 0.0008960 残欠
+	set WORD[72,   2]: 0.0005372 欠ける
+TOKEN[73]: 0.0013790    2 failure
+	failure WORD[73,   1]: 0.0006895 欠礼
+	failure WORD[73,   2]: 0.0006895 欠点
+TOKEN[74]: 0.0013623    1 insertion
+	insertion WORD[74,   1]: 0.0013623 欠字
+TOKEN[75]: 0.0013537    2 fault
+	fault WORD[75,   1]: 0.0006769 欠点
+	fault WORD[75,   2]: 0.0006768 欠陥
+TOKEN[76]: 0.0013493    1 intermittent
+	intermittent WORD[76,   1]: 0.0013493 間欠
+TOKEN[77]: 0.0012982    1 cleft
+	cleft WORD[77,   1]: 0.0012982 欠唇
+TOKEN[78]: 0.0012931    2 fried
+	fried WORD[78,   1]: 0.0006466 お欠き
+	fried WORD[78,   2]: 0.0006466 御欠き
+TOKEN[79]: 0.0012779    1 vacant
+	vacant WORD[79,   1]: 0.0012779 欠員
+TOKEN[80]: 0.0012518    1 rejection
+	rejection WORD[80,   1]: 0.0012518 欠格
+TOKEN[81]: 0.0012496    1 conscience
+	conscience WORD[81,   1]: 0.0012496 欠片
+TOKEN[82]: 0.0012413    1 flawless
+	flawless WORD[82,   1]: 0.0012413 無欠
+TOKEN[83]: 0.0012401    1 lip
+	lip WORD[83,   1]: 0.0012401 欠唇
+TOKEN[84]: 0.0012145    1 supplementation
+	supplementation WORD[84,   1]: 0.0012145 補欠
+TOKEN[85]: 0.0011830    2 thin
+	thin WORD[85,   1]: 0.0005915 お欠き
+	thin WORD[85,   2]: 0.0005915 御欠き
+TOKEN[86]: 0.0011793    2 dried
+	dried WORD[86,   1]: 0.0005897 お欠き
+	dried WORD[86,   2]: 0.0005897 御欠き
+TOKEN[87]: 0.0011694    1 trace
+	trace WORD[87,   1]: 0.0011694 欠片
+TOKEN[88]: 0.0011588    1 scrap
+	scrap WORD[88,   1]: 0.0011588 欠片
+TOKEN[89]: 0.0011561    1 works
+	works WORD[89,   1]: 0.0011561 残欠
+TOKEN[90]: 0.0011496    1 radical
+	radical WORD[90,   1]: 0.0011496 欠伸
+TOKEN[91]: 0.0011448    1 respect
+	respect WORD[91,   1]: 0.0011448 欠字
+TOKEN[92]: 0.0011182    1 passage
+	passage WORD[92,   1]: 0.0011182 欠文
+TOKEN[93]: 0.0011099    1 volume
+	volume WORD[93,   1]: 0.0011099 欠本
+TOKEN[94]: 0.0010881    1 sentence
+	sentence WORD[94,   1]: 0.0010881 欠文
+TOKEN[95]: 0.0010755    1 indispensable
+	indispensable WORD[95,   1]: 0.0010755 不可欠
+TOKEN[96]: 0.0010615    1 deputy
+	deputy WORD[96,   1]: 0.0010615 補欠
+TOKEN[97]: 0.0010591    2 cut
+	cut WORD[97,   1]: 0.0005296 お欠き
+	cut WORD[97,   2]: 0.0005296 御欠き
+TOKEN[98]: 0.0010499    1 dearth
+	dearth WORD[98,   1]: 0.0010499 欠乏
+TOKEN[99]: 0.0010319    1 alternate
+	alternate WORD[99,   1]: 0.0010319 補欠
+TOKEN[100]: 0.0010209    1 essential
+	essential WORD[100,   1]: 0.0010209 不可欠
+TOKEN[101]: 0.0010155    1 sign
+	sign WORD[101,   1]: 0.0010155 欠字
+TOKEN[102]: 0.0010151    1 truth
+	truth WORD[102,   1]: 0.0010151 欠片
+TOKEN[103]: 0.0010106    1 shortcoming
+	shortcoming WORD[103,   1]: 0.0010106 欠点
+TOKEN[104]: 0.0009958    1 privation
+	privation WORD[104,   1]: 0.0009958 欠如
+TOKEN[105]: 0.0009957    1 drawback
+	drawback WORD[105,   1]: 0.0009957 欠点
+TOKEN[106]: 0.0009880    1 filling
+	filling WORD[106,   1]: 0.0009880 補欠
+TOKEN[107]: 0.0009843    1 deficient
+	deficient WORD[107,   1]: 0.0009843 欠ける
+TOKEN[108]: 0.0009715    1 insufficiency
+	insufficiency WORD[108,   1]: 0.0009715 欠乏
+TOKEN[109]: 0.0009610    1 deformity
+	deformity WORD[109,   1]: 0.0009610 欠陥
+TOKEN[110]: 0.0009481    1 spare
+	spare WORD[110,   1]: 0.0009481 補欠
+TOKEN[111]: 0.0009268    1 substitute
+	substitute WORD[111,   1]: 0.0009268 補欠
+TOKEN[112]: 0.0009164    1 sick
+	sick WORD[112,   1]: 0.0009164 病欠
+TOKEN[113]: 0.0009138    1 writing
+	writing WORD[113,   1]: 0.0009138 欠文
+TOKEN[114]: 0.0009113    1 state
+	state WORD[114,   1]: 0.0009113 残欠
+TOKEN[115]: 0.0009113    1 absent
+	absent WORD[115,   1]: 0.0009113 欠ける
+TOKEN[116]: 0.0008918    1 position
+	position WORD[116,   1]: 0.0008918 欠員
+TOKEN[117]: 0.0008889    1 chipped
+	chipped WORD[117,   1]: 0.0008889 欠ける
+TOKEN[118]: 0.0008853    1 type
+	type WORD[118,   1]: 0.0008853 欠字
+TOKEN[119]: 0.0008850    1 scarcity
+	scarcity WORD[119,   1]: 0.0008850 欠乏
+TOKEN[120]: 0.0008677    1 nick
+	nick WORD[120,   1]: 0.0008677 欠く
+TOKEN[121]: 0.0008632    1 number
+	number WORD[121,   1]: 0.0008632 欠番
+TOKEN[122]: 0.0008541    1 illness
+	illness WORD[122,   1]: 0.0008541 病欠
+TOKEN[123]: 0.0008427    1 voyage
+	voyage WORD[123,   1]: 0.0008427 欠航
+TOKEN[124]: 0.0008296    1 removed
+	removed WORD[124,   1]: 0.0008296 欠損
+TOKEN[125]: 0.0008224    1 deficit
+	deficit WORD[125,   1]: 0.0008224 欠損
+TOKEN[126]: 0.0008153    1 wanting
+	wanting WORD[126,   1]: 0.0008153 欠ける
+TOKEN[127]: 0.0008127    1 due
+	due WORD[127,   1]: 0.0008127 病欠
+TOKEN[128]: 0.0008068    1 eclipse
+	eclipse WORD[128,   1]: 0.0008068 欠ける
+TOKEN[129]: 0.0008037    1 courtesy
+	courtesy WORD[129,   1]: 0.0008037 欠礼
+TOKEN[130]: 0.0007963    1 weakness
+	weakness WORD[130,   1]: 0.0007963 欠点
+TOKEN[131]: 0.0007912    1 failing
+	failing WORD[131,   1]: 0.0007912 欠点
+TOKEN[132]: 0.0007759    1 attendance
+	attendance WORD[132,   1]: 0.0007759 出欠
+TOKEN[133]: 0.0007614    1 want
+	want WORD[133,   1]: 0.0007614 欠乏
+TOKEN[134]: 0.0007459    1 leave
+	leave WORD[134,   1]: 0.0007459 病欠
+TOKEN[135]: 0.0007415    1 grade
+	grade WORD[135,   1]: 0.0007415 欠点
+TOKEN[136]: 0.0007405    1 suspension
+	suspension WORD[136,   1]: 0.0007405 欠配
+TOKEN[137]: 0.0007284    1 crack
+	crack WORD[137,   1]: 0.0007284 欠く
+TOKEN[138]: 0.0006795    1 weak
+	weak WORD[138,   1]: 0.0006795 欠点
+TOKEN[139]: 0.0006780    1 examination
+	examination WORD[139,   1]: 0.0006780 欠点
+TOKEN[140]: 0.0006693    1 team
+	team WORD[140,   1]: 0.0006693 欠ける
+TOKEN[141]: 0.0006681    1 lost
+	lost WORD[141,   1]: 0.0006681 欠ける
+TOKEN[142]: 0.0006642    1 fail
+	fail WORD[142,   1]: 0.0006642 欠かす
+TOKEN[143]: 0.0006642    1 miss
+	miss WORD[143,   1]: 0.0006642 欠かす
+TOKEN[144]: 0.0006494    1 meal
+	meal WORD[144,   1]: 0.0006494 欠食
+TOKEN[145]: 0.0006451    1 moon
+	moon WORD[145,   1]: 0.0006451 欠ける
+TOKEN[146]: 0.0006436    1 pay
+	pay WORD[146,   1]: 0.0006436 欠礼
+TOKEN[147]: 0.0006378    1 cutting
+	cutting WORD[147,   1]: 0.0006378 欠課
+TOKEN[148]: 0.0006297    1 loss
+	loss WORD[148,   1]: 0.0006297 欠損
+TOKEN[149]: 0.0006259    1 something
+	something WORD[149,   1]: 0.0006259 欠缺
+TOKEN[150]: 0.0005947    1 sea
+	sea WORD[150,   1]: 0.0005947 欠航
+TOKEN[151]: 0.0005709    1 taking
+	taking WORD[151,   1]: 0.0005709 欠場
+TOKEN[152]: 0.0005307    1 point
+	point WORD[152,   1]: 0.0005307 欠点
+TOKEN[153]: 0.0005151    1 school
+	school WORD[153,   1]: 0.0005151 欠課
+TOKEN[154]: 0.0005093    1 work
+	work WORD[154,   1]: 0.0005093 欠勤
+TOKEN[155]: 0.0005076    1 become
+	become WORD[155,   1]: 0.0005076 欠ける
+TOKEN[156]: 0.0004767    1 go
+	go WORD[156,   1]: 0.0004767 欠ける
+TOKEN[157]: 0.0002958    1 one
+	one WORD[157,   1]: 0.0002958 欠礼
